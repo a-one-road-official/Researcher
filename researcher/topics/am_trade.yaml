@@ -1,0 +1,53 @@
+# 非樹脂3Dプリンティング（金属AM中心）の国内プレイヤー：会社の骨格と輸入・輸出の事実
+title: 非樹脂3DP 国内プレイヤー 会社ファクト（輸出入・組織・採用・保守・沿革・発言）
+input: researcher/inputs/am_trade.csv
+columns: {name: 社名, url: 公式URL, aliases: 別名, context: 文脈}
+
+# 会社概要の表から、見出しの言い方ごとに拾う
+profile_keys:
+  資本金: [資本金]
+  従業員数: [従業員, 社員数, 従業者, 人員]
+  設立: [設立, 創業, 創立]
+  代表者: [代表者, 代表取締役, 社長, 代表]
+  役員: [役員, 取締役, 監査役]
+  所在地: [所在地, 本社, 住所]
+  売上高: [売上高, 売上, 年商]
+  事業内容: [事業内容, 事業概要, 営業品目, 業務内容, 取扱品目, 事業]
+  拠点: [拠点, 事業所, 営業所, 支店, 工場, 海外拠点, 関連会社, グループ会社]
+  取引先: [主要取引先, 取引先, 仕入先, 販売先, 納入先]
+  取引銀行: [取引銀行]
+  許認可: [許可, 認証, 登録, ISO, JIS Q]
+
+# 文章のうち、この言葉を含む行をそのまま引用する
+evidence:
+  輸入: [輸入, 総代理店, 日本代理店, 正規代理店, 販売代理店, 独占販売, 国内販売権, 代理店契約, distributor, import]
+  輸出: [輸出, 海外販売, 海外向け, 海外売上, 海外営業, 貿易, export, overseas, 海外拠点, 現地法人]
+  採用: [採用実績, 採用人数, 新卒採用, 中途採用, 募集職種, 名採用, 名入社, 職種, 初任給, 募集要項]
+  組織: [組織図, 事業部, 本部, 部門, 営業部, 技術部, 管理部, 部署]
+  サービス: [サービス, 製品, 取扱製品, ソリューション, 受託, 造形, 販売]
+  保守: [保守, メンテナンス, アフターサービス, 点検, 修理, サポート, 保証, 据付, 立ち上げ, トレーニング]
+  沿革: [沿革]
+  発言: [社長, 代表取締役, インタビュー, 語る, 創業者, メッセージ, 想い]
+
+# 公式サイト内でたどるページ（リンクの文字やURLにこれが入っていれば読む）
+subpage_keywords: [会社概要, 会社案内, 企業情報, 企業概要, 沿革, 歴史, 組織, 事業, 製品, 取扱, サービス, 採用, リクルート,
+  募集, 拠点, アクセス, IR, 決算, 有価証券, 社長, メッセージ, ごあいさつ, 挨拶, 保守, メンテナンス, サポート, 海外,
+  company, about, profile, corporate, outline, gaiyo, gaiyou, history, enkaku, organization, soshiki, recruit, career,
+  saiyo, business, product, service, support, ir, message, global, overseas, pdf]
+
+# 画像を OCR する目印（組織図・採用の数字は画像のことが多い）
+image_keywords: [組織, soshiki, organization, organisation, chart, 採用, recruit, saiyo, 沿革, history, 数字, number,
+  data, 概要, gaiyo, outline, 拠点, map, global]
+
+# 3回目：公式以外の情報源（名前の表記ゆれは自動で当てる）
+external_queries:
+  - "{name} 会社概要 資本金 従業員"
+  - "{name} 採用 新卒 中途 採用実績"
+  - "{name} 社長 インタビュー"
+  - "{name} 日刊工業新聞"
+  - "{name} 輸出 海外"
+  - "{name} 総代理店 OR 代理店 契約"
+  - "{name} 沿革"
+  - "{name} 組織図"
+
+limits: {pages: 30, subpages: 25, pdfs: 8, images: 12, external_per_query: 3}

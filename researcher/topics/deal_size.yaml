@@ -1,0 +1,35 @@
+# 案件1件あたりの単価と市場規模を、AI受託・ライブコマース・広告・Web3・ソフト受託・金属AMで並べる（引用のみ）
+kind: market
+title: 案件単価と市場規模の比較（AI受託・コマース・広告・Web3・ソフト受託・金属AM）
+input: researcher/inputs/deal_size.csv
+columns: {name: 品目, en: 英語名, aliases: 別名, context: 文脈}
+
+# この言葉を含む行をそのまま引用する（品目名を含むページに限る）
+evidence:
+  案件単価: [単価, 案件, 受注額, 契約金額, 発注額, 費用相場, 相場, 開発費, 予算, 月額, 年間契約, 万円, cost to develop, average project, pricing, per project]
+  市場規模: [市場規模, 市場は, 億円, 兆円, 億ドル, market size, market was valued, valued at, market is expected to reach, market is projected, "USD", billion, million]
+  成長率: [CAGR, 年平均成長率, 年平均, 年率, 成長率, 前年比, 前年同期比, compound annual, growing at, grow at, year-over-year, YoY, "% growth", 倍増, 拡大]
+  上位シェア: [シェア, 占め, 寡占, 独占, 首位, 上位, market share, share of, accounted for, account for, top five, top 5, top three, top 3, top ten, dominat, leader, concentrat, fragmented, consolidated, HHI]
+  主要企業: [主要企業, 主要プレイヤー, 主な企業, 参入企業, 社が参入, key players, major players, leading players, prominent players, key companies, competitive landscape, players operating, companies profiled, startups]
+  投資: [資金調達, 調達額, 投資額, 出資, funding, raised, investment, invested, venture capital, VC]
+
+# 数字の入っていない行は捨てる区分
+numeric: [案件単価, 市場規模, 成長率, 上位シェア, 投資]
+
+# 引用行から数字だけ抜いて品目ごとに並べる（区分|正規表現。最初のグループが値）
+figure_patterns:
+  CAGR: '成長率|(?:CAGR|年平均成長率|compound annual growth rate)[^0-9]{0,40}?(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+  上位シェア%: '上位シェア|(\d{1,3}(?:\.\d{1,2})?)\s*[%％]'
+
+external_queries:
+  - "{name} 費用 相場 案件 単価"
+  - "{name} 受注 万円 契約"
+  - "{name} 市場規模 CAGR"
+  - "{name} 市場 シェア 上位 企業"
+  - "{name} 市場 前年比 2025"
+  - "{en} market size CAGR 2025"
+  - "{en} market share top players percent"
+  - "{en} market competitive landscape fragmented OR consolidated"
+  - "{en} market key companies share 2025"
+
+limits: {pages: 45, external_per_query: 5, per_cat: 15}

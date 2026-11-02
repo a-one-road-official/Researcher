@@ -1,0 +1,7 @@
+requests>=2.32,<3
+beautifulsoup4>=4.12
+lxml>=5
+pypdf>=6,<7
+playwright>=1.49
+ddgs>=9,<10
+pyyaml>=6
