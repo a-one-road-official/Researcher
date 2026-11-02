@@ -1,0 +1,2034 @@
+{
+ "name": "Prodrive",
+ "aliases": [
+  "Prodrive Advanced Technology",
+  "プロドライブ"
+ ],
+ "context": "レース・複合材・技術（英）",
+ "researched_at": "2026-11-02T14:56:04.412000+00:00",
+ "official_url": "https://www.prodrive.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Our expertise and dedication have made us the driving force behind some of the greatest names and achievements in world motorsport. From the design and manufacture of cutting-edge cars to the full operation and management of elite works teams, we provide a comprehensive turnkey operation.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We design, develop, and produce solutions across the mobility sector and redefine what possible means for our customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management through to low volume production. This enables us to significantly de-risk and accelerate New Product Introduction for our customers.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "We specialize in complete turnkey solutions, from original concept to whole lifecycle production, carefully combining many of our engineering capabilities to deliver advanced functions.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "We draw on our extensive experience working across different technologies to support solutions that meet and exceed our clients’ requirements in terms of performance, cost, mass and reliability.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "With in-house facilities we can deliver a concept from a blank sheet of paper, or a donor vehicle, through to development and validation into production. We offer a flexible service up to a full turnkey solution, combining our engineering pedigree with our logistics, supply chain management and quality management functions.",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Turnkey solution - Typhon",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey solution - Typhon",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey solution - Typhon",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey solution - Typhon",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "Handmade Carbon Fibre",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Sim Engineering LM Pro with 5 rotary dials, 12 push buttons & carbon fibre paddles",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We design, develop, and produce solutions across the mobility sector and redefine what possible means for our customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management through to low volume production. This enables us to significantly de-risk and accelerate New Product Introduction for our customers.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether the build of complete modules ready for fitment on your production line is required, or the production of complex vehicle systems, Prodrive Advanced Tecnhology can manage low volume programmes.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether the build of complete modules ready for fitment on your production line or the production of complex vehicle systems, low volume production programmes are a key strength of Prodrive.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Our portfolio of prestigious customers demonstrates we are the partner of choice for the design and supply of premium, intelligent interiors.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, we design, develop and produce game-changing active aero systems for multiple platforms.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Our portfolio of luxury customers demonstrates we are the partner of choice for the design and supply of premium, intelligent interiors.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, amongst other projects, we have developed systems for game-changing active aero systems for multiple platforms.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "A state-of-the-art clean room and on-site manufacturing facilities mean we can fast track programmes from concept to production. Our experience in vehicle integration allows us to deliver finished systems directly to the production line for plug-and-play operation.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "With in-house facilities we can deliver a concept from a blank sheet of paper, or a donor vehicle, through to development and validation into production. We offer a flexible service up to a full turnkey solution, combining our engineering pedigree with our logistics, supply chain management and quality management functions.",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "It differs from similar stability systems which work by applying braking at each wheel. It monitors driver inputs, compares them with the vehicle using an electronic control unit, then controls torque via the differentials. The system reacts in less than 70 milliseconds, around a third of the time of other systems.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "At launch, the Brand& supplies bespoke, branded clothing and accessories to front-running racing teams and road-car manufacturers. It would go on to add major clients inclduing football clubs and high profile sporting organisations.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The P2’s engine is fitted with Prodrive’s Anti-Lag System (ALS) derived from the Impreza World Rally Car and also features Prodrive’s ATD™. The chassis was based on a modified Subaru R1 steel monocoque, with styling led by Peter Stevens.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Sir Ben Ainslie Ainslie turns to Prodrive Advanced Technology to give his Land Rover Ben Ainslie Racing (BAR) team an innovative edge. Prodrive produces the control systems for the boat’s foils and sail, enabling it to rise out of the water and ‘fly’, and manufactures the electrical wiring harnesses to withstand the extreme, salt-water environment.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive’s Hummingbird folding bike is released using natural, flax fibres as an alternative to carbon fibre. It is the samer material that Prodrive uses it with customers for structural parts such as the rear wing and bodywork on Aston Martin’s Vantage GT racing cars.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "From helping engineer the original design, crafting carbon fibre and sustainable flax fibre frames, to the assembly of every model, every bike has always contained Prodrive DNA.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "For Prodrive, the achievement reflects the successful integration of multiple technical systems into a highly specialised vehicle, while demonstrating the value of motorsport engineering expertise in one of the world’s most challenging automotive environments.",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Before heading to the United States, the programme underwent an extensive UK testing phase at RAF Wittering in Cambridgeshire. Starting with early runs at 177mph and eventually reaching 208mph, the testing programme allowed the team to validate the vehicle’s systems, refine hydrogen refuelling procedures and build the operational discipline required for a successful record campaign.",
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "pass": 1
+   },
+   {
+    "quote": "Working alongside JCB and Ricardo, Prodrive has applied its motorsport expertise to support the vehicle integration, systems validation and trackside operations, helping to develop a complete package capable of operating consistently and safely under extreme conditions.",
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "pass": 1
+   },
+   {
+    "quote": "management, design, development, procurement, manufacture, assembly and supply of components and",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "systems for prototype and production products for Original Equipment Manufacturers, Tier One suppliers, and",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Quality Assurance, Quality Control, Supplier Quality Assurance  ",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Celebrating 40 Years of Prodrive: Part 2 - Prodrive Composites & Looking Forward",
+    "url": "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard power systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Etch & deposition power systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Power supplier - Quasar",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Cabinets and infrastructure",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure & energy",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1993, Netherlands-based Prodrive designs and manufactures high-tech electronics, software and mechatronic products and systems. In 2025, Prodrive Technologies operated five dedicated Business Lines and three highly automated manufacturing sites. The company owned subsidiaries in Europe, the U.S., China, and Japan.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": ", including various replacement and maintenance components, helping customers find the right parts for their vehicles at competitive prices. Our goal is to make sourcing automotive parts simple, convenient, and dependable.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you are looking for a specific replacement part or sourcing different automotive components,",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "From engine and brake components to suspension parts, electrical systems, and accessories, ProDrive Auto Solutions offers a wide range of automotive parts to help meet your vehicle's needs.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "for help finding the right automotive parts for your vehicle. From engines and transmissions to brake, suspension, electrical, body, and other automotive components, we offer a wide selection of quality parts at",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Quality Auto Parts Supplier – USA",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "for cars, trucks, SUVs, and vans, including engines, transmissions, suspension components, body parts, electrical components, lighting, wheels, and more. With competitive pricing, fast nationwide shipping, and dependable customer service,",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard power systems",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Etch & deposition power systems",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated systems",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Power supplier - Quasar",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Cabinets and infrastructure",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure & energy",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "- Robotized systems assembly",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard power systems",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Etch & deposition power systems",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated systems",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Power supplier - Quasar",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Cabinets and infrastructure",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure & energy",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Onboard power systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Etch & deposition power systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated systems",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Power supplier - Quasar",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Cabinets and infrastructure",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure & energy",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "The agreement provides a framework for long-term collaboration between both companies. It brings together Fortaegis’ expertise in secure and high-performance computing, networking and distributed infrastructure with Prodrive Technologies’ engineering, system integration, industrialization and manufacturing capabilities.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration will commence with Prodrive Technologies supporting areas such as engineering, system integration, supply chain management and advanced manufacturing. The companies will also explore joint customer engagement, market development and participation in relevant Dutch and European innovation programs.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortaegis Technologies develops advanced integrated hardware and software technologies for secure computing, networking and distributed infrastructures.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are relentlessly curious, fast-thinking and moving advanced engineering and manufacturing partner that draws upon brilliant minds from multiple disciplines. We challenge conventional thinking, accelerate business growth and redefine what possible means for our customers across a variety of sectors.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "25 years after the introduction of the WRC97, the P25 is a modern interpretation of the rally icon. Reimagined, redefined and recreated using championship-winning DNA to deliver the ultimate competition car for the road.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "£49,000 excluding VAT, duties and shipping",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "A relentlessly curious, fast-thinking and moving advanced technology, engineering and manufacturing partner that draws upon brilliant minds from multiple disciplines to challenge conventional thinking, accelerate business growth and redefine what possible means for our customers across a variety of sectors.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Under a single roof, our Advanced Technology team works across the engineering and production disciplines required to bring clients’ ideas to life. Drawing on a wealth of experience working on different vehicles and technologies we provide not only precision engineering but complete solutions from a blank sheet through to low volume production.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-disciplinary teams are here to take the pain out of difficult production projects and get quality solutions to market quickly. This is achieved by using our proprietary New Product Introduction approach, trusted by some of the best brands in the industry.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Launched in September 2024, ELM Mobility is a collaboration between Prodrive and Astheimer Design to create the first ground-up, electric, fit-for-purpose Last Mile delivery platform.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the worlds biggest brands",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, we design, develop and produce game-changing active aero systems for multiple platforms.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, amongst other projects, we have developed systems for game-changing active aero systems for multiple platforms.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We also help brands achieve success in motorsport and are the business behind some of the greatest names and achievements in global motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO, Brand&",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand&",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive is the world’s most successful multi-disciplined motorsport businesses and the name behind some of the greatest achievements in world motorsport. No other business has won so many titles across such a wide range of motorsport disciplines.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Lifestyle",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A trusted partner for prestigious sports and lifestyle brands, offering innovative, bespoke clothing, merchandise, and accessories with end-to-end service, from design and production to global marketing and distribution.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "EXPLORE BRAND&",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Saeed Al-Hajri win the very first event for the team, on the Qatar Rally, and would go on to take the inaugural FIA Middle East Rally Championship for the fledgling team, a feat the Qatari would repeat the following year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Mcrae takes 4th in British Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive run Jimmy McRae, multiple British Rally Champion in a Group B, MG Metro 6R4. He wins the Ulster Rally, finishes fourth in the British Championship and eighth in the end of season RAC Rally. The brutally fast Group B cars are banned at the end of the year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive transforms the BMW M3 into a rally contender. France’s Bernard Béguin wins rallies in the French and European Championships and, convincingly, the Tour de Corse in the FIA World Rally Championship (WRC). A rare WRC victory for a non-works team but the first of many for Prodrive.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW want to concentrate on the track in the UK. Frank Sytner, BMW dealer, meets with David Richards and the result is Prodrive’s first foray into circuit racing in the British Touring Car Championship (BTCC).",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The BMW Rally operation expands with wins in France by Bernard Béguin and François Chatriot, in Italy by Andrea Zanussi, and in Belgium with Patrick Snijers. He also wins the Belgian Rally Championship and an iconic Manx International Rally victory in the European Rally Championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "François Chatriot claims French Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Frenchman François Chatriot wins five rounds of the French Rally Championship to take the title – the Rallye Alpin-Behra, the Rallye du Mont-Blanc, the Rally d’Antibes, Rallye National Jeanne d’Arc and the Rallye du Var. Winning the French Championship was a feat he would repeat the following season.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive begins a relationship with Subaru",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive begins a relationship with a vehicle manufacturer, known only by a few outside of its home country Japan for minivans and pick-up trucks, Subaru.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Group A Legacy RS makes its competition debut in the 1990 Safari Rally before going to on to compete in more FIA World Rally Championship events throughout the year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991 was Prodrive’s first rally title on home ground. 23-year-old Colin McRae drives a Subaru Legacy to victory in Yorkshire, Ireland, Scotland, and on the Isle of Man to become the youngest-ever British Rally Championship winner.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Mcrae wins all six rounds of the British Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "McRae wins all six rounds of the British Rally Championship in a Subaru Legacy to claim the title, including the Ulster Rally by over 11 minutes and then pipping Tommi Mäkinen by two seconds to the the Welsh Rally.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "New Zealand’s Peter ‘Possum’ Bourne wins the first of 2 successive Asia-Pacific Rally Championship titles. He wins in an Leagcy in 1993 and then again in the new Impreza in 1994.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "First of two Asia-Pacific Rally Championships for Bourne",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive wins both the WRC titles for Manufacturers with Subaru and Drivers with Colin McRae, the first Briton to take the title. Every round of the championship was memorable, running double World Champion, Carlos Sainz alongside Colin McRae, but Colin wins in New Zealand and on the final RAC Rally, to finish ahead of Carlos in the championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive contested the 1995 BTCC season with the Alfa Romeo Old Spice Racing team, finishing in eighth out of sixteen teams in the Team’s Championship. Derek Warwick, Gabriele Tarquini and Giampiero Simoni shared driving duties across the season.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Subaru World Rally Team wins the World Rally Championship for Manufacturers for the second consecutive season. Colin McRae wins the Acropolis, Sanremo and Catalunya rallies.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Subaru takes the World Rally Championship manufacturers’ title for a third consecutive season, with Kenneth Eriksson winning in Sweden and New Zealand, and Piero Liatti in Monte Carlo. Eriksson also claims the Asia-Pacific Championship drivers’ title whilst helping Subaru secure the manufacturers’ crown.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive returns to the BTCC with Team Honda Sport. James Thompson finishes fifth in the Drivers’ Championship, whilst Honda comes third in the manufacturers’ table.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our expertise and dedication have made us the driving force behind some of the greatest names and achievements in world motorsport. From the design and manufacture of cutting-edge cars to the full operation and management of elite works teams, we provide a comprehensive turnkey operation.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Motorsport",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The P2 was a one-off prototype two-seater sports car created by Prodrive and revealed in 2006 at the Autosport show in the UK.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "The Volvo Lounge Console replaces the front passenger seat to provide the rear occupant with optimal space and legroom.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "A hypercar manufacturer needed to develop their existing design into a fully working electro-hydraulic system but had extremely tight space constraints and deadlines.",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "By combining our motorsport culture with a free thinking approach, Prodrive creates innovative engineering solutions to rapid timescales, helping our customers to realise their ambitions.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We also help brands achieve success in motorsport and are the business behind some of the greatest names and achievements in global motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive has more than 500 people across our headquarters in Banbury and our electrical wiring facility in Shropshire. Our innovative approach to problem solving has been borne out of our motorsport culture. Successful racing teams combine the skillsets of speed, capability and teamwork but ultimately innovation. We’ve taken our motorsport DNA and applied it to all areas of our business.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For the last three decades, Prodrive has transferred its skills and agile approach to developing innovative engineering solutions for businesses in the automotive, aerospace, marine and other industry sectors.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive is the world’s most successful multi-disciplined motorsport businesses and the name behind some of the greatest achievements in world motorsport. No other business has won so many titles across such a wide range of motorsport disciplines.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Motorsport",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Where sophistication meets innovation. Our exclusive collection includes our state-of-the-art lightweight folding bicycle and unparalleled racing simulator. Designed for discerning tastes, for those who desire the finer things in life.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A trusted partner for prestigious sports and lifestyle brands, offering innovative, bespoke clothing, merchandise, and accessories with end-to-end service, from design and production to global marketing and distribution.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "David Richards Autosport, the business venture started by the former FIA World Rally Champion navigator together with Ian Parry, became Prodrive in 1984.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive Advanced Technology is formed to take the best technology from Prodrive Motorsport and apply it to other market sectors. Since its formation it has become an important partner in its own right the automotive, aerospace, marine, and other sectors, bringing innovative ideas to market.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive returns to the BTCC with Team Honda Sport. James Thompson finishes fifth in the Drivers’ Championship, whilst Honda comes third in the manufacturers’ table.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Honda Sport’s drivers have mixed fortunes. James Thompson wins multiple races and finishes third in the drivers’ championship. Teammate Peter Kox is hampered by bad luck, meaning the team finish fourth in the manufacturers’ standings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Honda Sport have mixed fortunes",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "At launch, the Brand& supplies bespoke, branded clothing and accessories to front-running racing teams and road-car manufacturers. It would go on to add major clients inclduing football clubs and high profile sporting organisations.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Revealed in 2006 at the Autosport show in the UK, the P2 was a one-off prototype two-seater sports car created using the the skills an expertise of the wider Prodrive team to demonstrate how motorsport technology could be used in conventional automotive applications.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "After Cambridge University research, Prodrive engineers work 7 days a week to rapidly evolve a production-ready design using widely available parts made of medically appropriate materials for use in Africa. The Open Ventilator System Initiative (OVSI) productionise and manufacture the design in South Africa. The project receives a Royal Academy of Engineering’s President’s Special Award.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "AMR partner team TF Sport reach the top step",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Aston Martin Vantage GTE claims another victory as AMR partner team, TF Sport, conquer the GTE Am class at the 24 Hours of Le Mans. The NorthWest AMR team complete a strong weekend performance by finishing on the same class podium in third.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Corporate, Motorsport",
+    "url": "https://www.prodrive.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Team",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "25 years after the introduction of the WRC97, the P25 is a modern interpretation of the rally icon. Reimagined, redefined and recreated using championship-winning DNA to deliver the ultimate competition car for the road.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Saeed Al-Hajri win the very first event for the team, on the Qatar Rally, and would go on to take the inaugural FIA Middle East Rally Championship for the fledgling team, a feat the Qatari would repeat the following year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Mcrae takes 4th in British Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive run Jimmy McRae, multiple British Rally Champion in a Group B, MG Metro 6R4. He wins the Ulster Rally, finishes fourth in the British Championship and eighth in the end of season RAC Rally. The brutally fast Group B cars are banned at the end of the year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive transforms the BMW M3 into a rally contender. France’s Bernard Béguin wins rallies in the French and European Championships and, convincingly, the Tour de Corse in the FIA World Rally Championship (WRC). A rare WRC victory for a non-works team but the first of many for Prodrive.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW want to concentrate on the track in the UK. Frank Sytner, BMW dealer, meets with David Richards and the result is Prodrive’s first foray into circuit racing in the British Touring Car Championship (BTCC).",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The BMW Rally operation expands with wins in France by Bernard Béguin and François Chatriot, in Italy by Andrea Zanussi, and in Belgium with Patrick Snijers. He also wins the Belgian Rally Championship and an iconic Manx International Rally victory in the European Rally Championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "François Chatriot claims French Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Frenchman François Chatriot wins five rounds of the French Rally Championship to take the title – the Rallye Alpin-Behra, the Rallye du Mont-Blanc, the Rally d’Antibes, Rallye National Jeanne d’Arc and the Rallye du Var. Winning the French Championship was a feat he would repeat the following season.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Group A Legacy RS makes its competition debut in the 1990 Safari Rally before going to on to compete in more FIA World Rally Championship events throughout the year.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991 was Prodrive’s first rally title on home ground. 23-year-old Colin McRae drives a Subaru Legacy to victory in Yorkshire, Ireland, Scotland, and on the Isle of Man to become the youngest-ever British Rally Championship winner.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Mcrae wins all six rounds of the British Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "McRae wins all six rounds of the British Rally Championship in a Subaru Legacy to claim the title, including the Ulster Rally by over 11 minutes and then pipping Tommi Mäkinen by two seconds to the the Welsh Rally.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "New Zealand’s Peter ‘Possum’ Bourne wins the first of 2 successive Asia-Pacific Rally Championship titles. He wins in an Leagcy in 1993 and then again in the new Impreza in 1994.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "First of two Asia-Pacific Rally Championships for Bourne",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive wins both the WRC titles for Manufacturers with Subaru and Drivers with Colin McRae, the first Briton to take the title. Every round of the championship was memorable, running double World Champion, Carlos Sainz alongside Colin McRae, but Colin wins in New Zealand and on the final RAC Rally, to finish ahead of Carlos in the championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "To commemorate both driver and manufacturer titles, Prodrive produced a UK built run of limited edition Subaru Imprezas, the Series McRae. Limited to 200 cars, all were painted in Rally Blue mica and included unique Recaro seats, unique badges and numbered plaques on the centre console.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive contested the 1995 BTCC season with the Alfa Romeo Old Spice Racing team, finishing in eighth out of sixteen teams in the Team’s Championship. Derek Warwick, Gabriele Tarquini and Giampiero Simoni shared driving duties across the season.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Subaru World Rally Team wins the World Rally Championship for Manufacturers for the second consecutive season. Colin McRae wins the Acropolis, Sanremo and Catalunya rallies.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Subaru takes the World Rally Championship manufacturers’ title for a third consecutive season, with Kenneth Eriksson winning in Sweden and New Zealand, and Piero Liatti in Monte Carlo. Eriksson also claims the Asia-Pacific Championship drivers’ title whilst helping Subaru secure the manufacturers’ crown.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive returns to the BTCC with Team Honda Sport. James Thompson finishes fifth in the Drivers’ Championship, whilst Honda comes third in the manufacturers’ table.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Honda Sport’s drivers have mixed fortunes. James Thompson wins multiple races and finishes third in the drivers’ championship. Teammate Peter Kox is hampered by bad luck, meaning the team finish fourth in the manufacturers’ standings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive partnered with Ford for the 1999 British Touring Car Championship, under the Team Mondeo banner, with Anthony Reid and Alain Menu as drivers. Menu scores Team Mondeo’s first win at Knockhill in Scotland and the team place sixth in the manufacturers’ standings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive-run Ford Mondeos take first, second and third positions in the BTCC after Prodrive bring engine development in-house. Alain Menu comes out ahead of Anthony Reid and Rickard Rydell respectively with the championship going to down to the penultimate lap of the last race.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Richard Burns wins the drivers’ World Rally Championship",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Frédéric Dor commisions Prodrive to develop the Ferrari 550 GTS Maranello and at only its second race in the FIA GT Championship, Rikard Rydell and Peter Kox dominate the opposition, putting the car on pole position and winning the race by 48 seconds.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of the occasion will be the Subaru Impreza in which Burns secured the 2001 World Rally Championship at the season-ending Network Q Rally of Great Britain. Alongside it will be another of Burns’ title-winning campaign cars, the Subaru Impreza driven on the Safari Rally Kenya.",
+    "url": "https://www.prodrive.com/news/prodrive-to-celebrate-richard-burns/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, the cars represent a season that remains one of the most memorable in FIA World Rally Championship history. Across fourteen rounds, Burns combined speed, consistency and determination to secure the title against one of the strongest fields of the modern era, ultimately becoming only the second British, and to date the only English driver to be crowned World Rally Champion.",
+    "url": "https://www.prodrive.com/news/prodrive-to-celebrate-richard-burns/",
+    "pass": 1
+   },
+   {
+    "quote": "LV DC-DC - MP series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "HV DC-DC - Zenith series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Compact series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "LV DC-DC - MP series",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "HV DC-DC - Zenith series",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Compact series",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "LV DC-DC - MP series",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "HV DC-DC - Zenith series",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Compact series",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "LV DC-DC - MP series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "HV DC-DC - Zenith series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Compact series",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "FIA World Rally Championship",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "From dominating the World Rally Championship with Subaru to conquering Le Mans with Aston Martin, Prodrive has spent four decades turning manufacturer ambitions into trophies. This 500-person British outfit builds the cars, runs the teams, and engineers the moments that define motorsport. In the latest episode of",
+    "url": "https://www.hagerty.com/media/videos/larry-chen-visits-prodrive-the-brains-behind-the-worlds-greatest-race-teams/",
+    "pass": 3
+   },
+   {
+    "quote": "Of all the series in which it races, Prodrive has perhaps become most famous in the World Rally Championship. If you know any one of its cars, it’s probably the #555 Subaru Impreza that Colin McRae campaigned in the ’90s. You won’t wanna miss Chen’s chat with David Lapworth, who’s been around since the very beginning of Prodrive’s 20-odd-year relationship with Subaru. He’s seen it all.",
+    "url": "https://www.hagerty.com/media/videos/larry-chen-visits-prodrive-the-brains-behind-the-worlds-greatest-race-teams/",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive has a long history of producing niche vehicles across proof of concept, prototype and production build stages. With customers ranging from global OEMs to start-ups, we apply the same process and rigour to deliver vehicles to the highest of standards.",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive has a long history of producing niche vehicles across proof of concept, prototype and production build stages. With customers ranging from global OEMs to start-ups, we apply the same process and rigour to deliver vehicles to the highest of standards.",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "HRH The Prince Philip, Duke of Edinburgh tours Prodrive, viewing the Subaru World Rally Team’s preparations for Wales Rally GB and Aston Martin race cars being built. The Duke meets with employees, Petter Solberg, and Darren Turner. He is presented with a bespoke carbon-fibre shooting stick and carbon-fibre horse stirrups as a gift for Her Majesty Queen Elizabeth II.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-supports-jcb-hydromax-as-challenger-passes-200mph/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1993, Netherlands-based Prodrive designs and manufactures high-tech electronics, software and mechatronic products and systems. In 2025, Prodrive Technologies operated five dedicated Business Lines and three highly automated manufacturing sites. The company owned subsidiaries in Europe, the U.S., China, and Japan.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "” said Boudewijn Wijnands, Founder and CEO of Fortaegis Technologies.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Pieter Janssen, Founder and CEO of Prodrive Technologies, added:",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commissioned by vintage events promoter HERO-ERA, we rebuilt a 1967 Ford Mustang Fastback from the ground up to take on the Peking to Paris Motor Challenge, am epic 37-day, 14,000-km trek.",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Transit",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "We helped Ford create the first Transit PHEV (Plug-in Hybrid Electric Vehicle).",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "pass": 1
+   },
+   {
+    "quote": "Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive entered the Pharaohs Rally, a rally-raid event, with a version of the twin-turbo Porsche 959 with Saeed Al-Hajri at the wheel. Porsche entered its own Weissach-built 959 with Jacky Ickx, but a stone went through its oil cooler on the first stage. Prodrive’s 959, went on to win. The 500bhp car did not have a single issue during the course of the event.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive moves to the North Oxfordshire town of Banbury, becoming a landmark location alongside the M40.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive transforms the BMW M3 into a rally contender. France’s Bernard Béguin wins rallies in the French and European Championships and, convincingly, the Tour de Corse in the FIA World Rally Championship (WRC). A rare WRC victory for a non-works team but the first of many for Prodrive.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW want to concentrate on the track in the UK. Frank Sytner, BMW dealer, meets with David Richards and the result is Prodrive’s first foray into circuit racing in the British Touring Car Championship (BTCC).",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Rally expands with wins in France, Italy & Belgium",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "The BMW Rally operation expands with wins in France by Bernard Béguin and François Chatriot, in Italy by Andrea Zanussi, and in Belgium with Patrick Snijers. He also wins the Belgian Rally Championship and an iconic Manx International Rally victory in the European Rally Championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared alongside the rally cars, Sytner dominates Class B with class wins in 11 out of 12 rounds in his BMW M3 to take the overall title which is decided based on class placings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Alongside Sainz and McRae, the campaign includes appearances by Possum Bourne and Richard Burns but the Prodrive-run Subaru World Rally Team finishes second in the manufacturers’ standings after a season-long battle with Toyota.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive returns to the BTCC with Team Honda Sport. James Thompson finishes fifth in the Drivers’ Championship, whilst Honda comes third in the manufacturers’ table.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive & Honda in the BTCC",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Honda Sport’s drivers have mixed fortunes. James Thompson wins multiple races and finishes third in the drivers’ championship. Teammate Peter Kox is hampered by bad luck, meaning the team finish fourth in the manufacturers’ standings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Honda Sport have mixed fortunes",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive partnered with Ford for the 1999 British Touring Car Championship, under the Team Mondeo banner, with Anthony Reid and Alain Menu as drivers. Menu scores Team Mondeo’s first win at Knockhill in Scotland and the team place sixth in the manufacturers’ standings.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive partner with Ford as Team Mondeo",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive-run Ford Mondeos take first, second and third positions in the BTCC after Prodrive bring engine development in-house. Alain Menu comes out ahead of Anthony Reid and Rickard Rydell respectively with the championship going to down to the penultimate lap of the last race.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Richard Burns wins the drivers’ title in the WRC finishing just two points ahead of Colin McRae’s Ford Focus in a completely redeveloped Impreza. Petter Solberg joins the team, scoring a best result that year of second place at the Acropolis Rally.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive establishes joint venture with Ford Australia",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive establishes a joint venture with Ford Australia, Ford Performance Vehicles (FPV), to re-engineer its road car range. The result was that FPV was regularly able to outsell its main rival, Holden Special Vehicles.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive develops the Ferrari 550 GTS Maranello",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Frédéric Dor commisions Prodrive to develop the Ferrari 550 GTS Maranello and at only its second race in the FIA GT Championship, Rikard Rydell and Peter Kox dominate the opposition, putting the car on pole position and winning the race by 48 seconds.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Ferrari takes to America",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Despite missing six rounds, the Prodrive-developed Ferrari 550 GTS Maranello still places fifth in the American Le Mans Series (ALMS) GTS standings, competing in the 12 Hours of Sebring and then the final three races of the ALMS calendar.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Prodrive wins a GT class at the 24 Hours of Le Mans for the first time with drivers Peter Kox, Tomáš Enge and Jamie Davies in the No.88 Ferrari 550 GTS Maranello.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "After purchasing Glenn Seton Racing in late 2002, it is renamed Ford Performance Racing and becomes the first official Ford factory team in Australia since 1973. First season highlights include a Phillip Island win and a second-place finish at Bathurst. Craig Lowndes finishes the year fifth in the championship.",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Performance Racing become an official factory team",
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-to-celebrate-richard-burns/",
+    "pass": 1
+   },
+   {
+    "quote": "JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.",
+    "url": "https://www.prodrive.com/news/prodrive-supports-jcb-hydromax-as-challenger-passes-200mph/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-supports-jcb-hydromax-as-challenger-passes-200mph/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxford OX16 4XD,",
+    "url": "https://www.prodrive.com/news/prodrive-and-british-motorsports-marshals-club-celebrate-british-racing-orange-with-new-three-year-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "4年かけて古いALFA ROMEOをFERRARIエンジン搭載のスーパーカーに改造",
+    "url": "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "pass": 3
+   },
+   {
+    "quote": "Audio - video distribution",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "💲 Competitive & Affordable Pricing",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Audio - video distribution",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Audio - video distribution",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Audio - video distribution",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Spring That Got Toyota BANNED From Rally",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "The Ford Racing Legends America Never Saw | Ford Racing",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Racing、Speeed",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "The Porsche rally project",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Racing",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "The SECRETS Behind Toyota’s Dominant WRC Car",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.",
+    "url": "https://www.prodrive.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "the Prodrive Motorsport Division.",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Sales & Marketing  ",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Prodrive Technologies Group B.V. (“Prodrive”) today announced consolidated revenues of €504 million for 2025, compared to €552 million in 2024, and a net profit of €40 million, equal to the prior year.",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptions may apply to parts located on vehicles that have not yet been dismantled or in other specific circumstances. Our sales team will communicate any applicable exceptions or estimated pickup times when you place your order.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "~90% of our development and production capacity in the Netherlands",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales contact:",
+    "url": "https://wooptix.com/wooptix-and-prodrive-strategic-partnership/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "🍂 November Morning Bossa Nova Jazz - Warm Autumn Coffee Music for Focus and Study",
+    "url": "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "pass": 3
+   },
+   {
+    "quote": ", including various replacement and maintenance components, helping customers find the right parts for their vehicles at competitive prices. Our goal is to make sourcing automotive parts simple, convenient, and dependable.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer a wide selection of quality automotive parts and accessories to meet a variety of vehicle repair, maintenance, and replacement needs. Our goal is to provide reliable products at competitive prices while making it easy for customers to find the right parts for their vehicles.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "while helping our customers find the products they need for their repair, maintenance, and replacement requirements.",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Prodrive Technologies - LinkedIn — Prodrive Technologies - LinkedIn LinkedIn https://my.linkedin.com > company",
+    "url": "https://my.linkedin.com/company/prodrivetechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Advanced Technology capabilities - YouTube — Prodrive Advanced Technology capabilities - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Advanced Technology — Prodrive Advanced Technology Prodrive https://www.prodrive.com > advance...",
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Prodrive - Latest Job Opportunites - Fluidjobs — Careers at Prodrive - Latest Job Opportunites - Fluidjobs Fluidjobs https://fluidjobs.com > companies > p...",
+    "url": "https://fluidjobs.com/companies/prodrive-3667922",
+    "pass": 3
+   },
+   {
+    "quote": "Delivery! Why Prodrive Developed this Tiny Commercial Vehicle — Delivery! Why Prodrive Developed this Tiny Commercial Vehicle Racecar Engineering https://www.racecar-engineering.com > ...",
+    "url": "https://www.racecar-engineering.com/articles/technology/delivery-why-prodrive-has-developed-this-tiny-commercial-vehicle/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive - Overview, News & Similar companies | ZoomInfo.com — Prodrive - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > prodriv...",
+    "url": "https://www.zoominfo.com/c/prodrive-ltd/31359262",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies announces 2025 financial results — Prodrive Technologies announces 2025 financial results Prodrive Technologies https://prodrive-technologies.com > p...",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies B.V.'s Competitors, Revenue ... - Owler — Prodrive Technologies B.V.'s Competitors, Revenue ... - Owler Owler https://www.owler.com > company",
+    "url": "https://www.owler.com/company/prodrive-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive : Revenue , Competitors, Alternatives - Growjo — Prodrive : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Prodrive",
+    "url": "https://growjo.com/company/Prodrive",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Information - RocketReach — Prodrive Information - RocketReach RocketReach https://rocketreach.co > prodrive-prof...",
+    "url": "https://rocketreach.co/prodrive-profile_b5c672cef42e0c86",
+    "pass": 3
+   },
+   {
+    "quote": "About - ProDrive Auto Solutions — About - ProDrive Auto Solutions prodriveautosolutions.us https://prodriveautosolutions.us > about",
+    "url": "https://prodriveautosolutions.us/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing services | Prodrive Technologies — Manufacturing services | Prodrive Technologies Prodrive Technologies https://prodrive-technologies.com > ...",
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies - LinkedIn — Prodrive Technologies - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/prodrivetechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "At Prodrive Technologies, Operations is where planning ... — At Prodrive Technologies, Operations is where planning ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/prodrivetech/videos/at-prodrive-technologies-operations-is-where-planning-precision-and-technology-c/1773532410756770/",
+    "pass": 3
+   },
+   {
+    "quote": "PRODRIVE ADVANCED TECHNOLOGY SCOPE — PRODRIVE ADVANCED TECHNOLOGY SCOPE Prodrive PDF https://www.prodrive.com > app > uploads > 2024/11",
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive - LinkedIn — Prodrive - LinkedIn LinkedIn https://uk.linkedin.com > prodrive",
+    "url": "https://uk.linkedin.com/company/prodrive",
+    "pass": 3
+   },
+   {
+    "quote": "Defense solutions - Prodrive Technologies — Defense solutions - Prodrive Technologies Prodrive Technologies https://prodrive-technologies.com > d...",
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive : Home — Prodrive : Home Prodrive https://www.prodrive.com",
+    "url": "https://www.prodrive.com/",
+    "pass": 3
+   },
+   {
+    "quote": "prodrive Jobs in United Kingdom | Motorsportjobs.com — prodrive Jobs in United Kingdom | Motorsportjobs.com Motorsportjobs.com https://www.motorsportjobs.com > jobs",
+    "url": "https://www.motorsportjobs.com/en/jobs/prodrive/united-kingdom",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive helps fast-track Ford's new PHEV van program — Prodrive helps fast-track Ford's new PHEV van program SAE International https://www.sae.org > Articles",
+    "url": "https://www.sae.org/articles/prodrive-helps-fast-track-fords-new-phev-van-program-sae-ma-02688",
+    "pass": 3
+   },
+   {
+    "quote": "Wooptix and Prodrive Technologies sign declaration of intent ... — Wooptix and Prodrive Technologies sign declaration of intent ... Wooptix https://wooptix.com > wooptix-and-p...",
+    "url": "https://wooptix.com/wooptix-and-prodrive-strategic-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies and Fortaegis Technologies sign ... — Prodrive Technologies and Fortaegis Technologies sign ... Prodrive Technologies https://prodrive-technologies.com > p...",
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies Innovation Services B.V. - ITEA 4 — Prodrive Technologies Innovation Services B.V. - ITEA 4 itea4.org https://itea4.org > organisation > 234...",
+    "url": "https://itea4.org/organisation/23450-prodrive-technologies-innovation-services-b-v.html",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive Technologies | Partner Profile - NXP Semiconductors — Prodrive Technologies | Partner Profile - NXP Semiconductors NXP https://www.nxp.com > connect > dis...",
+    "url": "https://www.nxp.com/webapp/connect/displayPartnerProfile.sp?partnerId=33641",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive's founder David Richards reflects on five decades in ... — Prodrive's founder David Richards reflects on five decades in ... Facebook https://www.facebook.com > ArabNews > posts > prodriv...",
+    "url": "https://www.facebook.com/ArabNews/posts/prodrives-founder-david-richards-reflects-on-five-decades-in-the-gulf-from-organ/1443634311134912/",
+    "pass": 3
+   },
+   {
+    "quote": "David Richards REACTS: 40 Years of Prodrive - YouTube — David Richards REACTS: 40 Years of Prodrive - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "pass": 3
+   },
+   {
+    "quote": "Larry Chen Visits Prodrive , the Brains Behind the World's ... — Larry Chen Visits Prodrive , the Brains Behind the World's ... Hagerty https://www.hagerty.com > media > videos > larry-chen-v...",
+    "url": "https://www.hagerty.com/media/videos/larry-chen-visits-prodrive-the-brains-behind-the-worlds-greatest-race-teams/",
+    "pass": 3
+   },
+   {
+    "quote": "Prodrive - Wikipedia — Prodrive - Wikipedia Wikipedia https://en.wikipedia.org > Prodrive",
+    "url": "https://en.wikipedia.org/wiki/Prodrive",
+    "pass": 3
+   },
+   {
+    "quote": "Congratulations David Lapworth, aka 'Lappy' on 40 years at ... — Congratulations David Lapworth, aka 'Lappy' on 40 years at ... Facebook https://www.facebook.com > ... > Prodrive > Videos",
+    "url": "https://www.facebook.com/prodriveofficial/videos/congratulations-david-lapworth-aka-lappy-on-40-years-at-prodrivedavid-has-worked/1163608081506052/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prodrive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/motorsport/specialist-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/advanced-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/advanced-technology/production-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/advanced-technology/production-products/active-aero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/advanced-technology/niche-vehicles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/about-us/prodrive-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-to-celebrate-richard-burns/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-supports-jcb-hydromax-as-challenger-passes-200mph/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prodrive.com/news/prodrive-and-british-motorsports-marshals-club-celebrate-british-racing-orange-with-new-three-year-partnership/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://my.linkedin.com/company/prodrivetechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/prodrive-ltd/31359262",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/prodrive-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prodriveautosolutions.us/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prodrive-technologies.com/en/manufacturing-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/prodrivetechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/prodrive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prodrive-technologies.com/en/markets/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wooptix.com/wooptix-and-prodrive-strategic-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/prodrivetechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ArabNews/posts/prodrives-founder-david-richards-reflects-on-five-decades-in-the-gulf-from-organ/1443634311134912/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hagerty.com/media/videos/larry-chen-visits-prodrive-the-brains-behind-the-worlds-greatest-race-teams/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prodrive engineering services clients other industries",
+   "results": [
+    "https://my.linkedin.com/company/prodrivetechnologies",
+    "https://www.youtube.com/watch?v=3k_h7V2P6zI",
+    "https://www.prodrive.com/advanced-technology/",
+    "https://fluidjobs.com/companies/prodrive-3667922",
+    "https://www.racecar-engineering.com/articles/technology/delivery-why-prodrive-has-developed-this-tiny-commercial-vehicle/",
+    "https://itea4.org/organisation/23450-prodrive-technologies-innovation-services-b-v.html",
+    "https://prodrive-technologies.com/en/let-s-discuss-your-challenge/",
+    "https://uk.indeed.com/q-prodrive-jobs.html",
+    "https://en.wikipedia.org/wiki/Prodrive",
+    "https://www.prodrive.com/"
+   ]
+  },
+  {
+   "query": "Prodrive revenue turnover employees",
+   "results": [
+    "https://www.zoominfo.com/c/prodrive-ltd/31359262",
+    "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/",
+    "https://www.owler.com/company/prodrive-technologies",
+    "https://growjo.com/company/Prodrive",
+    "https://rocketreach.co/prodrive-profile_b5c672cef42e0c86",
+    "https://craft.co/prodrive-technologies",
+    "https://www.oxfordmail.co.uk/news/25499808.prodrive-announces-operating-loss-despite-47-turnover-rise/",
+    "https://www.prodrive.com/about-us/",
+    "https://www.cbinsights.com/company/prodrive-technologies/financials",
+    "https://compworth.com/company/prodrive-technologies"
+   ]
+  },
+  {
+   "query": "Prodrive supplies components to OEM",
+   "results": [
+    "https://prodriveautosolutions.us/about/",
+    "https://prodrive-technologies.com/en/manufacturing-services/",
+    "https://www.linkedin.com/company/prodrivetechnologies",
+    "https://www.facebook.com/prodrivetech/videos/at-prodrive-technologies-operations-is-where-planning-precision-and-technology-c/1773532410756770/",
+    "https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf",
+    "https://www.ebay.com/shop/prodrive-subaru?_nkw=prodrive+subaru",
+    "https://www.racecar-engineering.com/articles/technology/delivery-why-prodrive-has-developed-this-tiny-commercial-vehicle/",
+    "https://www.instagram.com/prodriveautoparts9/",
+    "https://prodriveautoparts.com/?srsltid=AYCX9vKNGvB9d5yIt_Kam_ThKsAEiIMn1ZYpAv-AZ7K6jM-_wbYFjZC9",
+    "https://prodrive-technologies.com/en/"
+   ]
+  },
+  {
+   "query": "Prodrive aerospace defence non-automotive",
+   "results": [
+    "https://uk.linkedin.com/company/prodrive",
+    "https://prodrive-technologies.com/en/markets/defense/",
+    "https://www.prodrive.com/",
+    "https://www.motorsportjobs.com/en/jobs/prodrive/united-kingdom",
+    "https://www.sae.org/articles/prodrive-helps-fast-track-fords-new-phev-van-program-sae-ma-02688",
+    "https://en.wikipedia.org/wiki/Prodrive",
+    "https://www.composites.media/company/prodrive-composites",
+    "https://prodrive-technologies.com/",
+    "https://caseboard.io/cases/aaee2478-cccc-4c53-b175-9a3198715d45",
+    "https://www.prodrive.com/advanced-technology/production-products/active-aero/"
+   ]
+  },
+  {
+   "query": "Prodrive licensing technology partnership",
+   "results": [
+    "https://wooptix.com/wooptix-and-prodrive-strategic-partnership/",
+    "https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/",
+    "https://www.linkedin.com/company/prodrivetechnologies",
+    "https://itea4.org/organisation/23450-prodrive-technologies-innovation-services-b-v.html",
+    "https://www.nxp.com/webapp/connect/displayPartnerProfile.sp?partnerId=33641",
+    "https://www.intel.com/content/www/us/en/partner/showcase/storefront/a5S3b00000052fYEAQ/prodrive-technologies.html",
+    "https://www.facebook.com/prodrivetech/videos/at-prodrive-technologies-operations-is-where-planning-precision-and-technology-c/1773532410756770/",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://www.embedded-world.de/en/exhibitors/prodrive-technologies-bv-2611733",
+    "https://en.wikipedia.org/wiki/Prodrive"
+   ]
+  },
+  {
+   "query": "Prodrive founder early days first customer funding",
+   "results": [
+    "https://www.facebook.com/ArabNews/posts/prodrives-founder-david-richards-reflects-on-five-decades-in-the-gulf-from-organ/1443634311134912/",
+    "https://www.youtube.com/watch?v=Xcq58VVl8IE",
+    "https://www.hagerty.com/media/videos/larry-chen-visits-prodrive-the-brains-behind-the-worlds-greatest-race-teams/",
+    "https://en.wikipedia.org/wiki/Prodrive",
+    "https://www.facebook.com/prodriveofficial/videos/congratulations-david-lapworth-aka-lappy-on-40-years-at-prodrivedavid-has-worked/1163608081506052/",
+    "https://www.prodrive.com/about-us/",
+    "https://www.motorauthority.com/news/1027706_its-official-aston-martin-sold-to-consortium-led-by-prodrive-boss-david-richards",
+    "https://www.youtube.com/watch?v=l31pnBHYe7Y",
+    "https://www.evo.co.uk/features/204856/my-life-cars-david-richards-chairman-prodrive",
+    "https://tracxn.com/d/companies/prodrive/__39fBirB42npFStT5yXhl_yrF35blKjPQhyEBs1YjAhU"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）"
+ }
+}

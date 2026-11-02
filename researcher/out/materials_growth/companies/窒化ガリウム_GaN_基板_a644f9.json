@@ -1,0 +1,2014 @@
+{
+ "name": "窒化ガリウム（GaN）基板",
+ "en": "gallium nitride substrate",
+ "aliases": [
+  "GaN wafer",
+  "GaN-on-GaN",
+  "GaN基板"
+ ],
+ "context": "パワー・高周波",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:58:34.312222+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のGaN基板市場は、2025年に2億9,230万米ドルと評価され、2026年には3億2,260万米ドル、2035年までに8億6,120万米ドルに達すると予測されており、2026年から2035年にかけて約11.5%の年平均成長率（CAGR）で拡大する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場規模は2025年に1億2,465万米ドルとなり、このうち中国が8,289万米ドルを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は2025年の2億9,226万米ドルから2035年までに8億6,115万米ドルへ拡大すると見込まれますが、すべての基板形態で一様に拡大するわけではありません",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-SiC基板の市場規模は2025年に8,386万米ドルとなり、2035年には2億5,477万米ドルに達すると予測され、年平均成長率（CAGR）は約11.86%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のGaN基板市場規模、基板タイプ別、2022〜2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-Si基板の市場規模は2025年に4,172万米ドルとなり、2035年には1億380万米ドルに達すると予測され、年平均成長率（CAGR）は約9.66%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-Sapphire基板の市場規模は2025年に5,701万米ドルとなり、2035年には1億5,145万米ドルに達すると予測され、年平均成長率（CAGR）は約10.39%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルクGaN基板の市場規模は2025年に8,624万米ドルとなり、2035年には3億1,507万米ドルに達すると予測され、基板タイプ別では最も高い約13.89%の年平均成長率（CAGR）となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-diamond、GaN-on-AlN、エンジニアード接合基板などを含むその他のカテゴリーの市場規模は、2025年に2,344万米ドルとなり、2035年には3,607万米ドルに達すると予測され、年平均成長率（CAGR）は約4.39%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2インチ未満のカテゴリーの市場規模は2025年に5,699万米ドルとなり、2035年には1億4,947万米ドルに達すると予測され、年平均成長率（CAGR）は約10.23%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "4インチ区分の市場規模は2025年に8,476万米ドルとなり、年平均成長率（CAGR）約12.06%で成長し、2035年には2億6,204万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場規模は、2026年には24億6000万米ドルと評価され、2034年までに79億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%です",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム単結晶基板 市場規模、成長、予測 2032",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化ガリウム単結晶基板市場規模は2025年に1億2,200万ドルで、このレポートは2026年から2032年までの市場の成長、傾向、機会、予測をカバーしています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "Reportprime によると、市場は 2025 年の 1 億 2,200 万ドルから 2032 年までに 2 億 1,453 万ドルに増加し、7.31% の CAGR で成長すると予想されており、基板の品質がいかに戦略的な差別化要因となっているかを浮き彫りにしています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム (GaN) 単結晶基板市場は着実に進歩しており、世界的な CAGR は 7.31% に達しており、これにより収益が増加します",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "、中国市場は約2倍に膨れ上がる",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム（GaN）単結晶基板市場は依然として適度に集中しており、最大サプライヤー10社が2025年に予想される収益プール1億2,200万米ドルのほぼ4分の3を獲得している",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の窒化ガリウム単結晶基板市場規模はどれくらいでしたか？",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム単結晶基板市場規模は2025年に1億2,200万米ドルでした",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "SiCパワー半導体世界市場：1,410億円（6.9倍）自動車・電装分野向けが拡大",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "GaNパワー半導体世界市場：450億円（32.1倍）中高耐圧領域での製品ラインアップの拡大に期待",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1,410億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiC-SBD（ショットキー・バリア・ダイオード）は、2016年に参入企業の増加と製品ラインアップの拡大が進んだことにより市場は170億円となり、今後も堅調に拡大していくとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiC-FET（フィールド・エフェクト・トランジスタ）は、市場が立ち上がって間もないが、着実に拡大を続けており、2016年の市場は35億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2015年頃から600V級の中耐圧領域の製品化や本格的な営業展開が始まったことによりアプリケーションの適用範囲が広がり、2016年の市場は14億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年頃に量産が開始され、2020年の市場は10億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2023年頃からSiCパワー半導体よりも優位性が際立ってくるとみられ、2025年には700億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2兆4,020億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2兆9,239億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1,860億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2兆4,239億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3兆1,799億円",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2016年の市場は、自動車・電装分野向けの需要が好調で2兆4,239億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2017年以降も市場は堅調に拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測」市場調査レポートの出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測」市場調査レポートの出版・販売開始のご案内",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZはMarketsandMarkets（マーケッツアンドマーケッツ）の英文調査報告書「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測-GaN Substrate Market - Global Forecast To 2032」の販売を2026年8月14日に開始いたしました",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン・アズ・ア・サービス（DaaS）の市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルシースナックの市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器受託製造の市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツアナリティクスの市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "グリッドフォーミングインバータの市場規模、成長と動向分析レポート 2026-2033年（Grand View Research）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体とは｜SiC・GaN・酸化ガリウム（Ga₂O₃）の違いと市場規模を比較 #028 ｜株式会社IBLC",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体とは｜SiC・GaN・酸化ガリウム（Ga₂O₃）の違いと市場規模を比較 #028",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体市場は2035年に2兆5,000億円超へ拡大する",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済の2026年予測では、パワー半導体の世界市場は2035年に7兆3,495億円に達し、うち次世代パワー半導体が2兆5,077億円を占める",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済はSiCパワーモジュールの世界市場が2025年の3,506億円から2035年に1兆8,749億円へと5.3倍に拡大すると予測する",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のGaN基板市場は、2025年に2億9,230万米ドルと評価され、2026年には3億2,260万米ドル、2035年までに8億6,120万米ドルに達すると予測されており、2026年から2035年にかけて約11.5%の年平均成長率（CAGR）で拡大する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の電気自動車販売台数は1,700万台を超え、中国が1,100万台超を占めたことで、車載充電器、DC-DCコンバーターなど、GaN対応電力段の対象市場が拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は2025年の2億9,226万米ドルから2035年までに8億6,115万米ドルへ拡大すると見込まれますが、すべての基板形態で一様に拡大するわけではありません",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "バルクGaNは最も急速な成長が見込まれる基板タイプであり、2025年の8,624万米ドルから2035年には3億1,507万米ドルに拡大し、年平均成長率（CAGR）は約13.89%となる見通しです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車は最も急速に成長する最終用途産業であり、3,611万米ドルから2億1,529万米ドルに拡大し、CAGRは約19.67%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "6インチ超のウェーハカテゴリーは、1億668万米ドルから3億5,738万米ドルに増加し、CAGRは約12.96%となる見通しであり、より大口径の製造インフラへのアクセスが商業上重要であることを反映しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "5G技術の普及拡大は、高周波用途に最適なGaNデバイスにとって大きなビジネスチャンスとなる",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場規模は、2026年には24億6000万米ドルと評価され、2034年までに79億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%です",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年までに堅調に拡大",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "7.31% CAGR",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "Reportprime によると、市場は 2025 年の 1 億 2,200 万ドルから 2032 年までに 2 億 1,453 万ドルに増加し、7.31% の CAGR で成長すると予想されており、基板の品質がいかに戦略的な差別化要因となっているかを浮き彫りにしています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム (GaN) 単結晶基板市場は着実に進歩しており、世界的な CAGR は 7.31% に達しており、これにより収益が増加します",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "、中国市場は約2倍に膨れ上がる",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体が2032年に向けて複合年率7.31 %という健全なペースで拡大する中でも、結晶成長装置における規模の優位性、蓄積された知的財産、下流デバイスメーカーとの緊密な連携により、確立されたグループはシェアを守ることができる",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "SiCパワー半導体世界市場：1,410億円（6.9倍）自動車・電装分野向けが拡大",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "GaNパワー半導体世界市場：450億円（32.1倍）中高耐圧領域での製品ラインアップの拡大に期待",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiC-SBD（ショットキー・バリア・ダイオード）は、2016年に参入企業の増加と製品ラインアップの拡大が進んだことにより市場は170億円となり、今後も堅調に拡大していくとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiC-FET（フィールド・エフェクト・トランジスタ）は、市場が立ち上がって間もないが、着実に拡大を続けており、2016年の市場は35億円となった",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2017年以降も市場は堅調に拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体のSiCパワー半導体は、2017年以降に6インチウエハーの積極採用が進み製品戦略が活発化することにより、市場拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、GaNパワー半導体は、中耐圧領域の需要が動き出す2020年頃から本格的な市場拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "次々世代パワー半導体は、酸化ガリウム系パワー半導体の量産が2018年頃から開始され、市場が拡大しはじめるとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiCパワー半導体向け製造装置は、SiCパワー半導体の量産に向けた設備投資が2017年から2018年にかけて進むため市場拡大が予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2018年以降にウエハーや半導体市場が拡大するとみられ、設備投資による装置市場の拡大が期待される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に年平均成長率（CAGR）12.5%で推移し、2026年の6億2,000万米ドルから2032年には12億5,000万米ドルに達するとMarketsandMarketsでは予測しています",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場の成長に影響を与える要因の分析：促進要因（産業用途でのGaNパワーデバイス採用の急増、5GおよびRF用途でのGaN基板需要の拡大）、抑制要因（GaN基板製造に伴う技術的課題、代替技術との競合）、機会（カーボンフットプリント削減への注力、GaN-on-Silicon技術の進歩）、課題（シリコンに対するコスト競争力、複雑なサプライチェーンと標準化の欠如）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体市場は2035年に2兆5,000億円超へ拡大する",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済はSiCパワーモジュールの世界市場が2025年の3,506億円から2035年に1兆8,749億円へと5.3倍に拡大すると予測する",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "GaNパワー半導体の世界市場は2025年の585億円から2035年に3,169億円へと5.4倍に拡大する見通しだ",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界の窒化ガリウムパワー半導体市場は、2026年に23億米ドル規模となり、予測期間中にCAGR22.5％で成長し、2034年には115億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社の予測では、GaNパワー半導体市場は2023年から2030年にかけて年平均成長率が約28.6%に達し、2030年には世界市場規模が約20億ドルに達すると見込まれています",
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの市場調査会社Yole Groupは、2022年から2028年まで、GaNパワー半導体市場が年平均成長率（CAGR）49％で急成長すると予測しています（図4）",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "図4 GaNデバイスの市場は、2022年から2028年の間に年率49％のペースで急成長",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yole Groupによると、パワーGaNデバイス市場は2020年から2025年にかけて10倍以上に成長してきており、2024〜2030年に年平均成長率42%で急成長し、2030年には29億ドル規模に達する見込みである（参考資料",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "同分野は2024年から2030年まで年平均成長率73%で成長し、2024年の2000万米ドルから2030年には約5億米ドル規模にまで成長するとYoleは予測している",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は、年平均53%で成長し、2024年の2900万米ドルから3億8000万米ドルにまで拡大し市場全体の13%を占める規模になる見込みである",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global GaN substrate market was valued at USD 292.3 million in 2025 and is projected to reach USD 322.6 million in 2026 and USD 861.2 million by 2035, expanding at an approximately 11.5% CAGR from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The <2-inch category registered USD 56.99 million in 2025 and is projected to reach USD 149.47 million by 2035, at an approximately 10.23% CAGR. Demand is concentrated in research, specialty lasers, prototyping, and defense-oriented device programs, where qualification continuity and specialty performance can support small-lot economics.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 4-inch category was valued at USD 84.76 million in 2025 and is expected to reach USD 262.04 million by 2035, at an approximately 12.06% CAGR. It remains an important production format for RF GaN-on-SiC and mature LED manufacturing. Its future role depends on whether suppliers move high-volume applications toward 6-inch formats without disrupting qualified 4-inch product families.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 6-inch category generated USD 43.84 million in 2025 and is forecast to reach USD 92.27 million by 2035, at an approximately 7.78% CAGR. The comparatively slower growth reflects a transition period: device manufacturers must qualify larger wafers, adapt process flows, and demonstrate yields before diameter benefits are fully reflected in substrate revenue.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Electronics was the largest end-use segment in 2025, at USD 91.90 million, and is expected to reach USD 189.45 million by 2035 at an approximately 7.61% CAGR. Mature LED and charger applications constrain growth, while micro-LED displays and premium fast-charging products create demand for higher-grade substrates.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Telecommunications generated USD 70.94 million in 2025 and is projected to reach USD 189.45 million by 2035, at an approximately 10.44% CAGR. 5G densification and continued deployment of massive-MIMO architectures sustain RF demand, but operator capital expenditure and the choice between GaN-on-SiC and GaN-on-Si will determine revenue distribution across substrate types.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense generated USD 14.94 million in 2025 and is projected to reach USD 47.36 million by 2035, at an approximately 12.35% CAGR. Applications include AESA radar, electronic warfare, satellite communications, and high-power laser systems. These programs favor proven, reliable substrates and can be less sensitive to price than commercial-market applications.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare represented USD 12.31 million in 2025 and is expected to reach USD 43.06 million by 2035, at an approximately 13.46% CAGR. UV-C LEDs for sterilization and emerging biosensing applications are the principal demand sources, with performance requirements concentrated around wavelength control, reliability, and material quality.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Energy & Power was valued at USD 36.34 million in 2025 and is forecast to reach USD 120.56 million by 2035, at an approximately 12.86% CAGR. Renewable-energy inverters, energy-storage converters, and grid-facing power systems can benefit from higher-frequency operation, provided GaN systems meet the required voltage, reliability, and system-cost thresholds.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Others end-use category is projected to increase from USD 29.73 million in 2025 to USD 55.97 million by 2035, at an approximately 5.91% CAGR, supported by research institutions, industrial sensing, and emerging smart-infrastructure applications.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "We expect Asia Pacific to retain the largest revenue base through the forecast period because manufacturing density shortens the connection between substrate supply, epitaxy, device fabrication, and end-market assembly. The region's USD 124.65 million market in 2025 and projected approximately 12.37% CAGR reflect this industrial concentration, not simply higher end-market consumption.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 861.2 million by 2035, growing at a CAGR of 11.5% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride (GaN) Substrates Market Size at 11.75% Growth Rate",
+    "url": "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride (GaN) Substrates Market Size at 11.75% Growth Rate from 2017 to 2022",
+    "url": "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "pass": 3
+   },
+   {
+    "quote": "GaN Semiconductor Devices Market to Grow at 17% CAGR By 2024 and Reach >US$3.4 Billion",
+    "url": "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "結晶品質を向上させながら商業的に有用な直径まで生産規模を拡大できるバルク GaN サプライヤーは、既存の LED 形式のみに注力するサプライヤーよりも、高付加価値のデバイス構成に参入できる可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Group Corporation は、オプトエレクトロニクスおよびパワーデバイス用途向けの化合物半導体材料事業に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wolfspeed は、ワイドバンドギャップ材料およびパワーデバイスの主要企業であり続けている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場の主要企業には、Sumitomo Electric Industries, Ltd.、Wolfspeed、Soitec、Mitsubishi Chemical Group Corporation、Kyma Technologies Inc.などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "原子炉の設計や緩衝剤の化学的性質をカバーする包括的な特許の藪により、グリーンフィールドへの参入は法的にリスクが高い一方、サプライヤーの認定サイクルが特に自動車や航空宇宙において厳しいため、商品化のスケジュールが 5 年以上に延びています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "これは、Reportprime の予測 7.31 % CAGR で 2032 年まで需要が増加するにもかかわらず、新規参入を妨げるハードルです",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "生産効率が高められる6インチSiCウエハーの本格投入が動き始めており、2017年以降は、参入各社が販売に注力するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SiC-SBD（ショットキー・バリア・ダイオード）は、2016年に参入企業の増加と製品ラインアップの拡大が進んだことにより市場は170億円となり、今後も堅調に拡大していくとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "今後は中高耐圧領域での製品ラインアップの拡大や参入企業の増加により市場の活性化が期待される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、参入企業によってはディスクリート単体からモジュール事業にシフトする動きもみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、世界のGaN基板エコシステムで活動する主要企業のバリューチェーン分析、競争環境、および企業プロファイルも含まれています",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のSWOT分析（3社まで）",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的プレゼンス、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル・流通業者・市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "TFLN（薄膜ニオブ酸リチウム）とは？メリット・用途・主要企業を解説",
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレスメーカーがシェア上位に、新規参入の余地あり",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "現時点で、主要プレイヤーの中には、米Navitas Semiconductor、米EPC、カナダGaN Systemsなど、工場を持たないファブレス半導体メーカーがシェアトップ10に名を連ねています",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレス半導体メーカーの新規参入がより容易になりつつあります",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "その一方で、近年、大手パワー半導体メーカーの参入や大型の買収/投資も目立つようになりました",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来有望なGaN事業に多数の企業が参入する中でTSMCのGaN事業撤退はなぜ? - セミコンポータル",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業業績",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来有望なGaN事業に多数の企業が参入する中でTSMCのGaN事業撤退はなぜ?",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場拡大のドライバーと主要プレイヤー",
+    "url": "https://doujinsangyo.jp/gan_guide/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野には、原材料を扱う企業や、GaN層の成長に特化した専門メーカー、設計から製造までを一貫して行う大手半導体企業、さらには設計のみを行うファブレス企業など、さまざまなプレイヤーが参入しています",
+    "url": "https://doujinsangyo.jp/gan_guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN Substrate Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in gan substrate market?",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in gan substrate market include Sumitomo Electric Industries, Ltd., Wolfspeed, Soitec, Mitsubishi Chemical Group Corporation, Kyma Technologies Inc..",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the market include Kyma Technologies, Inc., Kyocera Corporation, Mitsubishi Chemical Corporation, MTI Corporation, NGK Insulators, Ltd.",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of Key Players in the GaN Substrate Market",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the GaN Substrate Market?",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the GaN Substrate Market include Kyma Technologies, Inc., Kyocera Corporation, Mitsubishi Chemical Corporation, MTI Corporation, NGK Insulators, Ltd., Shin-Etsu Chemical Co., Ltd., SOITEC, Sumitomo Chemical Co., Ltd., Toyoda Gosei Co., Ltd., Xiamen Powerway Advanced Material Co., Ltd., and other key players.",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Q5: Who are the major key players dominating the Gallium Nitride Substrates market?",
+    "url": "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape analysis, Market share analysis",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Product portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the gallium nitride substrates market?",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Gallium Nitride Market include",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the Gallium Nitride market?",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Gallium Nitride market include Cree Inc, Infineon Technologies AG, and GaN Systems, among others.",
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.1. Major Players and Strategy Analysis",
+    "url": "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "How is the competitive landscape structured within the Gallium Nitride (GaN) Substrates market?",
+    "url": "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride Power-Device Substrate Competitive Landscape & Industry Outlook 2033",
+    "url": "https://www.datamarketanalysis.com/reports/gallium-nitride-power-device-substrate-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.は、2025年に18.4%を超える市場シェアで首位となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd., Wolfspeed, Soitec, Mitsubishi Chemical Group Corporation, Kyma Technologies Inc.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo ElectricとOsaka Metropolitan Universityは、ダイヤモンド表面の研磨改良とGaN層転写を用いて、2インチの多結晶ダイヤモンド基板上に作製したGaN-HEMTを2025年5月に報告しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd., Sumitomo Electric and Osaka Metropolitan University Successfully Fabricate GaN-HEMT on 2-Inch Polycrystalline Diamond Substrate, May 2025, sumitomoelectric.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は化合物半導体材料に関する高度な専門知識を有しており、Sumitomo Electric による GaN 基板および先進的な熱管理アーキテクチャに関する取り組みなどが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、Sumitomo Electric Industries が 18.4% のシェアを占め、Wolfspeed が 14.5%、Soitec が 12.5%、Mitsubishi Chemical Group Corporation が 9.2%、Kyma Technologies が 7.0% で続いた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd. は、化合物半導体材料に関する専門知識と、長年にわたる GaN 基板開発の実績を組み合わせている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Group Corporation は、オプトエレクトロニクスおよびパワーデバイス用途向けの化合物半導体材料事業に参入している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "同社の地位は、日本の幅広い材料エコシステムと、認定済み専門基板への需要に結び付いている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "DOWA Electronics Materials Co., Ltd. は、アジア太平洋地域の専門化合物半導体材料市場に供給している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporationは、電子材料、センサー、特殊RF用途に事業基盤を有しており、ニッチなGaN材料需要を支える可能性があります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric and Osaka Metropolitan University — 多結晶ダイヤモンド上のGaN-HEMT、2025年5月",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric and Osaka Metropolitan Universityは、2インチの多結晶ダイヤモンド基板上にGaN-HEMTを作製したと発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場の主要企業には、Sumitomo Electric Industries, Ltd.、Wolfspeed、Soitec、Mitsubishi Chemical Group Corporation、Kyma Technologies Inc.などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、中国、日本、韓国などの国々における電子機器製造業の急速な拡大を背景に、窒化ガリウム市場において最も高い成長率を示すと予想されている",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル株式会社||MTI株式会社、蘇州ナノウィン科学技術、北京イノトロニクス・テクノロジー、厦門パワーウェイアドバンストマテリアル",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域、日本、韓国、中国が成熟した LED エコシステムを通じて大量生産を独占",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "三菱化学株式会社",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル株式会社||MTI株式会社",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、韓国、中国を除く):",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": ", 日本は、以下により収益基盤を向上させます",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "日本と米国の既存企業が 2 インチと 4 インチのウェーハを独占している一方、急成長を遂げている中国企業は、パワー エレクトロニクスや RF フロントエンド向けにコストが最適化された 6 インチ フォーマットに注力しています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム単結晶基板市場の成長を牽引している主要な市場プレーヤーには、三菱ケミカル株式会社||MTI株式会社、蘇州ナノウィン科学技術、北京イノトロニクス・テクノロジー、厦門パワーウェイアドバンストマテリアルなどがあります",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 清口正夫 代表取締役）は、採用が着実に広がってきているSiC（炭化ケイ素）やGaN（窒化ガリウム）といった次世代パワー半導体や、これらに続く「次々世代」の酸化ガリウム系やダイヤモンド系のパワー半導体世界市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SEMABIZはMarketsandMarketsの日本の正規代理店です",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "・競争状況の評価：住友化学（日本）、三菱ケミカル（日本）、信越化学工業（日本）、IQE plc（英国）、SOITEC（フランス）など、GaN基板市場の主要プレーヤーの市場シェア、成長戦略、および提供製品・サービスに関する詳細な評価",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "The GaN substrate market is dominated by Sumitomo Chemical Co., Ltd. (Japan), which is followed by Mitsubishi Chemical Corporation (Japan), Shin-Etsu Chemical Co., Ltd. (Japan), SOITEC (France), IQE plc (UK), Wolfspeed Inc. (US), Infineon Technologies AG (Germany), Xiamen Powerway Advanced Material Co., Ltd. (China), NGK Corporation (Japan), and Kyma Technologies (US).",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZは日本の正規代理店としてレポートおよび年間サブスクリプションサービスに関するご質問や見積りなどのお問合せ・ご依頼をお受けしております",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "4. Ga₂O₃（酸化ガリウム）｜超高耐圧を狙う日本発の長期ポテンシャル素材",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "日本勢が戦略の練り直しを迫られる一方で中国勢が一気にシェアを伸ばし、SiCの主導権争いは国家戦略の様相を帯びつつある",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業FLOSFIAが2025年12月に4インチGa₂O₃ウエハーの量産技術を実証するなど、国内勢が先行する",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "SiCはEV調整で短期の踊り場にあるが長期では産業インフラとEVの主役、GaNは生成AI時代のサーバー電源で普及が加速、Ga₂O₃は日本発の長期ポテンシャル素材だ",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、台湾は、GaNデバイスの生産と統合を促進する、確立された半導体製造、パッケージング、および部品サプライチェーンを有しています",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Electric Corporation",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は2020年10月に2050年までにカーボンニュートラルを実現することを宣言し、これを受けて自動車分野ではEV化が推進されています",
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "pass": 3
+   },
+   {
+    "quote": "フォトレジストとは？半導体製造の鍵を握る日本の高性能技術を解説",
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイト / Tokyo Big Sight, Japan",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカルは高品質な4インチの結晶の生産技術を確立し、大阪大学は12インチ化といった大口径・高品質のGaN on GaN基板を作成できる技術を開発しました",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、信越化学工業とOKIは、「QST基板」と呼ぶGaNと熱膨張係数が近い特殊な基板上にGaNの厚膜を形成し、これを任意の基板に転装できる技術を開発しました（",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "をもとにRX Japanで作成",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © RX Japan GK",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (日本)",
+    "url": "https://epc-co.com/epc/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0/what-is-gan",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム基板 | 製品情報｜三菱ケミカル株式会社",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカルグループ株式会社",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル株式会社",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル製の窒化ガリウム（GaN）基板は、自社で永年培ってきたHVPEと呼ばれるエピタキシャル技術と化合物半導体の加工技術を用いた、高品質な単結晶基板です",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCAAT™は、三菱ケミカル株式会社が実施する酸性アモノサーマル技術のブランドネームです",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "この技術は、国立大学法人東北大学、株式会社日本製鋼所及び当社の協力により確立したものです",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "SCAAT™ -LPは、三菱ケミカル株式会社及び株式会社日本製鋼所が実施する低圧酸性アモノサーマル技術のブランドネームです",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "この技術は、国立大学法人東北大学、株式会社日本製鋼所、三菱ケミカル株式会社の３者で共同開発したものです",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "“三菱ケミカル独自の液相成長技術（Super Critical Acidic Ammonia Technology, 以下「SCAAT™」）” という文言を削除",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "国立大学法人東北大学多元物質科学研究所（以下、東北大学）から、当社が実施する酸性アモノサーマル技術（SCAAT™）は、当社独自の技術ではなく、東北大学および株式会社日本製鋼所の協力のもとに確立した技術であるとの指摘がありました",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカル株式会社 GaN事業推進室の製品一覧を見る",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱ケミカルグループ公式アカウント",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "このサイトにおいて、「三菱ケミカルグループ社(MCG)」は三菱ケミカルグループ株式会社を指し、「三菱ケミカルグループ(MCGグループ)」は三菱ケミカルグループ株式会社とそのグループ会社を指します",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   },
+   {
+    "quote": "Copyright © Mitsubishi Chemical Corporation.",
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "GaN基板市場の規模とシェア：2035年統計レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.は、2025年に18.4%を超える市場シェアで首位となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が2025年に合計で61.6%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の電気自動車販売台数は1,700万台を超え、中国が1,100万台超を占めたことで、車載充電器、DC-DCコンバーターなど、GaN対応電力段の対象市場が拡大しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の市場規模は2025年に1億2,465万米ドルとなり、このうち中国が8,289万米ドルを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のGaN基板市場シェア（最終用途産業別、2025年）（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年に7,534万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は地域市場の8,289万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、Sumitomo Electric Industries が 18.4% のシェアを占め、Wolfspeed が 14.5%、Soitec が 12.5%、Mitsubishi Chemical Group Corporation が 9.2%、Kyma Technologies が 7.0% で続いた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyma Technologies Inc.は、HVPE法で成長させたGaN基板を専門に供給する企業であり、2025年の市場シェアは推定7.0%です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点で、アジア太平洋地域がGaN基板市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウム市場の規模、シェア、トレンド分析レポート：製品タイプ別（パワーデバイス、光電子デバイス、RFデバイス、LED）、デバイスタイプ別（GaNオンシリコン、GaNオンサファイア、GaNオン炭化ケイ素）、用途別（パワーエレクトロニクス、民生用電子機器、自動車、RFおよび無線通信、航空宇宙および防衛）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.5%の市場シェアを占め、窒化ガリウム市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の窒化ガリウム市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のシェア",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2032 シェア",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年までの上位 3 地域のシェア",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "市場全体が2032年に向けて複合年率7.31 %という健全なペースで拡大する中でも、結晶成長装置における規模の優位性、蓄積された知的財産、下流デバイスメーカーとの緊密な連携により、確立されたグループはシェアを守ることができる",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "日本と米国の既存企業が 2 インチと 4 インチのウェーハを独占している一方、急成長を遂げている中国企業は、パワー エレクトロニクスや RF フロントエンド向けにコストが最適化された 6 インチ フォーマットに注力しています",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバル窒化ガリウム単結晶基板販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "pass": 3
+   },
+   {
+    "quote": "「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測」市場調査レポートの出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測」市場調査レポートの出版・販売開始のご案内",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZはMarketsandMarkets（マーケッツアンドマーケッツ）の英文調査報告書「GaN（窒化ガリウム）基板市市場規模、シェア、動向、2032年までの世界予測-GaN Substrate Market - Global Forecast To 2032」の販売を2026年8月14日に開始いたしました",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器受託製造の市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツアナリティクスの市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済の2026年予測では、パワー半導体の世界市場は2035年に7兆3,495億円に達し、うち次世代パワー半導体が2兆5,077億円を占める",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "GaNパワーデバイス市場の規模、シェア、および成長分析：デバイスタイプ別、ウエハー技術別、電圧範囲別、コンポーネントタイプ別、用途別、最終用途産業別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "窒化ガリウムパワー半導体市場の規模、シェアおよび成長予測（2026～2032年）",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "現時点で、主要プレイヤーの中には、米Navitas Semiconductor、米EPC、カナダGaN Systemsなど、工場を持たないファブレス半導体メーカーがシェアトップ10に名を連ねています",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体で世界シェア3位のスイスSTMicroelectronicsも、GaNデバイスの事業を強化しています",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には、コンシューマ向けが、約20億米ドルと、市場全体の過半を占める見込みである",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "2番目に大きな分野になると見込まれるのが、市場シェア約19%の自動車分野である",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は、年平均53%で成長し、2024年の2900万米ドルから3億8000万米ドルにまで拡大し市場全体の13%を占める規模になる見込みである",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のパワーGaNデバイスサプライヤの売上高ランキングトップ5を見ると、トップは中Innoscienceでシェア30%",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "TSMCの6インチGaNウェーハの月間生産量は3000〜4000枚で、その半分以上をNavitasが占めているという",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3位:2025年CIS売上高トップは市場シェア50%のソニー、なぜTSMCと合弁するの?",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6位:最新DRAMランキング、トップスリーのシェア低下、中国CXMT急成長",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The <2-inch category registered USD 56.99 million in 2025 and is projected to reach USD 149.47 million by 2035, at an approximately 10.23% CAGR. Demand is concentrated in research, specialty lasers, prototyping, and defense-oriented device programs, where qualification continuity and specialty performance can support small-lot economics.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global GaN Substrate Market Share, By End-Use Industry, 2025 (%)",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare represented USD 12.31 million in 2025 and is expected to reach USD 43.06 million by 2035, at an approximately 13.46% CAGR. UV-C LEDs for sterilization and emerging biosensing applications are the principal demand sources, with performance requirements concentrated around wavelength control, reliability, and material quality.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "We expect Asia Pacific to retain the largest revenue base through the forecast period because manufacturing density shortens the connection between substrate supply, epitaxy, device fabrication, and end-market assembly. The region's USD 124.65 million market in 2025 and projected approximately 12.37% CAGR reflect this industrial concentration, not simply higher end-market consumption.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kyma Technologies Inc. is a specialist supplier of HVPE-grown GaN substrates, with an estimated 7.0% market share in 2025. Its position is tied to high-quality bulk material for government research and commercial device programs.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the gan substrate market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Type, GaN-on-SiC dominates the market with a 58% share in 2025.",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "GaN-on-SiC dominates the market with a 58% share, owing to its superior thermal conductivity, high power density, excellent RF performance, and widespread use in telecommunications, aerospace, satellite communications, and defense applications.",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, by Company (2025)",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis for Gallium Nitride (GaN) Substrates Market 2023 (US$)",
+    "url": "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Which segment accounted for the largest Gallium Nitride Substrates market share?",
+    "url": "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GaN基板市場 の 規模 とシェア：2035年統計レポート — GaN基板市場 の 規模 とシェア：2035年統計レポート Global Market Insights Inc. https://www.gminsights.com > gan-substrate-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場 - 世界の機会分析と産業予測 2023-2032 — GaN基板市場 - 世界の機会分析と産業予測 2023-2032 TOMORUBA https://tomoruba.eiicon.net > blogs",
+    "url": "https://tomoruba.eiicon.net/blogs/2867",
+    "pass": 3
+   },
+   {
+    "quote": "GaN基板市場 の規模とシェア：2035年統計レポート — GaN基板市場 の規模とシェア：2035年統計レポート Global Market Insights Inc. https://www.gminsights.com > gan-substrate-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "次世代パワー半導体とは｜SiC・ GaN ・酸化 ガリウム ... — 次世代パワー半導体とは｜SiC・ GaN ・酸化 ガリウム ... 株式会社IBLC https://iblc.co.jp > post > topix-028",
+    "url": "https://iblc.co.jp/post/topix-028",
+    "pass": 3
+   },
+   {
+    "quote": "GaN （ 窒化ガリウム ）半導体とは | 最新の市場・技術動向やSiC — GaN （ 窒化ガリウム ）半導体とは | 最新の市場・技術動向やSiC オートモーティブ ワールド https://www.automotiveworld.jp > blog > article12-gan",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "pass": 3
+   },
+   {
+    "quote": "将来有望な GaN 事業に多数の 企業 が 参入 する中でTSMCの GaN ... — 将来有望な GaN 事業に多数の 企業 が 参入 する中でTSMCの GaN ... セミコンポータル https://www.semiconportal.com > hattori > 251118-tsmcgan",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "pass": 3
+   },
+   {
+    "quote": "GaN Substrate Market Size & Share, Statistics Report 2035 — GaN Substrate Market Size & Share, Statistics Report 2035 Global Market Insights Inc. https://www.gminsights.com > gan-su...",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride ( GaN ) Substrates Market Size at 11.75 ... — Gallium Nitride ( GaN ) Substrates Market Size at 11.75 ... MSE Supplies https://www.msesupplies.com > news",
+    "url": "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "pass": 3
+   },
+   {
+    "quote": "GaN Substrate Market Size , Share, Trends & Sales Report -2036 — GaN Substrate Market Size , Share, Trends & Sales Report -2036 transparencymarketresearch.com https://www.transparencymarketresearch.com > ...",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride Substrates Market Trends, Growth, 2026 — Gallium Nitride Substrates Market Trends, Growth, 2026 Stratview Research https://www.stratviewresearch.com > ...",
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gallium Nitride ( GaN ) Substrates Market : Size, Forecast 2031 — Gallium Nitride ( GaN ) Substrates Market : Size, Forecast 2031 Knowledge Sourcing Intelligence https://www.knowledge-sourcing.com > ...",
+    "url": "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vertical Semiconductor raises $11m for development of GaN ... — Vertical Semiconductor raises $11m for development of GaN ... Data Center Dynamics https://www.datacenterdynamics.com > ...",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Wolfspeed remains a significant wide-bandgap materials and power-device participant. Its fiscal 2024 Form 10-K reported approximately USD 807 million in revenue and described continued investments in its Mohawk Valley facility and John Palmour Manufacturing Center, reflecting the capital intensity of wide-bandgap scale-up",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific leads the market with a 40% share, supported by its strong semiconductor manufacturing ecosystem, rapid 5G deployment, growing electric vehicle production, and significant investments in advanced electronics across China, Japan, South Korea, and Taiwan.",
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Funding: Q4 2025",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion.",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$100.0M in Series B investment",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ", plus seed and Series A rounds totaling $40.0M led by",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$40.0M in strategic funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "INR 384.0M (~$4.3M) in Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$475.0M in seed funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$275.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$220.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$125.0M in funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "over $100.0M in Series A and seed financing",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$46.0M in seed and Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum Brasil 2026",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum India 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum New York 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum Southern Europe 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum APAC 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum London 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum LATAM 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum MENA 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   },
+   {
+    "quote": "Chip startup Vertical Semiconductor has raised $11 million in a seed funding round to support the development of its vertical GaN (gallium nitride) transistors.",
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "13.89",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "quote": "バルクGaNは最も急速な成長が見込まれる基板タイプであり、2025年の8,624万米ドルから2035年には3億1,507万米ドルに拡大し、年平均成長率（CAGR）は約13.89%となる見通しです"
+   },
+   {
+    "value": "19.67",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "quote": "自動車は最も急速に成長する最終用途産業であり、3,611万米ドルから2億1,529万米ドルに拡大し、CAGRは約19.67%となる見込みです"
+   },
+   {
+    "value": "12.96",
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "quote": "6インチ超のウェーハカテゴリーは、1億668万米ドルから3億5,738万米ドルに増加し、CAGRは約12.96%となる見通しであり、より大口径の製造インフラへのアクセスが商業上重要であることを反映しています"
+   },
+   {
+    "value": "15.7",
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "quote": "世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです"
+   },
+   {
+    "value": "7.31",
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "quote": "窒化ガリウム (GaN) 単結晶基板市場は着実に進歩しており、世界的な CAGR は 7.31% に達しており、これにより収益が増加します"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "quote": "規模は、予測期間中に年平均成長率（CAGR）12.5%で推移し、2026年の6億2,000万米ドルから2032年には12億5,000万米ドルに達するとMarketsandMarketsでは予測しています"
+   },
+   {
+    "value": "22.5",
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "quote": "Stratistics MRCによると、世界の窒化ガリウムパワー半導体市場は、2026年に23億米ドル規模となり、予測期間中にCAGR22.5％で成長し、2034年には115億米ドルに達すると見込まれています"
+   },
+   {
+    "value": "28.6",
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "quote": "市場調査会社の予測では、GaNパワー半導体市場は2023年から2030年にかけて年平均成長率が約28.6%に達し、2030年には世界市場規模が約20億ドルに達すると見込まれています"
+   },
+   {
+    "value": "49",
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "quote": "フランスの市場調査会社Yole Groupは、2022年から2028年まで、GaNパワー半導体市場が年平均成長率（CAGR）49％で急成長すると予測しています（図4）"
+   },
+   {
+    "value": "42",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "quote": "Yole Groupによると、パワーGaNデバイス市場は2020年から2025年にかけて10倍以上に成長してきており、2024〜2030年に年平均成長率42%で急成長し、2030年には29億ドル規模に達する見込みである（参考資料"
+   },
+   {
+    "value": "73",
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "quote": "同分野は2024年から2030年まで年平均成長率73%で成長し、2024年の2000万米ドルから2030年には約5億米ドル規模にまで成長するとYoleは予測している"
+   },
+   {
+    "value": "11.5",
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "quote": "The market is projected to reach USD 861.2 million by 2035, growing at a CAGR of 11.5% from 2026 to 2035."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%EF%BC%88gan%EF%BC%89%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B8%82%E5%A0%B4-103367",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/blogs/2867",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000359260",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iblc.co.jp/post/topix-028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epc-co.com/epc/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0/what-is-gan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doujinsangyo.jp/gan_guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/gan-substrate-market-115699534.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamarketanalysis.com/reports/gallium-nitride-power-device-substrate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketresearchcommunity.com/gallium-nitride-gan-substrates-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marklapedus.substack.com/p/vertical-gan-transistor-startup-emerges",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-substrate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.builtinsf.com/articles/substrate-secures-100m-1b-valuation-20251103",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "窒化ガリウム（GaN）基板 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "https://straitsresearch.com/jp/report/gallium-nitride-market",
+    "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%EF%BC%88gan%EF%BC%89%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E5%B8%82%E5%A0%B4-103367",
+    "https://jp.linkedin.com/pulse/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E3%81%8A%E3%82%88%E3%81%B3%E3%82%A2%E3%82%A4%E3%83%B3%E6%9D%90%E6%96%99%E7%94%A3%E6%A5%AD%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97-20262033%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B7%E5%B8%82%E5%A0%B4%E4%BE%A1%E5%80%A4%E3%81%8A%E3%82%88%E3%81%B3cagr%E5%8B%95%E5%90%91-evolution-garage-c0w1e",
+    "https://tomoruba.eiicon.net/blogs/2867",
+    "https://www.mordorintelligence.com/ja/industry-reports/gan-semiconductor-devices-market",
+    "https://www.researchnester.jp/industry-analysis/gallium-nitride-market/6564",
+    "https://eetimes.itmedia.co.jp/ee/articles/2402/20/news144.html",
+    "https://straitsresearch.com/jp/report/gallium-nitride-semiconductor-devices-market"
+   ]
+  },
+  {
+   "query": "窒化ガリウム（GaN）基板 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja",
+    "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "https://www.dreamnews.jp/press/0000359260",
+    "https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850",
+    "https://iblc.co.jp/post/topix-028",
+    "https://www.gii.co.jp/report/smrc2160737-gallium-nitride-power-semiconductor-market.html",
+    "https://www.seishin-syoji.co.jp/column/column-2597/",
+    "https://www.fkg-report.jp/market-trends/2025/2240.html",
+    "https://jp.linkedin.com/pulse/sic%E3%81%8A%E3%82%88%E3%81%B3gan%E3%83%91%E3%83%AF%E3%83%BC%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4%E3%81%AE%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%83%E3%81%A8%E5%8F%8E%E7%9B%8A%E4%BA%88%E6%B8%AC%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%9C%B0%E5%9F%9F%E5%88%A5%E5%B1%95%E6%9C%9B%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8761-hyperion-metrics-ut19e",
+    "https://ja.wikipedia.org/wiki/シーエムシー"
+   ]
+  },
+  {
+   "query": "窒化ガリウム（GaN）基板 参入 企業 国内",
+   "results": [
+    "https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html",
+    "https://jp.linkedin.com/pulse/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0gan%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%8A%E3%82%88%E3%81%B3%E5%9F%BA%E6%9D%BF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E3%81%AE%E5%9B%BD%E5%86%85%E8%AA%BF%E9%81%94%E5%85%88%E3%81%A8%E4%BE%9B%E7%B5%A6%E4%BC%81%E6%A5%AD-swarm-scale-tjgne",
+    "https://epc-co.com/epc/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0/what-is-gan",
+    "https://www.m-chemical.co.jp/products/departments/mcc/nes/product/1200584_9018.html",
+    "https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html",
+    "https://doujinsangyo.jp/gan_guide/",
+    "https://www.gminsights.com/ja/industry-analysis/gan-substrate-market",
+    "https://metoree.com/categories/11083/",
+    "https://nimsnow.nims.go.jp/research/2023no4_r01/",
+    "https://jp.linkedin.com/pulse/窒化ガリウムgan半導体デバイスおよび基板ウェーハの国内調達先と供給企業-swarm-scale-tjgne"
+   ]
+  },
+  {
+   "query": "gallium nitride substrate market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "https://www.marketsandmarkets.com/Market-Reports/gan-substrate-market-115699534.html",
+    "https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x",
+    "https://www.transparencymarketresearch.com/gan-substrate-market.html",
+    "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "https://www.grandviewresearch.com/industry-analysis/gan-gallium-nitride-semiconductor-devices-market",
+    "https://www.linkedin.com/pulse/global-regional-expansion-gallium-nitride-wafer-substrate-l0b4c",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-gan-substrate-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market.html",
+    "https://dataintelo.com/report/gallium-nitride-substrates-market"
+   ]
+  },
+  {
+   "query": "gallium nitride substrate market key players competitive landscape",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/gan-substrate-market-115699534.html",
+    "https://www.gminsights.com/industry-analysis/gan-substrate-market",
+    "https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market.html",
+    "https://www.linkedin.com/pulse/gallium-nitride-substrates-market-industry-landscape-ut4ae",
+    "https://www.marketresearchfuture.com/reports/gallium-nitride-market-5605",
+    "https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market",
+    "https://www.datamarketanalysis.com/reports/gallium-nitride-power-device-substrate-market",
+    "https://marketresearchcommunity.com/gallium-nitride-gan-substrates-market/",
+    "https://www.industryarc.com/report/1264/gan-substrates-market-research-report",
+    "https://www.verifiedmarketreports.com/product/gallium-nitride-substrates-market/"
+   ]
+  },
+  {
+   "query": "gallium nitride substrate startup funding 2025",
+   "results": [
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://marklapedus.substack.com/p/vertical-gan-transistor-startup-emerges",
+    "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/",
+    "https://www.generalcatalyst.com/stories/our-investment-in-substrate",
+    "https://www.builtinsf.com/articles/substrate-secures-100m-1b-valuation-20251103",
+    "https://www.executivegov.com/articles/globalfoundries-federal-funding-accelerate-gan-chip-manufacturing",
+    "https://news.crunchbase.com/venture/record-high-us-semiconductor-startup-funding-eoy-2025/",
+    "https://www.wsj.com/tech/peter-thiel-backed-startup-secures-100-million-to-make-chips-in-u-s-baff93ac",
+    "https://www.marketsandmarkets.com/Market-Reports/gan-substrate-market-115699534.html",
+    "https://www.ventureradar.com/funding/Gallium+Nitride"
+   ]
+  }
+ ],
+ "missing": {}
+}

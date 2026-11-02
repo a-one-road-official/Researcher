@@ -1,0 +1,1757 @@
+{
+ "name": "民間航空機",
+ "en": "commercial aircraft",
+ "aliases": [
+  "旅客機",
+  "航空機部品"
+ ],
+ "context": "6 航空・宇宙 ①民間航空機",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:41:47.943484+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "2023年に1,316億米ドルと推定される民間航空機の世界市場は、2023年から2030年にかけてCAGR 3.8%で成長し、2030年には1,707億米ドルに達すると予測されます",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は356億米ドルと推定、中国はCAGR6.4%で成長予測",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の民間航空機市場は2023年に356億米ドルと推定されます",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに349億米ドルの市場規模に達すると予測され、分析期間2023-2030年のCAGRは6.4%です",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年03月26日にREPORTOCEANが発行した新しいレポートによると、-民間航空機市場は、2022-2030年の予測期間において4.24%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の世界の民間航空機市場規模は1,336億4,000万米ドルでした",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の民間航空機市場規模は、2022年から2030年までの予測期間において年平均成長率（CAGR）4.24％で成長し、2030年には1947億6000万米ドルに達すると予測されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機の市場規模 2020年",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": " 航空宇宙工業の生産額をみると、日本は約1.8兆円で、米国の約10分の１、英・仏・独等の約３分の１である（図表8)",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 製造品出荷額等：1.9兆円",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 製造品出荷額等：54.6兆円",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 自動車より市場は小規",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は約130兆円規模に達する",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "69兆円*3",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3.1兆円*6",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.2兆円*7",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "21兆円*2",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14兆円*3",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12兆円*4",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.4兆円*5",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の旅客機・航空機・リージョナルジェット業界の市場シェアを簡易に試算しますと、1位はエアバス、2位はボーイング、3位はゼネラルダイナミクスとなります",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の旅客機・航空機・リージョナルジェット業界の市場規模を2,170億ドルとしております",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社リサーチアンドマーケッツ、調査会社ザ・ビジネスリサーチカンパニーによると、2025年の同業界の市場規模は2,170億ドルです",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均4.9%で成長し、規模は2,741億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "2,170億ドル",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "2,264億ドル",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "2,741億ドル",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "旅客機・航空機・リージョナルジェット業界の市場規模の成長予想 ©2026 Deallab",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "市場はこの両社がほぼ60%を占有しているので間違いありません",
+    "url": "https://air-line.info/maker.html",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の航空機エンジン業界の市場シェアを簡易に試算しますと、1位はプラット・アンド・ホイットニー、2位はGE、3位はロールスロイスとなります",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の航空機エンジン業界の市場規模を1,537億ドルとしております",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社フォーチュンビジネスインサイツによると、2024年の同業界の市場規模は1,537億ドルです",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にかけて年平均7.77%で成長し、規模は2,798億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "1,537億ドル",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2,798億ドル",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "新興市場は、中間層の増加、活発で競争の激しい航空路線網、航空分野への持続的な投資により、世界の民間航空機に占める割合が2024年の約40％から増加し、2044年には50％を超えるとみられます",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場は2035年には4,362億1,000万米ドルへ拡大、CAGR約4.85%",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場規模、シェア、競争環境およびトレンド分析レポート、機体タイプ別、構成部品別、エンドユーザー別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場は着実な成長を遂げており、2025年には4,160億3,000万米ドルに達し、2035年までに4,362億1,000万米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場規模は、2025年に4,160億3,000万米ドルと評価され、2035年までに4,362億1,000万米ドルに達すると予測されており、2026年から2035年にかけて年平均成長率（CAGR）4.85％で成長すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "and reach about 10 billion passengers per year.",
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "will increase by 1.4 billion people",
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "It enables over six million international students to access education abroad and facilitates more than 30 scientific congresses every day.",
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation sustains connections for a growing diaspora, linking over 300 million migrants with their relatives.",
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market Size, Share 2025-2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by aircraft type, size and application, across all major regions and key countries, with forecasts for 2025–2034. The competitive landscape profiles 19+ companies, including General Electric (GE) Aviation and Airbus SE.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 173 Bn",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, 2025",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 279 Bn",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "from 2025 to 2034. In 2025, the market size is projected to reach a valuation of USD",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "173 Billion",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": ". By 2034, the valuation is anticipated to reach USD",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "279 Billion",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The wide body segment is growing at a rapid pace. The segment expansion is owing to the increasing international travel. According to UN Tourism, almost 690 million tourists travelled internationally between January and June 2025, about 33 million more than in the same period of 2024.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2025",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 173 Billion",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Market Size in 2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2023年に1,316億米ドルと推定される民間航空機の世界市場は、2023年から2030年にかけてCAGR 3.8%で成長し、2030年には1,707億米ドルに達すると予測されます",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで分析したセグメントの1つであるナローボディ航空機は、CAGR 3.9%を記録し、分析期間終了時には932億米ドルに達すると予測されます",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイドボディ航空機セグメントの成長率は、分析期間でCAGR 3.4％と推定されます",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は356億米ドルと推定、中国はCAGR6.4%で成長予測",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに349億米ドルの市場規模に達すると予測され、分析期間2023-2030年のCAGRは6.4%です",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.0%と3.1%と予測されています",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では、ドイツがCAGR 2.5%で成長すると予測されています",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年03月26日にREPORTOCEANが発行した新しいレポートによると、-民間航空機市場は、2022-2030年の予測期間において4.24%以上の健全な成長率が見込まれています",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の民間航空機市場規模は、2022年から2030年までの予測期間において年平均成長率（CAGR）4.24％で成長し、2030年には1947億6000万米ドルに達すると予測されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "年間、年率約５％での成長が見込まれている",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（年平均4.6％の伸び率）、貨物需要は2.2倍（同4.1％/年）と大きく伸長する見込みである（図表1，図表2）",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 世界の民間航空機市場は、今後20年間、年率約５％での成長が見込まれており、世界の航空機の総納入機数",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民航分野に受注は拡大し、JISQ9100や、Nadcap認",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ケース３）航空機分野の受注量が安定しない上、自社技術が次世代機に搭載されず、事業拡大に苦戦",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030年にかけて年平均4.9%で成長し、規模は2,741億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の100〜150席級リージョナルジェット市場でトップシェアを誇るだけでなく、ビジネスジェット（Executive）部門や防衛・セキュリティ部門、機内内装サプライチェーンの自社囲い込みなど、全方位での多角的な成長を公式に推進しており、世界市場での独立したプレゼンスを再拡大しています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "787は世界中のエアラインから受注を拡大中であり、また大手各社が長距離国際線の主力として採用しています",
+    "url": "https://air-line.info/maker.html",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にかけて年平均7.77%で成長し、規模は2,798億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 ハネウェル、プロセス産業の能力拡大のためサンダイン社の買収を完了",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "世界経済の成長を上回るペースが続き、経済規模は2倍以上に拡大する",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "旅行需要を満たすために航空会社が輸送能力を増強し、世界の民間航空機はほぼ倍増して4万9,600機超に",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンの多様化と急送貨物路線網の拡大により、世界の貨物機は3分の2近く（約67％）増加し、新造機と改造貨物機の合計で2,900機が必要に",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場は2035年には4,362億1,000万米ドルへ拡大、CAGR約4.85%",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "長率（CAGR）4.85％で成",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年までの予測期間中は、年平均成長率（CAGR）4.85％で拡大すると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "納入数793機、前年比4％増",
+    "url": "https://www.kankokeizai.com/2601252100kks/",
+    "pass": 3
+   },
+   {
+    "quote": "Networks are decentralising. In the next 20 years, urbanisation will shift to smaller cities. The number of smaller cities growing at a significantly faster pace, driving airlines to expand connectivity and establish new direct flights between small and medium city-pairs.",
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025-2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, growing at a",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.4%",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The wide body segment is growing at a rapid pace. The segment expansion is owing to the increasing international travel. According to UN Tourism, almost 690 million tourists travelled internationally between January and June 2025, about 33 million more than in the same period of 2024.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The cargo segment growing at a rapid rate owing to the rising cargo demand. Global air cargo demand has constantly increased by more than 5% YoY. This expansion is attributed to the increased capacity in important regions such as the Asia-Pacific and Latin America.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4% CAGR",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial aircraft market is anticipated to reach US$ 279 billion by 2034 growing at a CAGR of 5.4% from 2025 to 2034.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial aircraft market is expected to record a CAGR of 5.4% during the forecast period growing from USD 165 billion in 2024.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global aircraft market size was estimated at USD 441.34 billion in 2025, and is anticipated to hit around USD 456.79 billion by 2026, and is projected to hit around USD 621.40 billion by 2035, growing at a CAGR of 3.48% during the forecast period 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 3.48% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 3.48%",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific aircraft market size is exhibited at USD 176.54 billion in 2025 and is estimated to reach around USD 252.57 billion by 2035, expanding at a CAGR of 3.65% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global aircraft market?",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 – 2033",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) of 6.8% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "The CAGR of the Commercial Aircraft Market is projected to be 6.8% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2034",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Combat Aircraft (fastest-growing segment with a CAGR of 4.8%, propelled by rising national defense budgets and modern military fleet upgrades)",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wide-Body Aircraft (fastest-growing size segment with a CAGR of 5.1%, driven by expanding international long-haul travel networks)",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (fastest-growing regional market with a CAGR of 5.2%, fueled by rapid urbanization and massive airline fleet expansions)",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global aircraft market size was valued at USD 441.91 billion in 2025 and is anticipated to reach USD 457.55 billion in 2026 to reach USD 604.38 billion by 2034, growing at a CAGR of 3.54% from 2026 to 2034.",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.9%",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Growth CAGR (2026 - 2033)",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 145.74 Billion in 2025 and the total Commercial Aircraft revenue is expected to grow at a CAGR of 5.82% from 2026 to 2032, reaching nearly USD 216.54 Billion by 2032.",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2032 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Commercial Aircraft Market is growing at a significant rate of 5.82 % over the forecast period.",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "世界の民間航空機市場における主な企業は以下の通りです:",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント２．航空機産業の主要プレイヤーとサプライチェーンの特徴は？…………………P .12",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 民間航空機製造に関わる世界の主要プレイヤーやグローバルサプライチェーンについ",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "注釈*）1：主要企業の売上高合計（2012年）Airline Businessより、2：主要航空企業の燃料支出合計（推計）（2012年）IATAより、3,4,5：主要企業の売上高合計",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2010年）現代航空論より、6：主要企業の保有機材価値（2013年現在）、Airline Businessより、7:主要企業の売上高合計（2012年）Airline Businessより",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント２．航空機産業の主要プレイヤーとサプライチェーンの特徴は？",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 航空機産業の主要プレイヤーは、完成機メーカーのボーイング（売上第一位）やエ",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 民間航空機産業は、構成部位別にみると、機体・エンジン・装備品に大別され、構成部位別に主要プレイヤーが異なっているが、",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "．民間航空機製造に関わる主要プレイヤー",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【図表16.航空機産業のメーカー俯瞰図】※下線は主な企業、赤字は国内メーカー",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "航空機産業の主要プレイヤーと",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機製造に関する主要プレイヤー",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 航空機産業の主要プレイヤーは、欧米企業が中心であるが、競争が激化し、合併・買収等によって上位企業",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うかを明確に決めて、自社が参入する時期を設定する",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本分析では軍用機や政府専用機などを除く「民間機」の市場データ・売上高を主軸に採用し、主要企業のシェアを分析しています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、現在の日本の主要企業（三菱重工業、川崎重工業、SUBARU、新明和工業など）は、国際共同開発の主要パートナーとして極めて重要な地位を占めています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size, share and growth analysis by aircraft type, size and application, across all major regions and key countries, with forecasts for 2025–2034. The competitive landscape profiles 19+ companies, including General Electric (GE) Aviation and Airbus SE.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Estimation and Forecast, Company Profile, Competitive Landscape, Growth Factors and Recent Trends",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operate in the market adopted several strategies including product launch, innovation, merger & acquisition, investment and others. Some of the notable developments are:",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "is highly competitive, with a large number of service providers globally. Some of the key players in the market include:",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the commercial aircraft market?",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The major players are General Electric (GE) Aviation, Airbus SE, Rolls-Royce plc, Boeing, Safran S.A., Raytheon Technologies, Bombardier Inc., Embraer S.A., Textron Aviation, Mitsubishi Aircraft Corporation, COMAC, Collins Aerospace, Honeywell Aerospace, MTU Aero Engines AG, Leonardo S.p.A., GKN Aerospace, Spirit AeroSystems, Liebherr-Aerospace and Turkish Aerospace Industries.",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market- Competitive Landscape",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Market Size, Key Companies, Company Market Share, Aircraft Production, Defense Spending, Procurement Trends, Technology Adoption, Competitive Positioning, and Market Outlook",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the aircraft market?",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the aircraft market are The Boeing Company, Airbus SE, Lockheed Martin Corporation, Textron Inc., Embraer S.A., and Others.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "is a Research Consultant with 5+ years of experience in market research and consulting. He excels in analyzing market engineering, market trends, competitive landscapes, and technological developments. He specializes in both primary and secondary research, as well as strategic consulting across diverse sectors.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the commercial aircraft market?",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing Company, Airbus SE, Embraer S.A., Bombardier Inc., Lockheed Martin Corporation, General Dynamics Corporation, United Technologies Corporation, Rolls-Royce Holdings plc, Honeywell International Inc., Safran SA, Thales Group, and Raytheon Technology are the major players.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "aircraft well to low-cost startups, and the choice of engines was offered to make it more attractive to airlines and lessors than the single-sourced",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional & Country Level Analysis, Segment-Level Analysis, DROC, PESTLE Analysis, Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the global aircraft market include the",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Commercial Aircraft market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players include Airbus SE, Boeing Commercial Airplanes, Commercial Aircraft Corporation of China (COMAC), Embraer S.A., and ATR.",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Competitive Landscape:",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Key Players Include",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "The major key players in the Global Commercial Aircraft Market are The Boeing Co., Embraer SA, Airbus SE, Dassault Aviation SA.",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Commercial Aircraft Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "12. Company Profiles: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "12.13. Other Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Light Shows Market by Type, Application ,Mode of Operation, Region - Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2032",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "別のジェット旅客機生産台数予測は、A320neoとＢ737MAX等の細胴機の需要が全体の約７割を占める",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " また、売上上位20社が100社総売上の77％を占める寡占市場である（図表",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 売上が上位の日本企業はごく一部である（図表15）",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【図表14.世界の航空機トップ100に対するトップ20のシェア】",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 世界の受注機数シェアは、ボーイング（米）とエアバス（仏）２社で全体の９割を占める",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "のメーカー別シェア】（2016年）",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " エンジン市場は、GEが世界市場の約３割のシェアを占める",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 日本では、国内主要３社の世界シェアはあわせて約6％",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【図表19.主要エンジンメーカーの売上シェア】",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の３社が約７割のシェア",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の旅客機・航空機・リージョナルジェット業界の市場シェアを簡易に試算しますと、1位はエアバス、2位はボーイング、3位はゼネラルダイナミクスとなります",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "旅客機・航空機・リージョナルジェット業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "旅客機・航空機・リージョナルジェットの世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年も、欧州のエアバス（Airbus）が首位を堅持しています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の単通路機A320neoファミリーはバックログ（受注残）が過去最高を記録しており、ボーイング737とのシェア争いで圧倒的な優位性を築いています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "1901年に設立された米国の老舗防衛関連企業であり、祖業である潜水艦製造を含む海洋システムや、M1エイブラムス戦車に代表される戦闘システムなどで世界トップクラスの国防予算シェアを持ちます",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "主力の100〜150席級リージョナルジェット市場でトップシェアを誇るだけでなく、ビジネスジェット（Executive）部門や防衛・セキュリティ部門、機内内装サプライチェーンの自社囲い込みなど、全方位での多角的な成長を公式に推進しており、世界市場での独立したプレゼンスを再拡大しています",
+    "url": "https://deallab.info/aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機メーカーの世界市場シェアと業界ランキング（2020年度）",
+    "url": "https://air-line.info/maker.html",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の航空機エンジン業界の市場シェアを簡易に試算しますと、1位はプラット・アンド・ホイットニー、2位はGE、3位はロールスロイスとなります",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジンの世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "ロールスロイスとサフランの順位が入れ替わりましたが、2022年と上位7社の企業は変わらない結果となりました",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア1位か2位以外の事業からは撤退するというナンバーワン・ナンバーツー戦略を実施し、積極的な事業ポートフォリオの入れ替えを行うことでも有名です",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "新興市場は、中間層の増加、活発で競争の激しい航空路線網、航空分野への持続的な投資により、世界の民間航空機に占める割合が2024年の約40％から増加し、2044年には50％を超えるとみられます",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "単通路機は世界の航空機の72％を占める見込みで、2024年の66％から増加",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "商用航空機製造市場規模、シェア、競争環境およびトレンド分析レポート、機体タイプ別、構成部品別、エンドユーザー別、地域別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、機体セグメントは収益面における民間航空機製造市場を独占しました",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market: company market share, 2024",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market share, By Aircraft Type, 2024 and 2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market share, By Size, 2024 and 2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market share, By Application, 2024 and 2034",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market Share, by Region, 2024 & 2034 (USD Billion)",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with the largest market share of 40% in 2025.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Type, the commercial segment dominated the global market in 2025.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Size, the narrow-body segment dominated the market with the highest market size in 2025.",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Application, the Passenger Travel segment leads the market holding an estimated share of 61.8% in 2026, owing to its long-term growth in air transportation.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Size, Narrow Body Aircraft segment is projected to dominate with a share of 61.8% in 2026, supported by the cost-effective air operation.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Region, North America is estimated to lead the market with a share of 47.8% in 2026, due to the strong presence of major Original Equipment Manufacturers.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus exemplifies this trend with its A320neo family, which delivers an impressive 15-20% fuel efficiency improvement over previous models—a critical factor as airlines increasingly prioritize cost savings and environmental responsibility. This forward-thinking approach has enabled Airbus to capture significant market share and meet evolving airline demands effectively.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of application, passenger is estimated to dominate the market revenue share in 2026.",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Which region will lead the commercial aircraft market share in 2026?",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "By July 2021, Airbus (including the A220) had a 65% share of the single-aisle backlog compared to Boeing's 35% share.",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": ". After dominating the very large aircraft market for four decades, the Boeing 747 faced a challenge from the A380. In response, Boeing offered the stretched and updated",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": "Except for the years 2012 and 2018, Airbus orders have significantly outpaced Boeing's, to the extent that the European rival will soon surpass all commercial Boeing orders from the inception of the company, despite having a much shorter history. By July 2021, Airbus had a 62% share of the airliner backlog compared to 38% for Boeing.",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": "\"Boeing's backlog market share vs Airbus falls below 40%\"",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": "Passenger Aircraft (held a dominant 55.7% share of the market in 2025, supported by recovering global air travel and growing middle-class populations)",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated by one of the big four carriers (Delta, United, American, and Southwest).5 Of these",
+    "url": "https://www.luc.edu/media/lucedu/law/centers/antitrust/pdfs/publications/newsviews/antitrust-implications_budka_march-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "each other to gain a larger market share”.62 The court also rejected the Defendant’s attempt to",
+    "url": "https://www.luc.edu/media/lucedu/law/centers/antitrust/pdfs/publications/newsviews/antitrust-implications_budka_march-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "segment held the largest Commercial Aircraft Market share of about 60 % in the global Commercial Aircraft market in 2025. Narrow-body aircraft, also known as single-aisle aircraft, dominate the commercial aircraft market in terms of quantity. These aircraft are popular for short to medium-haul routes and are widely used by both low-cost carriers and full-service airlines.",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "2] Which region is expected to dominate the Global Commercial Aircraft Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "1.1.2. Market Size (USD) and Market Share (%) - By Segments, Regions, and Country",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2.5. Market Share",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1. Market Leaders",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "3.8. Key Opinion Leader Analysis For the Global Commercial Aircraft Industry",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "pass": 3
+   },
+   {
+    "quote": "a year to 2034. The single-aisle families dominate delivery counts: of the 793 aircraft Airbus delivered in 2025, the A320 Family accounted for 607 and the A220 Family 93, and 117 of the 160 aircraft Boeing delivered in the fourth quarter were 737s. Growth in the segment is set by rate increases on the A320neo and 737 MAX lines, which in turn depend on engines and",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 13 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.2 Global Commercial Aircraft Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Narrow-body aircraft held 66.8% of commercial aircraft value in 2025 and grow at 6.9% a year to 2034. The A320neo family and 737 MAX dominate delivery counts. Wide-body aircraft grow fastest, at 8.4% a year, as the 777X enters service in 2027.",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "民間航空機市場規模 （2026年～2033年）：レポートには年間 ... — 民間航空機市場規模 （2026年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...",
+    "url": "https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機市場 は2030年まで年平均成長率4.24％で成長する ... — 民間航空機市場 は2030年まで年平均成長率4.24％で成長する ... PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "ボーイング、今後20年間の 民間航空機 の新造機需要を約4万 ... — ボーイング、今後20年間の 民間航空機 の新造機需要を約4万 ... ボーイング ジャパン https://www.boeing.jp > プレスリリース",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度 民間航空機 部門の受注数・納入数を発表 エアバス — 2025 年度 民間航空機 部門の受注数・納入数を発表 エアバス 観光経済新聞 https://www.kankokeizai.com > トラベル",
+    "url": "https://www.kankokeizai.com/2601252100kks/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Share & Size Overview, 2031 — Commercial Aircraft Market Share & Size Overview, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Size , Share | Growth Report [2034] — Commercial Aircraft Market Size , Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market Size , Share 2025 -2034 — Global Commercial Aircraft Market Size , Share 2025 -2034 Custom Market Insights https://www.custommarketinsights.com > ...",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 — Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > market-insight",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Size, Share | Growth Report [2034] — Commercial Aircraft Market Size, Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Aircraft Market Forecast 2026 - 2033 — Commercial Aircraft Market Forecast 2026 - 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Global Commercial Aircraft Market Size, Share 2025 -2034 — Global Commercial Aircraft Market Size, Share 2025 -2034 Custom Market Insights https://www.custommarketinsights.com > ...",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "(then CEO of Boeing) accused Airbus of abusing a 1992 bilateral EU-US agreement regarding large civil aircraft support from governments. Airbus is given reimbursable launch investment (RLI, called \"launch aid\" by the US) from European governments with the money being paid back with interest, plus indefinite royalties if the aircraft is a commercial success.",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": ", and in particular the form of R&D contracts that benefit Boeing; as well as funding from US states such as Washington, Kansas, and Illinois, for the development and launch of Boeing aircraft, in particular, the 787.",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.8",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "2023年に1,316億米ドルと推定される民間航空機の世界市場は、2023年から2030年にかけてCAGR 3.8%で成長し、2030年には1,707億米ドルに達すると予測されます"
+   },
+   {
+    "value": "3.9",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "本レポートで分析したセグメントの1つであるナローボディ航空機は、CAGR 3.9%を記録し、分析期間終了時には932億米ドルに達すると予測されます"
+   },
+   {
+    "value": "3.4",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "ワイドボディ航空機セグメントの成長率は、分析期間でCAGR 3.4％と推定されます"
+   },
+   {
+    "value": "6.4",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "米国市場は356億米ドルと推定、中国はCAGR6.4%で成長予測"
+   },
+   {
+    "value": "2.0",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.0%と3.1%と予測されています"
+   },
+   {
+    "value": "2.5",
+    "url": "https://japan.cnet.com/release/31054272/",
+    "quote": "欧州では、ドイツがCAGR 2.5%で成長すると予測されています"
+   },
+   {
+    "value": "4.24",
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "quote": "民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み | Report Oceanのプレスリリース"
+   },
+   {
+    "value": "4.85",
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "quote": "商用航空機製造市場は2035年には4,362億1,000万米ドルへ拡大、CAGR約4.85%"
+   },
+   {
+    "value": "5.4",
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "quote": "CAGR of 5.4%"
+   },
+   {
+    "value": "3.48",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "quote": "The global aircraft market size was estimated at USD 441.34 billion in 2025, and is anticipated to hit around USD 456.79 billion by 2026, and is projected to hit around USD 621.40 billion by 2035, growing at a CAGR of 3.48% during the forecast period 2026 to 2035."
+   },
+   {
+    "value": "3.65",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "quote": "The Asia Pacific aircraft market size is exhibited at USD 176.54 billion in 2025 and is estimated to reach around USD 252.57 billion by 2035, expanding at a CAGR of 3.65% from 2026 to 2035."
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "quote": "(CAGR) of 6.8% from 2026 to 2033."
+   },
+   {
+    "value": "4.8",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "quote": "Combat Aircraft (fastest-growing segment with a CAGR of 4.8%, propelled by rising national defense budgets and modern military fleet upgrades)"
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "quote": "Wide-Body Aircraft (fastest-growing size segment with a CAGR of 5.1%, driven by expanding international long-haul travel networks)"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "quote": "Asia-Pacific (fastest-growing regional market with a CAGR of 5.2%, fueled by rapid urbanization and massive airline fleet expansions)"
+   },
+   {
+    "value": "3.54",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "quote": "The global aircraft market size was valued at USD 441.91 billion in 2025 and is anticipated to reach USD 457.55 billion in 2026 to reach USD 604.38 billion by 2034, growing at a CAGR of 3.54% from 2026 to 2034."
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "quote": "CAGR of 5.9%"
+   },
+   {
+    "value": "5.82",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "quote": "size was valued at USD 145.74 Billion in 2025 and the total Commercial Aircraft revenue is expected to grow at a CAGR of 5.82% from 2026 to 2032, reaching nearly USD 216.54 Billion by 2032."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "77",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "quote": " また、売上上位20社が100社総売上の77％を占める寡占市場である（図表"
+   },
+   {
+    "value": "6",
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "quote": " 日本では、国内主要３社の世界シェアはあわせて約6％"
+   },
+   {
+    "value": "40",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "quote": "新興市場は、中間層の増加、活発で競争の激しい航空路線網、航空分野への持続的な投資により、世界の民間航空機に占める割合が2024年の約40％から増加し、2044年には50％を超えるとみられます"
+   },
+   {
+    "value": "50",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "quote": "新興市場は、中間層の増加、活発で競争の激しい航空路線網、航空分野への持続的な投資により、世界の民間航空機に占める割合が2024年の約40％から増加し、2044年には50％を超えるとみられます"
+   },
+   {
+    "value": "72",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "quote": "単通路機は世界の航空機の72％を占める見込みで、2024年の66％から増加"
+   },
+   {
+    "value": "66",
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "quote": "単通路機は世界の航空機の72％を占める見込みで、2024年の66％から増加"
+   },
+   {
+    "value": "40",
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "quote": "Asia Pacific dominated the market with the largest market share of 40% in 2025."
+   },
+   {
+    "value": "61.8",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "quote": "Based on Application, the Passenger Travel segment leads the market holding an estimated share of 61.8% in 2026, owing to its long-term growth in air transportation."
+   },
+   {
+    "value": "47.8",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "quote": "Based on Region, North America is estimated to lead the market with a share of 47.8% in 2026, due to the strong presence of major Original Equipment Manufacturers."
+   },
+   {
+    "value": "20",
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "quote": "Airbus exemplifies this trend with its A320neo family, which delivers an impressive 15-20% fuel efficiency improvement over previous models—a critical factor as airlines increasingly prioritize cost savings and environmental responsibility. This forward-thinking approach has enabled Airbus to captur"
+   },
+   {
+    "value": "65",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "quote": "By July 2021, Airbus (including the A220) had a 65% share of the single-aisle backlog compared to Boeing's 35% share."
+   },
+   {
+    "value": "35",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "quote": "By July 2021, Airbus (including the A220) had a 65% share of the single-aisle backlog compared to Boeing's 35% share."
+   },
+   {
+    "value": "62",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "quote": "Except for the years 2012 and 2018, Airbus orders have significantly outpaced Boeing's, to the extent that the European rival will soon surpass all commercial Boeing orders from the inception of the company, despite having a much shorter history. By July 2021, Airbus had a 62% share of the airliner "
+   },
+   {
+    "value": "38",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "quote": "Except for the years 2012 and 2018, Airbus orders have significantly outpaced Boeing's, to the extent that the European rival will soon surpass all commercial Boeing orders from the inception of the company, despite having a much shorter history. By July 2021, Airbus had a 62% share of the airliner "
+   },
+   {
+    "value": "40",
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "quote": "\"Boeing's backlog market share vs Airbus falls below 40%\""
+   },
+   {
+    "value": "55.7",
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "quote": "Passenger Aircraft (held a dominant 55.7% share of the market in 2025, supported by recovering global air travel and growing middle-class populations)"
+   },
+   {
+    "value": "60",
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "quote": "segment held the largest Commercial Aircraft Market share of about 60 % in the global Commercial Aircraft market in 2025. Narrow-body aircraft, also known as single-aisle aircraft, dominate the commercial aircraft market in terms of quantity. These aircraft are popular for short to medium-haul route"
+   },
+   {
+    "value": "66.8",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "quote": "Narrow-body aircraft held 66.8% of commercial aircraft value in 2025 and grow at 6.9% a year to 2034. The A320neo family and 737 MAX dominate delivery counts. Wide-body aircraft grow fastest, at 8.4% a year, as the 777X enters service in 2027."
+   },
+   {
+    "value": "6.9",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "quote": "Narrow-body aircraft held 66.8% of commercial aircraft value in 2025 and grow at 6.9% a year to 2034. The A320neo family and 737 MAX dominate delivery counts. Wide-body aircraft grow fastest, at 8.4% a year, as the 777X enters service in 2027."
+   },
+   {
+    "value": "8.4",
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "quote": "Narrow-body aircraft held 66.8% of commercial aircraft value in 2025 and grow at 6.9% a year to 2034. The A320neo family and 737 MAX dominate delivery counts. Wide-body aircraft grow fastest, at 8.4% a year, as the 777X enters service in 2027."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://japan.cnet.com/release/31054272/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/commercial-aircraft-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B/5070752",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://deallab.info/aircraft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/aircraft-manufacturing-market-125607",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A7%8B%E9%80%A0%E7%89%A9%E5%B8%82%E5%A0%B4-101663",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://air-line.info/maker.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/aircraft-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aircraft-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.jadc.jp/data/forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankokeizai.com/2601252100kks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iata.org/en/publications/economics/reports/the-global-commercial-aircraft-fleet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.lsa.umich.edu/mje/2024/05/08/comacs-impact-on-the-future-of-the-airbus-boeing-duopoly/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/ask/answers/050415/what-companies-are-major-players-airline-supply-business.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luc.edu/media/lucedu/law/centers/antitrust/pdfs/publications/newsviews/antitrust-implications_budka_march-2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.boeing.com/commercial/market/commercial-market-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/global/industry/global-commercial-aircraft-manufacturing/1050/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aviationweek.com/sites/default/files/2024-11/2025+Commercial+Fleet+and+MRO+Market+Summary+Report.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.statista.com/topics/3697/airbus-and-boeing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "民間航空機 市場規模 CAGR",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie",
+    "https://japan.cnet.com/release/31054272/",
+    "https://www.mordorintelligence.com/ja/industry-reports/commercial-aircraft-market",
+    "https://prtimes.jp/main/html/rd/p/000005818.000067400.html",
+    "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "https://baike.baidu.com/ja/item/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B/5070752",
+    "https://newscast.jp/news/1192630",
+    "https://www.businessresearchinsights.com/jp/market-reports/aircraft-manufacturing-market-125607",
+    "https://www.gminsights.com/ja/industry-analysis/commercial-aircraft-mro-market"
+   ]
+  },
+  {
+   "query": "民間航空機 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/aircraft/",
+    "https://www.businessresearchinsights.com/jp/market-reports/aircraft-manufacturing-market-125607",
+    "https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E7%94%A8%E3%82%A8%E3%83%AB%E3%83%AD%E3%83%B3%E3%81%A7%E3%82%B7%E3%82%A7%E3%82%A2%E3%82%92%E6%8C%81%E3%81%A4%E4%B8%96%E7%95%8C%E3%81%AE%E4%BC%81%E6%A5%AD-tectonic-tier-glule",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A7%8B%E9%80%A0%E7%89%A9%E5%B8%82%E5%A0%B4-101663",
+    "https://www.mordorintelligence.com/ja/industry-reports/commercial-aircraft-market",
+    "https://air-line.info/maker.html",
+    "https://deallab.info/aircraft-engine/",
+    "https://japan.cnet.com/release/31054272/",
+    "https://service.xenobrain.jp/forecastresults/market-size/aircraft-components",
+    "https://www.reportmines.com/ja/report/commercial-aircraft-market/company"
+   ]
+  },
+  {
+   "query": "民間航空機 市場 前年比 2025",
+   "results": [
+    "https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast",
+    "https://www.mordorintelligence.com/ja/industry-reports/aircraft-manufacturing-market",
+    "https://www.reportocean.co.jp/industry-reports/commercial-aircraft-manufacturing-market",
+    "https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf",
+    "http://www.jadc.jp/data/forecast/",
+    "https://www.kankokeizai.com/2601252100kks/",
+    "https://www.atpress.ne.jp/news/6037804",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%81%AE%E7%BF%BC%E5%B8%82%E5%A0%B4-115164",
+    "https://www.decarbonation-tech.com/aircraft_53/",
+    "https://www.fortunebusinessinsights.com/jp/民間航空機市場-115356"
+   ]
+  },
+  {
+   "query": "commercial aircraft market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "https://www.precedenceresearch.com/aircraft-market",
+    "https://www.boeing.com/commercial/market/commercial-market-outlook",
+    "https://www.ibisworld.com/global/market-size/global-commercial-aircraft-manufacturing/1050/",
+    "https://natlawreview.com/press-releases/commercial-aircraft-manufacturing-market-size-reach-40837billion-2030-cagr",
+    "https://www.linkedin.com/pulse/commercial-aircraft-manufacturing-market-size-soar-uel3f",
+    "https://www.expertmarketresearch.com/reports/commercial-aircraft-market"
+   ]
+  },
+  {
+   "query": "commercial aircraft market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "https://www.iata.org/en/publications/economics/reports/the-global-commercial-aircraft-fleet/",
+    "https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing",
+    "https://sites.lsa.umich.edu/mje/2024/05/08/comacs-impact-on-the-future-of-the-airbus-boeing-duopoly/",
+    "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "https://www.investopedia.com/ask/answers/050415/what-companies-are-major-players-airline-supply-business.asp",
+    "https://www.statista.com/topics/3697/airbus-and-boeing/?srsltid=AYCX9vIw44TmJhNVUVrmzEIPgJnIMe1vezAFntc4M1OWMqCCNGNJVLiA",
+    "https://www.linkedin.com/posts/akshay-s-s-3a2a3938_boeing-and-airbus-are-the-two-dominant-players-activity-7447018623807844353-IO0G",
+    "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/"
+   ]
+  },
+  {
+   "query": "commercial aircraft market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketdataforecast.com/market-reports/aircraft-market",
+    "https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp",
+    "https://www.precedenceresearch.com/aircraft-market",
+    "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "https://www.luc.edu/media/lucedu/law/centers/antitrust/pdfs/publications/newsviews/antitrust-implications_budka_march-2024.pdf",
+    "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/",
+    "https://www.boeing.com/commercial/market/commercial-market-outlook",
+    "https://www.linkedin.com/pulse/north-america-aircraft-market-share-competitive-benchmarking-lpblc/",
+    "https://www.sciencedirect.com/science/article/pii/S2941198X24000125",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "commercial aircraft market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356",
+    "https://www.custommarketinsights.com/report/commercial-aircraft-market/",
+    "https://www.ibisworld.com/global/industry/global-commercial-aircraft-manufacturing/1050/",
+    "https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market",
+    "https://www.airbus.com/en/products-services/commercial-aircraft/global-market-forecast",
+    "https://www.precedenceresearch.com/aircraft-market",
+    "https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304",
+    "https://dataintelo.com/report/global-commercial-aircraft-market",
+    "https://www.facebook.com/01indiapo/posts/top-10-worlds-largest-commercial-aviation-enterprises-by-market-capitalization-o/1090484223903810/",
+    "https://www.maximizemarketresearch.com/market-report/commercial-aircraft-market/222548/"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,1927 @@
+{
+ "name": "軍用ドローン",
+ "en": "military drone",
+ "aliases": [
+  "防衛用ドローン",
+  "小型無人機",
+  "UAS"
+ ],
+ "context": "5 防衛 ①小型無人航空機",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:45:48.492547+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "軍用ドローン市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場は2025年に182億米ドルと評価され、2026年には209億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Defense News. “U.S. Navy Awards Boeing $562 Million Contract for First Production MQ-25A Stingray Tanker Drones.” thedefensenews.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場の市場規模は2025年に182億米ドルと推定され、2026年には209億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍用ドローン市場は、2037年まで安定した成長が見込まれています",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本の軍用ドローン市場規模は1,608億米ドルでした",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ドローン市場は、低コスト、迅速な生産、大量展開への適性といった利点を背景に、予測期間中に12%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドドローン市場は、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "オプションで操縦可能なドローン市場は、予測期間中に11.50%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー駆動ドローン市場は、バッテリー技術の進歩と、低騒音・低メンテナンスシステムの需要増加を背景に、予測期間中に年平均成長率（CAGR）12.40%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、防衛戦略全体にわたる無人システムの深い統合、高水準かつ持続的な軍事支出、先進技術エコシステム、そして強力な国内製造能力に支えられ、2025年には38%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国防総省は2025年に無人システムに約101億ドルを割り当て、その大部分は空中ドローンと自律機能に向けられており、強力かつ持続的な需要創出を示している",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の軍用ドローン市場は、政府主導の産業政策と輸出意欲に支えられた国内ドローン製造エコシステムの急速な拡大により、予測期間中に年平均成長率（CAGR）13.40%で最も速い成長を遂げると予想されています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場：市場規模・需要と2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（グループ1、グループ2、グループ3、グループ4、グループ5）、用途別（ISR、戦闘、その他）、射程距離別（短距離、中距離、長距離）、技術別（固定翼、回転翼）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、南米および中央アメリカ）",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模は、2025年の161億1000万米ドルから2034年には340億米ドルに達すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2026年から2034年にかけて年平均成長率（CAGR）8.7%を記録すると見込まれている",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "「軍用ドローン市場規模と予測（2021年～2034年）」レポートは、以下の分野を網羅した市場の詳細な分析を提供します",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル軍事ドローン市場規模と予測 - 2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月、インドは、31 MQ-9B捕食者ドローンを獲得するために、米国とUSD 3.5億の取引を確定しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームインサイト(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製品の種類 インサイト(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域洞察(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "軍事ドローン市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用ドローン市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.59 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 45.41 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 26.61 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のUSD 15.59億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛用ドローン市場に関する当社の調査レポートによると、市場は予測期間中に約 3% の CAGR で成長し、2037 年までに約 400億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2024 年の防衛用ドローン市場規模は約 120億米ドルと記録されています",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "これら 3 つのサブセグメントのうち、防衛用ドローン市場は、2037 年までに合計市場シェアが約 50% 以上となり、EVLOS (Extended Visual Line of Sight) セグメントが独占することになります",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年に、日本の安全市場は 1,845 億米ドルの収益を達成すると予想されます",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場は、2024～2029年にかけて102億9,280万米ドル、予測期間中のCAGRは13.1％で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、軍用ドローン市場の全体的な分析、市場規模・予測、動向、成長促進要因、課題、約25のベンダーを網羅したベンダー分析などを掲載しています",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模実績",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場規模およびシェアレポート（2035年）",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場は、2025年に9億6,670万米ドルと評価されました",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年から2035年にかけて年平均成長率（CAGR）11.5％で拡大すると予想されており、2035年末までに24億8,580万米ドルを超えると見込まれています",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "これは、2026年度に向けた初期予算要求として、12月に高市早苗首相率いる内閣が承認した、9兆400億円（約580億米ドル）に達する防衛予算の暫定案にも表れています",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2%のCAGR",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）13.40%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別に見ると、配送分野は予測期間中に年平均成長率（CAGR）10%を記録すると推定される",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "速度別に見ると、超音速セグメントは予測期間中に年平均成長率（CAGR）11%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "推進方式別に見ると、バッテリー駆動ドローン分野は予測期間中に年平均成長率（CAGR）12.40%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ドローン市場は、低コスト、迅速な生産、大量展開への適性といった利点を背景に、予測期間中に12%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "情報収集・監視・偵察（ISR）分野は2025年に市場を牽引し、軍事作戦におけるリアルタイムの状況認識と継続的な監視において重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）11.50%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "配送分野は、複雑でリスクの高い環境における迅速な無人物流へのニーズの高まりにより、予測期間中に年平均成長率（CAGR）10%を記録し、最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には亜音速ドローンが市場を席巻し、予測期間中に11%の成長率で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "超音速ドローン分野は、高速攻撃能力と迅速な対応任務に対する需要の高まりを背景に、年平均成長率（CAGR）12.50%と最も速い成長が見込まれています",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2026年から2034年にかけて年平均成長率（CAGR）8.7%を記録すると見込まれている",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の年間平均成長率（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに、化合物の年間成長率(CAGR)を展示",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "彼は、Fortune 500 企業や新興企業にサービスを提供し、幅広い事業拡大や市場参入戦略でクライアントを支援してきました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて、世界軍用ドローン市場のCAGRが11.3%に投影される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRの14.3%",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測CAGR (2025～2032):",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーソニックドローンは、2025年から2032年までの最速成長率を記録すると予想され、先進の敵防御システムを貫通できる次世代戦闘ドローンへの投資が増えています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド/トランスディメンタルセグメントは、2025と2032の間の最速のCAGRで成長すると予想され、垂直テイクオフ機能と固定翼設計の拡張範囲を組み合わせた多目的UAVの需要が高まります",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド燃料電池セグメントは、2032年までに最速の成長率を発揮し、エネルギー密度を低給油時間と組み合わせることで、高耐久のミッションに理想的です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "垂直テイクオフは、2025〜2032年の間に最速のレートで成長する予測であり、都市監視、海洋操作、および制限された地形で回転翼およびハイブリッドドローンの拡大展開によって浄化されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "<25キログラムのセグメントは、2025年から2032年の間に最速のCAGRを登録し、近隣の戦闘、特殊オプス、ボーダーパトロールにおけるマイクロドローンやミニドローンの普及率が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛用ドローン市場に関する当社の調査レポートによると、市場は予測期間中に約 3% の CAGR で成長し、2037 年までに約 400億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場は、2024～2029年にかけて102億9,280万米ドル、予測期間中のCAGRは13.1％で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "前年比[2025年] 11.3%",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 13.1%",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年から2035年にかけて年平均成長率（CAGR）11.5％で拡大すると予想されており、2035年末までに24億8,580万米ドルを超えると見込まれています",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月4日、株式会社SUBARUは、群馬製作所矢島工場における再生可能エネルギー利用拡大のため、東京電力エナジーパートナーおよび富士テクニカルと、オフサイト型コーポレートPPA（電力購入契約）を新たに締結したと正式に発表しました",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "The military drone market was valued at USD 18.2 billion in 2025, is projected to reach USD 20.9 billion in 2026, and is forecast to expand at a CAGR of 12.9% from 2026 to 2035, reaching USD 62.3 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sustained DoD UAS budget growth through FY2027 supports front-loaded CAGR in North American market revenue",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous systems adoption raises effective ASP per platform, supporting revenue CAGR outpacing unit volume CAGR through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 62.36 billion by 2035, growing at a CAGR of 12.9% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global military drones market size is projected to hit around USD 18.23 billion by 2026 and is anticipated to reach around USD 35.96 billion by 2035, growing at a CAGR of 7.85% from 2026 to 2035. The military drones market is driven by growing defence spending, governments are modernizing defence technologies and growing demand for real time battlefield intelligence.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 7.85% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific region is expected to expand at the largest CAGR of 15.40% between 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. military drones market size is estimated at USD 4.26 billion in 2025 and is expected to be worth around USD 9.30 billion by 2035, at a CAGR of 8.12% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The region in Asia-Pacific is anticipated to have the greatest CAGR of 15.40%. This is due to the increasing defense spending, growing",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global military drones market?",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is projected to witness steady growth at a CAGR of 6.4% during 2026–2032.",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global military drone market was valued at USD 29.39 billion in 2025 and is projected to grow from USD 32.33 billion in 2026 to USD 46.92 billion by 2032, registering a CAGR of around 6.4% during the 2026-32 forecast period.",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Military Drone Market is expected to grow at a CAGR of around 6.4% from 2026 to 2032.",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global military drone market size was valued at USD 47.4 billion in 2025 and is projected to grow from USD 54.2 billion in 2026 to USD 98.2 billion by 2033, at a CAGR of 8.9% from 2026 to 2033. The market in North America dominated with a revenue share of 40% in 2025. The market growth is driven by rapid technological advancements in AI,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 8.9%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The hybrid segment is expected to register the fastest CAGR of 12% from 2026 to 2033, driven by its unique versatility in combining fixed-wing range with rotary-wing hover precision for vertical takeoffs and pinpoint landings, enabling multi-mission adaptability for tactical strikes,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The fully autonomous segment is expected to register the fastest CAGR from 2026 to 2033, driven by exponential progress in AI algorithms,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "軍用ドローン市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場シェア（用途別）、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃・戦闘用途は2025年の市場収益の28.0%を占め、2035年には237億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別軍事用ドローン市場シェア（2025年・2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に軍事用ドローン市場の売上高の38.2%を占め、2035年には233.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍用ドローン市場調査、規模、シェア、傾向、予測2037年",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "ロシアの軍事負担（GDPに占める軍事費の割合）は2023年に5.9%となり、軍事費は政府支出全体の16%を占めました",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "主に空中監視と目標捕捉に使用されているエアロバイロンメント社のRQ-11レイヴンは、米軍ドローン艦隊の60%以上を占めています",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "技術に基づくと、遠隔操作型ドローンは2037年末までに84.2%のシェアを占めると予想されます",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼型は、高高度飛行、長距離移動、長時間滞空が可能なことから、2037年までに最大のシェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "北米の軍用ドローン業界は、2037年まで市場シェアの大部分を占めると予想されています",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、トレンド分析レポート：タイプ別（小型、戦術型、戦略型）、用途別（情報収集・監視・偵察（ISR）、配送）、ペイロード別（150kg未満、151～1,200kg、1,200kg超）、速度別（亜音速、超音速）、翼型別（固定翼、回転翼、ハイブリッド）、運用モード別（遠隔操縦、オプション操縦、完全自律）、推進方式別（燃料式ドローン、バッテリー式ドローン）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38%の市場シェアを占め、軍用ドローン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年の収益シェア38％で市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "種類別に見ると、戦術ドローン分野は2025年に35%の市場シェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "積載量別に見ると、2025年には151～1,200kg未満のセグメントが市場を席巻し、35%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "翼の種類別に見ると、2025年には固定翼機が全体の55％を占める見込みだ",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "運用方式別に見ると、遠隔操縦型ドローンが2025年には市場をリードし、60%という圧倒的なシェアを獲得すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、戦術ドローン分野が市場シェア35%を占め、市場を席巻しました",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ペイロード容量151～1200kgのセグメントは、ペイロード容量と運用上の柔軟性のバランスの良さから、2025年には市場シェア35%を占め、圧倒的なシェアを獲得しました",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼ドローンは、その長い飛行時間、広い航続距離、そして広大な地理的エリアを効率的にカバーできる能力により、2025年には市場シェアの55%を占め、圧倒的なシェアを獲得しました",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔操縦ドローンは、その運用信頼性と軍隊における実績の高さから、2025年には全体の60%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、防衛戦略全体にわたる無人システムの深い統合、高水準かつ持続的な軍事支出、先進技術エコシステム、そして強力な国内製造能力に支えられ、2025年には38%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は世界の無人航空機（UAV）研究開発費の80%以上、調達額の55%以上を占めており、比類のない供給力とイノベーション能力を反映している",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38％のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポート 対象範囲：タイプ別（グループ1、グループ2、グループ3、グループ4、グループ5）、用途別（ISR、戦闘、その他）、射程距離別（短距離、中距離、長距離）、技術別（固定翼、回転翼）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、南米および中央アメリカ）",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事ドローン市場シェア&機会 2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "軍事ドローン市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的なドローンセグメントは、2025年に48.4%の推定シェアを持つ市場をリードします",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼セグメントは、2025年に50.1%のシェアでドミナートする予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に41.3%のシェアで市場をリードすると推定されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に24.6%のシェアを誇るアジア・パシフィックは、最も急速に成長する地域であることを計画しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "高度の長期耐久性(HALE)の無人機とも呼ばれる戦略的なドローンは、2025年に48.4%のシェアを保持する最大のセグメントです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に50.1%のシェアを誇る最大のセグメントとして固定翼セグメントが出現しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に41.30%のシェアを誇る北米は、世界的な軍事ドローン市場を支配する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に24.6%のシェアを誇るアジア太平洋地域は、世界的な軍事ドローン市場における最速成長を期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームの面では、戦略的なドローンのセグメントは、2025年の市場収益シェアを支配すると推定されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "軍事ドローン市場規模、シェア&予測2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用ドローン市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Subsonic セグメントは、2024 年に 63.3% の市場シェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的セグメントは、2024年に最大の収益シェアを保有し、地政のホットスポットを横断する長距離ミッションと高度監視における重要な役割を果たしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "サブソニックドローンは、2024年に市場を支配し、63.3%の実質的なシェアを占め、インテリジェンス、監視、再燃(ISR)の長い飛行耐久性、燃料効率、安定したナビゲーションが重要である",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼セグメントは、2024年に最も高い市場シェアを確保し、その空力効率と長い飛行耐久性に大きな属性を持ち、長距離監視と戦闘操作の優先構成をしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動離陸および着陸(ATOL)セグメントは、操作精度で2024年に最大の市場シェアをキャプチャし、熟練したパイロット入力の必要性を減らし、リモートまたは敵対的な環境での展開の信頼性を高めます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "BLOSセグメントは、2024年に最大のシェアを保有し、国境を越えた戦略的業務の必要性を支持し、対比的な領域に深く関与しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": ">6時間セグメントは、2024年に最大の市場シェアをキャプチャし、長期にわたるミッションのための戦略的なドローンの展開を増加させることでサポートされています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "北アメリカは、2024年に40.5%の最大の収益シェアで軍事ドローン市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国軍用ドローン市場は、2024年に北米で最大の収益シェアを獲得し、防衛省から大幅な投資と、すべての軍の支店全体にわたるドローン統合のための包括的なロードマップによって運営されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、2024年のアジア太平洋軍ドローン市場で最大の収益シェアを獲得し、国家の積極的な軍事近代化計画、無人機の大量生産、およびISRおよび戦闘ドローンアプリケーションに関する戦略的焦点を支持しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の防衛用ドローン市場、調査、規模、シェア、傾向、メーカーレポート洞察と将来予測調査 2037年",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "防衛用ドローン市場調査レポートの規模とシェア、成長機会、およびトレンド洞察分析―製品タイプ別（固定翼、ハイブリッド、回転翼）、テクノロジー別（遠隔操作ドローン、半自律ドローン、自律ドローン）、範囲別（視程（VLOS）、拡張視程（EVLOS）、視線 (BLOS))、システム別、アプリケーション別 、および地域別―世界予測 2025―2037 年",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "軍用ドローン市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場の主要企業には、IAI、Northrop Grumman、Thales Group、Elbit Systems、General Atomicsなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位を維持し、市場シェアを拡大​​するため、世界の軍用ドローン業界の主要企業は最先端技術に注力しています",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "pass": 3
+   },
+   {
+    "quote": "北米：UAV研究開発への大規模投資と主要企業の存在が市場支配力を牽引",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の分析では、主要な市場動向、世界および地域的な枠組み、主要企業、規制、および最近の市場動向を網羅しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場における市場集中度、ヒートマップ分析、主要企業、および最近の動向を網羅した業界概況と競争分析",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゼネラルアトミック・エアロシステム株式会社、ノースロップ・グルムマン株式会社、ロックヒード・マーティン株式会社、ボーイング、エアロビロンメント株式会社、テクトロンシステムズ株式会社、イスラエルエアロスペース・インダストリーズ株式会社、タレスグループ、BAEシステムズ、SAABグループ、ベイカール、トルコ航空産業(タイ)、ZALAエアログループ、シールドAIは主要プレイヤーです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍用ドローン市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の防衛用ドローン市場の成長に重要な役割を果たす主要な主要企業には、DroneShield Limited、Dedrone Holdings, Inc.、HENSOLDT AG、ORELIA GROUP、Advanced Protection Systems S.A.などが含まれます",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の防衛用ドローン市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析によるセグメント、ベンダー情勢が含まれています",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "Teal Drones、Shield AI、ザ・ボーイング・カンパニー、DJI、タレス・グループ、AeroVironment Inc、ノースロップ・グラマン、エルビット・システムズなどは、日本の軍事用ドローン市場における主要企業の一部です",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場の主要企業",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場における主要企業は以下の通りです",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場の主要企業はどこですか？",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "日本の軍事用ドローン市場の主要企業には、三菱重工業株式会社、川崎重工業株式会社、株式会社SUBARU、ヤマハ発動機株式会社、NEC株式会社などが含まれます",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in military drones market?",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in military drones market include IAI, Northrop Grumman, Thales Group, Elbit Systems, General Atomics.",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players -",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tekever, a military drone-maker, unveiled its plan to invest £400m in the UK after winning a major contract with the country's Royal Air Force (RAF), as mounting geopolitical uncertainty draws governments and defence startups closer together.?The British-Portuguese startup promises to create up to 1,000 new jobs as part of the deal",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the military drones market?",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the military drones market are Northrop Grumman Corporation, Anduril Industries, Inc., Shield AI Inc., Animal Dynamics Ltd, Elbit Systems Ltd., Asteria Aerospace Limited, Teal Drones, Inc., Aeronautics Group, Aeryon Labs Inc, Israel Aerospace Industries, Thales Group, The Boeing Company, Saab AB, AeroVironment, Inc., and Others.",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Military Drone Market",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investments from major players such as the U.S. DoD's Replicator initiative, NATO modernization programs, and partnerships between defense contractors and tech firms are accelerating R&D in stealth, 5G-enabled real-time communication, and counter-drone defenses.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Northrop Grumman Corporation, and Lockheed Martin Corporation., among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in military drone market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the military drone market include AeroVironment, Inc., Elbit Systems Ltd., Lockheed Martin Corporation, Nothrop Grumman Corporation, RTX Corporation, Shield AI, SZ DJI Technologies Co. Ltd., Teal Drones, Inc., Thales Group, The Boring Company",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/military-drone-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the Military Drone Market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The military drone market is moderately consolidated, with established defense contractors, aerospace manufacturers, and specialized defense technology companies. Key players such as Northrop, General Atomics Aeronautical Systems, Israel Aerospace, and AeroVironment are estimated to account for 35–45% of the global military drone market share.",
+    "url": "https://straitsresearch.com/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the Global Military Drone Market segmentation highlighted North America’s majority holding and the significance of Europe and APAC in shaping future military strategies, reflecting a competitive landscape with ongoing innovations and investments.",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Military Drone Market include",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Military Drone Market?",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Military Drone Market include General Atomics, Northrop Grumman, Lockheed Martin, BAE Systems, Elbit Systems, Thales Group, Textron, AeroVironment, and Leonardo.",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Military Drone Technology Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は世界の無人航空機（UAV）研究開発費の80%以上、調達額の55%以上を占めており、比類のない供給力とイノベーション能力を反映している",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Programs that front-load certification investment and secure multi-nation type acceptance early maintain schedule advantage; those that do not face structural delivery delays that redistribute revenue across the 2026-2032 window",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Department of State approved a USD 131 million Foreign Military Sale to India for the Indo-Pacific Maritime Domain Awareness program through the DSCA. Investments in maritime domain awareness increase demand for long-endurance surveillance drones equipped with advanced ISR payloads for persistent maritime monitoring.",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, 22 NATO Allies are expected to spend at least 2% of GDP on defense, compared with only three Allies in 2014.Higher defense spending across NATO members is accelerating investments in ISR platforms, combat UAVs, and autonomous military technologies.",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investments from major players such as the U.S. DoD's Replicator initiative, NATO modernization programs, and partnerships between defense contractors and tech firms are accelerating R&D in stealth, 5G-enabled real-time communication, and counter-drone defenses.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The intelligence, surveillance, and reconnaissance (ISR) dominated the market in 2025, driven by rising defense investments in real-time battlefield awareness, miniaturized high-resolution sensors, and AI-enhanced",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Fully Autonomous segment is the fastest-growing technology tier, driven by U.S. DoD's Replicator Initiative, DARPA's swarm programs, and analogous PLA investments enabling AI-guided mass drone deployment through 2033.",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding drone roles in military logistics, cargo resupply, and AI-enabled swarm operations represent high-growth revenue streams, underpinned by U.S. Army ExLF and NATO multi-domain operations doctrine investments through 2033.",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "U.K. government announced a military drone investment exceeding GBP 5 billion over four years on June 29, 2026, as part of its defense investment plan. The program includes project NYX, targeting up to 24 autonomous armed drones by 2030.",
+    "url": "https://straitsresearch.com/report/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "£350 million investment",
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "pass": 3
+   },
+   {
+    "quote": "3.3.1 Dependence on government budgets and reconciliation funding",
+    "url": "https://www.emergenresearch.com/industry-report/military-drones-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "軍用ドローン市場規模 ・予測レポート 2026〜2035年 — 軍用ドローン市場規模 ・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 — 軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場 規模・予測レポート 2026〜2035年 — 軍用ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] — 軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 — 軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン の世界 市場 2025 ～2029年 - アットプレス — 軍用ドローン の世界 市場 2025 ～2029年 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場 規模、シェア、動向 |成長レポート [2034] — 軍用ドローン市場 規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drones Market Size , Forecasts Report 2026-2035 — Military Drones Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > militar...",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drones Market Companies, Size & Trends 2026-2035 — Military Drones Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Analysis, Size , and Forecast 2026-2030 — Military Drone Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drones Market Size, Forecasts Report 2026-2035 — Military Drones Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > militar...",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Trends, Size & Forecast to 2032 — Military Drone Market Trends, Size & Forecast to 2032 Markntel Advisor https://www.marknteladvisors.com > ...",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Size, Share , Trends, Growth Report, 2034 — Military Drone Market Size, Share , Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Size And Growth Report, 2026-2033 — Military Drone Market Size And Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Share & Growth Analysis, 2033 — Military Drone Market Share & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Size, Trends, Analysis | Outlook 2035 — Military Drone Market Size, Trends, Analysis | Outlook 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Size, Share, Trends, Growth Report, 2034 — Military Drone Market Size, Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "pass": 3
+   },
+   {
+    "quote": "Military Drone Market Analysis, Size, and Forecast 2026-2030 — Military Drone Market Analysis, Size, and Forecast 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見通しである"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される"
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される"
+   },
+   {
+    "value": "11.2",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです"
+   },
+   {
+    "value": "13.40",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）13.40%で成長すると予想されている"
+   },
+   {
+    "value": "10",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "用途別に見ると、配送分野は予測期間中に年平均成長率（CAGR）10%を記録すると推定される"
+   },
+   {
+    "value": "11",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "速度別に見ると、超音速セグメントは予測期間中に年平均成長率（CAGR）11%で成長すると予測されている"
+   },
+   {
+    "value": "12.40",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "推進方式別に見ると、バッテリー駆動ドローン分野は予測期間中に年平均成長率（CAGR）12.40%で成長すると予想されている"
+   },
+   {
+    "value": "11.50",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "情報収集・監視・偵察（ISR）分野は2025年に市場を牽引し、軍事作戦におけるリアルタイムの状況認識と継続的な監視において重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）11.50%で成長すると予想されています"
+   },
+   {
+    "value": "12",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています"
+   },
+   {
+    "value": "12.50",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "超音速ドローン分野は、高速攻撃能力と迅速な対応任務に対する需要の高まりを背景に、年平均成長率（CAGR）12.50%と最も速い成長が見込まれています"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "quote": "同市場は2026年から2034年にかけて年平均成長率（CAGR）8.7%を記録すると見込まれている"
+   },
+   {
+    "value": "11.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "2025年から2032年にかけて、世界軍用ドローン市場のCAGRが11.3%に投影される"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "quote": "CAGRの14.3%"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "quote": "軍用ドローン市場は、2024～2029年にかけて102億9,280万米ドル、予測期間中のCAGRは13.1％で成長すると予測されています"
+   },
+   {
+    "value": "11.5",
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "quote": "同市場は2025年から2035年にかけて年平均成長率（CAGR）11.5％で拡大すると予想されており、2035年末までに24億8,580万米ドルを超えると見込まれています"
+   },
+   {
+    "value": "12.9",
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "quote": "The military drone market was valued at USD 18.2 billion in 2025, is projected to reach USD 20.9 billion in 2026, and is forecast to expand at a CAGR of 12.9% from 2026 to 2035, reaching USD 62.3 billion by 2035."
+   },
+   {
+    "value": "7.85",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "quote": "The global military drones market size is projected to hit around USD 18.23 billion by 2026 and is anticipated to reach around USD 35.96 billion by 2035, growing at a CAGR of 7.85% from 2026 to 2035. The military drones market is driven by growing defence spending, governments are modernizing defenc"
+   },
+   {
+    "value": "15.40",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "quote": "The Asia-Pacific region is expected to expand at the largest CAGR of 15.40% between 2026 to 2035."
+   },
+   {
+    "value": "8.12",
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "quote": "The U.S. military drones market size is estimated at USD 4.26 billion in 2025 and is expected to be worth around USD 9.30 billion by 2035, at a CAGR of 8.12% from 2026 to 2035."
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "quote": "The industry is projected to witness steady growth at a CAGR of 6.4% during 2026–2032."
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "quote": "The global military drone market size was valued at USD 47.4 billion in 2025 and is projected to grow from USD 54.2 billion in 2026 to USD 98.2 billion by 2033, at a CAGR of 8.9% from 2026 to 2033. The market in North America dominated with a revenue share of 40% in 2025. The market growth is driven"
+   },
+   {
+    "value": "12",
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "quote": "The hybrid segment is expected to register the fastest CAGR of 12% from 2026 to 2033, driven by its unique versatility in combining fixed-wing range with rotary-wing hover precision for vertical takeoffs and pinpoint landings, enabling multi-mission adaptability for tactical strikes,"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される"
+   },
+   {
+    "value": "9.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "42.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される"
+   },
+   {
+    "value": "28.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "攻撃・戦闘用途は2025年の市場収益の28.0%を占め、2035年には237億米ドルに達すると予測される"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される"
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "北米は2025年に軍事用ドローン市場の売上高の38.2%を占め、2035年には233.8億米ドルに達すると予測される"
+   },
+   {
+    "value": "5.9",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "quote": "ロシアの軍事負担（GDPに占める軍事費の割合）は2023年に5.9%となり、軍事費は政府支出全体の16%を占めました"
+   },
+   {
+    "value": "16",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "quote": "ロシアの軍事負担（GDPに占める軍事費の割合）は2023年に5.9%となり、軍事費は政府支出全体の16%を占めました"
+   },
+   {
+    "value": "60",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "quote": "主に空中監視と目標捕捉に使用されているエアロバイロンメント社のRQ-11レイヴンは、米軍ドローン艦隊の60%以上を占めています"
+   },
+   {
+    "value": "84.2",
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "quote": "技術に基づくと、遠隔操作型ドローンは2037年末までに84.2%のシェアを占めると予想されます"
+   },
+   {
+    "value": "38",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "北米は2025年に38%の市場シェアを占め、軍用ドローン市場を牽引しました"
+   },
+   {
+    "value": "35",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "種類別に見ると、戦術ドローン分野は2025年に35%の市場シェアを占める見込みである"
+   },
+   {
+    "value": "55",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "翼の種類別に見ると、2025年には固定翼機が全体の55％を占める見込みだ"
+   },
+   {
+    "value": "60",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "運用方式別に見ると、遠隔操縦型ドローンが2025年には市場をリードし、60%という圧倒的なシェアを獲得すると予測されている"
+   },
+   {
+    "value": "80",
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "quote": "米国は世界の無人航空機（UAV）研究開発費の80%以上、調達額の55%以上を占めており、比類のない供給力とイノベーション能力を反映している"
+   },
+   {
+    "value": "48.4",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "戦略的なドローンセグメントは、2025年に48.4%の推定シェアを持つ市場をリードします"
+   },
+   {
+    "value": "50.1",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "固定翼セグメントは、2025年に50.1%のシェアでドミナートする予定です"
+   },
+   {
+    "value": "41.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "北米は2025年に41.3%のシェアで市場をリードすると推定されています"
+   },
+   {
+    "value": "24.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "2025年に24.6%のシェアを誇るアジア・パシフィックは、最も急速に成長する地域であることを計画しています"
+   },
+   {
+    "value": "41.30",
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "2025年に41.30%のシェアを誇る北米は、世界的な軍事ドローン市場を支配する見込みです"
+   },
+   {
+    "value": "63.3",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "quote": "Subsonic セグメントは、2024 年に 63.3% の市場シェアで市場を支配しました"
+   },
+   {
+    "value": "40.5",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "quote": "北アメリカは、2024年に40.5%の最大の収益シェアで軍事ドローン市場を支配しました"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/military-drone-market-122791",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/7108434",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/military-drone-market-221577711.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/military-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/military-drone-market-analysis",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insideunmannedsystems.com/market-military-drones-will-surge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/military-drone-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/unmanned-aerial-vehicles-uav-market-662.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/WallStreetbetsELITE/comments/1hododl/the_top_drone_stocks_of_2025/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nextmsc.com/report/military-drone-market-ad3921",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/top-military-drone-market-companies-driving-defense-innovation.asp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/military-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/global-military-drones-market-size-171300074.html?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "軍用ドローン 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "https://straitsresearch.com/jp/report/military-drone-market",
+    "https://jp.linkedin.com/pulse/%E8%BB%8D%E7%94%A8%E7%9B%A3%E8%A6%96%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%88%86%E6%9E%90%E3%81%A8115%E3%81%AEcagr-axyvor-core-upqhe",
+    "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "https://www.sphericalinsights.com/blogs/how-drone-warfare-is-transforming-modern-conflict-behind-the-iran-israel-conflict",
+    "https://newscast.jp/news/3061026",
+    "https://www.marketreportsworld.com/jp/market-reports/military-grade-drone-market-14727159",
+    "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
+   ]
+  },
+  {
+   "query": "軍用ドローン 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://www.theinsightpartners.com/ja/reports/military-drone-market",
+    "https://www.youtube.com/watch?v=72Hmsy2MfQk",
+    "https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market",
+    "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "https://jp.linkedin.com/pulse/%E6%AD%A6%E8%A3%85%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E8%A6%8F%E6%A8%A1-2026-2033105%E3%81%AEcagr%E3%82%92%E5%90%AB%E3%82%80%E8%A9%B3%E7%B4%B0%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88-truestat-partners-ofe0e",
+    "https://www.sdki.jp/reports/defense-drone-market/116417",
+    "https://www.fortunebusinessinsights.com/jp/軍用ドローン市場-102181"
+   ]
+  },
+  {
+   "query": "軍用ドローン 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.atpress.ne.jp/news/7108434",
+    "https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181",
+    "https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "https://straitsresearch.com/jp/report/military-drone-market",
+    "https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276"
+   ]
+  },
+  {
+   "query": "military drone market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "https://www.marketsandmarkets.com/Market-Reports/military-drone-market-221577711.html",
+    "https://www.precedenceresearch.com/military-drones-market",
+    "https://www.technavio.com/report/military-drone-market-analysis",
+    "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "https://www.grandviewresearch.com/industry-analysis/drone-market-report",
+    "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "https://market.us/report/drone-market/",
+    "https://straitsresearch.com/report/military-drone-market",
+    "https://www.expertmarketresearch.com/reports/military-drone-market"
+   ]
+  },
+  {
+   "query": "military drone market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/military-drone-market-221577711.html",
+    "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "https://www.marknteladvisors.com/research-library/military-drone-market.html",
+    "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "https://insideunmannedsystems.com/market-military-drones-will-surge/",
+    "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "https://www.skyquestt.com/report/military-drone-market/companies",
+    "https://straitsresearch.com/report/military-drone-market",
+    "https://www.coherentmarketinsights.com/industry-reports/military-drone-market"
+   ]
+  },
+  {
+   "query": "military drone market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/military-drone-market.asp",
+    "https://straitsresearch.com/report/military-drone-market",
+    "https://www.marketsandmarkets.com/Market-Reports/unmanned-aerial-vehicles-uav-market-662.html",
+    "https://www.marketresearchfuture.com/reports/military-drone-market-1667",
+    "https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/",
+    "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "https://www.skyquestt.com/report/military-drone-market/companies",
+    "https://www.psmarketresearch.com/market-analysis/military-drone-market-report",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "military drone market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/military-drone-market",
+    "https://www.marketsandmarkets.com/Market-Reports/military-drone-market-221577711.html",
+    "https://www.fortunebusinessinsights.com/military-drone-market-102181",
+    "https://www.technavio.com/report/military-drone-market-analysis",
+    "https://www.skyquestt.com/report/military-drone-market/companies",
+    "https://www.reddit.com/r/WallStreetbetsELITE/comments/1hododl/the_top_drone_stocks_of_2025/",
+    "https://cset.georgetown.edu/publication/the-u-s-aerial-drone-market/",
+    "https://www.grandviewresearch.com/industry-analysis/military-drone-market-report",
+    "https://www.facebook.com/TheStarKenya/posts/between-2022-and-2025-global-military-drone-exports-totalled-16822-units-with-th/1582947290541141/",
+    "https://www.nextmsc.com/report/military-drone-market-ad3921"
+   ]
+  }
+ ],
+ "missing": {}
+}

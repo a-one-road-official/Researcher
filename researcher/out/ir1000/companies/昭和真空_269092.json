@@ -1,0 +1,1647 @@
+{
+ "name": "昭和真空",
+ "aliases": [],
+ "context": "証券コード6384／機械／スタンダード（内国株式）／2026.03期 売上高9,324百万円 営業利益率32.8%",
+ "researched_at": "2026-11-02T14:56:57.380177+00:00",
+ "official_url": "https://www.showashinku.co.jp/",
+ "identified_by": "search:yahoo_jp:昭和真空",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1953年9月",
+    "url": "https://www.showashinku.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1958年8月",
+    "url": "https://www.showashinku.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1958年 8月26日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1958年",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "175名（2026年3月末現在）",
+    "url": "https://www.showashinku.co.jp/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結: 240人 単独: 192人 （2023年3月31日現在） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "175名",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "真空蒸着装置、スパッタリング装置、イオンプレーティング装置、化学気相堆積装置及びその他真空装置の製造、販売、輸出入及びそれら中古品の売買",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": "真空装置の開発・製造・販売",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 101億2781万3000円 単独: 96億9523万0000円 （2023年3月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "昭和真空の製品一覧",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの期待を上回る真空装置とサービスの提供を実現します",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・サービス",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.showashinku.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・サービス",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・サービス",
+    "url": "https://www.showashinku.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.showashinku.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・サービス",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "北陸サービスセンターを開設",
+    "url": "https://www.showashinku.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東北サービスセンターを開設",
+    "url": "https://www.showashinku.co.jp/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・サービス",
+    "url": "https://www.showashinku.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "生産終了製品のご案内",
+    "url": "https://www.showashinku.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "いる金融商品取引所等 直接所有分 合算対象分 計",
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20260626_shareholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 「ULV ACGROUP」商標の使用等により、当社製品",
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20260626_shareholder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な技術をたえず学び、 お客様の期待を上回る真空装置とサービスの提供に努めるとともに、",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "極小デバイス製作や高付加価値商品への成",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "❻ 製品外装",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューションの提供に努めてまいります",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電極膜形成から機能膜形成まで、 高精度な薄膜形成に対応でき、 製品の高歩留ま りを実",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最適なメンテナンス周期での 「パーツ管理」 と 「提案型アフターサービス」 をご提供します",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルの提案型サービスを展開しています",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "作業は真空装置に精通した経験豊富なサービスエンジ",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セス、 商品などあらゆる面で環境保全に配慮すること、 また、 環境保全に貢献できる商品を社会へ提",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品質 ・ コスト ・ 納期の管理を徹底し、 顧客メリットを創造する製品を受注生産します",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした環境のなか当社グループは、国内外デバイスメーカの生産状況や次世代製品開発動向の把握に努め、",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適時に適切な製品提案をするとともに、顧客からのサンプル作製依頼や顧客との共同開発に積極的に取り組むこ",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②サービス事業",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業においては、ユーザーに対する定期的な稼働状況の確認を通じて潜在ニーズの掘り起こしを図",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業の受注高は６億80百万円（前年同四半期比71.2％増）、売上高は５億６百万円（同18.8％増）、",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 2,051 1,855",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品保証引当金 52,000 31,000",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "真空技術応用装置事業 サービス事業 合計",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業計 505,834 18.7",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業計 680,908 71.2 442,027 22.6",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業計 506,119 18.8",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水晶 光学 電子他 サービス",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イス装置及びサービス事業を中心に売上高を確保",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス（改造工事）",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 本書は金融商品取引法第24条第１項に基づく有価証券報告書を、同",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条第１項",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年６月 北陸サービスセンターを開設",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年10月 東北サービスセンターを開設",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年９月 北陸サービスセンターを閉鎖",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月 東北サービスセンターを閉鎖",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 真空技術応用装置・・・・ 主な製品は真空中で特定の基板に薄膜を形成させる装置を主とした、真空蒸",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② サービス・・・・・・・・ 主に真空技術応用装置の構成部品・付属品の販売、改造工事及び修理を行っ",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、同社製品の製造委託先、販売・保守サービスを行う会社、又は当社製品とは用途の異なる製品の製造販売会社",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（上海）有限公司 中国上海市 400千米ドル サービス事業 100.0",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "装置のサービス・",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社エフ・イー・シー 埼玉県狭山市 12,000千円 サービス事業 100.0 部品の仕入役員の兼任 ４名",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・同社製品の仕入を行っている",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "造・販売する製品に使用する、",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メーカにとって次世代製品開発による新しい技術や価値を創造する流れとなり、当社グループのキーテクノロジーで",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "負荷の少ない製品開発、",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "テレビ埼玉の製造業応援番組「ググっと!製造業」で当社が紹介されました!",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外代理店のご紹介",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "海外代理店のご紹介",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "海外代理店のご紹介",
+    "url": "https://www.showashinku.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "海外代理店のご紹介",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "海外代理店のご紹介",
+    "url": "https://www.showashinku.co.jp/ir/public/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、執行役員及び社長が指名する役職員で構成される経営会議において、気候関連を含めた当社グループの",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会から授権された範囲で、執行役員及び社長が指名する役職員で構成された経営会議により、日常の",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "採用面では、新卒採用において、通常の活動に加え、職業体験の実施、共同研究先との連携、従業員紹介制",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせを掲載しました",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算補足説明資料を掲載しました",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせを掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算補足説明資料を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算補足説明資料を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 累計期間連結業績予想数値と実績値の差異に関するお知らせ",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算補足説明資料を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.showashinku.co.jp/ir/disclose/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2半期（中間期）連結業績予想の修正に関するお知らせ",
+    "url": "https://www.showashinku.co.jp/ir/disclose/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）連結業績予想の修正に関するお知らせを掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算補足説明資料を掲載しました",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月10日",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算",
+    "url": "https://www.showashinku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月31日時点",
+    "url": "https://www.showashinku.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日～2026年3月31日",
+    "url": "https://www.showashinku.co.jp/ir/stockholders_meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.showashinku.co.jp/ir/disclose/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 累計期間連結業績予想数値と実績値の差異に関するお知らせ",
+    "url": "https://www.showashinku.co.jp/ir/disclose/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期累計期間連結業績予想数値と実績値の差異に関するお知らせ",
+    "url": "https://www.showashinku.co.jp/ir/disclose/2026.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.showashinku.co.jp/ir/result/2026.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.showashinku.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "真空の強みです",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方で、産業機器市場では在庫調整の長期化が続いたほか、スマートフォン市場",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "逼迫への対応としての安全在庫確保の動きなどを背景として、生産能力の増強や既存設備の更新に向けた投資",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これに対して当社グループは、仕入先との情報共有、重要資材について政策的な在庫確保、仕入先の分散化など",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最終消費財の需要見通しを慎重に見極め、在庫を圧縮する傾向にあります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、当社事業の競争優位性の源泉である真空技術、薄膜形成技術、装置設計・",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注は電子デバイスメーカの在庫調整で低調も、航空宇宙関連市場からの受注獲得、新規先開拓",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "ーー改めて、貴社の事業内容と独自の強みについてお聞かせください",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの強みは、真空という特定の専門分野における長年の知見と、特注品への対応力です",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "酬としての当社の普通株式又は金銭債権の総額は、年額40,000千円以内、対象取締役に対して発行又は処分をさ",
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20260717_joutoseigentsukikabushikihoushuu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守 ／ 改造工事",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設備稼働状況に回復の動きが見られ、消耗品販売や保守・メンテナンス需要が堅調に推移したことなどにより、",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ープの事業は、半導体製造装置・電子部品製造装置・成膜装置・真空ポンプ等の製造販売や国内外での保守・サー",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、同社製品の製造委託先、販売・保守サービスを行う会社、又は当社製品とは用途の異なる製品の製造販売会社",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "回復傾向にあるものの、需要の本格的な伸長には至らず、消耗品販売や保守·メンテナンス需要が想定を下回った",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社取締役の金銭報酬の額は、2018年６月26日開催の第60回定時株主総会において年額300,000千円以内（う",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "）に対し、上記報酬枠とは別枠にて、新たに譲渡制限付株式の付与のための報酬限度額を年額",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社監査役の金銭報酬の額は、1998年６月26日開催の第40回定時株主総会において年額30,000千円以内と決議",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 － 1,244",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "pass": 3
+   },
+   {
+    "quote": "当初は保守点検ができない生産会社を設立してしまう失敗もありましたが、翌年には貿易会社を立ち上げるなど、右も左も分からない現地でゼロから組織をつくる苦労を味わいました",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   },
+   {
+    "quote": "小回りの利く体制を活かし、保守点検を含めた迅速な対応を行うことで、顧客からの信頼を得ています",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "昭和真空は、 1953年の創業時より、 社会の変化によって多様化するお客様のご要望に誠実",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "な技術をたえず学び、 お客様の期待を上回る真空装置とサービスの提供に努めるとともに、",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のアプリケーション製作に貢献する真空装置を提供するために",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術として開発し、 装置というカタチにしていくことで、 お客様",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "膜、 新しい製造方法への対応など、 お客様のア",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様に喜ばれるモノづくりのため、 絶えず革新的で価値の",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いったニーズに対応し、 お客様の期待を上回る真空装置を提供",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様メリットを中心に据えた一貫体制でサポート",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品質 ・ コスト ・ 納期の管理を徹底し、 顧客メリットを創造する製品を受注生産します",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "昭和真空が扱う装置の大半は、 お客様の個別のご要望に対応",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の生産に寄与するために、 品質、 コスト、 納期の管理を",
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適時に適切な製品提案をするとともに、顧客からのサンプル作製依頼や顧客との共同開発に積極的に取り組むこ",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような環境のなか当社は、国内外の主要顧客に対する営業活動を継続して推進し、",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電子部品業界では、新規先を含め様々な用途に向けた営業を行うとともに、顧客との共同開発や顧客からの",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高につきましては、顧客都合により一部案件の納品時期が第２四半期連結会計期間以降に延期となったことな",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業においては、ユーザーに対する定期的な稼働状況の確認を通じて潜在ニーズの掘り起こしを図",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るとともに、顧客の生産性向上に向けた提案活動を推進いたしました",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "こうした取り組みに加え、ユーザーの",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 904,528 425,991 1,330,519",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 279,358 506,119 785,478",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 904,528 425,991 1,330,519",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 279,358 506,119 785,478",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "4. デバイスメーカの動向把握に努め、顧客からのサンプル作製依頼への対応や",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 顧客ニーズ、市場成長性を踏まえた次期戦略装置開発と市場投入",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 顧客との共同開発の成果実現",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらは、当社の主要取引先である電子部品・光学部品",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ことは、顧客に寄り添い真のニーズを把握し、技術を磨き、装置開発につなげていくことです",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "独自の企業力（顧客の",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "評判 気候変動への取組みの遅延による顧客信頼低下 環境に係る基本理念、方針に基づいた事業戦略の取組みによる温室効果ガス排出量削減への貢献",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 顧客ニーズの高度化、製品の開発に関わるリスク",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主要な取引先であるデバイスメーカでは、革新的な新製品の開発を適切なタイミングで実施する",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は、技術的な対応可能性及び収益性を勘案し、開発テーマについては、将来の市場、製品及び技術動向や顧客から",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開発や生産設備である当社グループの装置に対しても、取引先であるデバイスメーカから装置販売価格の引下げ要",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、当社グループの主要取引先",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設備の倒壊・破損による損害や感染症等による生産の中断等が発生した場合、顧客への納品が遅延すること等によ",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "害や感染症の未然防止、早期復旧、取引先との良好な関係の構築に努め、リスク分散に取り組んでおります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の海外工場へ出張ができないことで装置の立ち上げ作業ができないことなどにより、生産計画の遅れという形",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "適時に適切な製品提案をするとともに、顧客からのサンプル作製依頼や顧客との共同開発に積極的に取り組むこ",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電子部品業界では、新規先を含め様々な用途に向けた営業を行うとともに、顧客との共同開発や顧客からのサ",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業においては、ユーザーに対する定期的な稼働状況の確認を通じて潜在ニーズの掘り起こしを図る",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とともに、顧客の生産性向上に向けた提案活動を推進いたしました",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "しかしながら、ユーザーの設備稼働状況は",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の依頼に基づく受託実験に関しては、様々なタイプの実験装置を用意し、迅速かつニーズに応じた実験結果",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これにより、顧客の開発支援ニーズに対応するための体制を整備いたしました",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エンドユーザー・",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、株主、従業員、債権者、顧客を含む取引先、地域社会等のステークホルダーに対して責務を果たすに",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引先等との事業上の関係維持・強化につながり、当社グループの中長期的な企業価値向上に資する",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で、それぞれ特徴ある働きをする顧客にとっての生産設備や研究用の設備です",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．顧客の真のニーズをくみ取る力",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらを持続的に実現するためには、高度な専門性と顧客課題を解決する力を備えた人材の確保・育成が重",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、顧客に対しても対話を重んじています",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   },
+   {
+    "quote": "真空中で薄膜を形成する装置の製造と、顧客の要望に応じる対応力です",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   },
+   {
+    "quote": "小回りの利く体制を活かし、保守点検を含めた迅速な対応を行うことで、顧客からの信頼を得ています",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………９",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の状況は次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "69.1％減）、セグメント損失は56百万円（前年同四半期は１億１百万円の利益）となりました",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益は１億４百万円（同25.9％増）となりました",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 101,115 82,936 184,052",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの利益又は損失の金額の合計額と四半期連結損益計算書計上額との差額及び当該差額の主な内容",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 184,052",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間取引消去 5,752",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 全社費用は、主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント損失（△） △56,974 104,456 47,481",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 47,481",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間取引消去 7,223",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の受注状況をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）セグメント間の取引については相殺消去しております",
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「主要な事業の内容」欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの海外売上比率は約47.9％であり、海外にも子会社を有していることから、生産・販売活動が為替",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の状況は次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス事業の受注高は21億56百万円(前年同期比6.6%減)、売上高は22億78百万円(同16.7%減)、セグメント利",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント間の取引については相殺消去しております",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 帳簿価額(千円) 従業員数(人)建物及び構築物 機械装置及び運搬具 土地(面積㎡) その他 合計",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員(人)",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 201 (18)",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 161 (17)",
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別（水晶、光学、電子他、サービス）の受注高、売上高、受注残の推移を示す",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は全セグメントで減少",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1Qは全セグメントで減少",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の受注高・売上高の推移",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "新市場・新セグメント参入",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別の受注・売上計画",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "昭和真空 - Wikipedia — 株式会社昭和真空 （しょうわしんくう、 英: SHOWA SHINKU CO., LTD.[2]）は、 神奈川県 相模原市 中央区 に本社を置き、主に産業・研究機関向け 真空 装置を製造する、 アルバック グループの企業。",
+    "url": "https://ja.wikipedia.org/wiki/昭和真空",
+    "pass": 3
+   },
+   {
+    "quote": "真空装置の開発・製造・販売｜株式会社昭和真空 — 真空技術で 豊かな未来を 創り続ける Continuing to create a prosperous future with vacuum technology 昭和真空が活躍できるフィールドは無限です。 キーテクノロジーである「真空技術」に磨きをかけ、 お客さまの期待を上回る真空装置とサービスの提供を実現します。 ハイエンドスマホカメラレンズ用 真空 ...",
+    "url": "https://www.showashinku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空の成長戦略に迫る 最新ビジネスモデルと業績解説 | チームマ... — Jan 6, 2026 · 企業概要と最近の業績 株式会社昭和真空 【全体の業績】 株式会社昭和真空は、水晶デバイスや電子部品、光学部材などの製造に欠かせない真空技術を応用した各種真空蒸着装置やスパッタリング装置の開発・製造・販売およびアフターサービスを手掛ける真空技術の専門メーカーです。アル ...",
+    "url": "https://consovation.com/昭和真空の成長戦略に迫る-最新ビジネスモデルと/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空｜真空技術を核とした高度な成膜装置の提供と、次世代通信・A... — Jun 30, 2026 · 昭和真空（6384）の2026年Q2決算レポート。高度な真空技術を基盤に電子部品や光学デバイス向け成膜装置を展開。AIや5G等の成長分野に向けた製品開発と強固なグループ体制で競争力を維…売上・利益・PER・PBRとリスク・競合を平易に解説。",
+    "url": "https://stock-insights.net/articles/6384-snapshot-2026q2",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空｜真空技術を核とした高度な成膜装置の提供と、次世代通信・A... — Aug 13, 2026 · 昭和真空（6384）の2026年Q3決算レポート。真空技術を基盤に電子部品や光学デバイス向けの成膜装置を展開。AIや5G等の成長分野に向けた製品開発と強固な顧客関係で安定した収益基盤を…売上・利益・PER・PBRとリスク・競合を平易に解説。",
+    "url": "https://stock-insights.net/articles/6384-snapshot-2026q3",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和真空 — 決算説明資料 - EDINET DB — 株式会社昭和真空の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマ ...",
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空のIR資料 - 6384 / ｽﾀﾝﾀﾞｰﾄﾞ / 機械 | バフェット・... — Aug 6, 2026 · 昭和真空（6384 / ｽﾀﾝﾀﾞｰﾄﾞ / 機械）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/6384/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和真空 — IR資料 - EDINET DB — Aug 21, 2026 · EDINET DB > 企業一覧 > 株式会社昭和真空 > IR資料 株式会社昭和真空 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E01719/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空（63840）のIR情報・決算資料 - IRBANK — 昭和真空（63840）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/63840/ir",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和真空（6384）適時開示・決算短信 一覧｜毎日更新｜Treela... — Aug 6, 2026 · 株式会社昭和真空（6384）の適時開示 5 件：決算短信・決算説明会資料・業績予想修正など、TDnet から毎日収集。PDF 原文へのリンク付き。",
+    "url": "https://treelazy.com/stock-jp/6384/conference",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空 企業研究 | SemiMap — 昭和真空を、立ち位置、収益、強みとリスク、待遇、勤務地と職種、これから、入口の7章で調べる企業研究です。 公式情報とIRの参照日を付けています。",
+    "url": "https://semimap.ai/site/semiconductor-company-research/showa-shinku/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空 出展者の見どころ： Nano Insight Japan 出展者特集記事 | n... — Jan 23, 2026 · 従来のALDでは薄膜形成の化学反応に、熱エネルギーを必要としているが、近年、熱に替わってプラズマエネルギーにより化学反応を促進するプラズマALD（PEALD）が現れている。昭和真空もプラズマALD装置SPA-168T（図3）を製造・販売しており、nano tech 2026において目玉展示として紹介する。 ALDは ...",
+    "url": "https://www.nanotechexpo.jp/nij2026/260123_showashinku.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空（6384）はどんな会社？事業内容・業績・年収 | 図解経済 — 昭和真空（6384）は機械の会社。主な事業は真空技術応用装置事業・サービス事業。2026年3月期は売上93億円・営業利益11億円、平均年収665万円。事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/6384/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社昭和真空 代表取締役執行役員社長 田中 彰一... — 利益や効率より「モノづくりの心」を 過渡期を乗り越え新たな世界シェアを築く次世代に向けた組織変革 ～株式会社昭和真空 代表取締役 執行役員社長 田中 彰一～ ※本ページ内の情報は2026年6月時点のものです。",
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社昭和真空 の企業情報｜社長\"直結\"メディア『社長名鑑』 — 「株式会社昭和真空」の企業情報ページです。「株式会社昭和真空」の会社概要、社長のインタビューを掲載しています。社長名鑑に掲載しているインタビュー動画や記事を見て、社長に直接メッセージを送ったり、右腕に立候補したりすることが可能です。",
+    "url": "https://shachomeikan.jp/corporations/26118",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空社長に田中彰一氏 - 日本経済新聞 — Feb 17, 2025 · 田中 彰一氏（たなか・しょういち）85年（昭60年）明大経営卒、昭和眞空（現昭和真空）入社。12年取締役執行役員、24年取締役執行役員常務 ...",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_X10C25A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和真空、社長に田中彰一氏 | 日刊工業新聞 電子版 — Feb 19, 2025 · 日刊工業新聞の電子版。日刊工業新聞が紙面で提供している、およそ250件の記事を毎日閲覧することができます。機械、技術、情報通信 ...",
+    "url": "https://www.nikkan.co.jp/articles/view/00740528",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.showashinku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/result/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/security/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/stockholders_meeting/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/report/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/result/2026.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/public/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20261016_gyousekiyosounosai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/202600807_joutoseigentsukikabushikihoushuu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20260717_joutoseigentsukikabushikihoushuu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/disclose/pdf/2027/20260626_shareholder.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/corporate/pdf/corporate.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichishihanki.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/result/pdf/2027/202703daiichikessanhosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.showashinku.co.jp/ir/security/pdf/2026/68yuho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E01719/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/company/6384/library",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/5974",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "昭和真空",
+   "results": [
+    "https://www.showashinku.co.jp/",
+    "https://www.youtube.com/watch?v=4sr0_UsciDw",
+    "https://job.mynavi.jp/28/pc/search/corp202559/outline.html",
+    "https://ja.wikipedia.org/wiki/%E6%98%AD%E5%92%8C%E7%9C%9F%E7%A9%BA",
+    "https://metoree.com/companies/2045/",
+    "https://ja.wikipedia.org/wiki/昭和真空",
+    "https://finance.yahoo.co.jp/quote/6384.T",
+    "https://finance.yahoo.co.jp/quote/6384.T/profile",
+    "https://mono.ipros.com/company/detail/2046448/catalog/",
+    "https://mono.ipros.com/company/detail/2046448/"
+   ]
+  },
+  {
+   "query": "昭和真空 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/昭和真空",
+    "https://www.showashinku.co.jp/",
+    "https://consovation.com/昭和真空の成長戦略に迫る-最新ビジネスモデルと/",
+    "https://stock-insights.net/articles/6384-snapshot-2026q2",
+    "https://stock-insights.net/articles/6384-snapshot-2026q3",
+    "https://www.ir1on1.com/6384/20241204",
+    "https://www.showashinku.co.jp/corporate/profile/"
+   ]
+  },
+  {
+   "query": "昭和真空 決算説明資料",
+   "results": [
+    "https://edinetdb.jp/company/E01719/presentations/",
+    "https://www.buffett-code.com/company/6384/library",
+    "https://edinetdb.jp/company/E01719/ir-docs/",
+    "https://irbank.net/63840/ir",
+    "https://treelazy.com/stock-jp/6384/conference",
+    "https://www.showashinku.co.jp/ir/result/",
+    "https://www.showashinku.co.jp/ir/"
+   ]
+  },
+  {
+   "query": "昭和真空 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/昭和真空",
+    "https://www.showashinku.co.jp/",
+    "https://semimap.ai/site/semiconductor-company-research/showa-shinku/",
+    "https://www.nanotechexpo.jp/nij2026/260123_showashinku.html",
+    "https://zukaikeizai.com/kaisha/6384/",
+    "https://jigyou-v2.kabu-trendpro.com/company/6384/",
+    "https://www.showashinku.co.jp/corporate/"
+   ]
+  },
+  {
+   "query": "昭和真空 社長 インタビュー",
+   "results": [
+    "https://www.showashinku.co.jp/news/2026/2607/",
+    "https://shachomeikan.jp/industry_article/5974",
+    "https://shachomeikan.jp/corporations/26118",
+    "https://www.nikkei.com/article/DGXZQODZ00009_X10C25A2000000/",
+    "https://www.nikkan.co.jp/articles/view/00740528",
+    "https://kitaishihon.com/company/6384/board-of-director",
+    "https://www.showashinku.co.jp/corporate/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部5頁・検索5回）"
+ }
+}

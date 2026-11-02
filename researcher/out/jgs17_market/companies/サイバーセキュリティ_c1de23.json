@@ -1,0 +1,2077 @@
+{
+ "name": "サイバーセキュリティ",
+ "en": "cybersecurity",
+ "aliases": [
+  "セキュリティ製品",
+  "情報セキュリティ"
+ ],
+ "context": "2 デジタル・サイバー ③サイバーセキュリティ",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:33:11.561693+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のサイバーセキュリティ市場規模、シェア、価値、分析（2034年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティ市場規模は、2024年には約",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界のサイバーセキュリティ市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約7.8%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界のサイバーセキュリティ市場規模は2024年に約1,888億7,000万米ドルと評価され、2034年までに4,019億1,000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のサイバーセキュリティ市場は2028年までに飛躍的に拡大する見込み",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "ある調査によると、世界のサイバーセキュリティ市場規模は2024年には約1888億7000万米ドルに達し、2034年までに4019億1000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場は2025年に1,890億米ドルと評価され、2026年には2,154億6,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社アナリストによるボトムアップ方式の市場推計の突合分析では、サイバーセキュリティ市場は2024年に1,606億米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoT Analytics. \"Number of Connected IoT Devices Growing 14% to 21.1 Billion.\" iot-analytics.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場規模：提供形態別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセキュリティの市場規模は2025年に189.0億米ドルとなり、2035年までに10%のシェアを維持すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド導入の市場規模は2025年に1,039.5億米ドルとなり、2035年までに72%のシェアを占めると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "大企業の2025年のシェアは65%で、2035年には市場規模が3,556.1億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の市場規模は2025年に661.5億米ドルとなり、2026〜2035年に年平均成長率（CAGR）12.52%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "BFSIの市場規模は2025年に415.8億米ドルとなり、2035年までに22%のシェアを占めると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信の市場規模は2035年までに1,089.8億米ドルに達すると予測され、2025年のシェアは20%だった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場は2035年に9,615億ドル規模へ、企業のデジタル防衛が新たな成長領域に",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "ご提示の市場予測によると、市場規模は2025年の1,153億4,000万ドルから2035年には9,615億ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）30.56％で成長する見込みです",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場の将来を評価する際には、2025年の1,153億4,000万ドルから2035年の9,615億ドルへ拡大するという提示予測を出発点としながら、技術動向、顧客の投資判断、規制対応、サービス提供能力を個別に検証することが求められます",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場は、2025年の1,153億4,000万ドルから2035年には9,615億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）30.56％で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場は、2025年の1,153億4,000万ドルから2035年には9,615億米ドルへ拡大し、2026～2035年にCAGR30.56％で成長すると予測されていますが、この成長機会を収益につなげるには、市場全体の規模だけでなく、企業規模別の課題と購買行動を分析し、明確な顧客価値を提供できる領域に経営資源を集中させることが重要です",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場は、2025年の1,153億4,000万ドルから2035年には9,615億米ドルに達し、2026年から2035年まで年平均成長率30.56％で拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "フラーレン市場は2035年に9億7,035万米ドル規模へ、CAGR 6.02％を記録｜抗酸化成分・次世代スキンケア・電子材料への応用が市場成長を後押し",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "ビューファインダー市場は2035年に29億米ドルへ拡大、CAGR 5.5％で進むカメラ光学技術の進化と高精度撮影需要",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場規模、シェアおよび調査レポート：提供物別（ソリューション（アプリケーションセキュリティ、クラウドセキュリティなど）、サービス（プロフェッショナルサービスなど））、展開モード別（オンプレミス、クラウド）、エンドユーザー業界別（BFSI、ヘルスケア、ITおよび通信、工業および防衛、小売および電子商取引、エネルギーおよび公益事業、製造、その他）、エンドユーザー企業規模別（大企業、中小企業）地域別 (北米、ヨーロッパ、南米、南アフリカ、アジア太平洋、中東、アフリカ) - 2035 年までの業界予測",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "USD 251.40 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "USD 733.50 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場は2025年に2514億米ドルに達し、2026年には2798億米ドルから2035年には7335億米ドルに成長する見込みで、予測期間中のCAGRは11.30%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "米国管理予算局の命令M-22-09により、アイデンティティ、ネットワーク、デバイスの各分野で追加の調達が推定35億ドルに達し、すべての連邦機関が2024会計年度末までに特定のゼロトラスト成熟基準を満たすことが義務付けられました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "2023年のサイバー犯罪による損害は125億ドルに達し、前年から22%増加したとFBIのインターネット犯罪苦情センターが報告しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "2027年までに、60%以上の企業がAI強化セキュリティ分析を主要な検出メカニズムとして利用することが予想されており、サイバーセキュリティ市場はより高価値の管理された検出および応答の契約に向かっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "このプロセスは、2033年までにサイバーセキュリティ市場の支出で150億〜200億ドルを生み出すと予想されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー保険の保険料が世界で140億ドルを超える中、保険会社と再保険会社は、財務的な観点からリスクエクスポージャーを定量化するプラットフォームに投資しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "国土安全保障省は、連邦機関だけで2035年までに71億ドルの量子移行支出が必要になると見積もっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "USD 138億 (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "USD 151億 (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティの市場（売上高）は引き続き堅調で、2024年には前年同期比9.7%増加の867億ドルとなっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-10-1 世界のサイバーセキュリティ市場規模の推移",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ製品の機能市場セグメント別では、エンドポイントセキュリティソフトウェアやネットワークセキュリティソフトウェアなどを含む、セキュリティソフトウェア市場の2023年の売上額が4,965億1,100万円で全体の89.1％を占め、コンテンツ管理、UTMやVPNなどを含むセキュリティアプライアンス市場は608億9,300万円で全体の10.9％となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 5年間の推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "AIによる\"2030年\"の市場規模予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "大幅な成長 1.03兆円（現在）→2.5兆円（2030年）",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ業界 2030年市場規模 +142.19%で2.5兆円と予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ業界 スタートアップ資金調達状況 2020年以降の累計102億円 直近では堅調に回復",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ業界 資金調達金額ランキング TRUSTDOCKが28億円でトップ",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "図：サイバーセキュリティ業界における2030年までの市場規模推移予測",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "でしたが、2025年から2034年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界のサイバーセキュリティ市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約7.8%で成長すると推定されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.8％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のサイバーセキュリティ市場は2028年までに飛躍的に拡大する見込み",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2034年までのサイバーセキュリティ市場の年平均成長率（CAGR）はどのくらいになるでしょうか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティ市場は、予測期間中に年平均成長率（CAGR）7.8%で成長すると予想されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、年平均成長率（CAGR）11.49%で拡大し、2035年には5,735億6,000万米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "NIS2は対象事業体に求めるリスク管理、インシデント報告、サプライチェーンセキュリティの要件を拡大し、重要インフラやデジタルサービス全体での調達を後押ししている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービスは2025年に850.5億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）10.93%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークセキュリティは2025年に415.8億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）9.03%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業の市場規模は2025年に661.5億米ドルとなり、2026〜2035年に年平均成長率（CAGR）12.52%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は2035年までに688.3億米ドルに達し、2026〜2035年に年平均成長率（CAGR）13.77%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場、2035年に9,615億米ドルへ拡大、CAGR 30.56％、AI脅威検知・ゼロトラスト・クラウド防御の高度化が市場成長を加速 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場、2035年に9,615億米ドルへ拡大、CAGR 30.56％、AI脅威検知・ゼロトラスト・クラウド防御の高度化が市場成長を加速",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "ご提示の市場予測によると、市場規模は2025年の1,153億4,000万ドルから2035年には9,615億ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）30.56％で成長する見込みです",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けた事業戦略では、市場成長率を自社の顧客価値と収益機会に結び付ける視点が不可欠",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けて米国サイバーセキュリティ市場が大幅に拡大するという予測は、関連企業にとって事業機会を検討する材料となりますが、その成長を自社の売上や利益にそのまま置き換えることはできません",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場の将来を評価する際には、2025年の1,153億4,000万ドルから2035年の9,615億ドルへ拡大するという提示予測を出発点としながら、技術動向、顧客の投資判断、規制対応、サービス提供能力を個別に検証することが求められます",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "米国サイバーセキュリティ市場は、2025年の1,153億4,000万ドルから2035年には9,615億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）30.56％で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場は2025年に2514億米ドルに達し、2026年には2798億米ドルから2035年には7335億米ドルに成長する見込みで、予測期間中のCAGRは11.30%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、インド、中国、ASEAN経済における急速なクラウド移行により、15.50%のCAGRで最も成長が早い地域となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サービスは2035年まで11.85%のCAGRで拡大しており、組織は持続的な人材不足を補うためにセキュリティ業務を外部委託しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスの導入は2025年にサイバーセキュリティ市場の63.0%のシェアを保持しており、クラウドベースのセキュリティは14.75%のCAGRで増加しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "BFSIは28.0%の収益シェアでエンドユーザー産業をリードしており、小売とeコマースは13.90%のCAGRで進展しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "大企業はサイバーセキュリティ市場の72.0%を占め、中小企業は12.20%のCAGRで成長しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2035年まで15.50%のCAGRを記録する見込みで、地域の中で最も早い成長を示しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "アフリカ、ラテンアメリカ、南アジアおよび東南アジアにおける急速なデジタル化は、IT支出の5%未満の浸透率を持つ地域でのアドレス可能なサイバーセキュリティ市場を拡大しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "15.50% CAGR (2026–2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 10.80%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティの市場（売上高）は引き続き堅調で、2024年には前年同期比9.7%増加の867億ドルとなっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はトップシェアであるPalo Alto Networksの市場シェアが拡大し、10％に迫る勢いとなっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、Microsoftは近年急速にシェアを拡大しており、Microsoft 365 E5 Securityなど高度なセキュリティ機能をMicrosoft 365シリーズの一つとして提供しており、導入のしやすさも含めて評価されていると考えられる",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の国内の情報セキュリティ製品市場（売上高）は、前年比12.0％増の5,574億400万円となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "これは年平均成長率約19.4%という非常に高い成長軌道を示しており、デジタル社会の安全保障基盤として最重要戦略産業となっています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "最も注目すべきは、セキュリティ対策クラウドサービス（成長率85%、市場規模406億円→752億円）とセキュリティソフト（成長率55%、市場規模2,718億円→4,225億円）で、いずれもS+評価以上の高成長領域です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "システム監査（成長率52%、市場規模112億円→170億円）とeKYC（成長率43%、市場規模171億円→244億円）も、デジタル化推進を背景に堅調な成長を示しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサイバーセキュリティ市場は2025年から2030年にかけてCAGR11.89%で成長し、39億8,000万米ドルに達すると予測されており、この急成長が関連サービス需要を牽引しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "eKYCの世界市場は2023年の72億米ドルから2029年には226億9,000万米ドル（CAGR20.9%）まで拡大予測で、デジタル本人確認の需要急増とゼロトラスト・セキュリティの普及が背景にあります",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、従来型のエンドポイントセキュリティ（成長率12%、市場規模1,452億円）など成熟分野は低成長に留まっています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省も国内産業振興の一環として「10年以内に売上高を3兆円規模へ拡大する」方針を示しており、政策面からも業界成長が後押しされています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "新たな成長分野として、医療業界特化型セキュリティが4.5億円（1件）と急拡大しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "中国の生産者物価指数、3月は前年比-2.5% 下落幅拡大でデフレ圧力続く",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "中国の消費者物価、3月は前年比-0.1％ 下落幅は縮小もデフレ基調継続",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年から 2032 年までの成長率",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR)は 12.5%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年(+15% YoY)で212億を超えるサイバーセキュリティ支出",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "中国のサイバーセキュリティ市場は、厳格な規則により2025年に拡大し、サイバーセキュリティ法の変更、政府からの脅威が増えることを目的としています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場のCAGRは、2025年から2032年にかけて12.5%を予定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティの市場（売上高）は引き続き堅調で、2024年には前年同期比8.8％増加の1,820億ドルとなっている（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ主要事業者の市場シェアについて、セキュリティアプライアンス市場におけるベンダー別シェアの推移を見ると、Palo Alto Networksは、2022年第4四半期の16.6％から2024年第2四半期には22.4％へとシェアを拡大し、首位となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の国内の情報セキュリティ製品市場の市場規模（売上額ベース）は、前年比13.8％増の7,434億3,900万円となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたことから、経営層のサイバーセキュリティに対する意識は、IT部門が担う技術的な業務から、事業を継続するための経営基盤そのものにかわり、セキュリティ分野への投資は拡大傾向にあり、2025年度の国内のサイバーセキュリティ市場規模は事業者売上高ベースで前年度比9.2％増の1兆9,471億円と推計した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN",
+    "pass": 3
+   },
+   {
+    "quote": "達し、2026年から2034年の期間において年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）9.50％",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率（2026-2034）",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "サイバーセキュリティ市場の規模、シェア、トレンド、予測（2034年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティ市場規模、シェア、価値、分析（2034年まで）",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場 - セキュリティタイプ別（ネットワークセキュリティ、クラウドセキュリティ、ワイヤレスセキュリティ、その他）、ソリューション別（IDおよびアクセス管理（IAM）、暗号化、リスクおよびコンプライアンス管理、データ損失防止、ウイルス対策およびマルウェア対策、ファイアウォール、その他）、業種別（航空宇宙、政府、金融サービス、通信、ヘルスケア、その他）：グローバル産業展望、包括的分析、規模、シェア、成長、セグメント、トレンド、予測、2025年～2034年",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "中でも、ネットワークセキュリティは世界のサイバーセキュリティ市場の主要なセグメントであり、2015年には市場全体の40%以上のシェアを占めました",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoftは2025年に15.87%を超える市場シェアを獲得し、首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "で、2025年に合計27.88%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアは2035年までに2,695.7億米ドルに達すると予測され、2025年には市場シェアの40%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアは2025年に市場シェアの15%を占め、2035年には10%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドポイントセキュリティは2025年に340.2億米ドルを生み出し、2035年には市場シェアの16%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドセキュリティは2035年までに1,147.1億米ドルに達すると予測され、2025年には市場シェアの15%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションセキュリティは2035年までに573.6億米ドルに達すると予測され、2025年には市場シェアの10%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセキュリティの市場規模は2025年に189.0億米ドルとなり、2035年までに10%のシェアを維持すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入形態別サイバーセキュリティ市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド導入の市場規模は2025年に1,039.5億米ドルとなり、2035年までに72%のシェアを占めると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミス導入の2025年のシェアは45%で、2035年までに28%のシェアを占めると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の規模、シェア | 業界レポート、2035年",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場規模、シェアおよび調査レポート：提供物別（ソリューション（アプリケーションセキュリティ、クラウドセキュリティなど）、サービス（プロフェッショナルサービスなど））、展開モード別（オンプレミス、クラウド）、エンドユーザー業界別（BFSI、ヘルスケア、ITおよび通信、工業および防衛、小売および電子商取引、エネルギーおよび公益事業、製造、その他）、エンドユーザー企業規模別（大企業、中小企業）地域別 (北米、ヨーロッパ、南米、南アフリカ、アジア太平洋、中東、アフリカ) - 2035 年までの業界予測",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年にサイバーセキュリティ市場の46.0%を占めており、連邦の命令と密なベンダーエコシステムによって推進されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパはGDPRの施行措置とデジタル運用レジリエンス法に支えられ、24.5%のシェアを保持しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションは2025年にサイバーセキュリティ市場の74.0%を占め、企業はポイント製品よりも統合プラットフォームを好んでいます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "オンプレミスの導入は2025年にサイバーセキュリティ市場の63.0%のシェアを保持しており、クラウドベースのセキュリティは14.75%のCAGRで増加しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "BFSIは28.0%の収益シェアでエンドユーザー産業をリードしており、小売とeコマースは13.90%のCAGRで進展しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "大企業はサイバーセキュリティ市場の72.0%を占め、中小企業は12.20%のCAGRで成長しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年にサイバーセキュリティ市場の46.0%を占め、米国の連邦および防衛支出に支えられています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな公共クラウド支出が2027年までに1.35兆ドルを超えるとの予測があり、その予算の中でセキュリティが増加する割合を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の寡占的構造は、5〜7社のプラットフォームプレイヤーが企業支出の大部分を支配しており、3,000以上のポイントツールサプライヤーの断片化された景観を置き換えています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "NIST CSF、ISO 27001、NIS2、およびDPDP法の要件に沿ったコントロールをマッピングするコンプライアンス自動化プラットフォームは、組織が単一の規制ダッシュボードを要求するにつれて、サイバーセキュリティ市場の成長するシェアを獲得するでしょう",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "46.0% シェア (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "24.5% シェア (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の主要事業者として、2019年からPalo Alto Networks、Cisco、Fortinetの3社が世界上位3位の市場シェアを獲得していたが、2024年第2四半期時点ではCiscoに代わりMicrosoftが上位3位に入っている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はトップシェアであるPalo Alto Networksの市場シェアが拡大し、10％に迫る勢いとなっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、Microsoftは近年急速にシェアを拡大しており、Microsoft 365 E5 Securityなど高度なセキュリティ機能をMicrosoft 365シリーズの一つとして提供しており、導入のしやすさも含めて評価されていると考えられる",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ製品の機能市場セグメント別では、エンドポイントセキュリティソフトウェアやネットワークセキュリティソフトウェアなどを含む、セキュリティソフトウェア市場の2023年の売上額が4,965億1,100万円で全体の89.1％を占め、コンテンツ管理、UTMやVPNなどを含むセキュリティアプライアンス市場は608億9,300万円で全体の10.9％となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2022年及び2023年の国内情報セキュリティ製品のベンダー別シェア（売上額）について、市場全体のシェア率が2％以上の企業を「外資系企業」と「国内企業」に分類し、それら企業における2022年及び2023年の売上額を集計した結果、ともに外資系企業のシェアが5割程度を占めており、国内のサイバーセキュリティ製品はその多くを海外に依存している状況が引き続いているといえる（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-10-2 国内情報セキュリティ製品市場シェア（売上額）2022年〜2023年",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）IDC Japan, 2025年4月「国内情報セキュリティ製品市場シェア、2024年上半期：成長するSaaS型セキュリティ市場」（JPJ50704524）を基に作成",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場シェア、シェア、機会 2025 ～ 2032 年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のグローバルサイバーセキュリティ市場のシェアは、継続的なサポートのための重要な必要性を借りています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のグローバルサイバーセキュリティ市場のシェアは、オンプレミスのオプションよりも優れた利点をもたらすからです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のグローバルサイバーセキュリティ市場のシェアは、高プロファイルのネットワークハウジングによって、全国のセキュリティデータを分類しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年シェア 米国における主要なサイバーセキュリティベンダーおよびソリューションプロバイダの存在は、この業界のリーダーとして、北アメリカの地位をセメント化しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "コンポーネントの面で, サービス, 2025 で市場収益シェアを支配する推定.",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ主要事業者の市場シェアについて、セキュリティアプライアンス市場におけるベンダー別シェアの推移を見ると、Palo Alto Networksは、2022年第4四半期の16.6％から2024年第2四半期には22.4％へとシェアを拡大し、首位となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fortinetも20％前後のシェアを占めており、上位2社がセキュリティアプライアンス市場を牽引する構図となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年及び2025年の国内情報セキュリティ製品のベンダー別シェア（売上額）について、市場全体のシェア率が1％以上の企業を「外資系企業」と「国内企業」に分類し、それら企業における2024年及び2025年の売上額を集計した結果、ともに外資系企業のシェアが6割程度を占めており、国内のサイバーセキュリティ製品はその多くを海外に依存している状況が引き続いているといえる（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-10-2 国内情報セキュリティ製品市場シェア（売上額） 2024〜2025年",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）IDC Japan, 2026年5月「国内情報セキュリティ製品市場シェア、2025年：アイデンティティ／アクセス管理が鍵となるセキュリティ製品市場」（JPJ53501926）を基に作成",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模はツールが優勢で2023年度のシェアはツールが59％、サービスが41％となりました",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "pass": 3
+   },
+   {
+    "quote": "最もシェアが大きいプロダクトは「ネットワーク防御・検知/境界線防御製品」で対前年度比15.5％増の3,279億円になりました",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "pass": 3
+   },
+   {
+    "quote": "次にシェアが大きいのは「エンドポイント保護管理製品」で対前年度比10.4％増の2,698億円、次いで「コンテンツセキュリティ対策製品」が同18.4％増の2,463億円、「アイデンティティ・アクセス管理製品」が同20.0％増の約1,502億円となりました",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "pass": 3
+   },
+   {
+    "quote": "最もシェアが大きいサービスは「コンサルティング/診断サービス」で対前年度比19.0％増の2,888億円でした",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサイバーセキュリティ市場規模・シェア・予測 2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサイバーセキュリティ市場の規模、シェア、動向、予測 コンポーネント、展開タイプ、ユーザータイプ、産業縦型、地域別、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本子供向けエンターテインメントセンター市場規模、シェア、トレンドおよび予測来場者属性別、施設規模別、収益源別、アクティビティエリア別、地域別、2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "By offering: Hardware segment held the largest market share of 54.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "By security type: Infrastructure protection segment held the largest market share of 23.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "加えて、主要企業は、産業機能の保護とサイバーテロ対策のための堅牢なセキュリティソリューションの導入に注力しています",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のサイバーセキュリティ市場における主要企業には、VMware Inc、Oracle Corporation、Dell Inc、Unifyed、Astera Software、ServiceNow Inc、CDW LLC、Cisco Systems Inc、Blackboard Inc、Verizonなどが挙げられる",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場の主要企業には、Microsoft、Palo Alto Networks、Fortinet、CrowdStrike、Check Point Softwareなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入企業にとっては、広範な製品群を短期間でそろえるよりも、特定の業界や用途における明確な課題を起点に、専門性と実績を積み上げる戦略が考えられます",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング 読み込まれました",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "調査では国内外あわせて約200社が参入しており、とりわけクラウド型セキュリティサービス分野への新規参入が活発化している点が注目されます",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、国内のサイバーセキュリティ市場を調査し、参入企業やユーザー企業の動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、主にエンドポイントプロテクション、脅威検知、クラウドセキュリティを含む革新的なサービスの提供に積極的に重点を置き、変化する市場の需要に対応している",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、日本のサイバーセキュリティ市場における競争環境を包括的に分析し、主要企業の詳細なプロフィールを掲載しています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the cybersecurity industry are Accenture, Check Point Software Technologies, Cisco Systems, Cloudflare and others. Companies are focusing on various strategic initiatives, including new product development, partnerships & collaborations, and agreements to gain a competitive advantage over their rivals. The following are some instances of such initiatives:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cybersecurity market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in cybersecurity market include Accenture; Check Point Software Technologies; Cisco Systems; Cloudflare; CrowdStrike; Fortinet; Gen Digital; IBM; Microsoft; Netskope; Okta; Palo Alto Networks; Qualys; SentinelOne; Zscaler",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "The new research study consists of global cyber security industry trends, detailed market analysis of leading players operating in cyber security domain, Porter’s five forces analysis, megatrends analysis and market impact analysis. The report also includes cyber security market forecast and opportunity analysis.",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "The cyber security market research report presents an in-depth analysis of various leading players operating in cyber security market, across different segments, as defined in the table below:",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled in the",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Landscape of Leading Players",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players in the Cyber Security Market",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of key companies operating in the global cyber security industry (",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the cyber security industry?",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of leading players operating in the global cyber security industry (which have also been captured in this market report, arranged in alphabetical order) include AlgoSec, Broadcom, Check Point Software Technologies, Cisco, F5, Fortinet, F-secure, IBM, Intel Security, Microsoft, Palo Alto Networks, Proofpoint, Sophos and Zscaler.",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity for Startups",
+    "url": "https://atlantsecurity.com/blog/top-cybersecurity-companies",
+    "pass": 3
+   },
+   {
+    "quote": "The Cybersecurity Market Landscape: Key Players, Segmentation, & Trends",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Crafting a cybersecurity marketing strategy requires a keen understanding of the market’s complexities, including its key players, segmented audiences, and prevalent challenges. Decision-makers demand clarity on how solutions mitigate risks, integrate seamlessly, and deliver measurable results.",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: Identify the Key Players",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Are the Key Players and Competitors in the Cybersecurity Market?",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Startups",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging startups may be new to the scene, but they introduce innovative and disruptive solutions to address emerging challenges in cybersecurity.",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "The impact of emerging startups on the market is they push the boundaries of traditional cybersecurity approaches and force large players to stay innovating and improving their solutions.",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "– It includes large enterprises, startups, MSSPs, and government initiatives.",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "– Large players acquire startups to expand innovation and capabilities.",
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players include Microsoft, Palo Alto Networks, CrowdStrike, Fortinet, Cisco Systems, Broadcom, IBM Security, Check Point Software Technologies, Trend Micro, Zscaler, SentinelOne, and Cloudflare.",
+    "url": "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in Cybersecurity Market",
+    "url": "https://www.marknteladvisors.com/research-library/cybersecurity-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.marknteladvisors.com/research-library/cybersecurity-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "This four-year view shows the industry's full cycle. 2022 marked ZIRP’s peak and subsequent crash, 2023 was the year of course correction and austerity measures (i.e., startups needing to “make revenue”), 2024 was all about stabilization and an industry healing, and 2025 was a return to form. Deal volume never recovered to 2022 levels, but dollars and average deal size did.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "How did new isolationist policies and the rise of American Dynamism shift where money went and where startups were formed?",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the cyber security market?",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the cyber security market are BAE Systems Plc, Broadcom, Inc., Centrify Corporation, Check Point Software Technology Ltd., Cisco Systems, Inc., FireEye, Inc., Fortinet, Inc., International Business Machines Corporation, Lockheed Martin Corporation, LogRhythm, Inc., McAfee, LLC., Palo Alto Networks, Inc, and Others.",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ業界 スタートアップ資金調達状況 2020年以降の累計102億円 直近では堅調に回復",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ業界 資金調達金額ランキング TRUSTDOCKが28億円でトップ",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "日本のサイバーセキュリティ業界において、資金調達の累計金額で最も注目を集めているのが株式会社TRUSTDOCK（28億円）です",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "eKYC（本人確認サービス）分野のパイオニアとして、2023年5月にはグロービス・キャピタル・パートナーズ、みずほキャピタルをはじめとする投資家から総額15億円の資金調達を実施し、業界の成長を牽引しています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "このようなサイバーセキュリティ関連スタートアップの活発な資金調達の背景には、経済産業省が2025年3月に策定した「サイバーセキュリティ産業振興戦略」において、10年以内に国内企業の売上高を約0.9兆円から約3兆円超に増やすという目標を掲げるなど、政策的な後押しがあります",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "野村ホールディングス等から「累計18億円」の資金調達をしています",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "or more people during 2024. These risks are accelerating healthcare investment in identity protection, encryption, cloud security, and secure medical networks.",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2024, Wiz, a cloud and AI security company, announced the procurement of total USD 1 billion in a funding round led by Andreessen Horowitz, Lightspeed Venture Partners, and Thrive Capital.",
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "They're excellent, but you still need defense in depth, hardened systems, and security awareness training. The 2024 outage incident also raised questions about single-vendor dependency.",
+    "url": "https://atlantsecurity.com/blog/top-cybersecurity-companies",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing, team depth and fit for 15 vCISO providers, from $3,000 to $15,000 a month.",
+    "url": "https://atlantsecurity.com/blog/top-cybersecurity-companies",
+    "pass": 3
+   },
+   {
+    "quote": ", anchored by the world's largest enterprise security spending base, U.S. Executive Order 14028 zero-trust mandates, CISA managing 200,000+ annual incidents, and the highest concentration of cybersecurity vendors and investment globally.",
+    "url": "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Investment banking firm Cowan & Company stated in their January 9, 2009 research note,",
+    "url": "https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond technological shifts like cloud and mobile, the evolving regulatory landscape played a significant role in driving security spending. From 2004, when the Sarbanes-Oxley Act made cybersecurity a board-level mandate, new regulations related to data privacy and breach notification in various jurisdictions and vertical industries required enhanced security measures, fueling further investment.",
+    "url": "https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "For 2025, cybersecurity remains a critical area of increasing investment. Forrester predicts continued growth in spending on cybersecurity solutions. Gartner also underscores the high priority of cybersecurity, forecasting a 15% rise in global spending for 2025. IDC anticipates an 11.8% growth in European security spending and a 12.2% increase worldwide.",
+    "url": "https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 State of the Cybersecurity Market: $25B Funding, $76B M&A, and What's Next",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ": Cybersecurity companies raised $25.1 billion across 743 deals in 2025, up 59% from 2024",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ": 48 deals over $100M captured 65% of all funding",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ": Just 2.6% of funding, not even a top-10 category despite the hype",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ": The US + Israel absorbed 91% of global cybersecurity funding",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ", ending the year at 3.75%. The notable exception was the Bank of Japan +, which raised rates to 0.5%, still the lowest among major economies, but a meaningful shift from below zero.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "There was, however, one AI disruption story: Deepwatch cited \"accelerating investments in AI and automation\" as the reason for cutting 25% of its workforce in November.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ", an Israel-based operational technology (OT) security company that raised $18M, cited war-related financial strain.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States-based network security company that raised $335M raised, sold all its assets to Tufin and then abruptly shut down.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ", an Israel-based software supply chain security company that raised $6M, cited market saturation and hiring missteps.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": ", an Israel-based observability and security analytics platform that raised $21M, shut down after one year of operations.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "How Much Funding Did Cybersecurity Companies Raise in 2025?",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity companies raised $25.1 billion across 743 deals in 2025, a 59% increase from 2024. Capital returned to the market, but concentrated heavily: 48 mega-rounds ($100M+) captured 65% of all funding. Average deal size jumped 37% to $40.9M.",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2023, the Technology Modernization Fund (TMF) raised over $650 million in funding, aiming to build and improve cybersecurity and digital services at the Social Security Administration. Such investments facilitate improvement in cybersecurity services, accelerating the expansion of the global cybersecurity market.",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, a notable policy initiative, Executive Order 14028, mandates minimum cybersecurity standards for government contractors and enables sanctions on foreign cyber-attackers, strengthening digital infrastructure defense and prompting increased security investments by both public and private sectors.",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "3.3.2 Increased Investment in Cybersecurity Startups",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.2.1 IT Infrastructure Investments",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 Greenfield Investments",
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サイバーセキュリティ市場規模 統計、2032年の成長予測 — サイバーセキュリティ市場規模 統計、2032年の成長予測 Global Market Insights Inc. https://www.gminsights.com > cybersecurity-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "US サイバーセキュリティ市場 調査：2026年から2033年 ... — US サイバーセキュリティ市場 調査：2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > usサイバーセキュリティ市...",
+    "url": "https://jp.linkedin.com/pulse/us%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6124%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99-7521864546513408000-verpe",
+    "pass": 3
+   },
+   {
+    "quote": "第10節 サイバーセキュリティ の動向 - 総務省 — 第10節 サイバーセキュリティ の動向 - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場 規模、 シェア 、業界トレンド - 2032年 — サイバーセキュリティ市場 規模、 シェア 、業界トレンド - 2032年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIが予測する サイバーセキュリティ 業界 ｜2030年 市場 規模 ... — AIが予測する サイバーセキュリティ 業界 ｜2030年 市場 規模 ... xenoBrain https://service.xenobrain.jp > market-size > cybersecurity",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "pass": 3
+   },
+   {
+    "quote": "第10節 サイバーセキュリティ の動向 - 総務省 — 第10節 サイバーセキュリティ の動向 - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティ市場 に関する調査を実施（2026年） — サイバーセキュリティ市場 に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度の国内情報 セキュリティ市場 を2兆円規模と予測 — 2025 年度の国内情報 セキュリティ市場 を2兆円規模と予測 ニュートン・コンサルティング株式会社 https://www.newton-consulting.co.jp > itilnavi > flash",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "pass": 3
+   },
+   {
+    "quote": "日本の サイバーセキュリティ市場 規模・シェア・予測 2034年 — 日本の サイバーセキュリティ市場 規模・シェア・予測 2034年 IMARC Group https://www.imarcgroup.com > Technology & Media",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size , Share & Forecast Report, 2034 — Cybersecurity Market Size , Share & Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size And Share Report, 2026-2033 — Cybersecurity Market Size And Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size , Share | Industry Report, 2035 — Cybersecurity Market Size , Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size , Share & Industry Trends - 2032 — Cybersecurity Market Size , Share & Industry Trends - 2032 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/cyber-security-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber Security Market Size , Share, Trends | CAGR of 13.0% — Cyber Security Market Size , Share, Trends | CAGR of 13.0% Market.us https://market.us > report > cyber-sec...",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Grid Cybersecurity Market Companies, Size & Trends 2026 ... — Grid Cybersecurity Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/grid-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity $10B Giants: Insights Into Cyber's Largest ... — Cybersecurity $10B Giants: Insights Into Cyber's Largest ... Software Analyst Cyber Research https://softwareanalyst.substack.com > ...",
+    "url": "https://softwareanalyst.substack.com/p/cybersecurity-10b-giants-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size, Share & Forecast Report, 2034 — Cybersecurity Market Size, Share & Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Size, Share & Growth Trends, 2033 — Cybersecurity Market Size, Share & Growth Trends, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Analysis & Industry Outlook 2032 — Cybersecurity Market Analysis & Industry Outlook 2032 Markntel Advisor https://www.marknteladvisors.com > ...",
+    "url": "https://www.marknteladvisors.com/research-library/cybersecurity-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Consolidation Accelerates in 2026 — Cybersecurity Market Consolidation Accelerates in 2026 LinkedIn https://www.linkedin.com > posts > ja...",
+    "url": "https://www.linkedin.com/posts/jaymcbain_we-have-been-predicting-a-platform-moment-activity-7478219335753355264-AZAx",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber Security Market Size, Share , Trends | CAGR of 13.0% — Cyber Security Market Size, Share , Trends | CAGR of 13.0% Market.us https://market.us > report > cyber-sec...",
+    "url": "https://market.us/report/cyber-security-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 State of the Cybersecurity Market : $25B Funding, $76B ... — 2025 State of the Cybersecurity Market : $25B Funding, $76B ... Return on Security https://www.returnonsecurity.com > 2...",
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "pass": 3
+   },
+   {
+    "quote": "State of Cybersecurity 2025 | CompTIA Report — State of Cybersecurity 2025 | CompTIA Report CompTIA https://www.comptia.org > research",
+    "url": "https://www.comptia.org/en-us/resources/research/state-of-cybersecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity Market Companies , Size & Trends 2026-2035 — Cybersecurity Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7.8",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "quote": "当社のリサーチアナリストによる分析によると、世界のサイバーセキュリティ市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約7.8%で成長すると推定されています"
+   },
+   {
+    "value": "11.49",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "さらに、年平均成長率（CAGR）11.49%で拡大し、2035年には5,735億6,000万米ドルに達する見込みである"
+   },
+   {
+    "value": "10.93",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "サービスは2025年に850.5億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）10.93%で成長すると予測される"
+   },
+   {
+    "value": "9.03",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "ネットワークセキュリティは2025年に415.8億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）9.03%で成長すると予測される"
+   },
+   {
+    "value": "12.41",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される"
+   },
+   {
+    "value": "12.96",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される"
+   },
+   {
+    "value": "12.52",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "中小企業の市場規模は2025年に661.5億米ドルとなり、2026〜2035年に年平均成長率（CAGR）12.52%で拡大すると予測される"
+   },
+   {
+    "value": "13.77",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "医療分野は2035年までに688.3億米ドルに達し、2026〜2035年に年平均成長率（CAGR）13.77%で拡大すると予測される"
+   },
+   {
+    "value": "30.56",
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "quote": "米国サイバーセキュリティ市場、2035年に9,615億米ドルへ拡大、CAGR 30.56％、AI脅威検知・ゼロトラスト・クラウド防御の高度化が市場成長を加速 | 株式会社レポートオーシャン"
+   },
+   {
+    "value": "11.30",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "サイバーセキュリティ市場は2025年に2514億米ドルに達し、2026年には2798億米ドルから2035年には7335億米ドルに成長する見込みで、予測期間中のCAGRは11.30%です"
+   },
+   {
+    "value": "10.80",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "CAGR 10.80%"
+   },
+   {
+    "value": "19.4",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "quote": "これは年平均成長率約19.4%という非常に高い成長軌道を示しており、デジタル社会の安全保障基盤として最重要戦略産業となっています"
+   },
+   {
+    "value": "11.89",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "quote": "日本のサイバーセキュリティ市場は2025年から2030年にかけてCAGR11.89%で成長し、39億8,000万米ドルに達すると予測されており、この急成長が関連サービス需要を牽引しています"
+   },
+   {
+    "value": "20.9",
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "quote": "eKYCの世界市場は2023年の72億米ドルから2029年には226億9,000万米ドル（CAGR20.9%）まで拡大予測で、デジタル本人確認の需要急増とゼロトラスト・セキュリティの普及が背景にあります"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "quote": "(CAGR)は 12.5%"
+   },
+   {
+    "value": "9.50",
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "quote": "（CAGR）9.50％"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "40",
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "quote": "中でも、ネットワークセキュリティは世界のサイバーセキュリティ市場の主要なセグメントであり、2015年には市場全体の40%以上のシェアを占めました"
+   },
+   {
+    "value": "15.87",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "Microsoftは2025年に15.87%を超える市場シェアを獲得し、首位に立った"
+   },
+   {
+    "value": "27.88",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "で、2025年に合計27.88%の市場シェアを占めた"
+   },
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "ソフトウェアは2035年までに2,695.7億米ドルに達すると予測され、2025年には市場シェアの40%を占めた"
+   },
+   {
+    "value": "15",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "ハードウェアは2025年に市場シェアの15%を占め、2035年には10%を占めると予測される"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "ハードウェアは2025年に市場シェアの15%を占め、2035年には10%を占めると予測される"
+   },
+   {
+    "value": "16",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "エンドポイントセキュリティは2025年に340.2億米ドルを生み出し、2035年には市場シェアの16%を占めると予測される"
+   },
+   {
+    "value": "13",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される"
+   },
+   {
+    "value": "12.41",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される"
+   },
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される"
+   },
+   {
+    "value": "12.96",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される"
+   },
+   {
+    "value": "72",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "クラウド導入の市場規模は2025年に1,039.5億米ドルとなり、2035年までに72%のシェアを占めると予想される"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "オンプレミス導入の2025年のシェアは45%で、2035年までに28%のシェアを占めると予想される"
+   },
+   {
+    "value": "28",
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "quote": "オンプレミス導入の2025年のシェアは45%で、2035年までに28%のシェアを占めると予想される"
+   },
+   {
+    "value": "46.0",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "北米は2025年にサイバーセキュリティ市場の46.0%を占めており、連邦の命令と密なベンダーエコシステムによって推進されています"
+   },
+   {
+    "value": "24.5",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "ヨーロッパはGDPRの施行措置とデジタル運用レジリエンス法に支えられ、24.5%のシェアを保持しています"
+   },
+   {
+    "value": "74.0",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "ソリューションは2025年にサイバーセキュリティ市場の74.0%を占め、企業はポイント製品よりも統合プラットフォームを好んでいます"
+   },
+   {
+    "value": "63.0",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "オンプレミスの導入は2025年にサイバーセキュリティ市場の63.0%のシェアを保持しており、クラウドベースのセキュリティは14.75%のCAGRで増加しています"
+   },
+   {
+    "value": "14.75",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "オンプレミスの導入は2025年にサイバーセキュリティ市場の63.0%のシェアを保持しており、クラウドベースのセキュリティは14.75%のCAGRで増加しています"
+   },
+   {
+    "value": "28.0",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "BFSIは28.0%の収益シェアでエンドユーザー産業をリードしており、小売とeコマースは13.90%のCAGRで進展しています"
+   },
+   {
+    "value": "13.90",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "BFSIは28.0%の収益シェアでエンドユーザー産業をリードしており、小売とeコマースは13.90%のCAGRで進展しています"
+   },
+   {
+    "value": "72.0",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "大企業はサイバーセキュリティ市場の72.0%を占め、中小企業は12.20%のCAGRで成長しています"
+   },
+   {
+    "value": "12.20",
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "quote": "大企業はサイバーセキュリティ市場の72.0%を占め、中小企業は12.20%のCAGRで成長しています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "quote": "近年はトップシェアであるPalo Alto Networksの市場シェアが拡大し、10％に迫る勢いとなっている"
+   },
+   {
+    "value": "89.1",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "quote": "セキュリティ製品の機能市場セグメント別では、エンドポイントセキュリティソフトウェアやネットワークセキュリティソフトウェアなどを含む、セキュリティソフトウェア市場の2023年の売上額が4,965億1,100万円で全体の89.1％を占め、コンテンツ管理、UTMやVPNなどを含むセキュリティアプライアンス市場は608億9,300万円で全体の10.9％となった"
+   },
+   {
+    "value": "10.9",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "quote": "セキュリティ製品の機能市場セグメント別では、エンドポイントセキュリティソフトウェアやネットワークセキュリティソフトウェアなどを含む、セキュリティソフトウェア市場の2023年の売上額が4,965億1,100万円で全体の89.1％を占め、コンテンツ管理、UTMやVPNなどを含むセキュリティアプライアンス市場は608億9,300万円で全体の10.9％となった"
+   },
+   {
+    "value": "2",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "quote": "また、2022年及び2023年の国内情報セキュリティ製品のベンダー別シェア（売上額）について、市場全体のシェア率が2％以上の企業を「外資系企業」と「国内企業」に分類し、それら企業における2022年及び2023年の売上額を集計した結果、ともに外資系企業のシェアが5割程度を占めており、国内のサイバーセキュリティ製品はその多くを海外に依存している状況が引き続いているといえる（"
+   },
+   {
+    "value": "16.6",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "quote": "サイバーセキュリティ主要事業者の市場シェアについて、セキュリティアプライアンス市場におけるベンダー別シェアの推移を見ると、Palo Alto Networksは、2022年第4四半期の16.6％から2024年第2四半期には22.4％へとシェアを拡大し、首位となっている"
+   },
+   {
+    "value": "22.4",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "quote": "サイバーセキュリティ主要事業者の市場シェアについて、セキュリティアプライアンス市場におけるベンダー別シェアの推移を見ると、Palo Alto Networksは、2022年第4四半期の16.6％から2024年第2四半期には22.4％へとシェアを拡大し、首位となっている"
+   },
+   {
+    "value": "20",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "quote": "Fortinetも20％前後のシェアを占めており、上位2社がセキュリティアプライアンス市場を牽引する構図となっている"
+   },
+   {
+    "value": "1",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "quote": "また、2024年及び2025年の国内情報セキュリティ製品のベンダー別シェア（売上額）について、市場全体のシェア率が1％以上の企業を「外資系企業」と「国内企業」に分類し、それら企業における2024年及び2025年の売上額を集計した結果、ともに外資系企業のシェアが6割程度を占めており、国内のサイバーセキュリティ製品はその多くを海外に依存している状況が引き続いているといえる（"
+   },
+   {
+    "value": "59",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "市場規模はツールが優勢で2023年度のシェアはツールが59％、サービスが41％となりました"
+   },
+   {
+    "value": "41",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "市場規模はツールが優勢で2023年度のシェアはツールが59％、サービスが41％となりました"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "最もシェアが大きいプロダクトは「ネットワーク防御・検知/境界線防御製品」で対前年度比15.5％増の3,279億円になりました"
+   },
+   {
+    "value": "10.4",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "次にシェアが大きいのは「エンドポイント保護管理製品」で対前年度比10.4％増の2,698億円、次いで「コンテンツセキュリティ対策製品」が同18.4％増の2,463億円、「アイデンティティ・アクセス管理製品」が同20.0％増の約1,502億円となりました"
+   },
+   {
+    "value": "18.4",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "次にシェアが大きいのは「エンドポイント保護管理製品」で対前年度比10.4％増の2,698億円、次いで「コンテンツセキュリティ対策製品」が同18.4％増の2,463億円、「アイデンティティ・アクセス管理製品」が同20.0％増の約1,502億円となりました"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "次にシェアが大きいのは「エンドポイント保護管理製品」で対前年度比10.4％増の2,698億円、次いで「コンテンツセキュリティ対策製品」が同18.4％増の2,463億円、「アイデンティティ・アクセス管理製品」が同20.0％増の約1,502億円となりました"
+   },
+   {
+    "value": "19.0",
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "quote": "最もシェアが大きいサービスは「コンサルティング/診断サービス」で対前年度比19.0％増の2,888億円でした"
+   },
+   {
+    "value": "54.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "quote": "By offering: Hardware segment held the largest market share of 54.2% in 2025."
+   },
+   {
+    "value": "23.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "quote": "By security type: Infrastructure protection segment held the largest market share of 23.9% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4-101165",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6889744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/cyber-security-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prAP54054925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cyber-security-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/cyber-security-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://softwareanalyst.substack.com/p/cybersecurity-10b-giants-insights",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/12227/key-cybersecurity-players/?srsltid=AYCX9vKOb5mhWCaKg4kkp6z2as-ZzDeRpG6L0KzTNteL9Rbni2eR5SuZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/cyber-security-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlantsecurity.com/blog/top-cybersecurity-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marknteladvisors.com/research-library/cybersecurity-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/Why-is-the-cybersecurity-market-so-fragmented",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.comptia.org/en-us/resources/research/state-of-cybersecurity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cyber-security-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strobes.co/blog/top-10-cybersecurity-companies-in-united-states/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/usa-cyber-security-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サイバーセキュリティ 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4-101165",
+    "https://www.zionmarketresearch.com/ja/report/cyber-security-market",
+    "https://www.gminsights.com/ja/industry-analysis/cybersecurity-market",
+    "https://jp.linkedin.com/pulse/us%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6124%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99-7521864546513408000-verpe",
+    "https://www.atpress.ne.jp/news/6889744",
+    "https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953",
+    "https://www.sphericalinsights.com/jp/reports/japan-cyber-security-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r05/html/nd24a100.html",
+    "https://www.itr.co.jp/report-library/m-26001100",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/サイバーセキュリティ市場-101165"
+   ]
+  },
+  {
+   "query": "サイバーセキュリティ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.buffett-code.com/industries/80",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4-101165",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/cyber-security-market",
+    "https://service.xenobrain.jp/forecastresults/market-size/cybersecurity",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "https://www.imagazine.co.jp/canalys-cyber-security-market202204q/",
+    "https://synergy-career.co.jp/media/cyber-security-company/",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/サイバーセキュリティ市場-101165",
+    "https://fallabs.com/japan-top-cybersecurity-companies-ranking"
+   ]
+  },
+  {
+   "query": "サイバーセキュリティ 市場 前年比 2025",
+   "results": [
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html",
+    "https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN",
+    "https://www.newton-consulting.co.jp/itilnavi/flash/id=8553",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4",
+    "https://my.idc.com/getdoc.jsp?containerId=prAP54054925",
+    "https://www.imarcgroup.com/report/ja/japan-cybersecurity-market",
+    "https://www.automation-news.jp/2026/08/107614/",
+    "https://scan.netsecurity.ne.jp/article/2026/08/19/55956.html",
+    "https://www.sentinelone.com/ja/cybersecurity-101/cybersecurity/cyber-security-statistics/",
+    "https://www.yano.co.jp/press-release/show/press_id/4130"
+   ]
+  },
+  {
+   "query": "cybersecurity market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "https://www.mordorintelligence.com/industry-reports/cyber-security-market",
+    "https://market.us/report/cyber-security-market/",
+    "https://www.precedenceresearch.com/grid-cybersecurity-market",
+    "https://www.marketsandmarkets.com/Market-Reports/cyber-security-market-505.html",
+    "https://www.bccresearch.com/market-research/information-technology/cyber-security-techs-markets-report.html?srsltid=AYCX9vJ8VHo5x_Jdg44i-esLe1Q1zlWs4v3YBSWqqIEUfgQKLH1NXRjO",
+    "https://www.linkedin.com/pulse/cybersecurity-market-forecast-from-2025-2030-david-sehyeon-baek-qgtyc",
+    "https://www.precedenceresearch.com/cyber-security-market"
+   ]
+  },
+  {
+   "query": "cybersecurity market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "https://market.us/report/cyber-security-market/",
+    "https://softwareanalyst.substack.com/p/cybersecurity-10b-giants-insights",
+    "https://www.mordorintelligence.com/industry-reports/cyber-security-market",
+    "https://www.linkedin.com/posts/steven-kiernan_a-pivotal-moment-in-the-highly-fragmented-activity-7375798897992024064-87Wv",
+    "https://www.statista.com/topics/12227/key-cybersecurity-players/?srsltid=AYCX9vKOb5mhWCaKg4kkp6z2as-ZzDeRpG6L0KzTNteL9Rbni2eR5SuZ",
+    "https://www.rootsanalysis.com/cyber-security-market",
+    "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "https://atlantsecurity.com/blog/top-cybersecurity-companies"
+   ]
+  },
+  {
+   "query": "cybersecurity market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://ismg.io/resource/the-cybersecurity-market-landscape-key-players-segmentation-trends/",
+    "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp",
+    "https://www.marknteladvisors.com/research-library/cybersecurity-market.html",
+    "https://www.quora.com/Why-is-the-cybersecurity-market-so-fragmented",
+    "https://www.linkedin.com/posts/jaymcbain_we-have-been-predicting-a-platform-moment-activity-7478219335753355264-AZAx",
+    "https://techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market",
+    "https://research.contrary.com/report/unlocking-the-cybersecurity-landscape",
+    "https://www.marketresearchfuture.com/reports/cyber-security-market-953",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "cybersecurity market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165",
+    "https://www.grandviewresearch.com/industry-analysis/cyber-security-market",
+    "https://market.us/report/cyber-security-market/",
+    "https://www.returnonsecurity.com/p/2025-state-of-the-cybersecurity-market",
+    "https://www.comptia.org/en-us/resources/research/state-of-cybersecurity/",
+    "https://www.precedenceresearch.com/cyber-security-market",
+    "https://www.mordorintelligence.com/industry-reports/cyber-security-market",
+    "https://www.linkedin.com/pulse/top-10-companies-cybersecurity-industry-protecting-global-nlwac",
+    "https://strobes.co/blog/top-10-cybersecurity-companies-in-united-states/",
+    "https://www.kenresearch.com/usa-cyber-security-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

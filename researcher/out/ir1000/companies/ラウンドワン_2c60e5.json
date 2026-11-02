@@ -1,0 +1,1513 @@
+{
+ "name": "ラウンドワン",
+ "aliases": [],
+ "context": "証券コード4680／サービス業／プライム（内国株式）／2026.03期 売上高11,176百万円 営業利益率79.3%",
+ "researched_at": "2026-11-02T14:48:16.880531+00:00",
+ "official_url": "https://www.round1.co.jp/",
+ "identified_by": "search:yahoo_jp:ラウンドワン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2023年（令和5年）4月6日",
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1980年12月",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ボウリング・アミューズメント・カラオケ・スポッチャ(スポーツを中心とした時間制の施設)等を中心とした、地域密着の屋内型複合レジャー施設の運営",
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ボウリング・アミューズメント・カラオケ・スポッチャ(スポーツを中心とした時間制の施設)などを中心とした、地域密着の屋内型複合レジャー施設の運営など",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "正社員数",
+    "value": "1,258名（2026年3月31日時点）",
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結2,072名(2017年3月31日現在)",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご都合に合わせて、様々なコースのレッスンをご用意しております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイボールをお持ちでクラブ会員のお客様限定で「無料」でご入会頂ける会員制度となります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "軽食の持ち込みは可能ですが、周りのお客様のご迷惑となっている場合はお声がけさせて頂くことがございますので、予めご了承ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※中学生のお客様は預かり上限が3,000枚までとなります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※道路交通法に基づき、運転されるお客様への飲酒提供はお断りしております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お片付けにつきましてはお客様にてご協力をお願い致します",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "但し、フリータイムご利用の場合、満室の際の利用制限などは初めにご入室されたお客様の利用時間が対象となります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お時間の管理はお客様ご自身でお願い致します",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "学生料金をご利用の場合、高校生以上のお客様にはご入場時に学生証をご提示いただきます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※中学生以下のお客様はご提示不要です",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※座席には限りがございます為、混雑時は当店でフードをご注文のお客様を優先とさせていただいております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "コスプレでの撮影についても問題ございませんが、他のお客様が映りこまないようにするなどご配慮をお願いいたします",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "入場制限については店舗毎に設けている入場上限人数(350名～700名)を超えた場合に発生し、ご退場のお客様と交代でご案内させていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "スポッチャでは各アイテムに『ご利用目安時間』を設けておりますので、お待ちのお客様がいらっしゃる場合は、交代していただくようお願いしております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "※一般のお客様優先のため、施設利用料金を頂いての貸出しは行っておりません",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "●お客様への取材は基本的に不可ですが、お申し込み時に記載していただければ考慮させていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、取材時のお客様ご本人への取材許可は必ず取っていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "また取材時のまわりのお客様への許可等も同様です",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワンでは、お客様に快適にお過ごしいただくため、お客様のプライバシー保護等の観点から、お客さまが「個人」として撮影を行う場合について、撮影ルールの遵守・承諾をお願いしております",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "尚、「法人のお客様※」は下記専用サイトより事前にお申し込み頂きますようお願い致します",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "●テレビやYouTube番組、ライブ配信等、収益化を伴う撮影について、「個人のお客様※」からのお申し込みは受付しておりません",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "●他のお客様が映り込んだ動画は、撮影された人の同意なくインターネット上にアップしないようご注意下さい",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、周辺のお客様へ配慮の上ご使用下さい",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信をご希望のお客様は事前に店舗への申込が必要になります",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "●弊社は、撮影によるお客様同士のトラブルについては一切関知致しません",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "●個人のお客様に対して、動画配信の許諾や、動画内容に関するチェックや回答は個別に行なっておりませんので、何卒ご了承下さい",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、業務遂行上お客様に対し差し上げたEメール等のコンテンツは、お客様個人宛てにお送りするものです",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の許可なく、お客様が弊社よりお送りしたEメール等のコンテンツの全部または一部を、広くご本人以外の方が利用可能な状態にする（ホームページにて公開する、不特定多数の人にメールを転送するなど）ことはご遠慮ください",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様情報の保護",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ラウンドワンジャパン(以下、弊社といいます）では、お客様情報の重要性を認識し、以下の方針に従ってお客様情報の保護を行っております",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご提供頂いたお客様情報は、お客様との良好な関係に役立てる為（お問い合わせに対し回答を差し上げる為、お客様へ有用な情報を提供する為、その他の正当な目的の為）のみに使用し、この目的以外の用途には一切使用致しません",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "またご提示いただいたお客様情報は適切に管理し、お客様の承諾が無い限り第三者に提示、開示を一切致しません",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "・弊社およびその関係会社間 並びに弊社関連業務の委託先との間で業務遂行上必要なお客様情報がある場合、必要最小限度の情報を共有する場合",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様に資料等を送付する為に、配信を委託した会社にお客様の名前と宛先等の情報を開示する場合",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様が情報の開示に予め同意している場合",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、保有するお客様情報に関して、適用される法令、規範を遵守するとともに、上記の項目における取り組みを適宜見直し、改訂していきます",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ラウンドワンジャパンは、お客様の個人情報を安全に保管しお客様のご希望に沿って利用することは、当社の大きな課題と認識しております",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、以下に掲げた事項を認識し、お客様の個人情報保護に万全を期します",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○当社は、お客様の個人情報の取り扱いについて、法令その他の規範を遵守いたします",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○当社は、お客様の個人情報を適切に取り扱うため、社内教育・内部統制などの社内体制を整備・強化し、継続的な見直しを行い、実践いたします",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様の個人情報は、その権限を有する社員のみが閲覧でき、不正使用や破壊・改ざん・漏洩などから保護するため、セキュリティの強化に努めます",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様の個人情報は、当社の営業の範囲において利用させていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○お客様の個人情報の処理を外部に委託する場合、当社は委託先が十分な個人情報保護の水準にあることを確認いたします",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "○当社は、お客様の個人情報を常に正確な状態で管理するよう努めます",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様の利益を保護するため、お客様からの開示請求にお応えし、お申し出により登録内容の追加・訂正・削除を行います",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "[3] ラウンドワンSNSに掲載されている情報の正確性については万全を期しておりますが、利用者がラウンドワンSNSの情報を用いて行う一切の行為について、何ら責任を負うものではありません",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "●同一のユーザーにより繰り返し投稿される、同一内容のコメントや似通ったコメント",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "●他のユーザー、第三者等になりすますもの",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "[6] 投稿にかかる著作権等は、当該投稿を行ったユーザー本人に帰属しますが、投稿されたことをもって、ユーザーは当社に対し、投稿コンテンツを無償で使用する（加工、抜粋、複製、公開、翻訳などを含む）権利を許諾したものとし、かつ、当社および当社の関連会社に対して一切著作権等を行使しないことに同意したものとします",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "[7] 当社は、ユーザー間、もしくはユーザーと第三者間のトラブルによって生じた損害に対する一切の責任を負いません",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "[9] ラウンドワンSNSを利用されたこと、もしくは何らかの理由で利用することができなかったことによって生じるお客様のいかなる損害についても、当社は何ら責任を負うものではありません",
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/aboutweb/sitemap.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/service/about_round1/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆様へ",
+    "url": "https://www.round1.co.jp/collaboration/sairen/index.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "カラオケ料金・サービスについて",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カラオケの基本料金やオトクなサービスについてご案内します",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワンアプリID連携サービス終了に伴う登録情報削除のお知らせ",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※MYフローズンキッチンに設置しているレンジ、給湯器の利用はMYフローズンキッチンでご購入いただいた商品に限ります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "持ち込みの商品でのご利用はお断りしておりますので、あらかじめご了承ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "学生料金の他、学生限定のサービス料金（3時間パック/フリータイム）がございます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細はご利用店舗ページの料金表、及び以下学生限定サービス料金ページをご確認ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "学生限定サービス料金についてはこちら",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "●ドラマ、映画、CM、ミュージックビデオ、写真集、カタログ、商品アピールの為のイメージ映像などロケ場所としての使用、撮影は不可となります",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "但し、お客さまのご利用環境によっては、当サイトが提供するサービスを一部ご利用できない場合があります",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "但し、これにより提供できない商品・サービス等が発生する可能性があります",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ラウンドワン】カラオケ料金・サービスについて",
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "カラオケ料金・サービスについて",
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金",
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金あり!",
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワンのカラオケ お得なサービスをご紹介！",
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【ラウンドワン】スポッチャサービス施設紹介",
+    "url": "https://www.round1.co.jp/service/spo-cha/about/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス施設紹介",
+    "url": "https://www.round1.co.jp/service/spo-cha/about/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "●ドラマ、映画、CM、ミュージックビデオ、写真集、カタログ、商品アピールの為のイメージ映像などロケ場所としての使用、撮影は不可となります",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当ウェブサイトは利便性とサービス向上のため、Cookieを使用します",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗によって異なる提供サービス",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワンの米国店舗では、地域や店舗サイズによって提供されるサービスが異なる",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス情報",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス情報",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、マクドナルドやコカ・コーラといった世界的企業も、真の看板製品ひとつで事業が成立している",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ、斬新なサービスや商品を発信することができるのです",
+    "url": "https://recruit.round1.co.jp/company/message.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗一覧/料金表",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取材申込について",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗限定！とれすぎ〜のアイランド導入！",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大人気ゲーム「パワプロ」がメダルゲーム機になって全国のラウンドワン86店舗で稼働中！大幅バージョンアップにより、現在「大谷翔平」選手が登場中！",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大人気のダーツ最新機種 DARTSLIVE 3とVSPhoenix Xの各店舗設置台数をご確認いただけます",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "関西店舗のバッティングコーナーで、阪神タイガースコラボが実現",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "[店舗限定]いざ異世界へ！イマーシブプロジェクタールーム登場",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クレーンゲーム設置台数300台規模は全国で78店舗！10円キャッチャーも大好評稼働中！",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全米で話題沸騰中！ピックルボールがラウンドワンに新登場！ 導入店舗拡大中！",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※一部店舗ではご利用いただけません",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリ限定のスペシャルクーポンを毎週配信! 待たずに遊べるレーン予約や、店舗検索機能など便利機能が満載",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "10月10日に米国66号店目となるパシフィックビュー店（カリフォルニア州）がオープンいたしました！日本食フードホール 游(YUU)の初併設店舗となります",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "北米の店舗情報はこちら",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中国の店舗情報はこちら",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧・料金表",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧/料金表",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗により異なりますので、詳しくは",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗案内一覧",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "からご利用店舗の営業時間をご確認下さい",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "から各店舗の「入場制限ルール」をご確認下さい",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗によってご利用条件が異なります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "一部店舗で無料シャトルバスを運行しております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、赤ちゃん用の離乳食や小さなお子さまのおやつ等はご利用店舗にご相談の上可能とさせて頂いております",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "◼️電話予約：ご利用当日のみ、店舗にて直接お電話で承ります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗によって料金が異なる場合がございます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用店舗の料金表をご確認ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗により料金が異なる場合がございます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "詳細はご利用店舗の料金表をご確認ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロボウラーが所属している店舗が知りたいです",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "プロボウラー紹介ページ",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ボウラーズクラブを店舗で入会する時にマイボールは必須なんですか？",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "最寄りの店舗よりご注文頂けます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "遊びたいゲームがどの店舗にあるのか知りたい",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "アミューズメント最新入荷ゲーム情報ページより店舗別に設置状況をご確認いただけます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "(店舗・時期により異なります)",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※メダルバンクの引き出しは預けた店舗のみ可能です",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "その為、お借りいただいたメダルはお借りいただいた店舗でのみご利用いただけます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※入荷景品は店舗により異なりますので各店のTwitterも合わせてご確認ください",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗により異なります",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワン | ラウンドワン店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧/料金表",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワン店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、この度弊社では、テレビ、ラジオ、雑誌等の店舗取材のご依頼を多数いただいており、店舗取材の効率化向上を目指して、",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "各店舗と調整を致しました上、許可させていただいたもののみ、こちらよりご連絡させていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "●店舗での取材は、原則として平日の営業時間内とさせていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "(※1) 各店舗の告知内容が本文中に入らないもの",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "●取材希望店舗が事情により（大会開催等）取材不可となる場合がありますので、その際は他店舗もしくは別日にてご対応させていただきます",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧・料金表",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧/料金表",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、店舗スタッフの判断で撮影中止を求める場合がございます",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "※各メディアご担当者様、番組ご担当者様、制作会社様、マネジメント会社様、代理店様及び、企業と契約して動画配信をしている方、芸能事務所やプロダクション等に所属されている方等",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "ラウンドワン店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信可能店舗：池袋店・梅田店・広島店・福岡天神店・札幌すすきの店・横浜駅西口店",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "配信をご希望のお客様は事前に店舗への申込が必要になります",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧・料金表",
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗一覧/料金表",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   },
+   {
+    "quote": "店舗取材申込について",
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年9月14日(月)〜11月15日(日)までの期間限定！ 秋の夜はラウンドワンで遊ぼう！",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日～2027年1月11日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日～12月13日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日～2027年2月7日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月20日～2027年2月23日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月14日～2027年2月14日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日～2027年2月10日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日～2027年2月14日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2日～2027年1月31日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日～2027年1月17日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月11日～2027年2月14日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月6日～2027年2月7日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月27日～2027年2月28日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日～2027年1月31日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日～2027年1月17日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日～2027年1月17日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月17日～2027年1月17日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日～11月29日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日～2027年2月12日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日～11月29日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月10日～2027年1月11日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日～1月11日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日～11月3日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日～11月15日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月13日～1月11日までの期間限定",
+    "url": "https://www.round1.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月27日朝10:00スタート！",
+    "url": "https://www.round1.co.jp/collaboration/sairen/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月17日朝10:00スタート！",
+    "url": "https://www.round1.co.jp/collaboration/chirazuart/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月18日朝10:00スタート！",
+    "url": "https://www.round1.co.jp/collaboration/makehiroin/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年（令和5年）4月6日",
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月下旬、サンフランシスコ店が新たにオープンしたとのことで実際に訪問してみた",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期(第47期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期(第46期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期(第45期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期(第44期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期(第43期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期(第42期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期(第41期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期(第40期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期(第39期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期(第38期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月期(第37期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年3月期(第36期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期(第35期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年3月期(第34期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年3月期(第33期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年3月期(第32期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年3月期(第31期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年3月期(第30期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年3月期(第29期)",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会 要約・質疑応答",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算「現況と今後の展望」",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算「現況と今後の展望」",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期第３四半期決算「現況と今後の展望」",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第2四半期決算「現況と今後の展望」",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第1四半期 決算説明会 書き起こし",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会 要約・質疑応答",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第１四半期決算「現況と今後の展望」",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "カラオケの利用料金(ルーム料金＋1オーダー料金)に別途1室300円で利用いただけます",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "スポッチャの入場料金のみでそれ以外の利用料金は一切掛かりません",
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "※一般のお客様優先のため、施設利用料金を頂いての貸出しは行っておりません",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "pass": 1
+   },
+   {
+    "quote": "※一般のお客様優先のため、施設利用料金を頂いての貸出しは行っておりません",
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプション（新株予約権）の行使価額の調整に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプション（新株予約権）に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプション(新株予約権)の発行内容確定に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックオプション(新株予約権)の発行に関するお知らせ",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "※各グッズ、ノベルティ及び、ルーム予約において、営利目的での購入、予約、転売行為、無在庫販売行為は固くお断りいたします",
+    "url": "https://www.round1.co.jp/collaboration/chirazuart/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "※各グッズ、ノベルティにおいて、営利目的での購入、予約、転売行為、無在庫販売行為は固くお断りいたします",
+    "url": "https://www.round1.co.jp/collaboration/makehiroin/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、ボウリングやカラオケといったリアルな楽しみがそこに実在するというのは、店舗をもつ強みです",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ラウンドワンの米国展開成功から考えるアメリカでウケる「マイルドヤンキー」型ビジネスモデル デザイン会社 ビートラックス: ブログ",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワンの米国展開成功から考えるアメリカでウケる「マイルドヤンキー」型ビジネスモデル",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "INTEGRATED REPORT - ラウンドワン — INTEGRATED REPORT - ラウンドワン round1-group.co.jp PDF https://www.round1-group.co.jp > docs > pdf > 202...",
+    "url": "https://www.round1-group.co.jp/docs/pdf/2025/20251008_tougouhoukoku_re.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワン の米国展開成功から考えるアメリカでウケる ... — ラウンドワン の米国展開成功から考えるアメリカでウケる ... btrax blog https://blog.btrax.com > round1",
+    "url": "https://blog.btrax.com/jp/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - ラウンドワン — 会社概要 - ラウンドワン ラウンドワン https://www.round1.co.jp > company > company > info",
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "pass": 3
+   },
+   {
+    "quote": "経常利益はコロナ前の3倍！ ラウンドワン に行きたくなる“2つ ... — 経常利益はコロナ前の3倍！ ラウンドワン に行きたくなる“2つ ... Infoseek https://news.infoseek.co.jp > 新着ニュース > 経済 > 経済",
+    "url": "https://news.infoseek.co.jp/article/dcs_495929/",
+    "pass": 3
+   },
+   {
+    "quote": "会社を知る｜株式会社 ラウンドワン - 新卒採用サイト — 会社を知る｜株式会社 ラウンドワン - 新卒採用サイト ラウンドワン https://recruit.round1.co.jp > company",
+    "url": "https://recruit.round1.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 ｜株式会社 ラウンドワン ROUND1 — 決算説明 会 資料 ｜株式会社 ラウンドワン ROUND1 round1-group.co.jp https://www.round1-group.co.jp > IR > 財務情報",
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "IRトップ｜株式会社 ラウンドワン ROUND1 — IRトップ｜株式会社 ラウンドワン ROUND1 round1-group.co.jp https://www.round1-group.co.jp > ...",
+    "url": "https://www.round1-group.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワン （4680）のIR情報・ 決算資料 - IRBANK — ラウンドワン （4680）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ラウンドワン",
+    "url": "https://irbank.net/4680/ir",
+    "pass": 3
+   },
+   {
+    "quote": "【 ラウンドワン 】[4680] 決算 発表や業務・財務情報 | 日経電子版 — 【 ラウンドワン 】[4680] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=4680",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワン のIR 資料 - 4680 / プライム / サービス業 — ラウンドワン のIR 資料 - 4680 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/4680/library",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワン 【4680】の 事業 内容 - キタイシホン — ラウンドワン 【4680】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4680/business",
+    "pass": 3
+   },
+   {
+    "quote": "(株) ラウンドワン ジャパンの会社概要 | マイナビ2028 — (株) ラウンドワン ジャパンの会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp70538 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp70538/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ラウンドワン 代表取締役 社長 杉野 公彦 — 株式会社 ラウンドワン 代表取締役 社長 杉野 公彦 ベンチャー通信Online https://v-tsushin.jp > interview > vt72_round1",
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "pass": 3
+   },
+   {
+    "quote": "メッセージ・想い｜株式会社 ラウンドワン — メッセージ・想い｜株式会社 ラウンドワン ラウンドワン https://recruit.round1.co.jp > 会社を知る",
+    "url": "https://recruit.round1.co.jp/company/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 】 ラウンドワン 誕生の裏側    創業者・杉野 社長 ... — 【 インタビュー 】 ラウンドワン 誕生の裏側    創業者・杉野 社長 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/maeda_mmfpo0803/n/n94ea77d98dcd",
+    "pass": 3
+   },
+   {
+    "quote": "ラウンドワン 杉野公彦 社長 - 日興フロッギー — ラウンドワン 杉野公彦 社長 - 日興フロッギー 日興フロッギー https://froggy.smbcnikko.co.jp > series-name > round1",
+    "url": "https://froggy.smbcnikko.co.jp/series-name/round1/",
+    "pass": 3
+   },
+   {
+    "quote": "アミューズメント業界をリードする ラウンドワン の代表取締役 ... — アミューズメント業界をリードする ラウンドワン の代表取締役 ... 桃山学院大学 https://www.andrew.ac.jp > interview > article",
+    "url": "https://www.andrew.ac.jp/interview/article/101.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.round1.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/sns.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/sitepolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/snspolicy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/sitemap.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/about_round1/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/collaboration/sairen/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/collaboration/chirazuart/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/collaboration/makehiroin/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/spo-cha/about/food.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/karaoke/about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/spo-cha/about/facility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/shuzai_form.xlsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/aboutweb/syuzai/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/bowling/index_about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/company/company/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/about_round1/bo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/about_round1/ka.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/about_round1/am.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/service/about_round1/sp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/shop/facility/hokkaidou-shiroishi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1.co.jp/shop/facility/saitama-iruma.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.round1-group.co.jp/docs/pdf/2025/20251008_tougouhoukoku_re.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://blog.btrax.com/jp/round1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.round1-group.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.round1.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://v-tsushin.jp/interview/vt72_round1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.round1.co.jp/company/message.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ラウンドワン",
+   "results": [
+    "https://www.round1.co.jp/",
+    "https://www.round1usa.com/",
+    "https://www.round1-group.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3",
+    "https://x.com/Round1_official",
+    "https://ja.wikipedia.org/wiki/ラウンドワン",
+    "https://en.wikipedia.org/wiki/Round_One_Corporation",
+    "https://www.round1.co.jp/shop/area04.html",
+    "https://www.round1-group.co.jp/information/outline/",
+    "https://gendai.media/articles/-/148727"
+   ]
+  },
+  {
+   "query": "ラウンドワン ビジネスモデル",
+   "results": [
+    "https://www.round1-group.co.jp/docs/pdf/2025/20251008_tougouhoukoku_re.pdf",
+    "https://blog.btrax.com/jp/round1/",
+    "https://www.round1.co.jp/company/company/info.html",
+    "https://news.infoseek.co.jp/article/dcs_495929/",
+    "https://recruit.round1.co.jp/company.html",
+    "https://note.com/ote_walk/n/n41e7d13bdf1d",
+    "https://www.provej.jp/column/st/round1/",
+    "https://www.youtube.com/watch?v=hg08NGqw8KU",
+    "https://listen.style/p/sf-design-talk/ylfycirn",
+    "https://consovation.com/ラウンドワンの魅力とビジネスモデルで目指す成/"
+   ]
+  },
+  {
+   "query": "ラウンドワン 決算説明資料",
+   "results": [
+    "https://www.round1-group.co.jp/ir/financial-affairs/financial-results/",
+    "https://www.round1-group.co.jp/ir/",
+    "https://irbank.net/4680/ir",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4680",
+    "https://www.buffett-code.com/company/4680/library",
+    "https://www.round1-group.co.jp/ir/financial-affairs/financial-statements/",
+    "https://sharedresearch.jp/ja/companies/4680/documents",
+    "https://kitaishihon.com/company/4680/ir-library",
+    "https://edinetdb.jp/company/E04710/presentations/",
+    "https://treelazy.com/stock-jp/4680/conference"
+   ]
+  },
+  {
+   "query": "ラウンドワン 事業系統図",
+   "results": [
+    "https://recruit.round1.co.jp/company.html",
+    "https://www.round1.co.jp/company/company/info.html",
+    "https://kitaishihon.com/company/4680/business",
+    "https://www.round1-group.co.jp/ir/",
+    "https://job.mynavi.jp/28/pc/search/corp70538/outline.html",
+    "https://sharedresearch.jp/ja/companies/4680",
+    "https://note.com/puripuridaijin/n/ne040dd13ccaa",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%AF%E3%83%B3",
+    "https://irbank.net/E04710/RevenueIFRS_JapanReportableSegmentMember",
+    "https://irbank.net/E04710/business?f=S100TODG"
+   ]
+  },
+  {
+   "query": "ラウンドワン 社長 インタビュー",
+   "results": [
+    "https://v-tsushin.jp/interview/vt72_round1/",
+    "https://recruit.round1.co.jp/company/message.html",
+    "https://note.com/maeda_mmfpo0803/n/n94ea77d98dcd",
+    "https://froggy.smbcnikko.co.jp/series-name/round1/",
+    "https://www.andrew.ac.jp/interview/article/101.html",
+    "https://www.round1-group.co.jp/information/members/",
+    "https://the-shashi.com/tse/4680/executives/ceo/sugino-kimihiko/",
+    "https://cocosugo.ktv.jp/search/report/133",
+    "https://ja.wikipedia.org/wiki/杉野公彦",
+    "https://www.youtube.com/watch?v=99jYojPMV2w"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部7頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部7頁・検索5回）"
+ }
+}

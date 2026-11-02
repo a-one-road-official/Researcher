@@ -1,0 +1,829 @@
+{
+ "name": "東海旅客鉄道",
+ "aliases": [],
+ "context": "証券コード9022／陸運業／プライム（内国株式）／2026.03期 売上高2,006,218百万円 営業利益率41.4%",
+ "researched_at": "2026-11-02T14:44:34.596875+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1987年 （ 昭和 62年） 4月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "旅客鉄道事業 他",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 2兆0062億1800万円 単独: 1兆6632億3500万円 （2026年3月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結: 29,569人 単独: 18,518人 （2026年3月31日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "より便利なサービスの提供と、さらなる需要の喚起を目指して",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、かつての「通勤客を運ぶ会社」から、「駅と沿線を中心とした総合生活サービス企業」へと進化する強力なパラダイムシフトが起きています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "JR東海は営業利益率40%超という驚異的な数字を叩き出し、JR東日本も運輸事業の回復に加え、不動産・ホテル事業や流通・サービス事業が増収増益を牽引しています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち運輸事業が約1兆8,485億円と売上の約60%を占める一方、不動産・ホテル事業や流通・サービス事業もそれぞれ数千億円規模の収益を計上しています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "この問題に対して、JR東海はインターネット予約サービスの「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "新幹線鉄道保有機構が解散したことで、サービスの充実と新車開発が容易となり、東海道新幹線には",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": ") サービスを開始したりするなど",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "、サービスの向上にも取り組んでいる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "を結んでいる東海道新幹線で、会員制（年会費が必要）の新幹線予約サービス「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」やその姉妹サービスの「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "一方、JR東日本のサービス「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」は、JR東海の「ビュー・エクスプレス特約」サービスに契約することで、エクスプレス予約の利用が認められている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "交通系ICカード全国相互利用サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JRグループで唯一、在来線を対象としたインターネット予約サービスは展開していなかったが、2019年4月1日からJR西日本の「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "などの高額商品を一般のクレジットカードで購入できない状況が長い間続いていた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "6月1日：JR東海エクスプレス・カードのサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "による新幹線座席予約サービス「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "サービスを全廃",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "3月29日：JR3社によるIC乗車券の新連携サービスの提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "EX-ICサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東海道新幹線N700系使用列車でインターネット接続サービスを提供開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "3月13日：TOICAの電子マネーサービス開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "9月30日：交通系ICカードで利用できる新幹線ネット予約・チケットレス乗車サービス「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "12月1日：EXサービス（エクスプレス予約・スマートEX）会員向けに新幹線駅などでワークスペースおよびワークブース「EXPRESS WORK」供用開始",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "3月3日：ロケーションサービスの提供を開始（専用ホームページ開設）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "在来線の主力形式",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "からの輸入製品を用いている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイアール東海フードサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主力である東海道新幹線は、1964年の開業以来、約72億人のお客さまにご利用いただき、日本経済の成長を支えてきました",
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "「業務改革」においてはICTなど最先端技術を活用して仕事の進め方、輸送サービスのあり方を抜本的に変革し、効率的な業務執行体制を確立していきます",
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "戦略・事業紹介 | 会社と事業を知る | 東海旅客鉄道株式会社 採用・インターンシップ情報",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・事業紹介",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "職種・系統紹介",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "ＪＲ東海が取り組む具体的な事業をご紹介します",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "」の普及促進により、直販率を高めてJR他社へ支払う手数料削減に取り組んでいる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "（愛・地球博）」に、関連技術を含めて紹介する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月20日に国土交通省はJR東海を中央新幹線の建設・営業主体として正式指名した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "関係者らへ向けて東海道新幹線や超電導リニア技術の特長を紹介したほか、米原駅 - 京都駅間で",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "ジェイアール東海パートナーズ - 投資、事業コンサルティング",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の8月28日から10月15日の間には、JR東海の「推し旅アップデート」とのコラボの1stシーズン『五等分の花嫁∽ 中野家の五つ子による上杉風太郎おもてなし大作戦 in 名古屋 愛知・三重』を実施し、中野家の五つ子が厳選した観光地を紹介するデジタルスタンプラリーの企画や、完全オリジナルのボイスドラマ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "Switch・PS4用ゲームソフト『五等分の花嫁 ～彼女と交わす五つの約束～』では1stシーズンで紹介した名所の一部が登場するほか、一部イラストの監修を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "では早期に一般クレジットカードに対応し、一般クレジットカード需要の多い名古屋駅・新大阪駅など大規模駅の店舗ではJR券専用の窓口も設けていたが、定期券の取り扱いは四日市支店（現存せず）など一部の店舗に限られた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東京電力エナジーパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・事業紹介",
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "職種・系統紹介",
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "鉄道業界TOP10ビジネスモデル JR東海東日本東急｜平野敦士カール",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道業界TOP10ビジネスモデル JR東海東日本東急",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、JR東日本、JR東海、JR西日本を中心に、東急、近鉄、阪急阪神、小田急、西武といった大手私鉄を比較しながら、日本の鉄道業界が誇る「最強のビジネスモデル」の正体に迫ります",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道会社が長年かけて築き上げてきた「鉄道＋α」のビジネスモデルが、ポストコロナの社会において改めてその強固さを証明した形です",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道業界ビジネスモデル グループ経営の真髄",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "それではTOP３社に共通するビジネスモデルの特徴を分析していこう！",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "★無料から経営学ビジネスモデルプラットフォーム戦略®マーケティングファイナンス他が学べます！",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "★41冊目新刊PR『ビジネスモデルひらめき図鑑 』",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルひらめき図鑑 変化の激しい時代に「儲けのしくみ」を作り出す",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "TOP3のビジネスモデル比較 強さの秘訣",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "『プラットフォーム戦略』『ビジネスモデル超入門』『経営学・マーケティング見るだけノート』",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "現役経営コンサルタントである私が、最新のニュースを基に最新のビジネスモデル、プラットフォーム戦略（R)、マーケティング、金融・ファイナンスについて解説し経営に役立つコンテンツをご提供する塾です",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "ほぼ平日毎日3社程度の最新ニュースをピックアップし、その裏側にある「儲けの仕組み（ビジネスモデル）」を徹底解説します",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "最新のビジネスモデルほか経営に役立つコンテンツ",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "・最新のビジネスモデル、経営学・マーケティング・金融ファイナンス・プラットフォーム戦略（R)について学びたい方 （プラットフォーム戦略は株式会社ネットストラテジーの登録商標です）",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "“新幹線一本足打法” JR東海、収益構造の特殊性「遊び心」は排除」",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "鉄道はもはや目的ではなく、顧客を呼び込み、街の価値を最大化するための「装置」へと昇華されています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "このきっぷ以前から長くJRグループ各社の全国の窓口で発売していた新幹線回数券「新幹線エコノミーきっぷ」は、特定都区市内制度を適用していたため、TEXきっぷ利用者が東京都区内や大阪市内から（まで）利用できると勘違いし、乗降駅の特定都区市内駅や乗り越し駅でトラブルが続出した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」とほぼ同等の機能を有しており、利用者の便宜が図られている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2003年10月より、利用者のマナー向上を認め「差し支えない」と判断し、新幹線車内のデッキで通話するよう促していた放送をとりやめ、マナーモードにするよう呼びかけているものの客席でも通話を認めている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "利用者がスマートフォンで推し旅のホームページにアクセスし、利用したいコンテンツをクリックすると新幹線の走行中（東京 - 新横浜間除く）に音声や動画などの車内限定コンテンツを楽しめる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "JR東海ポイント「トスポ」、入社3年目がリーダー 会員200万人へ利用者目線徹底",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "利用者向け）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "JR東海は営業利益率40%超という驚異的な数字を叩き出し、JR東日本も運輸事業の回復に加え、不動産・ホテル事業や流通・サービス事業が増収増益を牽引しています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "鉄道を核とした主要企業グループの強み",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の連結売上高は2兆62億円、純利益は5,528億円、営業利益率は41.4%に達します",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "これは、JR東海が東海道新幹線という超高収益事業に特化しているのに対し、JR東日本は多角化を進めているため、売上規模は大きいものの利益率では劣る構造を示しています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "度の運輸部門の営業利益率は45%となり",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年8月20日 08:19",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度（2026年3月期）の連結売上高は3兆846億円",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の連結売上高は2兆62億円、純利益は5,528億円、営業利益率は41.4%に達します",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度（2026年3月期）の決算データに基づいています",
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "pass": 3
+   },
+   {
+    "quote": "1997年10月8日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1997年にJR東海が独自に発売した新幹線",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2006年11月から名古屋圏で導入した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2007年12月25日に首都圏 -",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2005年日本国際博覧会",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2008年にリニアの車両製造にあたる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年5月20日に国土交通省はJR東海を中央新幹線の建設・営業主体として正式指名した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、政府が",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2009年11月16日に名古屋市内のホテルで「高速鉄道シンポジウム」を開催",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2010年1月25日に、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2018年時点ではアメリカ国内で2件の高速鉄道事業を実行またはプロモーション活動中であるほか、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1999年に開業した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2016年にはかつて",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2019年1月には、同様に使用済みの新幹線用品を",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2011年9月30日に総合研修センターとして開所",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月1日現在",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1987年（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1989年（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1990年（平成2年）4月16日：",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1991年（平成3年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1992年（平成4年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1993年（平成5年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1995年（平成7年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "1996年（平成8年）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に始まったいわゆる「コロナ禍」の影響により、テレワークの浸透など世の中の人々の行動様式は大きく変化しました",
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月3日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月2日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2025年（令和7年）11月10日視聴",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1965年生",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "戦略・事業紹介 | 会社と事業を知る | 東海旅客鉄道 株式会社 ... — 戦略・事業紹介 | 会社と事業を知る | 東海旅客鉄道 株式会社 ... ＪＲ東海 https://saiyo.jr-central.co.jp > company > business",
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 （ JR東海 ）の「企業分析［強み・弱み・展望 ... — 東海旅客鉄道 （ JR東海 ）の「企業分析［強み・弱み・展望 ... OpenWork https://www.openwork.jp > ... > 東海旅客鉄道（JR東海）",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frta&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "「 決算 を読む！」 東海旅客鉄道 株式会社（9022）2026年3月 ... — 「 決算 を読む！」 東海旅客鉄道 株式会社（9022）2026年3月 ... YouTube https://www.youtube.com > shorts > LCVwIaztOa0",
+    "url": "https://www.youtube.com/shorts/LCVwIaztOa0",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 【9022】のIR 資料 - 陸運業 - バフェット・コード — 東海旅客鉄道 【9022】のIR 資料 - 陸運業 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/9022/library",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 - Wikipedia — 東海旅客鉄道 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 東海旅客鉄道",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 【9022】の 事業 内容 - キタイシホン — 東海旅客鉄道 【9022】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9022/business",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 (株)【 JR東海 】の会社概要 | マイナビ2028 — 東海旅客鉄道 (株)【 JR東海 】の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp56444 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp56444/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 【9022】の 社長 ・役員 - キタイシホン — 東海旅客鉄道 【9022】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9022/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "東海旅客鉄道 の 社長 と経営方針【代表 : 丹羽 俊介】の口コミ — 東海旅客鉄道 の 社長 と経営方針【代表 : 丹羽 俊介】の口コミ 転職会議 https://jobtalk.jp > ... > 社長と経営方針の口コミ",
+    "url": "https://jobtalk.jp/companies/3588/answers/1009869",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "類を自社の窓口で売った場合、関係するJR他社から発売額の5 %分の手数料の支払いが得られること、および、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "発着の乗車券類について、在来線を利用せず新幹線駅から直接の乗車・下車であっても、JR東日本またはJR西日本に一定額の調整金を支払うことになっており、JR東海は年間約300億円の手数料等をJR他社に支払っている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "」の普及促進により、直販率を高めてJR他社へ支払う手数料削減に取り組んでいる",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "このTEXきっぷは、前項「営業概要」で挙げられた、JR東日本やJR西日本への手数料の支払いを嫌った一例である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "以上の管理職とライセンスが必要な",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "を保有・運行しているものの、保守管理はJR西日本に委託している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://saiyo.jr-central.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/carlhirano/n/n72635c36eff4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.jr-central.co.jp/ir/library/investor-meeting/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260428513854/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://company.jr-central.co.jp/company/organization/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東海旅客鉄道",
+   "results": [
+    "https://jr-central.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9022",
+    "https://x.com/JRCentral_OFL",
+    "https://baike.baidu.com/ja/item/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/5138182",
+    "https://ja.wikipedia.org/wiki/東海旅客鉄道"
+   ]
+  },
+  {
+   "query": "株式会社東海旅客鉄道",
+   "results": [
+    "https://company.jr-central.co.jp/company/about/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://jr-central.co.jp/",
+    "https://company.jr-central.co.jp/company/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9022",
+    "https://job.mynavi.jp/27/pc/search/corp56444/outline.html",
+    "https://www.epoc.gr.jp/kaiin/169.html",
+    "https://www.linkedin.com/company/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93%EF%BC%88%E6%A0%AA%EF%BC%89"
+   ]
+  },
+  {
+   "query": "東海旅客鉄道 株式会社",
+   "results": [
+    "https://jr-central.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9022",
+    "https://job.mynavi.jp/27/pc/search/corp56444/outline.html",
+    "https://www.linkedin.com/company/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93%EF%BC%88%E6%A0%AA%EF%BC%89"
+   ]
+  },
+  {
+   "query": "東海旅客鉄道 ビジネスモデル",
+   "results": [
+    "https://saiyo.jr-central.co.jp/company/business/",
+    "https://note.com/carlhirano/n/n72635c36eff4",
+    "https://mirai-design-company.co.jp/blog/business-model/391.html",
+    "https://www.nextet.net/netkentei/keytosuccess_07/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frta&q_no=9",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://www.sbbit.jp/article/st/153984",
+    "https://saiyo.jr-central.co.jp/company/business/promotion.html"
+   ]
+  },
+  {
+   "query": "東海旅客鉄道 決算説明資料",
+   "results": [
+    "https://company.jr-central.co.jp/ir/library/investor-meeting/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260428513854/",
+    "https://www.youtube.com/shorts/LCVwIaztOa0",
+    "https://www.buffett-code.com/company/9022/library",
+    "https://jr-central.co.jp/news/release/nws000001_00471.html",
+    "https://irbank.net/E04149/tdnet",
+    "https://www.westjr.co.jp/company/ir/library/",
+    "http://ke.kabupro.jp/code/9022.htm"
+   ]
+  },
+  {
+   "query": "東海旅客鉄道 事業系統図",
+   "results": [
+    "https://company.jr-central.co.jp/company/organization/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93",
+    "https://company.jr-central.co.jp/company/outline/",
+    "https://kitaishihon.com/company/9022/business",
+    "https://job.mynavi.jp/28/pc/search/corp56444/outline.html",
+    "https://baike.baidu.com/ja/item/%E6%9D%B1%E6%B5%B7%E6%97%85%E5%AE%A2%E9%89%84%E9%81%93%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/5138182",
+    "https://www.recme.jp/company/jr-central/messages/",
+    "https://edinetdb.jp/company/E04149/midterm-plans/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9022"
+   ]
+  },
+  {
+   "query": "東海旅客鉄道 社長 インタビュー",
+   "results": [
+    "https://saiyo.jr-central.co.jp/concept/vision.html",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%BE%BD%E4%BF%8A%E4%BB%8B",
+    "https://kitaishihon.com/company/9022/board-of-director",
+    "https://www.youtube.com/watch?v=q93CIYwPSQg",
+    "https://jobtalk.jp/companies/3588/answers/1009869",
+    "https://www.travelnews.co.jp/closeup/tokusyu/2025011509040543520.html",
+    "https://the-shashi.com/tse/9022/ceo/",
+    "https://saiyo.jr-central.co.jp/work/interviews/",
+    "https://cir.nii.ac.jp/crid/1523669554774579456"
+   ]
+  }
+ ],
+ "missing": {
+  "売上構成": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

@@ -1,0 +1,1963 @@
+{
+ "name": "人工衛星",
+ "en": "satellite manufacturing",
+ "aliases": [
+  "小型衛星",
+  "衛星コンステレーション"
+ ],
+ "context": "6 航空・宇宙 ⑤人工衛星・サービス",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:56:18.047100+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル宇宙経済市場規模、バリューチェーン部門別、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "下流活動の市場規模は2025年に2,181億米ドルとなり、2035年には4,421億米ドルに達すると予測され、CAGR 7.5%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信の市場規模は 2025年に1,684億米ドルに達し、年平均成長率（CAGR）6.5%で成長して 2035年には3,109億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測・リモートセンシングの市場規模は、2025年の952億米ドルから、年平均成長率（CAGR）8.1%で成長し、2035年には2,036億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "GNSSによる航法・測位の市場規模は、2025年の828億米ドルから、年平均成長率（CAGR）7.5%で成長し、2035年には1,678億米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙探査・科学の市場規模は、2025年の520億米ドルから、年平均成長率（CAGR）6.8%で成長し、2035年には988億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途の市場規模は、年平均成長率（CAGR）5.8%で成長し、408億米ドルから707億米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府・防衛の市場規模は 2025年に1,974億米ドルに達し、年平均成長率（CAGR）5.7%で成長して 2035年には3,390億米ドルに達すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 現在の世界の宇宙産業の規模は約54兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ モルガン・スタンレーによると、世界の宇宙産業の市場規模は、2040年までに140兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 市場規模は約４兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代までは10,000USD/キロ水準だったが、SpaceXのFalcon9が2,900USD/キロを実現",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 大型衛星は1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 小型衛星は1機あたり～500㎏・数十億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の衛星製造市場規模は、2025年には198億8000万米ドルと評価され、2026年の209億6000万米ドルから2034年には319億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.41%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に76億7000万米ドルの市場規模で38.6%のシェアを占め、世界の衛星製造市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2025年には推定66億ドルの市場シェアを占め、北米最大の貢献国となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年に推定9億5000万米ドルの市場規模を達成すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2025年には推定18億9000万米ドルの市場規模となり、アジア太平洋地域最大の市場となる見込みだ",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国は2025年には推定8億2000万米ドルの市場規模に達すると見込まれている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の衛星通信業界の市場シェアを簡易に試算しますと、1位はヴィアサット、2位はSES、3位はエコースターとなります",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の通信衛星業界の市場規模を983億ドルとしております",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社グランドビューリサーチによると、2025年の同業界の市場規模は983億ドルです",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "2033年にかけて年平均11％で成長し、規模は2,231億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "983億ドル",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "1,074億ドル",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "2,231億ドル",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "※2024年6月に宇宙ビジネスの市場規模に関する記述や関連記事を更新",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "(1)宇宙ビジネスの市場規模は約100兆円に!? 宇宙産業がもたらす他産業への波及効果とスタートアップ支援の拡充",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスの世界規模での市場規模は2024年4月に公表された「",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、2023年時点で6300億ドル（約100兆円）",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、今後は2030年に1兆1600億ドル（約185兆円）、2035年には1兆7900億ドル（約286兆円）になると予想されています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、宇宙産業が他産業に波及効果としてもたらす経済効果をReachという言葉で説明しており、波及効果を除いた宇宙産業（Backbornとレポート内では説明）の市場規模は2023年時点で3300億ドル（約52兆円）、2030年に5250億ドル（約84兆円）、2035年に7550億ドル（約120兆円）になると予想されています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "その内訳をみると、商用目的の衛星通信サービスが2035年時点で2180億ドル（約34.8兆円）と最も大きい市場規模となっており、続いて防衛、民間支援、測位衛星の利用関連となっています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "では、日本はどうかというと、宇宙ビジネス全体の市場規模が約1.2兆円、宇宙インフラ市場についてはその9割が官需で、欧米に大きく差をつけられている状況です",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "1位：トヨタ自動車株式会社 48兆367億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "2位：三井物産株式会社 14兆6,626億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "3位：ソニーグループ株式会社 12兆9,570億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "4位：三菱電機株式会社 5兆5,217億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "5位：三菱重工業株式会社 5兆271億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は宇宙ビジネス市場規模を2030年代早期までに倍増する計画",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙開発企業の売上高ランキング1位は、売上高48兆367億円のトヨタ自動車株式会社です",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙開発企業の売上高ランキング2位は、売上高14兆6,626億円の三井物産株式会社です",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙開発企業の売上高ランキング3位は、売上高12兆9,570億円のソニーグループ株式会社です",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率約 7.0%を下支え",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円)(CAGR7%/年)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR7%/年で成長するとした場合、$27.74billion(約3.6兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡衛星以外も含むRemote sensing service市場成長率として約15%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡観測以外も含む衛星データ利用市場成長率として約20%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 年間平均成長率約８％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米ドルへと、予測期間中に11.5%のCAGRで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "衛星製造市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の衛星製造市場規模は、2025年には198億8000万米ドルと評価され、2026年の209億6000万米ドルから2034年には319億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.41%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信衛星は、ブロードバンド接続、衛星テレビサービス、安全な通信、そして商業部門と政府部門における衛星ベースのインターネットネットワークの拡大に対する需要の高まりを背景に、2025年には世界の衛星市場で最大のシェア（43.7%）を占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "低軌道（LEO）は年平均成長率（CAGR）11.24%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "低軌道（LEO）セグメントは、衛星コンステレーションの展開増加に支えられ、2026年から2034年の間に11.24%という最高のCAGRで拡大すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業分野は年平均成長率（CAGR）9.96%で最も急速に成長する事業セグメントになると予想されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業分野は、衛星製造への民間投資の増加、宇宙ベースの通信サービスの拡大、商業用地球観測およびブロードバンド接続に対する需要の高まりを背景に、2026年から2034年にかけて年平均成長率（CAGR）9.96%を記録し、最も急速な成長を遂げると予想されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測およびリモートセンシングは、年平均成長率（CAGR）10.28%で最も急速に成長するアプリケーションになると予想されています",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測およびリモートセンシング分野は、高度な衛星画像技術を用いた気候監視、災害管理、精密農業、環境監視、インフラマッピングに対する需要の高まりを背景に、2026年から2034年にかけて年平均成長率（CAGR）10.28%という最も速い成長率で拡大すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2033年にかけて年平均11％で成長し、規模は2,231億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "波及効果を含む宇宙産業がもたらす市場成長率は年間9%で、今後10年のGDP成長率の約2倍であり、半導体産業と類似する成長率であるそう",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣府は、このような状況を鑑み「宇宙産業ビジョン2030」の中で、2030 年代早期の市場規模の倍増を目指していくと述べています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は宇宙ビジネス市場規模を2030年代早期までに倍増する計画",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "新衛星生産棟の建設により並行生産能力をこれまでの10機から18機へ増強しており、宇宙需要の拡大に対応した体制強化も進めています",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年、内閣府は宇宙分野の開発拡大を目標とした取り組み「宇宙産業ビジョン2030」を発表しました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年代早期までに日本の宇宙ビジネス市場規模倍増",
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の小型衛星市場規模は 2024 年に 69 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）16.4%で拡大すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "ピコ衛星市場は、予測期間中に年平均成長率（CAGR）12.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナノ衛星（1〜10 kg）市場は、予測期間中に年平均成長率（CAGR）21.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "X バンド市場は、予測期間中に年平均成長率（CAGR）19.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛市場は、予測期間中に年平均成長率（CAGR） 18.2%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の小型衛星市場は、予測期間中に年平均成長率（CAGR） 16.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの小型衛星市場は、予測期間中に年平均成長率（CAGR） 17.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の小型衛星市場は、予測期間中に年平均成長率（CAGR） 15.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年頃から急伸する宇宙旅行・有人P2Pサービスが市場の拡大をけん引 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年頃から急伸する宇宙旅行・有人P2Pサービスが市場の拡大をけん引",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "1. 世界経済フォーラム（WEF）は、宇宙には、年率9%で成長を続け、2035年には現在の2.8",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. この成長率は、世界のGDP成長率（5%）の2倍、半導体産業の成長率（6～8％）と同等の",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年率9%で成長を続け",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 従来の課題であった即応性の補完に繋がることとなり、安全保障・民生用途が拡大している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. こうした中、日本の宇宙産業が、拡大する宇宙市場において国際競争力を獲得していくため",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest growing regional market: Asia Pacific (highest CAGR 15.1%, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 12.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The government segment is expected to register the notable CAGR from 2026 to 2033, driven by the increasing reliance on satellite technologies for national",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global satellite manufacturing market is expected to grow at a CAGR of 12.8% from 2026 to 2033, reaching USD 75.8 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to grow at the fastest CAGR of 18% during the foreseeable period.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "宇宙経済市場の規模、シェア、動向、分析、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart: Global Space Ecomony Market Share, By Application, 2025 (%)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、北米は宇宙経済市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 商業衛星の打上市場におけるシェアはこの10年間で大きく変化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ スターリンクとワンウェブの打上数が2020年から激増し、昨年は全体の7割以上を占めた",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消費者向けソリューション、カーナビ等の自動車・道路分野が全体の９割以上を占めて",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンが65%を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 自動車・道路関係が26％を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "衛星製造市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星製造市場の規模、シェア、トレンド分析レポート：衛星タイプ別（通信衛星、リモートセンシング衛星、航法衛星、その他）、軌道カテゴリー別（低軌道（LEO）、中軌道（MEO）、静止軌道（GEO）、その他）、質量別（大型衛星、中型衛星、ナノ衛星、その他）、事業形態別（政府、商業）、用途別（通信、地球観測およびリモートセンシング、航法、研究開発、軍事監視、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア38.6%で衛星製造市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信衛星は2025年に43.7%のシェアを獲得し、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "通信衛星は、ブロードバンド接続、衛星テレビサービス、安全な通信、そして商業部門と政府部門における衛星ベースのインターネットネットワークの拡大に対する需要の高まりを背景に、2025年には世界の衛星市場で最大のシェア（43.7%）を占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "大型衛星は2025年に市場シェア37.9%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "大型衛星は、通信、防衛、気象予報、航行といった、より高いペイロード容量とより長い運用寿命を必要とするミッションにおいて幅広く利用されているため、2025年には37.9%という最大の市場シェアを占めるだろう",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に76億7000万米ドルの市場規模で38.6%のシェアを占め、世界の衛星製造市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2025年には推定66億ドルの市場シェアを占め、北米最大の貢献国となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に47億3000万米ドルと評価される世界の衛星製造市場の23.8%を占め、予測期間中に10.46%という最も速い年平均成長率（CAGR）を記録すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は世界の衛星製造市場の24.3%を占め、2025年には48億3000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは、世界の衛星製造市場の7.1%を占め、2025年には総額14億1000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の衛星通信業界の市場シェアを簡易に試算しますと、1位はヴィアサット、2位はSES、3位はエコースターとなります",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信の世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/satellite-operator/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星市場の規模とシェア：2025〜2034年予測レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星市場 サイズとシェア 2025 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別小型衛星市場シェア（2024年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は合計で、2024 年の小型衛星市場において 59% のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、『2025年版 宇宙ビジネス市場の将来展望』をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データサービスは国家の安全保障用途として安定的な需要があり、現状は官需要が8割以上を占めていますが、今後は民間需要の増加も期待されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状、ロケット/スペースプレーンが約6割、人工衛星が3割以上を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星データサービスが宇宙利用サービスの約6割を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、現状では人工衛星や探査機、ISS(国際宇宙ステーション)などへの物資運搬といったモノの打上げが大半を占めていますが、2035年頃には有人スペースプレーンのフライトが本格化し、有人P2Pサービスが旅客機利用の一部置き換えとして普及が進むとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "By category: The low-earth orbit (LEO) segment accounted for the largest market share of 55.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By mass: The medium-sized satellites segment led the market with a share of 68.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By type of business: The commercial segment dominated the market with a share of 75.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: The communication segment led the market with a share of 47.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By Country: The U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on category, the low earth orbit (LEO) segment dominated the market with the largest revenue share of 55.3% in 2025, driven by factors such as the increasing demand for",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The China satellite manufacturing market held a substantial market share in 2025. The growth is attributed to strong government support, military-space advancements, and a growing commercial space sector, and growing adoption of small satellite constellations for broadband internet and leveraging AI and quantum communication technologies to enhance satellite capabilities.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The low-earth orbit (LEO) segment accounted for the largest market share of 55.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The medium-sized satellites segment led the market with a share of 68.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial segment dominated the market with a share of 75.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The communication segment led the market with a share of 47.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The North America region dominated the global market in 2025. This can be attributed to the rising growing space industry, the presence of prominent industry players, and the ongoing expansion of various private aerospace companies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market by holding largest market share of 54% in 2025.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. satellite manufacturing market contributed more than 89% of market share in 2025.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By category, the low earth orbit (LEO) segment held a major market share of 57% in 2025.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By mass, the medium-sized satellite segment registered the highest market share in 2025.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "これらのプログラムは、商業参入企業が自社プラットフォームで継続的なサービス収益を確保する前に依存することの多い、専門的な生産能力と適格性確認要件を維持している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入企業の資金調達を制約",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "AmazonのProject Kuiperの進捗は、十分な資本を有する新規参入企業であっても、サービス規模での経済性が実現する前に、衛星、打ち上げ体制、ネットワークインフラ、顧客への販売・提供体制を並行して整備しなければならないことを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場の主要企業には、Lockheed Martin、Airbus、Boeing、SpaceXなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、SpaceX、Planet Labs、Rocket Lab、Blue Canyon Technologies、Surrey Satellite Technology Limited (SSTL)、Lockheed Martin Corporation、Northrop Grumman Corporation、Tyvak Nano-Satellite Systems、The Boeing Companyなどが挙げられる",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "以下、宇宙ビジネス業界マップと合わせてそれぞれの分野の概要と参入企業、関連記事を紹介します",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "通信衛星コンステレーションビジネスとは~参入企業、市場規模、課題と展望~",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星業界は競争が激しく、市場の主要企業は市場での成長を促進するため、協業やパートナーシップなどの戦略を採用しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星市場の主要企業 5 社は、SpaceX、Planet Labs Inc.、Airbus SE、Lockheed Martin Corporation、Northrop Grumman Corporation です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型衛星業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、SpaceX、Planet Labs Inc.、Airbus SE、Lockheed Martin Corporation、Northrop Grumman Corporationなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、各政府・参入企業の動向や宇宙関連のビジネスロードマップに関して整理しました",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、『2025年版 宇宙ビジネス市場の将来展望』をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "pass": 3
+   },
+   {
+    "quote": ", are increasingly used for telecommunications, research, and IoT applications, as they are cheaper to manufacture, launch, and maintain compared to traditional large satellites. This trend is particularly popular among new market entrants, private companies, and startups, which seek affordable solutions to access space.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Thales Group, Lockheed Martin Corporation among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape & Strategic Positioning Analysis",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in satellite manufacturing market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the satellite manufacturing market include ArianeGroup, Beijing Spacecraft Manufacturing Co., Ltd. (BSC), Boeing, Dhruva Space Private Limited, Gilmour Space Technologies, INVAP, Lockheed Martin Corporation, Maxar Technologies Inc., Mitsubishi Electric Corporation, Northrop Grumman, RTX Corporation, Sierra Nevada Corporation, and SpaceX.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size, Key Companies, Company Market Share, Aircraft Production, Defense Spending, Procurement Trends, Technology Adoption, Competitive Positioning, and Market Outlook",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major investors and key players in the market include large aerospace and defense corporations like Lockheed Martin, Boeing, Northrop Grumman, Airbus, and Maxar Technologies.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups are primarily emphasizing small and nano satellites for low Earth orbit (LEO) applications like communication and Earth observation, using advancements such as miniaturization, 3D printing, and AI.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players' Offering",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the satellite manufacturing market?",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the satellite manufacturing market are Airbus SE, ArianeGroup, Azista BST Aerospace, The Boeing Company, Dhruva Space Private Limited, Gilmour Space Technologies, INVAP, Lockheed Martin Corporation, Maxar Technologies Inc, Mitsubishi Electric Corporation, Northrop Grumman, RTX Corporation, Sierra Nevada Corporation, SpaceX, Thales Group, and Others.",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "LEO Satellite Manufacturing Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in LEO satellite market?",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in leo satellite market include Chinese State Manufacturers (CASC/CASIC), SpaceX, Lockheed Martin, Northrop Grumman, Amazon Kuiper Systems.",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Satellite Manufacturing Market: Lockheed Martin, Airbus, BAE Systems, Beijing Smart Satellite, Blue Canyon Technologies, Boeing, Dhruva Space, EnduroSat, Indian Space Research Organisation, INVAP, Maxar Technologies, Mitsubishi Electric, Northrop Grumman, OHB, Sierra Nevada, SpaceX, Telesat, Thales Alenia Space",
+    "url": "https://www.futuremarketinsights.com/reports/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Satellite Manufacturing Market",
+    "url": "https://www.futuremarketinsights.com/reports/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "startups in 2014, the decline marks a likely change in the investment decision, towards the",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2. Focus on the European space startups",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The level of private investment in European space startups12 reached €942 million in 2023,",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "investment deals were recorded for space startups in 2023, a 30% decrease in volume.",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 13: Number and value of deals in European space startups, 2019-202310",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "12 Since 2014, ESPI has been collecting and reporting data on the private investment received by space startups in Europe,",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "with global figures, but also with other major players, such as the US.",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "startups (European lead investors represented 79% of all deals in 2023), the value of deals",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "three years. The trends therefore show that foreign investment in European space startups",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "space startups. This has resulted in strong support from public institutions in Europe, either",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The top five European space startups",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "European space startups, 2014-2023.",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "prominent players are emerging outside of",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "startups27, estimated to account for more than 8,500 FTEs in 202 3, representing 14% of",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27 Eurospace defines startups as new space players, or companies that are pure space players that were created after",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Parts and Components Market Size, Share, Trend, Forecast, Competitive Landscape & Growth Opportunities: 2026-2032",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Parts and Components Market Size, Share, Trend, Forecast, Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the satellite parts and components market:",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "日本の月面探査ベンチャーispaceが101.5億円の資金調達に成功",
+    "url": "https://sorabatake.jp/216/",
+    "pass": 3
+   },
+   {
+    "quote": "The UK Space Strategy commits more than USD 10.1 billion through 2030 (£7.8 billion), including dedicated investment in satellite communications and LEO connectivity programs",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon's Kennedy Space Center satellite processing facility required nearly USD 140 million in capital investment to establish the throughput needed to support a single constellation's launch cadence",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Broadband mega-constellation manufacturing is projected to reach USD 13.85 billion by 2035 and represented 57.0% of the LEO satellite manufacturing market in 2025. Its scale sustains investment in standardized buses, automated integration, and supplier capacity, although replenishment and upgrade demand will increasingly matter alongside initial fleet deployment.",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is projected to reach USD 4.82 billion by 2035 and grow at a 10.4% CAGR (2026–2035). Sovereign communications priorities, defense-space investment, and industrial-policy objectives are strengthening regional manufacturing capability and supporting demand for digital satellite platforms.",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific accounted for 19.0% of global LEO satellite manufacturing revenue in 2025 and is anticipated to grow at an 11.8% CAGR (2026–2035). State-backed constellations, private-sector expansion, and rising domestic supply-chain investment are positioning the region as the principal source of incremental manufacturing capacity.",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia is projected to grow at a 10.0% CAGR (2026–2035) and represent 37.5% of Middle East & Africa revenue by 2035. Industrialization initiatives, co-production arrangements, and investment in space-sector infrastructure are strengthening its position within the regional manufacturing landscape.",
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Public Investment in Space ........................................................................................... 3",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Private Investment in Space ......................................................................................... 9",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 2 presents key trends and figures for 2023, covering public and private investment",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "insights on the space sector in 2024, covering anticipated public investment, trends in",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11% Europe’s share of global space private investment 16%",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Public Investment in Space",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "public space funding intensity . A s presented in Figure 6, the share for Europe (EU27,",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Private Investment in Space",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1. Private Investment in the Global Space Sector",
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial segment is anticipated to witness the fastest growth, registering a CAGR of 9.96% during 2026–2034, fueled by rising private investments in satellite manufacturing, expanding space-based communication services, and growing demand for commercial Earth observation and broadband connectivity.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada generated an estimated USD 1.07 billion in 2025. The country's market is supported by growing investments in satellite communications, Earth observation programs, and space technology innovation. Increasing collaboration between government agencies and private aerospace companies is further driving satellite manufacturing activities.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan generated an estimated USD 0.95 billion in 2025. The country's market is supported by continuous advancements in satellite engineering, growing investments in scientific and Earth observation missions, and increasing collaboration between government space agencies and private manufacturers. Strong focus on innovation and high-reliability satellite systems continues to drive market growth.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "China accounted for an estimated USD 1.89 billion in 2025, making it the largest market in Asia Pacific. Government-backed investments in space infrastructure, rapid expansion of commercial satellite manufacturing, increasing deployment of communication and remote sensing satellites, and ambitious national space exploration programs are driving strong market growth.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United Kingdom represented an estimated USD 0.82 billion in 2025. The country's market is driven by increasing investments in satellite production, expanding commercial space initiatives, and government support for domestic aerospace innovation. Growing demand for small satellite manufacturing and satellite-based communication services is contributing to market expansion.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany led the European market with an estimated value of USD 1.18 billion in 2025. The country's advanced engineering capabilities, strong aerospace manufacturing ecosystem, and continuous investments in satellite research and production are supporting sustained market growth. Germany also plays a key role in European satellite development programs.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil accounted for an estimated USD 0.49 billion in 2025, making it the largest contributor in Latin America. Growth is supported by increasing investments in satellite development, expanding national space programs, and rising demand for communication and remote sensing satellites across government and commercial sectors.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East & Africa represented 6.2% of the global satellite manufacturing market share, totaling USD 1.23 billion in 2025. Increasing government investments in national space programs, expanding satellite communication infrastructure, growing defense modernization initiatives, and rising demand for Earth observation capabilities are supporting regional market growth.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United Arab Emirates (UAE) accounted for an estimated USD 0.21 billion in 2025. The market is driven by ambitious national space initiatives, increasing investments in satellite manufacturing and research, expanding partnerships with international aerospace companies, and growing demand for satellite-based communication and Earth observation services.",
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "in funding in March 2026 for British companies developing satellite communication technologies. The investment supports advanced components for low Earth orbit (LEO) constellations serving remote communities, ships, and aircraft, encouraging the development of communication payloads, antennas, and other hardware needed to extend connectivity beyond terrestrial networks.",
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial buyers dominate with 69.3% due to large-scale private constellation investment.",
+    "url": "https://market.us/report/satellite-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Apex, a Los Angeles-based satellite manufacturer, closed a $95 million Series B funding round to accelerate the production of its Aries satellite bus platform and expand its manufacturing capabilities.",
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "pass": 3
+   },
+   {
+    "quote": "Q3 2024: SpaceX secures $500M investment to expand Starlink satellite production",
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX raised $500 million in new funding to boost the manufacturing rate of its Starlink satellites, aiming to accelerate global broadband coverage and support new commercial applications.",
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 2025: Satellite manufacturer Terran Orbital raises $120M in new funding round",
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "pass": 3
+   },
+   {
+    "quote": "Terran Orbital secured $120 million in a new funding round to expand its manufacturing facilities and accelerate the production of small satellites for commercial and government customers.",
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "pass": 3
+   },
+   {
+    "quote": "Integration of SDA Transport Layer Tranche 1; investment in Terran Orbital strategic stake",
+    "url": "https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小型 衛星市場 の規模とシェア： 2025 〜2034年予測レポート — 小型 衛星市場 の規模とシェア： 2025 〜2034年予測レポート Global Market Insights Inc. https://www.gminsights.com > small-satellite-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Growth to 2031 — Satellite Manufacturing Market Size & Growth to 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Industry Report, 2034 — Satellite Manufacturing Market Size & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size & Share Report, 2033 — Satellite Manufacturing Market Size & Share Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite Manufacturing Market Size, Share | CAGR of 13.9%. — Satellite Manufacturing Market Size, Share | CAGR of 13.9%. Market.us https://market.us > report > satellite-m...",
+    "url": "https://market.us/report/satellite-manufacturing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Companies in Satellite Manufacturing Market Statistics ... — Top 50 Companies in Satellite Manufacturing Market Statistics ... Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-satellite-manufacturing-market-statistics-report-till-2035",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる"
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "市場の年平均成長率約 7.0%を下支え"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである"
+   },
+   {
+    "value": "7",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "円)(CAGR7%/年)"
+   },
+   {
+    "value": "15",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)"
+   },
+   {
+    "value": "20",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)"
+   },
+   {
+    "value": "8",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には"
+   },
+   {
+    "value": "5.41",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "世界の衛星製造市場規模は、2025年には198億8000万米ドルと評価され、2026年の209億6000万米ドルから2034年には319億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.41%となる見込みです"
+   },
+   {
+    "value": "11.24",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "低軌道（LEO）は年平均成長率（CAGR）11.24%で最も速い成長を記録すると予測されている"
+   },
+   {
+    "value": "9.96",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "商業分野は年平均成長率（CAGR）9.96%で最も急速に成長する事業セグメントになると予想されている"
+   },
+   {
+    "value": "10.28",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "地球観測およびリモートセンシングは、年平均成長率（CAGR）10.28%で最も急速に成長するアプリケーションになると予想されています"
+   },
+   {
+    "value": "16.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "世界の小型衛星市場規模は 2024 年に 69 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）16.4%で拡大すると推定される"
+   },
+   {
+    "value": "12.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "ピコ衛星市場は、予測期間中に年平均成長率（CAGR）12.1%で成長すると予測されています"
+   },
+   {
+    "value": "21.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "ナノ衛星（1〜10 kg）市場は、予測期間中に年平均成長率（CAGR）21.7%で成長すると予測されています"
+   },
+   {
+    "value": "19.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "X バンド市場は、予測期間中に年平均成長率（CAGR）19.1%で成長すると予測されています"
+   },
+   {
+    "value": "18.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "軍事・防衛市場は、予測期間中に年平均成長率（CAGR） 18.2%で成長すると予測される"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "英国の小型衛星市場は、予測期間中に年平均成長率（CAGR） 16.9%で成長すると予測される"
+   },
+   {
+    "value": "17.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "インドの小型衛星市場は、予測期間中に年平均成長率（CAGR） 17.1%で成長すると予測される"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "日本の小型衛星市場は、予測期間中に年平均成長率（CAGR） 15.8%で成長すると予測される"
+   },
+   {
+    "value": "15.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "Fastest growing regional market: Asia Pacific (highest CAGR 15.1%, 2026-2033)"
+   },
+   {
+    "value": "12.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "CAGR of 12.8% from 2026 to 2033"
+   },
+   {
+    "value": "18",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "quote": "Asia Pacific is expected to grow at the fastest CAGR of 18% during the foreseeable period."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "3.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった"
+   },
+   {
+    "value": "78",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている"
+   },
+   {
+    "value": "10.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました"
+   },
+   {
+    "value": "89.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "65",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "ンが65%を占める"
+   },
+   {
+    "value": "26",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "➢ 自動車・道路関係が26％を占める"
+   },
+   {
+    "value": "38.6",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "北米は、2025年の市場シェア38.6%で衛星製造市場を牽引しました"
+   },
+   {
+    "value": "43.7",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "通信衛星は2025年に43.7%のシェアを獲得し、市場を席巻するだろう"
+   },
+   {
+    "value": "37.9",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "大型衛星は2025年に市場シェア37.9%を占め、市場を席巻した"
+   },
+   {
+    "value": "23.8",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "アジア太平洋地域は、2025年に47億3000万米ドルと評価される世界の衛星製造市場の23.8%を占め、予測期間中に10.46%という最も速い年平均成長率（CAGR）を記録すると予測されています"
+   },
+   {
+    "value": "10.46",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "アジア太平洋地域は、2025年に47億3000万米ドルと評価される世界の衛星製造市場の23.8%を占め、予測期間中に10.46%という最も速い年平均成長率（CAGR）を記録すると予測されています"
+   },
+   {
+    "value": "24.3",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "欧州は世界の衛星製造市場の24.3%を占め、2025年には48億3000万米ドルに達すると予測されている"
+   },
+   {
+    "value": "7.1",
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "quote": "ラテンアメリカは、世界の衛星製造市場の7.1%を占め、2025年には総額14億1000万米ドルに達すると予測されている"
+   },
+   {
+    "value": "35",
+    "url": "https://sorabatake.jp/216/",
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています"
+   },
+   {
+    "value": "70",
+    "url": "https://sorabatake.jp/216/",
+    "quote": "一方で、上述で紹介した通り、衛星通信や測位、衛星データなどの宇宙を利用したビジネスに関する市場（宇宙利用市場）は全体の35%強、それらのサービスを支える地上設備も約35%と衛星サービス関連で宇宙ビジネスの市場規模の約70%を占めています"
+   },
+   {
+    "value": "59",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "これらの企業は合計で、2024 年の小型衛星市場において 59% のシェアを占めました"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "55.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "By category: The low-earth orbit (LEO) segment accounted for the largest market share of 55.3% in 2025."
+   },
+   {
+    "value": "68.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "By mass: The medium-sized satellites segment led the market with a share of 68.5% in 2025."
+   },
+   {
+    "value": "75.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "By type of business: The commercial segment dominated the market with a share of 75.4% in 2025."
+   },
+   {
+    "value": "47.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "quote": "By application: The communication segment led the market with a share of 47.3% in 2025."
+   },
+   {
+    "value": "54",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "quote": "North America dominated the market by holding largest market share of 54% in 2025."
+   },
+   {
+    "value": "89",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "quote": "The U.S. satellite manufacturing market contributed more than 89% of market share in 2025."
+   },
+   {
+    "value": "57",
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "quote": "By category, the low earth orbit (LEO) segment held a major market share of 57% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-manufacturing-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%AE%87%E5%AE%99%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B8%82%E5%A0%B4-112082",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/satellite-operator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sorabatake.jp/216/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E8%A1%9B%E6%98%9F-r18901/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E4%B8%AD%E5%A4%A7%E5%9E%8B%E8%A1%9B%E6%98%9F%E5%B8%82%E5%A0%B4-106278",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goldmansachs.com/insights/articles/the-global-satellite-market-is-forecast-to-become-seven-times-bigger",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sia.org/historic-number-of-launches-powers-commercial-satellite-industry-growth-satellite-industry-association-releases-the-28th-annual-state-of-the-satellite-industry-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/10/30/3392463/0/en/satellite-manufacturing-market-size-share-and-industry-analysis-global-forecast-to-2036-leo-defense-and-direct-to-device-demand-drive-7-6-cagr-to-usd-44-93-billion.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/satellite-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/satellites-market-189500332.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/380576448_Satellite_Manufacturing_Market_Segmentation_Market_Trends_Dynamic_Report_2023",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/satellite-manufacturing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-50-companies-in-satellite-manufacturing-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/satellite-manufacturing-market-size-share-154300401.html?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人工衛星 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%AE%87%E5%AE%99%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E5%B8%82%E5%A0%B4-112082",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "https://www.gminsights.com/ja/industry-analysis/satellite-ground-station-sgs-market",
+    "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "https://www.sphericalinsights.com/jp/reports/japan-satellite-based-earth-observation-market",
+    "https://note.com/kabutabi2000/n/nf08e5bd93315",
+    "https://www.gii.co.jp/report/tbrc1991095-artificial-satellite-global-market-report.html"
+   ]
+  },
+  {
+   "query": "人工衛星 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/satellite-operator/",
+    "https://sorabatake.jp/216/",
+    "https://www.reportprime.com/ja/%E8%A1%9B%E6%98%9F-r18901/company",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "https://www.geekly.co.jp/column/cat-technology/spacetech_companies_introduce/",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "https://note.com/tenchijincompass/n/n14ca0560e5e6",
+    "https://www.deallab.info/satellite-operator/"
+   ]
+  },
+  {
+   "query": "人工衛星 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/small-satellite-market",
+    "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/003_03_00.pdf",
+    "https://straitsresearch.com/jp/report/satellite-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/jp/%E4%B8%AD%E5%A4%A7%E5%9E%8B%E8%A1%9B%E6%98%9F%E5%B8%82%E5%A0%B4-106278",
+    "https://service.xenobrain.jp/forecastresults/market-size/spacetech",
+    "https://sorabatake.jp/216/",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/space-business/space-business-introduction.html",
+    "https://www.gii.co.jp/report/moi1693942-large-satellites-market-share-analysis-industry.html",
+    "https://www.gii.co.jp/report/tbrc1991095-artificial-satellite-global-market-report.html"
+   ]
+  },
+  {
+   "query": "satellite manufacturing market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "https://www.goldmansachs.com/insights/articles/the-global-satellite-market-is-forecast-to-become-seven-times-bigger",
+    "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "https://www.globenewswire.com/news-release/2026/10/30/3392463/0/en/satellite-manufacturing-market-size-share-and-industry-analysis-global-forecast-to-2036-leo-defense-and-direct-to-device-demand-drive-7-6-cagr-to-usd-44-93-billion.html",
+    "https://www.industryarc.com/report/19397/satellite-manufacturing-market",
+    "https://www.gminsights.com/industry-analysis/satellite-manufacturing-market"
+   ]
+  },
+  {
+   "query": "satellite manufacturing market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://sia.org/historic-number-of-launches-powers-commercial-satellite-industry-growth-satellite-industry-association-releases-the-28th-annual-state-of-the-satellite-industry-report/",
+    "https://www.gminsights.com/industry-analysis/leo-satellite-market",
+    "https://www.globenewswire.com/news-release/2026/10/30/3392463/0/en/satellite-manufacturing-market-size-share-and-industry-analysis-global-forecast-to-2036-leo-defense-and-direct-to-device-demand-drive-7-6-cagr-to-usd-44-93-billion.html",
+    "https://www.futuremarketinsights.com/reports/satellite-manufacturing-market",
+    "https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf",
+    "https://www.thebusinessresearchcompany.com/report/satellite-manufacturing-market-report"
+   ]
+  },
+  {
+   "query": "satellite manufacturing market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://straitsresearch.com/report/satellite-manufacturing-market",
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://www.linkedin.com/pulse/satellite-manufacturing-launch-market-size-forecast-2zvke",
+    "https://www.globenewswire.com/news-release/2026/10/30/3392463/0/en/satellite-manufacturing-market-size-share-and-industry-analysis-global-forecast-to-2036-leo-defense-and-direct-to-device-demand-drive-7-6-cagr-to-usd-44-93-billion.html",
+    "https://www.marketsandmarkets.com/Market-Reports/satellites-market-189500332.html",
+    "https://www.stratviewresearch.com/market-reports/satellite-parts-and-components-market?srsltid=AYCX9vJBnJbvU_N1EjRZZ1BN3qZXFVIajIJlj8Hzzpdhj7N1cLOLOuZJ",
+    "https://www.researchgate.net/publication/380576448_Satellite_Manufacturing_Market_Segmentation_Market_Trends_Dynamic_Report_2023",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "satellite manufacturing market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report",
+    "https://market.us/report/satellite-manufacturing-market/",
+    "https://www.precedenceresearch.com/satellite-manufacturing-market",
+    "https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market",
+    "https://www.globenewswire.com/news-release/2026/10/30/3392463/0/en/satellite-manufacturing-market-size-share-and-industry-analysis-global-forecast-to-2036-leo-defense-and-direct-to-device-demand-drive-7-6-cagr-to-usd-44-93-billion.html",
+    "https://www.sphericalinsights.com/blogs/top-50-companies-in-satellite-manufacturing-market-statistics-report-till-2035",
+    "https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262",
+    "https://www.marketresearchfuture.com/reports/satellite-manufacturing-market-34178",
+    "https://www.reportprime.com/satellite-manufacturing-and-launch-r18420/company",
+    "https://finance.yahoo.com/technology/articles/satellite-manufacturing-market-size-share-154300401.html?fr=sycsrp_catchall"
+   ]
+  }
+ ],
+ "missing": {}
+}

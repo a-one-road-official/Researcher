@@ -1,0 +1,885 @@
+{
+ "name": "レアメタルリサイクル",
+ "en": "e-waste precious metal recovery",
+ "aliases": [
+  "都市鉱山",
+  "製錬",
+  "分離精製"
+ ],
+ "context": "9 マテリアル ⑤製錬・分離精製・リサイクル",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:55:34.619827+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2025)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 billion USD",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2.5 billion USD",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、世界のコバルト市場は、供給懸念により2018年から2020年にかけて50％以上の価格高騰を経験し、国の経済に直接影響を与えました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "北米のレアメタルリサイクル市場は、2024年に42億ドルと評価され、2026年から203年の間に約8.2%のCAGRを反映して、2025年の45億ドルから2033年までに81億ドルに拡大すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "米国のレアメタルリサイクル市場は、2024年に28億米ドルと評価され、2026年から203年の間に約8.1%のCAGRで、2025年の30億米ドルから2033年までに54億米ドルに成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のレアメタルリサイクル市場は、2024年に67億ドルと評価され、2025年の72億ドルから2033年までに124億ドルに成長すると予測されており、2026年から203年のCAGRは約8.3%である",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のレアメタルリサイクル市場は2024年に14億米ドルと評価され、2025年の15億米ドルから2033年までに27億米ドルに、約8.2%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "中国のレアメタルリサイクル市場は、2024年に39億米ドルと評価され、2025年の42億米ドルから2033年までに71億米ドルに、約8.0%のCAGRで成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "韓国のレアメタルリサイクル市場は、2024年に11億米ドルと評価され、2025年の12億米ドルから2033年までに20億米ドルに、約8.1%のCAGRで成長すると予想されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパのレアメタルリサイクル市場は、2024年に32億米ドルと評価され、約8.1%のCAGRを反映して、2025年の34億米ドルから2033年までに58億米ドルに成長すると予測されています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象範囲",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consultingが発表した調査レポートによると、世界のレアメタルリサイクルサービス市場規模は、2024年の21億米ドルから2035年には78億米ドルに成長すると予測されており、2025年から2035年の予測期間における年平均成長率（CAGR）は12.67%です",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの市場規模は、2024年には21億米ドルに達すると推定されている",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年から2035年の間に年平均成長率（CAGR）12.67%で拡大すると予測される",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "世界のレアメタルリサイクルサービス市場規模は、2035年までに78億米ドルに達すると予測されている",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のレアアース採掘業界の市場シェアを簡易に試算しますと、1位は中国北方稀土集団、2位は中国稀土集団資源科技、3位はライナスコーポレーションとなります",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年のレアアース採掘業界の市場規模を140億ドルとしております",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社リサーチアンドマーケッツによると、2025年の同業界の市場規模は140億ドルです",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均12.3%で成長し、規模は411億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "140億ドル",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "411億ドル",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース採掘業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Dealla",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース採掘業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界関係者からの情報に基づくと、リサイクル金属市場は2024年に1,281億米ドルを生み出した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Metal Market Size By Metal Type 2025 And 2035 Usd Billion",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のリサイクル金属市場は2025年に376億9,000万米ドルを生み出し、2035年までに世界市場収益の25.2%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のリサイクル金属市場は、2025年に世界市場収益の39.0%を占め、2035年までに961億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコの市場規模は2025年に18.2億米ドルとなり、2035年までに世界市場の売上高の1.3%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカの再生金属市場は2025年に67.3億米ドルとなり、2026〜2035年に年平均成長率（CAGR）6.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "南アフリカの市場規模は2025年に10.8億米ドルとなり、2035年までに世界市場の売上高の0.9%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアは2025年に世界市場の売上高の1.1%を占め、2035年には市場規模が28.3億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "アラブ首長国連邦の市場規模は2025年に13.5億米ドルとなり、2035年までに世界市場の売上高の1.1%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国：国防生産法活用＋テキサス磁石一貫拠点に4億ドル超助成",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［2］ 世界生産と市場規模",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［9］ 豪州NRFCによるレアアース・レアメタル分野への200億円規模投資支援",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［1］ 市場規模と成長予測",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、EVのバッテリー市場だけでも2030年まで20%を超えるCAGRで成長すると予測されており、リチウム、コバルト、ニッケルの需要が大幅に増加します",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consultingが発表した調査レポートによると、世界のレアメタルリサイクルサービス市場規模は、2024年の21億米ドルから2035年には78億米ドルに成長すると予測されており、2025年から2035年の予測期間における年平均成長率（CAGR）は12.67%です",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年から2035年の間に年平均成長率（CAGR）12.67%で拡大すると予測される",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "4．都市鉱山事業の拡大",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均12.3%で成長し、規模は411億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース採掘業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Dealla",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年 カナダ レア アース は、ブラジルのロンドニア州にある Bom Futuro 尾鉱の所有権を拡大する権利を取得",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）5.4%で成長し、2035年には2,264.4億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "スクラップ価格が基準年平均から±15%変動した場合、予測の推移に重大なばらつきが生じる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国通商拡大法232条に基づく鉄鋼・アルミニウム製品の輸入関税は、2025年6月4日付で従価税率25%から50%に引き上げられた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "貴金属リサイクルの売上高は2025年に67億3,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.2%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "湿式製錬処理は2025年に67.3億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）11.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子分野は2025年に201.9億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "EV・風力のNdFeB磁石需要は年率15％増",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［2］ 産業用途の拡大動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［10］ 不許可リスト対象企業拡大",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［11］ コバルト価格のボラティリティ拡大：背景・実装・留意点・最新動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［4］ 器出規制下における白金族金属リサイクル技術の市場拡大と実装・最新動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［4］ 日本における国内レアアースリサイクル産業の拡大動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［5］ 日本の国内レアアースリサイクル産業の拡大に伴う留意点・最新動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "*このデータは上位3社の市場プレーヤーについて提供されます*",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星市場におけるナノテクノロジーの世界的応用における上位 15 社",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のレアアース採掘業界の市場シェアを簡易に試算しますと、1位は中国北方稀土集団、2位は中国稀土集団資源科技、3位はライナスコーポレーションとなります",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース採掘業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "レアアース採掘の世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "自社鉱山を運営する純粋な「採掘・上流分離事業」に定義を絞り、2025年のグローバル市場シェアを見ると、世界最大級の埋蔵量を誇る白雲鄂博（バイアンオボ）鉱床の採掘権を事実上独占している「中国北方稀土集団」が、圧倒的な1位となっています",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大級の埋蔵量を誇る白雲鄂博（バイアンオボ）鉱床の採掘権を事実上独占しており、2025年も中国政府から国内最大枠の生産クォータ（生産枠）を割り当てられています",
+    "url": "https://deallab.info/rare-earth/",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル金属市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nucor Corporationが2025年に17.5%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄系スクラップは2025年に再生金属市場の60.0%を占め、2035年には1,222億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "非鉄系再生金属の売上高は2025年に471億1,000万米ドルとなり、2035年には市場収益の41.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規スクラップおよび産業スクラップは2025年に498.0億米ドルを生み出し、2035年には市場収益の33.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "老廃・廃棄スクラップは2025年に市場収益の59.0%を占め、2035年には1,449.2億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Recycled Metal Market Share By Processing Method 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械処理は2025年に807.6億米ドルを生み出し、2035年には市場収益の56.9%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "乾式製錬処理は2025年に市場収益の32.0%を占め、2035年には702.0億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "建築・建設分野は2025年に336.5億米ドルを生み出し、2035年には市場収益の24.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・輸送分野は2025年に市場収益の22.0%を占め、2035年には475.5億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械・設備分野は2025年に市場収益の12.0%を占め、2035年には249.1億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "包装分野は2025年に収益シェアの8.0%を占め、2035年までに203億8,000万米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の世界生産量35万t‐REOのうち中国が69％、精製シェアは90％",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガドリニウム市場の規模、シェアおよび動向分析レポート：最終用途別、地域別、およびセグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "本レポートは、世界のレアメタルリサイクルサービス市場で事業を展開する主要企業を詳細に分析しています",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動車用窓外側シーリングシステム市場における主要企業トップ25",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までのゲームコントローラー市場における主要企業トップ25：市場レポート",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "再生金属市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "リサイクル金属市場の主要企業には、Nucor Corporation、Steel Dynamics Inc.、Radius Recycling、Sims Limited、Novelisなどが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "［3］ サプライチェーンと主要企業",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［7］ 主要企業動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［4］ 主要企業動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "https://www.sphericalinsights.jp/blogs/top-15-companies-in-global-application-of-nanotechnology-in-the-satellite-2025-market-intelligence-and-investment-trends-2024-2035",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "2. 企業・商社・金融・投資会社・VCなどに新規事業機会（リサイクル、代替磁石等）を提示",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "18 レアアース／レアメタルに関する資金調達・インセンティブ動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［4］ G20鉱業インフラ基金活用に関する資金調達・インセンティブ動向と留意点・最新動向",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［5］ 欧州投資銀行（EIB）の出資指針見直し",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［7］ ジェトロ推奨資金調達パッケージ",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［1］ インフラ基金による鉱山開発出資",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   },
+   {
+    "quote": "［5］ 民間ファンドによる希少金属スタートアップへの出資",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測202... — May 22, 2026 · レアメタルリサイクル市場規模は2025年に12億ドルと評価され、2034年までに25億ドルに達すると推定されており、2026年から2034年にかけて9.5％のCAGRを示しています。",
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象... — 世界のレアメタル・リサイクル・サービス市場の規模は、2025年から2035年の予測期間において年平均成長率（CAGR）12.67%で推移し、2024年の21億米ドルから2035年には78億米ドルへと拡大すると予測されています。",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルリサイクル市場分析と2032年予測 | WiseGuyReports — これらの傾向は、レアメタルリサイクル市場の将来を形成し、長期的な成長に貢献すると予想されます。 出典: 一次調査、二次調査、WGR データベースおよびアナリストのレビュー",
+    "url": "https://www.wiseguyreports.com/ja/reports/rare-metals-recycling-market",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルリサイクルサービス市場規模、2035年の予測 — グローバルレアメタルリサイクルサービス市場規模は、2024年のUSD 2.1億ドルから2035年までのUSD 7.8億米ドルに成長すると予想され、12.67%のCAGRで、主要企業がドーワホールディングス株式会社です.",
+    "url": "https://www.sphericalinsights.com/jp/reports/rare-metal-recycling-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象... — リサイクル技術の進歩、促進的な法律、そして循環型経済の概念への注目の高まりが、リサイクルの普及を加速させています。 複雑な回収技術といった課題はあるものの、資源効率と持続可能性を促進するこの市場は、世界の産業の未来にとって不可欠です。",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.67",
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "quote": "Spherical Insights & Consultingが発表した調査レポートによると、世界のレアメタルリサイクルサービス市場規模は、2024年の21億米ドルから2035年には78億米ドルに成長すると予測されており、2025年から2035年の予測期間における年平均成長率（CAGR）は12.67%です"
+   },
+   {
+    "value": "5.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）5.4%で成長し、2035年には2,264.4億米ドルに達する見込みである"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "貴金属リサイクルの売上高は2025年に67億3,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.2%で拡大すると予測される"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "湿式製錬処理は2025年に67.3億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）11.7%で成長すると予測される"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "電気・電子分野は2025年に201.9億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "17.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "Nucor Corporationが2025年に17.5%を超える市場シェアを獲得し、市場をリードした"
+   },
+   {
+    "value": "60.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "鉄系スクラップは2025年に再生金属市場の60.0%を占め、2035年には1,222億8,000万米ドルに達すると予測される"
+   },
+   {
+    "value": "41.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "非鉄系再生金属の売上高は2025年に471億1,000万米ドルとなり、2035年には市場収益の41.0%を占めると予測される"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "新規スクラップおよび産業スクラップは2025年に498.0億米ドルを生み出し、2035年には市場収益の33.0%を占めると予測される"
+   },
+   {
+    "value": "59.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "老廃・廃棄スクラップは2025年に市場収益の59.0%を占め、2035年には1,449.2億米ドルに達すると予測される"
+   },
+   {
+    "value": "56.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "機械処理は2025年に807.6億米ドルを生み出し、2035年には市場収益の56.9%を占めると予測される"
+   },
+   {
+    "value": "32.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "乾式製錬処理は2025年に市場収益の32.0%を占め、2035年には702.0億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "24.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "建築・建設分野は2025年に336.5億米ドルを生み出し、2035年には市場収益の24.0%を占めると予測される"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "自動車・輸送分野は2025年に市場収益の22.0%を占め、2035年には475.5億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "産業機械・設備分野は2025年に市場収益の12.0%を占め、2035年には249.1億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "8.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "quote": "包装分野は2025年に収益シェアの8.0%を占め、2035年までに203億8,000万米ドルを生み出すと予測される"
+   },
+   {
+    "value": "69",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "quote": "2023年の世界生産量35万t‐REOのうち中国が69％、精製シェアは90％"
+   },
+   {
+    "value": "90",
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "quote": "2023年の世界生産量35万t‐REOのうち中国が69％、精製シェアは90％"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/rare-earth-metals-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalgrowthinsights.com/jp/market-reports/rare-metals-market-126335",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/rare-metals-recycling-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://yhrnews.hatenadiary.jp/entry/2025/12/19/115811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenadiary.jp/entry/2026/08/03/114611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/rare-earth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dri.co.jp/auto/report/cmc/cmc-raremetal-recycling.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qyresearch1.hatenablog.com/entry/2026/09/16/105823",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalgrowthinsights.com/jp/market-reports/rare-earth-metal-recycling-market-125333",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.raremetalnews.co.jp/%E5%B9%B4%E5%88%8A-%E5%B7%A5%E6%A5%AD%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6187809/precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mrtconsolidated.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geektonight.com/fragmentation-and-consolidation-of-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://login.classlink.com/my/clyde",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cooperconsolidated.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopdomesticity.com/product/fableism-supply-co-waffle-happy-checkers-sangria/HBYMTUWPHDSKBETTTR3Z27DP",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/precious-metals-e-waste-recovery-market.asp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chemicalresearchinsight.com/2026/04/07/top-10-companies-in-the-precious-metal-recovery-market-2026-industry-leaders-driving-the-global-circular-economy/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "レアメタルリサイクル 市場規模 CAGR",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "https://www.gminsights.com/ja/industry-analysis/rare-earth-metals-market",
+    "https://www.globalgrowthinsights.com/jp/market-reports/rare-metals-market-126335",
+    "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "https://www.wiseguyreports.com/ja/reports/rare-metals-recycling-market",
+    "https://www.sphericalinsights.com/jp/reports/rare-metal-recycling-services-market",
+    "https://www.globalgrowthinsights.com/jp/market-reports/rare-earth-metal-recycling-market-125333"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 市場 シェア 上位 企業",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "https://yhrnews.hatenadiary.jp/entry/2025/12/19/115811",
+    "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "https://yhrnews.hatenadiary.jp/entry/2026/08/03/114611",
+    "https://deallab.info/rare-earth/",
+    "https://www.dri.co.jp/auto/report/cmc/cmc-raremetal-recycling.html",
+    "https://qyresearch1.hatenablog.com/entry/2026/09/16/105823"
+   ]
+  },
+  {
+   "query": "レアメタルリサイクル 市場 前年比 2025",
+   "results": [
+    "https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/",
+    "https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting",
+    "https://www.gminsights.com/ja/industry-analysis/recycled-metal-market",
+    "https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html",
+    "https://www.dri.co.jp/auto/report/cmc/cmc-raremetal-recycling.html",
+    "https://www.globalgrowthinsights.com/jp/market-reports/rare-earth-metal-recycling-market-125333",
+    "https://www.raremetalnews.co.jp/年刊-工業レアメタル/"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.researchandmarkets.com/reports/6187809/precious-metals-e-waste-recovery-market",
+    "https://www.gminsights.com/industry-analysis/precious-metals-e-waste-recovery-market",
+    "https://dataintelo.com/report/global-precious-metals-e-waste-recovery-market",
+    "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "https://www.marketresearchfuture.com/reports/precious-metals-e-waste-recovery-market-25209",
+    "https://www.researchandmarkets.com/report/precious-waste-e-waste-recovery"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery market share top players percent",
+   "results": []
+  },
+  {
+   "query": "e-waste precious metal recovery market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://mrtconsolidated.com/",
+    "https://www.geektonight.com/fragmentation-and-consolidation-of-industries/",
+    "https://launchpad.classlink.com/clyde",
+    "https://www.cooperconsolidated.com/",
+    "https://www.shopdomesticity.com/product/fableism-supply-co-waffle-happy-checkers-sangria/HBYMTUWPHDSKBETTTR3Z27DP",
+    "https://portal.azure.com/",
+    "https://www.edencisd.net/"
+   ]
+  },
+  {
+   "query": "e-waste precious metal recovery market key companies share 2025",
+   "results": [
+    "https://www.kenresearch.com/global-precious-metals-e-waste-recovery-market",
+    "https://www.researchandmarkets.com/reports/6187809/precious-metals-e-waste-recovery-market",
+    "https://dataintelo.com/report/global-precious-metals-e-waste-recovery-market",
+    "https://www.grandviewresearch.com/industry-analysis/precious-metals-e-waste-recovery-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/precious-metals-e-waste-recovery-market-191615472.html",
+    "https://www.marketsandmarkets.com/ResearchInsight/precious-metals-e-waste-recovery-market.asp",
+    "https://chemicalresearchinsight.com/2026/04/07/top-10-companies-in-the-precious-metal-recovery-market-2026-industry-leaders-driving-the-global-circular-economy/"
+   ]
+  }
+ ],
+ "missing": {}
+}

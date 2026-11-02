@@ -1,0 +1,1875 @@
+{
+ "name": "ベイカレント",
+ "aliases": [],
+ "context": "証券コード6532／サービス業／プライム（内国株式）／2026.02期 売上高148,332百万円 営業利益率34.3%",
+ "researched_at": "2026-11-02T14:38:26.407437+00:00",
+ "official_url": "https://www.baycurrent.co.jp/",
+ "identified_by": "search:yahoo_jp:ベイカレント",
+ "profile": {
+  "売上高": [
+   {
+    "label": "連結売上高",
+    "value": "1,483億円（2026年2月期）",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "単独: 1160億5600万円 （2025年2月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "連結従業員数",
+    "value": "7,551名（2026年4月時点）",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単独: 5,467人 （2025年2月28日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "経営、オペレーション、ITに関するコンサルティング、および実行支援",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "システムコンサルティング、およびシステムインテグレーション",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "経営、オペレーション、ITに関するコンサルティング、および実行支援",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "有料職業紹介事業(許可番号：13-ユ-040418) 労働者派遣事業(許可番号：派13-315811)",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "有料職業紹介事業(許可番号：13-ユ-040418) 労働者派遣事業(許可番号：派13​-315811)",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "資本金・設立",
+    "value": "282 百万円・1998 年",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/GenAISUM2026%E3%81%A7%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%92%E5%AE%9F%E6%96%BD-2.pdf",
+    "pass": 2
+   },
+   {
+    "label": "設立",
+    "value": "2014年 4月18日 （バイロン・ホールディングス株式会社）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2000年12月25日（創業：1996年）",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "地方銀行はなぜ変わらなければならないか ～地方経済の構造変化と商流データ喪失の本質～ 前編",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地方銀行は今、人口減少に伴う地域経済の縮小、長引く低金利環境、決済接点の外部化による「商流データの喪失」という構造的課題に直面している",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "財務諸表や取引結果に依存する従来のビジネスモデルでは地域の実態変化を捉えにくく、伴走支援の高度化にも限界がある",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした流れの中で、日本企業は持続的な成長を実現するために、業界横断でのビジネスモデルの再構築、そのためのデジタルトランスフォーメーションやM&Aといったチャレンジを続けると同時に、生産性向上のためのワークスタイル改革なども追求しています",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "教育・医療領域のパーソナルロボットに着目し、ビジネスモデルと展開ロードマップを策定",
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、ベイカレントと同様のビジネスモデルで急成長するベイカレクローンの台頭も無視できません",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "ITやPMOという原価率の低いビジネスモデル",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "内の特集『ベイカレント 爆速成長の罠』では、複数回にわたり、特異なビジネスモデルや組織風土に加え、採用や待遇の実態などに焦点をあて、ベールに包まれてきたベイカレントの実像を浮き彫りにする",
+    "url": "https://diamond.jp/articles/-/365542",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "対面の会話をデータ資産化し、業務変革を実現するCDX支援サービス「BAYVO.」を提供開始、Treasure AIと協業",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "ベイカレントには多様な産業・サービスのエキスパートが在籍しています",
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "ベイカレントは、幅広い業界への総合的な課題解決を通じて培った知見やネットワークの活用はもちろん、我々自身が日本企業だからこそ理解できる価値観や文化を織り込んだ付加価値の高いサービスの提供により、クライアントの成長に貢献することを使命としています",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/principles/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/principles/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、パッケージソリューションを有効活用したビジネス/システム双方の改革を得意とする",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "通信、製造、サービスといった業界を中心に、新規事業創出、成長戦略、マーケティング戦略等に従事",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "金融・公共機関を中心に、戦略立案、事業企画からサービス立上げ、業務改善、セキュリティ態勢構築といった実行支援まで幅広いプロジェクトに従事",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、銀行や決済領域におけるデジタルサービス事業立上げの実行推進や業務改善、プロジェクトマネジメントを得意とする",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、リース・ノンバンク業界向け構想策定やサービス設計、ITコンサルティング領域をリード",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー、製造、サービスなどの業界を中心に、R&Dから生産、保全、営業、人事、原価管理など幅広いテーマに従事",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "生命保険業界を中心に事業企画、商品・マーケティング企画、営業改革、 Well-being軸の新規事業など多様なテーマに従事",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "直近では、事業ポートフォリオ改革や、環境配慮の事業・サービス開発プロジェクトを牽引",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "3社にてマーケティング部長職、営業部長職を歴任し、医療用医薬品の新製品上市戦略、Go-To-Market戦略（組織設計・人員配置）、ライフサイクル戦略の立案実行をリード",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティ業界を軸に、商品企画、マーケティング戦略、開発プロセス改革、プログラム管理スキーム構築などに従事",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "上流の中長期戦略、商品戦略からエスノグラフィー、インサイトをベースにしたコンセプト創出、サービスUXデザイン、市場導入までチームの熱量を上げ力を引き出す価値創出を得意とする",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/office/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/office/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "対面の会話をデータ資産化し、業務変革を実現するCDX支援サービス「BAYVO.」を提供開始、Treasure AIと協業",
+    "url": "https://www.baycurrent.co.jp/aboutus/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "八雲法律事務所と業務提携し、サイバーインシデントへの対応支援を行う「危機対応サービス」の提供を開始いたしました",
+    "url": "https://www.baycurrent.co.jp/aboutus/newsrelease/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "等の指標は改善されておりますが、さらなるメンタルヘルスの向上のため、ストレスチェック受検率を100%に近づけるよう取り組むとともに、高ストレスの従業員には産業医面談の実施や外部の相談サービスの利用を促進します",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、クッキーを拒否する設定を選択されますと、当社の提供する一部サービスを受けられない場合がございます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "）について、その完全性、正確性、適時性、妥当性、速報性、信頼性、合目的性、有用性、商品性及び知的財産権の不侵害に関して、いかなる保証も行わず、またこれらに関して責任を負いません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "他のご利用者による当社グループのサービスの全部若しくはその一部の利用又はアクセスを妨げる行為",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "多くのお客様におかれましては、以上の内容に該当するような事案もなく当社グループのサービスをご利用いただいておりますが、万が一お客様からカスタマーハラスメントに該当する行為がありましたら、本ポリシーに沿って対応いたします",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "今後もお客様の課題解決に尽力し、より質の高いサービスを提供できるよう努めてまいりますので、引き続き、ご理解、ご協力をお願いいたします",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・また、就職支援企業等が運営する「OB/OG訪問マッチングサービス」を従業員が利用することを禁止しています",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルビジネス | 産業・サービス | ベイカレント | Baycurrent",
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "なサービスを提供",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "日用雑貨の製品ラインを精査しコストを分析",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "収支を基に製品を絞り込み、工場・物流拠点を見直して黒字転換を図る",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "⼦ども向けの抽選企画やドリンクサービスも⽤意され、終始和やかな雰囲気の中で、家族の絆が深まる",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "電力会社のヘルスケア事業立上げにおけるプロモーション戦略や事業戦略の検討、生命保険会社のシステム導入および新商品開発、小売会社のDX推進など、幅広い支援に従事",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "主に自動車や金融業界において、新規事業立案や新規サービスの立ち上げなどに従事",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田大学を卒業後、大手サービス企業を経て、2023年度入社",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/careers/growingenvironment/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/careers/growingenvironment/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業は、企業の経営課題を解決するコンサルティングサービスであり、水質汚染や森林伐採、温室効果ガスの排出等、地球環境に対して直接的な悪影響を与えるものではありません",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "産業・サービス",
+    "url": "https://www.baycurrent.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.baycurrent.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年前半、防衛省の衛星事業「トライサット」契約、航空宇宙自衛隊への改編、通信自律性を担うJ-LEOの採択が相次ぎ、日本の宇宙基盤は「構想」から「実装」の段階に入った",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年には人口の1/3近くが65歳以上の超高齢化社会を迎え、GDPはインドに抜かれ世界4位に後退すると言われています",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年より、日本ディープラーニング協会に参画",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月7日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月27日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年2月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月12日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年6月16日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月4日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月27日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月26日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月27日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月1日改訂",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月1日",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月1日",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月15日",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年：東証⼀部上場",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年：プライム市場に移⾏",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年カーボンニュートラル達成と社会変⾰を⾒据えGXに挑戦する企業が官・学と協働する場",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4⽉から2027年3⽉までの3年間、",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年からは",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度入社",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度入社",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年より、日本ディープラーニング協会に参画",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月05日（木）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日（火）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日（木）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日（火）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月18日（水）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月19日（木）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月25日（水）",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には、再生可能エネルギー100％の電力が供給され、エネルギー効率を高める技術も大規模に導入されている麻布台ヒルズへ移転したことで、事業活動で使用する電力を再生可能エネルギー由来に切り替え、Scope1・2のネットゼロを達成しました",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年においては、麻布台ヒルズ以外のオフィスの稼働等に伴いScope1・2のGHG排出量が増加したものの、カーボンクレジット（J-クレジット）を活用することでネットゼロを維持しております",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度までは4月から翌年3月の電気使用量、排出量を算出",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度は、当社の会計期間に合わせて、3月から翌年2月の電気使用量、GHG排出量を算出",
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年 10 月 15 日",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 10 月 15 日、株式会社ベイカレント （本社:東京都港区、代表取締役会長兼社長: 阿部 義之、",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 4 月、従来の CDP を再定義し、新ブランド「Treasure AI」へ刷",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年 7 月 31 日",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/07/%E3%80%90%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%91%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E5%AF%84%E4%BB%98%E8%AC%9B%E5%BA%A7%E3%80%8CDX%E3%81%A8%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E3%80%8D%E5%85%B1%E5%90%8C%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 4 月、東京大学はベイカレントの寄付により、東京大学大学院経済学研究科に",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/07/%E3%80%90%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%91%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E5%AF%84%E4%BB%98%E8%AC%9B%E5%BA%A7%E3%80%8CDX%E3%81%A8%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E3%80%8D%E5%85%B1%E5%90%8C%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度戦略マップ",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/health_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年 2024 年 2025 年",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/health_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月3日",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には日経平均銘柄に選出されるなど、SNSだけでなく公式ニュースにも姿を現すことが増えてきたように思います",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年春の新卒採用人数を見ると、ベイカレントは合計466名の新卒を採用しており、約半数が早慶上理、最大派閥の早稲田は100名以上とのことで、かつてのメガバンクをほうふつとさせるほど優秀な人材の採用に成功しています",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月14日 13:08",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度、上場企業の平均年収が過去20年で最高",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日（月）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期上期 決算補足説明資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月期 第２四半期（中間期）決算短信〔ＩＦＲＳ〕（連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "沿革サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2018年11月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2016年9月2日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "1998年3月 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2000年6月 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2002年3月 - 本社を",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ベイカレントのパーパスとビジョン、そのために重視している価値観と行動規範をご紹介します",
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "各領域をリードするメンバーをご紹介します",
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "今後、より一層ビジネス環境が複雑化・高度化していく中で、我々もこうした時代の変化・進化に柔軟に対応できる人材の育成に努め、クライアント企業のベストパートナーとしてあり続けるため、精進してまいります",
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "pass": 1
+   },
+   {
+    "quote": "エグゼクティブパートナー",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境方針は、自社の事業運営に限らず、サプライヤーおよびパートナー企業にも適用されます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・業務連絡、業務のアサインメント、お取引先様への紹介、その他の業務遂行のため",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・採用に至った場合、入社後の業務のアサインメント、お取引先様への紹介、その他業務遂行のため",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "参入時の現地パートナーとの組み方についても検討",
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴールドパートナー",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "「ALVARK TOKYO」のプラチナパートナー",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "「浦安D-Rocks」とのパートナーシップ",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "参入時の現地パートナーとの組み方についても検討",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "多摩美術大学を卒業後、大手広告代理店を経て、2025年度入社",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "ベイカレントの関西・東海拠点について、各拠点でのプロジェクト事例などをご紹介します",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "トレジャーデータ株式会社 パートナーアライアンス 執行役員/ Head of Partner Alliance &",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■モデレーター紹介",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/GenAISUM2026%E3%81%A7%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%92%E5%AE%9F%E6%96%BD-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "との間で紹介料等の金銭の授受は行いません",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%81%E5%85%AB%E9%9B%B2%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プログラム ・生成 AI の活用事例紹介",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/09/%E3%80%90%E5%A4%A7%E5%85%83%E9%9A%86%E5%BF%97%E7%99%BB%E5%A3%87%E3%80%91%E3%80%8CAI%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%A8%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%80%8D%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのため、「どのパートナーにつくか？」ではなく、「どの営業につくか？」が今後のプロジェクトテーマやキャリアの色を決めると言われるほど、社内的にプレゼンスの大きい組織となっているようです",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナークラス：3000万＋α",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレントが「何でも屋」であることは述べましたが、前回紹介したドリームインキュベータは有名な日系戦略ファームです",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "BIG4やアクセンチュアのようなコンサルティング会社では、パートナーと呼ばれる共同経営者(一番偉い人)が営業を行うのが一般的です",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "プロレド・パートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "SDGパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "伝統的なファームではパートナーが自ら案件を取ってくる「製販混合」が常識ですが、同社は営業機能を独立させ、",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー/AP/エグゼクティブパートナー",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "営業体制の強化が効いている",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業を紹介するなら、",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "数千名規模のキャリア支援と人材紹介事業立ち上げの実務経験に基づき、現場で使える情報だけをお届けします",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "最新の採用動向や求人情報などの情報提供をさせていただきながら、最適なキャリアチェンジ機会のご紹介、キャリアチェンジ成功のためのアドバイス等できればと思っております",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "ムービンのご紹介",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "「初めての方へ」ムービンのご紹介と弊社サイトの活用法",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアコンサルタント紹介 - コンサル業界出身者がサポート -",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 齋木氏・羽間氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 二條氏・松本氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "TDD パートナー 中村氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 野中氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "SVE パートナー 篠原氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 藤井氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 占部氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "ジェネックスパートナーズ",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長、シニア・パートナー 大池氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "マネージング パートナー 東京オフィス代表 奥野氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロングブラックパートナーズ",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "全社統括パートナー 牛越氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 鵜澤氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー（東京オフィス リーダー） 三井 健次氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 樋崎 充氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 宮下氏、パートナー 津端氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役・パートナー 栗原氏、パートナー 加藤氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー 佐藤氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "購買コンサルティング・リーダー アソシエイト・パートナー 毛利氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "戦略コンサルティンググループ オペレーションズ＆サプライチェーン担当 理事 パートナー 寺門氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "経理財務変革コンサルティング・リーダー パートナー 田村氏",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "特に、ITに関する設計から開発・保守まで見据えたプロジェクトマネジメント、海外ベンダーマネジメントの実績が豊富",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "業界・業種に囚われず、ITを軸とした企画立案や業務プロセス改革の推進、ミッションクリティカルな大規模システム更改・運用保守まで幅広い実績と経験を有する",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "これを成功させる一手として、これまでのクライアント数の拡大・コンサルタント数の拡大に加えて、単価引き上げという新たな路線に乗り出そうとしているようです",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド・オンラインでは、ベイカレントのタイトルごとの人月単価が公開されてましたが、その戦略意図は全クライアントでチャージ金額を一律化することで実質的な値上げを図るというものです",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高＝単価×稼働率×人数",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "こう分解すると、ベイカレントの売上はアクセンチュアやBIG4より単価を下げて案件を獲得し、それをプール制と分業をベースとした高稼働率と大量の社員数で補うことによって実現されているとわかるはずです",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "また、大量採用に伴うコンサルタントの質の低下に伴う単価低下も不安ではあります",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "単価|一人あたり売上が上がると、何が起きるか",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "売上 = 人数 × 一人あたり単価",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "人数だけを追えば人月型の事業になり、単価だけを追えば成長が止まる",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "人数と単価の掛け算",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "一人あたり単価を上げるとは、より難しい案件を担当させるということ",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 08単価|一人あたり売上が上がると、何が起きるか",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "机上の理論より実践を重視し、技術とマネジメントの両面で、クライアントの成果創出と持続的な成長支援に強みを持つ",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "前職で培ったリアルな現場知見と、需要予測から調達・在庫・供給までSCM全領域を網羅する専門性を活かし、単なる部分最適にとどまらず、ECM・SCM連携やTier-Nから市場までのEnd-to-Endに及ぶ抜本的な業務改革・DXを牽引",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑で多面的な経営課題の本質を見極め、論点を構造化し、実効性の高い戦略および実行プランへ落とし込むことを強みとする",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "経営目線での意思決定支援を強みとし、AIを起点とした新規事業創出と変革を主導",
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、機能拡張により新たな価値提供と競争優位性の確立を達成",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率は直近2年は36-37%程度あたりを維持しており、これは競合他社と比較しても突出した水準となっています（NRIこと、野村総合研究所の直近の営利率は18%）",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "売上1000億円から2500億円へのジャンプはこれまでとは異なる成長ステージに突入することを意味しており、価格競争力を強みとしてきたベイカレントにとっては、一部の顧客離れを招くリスクも考えられます",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "日系総合コンサルティング会社という強み",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "稼働率以外の強みとは",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "これが一つの強みになっています",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "さて、ここまでつらつらベイカレントの強みについて述べてきましたが、正直な話",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "それほどの給料を払い、大量採用をしているにもかかわらず高い営業利益率を維持しているのは素晴らしいですよね",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "じゃあ稼働率下がってるのになんでこんな営業利益率高いん？という疑問が湧いてきます",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "よって、ベイカレントのこの驚異的な営業利益率は売上原価における経費を削減できているからと考えられそうですね",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "下のグラフのように、競合他社と比較してもベイカレントの売上総利益率は非常に高いです",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに営業利益率で比較しなかったのは、ベイカレントの売上原価を構成する経費が少ないことを裏付けるためです",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "また、ベイカレントの営業利益率が高いのは",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "売上が増えるほど固定費の比率が下がり、営業利益率は改善していきます",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率や売上に関しては未だ優秀な水準を維持していますが、",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "短期的には規模拡大による売上高増加である程度の営業利益率を叩き出せる可能性はありますが、中長期的な視点で考えた時、少し警戒したいポイントであるとも感じました",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率34%前後(2026年2月期)という数字は、この組織構造の帰結として説明できます",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレントには、ワンプールならではの柔軟さやアサインのしやすさといった強みがありますが、その良さはそのままに、ファームとしての専門性、つまり組織としてのケイパビリティをしっかり高めていきます",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "ここをきちんとお手伝いし、ベイカレントが強みを持っている、その後の「構想の具体化」や「実行支援」のフェーズへとしっかりつなげていきたい",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内発コンサル「ベイカレント」爆速成長中！BIG4ら外資系にはない“3つの強み”",
+    "url": "https://diamond.jp/articles/-/365542",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、環境方針の策定および実施にあたり、外部ステークホルダー（顧客、サプライヤー、地域社会、NGOなど）との対話を通じて意見を収集し、方針に反映させます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": ")のミッション実現には、情報セキュリティに関する高い企業モラルを堅持し、お客様の情報資産をあらゆる脅威から保護することが重要な課題となります",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "5.情報セキュリティに関するお客様との契約上の守秘義務を遵守します",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様（法人の場合はその役職員の皆様）の個人情報",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・お取引先様の情報管理のため",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・業務連絡、業務のアサインメント、お取引先様への紹介、その他の業務遂行のため",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先様に関する特定個人情報",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "・採用に至った場合、入社後の業務のアサインメント、お取引先様への紹介、その他業務遂行のため",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "共同利用者の範囲に掲げる者に対して提供する場合",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "(イ) 個人情報を取り扱うことのできる機器に装備されているユーザー制御機能（ユーザーアカウント制御）により、個人情報を取り扱う情報システムを使用する従業者を識別及び認証します",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのWebサイトでは、ご利用者が一層便利にご利用いただけるように、クッキー（サーバー側でご利用者を識別するために、サーバーからご利用者のブラウザに送信され、ご利用者のデバイス（コンピュータ又はモバイルデバイス等）に蓄積される情報）を利用して、ご利用者に関する情報（以下「利用者情報」といいます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信につきましては、こちらをご覧ください",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者は、ブラウザの設定により、クッキーの送受信に関する設定を「クッキーを許可する」「クッキーを拒否する」「クッキーを受信したら通知する」などから選択できます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "）は、いずれも、ご利用者に対する情報提供のみを目的とするものです",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "本コンテンツのご利用者は、本コンテンツを通じて提供される提供情報を信頼するか否か、又は取引等を行うか否かなどについて、すべてご自身の責任の下でご判断いただくものとします",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、ご利用者が提供情報を利用して又は参考にして行われた投資、売買若しくは借入その他一切の取引又は事業等の結果に関して、一切責任を負いません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、第三者の提供するコンテンツ等に関する苦情、クレーム又は紛争については、ご利用者と当該第三者との間で解決していただくものとし、当社グループは一切関与いたしません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、自らの判断により、ご利用者に事前の通知を行うことなく、本コンテンツの全部又は一部の更新、追加、変更若しくは削除、又は本コンテンツの提供の中断若しくは停止等を行う場合があります",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、これにより、ご利用者が情報入手の遅延、情報の滅失又は損壊その他の損害を被った場合であっても、当社グループは、一切の責任を負いません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者は、本コンテンツについて、営利、非営利を問わず、当社の事前の許諾なく、複製、転用又は販売等の二次利用をすることができません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者は、本コンテンツについて、著作権法第30条「私的使用のための複製」や第32条「引用」等に基づいて利用する場合には、出典として当社名を表記するものとします",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用者は、本Webサイトのどのページに対しても、自由にリンクを設定することができます",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、リンクによって発生した苦情、クレーム又は紛争等については、リンクを設定されたご利用者の責任及び負担で解決していただくものとし、当社グループは一切責任を負いません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、ご利用者が本利用規約に違反して当社グループに損害を与えた場合、当該ご利用者に対し、損害賠償を請求でき、ご利用者は一切の損害（弁護士費用、調査費用、専門家の鑑定費用及び法的対応費用を含みますが、これらに限定されません",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、ご利用者に事前の承諾を得ることなく、本Webサイト上での告知又は当社が適当と判断する方法でご利用者に通知することにより本利用規約を変更できるものとします",
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "解放感のある当空間にて、お客様をお出迎えさせていただきます",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブディレクター職として顧客の価値創出に従事し、インタラクティブGr.の立ち上げに参画",
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.baycurrent.co.jp/ir/legalnotice/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が何気なく漏らした一言",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日報や CRM への要約入力では顧客の「生の声」が削ぎ落とされ、対面コミュニケーションの実",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Treasure AI Voice」による音声データの取得・構造化、顧客行動ログとの統合および",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存の CDP・DWH 等との連携・統合、および CDP 未導入企業への導入構想策定からシ",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Treasure AI Voice」で取得した音声データと顧客データとの突合は、既存のデータ基盤を活",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いずれの場合も、お客様の環境に合",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "② 顧客への誠実な説明の担保",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重要事項の説明を客観的に確認できる仕組みを整え、顧客が安心して意思決定できる環",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 多様な顧客の声を届ける",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オンラインで発信しない顧客層の声をデータ化し、経営判断に反映させます",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「対面での会話という最も豊かでリアルな顧客接点がデータ化されることで、企業のCX（顧客",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "てデータを掛け合わせ、現場の声を起点としたお客様の事業成長を力強く牽引してまいりま",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "常に最新の顧客コンテキストを理解するデータ基盤、人間と協調（Human-in-the-",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ングや営業など全社の顧客接点におけるインテリジェンスを拡張",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "限の管理について、導入企業との契約において明確に定義することを前提としています",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "令系統や業務従事者の管理などについて、導入企業との契約において厳格に定義することを前提としてい",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "への報告・顧客対応・対外発表に至るまで迅速かつ慎重な判断が広範に求められます",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%81%E5%85%AB%E9%9B%B2%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有事には、事実関係と未判明事項の整理、経営の論点整理を行う対策本部の設置と、顧客",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%81%E5%85%AB%E9%9B%B2%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や取引先への説明方針、当局対応、公表の進め方を支援し、事業の再開順序の検討、再発",
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%81%E5%85%AB%E9%9B%B2%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "６． 取引先の健康経営支援",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/health_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先に対して、 戦略マップの作成方法、 健康経営施策、 施策効果検証方法等の",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/health_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/info_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．外部送信する利用者情報の内容",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/info_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．利用者情報の利用目的",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/info_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、Web サイトのパフォーマンスを分析し、改善に役立てるため、利用者情報",
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/info_2023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上1000億円から2500億円へのジャンプはこれまでとは異なる成長ステージに突入することを意味しており、価格競争力を強みとしてきたベイカレントにとっては、一部の顧客離れを招くリスクも考えられます",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング会社はどのように顧客を獲得していくのでしょうか",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "他の会社と同様営業によって顧客を獲得します",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "「弾力的な対応」というのは、日系企業であるからこそ日系のクライアントのニーズにきめ細かく応えたサービスを提供することで顧客を獲得できるという側面だけでなく、",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "競合他社よりシンプルに報酬を下げることで顧客を獲得している",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトメンバーとして顧客貢献を果たす",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "弊社でも、200名、300名といった規模でご支援しているクライアントもあり、お客様側がプロジェクトに対して“多様なケイパビリティ”と“ボリューム”の両方を求めている、というのが近年の特徴です",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "あくまでコンサルとしての比較なので、野村総合研究所と三菱総合研究所はコンサルセグメントのみで比較しています",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成の想定(会社の見込み)",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ベイカレント 解剖、圧倒的成長を実現する事業 モデル と競争力 ... — ベイカレント 解剖、圧倒的成長を実現する事業 モデル と競争力 ... career-scene.com https://career-scene.com > baycurrent-research",
+    "url": "https://career-scene.com/baycurrent-research/",
+    "pass": 3
+   },
+   {
+    "quote": "超有名コンサル「 ベイカレント 」は本物なのか？本気で考えて ... — 超有名コンサル「 ベイカレント 」は本物なのか？本気で考えて ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント | Baycurrent — ベイカレント | Baycurrent ベイカレント https://www.baycurrent.co.jp",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント はなぜ、競合他社のコンサルを​圧倒 ... - YouTube — ベイカレント はなぜ、競合他社のコンサルを​圧倒 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=j9fG35OfDxw",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント の「コンサルより営業が格上」の最強 ビジネス ... — ベイカレント の「コンサルより営業が格上」の最強 ビジネス ... ダイヤモンド・オンライン https://diamond.jp > コンサル・士業 > コンサル大解剖",
+    "url": "https://diamond.jp/articles/-/366179",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ベイカレント | Baycurrent — IR情報 | ベイカレント | Baycurrent ベイカレント https://www.baycurrent.co.jp > ...",
+    "url": "https://www.baycurrent.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ベイカレント 】[6532]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 ベイカレント 】[6532]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント 【6532】のIR 資料 - キタイシホン — ベイカレント 【6532】のIR 資料 - キタイシホン キタイシホン https://kitaishihon.com > company > ir-library",
+    "url": "https://kitaishihon.com/company/6532/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント （6532）のIR情報・ 決算資料 - IRBANK — ベイカレント （6532）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ベイカレント",
+    "url": "https://irbank.net/6532/ir",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント - Wikipedia — 事業は株式会社ベイカレント・コンサルティング（3代目、株式会社ベイカレント分割準備会社Aから商号変更）と株式会社ベイカレント・テクノロジー（株式会社ベイカレント分割準備会社Bから商号変更）が継承 [4]。",
+    "url": "https://ja.wikipedia.org/wiki/ベイカレント",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレントの組織図|One Baycurrent 3社体制・プロデュース本部・ワ... — Sep 16, 2026 · ベイカレントの組織図を、持株会社体制 (One Baycurrent 3社)、営業と採用を担うプロデュース本部、部門を置かないワンプール制、Staff→Leader→PM→Partnerの職位体系の4層で解説。",
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント | Baycurrent — ベイカレントは、総合コンサルティングファームとして、様々な業界のリーディングカンパニーが抱える経営課題を解決し、成果を生み出すことで、クライアントの持続的な発展に貢献します。",
+    "url": "https://www.baycurrent.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 | ベイカレント | Baycurrent — Baycurrent Consulting, Inc. 株式会社ベイカレント・コンサルティング 事業内容 経営、オペレーション、ITに関するコンサルティング、および実行支援 役員",
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ベイカレント 有価証券報告書 全文（最新）｜事業内容・リス... — 株式会社ベイカレント（証券コード 65320）の有価証券報告書 全文（最新 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。",
+    "url": "https://edinetdb.jp/company/E32549/text",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント・コンサルティング 則武譲二代表取締役社長・スペシャル... — ベイカレント・コンサルティングの則武譲二代表取締役社長に、AI時代のコンサルティング市場の変化、同社の成長戦略、ワンプール制、専門性強化、人材育成、働き方についてお聞きしました。",
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント新社長の経歴に漂う“謎”とは？外資系IT、外資戦略系…“超... — May 27, 2025 · 男子ゴルフ「ベイカレントクラシック」記者発表会で、（左から）ベイカレントの北風大輔副社長執行役員、阿部義之社長、プロゴルファーの ...",
+    "url": "https://diamond.jp/articles/-/365542",
+    "pass": 3
+   },
+   {
+    "quote": "【一番多い転職先は？】現役マネにベイカレントの内部事情を聞いてみ...ベイカレント・コンサルティングの取締役 関口氏に聞く会社の魅力｜新...【ベイカレント】なぜベイカレントのコンサルタントは成果を出せるの...阿部義之とは|ベイカレント社長の経歴と、売上8倍を実現した経営 | TH... — Feb 22, 2026 · #コンサル転職 #転職 #面接対策 #ベイカレントコンサルティング ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ LINEにてキャリア相談実施中 今 ... Aug 14, 2026 · 現在は、新卒市場でも中途市場でも優秀な人材が入社するコンサルティング会社となっています。 今回、ベイカレント・コンサルティングの取締役である関口様に、ベイカレント・コンサルティングについて取材をしてきました。 Oct 11, 2022 · 今回のインタビューでは、パートナーの平山 真史",
+    "url": "https://www.youtube.com/watch?v=ZTLsPoMwRes",
+    "pass": 3
+   },
+   {
+    "quote": "ベイカレント・コンサルティングの取締役 関口氏に聞く会社の魅力｜新... — Aug 14, 2026 · 現在は、新卒市場でも中途市場でも優秀な人材が入社するコンサルティング会社となっています。 今回、ベイカレント・コンサルティングの取締役である関口様に、ベイカレント・コンサルティングについて取材をしてきました。",
+    "url": "https://keyplayers.jp/tenshoku/baycurrent-consulting-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "【ベイカレント】なぜベイカレントのコンサルタントは成果を出せるの... — Oct 11, 2022 · 今回のインタビューでは、パートナーの平山 真史様に登場頂きます。 平山様のこれまでのキャリアを紐解きつつ、ベイカレントの特長的なカルチャーや具体的なプロジェクト事例、今後のビジョンなど、様々なお話をお伺いしました。",
+    "url": "https://fortna.co.jp/baycurrent_interview2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.baycurrent.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/ceo-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/principles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/experts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/newsrelease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/aboutus/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/industry-service/service/global-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/careers/aboutus-1min/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/careers/growingenvironment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/sustainability/environment-intiatives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/ir/stockinformation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/ir/legalnotice/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E5%AF%BE%E9%9D%A2%E3%81%AE%E4%BC%9A%E8%A9%B1%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E8%B3%87%E7%94%A3%E5%8C%96%E3%81%97%E3%80%81%E6%A5%AD%E5%8B%99%E5%A4%89%E9%9D%A9%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8BCDX%E6%94%AF%E6%8F%B4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%8CBAYVO.%E3%80%8D%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/07/%E3%80%90%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%91%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6_%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E5%AF%84%E4%BB%98%E8%AC%9B%E5%BA%A7%E3%80%8CDX%E3%81%A8%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E3%80%8D%E5%85%B1%E5%90%8C%E8%AA%BF%E6%9F%BB%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/GenAISUM2026%E3%81%A7%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%92%E5%AE%9F%E6%96%BD-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/10/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%80%81%E5%85%AB%E9%9B%B2%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E3%81%A8%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/uploads/2026/09/%E3%80%90%E5%A4%A7%E5%85%83%E9%9A%86%E5%BF%97%E7%99%BB%E5%A3%87%E3%80%91%E3%80%8CAI%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%AA%E3%82%B9%E3%82%AF%E3%81%A8%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E5%AE%9F%E8%B7%B5%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%80%8D%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%80%82.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/health_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.baycurrent.co.jp/wp-content/themes/baycurrent-template-v3/assets/pdf/info_2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://career-scene.com/baycurrent-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/365542",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ベイカレント",
+   "results": [
+    "https://www.baycurrent.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88",
+    "https://my-vision.co.jp/consultant/baycurrent",
+    "https://www.movin.co.jp/gyoukai/firmlist/general/baycurrent/description.html",
+    "https://x.com/Baycurrent_inc",
+    "https://ja.wikipedia.org/wiki/ベイカレント",
+    "https://shikiho.toyokeizai.net/stocks/6532/corporate",
+    "https://finance.yahoo.co.jp/quote/6532.T/profile",
+    "https://kigyobunseki.com/company/baycurrent",
+    "https://www.baycurrent.co.jp/en/"
+   ]
+  },
+  {
+   "query": "ベイカレント ビジネスモデル",
+   "results": [
+    "https://career-scene.com/baycurrent-research/",
+    "https://note.com/mild_murre1003/n/n979e4dda310b",
+    "https://www.baycurrent.co.jp/",
+    "https://www.youtube.com/watch?v=j9fG35OfDxw",
+    "https://diamond.jp/articles/-/366179",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16717/",
+    "https://info.fujico.co.jp/executive/baycurrent/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000Jph8U&qco=1",
+    "https://www.baycurrent.co.jp/project/",
+    "https://mindmeister.jp/posts/bm-baycurrent"
+   ]
+  },
+  {
+   "query": "ベイカレント 決算説明資料",
+   "results": [
+    "https://www.baycurrent.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6532",
+    "https://kitaishihon.com/company/6532/ir-library",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VTPA.pdf",
+    "https://irbank.net/6532/ir",
+    "https://strainer.jp/companies/JP-6532/filings?page=12",
+    "https://edinetdb.jp/company/E32549/presentations/",
+    "https://treelazy.com/stock-jp/6532/conference",
+    "https://www.baycurrent.co.jp/ir/news/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250911556481/"
+   ]
+  },
+  {
+   "query": "ベイカレント 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ベイカレント",
+    "https://the-agent.sync-ascent-inc.com/article-baycurrent-soshiki",
+    "https://www.baycurrent.co.jp/",
+    "https://www.baycurrent.co.jp/aboutus/overview/",
+    "https://edinetdb.jp/company/E32549/text",
+    "https://irbank.net/E32549/business?f=S100Y69G",
+    "https://mindmeister.jp/posts/bm-baycurrent"
+   ]
+  },
+  {
+   "query": "ベイカレント 社長 インタビュー",
+   "results": [
+    "https://www.movin.co.jp/firm/interview/interviewBaycurrent.html",
+    "https://diamond.jp/articles/-/365542",
+    "https://www.youtube.com/watch?v=ZTLsPoMwRes",
+    "https://keyplayers.jp/tenshoku/baycurrent-consulting-interview/",
+    "https://fortna.co.jp/baycurrent_interview2/",
+    "https://the-agent.sync-ascent-inc.com/article-founder-abe-yoshiyuki",
+    "https://my-vision.co.jp/interview/baycurrent/interview01"
+   ]
+  }
+ ],
+ "missing": {}
+}

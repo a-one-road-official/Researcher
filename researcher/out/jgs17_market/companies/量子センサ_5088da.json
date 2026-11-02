@@ -1,0 +1,2046 @@
+{
+ "name": "量子センサ",
+ "en": "quantum sensing",
+ "aliases": [
+  "量子センシング"
+ ],
+ "context": "4 量子 ③量子センシング",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:44:54.639498+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の量子センサー市場は、2025年に市場規模 4億1,460万米ドル、数量 190,491.3台となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は 2026年の 4億7,880万米ドルから 2031年には 9億8,940万米ドル、2035年には 13億米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Sensors Market, By Product Type, 2022-2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛市場は、2035年までに 4億1,295万米ドルに達すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は量子センサー市場をリードし、2025 年の市場規模は 2,150 万米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の量子センサー市場は、2035 年までに 7,972 万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模、シェア、トレンド分析レポート：製品別（原子時計、磁気センサー、PAR量子センサー）、用途別（軍事・防衛、自動車）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子センサー市場規模は、2025年には7億3000万米ドルと評価され、2026年の8億3000万米ドルから2034年には22億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.24%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に量子センサー市場で最大の34.6%の市場シェアを獲得し、市場規模は2億5000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には同地域が世界市場の24.7%を占め、市場規模は1億8,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に世界の量子センサー市場の29.8%を占め、市場規模は2億2,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは2025年時点で世界の量子センサー市場の5.8%を占め、市場規模は4億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域は、2025年には世界の量子センサー市場の5.1%を占め、市場規模は4億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）13.24%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国量子センサー市場規模、2033への予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて15.1%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国量子センサー市場規模は、重要な株式を保持することが期待されています 2033年 シェア",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国量子センサー市場規模は、予測期間2023〜2033年の間に15.1%のCAGRで、著名な株式を保持すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模・シェア｜レポート[2035]",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.82 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.56 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は2025年に8億2000万米ドルと評価され、2026年の9億3000万米ドルから2035年までに25億6000万米ドルに成長すると予測されており、予測期間（2026年から2035年）中に11.9％のCAGRを記録します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "国防費による測位・航法・計時（PNT）近代化プログラム、特に米国国防総省の12億ドル規模の量子技術イニシアチブ",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模と予測 (2021 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "米国国防総省は、2024～2028年度の計画目標覚書に基づき、量子保証PNT能力に約12億ドルを割り当て、フィールドポータブル原子時計と冷原子慣性測定装置を優先成果物とした",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.04 billion (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.82 billion (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.05 billion (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.17 billion (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.07 billion (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサーの市場規模、シェア、成長、メーカー 2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場調査レポート-最新動向、成長機会、市場規模およびシェア世界予測分析-2025年～2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 、2035年までに4億1830万米ドルの売上高を予測、KDMIアナリストが成長分析 市場は、販売チャネル別、車両タイプ別、地域別に区分されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサの世界市場規模は2025年に1億6,112万米ドル",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガスセクターの市場規模は5280億米ドルで拡大しており、量子センサ市場の成長を促進するでしょう",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、アメリカのヘルスケア産業への投資額は4.1％増加し、4兆5,000億円に達しました",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 市場規模と予測",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1.1. 市場規模と予測",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2.1. 市場規模と予測",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクト洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "業界垂直インサイト(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域洞察(Revenue、USD Mn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模は米ドル819.2で評価されると推定される 2025年のMnはUSD 2,261.3に達すると予想される 2032年までにMn",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は2023-2028年に5億6,050万米ドル、予測期間中のCAGRは13.47％で成長すると予測されます",
+    "url": "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、量子センサー市場の全体的な分析、市場規模・予測、動向、成長促進要因、課題、約25のベンダーを網羅したベンダー分析などを掲載しています",
+    "url": "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子センサー市場規模は、2024年に916.1百万米ドルと推定され、2037年末までに2461.4百万米ドルを超え、2025―2037年の予測期間中に7.9%のCAGRで成長すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "日本の量子センサー市場は、2037年まで安定した成長を記録すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の量子センサー市場規模は916.1百万米ドルでした",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場規模は 2026年の 4億7,880万米ドルから 2031年には 9億8,940万米ドル、2035年には 13億米ドルに拡大すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "数量は 621,993.3台に達し、2026〜2035年の予測期間における年平均成長率（CAGR）は 11.7%、金額ベースの年平均成長率は 12.2%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子イメージングセグメントは、2026年〜2035年の予測期間中に 16.9% の年平均成長率（CAGR）で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "捕捉イオンセグメントは、2026年〜2035年の予測期間中に 11.9% の年平均成長率（CAGR）で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアセグメントは、2026年〜2035年の予測期間中に 11.3% の年平均成長率（CAGR）で成長すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダは、商用導入の拡大と研究イニシアチブを背景に、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）7.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子センサー市場規模は、2025年には7億3000万米ドルと評価され、2026年の8億3000万米ドルから2034年には22億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.24%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "磁気センサーは、年平均成長率（CAGR）13.9%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場において、磁気センサー分野は予測期間中に年平均成長率（CAGR）13.9%で最も速い成長を遂げると予測されており、防衛、航法、医療、科学研究、産業用途における高感度磁場測定の需要増加がその原動力となっている",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は予測期間中に年平均成長率（CAGR）12.4%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は量子センサー市場において最も急速に成長している地域であり、予測期間中に年平均成長率（CAGR）14.6%で拡大すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "同地域は予測期間中に年平均成長率（CAGR）11.9%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて15.1%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国量子センサー市場規模は、予測期間2023〜2033年の間に15.1%のCAGRで、著名な株式を保持すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は2025年に8億2000万米ドルと評価され、2026年の9億3000万米ドルから2035年までに25億6000万米ドルに成長すると予測されており、予測期間（2026年から2035年）中に11.9％のCAGRを記録します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、中国の国立量子情報科学研究所と日本のムーンショット研究開発プログラムにより、2035 年までの CAGR が 12.6% と予測され、最も急速に拡大している地域です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子重力計と量子勾配計は、地下鉱物探査と土木工学モニタリングによって推進され、2035 年までこの分野で最高の CAGR を記録すると予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "ウェハスケールの製造によりモジュールあたりの単価が 5,000 米ドル未満に削減されるため、NV ダイヤモンド センサーは急速に拡大しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "LEO 星座オペレーターが量子タイミング ペイロードを統合するため、宇宙および衛星アプリケーションは 2035 年まで 12.8% の CAGR を達成すると予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "北米が収益シェア 41.7% で優位を占め、アジア太平洋地域が CAGR 12.6% で成長をリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "12.6% CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "11.2% CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "10.8% CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "12.4% の CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "11.8% CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガス産業の拡大：石油・ガスは、輸送と産業の成長に不可欠であり、この分野は2023年に11％の成長を目撃",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガスセクターの市場規模は5280億米ドルで拡大しており、量子センサ市場の成長を促進するでしょう",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "2032年、化合物の年間成長率で成長",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "15.6%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は2023-2028年に5億6,050万米ドル、予測期間中のCAGRは13.47％で成長すると予測されます",
+    "url": "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子センサー市場規模は、2024年に916.1百万米ドルと推定され、2037年末までに2461.4百万米ドルを超え、2025―2037年の予測期間中に7.9%のCAGRで成長すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は、2024年から2033年にかけて14.4％のCAGRで成長すると見込まれています",
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場はCAGR14.4％で成長しています",
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです",
+    "url": "https://www.dreamnews.jp/press/0000355969",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum sensor market forecast to reach US$2.2 billion by 2045 with CAGR 11.4%",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Identifying medium term opportunities in the quantum sensor market: Market size vs CAGR (2025-2035)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Identifying long term opportunities in the quantum sensor market: Market size vs CAGR (2035-2045)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は2045年までに22億ドル規模（年平均成長率は11.4%）に到達する見通し",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場は、2032年までにCAGR15.10％で22億6,863万米ドル規模に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/7203271",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 15.10%",
+    "url": "https://newscast.jp/smart/news/7203271",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは15.10%です",
+    "url": "https://newscast.jp/smart/news/7203271",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 7.6%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.6% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum sensor market is expected to grow at a CAGR of 7.6% from 2026 to 2033, reaching USD 1,700.0 million.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum sensors market was valued at USD 414.6 million in 2025 with a volume of 1,90,491.3 units. The market is expected to grow from USD 478.8 million in 2026 to USD 989.4 million by 2031 and USD 1.3 billion by 2035 with a volume of 6,21,993.3 units, growing at a CAGR of 11.7% and value CAGR of 12.2% during the forecast period of 2026-2035.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum imaging segment is anticipated to grow at a CAGR of 16.9% during the forecast period 2026 - 2035. Quantum imaging is increasingly popular because of its higher resolution and improved performance in low light and high noise environments. The technology is now more widely incorporated in various sectors, including medical imaging, security screening, and scientific research.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "量子センサー市場の規模・シェアおよび業界レポート（2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 サイズとシェア 2026 - 2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "ID Quantique（IDQ）が 2025年に 33.1% 超の市場シェアを占め、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位 5 社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは 2025年に 62.9% に達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米は量子センサー市場の 35.5%のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Sensors Market Share, By Platform, 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "中性原子セグメントは、2025年に 30.5% の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は 2025 年に世界の量子センサー市場の 28.5%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025 年に世界の量子センサー市場で 24.5%のシェアを占め、予測期間中の年平均成長率（CAGR）が 13.8%となる最も急速に成長する地域である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカの量子センサー市場は、2025年に5.8%のシェアを占め、予測期間中に 7.8%のCAGRで成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ（MEA）の量子センサー市場は、2025年に5.7%のシェアを占め、2026〜2035年の予測期間中に 10.8%のCAGRで成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアは、2025年に47.4%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "UAEは、2025年に市場で20.1%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模、シェア、トレンド分析レポート：製品別（原子時計、磁気センサー、PAR量子センサー）、用途別（軍事・防衛、自動車）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に34.6%の市場シェアを占め、量子センサー市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛分野は2025年に市場シェア68.4%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛分野は、2025年までに世界の量子センサー市場において最大のシェア（68.4%）を占めると予測されており、これは高度な航法、測位、磁気探知、監視、精密測定技術に対する需要の高まりに支えられています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に量子センサー市場で最大の34.6%の市場シェアを獲得し、市場規模は2億5000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には同地域が世界市場の24.7%を占め、市場規模は1億8,000万米ドルに達しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に世界の量子センサー市場の29.8%を占め、市場規模は2億2,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは2025年時点で世界の量子センサー市場の5.8%を占め、市場規模は4億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ地域は、2025年には世界の量子センサー市場の5.1%を占め、市場規模は4億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ヨーロッパが市場シェア34.6%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体変圧器市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国量子センサー市場規模は、重要な株式を保持することが期待されています 2033年 シェア",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に、予測期間にわたって最大の収益分配のために占める光合成活性放射線(PAR)セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場規模・シェア｜レポート[2035]",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、機密防衛調達と強力なSBIR/STTR資金パイプラインによって牽引され、2025年には収益の41.7%を占め、量子センサー市場のリーダーとなった",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は依然として適度に集中しており、上位 5 社のサプライヤーが世界の収益の約 38 ～ 42% を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "原子時計は、防衛 PNT のアップグレードと通信同期義務により、2025 年に 38.2% の収益シェアを獲得しました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "冷原子干渉法は、2025 年の量子センサー市場で 42.6% のシェアを占めました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "防衛とセキュリティは、2025 年に量子センサー市場の 45.3% のシェアを獲得しました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "北米が収益シェア 41.7% で優位を占め、アジア太平洋地域が CAGR 12.6% で成長をリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "収益シェア 41.7% (2025 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "収益シェア 24.8% (2025 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "収益シェア 5.8% (2025 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェア78.4%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェア13.1%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの8.5%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェア4.1%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサーの市場規模、シェア、成長、メーカー 2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場調査レポート-最新動向、成長機会、市場規模およびシェア世界予測分析-2025年～2035年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "17カ国が政府投資と民間企業の新興企業によって量子技術の開発を目指しており、中国が最も急速に成長している国で投資の半分を占めています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "8.1. 市場シェア分析",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "製品によると、磁気センサーセグメントは2025年に36.6%の最大のシェアを保持しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "業界垂直をベースとし、軍事と防衛の垂直セグメントは、量子センサー市場における最大シェアを2025年に38%保有しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は現在、2025年に世界量子センサー市場を占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場調査、規模、シェアと予測2037年",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、大規模な資金調達プログラムと戦略的取り組みの実施を通じて量子センサーの研究と商業化が加速したことにより、予測期間中に35.5％のシェアで量子センサー業界をリードすると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "2020年末までに、路上には205,770台のBEVがあり、これは英国の全自動車のわずか0.6％を占めていました",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "原子時計セグメントは、2037年までに37.5％のシェアを獲得すると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションに基づくと、ヘルスケアセグメントは 2037 年末までに注目すべきシェアを占める可能性があります",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "回答: ヨーロッパの量子センサー業界は、2037年まで支配的な市場シェアを維持すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "Before You Buy Amazon Basics: How the Top 5 Best-Selling AA Batteries on Amazon Really Compare",
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場の主要企業は、ID Quantique（IDQ）、AOSense, Inc.、Muquans（μQuans）、M Squared Lasers Ltd.、Qnamiである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー業界で事業を展開する主要企業は、以下のとおりである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、ID Quantique（IDQ）、AOSense Inc.、Muquans（μQuans）、M Squared Lasers Ltd.、Qnamiが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "ADVA社、AdSense社、Biospherical Instruments Inc.社、GWR Instruments Inc.社、Microchip社、Microsemi Corp.社が世界の量子センサ市場の主要企業です",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "オックスフォード・インストゥルメンツ(英国)、Muquans SAS(フランス)、ID Quantique(スイス)、M Squared Lasers Limited(スコットランド)などは、欧州の量子センサ市場で活躍する主要企業です",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場の主要企業",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場の主要企業は以下の通り：",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサ市場の主要プレイヤーは？",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサ市場の主要企業には、ADVA、AdSense、Biospherical Instruments Inc.、GWR Instruments Inc.、Microchip、Microsemi Corp.などがあります",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業には以下が含まれます：",
+    "url": "https://www.dreamnews.jp/press/0000355969",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Clocks: Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in atomic clock hardware development",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Key players: Lab-based microwave atomic clocks",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Quantum Interference Devices (SQUIDs) - Technology, Applications and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with SQUID intellectual property (IP)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Optically Pumped Magnetometers (OPMs) - Technology, Applications and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with OPM intellectual property (IP)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the technology approaches of key players developing miniaturized OPMs for healthcare",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Tunneling Magneto Resistance Sensors (TMRs) - Technology, Applications and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with TMR intellectual property (IP)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Nitrogen Vacancy in Diamond (NV Centers) - Technology, Applications and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Gravimeters: Technologies, Applications and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in quantum gravimeters",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Gyroscopes: Technologies, Developments and Key Players",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with atomic gyroscope intellectual property (IP)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the quantum sensor market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Q-CTRL; Infleqtion, Inc.; IonQ, Inc.; SandboxAQ; Honeywell International Inc.; AOSense, Inc.; Exail Technologies; ID Quantique SA; Qnami AG; SBQuantum",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market are ID Quantique (IDQ), AOSense, Inc., Muquans (μQuans), M Squared Lasers Ltd., and Qnami. Collectively, these companies held more than 62.9% of the market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the quantum sensors industry are:",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the quantum sensors market?",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the industry include ID Quantique (IDQ), AOSense Inc., Muquans (μQuans), M Squared Lasers Ltd., and Qnami. Collectively, these companies held over 62.9% of the global market share in 2025, reflecting a highly concentrated competitive landscape.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the quantum sensor market?",
+    "url": "https://www.precedenceresearch.com/quantum-sensor-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the quantum sensor market are Q-CTRL, Qnami, Robert Bosch GmbH, BAE Systems, QuantumDiamonds, Apogee Instruments, Inc., ColdQuanta, Inc., Miraex, Zurich Instruments AG, Q.ANT GmbH, and Others.",
+    "url": "https://www.precedenceresearch.com/quantum-sensor-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Sensors Market Size & Share Analysis - Emerging Trends, Growth Opportunities, Competitive Landscape, and Forecasts (2025 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The trend is accelerating as major technology companies and startups develop specialized software platforms that bridge quantum sensing hardware with AI capabilities, making these advanced systems more accessible to end-users across various industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is fragmented due to the presence of many large companies, research institutions, and startups, competing across various applications. No single company dominates due to the market’s early stage and technological complexity. Additionally, active innovation hubs in North America, Europe, and the Asia-Pacific add to this diverse and competitive landscape.",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players, technologies, applications, materials, and 20-year granular quantum sensor market forecasts for: atomic clocks, quantum magnetic field sensors, gravimeters, gyroscopes, accelerometers, quantum RF, and single photon detectors.",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Clocks: Key Players",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in atomic clock hardware development",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Key players: Lab-based microwave atomic clocks",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Superconducting Quantum Interference Devices (SQUIDs) - Technology, Applications and Key Players",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with SQUID intellectual property (IP)",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Optically Pumped Magnetometers (OPMs) - Technology, Applications, and Key Players",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players with OPM intellectual property (IP)",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing the technology approaches of key players developing miniaturized OPMs for healthcare",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   },
+   {
+    "quote": "Tunneling Magneto Resistance Sensors (TMRs) - Technology, Applications, and Key Players",
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "量子センサー市場規模 、シェア |業界レポート [2034] — 量子センサー市場規模 、シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 の 規模 ・シェアおよび業界レポート（2035 ... — 量子センサー市場 の 規模 ・シェアおよび業界レポート（2035 ... Global Market Insights Inc. https://www.gminsights.com > quantum-sensors-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国 量子センサー市場規模 、2033への予測 - Spherical Insights — 米国 量子センサー市場規模 、2033への予測 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > reports > united-states...",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 (2026 – 2035) - Market Research Future — 量子センサー市場 (2026 – 2035) - Market Research Future Market Research Future https://www.marketresearchfuture.com > reports > quantu...",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 規模、 シェア |業界レポート [2034] — 量子センサー市場 規模、 シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー の 市場 規模、 シェア 、成長、メーカー 2035年 — 量子センサー の 市場 規模、 シェア 、成長、メーカー 2035年 kdmarketinsights.jp https://www.kdmarketinsights.jp > レポート",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "米国 量子センサー市場 規模、2033への予測 - Spherical Insights — 米国 量子センサー市場 規模、2033への予測 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > reports > united-states...",
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 動向, 株式と予測, 2025-2032 — 量子センサー市場 動向, 株式と予測, 2025-2032 Coherent Market Insights https://www.coherentmarketinsights.com > 量子センサー...",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 規模、シェア |業界レポート [2034] — 量子センサー市場 規模、シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 は14.4%の成長を記録 - Market.us Scoop — 量子センサー市場 は14.4%の成長を記録 - Market.us Scoop Market.us Scoop https://scoop.market.us > 量子センサー市場ニュース",
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 インテリジェンスレポート2035：売上高予測 — 量子センサー市場 インテリジェンスレポート2035：売上高予測 ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000355969",
+    "pass": 3
+   },
+   {
+    "quote": "量子センサー市場 2025 -2045年：技術、トレンド、有力企業 — 量子センサー市場 2025 -2045年：技術、トレンド、有力企業 IDTechEx https://www.idtechex.com > quantum-sensors-market-2025",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Forecast: Quantum Sensing | QED-C — 2026 Market Forecast: Quantum Sensing | QED-C Quantum Economic Development Consortium https://quantumconsortium.org > 202...",
+    "url": "https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Forecast: Quantum Sensing | QED-C — 2025 Market Forecast: Quantum Sensing | QED-C Quantum Economic Development Consortium https://quantumconsortium.org > 202...",
+    "url": "https://quantumconsortium.org/publication/2025-market-forecast-quantum-sensing/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Quantum Sensing Companies in 2026 — Top Quantum Sensing Companies in 2026 The Quantum Insider https://thequantuminsider.com > over...",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "量子技術開発セクターは世界的に著しい成長を遂げており、2022年には投資額が300億米ドルを超えると予想されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、アメリカのヘルスケア産業への投資額は4.1％増加し、4兆5,000億円に達しました",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、大規模な資金調達プログラムと戦略的取り組みの実施を通じて量子センサーの研究と商業化が加速したことにより、予測期間中に35.5％のシェアで量子センサー業界をリードすると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, North America accounted for 35.5% share of the quantum sensors market. Strong government support as well as the presence of leading technology companies such as IBM and Google, considerable venture capital investment, and a well-developed talent pipeline from top universities explain the region’s market dominance.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany is anticipated to grow at a 11.4% CAGR during the forecast period 2026 - 2035. Germany is strengthening its position in the European quantum sensor market through heavy investments in R&D infrastructure, public-private collaborations, and industrial integration.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia accounted for an 47.4% market share in 2025. Saudi Arabia is advancing in the market through growing investments in defense, energy, and national infrastructure. The Saudi government supports adoption of high-precision sensing technologies through innovation programs.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE accounted for a share of 20.1% in the market in 2025. The UAE has become one of the strongest adopters of quantum sensors due to the Country's Innovation Strategy, the investment in aerospace, security, and smart infrastructure.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "Supportive government initiatives, public-private partnerships, and increased R&D funding may contribute 15–17% growth, accelerating pilot projects, infrastructure development, and enterprise adoption of quantum sensors.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for 35.5% of the global market in 2025. Regional market leadership is driven by strong government funding, advanced R&D infrastructure, and the presence of leading quantum technology companies.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market was valued at USD 21.50 million in 2025. Market growth is supported by significant public and private investments, defense programs, and strong research ecosystem development.",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum sensor market is rapidly advancing, fueled by growing demand for ultra-precise measurement tools across navigation, healthcare, and defense sectors. With innovations in quantum mechanics and strong government investments, the market is set to grow at a CAGR of 25.70% from 2025 to 2034, reaching over USD 1.3 billion by 2034.",
+    "url": "https://www.precedenceresearch.com/quantum-sensor-market",
+    "pass": 3
+   },
+   {
+    "quote": "In India, the National Quantum Mission (2023–2031) has received funding of INR 6,003.65 crore, supporting quantum sensing and metrology through thematic hubs and research groups to drive innovation and national capabilities.",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2023, QuantumDiamonds GmbH raised USD 7.6 million in seed funding to advance nitrogen-vacancy diamond quantum sensors for nano-scale magnetic field imaging, with applications spanning from medical diagnostics to materials characterization.",
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America was the leader in the Quantum Sensors Market with a 41.7% share of revenues in 2025, driven by classified defense procurement and a robust SBIR/STTR funding pipeline. The Asia-Pacific region is the fastest-expanding region with a projected CAGR of 12.6% through 2035, due to the National Laboratory for Quantum Information Sciences in China and Moonshot R&D Program in Japan",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "(February 2026): Secured a USD 100 Million Series C funding round led by strategic defense investors, earmarked for scaling production of its Tiqker portable atomic clock platform for military and telecom customers",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum sensing market in 2026 is growing rapidly, driven by government funding, commercial adoption, and demand across defense, healthcare, and environmental sectors.",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Infleqtion, a publicly listed company with over $700M in total funding, became the",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "$12 million AUD in funding",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Q-CTRL, with over $130M in total funding, specializes in",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SandboxAQ, headquartered in Palo Alto, develops AI-powered quantum-sensing solutions for defense and intelligence applications with $1.045B in total funding. The company",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "announced more than $300 million in funding",
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for the largest market share in 2025 due to defense investment and early commercialization.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "North America held the largest Quantum Sensor Market share in 2025, supported by strong government funding, defense modernization programs, quantum computing investments, aerospace innovation, and commercialization of GPS-independent navigation and precision sensing technologies across the United States and Canada.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "16.3. Quantum technology investment comparison by region",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "17. Investment and Funding Trends",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "17.1. Quantum sensor and quantum technology investment trends",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "17.2. Venture capital activity in quantum sensing startups",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "17.3. Government funding and research programs",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "17.4. Corporate r&d investments",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum sensor market is expected to create an absolute dollar opportunity of USD 7.63 billion between 2026 and 2035, presenting significant investment potential across defense, navigation, and telecommunications-linked quantum sensing applications.",
+    "url": "https://www.nextmsc.com/report/quantum-sensor-market-se3032",
+    "pass": 3
+   },
+   {
+    "quote": "Our assessment indicates that the following 15 companies are actively shaping product innovation, funding activity, and geographic expansion within the global quantum sensor market.",
+    "url": "https://www.nextmsc.com/report/quantum-sensor-market-se3032",
+    "pass": 3
+   },
+   {
+    "quote": "1.3 Investment Landscape 16",
+    "url": "https://www.futuremarketsinc.com/the-global-quantum-sensors-market-2025-2035/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2.Quantum investments 2012-2024 (millions USD). 16",
+    "url": "https://www.futuremarketsinc.com/the-global-quantum-sensors-market-2025-2035/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 3. National quantum initiatives and funding. 17",
+    "url": "https://www.futuremarketsinc.com/the-global-quantum-sensors-market-2025-2035/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "数量は 621,993.3台に達し、2026〜2035年の予測期間における年平均成長率（CAGR）は 11.7%、金額ベースの年平均成長率は 12.2%となる見込みです"
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "数量は 621,993.3台に達し、2026〜2035年の予測期間における年平均成長率（CAGR）は 11.7%、金額ベースの年平均成長率は 12.2%となる見込みです"
+   },
+   {
+    "value": "11.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "カナダは、商用導入の拡大と研究イニシアチブを背景に、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）7.8%で成長すると予測される"
+   },
+   {
+    "value": "13.24",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "世界の量子センサー市場規模は、2025年には7億3000万米ドルと評価され、2026年の8億3000万米ドルから2034年には22億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.24%となる見込みです"
+   },
+   {
+    "value": "13.9",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "磁気センサーは、年平均成長率（CAGR）13.9%で最も速い成長を記録すると予測されている"
+   },
+   {
+    "value": "12.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "同地域は予測期間中に年平均成長率（CAGR）12.4%で成長すると見込まれています"
+   },
+   {
+    "value": "14.6",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "アジア太平洋地域は量子センサー市場において最も急速に成長している地域であり、予測期間中に年平均成長率（CAGR）14.6%で拡大すると見込まれています"
+   },
+   {
+    "value": "11.9",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "同地域は予測期間中に年平均成長率（CAGR）11.9%で成長すると見込まれています"
+   },
+   {
+    "value": "12.6",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "アジア太平洋地域は、中国の国立量子情報科学研究所と日本のムーンショット研究開発プログラムにより、2035 年までの CAGR が 12.6% と予測され、最も急速に拡大している地域です"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "quote": "同市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです"
+   },
+   {
+    "value": "13.47",
+    "url": "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "quote": "量子センサー市場は2023-2028年に5億6,050万米ドル、予測期間中のCAGRは13.47％で成長すると予測されます"
+   },
+   {
+    "value": "14.4",
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "quote": "量子センサー市場はCAGR14.4％で成長しています"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.dreamnews.jp/press/0000355969",
+    "quote": "同市場は2025年から2035年にかけて年平均成長率15.8%で拡大し、2035年末には4億1830万米ドルを超える見込みです"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "quote": "Quantum sensor market forecast to reach US$2.2 billion by 2045 with CAGR 11.4%"
+   },
+   {
+    "value": "15.10",
+    "url": "https://newscast.jp/smart/news/7203271",
+    "quote": "量子センサー市場は、2032年までにCAGR15.10％で22億6,863万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "7.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "quote": "CAGR of 7.6% from 2026 to 2033"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "quote": "The global quantum sensors market was valued at USD 414.6 million in 2025 with a volume of 1,90,491.3 units. The market is expected to grow from USD 478.8 million in 2026 to USD 989.4 million by 2031 and USD 1.3 billion by 2035 with a volume of 6,21,993.3 units, growing at a CAGR of 11.7% and value "
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "quote": "The global quantum sensors market was valued at USD 414.6 million in 2025 with a volume of 1,90,491.3 units. The market is expected to grow from USD 478.8 million in 2026 to USD 989.4 million by 2031 and USD 1.3 billion by 2035 with a volume of 6,21,993.3 units, growing at a CAGR of 11.7% and value "
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "quote": "The quantum imaging segment is anticipated to grow at a CAGR of 16.9% during the forecast period 2026 - 2035. Quantum imaging is increasingly popular because of its higher resolution and improved performance in low light and high noise environments. The technology is now more widely incorporated in "
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "33.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "ID Quantique（IDQ）が 2025年に 33.1% 超の市場シェアを占め、市場をリードしました"
+   },
+   {
+    "value": "62.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "が含まれ、これらの企業が占める市場シェアは 2025年に 62.9% に達しました"
+   },
+   {
+    "value": "35.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "2025年、北米は量子センサー市場の 35.5%のシェアを占めました"
+   },
+   {
+    "value": "30.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "中性原子セグメントは、2025年に 30.5% の市場シェアを占めました"
+   },
+   {
+    "value": "11.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される"
+   },
+   {
+    "value": "28.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "欧州は 2025 年に世界の量子センサー市場の 28.5%を占めた"
+   },
+   {
+    "value": "24.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "アジア太平洋地域は、2025 年に世界の量子センサー市場で 24.5%のシェアを占め、予測期間中の年平均成長率（CAGR）が 13.8%となる最も急速に成長する地域である"
+   },
+   {
+    "value": "13.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "アジア太平洋地域は、2025 年に世界の量子センサー市場で 24.5%のシェアを占め、予測期間中の年平均成長率（CAGR）が 13.8%となる最も急速に成長する地域である"
+   },
+   {
+    "value": "5.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "ラテンアメリカの量子センサー市場は、2025年に5.8%のシェアを占め、予測期間中に 7.8%のCAGRで成長すると見込まれる"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "ラテンアメリカの量子センサー市場は、2025年に5.8%のシェアを占め、予測期間中に 7.8%のCAGRで成長すると見込まれる"
+   },
+   {
+    "value": "5.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "中東・アフリカ（MEA）の量子センサー市場は、2025年に5.7%のシェアを占め、2026〜2035年の予測期間中に 10.8%のCAGRで成長すると見込まれる"
+   },
+   {
+    "value": "10.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "中東・アフリカ（MEA）の量子センサー市場は、2025年に5.7%のシェアを占め、2026〜2035年の予測期間中に 10.8%のCAGRで成長すると見込まれる"
+   },
+   {
+    "value": "47.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "サウジアラビアは、2025年に47.4%の市場シェアを占めた"
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "quote": "UAEは、2025年に市場で20.1%のシェアを占めた"
+   },
+   {
+    "value": "34.6",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "欧州は2025年に34.6%の市場シェアを占め、量子センサー市場を牽引しました"
+   },
+   {
+    "value": "68.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "軍事・防衛分野は2025年に市場シェア68.4%を占め、市場を席巻した"
+   },
+   {
+    "value": "24.7",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "2025年には同地域が世界市場の24.7%を占め、市場規模は1億8,000万米ドルに達しました"
+   },
+   {
+    "value": "29.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "北米は2025年に世界の量子センサー市場の29.8%を占め、市場規模は2億2,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "5.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "ラテンアメリカは2025年時点で世界の量子センサー市場の5.8%を占め、市場規模は4億米ドルに達すると予測されています"
+   },
+   {
+    "value": "5.1",
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "quote": "中東・アフリカ地域は、2025年には世界の量子センサー市場の5.1%を占め、市場規模は4億米ドルに達すると予測されています"
+   },
+   {
+    "value": "41.7",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "北米は、機密防衛調達と強力なSBIR/STTR資金パイプラインによって牽引され、2025年には収益の41.7%を占め、量子センサー市場のリーダーとなった"
+   },
+   {
+    "value": "42",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "競争環境は依然として適度に集中しており、上位 5 社のサプライヤーが世界の収益の約 38 ～ 42% を占めています"
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "原子時計は、防衛 PNT のアップグレードと通信同期義務により、2025 年に 38.2% の収益シェアを獲得しました"
+   },
+   {
+    "value": "42.6",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "冷原子干渉法は、2025 年の量子センサー市場で 42.6% のシェアを占めました"
+   },
+   {
+    "value": "45.3",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "防衛とセキュリティは、2025 年に量子センサー市場の 45.3% のシェアを獲得しました"
+   },
+   {
+    "value": "12.6",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "北米が収益シェア 41.7% で優位を占め、アジア太平洋地域が CAGR 12.6% で成長をリードしています"
+   },
+   {
+    "value": "24.8",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "収益シェア 24.8% (2025 年)"
+   },
+   {
+    "value": "5.8",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "収益シェア 5.8% (2025 年)"
+   },
+   {
+    "value": "78.4",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "地域シェア78.4%"
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "地域シェア13.1%"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "地域シェアの8.5%"
+   },
+   {
+    "value": "4.1",
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "quote": "地域シェア4.1%"
+   },
+   {
+    "value": "36.6",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "製品によると、磁気センサーセグメントは2025年に36.6%の最大のシェアを保持しています"
+   },
+   {
+    "value": "38",
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "quote": "業界垂直をベースとし、軍事と防衛の垂直セグメントは、量子センサー市場における最大シェアを2025年に38%保有しています"
+   },
+   {
+    "value": "35.5",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "quote": "ヨーロッパは、大規模な資金調達プログラムと戦略的取り組みの実施を通じて量子センサーの研究と商業化が加速したことにより、予測期間中に35.5％のシェアで量子センサー業界をリードすると予想されています"
+   },
+   {
+    "value": "0.6",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "quote": "2020年末までに、路上には205,770台のBEVがあり、これは英国の全自動車のわずか0.6％を占めていました"
+   },
+   {
+    "value": "37.5",
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "quote": "原子時計セグメントは、2037年までに37.5％のシェアを獲得すると予測されています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www8.cao.go.jp/cstp/ryoshigijutsu/jitsuyo_wg/6kai/sanko5.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000355969",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3928?srsltid=AYCX9vKfD2DWeqWZxATPpWQhGntqUkPS2vQyGhpqGci3gx7-SdScdvV6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/7203271",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/quantum-sensors-market-110331",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/quantum-sensing-poised-to-realize-immense-potential-in-many-sectors",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/quantum-sensors-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bccresearch.com/market-research/instrumentation-and-sensors/quantum-sensors-market-report.html?srsltid=AYCX9vLjk77bxq6e-svyoTIqvLyrbB_zrobZemUSnOHYyE83yIN5LwfZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantumconsortium.org/publication/2025-market-forecast-quantum-sensing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/reports/quantum-technologies/122",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/quantum-sensor-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/quantum-sensors-market-2025/1063",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmsc.com/report/quantum-sensor-market-se3032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketsinc.com/the-global-quantum-sensors-market-2025-2035/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "量子センサ 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273",
+    "https://www.sdki.jp/reports/quantum-sensor-market/590641264",
+    "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "https://jp.linkedin.com/pulse/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A5%E6%A5%AD%E7%95%8C%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%83%B3cagr-131%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A9%95%E4%BE%A1%E9%A1%8D-bpv6e",
+    "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325"
+   ]
+  },
+  {
+   "query": "量子センサ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325",
+    "https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market",
+    "https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4",
+    "https://mono.ipros.com/cg2/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5/",
+    "https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943",
+    "https://www8.cao.go.jp/cstp/ryoshigijutsu/jitsuyo_wg/6kai/sanko5.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market",
+    "https://www.fortunebusinessinsights.com/jp/量子センサー市場-110331"
+   ]
+  },
+  {
+   "query": "量子センサ 市場 前年比 2025",
+   "results": [
+    "https://straitsresearch.com/jp/report/quantum-sensors-market",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331",
+    "https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "https://www.dreamnews.jp/press/0000355969",
+    "https://www.yano.co.jp/press-release/show/press_id/3928?srsltid=AYCX9vKfD2DWeqWZxATPpWQhGntqUkPS2vQyGhpqGci3gx7-SdScdvV6",
+    "https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063",
+    "https://newscast.jp/smart/news/7203271",
+    "https://optronics-media.com/news/20251027/104113/",
+    "https://www.fortunebusinessinsights.com/jp/量子センサー市場-110331",
+    "https://www.marketreport.jp/insight/quantum-sensors-market-fmi/"
+   ]
+  },
+  {
+   "query": "quantum sensing market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-sensors-market-110331",
+    "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/quantum-sensing-poised-to-realize-immense-potential-in-many-sectors",
+    "https://www.mordorintelligence.com/industry-reports/quantum-sensors-market",
+    "https://www.bccresearch.com/market-research/instrumentation-and-sensors/quantum-sensors-market-report.html?srsltid=AYCX9vLjk77bxq6e-svyoTIqvLyrbB_zrobZemUSnOHYyE83yIN5LwfZ",
+    "https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/",
+    "https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "https://www.idtechex.com/en/research-report/quantum-sensors-market-2025/1063",
+    "https://www.datamintelligence.com/research-report/quantum-sensors-market",
+    "https://www.nextmsc.com/report/quantum-sensor-market-se3032"
+   ]
+  },
+  {
+   "query": "quantum sensing market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-sensors-market-110331",
+    "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/quantum-sensing-poised-to-realize-immense-potential-in-many-sectors",
+    "https://www.mordorintelligence.com/industry-reports/quantum-sensors-market",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "https://quantumconsortium.org/publication/2025-market-forecast-quantum-sensing/",
+    "https://www.linkedin.com/pulse/quantum-sensors-market-trends-opportunities-2rsbc/",
+    "https://www.idtechex.com/en/reports/quantum-technologies/122",
+    "https://www.precedenceresearch.com/quantum-sensor-market",
+    "https://www.marketdataforecast.com/market-reports/quantum-sensing-market"
+   ]
+  },
+  {
+   "query": "quantum sensing market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.psmarketresearch.com/market-analysis/quantum-sensors-market",
+    "https://www.gminsights.com/industry-analysis/quantum-sensors-market",
+    "https://www.idtechex.com/en/research-report/quantum-sensors-market/1118",
+    "https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/",
+    "https://www.fortunebusinessinsights.com/quantum-sensors-market-110331",
+    "https://www.mordorintelligence.com/industry-reports/quantum-sensors-market",
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-sensors-market-61825400.html",
+    "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/quantum-sensing-poised-to-realize-immense-potential-in-many-sectors",
+    "https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "quantum sensing market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-sensors-market-110331",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-sensor-market-report",
+    "https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/",
+    "https://www.maximizemarketresearch.com/market-report/global-quantum-sensors-market/65643/",
+    "https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/",
+    "https://www.precedenceresearch.com/quantum-sensor-market",
+    "https://www.mordorintelligence.com/industry-reports/quantum-sensors-market",
+    "https://www.idtechex.com/en/research-report/quantum-sensors-market-2025/1063",
+    "https://www.nextmsc.com/report/quantum-sensor-market-se3032?srsltid=AYCX9vIvi_SyI2TNQ_eW9HBJfhlJoYJNRtJY6JK6hpNHy6tALN4n92A7",
+    "https://www.futuremarketsinc.com/the-global-quantum-sensors-market-2025-2035/"
+   ]
+  }
+ ],
+ "missing": {}
+}

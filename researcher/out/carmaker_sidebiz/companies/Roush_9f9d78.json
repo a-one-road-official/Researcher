@@ -1,0 +1,2018 @@
+{
+ "name": "Roush",
+ "aliases": [
+  "Roush Performance",
+  "Roush Industries",
+  "ラウシュ"
+ ],
+ "context": "開発受託・チューニング（米）",
+ "researched_at": "2026-11-02T14:48:04.570677+00:00",
+ "official_url": "https://www.roush.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "ライセンス・ブランド": [
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush works alongside the world’s largest entertainment brands to develop extraordinary experiences for guests. You’ve likely experienced the joy, imagination, and endless creativity of our work in storied theme parks across the globe.",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s inspire wonder with a pioneering synthesis of artistry, craftsmanship, and technology.",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Craftsmanship,",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in equipping agricultural experts with the tools and knowledge they need to succeed. Our team is dedicated to empowering our partners every step of the way. We are growing a brighter future for all.",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Committed to collaboration.",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "We are built on collaboration with every key stakeholder. We prioritize our customers at every turn, understanding their needs and exceeding their expectations. We cultivate partnerships and invest in long-term industry success.",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership,",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Alternative energy equipment.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Pumps, valves, compressors, and more. We develop and engineer advanced energy equipment for our customers to stay productive.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush is built for cross-collaboration that unleashes success for an extraordinary range of global industries. Find your industry to get started.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "From heavy equipment to industrial machinery, Roush partners with manufacturers to solve complex production challenges. We provide contract manufacturing, systems integration, heavy machinery testing, and more — helping develop equipment that works harder and lasts longer.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/dream/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/design/",
+    "pass": 1
+   },
+   {
+    "quote": "are vast, including Class A surfacing, packaging/feasibility, 3D solid modeling, 2D and 3D tolerance. We use the latest softwares like NX, Creo, CATIA, and SOLIDWORKS to sculpt, render, and animate across multiple formats.",
+    "url": "https://www.roush.com/capabilities/design/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional craftsmanship. Untraditional innovation. Our prototyping services include model development, metal fabrication, advanced composites, engine development, and more. We support projects ranging from the modeling of unique components to complete vehicle assembly.",
+    "url": "https://www.roush.com/capabilities/design/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/test/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush Delivers First Driverless Kodiak Driver-Equipped Autonomous Truck",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Kodiak Selects Roush as Manufacturing Partner to Upfit Kodiak Driver-Equipped Trucks",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Blue Bird, Roush CleanTech partner to celebrate propane school bus partnership at Martinsville",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Anticipate Competitor Strategy",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Team Management and Collaboration",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Buyer Interview Transcripts",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Industries primarily manufactures parts and provides engineering services for the automotive industry. The company also provides engineering and manufacturing for the electronics, sports equipment, and motorsports industries.",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "This store requires javascript to be enabled for some features to work correctly.",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "* Shipping delays possible due to high demand. Contact us at (800) 59-ROUSH for order inquiries *",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2021-2026 Roush F-150 Black Tip Rear-Exit Cat-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2010-2014 Roush 6.2L Raptor and F-150 Side-Exit Black-Tip Cat-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2015-2020 Roush F-150 Black-Tip Cat-Back Exhaust (5.0L, 3.5L, 2.7L)",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2018-2026 Roush Mustang GT Black-Tip Cat-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2011-2014 Roush Mustang GT Black-Tip Axle-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2011-2014 Roush Mustang V6 Black-Tip Axle-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2015-2017 Roush Mustang GT Black-Tip Axle-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2015-2026 Roush Mustang V6 & Ecoboost Black-Tip Axle-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "2018-2026 Roush Mustang GT Black-Tip Axle-Back Exhaust",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "Shipping Policy",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "11 Supplier Stewardship of Project Management",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "14 Tooling, Gauges & Test Equipment – Maintenance & Control",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "24 Packaging, Labeling & Shipping Requirements",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "counterfeit parts. This policy creates an overview of the procedures used by Roush to eliminate the receipt and",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(OCM) / Original Equipment Manufacturer (OEM), or through the OCM / OEMs Authorized Distributor.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roush will maintain membership in the Government-Industry Data Exchange Program",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "or labor disruptions or equipment or logistics failures or interruptions. Suppliers shall immediately notify the Roush",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Upon receipt of the signed / approved Roush Confidentiality Agreement (NDA) the following documentation may be",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The qualification is valid for one supplier site unless multiple sites listed on the SCA are approved by Roush. If a",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "date. A new SCA shall be required for the new location. Multiple SCAs may be required for multiple locations.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush proudly delivers commercialized solutions in some of the world’s most demanding industries. Our partners can be found nearly anywhere — making a global impact in mobility, aerospace, agriculture, and more. Let’s explore how we can help in your industry.",
+    "url": "https://www.roush.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush has been involved in the eMobility vehicle space for decades. We offer deep expertise in sustainable transportation solutions. We work to simplify the evolving electric vehicle marketplace by integrating EV architecture, software, and sensing technology. And most importantly, we know how to commercialize the latest EV systems for the real world.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Everyday Transportation,",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "We are always driving toward a more mobile, more precise, and more accessible future for global transportation. Having more fun is the goal, too.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Engineering + Air Mobility | Roush",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The soul of Jack Roush can be felt in all of our aerospace engineering and aerospace manufacturing endeavors.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The fusion of aerospace and automotive high technology created by Roush has led to a pace of advancement that is simply unmatched.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Space exploration.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The consensus is universal — our experience in non-terrestrial environments is unrivaled. Advanced cryogenic propulsion systems. Aerospace welding. Aerospace machining for wiring harnesses that can handle extreme conditions. If there is an opportunity in your orbit, Roush is ready to work.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "A Model for Aerospace Ambitions",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "We make the fast faster. The lightweight even lighter. The agile even more agile. We are Roush, and through aerospace engineering, prototyping, testing, and beyond, we can take you to new heights.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "VTOL (Vertical Take-Off and Landing) refers to aircraft that can take off, hover, and land vertically, including helicopters and some military jets. It plays a key role in aerospace design, allowing aircraft to operate in confined areas without needing runways.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Disadvantages: However, eVTOL aircraft face challenges like limited battery life, which restricts flight range and payload capacity. The technology is still in development, requiring advancements in energy storage, infrastructure, and regulatory approval before widespread adoption in the aerospace industry.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense Engineering + Development | Roush",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Freedom is on the line? Roush holds the line. Our defense design and defense development applications require the highest standard of durability for the harshest global environments.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "From advanced military vehicles to drone innovation, Roush is a top provider of defense engineering and manufacturing solutions for the industry.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "And in the world of defense, technology is always evolving to meet the unexpected.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense vehicles.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to work. Built to serve. Our defense engineering services include body, chassis, and powertrain engineering. Complete niche vehicle design, concept design, and prototype development. Plus, we take care of styling and modeling through release and production.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Our vehicles take a beating — and keep going. Roush relies on the latest defense design technology to resist adversarial attacks, maintain essential weight and mobility requirements, and keep vehicle occupants safe.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "There’s strength in numbers. 120° in a scorching hot desert. -40° in a frigid cold tundra. And everything in between. As a result of intense vehicle testing capabilities, Roush defense applications can handle drastic climate changes.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The importance of our work in the defense industry can’t be overstated. Roush is proud to embody the strength and determination required to face complex challenges and ever-changing threats.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/agriculture/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy Services | Roush",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "The energy to keep exploring.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "The energy industry is multi-faceted and highly dynamic — that’s why Roush has experts across the field. It’s our job to refine traditional energy methods and fulfill the energy needs of tomorrow.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "We support the oil and gas industry with the tools, machining services, research, and testing required to bring refined fuel to consumers who need it.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Alternative energy equipment.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Oil and gas run the energy world. But what is best for our world? Roush is always focused on the future, assessing and developing sustainable energy solutions for everyday use. Learn more about our contributions to eMobility",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "State-of-the-art energy components.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Pumps, valves, compressors, and more. We develop and engineer advanced energy equipment for our customers to stay productive.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering technology is always on full display in our work for the energy industry. We continue to unlock the potential of our natural resources while keeping an eye on the future.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "We support the rail industry with advanced engineering, testing, and manufacturing solutions. Our teams bring deep experience in structural design and component validation to help locomotive customers modernize vehicle infrastructure, extend asset life, and meet evolving sustainability demands.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Marine",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "We utilize new materials, structures, models, and simulations.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "We can do more with driverless. Autonomous technology is a priority at Roush, and our team is ready for what lies ahead. We develop vehicles that operate without human input or intervention by synthesizing advanced sensors and computer systems with the latest automotive engineering methods.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush has been involved in the eMobility vehicle space for decades. We offer deep expertise in sustainable transportation solutions. We work to simplify the evolving electric vehicle marketplace by integrating EV architecture, software, and sensing technology. And most importantly, we know how to commercialize the latest EV systems for the real world.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial vehicle platforms are the backbone of freight and commerce. We design and develop powertrain systems and body structures that can withstand the long haul. We also support research and development activities through combustion analysis, lubricant testing, thorough emissions testing, and vehicle certification.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Check out that checkered flag. We also work extensively in professional race car development, fine-tuning precise components and engineering the next era of track-ready vehicles. Our founder Jack Roush is passionate about the world of racing — and he’s in it to win.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "What advancements in eMobility infrastructure can support our development and deployment of EV vehicles?",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "How do you handle the testing and validation phase to ensure the battery meets our quality and safety standards?",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "From propulsion systems to structures, rotorcraft to rockets, sea level to sub-orbital, GEO, drones, and beyond, Roush loves to work in rarified air mobility.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Your commercial aircraft objectives, realized. Whether it’s Class A Surface Development or 3D Model Development, we understand the nuances and requirements of modern commercial aircrafts. Our manufacturing support includes additive manufacturing, advanced composites components, and specialized NVH engineering products like constrained layer damping patches for noise control.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the manpower behind the unmanned. Our drone engineering capabilities involve advanced composites materials, computer-aided engineering, and innovative prototyping services.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The consensus is universal — our experience in non-terrestrial environments is unrivaled. Advanced cryogenic propulsion systems. Aerospace welding. Aerospace machining for wiring harnesses that can handle extreme conditions. If there is an opportunity in your orbit, Roush is ready to work.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Disadvantages: However, eVTOL aircraft face challenges like limited battery life, which restricts flight range and payload capacity. The technology is still in development, requiring advancements in energy storage, infrastructure, and regulatory approval before widespread adoption in the aerospace industry.",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to work. Built to serve. Our defense engineering services include body, chassis, and powertrain engineering. Complete niche vehicle design, concept design, and prototype development. Plus, we take care of styling and modeling through release and production.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced armor systems.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s drill down into the details. Our mechanical, NVH, electrical, and thermal systems engineering solutions are meticulously designed to extract vital resources with economical efficiency. Improving reliability and safety are always the top priorities.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "State-of-the-art energy components.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "We support the rail industry with advanced engineering, testing, and manufacturing solutions. Our teams bring deep experience in structural design and component validation to help locomotive customers modernize vehicle infrastructure, extend asset life, and meet evolving sustainability demands.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "We utilize the latest CFD (Computational Fluid Dynamics) modeling methods to assist marine and offshore customers by evaluating their designs in open water. We also provide dynamometer testing, general manufacturing for components, and graphic design services.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush is one of the most recognized experts in autonomy and robotics integration. This includes engineering ride systems that utilize autonomous robotics, developing AI-powered platforms for vehicles, and more. We help tech-first customers build proprietary systems that enhance human ingenuity through predictive maintenance, quality control, and increased efficiency.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "From heavy equipment to industrial machinery, Roush partners with manufacturers to solve complex production challenges. We provide contract manufacturing, systems integration, heavy machinery testing, and more — helping develop equipment that works harder and lasts longer.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional craftsmanship. Untraditional innovation. Our prototyping services include model development, metal fabrication, advanced composites, engine development, and more. We support projects ranging from the modeling of unique components to complete vehicle assembly.",
+    "url": "https://www.roush.com/capabilities/design/",
+    "pass": 1
+   },
+   {
+    "quote": "We are in the business of enabling. Transforming. Engineering. Our capabilities are tailored for any customer to unleash a tangible impact in their industry. From consulting, to chassis and body engineering, to EV control systems and powertrain development, it begins with a team of experienced engineers.",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s reach the next level. The Advanced Engineering team at Roush pushes the boundaries of technology to develop solutions that span from concept maturation and optimization to hardware integration and advanced composites development.",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Body, Chassis, and Powertrain Engineering",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "We support all aspects of vehicle production. Our Body Engineering and Vehicle Integration Group and Chassis Engineering and Vehicle Dynamics team are exclusively assigned to the design and development of intricate vehicle structures.",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the data behind the power. Our dynamometer testing capabilities lead the industry with powertrain testing and development resources for the automotive, industrial, marine, defense, motorsport, and aerospace industries. And we have 50 test cells to prove it.",
+    "url": "https://www.roush.com/capabilities/test/",
+    "pass": 1
+   },
+   {
+    "quote": ". Cutting-edge sensors collect vehicle information, including speed, acceleration, handling, and brake testing characteristics. Roush’s Six Degree of Freedom Spindle Coupled Road Simulator also stands out in the industry and rigorously tests full vehicles and vehicle components.",
+    "url": "https://www.roush.com/capabilities/test/",
+    "pass": 1
+   },
+   {
+    "quote": "FEA is prediction made purposeful. We create FEA models to validate and perform structural and torsional analysis of components and assemblies, which greatly reduces the cost and time required for product development activities.",
+    "url": "https://www.roush.com/capabilities/test/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s all about speed to market. Our contract manufacturing team unites every facet of Roush — design, engineering, machining, fabrication, testing, manufacturing, and supply chain expertise — for a scalable process that quickly brings a customer’s ideas to life.",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "We have the tools for precision and reliability. Our massive facility has 90,000 sq. ft. dedicated to machining and 20,000 sq. ft. dedicated to tooling. We machine everything from helicopter bodies to precision components, building with silicone, aluminum, mild and hardened steel, and high density foam. Our in-house CMM measures up to the proper guidelines for complex parts and components.",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "Welding and Fabricated Components",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush Celebrates GM 2025 Supplier of the Year Award in Transportation Services",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush and General Motors Announce Supply Agreement",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Military veterans are an untapped resource for suppliers and automakers",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "BorgWarner operates in the automotive industry, focusing on mobility solutions. The company designs and manufactures systems for light and commercial vehicles, as well …",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "AISIN World Corp. of America operates as a supplier of automotive components and systems. The company offers various automotive parts and systems, focusing on engineering and technology. It serves the automotive industry with its products and services. It was founded in 1992 and is based in Northville, Michigan.",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Transys operates as a global company in the automotive industry. It specialises in the manufacture of powertrain and seating components and provides essential components for vehicles. It caters to global automakers by supplying automotive powertrain systems and vehicle seating solutions. It was founded in 1994 and is based in Chungcheongnam-do, South Korea.",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "VP Entertainment Systems",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "VP Purchasing and Supplier Quality",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Michigan-based Roush Enterprises, a product development supplier for the theme park, mobility, aerospace and defense industries,...",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Pet Supplies Pl...",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Upgrade your Ford Mustang, F-150, Bronco, and more with Roush Performance parts. Discover highly-engineered exhaust systems, superchargers, suspension kits, and accessories designed for superior performance and style.",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Supplier Manual",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Uncontrolled when Printed",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Manual",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Purchasing & Supplier Quality",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Expectations Regarding Counterfeit Parts",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "05 Contingency Plan to Assure Continuity of Supply",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "06 QMS - Supplier Quality Management System",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Approved Suppliers for AS9100D Work",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "07 Supplier Selection Process",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Manual (this document)",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Capability Assessment Questionnaire (SCA)",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Review of Supplier Information",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Qualified Supplier Locations",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "08 Sub-Tier Supplier Management Including Right of Entry",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "09 Supplier Program Support Expectations",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "11 Supplier Stewardship of Project Management",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Submission Deliverables/Elements for Roush Entertainment Systems",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Race cars.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Jack Roush brings team home for NASCAR Cup Series",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "• Please note that 600 series QCRs are aimed primarily at the Aviation industry.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• The 800 series and above are for the Entertainment Industry G-Codes",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Jack Roush, a visionary automotive expert and entrepreneur who ignited his career as an engine development engineer at Ford Motor Company in 1964. His fervor for drag racing took center stage in 1970 when he teamed up with Wayne Gapp, leading them to clinch numerous championships in AHRA, NHRA, and IHRA Pro Stock drag racing over the next five years.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "Jack's legacy spans over 50 years, marked by an unwavering commitment to performance excellence in motorsports. His achievements include securing 31 championships and triumphing in over 400 races across drag racing, sports car, and stock car racing disciplines.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "RFK Racing, a testament to his dedication and skill, has clinched eight championships in NASCAR's premier divisions, firmly establishing itself as a powerhouse in the sport. This illustrious record underscores RFK Racing's dominance and influence in NASCAR and motorsports at large.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the racing circuit, Roush's engine facilities play a vital role in powering numerous teams in both the Monster Energy Cup and Xfinity Series. The high-performance engines crafted by Roush are synonymous with horsepower and reliability, contributing to the success of teams beyond his own.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "Trans-Am Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Enterprises maintains a collection of race cars and collectible cars. The exhibit is free and is located in Livonia, Michigan.",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Trans-Am series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Winston Cup Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "NASCAR Cup Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "). The Xfinity team was shut down at the end of the 2018 season. Roush has won eight championships as a car owner in NASCAR's top three series: two Cup titles (2003 with",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "), five Xfinity Series titles (2002 with",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Camping World Truck Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Series from 2001 to 2003.",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "eNASCAR Coca-Cola iRacing Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Championships",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Series Championships",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "NASCAR Truck Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "RFK Racing in the NASCAR Cup Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "RFK Racing in the NASCAR Xfinity Series",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Are you feeling moved? Passenger vehicles engineered by Roush traverse the planet every day, performing reliably due to our comprehensive automotive engineering, design, prototyping, and development capabilities.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Feeling energized? Let’s work together.",
+    "url": "https://www.roush.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush is one of the most recognized experts in autonomy and robotics integration. This includes engineering ride systems that utilize autonomous robotics, developing AI-powered platforms for vehicles, and more. We help tech-first customers build proprietary systems that enhance human ingenuity through predictive maintenance, quality control, and increased efficiency.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "API & Data Feeds",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "14 Tooling, Gauges & Test Equipment – Maintenance & Control",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "customers. This includes office supplies, general consumables, and facilities maintenance when it does not have a",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "requires publicly held companies to annually report on to the federal government. These reporting requirements are",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers must review the Supplier Manual and either agree to the contents and expectations or provide feedback to",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "accompany the quote when returned to Roush. The ASQE will review the MFA and provide feedback to the",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers are responsible for the maintenance of all tooling, testing and inspection equipment. Customer owned",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "completed for each quote (when applicable). This gives a supplier the opportunity to provide feedback regarding the",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment – Maintenance",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Added new section for “Tooling, Gauges & Test Equipment – Maintenance & Control.”",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "feedback",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Enterprises: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "... is a division of the global engineering company Roush Enterprises. ROUSH CleanTech develops propane autogas technology for medium-duty...",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "conform to the Roush customer requirements. Specific customer requirements also apply for certain Roush divisions.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ROUSH may request 100% containment inspections with witness marks to certify that the material was inspected and",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Below is a guideline for specific divisional requirements.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "It is the expectation of Roush that suppliers will achieve and maintain zero defects and have 100% on- time delivery",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Aurora targets 30K driverless trucks, $5B revenue in 2030",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales",
+    "url": "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "pass": 3
+   },
+   {
+    "quote": "RFK Racing, a testament to his dedication and skill, has clinched eight championships in NASCAR's premier divisions, firmly establishing itself as a powerhouse in the sport. This illustrious record underscores RFK Racing's dominance and influence in NASCAR and motorsports at large.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Check out that checkered flag. We also work extensively in professional race car development, fine-tuning precise components and engineering the next era of track-ready vehicles. Our founder Jack Roush is passionate about the world of racing — and he’s in it to win.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush is one of the most recognized experts in autonomy and robotics integration. This includes engineering ride systems that utilize autonomous robotics, developing AI-powered platforms for vehicles, and more. We help tech-first customers build proprietary systems that enhance human ingenuity through predictive maintenance, quality control, and increased efficiency.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "AISIN World Corp. of America operates as a supplier of automotive components and systems. The company offers various automotive parts and systems, focusing on engineering and technology. It serves the automotive industry with its products and services. It was founded in 1992 and is based in Northville, Michigan.",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Transys operates as a global company in the automotive industry. It specialises in the manufacture of powertrain and seating components and provides essential components for vehicles. It caters to global automakers by supplying automotive powertrain systems and vehicle seating solutions. It was founded in 1994 and is based in Chungcheongnam-do, South Korea.",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "rights, and provide equal opportunity for employees at all levels of the company, as well as provide and encourage",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• The 800 series and above are for the Entertainment Industry G-Codes",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• The evaluation method utilized.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Performance evaluations are conducted during monthly Metrics Review meetings organized by the VP of",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Evaluations are based on data from the previous month(s) and thru a 12 month rolling timeframe.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Evaluations contain metrics and descriptions to add clarity to the performance data as well as provide",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Suppliers showing unacceptable performance evaluations could be placed on “NEW BUSINESS HOLD”",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Monday.com, revised Scorecard section (22) and added Supplier Performance Evaluations.,",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Performance Evaluations and removed Scorecard references.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roush will create a production line this year in the Detroit suburb of Livonia. These upfitted trucks are anticipated to be for Kodiak’s first customer, Atlas Energy Solutions, according to a news release.",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "The firm can adapt to a wide array of vehicle configurations, including different cab types, axle setups and heavy-duty applications, to “meet the diverse demands of the trucking industry,” according to Kodiak CEO and founder Don Burnette.",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "Funding for Schools",
+    "url": "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "pass": 3
+   },
+   {
+    "quote": "(born April 19, 1942) is an American businessman who is the founder, CEO, and co-owner of",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "in the 1980s and early 90s. In 1988, Roush moved south and founded a",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.",
+    "url": "https://www.roush.com/industries/mobility/",
+    "pass": 1
+   },
+   {
+    "quote": "Roush Celebrates GM 2025 Supplier of the Year Award in Transportation Services",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "De Tomaso partnered with Roush for a Ford-based powerplant for the P72",
+    "url": "https://www.roush.com/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyundai Transys",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Transys operates as a global company in the automotive industry. It specialises in the manufacture of powertrain and seating components and provides essential components for vehicles. It caters to global automakers by supplying automotive powertrain systems and vehicle seating solutions. It was founded in 1994 and is based in Chungcheongnam-do, South Korea.",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "NASCAR legend Jack Roush 1 of 2 namesakes of new Eastern Michigan",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Performance Parts: Mustang, F-150, Bronco – Roush Performance Products, Inc.",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "Upgrade your Ford Mustang, F-150, Bronco, and more with Roush Performance parts. Discover highly-engineered exhaust systems, superchargers, suspension kits, and accessories designed for superior performance and style.",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "On-Site Audit",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "20 Process or Product Audits",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "need to provide their QMS documentation as required in the SCA and are subject to an on- site audit to verify",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "audit will also include a review of documents and operations.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The supplier shall make reasonable efforts to facilitate audits at sub-contractor or sub-tier supplier locations when",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manage their supply base. When deemed necessary, Roush will audit processes deemed critical of sub-tier suppliers",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "adherence to good manufacturing processes, Process/Product Audits, and in-process controls, (e.g., mistake-proofing",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roush may perform audits during the process, at each appropriate stage, or they can be random audits conducted by",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a person independent of the production process. Records of all such audits should be maintained and made available",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "QDN Audit to review your process and potential escape points to ensure failure modes do not get shipped to ROUSH.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Approval Process,” “On-Site Audit” and “Qualified Supplier Locations” sub sections .",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Audits",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "This audio is auto-generated. Please let us know if you have",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach our audience",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia",
+    "url": "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Jack Roush, a visionary automotive expert and entrepreneur who ignited his career as an engine development engineer at Ford Motor Company in 1964. His fervor for drag racing took center stage in 1970 when he teamed up with Wayne Gapp, leading them to clinch numerous championships in AHRA, NHRA, and IHRA Pro Stock drag racing over the next five years.",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "Opposition of Toyota",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "drove the Roush-Zakspeed Ford Mustang Turbo during the 1981 and 1982",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Roush worked at Ford after graduating in 1966, and left in 1970 to pursue his own company. He worked for a year at",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "and throughout his career has made cracks against Toyota being in NASCAR. In 2007, Roush entered a verbal feud with Toyota team leader Lee White during the Toyota controversy following the",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Mustang",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "ROUSH CleanTech designs, engineers, manufactures and installs propane autogas fuel systems for Ford vehicles and Blue Bird school buses.",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "fuel systems, including propane autogas and electric propulsion technology for medium-duty Ford commercial vehicles and Type A and Type C Blue Bird Corporation school buses",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "\"Jack Roush declares war on Toyota in NASCAR\"",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "\"Newton: Ford owner Roush, Toyota exec White in war of words\"",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ford Continue Collaboration with Roush Fenway Racing\"",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ford Jack Roush Update\"",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Racing",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "Built to work. Built to serve. Our defense engineering services include body, chassis, and powertrain engineering. Complete niche vehicle design, concept design, and prototype development. Plus, we take care of styling and modeling through release and production.",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 1
+   },
+   {
+    "quote": "We utilize the latest CFD (Computational Fluid Dynamics) modeling methods to assist marine and offshore customers by evaluating their designs in open water. We also provide dynamometer testing, general manufacturing for components, and graphic design services.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "From heavy equipment to industrial machinery, Roush partners with manufacturers to solve complex production challenges. We provide contract manufacturing, systems integration, heavy machinery testing, and more — helping develop equipment that works harder and lasts longer.",
+    "url": "https://www.roush.com/industries/beyond/",
+    "pass": 1
+   },
+   {
+    "quote": "What does it take to go from idea to implementation? Engineering services that move from artistry to real, working, fully operational, and testable.",
+    "url": "https://www.roush.com/capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategize. Capitalize. Revolutionize. Our consulting team is ready to manage your project or program with a spirit of co-creation and industry-leading efficiency.",
+    "url": "https://www.roush.com/capabilities/dream/",
+    "pass": 1
+   },
+   {
+    "quote": "*Aerospace design services not applicable for AS9100 certified work",
+    "url": "https://www.roush.com/capabilities/design/",
+    "pass": 1
+   },
+   {
+    "quote": "We are in the business of enabling. Transforming. Engineering. Our capabilities are tailored for any customer to unleash a tangible impact in their industry. From consulting, to chassis and body engineering, to EV control systems and powertrain development, it begins with a team of experienced engineers.",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Services",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Need a full suite of engineering services? You’ll find it at Roush. Engineering analysis and consulting, industrial design, and testing and validation are only the start. We also have specialists devoted to specific project requirements, like NVH testing for noise and vibration engineering and functional safety.",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Contract Manufacturing",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s all about speed to market. Our contract manufacturing team unites every facet of Roush — design, engineering, machining, fabrication, testing, manufacturing, and supply chain expertise — for a scalable process that quickly brings a customer’s ideas to life.",
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "pass": 1
+   },
+   {
+    "quote": "LHPU focuses on functional safety and software development for the automotive industry. The company provides services including consulting, implementation of ISO 26262,…",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Industries primarily manufactures parts and provides engineering services for the automotive industry. The company also provides engineering and manufacturing for the electronics, sports equipment, and motorsports industries.",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement assurance processes for avoiding counterfeit products begin prior to the tendering of a contract for a",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "based on customer specific flow down requirements and contractual agreements with the",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The supplier shall make reasonable efforts to facilitate audits at sub-contractor or sub-tier supplier locations when",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "determine and verify the quality of contracted work, records, and material.",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roush will not commit to guaranteed volume contracts unless approved in writing. During the quoting process, any",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "quality and/or conformance to the contract requirements. The Purchasing team will be notified immediately of the",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“Kodiak’s technology and engineering rigor set a high bar, and we believe we are uniquely positioned to meet that bar at scale,” Roush VP Contract Manufacturing Brad Rzetelny said in the announcement.",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Our Industries | Roush — Our Industries | Roush Roush Enterprises https://www.roush.com > industries",
+    "url": "https://www.roush.com/industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Roush Industries Alternatives, Competitors - CB Insights — Top Roush Industries Alternatives, Competitors - CB Insights CB Insights https://www.cbinsights.com > company",
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Top Roush Competitors & Lookalikes - apistemic markets — Top Roush Competitors & Lookalikes - apistemic markets apistemic markets https://markets.apistemic.com > roush...",
+    "url": "https://markets.apistemic.com/companies/roush-industries-3wwn",
+    "pass": 3
+   },
+   {
+    "quote": "Our Partners - Roush Yates Engines — Our Partners - Roush Yates Engines Roush Yates Engines https://roushyates.com > our-partners",
+    "url": "https://roushyates.com/our-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineer | Capabilities - Roush — Engineer | Capabilities - Roush Roush Enterprises https://www.roush.com > engineer",
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "pass": 3
+   },
+   {
+    "quote": "Roush - Overview, News & Similar companies | ZoomInfo.com — Roush - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > roush-i...",
+    "url": "https://www.zoominfo.com/c/roush-industries/101335711",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Enterprises: Revenue , Competitors, Alternatives - Growjo — Roush Enterprises: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Roush_Enterprises",
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Information - RocketReach — Roush Information - RocketReach RocketReach https://rocketreach.co > roush-profile...",
+    "url": "https://rocketreach.co/roush-profile_b5c49e5df42e0dcb",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Industries Number of Employees 2026 - Revelio Labs — Roush Industries Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/roush-industries/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Roush's Competitors, Revenue , Number of Employees ... - Owler — Roush's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > roush",
+    "url": "https://www.owler.com/company/roush",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Performance Parts : Mustang, F-150, Bronco — Ford Performance Parts : Mustang, F-150, Bronco Roush Performance https://www.roushperformance.com > ...",
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Supplier Manual - MediaValet — Roush Supplier Manual - MediaValet MediaValet PDF https://cdn.mediavalet.com > usva > roush > Original",
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing is changing. Roush is leading. — Manufacturing is changing. Roush is leading. Roush Enterprises https://www.roush.com > blogs > man...",
+    "url": "https://www.roush.com/blogs/manufacturing-is-changing-roush-is-leading/",
+    "pass": 3
+   },
+   {
+    "quote": "Recommended Service Parts - ROUSH CleanTech — Recommended Service Parts - ROUSH CleanTech ROUSH CleanTech https://roushcleantech.com > recomm...",
+    "url": "https://roushcleantech.com/recommended-service-parts/",
+    "pass": 3
+   },
+   {
+    "quote": "Roush's Advanced Testing Lab Adds New Equipment - YouTube — Roush's Advanced Testing Lab Adds New Equipment - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=jkgkUC3wuKw",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Engineering + Development - Roush — Defense Engineering + Development - Roush Roush Enterprises https://www.roush.com > defense",
+    "url": "https://www.roush.com/industries/defense/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Engineering + Air Mobility - Roush — Aerospace Engineering + Air Mobility - Roush Roush Enterprises https://www.roush.com > aerospace",
+    "url": "https://www.roush.com/industries/aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Roush (@RoushOfficial) / X — Roush (@RoushOfficial) / X X https://x.com > RoushOfficial",
+    "url": "https://x.com/RoushOfficial",
+    "pass": 3
+   },
+   {
+    "quote": "Roush (@roushofficial) - Facebook — Roush (@roushofficial) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/roushofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Joins the Engine Technology Forum — Roush Joins the Engine Technology Forum Engine Technology Forum https://enginetechforum.org > posts",
+    "url": "https://enginetechforum.org/press-releases/posts/roush-joins-the-engine-technology-forum",
+    "pass": 3
+   },
+   {
+    "quote": "Fit For the Future: The Kodiak AI Partnership - Roush — Fit For the Future: The Kodiak AI Partnership - Roush Roush Enterprises https://www.roush.com > case-studies",
+    "url": "https://www.roush.com/case-studies/fit-for-the-future-the-kodiak-ai-partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Kodiak partners with Roush to upgrade trucks ... - Trucking Dive — Kodiak partners with Roush to upgrade trucks ... - Trucking Dive Trucking Dive https://www.truckingdive.com > news",
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "pass": 3
+   },
+   {
+    "quote": "Roush Yates Engines Forms Technical Alliance with Nextivity — Roush Yates Engines Forms Technical Alliance with Nextivity Nextivity https://nextivityinc.com > press-release",
+    "url": "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Kodiak Selects Roush as Manufacturing Partner to Upfit ... — Kodiak Selects Roush as Manufacturing Partner to Upfit ... PR Newswire https://www.prnewswire.com > kodia...",
+    "url": "https://www.prnewswire.com/news-releases/kodiak-selects-roush-as-manufacturing-partner-to-upfit-kodiak-driver-equipped-trucks-302484891.html",
+    "pass": 3
+   },
+   {
+    "quote": "the jack roush story - Roush Performance — the jack roush story - Roush Performance Roush Performance https://www.roushperformance.com > ...",
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "pass": 3
+   },
+   {
+    "quote": "Jack Roush - Wikipedia — Jack Roush - Wikipedia Wikipedia https://en.wikipedia.org > Jack_Roush",
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "pass": 3
+   },
+   {
+    "quote": "Jack Roush — Jack Roush Roush Enterprises https://www.roush.com > jack-roush",
+    "url": "https://www.roush.com/join-us/jack-roush/",
+    "pass": 3
+   },
+   {
+    "quote": "Bios - ROUSH CleanTech — Bios - ROUSH CleanTech ROUSH CleanTech https://roushcleantech.com > bios",
+    "url": "https://roushcleantech.com/bios/",
+    "pass": 3
+   },
+   {
+    "quote": "Faces of Entrepreneurship: Vance Roush , Overflow — Faces of Entrepreneurship: Vance Roush , Overflow Nasdaq Entrepreneurial Center https://nasdaqcenter.org > 2022/05/31",
+    "url": "https://nasdaqcenter.org/2022/05/31/foe-vance-roush-overflow/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.roush.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/mobility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/entertainment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/agriculture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/industries/beyond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/dream/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/engineer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/capabilities/deliver/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roush.com/newsroom/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markets.apistemic.com/companies/roush-industries-3wwn",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/roush-industries/101335711",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Roush_Enterprises",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/roush-profile_b5c49e5df42e0dcb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://x.com/RoushOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Jack_Roush",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roush engineering services clients other industries",
+   "results": [
+    "https://www.roush.com/industries/",
+    "https://www.cbinsights.com/company/roush-industries/alternatives-competitors",
+    "https://markets.apistemic.com/companies/roush-industries-3wwn",
+    "https://roushyates.com/our-partners/",
+    "https://www.roush.com/capabilities/engineer/",
+    "https://enginetechforum.org/press-releases/posts/roush-joins-the-engine-technology-forum",
+    "https://roushcleantech.com/roush/",
+    "https://www.facebook.com/roushofficial/posts/when-you-work-with-roush-power-systems-you-get-the-full-capabilities-of-roush-ex/1741038698031458/",
+    "https://www.crainsdetroit.com/awards/roush-enterprises-inc/",
+    "https://www.roush.com/"
+   ]
+  },
+  {
+   "query": "Roush revenue turnover employees",
+   "results": [
+    "https://www.zoominfo.com/c/roush-industries/101335711",
+    "https://growjo.com/company/Roush_Enterprises",
+    "https://rocketreach.co/roush-profile_b5c49e5df42e0dcb",
+    "https://www.reveliolabs.com/companies/roush-industries/employees",
+    "https://www.owler.com/company/roush",
+    "https://www.crainsdetroit.com/recognitions/fast-50-fastest-growing-companies/2018/49-roush-enterprises/",
+    "https://tracxn.com/d/companies/roush/__ksM8ERlVf50n5I28vg2Oly9iiIOz5l503KSoT424108",
+    "https://incfact.com/company/roushindustries-livonia-mi/",
+    "https://www.cience.com/company/roush/-3013268460005006068",
+    "https://compworth.com/company/roush-enterprises"
+   ]
+  },
+  {
+   "query": "Roush supplies components to OEM",
+   "results": [
+    "https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W",
+    "https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf",
+    "https://www.roush.com/blogs/manufacturing-is-changing-roush-is-leading/",
+    "https://roushcleantech.com/recommended-service-parts/",
+    "https://www.youtube.com/watch?v=jkgkUC3wuKw",
+    "https://www.steeda.com/roush-performance?srsltid=AYCX9vIw69qXqsoSIIEJW4SUVsym2vxDNmkT51NdZj0354FUsc4csfZ3",
+    "https://www.youtube.com/watch?v=e-30DB_1JxA",
+    "https://en.wikipedia.org/wiki/Roush_Performance",
+    "https://www.summitracing.com/search/brand/roush-performance?srsltid=AYCX9vISSLagXkz7luODhpFKgPh2Tpg4w_qyM7h6Pg8icnstI-DxNoK-",
+    "https://support.roushperformance.com/s/article/Where-Can-I-Purchase-ROUSH-Performance-Parts"
+   ]
+  },
+  {
+   "query": "Roush aerospace defence non-automotive",
+   "results": [
+    "https://www.roush.com/industries/defense/",
+    "https://www.roush.com/industries/aerospace/",
+    "https://x.com/RoushOfficial",
+    "https://www.facebook.com/roushofficial/",
+    "https://enginetechforum.org/press-releases/posts/roush-joins-the-engine-technology-forum",
+    "https://www.instagram.com/officialroush/",
+    "https://www.youtube.com/watch?v=e-30DB_1JxA",
+    "https://www.roush.com/",
+    "https://americanhonorfoundation.com/jack-roush"
+   ]
+  },
+  {
+   "query": "Roush licensing technology partnership",
+   "results": [
+    "https://www.roush.com/case-studies/fit-for-the-future-the-kodiak-ai-partnership/",
+    "https://www.truckingdive.com/news/kodiak-roush-upgrade-trucks-autonomous-tech/751213/",
+    "https://nextivityinc.com/press-release/roush-yates-engines-forms-technical-alliance-with-nextivity/",
+    "https://roushyates.com/our-partners/",
+    "https://www.prnewswire.com/news-releases/kodiak-selects-roush-as-manufacturing-partner-to-upfit-kodiak-driver-equipped-trucks-302484891.html",
+    "https://www.roush.com/newsroom/roush-and-general-motors-announce-supply-agreement/",
+    "https://www.pensketruckleasing.com/resources/blog/roush-cleantech-deploys-class-6-battery-electric-vehicles-with-penske/",
+    "https://www.facebook.com/AuroraTechDriver/videos/following-the-launch-of-our-second-generation-driverless-fleet-production-is-now/1314352750913202/",
+    "https://enginetechforum.org/press-releases/posts/roush-joins-the-engine-technology-forum",
+    "https://www.roush.com/"
+   ]
+  },
+  {
+   "query": "Roush founder early days first customer funding",
+   "results": [
+    "https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN",
+    "https://en.wikipedia.org/wiki/Jack_Roush",
+    "https://www.roush.com/join-us/jack-roush/",
+    "https://roushcleantech.com/bios/",
+    "https://nasdaqcenter.org/2022/05/31/foe-vance-roush-overflow/",
+    "https://www.bartonford.com/roush-vehicles.html",
+    "https://michiganbusinessnetwork.com/founder-of-roush-performance-an-entrepreneur-who-loves-racing/",
+    "https://www.garfoundation.org/history",
+    "https://www.entrepreneur.com/side-hustle/friends-started-a-roadkill-side-hustle-now-their-business-makes-nearly-600k-a-year",
+    "https://en.wikipedia.org/wiki/Roush_Performance"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）"
+ }
+}

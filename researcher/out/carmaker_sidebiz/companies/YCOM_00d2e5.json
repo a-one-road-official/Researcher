@@ -1,0 +1,2633 @@
+{
+ "name": "YCOM",
+ "aliases": [
+  "Y.COM",
+  "ワイコム"
+ ],
+ "context": "複合材構造・レース車体（伊）",
+ "researched_at": "2026-11-02T14:45:20.992811+00:00",
+ "official_url": "https://www.ycom.it",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "Engineering insights Every component plays a role",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon fiber lay-up in action! #ycom #carbonfiber",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "What happens before a composite component reaches",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the scenes of the composite cutting process",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the scenes of the composite curing process.",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Structures Simulation",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "eSC announces YCOM as official eSkootr supplier",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "World-first sustainable alternative to carbon-fibre revealed for motorsport crash structures",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "In the fast-paced world of motorsport, the demand for high-performance composites is ever-growing. At YCOM, we specialize in delivering precision-engineered…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2008 in the heart of Italy’s Motor Valley, YCOM is an advanced technology company that accelerates vehicle development through cutting-edge engineering and deep expertise in lightweight composite structures.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "From Formula 1 to Le Mans, YCOM engineers, develops, and produces complete solutions and components for the motorsport and mobility industries, helping top OEMs and innovators worldwide move from vision to validation with unmatched speed and precision.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "specializing in two main areas: racing car components and technical equipment.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "wheels of Tatuus single-seaters, and a wide range of electrical and electronic components, the company develops the beating heart of competition vehicles. Its expertise, born on the track, continues today with performance engineering support directly to teams competing at the highest levels.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Composites Design and Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM Official eSkootr Championship™ Supplier",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Bodywork and Monocoque Design Consultancy",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D natural fibre Front Impact Absorbing Structure (FIAS) prototype",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Design and Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Structural components Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Bodywork Component Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque Design and Calculation",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Case Design and Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque and all structural components",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Bodywork and Monocoque Design and Homologation",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque Design and Homologation",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque Design, Calculation and Homologation",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque Design and Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Monocoque and Bodywork Design and Manufacturing",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM is one of the world leaders in motorsports engineering and lightweight composite design.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "From prototype to final product, from bodywork to complete vehicle, from carbon to natural fibre, YCOM produces components ready to win on Sunday.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Layout, Aerodynamics, Vehicle dynamics, Structural Calculations, Simulations, Components Engineering, and Bill of Materials generation.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": ": from Composite to Metallic Components, including Quality Management.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand’s return to GT competition. Combining Maserati’s racing heritage with YCOM’s expertise in advanced engineering and composite technologies, the collaboration aims to deliver a high-performance vehicle designed for the Fanatec GT2 European Series",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has selected YCOM to bring the Trident back to GT competitions. The Modena manufacturer and the leading advanced technology company – a specialist in the development of motorsport projects and a world-renowned expert in lightweight composite structures design and manufacturing – have entered into a technical partnership agreement for the new Maserati GT2.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "homologating, and manufacturing the monocoque and key structural components – and we couldn’t be prouder.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Over the course of 15 years, we gathered quite of experience in the design and development of cutting-edge carbon fiber monocoques, bodywork, and complete race cars. With more than 25 homologated monocoques delivered and ongoing projects in the new LMH and LMDh classes, we renovate our commitment to excellence year after year. An exemplary case study is the Lotus Evora GTE car",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Explaining the sustainable answer to using composite parts",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Ycom, strutture composite leggere per automotive",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "In fact, the global electric scooter market was already €19.9 billion in 2021, with an expected growth rate of 7.8% (CAGR) through to 2030. This is poised to accelerate further as governments around the world incorporate electric micromobility into infrastructure and transport networks.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“Closer inspection would highlight the slick aerodynamic bodywork made from advanced low-emission natural fibre composites from Bcomp, exotic materials, aggressive motorsport-derived design, a suite of sophisticated control features and, of course, powerful motors. The S1-X is a racing machine through and through.”",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "In the fast-paced world of motorsport, the demand for high-performance composites is ever-growing.",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "At YCOM, we specialize in delivering precision-engineered composite components, starting with the meticulous cutting of materials and finishing with advanced CNC machining. This streamlined process is crucial to supporting full vehicle programs,...",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand's return to GT competition. Combining Maserati's racing heritage with YCOM's expertise in advanced engineering and composite technologies, the collaboration aims...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Structures Simulation",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "How do we manage development of light and safe structures?",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "A glimpse behind composite monocoque simulation along with Paolo Ponzo, Structural Engineer.",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "eSC announces YCOM as official eSkootr supplier",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Paolo Perello, YCOM R&D Composite EngineerR&D in the motorsport and mobility industry is crucial to be competitive, to welcome or anticipate new opportunities, and to respond to the need for continuous improvement.Paolo Perello, from May 2014 Project Manager and R&D Composite Engineer at...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "World-first sustainable alternative to carbon-fibre revealed for motorsport crash structures",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Together with Bcomp Ltd., we developed and manufactured the first natural fibre crash box for motorsport, a Front Impact Absorbing Structure (FIAS).",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": ", considering factors like terrain, existing infrastructure, and future scalability.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team stays up-to-date on the latest codes and regulations governing telecommunications infrastructure. We ensure your project design adheres to all applicable safety and environmental standards.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Accelerating into the future – YCOM is applying its Motorsport DNA to fast-track new technology development and applications for the mobility industry, pushing the boundaries for a more sustainable tomorrow.",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport DNA and advanced technology - from concept to race ⚡",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "A @korus_motorsport company. Behind some of the most extreme vehicles in the world 🚀",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Sports by YCOMers! Determination doesn’t stop whe",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Sometimes motorsport is about more than the race i",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Sports by YCOMers! There are many parallels betw",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Sports by YCOMers! The values we develop through",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "A more Sustainable Motorsport: a shared Responsibility",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability in Motorsport and Beyond: the FIA 3 Stars Accreditation",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "A trusted Motorsport Engineering Partner for OEM Success",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "How motorsport success helps us fast-track innovation in mobility",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM brings motorsport approach to Manta Aircraft’s disruptive HeV/STOL aircraft",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Girls in Motorsports! Interview with Margherita Carrer – YCOM Junior Structural Engineer",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM motorsport approach to fast-track the development of a cutting-edge new vehicle for air mobility",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "World-first sustainable alternative to carbon-fibre revealed for motorsport crash structures",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport and sustainability are often seen as opposing forces: speed versus responsibility, performance versus environmental impact. Under a closer inspection,…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Korus Group brings together eight leading Italian companies in an integrated motorsport ecosystem: the first capable of bridging the worlds…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "In the fast-paced world of motorsport, the demand for high-performance composites is ever-growing. At YCOM, we specialize in delivering precision-engineered…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "An expert in delivering full vehicle programs for motorsport, high-performance road cars, and niche mobility applications, YCOM is trusted by…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "[PRESS RELEASE] July 2nd, 2024 – Parma, Italy YCOM S.R.L., a leader in motorsport and advanced mobility projects, has welcomed…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving Positive Change: YCOM Achieves FIA 3-Star Certification. Sustainability in motorsport is an evolving journey: YCOM has reached a new…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "From Formula 1 to Le Mans, YCOM engineers, develops, and produces complete solutions and components for the motorsport and mobility industries, helping top OEMs and innovators worldwide move from vision to validation with unmatched speed and precision.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Rooted in motorsport and active across automotive, marine, and aerospace, the company manages the entire development process — from design and engineering to manufacturing and testing — with a relentless focus on efficiency, reliability, and performance.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "An unlimited source of energy from YCOM people that drives the company forward.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Korus is a motorsport ecosystem born from Italy’s finest racing and engineering excellence.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "A group where passion meets precision, uniting elite specialists and niche innovators to shape a complete, 360° motorsport universe.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Driven by racing spirit and inspired by our Italian heritage, we turn technology, design, and know-how into next-generation solutions that push the limits of global motorsport excellence.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Since January 2023, Tatuus headquarters have been located in Lainate, on the border with Arese — a historic location in Italian motorsport. The over 4,000-square-meter facility was purpose-built to meet the company’s needs and stands on the former grounds of Alfa Romeo’s historic site.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2001, Next Solution specializes in electronics and electromechanics for motorsport. From the headlights that illuminate Le Mans’ straights to the steering",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tradition and innovation combine in the development of high-performance engines for karting categories worldwide. IAME also plays a major role in sporting promotion through its national and international racing activities, further strengthening its commitment to nurturing the next generation of drivers.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM is one of the world leaders in motorsports engineering and lightweight composite design.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "Behind some of the most important successes in Motorsport, including victory in the 24H of Le Mans, 24H of Daytona and in Formula One, YCOM’s engineers are countlessly supporting our customers with their expertise.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM offers testing services from static to dynamic tests required by the motorsport safety rules, including Roll hoop homologation tests, Impact tests, Side crash tests, Rear crash tests and Steering column tests.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "We work closely with motorsport Federations, Universities and Research Centers, to improve safety by providing the most accurate test procedures and results.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM: Trusted Motorsport Engineering Partner for OEM Success",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "A trusted Motorsport Engineering Partner for OEM Success",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Pushing boundaries, breaking records, and enabling OEMs from around the world to achieve their ambitions. Welcome to YCOM, your premier Motorsport Engineering Partner.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "The results speak for themselves: accelerated engineering that delivers program outcomes known throughout the industry. Such collaborations have proven invaluable to OEMs, allowing them to leverage their motorsport involvement, pioneer new technologies, highlight a new brand direction, and maintain a competitive edge in a rapidly evolving automotive market.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "If you want to deep dive in our experience and expertise and understand how we can support your motorsport project, book a private meeting with us.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has selected YCOM to bring the Trident back to GT competitions. The Modena manufacturer and the leading advanced technology company – a specialist in the development of motorsport projects and a world-renowned expert in lightweight composite structures design and manufacturing – have entered into a technical partnership agreement for the new Maserati GT2.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2008 to develop motorsport projects, YCOM now applies its motorsport approach to new frontiers, thus perfectly reflecting and understanding Maserati’s racing vision for the future.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Type-approved for the GT2 class, the Maserati GT2 is the natural evolution of the Maserati MC20 super sports car, designed and developed to consolidate and define the Trident’s racing future in the world of motorsport.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to the intriguing world behind one of the most prestigious motorsport events in history: Le Mans. With the centenary of Le Mans just around the corner, we can’t wait to support our customers who will be racing during this historic race, and, as a company deeply involved in this thrilling competition, we hope we can say we had our part in shaping its legacy.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborating with a diverse range of private and factory Le Mans teams, including Epsilon, Lotus, and Audi, YCOM’s expertise has left – behind the scenes – some relevant marks on the sport. While much of our involvement remains strictly confidential, notably we played a role as official technical partners in the Audi LMP1 program from 2008 to 2016, responsible for",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond our achievements in the realm of motorsport, YCOM has ventured into groundbreaking electric mobility projects. Our involvement in Volkswagen’s record-holding I.D. R Pike’s Peak",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe motorsport can be a key player in promoting sustainability while simultaneously driving the adoption of green technologies and values for a more eco-conscious world.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Le Mans stands as the pinnacle of motorsport. It’s highly demanding and competitive. For 24 hours, every second is important. Each decision leading up to the event holds great weight, contributing to the excitement that defines the race. Since the beginning of our journey, we have focused on refining our designs and manufacturing race cars for successful Le Mans teams.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "30/04/2022 / autosport.com",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Nicola Scimeca - using motorsport to accellerate the future of mobility",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Crafting Composite Excellence for Motorsport Innovation",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": ", eSC is intended to pioneer advanced e-mobility technologies and encourage the adoption of low-emission personal transportation. With passenger cars making up 40% of all transport emissions, smaller and cleaner mobility platforms will play a critical role in combating climate change.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "In fact, the global electric scooter market was already €19.9 billion in 2021, with an expected growth rate of 7.8% (CAGR) through to 2030. This is poised to accelerate further as governments around the world incorporate electric micromobility into infrastructure and transport networks.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“Combining advanced engineering, state-of-the-art electric propulsion technology and competitive riders from across the globe, eSC is a sport like no other,” explained",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“Closer inspection would highlight the slick aerodynamic bodywork made from advanced low-emission natural fibre composites from Bcomp, exotic materials, aggressive motorsport-derived design, a suite of sophisticated control features and, of course, powerful motors. The S1-X is a racing machine through and through.”",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "The next round will be held in Switzerland later this month before the competition travels to Italy, France, Spain and, finally, the USA in October. Subsequent seasons will incorporate more locations and tracks, making eSC a truly global sport.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s already been a month since Formula SAE, but t",
+    "url": "https://www.ycom.it/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking race series turns to YCOM for e-mobility solution",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "From September 2 to 6 2026, YCOM took part in the 21st edition of Formula SAE Italy, held at the…",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "From Formula 1 to Le Mans, YCOM engineers, develops, and produces complete solutions and components for the motorsport and mobility industries, helping top OEMs and innovators worldwide move from vision to validation with unmatched speed and precision.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "cars for Formula 4, Formula Regional, and similar competitive categories that shape the careers of most drivers worldwide — including 19 of the 20 current Formula 1 drivers.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM Official eSkootr Championship™ Supplier",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW GTE & GT3 | 2015",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "ARTLINE FORMULA 3 | 2014",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "ORECA R-ONE LMP1 | 2014",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "SMP LMP2 | 2014",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "LIGIER LMP2 | 2014",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "EPSILON EUSKADI LMP1",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Behind some of the most important successes in Motorsport, including victory in the 24H of Le Mans, 24H of Daytona and in Formula One, YCOM’s engineers are countlessly supporting our customers with their expertise.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "At YCOM we have been racing the best cars all over the world: Le Mans, IRL, DTM, Formula 3, World Series, GT, GP2… And we keep doing it because we believe you need to gain this experience to improve vehicles you designed.",
+    "url": "https://www.ycom.it/expertise/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand’s return to GT competition. Combining Maserati’s racing heritage with YCOM’s expertise in advanced engineering and composite technologies, the collaboration aims to deliver a high-performance vehicle designed for the Fanatec GT2 European Series",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "After its debut in Season 9 of the ABB FIA Formula E Championship, Maserati is about to come back to racing. The return of the glorious Trident to the GT Championship will provide a high-performance car to the teams willing to compete in the Fanatec GT2 European Series.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "It embraced the important and glorious legacy of the Maserati MC12 in the GT championships between 2004 and 2010 and is dedicated to private teams: Maserati focused on developing a product that not only stands up to racing challenges but is also ideal for gentleman drivers when it comes to handling, driveability and performance.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The Maserati GT2 took part in the shakedown at the Autodromo Varano de’ Melegari in early March and is currently undergoing a series of tests ahead of the car’s official unveiling at the Spa 24 Hours, before making its debut in the Fanatec GT2 European Series later this year.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "An integral part of more than 20 Le Mans programmes from GT to LMP1",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM involved also in the challenges of LMH and LMDh development",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborating with a diverse range of private and factory Le Mans teams, including Epsilon, Lotus, and Audi, YCOM’s expertise has left – behind the scenes – some relevant marks on the sport. While much of our involvement remains strictly confidential, notably we played a role as official technical partners in the Audi LMP1 program from 2008 to 2016, responsible for",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Over the course of 15 years, we gathered quite of experience in the design and development of cutting-edge carbon fiber monocoques, bodywork, and complete race cars. With more than 25 homologated monocoques delivered and ongoing projects in the new LMH and LMDh classes, we renovate our commitment to excellence year after year. An exemplary case study is the Lotus Evora GTE car",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Le Mans stands as the pinnacle of motorsport. It’s highly demanding and competitive. For 24 hours, every second is important. Each decision leading up to the event holds great weight, contributing to the excitement that defines the race. Since the beginning of our journey, we have focused on refining our designs and manufacturing race cars for successful Le Mans teams.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Bcomp: Sustainable bodywork for pioneering new racing series",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "The eSkootr Championship takes micromobility off to the races",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional Scooter vs S1-X: Advantages and Differences of YCOM’s Machine for eSkootr Championship",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr championship: al via il campionato dei monopattini elettrici",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship, al via il primo campionato dei monopattini elettrici",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "London hosts first-ever electric scooter racing world championship",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet eSkootr: A new racing series created by F1 minds",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Inaugural season of the eSkootr Championship (eSC) kicked off in London 13-14 May",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": ", before the championship heads to Switzerland this weekend. Heralding the future of electric mobility, the inaugural season of the",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship (eSC)",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "world’s first micromobility racing series",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Khalil Beschir, eSkootr Championship COO and co-founder, commented:",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“Safety and sustainability are at the heart of eSC and by having our second championship round in the city of Sion we want to demonstrate our commitment to creating more liveable urban areas around the world. With the International Transition Festival being held alongside our event, the spotlight will be very firmly on what is important to us.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "For more information on the eSkootr Championship, please visit:",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM engages with the next generation of engineers at Formula SAE Italy 2026",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "From September 2 to 6 2026, YCOM took part in the 21st edition of Formula SAE Italy, held at the Riccardo Paletti Circuit in Varano de' Melegari (Parma), one of the most important student engineering competitions in the world.",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "During the last 15 years, many OEMs on Le Mans grid used YCOM’s technology An integral part of more than 20 Le Mans programmes from GT to LMP1 YCOM involved also in the challenges of LMH...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Inaugural season of the eSkootr Championship (eSC) kicked off in London 13-14 May",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we are with Dario Scalzotto, YCOM Project Manager, taking a closer look at the racing e-scooter that YCOM has designed, developed, manufactured and tested for the eSkootr Championship (eSC). The world’s first micromobility racing series, eSC is intended...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Influence of motorsport experience will accelerate development of ANNx series products",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking race series turns to YCOM for e-mobility solution",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY“We have just completed delivery and testing of our first official product – the high-performance YCOM S1-X eSkootr. It is the result of our work with the eSkootr Championship, a new motorsport series built upon e-mobility and frontier innovation. This case study highlights some...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "The eSkootr Championship™ is delighted to announce a new long-term technical partnership with YCOM.",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "In March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day. In August Starcloud raised an additional $250M at a $2.3bn valuation with participation from Nvidia and Cisco.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/press-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Within Korus, technology, craftsmanship, and vision come together to create full-performance vehicles designed, developed, and built almost entirely in-house.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "specializing in two main areas: racing car components and technical equipment.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM Official eSkootr Championship™ Supplier",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "At YCOM, the degree of collaboration and partnership is entirely at the OEM’s discretion. Offering far more than simple consultation, YCOM can provide complete program management, from conception to delivery, covering:",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "The results speak for themselves: accelerated engineering that delivers program outcomes known throughout the industry. Such collaborations have proven invaluable to OEMs, allowing them to leverage their motorsport involvement, pioneer new technologies, highlight a new brand direction, and maintain a competitive edge in a rapidly evolving automotive market.",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand’s return to GT competition. Combining Maserati’s racing heritage with YCOM’s expertise in advanced engineering and composite technologies, the collaboration aims to deliver a high-performance vehicle designed for the Fanatec GT2 European Series",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has selected YCOM to bring the Trident back to GT competitions. The Modena manufacturer and the leading advanced technology company – a specialist in the development of motorsport projects and a world-renowned expert in lightweight composite structures design and manufacturing – have entered into a technical partnership agreement for the new Maserati GT2.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "After its debut in Season 9 of the ABB FIA Formula E Championship, Maserati is about to come back to racing. The return of the glorious Trident to the GT Championship will provide a high-performance car to the teams willing to compete in the Fanatec GT2 European Series.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "It embraced the important and glorious legacy of the Maserati MC12 in the GT championships between 2004 and 2010 and is dedicated to private teams: Maserati focused on developing a product that not only stands up to racing challenges but is also ideal for gentleman drivers when it comes to handling, driveability and performance.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "The eSkootr Championship takes micromobility off to the races",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional Scooter vs S1-X: Advantages and Differences of YCOM’s Machine for eSkootr Championship",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr championship: al via il campionato dei monopattini elettrici",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship, al via il primo campionato dei monopattini elettrici",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "London hosts first-ever electric scooter racing world championship",
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "pass": 1
+   },
+   {
+    "quote": "Inaugural season of the eSkootr Championship (eSC) kicked off in London 13-14 May",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": ", before the championship heads to Switzerland this weekend. Heralding the future of electric mobility, the inaugural season of the",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "eSkootr Championship (eSC)",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Khalil Beschir, eSkootr Championship COO and co-founder, commented:",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“After a thrilling debut for eSC in London, in which we were proud to showcase our brand new sport and a completely different type of racing, we can’t wait for Round 2 in Sion.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“Safety and sustainability are at the heart of eSC and by having our second championship round in the city of Sion we want to demonstrate our commitment to creating more liveable urban areas around the world. With the International Transition Festival being held alongside our event, the spotlight will be very firmly on what is important to us.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Swiss city will be a very different proposition to London, so I can’t wait to see how our riders will perform on this new track. I’m anticipating another dramatic weekend of racing action.”",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "For more information on the eSkootr Championship, please visit:",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati joins forces with YCOM for the GT2 Championship",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand's return to GT competition. Combining Maserati's racing heritage with YCOM's expertise in advanced engineering and composite technologies, the collaboration aims...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Inaugural season of the eSkootr Championship (eSC) kicked off in London 13-14 May",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we are with Dario Scalzotto, YCOM Project Manager, taking a closer look at the racing e-scooter that YCOM has designed, developed, manufactured and tested for the eSkootr Championship (eSC). The world’s first micromobility racing series, eSC is intended...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY“We have just completed delivery and testing of our first official product – the high-performance YCOM S1-X eSkootr. It is the result of our work with the eSkootr Championship, a new motorsport series built upon e-mobility and frontier innovation. This case study highlights some...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarkissian: “Really excited by this strategic and long-term partnership”",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "The eSkootr Championship™ is delighted to announce a new long-term technical partnership with YCOM.",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Paolo Perello, YCOM R&D Composite EngineerR&D in the motorsport and mobility industry is crucial to be competitive, to welcome or anticipate new opportunities, and to respond to the need for continuous improvement.Paolo Perello, from May 2014 Project Manager and R&D Composite Engineer at...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "RF engineering looks at frequency interference, coverage gaps, and capacity planning so a tower or small cell site performs the way the network actually needs it to, not just on paper. Skipping this step often leads to dead zones or dropped calls that cost far more to fix after construction than during design.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Timelines vary by project size, but fiber optic engineering for a typical route, including site survey, route planning, and splicing cut sheets, usually takes a few weeks to a couple of months. Projects with complex permitting or multiple jurisdictions can take longer, which is why early coordination with the engineering team matters.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "It means one partner handles multiple production stages — raw material through forging, machining, stamping, tube forming, finishing, and validation — rather than the OEM coordinating several specialists. The difference in accountability, lead time, and total cost is not marginal; it is structural.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Lower Total Cost of Ownership",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated interfaces, freight, and inspection beat the headline piece price of fragmented sourcing. Fewer purchase orders, fewer inbound shipments, and fewer quality-hold events compound into significant total program cost reduction.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "— forging, CNC machining, stamping, and tube forming operated at the same certified facility, not sub-contracted and re-branded.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "consolidates multiple processes into a single, accountable supply relationship — delivering forging, CNC machining, stamping, and tube forming under one IATF 16949-certified roof in Canton, Michigan.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Electrification compresses program timelines and tightens margins, accelerating supplier rationalisation. OEMs launching new EV platforms want fewer, deeper supplier relationships that can absorb design iteration quickly — favouring partners who can forge, machine, and stamp structural and metal components without external handoffs.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "The result is accelerating consolidation in the automotive supply base: OEMs are reducing the number of direct suppliers per program and deepening relationships with partners capable of handling multiple production stages. The end-to-end model is not a trend — it is the direction the industry is moving.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "It's a supplier that handles multiple production stages in-house — such as forging,",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Collaboration",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Message / Inquiry Description",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "We consider a large original equipment manufacturer (OEM) who relies on a contract manufac-",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "While outsourcing production to contract manufacturers (CMs), many original equipment manufac-",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to the supplier at her negotiated price; The components are shipped directly from the supplier to the CM; Finally, the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "before the smaller OEM. We assume that every product (regardless of the brand) requires a common",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "On the methodological side, this paper is distinct from the classical principal/agent model",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in two aspects. First, the CM’s ability to sell his own branded product gives rise to an outside",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "given by the other principal, or the status quo from earlier transactions/negotiations. Second, since",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "payoﬀ function, the systematic approach in the standard principal-agent models cannot be directly",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "its applicability in other principal-agent contexts in which the agents possess peculiar payoﬀs.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "multiple potential suppliers. Bolandifar et al. (2010) show that for procuring from a supplier with",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a private cost, there exist multiple contract forms that allow diﬀerent allocation of demand risks.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Founded in 2008 in the heart of Italy’s Motor Valley, YCOM is an advanced technology company that accelerates vehicle development through cutting-edge engineering and deep expertise in lightweight composite structures.",
+    "url": "https://www.ycom.it/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1980, Tatuus is a world leader in the design and production of single-seater race",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1977, ATM is a leading company in the design and production",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2001, Next Solution specializes in electronics and electromechanics for motorsport. From the headlights that illuminate Le Mans’ straights to the steering",
+    "url": "https://www.ycom.it/about/korus-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2008 to develop motorsport projects, YCOM now applies its motorsport approach to new frontiers, thus perfectly reflecting and understanding Maserati’s racing vision for the future.",
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "showcases our dedication to cutting-edge technological advancements. These endeavors resonate with the forward-thinking vision of Le Mans towards electrification and a more sustainable impact for racing, exemplified by initiatives like the Garage 56 classification for innovative vehicles and the Mission H24 project in preparation for the arrival of an hydrogen category at the 24 Hours of Le Mans.",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Nicola Scimeca, Founder & CBDO at YCOM",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Khalil Beschir, eSkootr Championship COO and co-founder, commented:",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly competitive and extremely demanding, motorsport development and innovation are fast-paced and certainly not for the faint of heart. In this blog, Nicola Scimeca, YCOM Founder and Managing Director, explores five of the key lessons we have learned from motorsport, which frame our approach to mobility...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "CASE STUDY“We have just completed delivery and testing of our first official product – the high-performance YCOM S1-X eSkootr. It is the result of our work with the eSkootr Championship, a new motorsport series built upon e-mobility and frontier innovation. This case study highlights some...",
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "BEAD Funding",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "builds follows the same engineering process as any other project, with added attention to grant compliance, documentation, and the specific timelines tied to public funding. Our team coordinates closely with state broadband offices so design milestones line up with grant reporting requirements.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Co-Founder",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "500 Startups",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting, Finance, Startups, Venture Capital",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator unveils 33 SEA startups in latest batch",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Startup enabler Y Combinator has unveiled the 33 Southeast Asian startups that have been included in its latest winter 2022 cohort.",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Svix, a webhooks-as-a-service (WaaS) provider, today announced a $2.6 million pre-seed round of funding.",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation, Modeling & Economics",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Space Startups funded by Y Combinator (YC) 2026 | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Directory",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Founder Directory",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Startup School",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Requests for Startups",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "For Investors",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Verify Founders",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Co-Founder",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Jobs",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Space Startups funded by Y Combinator (YC) 2026",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Browse 64 of the top Aviation and Space startups funded by Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "We also have a Startup Directory where you can",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "employees",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "GRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, Starcloud raised a $170M Series A led by Benchmark, becoming the fastest unicorn in YC history, just 17 months after demo day. In August Starcloud raised an additional $250M at a $2.3bn valuation with participation from Nvidia and Cisco.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Basalt received its seed investment as part of the Y Combinator W24 batch, and has since launched Spirit-EEL, the world's first AI-controlled satellite constellation.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Hottest Startup Categories",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Startups in San Francisco",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Fintech Startups in New York",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Work at a Startup",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Co-Founder Matching",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Library",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Startups often seek to license technology from universities, a process with unique considerations for all involved. Stephen Thau and David Sharrow review common technology-licensing topics, such as communicating with technology licensing offices, cost implications, royalty structures, due diligence, equity stakes for universities as well as sublicensing and investor rights.",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "How To Find A Co-Founder | Startup School",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "If You Don't Understand Funding, You Don't Understand Startups",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "フォワード・デプロイド・エンジニアリング入門 — Kevin Bai (Anthropic、元Palantir・Rippling設立FDE)",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://news.microsoft.com/source/2016/05/11/microsoft-and-elecoms-new-partnership-means-more-innovative-business-solutions-for-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Directory",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Founder Directory",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Startup School",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Requests for Startups",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "For Investors",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Verify Founders",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Co-Founder",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "Bodywork and Monocoque Design Consultancy",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Behind the scenes of Le Mans - YCOM technology for OEMs",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport and exciting ‘halo’ projects have long represented an attractive proposition for OEMs. Not only do they provide an arena to demonstrate technological...",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Services for Telecommunications & Fiber | Telecom Design Company | Valhalla Industries",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Telecommunications Engineering Services",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": ", we understand that a strong foundation is essential for a reliable and future-proof telecommunications network. Our team of experienced engineers provides comprehensive telecom engineering services to support all aspects of your wireless and",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Trusted Telecom Engineering Services Provider",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "We offer a comprehensive suite of telecom engineering services to support your telecommunications projects across the telecom industry, including:",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "For a truly streamlined experience, we can integrate our engineering services with our construction expertise, ensuring a smooth transition from design to build.",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "What sets experienced telecommunication engineering companies apart from general contractors?",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "today to discuss your telecommunications engineering needs. We are a leading telecom engineering services provider with a proven track record of success in the telecommunications industry. We are confident that",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting, Finance, Startups, Venture Capital",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "— forging, CNC machining, stamping, and tube forming operated at the same certified facility, not sub-contracted and re-branded.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "runs these processes internally, keeping tolerances and accountability with one partner from quote to delivery. The key qualifier is \"internally\" — suppliers who claim end-to-end capability but sub-contract the processes they don't own in-house introduce the same accountability gaps as fragmented sourcing.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "We consider a large original equipment manufacturer (OEM) who relies on a contract manufac-",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "component procurement by letting the CM purchase directly from the supplier (turnkey).",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "comparing buy-sell and turnkey, we ﬁnd that a CM with low component price is better oﬀ under",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "turnkey, even though under buy-sell he receives more proﬁts through the products sold to the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "smaller OEM. Furthermore, the larger OEM’s preference between buy-sell and turnkey depends",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Keywords: buy-sell, price masking, turnkey , information asymmetry",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "While outsourcing production to contract manufacturers (CMs), many original equipment manufac-",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the contract manufacturers. For example, Dell decided to delegate procurement of components for",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "its laptops PCs to its Taiwanese contract manufacturers (CENS (2007)). In this scenario, referred",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to as turnkey, the OEM delegates control of upstream activities to the CM. Under turnkey, the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CM through turnkey (Sullivan (2003)).",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In this paper, we focus on the study of buy-sell and turnkey. We study a model in which a",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "buy-sell in their procurement processes. Another approach for OEMs to collaborate with CMs is",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "contract with the CM and identify closed form solution for the proﬁts of her and the CM under",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "contract with the CM. On the other hand, by increasing the cost of the CM’s product, reselling",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "when the OEM is better oﬀ under buy-sell than under turnkey. To address this question, we continue",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "to study the turnkey scenario in which the CM procures components directly from the supplier for",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "two-fold feature of the CM’s component procurement cost in the turnkey scenario from the OEM’s",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "optimal contract with the CM. We also identify closed form solutions for the proﬁts of her and the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CM under turnkey, and compare with those under buy-sell.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The comparison between the turnkey and buy-sell scenarios generates insights regarding the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "incentives of the larger OEM and the CM to commit to buy-sell and turnkey. Our results show",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "by the beneﬁt of cost transparency in buy-sell over turnkey. Our results also suggest that the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cost is high, substitutability also ampliﬁes the disadvantage of buy-sell, making turnkey even more",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and turnkey more signiﬁcant for the larger OEM. Thus, while it is important for an OEM who can",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Strategy Consulting",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Cybersecurity consulting services",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Learning and development consulting services",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Careers in Consulting",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Contract opportunities",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "At EY, our purpose is building a better working world. The insights and services we provide help to create long-term value for clients, people and society, and to build trust in the capital markets.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Infrastructure Advisory and Consulting Services",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Our supply chain consulting professionals can help improve your operations, using AI and tech to boost resilience, efficiency and value. Find out how.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "EY harnesses a connected ecosystem of strategic alliances and partnerships to co-create value and deliver comprehensive technology solutions and business outcomes for our clients.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceium builds fully automated space stations to refuel and repair spacecraft. We have secured $86.1 million in binding commercial contracts and have an additional $230 million in the pipeline. Additionally, we have 1 billion dollars in letters of intent. We have successfully tested our hardware, which will launch to space next year.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers include launch vehicles, orbital transfer vehicles, moon landers, and spacecraft that benefit from increased payload capacity and extended travel capabilities. Our long-term vision is to build service hubs along the space superhighway to connect Earth to Moon and Mars and help humanity to become multi multi-planetary species",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "We have millions in current government/commercial contracts and LOI’s.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "We are one of the world's highest flying UAVs, and have $330 Mn+ contracts from global goverments to deploy the autonomous spaceplanes and replace traditional satellites and ground-borne UAVs",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "AUDI DAKAR | 2021-2023",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Porsche 919 EVO | 2018",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "AUDI RS5 DTM | 2017",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "AUDI R18 | 2008-2016",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW GTE & GT3 | 2015",
+    "url": "https://www.ycom.it/projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborating with a diverse range of private and factory Le Mans teams, including Epsilon, Lotus, and Audi, YCOM’s expertise has left – behind the scenes – some relevant marks on the sport. While much of our involvement remains strictly confidential, notably we played a role as official technical partners in the Audi LMP1 program from 2008 to 2016, responsible for",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "interview with Claudio Berro",
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "pass": 1
+   },
+   {
+    "quote": "NASA Ames Resea...",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "These are not theoretical advantages — each one maps directly to a procurement pain point that fragmented multi-vendor supply chains create and integrated suppliers eliminate.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidated interfaces, freight, and inspection beat the headline piece price of fragmented sourcing. Fewer purchase orders, fewer inbound shipments, and fewer quality-hold events compound into significant total program cost reduction.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "One accountable partner is easier to monitor, audit, and dual-plan than a sprawling vendor list. Capacity assurance, business continuity planning, and sub-tier oversight are all managed under a single supplier quality agreement — reducing the coordination overhead that grows non-linearly with every additional vendor.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "— direct OEM or Tier 1 program experience with references available and audit transparency demonstrated upfront.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "It concentrates volume, so it must be paired with capacity assurance and contingency planning. A single, well-audited partner is generally easier to monitor, audit, and dual-plan than a fragmented vendor base — provided the supplier's financial stability, capacity headroom, and sub-tier oversight are rigorously verified before program award.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "runs these processes internally, keeping tolerances and accountability with one partner from quote to delivery. The key qualifier is \"internally\" — suppliers who claim end-to-end capability but sub-contract the processes they don't own in-house introduce the same accountability gaps as fragmented sourcing.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "show that design outsourcing may boost the negotiated wholesale prices upwards, thereby softening",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OEM 2 to a simple wholesale price contract with the wholesale price w determined by the CM. We",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "product 1 for OEM 1, i.e., q1 = 0. In this case, given the CM’s wholesale price w, OEM 2 solves the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2, the CM purchases components directly from a supplier. The resale price p charged by OEM 1",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "price between the supplier and the CM, i.e., p ≥ c, then OEM 1’s resale price p has no impact on",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "such a menu, the resale price is p; it is the best interest of the type- c CM to report his true cost c",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "wholesale price w to OEM 2; afterwards, OEM 2 decides the number of units to produce for product",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "We follow the backward analysis. We start with OEM 2’s problem. Given the wholesale price",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Now we turn the CM’s problem in determining his optimal wholesale price. Given that the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "following problem to determine her optimal wholesale price:",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "optimal wholesale price is w(c, ˆc) = [ m − bq1(ˆc) + min(p, c)]+/2 and her maximum proﬁt, denoted by",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Further, by (1), under the CM’s optimal wholesale price w(c, ˆc), OEM 2’s optimal order quantity is",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "component resale price p that maximizes the OEM’s expected proﬁt.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Proposition 1. In the buy-sell scenario with OEM 1’s component resale price p being ﬁxed, under",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "increases in p for p ∈ [co, c]; thus the OEM’s optimal component resale price, denoted by p∗, is",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "he reports his procurement cost c; 3) The CM decides the wholesale price w; 4) OEM 2 chooses the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The subsequent analysis is similar to that in the previous section. Given the wholesale price",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(q1(ˆc), t(ˆc)), her optimal wholesale price can be determined by solving the following problem:",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "If the CM rejects the contract proposed by OEM 1, given the CM’s wholesale price w, the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "optimal wholesale price is w(c, ˆc) = [ m2 − b2q1(ˆc) + min( p, c)]+/2. Under this wholesale price, the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ΠBS (p) strictly increases in p for p ∈ [co, c]; thus the OEM’s optimal component resale price, denoted",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "While the wholesale price contract is a commonly used contract form, it is natural to ask whether",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "problem. Given the wholesale price w and the product 1’s quantity q1, OEM 2’s optimal order",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Now we turn to the CM’s problem in determining the optimal wholesale price. Given that the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "surplus. Thus, the CM’s optimal wholesale price is w(c, ˆc) = min( p, c) and her maximum proﬁt,",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The EY private client audit experience",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "EY Audit Technology",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Mitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Wardstone builds a low-cost, modular interceptor platform for air and missile defense. Our platform enables the warfighter to right sizes their interceptors against the threat. This allows us to defeat air-breathing and ballistic missile threats at a fraction of the cost of exquisite interceptors, adding affordable magazine depth to existing air defense systems.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "As an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Ross and I have over 15 years of combined aerospace experience across NASA, Aerojet Rocketdyne, SpaceX, Blue Origin, and Relativity Space. We’ve worked side by side for more than 3.5 years developing propulsion systems, turbomachinery, and building our own respective engineering teams.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "This technology will massively increase the amount of affordable, high-quality 3D data, enabling a host of new applications across an array of industries, including AR/XR/Autonomy, Defense, Climate/ESG, and Insurance Analytics.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "We have assembled a team of industry experts, government senior executives, and a NASA astronaut.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Nova: Radically improving access to and from orbit. We’re unlocking the space economy by harnessing the power of full and rapid reusability with Nova, our 100% reusable rocket. Nova offers affordable access to, through, and from space with a 20x reduced cost to orbit.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "On Demo Day, the latest batch of Y Combinator-funded founders present their companies to an audience of specially selected investors and press. We doubt there's another occasion when such a large percentage of the top startup investors have their attention focused on the same thing.",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": ", eSC is intended to pioneer advanced e-mobility technologies and encourage the adoption of low-emission personal transportation. With passenger cars making up 40% of all transport emissions, smaller and cleaner mobility platforms will play a critical role in combating climate change.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "In fact, the global electric scooter market was already €19.9 billion in 2021, with an expected growth rate of 7.8% (CAGR) through to 2030. This is poised to accelerate further as governments around the world incorporate electric micromobility into infrastructure and transport networks.",
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "pass": 1
+   },
+   {
+    "quote": "YCOM S.R.L., a leader in motorsport and advanced mobility projects, has welcomed investment from Italian club deal TEC Racing S.p.A. as a majority shareholder. This investment will further strengthen the Italian company’s competitive edge and expand its presence...",
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "pass": 1
+   },
+   {
+    "quote": "Y Combinator: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "The savings come from removing duplicated effort between vendors. Integrated development has been shown to cut R&D cost per vehicle by roughly 40% versus outsourcing, and consolidating component interfaces can roughly halve per-vehicle cost. Fewer suppliers mean fewer POs, less inbound freight, fewer inspection points, and tooling that doesn't change hands. See",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "It removes duplicated freight, purchase orders, inspection points, and tooling handoffs between vendors. Integrated development and interface consolidation have been shown to cut per-vehicle costs substantially — with R&D savings of approximately 40% and interface consolidation savings of approximately 50% documented in OEM cost-reduction research.",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "sales@marimbaauto.com",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "share of proﬁts from her product. This result is consistent with HP’s and Motorola’s practice of",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "generally IGFR, implies the unimodality of this “revenue function.”",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs sell their products in the market and realize the revenues.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the revenues from the market (recall from (2) that [ m − bq1(c) − min(p, c)]+/(4a) is the product",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "chart on page 9 of CSCMP (2006)). Any business unit in HP that outsources to a CM notiﬁed",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "HP’s negotiated price and the inﬂated price was allocated back to the corresponding business unit,",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1’s negotiated price is lower than that of the CM. Second, it increases OEM 1’s share of proﬁt from",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "advantage, OEM 1 improves not only the overall proﬁt of her products but also her share of it. The",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "product market and realize the revenues.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "that in the buy-sell scenario. Recall that the information rent accounts for the excess surplus a CM",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "percentage gap",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "co is ﬁxed. The average percentage gap as a function of co is depicted in Figure 1. The ﬁgure is,",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 1: Average percentage gap ∆ as function of the OEM’s procurement cost co.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 2: Average percentage gap as function of competition factor b and volatility of CM’s purchase",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 3: Average percentage gap as function of competition factor b and volatility of CM’s purchase",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "power to extract revenue from OEM 2 and all our results are qualitatively similar.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As autonomy, electrification and connectivity converge, vehicles are becoming platforms. Aerospace, defense and mobility companies must monetize ecosystems of partners, data and services to unlock new revenue beyond traditional product sales.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "With value shifting toward new disruptive areas, the auto industry needs to quickly adapt and unlock the emerging revenue opportunities.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "As value is shifting toward new disruptive areas, the auto industry needs to quickly adapt and unlock the emerging revenue opportunities. Learn more.",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Ethos makes silicon on the Moon to power terawatt scale data centers. The Moon's surface is 21% silicon. We melt and electrolyze the lunar surface to make raw materials for solar panels. With solar panels made from the Moon, the constraint that limits data center scaling and everything else in space is gone.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "AxionOrbital Space builds foundation models that enable continuous visibility through clouds and darkness. Legacy optical satellites are rendered useless 70% of the time by weather and night cycles, while Synthetic Aperture Radar (SAR) produces data that is unintelligible to humans and breaks standard vision pipelines.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "Nova: Radically improving access to and from orbit. We’re unlocking the space economy by harnessing the power of full and rapid reusability with Nova, our 100% reusable rocket. Nova offers affordable access to, through, and from space with a 20x reduced cost to orbit.",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "YC invests $500k per company: $125k for 7% on a post-money SAFE and another $375k on an uncapped SAFE with an MFN.",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "On Demo Day, the latest batch of Y Combinator-funded founders present their companies to an audience of specially selected investors and press. We doubt there's another occasion when such a large percentage of the top startup investors have their attention focused on the same thing.",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Each YC company receives access to discounts and free accounts for over 100 products. Some of these are highly significant, including hundreds of thousands of dollars of free hosting for each company provided by major cloud hosting companies.",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Maintenance",
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Annual cost-down OEMs commonly require from suppliers",
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "pass": 3
+   },
+   {
+    "quote": "the CM’s component purchase cost. In this case, the CM purchases components at per unit cost c",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "pays co per unit to the supplier), and then produces q1(c) units of product 1; 4) The CM oﬀers the",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the CM can oﬀer a two-part tariﬀ ( w, T ) to OEM 2, where w corresponds to the variable per unit",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual report, 2009, Flextronics International Ltd.",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kyocera. 2006. Competitive responses to evolving market trends. Kyocera Corporation Annual",
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "EY Annual Report 2026",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "annual investment in data, tech and AI to solve client challenges",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "How To Feel Heard at the Doctor w/ Dr. Jonathon Fader",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "Startups often seek to license technology from universities, a process with unique considerations for all involved. Stephen Thau and David Sharrow review common technology-licensing topics, such as communicating with technology licensing offices, cost implications, royalty structures, due diligence, equity stakes for universities as well as sublicensing and investor rights.",
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "pass": 3
+   },
+   {
+    "quote": "B2B and consumer companies often get their first 40-50 paying customers from the YC community. With that, you not only get first customers, you get the smartest early product feedback possible.",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "YCOM | LinkedIn — YCOM | LinkedIn LinkedIn https://www.linkedin.com > ycom",
+    "url": "https://www.linkedin.com/company/ycom/",
+    "pass": 3
+   },
+   {
+    "quote": "Y-COM's Competitors, Revenue , Number of Employees ... — Y-COM's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > ycominc",
+    "url": "https://www.owler.com/company/ycominc",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator: Revenue , Competitors, Alternatives - Growjo — Y Combinator: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Y_Combinator",
+    "url": "https://growjo.com/company/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator - X — Y Combinator - X X https://x.com > @ycombinator",
+    "url": "https://x.com/ycombinator/status/1673663357977604097",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator - Wikipedia — Y Combinator - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Y_C...",
+    "url": "https://en.wikipedia.org/wiki/Y_Combinator",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator Revenue 2025: $11M Est. - GetLatka — Y Combinator Revenue 2025: $11M Est. - GetLatka GetLatka https://getlatka.com > ycombinator",
+    "url": "https://getlatka.com/companies/ycombinator.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted Motorsport Engineering Partner for OEM Success — Trusted Motorsport Engineering Partner for OEM Success ycom.it https://www.ycom.it > motorsport-en...",
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace , Defense & Mobility | Sector Trends & Solutions - EY — Aerospace , Defense & Mobility | Sector Trends & Solutions - EY EY https://www.ey.com > industries > aer...",
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Space Startups funded by Y Combinator ( YC ) 2026 — Aviation and Space Startups funded by Y Combinator ( YC ) 2026 Y Combinator https://www.ycombinator.com > aviat...",
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "pass": 3
+   },
+   {
+    "quote": "What Happens at YC | Y Combinator — What Happens at YC | Y Combinator Y Combinator https://www.ycombinator.com > about",
+    "url": "https://www.ycombinator.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "YCombinator : Who fuelled Start up culture - DEV Community — YCombinator : Who fuelled Start up culture - DEV Community DEV Community https://dev.to > heetvekariya > ycomb...",
+    "url": "https://dev.to/heetvekariya/ycombinator-who-fuelled-start-up-culture-2n2f",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ycom.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/press-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/about/korus-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/expertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/maserati-ycom-gt2-technical-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/press-coverage-2022-in-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/scooter-racing-technology-to-the-world/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/about/korus-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/category/press-and-news-category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/category/press-and-news-category/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycom.it/category/press-and-news-category/page/3/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://valhallaindustriesinc.com/engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsp.com/en-us/sectors/telecommunications",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ycom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.owler.com/company/ycominc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Y_Combinator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1673663357977604097",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://npaerospace.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://patents.princeton.edu/front",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://news.microsoft.com/source/2016/05/11/microsoft-and-elecoms-new-partnership-means-more-innovative-business-solutions-for-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1eu574f/got_funding_met_on_yc_cofounder_matching_worst/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=NZp5j5hvn9I",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "YCOM engineering services clients other industries",
+   "results": [
+    "https://valhallaindustriesinc.com/engineering/",
+    "https://www.wsp.com/en-us/sectors/telecommunications",
+    "https://www.linkedin.com/company/ycom/",
+    "https://www.kcw-et.com/telecommunications-engineering/",
+    "https://datafieldusa.com/telecom-systems-engineering/",
+    "https://dycomind.com/what-we-do/engineering/",
+    "https://www.kimley-horn.com/markets/communications-infrastructure/",
+    "https://www.yesrus.com/projects",
+    "https://www.ycombinator.com/companies/axle/jobs/agrv5hG-customer-solutions-engineer",
+    "https://ycomtechnologies.com/about-us/"
+   ]
+  },
+  {
+   "query": "YCOM revenue turnover employees",
+   "results": [
+    "https://www.owler.com/company/ycominc",
+    "https://growjo.com/company/Y_Combinator",
+    "https://x.com/ycombinator/status/1673663357977604097",
+    "https://en.wikipedia.org/wiki/Y_Combinator",
+    "https://getlatka.com/companies/ycombinator.com",
+    "https://bullfincher.io/",
+    "https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue",
+    "https://www.linkedin.com/posts/y-combinator_inaugural-yc-top-companies-list-by-revenue-activity-7079429094597103616-L2-f",
+    "https://www.companieshistory.com/company/y-combinator/revenue/",
+    "https://www.co.yamhill.or.us/DocumentCenter/View/20334/FY27-YCOM-Approved-V30-PDF"
+   ]
+  },
+  {
+   "query": "YCOM supplies components to OEM",
+   "results": [
+    "https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/",
+    "https://www.ycom.it/motorsport-engineering-partner-for-oem/",
+    "https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf",
+    "https://www.mechanicalpower.net/blog/auto/oem-component-sourcing-in-automotive-world/?srsltid=AYCX9vLJ7XgJEVXUf4wWl3wPIDvube6WT7nuDa92hPz8L3DyxMFs5OXr",
+    "https://www.investopedia.com/terms/o/oem.asp",
+    "https://www.industrialspec.com/about-us/blog/detail/oem-original-equipment-parts-manufacturing-oe-oer-odm?srsltid=AYCX9vI2xkuz4MKUmXpIb3SKgxA87GcAtJVmKa4DpmqA3EvywrtjGmAi",
+    "https://fenix-mfg.com/automotive-supply-chain-tiers/",
+    "https://en.wikipedia.org/wiki/Original_equipment_manufacturer",
+    "https://www.cars.com/articles/what-is-an-oem-1420696948647/",
+    "https://www.epartrade.com/company/supplier/8576e06b-ycom"
+   ]
+  },
+  {
+   "query": "YCOM aerospace defence non-automotive",
+   "results": [
+    "https://npaerospace.com/",
+    "https://www.ey.com/en_gl/industries/aerospace-defense-mobility",
+    "https://www.ycombinator.com/companies/industry/aviation-and-space",
+    "https://www.plugandplaytechcenter.com/industries/aerospace",
+    "https://www.reddit.com/r/AerospaceEngineering/comments/108krrh/nondefense_aerospace_companies_control_systems/",
+    "https://www.youtube.com/watch?v=c7peN1ROy3Q",
+    "https://www.facebook.com/Ycomposite/videos/ycomers-fueled-by-passion-/1428706428983770/",
+    "https://www.aerospace-and-defence.com/",
+    "https://www.ycom.it/about/",
+    "https://www.ycom.it/"
+   ]
+  },
+  {
+   "query": "YCOM licensing technology partnership",
+   "results": [
+    "https://www.youtube.com/watch?v=ubf-FaxIEoI",
+    "https://patents.princeton.edu/front",
+    "https://news.microsoft.com/source/2016/05/11/microsoft-and-elecoms-new-partnership-means-more-innovative-business-solutions-for-customers/",
+    "http://www.techtransfer.nih.gov/partnerships/overview",
+    "https://www.velaw.com/practices/licensing-technology-transfer/",
+    "https://technologylicensing.utah.edu/about/meet-our-team",
+    "https://www.porterwright.com/technology/services/technology-transfer-and-licensing/",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://www.y12.doe.gov/technologies",
+    "https://www.sciencedirect.com/science/article/pii/S0019850123000834"
+   ]
+  },
+  {
+   "query": "YCOM founder early days first customer funding",
+   "results": [
+    "https://www.reddit.com/r/ycombinator/comments/1eu574f/got_funding_met_on_yc_cofounder_matching_worst/",
+    "https://www.ycombinator.com/about",
+    "https://www.youtube.com/watch?v=NZp5j5hvn9I",
+    "https://dev.to/heetvekariya/ycombinator-who-fuelled-start-up-culture-2n2f",
+    "https://www.instagram.com/reel/DaN0lAUj4Uc/",
+    "https://www.startupgrind.com/blog/jessica-livingston-yc-partner-the-founding-story-of-y-combinator-and-how-to-get-in/",
+    "https://arxiv.org/html/2512.13755v1",
+    "https://jaredheyman.medium.com/on-9-data-driven-tips-for-yc-startup-founders-432908b40333",
+    "https://www.youtube.com/watch?v=hyYCn_kAngI",
+    "https://en.wikipedia.org/wiki/Y_Combinator"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）"
+ }
+}

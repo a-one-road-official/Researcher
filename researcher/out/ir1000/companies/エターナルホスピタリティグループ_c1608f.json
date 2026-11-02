@@ -1,0 +1,847 @@
+{
+ "name": "エターナルホスピタリティグループ",
+ "aliases": [],
+ "context": "証券コード3193／小売業／プライム（内国株式）／2026.07期 売上高51,254百万円 営業利益率68.0%",
+ "researched_at": "2026-11-02T14:57:20.591382+00:00",
+ "official_url": "https://eternal-hospitality.co.jp/",
+ "identified_by": "search:yahoo_jp:エターナルホスピタリティグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設　立",
+    "value": "1986年9月19日",
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "会社が設立されたのはいつですか？",
+    "value": "1986年9月19日に設立しました。 詳しくは企業情報の「会社概要」ページ、「ヒストリー」ページに掲載しています。 「会社概要」ページへ 「ヒストリー」ページへ",
+    "url": "https://eternal-hospitality.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1986年9月19日",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループの経営戦略策定、経営管理及びそれに付随する業務",
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "グループの経営戦略策定、経営管理",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "グループ従業員数 ※1",
+    "value": "【社員】1,066名　【パート・アルバイト】4,495名 ※2",
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "エターナルホスピタリティグループのブランドを紹介します",
+    "url": "https://eternal-hospitality.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "年間２店舗出店にペースアップ",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "初めての空中階店舗となる「鳥貴族 道頓堀店」を出店",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "今後の店舗展開を見据えタレ生産規模を拡大する",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外初の自社開発店舗となる「zoku」を米国ロサンゼルスに出店",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小規模店舗モデル「鳥貴族パートナーズ」の独立制度を運用開始",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会社法に基づく機関として、株主総会及び取締役会、監査役会を設置するとともに、社内の統治体制の構築のため指名・報酬委員会、コンプライアンス委員会、リスク管理委員会、サステナビリティ委員会を設置しております",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "(指名・報酬委員会)",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役の指名、報酬等に係る取締役会の機能の独立性・客観性を強化し、コーポレート・ガバナンスの充実を図ることを目的として指名・報酬委員会を設置しております",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当該委員会は、取締役会の任意の諮問機関としての役割を担い、取締役会の諮問に応じて、取締役の指名・報酬等について審議し、取締役会に対して答申を行う権限を有します",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡の名店「焼とりの八兵衛」のフランチャイズとして大阪・北新地に出店",
+    "url": "https://eternal-hospitality.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、これからは海外における店舗展開という新たな挑戦をはじめます",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "・2030年 国内1,000店舗（直営・TCC）へ向けた新規出店",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "・惣菜業態をはじめとする新たな店舗フォーマットの開発",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "・2030年700店舗への回復に向けたリブランディング・加盟者開発",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "米国及び東アジア（中国、韓国、台湾、香港）における事業立ち上げと店舗展開",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素税やカーボンプライシングの導入により食材調達・店舗運営コストが増加し、当社グループの利益額に影響を与えることが予想されます",
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "また、各国でGHG排出規制が強化される場合、当該地域への進出に際しての対応や既存店舗における設備の置き換えが迫られ、コスト増加につながる可能性があります",
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "異常気象による機会損失の発生や被害を受けた店舗設備の復旧コストが想定されるほか、当社における主要原材料の調達にも影響を与える可能性があると想定しています",
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "株主の皆様の日頃からのご支援にお応えするとともに、当社グループの店舗のご利用を通じて、より多くの皆様に当社グループ事業へのご理解とご支援をいただくことを目的とするものであります",
+    "url": "https://eternal-hospitality.co.jp/ir/preferential/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンをお持ちでない場合も、QRコードを店舗にお持ちいただくことで、ご利用が可能です",
+    "url": "https://eternal-hospitality.co.jp/ir/preferential/",
+    "pass": 1
+   },
+   {
+    "quote": "① 株主優待券は、以下の店舗にてご飲食代金としてご利用いただけます",
+    "url": "https://eternal-hospitality.co.jp/ir/preferential/",
+    "pass": 1
+   },
+   {
+    "quote": "※新規OPEN店舗では取り扱いのない場合がございます",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対象店舗︓全店 ※⼀部店舗（期間中の新規OPEN店舗等）を除く",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⿃貴族の店舗ご利⽤当⽇にアパホテル宿泊を条件に、お得にご飲⾷いただける特別割引を実施いたし",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■グループ累計店舗数",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "（フランチャイズ含む/2026年7月末現在）",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "1,194店舗",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "1,163店舗",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "店舗開発業務全般",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "米国における飲食店のフランチャイズ管理",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "鳥貴族初めての空中階店舗「道頓堀店」",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "・初めての空中階店舗となる「鳥貴族 道頓堀店」を出店",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "今後の店舗展開を見据えタレ生産規模を拡大する",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "・海外初の自社開発店舗となる「zoku」を米国ロサンゼルスに出店",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "・小規模店舗モデル「鳥貴族パートナーズ」の独立制度を運用開始",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "営業部 店舗スタッフ",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "自分の店舗を持つことを目指してから、焼鳥屋一筋",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "主には他の飲食店舗を視察させてもらったり、ときには実際お店で修行させてもらったり",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "焼鳥屋として培ってきた強みをさらに磨き上げるとともに、チキンの新たな可能性を生み出します",
+    "url": "https://eternal-hospitality.co.jp/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1986年9月19日",
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1985 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2005 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019 年",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年創業、日本を中心にチェーン展開する焼鳥屋",
+    "url": "https://eternal-hospitality.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年米国ロサンゼルスに開業",
+    "url": "https://eternal-hospitality.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年７月期～2027年７月期 中期経営計画 概要",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年9月19日に設立しました",
+    "url": "https://eternal-hospitality.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年7月10日です",
+    "url": "https://eternal-hospitality.co.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10⽉19⽇",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年4⽉には累計1,500万⾷を突破、アパグループの発祥地である⾦沢のご当地名物「⾦沢カ",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年4⽉より始動した5ヶ年計画「AIM5 〜APA Innovative Movement」の⽬標について、前倒し",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2031年3⽉末",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2011年3⽉24⽇ アパ社⻑カレー発表会に",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年3⽉に販売開始10周年を迎え、2026年4⽉には累計1,500万",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 2023年 2024年 2025年 2026年",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年7 月16 日",
+    "url": "https://eternal-hospitality.co.jp/pdf/20260716_publicnotice.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年新卒入社",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年新卒入社",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年中途入社",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年新卒入社",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年新卒入社",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "㈱イターナルサービスを設立",
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "役職員を対象とした教育研修体制を整備するととも に、食品衛生法・金融商品取引法・会社法などの各種法令への理解を深め、全従業員のコンプライアンス意識を高めるための多様な取り組みを 進めております",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "低価格・高品質な商品とサービスを提供できるお店づくりを追求しています",
+    "url": "https://eternal-hospitality.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "※１ 今回のコラボ商品に使⽤しているカレーは特別にアレンジしたものであり、通常販売しているも",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社のサービスを通じて、地域で過ごす時間の価値を⾼めていきたいと考え、コラ",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※テイクアウト商品も割引の対象となります",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※今回のコラボ商品に使⽤しているカレーは特別にアレンジしたものであり、通常販売しているものと",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・㈱イターナルサービスを設立",
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "pass": 2
+   },
+   {
+    "quote": "場所や商品が変わっても、",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "このために、株主をはじめ、顧客、取引先、従業員ひいては社会全体との共栄及び、経営戦略の策定や経営の意思決定を通じた企業価値の最大化を目指しております",
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、社会において環境への意識がより高まるため、気候変動への取り組みや非財務情報の開示等を継続することにより顧客、従業員、株主・投資家、取引先、社会等のステークホルダーからのレピュテーションを維持・向上させる機会があると想定しています",
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループにおきましては、今後CO２の排出量削減や取引先との協働、物理リスクを踏まえた対応策を模索するとともに、継続的な議論・情報のアップデートに取り組んでまいります",
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://eternal-hospitality.co.jp/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "いうお客様の声に応えて開発した「⼿⽻先バンザイ」",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、お客様による試⾷後のアンケート結果99.3％の⼈が「美味しい」と回答",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様との「おいしかったよ」「ありがとうございます」のやりとり",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中期経営計画 - 株式会社 エターナルホスピタリティグループ — 中期経営計画 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > IR・投資家情報",
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エターナルホスピタリティグループ — 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp",
+    "url": "https://eternal-hospitality.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "DX 戦略説明会」を開催 - エターナルホスピタリティグループ — DX 戦略説明会」を開催 - エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ PDF https://eternal-hospitality.co.jp > uploads > 2026/04",
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/04/260327.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "エターナルホスピタリティグループ の仕事・こだわり - 鳥貴族 — エターナルホスピタリティグループ の仕事・こだわり - 鳥貴族 鳥貴族 https://www.recruit.torikizoku.co.jp > fresh > business",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/business/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - 株式会社 エターナルホスピタリティグループ — IR 資料 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > IR・投資家情報",
+    "url": "https://eternal-hospitality.co.jp/ir/material/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報 - 株式会社 エターナルホスピタリティグループ — IR・投資家情報 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > ...",
+    "url": "https://eternal-hospitality.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エターナルホスピタリティグループ 】[3193]IR情報 中期経営 ... — 【 エターナルホスピタリティグループ 】[3193]IR情報 中期経営 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3193",
+    "pass": 3
+   },
+   {
+    "quote": "電子公告 - 株式会社 エターナルホスピタリティグループ — 電子公告 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > IR・投資家情報",
+    "url": "https://eternal-hospitality.co.jp/ir/notice/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社 - 株式会社 エターナルホスピタリティグループ — グループ会社 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > 企業情報",
+    "url": "https://eternal-hospitality.co.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 エターナルホスピタリティグループ — 会社概要 - 株式会社 エターナルホスピタリティグループ 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > 企業情報",
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ 組織再編に関するお知らせ - 株式会社 エターナル ... — グループ 組織再編に関するお知らせ - 株式会社 エターナル ... 株式会社 エターナルホスピタリティグループ https://eternal-hospitality.co.jp > ... > 企業情報",
+    "url": "https://eternal-hospitality.co.jp/news/2025/08/01/466/",
+    "pass": 3
+   },
+   {
+    "quote": "エターナルホスピタリティグループ の理念・精神 - 鳥貴族 — エターナルホスピタリティグループ の理念・精神 - 鳥貴族 鳥貴族 https://www.recruit.torikizoku.co.jp > fresh > about",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/about/",
+    "pass": 3
+   },
+   {
+    "quote": "大木 大樹 | エターナルホスピタリティグループ で働く人 - 鳥貴族 — 大木 大樹 | エターナルホスピタリティグループ で働く人 - 鳥貴族 鳥貴族 https://www.recruit.torikizoku.co.jp > fresh > interview",
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://eternal-hospitality.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/tcfd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/yuho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/preferential/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/ir/shared-research/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/10/261019.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/pdf/officer-list.pdf?2511",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/pdf/20260716_publicnotice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img1.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img2.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img4.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img5.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img6.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img7.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://eternal-hospitality.co.jp/wp-public/wp-content/themes/torikizoku-holdings/images/business/img8.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エターナルホスピタリティグループ",
+   "results": [
+    "https://eternal-hospitality.co.jp/",
+    "https://www.recruit.torikizoku.co.jp/fresh/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3193",
+    "https://job.mynavi.jp/28/pc/search/corp273025/outline.html",
+    "https://note.com/eternal0501",
+    "https://ja.wikipedia.org/wiki/鳥貴族",
+    "https://eternal-hospitality.co.jp/company/profile/",
+    "https://www.nikkei.com/nkd/company/?scode=3193",
+    "https://finance.yahoo.co.jp/quote/3193.T/profile",
+    "https://irbank.net/3193"
+   ]
+  },
+  {
+   "query": "エターナルホスピタリティグループ ビジネスモデル",
+   "results": [
+    "https://eternal-hospitality.co.jp/ir/business/",
+    "https://eternal-hospitality.co.jp/",
+    "https://eternal-hospitality.co.jp/wp-public/wp-content/uploads/2026/04/260327.pdf",
+    "https://www.recruit.torikizoku.co.jp/fresh/business/",
+    "https://note.com/insideir/n/ncab602bfb743",
+    "https://job.mynavi.jp/28/pc/search/corp273025/outline.html",
+    "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "https://www.youtube.com/watch?v=H5MPvHh4_UU",
+    "https://dcross.impress.co.jp/docs/usecase/004648.html",
+    "https://consovation.com/成長戦略が見えるエターナルホスピタリティグル/"
+   ]
+  },
+  {
+   "query": "エターナルホスピタリティグループ 決算説明資料",
+   "results": [
+    "https://eternal-hospitality.co.jp/ir/material/",
+    "https://eternal-hospitality.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3193",
+    "https://www.buffett-code.com/company/3193/library",
+    "https://eternal-hospitality.co.jp/ir/notice/",
+    "https://irbank.net/E30699/reports",
+    "https://eternal-hospitality.co.jp/en/ir/news/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260917537886",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260911/20260911535131.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260917537886/"
+   ]
+  },
+  {
+   "query": "エターナルホスピタリティグループ 事業系統図",
+   "results": [
+    "https://eternal-hospitality.co.jp/company/group/",
+    "https://eternal-hospitality.co.jp/company/profile/",
+    "https://eternal-hospitality.co.jp/",
+    "https://eternal-hospitality.co.jp/news/2025/08/01/466/",
+    "https://www.recruit.torikizoku.co.jp/fresh/about/",
+    "https://job.mynavi.jp/27/pc/search/corp273025/outline.html",
+    "https://eternal-hospitality.co.jp/pdf/company-info.pdf?2512",
+    "https://kitaishihon.com/company/3193/business",
+    "https://note.com/eternal0501/n/n1dc26cef07a5",
+    "https://ja.wikipedia.org/wiki/鳥貴族"
+   ]
+  },
+  {
+   "query": "エターナルホスピタリティグループ 社長 インタビュー",
+   "results": [
+    "https://eternal-hospitality.co.jp/company/profile/",
+    "https://www.recruit.torikizoku.co.jp/fresh/interview/04/",
+    "https://shacho.osakazine.net/e782658.html",
+    "https://business.nikkei.com/atcl/seminar/21nv/00057/032500003/",
+    "https://www.youtube.com/watch?v=H5MPvHh4_UU",
+    "https://kitaishihon.com/company/3193/board-of-director",
+    "https://mirakin.jp/seizou/pastarticles/eternalhospitalitygroup/",
+    "https://note.com/eternal0501/n/n2b598c71f7c0",
+    "https://ja.wikipedia.org/wiki/大倉忠司",
+    "https://shachomeikan.jp/presidents/detail/10063424"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式21頁／PDF・画像11件／外部1頁・検索5回）"
+ }
+}

@@ -1,0 +1,1659 @@
+{
+ "name": "日本取引所グループ",
+ "aliases": [],
+ "context": "証券コード8697／その他金融業／プライム（内国株式）／2026.03期 売上高164,172百万円 営業利益率54.3%",
+ "researched_at": "2026-11-02T14:49:37.582678+00:00",
+ "official_url": "https://www.jpx.co.jp/",
+ "identified_by": "search:yahoo_jp:日本取引所グループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2015年6月",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2013年1月1日",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/profile/index.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "企画のIR部門と、機関投資家・証券会社がつながるプラットフォーム「みんなの説明会」の運営",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業概要",
+    "value": "金融商品取引所持株会社グループの経営管理及びこれに附帯する業務",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/profile/index.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1,252名（連結） ＜内訳＞ 株式会社日本取引所グループ　223名 株式会社東京証券取引所　　　305名 株式会社大阪取引所　　　　　162名 株式会社東京商品取引所　　　7名 株式会社ＪＰＸ総研　　　　　263名 日本取引所自主規制法人　　　187名 日本証券クリアリング機構　　105名 （2026年3月31日現在）",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/profile/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（適時開示情報閲覧サービス）",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品先物価格情報(OSE)",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "J-Quants APIは、ヒストリカルの株価や企業財務情報などの金融データをAPIで配信する、個人の方向けのサービスです",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イベントトランスクリプト提供サービス",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "決算説明会情報の提供や、投資家、証券会社と上場会社間の取材日程の調整など、各種サービスを提供しています",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "TOCOM商品先物取引に関する情報窓口",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品先物取引に関する相談、商品先物取引業者等への苦情、商品先物市場における不公正取引に係る情報受付",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社の金融商品取引監査等に係る情報全般",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（適時開示情報閲覧サービス）",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート・ガバナンス情報サービス",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証に上場している商品についてご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪取引所に上場している商品についてご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとの取引時間についてご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとの取引最終日等の期日についてご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大阪取引所／東京商品取引所日報",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品ごとに、月間・年間・年半期・年度・年度半期ベースの取引高・取引代金について、ヒストリカルデータとしてとりまとめています",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "各デリバティブ商品の情報ベンダーコードをご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品先物価格情報（OSE）",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティビティサービス",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イベントトランスクリプト提供サービス | 有料情報（上場会社関連） | 日本取引所グループ",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イベントトランスクリプト提供サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社ESG情報関連サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社向け通知配信サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資家向けサービスの概要",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SCRIPTS Asiaサービスは、日本及びアジア太平洋地域における投資家向けイベントの幅広いカバレッジを有します",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの特長やご利用いただくメリット、提供している各機能の概要等について動画でご紹介しています",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスで提供するデータは以下のとおりです",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リスクモンスター（株）「反社チェックサービス」等",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リスクモンスター（株）ASPICクラウドアワードで脚光を浴びたサービス紹介等",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)ＯＤＫソリューションズ 事業紹介・事業戦略説明",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "イベントトランスクリプト提供サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社ESG情報関連サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社向け通知配信サービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "機関投資家向けサービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社向けサービス",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社みんせつ（以下「みんせつ」）は、決算説明会情報の提供や、投資家、証券会社と上場会社間で行われる取材日程を調整するシステムなど、各種サービスを提供するIRコミュニケーションプラットフォーム「みんなの説明会」を運営しており、取材日程調整サービスは、年間25,000件以上（2022年実績）利用されています",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、投資家属性情報の提供や説明会開催支援などのIR支援サービスも上場会社向けに提供しています",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "みんせつウェブサイト「機関投資家向けサービス」",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス名称",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "みんせつウェブサイト「上場企業IR向けサービス」",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外の機関投資家を知ることができるサービスです",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外の機関投資家と簡単に面談予約ができるサービスです",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内・海外の機関投資家向けオンラインイベントを開催できるサービスです",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "機関投資家・アナリスト向けにイベント情報の案内ができるサービスです",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/regulation/mail/unfair/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "B氏が手がけているとの話を聞いたのだが．．．」、「C社のD氏はインサイダー情報を利用して売買していたようだ．．．」といった東京証券取引所、大阪取引所及び東京商品取引所の上場銘柄等に関わる不公正取引に関する情報を受け付けています",
+    "url": "https://www.jpx.co.jp/regulation/mail/unfair/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/access/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東京商品取引所",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/access/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/shareholders/announcement/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会招集通知（その添付資料を含む）は、東証上場会社情報サービスからご確認いただけます",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証上場会社情報サービス",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・「適時開示情報閲覧サービス」から、過去1か月分の適時開示資料が閲覧可能です",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "開催予定の各種セミナーやイベントを一覧にして紹介しているページです",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日経225miniの上場20周年を迎えるにあたり、その歩みや市場の発展の軌跡、これを記念した取組みについてご紹介します",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社の会社紹介や社長メッセージなどの投資者向け動画を配信しています",
+    "url": "https://www.jpx.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JPXグループおよびJPXグループのパートナー会社が提供する有償・無償データを網羅的にカタログ化しているほか、各データの特徴や使い方を紹介しております",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "JPXグループおよびJPXグループのパートナー会社が有料で提供している上場会社関連のデータコンテンツをご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "JPXグループおよびJPXグループのパートナー会社が有料で提供している株式関連のデータコンテンツをご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "相場操縦取引の防止のための取組み、相場操縦FAQなどについてご紹介します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "インサイダー取引の防止のための取組み、インサイダーFAQなどについてご紹介します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "JPXのサステナビリティ関連取組みをご紹介しています",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月5日の現物売買システム更改にあわせて実施した制度変更をご紹介しています",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "上場会社とのパートナー契約に基づき、決算説明会、ESG説明会、中期経営計画説明会、株主総会等のイベントへ参加し、網羅的な書き起こし記事を日本語等ローカル言語及び英語にて作成します",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "取得した音声データと作成した日本語等ローカル言語及び英語の書き起こし記事は、当社より直接又は提携する配信チャネルパートナー各社より投資家に配信されます",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスの特長やご利用いただくメリット、提供している各機能の概要等について動画でご紹介しています",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京証券取引所では、上場会社の会社紹介や社長メッセージなどの投資者向け動画を、YouTubeの東証専用チャンネル「東証IRムービー・スクエア」で配信しています",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高千穂交易（株）会社紹介 2026 「コーポレートストーリー編」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高千穂交易（株）会社紹介 2026 「会社概要編」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）コロワイド 事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リスクモンスター（株）ASPICクラウドアワードで脚光を浴びたサービス紹介等",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "リスクモンスター（株）与信管理事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ヤマイチ・ユニハイムエステート(株) 事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）アイナボホールディングス 会社紹介＆72期中間業績報告",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリアル（株） 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミタチ産業（株） 会社紹介動画",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザーテック（株） 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＳＥＭＩＴＥＣ（株） 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＳＡＡＦホールディングス（株）会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）ＩＢＪ 会社紹介（サステナビリティ対談動画）",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ルネサスエレクトロニクス（株）会社紹介「ルネサス、私たちの\"Purpose\"とこれから」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "コスモ・バイオ(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)ＯＤＫソリューションズ 事業紹介・事業戦略説明",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介 | 日本取引所グループ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/analyst-report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アナリストレポート・上場会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）アイナボホールディングス 会社紹介＆72期中間業績報告",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)アイビー化粧品 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "（株）ＩＢＪ 会社紹介（サステナビリティ対談動画）",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "浅香工業(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "朝日インテック(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年 (株)朝日ラバー 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "アライドアーキテクツ会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)AMBITION 事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "いちご(株) グループの事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "いであ(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "伊藤忠商事(株) 会社紹介「Brand-new Deal 2017」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)イワキ（イワキポンプ）事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)インフォメーション・ディベロプメント 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)うるる 事業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)エクストリーム 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)エノモト 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)エージーピー 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリックス(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "オリンパス(株) 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)ＯＤＫソリューションズ 事業紹介・事業戦略説明",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "カシオ計算機(株)企業紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)要興業 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)キャリア 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "クリアル（株） 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2022年4月以降進めているTOPIXの見直しについてご案内します",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月5日の現物売買システム更改にあわせて実施した制度変更をご紹介しています",
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月時点",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年6月",
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算会社（2026年6月9日時点）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年の定時株主総会の動向（2026年4月28日公表）については以下の資料をご参照下さい",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算会社の定時株主総会の動向について",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年 (株)朝日ラバー 会社紹介",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/ceo-message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年1月1日",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/profile/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算会社の",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/press202604.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月期決算会社の定時株主総会開催日集計結果（東証上場会社） （別紙）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月期決算会社の定時株主総会開催日集計結果（東証上場会社） （別紙）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年3月期決算会社の定時株主総会開催日集計結果（東証上場会社） （別紙）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年3月期決算会社の定時株主総会開催日集計結果（東証上場会社） （別紙）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2019年3月期決算会社の定時株主総会開催日集計結果（東証上場会社） （別紙）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成26年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２６年３月期 平成２５年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成25年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２５年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２４年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成24年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２４年３月期 平成２３年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成23年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２３年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２２年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成22年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２１年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成21年3月期決算会社の定時株主総会開催日集計結果（東証上場会社）",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成２０年３月期",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1998 年に「大学等技術移転促進法」、 1999 年",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1972 年には委託研究を行う会社から自社製品の開発・",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000 年以降にはアメリカ、ポーランドに子会社設立を果たし",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1964 年 福岡県生まれ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1987 年 株式会社西部技研 入社",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990 年 米国ニチメン社 出向",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1997 年 株式会社西部技研 専務取締役営業本部長就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2002 年 株式会社西部技研 代表取締役社長就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023 年 東証スタンダード市場に株式上場",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006 年設立のデジタルキューブは、無料のオープンソー",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1975 年 徳島県生まれ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1998 年 日本マクドナルド株式会社入社",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003 年 株式会社カーフー入社",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2006 年 株式会社デジタルキューブ設立",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 TOKYO PRO Market 上場",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1973 年 兵庫県生まれ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1997 年 大蔵省（現 財務省） 入省",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2001 年 マッキンゼー・アンド・カンパニー 入社",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2004 年 ターボリナックス株式会社取締役就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012 年 MIKAWAYA21 株式会社設立、取締役就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013 年 ASTROSCALE PTE. LTD. 設立、CEO 就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015 年 株式会社アストロスケール代表取締役就任",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018 年 株式会社アストロスケールホールディングス",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年 東証グロース市場に株式上場",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "アイビス社長メッセージ｜ibisPaintのビジネスモデルと成長戦略",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アイビス社長メッセージ｜ibisPaintのビジネスモデルと成長戦略",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "チャームと共同で ビジネスモデル特許も取得",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "JPXのビジネスモデル",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/tvdivq000000v75t-img/Business_Model_j.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "JPXのビジネスモデル | グローバル展開活動 | 株式会社日本取引所グループ | 新卒採用情報",
+    "url": "https://www.jpx-recruit.jp/company/business05/",
+    "pass": 3
+   },
+   {
+    "quote": "JPXのビジネスモデル",
+    "url": "https://www.jpx-recruit.jp/company/business05/",
+    "pass": 3
+   },
+   {
+    "quote": "JPXのビジネスモデル | グローバル展開活動",
+    "url": "https://www.jpx-recruit.jp/company/business05/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "小田急電鉄（株）社長による3分メッセージ～小田急グループの強みと魅力～",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "中国人社長率いるMade in Japanブランド、 日本品質を強みに世界へ！",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "小田急電鉄（株）社長による3分メッセージ～小田急グループの強みと魅力～",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "点が他社に対する優位 性や参入障壁を生 み出していると",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "充実したサポートを強みとし、国内大手企業、さらに",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "（株）オーディオストック",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/analyst-report/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "統計・補足資料（売買・清算データ、手数料）",
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高額なライセンスが当たり前だっ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス開始の翌年「日本サブスクリプションビジネス大",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従量制を基本にスタートしました",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と、思い切って月額定額制に変えたらシンプルで分かりや",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "すくなり、むしろ“サブスク”として広まりだしたんです」",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実施される「こども誰でも通園制度」に備え、一時利用料な",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "事業領域を広げて顧客価値を最大化、マーケティングテクノロジーで世界を豊かに",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証は、YouTubeサイトにおける本チャンネルに関して、信憑性、正確性、完全性、最新性、網羅性、適時性、投資目的等特定目的への適合性等について保証せず、利用者及びその他の第三者に対して責任を負いません",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証は、利用者に対して、本チャンネルの利用に関連して生じたいかなる損害についても、一切の責任を負いません",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "東証は、東証又は本チャンネルに起因し、本チャンネルを利用することができない状況について、いかなる場合も、利用者に対し一切の責任を負いません",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会課題や利用者のニーズを起点とした顧客本位・マーケットインの姿勢に徹底して取り組むことで、より良い市場・より良いサービスの創出につなげてまいります",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/ceo-message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "市場利用者の皆様がいつでも安心して有価証券の取引ができるよう、子会社・関連会社を含めたグループ全体で、取引所金融商品市場の開設・運営に係る事業を行っています",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "グループ一丸となり、有価証券等の上場、売買、清算・決済から情報配信に至るまで総合的なサービス提供を行うことで、市場利用者の方々にとって、より安全で利便性の高い取引の場を提供できるよう努めています",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、金融テクノロジーの発達による取引手法の多様化・高度化や新商品の上場などに適切かつ機動的に対応し、市場利用者のニーズを実現していくためには、絶えずＩＴインフラの整備を推進していく必要があります",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、金融テクノロジーの発達による取引手法の多様化・高度化や新商品の上場などに適切かつ機動的に対応し、市場利用者のニーズを実現していくためには、絶えずITインフラの整備を推進していく必要があります",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、これらを通じて、投資者を始めとする市場利用者の支持及び信頼の増大が図られ、その結果として、利益がもたらされるものと考えます",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様第一主義 － Customer First",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、多様なステークホルダーのニーズを把握し、お客様の満足の総和を最大化するため、常にお客様目線で考え抜き、最適解を模索し続けます",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、グローバルな競争力の強化とお客様の利便性向上のため、失敗を恐れず、チャレンジ精神と情熱をもって創造性の高い商品とサービスの提供に取り組みます",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "右肩上がりに成長する4つのバーはグループの信条である「4つのC」、すなわち、お客様第一主義（Customer First）、創造性の追求（Creativity）、社会からの信頼確保（Credibility）、社員の能力発揮（Competency）を象徴しています",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/jpx-logo/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "それでも創業者は顧客との競合を避ける",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「株主、顧客、社 員を含むすべてのステークホルダーの",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "るユーザーはリチウムイオン電池工場で、全工程ドライな環",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "10 数年前、取引先から自分",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全工 程に同 社がかかわることで、エンドユーザーと直接",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外のユーザーも多い",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る仕事と、 OSS の核となるユーザーコミュニティ活動、そして",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関、株主、投資家、パートナー、お客様、サプライヤー、メデ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今度は利用者から『土曜日は来たけど平日 1 日休んだとき』",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あれば『こんなものもお勧めです』など、ユーザー一人ひとり",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「Web 接客でユーザーにとって使いやすいサイトができても、",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これを購買行動と結びつけると『御社の上顧客はこんな",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のなら、ビジネスを作って世 界中に広げ、顧客や市場、雇",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プローチすべき顧客に対しては力を合わせ、グループシナ",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デジタル人材が、当社の中でも顧客企業の現場でも、全く",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "制度利用者の声",
+    "url": "https://www.jpx-recruit.jp/company/business05/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "曜日 プライム市場 スタンダード市場 グロース市場 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場第一部 市場第二部 マザーズ ＪＡＳＤＡＱ曜日 市場第一部 市場第二部 マザーズ ＪＡＳＤＡＱ 合計 曜日 合計 構成比 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "曜日 市場第一部 市場第二部 マザーズ ＪＡＳＤＡＱ 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "曜日 市場第一部 市場第二部 マザーズ 合計 構成比ＪＡＳＤＡＱ",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構成比 構成比 市場第二部 マザーズ 合計",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "曜日 市場第一部 市場第二部 マザーズ 合計 構成比 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 構成比合計 曜日 市場第一部 市場第二部 マザーズ構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "曜日 市場第一部 市場第二部 マザーズ 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場第二部 マザーズ 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "曜日 市場第一部 合計 構成比市場第二部 マザーズ 合計 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "合計 構成比 マザーズ市場第一部 市場第二部",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "予定日 曜日 構成比",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場第一部 市場第二部 マザーズ 合計構成比 曜日合計",
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「当社は創業時から環境と省エネルギーが事業セグメント",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 | 日本取引所グループ - JPX — 事業紹介 | 日本取引所グループ - JPX 日本取引所グループ https://www.jpx.co.jp > corporate > about-jpx > business",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ の企業情報 | CFN（CareerForum.Net） — 日本取引所グループ の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > company_list > company_detail",
+    "url": "https://careerforum.net/ja/company_list/2665/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 | 日本取引所グループ - JPX — 決算 情報 | 日本取引所グループ - JPX 日本取引所グループ https://www.jpx.co.jp > ir-library > financial-info",
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/ir-library/financial-info/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報（IR） | 日本取引所グループ — 株主・投資家情報（IR） | 日本取引所グループ 日本取引所グループ https://www.jpx.co.jp > corporate > investor-relations",
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/",
+    "pass": 3
+   },
+   {
+    "quote": "【 日本取引所グループ 】[8697]IR情報 中期経営計画や 決算 短信 — 【 日本取引所グループ 】[8697]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=8697",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 日本取引所グループ - JPX — IR 資料 室 | 日本取引所グループ - JPX 日本取引所グループ https://www.jpx.co.jp > investor-relations > ir-library",
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/ir-library/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ 【8697】の最新 決算 発表、業績修正 - 株探 — 日本取引所グループ 【8697】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 日本取引所グループ (8697)",
+    "url": "https://kabutan.jp/stock/finance?code=8697",
+    "pass": 3
+   },
+   {
+    "quote": "組織図（ 日本取引所グループ ） - JPX — 組織図（ 日本取引所グループ ） - JPX 日本取引所グループ https://www.jpx.co.jp > about-jpx > organization",
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "JPX企業情報 | 日本取引所グループ — JPX企業情報 | 日本取引所グループ 日本取引所グループ https://www.jpx.co.jp > corporate",
+    "url": "https://www.jpx.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ の会社概要 | マイナビ2028 — 日本取引所グループ の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp2282 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp2282/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ - Wikipedia — 日本取引所グループ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 日本取引所グループ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%96%E5%BC%95%E6%89%80%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "3分でわかるJPXの存在意義 | 株式会社 日本取引所グループ — 3分でわかるJPXの存在意義 | 株式会社 日本取引所グループ jpx-recruit.jp https://www.jpx-recruit.jp > atfirst > threemin",
+    "url": "https://www.jpx-recruit.jp/atfirst/threemin/",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ ・山道CEO、日本株の投資単位「10万円 ... — 日本取引所グループ ・山道CEO、日本株の投資単位「10万円 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUA201Z60Q6A120C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "上場会社トップ インタビュー 「創」 | 日本取引所グループ - JPX — 上場会社トップ インタビュー 「創」 | 日本取引所グループ - JPX 日本取引所グループ https://www.jpx.co.jp > listing > ir-clips > interview",
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本取引所グループ CEO｢東京証券取引所の改革はまだ1.5合目 ... — 日本取引所グループ CEO｢東京証券取引所の改革はまだ1.5合目 ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/885604?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "山道裕己 - 日本取引所グループ の歴代 社長 - The社史 — 山道裕己 - 日本取引所グループ の歴代 社長 - The社史 The社史 https://the-shashi.com > ... > 歴代社長",
+    "url": "https://the-shashi.com/tse/8697/executives/ceo/yamaji-hiromi/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jpx.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/institutional/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/transcripts/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/markets/paid-info-listing/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/regulation/mail/unfair/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/access/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/shareholders/announcement/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/analyst-report/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/listing/ir-clips/ir-movie/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/ir-movie/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/markets/paid-info-listing/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/english/regulation/mail/unfair/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/investor-relations/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/ceo-message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/philosophy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/jpx-logo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/profile/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/officer/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/press202604.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/event-schedules/shareholders-mtg/tvdivq00000007jz-att/kako.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/t13vrt0000004cvt-att/SeibuGiken.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000026ij7-att/DigitalCube.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000023epr-att/Astroscale.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000001521z-att/BABYJOB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc0000011exj-att/F-code.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jpx.co.jp/listing/ir-clips/interview/detail/um3qrc000000yd3l-att/3482.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://img.youtube.com/vi/hEnmQYb3oBw/default.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://img.youtube.com/vi/6-qYC68H5y8/default.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/tvdivq000000v75t-img/Our-Business_j.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jpx.co.jp/corporate/about-jpx/business/tvdivq000000v75t-img/Business_Model_j.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jpx-recruit.jp/company/business05/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA201Z60Q6A120C2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本取引所グループ",
+   "results": [
+    "https://www.jpx.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%96%E5%BC%95%E6%89%80%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://x.com/JPX_official",
+    "https://www.nikkei.com/nkd/company/?scode=8697",
+    "https://www.youtube.com/channel/UCnZA74T8a8dEbavWRq8F2nA",
+    "https://ja.wikipedia.org/wiki/日本取引所グループ",
+    "https://finance.yahoo.co.jp/quote/8697.T",
+    "https://quote.jpx.co.jp/jpxhp/main/index.aspx?F=stock_search",
+    "https://x.com/jpx_official",
+    "https://www.jpx.co.jp/english/"
+   ]
+  },
+  {
+   "query": "日本取引所グループ ビジネスモデル",
+   "results": [
+    "https://www.jpx-recruit.jp/company/business05/",
+    "https://www.jpx.co.jp/corporate/about-jpx/business/",
+    "https://www.onecareer.jp/articles/2881",
+    "https://typeshukatsu.jp/s/article/internship/finance-int/c-1368-1/44354/",
+    "https://careerforum.net/ja/company_list/2665/company_detail/",
+    "https://www.smd-am.co.jp/glossary/YST1443/",
+    "https://www.jpx-recruit.jp/company/business/",
+    "https://www.nomura-am.co.jp/special/esg/engagement/spreport/trptalk_jpx.html",
+    "https://note.com/kira_star11/n/n37563e436cf0",
+    "https://www.jpx.co.jp/corporate/about-jpx/business/index.html"
+   ]
+  },
+  {
+   "query": "日本取引所グループ 決算説明資料",
+   "results": [
+    "https://www.jpx.co.jp/corporate/investor-relations/ir-library/financial-info/",
+    "https://www.jpx.co.jp/corporate/investor-relations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8697",
+    "https://www.jpx.co.jp/corporate/investor-relations/ir-library/index.html",
+    "https://kabutan.jp/stock/finance?code=8697",
+    "https://www.jpx.co.jp/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=8697",
+    "https://irbank.net/8697/ir",
+    "https://irbank.net/E03814/reports",
+    "https://finance.yahoo.co.jp/quote/8697.T/financials"
+   ]
+  },
+  {
+   "query": "日本取引所グループ 事業系統図",
+   "results": [
+    "https://www.jpx.co.jp/corporate/about-jpx/organization/",
+    "https://www.jpx.co.jp/corporate/",
+    "https://job.mynavi.jp/28/pc/search/corp2282/outline.html",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8F%96%E5%BC%95%E6%89%80%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.jpx-recruit.jp/atfirst/threemin/",
+    "https://www.daiwa.jp/glossary/YST1443.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8697",
+    "https://www.yutaka-trusty.co.jp/about_jpx/",
+    "https://ja.wikipedia.org/wiki/日本取引所グループ",
+    "https://kopenguin.com/post-106810/"
+   ]
+  },
+  {
+   "query": "日本取引所グループ 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUA201Z60Q6A120C2000000/",
+    "https://www.jpx.co.jp/listing/ir-clips/interview/index.html",
+    "https://toyokeizai.net/articles/-/885604?display=b",
+    "https://www.nomura-am.co.jp/special/esg/engagement/spreport/trptalk_jpx.html",
+    "https://the-shashi.com/tse/8697/executives/ceo/yamaji-hiromi/",
+    "https://www.youtube.com/playlist?list=PLZIQK5nk69Ts",
+    "https://kitaishihon.com/company/8697/board-of-director",
+    "https://www.jpx-recruit.jp/atfirst/threemin/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC0619G0W6A100C2000000",
+    "https://open-keieisha-db.com/executives/yamaji-hiromi"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像12件／外部2頁・検索5回）"
+ }
+}

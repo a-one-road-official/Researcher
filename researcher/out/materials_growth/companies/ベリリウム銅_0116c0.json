@@ -1,0 +1,2018 @@
+{
+ "name": "ベリリウム銅",
+ "en": "beryllium copper",
+ "aliases": [
+  "BeCu",
+  "ベリリウム銅合金"
+ ],
+ "context": "電子・防衛",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:49:58.815103+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "快削性ベリリウム銅合金の世界市場（2026年～2032年）、市場規模（ロッド、ワイヤー、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "快削性ベリリウム銅合金の世界市場（2026年～2032年）、市場規模（ロッド、ワイヤー、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "世界の快削ベリリウム銅合金市場規模は、2025年の1億600万米ドルから2032年には1億4100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "快削ベリリウム銅合金（C17300）の世界市場は現在、家電、車載エレクトロニクス、航空宇宙などの主要な下流分野に集中しています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用ベリリウム銅（CuBe）の世界市場（2026年～2032年）、市場規模（ベリリウム銅ストリップ、ベリリウム銅棒、ベリリウム銅線、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用ベリリウム銅（CuBe）の世界市場（2026年～2032年）、市場規模（ベリリウム銅ストリップ、ベリリウム銅棒、ベリリウム銅線、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の世界市場規模は、2025年の2億4,000万米ドルから2032年には3億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.4％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定される",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の欧州市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までのグローバル市場規模が、地理的地域別および国/地域別の年間販売量と年間収益で示されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2027年から2032年までの地域別グローバル市場規模予測と年間収益予測、南北アメリカ、APAC、ヨーロッパ、中東・アフリカの国別予測、およびタイプ別とアプリケーション別のグローバル予測が含まれています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "$ 4.38 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "$ 4.52 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "$ 6.26 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "に関する最新のIndexBoxレポートによると、2026年の市場は需要の基礎的条件がより広範になり、調達行動がより規律あるものとなり、供給構造が地域的に一層多様化した状態で幕を開けています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、世界のベリリウム銅市場を詳しく分析し、市場規模と成長、需要の構造、供給、貿易フロー、価格、競争環境、そして2035年までの予測を取り上げます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模、これまでの推移、2035年までの予測",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 市場規模とその推移",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模：過去データ（2012-2025年）と予測（2026-2035年）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "快削性ベリリウム銅棒の世界市場（2026年～2032年）、市場規模（直径 10 mm 以下、直径 10～25 mm、直径 25 mm 以上）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "快削性ベリリウム銅棒の世界市場（2026年～2032年）、市場規模（直径 10 mm 以下、直径 10～25 mm、直径 25 mm 以上）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、快削性ベリリウム銅棒の世界市場規模、市場動向、セグメント別予測（直径 10 mm 以下、直径 10～25 mm、直径 25 mm 以上）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "世界の快削ベリリウム銅棒市場規模は、2025年の9,900万米ドルから2032年には1億3,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 地理的地域別フリーマシニングベリリウム銅棒の世界的歴史レビューには、地理的地域別および国/地域別の過去の市場規模（販売量、収益）、アメリカ、APAC、ヨーロッパ、中東・アフリカにおける販売成長に関する情報（2021年～2026年）が収録されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "第12章 地理的地域別フリーマシニングベリリウム銅棒の世界的予測レビューには、地理的地域別、国別、タイプ別、アプリケーション別のグローバル市場規模予測（2027年～2032年）に関する情報が収録されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅ばね市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅製スプリング市場は、2032年までにCAGR 10.27％で2億6,995万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.6 billion",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "$2.6 billion",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "17 million units",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "$300 billion",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 5.5% | USD Billion",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "$660 million",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "45 million units annually",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": ", while small cell installations, which are being deployed by the millions to fill coverage gaps in dense urban environments, each contain between 40 and 60 beryllium copper parts. GSMA Intelligence estimates that there were approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "2.3 billion 5G connections",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Market Size, Share And Trends Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 231.5 Million",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 244.3 Million",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 338.9 Million",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の快削ベリリウム銅合金市場規模は、2025年の1億600万米ドルから2032年には1億4100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.9%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "第４章には、世界のフリーマシニングベリリウム銅合金市場の地域別および国別の過去の売上高と収益データ（2021年～2026年）、ならびにアメリカ、APAC、ヨーロッパ、中東・アフリカの地域別売上成長率がレビューされています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の世界市場規模は、2025年の2億4,000万米ドルから2032年には3億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.4％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定される",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の欧州市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅合金産業は、2025年に45.23億米ドルから2035年には62.65億米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は3.31を示します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025年第3四半期：カザトムプロム、北米へのベリリウム銅合金市場輸出業務を拡大",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅合金市場は、2024年から2035年までの間に年平均成長率3.31%で成長する見込みであり、電子機器、航空宇宙、自動車部門での需要の増加に支えられています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "世界のベリリウム銅市場の基準シナリオは、2035年までの着実な成長を想定しており、2026年から2035年までの年平均成長率（CAGR）は4.2%です",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに市場指数は150（2025年＝100）に達し、実質ベースで50%の拡大を反映すると予測されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、この分野は技術進歩と接続要件の増大に支えられ、2035年までに約4.5%のCAGRで成長すると予想されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "電子部品の小型化による薄板・線材への需要拡大、車両の電化による1台あたりのコネクタ搭載量の増加、5Gインフラ整備による高周波コネクタの需要、データセンターにおける高密度コネクタへの移行",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、この分野は産業自動化と車両の電化に支えられ、2035年までに約3.8%のCAGRで成長すると予想されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年まで、この分野はインフラ支出と新興経済国における製造業の拡大の恩恵を受けるでしょう",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、この分野はインフラ整備と製造活動に支えられ、2035年までに約3.5%のCAGRで成長すると予想されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、この分野は航空宇宙産業の拡大に支えられ、2035年までに約4.8%のCAGRで成長すると予想されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の快削ベリリウム銅棒市場規模は、2025年の9,900万米ドルから2032年には1億3,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.0%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅製スプリング市場は、2032年までにCAGR 10.27％で2億6,995万米ドル規模に拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは10.27%です",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 5.5% | USD Billion",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2% CAGR",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 revenues, covers medical devices, scientific instruments, artistic casting applications, and a range of niche industrial uses. The Oil and Gas segment is expected to exhibit one of the stronger CAGRs among application categories at approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, driven by massive consumption of beryllium copper strip and wire in precision spring contacts, connectors, and micro-formed components for smartphones, tablets, and data center hardware. The segment is projected to grow at a CAGR of approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "of revenues, includes medical equipment, scientific instruments, automotive (overlapping coverage with application segment), and specialized industrial end-users. The Energy end-user industry is projected to exhibit the strongest growth rate among all end-user categories through 2034, at an estimated CAGR of approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "9. What is the projected CAGR of the beryllium copper market from 2026 to 2034?",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 6.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 6.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume in kilotons, revenue in USD million/billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global beryllium market is expected to grow at a CAGR of 6.8% from 2026 to 2033, reaching USD 338.9 million.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.2% CAGR",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is expected to grow at a 10.2% CAGR from 2026 to 2036, creating an incremental opportunity of USD 118.83 million.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR).",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Beryllium Copper Plate Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 72.40 Million to USD 191.23 Million, at a CAGR of 10.2%",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for Beryllium Copper Plate is expected to grow at a CAGR of 10.2% between 2026 and 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "India leads with a 13.1% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.87% CAGR",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "According to Reportprime, the global market reached USD 630.00 Million in 2024 and is projected to climb to USD 666.98 Million in 2025 before accelerating toward USD 939.18 Million by 2031, registering a 5.87 % CAGR. Such growth underpins rising search interest in Beryllium Copper Alloy demand analysis and sustainable sourcing initiatives.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "North America, excluding the USA, builds on aerospace and oil-field tooling demand, pushing beryllium copper use in precision fittings and high-stress springs. Regional revenue is forecast to rise from $133.40 million in 2025 to $178.44 million by 2031, delivering $45.04 million absolute growth and a 4.80% CAGR, catalyzed mainly by deepwater drilling expansion in the Gulf of Mexico.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s mature yet innovative manufacturing floor values ultra-clean alloys for robotics and next-gen automobiles. The national beryllium copper market expands from $53.36 million in 2025 to $65.74 million by 2031, a $12.38 million increment equating to a measured 3.48% CAGR. Surge in compact LiDAR and pressure sensors for autonomous vehicles remains the principal spur.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Korea’s agile chaebol supply chains continue ramping up advanced battery and display capacity, spurring robust need for high-performance copper alloys. Market turnover is expected to swell from $33.35 million in 2025 to $56.35 million come 2031—an extra $23.00 million and an impressive 9.12% CAGR. Explosive investment in next-generation solid-state EV batteries anchors the momentum.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "China remains the single largest incremental buyer as domestic telecom and consumer electronics giants double down on performance metals. Sales advance from $80.04 million in 2025 to $112.70 million by 2031, generating $32.66 million of extra turnover and a 5.86% CAGR. The roll-out of dense 5G and upcoming 6G base stations underpins soaring connector content.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "In the USA, defense avionics and semiconductor reshoring programs are reinvigorating the appetite for temperature-resilient alloys. Domestic demand is forecast to grow from $120.06 million in 2025 to $178.45 million by 2031, producing $58.39 million in new revenue and a 6.87% CAGR. Pentagon hypersonic initiatives and CHIPS Act-backed foundries top the list of stimulants.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper market will grow at CAGR of 5.87% from 2026 to 2032.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.2% CAGR",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is expected to grow at a 8.2% CAGR from 2026 to 2036, creating an incremental opportunity of USD 338.02 million.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR).",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Beryllium Copper For Industrial Equipment Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036)",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 281.86 Million to USD 619.88 Million, at a CAGR of 8.2%",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Demand for Beryllium Copper for Industrial Equipment is expected to grow at a CAGR of 8.2% between 2026 and 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "本レポートでは、世界有数の企業が持つ、加工性ベリリウム銅合金の製品ポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当てた戦略を分析し、急成長する世界の加工性ベリリウム銅合金市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業ごとの世界のフリーマシニングベリリウム銅合金の年間売上高、売上市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、集中度CR3、CR5、CR10）、新製品と潜在的参入者、およびM&A活動と戦略に関する情報が掲載されています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用銅ベリリウム（CuBe）の世界的な主要企業には、マテリオン、NGKベリルコ、カザトムプロム、ベルモント・メタルズ、スミス・メタル・センターズなどが含まれます",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、コネクタ用ベリリウム銅（CuBe）のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なコネクタ用ベリリウム銅（CuBe）市場の加速する動向における主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーのコネクタ用ベリリウム銅（CuBe）の生産地域分布、販売地域、製品タイプ、市場集中度分析（競争環境分析、CR3、CR5、CR10の集中度比率と2024-2026年の予測）、新製品および潜在的参入者、市場のM&A活動と戦略についても記載されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の分析が詳細に記述されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ここでの市場は、信頼性と効率を確保するために革新的なアプリケーションと製品の向上に焦点を当てる主要企業によって特徴づけられています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "北米の競争環境は堅調で、マテリオン、アメテック、ミラーエレクトリックなどの主要企業が存在しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋の競争環境は進化しており、NGKインシュレータや三菱マテリアルなどの主要企業が市場をリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "中東およびアフリカの競争環境はまだ発展途上であり、いくつかの主要企業が存在感を示し始めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、主要企業の集団的影響力は重要であり、革新を推進し、業界基準を設定しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅合金市場市場の主要企業には以下が含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロファイル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "代表的な参入企業：",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、信頼できる市場統計をベースに、販売計画、調達の判断、新規市場への参入、競合の把握、製品ラインアップの優先順位付けに役立つ実務的な分析を組み合わせています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "12. 成長戦略と市場参入",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入と事業拡大の優先課題",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "参入リスクと軽減策",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "14. 主要企業プロファイル",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と戦略類型",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートは、快削ベリリウム銅棒のポートフォリオと能力、市場参入戦略、市場における地位、地理的な事業展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の快削ベリリウム銅棒市場における各社の独自の立場をより深く理解することを目的としています",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 グローバル企業別には、企業別の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産拠点、販売地域、製品タイプ、市場集中率分析（競争状況、CR3, CR5, CR10）、新製品と潜在的参入企業、M&A活動と戦略に関する情報が記載されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "第13章 主要プレーヤー分析には、Materion、NGK Metals、Smiths Metal Centres、Zhuzhou Amalloy Materialといった主要企業の会社情報、製品ポートフォリオと仕様、販売、収益、価格、売上総利益（2021年～2026年）、主要事業概要、最新の動向に関する詳細な分析が記載されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "Materion Corporation led the competitive landscape in 2025",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the beryllium market are undertaking various initiatives to strengthen their presence and increase the reach of their products and services. Strategies such as expansion activities and partnerships are key in propelling the market growth. Some of the key players operating in the market include American Elements, American Beryllia Inc. among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and volume forecast, company ranking, competitive landscape, flit factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in beryllium market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Materion Corporation, Ulba Metallurgical Plant, IBC Advanced Alloys Corp, NGK Metals Corporation, American Beryllia Inc, Belmont Metals Inc, American Elements, China Beryllium Copper Alloy Co Ltd, Aviva Metals, Charter Dura Bar, among others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Materion, NGK Metals, Kazatomprom, Aviva Metals, IBC Advanced Alloys, Belmont Metals, Ampco Metal.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "What defines the competitive landscape of the beryllium copper plate market?",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Beryllium Copper Plate Market",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Materion, NGK Metals, Kazatomprom, Aviva Metals, IBC Advanced Alloys, Belmont Metals, Ampco Metal.",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "What defines the competitive landscape of the beryllium copper for industrial equipment market?",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Beryllium Copper for Industrial Equipment Market",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium-Copper Alloys Market Top Key Players:",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "NGK (Japan), and Other Major Players.",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materion (U.S.), NBM Metals (U.S.), IBC Advanced Alloys (U.S.), Belmont Metals (U.S.), AMPCO METAL (Switzerland), ULBA (Kazakhstan), and Other Major Players.",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "6.1 Competitive Landscape",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "6.36 OTHER MAJOR PLAYERS",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.6.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.7.2 Top Key Companies",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Beryllium-Copper Alloys Market?",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materion (U.S.), NBM Metals (U.S.), IBC Advanced Alloys (U.S.), Belmont Metals (U.S.), AMPCO METAL (Switzerland), ULBA (Kazakhstan), CNMNC (China), FHBI (China), Jinfeng Metal (China), Lanfeng Non-ferrous Metal (China), Yinke (China), NGK (Japan), and Other Major Players.",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in Beryllium Market:",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the Beryllium Market",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Beryllium Market",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "第６章には、APAC地域（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）における地域別、タイプ別、用途別のフリーマシニングベリリウム銅合金の売上および収益データが収録されています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：快削性ベリリウム銅合金の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別およびアプリケーション別の販売量データが提供されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：コネクタ用ベリリウム銅（CuBe）の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "マテリオン（米国）、NGKインシュレーター（日本）、ヘラウス（ドイツ）、KGHMザナム（ポーランド）、アルテンプ合金（米国）、三菱マテリアル（日本）、アメテック（米国）、ミラーエレクトリック（米国）、三井金属鉱業（日本）",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "この地域の成長は、特に中国や日本などの国々における急速な工業化によって促進されており、電子機器および自動車セクターにおける高性能材料の需要が高まっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "中国はこの地域で最大の市場であり、世界シェアの約15%を占めており、日本は約5%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋の競争環境は進化しており、NGKインシュレータや三菱マテリアルなどの主要企業が市場をリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "主要なプレーヤーであるマテリオン（米国）、NGKインシュレーター（日本）、ヘラウス（ドイツ）は、市場での地位を強化する戦略を積極的に追求しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "一方、NGKインシュレーター（日本）は、製造プロセスにエコフレンドリーな実践を統合し、持続可能性へのコミットメントを強調しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、NGKインシュレーター（日本）は、ベリリウム銅合金の製造専用の新しい生産施設を発表し、出力能力の向上を目指しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要なプレーヤーには、マテリオン、NGK絶縁体、ヘラウス、KGHMザナム、三菱マテリアルが含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "Materion Corporation、NGK Metals Corporation、Wieland Group、KME AG、古河電気工業",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は、中国、日本、韓国における急速な工業化、エレクトロニクス製造、自動車生産に牽引され、ベリリウム銅市場を支配しています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "世界全体に加え、本レポートが対象とする50か国・地域すべてを個別に取り上げます：アメリカ合衆国、中国、日本、ドイツ、イギリス、フランス、ブラジル、イタリア、ロシア、インド、カナダ、オーストラリア、韓国、スペイン、メキシコ、インドネシア、オランダ、トルコ、サウジアラビア、スイス、スウェーデン、ナイジェリア、ポーランド、ベルギー、アルゼンチン、ノルウェー、オーストリア、タイ、アラブ首長国連邦、コロンビア、デンマーク、南アフリカ、マレーシア、イスラエル、シンガポール、エジプト、フィリピン、フィンランド、チリ、アイルランド、パキスタン、ギリシャ、ポルトガル、カザフスタン、アルジェリア、チェコ、カタール、ペルー、ルーマニア、ベトナム",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章 アジア太平洋には、アジア太平洋地域における国別の販売量と収益、タイプ別およびアプリケーション別の販売量（2021年～2026年）、ならびに中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾それぞれの市場情報が記載されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：快削性ベリリウム銅棒の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、精密製造、エレクトロニクス、自動車、および先端産業システムにおいて顕著な存在です",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "需要を予測し、新たな価値を届ける営業｜社員インタビュー｜採用情報｜NGK株式会社（旧：日本ガイシ株式会社）",
+    "url": "https://www.ngk.co.jp/recruit/interview/24/",
+    "pass": 3
+   },
+   {
+    "quote": "私は金属事業部の輸出グループに所属し、営業としてベリリウム銅を日本のみならず、世界各国への販売と供給管理を担当しています",
+    "url": "https://www.ngk.co.jp/recruit/interview/24/",
+    "pass": 3
+   },
+   {
+    "quote": "昨今は日本で設計し海外工場で量産稼働といったケースも増えており、部内で情報共有をし、海外の現地スタッフとも連携を取って営業活動を行っています",
+    "url": "https://www.ngk.co.jp/recruit/interview/24/",
+    "pass": 3
+   },
+   {
+    "quote": "between 2026 and 2034 as electronics production volumes continue to expand globally. Wieland-Werke AG and Mitsubishi Shindoh are among the largest producers of precision beryllium copper strip globally, supplying major connector OEMs including Amphenol, Molex, and TE Connectivity.",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2.2 Japan",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.3.17 Mitsubishi Shindoh Co., Ltd.",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; Russia; Turkey; China; India; Japan; South Korea; Australia; Brazil; Saudi Arabia",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR).",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "How does Japan demonstrate precision manufacturing integration?",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "India, China, Brazil, USA, Germany, UK, Japan, and 40 plus countries",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional demand clusters around advanced manufacturing hubs: North America, Europe, Asia-Pacific, Japan, Korea, China and the USA. Top manufacturers shaping current Beryllium Copper Market trends include",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s mature yet innovative manufacturing floor values ultra-clean alloys for robotics and next-gen automobiles. The national beryllium copper market expands from $53.36 million in 2025 to $65.74 million by 2031, a $12.38 million increment equating to a measured 3.48% CAGR. Surge in compact LiDAR and pressure sensors for autonomous vehicles remains the principal spur.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR).",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "How does Japan demonstrate precision manufacturing excellence?",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration between Japanese manufacturers and international alloy producers ensuring material excellence and innovation",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why do rod and bar forms dominate component manufacturing in Japan?",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "China, India, Germany, Brazil, USA, UK, Japan, and 40 plus countries",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "NGK (Japan), and Other Major Players.",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific (China, India, Japan, South Korea, Malaysia, Thailand, Vietnam, The Philippines, Australia, New-Zealand, Rest of APAC)",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.6.3 Japan",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Materion (U.S.), NBM Metals (U.S.), IBC Advanced Alloys (U.S.), Belmont Metals (U.S.), AMPCO METAL (Switzerland), ULBA (Kazakhstan), CNMNC (China), FHBI (China), Jinfeng Metal (China), Lanfeng Non-ferrous Metal (China), Yinke (China), NGK (Japan), and Other Major Players.",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "How Do Precision Manufacturing Standards Define Japan’s Beryllium Industry Dynamics?",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Market Japan Market Share Analysis By Application | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The beryllium market in Japan reflects the country’s hallmark precision, regulatory rigor, and material engineering sophistication. Its industrial landscape, characterized by 12–18-month supplier qualification cycles, ensures only top-tier producers enter high-value manufacturing chains.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Product segmentation shows beryllium copper alloys (65%) as the dominant choice due to their mechanical strength and durability, followed by beryllium oxide (25%) for thermal insulation, and other variants (10%) for niche applications. Japan’s regulatory bodies enforce unparalleled safety and traceability standards, favoring suppliers with transparent, auditable supply chains.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Long-term, relationship-based procurement models, rather than transactional bidding, ensure production stability and continued innovation. These factors collectively sustain Japan’s reputation as a precision manufacturing benchmark for the global beryllium industry.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials Corporation",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Metals & Chemicals Co., Ltd.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USA, China, Spain, Canada, Japan, South Korea, Germany, UK, France, Australia, and 10+ additional countries",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Materion, IBC Advanced Alloys, Ulba Metallurgical Plant, Solvay, NGK Insulators, Mitsubishi Materials",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fueled by the fast urbanization and industrialization of nations like China, Japan, and India. The region's expanding automotive and electronics sectors, as well as supportive government initiatives that encourage production, are important drivers of market expansion.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-beryllium-copper-alloy-market-worldwide-2025-market-research-report-2024-2035",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "第２章には、世界のフリーマシニングベリリウム銅合金市場の概要、地域別および国別の現在と将来の分析（2021年、2025年、2032年）、製品タイプ別（ロッド、ワイヤー、その他）および用途別（家電、自動車エレクトロニクス、航空宇宙、その他）の市場セグメントに関する売上、収益、市場シェア、販売価格がまとめられています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業ごとの世界のフリーマシニングベリリウム銅合金の年間売上高、売上市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、集中度CR3、CR5、CR10）、新製品と潜在的参入者、およびM&A活動と戦略に関する情報が掲載されています",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "コスト構成：直接材料が約86％、製造間接費が約12％、人件費が約2％を占めています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ別（ベリリウム銅ストリップ、ベリリウム銅ロッド、ベリリウム銅ワイヤ、その他）、ベリリウム含有量別（低ベリリウム含有量（Be ≤ 1%）、高ベリリウム含有量（Be > 1%））、グレード別（C17200、C17510、その他）、およびアプリケーション別（航空宇宙・防衛、自動車エレクトロニクス、通信、家電、その他）のコネクタ用ベリリウム銅（CuBe）の販売に関する詳細な分析が提供されており、それぞれ2021年から2026年までの売上市場シェア、収益と市場シェア、および販売価格が示されています",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルでの企業別年間販売量および販売市場シェア（2021-2026）、企業別年間収益および収益市場シェア（2021-2026）、企業別販売価格が含まれます",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅合金市場の規模とシェアレポート 2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、通信セクターが市場のかなりの部分を占めると予想されており、接続性の進展とデジタル通信への依存の高まりを反映しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、自動車業界がベリリウム銅合金市場の重要なシェアを占めると予測されており、これは車両技術の革新と安全性および効率性への強調によって推進されます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、電気用途セグメントが市場の相当なシェアを占めると予想されており、これは電化の進展と先進的な電気システムを支える材料の必要性を反映しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "北米はベリリウム銅合金の最大市場であり、世界市場シェアの約45%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ合衆国がこの市場をリードしており、カナダが続いており、全体の市場シェアの約15%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、ベリリウム銅合金市場において重要な成長を遂げており、世界シェアの約30%を占めています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツとフランスが最大の貢献国であり、それぞれ約12%と8%の市場シェアを持っています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "電気コネクタ（推定シェア：30%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "電気コネクタ分野はベリリウム銅の最大の用途であり、世界需要の約30%を占めています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "ばね・ベローズ（推定シェア：20%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は世界のベリリウム銅需要の約20%を占めています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接機器（推定シェア：15%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は世界需要の約15%を占めています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品（推定シェア：20%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙部品分野はベリリウム銅の主要な消費先であり、世界需要の約20%を占めています",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・ガス用工具（推定シェア：15%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（推定シェア：45%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、インフラ投資と技術進歩に支えられ、2035年まで主導的なシェアを維持すると予想されます",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "北米（推定シェア：25%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州（推定シェア：20%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "中南米（推定シェア：5%）",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 エグゼクティブサマリーには、世界の市場概況、地理的地域別および国/地域別の現状と将来の分析（2021年、2025年、2032年）、タイプ別（直径25mm以下、直径25mm超）およびアプリケーション別（家電、車載電子機器、航空宇宙、その他）の市場セグメントの詳細な販売、収益、市場シェア、販売価格の分析が収録されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "第3章 グローバル企業別には、企業別の年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産拠点、販売地域、製品タイプ、市場集中率分析（競争状況、CR3, CR5, CR10）、新製品と潜在的参入企業、M&A活動と戦略に関する情報が記載されている",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅：世界市場シェアとランキング、総売上高および需要予測、2026年～2032年",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Plate and Strip segment commanded the largest share of the beryllium copper market by product type in 2025, accounting for",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Electronics application segment dominated the beryllium copper market in 2025, representing approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 revenues, with demand concentrated in beryllium copper downhole tools, subsea connector systems, blowout preventer components, and non-sparking hand tools used in hazardous petroleum processing environments. The Industrial Machinery application, accounting for approximately",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.2 Global Beryllium Copper Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Industrial components segment held the largest market share of 23.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 41.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Type, the C17200 Segment Accounts for a Dominant Market Share",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Plate Market Europe Country Market Share Analysis, 2026 & 2036",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 Global Beryllium Copper Sales Market Share by Type (2017-2025)",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 Global Beryllium Copper Revenue and Market Share by Type (2017-2025)",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1 Global Beryllium Copper Sale Market Share by Application (2020-2025)",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.2 Global Beryllium Copper Revenue and Market Share by Application (2017-2025)",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper For Industrial Equipment Market Europe Country Market Share Analysis, 2026 & 2036",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Application, Telecommunications Equipment segment held the largest share of xx% in 2022",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "6.1.2 Beryllium-Copper Alloys Market Share by Manufacturer (2024)",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Market Europe Country Market Share Analysis, 2025 & 2035 | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "快削性 ベリリウム銅 合金の世界 市場 （2026年～2032年） — 快削性 ベリリウム銅 合金の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "コネクタ用 ベリリウム銅 （CuBe）の世界 市場 （2026年 ... — コネクタ用 ベリリウム銅 （CuBe）の世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 ストリップ 市場 は、2026年から2033年までの間 ... — ベリリウム銅 ストリップ 市場 は、2026年から2033年までの間 ... LinkedIn https://jp.linkedin.com > pulse > ベリリウム銅ストリップ市...",
+    "url": "https://jp.linkedin.com/pulse/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB57%E3%81%AEcagr%E3%81%A7%E9%87%8D%E8%A6%81%E3%81%AA%E6%88%90%E9%95%B7%E3%81%A8%E7%AB%B6%E4%BA%89%E3%81%AE%E8%BF%BD%E8%B7%A1%E3%81%8C%E8%A6%8B-7515967701362556928-hvjde",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 合金 市場 の 規模 とシェアレポート 2035 — ベリリウム銅 合金 市場 の 規模 とシェアレポート 2035 Market Research Future https://www.marketresearchfuture.com > reports > berylli...",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅市場 2035年予測：航空宇宙と ... - IndexBox — ベリリウム銅市場 2035年予測：航空宇宙と ... - IndexBox IndexBox https://www.indexbox.io > ブログ > 市場 > ベリリウム銅",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 合金 市場 規模、シェア、2034年までの 予測 — ベリリウム銅 合金 市場 規模、シェア、2034年までの 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > ベリリウム銅...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-109446",
+    "pass": 3
+   },
+   {
+    "quote": "快削性 ベリリウム銅 棒の世界 市場 （2026年～2032年） — 快削性 ベリリウム銅 棒の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 合金 市場 の規模とシェアレポート 2035 — ベリリウム銅 合金 市場 の規模とシェアレポート 2035 Market Research Future https://www.marketresearchfuture.com > reports > berylli...",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 ばね 市場 ：世界 市場予測 、2026年～2032年 — ベリリウム銅 ばね 市場 ：世界 市場予測 、2026年～2032年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅市場 2035年 予測 ：航空宇宙と ... - IndexBox — ベリリウム銅市場 2035年 予測 ：航空宇宙と ... - IndexBox IndexBox https://www.indexbox.io > ブログ > 市場 > ベリリウム銅",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 - メーカー・ 企業 6社の業務用製品ランキング — ベリリウム銅 - メーカー・ 企業 6社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ベリリウム銅",
+    "url": "https://mono.ipros.com/cg2/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85/",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 メーカー23社 - Metoree — ベリリウム銅 メーカー23社 - Metoree Metoree https://metoree.com > 金属材料",
+    "url": "https://metoree.com/categories/2983/",
+    "pass": 3
+   },
+   {
+    "quote": "10％ ベリリウム銅 合金関連 企業 トップ10一覧 - LinkedIn — 10％ ベリリウム銅 合金関連 企業 トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 10ベリリウム銅合金関連...",
+    "url": "https://jp.linkedin.com/pulse/10%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-solvantac-0fcze",
+    "pass": 3
+   },
+   {
+    "quote": "ベリリウム銅 （25合金、165合金、50合金、10合金） — ベリリウム銅 （25合金、165合金、50合金、10合金） 大和合金株式会社 https://yamatogokin.org > jhp > ベリリウム銅（25合金、...",
+    "url": "https://yamatogokin.org/jhp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%EF%BC%8825%E5%90%88%E9%87%91%E3%80%81165%E5%90%88%E9%87%91%E3%80%8150%E5%90%88%E9%87%91%E3%80%8110%E5%90%88%E9%87%91%EF%BC%89/",
+    "pass": 3
+   },
+   {
+    "quote": "快削性 ベリリウム銅 合金の世界市場（2026年～2032年） — 快削性 ベリリウム銅 合金の世界市場（2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Alloy Market Size , Share, Forecast to 2034 — Beryllium Copper Alloy Market Size , Share, Forecast to 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/beryllium-copper-alloy-market-109446",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Market Size , Share & Forecast Report 2025 ... — Beryllium Copper Market Size , Share & Forecast Report 2025 ... Dataintelo https://dataintelo.com > report > beryl...",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Market Size , Growth, Forecast Till 2032 — Beryllium Copper Market Size , Growth, Forecast Till 2032 Report Prime https://www.reportprime.com > ... > Metals & Alloys",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Alloy Market Size, Share, Forecast to 2034 — Beryllium Copper Alloy Market Size, Share, Forecast to 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/beryllium-copper-alloy-market-109446",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Alloy Market Size, Share, Growth | 2035 — Beryllium Copper Alloy Market Size, Share, Growth | 2035 Business Research Insights https://www.businessresearchinsights.com > ...",
+    "url": "https://www.businessresearchinsights.com/market-reports/beryllium-copper-alloy-market-100435",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Beryllium Copper Alloy Market News ... — Top 20 Companies in Beryllium Copper Alloy Market News ... Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-beryllium-copper-alloy-market-worldwide-2025-market-research-report-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Beryllium Copper Market Size, Growth, Forecast Till 2032 — Beryllium Copper Market Size, Growth, Forecast Till 2032 Report Prime https://www.reportprime.com > ... > Metals & Alloys",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "through 2034, driven by downstream oil and gas investments in the Arabian Gulf, South Africa's growing electronics and defense manufacturing base, and ambitious national infrastructure programs such as Saudi Arabia's NEOM smart city project, which requires advanced telecommunications and electrical infrastructure.",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial automation investment providing manufacturing base with documented 20-25% productivity improvements through advanced control systems",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "pass": 3
+   },
+   {
+    "quote": "Korea’s agile chaebol supply chains continue ramping up advanced battery and display capacity, spurring robust need for high-performance copper alloys. Market turnover is expected to swell from $33.35 million in 2025 to $56.35 million come 2031—an extra $23.00 million and an impressive 9.12% CAGR. Explosive investment in next-generation solid-state EV batteries anchors the momentum.",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "pass": 3
+   },
+   {
+    "quote": "3.11 Investment Pockets",
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "pass": 3
+   },
+   {
+    "quote": "China (1.5% CAGR) emerges as a steady performer, leveraging its established manufacturing base and expanding telecommunications networks to foster consistent demand. Strategic investments in industrial automation and semiconductor materials further strengthen its role in the global supply chain.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spain’s beryllium market growth, estimated at 2.0% CAGR, is underpinned by its rapid transition toward high-value industrial production and aerospace specialization. Strategic initiatives in Madrid, Barcelona, and Seville are driving investments in aerospace-grade alloys and precision manufacturing infrastructure.",
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.9",
+    "url": "https://newscast.jp/smart/news/5464663",
+    "quote": "世界の快削ベリリウム銅合金市場規模は、2025年の1億600万米ドルから2032年には1億4100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.9%で成長すると見込まれています"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "quote": "コネクタ用銅ベリリウム（CuBe）の世界市場規模は、2025年の2億4,000万米ドルから2032年には3億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.4％で成長すると見込まれています"
+   },
+   {
+    "value": "3.31",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "quote": "ベリリウム銅合金市場は、2024年から2035年までの間に年平均成長率3.31%で成長する見込みであり、電子機器、航空宇宙、自動車部門での需要の増加に支えられています"
+   },
+   {
+    "value": "4.2",
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "quote": "世界のベリリウム銅市場の基準シナリオは、2035年までの着実な成長を想定しており、2026年から2035年までの年平均成長率（CAGR）は4.2%です"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "quote": "世界の快削ベリリウム銅棒市場規模は、2025年の9,900万米ドルから2032年には1億3,300万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.0%で成長すると見込まれています"
+   },
+   {
+    "value": "10.27",
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "quote": "ベリリウム銅製スプリング市場は、2032年までにCAGR 10.27％で2億6,995万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "5.5",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "quote": "CAGR: 5.5% | USD Billion"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "quote": "CAGR of 6.8% from 2026 to 2033"
+   },
+   {
+    "value": "11.9",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "Among countries, India (13.1% CAGR), China (11.9% CAGR), Brazil (10.5% CAGR), USA (9.7% CAGR), Germany (9.3% CAGR), UK (8.5% CAGR), Japan (7.5% CAGR)."
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "quote": "USD 72.40 Million to USD 191.23 Million, at a CAGR of 10.2%"
+   },
+   {
+    "value": "5.87",
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "quote": "Beryllium Copper market will grow at CAGR of 5.87% from 2026 to 2032."
+   },
+   {
+    "value": "10.3",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "9.4",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "7",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "Among countries, China (11.1% CAGR), India (10.3% CAGR), Germany (9.4% CAGR), Brazil (8.6% CAGR), USA (7.8% CAGR), UK (7% CAGR), Japan (6.2% CAGR)."
+   },
+   {
+    "value": "8.2",
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "quote": "USD 281.86 Million to USD 619.88 Million, at a CAGR of 8.2%"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "4.38",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "quote": "$ 4.38 Billion"
+   },
+   {
+    "value": "4.52",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "quote": "$ 4.52 Billion"
+   },
+   {
+    "value": "6.26",
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "quote": "$ 6.26 Billion"
+   },
+   {
+    "value": "1.6",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "quote": "$1.6 billion"
+   },
+   {
+    "value": "2.6",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "quote": "$2.6 billion"
+   },
+   {
+    "value": "300",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "quote": "$300 billion"
+   },
+   {
+    "value": "660",
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "quote": "$660 million"
+   },
+   {
+    "value": "231.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "quote": "Market size in 2025: USD 231.5 Million"
+   },
+   {
+    "value": "244.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "quote": "Estimated market size in 2026: USD 244.3 Million"
+   },
+   {
+    "value": "338.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "quote": "Projected market size by 2033: USD 338.9 Million"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://newscast.jp/smart/news/5464663",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8848908",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechforum.inkrich.com/posts/%E5%B7%A5%E6%A5%AD%E7%94%A8%E9%8A%85%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-109446",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1813566",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/news/9430/beryllium-copper",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/beryllium-copper-alloy-market-100435",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/2983/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ngk.co.jp/recruit/interview/24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamatogokin.org/jhp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%EF%BC%8825%E5%90%88%E9%87%91%E3%80%81165%E5%90%88%E9%87%91%E3%80%8150%E5%90%88%E9%87%91%E3%80%8110%E5%90%88%E9%87%91%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beryllium.jp/beryllium-copper-features-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/beryllium-copper-alloy-market-109446",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/beryllium-copper-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/beryllium-copper-r2894",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-beryllium-copper-alloy-target-market-strategic-research-report?srsltid=AYCX9vIyAmohlhflYt9NnBqFLXNSw7QfqtgFiJ5TlXlGR41Taw9VptdJ",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/beryllium-copper-alloy-market-100435",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/beryllium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-beryllium-copper-alloy-market-worldwide-2025-market-research-report-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axios.com/2025/08/27/battery-stoves-copper-startup-energy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.streetwisereports.com/article/2025/01/15/mining-startup-unlocks-ai-powered-copper-discoveries.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startupdaily.net/topic/other-tech/deep-tech-copper-recovery-startup-orivium-seeks-30-million-series-b/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/copper-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ベリリウム銅 市場規模 年平均成長率",
+   "results": [
+    "https://newscast.jp/smart/news/5464663",
+    "https://www.atpress.ne.jp/news/8848908",
+    "https://jp.linkedin.com/pulse/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB57%E3%81%AEcagr%E3%81%A7%E9%87%8D%E8%A6%81%E3%81%AA%E6%88%90%E9%95%B7%E3%81%A8%E7%AB%B6%E4%BA%89%E3%81%AE%E8%BF%BD%E8%B7%A1%E3%81%8C%E8%A6%8B-7515967701362556928-hvjde",
+    "https://mrctechforum.inkrich.com/posts/%E5%B7%A5%E6%A5%AD%E7%94%A8%E9%8A%85%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4",
+    "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "https://www.mordorintelligence.com/ja/industry-reports/copper-market",
+    "https://www.researchnester.jp/industry-analysis/beryllium-market/6559",
+    "https://www.businessresearchinsights.com/jp/market-reports/beryllium-copper-alloy-market-100435",
+    "https://note.com/qy_research/n/nf1943b82ee4a"
+   ]
+  },
+  {
+   "query": "ベリリウム銅 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://newscast.jp/smart/news/5464663",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-109446",
+    "https://www.atpress.ne.jp/news/1813566",
+    "https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757",
+    "https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html",
+    "https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/",
+    "https://www.qyresearch.co.jp/news/9430/beryllium-copper",
+    "https://jp.linkedin.com/pulse/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E9%8B%B3%E7%89%A9%E5%B8%82%E5%A0%B4%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8742%E3%81%A7%E6%80%A5%E9%80%9F%E3%81%AB%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B%E8%A6%8B%E8%BE%BC-7518860471773413376-uziye",
+    "https://www.businessresearchinsights.com/jp/market-reports/beryllium-copper-alloy-market-100435"
+   ]
+  },
+  {
+   "query": "ベリリウム銅 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg2/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85/",
+    "https://metoree.com/categories/2983/",
+    "https://www.ngk.co.jp/recruit/interview/24/",
+    "https://jp.linkedin.com/pulse/10%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-solvantac-0fcze",
+    "https://yamatogokin.org/jhp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%EF%BC%8825%E5%90%88%E9%87%91%E3%80%81165%E5%90%88%E9%87%91%E3%80%8150%E5%90%88%E9%87%91%E3%80%8110%E5%90%88%E9%87%91%EF%BC%89/",
+    "https://newscast.jp/smart/news/5464663",
+    "https://beryllium.jp/beryllium-copper-features-applications/",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-109446",
+    "https://mta-tokyo.jp/metal-info/4697/",
+    "https://mono.ipros.com/cg2/ベリリウム銅/"
+   ]
+  },
+  {
+   "query": "beryllium copper market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/beryllium-copper-alloy-market-109446",
+    "https://dataintelo.com/report/beryllium-copper-market",
+    "https://www.grandviewresearch.com/industry-analysis/beryllium-market",
+    "https://www.linkedin.com/pulse/beryllium-copper-market-revolution-driving-factors-forecasted-krurf",
+    "https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market",
+    "https://www.reportprime.com/beryllium-copper-r2894",
+    "https://niftyalloys.com/blogs/global-beryllium-copper-alloy-market-outlook-2025-2035",
+    "https://straitsresearch.com/report/beryllium-market",
+    "https://www.factmr.com/report/beryllium-market"
+   ]
+  },
+  {
+   "query": "beryllium copper market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchreports.com/reports/global-beryllium-copper-alloy-target-market-strategic-research-report?srsltid=AYCX9vIyAmohlhflYt9NnBqFLXNSw7QfqtgFiJ5TlXlGR41Taw9VptdJ",
+    "https://www.fortunebusinessinsights.com/beryllium-copper-alloy-market-109446",
+    "https://www.linkedin.com/pulse/market-study-beryllium-copper-alloy-size-dynamics-expected-nq3ne",
+    "https://www.futuremarketinsights.com/reports/beryllium-copper-for-industrial-equipment-market",
+    "https://www.businessresearchinsights.com/market-reports/beryllium-copper-alloy-market-100435",
+    "https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/",
+    "https://www.factmr.com/report/beryllium-market",
+    "https://www.reportprime.com/beryllium-copper-r2894",
+    "https://www.cognitivemarketresearch.com/beryllium-copper-market-report",
+    "https://www.marketresearch.com/Deep-Insights-Research-Co-DIR-v4285/Global-Beryllium-Copper-Competitive-Landscape-46398783/"
+   ]
+  },
+  {
+   "query": "beryllium copper startup funding 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-beryllium-copper-alloy-market-worldwide-2025-market-research-report-2024-2035",
+    "https://www.axios.com/2025/08/27/battery-stoves-copper-startup-energy",
+    "https://www.reportprime.com/beryllium-copper-r2894",
+    "https://www.streetwisereports.com/article/2025/01/15/mining-startup-unlocks-ai-powered-copper-discoveries.html",
+    "https://www.startupdaily.net/topic/other-tech/deep-tech-copper-recovery-startup-orivium-seeks-30-million-series-b/",
+    "https://multiples.vc/private-comps/copper-us",
+    "https://www.ctvc.co/coppers-the-new-gold-rush-184/",
+    "https://www.geekwire.com/2026/grammy-winning-artist-and-entrepreneur-diplo-invests-in-seattle-startup-copper/",
+    "https://www.linkedin.com/pulse/high-conductivity-beryllium-copper-band-market-us-japan-b6gaf",
+    "https://svdaily.com/2025/08/28/copper-closes-28-million-series-a/"
+   ]
+  }
+ ],
+ "missing": {}
+}

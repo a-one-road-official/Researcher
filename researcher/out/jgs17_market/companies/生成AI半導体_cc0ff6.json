@@ -1,0 +1,1793 @@
+{
+ "name": "生成AI半導体",
+ "en": "AI accelerator chip",
+ "aliases": [
+  "AIアクセラレータ",
+  "GPU"
+ ],
+ "context": "1 AI・半導体 ②中核半導体",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:30:28.879644+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の半導体設計向け生成AI市場は、2023年の15億1,160万米ドルから2033年には240億9,270万米ドルに成長し、2024年から2033年までの年間平均成長率（CAGR）は31.9％に達すると予測されています",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる半導体設計市場は2033年に240億9,270万米ドルに成長（CAGR 31.9％）",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場は、テクノロジー業界における最も急速な資本拡大サイクルの一つに突入しており、市場規模は2025年の341億米ドルから2035年には2,585億米ドルへと急増し、2026年から2035年の予測期間において年平均成長率（CAGR）22.43%を記録すると予測されています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "• ハードウェアにおける人工知能（AI）市場は急成長を遂げており、2025年には341億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "医療、金融、防衛、通信、産業オートメーション分野におけるAI導入が進む中、AIハードウェア市場は2035年に向けて最も戦略的重要性の高いテクノロジー投資分野の一つへ進化しています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場は、2025年の341億米ドルから2035年には2585億米ドルへ拡大し、CAGR22.43％という高成長が見込まれています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の半導体におけるAIの市場調査レポートによると、市場は予測期間2026ー2035年において複利年間成長率（CAGR）13.4%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は2,329億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、弊社の調査アナリストによると、基準年の市場規模は564億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体におけるAIの市場は、2026ー2035年の予測期間中に複利年間成長率（CAGR）13.9%の成長が見込まれています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "北米における半導体におけるAIの市場の市場調査と分析によると、この地域の市場は予測期間を通じて第2位の地位を維持すると予測されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の半導体におけるAIの市場は、世界の半導体におけるAIの市場で35%以上の圧倒的な市場シェアを獲得し、主導的な地位を確保すると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体におけるAIの市場規模は、予測期間中に複利年間成長率13.4%で成長し、2035年には2,329億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、弊社の調査レポートによると、2025年の半導体におけるAIの市場規模は適度なペースで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "主要半導体メーカーで構成される世界半導体市場統計、WSTSは、2026年の世界半導体市場が前年比89.9％増の1兆5,112億ドルに達するとの見通しを発表しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "日本円換算では約240兆円規模に相当し、世界半導体市場が1兆ドルを突破するのは初めてです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体市場は2026年に1兆5,112億ドルへ",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "WSTSの2026年春季市場予測によると、世界半導体市場は2025年の7,956億ドルから、2026年には1兆5,112億ドルへ拡大する見通しです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "前回予測では、2026年の市場規模は9,754億ドルとされていました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "ところが、AI関連需要が想定を大きく上回ったことで、わずか半年ほどで5,300億ドル以上も引き上げられました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のメモリー市場は8,039億ドル規模に達する見通しで、前年比では249.5％増、つまり約3.5倍という驚異的な成長が見込まれています",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "WSTSは、2026年のロジック半導体市場が前年比37.3％増の4,113億ドルに達すると予測しています",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は27.6％増にとどまる",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "WSTSは、2027年の世界半導体市場についても前年比26.6％増の1兆9,136億ドルに達すると予測しています",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の世界半導体市場は、前年比89.9％増の1兆5,112億ドルへ拡大する見通しです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "世界の生成型AI市場規模は、2025年には217億9000万米ドルと評価され、2026年の293億9000万米ドルから2034年には3215億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.86%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "生成型AI市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）34.86%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能（AI）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向けGPUやAI ASICの需要が特に増加しており、市場規模は2029年には2330億ドル規模まで成長すると予測されています",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "政府による大規模な公的支援（例：10兆円規模の投資）や、大学・研究機関との連携を強化し、イノベーションの加速と高度な人材育成を図ることが不可欠です",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "マスク氏が｢米国版TSMC｣構想、総投資2000兆円試算 AI半導体で賭け",
+    "url": "https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、後述する市場規模を分母にして、2025年の半導体業界の世界市場シェアを簡易に算出すると、1位はNVIDIA、2位はサムスン電子、3位はSKハイニックスとなります",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の半導体市場は、生成AIインフラ投資の急拡大や、AIプロセッサ、高帯域幅メモリ（HBM）、ネットワーク関連コンポーネントの爆発的な需要を背景に、前年から約20%の大幅な成長を記録しました",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場トップを独走するエヌビディアは、生成AIブームによる圧倒的なGPU需要を背景に、半導体業界で史上初となる年間売上1000億ドルを突破し、業界の成長を牽引しました",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年の半導体業界の市場規模を7,956億ドルとしております",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社世界半導体市場統計（WSTS）によると、2025年の半導体業界の市場規模は7,956億ドルとされています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年は89.9％増の1兆5,112億ドル、2027年には26.6％の高成長を継続し、市場規模は1兆9,137億ドルへ拡大すると予想されています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "また、調査会社Gartner社によると、2025年の半導体業界の市場規模は7,930億ドルに達し、前年比21％増とされています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "7,956億ドル",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "1兆5,112億ドル",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "1兆9,137億ドル",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体業界の市場規模の成長予想 ©2026 Deallab",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年 マーベル・テクノロジー（Marvell Technology）がInnoviumを約13億ドルで買収",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "元々はゲーム用GPUの開発で支持を得ていましたが、生成AIブームの到来を背景にAIプロセッサーやデータセンター向けソリューションで圧倒的なシェアを築き、近年は史上初の年間売上1000億ドルを突破するなど半導体業界の成長を大きく牽引しています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年年間の世界半導体売上高は7,917億ドルで過去最高―AI・データセンター需要が牽引、2026年は1兆ドル視野",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界半導体市場規模は過去最高を更新",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "米国半導体工業会（SIA）の発表によると、2025年の年間世界半導体売上高は7,917億ドル（前年比+25.6%）となり、過去最高を更新しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の6,305億ドルから約1,600億ドル増加し、市場は初めて8,000億ドル目前に到達しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "半導体市場規模の推移（2022年～2025年）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・2022年：約5,840億ドル（ピーク圏）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・2023年：約5,184億ドル（在庫調整局面）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・2024年：6,305億ドル（回復）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・2025年：7,917億ドル（過去最高）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の調整から2年で約2,700億ドル規模拡大した計算になります",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "ロジック半導体：3,019億ドル（+39.9%）",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "メモリ半導体：2,231億ドル規模",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：2,366億ドル",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：789億ドル",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の半導体市場、過去最高の7,917億ドルを記録",
+    "url": "https://global-net.co.jp/archives/12367",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の半導体設計向け生成AI市場は、2023年の15億1,160万米ドルから2033年には240億9,270万米ドルに成長し、2024年から2033年までの年間平均成長率（CAGR）は31.9％に達すると予測されています",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる半導体設計市場は2033年に240億9,270万米ドルに成長（CAGR 31.9％）",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場、2035年までに2585億米ドル規模へ拡大｜次世代半導体革新を背景にCAGR 22.43％で急成長 | NEWSCAST",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場、2035年までに2585億米ドル規模へ拡大｜次世代半導体革新を背景にCAGR 22.43％で急成長",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場は、テクノロジー業界における最も急速な資本拡大サイクルの一つに突入しており、市場規模は2025年の341億米ドルから2035年には2,585億米ドルへと急増し、2026年から2035年の予測期間において年平均成長率（CAGR）22.43%を記録すると予測されています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアにおける人工知能（AI）市場は、2025年の341億米ドルから2035年には2585億米ドルへ拡大し、CAGR22.43％という高成長が見込まれています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "市場が2585億米ドル規模へ拡大する中で、勝つ企業は「高性能な部品」を売る企業ではなく、「業界課題を解決するAIインフラ」を提供する企業です",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の半導体におけるAIの市場調査レポートによると、市場は予測期間2026ー2035年において複利年間成長率（CAGR）13.4%で成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2026ー2035年）",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体におけるAIの市場は、2026ー2035年の予測期間中に複利年間成長率（CAGR）13.9%の成長が見込まれています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の市場調査によると、世界のIoT接続デバイスの数は2025年に200億台に達し、昨年よりも高い成長率を示すと予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "2026ー2035年までのCAGR",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間を通じて14.2%のCAGRで成長し、最も急速に成長する地域になると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体市場が2026年に1兆ドル突破へ AI需要とメモリー急拡大が成長を牽引",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "主要半導体メーカーで構成される世界半導体市場統計、WSTSは、2026年の世界半導体市場が前年比89.9％増の1兆5,112億ドルに達するとの見通しを発表しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "WSTSの2026年春季市場予測によると、世界半導体市場は2025年の7,956億ドルから、2026年には1兆5,112億ドルへ拡大する見通しです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "伸び率は前年比89.9％",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "2025年も前年比26.2％増と力強い回復が見込まれていましたが、2026年はその勢いを大きく上回ります",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のメモリー市場は8,039億ドル規模に達する見通しで、前年比では249.5％増、つまり約3.5倍という驚異的な成長が見込まれています",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "WSTSは、2026年のロジック半導体市場が前年比37.3％増の4,113億ドルに達すると予測しています",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の半導体市場拡大は、メモリーだけでなく、AIを動かす演算チップ、その演算チップを製造するファウンドリー、さらに周辺のパッケージング、基板、電源、冷却、検査装置まで、広いサプライチェーンに波及していく可能性があります",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場全体が89.9％増と大きく伸びる一方で、日本市場の成長率は27.6％増にとどまる見通しです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "世界の生成型AI市場規模は、2025年には217億9000万米ドルと評価され、2026年の293億9000万米ドルから2034年には3215億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.86%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国国立科学財団（NSF）は、1億4000万ドルの追加投資により、新たに11の国立人工知能研究所を設立し、その影響力を40州とコロンビア特別区に拡大することで、この勢いをさらに強めています",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "生成型AI市場の規模は、2026年には293億9000万米ドルと評価され、2034年までに3215億2000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.86%です",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "生成型AI市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）34.86%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫管理におけるAI市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "GPU as a Service市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIソフトウェア市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の半導体市場は、生成AIインフラ投資の急拡大や、AIプロセッサ、高帯域幅メモリ（HBM）、ネットワーク関連コンポーネントの爆発的な需要を背景に、前年から約20%の大幅な成長を記録しました",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AIサーバー向けHBMの需要を的確に捉えたSKハイニックスが大きく売上を伸ばして3位に浮上したほか、マイクロン・テクノロジーやブロードコムなども高性能メモリやデータセンター向けネットワーク機器の拡大を追い風に存在感を高めました",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年は89.9％増の1兆5,112億ドル、2027年には26.6％の高成長を継続し、市場規模は1兆9,137億ドルへ拡大すると予想されています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "また、調査会社Gartner社によると、2025年の半導体業界の市場規模は7,930億ドルに達し、前年比21％増とされています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "米国半導体工業会（SIA）の発表によると、2025年の年間世界半導体売上高は7,917億ドル（前年比+25.6%）となり、過去最高を更新しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の調整から2年で約2,700億ドル規模拡大した計算になります",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "・前年同期比：+37.1%",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "第4四半期は前年同期比で大幅増となるだけでなく、前期比でも二桁成長を維持しました",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の地域別成長率は以下の通りです",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "pass": 3
+   },
+   {
+    "quote": "2025年通期の売上高は前年比25.6%増の7,917億ドルとなり、過去最高を記録した",
+    "url": "https://global-net.co.jp/archives/12367",
+    "pass": 3
+   },
+   {
+    "quote": "なお、第4四半期の売上高は前期比13.6%増、前年同期比37.1%増の2,366億ドル、2025年12月単月の売上高は前月比2.7%増、前年同月比37.1%増の788億8,000万ドルとなった",
+    "url": "https://global-net.co.jp/archives/12367",
+    "pass": 3
+   },
+   {
+    "quote": "2025年通期の地域別の売上高はアジア太平洋・その他が前年比45.0%増で最も伸び率が高く、次いで米州が同30.5%増、中国が同17.3%増、欧州が同6.3%増となった一方、日本は同4.7%減と唯一のマイナス成長となった",
+    "url": "https://global-net.co.jp/archives/12367",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に世界的な半導体不足が深刻化したことは記憶に新しいですが、2025年現在、半導体・製造装置市場は、生成AIやクラウドサービスの急速な普及により再び拡大基調にあります",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、生成AIやクラウドサービス向けの需要急増により、映像を処理するためのGPU（Graphics Processing Unit）やHBM（高帯域幅メモリ）を中心に需要が拡大しています",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "WSTS（世界半導体市場統計）「2025年春季半導体市場予測」によると、世界半導体市場は2023年に前年比-10.3％と落ち込みましたが、2024年は19.7％増の6,305億ドルと過去最高を更新",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI関連のロジックIC（前年比+23.9％）とメモリIC（+11.7％）が成長をけん引するとしています",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年は成長率がやや鈍化するものの、8.5％増で7,607億ドルに達する予測",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は円ベースで2025年に約7兆1,764億円（前年比+0.6％）、2026年には約7兆5,943億円（+5.8％）と緩やかな成長が続くとしています",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体製造装置協会（SEAJ）は、半導体製造装置の需要は2024年度に急回復し、2025年度は横ばいから微増の4兆8,634億円（前年比+2％）しています",
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "pass": 3
+   },
+   {
+    "quote": "（前年比+21.0%）",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 +21.0%",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比 +63.9%",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "成長率TOP 5",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA独占だが、需要は2026年以降も継続的拡大",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "A：2025年の世界半導体市場規模は約6,200億USDで、前年比21.0%の成長を記録しました",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 29.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 29.5% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "Before You Buy Amazon Basics: How the Top 5 Best-Selling AA Batteries on Amazon Really Compare",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体におけるAIの市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 提供別、技術別、アプリケーション別、エンドユーザー別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体のハードウェアセグメントにおける主要なサブセグメントである人工知能向けに最適化されたチップは、2035年までに市場全体の55%以上を占めると予測されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "民生用電子機器は、2035年には38%以上の市場シェアを獲得し、半導体におけるAIエンドユーザーセグメントを牽引すると予想されます",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の半導体におけるAIの市場は、世界の半導体におけるAIの市場で35%以上の圧倒的な市場シェアを獲得し、主導的な地位を確保すると予想されています",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "半導体におけるAIの市場におけるメーカーシェアを独占する世界トップ10社は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "日本の半導体におけるAIの市場におけるメーカーシェアを独占するトップ10社は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "RFシンセサイザIC市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロコントローラソケット市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― 製品タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "生成AI市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "生成型AI市場の規模、シェア、トレンド分析レポート：コンポーネント別（ソフトウェア、サービス）、技術別（敵対的生成ネットワーク、トランスフォーマー、変分オートエンコーダー、拡散ネットワーク）、エンドユーザー別（メディア＆エンターテイメント、BFSI、IT＆通信、ヘルスケア、自動車＆運輸、その他）、アプリケーション別（コンピュータビジョン、自然言語処理、コンテンツ生成、チャットボット＆インテリジェント仮想アシスタント、予測分析、その他）、モデル別（大規模言語モデル、画像＆動画生成モデル、マルチモーダル生成モデル、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東＆アフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に40.2%の市場シェアを占め、生成型AI市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に40.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫管理におけるAI市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "GPU as a Service市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIソフトウェア市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "人工知能（AI）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIサーバー向けGPU市場で約9割のシェア",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体とは NVIDIAが市場シェア8割握る - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体とは NVIDIAが市場シェア8割握る",
+    "url": "https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/",
+    "pass": 3
+   },
+   {
+    "quote": "GPUのトップメーカーとして知られる米エヌビディアが今年６月に一時、時価総額で世界首位となったのも記憶に新しいところです",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "不要な膜などを取り除くエッチング装置で世界シェア2、3位を争う立場にあり、フォトレジストの塗布、現像を行う装置「コータデベロッパ」でも、ほぼ独占的な地位を築いています",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業（4063）は、シリコンウェハーで世界トップシェアを有しています",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "2番手のSUMCO（3436）と合わせて、世界シェアの6割強を占めています",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "フォトレジストでは、東京応化工業（4186）も世界トップクラスのシェアを有しています",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテスト（6857）は半導体の検査装置で世界首位級のメーカーです",
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "pass": 3
+   },
+   {
+    "quote": "・Intelが上位10社で唯一の",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高TOP 5（2025年）",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "成長率TOP 5",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA独占だが、需要は2026年以降も継続的拡大",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "A：IntelはPC市場の飽和に加え、AI専用設計への転換遅れ、製造技術の遅延、x86レガシーへの固執、組織文化の問題など複合的な要因により、上位10社で唯一のマイナス成長（-4%）を記録しました",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "By AI accelerator type: The graphics processing units (GPUs) segment dominated the market, with a revenue share of 58.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By technology integration: The cloud-based AI accelerators segment held the largest market share of 70.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: The IT & telecom segment held the largest market share of 27.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market and had a 39.6% share in 2024. Due to its strong technological infrastructure and innovation ecosystem, North America is experiencing significant growth in the AI accelerator market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global AI Accelerator Chips Market Share (%), By End-use Industry, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA's leadership rests on its GPU portfolio, CUDA software ecosystem, networking capabilities, and rack-scale system integration. The company reported fiscal 2025 revenue of $130.5 billion and data center revenue of $115.2 billion. Its position is reinforced by the cost and execution risk customers face when porting optimized AI workloads to alternative software environments.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the ai accelerator chips market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Chip Type, GPU accounted for the largest market share (~35%) in 2025; ASIC segment expected to be the fastest-growing segment.",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Processing Type, Cloud segment accounted for the largest market share (~75%) in 2025; Edge segment expected to be the fastest-growing segment.",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Industry, Consumer Electronics accounted for the largest market share (~34%) in 2025; Automotive segment expected to be the fastest-growing segment.",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the AI Accelerator Chip Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the AI Accelerator Chip Market in 2025.",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPU Market Share 2024–2026: 87% Peak, What Comes Next",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Trend: 2022-2026",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Chip Market Share 2026 | Presenc AI",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Chip Market Share 2026",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Market share data for AI accelerator chips in 2026: NVIDIA, AMD, Apple Silicon, Google TPU, AWS Trainium / Inferentia, plus emerging players (Cerebras, Groq, Etched, Tenstorrent).",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA continues to dominate AI accelerator market share in 2026 but the structure is no longer a monopoly. AMD MI300X+ ramps, Google TPU v6 expands beyond Google's internal use, AWS Trainium 2 captures inference workloads, and Apple Silicon dominates on-device inference. This page consolidates 2026 market-share data and competitive dynamics.",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AMD market share rose to approximately 5-7 percent on the strength of MI300X and MI325X inference adoption; Microsoft and Meta are the largest deployers.",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Google TPU represents approximately 6-8 percent of the broader market by deployed FLOPS but is concentrated within Google Cloud and Google internal workloads.",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AWS Trainium 2 captures approximately 2-3 percent, growing fast on inference cost arbitrage; AWS internal workloads dominate.",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center AI Accelerator Market Share (estimated, 2026)",
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業の分析",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は生成学習アルゴリズムの性能向上とスケーラビリティ強化に注力",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "• 北アメリカは、強固な技術インフラ、AIの研究開発への多額の投資、そしてAI対応ハードウェアソリューションのイノベーションを牽引する主要企業の存在により、市場をリードしています",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/news/6381573",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA、AMD、Intel、Graphcore、Tenstorrentなどは、世界の半導体におけるAIの市場で活動する主要企業の一部であります",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の調査レポートによると、Renesas Electronics、Socionext、Denso、Hitachi、Toshibaなどが、半導体におけるAIの市場において日本国内で活動する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA、TSMC、Samsung、SK hynix、キオクシアなどの主要企業だけでなく、材料、装置、部品、基板、電源、冷却、商社まで、半導体サプライチェーン全体に大きな影響が広がるでしょう",
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルAI半導体市場の競争と主要プレイヤー",
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代を牽引する高帯域幅メモリ（HBM）の分野で業界をリードしており、NVIDIAなどの主要企業へ製品を供給しています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "日立製作所、三菱電機、富士電機、明電舎と並び、国内重電メーカーの主要企業の一角を占めます",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2024, Google LLC launched an AI-first, equity-free accelerator in Australia as part of its $1 billion Digital Future Initiative. This program aims to support seed and Series A startups in AI and machine learning. It will help Australian entrepreneurs utilize AI technologies by providing mentorship, technical support, and access to Google's global networks.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape benchmarking",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in AI accelerator market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the AI accelerator market include Amazon Web Services, Inc., Google Inc., Graphcore, IBM Corporation, Intel Corporation, Micron Technology, Microsoft Corporation, NVIDIA Corporation, Qualcomm Technologies, and Xilinx Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI Accelerator Chips Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA held 54.2% of the global market in 2025, followed by AMD at 10.0%, Google at 8.0%, Intel at 7.0%, Qualcomm at 6.0%, and other competitors at approximately 14.8%. The competitive landscape is defined by a contest between broad merchant platforms, vertically integrated cloud silicon, regionally protected suppliers, and specialized architecture providers.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in ai accelerator chips market?",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in ai accelerator chips market include NVIDIA, AMD, Google (Alphabet), Intel, Qualcomm.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial Intelligence (AI) Chip Market Size, Key Companies, Company Market Share, Chip Production Volume, Wafer Capacity, Technology Adoption, Pricing Trends, Competitive Positioning, and Demand Analysis",
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geographic Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the artificial intelligence (AI) chip market?",
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players include NVIDIA, AMD, Broadcom, Intel, Google, Amazon, Microsoft, Qualcomm, Apple, MediaTek, Samsung Electronics, Huawei, Marvell, and Arm.",
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Artificial Intelligence (AI) Chips Market?",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Launched in April 2023, the Bedrock platform enables businesses to build generative AI-powered apps via pretrained models from third-party startups, including Stability AI, AI21 Labs, and Anthropic, as well as AWS’ in-house Titan foundation models.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "AMD launched MI300 for AI training workloads in June 2023 and is competing with NVIDIA for market share. Startups, enterprises and tech giants adopted AMD hardware in 2023, when NVIDIA hardware was difficult to procure amid the generative AI boom triggered by the launch of",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Added Fractile to the AI chip startups list, expanding the roundup from 20+ to 25+ chip makers.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerator-chips-market-size-143000687.html",
+    "pass": 3
+   },
+   {
+    "quote": "region is forecasted to witness the highest regional CAGR over the period of 2026 to 2035, due to the emergence of indigenously designed AI silicon in China, investments in semiconductors by Japan, memory expertise of South Korea, and the growing ecosystem of AI startups in India.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerator-chips-market-size-143000687.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "2021年には、米国の燃料電池メーカーのプラグパワーに出資をし、水素プラントへの進出をしています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "この工場は、日本政府の支援を受けて建設され、約1兆2900億円の投資額で20万平方メートル以上の敷地面積を持ち、半導体供給における強靭さを日本と世界にさらに強化することを目指しています",
+    "url": "https://deallab.info/semiconductor/",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障法の制定、半導体戦略への1.72兆円政府支援、Rapidusへの8社出資",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "A：日本は経済安全保障法の制定、半導体戦略への1.72兆円の政府支援、Rapidusへの8社出資、TSMC熊本工場の誘致、ローム×東芝のパワー半導体連合形成など、政府主導の産業政策で半導体復興を進めています",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Scientific and HPC applications are projected to increase from $9,775.5 million in 2026 to $49,827.8 million in 2035 at a 19.8% CAGR. Demand is supported by research computing, simulation, and public-sector supercomputing, but purchasing follows funding cycles and longer procurement schedules than commercial cloud infrastructure.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Elsewhere in the region, data-center expansion, manufacturing programs, and national AI strategies support demand. Japan and India have identified semiconductors and AI as areas of bilateral investment cooperation under a 10 trillion yen private-investment target. South Korea's AI-chip and HBM investment program reinforces its role in the AI memory and semiconductor supply chain.",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "South Korea AI-chip investment program, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific AI accelerator chips market will likely witness the highest regional CAGR between 2026 and 2035, owing to the efforts made by China towards the creation of indigenous AI silicon, Japan's investment in its semiconductors industry, South Korea's dominance in memory chip technology, and the growth of the AI start-up market in India. The rise in",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "from Google, AWS, Microsoft, Meta — collectively $50B+ investment, reducing hyperscaler GPU purchases",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, Nvidia announced a substantial investment in OpenAI, a move aimed at deepening the collaboration between the world-leading AI chip designer and a premier AI research and deployment company.",
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "AWS can continue to enhance its status as a preferred cloud provider by collaborating with and integrating leading models, which also helps advance AWS’ AI hardware initiatives. A notable recent example is AWS’ $2.75 billion follow on investment in Anthropic, an AI startup renowned for its foundational model and Claude chatbot.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "The consensus among tech leaders and investors seems clear: investing in AI is essential for long term product and financial success. As an example of this sentiment, in 2023, global private investment activity in AI more than doubled YoY while deal activity slumped across all sectors.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "17. CNBC. (2024, March 27). Amazon spends $2.75 billion on AI startup Anthropic in its largest venture investment yet.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "23. Intel. (2024, March 20). US Chips Act Funding for Intel.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "25. S&P Global. (2024, March 1). Private equity-backed investment surge in generative AI defies 2023 deal slump.",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "for any purpose – without permission is prohibited. Global X Japan Co. Ltd. Registration No. : Director of Kanto Local Finance Bureau (Financial Instruments Firms) No.3174 Member of Investment Management Association of Japan",
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investmentand Funding Activitiesin AI Accelerator Chips Market,2025–2026",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, the South Korean AI chip startup secured a pre-IPO funding round led by institutional and government-backed investors",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company raised Series B funding to accelerate the development of next-generation AI accelerator chips designed for large language model (LLM) training workloads and to support future production with manufacturing partners",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, Positron secured Series B funding to advance the deployment and commercialization of AI accelerator hardware focused on high-speed memory architecture for AI computing applications",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, the company raised additional capital to scale production of edge",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2025, Tenstorrent secured funding from strategic investors to expand development of",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2026 : Groq Inc secured growth funding to expand its AI inference cloud infrastructure and increase deployment of AI accelerator systems across global data centers.",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, Fractile secured Series B funding to accelerate commercialization of its next-generation AI inference chips based on in-memory computing architectures.",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, Cerebras System secured funding in a late-stage financing round to support expansion of its wafer-scale AI accelerator platform and strengthen its position in high-performance AI computing.",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Its Dammam data center, built with Aramco Digital, sits behind a $1.5 billion Saudi investment commitment announced in February 2025.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On August 17, 2026, Groq LLC announced a $350 million Series A at a $3.5 billion valuation, led by Disruptive with planned participation from NVIDIA. The release calls the June and August rounds $1 billion of recent funding, while stating that the Series A remains subject to customary closing conditions.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras has traded on Nasdaq under the ticker CBRS since May 14, 2026, after an IPO that raised about $6.38 billion in gross proceeds.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Total funding is about $850 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Tenstorrent offers a fully open-source software stack. The company raised $700 million in December 2024.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Etched emerged from stealth on June 30, 2026 with first-pass A0 silicon back from TSMC’s N4P process, more than $1 billion in signed customer contracts and $800 million raised.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Extropic raised a $14 million round in late 2023 to use thermodynamics for computing. Its hardware page lists three parts. X0 is a silicon prototype from Q1 2025, and XTR-0 is a development platform shipped in limited numbers to selected researchers in Q3 2025. Both were unveiled on October 29, 2025. Z1, the first production-scale chip, is listed as early access in 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Mythic raised an oversubscribed $125 million round led by DCVC on December 17, 2025.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Speedata raised $44 million in a Series B round in June 2025, led by Walden Catalyst Ventures, 83North, and others, bringing its total funding to $114 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Axelera AI raised more than $250 million on February 24, 2026, taking its total to more than $450 million in equity, grants and venture debt.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On March 31, 2026, NVIDIA and Marvell announced a strategic partnership that connects Marvell to the NVIDIA AI factory and AI-RAN ecosystem through NVLink Fusion, together with collaboration on silicon photonics. NVIDIA invested $2 billion in Marvell as part of it. Under the partnership, Marvell provides custom XPUs and NVLink Fusion-compatible scale-up networking.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "TSMC’s announced US investment totals $265 billion across 12 leading-edge fabrication and packaging facilities, after an incremental $100 billion Arizona commitment announced on July 16, 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "region is forecasted to witness the highest regional CAGR over the period of 2026 to 2035, due to the emergence of indigenously designed AI silicon in China, investments in semiconductors by Japan, memory expertise of South Korea, and the growing ecosystem of AI startups in India.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerator-chips-market-size-143000687.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Accelerator Chips Market Size & Share 2026-2035 — AI Accelerator Chips Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > ai-acce...",
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI Accelerator Chips Market to cross USD 1 Trillion by 2035 — AI Accelerator Chips Market to cross USD 1 Trillion by 2035 Microwave Journal https://www.microwavejournal.com > ...",
+    "url": "https://www.microwavejournal.com/articles/46321-ai-accelerator-chips-market-to-cross-usd-1-trillion-by-2035",
+    "pass": 3
+   },
+   {
+    "quote": "AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — AI Accelerator Chips Market Size, Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators — NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators Silicon Analysts https://siliconanalysts.com > Analysis",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "pass": 3
+   },
+   {
+    "quote": "AI Accelerator Chips Market Size, Share , Growth, 2034 — AI Accelerator Chips Market Size, Share , Growth, 2034 Straits Research https://straitsresearch.com > report > a...",
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "31.9",
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "quote": "世界の半導体設計向け生成AI市場は、2023年の15億1,160万米ドルから2033年には240億9,270万米ドルに成長し、2024年から2033年までの年間平均成長率（CAGR）は31.9％に達すると予測されています"
+   },
+   {
+    "value": "22.43",
+    "url": "https://newscast.jp/news/6381573",
+    "quote": "ハードウェアにおける人工知能（AI）市場、2035年までに2585億米ドル規模へ拡大｜次世代半導体革新を背景にCAGR 22.43％で急成長 | NEWSCAST"
+   },
+   {
+    "value": "13.4",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "quote": "弊社の半導体におけるAIの市場調査レポートによると、市場は予測期間2026ー2035年において複利年間成長率（CAGR）13.4%で成長すると予想されています"
+   },
+   {
+    "value": "13.9",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "quote": "日本の半導体におけるAIの市場は、2026ー2035年の予測期間中に複利年間成長率（CAGR）13.9%の成長が見込まれています"
+   },
+   {
+    "value": "34.86",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "quote": "世界の生成型AI市場規模は、2025年には217億9000万米ドルと評価され、2026年の293億9000万米ドルから2034年には3215億2000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は34.86%となる見込みです"
+   },
+   {
+    "value": "29.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "quote": "CAGR of 29.5% from 2026 to 2033"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "55",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "quote": "AI半導体のハードウェアセグメントにおける主要なサブセグメントである人工知能向けに最適化されたチップは、2035年までに市場全体の55%以上を占めると予測されています"
+   },
+   {
+    "value": "38",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "quote": "民生用電子機器は、2035年には38%以上の市場シェアを獲得し、半導体におけるAIエンドユーザーセグメントを牽引すると予想されます"
+   },
+   {
+    "value": "35",
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "quote": "アジア太平洋地域の半導体におけるAIの市場は、世界の半導体におけるAIの市場で35%以上の圧倒的な市場シェアを獲得し、主導的な地位を確保すると予想されています"
+   },
+   {
+    "value": "40.2",
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "quote": "北米は、2025年に40.2%の市場シェアを占め、生成型AI市場を牽引しました"
+   },
+   {
+    "value": "4",
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "quote": "A：IntelはPC市場の飽和に加え、AI専用設計への転換遅れ、製造技術の遅延、x86レガシーへの固執、組織文化の問題など複合的な要因により、上位10社で唯一のマイナス成長（-4%）を記録しました"
+   },
+   {
+    "value": "58.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "quote": "By AI accelerator type: The graphics processing units (GPUs) segment dominated the market, with a revenue share of 58.7% in 2025."
+   },
+   {
+    "value": "70.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "quote": "By technology integration: The cloud-based AI accelerators segment held the largest market share of 70.3% in 2025."
+   },
+   {
+    "value": "27.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "quote": "By end use: The IT & telecom segment held the largest market share of 27.0% in 2025."
+   },
+   {
+    "value": "39.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "quote": "North America dominated the market and had a 39.6% share in 2024. Due to its strong technological infrastructure and innovation ecosystem, North America is experiencing significant growth in the AI accelerator market."
+   },
+   {
+    "value": "35",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "quote": "Based on Chip Type, GPU accounted for the largest market share (~35%) in 2025; ASIC segment expected to be the fastest-growing segment."
+   },
+   {
+    "value": "75",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "quote": "Based on Processing Type, Cloud segment accounted for the largest market share (~75%) in 2025; Edge segment expected to be the fastest-growing segment."
+   },
+   {
+    "value": "34",
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "quote": "Based on Industry, Consumer Electronics accounted for the largest market share (~34%) in 2025; Automotive segment expected to be the fastest-growing segment."
+   },
+   {
+    "value": "80",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "quote": "NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators"
+   },
+   {
+    "value": "87",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "quote": "NVIDIA GPU Market Share 2024–2026: 87% Peak, What Comes Next"
+   },
+   {
+    "value": "88",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "quote": "This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on"
+   },
+   {
+    "value": "68",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "quote": "This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on"
+   },
+   {
+    "value": "58",
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "quote": "This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6381573",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/generative-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/semiconductor",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://deallab.info/semiconductor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-net.co.jp/archives/12367",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.xenobrain.jp/forecastresults/market-size/semiconductor-manufacturing-equipment",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microwavejournal.com/articles/46321-ai-accelerator-chips-market-to-cross-usd-1-trillion-by-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/ai-accelerator-market-113873",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://presenc.ai/research/ai-chip-market-share-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/ai-accelerators-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/AMDHelp/comments/1dnhv4c/nvidias_ai_accelerators_have_between_70_and_95_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/us-ai-chip-market-216121307.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-chipset-market-237558655.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-accelerator-chips-market-size-143000687.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sterlingcharts.com/sectors/ai-chips",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "生成AI半導体 市場規模 CAGR",
+   "results": [
+    "https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "https://newscast.jp/news/6381573",
+    "https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820",
+    "https://tonarism.co.jp/media/media_detail.php?b_id=249",
+    "https://straitsresearch.com/jp/report/generative-ai-market",
+    "https://www.atpress.ne.jp/news/7186966",
+    "https://www.mordorintelligence.com/ja/industry-reports/semiconductor-industry-landscape",
+    "https://www.coherentmarketinsights.com/ja/%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4",
+    "https://ai-chip-lab.com/ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E4%BC%B8%E3%81%B3%E3%82%8B%E3%81%AE%E3%81%8B%EF%BD%9C2030%E5%B9%B4%E3%81%AB/",
+    "https://www.gii.co.jp/report/tbrc2133538-artificial-intelligence-ai-semiconductors-global.html"
+   ]
+  },
+  {
+   "query": "生成AI半導体 市場 シェア 上位 企業",
+   "results": [
+    "https://orutedia.com/ai-semiconductor-manufacturer/",
+    "https://www.nikkei.com/article/DGXZQOUC3144V0R30C26A3000000/",
+    "https://service.xenobrain.jp/forecastresults/market-size/semiconductor",
+    "https://deallab.info/semiconductor/",
+    "https://www.nomura.co.jp/wealthstyle/article/0201/",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/semicon_digital/0001/05.pdf",
+    "https://mfg-compass.com/guides/semiconductor-market-cap-ranking",
+    "https://www.movin.co.jp/it/ai/semiconductor.html",
+    "https://www.semiconportal.com/archive/blog/insiders/hattori/260610-semiconductorintelligence.html",
+    "https://chem-3.com/ai-semiconductor/"
+   ]
+  },
+  {
+   "query": "生成AI半導体 市場 前年比 2025",
+   "results": [
+    "https://tonarism.co.jp/media/media_detail.php?b_id=231",
+    "https://global-net.co.jp/archives/12367",
+    "https://www.e-mechatronics.com/mailmgzn/backnumber/202511_2/mame.html",
+    "https://s.gbase.ai/insight/semiconductor-ranking-2025/",
+    "https://service.xenobrain.jp/forecastresults/market-size/semiconductor-manufacturing-equipment",
+    "https://blogs.itmedia.co.jp/business20/2025/09/ai_2053.html",
+    "https://www.semiconportal.com/archive/blog/insiders/hattori/260512-forecast.html",
+    "https://www.sangyo-times.jp/article.aspx?ID=15098",
+    "https://www.smtam.jp/report_column/pdf/cat_45/HPvol.2020252507S0300.pdf",
+    "https://tonarism.co.jp/media/media_detail.php?b_id=221"
+   ]
+  },
+  {
+   "query": "AI accelerator chip market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "https://www.microwavejournal.com/articles/46321-ai-accelerator-chips-market-to-cross-usd-1-trillion-by-2035",
+    "https://www.fortunebusinessinsights.com/ai-accelerator-market-113873",
+    "https://www.mordorintelligence.com/industry-reports/ai-accelerators-market",
+    "https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf",
+    "https://finance.yahoo.com/technology/ai/articles/ai-chip-market-reach-677-204800480.html",
+    "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "https://dataintelo.com/report/ai-accelerator-chip-market"
+   ]
+  },
+  {
+   "query": "AI accelerator chip market share top players percent",
+   "results": [
+    "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "https://presenc.ai/research/ai-chip-market-share-2026",
+    "https://www.mordorintelligence.com/industry-reports/ai-accelerators-market",
+    "https://www.reddit.com/r/AMDHelp/comments/1dnhv4c/nvidias_ai_accelerators_have_between_70_and_95_of/",
+    "https://www.rootsanalysis.com/ai-chip-market",
+    "https://market.us/report/ai-accelerator-market/",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market"
+   ]
+  },
+  {
+   "query": "AI accelerator chip market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market",
+    "https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis",
+    "https://www.marketsandmarkets.com/Market-Reports/us-ai-chip-market-216121307.html",
+    "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "https://www.microwavejournal.com/articles/46321-ai-accelerator-chips-market-to-cross-usd-1-trillion-by-2035",
+    "https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html",
+    "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.instagram.com/reel/DY2CJfDIqUU/",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "AI accelerator chip market key companies share 2025",
+   "results": [
+    "https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899",
+    "https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report",
+    "https://straitsresearch.com/report/ai-accelerator-chips-market",
+    "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-chipset-market-237558655.html",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://finance.yahoo.com/technology/ai/articles/ai-accelerator-chips-market-size-143000687.html",
+    "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+    "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+    "https://sterlingcharts.com/sectors/ai-chips"
+   ]
+  }
+ ],
+ "missing": {}
+}

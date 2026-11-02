@@ -1,0 +1,980 @@
+{
+ "name": "JLCPCB",
+ "aliases": [
+  "JLC"
+ ],
+ "context": "基板・CNC・3Dのオンライン受託（中）",
+ "researched_at": "2026-11-02T14:32:31.340998+00:00",
+ "official_url": "https://jlcpcb.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Customers Worldwide",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What Our Customers Say",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flex PCB Manufacturers for Compact Electronics: Sourcing Guide",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are continuously investing top-level base materials and advanced equipments for fully automated production lines, which enables us to offer our customers high throughput with consistently high quality.",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2006, JLCPCB continuously driven to become more efficient and reduce costs. We promise to offer customers the most economic PCBs forever. JLCPCB makes cheapest but top quality PCBs possibly because of scale effect, extremely high production efficiency and less manpower cost.",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "JLCPCB takes every effort to improve our products, services and processes to meet or exceed our customers’ expectations. To promise customers the highest quality products and services, our quality commitment policy is driven by continuous improvement in product innovation, proactively pursue quality and reliability, and increase customers’ overall satisfaction.",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Ensuring maximum quality control of raw materials is one of the most basic tenets of product manufacturing in the PCB industry. JLCPCB has always been partnering with Industry-leading suppliers. We use top-level materials, like Nanya FR4 material, Solder mask with TAIYO INK PSR-2000; Lead-Free HASL-Rosh surface finish using upgraded raw materials which contain tin bars with silver.",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "granted to us confirmed that we are consistently providing the utmost quality products and services to our customers.",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, in order to solve European customers' customs problems and provide them cheaper shipping, JLCPCB found a European logistic center in 2020.",
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging advanced smart manufacturing, JLCPCB offers competitive manufacturing specifications with tight process control for HDI production. Global customers can refer to the following diagram for precision control of manufacturing processes and spatial layouts:",
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "pass": 1
+   },
+   {
+    "quote": "The new HDI PCB ordering options are now officially live on the digital platform. Engineers and business customers worldwide can now upload their Gerber files to experience faster, cost-effective, and premium-quality high-density interconnect manufacturing, accelerating the journey from concept to market.",
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "pass": 1
+   },
+   {
+    "quote": "The International Manufacturing Technology Show (IMTS) is the premier manufacturing technology event in the Western Hemisphere. IMTS 2026 brings together manufacturers, engineers, technology providers, and industry leaders from across the manufacturing sector, showcasing the latest advances in metalworking, additive manufacturing, automation, inspection, and digital manufacturing.",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": "To celebrate our participation in IMTS 2026, we are offering exclusive rewards for our visitors and community members:",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": "For global customers, a seamless digital purchasing experience is an essential part of the manufacturing journey. JLC Technology Group continues to invest in its online platforms, payment infrastructure, service capabilities, and global customer support to make cross-border manufacturing more accessible and efficient.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "The Group also continues to explore flexible digital payment options. Eligible U.S. customers can now pay with USDC across JLCPCB, JLC3DP, JLCCNC, and JLCMC, providing an additional convenient option for cross-border transactions.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "By connecting design, sourcing, manufacturing, and fulfillment capabilities through a unified digital ecosystem, JLC aims to make manufacturing more accessible, efficient, and reliable for customers worldwide.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "The PayPal Outstanding Merchant Award recognizes JLC Technology Group's continued efforts to provide secure, convenient, and reliable digital services for customers worldwide.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2006, JLC Technology Group provides integrated electronics and mechanical manufacturing services to more than 9.5 million customers across over 180 countries and regions.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "Through its integrated digital manufacturing platform, JLC Technology Group helps customers move from prototype to production with efficient, and digitally enabled manufacturing services.",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "Dear Customers,",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": ", giving customers access to the high-quality",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "; customers selecting ENIG can upgrade for an additional fee.",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "JLCPCB.com is an online platform that offers manufacturing services for printed circuit boards (PCBs). They provide a wide range of PCB-related products and services, including design, fabrication, assembly, and delivery. Customers can submit their PCB designs and receive high-quality products for various applications through a convenient and efficient process.",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "GRIPS CUSTOMERS & RESEARCH PARTNERS",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "BatchPCBをきちんと育てるには、そこに専念できる買い手に委ねるしかないと判断した",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "starting at just $2 for 5 PCBs. Costs depend on size, layer count, surface finish, and quantity, but we are known for low-cost, high-quality PCB manufacturing.With our transparent pricing system, you can click “",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "JLC Technology Group Launches USDC Payments for Faster, Lower-Fee Checkout",
+    "url": "https://jlcpcb.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Plan Ahead for Smooth Delivery",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Excellent Surface Planarity for BGA Packages",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "OSP surface finish for 2-layer boards and up with zero additional fees",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "; customers selecting ENIG can upgrade for an additional fee.",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "High-Speed Server Backplanes: Capable of handling 20- to 32-layer configurations requiring high-speed signal integrity.",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "JLCPCB values your input and welcomes user feedback and suggestions as part of its ongoing platform improvement efforts.",
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "pass": 1
+   },
+   {
+    "quote": "スポンサー・広告のご案内",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "スポンサーシップ・広告",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Place orders in minutes and track order status in real-time. Visual progress tracking shows every step, from review to production to shipping.",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders/Year",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", we enable millions of users to build faster, smarter, and more affordably.",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For delivery, we provide multiple global shipping options (DHL, FedEx, UPS, etc.), with most orders arriving within 2–7 business days. All shipments include tracking for full visibility. Learn more:",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Prepare Gerber Files Before Placing Orders?",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders/Year",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ensuring maximum quality control of raw materials is one of the most basic tenets of product manufacturing in the PCB industry. JLCPCB has always been partnering with Industry-leading suppliers. We use top-level materials, like Nanya FR4 material, Solder mask with TAIYO INK PSR-2000; Lead-Free HASL-Rosh surface finish using upgraded raw materials which contain tin bars with silver.",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Ordering PCBs at JLCPCB is extremely easy. We make it easy for you to get quote online instantly, and our self-service platform takes you a few minutes to upload files and order boards. We are fully transparent in our operations, you can know everything about your orders in real-time since every step can be tracked and informed on JLCPCB.",
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent platform automatically collects and analyzes data gathered by sensors and monitoring devices on equipments and helps us to take corrective action to increase efficiency. Secondarily, we utilize the available capacity of our factories network so that system can match your orders to one of our factories which is best suited, in the shortest turnaround time.",
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "pass": 1
+   },
+   {
+    "quote": ", allowing users to select it as needed.",
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "pass": 1
+   },
+   {
+    "quote": ". You can also book your booth visit online for a chance to win a free electronica 2026 ticket, with vouchers for 30 lucky winners and an exclusive booth gift for registered participants.",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-electronica-2026",
+    "pass": 1
+   },
+   {
+    "quote": "To celebrate our participation in IMTS 2026, we are offering exclusive rewards for our visitors and community members:",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": ": Stop by JLCPCB Booth #432271 to get an additional $15 coupon, an exclusive gift for pre-registered visitors, and other free JLCPCB gifts onsite.",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": "JLCONE Desktop App: All-in-One Hardware Orders by JLCPCB",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": ", a dedicated desktop application designed to streamline ordering across all manufacturing service lines. Users can download and install JLCONE directly on their PC to manage quotes and orders seamlessly.",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": "Order & Save: Place orders on JLCONE Desktop to enjoy stackable savings.",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": "we strongly recommend placing time-sensitive orders at least 3–5 business days prior to the holiday closures.",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Ordering: Our online platform remains available for quotes and order placement. You can continue to submit orders as usual.",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Production: Production schedules will be adjusted during the holidays, and affected orders may experience extended lead times depending on the service and production line.",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Shipping: Shipping schedules may be affected by holiday arrangements and logistics service availability. Delivery may take longer than usual for some orders.",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Please evaluate your prototyping and production timelines and submit your orders",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": ", allowing users to select it as needed.",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "JLCPCB operates a fully optimized, robust OSP production line. We source our chemical formulations exclusively from a world-class OSP supplier, all backed by a rigorous quality management system. As a platform serving millions of global users, a process is only deployed to our mass production lines after proving completely reliable and stable.",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "users to better understand our manufacturing capabilities during the design and ordering stages, supporting more informed decisions.To further enhance accessibility, the website has been fully optimized for mobile devices, providing smoother navigation, improved readability, and a more consistent browsing experience.",
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "pass": 1
+   },
+   {
+    "quote": "Annual Revenue (GMV)",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Get $104 first-download coupons",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your First FPC Order",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "• Prototypes quickly and resolve issues early;",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "First, AOI (Automated Optical Inspection)",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Have your PCBs delivered directly from our factories to your door. JLCPCB's factory is 2 hours away from international airport. JLCPCB has built strategic partnerships with top logistics companies like DHL/FedEx, parcels from JLCPCB have the priority to arrange flights first. Most of packages can be shipped the same day.",
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "pass": 1
+   },
+   {
+    "quote": "How to Get Started",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": "当時の電子機器は部品同士を1本ずつ手作業でつなぐ「ポイント配線」が主流で、内部は「鳥の巣（bird’s nest）」と呼ばれるほど複雑に絡まった配線で埋まっていた",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "この矛盾を変えた最初の仕組みが、「パネル化」という発想だった",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "後述するSparkFun設立者のNathan Seidleは、PICプログラマーをOlimexから輸入したことをきっかけに「自分がアメリカの販売窓口になればいい」と考え、それがSparkFun創業の直接の原点になっている（",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "創業間もない頃のSparkfunの倉庫（画像出典元：",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "当初はベッドルームや地下室での運営で、最初の3年は文字通り個人事業だった",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "その余白を外部の個人や企業に安く提供するサービスとして、SeidleはSparkFunの姉妹会社「BatchPCB」を立ち上げた",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年12月、最初のDorkbot PDX Board Orderが発送された",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "当初は2ヶ月に1回のペースだった",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "各ユーザーから届くガーバーファイルを手作業で確認し、パネル上の配置を考え、無駄なスペースが出ないよう詰め込む——この「パネリゼーション」作業に、毎晩2〜4時間を費やすようになった",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "限られたパネルスペースに、様々なサイズの基板をどう詰め込めば最も効率的か——これは計算量が多い組み合わせ最適化問題で、大規模になると手作業や単純なアルゴリズムでは対応できなくなる",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "このサービスは2009年12月の最初の発送から約5ヶ月後にOSH Park（Open Source Hardware Park）として正式に独立した",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "第4の条件：製造工場出身の創業者が「外向き」に動き始めた",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB創業者の袁江涛のように、元エンジニアや製造現場出身者が「なぜ基板はこんなに高いのか」という問いから出発し、自動化と直販によって価格を引き下げるビジネスを構想するようになった",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeed StudioのEric Panのように、ハードウェアMakerとしての経験を持つ創業者が「少量製造の壁を壊す」ことを明示的なミッションに掲げた例もある",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "中国国内の製造技術の底上げと、Maker文化の国際的な高まりの両方を見聞きした世代が、2005〜2015年にかけて創業の波を形成した",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCBは公式PR文で創業の原点をこう伝えている",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCBは当初から国内市場向けに、数日から1週間のターンアラウンドで2層・多層PCBを提供していた",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeed Studioは2008年7月、Eric Pan（潘昊）がアパートの一室で電子部品の販売から立ち上げた",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Pan自身は「Intelに13ヶ月勤めて疲れた後、北京で国際貿易の小さな会社に入ったが1年で閉鎖した」とし、その後独立して深圳で創業した",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "PCBWayは2014年、杭州（Hangzhou Linker Information Technology）で創業した",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "創業4周年のCEO書簡",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "前身はインフロー（2002年4月創業）で、創業者の田坂正樹は1995年にミスミ（現ミスミグループ本社）に入社、BtoBカタログ通販の知見を得た後に",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ在籍中に半導体ECの新規事業を立ち上げたが会社都合で撤退し、そのビジネスの将来性を確信したことが独立・創業の契機になったとしている",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Makerから企業まで席巻する魔法の箱、「M5Stack」創業者Jimmy Laiの半生",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-electronica-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-electronica-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlc-spark-conference-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlc-spark-conference-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-lead-free-osp-upgrade",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-lead-free-osp-upgrade",
+    "pass": 1
+   },
+   {
+    "quote": "Since introducing the free lead-free OSP (Organic Solderability Preservative) surface finish, JLCPCB has continuously optimized the process based on production experience and customer application needs.",
+    "url": "https://jlcpcb.com/news/jlcpcb-lead-free-osp-upgrade",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "JLCPCB has officially expanded its manufacturing capabilities by launching the Organic Solderability Preservative (OSP) surface finish for PCBs,",
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "pass": 1
+   },
+   {
+    "quote": "December 26, 2025 — JLCPCB is pleased to announce the successful completion of a comprehensive visual and functional website upgrade, designed to enhance content clarity, navigation efficiency, and overall user experience across all devices. The update underscores JLCPCB’s ongoing focus on providing a clearer, more accessible platform for engineers and makers worldwide.",
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, all manufacturing process introduction pages have been comprehensively updated with clearer and more structured content, with a stronger emphasis on:",
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "pass": 1
+   },
+   {
+    "quote": "GRIPS CUSTOMERS & RESEARCH PARTNERS",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "s Google search ad spend, ad clicks and cost-per-click. Review performance over time and gain deeper view into their ad campaign spend.",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "s key markets, identifying countries that contribute the highest revenue, transactions, and sessions, along with those with the highest Google search ad spend.",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "SparkFun 15周年記事",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "MITテクノロジーレビューが深圳生態系を分析した記事",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の感想・意見をSNSで共有しよう",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年当時に所属していた会社でwebメディア「fabcross」の設立に参画",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "編集者・ライターとして複数のオンラインメディアに寄稿するほか、企業のPR・事業開発コンサルティングやスタートアップ支援事業に携わる",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "この著者の記事一覧へ",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて読みたいオススメ記事",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "【PR】読んで役立つ注目記事",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "FabSceneは新しいものづくりの現場と文化を発信するWebメディアです",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "スポンサー・広告のご案内",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "新しいものづくりの現場と文化を発信するWebメディア",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "スポンサーシップ・広告",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "どのような場合に追加 料金 が発生しますか？ - JLCPCB — どのような場合に追加 料金 が発生しますか？ - JLCPCB JLCPCB https://jlcpcb.com > help > article > in-what-cases-will-the...",
+    "url": "https://jlcpcb.com/jp/help/article/in-what-cases-will-there-be-charged-extra",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB : PCBプロトタイプ＆PCBファブリケーションメーカー — JLCPCB : PCBプロトタイプ＆PCBファブリケーションメーカー JLCPCB https://jlcpcb.com > ...",
+    "url": "https://jlcpcb.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB の価格設定におけるサイズのしきい値ってある？ — JLCPCB の価格設定におけるサイズのしきい値ってある？ Reddit https://www.reddit.com > synthdiy > comments > jlcpcb_s...",
+    "url": "https://www.reddit.com/r/synthdiy/comments/1hue1ge/jlcpcb_size_thresholds_for_pricing/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者向け】 JLCPCB でオリジナル基板を作ってみた！注文 ... — 【初心者向け】 JLCPCB でオリジナル基板を作ってみた！注文 ... yossyのラズピコライフ https://yossy-life.com > jlcpcb-original-board-review",
+    "url": "https://yossy-life.com/jlcpcb-original-board-review/",
+    "pass": 3
+   },
+   {
+    "quote": "価格はどうすればわかりますか？ユーザー登録は必要ですか？ — 価格はどうすればわかりますか？ユーザー登録は必要ですか？ JLCPCB https://jlcpcb.com > help > article > how-do-i-get-a-price-...",
+    "url": "https://jlcpcb.com/jp/help/article/how-do-i-get-a-price-do-i-have-to-register-as-a-user",
+    "pass": 3
+   },
+   {
+    "quote": "jlcpcb .jp — jlcpcb .jp JLCPCB https://jlcpcb.com > ...",
+    "url": "https://jlcpcb.com/jp/?from=ina_ani",
+    "pass": 3
+   },
+   {
+    "quote": "About JLCPCB | Global PCB & Electronics Manufacturing ... — About JLCPCB | Global PCB & Electronics Manufacturing ... JLCPCB https://jlcpcb.com > about-us",
+    "url": "https://jlcpcb.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "jlcpcb .com eCommerce Revenue - Grips Intelligence — jlcpcb .com eCommerce Revenue - Grips Intelligence gripsintelligence.com https://gripsintelligence.com > jlcpcb",
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "pass": 3
+   },
+   {
+    "quote": "Who's JLCPCB ? | Get to Know Us - YouTube — Who's JLCPCB ? | Get to Know Us - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=kM2EE1Te1c8",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB は私にとっては価値がありません、今は : r/electronics — JLCPCB は私にとっては価値がありません、今は : r/electronics Reddit https://www.reddit.com > electronics > comments > jlcpcb...",
+    "url": "https://www.reddit.com/r/electronics/comments/1smzqof/jlcpcb_is_not_worth_it_for_me_now/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB 様に基板を作っていただきました！ — JLCPCB 様に基板を作っていただきました！ Weebly https://shinshu-roboken.weebly.com > blog > jlcpcb",
+    "url": "https://shinshu-roboken.weebly.com/blog/jlcpcb",
+    "pass": 3
+   },
+   {
+    "quote": "中国のDIYはここまで進んでいる―― JLCPCB 「星火会」を ... — 中国のDIYはここまで進んでいる―― JLCPCB 「星火会」を ... note https://note.com > DIY > 電子工作",
+    "url": "https://note.com/takasu/n/n8733e19b5b2d",
+    "pass": 3
+   },
+   {
+    "quote": "How JLCPCB manages to be cheaper than everyone else? — How JLCPCB manages to be cheaper than everyone else? Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/PCB/comments/14sho3c/how_jlcpcb_manages_to_be_cheaper_than_everyone/",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB Hosts Strange Parts: Flexible PCB Secrets Revealed — JLCPCB Hosts Strange Parts: Flexible PCB Secrets Revealed JLCPCB https://jlcpcb.com > News",
+    "url": "https://jlcpcb.com/news/strange-parts-visit-jlcpcb-flex-pcb",
+    "pass": 3
+   },
+   {
+    "quote": "JLCPCB Information - RocketReach — JLCPCB Information - RocketReach RocketReach https://rocketreach.co > jlcpcb-profile...",
+    "url": "https://rocketreach.co/jlcpcb-profile_b427d65cff1749c5",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "BatchPCBはその後、2013年5月1日にSparkFunからOSH Parkへ正式に売却された",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月に東証マザーズに上場（現在は東証スタンダード市場と名証メイン市場に上場）",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "学生向けツールから3300万人のコミュニティへ：Arduino 20年の軌跡とQualcomm買収",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   },
+   {
+    "quote": "20年前のiPodをFinderで同期できるファームウェア「RockWheel」",
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jlcpcb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/about-us/quality-control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/about-us/how-it-works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/hdi-pcb-manufacturing-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-at-electronica-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-at-imts-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlc-spark-conference-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlc-paypal-merchant-award",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-lead-free-osp-upgrade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-pcb-osp-finish",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jlcpcb.com/news/jlcpcb-website-upgrade-2025",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.reddit.com/r/synthdiy/comments/1hue1ge/jlcpcb_size_thresholds_for_pricing/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/electronics/comments/1smzqof/jlcpcb_is_not_worth_it_for_me_now/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/PCB/comments/14sho3c/how_jlcpcb_manages_to_be_cheaper_than_everyone/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JLCPCB 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://jlcpcb.com/jp/help/article/in-what-cases-will-there-be-charged-extra",
+    "https://jlcpcb.com/jp/",
+    "https://www.reddit.com/r/synthdiy/comments/1hue1ge/jlcpcb_size_thresholds_for_pricing/?tl=ja",
+    "https://yossy-life.com/jlcpcb-original-board-review/",
+    "https://jlcpcb.com/jp/help/article/how-do-i-get-a-price-do-i-have-to-register-as-a-user",
+    "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "https://qiita.com/T0y0m4n3y/items/682d07bf22ff86b7cd66",
+    "https://note.com/yawatajunk/n/n7cad267d2ec3",
+    "https://lang-ship.com/blog/work/jlcpcb/",
+    "https://cart.jlcpcb.com/jp/quote"
+   ]
+  },
+  {
+   "query": "JLCPCB 売上 従業員 創業",
+   "results": [
+    "https://jlcpcb.com/jp/?from=ina_ani",
+    "https://jlcpcb.com/about-us",
+    "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "https://www.youtube.com/watch?v=kM2EE1Te1c8",
+    "https://jlcpcb.com/jp/",
+    "https://www.linkedin.com/company/jlcpcb/",
+    "https://www.crunchbase.com/organization/jlcpcb",
+    "https://jlcpcb.com/",
+    "https://www.reddit.com/r/PCB/comments/1phji3n/first_pcb_order_with_jlcpcb/?tl=ja",
+    "https://www.similarweb.com/ja/company/jlcpcb.com/"
+   ]
+  },
+  {
+   "query": "JLCPCB 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "https://fabscene.com/new/special/pcb-manufacturing-democratization-history/",
+    "https://www.reddit.com/r/electronics/comments/1smzqof/jlcpcb_is_not_worth_it_for_me_now/?tl=ja",
+    "https://shinshu-roboken.weebly.com/blog/jlcpcb",
+    "https://note.com/takasu/n/n8733e19b5b2d",
+    "https://www.youtube.com/watch?v=ElYrbMPF31A",
+    "https://x.com/murayahk/status/1926128415595261971",
+    "https://yossy-life.com/jlcpcb-original-board-review/",
+    "https://www.hobbyhappyblog.jp/jlcpcb-first-order-report/",
+    "https://nozokuru.jp/"
+   ]
+  },
+  {
+   "query": "JLCPCB revenue members business model",
+   "results": [
+    "https://jlcpcb.com/about-us",
+    "https://gripsintelligence.com/insights/retailers/jlcpcb.com",
+    "https://www.reddit.com/r/PCB/comments/14sho3c/how_jlcpcb_manages_to_be_cheaper_than_everyone/",
+    "https://jlcpcb.com/news/strange-parts-visit-jlcpcb-flex-pcb",
+    "https://rocketreach.co/jlcpcb-profile_b427d65cff1749c5",
+    "https://jlcpcb.com/about-us/how-it-works",
+    "https://www.facebook.com/jlcpcb/videos/inside-jlcpcbs-smart-factory-claim-up-to-258-in-pcb-couponsjlcpcb-smartfactory-p/909907258785845/",
+    "https://www.similarweb.com/company/jlcpcb.store/",
+    "https://jlcpcb.com/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）"
+ }
+}

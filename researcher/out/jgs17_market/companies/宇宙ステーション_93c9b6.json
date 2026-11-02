@@ -1,0 +1,1956 @@
+{
+ "name": "宇宙ステーション",
+ "en": "commercial space station",
+ "aliases": [
+  "低軌道",
+  "月面",
+  "LEO"
+ ],
+ "context": "6 航空・宇宙 ⑥月面・低軌道",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:54:28.511377+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル宇宙経済市場規模、バリューチェーン部門別、2022〜2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "下流活動の市場規模は2025年に2,181億米ドルとなり、2035年には4,421億米ドルに達すると予測され、CAGR 7.5%で成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信の市場規模は 2025年に1,684億米ドルに達し、年平均成長率（CAGR）6.5%で成長して 2035年には3,109億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測・リモートセンシングの市場規模は、2025年の952億米ドルから、年平均成長率（CAGR）8.1%で成長し、2035年には2,036億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "GNSSによる航法・測位の市場規模は、2025年の828億米ドルから、年平均成長率（CAGR）7.5%で成長し、2035年には1,678億米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙探査・科学の市場規模は、2025年の520億米ドルから、年平均成長率（CAGR）6.8%で成長し、2035年には988億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途の市場規模は、年平均成長率（CAGR）5.8%で成長し、408億米ドルから707億米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府・防衛の市場規模は 2025年に1,974億米ドルに達し、年平均成長率（CAGR）5.7%で成長して 2035年には3,390億米ドルに達すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 現在の世界の宇宙産業の規模は約54兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ モルガン・スタンレーによると、世界の宇宙産業の市場規模は、2040年までに140兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 市場規模は約４兆円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代までは10,000USD/キロ水準だったが、SpaceXのFalcon9が2,900USD/キロを実現",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価格、納期 1機数百億円、5~10年程度 1機数千万～数十億円程度、1～3年程度",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 大型衛星は1機あたり数トン・数百億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 小型衛星は1機あたり～500㎏・数十億円",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の宇宙物流市場規模は、2025年には75億3000万米ドルと評価され、2026年の89億6000万米ドルから2034年には359億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.95%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国の宇宙経済は2021年に2116億ドルの総生産額を生み出し、同国のGDPに1299億ドル貢献しました",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、この分野における民間産業の雇用者数は36万人に達し、総報酬額は511億ドルに上りました",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.95%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙旅行市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": " ゴールドマン・サックスは2040年代に宇宙ビジネス市場規模が1兆ドルに達す",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " モルガン・スタンレーは2040年代に宇宙ビジネス市場規模が1.1兆ドルに達す",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " バンク・オブ・アメリカ・メリルリンチは2045年までに宇宙ビジネス市場規模が",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モルガン・スタンレーは 2040 年代に宇宙ビジネス市場規模が 1.1兆ドルに達すると予測",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（36.9兆円）",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（120.2兆円）",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "年には1.8兆ドル（200.7兆円）規模となる",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2050年における宇宙ビジネス市場規模（グローバル） 2050年における国内市場予測の考え方",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "36.9兆円",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済の市場規模グラフ・表データ集 — 調査機関5社の予測比較と地域別シェア | 宇宙旅行.com",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済の市場規模グラフ・表データ集 — 調査機関5社の予測比較と地域別シェア",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスとは？世界市場6,264億ドル・主要企業・参入方法をまとめて解説",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済の全体像 — 6,264億ドル市場",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "分野別CAGR、地域別シェア（北米55%）、日本の宇宙産業4兆円の位置づけを図表中心に解説",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、調査機関5社の予測、地域別シェア、セグメント別市場規模、統計データの読み方を整理する",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Novaspace社の「Space Economy Report 2026」によると、2025年の世界の宇宙経済規模は6,264億ドル（約94兆円）に達しました",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "6,264億ドル",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "4,479億ドル",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "7,797億ドル（2033年）",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "4,391億ドル",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "8,518億ドル（2035年）",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模に基づく宇宙産業 世界ランキングは首位の米国に中国と欧州が続き日本は5位に位置する一方、約6400億ドルの市場の約8割をSpaceXなど民間企業が牽引しており、日本も大手や新興企業を中心に宇宙ゴミ除去などの特定領域で世界的な競争力を保持している",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "約720億ドル",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "約140億ドル",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "約80億ドル",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "約5,000億円",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業の将来性は極めて高く、市場規模は過去10年で劇的に成長しました",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に約6,264億ドルに達し、今後も右肩上がりの予測です",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "2024年：約5,700億ドル",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "2025年：約6,264億ドル",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の年平均成長率約 7.0%を下支え",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代早期の倍増（約8兆円）を目指している",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "円)(CAGR7%/年)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR7%/年で成長するとした場合、$27.74billion(約3.6兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡衛星以外も含むRemote sensing service市場成長率として約15%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➡観測以外も含む衛星データ利用市場成長率として約20%の推定値あり",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 年間平均成長率約８％",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米ドルへと、予測期間中に11.5%のCAGRで",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の宇宙物流市場規模は、2025年には75億3000万米ドルと評価され、2026年の89億6000万米ドルから2034年には359億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.95%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場の規模は、2026年には89億6000万米ドルと評価され、2034年までに359億米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.95%です",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）18.95%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント衛星市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルの宇宙ビジネス市場が 2040 年以降も同じ成長率で推移すると仮定すると、 2050",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(1)宇宙関連産業 は基本的にグローバル市場と同様の成長率で推移すると予測し、現状で",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 2050年までに世界シェア4.0に到達するするよう高い成長率を設定",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①及び②は、 (1)宇宙関連産業市場 の拡大に比例して成長すると想定する",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "国内における 2050年の宇宙ビジネス市場は約 32兆円まで拡大する見込み",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "分野別CAGR、地域別シェア（北米55%）、日本の宇宙産業4兆円の位置づけを図表中心に解説",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は約60〜80億ドルですが、AIとの組み合わせにより急速に拡大中",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は「宇宙基本計画」で、2030年代の早期にこれを倍増させ8.0兆円規模にする目標を掲げています",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "政府は2030年代に市場規模を倍増させる目標を掲げていますが、民間の商業利用をいかに拡大するかが課題です",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "現時点で最も成長率が高いのは衛星インターネット（Starlinkが牽引）と地球観測データ×AIの2分野です",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年：約6,400億ドル規模へ拡大",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "：120〜150億ドル ― 国家主導による急速な拡大",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在の宇宙企業ランキング世界版ではSpaceXら民間ベンチャーや航空防衛大手が牽引してロケット開発等の事業別勢力図を形成しており、1兆ドル超へ拡大する市場の中で日本企業はデブリ除去などの独自技術により特定分野で確固たる地位を築いている",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在は、世界で200社を超える企業が活動しており、日本国内の宇宙開発企業も採用を拡大中です",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "サービス提供型の企業が急速に宇宙関連売上を拡大させているのが2026年の大きな特徴です",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCの調査によると、世界の宇宙ステーション市場は2025年に37億米ドル規模と予測され、予測期間中にCAGR15.8％で成長し、2032年までに103億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "MarketWatchの報道によれば、2025年に宇宙セクターの431社へ約553億ドルが投じられ、前年比65%増という驚異的な伸びを見せました",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "pass": 3
+   },
+   {
+    "quote": "ResearchAndMarketsの市場レポートでは、この分野が2026年の19.1億ドルから2030年には38億ドルへと成長すると予測されています（年平均成長率18.8%）",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "pass": 3
+   },
+   {
+    "quote": "ResearchAndMarketsは、軌道上製造市場が2026年の15億ドルから2030年には35.1億ドルへ成長すると見ています（年平均成長率23.6%）",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "pass": 3
+   },
+   {
+    "quote": "民間宇宙ステーションを含む宇宙居住施設の市場は、2030年までに115.4億ドル規模に達し、年平均成長率20.8%で成長すると予測されています",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size to Hit USD 30.57 Billion by 2034 | 28.50% CAGR Forecast",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026–34",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "28.50% CAGR:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2034)",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Engine Market is valued at USD 52.00 Billion in 2025 and is projected to reach USD 108.36 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Launch Market is valued at USD 28.50 Billion in 2025 and is projected to reach USD 84.26 Billion by 2034, expanding at a CAGR of 12.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Propulsion Market is valued at USD 8.50 Billion in 2025 and is projected to reach USD 29.44 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Power Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 43.29 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Communication Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 43.29 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Space Station Market was valued at USD 3.20 Bn in 2025 and is projected to reach USD 30.57 Bn by 2034, growing at a CAGR of 28.50% over the 2026–2034 forecast period.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Space Station Market size was projected to grow from USD 4.5 billion in 2025 to USD 16.4 billion by 2033, exhibiting a compound annual growth rate (CAGR) of 35% during the forecast period (2025-2033).",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a robust compound annual growth rate (CAGR) of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size: 2019: USD Billion 1.6, 2021: USD Billion 2.3, 2023: USD Billion 3.5, 2025: USD Billion 4.8, 2026: USD Billion 5.8, 2028: USD Billion 8.2, 2031: USD Billion 13.6, 2034: USD Billion 22.6. CAGR: 18.8%",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, growing at a CAGR of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "of end-user market share in 2025, represent the fastest-growing end-user category with a projected CAGR of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "of the orbital market in 2025 but is projected to grow at the highest CAGR of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "宇宙経済市場の規模、シェア、動向、分析、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chart: Global Space Ecomony Market Share, By Application, 2025 (%)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年現在、北米は宇宙経済市場で最大のシェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 商業衛星の打上市場におけるシェアはこの10年間で大きく変化",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ スターリンクとワンウェブの打上数が2020年から激増し、昨年は全体の7割以上を占めた",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "消費者向けソリューション、カーナビ等の自動車・道路分野が全体の９割以上を占めて",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ンが65%を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "➢ 自動車・道路関係が26％を占める",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙物流市場の規模、シェア、トレンド分析レポート：サービス別（宇宙旅行、ラストマイル配送、寿命延長、燃料補給、軌道離脱、デブリ除去、その他（宇宙採掘、微小重力））、エンドユーザー別（商業、政府、防衛）、軌道別（近地球軌道、低地球軌道、静止軌道）、プラットフォーム別（ミッション延長ポッド（MEP）、貨物モジュール、サービスモジュール、ロボットアームおよびマニピュレーター、宇宙タグ）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア42.3%で宇宙物流市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で42.3%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント衛星市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体ロケットモーター市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "光衛星通信市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星電気推進市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙旅行市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星地球観測市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界シェア4.0%以上を獲得済みのセグメント",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2050年には世界シェア4.0%に到達する",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*3 2050年時点における日本のGDP世界シェア",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年時点の国内市場 *2 が世界シェア4.0% *3 を獲得",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界シェア4.0%を下回るセグメント",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シェアの低い観測分野及び地上設備では 2050 年までに世界シェア 4.0%に到 達するよう高い",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※ 2050年までに世界シェア4.0に到達するするよう高い成長率を設定",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済の市場規模グラフ・表データ集 — 調査機関5社の予測比較と地域別シェア | 宇宙旅行.com",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済の市場規模グラフ・表データ集 — 調査機関5社の予測比較と地域別シェア",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "分野別CAGR、地域別シェア（北米55%）、日本の宇宙産業4兆円の位置づけを図表中心に解説",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、調査機関5社の予測、地域別シェア、セグメント別市場規模、統計データの読み方を整理する",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "衛星通信は宇宙経済の約40%を占める最大の分野です",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年時点で約10〜20億ドルと、宇宙経済全体に占める割合はまだ小さいです",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "商業宇宙市場では、北米が約55%のシェアを占め、続いて欧州（約20%）、アジア太平洋（約15%）となっています",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模に基づく宇宙産業 世界ランキングは首位の米国に中国と欧州が続き日本は5位に位置する一方、約6400億ドルの市場の約8割をSpaceXなど民間企業が牽引しており、日本も大手や新興企業を中心に宇宙ゴミ除去などの特定領域で世界的な競争力を保持している",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "シェア約60%を誇る圧倒的リーダー",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模は上位3位より小さいですが、宇宙産業市場規模における存在感は急速に高まりました",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "2026年現在、世界の宇宙経済規模は約6,400億ドルに達すると予測され、市場の8割近くを民間セクターが占めています",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "民間セクターの参入障壁が下がり、宇宙経済の約8割を民間企業が占めるようになりました",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "かつて政府主導だった宇宙開発は、いまや民間セクターが市場の約78％を占めるまでに成長を遂げました",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙船：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の宇宙経済は6130億ドル規模で、その成長の78%を商業セクターが占めています",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the Commercial Space Station Market in 2025, with a market share of 46.20% of overall global revenue.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By station model, the free-flying commercial station segment dominated the Commercial Space Station Market in 2025, driven by established commercial market presence, proven product reliability, and widespread operational adoption.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "15-company market share analysis",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 market share by company",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "CLD program funding that de-risks private investment, and the dramatic decline in launch costs enabled by SpaceX's reusable Falcon 9 and the forthcoming Starship vehicle. In 2025, LEO accounted for",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "of end-user market share in 2025, represent the fastest-growing end-user category with a projected CAGR of",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Healthcare Market Reports",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Top 50 Non-Healthcare Market Reports",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by Fortune 500 Companies & Industry Leaders",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America continues to lead the global commercial space station market, accounting for the largest share of market revenue and investment. In 2024, the region generated approximately",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "これらのプログラムは、商業参入企業が自社プラットフォームで継続的なサービス収益を確保する前に依存することの多い、専門的な生産能力と適格性確認要件を維持している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入企業の資金調達を制約",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "AmazonのProject Kuiperの進捗は、十分な資本を有する新規参入企業であっても、サービス規模での経済性が実現する前に、衛星、打ち上げ体制、ネットワークインフラ、顧客への販売・提供体制を並行して整備しなければならないことを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙経済市場の主要企業には、Lockheed Martin、Airbus、Boeing、SpaceXなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、従来の航空宇宙企業と新規参入企業との戦略的パートナーシップが、宇宙ミッションの効率化とコスト削減を促進している",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙ビジネスとは？世界市場6,264億ドル・主要企業・参入方法をまとめて解説",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、世界をリードする主要企業の動向を軸に、宇宙産業の最新勢力図を詳しく解説します",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙開発企業の売上高ランキングで、国内上位に位置する主な企業は以下の通りです",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙産業における主な企業カテゴリと収益構造は、以下の3タイプに整理できます",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のSWOT分析（3社まで）",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的プレゼンス、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "6．主な参入企業動向/アライアンス動向",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "pass": 3
+   },
+   {
+    "quote": "1）ビジネスマップ・商流 2）主要企業動向一覧",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "pass": 3
+   },
+   {
+    "quote": "10.参入企業一覧 46",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "industry trends, competitive landscape, regional outlook, and future growth opportunities. The study",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Engine Market is valued at USD 52.00 Billion in 2025 and is projected to reach USD 108.36 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Commercial Launch Market is valued at USD 28.50 Billion in 2025 and is projected to reach USD 84.26 Billion by 2034, expanding at a CAGR of 12.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Propulsion Market is valued at USD 8.50 Billion in 2025 and is projected to reach USD 29.44 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Power Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 43.29 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Space Communication Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 43.29 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape, including key market participants, company size,",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape, market share & company revenue mapping",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "âœ” Accurately assess market size, growth patterns, and competitive landscapes.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Benchmarking: Assessing leading players to determine market positioning.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups explore microgravity biotech ventures.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled based on Your",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "led the competitive landscape with its axial module integration strategy aboard the ISS",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial space station market faces several material threats that could constrain growth or reshape its competitive landscape.",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape of the commercial space station market is characterized by a relatively small number of capital-intensive prime developers at the station level, supported by a broader ecosystem of specialized subsystem and component suppliers. At the prime development level, the market is effectively divided between three major NASA CLD-supported programs —",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Pre-IPO",
+    "url": "https://spacenexus.us/sectors/commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players In The Global Commercial Space Station Market",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include SpaceX, Blue Origin, Axiom Space, Boeing, Lockheed Martin, Northrop Grumman, Sierra Space, Bigelow Aerospace, Thales Alenia Space, and Airbus Defence and Space.",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled based on Your",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Competitive Landscape",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include SpaceX, Blue Origin, Axiom Space, Sierra Space, and Northrop Grumman, all of which are investing in modular station designs, reusable launch vehicles, and advanced life support systems.",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "21 Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "23 Upcoming Startups in the Commercial Space Station Market",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics; size and growth; segmentation; regional and country breakdowns; competitive landscape; market shares; trends and strategies for this market. It traces the market’s history and forecasts market growth by geography. It places the market within the context of the wider commercial space station; and compares it with other markets.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Competitive Landscape - Details on the competitive landscape of the market, estimated market shares and company profiles of the leading players.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Other Major and Innovative Companies Details on the startups, company profiles of other major and innovative companies in the market.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Competitive Benchmarking - Briefs on the financials comparison between major players in the market.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "- Competitive Dashboard - Briefs on competitive dashboard of major players.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "The companies building the space economy — from launch providers and satellite operators to debris removal startups and commercial station developers. Key players, capabilities, funding and strategic focus.",
+    "url": "https://orbitalradar.com/commercial-space",
+    "pass": 3
+   },
+   {
+    "quote": "), the rise of mega-constellations, the growth of Earth observation data services, and increasing private investment in space startups.",
+    "url": "https://orbitalradar.com/commercial-space",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "例えば、2024年1月、イタリアの宇宙輸送会社D-Orbitは、シリーズC資金調達ラウンドで1億ユーロ（1億1000万米ドル）を確保しました",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "pass": 3
+   },
+   {
+    "quote": "出所： The Goldman Sachs Group, Inc.「Space: The Next Investment Frontier」（2017年4月）",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "出所： Morgan Stanley.「Space: Investment Implications of the Final Frontire」（2017年10月）",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙スタートアップ資金調達まとめ2026 — 上海垣信19億ドル・Stoke 10億ドル・ICEYE 10億ユーロ",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024: Axiom Space secured a $200M investment to expand its commercial space station modules.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "In August 2024: Lockheed Martin invested $150M in commercial space station tech for future NASA collaborations.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "for its human spaceflight program through 2035. Japan and South Korea are increasing their investments in orbital manufacturing and research platforms as well, collectively adding to the region's demand for commercial orbital services.",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, as competition between Axiom Space, Orbital Reef, and Starlab creates pricing pressure that gradually broadens the customer base. Sovereign space tourism programs, where governments purchase seats to send their national astronauts as a prestige investment, added an additional layer of demand particularly from Middle Eastern and Southeast Asian nations in 2024-2025.",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "annually in manufacturing-related station revenue by 2028. Earth observation from crewed and semi-crewed orbital platforms also benefits from the large aperture, stability, and flexible pointing capabilities not available on uncrewed satellites, driving additional module demand from geospatial intelligence companies. Related investments in",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "CLD program funding that de-risks private investment, and the dramatic decline in launch costs enabled by SpaceX's reusable Falcon 9 and the forthcoming Starship vehicle. In 2025, LEO accounted for",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "active commercial station development programs across North America, Europe, and Asia Pacific. The convergence of microgravity research demand, space tourism uptake, and sovereign infrastructure investments positions LEO as the dominant orbital zone through at least the late 2030s, with the market projected to grow from",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global commercial space station market was valued at approximately $4.8 billion in 2025. It is projected to grow at a CAGR of 18.8% from 2026 to 2034, reaching an estimated $22.6 billion by 2034. This growth is primarily driven by NASA's CLD program, the impending ISS retirement, space tourism expansion, and increasing private sector investment in orbital infrastructure.",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "NASA Commercial LEO Destinations program funding commercial replacements for the ISS (Phase 2 awards still pending in 2026)",
+    "url": "https://spacenexus.us/sectors/commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, witnessing robust expansion on the back of private sector investments and advancements in space technologies. The market is projected to grow at a",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America continues to lead the global commercial space station market, accounting for the largest share of market revenue and investment. In 2024, the region generated approximately",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, commercial space investment soared and launch activity expanded rapidly across satellites, rockets, and contracts.",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial space ventures secured $15 billion in venture capital in 2023. The industry conducted 186 commercial launches that same year, a 30 percent increase from 2022. Yet 80 percent of space-related special purpose acquisition companies failed to reach their targets.",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial space venture capital funding reached $15 billion in 2023, a 20% increase from 2022",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocket Lab raised $480 million in its 2021 IPO, valuing the company at $1.6 billion",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "in Series E funding in 2022, valuing the company at $34 billion",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "in Series H funding in 2022, valuing the company at $150 billion",
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2024, the global commercial space station market is valued at USD 1.87 billion, reflecting rapid growth driven by investments in space infrastructure.",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.7.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.9.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.5.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "18.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "19.1 Market Overview (Region Information, Market Information, Background Information, Government Initiatives, Regulations, Regulatory Bodies, Major Associations, Taxes Levied, Corporate Tax Structure, Investments and Major Companies)",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "25.1 Funding Secures Acceleration of Haven Commercial Space Station Development Ahead of 2027 Launch",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "25.2 Investment Surge Propels Development of Commercial Space Station and Lunar Suits",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "CINCINNATI—September 8, 2026—GE Aerospace (NYSE:GE) announced today that it has signed an agreement to acquire Consolidated Precision Products (CPP), a leading manufacturer of highly engineered castings, from private investment firms Warburg Pincus and Berkshire Partners.",
+    "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "宇宙ステーション市場 | 市場規模 業界分析 予測 2032年 【市場調査レ... — Nov 1, 2025 · Stratistics MRCの調査によると、世界の宇宙ステーション市場は2025年に37億米ドル規模と予測され、予測期間中にCAGR15.8％で成長し、2032年までに103億米ドルに達すると見込まれています。",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年版 宇宙ビジネス市場の将来展望 ｜ 調査レポート ｜ 富士経済グ... — Sep 10, 2025 · 2023年に設立されたJAXA宇宙戦略基金（10年で1兆円）により、新規参入を検討する民間企業が急増しています。 宇宙ビジネスは、衛星データサービスから人工衛星、月面建設機械、宇宙旅行まで幅広く、求められる技術も多様です。",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size to Hit USD 30.57 Billion ... — The Commercial Space Station Market is valued at USD 3.20 Billion in 2025 and is projected to reach USD 30.57 Billion by 2034, expanding at a CAGR of 28.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size, Share and Growth 2034 — The global commercial space station market size was valued at USD 820.1 million in 2025. The market is projected to grow from USD 1,049.6 million in 2026 to USD 6,408.6 million by 2034, exhibiting a CAGR of 25.4% during the forecast period.",
+    "url": "https://www.fortunebusinessinsights.com/commercial-space-station-market-119554",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size & Industry Growth 2030 — The global Commercial Space Station Market size was valued at USD 4.5 billion in 2025 and is expected to reach USD 16.4 billion by 2033, expanding at a CAGR of 35% during the forecast period 2025-2033",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Research Report 2034Commercial Space Stations Companies & Market Data: Space ...Commercial Space Station Market Report 2026Commercial Space Station Market Size, Share, Report 2026 — May 17, 2026 · The commercial space station market was valued at $4.8 billion in 2025 and is projected to reach $22.6 billion by 2034, growing at a CAGR of 18.8%. Market size: $5.4B (202",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Stations Companies & Market Data: Space ... — Market size: $5.4B (2025), growing at +19.5% CAGR. 5 companies tracked on SpaceNexus.",
+    "url": "https://spacenexus.us/sectors/commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Report 2026 — The commercial space station market size has grown rapidly in recent years. It will grow from $5.95 billion in 2025 to $6.96 billion in 2026 at a compound annual growth rate (CAGR) of 17.1%.",
+    "url": "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size, Share, Report 2026 — The commercial space station market is projected to reach $12.93 billion by 2030 at a 16.7% CAGR, driven by space tourism, LEO habitats, and in-space manufacturing demand.",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Research Report 2033 — Regionally, North America continues to dominate the commercial space station market, accounting for the largest share of global revenue in 2024.",
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size & Industry Growth 2030 — North America leads the Commercial Space Station Market with strong government backing and a thriving private space sector. Companies in the U.S. receive support through funding programs and launch infrastructure, which accelerates development and deployment.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Global Market Opportunities and ... — The top opportunities in the commercial space station market segmented by orbit will arise in the low earth orbit segment, which will gain $3.24 billion of global annual sales by 2030.",
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Stations Companies & Market Data: Space ... — Commercial space stations represent the next generation of human-occupied orbital platforms, designed to replace the ISS when it is deorbited around 2030. NASA is supporting multiple commercial providers through the Commercial LEO Destinations (CLD) program.",
+    "url": "https://spacenexus.us/sectors/commercial-space-stations",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size, Share, Report 2026 — Major companies operating in the commercial space station market are focusing on developing advanced habitation technologies, such as human-centric interior design and novel life support systems, to enhance crew comfort, well-being, and scientific productivity in microgravity.",
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Research Report 2034Commercial Space Station Market Size & Industry Growth 2030Commercial Space Station Market Size, Share and Growth 2034Commercial Space Companies — Industry Directory - Orbital Radar — May 17, 2026 · North America dominates the commercial space station market with a 52.4% revenue share in 2025, equivalent to approximately $2.5 billion. This domina",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Space Station Market Size & Industry Growth 2030 — Companies in the Commercial Space Station Market actively adopt modular designs, reusable systems, and partnerships with space agencies to lower costs and increase flexibility. Recent trends show rising investments from private spaceflight firms and growing interest in microgravity research.",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる"
+   },
+   {
+    "value": "7.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "市場の年平均成長率約 7.0%を下支え"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである"
+   },
+   {
+    "value": "7",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "円)(CAGR7%/年)"
+   },
+   {
+    "value": "15",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)"
+   },
+   {
+    "value": "20",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)"
+   },
+   {
+    "value": "8",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には"
+   },
+   {
+    "value": "18.95",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "quote": "世界の宇宙物流市場規模は、2025年には75億3000万米ドルと評価され、2026年の89億6000万米ドルから2034年には359億米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は18.95%となる見込みです"
+   },
+   {
+    "value": "55",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "quote": "分野別CAGR、地域別シェア（北米55%）、日本の宇宙産業4兆円の位置づけを図表中心に解説"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "quote": "Stratistics MRCの調査によると、世界の宇宙ステーション市場は2025年に37億米ドル規模と予測され、予測期間中にCAGR15.8％で成長し、2032年までに103億米ドルに達すると見込まれています"
+   },
+   {
+    "value": "18.8",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "quote": "ResearchAndMarketsの市場レポートでは、この分野が2026年の19.1億ドルから2030年には38億ドルへと成長すると予測されています（年平均成長率18.8%）"
+   },
+   {
+    "value": "23.6",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "quote": "ResearchAndMarketsは、軌道上製造市場が2026年の15億ドルから2030年には35.1億ドルへ成長すると見ています（年平均成長率23.6%）"
+   },
+   {
+    "value": "20.8",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "quote": "民間宇宙ステーションを含む宇宙居住施設の市場は、2030年までに115.4億ドル規模に達し、年平均成長率20.8%で成長すると予測されています"
+   },
+   {
+    "value": "8.50",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "quote": "The Commercial Engine Market is valued at USD 52.00 Billion in 2025 and is projected to reach USD 108.36 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "12.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "quote": "The Commercial Launch Market is valued at USD 28.50 Billion in 2025 and is projected to reach USD 84.26 Billion by 2034, expanding at a CAGR of 12.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "14.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "quote": "The Space Propulsion Market is valued at USD 8.50 Billion in 2025 and is projected to reach USD 29.44 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "28.50",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "quote": "The Commercial Space Station Market was valued at USD 3.20 Bn in 2025 and is projected to reach USD 30.57 Bn by 2034, growing at a CAGR of 28.50% over the 2026–2034 forecast period."
+   },
+   {
+    "value": "35",
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "quote": "The Commercial Space Station Market size was projected to grow from USD 4.5 billion in 2025 to USD 16.4 billion by 2033, exhibiting a compound annual growth rate (CAGR) of 35% during the forecast period (2025-2033)."
+   },
+   {
+    "value": "18.8",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Size: 2019: USD Billion 1.6, 2021: USD Billion 2.3, 2023: USD Billion 3.5, 2025: USD Billion 4.8, 2026: USD Billion 5.8, 2028: USD Billion 8.2, 2031: USD Billion 13.6, 2034: USD Billion 22.6. CAGR: 18.8%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "3.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった"
+   },
+   {
+    "value": "78",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている"
+   },
+   {
+    "value": "10.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました"
+   },
+   {
+    "value": "89.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "65",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "ンが65%を占める"
+   },
+   {
+    "value": "26",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "quote": "➢ 自動車・道路関係が26％を占める"
+   },
+   {
+    "value": "42.3",
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "quote": "北米は、2025年の市場シェア42.3%で宇宙物流市場を牽引しました"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "quote": "• 世界シェア4.0%以上を獲得済みのセグメント"
+   },
+   {
+    "value": "55",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "quote": "分野別CAGR、地域別シェア（北米55%）、日本の宇宙産業4兆円の位置づけを図表中心に解説"
+   },
+   {
+    "value": "40",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "quote": "衛星通信は宇宙経済の約40%を占める最大の分野です"
+   },
+   {
+    "value": "20",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "quote": "商業宇宙市場では、北米が約55%のシェアを占め、続いて欧州（約20%）、アジア太平洋（約15%）となっています"
+   },
+   {
+    "value": "15",
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "quote": "商業宇宙市場では、北米が約55%のシェアを占め、続いて欧州（約20%）、アジア太平洋（約15%）となっています"
+   },
+   {
+    "value": "60",
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "quote": "シェア約60%を誇る圧倒的リーダー"
+   },
+   {
+    "value": "78",
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "quote": "かつて政府主導だった宇宙開発は、いまや民間セクターが市場の約78％を占めるまでに成長を遂げました"
+   },
+   {
+    "value": "78",
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "quote": "2024年の宇宙経済は6130億ドル規模で、その成長の78%を商業セクターが占めています"
+   },
+   {
+    "value": "46.20",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "quote": "North America dominated the Commercial Space Station Market in 2025, with a market share of 46.20% of overall global revenue."
+   },
+   {
+    "value": "52.4",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%"
+   },
+   {
+    "value": "19.3",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%"
+   },
+   {
+    "value": "20",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%"
+   },
+   {
+    "value": "4.8",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%"
+   },
+   {
+    "value": "3.5",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Regional Market Share: North America: 52.4%, Europe: 19.3%, Asia Pacific: 20%, Latin America: 4.8%, Middle East & Africa: 3.5%"
+   },
+   {
+    "value": "34.2",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   },
+   {
+    "value": "22.8",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   },
+   {
+    "value": "15.4",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   },
+   {
+    "value": "13.1",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   },
+   {
+    "value": "9.1",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   },
+   {
+    "value": "5.4",
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "quote": "Market Share by Segment: Habitat Modules: 34.2%, Power Systems: 22.8%, Life Support Systems: 15.4%, Propulsion Systems: 13.1%, Docking & Berthing Systems: 9.1%, Others: 5.4%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%AE%87%E5%AE%99%E6%8A%80%E8%A1%93%E5%B8%82%E5%A0%B4-115460",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/space-logistics-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%AE%87%E5%AE%99%E6%8A%80%E8%A1%93%E5%B8%82%E5%A0%B4-115460",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-with.com/industry/global-space-industry-ranking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space-with.com/industry/global-space-company-ranking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://astronavi.jp/%E4%B8%BB%E8%A6%81%E5%AE%87%E5%AE%99%E4%BC%81%E6%A5%AD%E4%B8%80%E8%A6%A7/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/space-habitat-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/space_business/n/ndb4d4fc50c42",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/commercial-space-station-market-119554",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuredatastats.com/commercial-space-station-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketintelo.com/report/commercial-space-station-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spacenexus.us/sectors/commercial-space-stations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/commercial-space-station-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/commercial-space-station-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidatedboring.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orbitalradar.com/commercial-space",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "宇宙ステーション 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E5%AE%87%E5%AE%99%E6%8A%80%E8%A1%93%E5%B8%82%E5%A0%B4-115460",
+    "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://straitsresearch.com/jp/report/space-logistics-market",
+    "https://jp.linkedin.com/pulse/%E5%AE%87%E5%AE%99%E7%94%A8%E8%84%B1%E6%B0%B4%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%8F%8E%E7%9B%8A%E6%88%90%E9%95%B72026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A781%E3%81%AEcagr%E3%81%A7%E4%BA%88%E6%B8%AC-visionary-marketz-labs-2ybye",
+    "https://www.soumu.go.jp/main_content/000603731.pdf",
+    "https://store.seedplanning.co.jp/product.php?id=50",
+    "https://newscast.jp/news/6678343",
+    "https://www.fkg-report.jp/market-trends/2025/2140.html",
+    "https://www.fortunebusinessinsights.com/jp/商業宇宙ステーション市場-119554"
+   ]
+  },
+  {
+   "query": "宇宙ステーション 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/宇宙技術市場-115460",
+    "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/",
+    "https://space-with.com/industry/global-space-industry-ranking",
+    "https://space-with.com/industry/global-space-company-ranking",
+    "https://astronavi.jp/主要宇宙企業一覧/",
+    "https://xn--29sob207cg49a.com/business/space-industry-map-2026/",
+    "https://app-tatsujin.com/2026-space-industry-top-companies-ranking-market-trends/"
+   ]
+  },
+  {
+   "query": "宇宙ステーション 市場 前年比 2025",
+   "results": [
+    "https://www.marketreport.jp/space-habitat-market",
+    "https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112409809",
+    "https://note.com/space_business/n/ndb4d4fc50c42",
+    "https://www.gminsights.com/ja/industry-analysis/space-economy-market",
+    "https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf",
+    "https://xn--29sob207cg49a.com/business/space-market-size-data-2026/"
+   ]
+  },
+  {
+   "query": "commercial space station market size CAGR 2025",
+   "results": [
+    "https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/",
+    "https://www.fortunebusinessinsights.com/commercial-space-station-market-119554",
+    "https://www.futuredatastats.com/commercial-space-station-market",
+    "https://marketintelo.com/report/commercial-space-station-market",
+    "https://spacenexus.us/sectors/commercial-space-stations",
+    "https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report",
+    "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report"
+   ]
+  },
+  {
+   "query": "commercial space station market share top players percent",
+   "results": [
+    "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "https://dataintelo.com/report/commercial-space-station-market",
+    "https://worldmetrics.org/commercial-space-industry-statistics/",
+    "https://growthmarketreports.com/report/commercial-space-station-market",
+    "https://www.futuredatastats.com/commercial-space-station-market",
+    "https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market",
+    "https://orbitalradar.com/satellites-by-operator"
+   ]
+  },
+  {
+   "query": "commercial space station market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://consolidatednd.com/",
+    "https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical",
+    "https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList",
+    "https://www.consolidatedboring.com/",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "commercial space station market key companies share 2025",
+   "results": [
+    "https://spacenexus.us/sectors/commercial-space-stations",
+    "https://dataintelo.com/report/commercial-space-station-market",
+    "https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report",
+    "https://marketintelo.com/report/commercial-space-station-market",
+    "https://www.futuredatastats.com/commercial-space-station-market",
+    "https://www.fortunebusinessinsights.com/commercial-space-station-market-119554",
+    "https://orbitalradar.com/commercial-space"
+   ]
+  }
+ ],
+ "missing": {}
+}

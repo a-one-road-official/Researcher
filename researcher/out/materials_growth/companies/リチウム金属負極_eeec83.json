@@ -1,0 +1,1779 @@
+{
+ "name": "リチウム金属負極",
+ "en": "lithium metal anode",
+ "aliases": [
+  "lithium metal foil",
+  "リチウム金属負極"
+ ],
+ "context": "電池材料",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:37:09.005917+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "リチウム金属負極市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場規模、シェア、トレンド分析レポート：負極材料タイプ別（純リチウム金属負極、リチウム複合負極、コーティングリチウム金属負極）、電池化学別（固体リチウム金属電池、リチウム硫黄電池、リチウム金属リチウムイオン電池、その他のリチウム金属電池化学）、用途別（電気自動車、家電製品、エネルギー貯蔵システム、航空宇宙・防衛、医療機器）、セル形状別（パウチ型セル、円筒型セル、角型セル、ボタン型セル）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーティングされたリチウム金属負極材の市場は、メーカー各社がリチウム金属の安定性とサイクル寿命の向上に注力していることから、予測期間中に年平均成長率（CAGR）28.32%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のリチウム金属負極市場は、高級EVや次世代モビリティプラットフォーム向けの超高エネルギー密度バッテリーに対する需要の高まりを背景に、2025年には58.23%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のリチウム金属負極市場規模は、2025年には10億2,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのリチウム金属負極市場規模は、急速に拡大する電動二輪車のエコシステムと、エネルギー密度が高く性能が向上した先進的なバッテリー技術に対する強い需要に牽引され、2025年には4,500万米ドルと評価されました",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のリチウム金属負極市場は、自動車メーカーが次世代バッテリー技術を将来のEVプラットフォームに統合する中で、同地域が固体電池の商用化において主導的な役割を果たしていることを背景に、2025年には2億1000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のリチウム金属負極市場は、2025年には3億7000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのリチウム金属負極市場規模は、国内の重要鉱物資源の優位性により、2025年には3,500万米ドルと評価された",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.3%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、全固体電池用リチウム金属負極の世界市場規模、市場動向、セグメント別予測（>50/μm、10～20/μm、＜5/μm）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極材の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の中国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の全固体電池用リチウム金属負極市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模年平均成長率（CAGR）、2021年、2025年、2032年における国/地域別の世界市場の現状と将来分析が含まれます",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、全固体電池用リチウム金属負極のプレーヤー別市場規模の詳細な分析が示されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別市場規模、国/地域別の年間売上高、アメリカ大陸、アジア太平洋地域（APAC）、ヨーロッパ、中東・アフリカ（MEA）それぞれの2021年から2026年までの市場規模成長に関する情報が含まれます",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までのアメリカ大陸における国別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に米国、カナダ、メキシコ、ブラジルの各国の市場状況が個別に扱われています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・航空分野の市場規模は 1億3,200万米ドルに達し、約 38%のCAGRで拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "系統用・定置型蓄電の市場規模は 2025年に 1億1,000万米ドルで、CAGRは約 35%と予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は 2025 年に 2 億 6,400 万米ドルとなり、年平均成長率（CAGR）約 35.5% で拡大し、2035 年には 54 億 7,000 万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は 2025 年に 1 億 5,400 万米ドルとなり、年平均成長率（CAGR）約 36.7% で拡大し、2035 年には 35 億 7,000 万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高シェアは、2025 年の市場規模 11 億米ドルを基にした推定値であり、成熟したコモディティ供給市場ではなく、商業化の初期段階にある市場区分を反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2026年から2035年にかけて年平均成長率（CAGR）36.4%で成長し、2035年までに237億7,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、全固体電池用リチウム金属負極の世界市場規模、市場動向、セグメント別予測（>50/μm、10～20/μm、＜5/μm）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極材の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の中国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の全固体電池用リチウム金属負極市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模年平均成長率（CAGR）、2021年、2025年、2032年における国/地域別の世界市場の現状と将来分析が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、全固体電池用リチウム金属負極のプレーヤー別市場規模の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの地域別市場規模、国/地域別の年間売上高、アメリカ大陸、アジア太平洋地域（APAC）、ヨーロッパ、中東・アフリカ（MEA）それぞれの2021年から2026年までの市場規模成長に関する情報が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までのアメリカ大陸における国別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に米国、カナダ、メキシコ、ブラジルの各国の市場状況が個別に扱われています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2.リチウム金属負極採用電池の市場規模推移・予測 3",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2.リチウム金属負極採用電池の市場規模推移・予測 3",
+    "url": "https://www.fkg-report.jp/reports/112607703.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium Metal Market Size, Share Market Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 2.0 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 2.2 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 7.9 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.0 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "リチウム金属負極市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場の規模は、2025年には15億米ドルと評価され、2026年の18億米ドルから2034年には42億米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は11.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、Solidion社は、先進的なバッテリー技術の開発、製造能力の拡大、および商業化活動を支援するため、3,500万米ドルの資金を確保しました",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーティングされたリチウム金属負極材の市場は、メーカー各社がリチウム金属の安定性とサイクル寿命の向上に注力していることから、予測期間中に年平均成長率（CAGR）28.32%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム硫黄電池分野は、高い理論エネルギー密度と低コストの材料を背景に、予測期間中に年平均成長率（CAGR）30%を記録すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極材の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の中国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の全固体電池用リチウム金属負極市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模年平均成長率（CAGR）、2021年、2025年、2032年における国/地域別の世界市場の現状と将来分析が含まれます",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属電池材料市場の規模は、2025年に11億米ドルに達し、2026年から2035年にかけて約36.4%の年平均成長率（CAGR）で拡大し、2035年には237億7,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高は2022年の4億6,000万米ドルから2025年には11億米ドルへ拡大し、実績期間の年平均成長率は33.8%となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の拡大は、研究室での需要だけでなく、試作品の検証および初期量産向けの材料調達に左右される見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属電池材料は、数量規模が拡大するなかでも、2028年までは性能主導型の市場であり続ける",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの材料で予測される 40% の年平均成長率（CAGR）は、要求の厳しいセル構造において安全性と実用サイクル寿命を高めるソリューションに付加価値が認められていることを反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・航空分野は 2025 年に 1 億 3,200 万米ドルを生み出した一方、海洋・海事分野の需要は 2,200 万米ドルから始まったものの、用途別では最も高い年平均成長率を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極材料は、2025 年の売上高 4 億 4,000 万米ドル、構成比 40% を占め、2035 年まで約 38% の年平均成長率で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電解質材料は 2025 年に 2 億 8,600 万米ドルの売上高を生み出し、素材別では約 42% と最も高い年平均成長率を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体電解質材料は売上高 1 億 9,800 万米ドル、構成比 18% を占め、約 28% の年平均成長率で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "保護コーティングおよび人工 SEI 材料は 2025 年に 9,900 万米ドルの売上高を生み出し、約 40% の年平均成長率で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セパレーター材料は 6,600 万米ドルを占め、主にハイブリッド型および先進液体システムで、約 33% の年平均成長率で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極材の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の中国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の全固体電池用リチウム金属負極市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模年平均成長率（CAGR）、2021年、2025年、2032年における国/地域別の世界市場の現状と将来分析が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "9.リチウム金属負極の採用拡大に向けた将来展望 36",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "9.リチウム金属負極の採用拡大に向けた将来展望 36",
+    "url": "https://www.fkg-report.jp/reports/112607703.html",
+    "pass": 3
+   },
+   {
+    "quote": "（１）右肩上がりに増加・拡大： エルジー エナジー ソリューション【373220】が直近（2017〜2024年期）に平均23件/年と急増しトップに躍進しました",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "また、トヨタ自動車（0.8件/年 → 9件/年 → 12.6件/年）も右肩上がりに拡大しています",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "これは従来の負極材料である黒鉛（約372 mAh/g）の約10倍に相当します",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "充電・放電で素材が約3〜4倍に膨張し、電極が壊れやすい",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Li-ion anode segment is growing at a fastest CAGR of 26.2% from 2026 to 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 19.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 19.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global lithium metal market is expected to grow at a CAGR of 19.8% from 2026 to 2033, reaching USD 7.9 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium Metal Thin Film Anode Market To 2035: Solid-State Battery Rollout Supports 30–45% CAGR - News and Statistics - IndexBox",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium Metal Thin Film Anode Market Forecast to 2035: Solid-State Battery Commercialization Drives 30–45% CAGR",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "In the baseline scenario, IndexBox estimates a 12.0% compound annual growth rate for the global lithium metal thin film anode market over 2026-2035, bringing the market index to roughly 420 by 2035 (2025=100).",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 2.15 Billion in 2025 and the total Lithium Metal revenue is expected to grow at a CAGR of 12.7% from 2026 to 2034, reaching USD 6.31 Billion by 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "reach USD 6.31 billion by 2034, registering a CAGR of 12.7% during 2026–2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2034 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "The Lithium Metal Industry Market is projected to grow at a CAGR of 12.7% during the forecast period from 2026 to 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "The lithium-ion battery anode market size was valued at USD 18.61 billion in 2025. The market is projected to grow at an 33.51% CAGR from 2026 to 2034. The growing adoption of electric vehicles and rising integration of renewable energy are a few of the key factors driving market development.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2034)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is projected to account for the fastest growth at a 31.80% CAGR. This is due to increasing usage of lithium-ion battery anodes in electric mobility and renewable energy storage.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "The active anode materials segment is projected to grow at a 29.80% CAGR. The active anode materials provide greater energy density in comparison to graphite anodes used conventionally.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion and CAGR from 2026 to 2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market was worth USD 18.61 billion in 2025 and is expected to hit USD 250.87 billion by 2034—a 33.51% CAGR. That kind of growth doesn't happen by accident. EVs are scaling fast, renewable energy needs storage, and governments are pouring money into domestic battery supply chains.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "At what CAGR is the lithium-ion battery anode market projected to grow from 2026 to 2034?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to account for a 33.51% CAGR during the forecast period.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "アノードフリー電池構造と複合リチウム金属アノードは、市場参入企業に新たな機会を提供する",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場の競争環境は現在、既存の電池材料メーカー、先進的な電池技術企業、自動車用電池開発企業、研究開発型スタートアップ企業、特殊材料サプライヤーなど、多様な企業が参入する細分化された市場となっている",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界的な主要企業には、Ganfeng Lithium、Tianqi Lithium、Albemarle、China Energy Lithium、Chengxin Lithiumなどが含まれます",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、急速に拡大する世界の固体電池用リチウム金属負極市場における各企業の独自の立場をより深く理解するため、固体電池用リチウム金属負極のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、固体電池用リチウム金属負極市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "また、新製品および潜在的な新規参入企業、合併・買収、事業拡大に関する情報も提供されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "デンドライト形成リスクが参入のゲートキーパーとして機能するため、需要が急増するのは、バッテリー開発企業が用途ごとに求められる使用サイクル下で信頼性の高い挙動を実証した場合に限られる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両プログラムが検証済みの材料構成を選定し、生産規模の拡大によって工程管理が参入障壁となると、統合が進む可能性が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属電池材料市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属電池材料市場の主要企業には、QuantumScape、Solid Power、SES AI、Albemarle、Ascend Elements などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池用リチウム金属負極の世界的な主要企業には、Ganfeng Lithium、Tianqi Lithium、Albemarle、China Energy Lithium、Chengxin Lithiumなどが含まれます",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "また本レポートでは、急速に拡大する世界の固体電池用リチウム金属負極市場における各企業の独自の立場をより深く理解するため、固体電池用リチウム金属負極のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、固体電池用リチウム金属負極市場の包括的な概要、市場シェア、成長機会を提示します",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "また、新製品および潜在的な新規参入企業、合併・買収、事業拡大に関する情報も提供されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、本記事における『有望企業』とは、対象技術の開発時期、継続性および蓄積の3指標から将来の市場独占や他社に対する参入障壁を築けると判断される上位企業（TOP10にランクインする企業）を指します",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "（２）直近で急増・新規参入： エルジー エナジー ソリューションが2017〜2024年期に一気に出願を伸ばしています",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Albemarle Corporation, Ganfeng Lithium Co., Ltd., and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & volume forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the lithium metal market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Albemarle Corporation; China Lithium Products Inc.; FMC Corporation (Lithium Division); Ganfeng Lithium Co., Ltd.; Livent Corporation; Novalith Technologies; Shenzhen Chengxin Lithium Group Co., Ltd.; SMI Ltd. (Japan); Tianqi Lithium Corporation; Toyota Tsusho Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "This report provides an in-depth analysis of the Lithium Metal Thin Film Anode market in the world, covering market size, growth trajectory, demand structure, supply capability, trade flows, pricing, competitive landscape, and forecast to 2035.",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape, company presence, product portfolio focus, and strategic positioning",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "10. COMPETITIVE LANDSCAPE AND PORTFOLIO POWER",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players and Strategic Archetypes",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "IBTM Ignite Returns to IBTM World 2026 to Connect Investors with Emerging Event Tech Startups",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies & Competitive Landscape",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10–15 key players overview, company briefs, capacity, product focus, geography, and competitive structure",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "5. The report emphasizes industry players' focus on technological advancements to establish dominance in the global Lithium Metal Industry. Key players are actively strengthening their market positions.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Lithium Metal Industry Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium Metal Industry Key Players:",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market dynamics, regional analysis, competitive landscape, key growth opportunities, PESTEL analysis, PORTER analysis, and market forecasts.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the Lithium Metal Industry Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Albemarle Corporation, Ganfeng Lithium Group, Tianqi Lithium, American Elements, Chengxin Lithium Group, Li-Metal Corp., and Livent Corporation.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Lithium Metal Industry Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Competitive Landscape, Growth Factors, and Industry Trends",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "10. Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx has served over 35,000 customers globally. These range from large corporations to ambitious start-ups, and from Governments to research centers. Our customers use our work to make informed decisions and save time and resources.",
+    "url": "https://www.idtechex.com/en/research-report/lithium-metal-batteries-2025/1069",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本のリチウム金属負極市場分析",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のリチウム金属負極市場は、自動車メーカーが次世代バッテリー技術を将来のEVプラットフォームに統合する中で、同地域が固体電池の商用化において主導的な役割を果たしていることを背景に、2025年には2億1000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation (Japan)",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Group (Japan)",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までのAPAC地域における地域別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に中国、日本、韓国、東南アジア、インド、オーストラリアの各国の市場状況が個別に扱われています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別の世界市場予測（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、アメリカ大陸における米国、カナダ、メキシコ、ブラジルの国別予測、アジア太平洋地域における中国、日本、韓国、東南アジア、インド、オーストラリアの国/地域別予測、ヨーロッパにおけるドイツ、フランス、英国、イタリア、ロシアの国別予測、中東・アフリカにおけるエジプト、南アフリカ、イスラエル、トルコ、GCC諸国の国/地域別予測、そしてタイプ別およびアプリケーション別の世界市場予測が詳細に示されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：全固体電池用リチウム金属負極の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "中国は 4億1,800万米ドル、日本は 9,500万米ドル、韓国は 8,600万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ganfeng Lithium は主要な負極材料企業として存在感を示し、出光興産は日本で硫化物電解質の開発を支えている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までのAPAC地域における地域別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に中国、日本、韓国、東南アジア、インド、オーストラリアの各国の市場状況が個別に扱われています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの地域別の世界市場予測（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、アメリカ大陸における米国、カナダ、メキシコ、ブラジルの国別予測、アジア太平洋地域における中国、日本、韓国、東南アジア、インド、オーストラリアの国/地域別予測、ヨーロッパにおけるドイツ、フランス、英国、イタリア、ロシアの国別予測、中東・アフリカにおけるエジプト、南アフリカ、イスラエル、トルコ、GCC諸国の国/地域別予測、そしてタイプ別およびアプリケーション別の世界市場予測が詳細に示されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：全固体電池用リチウム金属負極の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "初期（2001〜2008年期）から出願が確認できるのはパナソニックIPマネジメント（パナソニック含む）、トヨタ自動車【7203】、ソニー【6758】、エルジー・ケム【051910】、三星エスディアイ【006400】、日本電気【6701】、三井化学【4183】、三洋電機、東芝の9社です",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気 【6701】",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】風力発電関連銘柄10選｜全般技術｜三菱重工などを特許情報から導出",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; Italy; France; UK; China; India; Japan; South Korea; Brazil; Saudi Arabia; UAE",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Albemarle Corporation; China Lithium Products Inc.; FMC Corporation (Lithium Division); Ganfeng Lithium Co., Ltd.; Livent Corporation; Novalith Technologies; Shenzhen Chengxin Lithium Group Co., Ltd.; SMI Ltd. (Japan); Tianqi Lithium Corporation; Toyota Tsusho Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Albemarle Corporation; China Lithium Products Inc.; FMC Corporation (Lithium Division); Ganfeng Lithium Co., Ltd.; Livent Corporation; Novalith Technologies; Shenzhen Chengxin Lithium Group Co., Ltd.; SMI Ltd. (Japan); Tianqi Lithium Corporation; Toyota Tsusho Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Materials, Inc, Sumitomo Metal Mining Co., Ltd, Apple Inc, and Samsung Electronics Co., Ltd.",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Group",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Kadoma, Japan",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Zosen Corporation",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific accounts for an estimated 75–90% of global production capacity, led by China, Japan, and South Korea. The region benefits from concentrated pilot-line infrastructure, supportive industrial policy, and proximity to battery OEMs, supporting early volume scaling through 2035. Direction: Dominant and growing.",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "35. Mitsubishi Chemical Group Corporation",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3. Japan",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.1. Japan Lithium Metal Industry Market Size and Forecast, by Source (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.2. Japan Lithium Metal Industry Market Size and Forecast, by Application (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.3.3. Japan Lithium Metal Industry Market Size and Forecast, by End-users (2025-2034)",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "10.35. Mitsubishi Chemical Group Corporation",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": "JP - Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Chemical Group Corporation",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resonac Holdings Corporation",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Chemical Co., Ltd.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific (Japan, China, India, Malaysia, Indonesia, Australia, South Korea)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.8. Lithium-Ion Battery Anode Market – Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.8.1. Japan: Lithium-Ion Battery Anode Market, by Materials, 2021-2034 (USD billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.8.2. Japan: Lithium-Ion Battery Anode Market, by Battery Product, 2021-2034 (USD billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.8.3. Japan: Lithium-Ion Battery Anode Market, by Production Technology, 2021-2034 (USD billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.8.4. Japan: Lithium-Ion Battery Anode Market, by End User, 2021-2034 (USD billion)",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.7. Mitsubishi Chemical Group Corporation",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.12. Resonac Holdings Corporation",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.16. Sumitomo Chemical Co., Ltd.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIA (Japan and Korea):",
+    "url": "https://www.idtechex.com/en/research-report/lithium-metal-batteries-2025/1069",
+    "pass": 3
+   },
+   {
+    "quote": "IDTechEx was established in 1999, and is headquartered in Cambridge, UK. Since then, the company has significantly expanded and operates globally, having served customers in over 80 countries. Subsidiary companies are based in the USA, Germany and Japan.",
+    "url": "https://www.idtechex.com/en/research-report/lithium-metal-batteries-2025/1069",
+    "pass": 3
+   },
+   {
+    "quote": "This work was supported by the Innovate UK (project number 98841) (M.P.), Nissan Motor Co., Ltd, Japan, Nissan Technical Centre Europe, and by the Faraday Institution (grant numbers FIRG056 and FIRG058) (M.P.). B.J. is grateful for the support of the Clarendon Fund Scholarships.",
+    "url": "https://www.nature.com/articles/s41560-024-01676-7",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Research Centre, Nissan Motor Co., Ltd, Yokosuka, Japan",
+    "url": "https://www.nature.com/articles/s41560-024-01676-7",
+    "pass": 3
+   },
+   {
+    "quote": "Nature Japan",
+    "url": "https://www.nature.com/articles/s41560-024-01676-7",
+    "pass": 3
+   },
+   {
+    "quote": "Pure Lithium Receives Japanese Patent for “Vertically Integrated Lithium Metal Production and Lithium Battery Production”",
+    "url": "https://purelithium.io/category/pressreleases/",
+    "pass": 3
+   },
+   {
+    "quote": "Pure Lithium Announces Transition of Chief Scientific Officer & Director, Professor Donald R. Sadoway to Focus on Sadoway Labs Foundation",
+    "url": "https://purelithium.io/category/pressreleases/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "リチウム金属負極市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場規模、シェア、トレンド分析レポート：負極材料タイプ別（純リチウム金属負極、リチウム複合負極、コーティングリチウム金属負極）、電池化学別（固体リチウム金属電池、リチウム硫黄電池、リチウム金属リチウムイオン電池、その他のリチウム金属電池化学）、用途別（電気自動車、家電製品、エネルギー貯蔵システム、航空宇宙・防衛、医療機器）、セル形状別（パウチ型セル、円筒型セル、角型セル、ボタン型セル）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に58.23%の市場シェアを占め、リチウム金属負極市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "純リチウム金属負極材は、従来のグラファイト負極材と比較して、リチウム貯蔵容量が最も高く、電気化学ポテンシャルが最も低く、電池エネルギー密度を大幅に向上させることができるため、2025年には市場シェアの54.60%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体リチウム金属電池は、エネルギー密度の向上、安全性の向上、リチウム金属電極との適合性といった可能性から、2025年には市場シェアの45.50%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車セグメントは、航続距離の延長、充電速度の向上、軽量バッテリーシステムへの需要の高まりにより、2025年には市場全体の51.26%を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "パウチ型電池は、その柔軟な設計、軽量構造、高エネルギー密度バッテリーアーキテクチャへの対応能力により、2025年には46.51%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のリチウム金属負極市場は、高級EVや次世代モビリティプラットフォーム向けの超高エネルギー密度バッテリーに対する需要の高まりを背景に、2025年には58.23%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には電気自動車の登録台数が230万台に達し、そのうち電動二輪車が約128万台、つまり全登録台数の57%を占めました",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のリチウム金属負極市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に58.23%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までのプレーヤー別の世界売上高と売上高市場シェア、主要プレーヤーの本社情報と提供製品、市場集中度分析、競争状況分析、および2024年から2026年までの集中度比率（CR3、CR5、CR10）が含まれます",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "贛鋒リチウム、天斉リチウム、アルベマール、中国能源リチウム、成都新リチウム、ロスアトム（TVEL/NCCP）、アルカディウム、本荘ケミカルといった各企業の会社情報、提供製品、2021年から2026年までの売上高、粗利益、市場シェア、主要事業概要、および最新の動向に関する情報が個別に、かつ包括的に分析されています",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属電池材料市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "QuantumScape Corporation は、2025年に 4%超の市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "が含まれ、これらの企業が占める市場シェアは、2025年に合計で",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車は主要な需要の牽引役であり、2025年の売上高は 5億2,800万米ドルで、全体の 48% を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極材料は、2025 年の売上高 4 億 4,000 万米ドル、構成比 40% を占め、2035 年まで約 38% の年平均成長率で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "純リチウム箔は 2 億 2,000 万米ドルを占め、次いでリチウム合金負極が 1 億 3,200 万米ドル、複合リチウム負極が 8,800 万米ドルとなった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "硫化物電解質は 1 億 900 万米ドル、酸化物・ガーネット系は 7,700 万米ドル、ポリマー電解質は 6,300 万米ドル、ハロゲン化物電解質は 3,700 万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "液体電解質材料は売上高 1 億 9,800 万米ドル、構成比 18% を占め、約 28% の年平均成長率で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "セパレーター材料は 6,600 万米ドルを占め、主にハイブリッド型および先進液体システムで、約 33% の年平均成長率で成長すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車は、2025年の売上高が 5億2,800万米ドル、全体の 48%を占める最大の用途であり、年平均成長率（CAGR）は約 40%と予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー式電気自動車は 4億1,200万米ドル、プラグインハイブリッド電気自動車は 1億1,600万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンおよび無人航空機（UAV）は 7,300万米ドル、民間航空機システムは 4,000万米ドル、宇宙用途は 2,000万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器は 5,500万米ドルを占め、信頼性が重視される用途に支えられ、約 28%のCAGRで成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他の用途は 1,100万米ドルを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "これには、2021年から2026年までのプレーヤー別の世界売上高と売上高市場シェア、主要プレーヤーの本社情報と提供製品、市場集中度分析、競争状況分析、および2024年から2026年までの集中度比率（CR3、CR5、CR10）が含まれます",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "贛鋒リチウム、天斉リチウム、アルベマール、中国能源リチウム、成都新リチウム、ロスアトム（TVEL/NCCP）、アルカディウム、本荘ケミカルといった各企業の会社情報、提供製品、2021年から2026年までの売上高、粗利益、市場シェア、主要事業概要、および最新の動向に関する情報が個別に、かつ包括的に分析されています",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、本記事における『有望企業』とは、対象技術の開発時期、継続性および蓄積の3指標から将来の市場独占や他社に対する参入障壁を築けると判断される上位企業（TOP10にランクインする企業）を指します",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Batteries accounted for the largest market revenue share of 55.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The batteries segment accounted for the largest revenue share in 2025 and is expected to register the fastest growth over the forecast period, driven by the increasing adoption of lithium metal in next-generation energy storage technologies. Lithium metal is gaining strong traction as an anode material in solid-state and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a 62.2% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, batteries accounted for the largest market revenue share of 55.6% in 2025, driven by the increasing adoption of lithium metal in next-generation battery technologies, particularly for electric vehicles and advanced energy storage systems.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain concentration in Asia exposes non-Asian buyers to geopolitical and logistical risks, with import-dependence rates above 70% in North America",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific accounts for an estimated 75–90% of global production capacity, led by China, Japan, and South Korea. The region benefits from concentrated pilot-line infrastructure, supportive industrial policy, and proximity to battery OEMs, supporting early volume scaling through 2035. Direction: Dominant and growing.",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America remains a small market for lithium metal thin film anodes, with demand concentrated in demonstration and industrial backup applications. Lithium resource endowment provides upstream potential, but downstream manufacturing capacity is limited through 2035. Direction: Stable.",
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium-Ion Battery Anode Market Share, Size, Trends, Industry Analysis Report: By Materials (Anode Binders and Active Anode Materials), By Battery Product, By Production Technology, By End-User, and By Region – Market Forecast, 2026–2034",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive segment dominated with a 72.0% share in 2025. Their superior energy density compared to other electrical energy storage systems contributes to the segment’s leading position.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe held an 18.0% market share in 2025. This is owing to its applications in electric mobility, renewable energy storage, and grid stabilization. The transition to cleaner energy sources has led to the widespread adoption of electric vehicles equipped with lithium-ion batteries. Moreover, lithium-ion batteries are employed in residential and commercial",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific accounted for the largest market share of 55.0% in 2025. This is attributed to the growing need for consumer electronics in the region.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "リチウム金属負極市場規模 、シェア、 成長率 （2034年まで） — リチウム金属負極市場規模 、シェア、 成長率 （2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） — 全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） — 全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 — 2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 富士経済グループ https://www.fuji-keizai.co.jp > report > detail",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 — 2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 fkg-report.jp https://www.fkg-report.jp > reports",
+    "url": "https://www.fkg-report.jp/reports/112607703.html",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極市場 規模、シェア、成長率（2034年まで） — リチウム金属負極市場 規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウム金属負極 市場規模、シェア、成長率（2034年まで） — リチウム金属負極 市場規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） — 全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】次世代電池関連銘柄10選｜ リチウム金属負極 — 【2026年版】次世代電池関連銘柄10選｜ リチウム金属負極 特許スカウター https://patentscouter.com > entry > newbattery5",
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） — 全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "3. The report helps you to discover potential areas for growth and investment with a detailed analysis of key sectors and major projects provided in this report.",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "pass": 3
+   },
+   {
+    "quote": ": Sila announced securing $300 million in private funding. According to Sila, the funding will help accelerate U.S. production of its silicon-carbon (Si/C) anode technology, Titan Silicon. It will also support the planned Phase 2 expansion of the company’s plant in Moses Lake, Washington. (source:",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   },
+   {
+    "quote": "NextSource Materials Inc. announced the approval of a Final Investment Decision (FID) on Phase 1 of its proposed battery anode facility in Abu Dhabi, UAE. The company stated that the FID marks a major step in its strategy to become a fully integrated, global producer of graphite anode materials. (source:",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11.3",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "quote": "リチウム金属負極市場の規模は、2025年には15億米ドルと評価され、2026年の18億米ドルから2034年には42億米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は11.3%となる見込みです"
+   },
+   {
+    "value": "28.32",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "quote": "コーティングされたリチウム金属負極材の市場は、メーカー各社がリチウム金属の安定性とサイクル寿命の向上に注力していることから、予測期間中に年平均成長率（CAGR）28.32%で成長すると予想されています"
+   },
+   {
+    "value": "30",
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "quote": "リチウム硫黄電池分野は、高い理論エネルギー密度と低コストの材料を背景に、予測期間中に年平均成長率（CAGR）30%を記録すると予想されています"
+   },
+   {
+    "value": "15.6",
+    "url": "https://newscast.jp/smart/news/4586611",
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています"
+   },
+   {
+    "value": "33.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "quote": "売上高は2022年の4億6,000万米ドルから2025年には11億米ドルへ拡大し、実績期間の年平均成長率は33.8%となった"
+   },
+   {
+    "value": "15.6",
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "quote": "固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています"
+   },
+   {
+    "value": "26.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "quote": "By application: Li-ion anode segment is growing at a fastest CAGR of 26.2% from 2026 to 2033."
+   },
+   {
+    "value": "19.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "quote": "CAGR of 19.8% from 2026 to 2033"
+   },
+   {
+    "value": "12.7",
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "quote": "size was valued at USD 2.15 Billion in 2025 and the total Lithium Metal revenue is expected to grow at a CAGR of 12.7% from 2026 to 2034, reaching USD 6.31 Billion by 2034."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "2.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "quote": "Market size in 2025: USD 2.0 Billion"
+   },
+   {
+    "value": "2.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "quote": "Estimated market size in 2026: USD 2.2 Billion"
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "quote": "Projected market size by 2033: USD 7.9 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4586611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4586611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E5%B8%82%E5%A0%B4-115431",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/reports/112607703.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=26098&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/yano/product/detail/2000337288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3842?srsltid=AYCX9vJLErXKVUlsrcLhcNeR4nQ2JHI0Oq4fDubOqURGwyEeP6znTHbS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://patentscouter.com/entry/newbattery5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03628/052700005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/09/25/2509_zhao.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2402/16/news059.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jfs.or.jp/cs-shibu/lib-li-dendrite-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/lithium-ion-battery-anode-market-115431",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/lithium-metal-market-48900800.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/press-release/lithium-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.congruencemarketinsights.com/report/lithium-battery-anode-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/lithium-metal-batteries-2025/1069",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarketsblog.com/lithium-ion-battery-anode-market-current-scenario-with-future-aspect-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41560-024-01676-7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lyten.com/2025/04/16/lyten-begins-u-s-production-of-battery-grade-lithium-metal-as-a-major-step-in-expanding-its-u-s-battery-supply-chain/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natural-resources.canada.ca/funding-partnerships/scale-process-produce-battery-grade-li-metal-ultrathin-lithium-anode-foil-lmb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://purelithium.io/category/pressreleases/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "リチウム金属負極 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "https://newscast.jp/smart/news/4586611",
+    "https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market",
+    "https://www.atpress.ne.jp/news/4586611",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E5%B8%82%E5%A0%B4-115431",
+    "https://www.reportprime.com/ja/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E9%87%91%E5%B1%9E%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0-r5635",
+    "https://jp.linkedin.com/pulse/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E9%87%91%E5%B1%9E%E4%BA%8C%E6%AC%A1%E9%9B%BB%E6%B1%A0%E3%81%AE%E5%A3%B2%E4%B8%8A%E5%88%86%E6%9E%90%E3%81%A8%E9%9C%80%E8%A6%81%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7-7517708489465671681-p7aze",
+    "https://deallab.info/anode-battery/",
+    "https://newscast.jp/smart/news/2274583",
+    "https://www.marketresearchcenter.net/lithium-metal-anode-solidstate-battery-mrc26ju-mm00056/"
+   ]
+  },
+  {
+   "query": "リチウム金属負極 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "https://newscast.jp/smart/news/4586611",
+    "https://www.fkg-report.jp/reports/112607703.html",
+    "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=26098&la=ja",
+    "https://www.atpress.ne.jp/news/4586611",
+    "https://pr.mono.ipros.com/yano/product/detail/2000337288/",
+    "https://www.yano.co.jp/press-release/show/press_id/3842?srsltid=AYCX9vJLErXKVUlsrcLhcNeR4nQ2JHI0Oq4fDubOqURGwyEeP6znTHbS",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AA%E3%83%81%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E5%B8%82%E5%A0%B4-115431"
+   ]
+  },
+  {
+   "query": "リチウム金属負極 参入 企業 国内",
+   "results": [
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja",
+    "https://straitsresearch.com/jp/report/lithium-metal-anode-market",
+    "https://newscast.jp/smart/news/4586611",
+    "https://patentscouter.com/entry/newbattery5",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03628/052700005/",
+    "https://www.atpress.ne.jp/news/4586611",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2025/09/25/2509_zhao.pdf",
+    "https://eetimes.itmedia.co.jp/ee/articles/2402/16/news059.html",
+    "https://jfs.or.jp/cs-shibu/lib-li-dendrite-01/",
+    "https://www.fkg-report.jp/reports/112607703.html"
+   ]
+  },
+  {
+   "query": "lithium metal anode market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "https://www.fortunebusinessinsights.com/lithium-ion-battery-anode-market-115431",
+    "https://www.marketsandmarkets.com/Market-Reports/lithium-metal-market-48900800.html",
+    "https://www.indexbox.io/blog/lithium-metal-thin-film-anode-market-forecast-to-2035-solid-state-battery-commercialization-drives-30-45-cagr/",
+    "https://www.sphericalinsights.com/press-release/lithium-metal-market",
+    "https://www.linkedin.com/pulse/metal-lithium-anode-material-market-predictions-taking-lxfac",
+    "https://www.insightaceanalytic.com/report/next-generation-anode-materials-market/2195",
+    "https://www.gminsights.com/industry-analysis/lithium-metal-battery-materials-market",
+    "https://finance.yahoo.com/energy/articles/lithium-metal-anode-foil-market-093100071.html",
+    "https://www.databridgemarketresearch.com/reports/global-lithium-metal-anodes-market"
+   ]
+  },
+  {
+   "query": "lithium metal anode market key players competitive landscape",
+   "results": [
+    "https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/",
+    "https://www.grandviewresearch.com/industry-analysis/lithium-metal-market-report",
+    "https://www.fortunebusinessinsights.com/lithium-ion-battery-anode-market-115431",
+    "https://www.linkedin.com/pulse/metal-lithium-anode-material-market-predictions-taking-lxfac",
+    "https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market",
+    "https://www.marketsandmarkets.com/Market-Reports/lithium-metal-market-48900800.html",
+    "https://www.congruencemarketinsights.com/report/lithium-battery-anode-material-market",
+    "https://www.idtechex.com/en/research-report/lithium-metal-batteries-2025/1069",
+    "https://www.marketsandmarketsblog.com/lithium-ion-battery-anode-market-current-scenario-with-future-aspect-analysis.html",
+    "https://straitsresearch.com/report/lithium-metal-anode-market"
+   ]
+  },
+  {
+   "query": "lithium metal anode startup funding 2025",
+   "results": [
+    "https://www.nature.com/articles/s41560-024-01676-7",
+    "https://lyten.com/2025/04/16/lyten-begins-u-s-production-of-battery-grade-lithium-metal-as-a-major-step-in-expanding-its-u-s-battery-supply-chain/",
+    "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "https://natural-resources.canada.ca/funding-partnerships/scale-process-produce-battery-grade-li-metal-ultrathin-lithium-anode-foil-lmb",
+    "https://purelithium.io/category/pressreleases/",
+    "https://tracxn.com/d/companies/pure-lithium/__vptN3IK6GTCXYMtKP2gcTtm1xT-gPd66yj57rG-kme0",
+    "https://www.facebook.com/theelectricvikingfb/videos/us-startup-solves-the-lithium-metal-battery-problem-nearly-10000-cycleschicago-b/1405207395082733/",
+    "https://ipo-edge.com/get-charged-up-for-the-long-haul-with-li-metals-lithium-battery-tech/",
+    "https://pv-magazine-usa.com/2024/04/04/non-lithium-battery-startup-nets-78-million-series-c-funding/",
+    "https://www.ventureradar.com/funding/lithium+metal+anodes"
+   ]
+  }
+ ],
+ "missing": {}
+}

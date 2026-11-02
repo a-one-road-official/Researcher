@@ -1,0 +1,1423 @@
+{
+ "name": "NCネットワーク",
+ "aliases": [
+  "エミダス",
+  "EMIDAS",
+  "NC network"
+ ],
+ "context": "町工場の受発注ポータル・会員制",
+ "researched_at": "2026-11-02T14:43:28.114121+00:00",
+ "official_url": "https://ncnfactory.jp/",
+ "identified_by": "search:yahoo_jp:NCネットワーク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2020年2月 (前身のNCネットワーク加工事業部は2000年にスタート）",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2020年2月 (前身のNCネットワーク加工事業部は2000年にスタート）",
+    "url": "https://ncnfactory.jp:443/about/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2021年5月12日",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2013年1月",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2009年6月5日",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2015年10月",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2010年12月",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2021年5月12日",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2013年1月",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2009年6月5日",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2015年10月",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2010年12月",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1998年",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "” held at Tokyo Big Sight from Tuesday, March 17 to Thursday, March 19, 2026. Since our booth was located near those of automotive manufacturers, we were pleased to welcome many professionals involved in the development of in-vehicle fuel cells. We hope that our manufacturing support, leveraging our extensive network, will contribute to solving your challenges in the future.",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCネットワークファクトリー展示会出展のお知らせ」",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "に出展を予定しております",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "のグループ会社であり、同社の会員企業データベースを共有しています",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＣネットワーク（エミダス）会員企業とは",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We select processing contractors from among the 15,000 Emidas members plus our own cultivated partner factories according to the needs of our customers. When selecting a company, our staff conducts offline interviews and inspections.",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Member Distribution and Number of Members",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Our main business is the production of prototypes, development parts, and mass-produced parts for major automobile and electronics manufacturers, but in recent years we have also been focusing on supporting the manufacturing activities of start-up companies in the medical, IoT, environmental, and space industries.",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "” held at Tokyo Big Sight from Tuesday, March 17 to Thursday, March 19, 2026. Since our booth was located near those of automotive manufacturers, we were pleased to welcome many professionals involved in the development of in-vehicle fuel cells. We hope that our manufacturing support, leveraging our extensive network, will contribute to solving your challenges in the future.",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCネットワークファクトリー展示会出展のお知らせ」",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "に出展を予定しております",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "による3社共同出展でございました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "来年も出展予定ですので、また次世代自動車関連を中心にこれまでの実績と新技術などをご紹介させて頂きます",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "による3社共同出展でした",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "へ出展いたしました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "NCネットワークファクトリーの「挑戦する製造業」ネットワークを駆使しての新技術、過去の実績部品（出展許可頂いてるもののみ）を展示させて頂きました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "と共同出展いたしました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "” held at Tokyo Big Sight from Tuesday, March 17 to Thursday, March 19, 2026. Since our booth was located near those of automotive manufacturers, we were pleased to welcome many professionals involved in the development of in-vehicle fuel cells. We hope that our manufacturing support, leveraging our extensive network, will contribute to solving your challenges in the future.",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCネットワークファクトリー展示会出展のお知らせ」",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "に出展を予定しております",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "による3社共同出展でございました",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "来年も出展予定ですので、また次世代自動車関連を中心にこれまでの実績と新技術などをご紹介させて頂きます",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "による3社共同出展でした",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "へ出展いたしました",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "NCネットワークファクトリーの「挑戦する製造業」ネットワークを駆使しての新技術、過去の実績部品（出展許可頂いてるもののみ）を展示させて頂きました",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "と共同出展いたしました",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024",
+    "url": "https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "We plan to exhibit at the",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "We plan to exhibit at the",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "We will be back here in 2026 as we plan to exhibit again. See you again.",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "We understand that there is a long road from the principle prototype to the prototype and the completion of mass production drawings, but NC Network Factory can help you from the initial stages of such projects. Please feel free to contact us.",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "We have also received a plaque with our name on it from Hokkaido Space Port (HOSPO) as a tax return gift for our personal tax payment. We are told that it is currently under construction and it is difficult to enter the site, but if you are planning to visit Taiki Town from Obihiro, Hokkaido in the future, please visit the site to see the plaque.",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "In cooperation with our partner companies, we will strive to create new products that are useful to society and contribute to stable production. We are sure that there are some points that we did not fully explain on the day, so please feel free to contact us for further information.",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "We plan to exhibit at the",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We will be back here in 2026 as we plan to exhibit again. See you again.",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We understand that there is a long road from the principle prototype to the prototype and the completion of mass production drawings, but NC Network Factory can help you from the initial stages of such projects. Please feel free to contact us.",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We have also received a plaque with our name on it from Hokkaido Space Port (HOSPO) as a tax return gift for our personal tax payment. We are told that it is currently under construction and it is difficult to enter the site, but if you are planning to visit Taiki Town from Obihiro, Hokkaido in the future, please visit the site to see the plaque.",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "In cooperation with our partner companies, we will strive to create new products that are useful to society and contribute to stable production. We are sure that there are some points that we did not fully explain on the day, so please feel free to contact us for further information.",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": ". We received a lot of attention from the people involved in the casting and forging of leak-free aluminum parts for hydrogen fuel cell vehicles. We are sure that there were some parts that we did not explain well enough, so please feel free to contact us if you have any questions.",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Space-related ventures have been booming in recent years. Thanks to artificial satellites, weather forecasts have already become more accurate, and anyone can watch the MLB, La Liga, and F1 Grand Prix on TV without having to go to the other side of our planet. I think it’s all about the power of manufacturing.",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "In the future, we will increase our services to include not only contract processing of customer drawings, but also design support for commercialization from the planning stage, as well as evaluation and analysis of prototypes for design improvement.",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "We plan to exhibit at the",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We will be back here in 2026 as we plan to exhibit again. See you again.",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We understand that there is a long road from the principle prototype to the prototype and the completion of mass production drawings, but NC Network Factory can help you from the initial stages of such projects. Please feel free to contact us.",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "We have also received a plaque with our name on it from Hokkaido Space Port (HOSPO) as a tax return gift for our personal tax payment. We are told that it is currently under construction and it is difficult to enter the site, but if you are planning to visit Taiki Town from Obihiro, Hokkaido in the future, please visit the site to see the plaque.",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "In cooperation with our partner companies, we will strive to create new products that are useful to society and contribute to stable production. We are sure that there are some points that we did not fully explain on the day, so please feel free to contact us for further information.",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "生産財メーカー・機械メーカー向け広告サービス「",
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "雑誌・Ｗｅｂ媒体を使った広告支援サービス「",
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "」「エミダス・Ｗｅｂ広告」",
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "製造業向け広告サービス",
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "行動ターゲティング広告について",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/about/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "(Tokyo Big Sight). Thank you for visiting our booth. This was the first time for us to show our services from mechanical design, and we also introduced our environmental efforts such as the reuse business of lithium-ion in-vehicle batteries by",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the first New Year since the spin-off of our company on June 1st ,2020. This year, all of us will continue to do our best to create products that will help solve social problems and bring joy to people’s lives. We look forward to working with you. January 1st, 2021. NC Network Factory Co., Ltd.",
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "少量車種でも自動車量産部品としての新機種立ち上げ・量産準備・品質保証を行います",
+    "url": "https://ncnfactory.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "pass": 1
+   },
+   {
+    "quote": "量産・新機種立ち上げ / Mass Production and new model launch activities",
+    "url": "https://ncnfactory.jp:443/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "pass": 1
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業のお知らせ タイにおける日系企業の事業展開を支援 - 株式会社NCネットワーク",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業のお知らせ タイにおける日系企業の事業展開を支援",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の会員企業約1万8,000社と国内最大級の受発注サイト「エミダス」を運営する株式会社NCネットワーク(本社：東京都台東区、代表取締役社長：内原 康雄)のタイの拠点、NCネットワークアジア(NC Network Asia Co., Ltd.)は、タイにおける事業展開をサポートする「NC BIZ CENTER (THAILAND) CO., LTD.」を創業したことをお知らせいたします",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業のお知らせ タイにおける日系企業の事業展開を支援 | 株式会社NCネットワーク",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業のお知らせ",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の会員企業約1万8,000社と国内最大級の受発注サイト「エミダス」を運営する株式会社NCネットワーク(本社：東京都台東区、代表取締役社長：内原 康雄)のタイの拠点、NCネットワークアジア(NC Network Asia Co., Ltd.)は、タイにおける事業展開をサポートする「NC BIZ CENTER (THAILAND) CO., LTD.」を創業したことをお知らせいたします",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "quote": "安井さんは「すごいサイトだね！」と興味を持って当社のドアを叩いてくれた人で、最初の1年間はアメリカの公認会計士試験を受けながら無償で手伝ってくれました",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "創業メンバーのひとりである工藤さん",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "彼とは葛飾区の若手産業人会議で出会ったのですが、当時24歳ながら個人で仕事をしていて、システムのアップデートの手伝いをお願いしたのをきっかけに、当社の仲間になってくれました",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "最初のビジネスモデルがしっかりしていれば誰が舵を取っても会社は伸びていきますが、そのビジネスモデルが時代にそぐわなくなってくるタイミングが必ず訪れます",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "当初の倍となる200社以上が参加してくれ、7〜8千人もの人が集う賑やかな場となりました",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "従業員約20名の小さな会社だったので、自分一人だけで作業をしていくことが多かったですね",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "最初は、会社ではなく「NCネットワーク・グループ」として立ち上げました",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "そして、株式会社NCネットワークの前身である株式会社エヌシーネットワークへとビジネス展開する1998年前後は、楽天グループの創業やアマゾンの上場などのITバブルがあり、社会的にも大きな動きがあった時期でした",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCネットワークファクトリー展示会出展のお知らせ」",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about-two/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "工場検索エンジン「エミダス」",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a group company of NC Network Co., Ltd. which operates the factory search engine “Emidas” and share its member company database.",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About – 株式会社 NCネットワークファクトリー",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「NCネットワークファクトリー展示会出展のお知らせ」",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "昨年の展示会の様子は、",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "来年も出展予定ですので、また次世代自動車関連を中心にこれまでの実績と新技術などをご紹介させて頂きます",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "EV・HV・FCV展示会",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年の展示会の様子は、",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、弊社では1月末と2月末に東京ビックサイトにて開催される下記の展示会に出展致します",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "謹賀新年 Happy New Year ＆ 展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月EVHVFCV展示会ご来場ありがとうございました",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "EV/HV/FCV展示会2023にご来場いただきありがとうございました",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "新年のご挨拶 EVHVFCV展示会出展のお知らせ",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介 / About",
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "pass": 1
+   }
+  ],
+  "規模": [
+   {
+    "quote": "会員分布・会員数",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We select processing contractors from among the 15,000 Emidas members plus our own cultivated partner factories according to the needs of our customers. When selecting a company, our staff conducts offline interviews and inspections.",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to approximately 15,000 companies in Japan, local companies in China, Vietnam, and Thailand have registered with Emidas.",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Member Distribution and Number of Members",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "会員分布・会員数",
+    "url": "https://ncnfactory.jp:443/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We select processing contractors from among the 15,000 Emidas members plus our own cultivated partner factories according to the needs of our customers. When selecting a company, our staff conducts offline interviews and inspections.",
+    "url": "https://ncnfactory.jp:443/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to approximately 15,000 companies in Japan, local companies in China, Vietnam, and Thailand have registered with Emidas.",
+    "url": "https://ncnfactory.jp:443/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Member Distribution and Number of Members",
+    "url": "https://ncnfactory.jp:443/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "10年後には会員数が1,000社を突破し、",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "2000年にはNHKで紹介され、さらに会員数が急増、2001年には",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "会員数 10,000社を突破する規模",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、21世紀を前にしていち早く製造業同士のマッチングをビジネス化し、この不況下にもかかわらず会員数を増やしているのが株式会社NCネットワークだ",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "サイトの会員数は国内が1万5000社、海外はベトナムとタイ、アメリカを中心に7000社に及びます",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "2020年に株式会社大日光・エンジニアリングの出資を受け「NCネットワークファクトリー」として分社化いたしました",
+    "url": "https://ncnfactory.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "（本社：東京都台東区、代表取締役社長：内原康雄、以下ＮＣネットワーク）は、このほど加工事業部門を分社化し、全額出資の子会社として株式会社ＮＣネットワークファクトリー（本社：同上、代表取締役：角田洋晴、以下ＮＣネットワークファクトリー）を設立しました",
+    "url": "https://ncnfactory.jp/news/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年に株式会社大日光・エンジニアリングの出資を受け「NCネットワークファクトリー」として分社化いたしました",
+    "url": "https://ncnfactory.jp:443/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社オレンジページ、東証グロース上場のベビーカレンダーグループへ参画～新体制のもとネット事業を大幅強化、伝統のブランド力とデジタルを融合～",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアパーク就職エージェントは、東京証券取引所グロース市場に上場しているポート株式会社(証券コード：7047)が運営しているサービスです",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "2000年にはベンチャーキャピタルの主導で、名だたる商社や銀行に出資してもらえる状況を作ることができました",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "出資や増資を受けられたのは、Webサイトを通じて、現在の主力メンバーの多くが集まってきてくれたことも大きな理由です",
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "pass": 3
+   },
+   {
+    "quote": "そして、株式会社NCネットワークの前身である株式会社エヌシーネットワークへとビジネス展開する1998年前後は、楽天グループの創業やアマゾンの上場などのITバブルがあり、社会的にも大きな動きがあった時期でした",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エヌシーネットワークを設立し代表取締役に就任後、大手商社などから多くの融資をいただき、株式上場も目指していました",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2008年には上場を断念することになってしまいました",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "年間約12,000組の結婚式を手がけ、取扱組数で国内トップを誇る、プライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "『白猫プロジェクト』『ドラゴンクエストウォーク』 など、数多くのヒットタイトルを手掛けるプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "（三菱商事・メタルワン・NCネットワーク出資）",
+    "url": "https://corporate.nc-net.com/company/managers.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NC会員 | サービス概要 | 挑戦する製造業のために — NC会員 | サービス概要 | 挑戦する製造業のために エミダス https://ja.nc-net.or.jp > services > member > nc",
+    "url": "https://ja.nc-net.or.jp/services/member/nc/",
+    "pass": 3
+   },
+   {
+    "quote": "エミダス事業 - 株式会社NCネットワーク — エミダス事業 - 株式会社NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com > company > business",
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "協力工場について / About Partner Factories — 協力工場について / About Partner Factories 株式会社 NCネットワークファクトリー https://ncnfactory.jp > partner",
+    "url": "https://ncnfactory.jp/partner/",
+    "pass": 3
+   },
+   {
+    "quote": "エミダスの 料金 と評判は？広告掲載・ 会員 機能・導入事例を解説 — エミダスの 料金 と評判は？広告掲載・ 会員 機能・導入事例を解説 キャククル https://www.shopowner-support.net > nc-net",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/nc-net/",
+    "pass": 3
+   },
+   {
+    "quote": "NC Network USA — NC Network USA ncnetwork-us.com https://www.ncnetwork-us.com",
+    "url": "https://www.ncnetwork-us.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... — NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... 株式会社NCネットワーク https://corporate.nc-net.com > 2021/06/04 > nc-biz-center...",
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "pass": 3
+   },
+   {
+    "quote": "NCネットワーク 加工事業部門を分社化・事業拡大へ — NCネットワーク 加工事業部門を分社化・事業拡大へ 株式会社 NCネットワークファクトリー https://ncnfactory.jp > spun-off-processing-business-divisi...",
+    "url": "https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/",
+    "pass": 3
+   },
+   {
+    "quote": "NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... — NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... アットプレス https://www.atpress.ne.jp > ... > 株式会社NCネットワーク",
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NCネットワーク 代表取締役社長 内原 康雄 — 株式会社 NCネットワーク 代表取締役社長 内原 康雄 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "001--> NCネットワーク のイベント — 001--> NCネットワーク のイベント エミダス http://blog.nc-net.or.jp > nc > cat89",
+    "url": "http://blog.nc-net.or.jp/nc/cat89/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 NCネットワーク 代表取締役 社長 内原 康雄 — 株式会社 NCネットワーク 代表取締役 社長 内原 康雄 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣紹介 | 株式会社 NCネットワーク — 経営陣紹介 | 株式会社 NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com > company > managers",
+    "url": "https://corporate.nc-net.com/company/managers.html",
+    "pass": 3
+   },
+   {
+    "quote": "挑戦する NCネットワーク のブログ — 挑戦する NCネットワーク のブログ エミダス http://blog.nc-net.or.jp",
+    "url": "http://blog.nc-net.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 / About - 株式会社 NCネットワークファクトリー — 会社紹介 / About - 株式会社 NCネットワークファクトリー 株式会社 NCネットワークファクトリー https://ncnfactory.jp > about",
+    "url": "https://ncnfactory.jp/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ncnfactory.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/about-two/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/category/uncategorized/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/about-two/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/news/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp/news/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/category/uncategorized/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ncnfactory.jp:443/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/services/member/nc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.nc-net.com/company/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/261663",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careerpark-agent.jp/interview/133-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/2811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.nc-net.com/company/managers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://frannet.com/resources/business-opportunity-2/best-membership-business-model-ideas-to-build-recurring-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secure.acce.org/articles/acce-news/preview-new-revenue-models-resource-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/reviewjournal/posts/costco-is-different-from-other-retailers-in-that-it-doesnt-just-rely-on-markups-/1471463765022630/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NCネットワーク",
+   "results": [
+    "https://ja.nc-net.or.jp/",
+    "https://corporate.nc-net.com/",
+    "https://corporate.nc-net.com/company/",
+    "https://ncnfactory.jp/about/",
+    "https://www.ncnetwork-us.com/",
+    "https://vn.emidas.com/ja/nc-net",
+    "https://ja.wikipedia.org/wiki/NC%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF",
+    "https://www.facebook.com/ncnetwork/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/NCネットワーク",
+    "https://nc-net-pr.net/"
+   ]
+  },
+  {
+   "query": "NCネットワーク 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://ja.nc-net.or.jp/services/member/nc/",
+    "https://corporate.nc-net.com/company/business.html",
+    "https://ncnfactory.jp/partner/",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/nc-net/",
+    "https://www.ncnetwork-us.com/",
+    "https://nc-net-pr.net/2025_vol3/",
+    "https://www.fact-link.com/home/sni/",
+    "http://www.u-machine.net/sp/feature/article/665",
+    "http://www.dne.co.jp/NCN_Factory_Release.pdf",
+    "https://corporate.nc-net.com/"
+   ]
+  },
+  {
+   "query": "NCネットワーク 売上 従業員 創業",
+   "results": [
+    "https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/",
+    "https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/",
+    "https://www.atpress.ne.jp/news/261663",
+    "https://shachomeikan.jp/industry_article/2811",
+    "http://blog.nc-net.or.jp/nc/cat89/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000XBHI8",
+    "https://www.jdmia.or.jp/srvchg/search/member.php?C_ID=287",
+    "https://www.ncnetwork-us.com/about-us/",
+    "https://newscast.jp/smart/news/5925606",
+    "https://ja.wikipedia.org/wiki/NCネットワーク"
+   ]
+  },
+  {
+   "query": "NCネットワーク 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://careerpark-agent.jp/interview/133-2",
+    "https://shachomeikan.jp/industry_article/2811",
+    "https://corporate.nc-net.com/company/managers.html",
+    "http://blog.nc-net.or.jp/",
+    "https://ncnfactory.jp/about/",
+    "http://www.u-machine.net/sp/feature/article/665",
+    "https://app.shachomeshi.com/presidentDetail/0iIWFZY4zG",
+    "https://www.youtube.com/watch?v=ZnaUrMmmgwk",
+    "https://www.ncnetwork-us.com/about-us/",
+    "https://corporate.nc-net.com/category/blog/"
+   ]
+  },
+  {
+   "query": "NCネットワーク revenue members business model",
+   "results": [
+    "https://frannet.com/resources/business-opportunity-2/best-membership-business-model-ideas-to-build-recurring-revenue/",
+    "https://secure.acce.org/articles/acce-news/preview-new-revenue-models-resource-guide/",
+    "https://www.facebook.com/reviewjournal/posts/costco-is-different-from-other-retailers-in-that-it-doesnt-just-rely-on-markups-/1471463765022630/",
+    "https://ncchamber.com/membership/why-join-member-benefits/",
+    "https://ugenie.io/blog/the-benefits-and-drawbacks-of-a-membership-business-model",
+    "https://www.linkedin.com/posts/yojimmykim_costcos-membership-revenue-in-2023-46-activity-7447990810425442304-ihRu",
+    "https://digitalcommons.kennesaw.edu/amj/vol12/iss1/8/",
+    "https://quietlight.com/what-is-a-membership-business-model/",
+    "https://www.uschamber.com/chambers-of-commerce/non-dues-revenue-can-strengthen-a-chambers-bottom-line",
+    "https://www.crunchbase.com/organization/nc-network"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部10頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部10頁・検索5回）"
+ }
+}

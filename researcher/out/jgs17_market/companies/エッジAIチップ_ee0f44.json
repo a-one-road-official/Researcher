@@ -1,0 +1,1908 @@
+{
+ "name": "エッジAIチップ",
+ "en": "edge AI chip",
+ "aliases": [
+  "AI半導体",
+  "エッジAI半導体"
+ ],
+ "context": "1 AI・半導体 ②中核半導体",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:30:42.074566+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のエッジ人工知能チップ市場規模は 2024年に 30億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）24.8%で拡大すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "デバイス内エッジAIチップセグメントの市場規模は、2024年に18億米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "家電セグメントは、2024年に市場をリードし、市場規模は 10億米ドルに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のエッジ人工知能チップ市場規模、2021〜2034年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のエッジ人工知能チップ市場は、2034年までに 46億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのエッジ人工知能チップ市場は、2034年までに 24.6%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のエッジ人工知能チップ市場は、2034年までに 22億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのエッジ人工知能チップ市場は、2034年までに 30%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエッジ人工知能チップ市場は、2034年までに 28.9%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場は、 CAGR約24.38%で急拡大 2035年ら1,567億米ドル",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場規模シェア、競争環境、トレンド分析レポート、構成要素別、導入形態別、エンドユーザー別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場は、産業オートメーション、人口動態の変化、半導体の革新、次世代接続インフラによる強力な長期的な拡大を背景に、2035年までに約1,567億米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、特に地理的に分散した生産拠点全体でAIを活用した品質管理、予知保全、またはロボットによる自動化を標準化しようとする場合、拡張にかかる費用は急速に5億円を超える可能性があります",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、インテリジェント・エッジ対応医療技術の導入加速を反映し、2025年度（FY25）の14億1,400万米ドルから、2035年度（FY35）には約179億8,500万米ドルへと大幅に拡大すると予想されます",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップの世界市場（2026年～2032年）、市場規模（機械学習、自然言語処理）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはUS$ millionから、2031年にはUS$ millionへと成長し、2025年から2031年にかけて年平均成長率（CAGR）で%の成長が見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "広範な市場背景として、2021年に26.2%という力強い成長を遂げた世界の半導体市場は、WSTSによって2022年には単一桁成長へと下方修正され、市場規模は前年比4.4%増の5,800億米ドルとなりました",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "第4章は、2020年から2025年までの地域別および国/地域別のエッジAIチップの世界歴史的市場規模（年間売上と年間収益）をレビューしています",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップの世界市場（2026年～2032年）、市場規模（機械学習、自然言語処理）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエッジAIハードウェア市場は、2025年に 52億米ドルと推定されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2026年の 58億米ドルから 2034年には 204億米ドルに拡大し、2025年から2034年までの予測期間中に年平均成長率（CAGR）16.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Edge AI Hardware Market Size, By Device Type, 2021-2034, (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンセグメントは、2025年に市場規模 17億米ドルで、市場最大のセグメントとなりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエッジAIハードウェア市場規模（処理タイプ別）、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、推論セグメントが市場で最大となり、市場規模は36億米ドルに達しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "超エッジAIチップセットの世界市場（2026年～2032年）、市場規模（GPU、ASIC、FPGA）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "超エッジAIチップセットの世界市場（2026年～2032年）、市場規模（GPU、ASIC、FPGA）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年のXXXXX百万米ドルから2031年にはXXXXX百万米ドルへと成長し、2025年から2031年にかけて年間平均成長率（CAGR）XXXXX%で拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートが回答する主要な質問には、世界の超エッジAIチップセット市場の10年間の見通し、世界および地域別の市場成長を牽引する要因、市場および地域別に最も急速に成長すると見込まれるテクノロジー、エンド市場規模による市場機会の変動、そしてタイプ別およびアプリケーション別の超エッジAIチップセットの分類などが含まれます",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "なお、広範な半導体市場においては、2021年に26.2%の力強い成長を遂げた後、WSTSは2022年の世界半導体市場の成長率を4.4%（総市場規模5,800億米ドル）へと下方修正しました",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「World Historic Review for Very Edge AI Chipset by Geographic Region」では、地理的地域別（世界全体、国/地域別）の超エッジAIチップセット市場規模の歴史的レビュー（年間販売額、年間収益（2020-2025年））が提供されている",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「World Forecast Review for Very Edge AI Chipset by Geographic Region」では、地理的地域別の世界超エッジAIチップセット市場規模予測（地域別年間販売額、年間収益（2026-2031年））が提示されている",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、エッジAI市場は引き続き力強い成長を見せました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "総務省の情報通信白書によると、国内のエッジAIコンピューティング市場は2023年度に150億円規模に達し、2027年度には370億円規模に成長すると予測されています",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "デロイト トーマツ ミック経済研究所の「エッジAIソリューション市場の実態と将来展望 2025年度版」によれば、エッジAIソリューション市場は2024年度に前年比31.9%増の151億円を記録し、2029年度までに年平均18.1%の成長を続け、347億円規模に達すると予測されています",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "また、「AI活用の画像認識ソリューション市場」は2025年から2029年まで年平均15.6%で成長し、2028年には920億円規模に達する見込みで",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体市場統計（WSTS）の2025年春季予測では、AI需要を見据えたデータセンター投資により、世界の半導体市場が前年比11.2%増の7,008億ドルに達するとされました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "• EdgeCortixは6月、経済産業省から最大30億円の支援を受け、チップレット技術「Novaedge」の開発を発表",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省は今後10年間で50兆円を超えるAI・半導体関連産業全体での国内投資を官民協調で実現する方針を示しました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "• 経済産業省は、AI・半導体分野への10兆円以上の公的支援を行う方針を示し、世界で戦い抜くための戦略、サプライチェーンにおける経済安全保障上の重要性、民間企業だけでは実現困難な投資への支援を掲げています",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "Edge Artificial Intelligence Chips Market Size and Forecast 2025 to 2034",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 9.77 Bn",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のエッジ人工知能チップ市場規模は 2024年に 30億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）24.8%で拡大すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのエッジ人工知能チップ市場は、2034年までに 24.6%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場は、 CAGR約24.38%で急拡大 2035年ら1,567億米ドル",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "均成長率（CAGR）が 24.38％で",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場は、産業オートメーション、人口動態の変化、半導体の革新、次世代接続インフラによる強力な長期的な拡大を背景に、2035年までに約1,567億米ドルに達すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本全土における5Gネットワークの急速な拡大は、ハードウェア需要の主要な推進要因となっています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "5Gインフラが拡大するにつれ、企業は、通信環境とIT環境の間でデータをシームレスに処理と伝送できる、高度なエッジサーバー、AIアクセラレータ、およびネットワーク統合型ハードウェアを必要としています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場におけるヘルスケア分野は、予測期間中に28.6％という最も高い年平均成長率（CAGR）を記録すると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、インテリジェント・エッジ対応医療技術の導入加速を反映し、2025年度（FY25）の14億1,400万米ドルから、2035年度（FY35）には約179億8,500万米ドルへと大幅に拡大すると予想されます",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本における5Gインフラの拡大は、超低遅延通信と高速データ転送を可能にすることで、エッジAIの機能を大幅に強化しています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にはUS$ millionから、2031年にはUS$ millionへと成長し、2025年から2031年にかけて年平均成長率（CAGR）で%の成長が見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "広範な市場背景として、2021年に26.2%という力強い成長を遂げた世界の半導体市場は、WSTSによって2022年には単一桁成長へと下方修正され、市場規模は前年比4.4%増の5,800億米ドルとなりました",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は、2026年の 58億米ドルから 2034年には 204億米ドルに拡大し、2025年から2034年までの予測期間中に年平均成長率（CAGR）16.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "5GおよびIoTエコシステムの拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "同時に、北米、欧州、アジア太平洋地域で5Gネットワーク、産業用IoTエコシステム、スマートシティ、分散型データセンターの導入が拡大しており、高いコンピューティング効率、低消費電力での稼働、優れた熱性能、分散型AIワークロード向けの堅牢な接続性を提供できるエッジAIハードウェアの需要が増加しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "5G対応スマートフォンの世界的な普及拡大と、インテリジェントなモバイル体験に対する消費者の期待の高まりが、同セグメントの主導的地位を引き続き支えています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industry 4.0およびスマート製造の導入拡大により、産業環境におけるエッジAIハードウェアの需要が加速しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2025年のXXXXX百万米ドルから2031年にはXXXXX百万米ドルへと成長し、2025年から2031年にかけて年間平均成長率（CAGR）XXXXX%で拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "なお、広範な半導体市場においては、2021年に26.2%の力強い成長を遂げた後、WSTSは2022年の世界半導体市場の成長率を4.4%（総市場規模5,800億米ドル）へと下方修正しました",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、2022年にアジア太平洋地域を除く全地域が二桁成長を記録し、米州が1,421億米ドル（前年比17.0%増）、欧州が538億米ドル（同12.6%増）、日本が481億米ドル（同10.0%増）の売上を達成しました",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "一方、最大市場であるアジア太平洋地域は3,362億米ドルで、前年比2.0%の減少となりました",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場環境：拡大を続けるエッジAI市場",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "年率27.4%という高い成長率は、エッジAIが単なる技術トレンドではなく、産業インフラの中核を担う存在になりつつあることを示しています",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "デロイト トーマツ ミック経済研究所の「エッジAIソリューション市場の実態と将来展望 2025年度版」によれば、エッジAIソリューション市場は2024年度に前年比31.9%増の151億円を記録し、2029年度までに年平均18.1%の成長を続け、347億円規模に達すると予測されています",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "特にエッジAIコンピュータは、2024年度に前年比54.2%増と急成長を遂げました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "また、「AI活用の画像認識ソリューション市場」は2025年から2029年まで年平均15.6%で成長し、2028年には920億円規模に達する見込みで",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "世界半導体市場統計（WSTS）の2025年春季予測では、AI需要を見据えたデータセンター投資により、世界の半導体市場が前年比11.2%増の7,008億ドルに達するとされました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to grow at a CAGR of 17.75% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America is expected to grow at the fastest CAGR between 2025 and 2034.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 17.75%",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific edge artificial intelligence chips market size was exhibited at USD 2.47 billion in 2024 and is projected to be worth around USD 12.82 billion by 2034, growing at a CAGR of 17.90% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The edge artificial intelligence chips market is expected to grow at a compound annual growth rate (CAGR) of around 17.75% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 34.7%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIC chipset is expected to register the fastest CAGR of 47.2% during the forecast period due to its exceptional performance and efficiency. The surge in demand for AI applications in different sectors, such as autonomous vehicles, healthcare, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 34.7% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global edge AI chips market is expected to grow at a compound annual growth rate of 34.7% from 2026 to 2033 to reach USD 291.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for edge AI chips will exceed US$80 billion by 2036, representing a CAGR of 18.5% from 2025.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "The AI chips for edge market will exceed US$80 billion by 2036, representing a CAGR of 18.5%.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "The global edge artificial intelligence chips market size was valued at USD 3 billion in 2024 and is estimated to grow at 24.8% CAGR from 2025 to 2034. The growth of the market is attributed to the increasing demand for semiconductors and the increase in the adoption of IoT technologies.",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 - 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market was valued at USD 3 billion in 2024 and is projected to reach approximately USD 25.9 billion by 2034, growing at a CAGR of 24.8% during the forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Edge AI ICs Market Size, Share | CAGR of 34.7%",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 34.70%",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 33.2%",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR) of 33.2%.",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI chip market size is projected to grow from USD 100 billion in 2026 to USD 2100 billion by 2040, representing a CAGR of 24.29%, during the forecast period till 2040.",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (Till 2040)",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to AI chip revenue projections market is expected to grow at a compounded annual growth rate (CAGR) of over 24.29% during the forecast till 2040.",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "North America commands the largest share of the Edge AI Hardware Market at approximately 38% of global revenue, driven by hyperscaler capex and defense procurement. Asia-Pacific is the fastest-growing region with a projected CAGR of 17.8%, fueled by China's \"AI Plus\" industrial policy and India's semiconductor incentive scheme worth USD 10 billion",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "NPU neural processing units for edge AI represent the fastest-growing component segment with a CAGR of 18.2% through 2035, as smartphone and wearable OEMs integrate dedicated neural engines",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial automation and predictive maintenance deployments are growing at a CAGR of 16.5%, reflecting the shift toward on-device AI hardware for IoT endpoints on factory floors",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "エッジAIチップ市場の規模とシェアに関するレポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジ人工知能チップ市場のシェア、チップタイプ別、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIC（特定用途向け集積回路）AIチップセグメントは、2024年に41.72%の市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "GPU（グラフィックス処理ユニット）AIチップセグメントは、2024年に 28.76% の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・輸送セグメントは、2024年に市場シェアの 21.25% を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本エッジAI市場規模シェア、競争環境、トレンド分析レポート、構成要素別、導入形態別、エンドユーザー別 ：2026年から2035年までの機会分析および業界予測",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "構成要素別では、ハードウェア分野が市場成長の最大のシェアを占め、総収益の約58%を占めると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入モデル別では、オンプレミス型エッジセグメントが主導的な地位を維持し、総収益の約47％を占めると予測されています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー別では、スマート産業と製造セグメントが最大の貢献要因となり、市場全体の収益の約30％を占めると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、日本エッジAI市場を牽引すると予測されており、2025年には総収益シェアの約58％を占めると見込まれています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "現在、日本エッジAI市場において、オンプレミス型エッジインフラストラクチャが主要な導入モデルとなっており、総売上高の約47%を占めています",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "65歳以上の人口が約29.1％を占める日本は、世界でも有数の高齢化社会であります",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別のグローバルエッジAIチップの年間売上、売上市場シェア、年間収益、収益市場シェア、販売価格が含まれています",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIハードウェア市場の規模、シェア、動向｜レポート — 2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIハードウェア市場 サイズとシェア 2026 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "QualcommとNVIDIA Corporationが市場をリードし、2024年には20.8%超の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、スマートフォンセグメントは 2025 年に 33.7% の最大シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、半導体分野におけるイノベーション、AI搭載デバイスの幅広い普及、5Gインフラの早期導入に支えられ、2025 年にエッジAIハードウェア市場の 37.1% を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンセグメントは 33.7% の最大市場シェアを占め、予測期間中の年平均成長率（CAGR）も 18.3% と最も高くなっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "推論セグメントは、68.9%という最大の市場シェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "製造セグメントは26.3%という最大の市場シェアを占めており、予測期間中に16.7%の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は 2025年にエッジAIハードウェア市場の 37.1%を占め、予測期間中に年平均成長率（CAGR）16.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は 2025 年にエッジAIハードウェア市場の 24.2% を占め、予測期間中の年平均成長率（CAGR）は 17% と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は 2025 年にエッジAIハードウェア市場の 26.3% を占め、主要な地域別貢献地域の一つとなった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のエッジ AI ハードウェア市場は、2025年に 33.4% の最大の国別シェアを占め、予測期間中に年平均成長率（CAGR）20.1%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエッジ AI ハードウェア市場は、2025年に 19.5% のシェアを占め、予測期間中に年平均成長率（CAGR）18.90%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、GPU、ASIC、FPGAといったタイプ別のセグメント、およびタイプ別の販売（市場シェア、収益、販売価格（2020-2025年））、さらに産業用、交通機関、都市IoT、その他のアプリケーション別のセグメント、およびアプリケーション別の販売（市場シェア、収益、販売価格（2020-2025年））に関する情報が含まれている",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「Global by Company」には、企業別の超エッジAIチップセットの販売データ（年間販売額、市場シェア（2020-2025年））、企業別の年間収益（収益、市場シェア（2020-2025年））、企業別の販売価格に関する詳細が含まれている",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "2. EDGEMATRIXのトップシェア獲得",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "• エッジAIコンピュータソリューション市場（2025年5月発表）：主力製品「Edge AI Box」が前年対比466.7%という驚異的な成長を遂げ、ベンダーシェア第1位を獲得",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "• AI活用の画像認識ソリューション市場（2025年8月発表）：市場全体でトップシェアを獲得",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別では「物体検知」の車両・個数管理分野にて51.5％の売上高シェア、業種別ではサービス、国・地方自治体、情報通信の分野、従業員規模別では従業員2,000名以上の大企業分野でトップシェアを獲得しました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "• 経済産業省は5月、「モビリティDX戦略」をアップデートし、2030年・2035年に日系のグローバル市場におけるSDVシェア3割という目標を掲げました [13]",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the edge artificial intelligence chips market with the largest share of 35 % in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By chip type, the ASICs segment held the largest share of 35% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component type, the hardware segment held the biggest share of 75% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology node, the 7 nm and below segment captured the biggest market share of 50% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the consumer electronics segment contributed the highest market share of 40% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use industry, the consumer electronics segment generated the major market share of 38% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By form factor, the embedded edge AI chips segment accounted for the biggest market share of 60% in 2024.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why the 7 nm and belowâ€¯Segment Dominates the Edge Artificial Intelligence Chips Market?",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 7 nm and below segment dominated the edge artificial intelligence chips market in 2025. Because it provides greater computational power and energy efficiency as well as smaller form factor, with the help of such nodes, one can carry out faster computations with lower energy costs, which makes these chips suitable for use in smartphones, self-driving cars IoT etc.",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Why did the consumer electronics segment dominate the edge artificial intelligence chips market in 2024?",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By chipset: ASIC segment dominated the market with a revenue share of 33.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By function: Inference segment held the largest market share of 86.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "By device: Consumer devices segment has a significant revenue share of 65.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on device, the consumer devices segment has a significant revenue share of 65.3% in 2025, which is primarily attributed to the widespread adoption of AI-powered devices in everyday life. Consumer electronics such as smartphones,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Corporation is a global leader in semiconductors and is renowned for its x86 processors. While mainly known for traditional computing, Intel has also played an active role in the AI chip market. The company created various AI-optimized processors and accelerators to meet AI applications' complex computational needs.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer devices segment has a significant revenue share of 65.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the edge AI chips market with a share of 37.7% in 2025. The region boasts a strong presence of leading technology companies and research institutions, driving innovation and development in AI technologies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "ASIC segment dominated the market with a revenue share of 33.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Inference segment held the largest market share of 86.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 30+ AI Chip Makers: NVIDIA & Its Competitors",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "AMD launched MI300 for AI training workloads in June 2023 and is competing with NVIDIA for market share. Startups, enterprises and tech giants adopted AMD hardware in 2023, when NVIDIA hardware was difficult to procure amid the generative AI boom triggered by the launch of",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Third-party estimates of the custom-ASIC share of the AI processor market depend on what is being counted. Bloomberg Intelligence splits the custom-ASIC market between Broadcom at 60% to 80% and Marvell at 20% to 25%.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Intel、NVIDIA、Qualcommなどの米国の主要企業は、セキュリティシステム、自動運転車、スマートファクトリー向けのエッジコンピューティング用最先端AIチップを開発しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジ人工知能チップ市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップの主要企業である NVIDIA は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、Advanced Micro Devices, Inc.、Apple、Arm Limited、BrainChip, Inc.、Broadcom Inc.、Intel Corporation、Lattice Semiconductor、Marvell、MediaTek Inc.、Mythic、NVIDIA Corporation が含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要メーカーのエッジAIチップ生産地域分布、販売地域、提供製品、市場集中度分析、新製品と潜在的参入企業、市場のM&A活動と戦略についても記載されています",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業によるモバイル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "強固な知的財産ポートフォリオとOEMおよびODMとの提携により、Qualcommは分散型インテリジェンスを実現する主要企業としての地位を確立している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIハードウェア市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIハードウェア市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIハードウェア市場の主要企業には、NVIDIA Corporation、Google（Alphabet Inc.）、Intel Corporation、Huawei Technologies Co., Ltd.、Apple Inc.、Qualcomm Incorporated、Samsung Electronics Co., Ltd.などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「Key Players Analysis」では、Arm、BrainChip、CEVA、Eta Compute、GrAI Matter Labs、GreenWaves Technologies、Hangzhou National Chip、HiMax、Lattice Semiconductor、LeapMind、NXP、Perceive、PT、Qualcomm Inc、QuickLogic、Sony、STMicroelectronics、SynSense、Syntiant、Texas Instruments、XMOSといった主要企業ごとに、会社情報、超エッジAIチップセットの製品ポートフォリオと仕様、販売、収益、価格、粗利益（2020-2025年）、主要事業概要、最新の動向について個別に詳細な分析が掲載されている",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省、Rapidus、NVIDIA、Arm、パナソニック、Hailo、EdgeCortixなど国内外の主要プレイヤーが登壇し、半導体戦略、生成AIの進化、エッジAIの最新動向について議論が交わされました",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "次回の【後編】では、視点を世界に移し、グローバルなエッジAIのトレンド、主要企業の戦略、そして日本市場との比較を通じて、日本のエッジAIが今後目指すべき方向性についてさらに深く掘り下げていきます",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "pass": 3
+   },
+   {
+    "quote": "Edge Artificial Intelligence Chips Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players in the global edge artificial intelligence chips market?",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key companies/players in the edge AI chips market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the edge AI chips market include Advanced Micro Devices, Inc.; Alphabet Inc.; Intel Corporation; Qualcomm Technologies, Inc.; Apple Inc.; Mythic; Arm Limited; Samsung; NVIDIA Corporation; Huawei Technologies Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report presents an analysis of data and insights from key players, and it builds on IDTechEx's expertise in the semiconductor, computing and electronics sectors.",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile device competitive landscape",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of ADS SoC Chips",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of ADS SoC Chips - Case study",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "pass": 3
+   },
+   {
+    "quote": "AMD launched MI300 for AI training workloads in June 2023 and is competing with NVIDIA for market share. Startups, enterprises and tech giants adopted AMD hardware in 2023, when NVIDIA hardware was difficult to procure amid the generative AI boom triggered by the launch of",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Added Fractile to the AI chip startups list, expanding the roundup from 20+ to 25+ chip makers.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the edge artificial intelligence chips industry?",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "The prominence of North America in this market can be attributed to several key factors. First, the region is home to some of the world’s leading technology companies and startups focused on AI and machine learning innovations. These entities are pivotal in developing and deploying cutting-edge AI solutions integrated into edge devices.",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Advancements in semiconductor technology have made inference ICs more cost-effective and energy-efficient, making edge AI solutions more practical and accessible for smaller companies and startups. This has fueled strong growth in the adoption of inference ICs, reinforcing their leading position in the Edge AI ICs market.",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Players",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Micro Devices, Inc., Alphabet Inc., Intel Corporation, Qualcomm Technologies, Inc., Apple Inc., Mythic, Arm Limited, Samsung, NVIDIA Corporation, Huawei Technologies Co., Ltd., Other Major Players",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI Chip Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Examples of key players involved in the AI chip market (",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": ". Neuromorphic chips from Intel (Loihi 2) and analog compute-in-memory architectures from startups such as Mythic and Syntiant promise 10–100× improvements in TOPS-per-watt, directly benefiting the Edge AI Hardware Market's sustainability narrative",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "through 2030. Autonomous vehicles, industrial IoT, and smart cities now rely on ultra-low-latency processing impossible in centralized data centers. This revolution hinges not just on raw computational power, but on architectural ingenuity, power efficiency, and vertical-specific optimization—where the fiercest battles among chip titans and startups unfold.",
+    "url": "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times. (2020). Top 10 AI Chip Startups.",
+    "url": "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.eetimes.com/top-10-ai-chip-startups/",
+    "url": "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Emerging Opportunities",
+    "url": "https://finance.yahoo.com/technology/ai/articles/global-edge-ai-chips-market-161200959.html?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "11. Competitive Landscape",
+    "url": "https://finance.yahoo.com/technology/ai/articles/global-edge-ai-chips-market-161200959.html?fr=sycsrp_catchall",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "標準的なエンタープライズ向けエッジAIのパイロットプロジェクトの場合、初期投資額は通常、1拠点あたり3,000万～5,000万円程度となります",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   },
+   {
+    "quote": "Market fundamentals remain optimistic owing to continued focus on low- latency computing and smart-edge computing applications, the increasing number of investments in areas such as 5G networks,",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Netra semi (India) raised Rs 107 crore in Series A funding to develop SoCs for edge AI applications in IoT, surveillance, industrial robotics, smart retail, and automation.(Source:",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "Its Dammam data center, built with Aramco Digital, sits behind a $1.5 billion Saudi investment commitment announced in February 2025.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On August 17, 2026, Groq LLC announced a $350 million Series A at a $3.5 billion valuation, led by Disruptive with planned participation from NVIDIA. The release calls the June and August rounds $1 billion of recent funding, while stating that the Series A remains subject to customary closing conditions.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Cerebras has traded on Nasdaq under the ticker CBRS since May 14, 2026, after an IPO that raised about $6.38 billion in gross proceeds.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Total funding is about $850 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Tenstorrent offers a fully open-source software stack. The company raised $700 million in December 2024.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Etched emerged from stealth on June 30, 2026 with first-pass A0 silicon back from TSMC’s N4P process, more than $1 billion in signed customer contracts and $800 million raised.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Extropic raised a $14 million round in late 2023 to use thermodynamics for computing. Its hardware page lists three parts. X0 is a silicon prototype from Q1 2025, and XTR-0 is a development platform shipped in limited numbers to selected researchers in Q3 2025. Both were unveiled on October 29, 2025. Z1, the first production-scale chip, is listed as early access in 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Mythic raised an oversubscribed $125 million round led by DCVC on December 17, 2025.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Speedata raised $44 million in a Series B round in June 2025, led by Walden Catalyst Ventures, 83North, and others, bringing its total funding to $114 million.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Axelera AI raised more than $250 million on February 24, 2026, taking its total to more than $450 million in equity, grants and venture debt.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "On March 31, 2026, NVIDIA and Marvell announced a strategic partnership that connects Marvell to the NVIDIA AI factory and AI-RAN ecosystem through NVLink Fusion, together with collaboration on silicon photonics. NVIDIA invested $2 billion in Marvell as part of it. Under the partnership, Marvell provides custom XPUs and NVLink Fusion-compatible scale-up networking.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "TSMC’s announced US investment totals $265 billion across 12 leading-edge fabrication and packaging facilities, after an incremental $100 billion Arizona commitment announced on July 16, 2026.",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "pass": 3
+   },
+   {
+    "quote": "Notably, the ability to innovate and gradually improve efficiency, speed and advanced work will be the key to success during this forecast period. Recently, Groq raised $640 million in funding in late-stage funding round lead by BlackRock. The company aims to utilize these funds to enhance its AI chip capabilities, particularly its Language Processing Units (LPUs).",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "February 2026: SambaNova Systems launched its SN50 AI chip, a reconfigurable dataflow processor designed for agentic AI inference with up to 10 trillion parameters. Simultaneously, the company announced a USD 350 million Series E funding round with participation from Intel.",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "pass": 3
+   },
+   {
+    "quote": "The United States dominates the North American Edge AI Hardware Market, with defense and intelligence agencies procuring AI accelerator chips for edge inference across tactical ISR platforms. The CHIPS Act has catalyzed over USD 200 billion in announced private investment in domestic semiconductor capacity, with Intel, TSMC, and Samsung all building edge-capable fabs on U.S. soil .",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": ". The EU Chips Act's EUR 43 billion investment plan targets doubling Europe's share of global semiconductor production to 20% by 2030, with edge AI listed as a priority application .",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "European Commission (June 2023 ): Approved the first EUR 8.1 billion tranche of EU Chips Act funding, with edge AI and automotive semiconductors listed as priority application areas .",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "pass": 3
+   },
+   {
+    "quote": "A: Through national funds ($50B+ invested since 2020), Huawei/Rockchip’s vertical integration, and leveraging the world’s largest 5G network for edge deployment.",
+    "url": "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 — エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ市場 の規模と シェア に関するレポート、2034年 — エッジAIチップ市場 の規模と シェア に関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAI 半導体 市場 規模、 シェア |予報 [2034] — エッジAI 半導体 市場 規模、 シェア |予報 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > エッジai半導体...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383",
+    "pass": 3
+   },
+   {
+    "quote": "エッジAIチップ市場 の規模とシェアに関するレポート、2034年 — エッジAIチップ市場 の規模とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "pass": 3
+   },
+   {
+    "quote": "超 エッジAIチップ セットの世界 市場 （2026年～2032年） — 超 エッジAIチップ セットの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "24.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "世界のエッジ人工知能チップ市場規模は 2024年に 30億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）24.8%で拡大すると推定される"
+   },
+   {
+    "value": "24.38",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "quote": "日本エッジAI市場は、 CAGR約24.38%で急拡大 2035年ら1,567億米ドル"
+   },
+   {
+    "value": "16.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "市場規模は、2026年の 58億米ドルから 2034年には 204億米ドルに拡大し、2025年から2034年までの予測期間中に年平均成長率（CAGR）16.8%で成長すると予測されています"
+   },
+   {
+    "value": "17.75",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "The market is expected to grow at a CAGR of 17.75% from 2025 to 2034."
+   },
+   {
+    "value": "17.90",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "Asia Pacific edge artificial intelligence chips market size was exhibited at USD 2.47 billion in 2024 and is projected to be worth around USD 12.82 billion by 2034, growing at a CAGR of 17.90% from 2025 to 2034."
+   },
+   {
+    "value": "47.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "ASIC chipset is expected to register the fastest CAGR of 47.2% during the forecast period due to its exceptional performance and efficiency. The surge in demand for AI applications in different sectors, such as autonomous vehicles, healthcare, and"
+   },
+   {
+    "value": "34.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "CAGR of 34.7% from 2026 to 2033"
+   },
+   {
+    "value": "18.5",
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "quote": "The global market for edge AI chips will exceed US$80 billion by 2036, representing a CAGR of 18.5% from 2025."
+   },
+   {
+    "value": "24.8",
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "The market was valued at USD 3 billion in 2024 and is projected to reach approximately USD 25.9 billion by 2034, growing at a CAGR of 24.8% during the forecast period."
+   },
+   {
+    "value": "34.7",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "quote": "Edge AI ICs Market Size, Share | CAGR of 34.7%"
+   },
+   {
+    "value": "34.70",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "quote": "CAGR of 34.70%"
+   },
+   {
+    "value": "33.2",
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "quote": "CAGR of 33.2%"
+   },
+   {
+    "value": "24.29",
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "quote": "The AI chip market size is projected to grow from USD 100 billion in 2026 to USD 2100 billion by 2040, representing a CAGR of 24.29%, during the forecast period till 2040."
+   },
+   {
+    "value": "17.8",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "quote": "North America commands the largest share of the Edge AI Hardware Market at approximately 38% of global revenue, driven by hyperscaler capex and defense procurement. Asia-Pacific is the fastest-growing region with a projected CAGR of 17.8%, fueled by China's \"AI Plus\" industrial policy and India's se"
+   },
+   {
+    "value": "18.2",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "quote": "NPU neural processing units for edge AI represent the fastest-growing component segment with a CAGR of 18.2% through 2035, as smartphone and wearable OEMs integrate dedicated neural engines"
+   },
+   {
+    "value": "16.5",
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "quote": "Industrial automation and predictive maintenance deployments are growing at a CAGR of 16.5%, reflecting the shift toward on-device AI hardware for IoT endpoints on factory floors"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "41.72",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "ASIC（特定用途向け集積回路）AIチップセグメントは、2024年に41.72%の市場シェアを占め、市場をリードした"
+   },
+   {
+    "value": "28.76",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "GPU（グラフィックス処理ユニット）AIチップセグメントは、2024年に 28.76% の市場シェアを占めました"
+   },
+   {
+    "value": "21.25",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "自動車・輸送セグメントは、2024年に市場シェアの 21.25% を占めました"
+   },
+   {
+    "value": "55",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "58",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "quote": "構成要素別では、ハードウェア分野が市場成長の最大のシェアを占め、総収益の約58%を占めると見込まれています"
+   },
+   {
+    "value": "47",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "quote": "導入モデル別では、オンプレミス型エッジセグメントが主導的な地位を維持し、総収益の約47％を占めると予測されています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "quote": "エンドユーザー別では、スマート産業と製造セグメントが最大の貢献要因となり、市場全体の収益の約30％を占めると見込まれています"
+   },
+   {
+    "value": "29.1",
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "quote": "65歳以上の人口が約29.1％を占める日本は、世界でも有数の高齢化社会であります"
+   },
+   {
+    "value": "20.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "QualcommとNVIDIA Corporationが市場をリードし、2024年には20.8%超の市場シェアを占めた"
+   },
+   {
+    "value": "33.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "このうち、スマートフォンセグメントは 2025 年に 33.7% の最大シェアを占めました"
+   },
+   {
+    "value": "37.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "北米は、半導体分野におけるイノベーション、AI搭載デバイスの幅広い普及、5Gインフラの早期導入に支えられ、2025 年にエッジAIハードウェア市場の 37.1% を占めました"
+   },
+   {
+    "value": "18.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "スマートフォンセグメントは 33.7% の最大市場シェアを占め、予測期間中の年平均成長率（CAGR）も 18.3% と最も高くなっています"
+   },
+   {
+    "value": "68.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "推論セグメントは、68.9%という最大の市場シェアを占めています"
+   },
+   {
+    "value": "26.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "製造セグメントは26.3%という最大の市場シェアを占めており、予測期間中に16.7%の年平均成長率（CAGR）で成長すると予測されています"
+   },
+   {
+    "value": "16.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "製造セグメントは26.3%という最大の市場シェアを占めており、予測期間中に16.7%の年平均成長率（CAGR）で成長すると予測されています"
+   },
+   {
+    "value": "16.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "北米は 2025年にエッジAIハードウェア市場の 37.1%を占め、予測期間中に年平均成長率（CAGR）16.1%で成長すると予測されています"
+   },
+   {
+    "value": "24.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "欧州は 2025 年にエッジAIハードウェア市場の 24.2% を占め、予測期間中の年平均成長率（CAGR）は 17% と予測される"
+   },
+   {
+    "value": "17",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "欧州は 2025 年にエッジAIハードウェア市場の 24.2% を占め、予測期間中の年平均成長率（CAGR）は 17% と予測される"
+   },
+   {
+    "value": "33.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "中国のエッジ AI ハードウェア市場は、2025年に 33.4% の最大の国別シェアを占め、予測期間中に年平均成長率（CAGR）20.1%で成長すると予測される"
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "中国のエッジ AI ハードウェア市場は、2025年に 33.4% の最大の国別シェアを占め、予測期間中に年平均成長率（CAGR）20.1%で成長すると予測される"
+   },
+   {
+    "value": "19.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "日本のエッジ AI ハードウェア市場は、2025年に 19.5% のシェアを占め、予測期間中に年平均成長率（CAGR）18.90%で成長すると予測される"
+   },
+   {
+    "value": "18.90",
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "quote": "日本のエッジ AI ハードウェア市場は、2025年に 19.5% のシェアを占め、予測期間中に年平均成長率（CAGR）18.90%で成長すると予測される"
+   },
+   {
+    "value": "466.7",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "quote": "• エッジAIコンピュータソリューション市場（2025年5月発表）：主力製品「Edge AI Box」が前年対比466.7%という驚異的な成長を遂げ、ベンダーシェア第1位を獲得"
+   },
+   {
+    "value": "51.5",
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "quote": "さらに、用途別では「物体検知」の車両・個数管理分野にて51.5％の売上高シェア、業種別ではサービス、国・地方自治体、情報通信の分野、従業員規模別では従業員2,000名以上の大企業分野でトップシェアを獲得しました"
+   },
+   {
+    "value": "35",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "Asia Pacific dominated the edge artificial intelligence chips market with the largest share of 35 % in 2024."
+   },
+   {
+    "value": "75",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "By component type, the hardware segment held the biggest share of 75% in 2024."
+   },
+   {
+    "value": "50",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "By technology node, the 7 nm and below segment captured the biggest market share of 50% in 2024."
+   },
+   {
+    "value": "40",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "By application, the consumer electronics segment contributed the highest market share of 40% in 2024."
+   },
+   {
+    "value": "38",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "By end-use industry, the consumer electronics segment generated the major market share of 38% in 2024."
+   },
+   {
+    "value": "60",
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "quote": "By form factor, the embedded edge AI chips segment accounted for the biggest market share of 60% in 2024."
+   },
+   {
+    "value": "33.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "By chipset: ASIC segment dominated the market with a revenue share of 33.2% in 2025."
+   },
+   {
+    "value": "86.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "By function: Inference segment held the largest market share of 86.5% in 2025."
+   },
+   {
+    "value": "65.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "By device: Consumer devices segment has a significant revenue share of 65.3% in 2025."
+   },
+   {
+    "value": "37.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "quote": "North America dominated the edge AI chips market with a share of 37.7% in 2025. The region boasts a strong presence of leading technology companies and research institutions, driving innovation and development in AI technologies."
+   },
+   {
+    "value": "60",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "Third-party estimates of the custom-ASIC share of the AI processor market depend on what is being counted. Bloomberg Intelligence splits the custom-ASIC market between Broadcom at 60% to 80% and Marvell at 20% to 25%."
+   },
+   {
+    "value": "80",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "Third-party estimates of the custom-ASIC share of the AI processor market depend on what is being counted. Bloomberg Intelligence splits the custom-ASIC market between Broadcom at 60% to 80% and Marvell at 20% to 25%."
+   },
+   {
+    "value": "20",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "Third-party estimates of the custom-ASIC share of the AI processor market depend on what is being counted. Bloomberg Intelligence splits the custom-ASIC market between Broadcom at 60% to 80% and Marvell at 20% to 25%."
+   },
+   {
+    "value": "25",
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "quote": "Third-party estimates of the custom-ASIC share of the AI processor market depend on what is being counted. Bloomberg Intelligence splits the custom-ASIC market between Broadcom at 60% to 80% and Marvell at 20% to 25%."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%B8%82%E5%A0%B4-107023",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/8082788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E3%82%A8%E3%83%83%E3%82%B8-AI-r13593/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9017/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1035453",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9440001",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/edgematrix/n/nde3f4372266e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218300.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mic-r.co.jp/mr/03430/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53301925",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/edge-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-ai-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/edge-ai-semiconductor-market-117383",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://aimultiple.com/ai-chip-makers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cset.georgetown.edu/publication/maintaining-the-ai-chip-competitive-advantage-of-the-united-states-and-its-allies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/edge-ai-ics-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/ai-chip-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/ai/articles/global-edge-ai-chips-market-161200959.html?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sterlingcharts.com/sectors/ai-chips",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/edge-ai-processor-market-114310",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エッジAIチップ 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%B8%82%E5%A0%B4-107023",
+    "https://newscast.jp/smart/news/8082788",
+    "https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market",
+    "https://www.cao.go.jp/others/soumu/pitch2m/pdf/20190607_4902siryou.pdf",
+    "https://www.atpress.ne.jp/news/6959006",
+    "https://jp.linkedin.com/pulse/%E3%82%A8%E3%83%83%E3%82%B8-ai-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-market-findings-indicating-cagr-73-from-2033-2026-lnd2e",
+    "https://www.researchnester.com/ja/reports/edge-ai-hardware-market/8291",
+    "https://www.globalgrowthinsights.com/jp/market-reports/edge-artificial-intelligence-chips-market-125744"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://newscast.jp/smart/news/8082788",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383",
+    "https://www.reportprime.com/ja/%E3%82%A8%E3%83%83%E3%82%B8-AI-r13593/company",
+    "https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://metoree.com/categories/9017/",
+    "https://www.atpress.ne.jp/news/1035453",
+    "https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market",
+    "https://straitsresearch.com/jp/report/edge-ai-market",
+    "https://note.com/qy_research/n/n56adb05a8aa0"
+   ]
+  },
+  {
+   "query": "エッジAIチップ 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.atpress.ne.jp/news/9440001",
+    "https://note.com/edgematrix/n/nde3f4372266e",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218300.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%B8%82%E5%A0%B4-107023",
+    "https://www.mordorintelligence.com/ja/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://mic-r.co.jp/mr/03430/",
+    "https://my.idc.com/getdoc.jsp?containerId=prJPJ53301925",
+    "https://www.marketresearchfuture.com/ja/reports/edge-ai-hardware-market-7836",
+    "https://www.gii.co.jp/report/anvi2058605-edge-ai-chip-market-by-device-by-power-consumption.html"
+   ]
+  },
+  {
+   "query": "edge AI chip market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "https://www.gminsights.com/industry-analysis/edge-ai-market",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "https://www.grandviewresearch.com/industry-analysis/edge-ai-market-report",
+    "https://www.bccresearch.com/market-research/information-technology/edge-ai-market.html?srsltid=AYCX9vIU0kr0CkJ9buoFuwZrrTWIIjSmVlFDT1OraJjVzA7yQrhS1rNx",
+    "https://market.us/report/edge-ai-ics-market/",
+    "https://www.fortunebusinessinsights.com/edge-ai-semiconductor-market-117383",
+    "https://www.linkedin.com/pulse/examining-ai-edge-chip-market-manufacturing-kubde",
+    "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market"
+   ]
+  },
+  {
+   "query": "edge AI chip market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "https://www.fortunebusinessinsights.com/edge-ai-semiconductor-market-117383",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.kbvresearch.com/edge-artificial-intelligence-chips-market/",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-edge-computing-ai-chips-market-dxaye",
+    "https://axis-intelligence.com/edge-ai-statistics/"
+   ]
+  },
+  {
+   "query": "edge AI chip market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "https://www.idtechex.com/en/research-report/ai-chips-for-edge-applications/1148",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-edge-computing-ai-chips-market-dxaye",
+    "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "https://cset.georgetown.edu/publication/maintaining-the-ai-chip-competitive-advantage-of-the-united-states-and-its-allies/",
+    "https://market.us/report/edge-ai-ics-market/",
+    "https://www.rootsanalysis.com/ai-chip-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "edge AI chip market key companies share 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html",
+    "https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market",
+    "https://www.mordorintelligence.com/industry-reports/edge-artificia-intelligence-chips-market",
+    "https://www.grandviewresearch.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+    "https://www.gminsights.com/industry-analysis/edge-artificial-intelligence-chips-market",
+    "https://aimultiple.com/ai-chip-makers",
+    "https://www.linkedin.com/pulse/top-edge-based-ai-companies-how-compare-ftwse",
+    "https://www.marketresearchfuture.com/reports/edge-ai-hardware-market-7836",
+    "https://www.lovechip.com/blog/top-10-edge-ai-chip-companies-of-2025"
+   ]
+  }
+ ],
+ "missing": {}
+}

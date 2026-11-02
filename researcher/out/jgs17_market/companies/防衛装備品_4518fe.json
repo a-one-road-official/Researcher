@@ -1,0 +1,1788 @@
+{
+ "name": "防衛装備品",
+ "en": "defense equipment",
+ "aliases": [
+  "デュアルユース",
+  "防衛産業"
+ ],
+ "context": "5 防衛 ③デュアルユース",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:50:55.537703+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエルの軍事産業は2023年も好調で、2022年の輸出額は125億ドルに達し、前年比20%増となった",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "財務省はまた、ハマスとの戦いが続くため、イスラエルは来年、国防費を少なくとも300億シェケル（83億ドル）増やす必要があるかもしれないと述べている",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.4%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "砲弾市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "係留式飛行船システム市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本防衛市場は、2025年の360億米ドルから2035年には594億8000万米ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率（CAGR）5.2％で拡大すると見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "日本産業用除湿機市場は2035年に35億米ドル規模へ拡大｜CAGR 5.05％、省エネ型除湿技術・スマート湿度制御・産業施設の品質管理強化が新たな成長機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼VTOL UAV市場は2035年に71億6,000万米ドルへ｜CAGR 19.7％で成長、滑走路不要の運用性能・長時間飛行・自律航行技術が軍事偵察、国境監視、商用ドローン市場の成長機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "繊維リサイクル市場は2035年に165億8000万米ドル規模へ｜CAGR 6.6％、繊維廃棄物の再資源化・循環型経済への移行が生み出す成長機会と技術革新",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "2023 年度から 2027 年度までの 5 年間における防衛力整備の金額は 43 兆円程度と、過去最大",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "43兆円程度（前計画の約1.5倍）",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 国内防衛産業の市場規模および企業収益の動向",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（1）国内防衛産業の市場規模",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これら前提に基づき国内防衛産業の市場規模を推計すると、年間 4.3 兆円と試算される（図表 4）",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前段で推計した 国内防衛産業の市場規模 （4.3 兆円）を主要な民需産業と比較すると、主要産",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【防衛関係費】9.5兆円",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【国内防衛市場】4.3兆円",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "機械的に当てはめ、 一定の仮定のもとで 国内の防衛市場規模を試算すると 、約 11 兆円となる（図",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 11 国内防衛産業の市場規模の機械的試算",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛関係費は、2000年度は4.94兆円で、そこから緩やかに減少トレンドとなり2012年年度4.65兆円となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "以降、微増トレンドとなり、2022年度には5.18兆円となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は、防衛力強化のために予算を大幅に強化したため、6.6兆円へと急増しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "この急増トレンドから、さらに2027年度には関連経費も含めて11兆円へと防衛費を拡大させる予定となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品の調達金額の推移を見ると、2000年度は1.26兆円で、2010年度ごろまで概ね横這いトレンドで推移しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年度に1.47兆円へと増加し、以降1.4兆円～1・8兆円台を緩やかな増減を繰返しながら推移し、2022年度は1.72兆円となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "トップは三菱重工の3652億円となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "次いで金額が大きいのは川崎重工で1692億円となっており、以降、日本電気（944億円）、三菱電機（752億円）、富士通（652億円）東芝インフラシステムズ（363億円）と続きます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍需企業大手100社の防衛売上は｢98兆円｣…日本人だけ認識がズレている巨大市場の正体 | PRESIDENT Online（プレジデントオンライン）",
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "世界の軍需企業大手100社の防衛売上は｢98兆円｣…日本人だけ認識がズレている巨大市場の正体",
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "日本の新幹線が米国を走るはずが…日本が417億円を投じ､17年経っても線路ゼロ｢テキサス高速鉄道｣の惨状",
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "中国人は親しみを込めて｢レトルトの王｣と呼ぶ…売上600億円突破､中国のサイゼリヤに行列ができる意外な理由",
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "実績ゼロの日本には無理→2兆円計画で採用…オーストラリア海軍が惚れた｢日本の護衛艦｣が持つ世界初の技術",
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "pass": 3
+   },
+   {
+    "quote": "防衛調達に係る予算額（物件費）は約4.0兆円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 計画期間の事業費※は、17.2兆円程度から43.5兆円程度へ増額され、我が国防衛産業の受注も大幅増",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前計画（中期防衛力整備計画（平成31年度～平成35年度））の計画額（契約ベース）17.2兆円程度に対し、今計画（防衛力整備計画）の計画額（契約ベース） 43.5兆円程度",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "防衛産業は急成長を遂げており、 2022年には武器輸出額が173億ドル（約2.5兆円）に達するとともに、",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 三菱重工業株式会社 255 件 16,803 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2 川崎重工業株式会社 155 件 3,886 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 日本電気株式会社 271 件 2,954 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 三菱電機株式会社 126 件 2,685 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5 富士通株式会社 139 件 2,096 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "6 東芝インフラシステムズ株式会社 68 件 1,283 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "7 株式会社ＩＨＩ 31 件 1,257 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "8 株式会社日立製作所 94 件 793 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9 伊藤忠アビエーション株式会社 51 件 643 億円",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 国立研究開発法人宇宙航空研究開発機構 3 件 580 億円 ・ 宇宙状況監視（ＳＳＡ）衛星システム（衛星その２）・ 宇宙状況監視（ＳＳＡ）衛星システム（地上その３）・ 将来の宇宙領域把握（ＳＤＡ）衛星に係る調査研究",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 日本の防衛市場規模/シェア分析/成長動向（2025～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模/シェア分析/成長動向（2025～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛省は2022年度予算案にF-35AおよびF-35Bの追加取得に1,000億円以上を計上しています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、日本の防衛市場は2025年に497.4億米ドルに達し、年平均成長率は3.40%と見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模は2025年に497億4,000万米ドルと推定され、予測期間中（2025-2030年）の年平均成長率は3.4%で、2030年には587億9,000万米ドルに達する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場は、予測される10年間において阻害要因となりうるいくつかの課題に直面しています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛省は、F-35AおよびF-35Bステルス戦闘機約10機の追加取得のため、2022年度予算案に1,000億円（約9億500万米ドル）以上を計上する予定",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模は、2025年には497億4,000万米ドルに達し、年平均成長率3.40%で成長し、2030年には587億9,000万米ドルに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "この日本防衛市場は何年を対象とし、2024年の市場規模は？",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "金額も69億ドルから647億ドルと、ほぼ10倍です",
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛部門の売上額は647億ドルで、日本の主要防衛企業全体の売上額133億ドルの約5倍です",
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "防衛装備品市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）4.8%を示すと予想されています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエルの軍事産業は2023年も好調で、2022年の輸出額は125億ドルに達し、前年比20%増となった",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場の規模は、2026年には5,885億2,000万米ドルと評価され、2034年までに8,305億5,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%である",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.4%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "砲弾市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "銃器および付属品市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本防衛市場予測2035：CAGR 5.2％で持続成長、2035年に594億8000万米ドル規模へ拡大―防衛装備近代化、AI・サイバー防衛、無人システム、防衛産業イノベーションが市場成長を牽引 | Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "日本防衛市場予測2035：CAGR 5.2％で持続成長、2035年に594億8000万米ドル規模へ拡大―防衛装備近代化、AI・サイバー防衛、無人システム、防衛産業イノベーションが市場成長を牽引",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "と予測され、2026年から2035年の予測期間における年平均成長",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "率（CAGR）は5.2％",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "特にF-35戦闘機の配備拡大や「グローバル・コンバット・エア・プログラム（GCAP）」への投資は、AI統合型ネットワーク、センサー統合、ステルス性能強化を通じ、航空防衛の高度化を促進しています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、この分野は成熟段階にあり、予測期間中のCAGRは約3.6％と比較的緩やかな成長が見込まれます",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ソフトウェアおよびデジタルシステムは急成長しており、2035年までにCAGR約7.8％の成長が予測されています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "日本防衛市場は、2025年の360億米ドルから2035年には594億8000万米ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率（CAGR）5.2％で拡大すると見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "日本産業用除湿機市場は2035年に35億米ドル規模へ拡大｜CAGR 5.05％、省エネ型除湿技術・スマート湿度制御・産業施設の品質管理強化が新たな成長機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属粉末市場、2035年に7億2,320万米ドルへ拡大｜CAGR 4.06％、自動車・航空宇宙・積層造形向け高性能金属材料の需要拡大が市場成長を促進",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼VTOL UAV市場は2035年に71億6,000万米ドルへ｜CAGR 19.7％で成長、滑走路不要の運用性能・長時間飛行・自律航行技術が軍事偵察、国境監視、商用ドローン市場の成長機会を創出",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムイオン電池リサイクル市場、2035年に713億9000万米ドル規模へ拡大｜CAGR 20.46％、EV普及と使用済み電池の増加が資源循環・レアメタル回収ビジネスを加速",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "のもとで増勢が強まっており、 補正予算勘案後の 防衛関係費は GDP 対比で１％台半ばまで拡大",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、過去 15 年間でみた市場成長率は、比較対象とした 主要民需産業を上回って いる",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 5 民需産業との規模感・成長率比較",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長率は 15 年前比",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "や維持整備に 係る予算が拡大するなか、防衛大手 3 社の武器製造および軍事サービス 売上高は",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "計対象とした防衛大手 3 社の実績では、 経済成長率が低位にとどまる 局面において防衛部門の",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表 7 低成長局面における売上高平均成長率",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この急増トレンドから、さらに2027年度には関連経費も含めて11兆円へと防衛費を拡大させる予定となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしてみると、2023年度以降日本の防衛費のが大きく伸びる計画となっており、それに合わせて防衛装備品調達金額も大きく拡大することが予想できます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "この成長は、老朽化した戦闘機の代替や戦闘機フリートの拡大に関連する調達計画によるものであり、日本は42機のF-35Bや157機のF-35を取得する計画を持っています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "全体として、日本の防衛市場は2025年に497.4億米ドルに達し、年平均成長率は3.40%と見込まれています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模は2025年に497億4,000万米ドルと推定され、予測期間中（2025-2030年）の年平均成長率は3.4%で、2030年には587億9,000万米ドルに達する見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模は、2025年には497億4,000万米ドルに達し、年平均成長率3.40%で成長し、2030年には587億9,000万米ドルに達すると予測されています",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2014年に防衛装備移転三原則を策定し、従来の商業的な武器輸出を一律に抑制する方針を転換したが、後発国としての強みの欠如により、輸出可能な装備品の分野が限られてきたことも相まって、海外輸出を拡大できずにいた",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "結果、2024年1月時点で、ロシアが1日当たり1万発の砲弾を消費できるのに対し、ウクライナ側の消費量は1日当たり2,000発にとどまり、火力の不均衡が徐々に拡大しているとされる[7]",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、サプライチェーンの可視化やリスク低減、余剰生産能力への投資や防衛生産に関する国際的な生産拡大のための同盟国・パートナー国の参画促進を提言している[8]",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "#通商拡大法232条",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場、2034年までに451億米ドルに達する見通し | 2.43%の堅調な年平均成長率（CAGR）を記録 | NEWSCAST",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場、2034年までに451億米ドルに達する見通し | 2.43%の堅調な年平均成長率（CAGR）を記録",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは、同市場が2034年までに米ドル451億に到達し、2026年から2034年にかけてCAGR 2.43%で成長すると予測しています",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "今後、市場規模は2034年までに451億米ドルに達すると予測されており、2026年から2034年にかけて年平均成長率（CAGR）は2.43%となる見込みだ",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、防衛輸出政策の自由化に沿って、米国、英国、オーストラリア、韓国などの同盟国との間で新たな国際防衛共同開発・共同生産協定を推進し、先進戦闘機、ミサイルシステム、C4ISR技術開発プログラムなど、国内防衛産業基盤の能力を拡大した",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "自律型防衛システムの開発、C4ISR能力の近代化、サイバーおよび宇宙領域の防衛インフラ、国内防衛産業の拡大、長距離精密射撃の調達、海軍艦隊の強化プログラムへの継続的な投資は、予測期間を通じて日本の防衛市場を再構築し続けるだろう",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "The global defense equipment market size was valued at USD 563.72 billion in 2025 and is projected to grow from USD 588.52 billion in 2026 to USD 830.55 billion by 2034, registering a CAGR of 4.4% during the forecast period (2026–2034). North America dominated the defense equipment market with a share of 38.4% in 2025.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The unmanned vehicles segment is expected to grow at a CAGR of 8.2% during the forecast period, driven by the adoption of unmanned platforms for surveillance, reconnaissance, and mission support.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The research and development initiatives segment is likely to grow at a CAGR of 7.4% during the forecast period, fueled by investments in advanced defense technologies, next-generation equipment, and improvements in military capabilities.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific defense equipment market is expected to grow at a CAGR of 7.1% during the forecast period, showcasing the fastest-growing regional market.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Europe defense equipment market is expected to grow at a CAGR of 5.2% during the forecast period.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The defense equipment market size is valued at USD 588.52 Billion in 2026 and is projected to reach USD 830.55 Billion by 2034, at a CAGR of 4.4% during the forecast period 2026–2034.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The defense equipment market is projected to grow at a CAGR of 4.4% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. defense equipment market size stood at USD 310 billion in 2024, and it is expected to grow at a CAGR of 4.5% during 2025–2032, to reach USD 435.8 billion by 2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global defense market reached a value of nearly $473.47 billion in 2024, having grown at a compound annual growth rate (CAGR) of 5.54% since 2019. The market is expected to grow from $473.47 billion in 2024 to $682.1 billion in 2029 at a rate of 7.57%. The market is then expected to grow at a CAGR of 8.19% from 2029 and reach $1.01 trillion in 2034.",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "pass": 3
+   },
+   {
+    "quote": "The defense market is segmented by platform into airborne, land and naval. The airborne market was the largest segment of the defense market segmented by platform, accounting for 67.87% or $321.35 billion of the total in 2024. Going forward, the naval segment is expected to be the fastest growing segment in the defense market segmented by platform, at a CAGR of 8.31% during 2024-2029.",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Market was valued at USD 566.14 billion in the year 2025. The size of this market is expected to increase to USD 874 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.4%.",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2024-2025(%)",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.6%",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "防衛装備品市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場の規模、シェア、トレンド分析レポート：製品タイプ別（高機動車両、小火器・ライフル、重火器・ミサイル、無人車両、通信システム、海軍艦隊、航空機・航空エンジン、潜水艦、訓練・シミュレーション）、用途別（空軍、海軍、陸軍、研究開発イニシアチブ）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア38.4%で防衛装備品市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年現在、イスラエルには150以上の防衛関連企業が活動しており、世界の武器輸出の2.3%を占めている",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "砲弾市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "銃器および付属品市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "係留式飛行船システム市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "先進ミサイル防衛システム市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "地上配備型スマート兵器市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本防衛市場では、防空プラットフォームが依然として最大のセグメントを占め、2025年には防衛費総額の約34％を占める見込みです",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "防衛市場の構成要素別では、ハードウェアが依然として最大のシェアを占め、2025年には市場総額の約42％に相当すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "技術別では、レーダー、センシング、通信技術が防衛投資の中心であり、2025年の技術支出総額の約22％を占める見込みです",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "通信・ネットワーキング技術も市場の約21％を占め、陸・海・空・宇宙・サイバーの多領域作戦における安全かつ耐障害性の高い接続性を確保するために不可欠です",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "情報、監視、偵察（ISR）は、日本防衛市場において戦略的に最も重要な用途分野であり、2025年には市場総額の約20％を占める見込みです",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "航空自衛隊（JASDF）は、日本防衛市場の最大のエンドユーザーであり、2025年には市場全体の約28％を占めると見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊（JMSDF）は市場の約26％を占め、艦艇・潜水艦・監視システムへの投資を通じ、海上安全保障能力の向上を戦略的に推進しています",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "は防衛関係費全体の半分強を占め 、更に調達先別にみると、国内調達が全体の 9 割弱を占める",
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "上位5社で全体の44.7%を占めています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 大企業は、防需率（全社の売上高に占める防衛事業の売上高の割合）が低く、10%未満を中心に分布",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 日本の防衛市場規模/シェア分析/成長動向（2025～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の防衛市場規模/シェア分析/成長動向（2025～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のプライベートバンキング市場規模/シェア分析/成長動向（2025～2030年）",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "食品甘味料市場規模・シェア分析：成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "拡張現実および複合現実市場の規模とシェア分析 – 成長動向と予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "エアピュリファイングスプレー市場の規模、シェアおよびトレンド分析レポート：タイプ別（アロマ、ノンアロマ）、エンドユーザー別（法人、家庭）、販売チャネル別（スーパーマーケット/ハイパーマーケット、リテール薬局、オンライン）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "咳治療薬市場の規模、シェアおよびトレンド分析レポート：製品タイプ別（去痰薬、抗ヒスタミン薬、気管支拡張薬、去鼻充血薬、抗生物質）、年齢層別（成人、小児）、流通チャネル別（小売薬局、病院薬局、オンライン薬局）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場の規模、シェアおよびトレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律、完全自律）、ペイロード容量別（2KG以下、2KGから19KG、20KGから200KG、200KG以上）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光）、最終用途別（消費者、商業、軍事・防衛、政府・法執行機関、その他）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）の予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "上位6か国を見ると、アメリカが圧倒的に多く、次いでドイツ、イタリア、フランス、それに続く形でロシアと中国が入ってきます",
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "pass": 3
+   },
+   {
+    "quote": "図表7は、防衛売り上げ上位100社の分布・売上額（2024年）の一覧です",
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに、イタリアやイギリスは陸海空に関係なく大企業1社がほぼ独占していますが、中国は航空工業グループ、兵器工業グループ、ロシアは統一造船会社とあるように、両国とも、航空装備、陸上装備、海上装備といった分野ごとに1社独占になっているのが特徴的です",
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックホルム国際平和研究所（SIPRI）によれば、2022年の防衛費上位10か国は、上から米、中、ロ、印、サウジ、英、独、仏、韓、日であり、2018-2022年の5年間における武器輸出規模上位10か国は、米、ロ、仏、中、独、伊、英、スペイン、韓、イスラエルの順だった[1]",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "防衛費上位10か国のうち、武器輸出規模上位10か国に入っていないのは、国内防衛産業基盤の弱いインド及びサウジと、武器輸出を抑制してきた日本のみである",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の上位100か国の武器輸出規模は、過去20年で1.8倍となったが、米国のそれは、この間で3倍となり、世界全体の40％を占めるに至っている[2]",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "中国が大きな供給割合を占める重要鉱物の中には、レアアースなど、防衛装備品の製造に不可欠のものもあり、抑止を企図する相手方にサプライチェーンのボトルネックを握られている状況は、決して戦略的に好ましいものとは言えない[12]",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループが発表した最新レポート「日本の防衛市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本の防衛市場規模は2025年に364億米ドルに達した",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "The global defense equipment market size was valued at USD 563.72 billion in 2025 and is projected to grow from USD 588.52 billion in 2026 to USD 830.55 billion by 2034, registering a CAGR of 4.4% during the forecast period (2026–2034). North America dominated the defense equipment market with a share of 38.4% in 2025.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America Market Share (2025)",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share in 2025",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aircraft and aero engines segment dominated the product type segment with a market share of 19.7% in 2025, owing to the importance of military aircraft and propulsion systems in combat operations, air defense, and strategic mobility.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The air force segment dominated the end usage segment with a market share of 34.7% in 2025, supported by requirements for aircraft, air defense capabilities, advanced weapons, and military aviation systems.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America defense equipment market accounted for the largest regional share of 38.4% in 2025.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the defense equipment market in 2025?",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market with a share of 38.4% in 2025.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The manual bifurcation held the larger market share, of 80%, in 2024 due to the long-standing involvement of traditional defense systems, such as fighter jets, warships, and tanks, in wars and counter-terrorist operation.",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Defense Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Land Based Defense Equipment Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "1.4. Top Three Trends Shaping the Market",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Land Based Defense Equipment Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Type - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Platform - Market share 2024-2029 (%)",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業界の主要企業は、次世代兵器システムの開発に向けて研究開発に多額の投資を行っており、これらのシステムは世界中の政府機関や軍事組織から高い需要があります",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場で事業を展開する主要企業には、設計・製造からライフサイクルサポート、近代化プログラムまでエンドツーエンドのソリューションを提供するグローバル防衛請負業者や造船会社が含まれます",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、推進システムの技術革新のための研究開発に巨額の投資を行うことで、航空機の性能向上を図っています",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "この政策的追い風は、新規参入企業や既存の防衛サプライヤーにとって、大規模な市場機会を創出します",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki Heavy Industries, Ltd., Mitsubishi Heavy Industries, Ltd., ShinMaywa Industries, Ltd., The Japan Steel Works, Ltd.が日本防衛市場で事業を展開している主要企業です",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、このレポートでは、主要企業すべての詳細なプロファイルも掲載しています",
+    "url": "https://newscast.jp/news/1461688",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is severely consolidated as a few major players hold large shares.",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "70. Defense Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Defense Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Profiles",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "pass": 3
+   },
+   {
+    "quote": "70. Land Based Defense Equipment Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Land Based Defense Equipment Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the prominent companies operating in the Land Based Defense Equipment market include Lockheed Martin, BAE Systems, Northrop Grumman, Raytheon Technologies, General Dynamics, Rheinmetall AG, and Thales Group. These companies engage in the research, development, manufacturing, and servicing of the aforementioned equipment and are key players in supporting defense forces worldwide.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Market Competitive Landscape Analysis",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "initiatives balance large-scale defense programs with specialized solutions, maintaining a dynamic competitive landscape.",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in Defense Market include:",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "pass": 3
+   },
+   {
+    "quote": "70. Land Based Defense Equipment Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Land Based Defense Equipment Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the prominent companies operating in the Land Based Defense Equipment market include Lockheed Martin, BAE Systems, Northrop Grumman, Raytheon Technologies, General Dynamics, Rheinmetall AG, and Thales Group. These companies engage in the research, development, manufacturing, and servicing of the aforementioned equipment and are key players in supporting defense forces worldwide.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies & Market Insights",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Thorough analysis of the market's competitive landscape and detailed information about companies",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "13 Competitive Landscape",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "13.2 Competitive Landscape",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14.1 Companies profiled",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report in US?",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "70. Land Based Defense Equipment Market Competitive Landscape and Company Profiles",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   },
+   {
+    "quote": "70.1. Land Based Defense Equipment Market Competitive Landscape and Market Share 2024",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   },
+   {
+    "quote": "The report covers market characteristics, size and growth, segmentation, regional and country breakdowns, total addressable market (TAM), market attractiveness score (MAS), competitive landscape, market shares, company scoring matrix, trends and strategies for this market. It traces the market’s historic and forecast market growth by geography.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape chapter gives a description of the competitive nature of the market, market shares, and a description of the leading companies. Key financial deals which have shaped the market in recent years are identified.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the prominent companies operating in the Land Based Defense Equipment market include Lockheed Martin, BAE Systems, Northrop Grumman, Raytheon Technologies, General Dynamics, Rheinmetall AG, and Thales Group. These companies engage in the research, development, manufacturing, and servicing of the aforementioned equipment and are key players in supporting defense forces worldwide.",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） — 防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛装備品市場 の規模、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の規模、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Equipment Market Size , Share, Growth, Forecast, 2034 — Defense Equipment Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Defense Equipment Market Outlook & Forecast to, 2032 — U.S. Defense Equipment Market Outlook & Forecast to, 2032 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Equipment Market Size , Share, Growth , Forecast, 2034 — Defense Equipment Market Size , Share, Growth , Forecast, 2034 Straits Research https://straitsresearch.com > report > d...",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Land based Defense Equipment Market Size & Forecast to 2030 — Land based Defense Equipment Market Size & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Equipment Market Size, Share, Growth, Forecast, 2034 — Defense Equipment Market Size, Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Land based Defense Equipment Market Size & Forecast to 2030 — Land based Defense Equipment Market Size & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Equipment Market Size, Share , Growth, Forecast, 2034 — Defense Equipment Market Size, Share , Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "防衛費全体の予算の動向を鑑みると、2023年以降の防衛装備品の調達額が、大幅に上昇することが予想されます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "pass": 3
+   },
+   {
+    "quote": "投資先を決定する上での柱の一つとするVC4社を招聘し、当該4社からスタートアップ企業の選定時の着眼点や投資等の基準のほか、",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The research and development initiatives segment is likely to grow at a CAGR of 7.4% during the forecast period, fueled by investments in advanced defense technologies, next-generation equipment, and improvements in military capabilities.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Department of Defense's FY 2026 budget request allocates substantial funding to strategic weapons and major platforms, including USD 11.48 billion for Columbia-class submarines and USD 10.293 billion for the B-21 bomber program. These planned expenditures could support defense equipment procurement, advanced manufacturing, and modernization across the domestic defense supply chain.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.K. government's defence investment Plan is backed by GBP 298 billion in investment over four years, with priorities including military readiness, equipment modernization, domestic industry, and european security. This planned investment could support procurement contracts, equipment development, and manufacturing opportunities for british defence suppliers.",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "69. Defense Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "pass": 3
+   },
+   {
+    "quote": "69. Land Based Defense Equipment Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "pass": 3
+   },
+   {
+    "quote": "69. Land Based Defense Equipment Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "pass": 3
+   },
+   {
+    "quote": "Renewed strategic focus and targeted technology investments could be essential to maintaining a competitive edge in 2026",
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "pass": 3
+   },
+   {
+    "quote": "69. Land Based Defense Equipment Market Regulatory and Investment Landscape",
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.4",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです"
+   },
+   {
+    "value": "4.2",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています"
+   },
+   {
+    "value": "4.8",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）4.8%を示すと予想されています"
+   },
+   {
+    "value": "5.2",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "日本防衛市場予測2035：CAGR 5.2％で持続成長、2035年に594億8000万米ドル規模へ拡大―防衛装備近代化、AI・サイバー防衛、無人システム、防衛産業イノベーションが市場成長を牽引 | Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社のプレスリリース"
+   },
+   {
+    "value": "3.6",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "ただし、この分野は成熟段階にあり、予測期間中のCAGRは約3.6％と比較的緩やかな成長が見込まれます"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "一方、ソフトウェアおよびデジタルシステムは急成長しており、2035年までにCAGR約7.8％の成長が予測されています"
+   },
+   {
+    "value": "5.05",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "日本産業用除湿機市場は2035年に35億米ドル規模へ拡大｜CAGR 5.05％、省エネ型除湿技術・スマート湿度制御・産業施設の品質管理強化が新たな成長機会を創出"
+   },
+   {
+    "value": "4.06",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "日本金属粉末市場、2035年に7億2,320万米ドルへ拡大｜CAGR 4.06％、自動車・航空宇宙・積層造形向け高性能金属材料の需要拡大が市場成長を促進"
+   },
+   {
+    "value": "19.7",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "固定翼VTOL UAV市場は2035年に71億6,000万米ドルへ｜CAGR 19.7％で成長、滑走路不要の運用性能・長時間飛行・自律航行技術が軍事偵察、国境監視、商用ドローン市場の成長機会を創出"
+   },
+   {
+    "value": "20.46",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "リチウムイオン電池リサイクル市場、2035年に713億9000万米ドル規模へ拡大｜CAGR 20.46％、EV普及と使用済み電池の増加が資源循環・レアメタル回収ビジネスを加速"
+   },
+   {
+    "value": "3.40",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "quote": "全体として、日本の防衛市場は2025年に497.4億米ドルに達し、年平均成長率は3.40%と見込まれています"
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "quote": "日本の防衛市場規模は2025年に497億4,000万米ドルと推定され、予測期間中（2025-2030年）の年平均成長率は3.4%で、2030年には587億9,000万米ドルに達する見込みです"
+   },
+   {
+    "value": "2.43",
+    "url": "https://newscast.jp/news/1461688",
+    "quote": "今後、IMARC Groupは、同市場が2034年までに米ドル451億に到達し、2026年から2034年にかけてCAGR 2.43%で成長すると予測しています"
+   },
+   {
+    "value": "4.4",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The global defense equipment market size was valued at USD 563.72 billion in 2025 and is projected to grow from USD 588.52 billion in 2026 to USD 830.55 billion by 2034, registering a CAGR of 4.4% during the forecast period (2026–2034). North America dominated the defense equipment market with a sha"
+   },
+   {
+    "value": "8.2",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The unmanned vehicles segment is expected to grow at a CAGR of 8.2% during the forecast period, driven by the adoption of unmanned platforms for surveillance, reconnaissance, and mission support."
+   },
+   {
+    "value": "7.4",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The research and development initiatives segment is likely to grow at a CAGR of 7.4% during the forecast period, fueled by investments in advanced defense technologies, next-generation equipment, and improvements in military capabilities."
+   },
+   {
+    "value": "7.1",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The Asia Pacific defense equipment market is expected to grow at a CAGR of 7.1% during the forecast period, showcasing the fastest-growing regional market."
+   },
+   {
+    "value": "5.2",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The Europe defense equipment market is expected to grow at a CAGR of 5.2% during the forecast period."
+   },
+   {
+    "value": "4.5",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "quote": "The U.S. defense equipment market size stood at USD 310 billion in 2024, and it is expected to grow at a CAGR of 4.5% during 2025–2032, to reach USD 435.8 billion by 2032."
+   },
+   {
+    "value": "5.54",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "quote": "The global defense market reached a value of nearly $473.47 billion in 2024, having grown at a compound annual growth rate (CAGR) of 5.54% since 2019. The market is expected to grow from $473.47 billion in 2024 to $682.1 billion in 2029 at a rate of 7.57%. The market is then expected to grow at a CA"
+   },
+   {
+    "value": "8.19",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "quote": "The global defense market reached a value of nearly $473.47 billion in 2024, having grown at a compound annual growth rate (CAGR) of 5.54% since 2019. The market is expected to grow from $473.47 billion in 2024 to $682.1 billion in 2029 at a rate of 7.57%. The market is then expected to grow at a CA"
+   },
+   {
+    "value": "8.31",
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "quote": "The defense market is segmented by platform into airborne, land and naval. The airborne market was the largest segment of the defense market segmented by platform, accounting for 67.87% or $321.35 billion of the total in 2024. Going forward, the naval segment is expected to be the fastest growing se"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.reanin.com/reports/defense-market",
+    "quote": "Defense Market was valued at USD 566.14 billion in the year 2025. The size of this market is expected to increase to USD 874 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.4%."
+   },
+   {
+    "value": "4.6",
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "quote": "CAGR of 4.6%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "38.4",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "北米は、2025年の市場シェア38.4%で防衛装備品市場を牽引しました"
+   },
+   {
+    "value": "4.2",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています"
+   },
+   {
+    "value": "2.3",
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "quote": "2023年現在、イスラエルには150以上の防衛関連企業が活動しており、世界の武器輸出の2.3%を占めている"
+   },
+   {
+    "value": "34",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "日本防衛市場では、防空プラットフォームが依然として最大のセグメントを占め、2025年には防衛費総額の約34％を占める見込みです"
+   },
+   {
+    "value": "42",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "防衛市場の構成要素別では、ハードウェアが依然として最大のシェアを占め、2025年には市場総額の約42％に相当すると予測されています"
+   },
+   {
+    "value": "22",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "技術別では、レーダー、センシング、通信技術が防衛投資の中心であり、2025年の技術支出総額の約22％を占める見込みです"
+   },
+   {
+    "value": "21",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "通信・ネットワーキング技術も市場の約21％を占め、陸・海・空・宇宙・サイバーの多領域作戦における安全かつ耐障害性の高い接続性を確保するために不可欠です"
+   },
+   {
+    "value": "20",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "情報、監視、偵察（ISR）は、日本防衛市場において戦略的に最も重要な用途分野であり、2025年には市場総額の約20％を占める見込みです"
+   },
+   {
+    "value": "28",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "航空自衛隊（JASDF）は、日本防衛市場の最大のエンドユーザーであり、2025年には市場全体の約28％を占めると見込まれています"
+   },
+   {
+    "value": "26",
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "quote": "海上自衛隊（JMSDF）は市場の約26％を占め、艦艇・潜水艦・監視システムへの投資を通じ、海上安全保障能力の向上を戦略的に推進しています"
+   },
+   {
+    "value": "21.2",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます"
+   },
+   {
+    "value": "4.4",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "quote": "2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます"
+   },
+   {
+    "value": "44.7",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "quote": "上位5社で全体の44.7%を占めています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "quote": "▸ 大企業は、防需率（全社の売上高に占める防衛事業の売上高の割合）が低く、10%未満を中心に分布"
+   },
+   {
+    "value": "40",
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "quote": "世界の上位100か国の武器輸出規模は、過去20年で1.8倍となったが、米国のそれは、この間で3倍となり、世界全体の40％を占めるに至っている[2]"
+   },
+   {
+    "value": "4.4",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The global defense equipment market size was valued at USD 563.72 billion in 2025 and is projected to grow from USD 588.52 billion in 2026 to USD 830.55 billion by 2034, registering a CAGR of 4.4% during the forecast period (2026–2034). North America dominated the defense equipment market with a sha"
+   },
+   {
+    "value": "38.4",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The global defense equipment market size was valued at USD 563.72 billion in 2025 and is projected to grow from USD 588.52 billion in 2026 to USD 830.55 billion by 2034, registering a CAGR of 4.4% during the forecast period (2026–2034). North America dominated the defense equipment market with a sha"
+   },
+   {
+    "value": "19.7",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The aircraft and aero engines segment dominated the product type segment with a market share of 19.7% in 2025, owing to the importance of military aircraft and propulsion systems in combat operations, air defense, and strategic mobility."
+   },
+   {
+    "value": "34.7",
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "quote": "The air force segment dominated the end usage segment with a market share of 34.7% in 2025, supported by requirements for aircraft, air defense capabilities, advanced weapons, and military aviation systems."
+   },
+   {
+    "value": "80",
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "quote": "The manual bifurcation held the larger market share, of 80%, in 2024 due to the long-standing involvement of traditional defense systems, such as fighter jets, warships, and tanks, in wars and counter-terrorist operation."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/defence-market-109136",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000356483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E8%A1%9B%E7%89%A9%E6%B5%81%E5%B8%82%E5%A0%B4-114118",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.buffett-code.com/industries/50",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://deallab.info/defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://president.jp/articles/-/106013?page=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/japan-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/1461688",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/defence-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-defense-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/category/aerospace-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/defence-market/325617/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/air-defense-systems-market-113430",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/defence-150.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/military-defense-ground-support-equipment-market-13998",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.defense.gov/2022/feb/15/2002939087/-1/-1/1/state-of-competition-within-the-defense-industrial-base.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.reanin.com/reports/defense-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/aerospace%20and%20defense/pdfs/us%20defense%20companies.ashx",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://people.defensenews.com/top-100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sipri.org/visualizations/2026/sipri-top-100-ranking-2024",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "防衛装備品 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/defence-market-109136",
+    "https://www.dreamnews.jp/press/0000356483",
+    "https://jp.linkedin.com/pulse/%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E6%B5%B7%E4%B8%8A%E9%98%B2%E8%A1%9B%E8%A3%85%E5%82%99%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB71%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E5%88%B6%E7%B4%84%E5%B8%82%E5%A0%B4%E5%8B%95%E5%90%91-7513208032315502592-0zvae",
+    "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "https://www.fortunebusinessinsights.com/jp/%E9%98%B2%E8%A1%9B%E7%89%A9%E6%B5%81%E5%B8%82%E5%A0%B4-114118",
+    "https://www.reportocean.co.jp/industry-reports/japan-defense-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/japan-defense-market",
+    "https://www.sphericalinsights.com/jp/reports/japan-defence-market",
+    "https://www.gii.co.jp/report/moi2100534-japan-defense-market-share-analysis-industry.html"
+   ]
+  },
+  {
+   "query": "防衛装備品 市場 シェア 上位 企業",
+   "results": [
+    "https://www.youtube.com/watch?v=KibYu0r0YPo",
+    "https://www.ohmae.ac.jp/mbaswitch/domestic-defense/",
+    "https://www.buffett-code.com/industries/50",
+    "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "https://deallab.info/defense/",
+    "https://president.jp/articles/-/106013?page=1",
+    "https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf",
+    "https://orgallo.co.jp/blog/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%BB%8D%E4%BA%8B%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9.html",
+    "https://kabu.com/kabuyomu/money/1017.html",
+    "https://www.gii.co.jp/report/moi2100534-japan-defense-market-share-analysis-industry.html"
+   ]
+  },
+  {
+   "query": "防衛装備品 市場 前年比 2025",
+   "results": [
+    "https://straitsresearch.com/jp/report/defence-equipment-market",
+    "https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf",
+    "https://www.marketresearch.co.jp/insights/defense-market-mordor/",
+    "https://www.jsri.or.jp/publication/periodical/review/6605_02/",
+    "https://instituteofgeoeconomics.org/research/2024030156131/",
+    "https://www.mordorintelligence.com/ja/industry-reports/japan-defense-market",
+    "https://newscast.jp/news/1461688",
+    "https://www.keidanren.or.jp/policy/2025/047_honbun.pdf",
+    "https://rssystem.go.jp/project/114766ea-3536-4c45-9f01-747b4bba5968",
+    "https://accelainc.com/archives/10309"
+   ]
+  },
+  {
+   "query": "defense equipment market size CAGR 2025",
+   "results": [
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.mordorintelligence.com/industry-reports/united-states-defense-market",
+    "https://www.sphericalinsights.com/reports/category/aerospace-defense",
+    "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ",
+    "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "https://www.futuremarketinsights.com/reports/military-test-equipment-market",
+    "https://www.marketresearchfuture.com/reports/military-defense-ground-support-equipment-market-13998",
+    "https://www.globalgrowthinsights.com/market-reports/defence-market-109331"
+   ]
+  },
+  {
+   "query": "defense equipment market share top players percent",
+   "results": [
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.mordorintelligence.com/industry-reports/united-states-defense-market",
+    "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "https://finance.yahoo.com/news/1-trillion-defense-global-market-094800586.html",
+    "https://www.maximizemarketresearch.com/market-report/defence-market/325617/",
+    "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr",
+    "https://www.fortunebusinessinsights.com/air-defense-systems-market-113430",
+    "https://www.marketsandmarkets.com/defence-150.html",
+    "https://web.stanford.edu/class/e297a/U.S.%20Defense%20Industry%20and%20Arms%20Sales.htm",
+    "https://sterlingcharts.com/sectors/defense"
+   ]
+  },
+  {
+   "query": "defense equipment market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.marketresearchfuture.com/reports/military-defense-ground-support-equipment-market-13998",
+    "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "https://media.defense.gov/2022/feb/15/2002939087/-1/-1/1/state-of-competition-within-the-defense-industrial-base.pdf",
+    "https://www.reanin.com/reports/defense-market",
+    "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX",
+    "https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/aerospace%20and%20defense/pdfs/us%20defense%20companies.ashx",
+    "https://institutdelors.eu/en/publications/why-consolidate-the-european-defence-industry/",
+    "https://assets.contentstack.io/v3/assets/blt9415ea4cc4157833/bltea6e9e27ea0cad7f/688a3b23c4e8413bfd57954c/Global_Defense_Sector_Landscape_-_Update.pdf?utm_source=theideafarm.com&utm_medium=referral&utm_campaign=american-unexceptionalism",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "defense equipment market key companies share 2025",
+   "results": [
+    "https://straitsresearch.com/report/defence-equipment-market",
+    "https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market",
+    "https://people.defensenews.com/top-100/",
+    "https://www.mordorintelligence.com/industry-reports/united-states-defense-market",
+    "https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html",
+    "https://www.technavio.com/report/us-defense-market-industry-analysis",
+    "https://www.facebook.com/sri.org.pk/posts/market-capitalisation-of-leading-global-defence-companies-in-usd-billions-as-of-/1245809404267981/",
+    "https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn",
+    "https://www.sipri.org/visualizations/2026/sipri-top-100-ranking-2024",
+    "https://www.kenresearch.com/united-states-defense-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

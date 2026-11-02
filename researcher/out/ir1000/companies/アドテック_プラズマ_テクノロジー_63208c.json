@@ -1,0 +1,1818 @@
+{
+ "name": "アドテック　プラズマ　テクノロジー",
+ "aliases": [],
+ "context": "証券コード6668／電気機器／スタンダード（内国株式）／2025.08期 売上高12,680百万円 営業利益率38.0%",
+ "researched_at": "2026-11-02T14:35:44.343058+00:00",
+ "official_url": "https://www.adtec-rf.co.jp/",
+ "identified_by": "search:yahoo_jp:アドテック プラズマ テクノロジー",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1985年1月(昭和60年1月)",
+    "url": "https://www.adtec-rf.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "ニッチ市場での挑戦と確立",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "液晶基板・半導体製造工程において使用される製造装置に搭載するプラズマ用高周波電源、マッチングユニット及び計測器等の設計、製造、販売及び技術サービスの提供",
+    "url": "https://www.adtec-rf.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "半導体製造の精密加工を支える「プラズマ」の黒子",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員満足度と採用戦略",
+    "value": "未来を担う人材の確保",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "11,298 12,680",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "営業利益 売上高 営業利益",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "10,539 758 11,298 － 11,298",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "36 14 51 △51 －",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "11,328 1,352 12,680 － 12,680",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "9 54 63 △63 －",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "10,539 758 11,298",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "11,328 1,352 12,680",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "当社は、プラズマの特性を応用し幅広い分野で活用できる製品の開発を目指しています",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、プラズマ技術を応用した新製品の開発にも取り組んでおります",
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、「信頼ある製品をつくるために重要な工程は社内で管理する」",
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、当社独自の設計技術、プロセス技術、生産技術により実現した抜群の耐久力やコンパクトで高品質な製品を世界中のお客さまにご提供するため、幅広い範囲の周波数に対応し、用途に応じたパワー供給の製品を豊富に取り揃えております",
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに培ったものづくりに対する知識と経験を最⼤限に活かし、「コストダウン」「納期短縮」「新技術提供」など、ご相談に対してご要望以上のサービス・提案⼒でお応えいたします",
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、確かな技術力で、世界中のお客さまに更なる付加価値を備えた製品をお届けすることを目標としています",
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "液晶基板・半導体製造工程において使用される製造装置に搭載するプラズマ用高周波電源、マッチングユニット及び計測器等の設計、製造、販売及び技術サービスの提供",
+    "url": "https://www.adtec-rf.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "EDINET（金融商品取引法に基づく有価証券報告書等の開示書類に関する電子開示システム／金融庁運営）よりご覧ください",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は本ウェブサイトで提供するサービスにより直接または間接的損害が生じても如何なる責任も負いません",
+    "url": "https://www.adtec-rf.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "また、国内外の展示会における新製品のPR等を通じて提案営業活動を強化した結果、当社製品に対する顧客の",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関心が高まり、新製品の評価案件の獲得につながりました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源、研究機関向け製品並びに保守",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス等の売上は堅調に推移いたしましたが、前連結会計年度に計上した大型案件の売上がなかったことか",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "における新製品のPRを通じて、提案営業活動を推進するとともに、顧客ニーズの把握に努め、新規案件の獲得及び",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループ全体といたしましては、顧客の新製品開発ニーズに対応するため、グループ各拠点を活用",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内部留保資金につきましては、今後の財務体質の強化及び市場ニーズに応える製品開発等、積極的に投資し、業",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 930 1,018",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 主要製品",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、製品の販売、生産体制やサービスの類似性に基づき、事業の種類別に区分した単位に",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、国内外の展示会における新製品PR等を通じた提案営業活動の強化により、当社製品への",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の関心が高まり、新製品の評価に繋がる案件を獲得いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源、研究機関向け製品並びに保守",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス等の売上は堅調に推移いたしましたが、前第３四半期連結累計期間にあった大型案件の売上がなかった",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 930 953",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような状況の中、国内外の展示会における新製品PR等を通じた提案営業活動の強化により、当社製品への顧",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客の関心が高まり、新製品の評価に繋がる案件を獲得いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ン引上げ装置用電源、研究機関向け製品並びに保守サービス等の売上が堅調に推移いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、現金及び預金の減少（213百万円）、製品の増加（136百万円）、仕掛品の増加（268百万円）、原材",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 930 1,067",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源及び保守サービス等の売上が堅",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、現金及び預金の減少（209百万円）、製品の増加（113百万円）、仕掛品の増加（259百万円）、原材",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 930 1,043",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、医療装置向け電源、官公庁向け製品の出荷、シリコンウエ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ引上用装置向け電源及び保守サービス等の売上が堅調に推移するとともに、新たに医療装置向け電源の受注を",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業活動を展開し、新製品の開発に取り組むとともに顧客においての製品評価を進めてまいります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、製品供給",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "能力及び製品品質の向上に努めてまいります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループ全体といたしまして、顧客からの新製品開発ニーズに対応するべく、グループ拠点の活用と",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "内部留保資金につきましては、今後の財務体質の強化及び市場ニーズに応える製品開発等、積極的に投資し、業",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 996 930",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 主要製品",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、製品の販売、生産体制やサービスの類似性に基づき、事業の種類別に区分した単位に",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、医療装置向け電源、官公庁向け製品の出荷、シリコンウエ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ引上用装置向け電源及び保守サービス等の売上が堅調に推移するとともに、新たに医療装置向け電源の受注を",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 996 985",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、医療装置向け電源、官公庁向け製品の出荷、シリコンウエハ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引上用装置向け電源及び保守サービス等の売上が堅調に推移いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 996 1,028",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のの、官公庁向け製品の出荷、シリコンウエハ引上用装置向け電源及び保守サービス等の売上が堅調に推移いた",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、現金及び預金の増加（679百万円）、製品の増加（193百万円）、仕掛品の減少（127百万円）、原材",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品 996 1,189",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらの根幹を支える半導体の製造プロセスにおいて、同社の製品は心臓部とも言える重要な役割を担っています",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "【技術・製品・サービスの深堀り】見えざる価値の源泉",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、故障率を劇的に低減させた画期的な製品を生み出し、日米で特許を取得するに至ります",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、優れた製品を開発しただけではビジネスは成功しません",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTの主力事業は、**「プラズマ用高周波電源」",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "：このプラズマを安定的かつ高精度に発生させるための装置が、APTの主力製品です",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "半導体の性能を左右する重要な工程を担うため、製品には極めて高い信頼性と耐久性が要求されます",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年８月期通期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期通期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年1月(昭和60年1月)",
+    "url": "https://www.adtec-rf.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 – 株式会社アドテックプラズマテクノロジー",
+    "url": "https://www.adtec-rf.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期決算短信〔日本基準〕（連結）[265KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算短信〔日本基準〕（連結）[198KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第2四半期決算短信〔日本基準〕（連結）[200KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第1四半期決算短信〔日本基準〕（連結）[183KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期決算短信〔日本基準〕（連結）[271KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期第3四半期決算短信〔日本基準〕（連結）[200KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期第2四半期決算短信〔日本基準〕（連結）[202KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期第1四半期決算短信〔日本基準〕（連結）[193KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月期決算短信〔日本基準〕（連結）[270KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月期第3四半期決算短信〔日本基準〕（連結）[197KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月期第2四半期決算短信〔日本基準〕（連結）[204KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月期第1四半期決算短信〔日本基準〕（連結）[188KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月期決算短信〔日本基準〕（連結）[266KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月期第3四半期決算短信〔日本基準〕（連結）[192KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月期第2四半期決算短信〔日本基準〕（連結）[205KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月期第1四半期決算短信〔日本基準〕（連結）[189KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月期決算短信〔日本基準〕（連結）[267KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月期第3四半期決算短信〔日本基準〕（連結）[297KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月期第2四半期決算短信〔日本基準〕（連結）[317KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月期第1四半期決算短信〔日本基準〕（連結）[283KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月期決算短信〔日本基準〕（連結）[365KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月期第3四半期決算短信〔日本基準〕（連結）[276KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月期第2四半期決算短信〔日本基準〕（連結）[200KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月期第1四半期決算短信〔日本基準〕（連結）[190KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年8月期決算短信〔日本基準〕（連結）[271KB]",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期通期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期第２四半期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第2四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第2四半期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期通期 決算説明会 – 株式会社アドテックプラズマテクノロジー",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3684/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期通期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3684/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3684/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ – 株式会社アドテックプラズマテクノロジー",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3689/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3689/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3689/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期通期 決算説明会",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3689/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について – 株式会社アドテックプラズマテクノロジー",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期の決算発表は、次のとおり行います",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ – 株式会社アドテックプラズマテクノロジー",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3636/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3636/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期通期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3636/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表について",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3640/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月期第3四半期決算発表に関するお知らせ",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3640/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "このような状況の中、顧客需要の拡大に対応するため、当社等の主たる生産拠点であるベトナム子会社におい",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、国内外の展示会における新製品のPR等を通じて提案営業活動を強化した結果、当社製品に対する顧客の",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客への売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "における新製品のPRを通じて、提案営業活動を推進するとともに、顧客ニーズの把握に努め、新規案件の獲得及び",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループ全体といたしましては、顧客の新製品開発ニーズに対応するため、グループ各拠点を活用",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,328 1,352 12,680 － 12,680",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 13,059 825 13,884 － 13,884",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,328 1,352 12,680",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の名称又は氏名 売上高 関連するセグメント名",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 13,059 825 13,884",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の関心が高まり、新製品の評価に繋がる案件を獲得いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 9,106 1,180 10,286 － 10,286",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 8,463 612 9,075 － 9,075",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 5,324 966 6,290 － 6,290",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 5,016 443 5,460 － 5,460",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,529 242 2,772 － 2,772",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,224 189 2,414 － 2,414",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "からの受注も海外顧客を中心として堅調に推移していたものの、米国が掲げる関税政策の影響等により、第３四",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客への売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業活動を展開し、新製品の開発に取り組むとともに顧客においての製品評価を進めてまいります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社グループ全体といたしまして、顧客からの新製品開発ニーズに対応するべく、グループ拠点の活用と",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 10,539 758 11,298 － 11,298",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,328 1,352 12,680 － 12,680",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 10,539 758 11,298",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の名称又は氏名 売上高 関連するセグメント名",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）売上高は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 11,328 1,352 12,680",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "からの受注も海外顧客を中心として堅調に推移していたものの、米国が掲げる関税政策の影響等により、顧客か",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループといたしましては、これらの国際間の動向を適切に把握するとともに、顧客との情報交換を行いな",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 7,490 616 8,107 － 8,107",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 9,106 1,180 10,286 － 10,286",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "らの受注も海外顧客を中心として堅調に推移したものの、国内顧客は依然として変化の兆しはありませんでした",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 4,465 319 4,784 － 4,784",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 5,324 966 6,290 － 6,290",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "からの受注も海外顧客を中心として堅調に推移したものの、国内顧客は依然として変化の兆しはありませんでし",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,291 112 2,404 － 2,404",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,529 242 2,772 － 2,772",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この品質への絶対的な自信が顧客の信頼を勝ち取り、徐々に国内外の半導体製造装置メーカーへと採用が拡大していきました",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、APTは半導体製造装置メーカーを顧客とする、",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "顧客である半導体製造装置メーカーにとって、装置に組み込む部品の故障は、自社製品全体の信頼失墜に繋がります",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTが提供する高い信頼性は、顧客にとって計り知れない価値を持っているのです",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTの製品は、顧客である装置メーカーの開発段階から深く関与し、装置の仕様に合わせてカスタマイズされることが少なくありません",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、装置メーカーや最終顧客である半導体メーカーは、実績のない新規参入メーカーの製品を安易に採用しません",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源、研究機関向け製品並びに保守",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 4 16",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源、研究機関向け製品並びに保守",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ン引上げ装置用電源、研究機関向け製品並びに保守サービス等の売上が堅調に推移いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、シリコン引上げ装置用電源及び保守サービス等の売上が堅",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ引上用装置向け電源及び保守サービス等の売上が堅調に推移するとともに、新たに医療装置向け電源の受注を",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 － 4",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ハ引上用装置向け電源及び保守サービス等の売上が堅調に推移するとともに、新たに医療装置向け電源の受注を",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引上用装置向け電源及び保守サービス等の売上が堅調に推移いたしました",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のの、官公庁向け製品の出荷、シリコンウエハ引上用装置向け電源及び保守サービス等の売上が堅調に推移いた",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品販売（フロー）と、それに付随する継続的な関係性（ストック）の両面から収益を生み出す構造",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "製品単価の上昇や、より付加価値の高い製品へのシフト",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "研究機関・大学関連事業（IDX）におきましては、医療装置向け電源、官公庁向け製品の出荷、シリコンウエハ引上用装置向け電源及び保守サービス等の売上が堅調に推移するとともに、新たに医療装置向け電源の受注を獲得いたしました",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 12",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客への売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．営業利益は、各セグメントの営業利益を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 主要製品",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務諸表が入手可能であ",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関連事業」の２つを報告セグメントとしております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,702 37 1,739 68 1,808",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 25,694 1,953 27,648 △429 27,219",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報及び収益の",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額68百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント資産の調整額△429百万円は、セグメント間取引消去等であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．セグメント負債については、経営資源の配分の決定及び業績を評価するための検討対象となっていな",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 2,438 46 2,485 77 2,562",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 27,942 1,994 29,937 △421 29,515",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額77百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．営業利益は、各セグメントの営業利益を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,613 36 1,649 54 1,704",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額54百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 1,306 58 1,364 59 1,424",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額59百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．営業利益は、各セグメントの営業利益を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 754 16 770 36 807",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額36百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 559 41 600 40 640",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額40百万円は、セグメント間取引消去であります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受注実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は、次のとおりであります",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．売上高は、各セグメントの外部顧客に対する売上高を表しております",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1株当たり当期純利益 潜在株式調整後1株当たり当期純利益 自己資本当期純利益率 総資産経常利益率 売上高営業利益率",
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このビジネスモデルの強みは、一度採用されると継続的な取引が見込める点にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "競合優位性：「壊れない」が築く参入障壁",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTの最大の強み、それは**「圧倒的な信頼性」**にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来培ってきた「壊れない電源」というブランドイメージは、極めて高い参入障壁を築いています",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "技術的な参入障壁",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "海外の大手競合が、幅広い事業領域と製品ラインナップで市場全体をカバーしようとするのに対し、APTはプラズマ用高周波電源という特定の領域に経営資源を集中させ、技術を極めることで競争優位を確立しています",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTの強みは、基礎技術の高さだけに留まりません",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "ポジティブ要素（強み・機会）",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "：「壊れない電源」として確立したブランドと、特許に裏打ちされた模倣困難な技術が、高い参入障壁を構築",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "アドテック プラズマ テクノロジーは、**「成長市場で独自の強みを発揮する、典型的なニッチトップ企業」**であると結論付けられます",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "この記事では、表面的な数字だけでは見えてこない同社の真の姿を、事業内容からビジネスモデル、技術的優位性、経営戦略、そして潜在的リスクに至るまで、あらゆる角度から徹底的に掘り下げていきます",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】なぜAPTは儲かるのか？",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：装置メーカーとの強固なリレーションシップ",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "このビジネスモデルの強みは、一度採用されると継続的な取引が見込める点にあります",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "このように、研究開発から製造、販売、サービスまでを一貫して自社グループで手掛けることで、高い品質と顧客満足度を維持し、強固なビジネスモデルを支えているのです",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "製造プロセスの心臓部を供給する重要なパートナー",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "強固なパートナーシップ",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "APTは、顧客の要求に応じて製品を最適化するカスタマイズ能力に長けており、開発パートナーとしての地位を確立しています",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "：直接販売と代理店経由の販売を組み合わせ、国内外の顧客へアプローチしています",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "価値を共創するパートナー",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【保存版】 アドテック プラズマ テクノロジー (6668)の徹底 ... — 【保存版】 アドテック プラズマ テクノロジー (6668)の徹底 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドテックプラズマテクノロジー — 株式会社 アドテックプラズマテクノロジー 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp",
+    "url": "https://www.adtec-rf.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドテックプラズマテクノロジー — 株式会社 アドテックプラズマテクノロジー crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/6668",
+    "pass": 3
+   },
+   {
+    "quote": "【 アドテックプラズマテクノロジー 】高周波電源で ... - YouTube — 【 アドテックプラズマテクノロジー 】高周波電源で ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ZX81ge4iNW4",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドテックプラズマテクノロジー | 中国地方の輝く企業 — 株式会社 アドテックプラズマテクノロジー | 中国地方の輝く企業 一般社団法人 中国経済連合会 https://chugokukeiren.jp > ... > 韓国 > ベトナム > アメリカ",
+    "url": "https://chugokukeiren.jp/info/2019/02/mfg/824/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 情報 - 株式会社アドテックプラズマテクノロジー — 決算 情報 - 株式会社アドテックプラズマテクノロジー 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp > information",
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 株式会社アドテックプラズマテクノロジー — IR情報 - 株式会社アドテックプラズマテクノロジー 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp > ...",
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドテックプラズマテクノロジー 決算説明資料 — 株式会社 アドテックプラズマテクノロジー 決算説明資料 EDINET DB https://edinetdb.jp > ... > IR資料",
+    "url": "https://edinetdb.jp/company/E02092/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "アドテックプラズマテクノロジー 【6668】のIR 資料 — アドテックプラズマテクノロジー 【6668】のIR 資料 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6668/library",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月期通期 決算説明 会 — 2025年8月期通期 決算説明 会 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp > ir-news",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3439/",
+    "pass": 3
+   },
+   {
+    "quote": "拠点/グループ会社 - 株式会社アドテックプラズマテクノロジー — 拠点/グループ会社 - 株式会社アドテックプラズマテクノロジー 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp > company > group",
+    "url": "https://www.adtec-rf.co.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "アドテック プラズマ テクノロジー 【6668】の 事業 内容 — アドテック プラズマ テクノロジー 【6668】の 事業 内容 キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6668/business",
+    "pass": 3
+   },
+   {
+    "quote": "アドテックプラズマテクノロジー コーポレートムービー — アドテックプラズマテクノロジー コーポレートムービー YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=i4hFCWwfE9E",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドテックプラズマテクノロジー - Go!ひろしま | 広島県 — 株式会社 アドテックプラズマテクノロジー - Go!ひろしま | 広島県 広島県公式ホームページ https://www.pref.hiroshima.lg.jp > go-data-00870",
+    "url": "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00870.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドテックプラズマテクノロジー の企業データ - 高専プラス — アドテックプラズマテクノロジー の企業データ - 高専プラス 高専プラス https://kosen-plus.com > company > info",
+    "url": "https://kosen-plus.com/company/244032a1-d113-4a16-9485-9524fa476a1d/info/",
+    "pass": 3
+   },
+   {
+    "quote": "アドテックプラズマテクノロジー 、 社長 に森下秀法氏 | 人物 ... — アドテックプラズマテクノロジー 、 社長 に森下秀法氏 | 人物 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/491929",
+    "pass": 3
+   },
+   {
+    "quote": "投資家情報メディアにIR インタビュー 掲載 — 投資家情報メディアにIR インタビュー 掲載 株式会社アドテックプラズマテクノロジー https://www.adtec-rf.co.jp > ir-news",
+    "url": "https://www.adtec-rf.co.jp/ir-news/3072/",
+    "pass": 3
+   },
+   {
+    "quote": "【6668】株式会社 アドテックプラズマテクノロジー 事業概要 ... — 【6668】株式会社 アドテックプラズマテクノロジー 事業概要 ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/287/",
+    "pass": 3
+   },
+   {
+    "quote": "アドテック プラズマ テクノロジー 【6668】の 社長 ・役員 — アドテック プラズマ テクノロジー 【6668】の 社長 ・役員 キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6668/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.adtec-rf.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir/stock-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/category/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir-news/3684/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir-news/3689/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir-news/3650/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir-news/3636/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/ir-news/3640/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/10/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/07/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/04/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2026/01/2026%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/10/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/07/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/04/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC2%E5%9B%9B%E5%8D%8A%E6%9C%9F%EF%BC%88%E4%B8%AD%E9%96%93%E6%9C%9F%EF%BC%89%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.adtec-rf.co.jp/wpcms/wp-content/uploads/2025/01/2025%E5%B9%B48%E6%9C%88%E6%9C%9F%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E6%B1%BA%E7%AE%97%E7%9F%AD%E4%BF%A1%E3%80%94%E6%97%A5%E6%9C%AC%E5%9F%BA%E6%BA%96%E3%80%95%EF%BC%88%E9%80%A3%E7%B5%90%EF%BC%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6668/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/491929",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アドテック プラズマ テクノロジー",
+   "results": [
+    "https://www.adtec-rf.co.jp/",
+    "https://www.nikkei.com/nkd/company/?scode=6668",
+    "https://job.mynavi.jp/27/pc/search/corp228597/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrNw",
+    "https://kabutan.jp/stock/?code=6668",
+    "https://www.adtec-rf.co.jp/company/group/",
+    "https://www.youtube.com/channel/UCdIRMDl7bMKy1QYprM6iFXg",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00870.html",
+    "https://finance.yahoo.co.jp/quote/6668.T",
+    "https://shikiho.toyokeizai.net/stocks/6668/corporate"
+   ]
+  },
+  {
+   "query": "アドテック プラズマ テクノロジー ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "https://www.adtec-rf.co.jp/",
+    "https://www.crex-data.com/company/6668",
+    "https://www.youtube.com/watch?v=ZX81ge4iNW4",
+    "https://chugokukeiren.jp/info/2019/02/mfg/824/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6668",
+    "https://job.mynavi.jp/27/pc/search/corp228597/outline.html",
+    "https://www.youtube.com/watch?v=s4R7dcQAGm0",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016134789/",
+    "https://www.adtec-rf.co.jp/products/"
+   ]
+  },
+  {
+   "query": "アドテック プラズマ テクノロジー 決算説明資料",
+   "results": [
+    "https://www.adtec-rf.co.jp/ir/information/",
+    "https://www.adtec-rf.co.jp/ir/",
+    "https://edinetdb.jp/company/E02092/presentations/",
+    "https://www.buffett-code.com/company/6668/library",
+    "https://www.adtec-rf.co.jp/ir-news/3439/",
+    "https://kabutan.jp/stock/finance?code=6668",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20251211518159/",
+    "https://kitaishihon.com/company/6668/ir-library",
+    "https://finance.matsui.co.jp/stock/6668/settlement/index",
+    "https://finance.yahoo.co.jp/quote/6668.T/financials"
+   ]
+  },
+  {
+   "query": "アドテック プラズマ テクノロジー 事業系統図",
+   "results": [
+    "https://www.adtec-rf.co.jp/company/group/",
+    "https://kitaishihon.com/company/6668/business",
+    "https://www.youtube.com/watch?v=i4hFCWwfE9E",
+    "https://www.pref.hiroshima.lg.jp/go-hiroshima-database-kigyo/go-data-00870.html",
+    "https://kosen-plus.com/company/244032a1-d113-4a16-9485-9524fa476a1d/info/",
+    "https://note.com/tatsuya_sabato/n/n1af6320f3693",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6668",
+    "https://job.mynavi.jp/27/pc/search/corp228597/outline.html",
+    "https://fukuyama-gijutumap.jp/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%89%E3%83%86%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/",
+    "https://www.adtec-rf.co.jp/"
+   ]
+  },
+  {
+   "query": "アドテック プラズマ テクノロジー 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/491929",
+    "https://www.adtec-rf.co.jp/ir-news/3072/",
+    "https://invest-n.jp/ir/287/",
+    "https://kitaishihon.com/company/6668/board-of-director",
+    "https://double-growth.com/6668-2/",
+    "https://www.nikkei.com/article/DGXZTSJC20101_R11C24A0000000/",
+    "https://prtimes.jp/main/html/rd/p/000000054.000055969.html",
+    "https://www.youtube.com/channel/UCdIRMDl7bMKy1QYprM6iFXg",
+    "https://www.adtec-rf.co.jp/",
+    "https://finance.yahoo.co.jp/quote/6668.T/profile"
+   ]
+  }
+ ],
+ "missing": {}
+}

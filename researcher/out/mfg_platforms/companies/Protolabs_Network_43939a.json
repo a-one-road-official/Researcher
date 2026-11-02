@@ -1,0 +1,1700 @@
+{
+ "name": "Protolabs Network",
+ "aliases": [
+  "3D Hubs",
+  "Hubs"
+ ],
+ "context": "製造マーケットプレイス（蘭・米）",
+ "researched_at": "2026-11-02T14:55:45.905146+00:00",
+ "official_url": "https://www.hubs.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Number of employees",
+    "value": "140",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "label": "Number of employees",
+    "value": "2,300 (2025)",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With hundreds of manufacturers in our network, Protolabs Network (formerly Hubs) offers a very broad range of manufacturing capabilities and support both one-off prototyping and low-volume production. We pride ourselves on being the go-to manufacturer for geometrically complex parts or highly cosmetic parts.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted manufacturers",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs Network started life as the world’s largest peer-to-peer network of 3D printing services, but as we grew with our customers, we needed to offer more.",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We have rebranded our website as Protolabs Network, but your customer account and order details remain in the same system with no disruption to production. We continue to offer an enormous breadth of capabilities from trusted manufacturers, and our personalized service is here to stay.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs offers accelerated manufacturing of quality parts in as fast as 1 day paired with our digital network of global suppliers–Protolabs Network–for advanced capabilities and volume pricing. Both offer injection molding, CNC machining, 3D printing, and sheet metal fabrication.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "For most orders, you will still need to place your order through one site or the other (protolabs.com or hubs.com) and will need a log in for each site. However, with qualifying orders on select Protolabs’ quotes at protolabs.com, customers can order machined parts produced through Protolabs Network. In future, these platforms will be combined.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing our global network of suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "With Protolabs Network, you get access to a network of experienced, specialized manufacturers selected for operational excellence. Our network has the capabilities and capacity to handle any custom parts, giving you complete design freedom and a more resilient manufacturing supply chain.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with a highly vetted network of more than 250 manufacturing partners and hold each of them to the highest quality standards. To ensure all partners uphold The Protolabs Network Standard, we’ve developed comprehensive systems for selecting and supporting our suppliers. We continually audit our protocols to guarantee we deliver quality parts, every time.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we select and onboard suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Our network of experienced, specialized suppliers gives us our breadth of capabilities and consistent quality. Protolabs Network has a strict selection and onboarding process for managing and growing this network. For every new supplier we bring onto the network, we use a comprehensive 8-step process:",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We approach suppliers we believe meet our standard to gauge interest and assess the match.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Once suppliers meet our standards, we give them access to the quote-building platform.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we audit our suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Requirement level for suppliers/subcontractors",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers in the US and EU can choose to have their CNC orders sourced through manufacturing partners (MPs) within their custom-clearance borders. Our MPs perform QC inspections, then send the parts directly to you, resulting in fewer logistical hurdles and much faster delivery times. Find out more about",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers will be notified if their orders deviate from this standard supply chain flow. For more information, contact the Customer Success Team at",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "How we assess the quality of our suppliers",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "We track the performance of our suppliers to ensure that orders meet the Protolabs Network Standard. We can provide certifications and reports upon request.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "and United Kingdom. In all other countries, customers are responsible for duties and fees associated with internationally shipped orders.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Non-conformity reports and follow-up with manufacturers",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I make sure that our quality management systems are aligned to deliver for customers, and to make sure that we meet both internal and external standards as well as regulatory requirements.\"",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "“As our manufacturing capabilities evolve, we’re always continuing to improve our quality standards to offer customers the assurance of high quality parts.”",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with a global network of manufacturing suppliers gives us our breadth of capabilities, but it also requires us to manage certifications and standards on an international scale. To maintain consistent quality, we have comprehensive quality processes for every part that flows through our network. These processes form The Protolabs Network Standard.",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Non-conformity reports and follow-up with manufacturers",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Our network team at Protolabs works with a highly vetted network of around 250 manufacturers and holds each of them to the highest quality standards. To ensure all manufacturers uphold our standards, we’ve developed comprehensive systems for selecting and supporting our network partners. We continually audit our protocols to guarantee quality parts—every time.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "How We Select and Onboard Network Manufacturers",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Our network of experienced, specialized manufacturers gives us our breadth of capabilities and consistent quality. We have a strict selection and onboarding process for managing and growing this network. For every new manufacturer we bring into the network, we use a comprehensive seven-step process:",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "We approach manufacturers we believe meet our standard to gauge interest and assess the match.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Once manufacturers meet our standards, we give them access to the quote-building platform.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "To ensure that our network meets and exceeds industry standards, we audit our manufacturers on a regular basis and drive continual improvement.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "How We Audit Our Network of Manufacturers",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Requirement level for suppliers/subcontractors",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": ": Customers in the U.S. and EU can choose to onshore production by having their orders sourced through manufacturers within their custom-clearance borders. Those manufacturers then send parts directly to you, resulting in fewer logistical hurdles and much faster delivery times.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs’ technology-enabled factories in the US and Europe integrate more than 250 vetted manufacturers.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": ", our global network of manufacturing partners. Our 25+ years of growth and expanding capabilities provide customers with the best digital manufacturing experience in the industry.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers Served",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, the company shifted its strategy to focus on both custom prototyping and end-use production parts to serve engineers, buyers, and procurement teams across the full manufacturing life cycle.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2015, Protolabs was recognized as one of the top-ranked rapid prototyping vendors in the United States by their customers.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Books by members",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Members’ forum",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "North America, Europe, and Japan, plus a broader partner network serving customers globally",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Using the Playing to Win framework, Protolabs’ public strategy can be read as a focused differentiation strategy in digital manufacturing. The company is not trying to be a broad mass-production manufacturer. It is trying to win where speed, engineering support, part complexity, and digital ease matter enough that customers will pay for reliability and short lead times.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s brand is tied closely to ease of use. That makes quoting speed, manufacturability feedback, file handling, order visibility, and engineering support core strategic infrastructure. Even when growth comes from larger accounts, Protolabs still needs to preserve the digital workflow that made it distinct from traditional job shops and contract manufacturers.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs operates a transactional but repeat-driven digital manufacturing model. Customers do not primarily buy a subscription or long-term license. They buy custom manufactured parts, tooling, and related engineering support, typically through a digital quoting workflow. The business sits at the intersection of software, manufacturing, and technical service.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "What customers actually buy:",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "revenue is order-based, but the business can be highly repeat-driven. Customers often reorder through multiple prototype iterations, bridge production runs, spare-part needs, and follow-on programs. That makes customer retention and account penetration more important than a simple one-time order view would suggest.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "custom milled and turned parts in metal and plastic. CNC is important because it serves both prototype and production-adjacent use cases across a wide range of industrial customers.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "automated and human-assisted feedback that helps customers adjust designs before production. This is not always billed as a standalone service, but it is central to the value proposition and helps improve conversion and repeat business.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "similar to Jabil, more relevant as a substitute for customers looking to move from design support into scalable production programs.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Volume pricing built to fit your budget",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fillauer Composites uses carbon-fiber and fiberglass to build prosthetic feet. Fillauer partnered with Protolabs Network to reduce the cost of production and open up more time for their engineers to focus on perfecting the designs.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skelex exoskeletons make your arms feel weightless using dynamic balancing. They also managed to solve the biggest challenge many hardware startups face: manufacturing-on-demand when a new opportunity arises.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What if you could fight climate change with a fleet of tree-planting drones? That’s what DroneSeed is striving towards. With custom-built drones for each project and tight turnaround times, the Seattle-based startup leverages rapid manufacturing technologies to stay nimble.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs Network and Protolabs worked together to deliver parts demanding both speed and complexity, helping an iconic consumer electronics brand to further improve their coffee machines.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In January 2024, Hubs changed its name to Protolabs Network. You still get the same broad capabilities, exceptional quality and competitive pricing, but under the Protolabs Network brand as we strengthen our digital manufacturing options available at your fingertips.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "If you worked with one of our account managers, the same team member will continue to support you with your orders. If there’s anything you’re still wondering about, feel free to contact us with any other questions.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs offers accelerated manufacturing of quality parts in as fast as 1 day paired with our digital network of global suppliers–Protolabs Network–for advanced capabilities and volume pricing. Both offer injection molding, CNC machining, 3D printing, and sheet metal fabrication.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk with your Protolabs or Protolabs Network account manager to understand which is the best route for your project. Feel free to explore quoting through both systems and reach out to your account manager with any questions.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to keep our line item non-conformance rate below 1% and minimize part issues. If issues do arise, a corrective action plan goes into effect. The MP involved finds the root cause of the issue and improves the process to ensure similar problems do not arise in the future. The Protolabs Network Standards help us ensure your parts are made to spec.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Edit the specifications of your quote to immediately adjust it for volume pricing, different materials, tolerances, secondary processes and more. Feel free to compare multiple quotes side by side. You can also upload a technical drawing and request certifications.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "We take full responsibility for the on-time delivery of your parts. If there are any delays we'll contact you with a plan to get your parts to you ASAP.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": ". Shipping costs and estimated delivery times for your order are calculated in the Quote Builder. Customs fees are covered for orders delivered in the United States,",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "and United Kingdom. In all other countries, customers are responsible for duties and fees associated with internationally shipped orders.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Feeler gauge",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed and quality meet advanced capabilities and volume pricing—all with one reliable manufacturing resource",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Our digital factories produce low-volume parts in days while our digital network of manufacturing partners unlocks advanced capabilities and volume pricing at higher quantities.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimize part design and accelerate iterative development with our rapid prototyping and low-volume production services. Benefit from automated online quoting, real-time pricing with design for manufacturability (DFM) feedback, and quality parts delivered in as fast as a day.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs is built around our most valuable asset—our employees. We've purposefully cultivated a culture where employees feel valued, heard, and appreciated. Our company values reflect who we are as a company and to each other. Interested? We’re seeking dynamic, smart, and creative individuals to help us grow and shape the future manufacturing.",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2005, Protomold opened up its first UK plant in",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2014, Protolabs acquired FineLine Prototyping Inc., a North Carolina-based 3D printing company. In fall 2016, Protolabs' 3D printing services moved to a new 77,000 sq. ft. facility in Cary, North Carolina. The company also opened a CNC machining plant in Plymouth, Minnesota.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"United States Securities and Exchange Commission - Proto Labs Inc\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Proto Labs gets into 3-D printing with N.C. acquisition, opens Plymouth plant\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "課金：部品ごとの単価と数量で受注する",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Planet Labs「衛星画像データのサブスクリプション」に学ぶ継続契約の事業設計",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎日地球を撮影する衛星群のデータを、定額契約と従量契約で販売するPlanet Labs",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "継続課金の比率と大口化の動きを、Form 10-K（FY2026）から読み解き、事業設…",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Plans ↗",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Resource Planning (ERP)",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Injection molding, CNC machining, 3D printing, sheet metal fabrication, digital manufacturing network services, design-for-manufacturing feedback",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "1c. How does Protolabs plan to win?",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Because Protolabs still operates company-owned digital factories, utilization and mix matter heavily to margins. Public commentary in 2023 and 2024 indicated a focus on cost discipline, operational efficiency, pricing quality, and getting better economics from the existing footprint. This is especially important in slower industrial demand environments, when prototyping volumes can soften.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s brand is tied closely to ease of use. That makes quoting speed, manufacturability feedback, file handling, order visibility, and engineering support core strategic infrastructure. Even when growth comes from larger accounts, Protolabs still needs to preserve the digital workflow that made it distinct from traditional job shops and contract manufacturers.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs operates a transactional but repeat-driven digital manufacturing model. Customers do not primarily buy a subscription or long-term license. They buy custom manufactured parts, tooling, and related engineering support, typically through a digital quoting workflow. The business sits at the intersection of software, manufacturing, and technical service.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "speed, manufacturability feedback, reliable delivery, and access to multiple manufacturing processes through one supplier relationship. In many cases the part itself is not the only value; the reduced engineering cycle time is part of the purchase decision.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing power:",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs appears to have the strongest pricing power when urgency, quality, technical support, and fast lead times matter. Pricing is weaker when the job is highly price-shopped, technically straightforward, or flexible on timing.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "primarily pay-per-order manufacturing revenue, supported by a digital self-service quoting engine and assisted technical sales. This is not a subscription business; it is better understood as a software-enabled industrial services model.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "rapid tooling and molded plastic parts for prototyping and low-volume production. This is the company’s legacy foundation and remains strategically important because it differentiates Protolabs on speed and design-for-manufacturing feedback.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "automated and human-assisted feedback that helps customers adjust designs before production. This is not always billed as a standalone service, but it is central to the value proposition and helps improve conversion and repeat business.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "application examples, manufacturing guidance, material information, and engineering education likely matter more than emotional brand advertising.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "customers upload design files, receive manufacturability feedback and a quote, and place orders through the company’s online interface. This is the distinctive core of the model.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs can increase wallet share by serving more teams, plants, and use cases inside existing customers rather than relying only on high-volume small orders.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "The main constraints are macroeconomic softness in industrial demand, pricing pressure on less urgent jobs, execution risk in the hybrid model, and the fact that some customers eventually move mature programs to lower-cost production sources once designs stabilize.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing and quote architecture:",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "redesign pricing rules, surcharge logic, and service tiers by urgency, complexity, process, and channel to improve conversion and margins.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "assess adjacent capability targets, software assets, or regional manufacturing platforms and support post-merger integration planning.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We handle customs clearance and cover import duties on orders shipped to the EU, UK, and US",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Formify uses Protolabs Network's platform and Multi Jet Fusion (MJF) to create custom computer mice for pro gamers and casual users alike. Learn how the startup worked with Protolabs Network to produce the most innovative and personalized peripherals in the game.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get complete program management from our team of experts to optimize cost, quantity, and quality control of production orders for end-use parts. Find out about manufacturing higher volumes at reduced part costs, our commitment to quality and expanded capabilities to support with scaling to production.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Head over to Protolabs to learn more about its capabilities, including the fastest lead times in the industry! While we continue to integrate, you’ll need to create a separate account on the protolabs.com platform to place orders there.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "If you worked with one of our account managers, the same team member will continue to support you with your orders. If there’s anything you’re still wondering about, feel free to contact us with any other questions.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs offers accelerated manufacturing of quality parts in as fast as 1 day paired with our digital network of global suppliers–Protolabs Network–for advanced capabilities and volume pricing. Both offer injection molding, CNC machining, 3D printing, and sheet metal fabrication.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Will this change affect the status of my orders?",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Not at all. We’ll continue to manufacture your current orders, and any future ones, without disruption.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "For most orders, you will still need to place your order through one site or the other (protolabs.com or hubs.com) and will need a log in for each site. However, with qualifying orders on select Protolabs’ quotes at protolabs.com, customers can order machined parts produced through Protolabs Network. In future, these platforms will be combined.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "What happens with purchase orders and approved vendor designations?",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing our global network of suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with a highly vetted network of more than 250 manufacturing partners and hold each of them to the highest quality standards. To ensure all partners uphold The Protolabs Network Standard, we’ve developed comprehensive systems for selecting and supporting our suppliers. We continually audit our protocols to guarantee we deliver quality parts, every time.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we select and onboard suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Our network of experienced, specialized suppliers gives us our breadth of capabilities and consistent quality. Protolabs Network has a strict selection and onboarding process for managing and growing this network. For every new supplier we bring onto the network, we use a comprehensive 8-step process:",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "We approach suppliers we believe meet our standard to gauge interest and assess the match.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Once suppliers meet our standards, we give them access to the quote-building platform.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "First 10 orders",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain managers monitor the first 10 orders of every new supplier. We perform on-site quality control for pre and post-production.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we audit our suppliers",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Requirement level for suppliers/subcontractors",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Identification of batches of ongoing orders",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "and some CNC orders are sourced locally, quality checked by the manufacturer and sent directly to you.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "All parts are thoroughly inspected by the manufacturing partner according to our guidelines. Depending on part complexity and the manufacturing location, some orders also undergo a second inspection at our cross-docks in Amsterdam or Minnesota.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers in the US and EU can choose to have their CNC orders sourced through manufacturing partners (MPs) within their custom-clearance borders. Our MPs perform QC inspections, then send the parts directly to you, resulting in fewer logistical hurdles and much faster delivery times. Find out more about",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers will be notified if their orders deviate from this standard supply chain flow. For more information, contact the Customer Success Team at",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Our competitive prices and lead times appear in seconds. What you see is the final price you’ll pay, including shipping, quality control and customs clearance (in certain regions). You can choose to manufacture CNC machining orders locally or globally.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Team Accounts make it easy to work together on quotes and purchasing. Manage all of your team’s orders in one convenient place.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "We can arrange for your parts to be produced in batches throughout the year with a locked price and lead time, or as one-off reorders whenever you require more parts. This gives you total flexibility, so you never need to pre-finance parts or store inventory.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "How we assess the quality of our suppliers",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "We track the performance of our suppliers to ensure that orders meet the Protolabs Network Standard. We can provide certifications and reports upon request.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "My Orders",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": ". Shipping costs and estimated delivery times for your order are calculated in the Quote Builder. Customs fees are covered for orders delivered in the United States,",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "and United Kingdom. In all other countries, customers are responsible for duties and fees associated with internationally shipped orders.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Alongside our cross-docks in Amsterdam and Chicago, we also have teams actively performing quality checks across the manufacturing network. Our on-site teams in China and India (with more on the way) inspect all outgoing orders, following our comprehensive quality guidelines. If you’d like to receive a full QC report, you can request one when you order your custom parts.",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "How we manage our suppliers",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Production orders",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with a global network of manufacturing suppliers gives us our breadth of capabilities, but it also requires us to manage certifications and standards on an international scale. To maintain consistent quality, we have comprehensive quality processes for every part that flows through our network. These processes form The Protolabs Network Standard.",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "7. First 10 Orders",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain managers monitor the first 10 orders of every new manufacturer. We perform onsite quality control for pre- and post-production.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Requirement level for suppliers/subcontractors",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Identification of batches of ongoing orders",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": ": All parts (except for 3D-printed orders) being shipped to the UK, U.S., and EU will be inspected at one of our cross docks in Amsterdam or Chicago.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs Network started life as the world’s largest peer-to-peer network of 3D printing services, but as we grew with our customers, we needed to offer more.",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A world-first combined solution",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "First evaluation",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "First 10 orders",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain managers monitor the first 10 orders of every new supplier. We perform on-site quality control for pre and post-production.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "First Article Inspection (FAI)",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "FAI (First Article Inspection) with golden samples",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about who we are and how it all started",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "FAI (First Article Inspection) with golden samples",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "First name",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "High-quality components from early prototyping to hot-fire testing to launch",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "2. First Evaluation",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "7. First 10 Orders",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain managers monitor the first 10 orders of every new manufacturer. We perform onsite quality control for pre- and post-production.",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "Hubs sponsors a yearly student grant that supports engineering students in the development of innovative projects.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "High-quality components from early prototyping to hot-fire testing to launch",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2005, Protomold opened up its first UK plant in",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Two years later, Protomold introduced the Firstcut quick-turn CNC machining service.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In 2009, the company combined its Protomold and Firstcut services under its corporate name, Proto Labs Inc., known colloquially and in official messaging as Protolabs.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In the same year, Firstcut, a service from Protolabs, made available CNC-machined prototype parts in",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Proto Labs: First Cut mit Prototypenteilen aus Aluminium\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Proto Labs replaces founder Lukis as chief technology officer\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の数を追うより、一人あたりの取引の深さを高める設計であることが読み取れます（Form 10-K、2025年12月期）",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "1999年の創業時、射出成形の試作に必要な時間を、製造工程を自動化するソフトウェアで大きく短縮したと説明しています",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "見積もりから製造・出荷までを同社のシステムでつなぐことで、熟練者の手作業に頼る部分を減らしている、というのが同社の説明です",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Publicly held; no controlling shareholder disclosed in public filings reviewed through early 2024",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "the instant-quote and design-for-manufacturing experience acts as a marketing asset, not just an operating tool. A strong first quote experience can convert users without a long traditional sales process.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A part for academic research",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Research",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter | Protolabs Network",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Protolabs Network Newsletter",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to the Protolabs Network Newsletter for industry insights, product updates, expert advice and company news.",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/partner-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/quality-control/",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual trend reports, posters and other downloadable content",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "You're now subscribed to our newsletter.",
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Jump to content",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "Contents",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "search",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://www.protolabs.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Jump to content",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Contents",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering Research Associates",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "この記事に出てくる用語",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "Ultimately, to offer you more capabilities. Protolabs acquired Hubs to bring engineers more options: global reach, diverse capabilities and unparalleled speed through a single manufacturing resource. Our brand identity as Protolabs Network reflects our future as a collaborative operation with a streamlined experience.",
+    "url": "https://www.hubs.com/protolabs-network/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded as \"3D Hubs\", and later renamed \"Hubs\", it was acquired by Protolabs in 2021, and is primarily used by designers and engineers. In 2024, it renamed the platform Protolabs Network.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2021, Minnesota-based Protolabs, a publicly traded custom part manufacturer, acquired the company for $280 million in cash and stock, plus $50 million for reaching targets based on performance.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "\"15 Amsterdam-based startups that got acquired in 2021 - Silicon Canals\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "\"Upon Protolabs Acquisition, 3D Hubs Becomes \"Hubs\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "NIPO Software",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "In 2014, Protolabs acquired FineLine Prototyping Inc., a North Carolina-based 3D printing company. In fall 2016, Protolabs' 3D printing services moved to a new 77,000 sq. ft. facility in Cary, North Carolina. The company also opened a CNC machining plant in Plymouth, Minnesota.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2017, Protolabs acquired RAPID Manufacturing in",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition added a distributed model of manufacturing partners to Protolabs’ existing in-house factories and 3D Hubs was ultimately rebranded to Protolabs Network in 2024.",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Proto Labs gets into 3-D printing with N.C. acquisition, opens Plymouth plant\"",
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Proto Labs, Inc.は米国に本社を置き、ニューヨーク証券取引所に上場している企業です（Form 10-K）",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年1月に3D Hubs（現在はProtolabs Networkに名称変更と記載）を買収し、北米・欧州・アジアにいる製造パートナーのネットワークを加えました",
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1999 by Larry Lukis; expanded from rapid injection molding into CNC machining, 3D printing, and sheet metal; initial public offering in 2012; acquired FineLine Prototyping in 2014, Alphaform in 2015, and Hubs in 2021",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "18. What Major Acquisitions Has Protolabs Made?",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "The Hubs acquisition gave Protolabs a more asset-light way to offer additional processes, geographies, and production capacity. Management has continued to position the network as a growth engine that complements the company’s factories by expanding addressable demand beyond the standard quick-turn jobs best suited to internal operations.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Selectively use acquisitions or partnerships.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions have mattered strategically at Protolabs, but the company has not generally behaved like a serial, high-volume consolidator. Its major deals have been targeted capability and platform moves.",
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "What is Protolabs Network ? — What is Protolabs Network ? Protolabs https://www.protolabs.com > about-us",
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs Network launches today — Protolabs Network launches today Protolabs Network https://www.hubs.com > blog > protol...",
+    "url": "https://www.hubs.com/blog/protolabs-network-launches/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs Network - Wikipedia — Protolabs Network - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Prot...",
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs launches Protolabs Network , formally known as Hubs — Protolabs launches Protolabs Network , formally known as Hubs VoxelMatters https://www.voxelmatters.com > prot...",
+    "url": "https://www.voxelmatters.com/protolabs-launches-protolabs-network-formally-known-as-hubs/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs Network (formerly Hubs) | On-demand ... — Protolabs Network (formerly Hubs) | On-demand ... Protolabs Network https://www.hubs.com",
+    "url": "https://www.hubs.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hubs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/newsletter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/protolabs-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/partner-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/how-ordering-works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/quality-assurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/quality-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hubs.com/the-protolabs-network-standard/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.protolabs.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Protolabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/resources/company-profiles/protolabs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.protolabs.com/news-releases/news-release-details/protolabs-reports-financial-results-fourth-quarter-and-full-6/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Protolabs Network 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "https://www.hubs.com/blog/protolabs-network-launches/",
+    "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "https://www.makerverse.com/resources/protolabs-alternative/",
+    "https://www.voxelmatters.com/protolabs-launches-protolabs-network-formally-known-as-hubs/",
+    "https://www.protolabs.com/help-center/pricing-and-payment-options/",
+    "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "https://www.hubs.com/help-center/get-the-most-out-of-using-hubs/",
+    "https://umbrex.com/resources/company-profiles/protolabs/",
+    "https://www.protolabs.com/about-us/digital-factories-x-partner-network/"
+   ]
+  },
+  {
+   "query": "Protolabs Network 売上 従業員 創業",
+   "results": [
+    "https://www.protolabs.com/about-us/",
+    "https://www.hubs.com/",
+    "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "https://umbrex.com/resources/company-profiles/protolabs/",
+    "https://www.linkedin.com/company/proto-labs",
+    "https://protolabs.gcs-web.com/news-releases/news-release-details/protolabs-3d-printing-report-reveals-accelerated-industry-growth/",
+    "https://www.reddit.com/r/manufacturing/comments/s5vldf/why_do_customers_choose_protolabs_over_other/",
+    "https://www.protolabs.com/about-us/what-is-protolabs-network/",
+    "https://www.voxelmatters.com/protolabs-launches-protolabs-network-formally-known-as-hubs/"
+   ]
+  },
+  {
+   "query": "Protolabs Network 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.protolabs.com/about-us/",
+    "https://en.wikipedia.org/wiki/Protolabs",
+    "https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html",
+    "https://www.protolabs.com/en-gb/start-ups/",
+    "https://prtimes.jp/main/html/rd/p/000000091.000002818.html",
+    "https://monoist.itmedia.co.jp/mn/articles/1905/31/news027.html",
+    "https://elecareer.com/articles/column/company-column/305",
+    "https://onlab.jp/voice/",
+    "https://straightpress.jp/company_news/detail?pr=000000091.000002818",
+    "https://en.wikipedia.org/wiki/Protolabs_Network"
+   ]
+  },
+  {
+   "query": "Protolabs Network revenue members business model",
+   "results": [
+    "https://umbrex.com/resources/company-profiles/protolabs/",
+    "https://investors.protolabs.com/news-releases/news-release-details/protolabs-reports-financial-results-fourth-quarter-and-full-6/",
+    "https://www.hubs.com/blog/protolabs-network-launches/",
+    "https://www.reddit.com/r/manufacturing/comments/s5vldf/why_do_customers_choose_protolabs_over_other/",
+    "https://www.facebook.com/schwabnetwork/videos/protolabs-prlb-ceo-suresh-krishna-says-the-company-is-reigniting-innovation-in-c/1691279975918251/",
+    "https://protolabs.gcs-web.com/news-releases/news-release-details/protolabs-rebrands-its-manufacturing-partner-network-hubs/",
+    "https://growjo.com/company/Proto_Labs",
+    "https://en.wikipedia.org/wiki/Protolabs_Network",
+    "https://baoshengindustry.com/resources/3d-printing/hubs-vs-direct-3d-printing-factory/",
+    "https://protolabs.gcs-web.com/news-releases/news-release-details/protolabs-reports-financial-results-fourth-quarter-and-full-5"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

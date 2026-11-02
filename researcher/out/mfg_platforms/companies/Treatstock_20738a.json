@@ -1,0 +1,391 @@
+{
+ "name": "Treatstock",
+ "aliases": [],
+ "context": "3Dプリント・CNCマーケットプレイス",
+ "researched_at": "2026-11-02T14:31:45.139612+00:00",
+ "official_url": "https://www.treatstock.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年",
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Compare Suppliers",
+    "url": "https://jp.treatstock.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use our online manufacturing tools for easy price calculation, order management and safe deals. Generate leads with business customers from all over the world.",
+    "url": "https://jp.treatstock.com/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Advertising Network",
+    "url": "https://jp.treatstock.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プリントの写真・ビデオを撮影する権利を品質の保証、ユーザーエクスペリエンスの改善または宣伝広告のために認めるものとします",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "Treatstock is a collective team of enthusiastic and talented specialists that have come together to revolutionize the world of manufacturing. We always listen to our users feedback and strives to update the platform on a regular basis with new and exciting features, innovations and partnerships.",
+    "url": "https://jp.treatstock.com/site/about",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Compare Suppliers",
+    "url": "https://jp.treatstock.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Treatstock is a collective team of enthusiastic and talented specialists that have come together to revolutionize the world of manufacturing. We always listen to our users feedback and strives to update the platform on a regular basis with new and exciting features, innovations and partnerships.",
+    "url": "https://jp.treatstock.com/site/about",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Search",
+    "url": "https://jp.treatstock.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アップロード (ウィキメディア・コモンズ)",
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "pass": 3
+   },
+   {
+    "quote": "ある3Dプリンター業界を扱う大手メディアは以下のようにTreatstockを表現した",
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターで制作可能なあらゆるものの検索とオーダー、そしてプリントを扱うマーケットプレイスです",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "のウェブサイトではは外部ウェブサイトやサービスが紹介されることがあります",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "プリントの写真・ビデオを撮影する権利を品質の保証、ユーザーエクスペリエンスの改善または宣伝広告のために認めるものとします",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://jp.treatstock.com/site/about",
+    "pass": 3
+   },
+   {
+    "quote": "Data & Research",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "PRO Content",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Research",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Dig Deeper, Search Our Message Board 3dprintboard.com",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive Content",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Daily Newsletter",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to Our Email Newsletter",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Research",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "I would like to also register for free and access proprietary industry data from AM Research and 3DPrint.com",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Register to view and download proprietary industry data from AM Research and 3DPrint.com",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "I agree to receive the 3DPrint.com Daily newsletter and promotional email correspondence.",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "最初のレイヤーがしっかりと接合されていない",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "最初の層の線が非常に多く見られると判断できるとき",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "に通報して十日間連絡がない場合、お手数ですがもう一度弊社までお問い合わせして、最初の連絡が正しく受理されているかご確認ください",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "Powered by First Mold",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "First name",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Treatstock : 機械加工、3D印刷、彫刻サービス — Treatstock : 機械加工、3D印刷、彫刻サービス Treatstock https://jp.treatstock.com",
+    "url": "https://jp.treatstock.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Treatstock - Wikipedia — Treatstock - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Treatstock",
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "pass": 3
+   },
+   {
+    "quote": "ご利用条件 - Treatstock — ご利用条件 - Treatstock Treatstock https://jp.treatstock.com > site > terms",
+    "url": "https://jp.treatstock.com/site/terms",
+    "pass": 3
+   },
+   {
+    "quote": "Buy or Sell 3D Models and Even Offer Local 3D Printing ... — Buy or Sell 3D Models and Even Offer Local 3D Printing ... 3DPrint.com https://3dprint.com > treatstock-3d-pr...",
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "pass": 3
+   },
+   {
+    "quote": "How to become a manufacturer on Treatstock - YouTube — How to become a manufacturer on Treatstock - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7ZNqV1bI0yo",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Treatstock — About Us - Treatstock Treatstock https://jp.treatstock.com > site > about",
+    "url": "https://jp.treatstock.com/site/about",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of treatstock .com - Trustpilot — Read Customer Service Reviews of treatstock .com - Trustpilot Trustpilot https://www.trustpilot.com > treatstock",
+    "url": "https://www.trustpilot.com/review/treatstock.com",
+    "pass": 3
+   },
+   {
+    "quote": "Treatstock - Crunchbase Company Profile & Funding — Treatstock - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > treatst...",
+    "url": "https://www.crunchbase.com/organization/treatstock",
+    "pass": 3
+   },
+   {
+    "quote": "Treatstock - Facebook — Treatstock - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/treatstock/",
+    "pass": 3
+   },
+   {
+    "quote": "Information about Treatstock for Media — Information about Treatstock for Media Treatstock https://jp.treatstock.com > press",
+    "url": "https://jp.treatstock.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "What can I do with my income on Treatstock ? Help Center — What can I do with my income on Treatstock ? Help Center Treatstock https://www.treatstock.com > article",
+    "url": "https://www.treatstock.com/help/article/80-what-can-i-do-with-my-income-on-treatstock",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer Experience on Treatstock ? : r/3Dprinting - Reddit — Manufacturer Experience on Treatstock ? : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/16l9svy/manufacturer_experience_on_treatstock/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jp.treatstock.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.treatstock.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.treatstock.com/site/terms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.treatstock.com/site/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustpilot.com/review/treatstock.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/treatstock",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.treatstock.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Treatstock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vXr7FndHDXk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=S-ovTkyOO28",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Treatstock 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://jp.treatstock.com/",
+    "https://ja.wikipedia.org/wiki/Treatstock",
+    "https://jp.treatstock.com/site/terms",
+    "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "https://www.youtube.com/watch?v=7ZNqV1bI0yo",
+    "https://thespoollist.com/ja/blog/treatstock-alternatives?srsltid=AYCX9vJfYrd7ja16VBNn3AkYvOULWkAOtcZxyx27_RompQrRnFETLv_1",
+    "https://www.youtube.com/watch?v=vXr7FndHDXk",
+    "https://help.chatwork.com/hc/ja/articles/206103942-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%83%97%E3%83%A9%E3%83%B3-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%97%E3%83%A9%E3%83%B3-%E3%81%AE%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91",
+    "https://support.styleflow.jp/hc/en-us/articles/360015725054-About-Pricing-Plans",
+    "https://www.treatstock.com/"
+   ]
+  },
+  {
+   "query": "Treatstock 売上 従業員 創業",
+   "results": [
+    "https://jp.treatstock.com/site/about",
+    "https://www.trustpilot.com/review/treatstock.com",
+    "https://www.crunchbase.com/organization/treatstock",
+    "https://www.facebook.com/treatstock/",
+    "https://jp.treatstock.com/",
+    "https://www.youtube.com/watch?v=7ZNqV1bI0yo",
+    "https://www.reddit.com/r/3Dprinting/comments/1nhtgsh/treatstock_isnt_paying_out/",
+    "https://ja.wikipedia.org/wiki/Treatstock",
+    "https://www.youtube.com/watch?v=vXr7FndHDXk",
+    "https://zh.wikipedia.org/zh-hans/Treatstock"
+   ]
+  },
+  {
+   "query": "Treatstock 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://jp.treatstock.com/",
+    "https://ja.wikipedia.org/wiki/Treatstock",
+    "https://www.youtube.com/watch?v=vXr7FndHDXk",
+    "https://jp.treatstock.com/press",
+    "https://careerforum.net/ja/event/ldn/companylist_271/65/online_seminar/2152/",
+    "https://www.amplified.ai/ja/blog/11012022/interview-3dpc/",
+    "https://www.youtube.com/watch?v=wDIfYHhl8DI&vl=ja",
+    "https://bbank.jp/entrepreneur/category/interview/service-food/page/5",
+    "https://rokugobase.com/magazine/6310/",
+    "https://zh.wikipedia.org/zh-tw/Treatstock"
+   ]
+  },
+  {
+   "query": "Treatstock revenue members business model",
+   "results": [
+    "https://www.treatstock.com/help/article/80-what-can-i-do-with-my-income-on-treatstock",
+    "https://3dprint.com/119118/treatstock-3d-print-services/",
+    "https://www.youtube.com/watch?v=S-ovTkyOO28",
+    "https://www.reddit.com/r/3Dprinting/comments/16l9svy/manufacturer_experience_on_treatstock/",
+    "https://www.trustpilot.com/review/treatstock.com",
+    "https://www.crunchbase.com/organization/treatstock",
+    "https://www.treatstock.com/help/article/17-how-can-i-sell-my-3d-models",
+    "https://www.youtube.com/watch?v=7ZNqV1bI0yo",
+    "https://enterprise.flashforge.com/blogs/blog-1/3d-printing-business-models-service-studios-large-scale-farms",
+    "https://compworth.com/company/treatstock"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）"
+ }
+}

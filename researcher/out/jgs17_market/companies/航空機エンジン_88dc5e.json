@@ -1,0 +1,1897 @@
+{
+ "name": "航空機エンジン",
+ "en": "aircraft engine",
+ "aliases": [
+  "ジェットエンジン"
+ ],
+ "context": "6 航空・宇宙 ①民間航空機",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:46:36.473762+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "航空機エンジン市場規模、シェア、業界レポート、2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場は、2025年に867億米ドルと評価されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2026年の927億米ドルから2031年には1,382億米ドル、2035年には2,033億米ドルへと、予測期間中にCAGR 9.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別航空機エンジン市場規模、2022-2035年(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機セグメントは、61%以上の市場シェアを占め、2025年には496億米ドルの市場規模となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約8.1%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "将来の年には、市場は約1,104億米ドルの価値に達する見込みです",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は約762億米ドルと記録されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジンに関する当社の市場見通しによると、北米の市場は予測期間中に約 33% の主要市場シェアを維持すると予想されますが、欧州の市場は主に航空宇宙産業への投資の増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場規模は、2025―2037年間に 8.1% の CAGR で成長し、2037年までに 1,104億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2025 年の航空機エンジン市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2024 年の世界の航空機エンジン市場は 762億米ドルの収益を獲得しました",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場規模は2023年のUSD 65.7億で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて5.68%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な航空機エンジン市場規模は、2033年までにUSD 114.2億に達する見込みです",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年の間に5.68%のCAGRで、グローバル航空機エンジン市場規模は2033年までUSD 114.2億ドルに達する見込みです",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の航空機エンジン業界の市場シェアを簡易に試算しますと、1位はプラット・アンド・ホイットニー、2位はGE、3位はロールスロイスとなります",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2024年の航空機エンジン業界の市場規模を1,537億ドルとしております",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社フォーチュンビジネスインサイツによると、2024年の同業界の市場規模は1,537億ドルです",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にかけて年平均7.77%で成長し、規模は2,798億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "1,537億ドル",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2,798億ドル",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "業界アナリストは、市場規模が2029年までに1,126億1,000万ドルに達すると予想しており、その予測期間中に10.87％の強力な年平均成長率を示しています",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年9月： ロールスロイスはB-52ストラトポートレスにF-130エンジンを供給するために米国空軍と26億ドル規模の契約を締結しました",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機フェアリング市場規模、シェア、概要、市場展望、2032年までの市場成長に関する洞察",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "商用ドローン市場規模、シェア、成長、主要企業、2032年までの需要分析",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場規模、シェア、予測 | 業界分析 [2033]",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における世界の航空機エンジン市場規模は1,012億米ドルに達しました",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年7月、サフランS.A.はインドに3つの新工場を設立するために最大2億ドルを投資すると発表した",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空機ラインメンテナンスサービス別、タイプ別、航空機タイプ別、技術別、地域別の市場規模、シェア、動向および予測2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表したリサーチレポートによると、グローバル商用航空機エンジン市場規模は、2025 年 USD 165.12 億米ドル 2035 億米ドル 165.12 億米ドル の予測期間 2026～2035 年 CAGR の 5.6% から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、グローバル商用航空機エンジン市場規模は、2025 年に USD 95.80 億から 2035 年までに USD 165.12 億から 2035 年までに、予測期間 2026～2035 の CAGR が 5.6% 増加する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な商用航空機エンジンの市場規模は、2025年のUSD 95.80億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2026と2035の間の5.6%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な商用航空機エンジン市場のサイズは、2035年までにUSD 165.12億に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン用コンプレッサーの世界市場は、2025年から2030年にかけて176億3,500万米ドル成長し、予測期間中のCAGRは7.2％になると予測されています",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダーを対象としたベンダー分析を提供しています",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模実績",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場（2025年～2034年）：市場規模、シェア、動向",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場規模は、2024年に1,098億3,000万米ドルと評価され、2034年までに約2,353億6,000万米ドルに達すると予測されている",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の大気質管理システム市場（2025年～2034年）：市場規模、シェア、動向",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "乾式掃除機の世界市場規模・シェア予測 2025年～2035年",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, Share & Industry Report, 2035",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size & Share 2026 - 2035",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global aircraft engine market was valued at USD 86.7 billion in 2025. The market is expected to grow from USD 92.7 billion in 2026 to USD 138.2 billion in 2031 and USD 203.3 billion in 2035, at a CAGR of 9.1% during the forecast period, according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 86.7 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 92.7 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 203.3 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, By Type, 2022-2035 (USD Billion)",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The turbofan segment was valued at USD 50.7 billion in 2025. Rising demand for fuel-efficient narrow-body and wide-body aircraft is accelerating adoption of advanced turbofan engines in commercial aviation fleets.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2026年の927億米ドルから2031年には1,382億米ドル、2035年には2,033億米ドルへと、予測期間中にCAGR 9.1%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2026年~2035年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "ターボシャフトセグメントは2035年までに9,2%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドセグメントは、予測期間中に8.7%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、FAA航空宇宙予測によると、米国の航空会社の旅客搭乗者数は2045年まで着実に成長すると予測されており、航空会社の運航拡大に伴い、新型エンジンおよび整備サービスに対する持続的な需要が見込まれています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用航空機セグメントは、予測期間中に11.2%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "FAA航空宇宙予測FY2025-2045によると、商業航空会社の運航は年間約1.9%で成長すると予測されており、米国の航空会社の旅客輸送量は長期的に拡大し、エンジンの稼働率と交換サイクルの増加につながります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋市場は、分析期間中に9.3%のCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約8.1%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2023年の世界の航空旅客需要は、前年比で37.3%以上増加し、前年の旅客需要は約65.4%増加しました",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場規模は、2025―2037年間に 8.1% の CAGR で成長し、2037年までに 1,104億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2023年から2033年にかけて5.68%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年の間に5.68%のCAGRで、グローバル航空機エンジン市場規模は2033年までUSD 114.2億ドルに達する見込みです",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023 - 2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年にかけて年平均7.77%で成長し、規模は2,798億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の世界市場規模の年平均成長率見込み(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 ハネウェル、プロセス産業の能力拡大のためサンダイン社の買収を完了",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "業界アナリストは、市場規模が2029年までに1,126億1,000万ドルに達すると予想しており、その予測期間中に10.87％の強力な年平均成長率を示しています",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "要約すると、航空機エンジン業界は、商用航空活動の拡大と3D印刷の革新を含む、より効率的で費用対効果の高いエンジン技術のニーズのために、大幅な拡大が予想されます",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループは、市場が2033年までに1,697億米ドルに達し、2025年から2033年の間に年平均成長率（CAGR）5.87%を示すと予測しています",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 (2025-2033)",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、国際航空運送協会（IATA）の統計では、旅客数は2037年までに倍増し、82億人に達する可能性があると予測している",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ICAOは2023年2月、2022年に世界全体で利用される航空旅客総数が前年比で47％増加するとの見通しを示した",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2022年3月、サフランはヒンドスタン・エアロノーティクス・リミテッド（HAL）との間で覚書（MoU）に署名し、民間および軍事市場における新しいヘリコプターエンジンの機会を探るための協力を拡大することを発表しました",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発表したリサーチレポートによると、グローバル商用航空機エンジン市場規模は、2025 年 USD 165.12 億米ドル 2035 億米ドル 165.12 億米ドル の予測期間 2026～2035 年 CAGR の 5.6% から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が発行するリサーチレポートによると、グローバル商用航空機エンジン市場規模は、2025 年に USD 95.80 億から 2035 年までに USD 165.12 億から 2035 年までに、予測期間 2026～2035 の CAGR が 5.6% 増加する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2026と2035の間の5.6%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン用コンプレッサーの世界市場は、2025年から2030年にかけて176億3,500万米ドル成長し、予測期間中のCAGRは7.2％になると予測されています",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の前年比 6.9%",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 7.2%",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2034年までの予測期間において、年平均成長率（CAGR）7.92％で拡大する見込みである",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "技術導入や航空産業向け3Dプリント製造を拡大している",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "国内ASK（利用可能座席キロ）は前年比30.1%増加した一方、同国のRPK（収益旅客キロ）は2021年比48.8%増加しました",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "The global aircraft engine market was valued at USD 86.7 billion in 2025. The market is expected to grow from USD 92.7 billion in 2026 to USD 138.2 billion in 2031 and USD 203.3 billion in 2035, at a CAGR of 9.1% during the forecast period, according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The turboshaft segment is expected to grow at a CAGR of over 9.2% by 2035. The market has been increasing steadily in the turboshaft category as commercial and military helicopters and unmanned aircraft (UAVs) use these engines continue to grow.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hybrid segment is expected to grow at a CAGR of 8.7% during the forecast period. This growth is largely driven by the need for sustainability, airline emissions reduction goals, and the quick acceptance of hybrid propulsion systems in short-haul and regional aircraft.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The military aircraft is expected to grow at a CAGR of 11.2% during the forecast period. The defense modernization initiatives of major nations are leading to an increased demand for advanced military aircraft such as fighters, transport aircraft, and helicopters.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the FAA Aerospace Forecast FY 2025-2045, commercial airline operations are forecast to grow at around 1.9 % annually, with U.S. airline passenger traffic expanding over the long term, leading to higher engine utilization and replacement cycles. This sustained growth in demand translates directly into greater procurement and maintenance requirements for aircraft engines.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific market is anticipated to grow at a CAGR of 9.3% during the analysis timeframe.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "China aircraft engine market is estimated to grow with a CAGR of 10.3% during the forecast period, in the Asia Pacific aircraft engine industry.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 - 2035 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to reach USD 203.3 billion by 2035, growing at a CAGR of 9.1% due to fleet modernization, expanding aftermarket services, and defense aviation investments.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The aircraft engine industry is anticipated to grow at a CAGR of 9.1% during 2026–2035, supported by demand for fuel-efficient engines, increasing MRO activity, and adoption of advanced propulsion technologies.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid aircraft engine technology is projected to grow at a CAGR of 8.7% through 2035, driven by sustainability goals, emissions reduction initiatives, and advances in electric propulsion systems.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 6.29 Bn. in 2025. The global Aircraft Engine Market is estimated to grow at a CAGR of 8.7% over the forecast period.",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "US Aquatic Robots Market was projected to grow from USD 1.1 billion in 2025 to USD 3.51 billion by 2034 at 10.5% CAGR",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "Aquatic Robots Market was projected to grow from USD 4.20 billion in 2025 to USD 14.55 billion by 2034 at 16.8% CAGR",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "US Aerospace Robots Market was projected to grow from USD 1.70 billion in 2025 to USD 3.78 billion by 2034 at 10.5% CAGR",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "growing at a CAGR of 10.8%",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Projected Growth (CAGR 2025 to 2032)",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Growth (CAGR 2019 to 2024)",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is estimated to rise at a CAGR of 10.8% through 2032.",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global aircraft engine market size was estimated at USD 56.28 billion in 2023 and is projected to reach USD 112.10 billion by 2030, growing at a CAGR of 9.81% from 2024 to 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The aircraft engine market in the U.S. is expected to grow at a notable CAGR of 8% from 2024 to 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By aircraft, the military aircraft segment is expected to register the fastest CAGR from 2024 to 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 9.81%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "is estimated to record a notable CAGR from 2024 to 2030, propelled by the expansion of civil aviation and defense sectors. Initiatives such as \"Make in India\" encourage local manufacturing of aircraft components, including engines. Increasing air connectivity and investments in airport infrastructure further stimulate demand for new engines and maintenance services.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The aircraft engine market in Europe is anticipated to grow at a CAGR of nearly 9% from 2024 to 2030. The market benefits from established aerospace infrastructure and technological innovation. Companies in Germany, the UK, and France lead in engine development, focusing on fuel efficiency, reduced emissions, and noise reduction technologies to meet stringent environmental regulations.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "航空機エンジン市場規模、シェア、業界レポート、2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 サイズとシェア 2026 - 2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社には",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術別航空機エンジン市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "従来型セグメントは2025年に61,7%の市場シェアを保持しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "民間航空機セグメントは、61%以上の市場シェアを占め、2025年には496億米ドルの市場規模となりました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に43.4%の市場シェアで世界市場を支配しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州市場は2025年に193億米ドルを占め、予測期間中に有望な成長を示すと予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rolls-Royce、Pratt & Whitney (RTX)、MTU Aero Engines AG、およびIHI Corporationなどの企業は、市場シェアの39.9%を占めており、燃費効率、信頼性、および排出(民間、軍用、および地域)の主要課題に対処するために研究開発(R&D)の強化を推進しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rolls-Royceは、先進的なターボファンおよびターボシャフトエンジン、広範なグローバルサービスネットワーク、民間および軍用航空機OEMとの強固なパートナーシップにより、2025年に市場の14.3%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pratt & Whitney (RTX)は、次世代ギアードターボファンエンジン、燃料効率への注力、主要航空機メーカーとの戦略的パートナーシップにより、2025年に市場の11.7%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "IHI Corporationは、ビジネス、地域、および防衛航空機向けのターボファンおよびターボシャフトエンジンに注力し、市場の5.6%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―タイプ別、技術別、コンポーネント別、エンドユーザー別、および地域別―世界市場の見通しと予測2025―2037年",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジンに関する当社の市場見通しによると、北米の市場は予測期間中に約 33% の主要市場シェアを維持すると予想されますが、欧州の市場は主に航空宇宙産業への投資の増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、商用セグメントは予測期間中に約55％の最大の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、ターボプロップセグメントは、予測期間中に約 45% の最大の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場分析によると、アジア太平洋地域は、予測期間中に総市場収益の約25％の市場シェアを占めるはずです",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、日本の格安航空会社の供給能力のシェアは約 23% で、着実に増加しています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場の動向によると、北米市場地域は予測期間中に約33％の最大の市場シェアを保持すると予想されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "対戦車地雷および対人地雷市場調査レポート、規模とシェア、成長機会、および傾向洞察分析―タイプ別、配備メカニズム別、材質別、技術別、エンドユーザー別、および地域別―世界市場の見通しと予測 2025―2037年",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "戦車弾 120mm 125mm市場調査レポート、規模とシェア、成長機会、および傾向洞察分析―タイプ別、アプリケーション別、エンドユーザー別、技術別、および地域別―世界市場の見通しと予測 2025―2037年",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2025年には北米地域が航空機エンジン市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033で最大の市場シェアを占めるターボファンエンジンセグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年で最大の市場シェアを占める商用航空機セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2023〜2033年で最大の市場シェアを占めるアフターマーケットセグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2024年の航空機エンジン業界の市場シェアを簡易に試算しますと、1位はプラット・アンド・ホイットニー、2位はGE、3位はロールスロイスとなります",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の市場シェア(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジンの世界市場シェアと業界ランキング(2024年) ©2025 Deallab",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "ロールスロイスとサフランの順位が入れ替わりましたが、2022年と上位7社の企業は変わらない結果となりました",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア1位か2位以外の事業からは撤退するというナンバーワン・ナンバーツー戦略を実施し、積極的な事業ポートフォリオの入れ替えを行うことでも有名です",
+    "url": "https://deallab.info/aircraft-engine/",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までの完全な SWOT 分析による航空機エンジン市場シェア | 記事 | ブログ",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までの完全な SWOT 分析による航空機エンジン市場シェア",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機フェアリング市場規模、シェア、概要、市場展望、2032年までの市場成長に関する洞察",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "商用ドローン市場規模、シェア、成長、主要企業、2032年までの需要分析",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤレスインフラ市場の規模、シェア、新たなトレンドと需要、主要企業の洞察（2032年まで）",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場規模、シェア、予測 | 業界分析 [2033]",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本航空機ラインメンテナンスサービス別、タイプ別、航空機タイプ別、技術別、地域別の市場規模、シェア、動向および予測2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "コーン・パキメトリー 市場規模, シェア, トレンドレポート 2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場（2025年～2034年）：市場規模、シェア、動向",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "タイプ別では、ターボファンエンジンが2023年に71%の収益シェアを記録した",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "技術別では、従来型セグメントが2024年から2034年にかけて最大の市場シェアを獲得すると予測される",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "ストックホルム国際平和研究所（SIPRI）によれば、2021年に米国が軍事費に費やした8,010億米ドルは、世界の軍事支出総額の約38％を占めた",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 企業別市場シェア／ポジショニング分析",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の大気質管理システム市場（2025年～2034年）：市場規模、シェア、動向",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "乾式掃除機の世界市場規模・シェア予測 2025年～2035年",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の持続可能ジェット燃料用微細藻類市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のエアフローバランサー市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の単一素材PEソリューション市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の生物医学用冷蔵庫＆冷凍庫市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の特殊樹脂市場の規模およびシェア予測：2026年から2036年までの見通し",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Share, By Technology, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The conventional segment held market share of 61.7% in 2025. With the modernization of airlines' fleet, the demand for conventional engines is increasing. New and improved aircraft burn less fuel, resulting in more and more airlines replacing their old aircraft with these new models.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the global market with a market share of 43.4% in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe market accounted for USD 19.3 billion in 2025 and is anticipated to show lucrative growth over the forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Leaders (2025)",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "14.3% Market Share",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Collective market share in 2025 is 39.9%",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "technology segment held the largest market share with 71% in 2025. An aero-engine is another name for a",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "これらの主要企業は、エンジン開発および認証の迅速化、商業化努力の改善、およびグローバルサービスネットワークの範囲拡大のために、パートナーシップ、合弁事業、合併、および買収などの複数の手段で関係を構築しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターネットワーク市場の主要企業には、シスコ、デル、ヒューレット・パッカード・エンタープライズ（HPE）、ファーウェイ・テクノロジーズ、ジュニパーネットワークスなどが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "精密ギアボックス機械市場の主要企業には、Nabtesco Corporation、SEW-Eurodrive GmbH & Co. KG、Wittenstein SE、Harmonic Drive SE、住友重機械工業株式会社などが挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空機エンジン市場の成長に重要な役割を果たす主要な主要企業には、GE Aviation、Safran S.A.、Textron Inc.、Rolls-Royce Holdings Plc.、CFM International SAなどが含まれます",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の航空機エンジン市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、GE Aviation、Safran S.A.、Textron Inc.、Rolls-Royce Holdings Plc.、CFM International SAなどは、世界の航空機エンジン市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、Mitsubishi Corporation、IHI Corporation、Kawasaki Heavy Industries, Ltd.、Honda Aircraft Company、Nippon Steel Corporationなどは、航空機エンジン市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場シェアの主な企業リスト：",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に、この分析では、航空機エンジン市場における主要企業とその競争上の地位を概説しています",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "その他の主要企業としては、CFM International SA、Safran SA、Rolls Royce Holdings PLCがあります",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "商用ドローン市場規模、シェア、成長、主要企業、2032年までの需要分析",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "ワイヤレスインフラ市場の規模、シェア、新たなトレンドと需要、主要企業の洞察（2032年まで）",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン業界の主要企業：",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の詳細なプロフィールも掲載されている",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には以下のようなものがある：",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、ステークホルダーが競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供する",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント別データ、およびベンダー情勢が盛り込まれています",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "pass": 3
+   },
+   {
+    "quote": "従来型航空機エンジンの市場における主要プレイヤーは、現在も航空機エンジン市場全体の主要企業である",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、非典型的な航空機エンジンに対する機能性向上の需要拡大に応え、現行エンジンより効率的で信頼性の高い航空機エンジンを提供するため、多くの新規参入企業が革新的な開発を進めている",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "この成長はGEアビエーションやハネウェル・インターナショナルなどの主要企業の存在に起因する",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場主要企業",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 主要プレイヤーの採用戦略",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Prominent players operating in the aircraft engine industry are as mentioned below:",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the aircraft engine market?",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market report is to help understand which market segments, regions are expected to grow at higher rates, factors affecting the market, and key opportunity areas, which will drive the industry and market growth through the forecast period. The report also includes the competitive landscape of key players in the industry along with their recent developments in the",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market. The report studies factors such as company size, market share, market growth, revenue, production volume, and profits of the key players in the",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "9. Global Aircraft Engine Market: Competitive Landscape",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "9.2. Competitive Landscape",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Key Players Benchmarking",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key Players in the glob al Aircraft Engines Market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Atomization Technologies Inc., Enjet Aero, Engine Alliance, and Rolls-Royce are a few leading players.",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The market for aircraft engine is seeing an increasing number of merger and acquisition (M&A) activities by the leading players underlying a dynamic industry landscape. This underscores the industry's evolving landscape, characterized by strategic moves to consolidate market positions, expand technological capabilities, and leverage partnerships for enhanced competitiveness and innovation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Rolls-Royce, General Electric Company, and Pratt & Whitney.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in aircraft engine market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the aircraft engine market include Rolls-Royce, General Electric Company, Pratt & Whitney, ITP Aero, Engine Alliance, Advanced Atomization Technologies Inc, and among others",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "This market also includes related services such as maintenance, repair, and overhaul (MRO). Key players like General Electric, Rolls-Royce, and Pratt & Whitney are actively innovating to meet the evolving needs of airlines and",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, the surge in e-commerce and cargo services has led to a heightened demand for freighter aircraft, further boosting engine sales. Major players, such as Airbus and Boeing, have reported record backlogs for aircraft deliveries, translating into sustained demand for aircraft engines. For instance, as of mid-2024, Boeing’s commercial aircraft backlog exceeded",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "General Electric Company, Safran SA, Rolls-Royce plc, RTX Corporation, Honeywell International Inc., Rostec, MTU Aero Engines AG, IHI Corporation, Textron Inc., Mitsubishi Heavy Industries Aero Engines, Ltd., Other Key Players",
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players in the Aircraft Engine Market: Powering the Skies in 2024–2025",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   },
+   {
+    "quote": "But who are the key players steering this high-flying sector? Let’s dive into the companies shaping the future of aviation propulsion, their innovations, and what sets them apart.",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players are not just building engines; they’re redefining aviation’s future with fuel-efficient, eco-friendly technologies.",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Market Trends and Competitive Landscape",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Challenges Facing Leading Players",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Major players in the aircraft engines market are General Electric Company, Rolls Royce, Honeywell International, United Technologies Corporation, Safran, International Aero Engines, MTU Aero Engines, Textron, Hindustan Aeronautics, and Klimov.",
+    "url": "https://www.prnewswire.com/news-releases/global-aircraft-engines-market-report-2021-market-is-expected-to-reach-91-28-billion-in-2025---long-term-forecast-to-2030--301367574.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "航空機エンジン市場規模 、シェア、動向 |成長 [2034] — 航空機エンジン市場規模 、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場規模 、シェア、業界レポート、2035年 — 航空機エンジン市場規模 、シェア、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル 航空機エンジン市場 動向 | 分析2033 — グローバル 航空機エンジン市場 動向 | 分析2033 Spherical Insights https://www.sphericalinsights.com > aircraft-engine-market",
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） — 航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] — 航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 規模、 シェア 、業界レポート、2035年 — 航空機エンジン市場 規模、 シェア 、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... — 2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... inkrich https://aerospaceanddefense.inkrich.com > posts",
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 の規模、 シェア 、業界動向（2031年まで） — 航空機エンジン市場 の規模、 シェア 、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 規模、シェア、動向 |成長 [2034] — 航空機エンジン市場 規模、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 の規模、シェア、業界動向（2031年まで） — 航空機エンジン市場 の規模、シェア、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空機エンジン市場 規模、シェア、予測 | 業界分析 [2033] — 航空機エンジン市場 規模、シェア、予測 | 業界分析 [2033] IMARC Group https://www.imarcgroup.com > Aerospace and Defense",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share & Industry Report, 2035 — Aircraft Engine Market Size , Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engines Market Size , Share, Trends & Growth, 2035 — Aircraft Engines Market Size , Share, Trends & Growth, 2035 MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share, Trends | Growth [2034] — Aircraft Engine Market Size , Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market - Industry Analysis Forecast 2034 — Aircraft Engine Market - Industry Analysis Forecast 2034 Stellar Market Research https://www.stellarmr.com > report",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engines Market Size | Global Forecasts Report, 2032 — Aircraft Engines Market Size | Global Forecasts Report, 2032 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Global Aircraft Engines Market Report 2021 - PR Newswire — Global Aircraft Engines Market Report 2021 - PR Newswire PR Newswire https://www.prnewswire.com > global...",
+    "url": "https://www.prnewswire.com/news-releases/global-aircraft-engines-market-report-2021-market-is-expected-to-reach-91-28-billion-in-2025---long-term-forecast-to-2030--301367574.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share & Industry Trends 2031 — Aircraft Engine Market Size , Share & Industry Trends 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size , Share And Growth Report, 2030 — Aircraft Engine Market Size , Share And Growth Report, 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, Share, Trends | Growth [2034] — Aircraft Engine Market Size, Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "pass": 3
+   },
+   {
+    "quote": "America Aircraft Engines Market Growth Report 2030 — America Aircraft Engines Market Growth Report 2030 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/america-aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, Share & Industry Report, 2035 — Aircraft Engine Market Size, Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, Share , Trends | Growth [2034] — Aircraft Engine Market Size, Share , Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engine Market Size, Share & Industry Trends 2031 — Aircraft Engine Market Size, Share & Industry Trends 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Aircraft Engine Market Leaders throughout 2024– 2025 — Top Aircraft Engine Market Leaders throughout 2024– 2025 nextmsc.com https://www.nextmsc.com > Blog",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025?srsltid=AYCX9vIRGnSjxLQ509AXLYv8aUt02j_O9Q1Gmxfw38J1RHaTvxF2JztN",
+    "pass": 3
+   },
+   {
+    "quote": "Aircraft Engines Market Size, Share , Trends & Growth, 2035 — Aircraft Engines Market Size, Share , Trends & Growth, 2035 MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "In October 2024, Safran Aircraft Engines in Paris, France, kicked off a USD 1 billion investment plan to expand and modernize its global maintenance, repair, and overhaul (MRO) network. The aim is to integrate with the expanding fleet of LEAP engine worldwide with composite materials.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is expected to reach USD 203.3 billion by 2035, growing at a CAGR of 9.1% due to fleet modernization, expanding aftermarket services, and defense aviation investments.",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace has announced an investment of USD 11 million to upgrade its aircraft engine repair facility in Singapore into a state-of-the-art “smart factory.” This transformation aims to revolutionize engine repair processes and enhance workforce skill development, ensuring the facility is equipped to support emerging technologies and future demands in the aerospace sector.",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "is estimated to record a notable CAGR from 2024 to 2030, propelled by the expansion of civil aviation and defense sectors. Initiatives such as \"Make in India\" encourage local manufacturing of aircraft components, including engines. Increasing air connectivity and investments in airport infrastructure further stimulate demand for new engines and maintenance services.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "is estimated to grow at the highest CAGR from 2024 to 2030. The market thrives on its renowned engine manufacturers, developing high-thrust engines and innovative propulsion systems. Strategic partnerships with global aerospace leaders and investments in research and development drive advancements in engine performance and reliability.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for a considerable revenue share in 2023, which is further fueled by substantial investments in the defense and commercial aviation sectors. The country's Vision 2030 initiative emphasizes local manufacturing and technology transfer, driving partnerships with global engine manufacturers to develop and maintain advanced engines for military and civilian aircraft.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Ivchenko Progress D-18",
+    "url": "https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "freighters, although the Ivchenko Progress D-36/Ivchenko Progress",
+    "url": "https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Aircraft Engine Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace announced an additional USD 1 billion investment across US manufacturing sites and suppliers to accelerate aircraft engine deliveries, increase LEAP engine production, strengthen defense engine manufacturing, and expand aerospace production capacity.",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pratt & Whitney announced a USD 200 million investment in its Columbus, Georgia operations to expand manufacturing capabilities supporting commercial aircraft engines, geared turbofan engines, and military propulsion programs.",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tata Advanced Systems and Safran Aircraft Engines established a new aerospace manufacturing facility in India with an investment of approximately USD 51 million to produce rotating components for CFM LEAP aircraft engines.",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "GE Aerospace announced a USD 1 billion investment across its US manufacturing facilities and supplier network to increase aircraft engine production capacity, strengthen LEAP engine manufacturing, expand defense engine programs, and support advanced aerospace technologies.",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "The unmanned aerial vehicles segment is projected to grow at a CAGR of 5.4% during the forecast period due to increasing deployment across military surveillance, border security, logistics, and commercial inspection applications. Defense organizations are expanding investments in long-endurance unmanned aerial systems equipped with lightweight propulsion technologies.",
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2024, Safran announced an investment plan of more than €1 billion for the development of its global maintenance, repair and overhaul (MRO) network to support the growing fleet of LEAP engines around the world.",
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "9.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2026年の927億米ドルから2031年には1,382億米ドル、2035年には2,033億米ドルへと、予測期間中にCAGR 9.1%で成長すると予測されています"
+   },
+   {
+    "value": "5.87",
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "quote": "今後、IMARCグループは、市場が2033年までに1,697億米ドルに達し、2025年から2033年の間に年平均成長率（CAGR）5.87%を示すと予測しています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "quote": "Spherical Insights & Consulting が発表したリサーチレポートによると、グローバル商用航空機エンジン市場規模は、2025 年 USD 165.12 億米ドル 2035 億米ドル 165.12 億米ドル の予測期間 2026～2035 年 CAGR の 5.6% から成長する予定です"
+   },
+   {
+    "value": "7.2",
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "quote": "航空機エンジン用コンプレッサーの世界市場は、2025年から2030年にかけて176億3,500万米ドル成長し、予測期間中のCAGRは7.2％になると予測されています"
+   },
+   {
+    "value": "7.92",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "quote": "2024年から2034年までの予測期間において、年平均成長率（CAGR）7.92％で拡大する見込みである"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The global aircraft engine market was valued at USD 86.7 billion in 2025. The market is expected to grow from USD 92.7 billion in 2026 to USD 138.2 billion in 2031 and USD 203.3 billion in 2035, at a CAGR of 9.1% during the forecast period, according to the latest report published by Global Market I"
+   },
+   {
+    "value": "9.2",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The turboshaft segment is expected to grow at a CAGR of over 9.2% by 2035. The market has been increasing steadily in the turboshaft category as commercial and military helicopters and unmanned aircraft (UAVs) use these engines continue to grow."
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The hybrid segment is expected to grow at a CAGR of 8.7% during the forecast period. This growth is largely driven by the need for sustainability, airline emissions reduction goals, and the quick acceptance of hybrid propulsion systems in short-haul and regional aircraft."
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The military aircraft is expected to grow at a CAGR of 11.2% during the forecast period. The defense modernization initiatives of major nations are leading to an increased demand for advanced military aircraft such as fighters, transport aircraft, and helicopters."
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The Asia Pacific market is anticipated to grow at a CAGR of 9.3% during the analysis timeframe."
+   },
+   {
+    "value": "10.3",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "China aircraft engine market is estimated to grow with a CAGR of 10.3% during the forecast period, in the Asia Pacific aircraft engine industry."
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "quote": "size was valued at USD 6.29 Bn. in 2025. The global Aircraft Engine Market is estimated to grow at a CAGR of 8.7% over the forecast period."
+   },
+   {
+    "value": "10.8",
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "quote": "growing at a CAGR of 10.8%"
+   },
+   {
+    "value": "9.81",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "quote": "The global aircraft engine market size was estimated at USD 56.28 billion in 2023 and is projected to reach USD 112.10 billion by 2030, growing at a CAGR of 9.81% from 2024 to 2030."
+   },
+   {
+    "value": "8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "quote": "The aircraft engine market in the U.S. is expected to grow at a notable CAGR of 8% from 2024 to 2030."
+   },
+   {
+    "value": "9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "quote": "The aircraft engine market in Europe is anticipated to grow at a CAGR of nearly 9% from 2024 to 2030. The market benefits from established aerospace infrastructure and technological innovation. Companies in Germany, the UK, and France lead in engine development, focusing on fuel efficiency, reduced "
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "従来型セグメントは2025年に61,7%の市場シェアを保持しました"
+   },
+   {
+    "value": "61",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "民間航空機セグメントは、61%以上の市場シェアを占め、2025年には496億米ドルの市場規模となりました"
+   },
+   {
+    "value": "43.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "北米は、2025年に43.4%の市場シェアで世界市場を支配しました"
+   },
+   {
+    "value": "39.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "Rolls-Royce、Pratt & Whitney (RTX)、MTU Aero Engines AG、およびIHI Corporationなどの企業は、市場シェアの39.9%を占めており、燃費効率、信頼性、および排出(民間、軍用、および地域)の主要課題に対処するために研究開発(R&D)の強化を推進しています"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "Rolls-Royceは、先進的なターボファンおよびターボシャフトエンジン、広範なグローバルサービスネットワーク、民間および軍用航空機OEMとの強固なパートナーシップにより、2025年に市場の14.3%を占めました"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "Pratt & Whitney (RTX)は、次世代ギアードターボファンエンジン、燃料効率への注力、主要航空機メーカーとの戦略的パートナーシップにより、2025年に市場の11.7%を占めました"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "quote": "IHI Corporationは、ビジネス、地域、および防衛航空機向けのターボファンおよびターボシャフトエンジンに注力し、市場の5.6%を占めました"
+   },
+   {
+    "value": "33",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "quote": "航空機エンジンに関する当社の市場見通しによると、北米の市場は予測期間中に約 33% の主要市場シェアを維持すると予想されますが、欧州の市場は主に航空宇宙産業への投資の増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています"
+   },
+   {
+    "value": "55",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "quote": "これらのうち、商用セグメントは予測期間中に約55％の最大の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "45",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "quote": "これらのうち、ターボプロップセグメントは、予測期間中に約 45% の最大の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "25",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "quote": "世界の航空機エンジン市場分析によると、アジア太平洋地域は、予測期間中に総市場収益の約25％の市場シェアを占めるはずです"
+   },
+   {
+    "value": "23",
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "quote": "当社の調査レポートによると、日本の格安航空会社の供給能力のシェアは約 23% で、着実に増加しています"
+   },
+   {
+    "value": "71",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "quote": "タイプ別では、ターボファンエンジンが2023年に71%の収益シェアを記録した"
+   },
+   {
+    "value": "38",
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "quote": "ストックホルム国際平和研究所（SIPRI）によれば、2021年に米国が軍事費に費やした8,010億米ドルは、世界の軍事支出総額の約38％を占めた"
+   },
+   {
+    "value": "61.7",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "The conventional segment held market share of 61.7% in 2025. With the modernization of airlines' fleet, the demand for conventional engines is increasing. New and improved aircraft burn less fuel, resulting in more and more airlines replacing their old aircraft with these new models."
+   },
+   {
+    "value": "43.4",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "North America dominated the global market with a market share of 43.4% in 2025."
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "14.3% Market Share"
+   },
+   {
+    "value": "39.9",
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "quote": "Collective market share in 2025 is 39.9%"
+   },
+   {
+    "value": "71",
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "quote": "technology segment held the largest market share with 71% in 2025. An aero-engine is another name for a"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/aircraft-engine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/aeroengine-global-top-players-market-yhr24ap50903",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/aircraft-engine-market-119095",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cirium.com/jp/thoughtcloud/for-the-aircraft-engine-market-newer-may-not-be-better-yet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31207944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aerotime.aero/articles/32417-who-are-the-world-s-largest-aircraft-engine-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simpleflying.com/ge-rolls-royce-pratt-whitney/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/america-aircraft-engines-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20230717517504/en/Global-Aircraft-Engine-Market-Report-2023-2028-Digitalization-IoT-Integration-and-Advanced-Materials-Transforming-the-Aircraft-Engine-Market-in-the-Era-of-Smart-and-Sustainable-Aviation---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/aircraft-engine-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/global-aircraft-engines-market-report-2021-market-is-expected-to-reach-91-28-billion-in-2025---long-term-forecast-to-2030--301367574.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/aircraft-engine-parts-manufacturing/842/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/aircraft-engine-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6092663/aircraft-engines-market-outlook-market-share",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "航空機エンジン 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "https://jp.linkedin.com/pulse/%E5%95%86%E7%94%A8%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B0%86%E6%9D%A5%E5%B1%95%E6%9C%9B%E4%B8%BB%E8%A6%81%E3%81%AA%E6%88%90%E9%95%B7%E8%A6%81%E5%9B%A0%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%8A%E3%82%88%E3%81%B32033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr-7515866226934476801-8rvhe",
+    "https://www.sdki.jp/reports/aircraft-engines-market/108286",
+    "https://www.sphericalinsights.com/jp/reports/aircraft-engine-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "https://www.businessresearchinsights.com/jp/market-reports/aircraft-engine-market-119095",
+    "https://deallab.info/aircraft-engine/",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/航空機エンジン市場-101766"
+   ]
+  },
+  {
+   "query": "航空機エンジン 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/aircraft-engine/",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market",
+    "https://aerospaceanddefense.inkrich.com/posts/26/",
+    "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "https://www.marketreport.jp/aeroengine-global-top-players-market-yhr24ap50903",
+    "https://jp.linkedin.com/pulse/%E6%B0%B4%E7%B4%A0%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E4%B8%96%E7%95%8C%E3%82%B7%E3%82%A7%E3%82%A2%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0-brixoracx-asehe",
+    "https://www.businessresearchinsights.com/jp/market-reports/aircraft-engine-market-119095",
+    "https://www.cirium.com/jp/thoughtcloud/for-the-aircraft-engine-market-newer-may-not-be-better-yet/",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/航空機エンジン市場-101766"
+   ]
+  },
+  {
+   "query": "航空機エンジン 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766",
+    "https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market",
+    "https://deallab.info/aircraft-engine/",
+    "https://jp.linkedin.com/pulse/%E8%88%AA%E7%A9%BA%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%90%91%E3%81%91cfrp%E5%B8%82%E5%A0%B4%E3%81%AE%E8%A6%8F%E6%A8%A1-%E6%88%90%E9%95%B7%E4%BA%88%E6%B8%AC%E7%94%A8%E9%80%94%E5%88%A5%E5%88%86%E6%9E%90-puneet-s-shah-3z1kc",
+    "https://www.cirium.com/jp/thoughtcloud/for-the-aircraft-engine-market-newer-may-not-be-better-yet/",
+    "https://www.imarcgroup.com/report/ja/aircraft-engine-market",
+    "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-commercial-aircraft-engines-market-2026-2035-expert-view-by-spherical-insights",
+    "https://japan.zdnet.com/release/31207944/",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/航空機エンジン市場-101766",
+    "https://www.globalresearch.co.jp/reports/aircraft-engine-market-pred/"
+   ]
+  },
+  {
+   "query": "aircraft engine market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html",
+    "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "https://www.prnewswire.com/news-releases/global-aircraft-engines-market-report-2021-market-is-expected-to-reach-91-28-billion-in-2025---long-term-forecast-to-2030--301367574.html",
+    "https://www.precedenceresearch.com/aircraft-engine-market",
+    "https://market.us/report/aircraft-engine-market/",
+    "https://www.linkedin.com/pulse/global-narrow-body-aircraft-engine-market-size-2025-2032-lqq7f",
+    "https://www.verifiedmarketreports.com/product/aircraft-engine-market-size-and-forecast/"
+   ]
+  },
+  {
+   "query": "aircraft engine market share top players percent",
+   "results": [
+    "https://www.aerotime.aero/articles/32417-who-are-the-world-s-largest-aircraft-engine-manufacturers",
+    "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report",
+    "https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers",
+    "https://simpleflying.com/ge-rolls-royce-pratt-whitney/",
+    "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "https://www.statista.com/topics/6331/global-aircraft-engine-market/?srsltid=AYCX9vKY8t_RlOGYfezs1kOrDCkl6EUX8s8cHyZMOodJZ-GBUHp41pI7",
+    "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025?srsltid=AYCX9vIUQ3e9zYGQRii4gZfTQnbqIxzVIiL53FJV5awheBkKiTNC1-hr",
+    "https://www.statista.com/topics/6331/global-aircraft-engine-market/"
+   ]
+  },
+  {
+   "query": "aircraft engine market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp",
+    "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "https://www.facebook.com/groups/186360765070814/posts/2070527196654152/",
+    "https://www.stellarmr.com/report/Aircraft-Engine-Market/444",
+    "https://www.linkedin.com/pulse/navigating-competitive-landscape-commercial-aircraft-engine-mwq5e",
+    "https://www.mordorintelligence.com/industry-reports/america-aircraft-engines-market",
+    "https://www.businesswire.com/news/home/20230717517504/en/Global-Aircraft-Engine-Market-Report-2023-2028-Digitalization-IoT-Integration-and-Advanced-Materials-Transforming-the-Aircraft-Engine-Market-in-the-Era-of-Smart-and-Sustainable-Aviation---ResearchAndMarkets.com",
+    "https://straitsresearch.com/report/aircraft-engine-market",
+    "https://market.us/report/aircraft-engine-market/",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "aircraft engine market key companies share 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/aircraft-engine-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766",
+    "https://www.mordorintelligence.com/industry-reports/aircraft-engines-market",
+    "https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025?srsltid=AYCX9vIRGnSjxLQ509AXLYv8aUt02j_O9Q1Gmxfw38J1RHaTvxF2JztN",
+    "https://www.prnewswire.com/news-releases/global-aircraft-engines-market-report-2021-market-is-expected-to-reach-91-28-billion-in-2025---long-term-forecast-to-2030--301367574.html",
+    "https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html",
+    "https://www.ibisworld.com/united-states/industry/aircraft-engine-parts-manufacturing/842/",
+    "https://www.facebook.com/Collegeofaviationtechnology/posts/powering-the-skies-in-20242025leading-players-in-the-aircraft-engine-market-cost/808074608239406/",
+    "https://www.precedenceresearch.com/aircraft-engine-market",
+    "https://www.researchandmarkets.com/reports/6092663/aircraft-engines-market-outlook-market-share"
+   ]
+  }
+ ],
+ "missing": {}
+}

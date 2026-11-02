@@ -1,0 +1,1211 @@
+{
+ "name": "RUF Automobile",
+ "aliases": [
+  "RUF",
+  "ルーフ"
+ ],
+ "context": "少量生産メーカー（独）",
+ "researched_at": "2026-11-02T14:43:39.862268+00:00",
+ "official_url": "https://www.ruf-automobile.de",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Alois Ruf Jr. (Chairman)",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "車以外の顧客・産業": [
+   {
+    "quote": "RUF Automobile: Sportwagen in Vollendung",
+    "url": "https://www.ruf-automobile.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Fahrbarkeit, Langlebigkeit und Zuverlässigkeit – in allen Lebenslagen – dafür steht RUF. Unsere Sportwagen vereinen maximale Fahrperformance, Alltagstauglichkeit und Individualität. Egal ob offen im Roadster oder geschlossen im Coupé – der pure Fahrspaß ist ein Muss. Unser unablässiges Streben nach höchster Vollendung lässt zweitbesten Lösungen keinen Raum.",
+    "url": "https://www.ruf-automobile.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Die RUF Sommerkollektion 2026 ist inspiriert von klassischen Rennwochenenden, den Teambekleidungen vergangener Motorsport-Epochen und der Straßenkultur, die die Automobilwelt seit Jahrzehnten begleitet.",
+    "url": "https://www.ruf-automobile.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Zur außergerichtlichen Streitbeilegung von verbraucherrechtlichen Streitigkeiten hat die Europäische Kommission eine Plattform zur Online-Streitbeilegung (OS) eingerichtet. Die Plattform finden Sie voraussichtlich ab 15.02.2016 unter http://ec.europa.eu/consumers/odr/. Unsere E-Mail-Adresse lautet info@ruf-automobile.de .",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer information according to Regulation (EU) No. 524/2013",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "The European Commission has set up a platform for online dispute resolution (OS) for the out-of-court settlement of consumer disputes. The platform is expected to be available from February 15, 2016 at http://ec.europa.eu/consumers/odr/. Our email address is info@ruf-automobile.de.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Note in accordance with Section 36 of the Consumer Dispute Settlement Act (VSBG)",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "The seller / contractor will not take part in a dispute settlement procedure before a consumer arbitration board within the meaning of the VSBG and is also not obliged to do so.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "This is particularly relevant from an engineering perspective. Unlike alternative energy carriers that require fundamental changes to vehicle architecture, e-Fuels can be used in existing internal combustion engines without requiring modifications to the powertrain. They can also utilize existing fuel storage, transportation and refueling infrastructure.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "sports car",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Gran Turismo Sport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Auto, Motor und Sport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ". Auto Motor und Sport. 1977",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "\"Electric Drive Transportation Association\"",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Transport in Germany",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Abt Sportsline",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Schnitzer Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Audi Sport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Hamann Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "MK-Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Schubert Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "CTR3 Clubsport",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Sports car manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Sports",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports Betting",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yahoo Sports AM",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Cyclical",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Defensive",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Clean Energy",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & Defense",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "AlphaSpace",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF AUTOMOBILE GMBH",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Geschäftsform: GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Die abgebildeten Fahrzeugmodelle zeigen die Ausstattung für die Bundesrepublik Deutschland. Diese enthalten auch Sonderausstattungen, die nicht zum serienmäßigen Lieferumfang gehören und nur gegen Aufpreis erhältlich sind. In manchen Ländern sind aufgrund besonderer Bestimmungen und Auflagen nicht alle Modelle verfügbar.",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Die Bezeichnung „RUF“, sowie das „RUF-Logo“ sind eingetragene Marken der RUF Automobile GmbH . RUF Automobile ist ferner Inhaberin zahlreicher anderer Marken und Designs. Alle Texte, Bilder, Audio-Dateien und veröffentlichte Informationen unterliegen dem Copyright der RUF Automobile GmbH.",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Eine Reproduktion oder Wiedergabe auch nur von Teilen ist ohne schriftliche Genehmigung der RUF Automobile GmbH nicht gestattet.",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF AUTOMOBILE GMBH",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Business form: GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "The designation \"RUF\" and the \"RUF logo\" are registered trademarks of RUF Automobile GmbH. RUF Automobile is also the owner of numerous other brands and designs. All texts, images, audio files and published information are subject to the copyright of RUF Automobile GmbH.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Reproduction or reproduction, even in part, is not permitted without the written consent of RUF Automobile GmbH.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/ruf-b8/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/ruf-b8/",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 - RUF Automobile GmbH",
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "pass": 1
+   },
+   {
+    "quote": "Ruf Automobile GmbH",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "The seller / contractor will not take part in a dispute settlement procedure before a consumer arbitration board within the meaning of the VSBG and is also not obliged to do so.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "The vehicle models shown show the equipment for the Federal Republic of Germany. These also contain special equipment that is not part of the standard scope of delivery and is only available at an additional cost. In some countries, not all models are available due to special regulations and requirements.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Please inform yourself about the available models and the exact scope of equipment at your RUF base or your RUF importer. We reserve the right to make changes to construction, equipment and scope of delivery as well as deviations in color. All prices quoted are non-binding.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "The designation \"RUF\" and the \"RUF logo\" are registered trademarks of RUF Automobile GmbH. RUF Automobile is also the owner of numerous other brands and designs. All texts, images, audio files and published information are subject to the copyright of RUF Automobile GmbH.",
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration With Renewable Fuels Company HIF Global",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration between RUF and HIF Global therefore brings together two complementary areas of engineering—advanced high-performance powertrain development and renewable fuel production—with the objective of demonstrating how combustion technology can continue to evolve.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "By bringing the B8 to Goodwood and participating with it in the Supercar Run, RUF pays homage to its “hidden in plain sight” testing approach. RUF prefers to show its engineering prowess rather than tell, and with each run up the hill RUF looks forward to letting the world hear the unique sound of its twin-turbo boxer-eight for the first time.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/ruf-b8/",
+    "pass": 1
+   },
+   {
+    "quote": "Ruf Automobile - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ", and as a 20th anniversary celebration of the original CTR and successor to the CTR2. The Ruf CTR3 was designed and engineered in a partnership with the Canadian engineering firm",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ". The CTR Anniversary is Ruf's second model to use their own body and chassis design, which was designed and engineered in partnership with German engineering firm Vela Performance. The Ruf CTR Anniversary retains the",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "'s rear-engine layout, but does not use any major Porsche components. The only original Porsche parts are windows and windscreen wipers borrowed from the 964 and 993.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "franchises as a substitute for the Porsche models they are based on due to Porsche's exclusive licensing in video games.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "series due to sub licensing arrangements made between EA and their games' respective developers,",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "and more used Ruf models in place of Porsche. This circumvented Porsche's licensing as Ruf is considered by the German government to be a full-fledged manufacturer, and as such Ruf models have unique",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "features both brands, but neither competes against each other due to the game's car classification system.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "and other games feature both brands that can compete against each other at any time.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "\"EA's exclusive licensing deal with Porsche is over\"",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Hildebrand",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Lipsia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "L.W.D. ( Lippische Werke Detmold)",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "AMI Leipzig",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Ruf_Automobile&oldid=1380256275",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "German brands",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Short description matches Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Official website different in Wikidata and Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ". Wikipedia® is a registered trademark of the",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to navigation",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to right column",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "IPO Calendar",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "During Monterey Car Week, RUF’s new vehicles—including the EHRA—were powered by HIF e-Fuels, demonstrating the compatibility of synthetic renewable fuels with modern high-performance powertrains.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "This is particularly relevant from an engineering perspective. Unlike alternative energy carriers that require fundamental changes to vehicle architecture, e-Fuels can be used in existing internal combustion engines without requiring modifications to the powertrain. They can also utilize existing fuel storage, transportation and refueling infrastructure.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration between RUF and HIF Global therefore brings together two complementary areas of engineering—advanced high-performance powertrain development and renewable fuel production—with the objective of demonstrating how combustion technology can continue to evolve.",
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "pass": 1
+   },
+   {
+    "quote": "to build cars, today they build vehicles on their own bodies and chassis. They also manufacture performance parts for various Porsche models, including the",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "The Ruf CTR3 was Ruf's first entirely unique model, built using their own chassis and body. The CTR3 differs from typical Ruf models in that it uses a",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ". The CTR Anniversary is Ruf's second model to use their own body and chassis design, which was designed and engineered in partnership with German engineering firm Vela Performance. The Ruf CTR Anniversary retains the",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "'s rear-engine layout, but does not use any major Porsche components. The only original Porsche parts are windows and windscreen wipers borrowed from the 964 and 993.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": ". The SCR uses the same in-house body and chassis design from the",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Components",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Battery electric vehicle manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Porsche 997 GT3 RS 4.0",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "series.",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "series due to sub licensing arrangements made between EA and their games' respective developers,",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 1939 in",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Styling Garage",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sports cars in perfection - RUF Automobile — Sports cars in perfection - RUF Automobile RUF Automobile https://www.ruf-automobile.de > ...",
+    "url": "https://www.ruf-automobile.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Ruf Automobile - Wikipedia — Ruf Automobile - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Ruf_...",
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "pass": 3
+   },
+   {
+    "quote": "Working with luxury cars at Ruf - Facebook — Working with luxury cars at Ruf - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1939836749567520/posts/3225585027659346/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF AUTOMOBILE ANNOUNCES FIRST-EVER NORTH ... — RUF AUTOMOBILE ANNOUNCES FIRST-EVER NORTH ... Kahn Media https://kahnmedia.com > ruf-automob...",
+    "url": "https://kahnmedia.com/ruf-automobile-announces-first-ever-north-american-headquarters/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF North America on Instagram — RUF North America on Instagram Instagram https://www.instagram.com > DXrtDy...",
+    "url": "https://www.instagram.com/p/DXrtDyHknSm/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF Automobile GmbH Information - RocketReach — RUF Automobile GmbH Information - RocketReach RocketReach https://rocketreach.co > ruf-automobil...",
+    "url": "https://rocketreach.co/ruf-automobile-gmbh-profile_b452959bfc8eeff4",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche in talks to buy Ruf Automobile after hopes ... - Facebook — Porsche in talks to buy Ruf Automobile after hopes ... - Facebook Facebook https://www.facebook.com > RoadandTrack > posts > por...",
+    "url": "https://www.facebook.com/RoadandTrack/posts/porsche-in-talks-to-buy-ruf-automobile-after-hopes-of-acquiring-singer-fall-flat/1425999349389259/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF RELEASES FILM TO CELEBRATE 80TH ... — RUF RELEASES FILM TO CELEBRATE 80TH ... Kahn Media https://kahnmedia.com > ruf-releases-...",
+    "url": "https://kahnmedia.com/ruf-releases-film-to-celebrate-80th-anniversary-and-pivotal-moments/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF Carbon Fiber Chassis With Steel Integrated Roll Cage — RUF Carbon Fiber Chassis With Steel Integrated Roll Cage Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/RUF.Automobile.GmbH/videos/our-cars-chassis-are-100-carbon-fiber-and-our-steel-integrated-integrated-roll-c/1584606015950899/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF North America — RUF North America RUF North America https://rufnorthamerica.com",
+    "url": "https://rufnorthamerica.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ruf and special Porsche Value dilemma - Pelican Parts Forums — Ruf and special Porsche Value dilemma - Pelican Parts Forums Pelican Parts http://forums.pelicanparts.com > 518...",
+    "url": "http://forums.pelicanparts.com/911-930-turbo-super-charging-forum/518908-ruf-special-porsche-value-dilemma.html",
+    "pass": 3
+   },
+   {
+    "quote": "RUF Automobile GmbH (@rufsince1939) - Instagram — RUF Automobile GmbH (@rufsince1939) - Instagram Instagram https://www.instagram.com > rufsince...",
+    "url": "https://www.instagram.com/rufsince1939/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF is a manufacturer! - GTPlanet — RUF is a manufacturer! - GTPlanet GTPlanet https://www.gtplanet.net > threads > r...",
+    "url": "https://www.gtplanet.net/forum/threads/ruf-is-a-manufacturer.51034/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF Automobiles : r/ cars - Reddit — RUF Automobiles : r/ cars - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/cars/comments/5owy98/ruf_automobiles/",
+    "pass": 3
+   },
+   {
+    "quote": "Report of Porsche Acquiring RUF Was False, Company Says — Report of Porsche Acquiring RUF Was False, Company Says Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "For decades, Glasurit is RUF Automobile's trusted partner for ... — For decades, Glasurit is RUF Automobile's trusted partner for ... Facebook https://www.facebook.com > posts > for-decades-glasurit-i...",
+    "url": "https://www.facebook.com/Glasurit.Automotive.Refinish/posts/for-decades-glasurit-is-ruf-automobiles-trusted-partner-for-color-and-paint-germ/10158547280186086/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche, RUF and GT5 - trying to figure out the legal situation — Porsche, RUF and GT5 - trying to figure out the legal situation GTPlanet https://www.gtplanet.net > threads > p...",
+    "url": "https://www.gtplanet.net/forum/threads/porsche-ruf-and-gt5-trying-to-figure-out-the-legal-situation.184857/",
+    "pass": 3
+   },
+   {
+    "quote": "RUF Automobile - duPont REGISTRY News — RUF Automobile - duPont REGISTRY News duPont REGISTRY News https://news.dupontregistry.com > blogs",
+    "url": "https://news.dupontregistry.com/blogs/ruf-automobile",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Feedback",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Best 0% APR Cards",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "+0.54%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "+0.88%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "+0.82%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-1.66%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-0.67%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-2.52%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "+1.76%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-0.25%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-6.35%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   },
+   {
+    "quote": "-0.75%",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ruf-automobile.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/veranstaltungen/ruf-b8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/de/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-automobile.de/en/impressum/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/+498265/911911",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1939836749567520/posts/3225585027659346/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rocketreach.co/ruf-automobile-gmbh-profile_b452959bfc8eeff4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/RoadandTrack/posts/porsche-in-talks-to-buy-ruf-automobile-after-hopes-of-acquiring-singer-fall-flat/1425999349389259/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RUF.Automobile.GmbH/videos/our-cars-chassis-are-100-carbon-fiber-and-our-steel-integrated-integrated-roll-c/1584606015950899/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/rufsince1939/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/petrolicious/posts/the-first-feeling-you-get-when-walking-into-the-facility-was-how-personal-the-co/1384271403876696/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RUF Automobile engineering services clients other industries",
+   "results": [
+    "https://www.ruf-automobile.de/en/",
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://www.facebook.com/groups/1939836749567520/posts/3225585027659346/",
+    "https://kahnmedia.com/ruf-automobile-announces-first-ever-north-american-headquarters/",
+    "https://www.instagram.com/p/DXrtDyHknSm/",
+    "https://www.youtube.com/watch?v=lAOLFJODCcA",
+    "https://www.motorauthority.com/news/1135805_learn-the-story-behind-ruf-automobile",
+    "https://rocketreach.co/ruf-automobile-gmbh-profile_b452959bfc8eeff4",
+    "https://news.dupontregistry.com/blogs/ruf-automobile",
+    "https://rufengineering.com/"
+   ]
+  },
+  {
+   "query": "RUF Automobile revenue turnover employees",
+   "results": [
+    "https://rocketreach.co/ruf-automobile-gmbh-profile_b452959bfc8eeff4",
+    "https://www.facebook.com/RoadandTrack/posts/porsche-in-talks-to-buy-ruf-automobile-after-hopes-of-acquiring-singer-fall-flat/1425999349389259/",
+    "https://www.ruf-automobile.de/en/",
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://kahnmedia.com/ruf-releases-film-to-celebrate-80th-anniversary-and-pivotal-moments/",
+    "https://www.elferspot.com/en/magazine/visiting-ruf-automobile-porsche-gone-further/?srsltid=AYCX9vIYWNZIK9dD9yuGB_juMyYsRhBw7pdk_Yn5iiuiQLTfwSAUaQnf",
+    "https://www.roadandtrack.com/news/a73437973/porsche-ruf-acquisition-talks-rumor/",
+    "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "https://www.thedrive.com/guides-and-gear/what-is-ruf-porsche",
+    "https://www.owler.com/company/ruf-automobile"
+   ]
+  },
+  {
+   "query": "RUF Automobile supplies components to OEM",
+   "results": [
+    "https://www.ruf-automobile.de/en/",
+    "https://www.facebook.com/RUF.Automobile.GmbH/videos/our-cars-chassis-are-100-carbon-fiber-and-our-steel-integrated-integrated-roll-c/1584606015950899/",
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://rufnorthamerica.com/",
+    "http://forums.pelicanparts.com/911-930-turbo-super-charging-forum/518908-ruf-special-porsche-value-dilemma.html",
+    "https://www.reddit.com/r/cars/comments/839f8q/whats_the_relationship_between_ruf_and_porsche/",
+    "https://www.motorauthority.com/news/1135805_learn-the-story-behind-ruf-automobile",
+    "https://www.youtube.com/watch?v=-YCXkw3JyzM",
+    "https://www.wmotors.ae/member/ruf/",
+    "https://shop.ruf-automobile.de/en/collections/ruf-performance-parts"
+   ]
+  },
+  {
+   "query": "RUF Automobile aerospace defence non-automotive",
+   "results": [
+    "https://www.ruf-automobile.de/en/",
+    "https://www.instagram.com/rufsince1939/",
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://www.gtplanet.net/forum/threads/ruf-is-a-manufacturer.51034/",
+    "https://www.reddit.com/r/cars/comments/5owy98/ruf_automobiles/",
+    "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "https://www.youtube.com/watch?v=f9cIUfzQv00",
+    "https://www.rufautomobile.co.uk/",
+    "https://en.wikipedia.org/wiki/Ruf_Ehra",
+    "https://www.ruf-automobile.de/en/modelle/"
+   ]
+  },
+  {
+   "query": "RUF Automobile licensing technology partnership",
+   "results": [
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html",
+    "https://www.ruf-automobile.de/en/",
+    "https://www.facebook.com/Glasurit.Automotive.Refinish/posts/for-decades-glasurit-is-ruf-automobiles-trusted-partner-for-color-and-paint-germ/10158547280186086/",
+    "https://www.gtplanet.net/forum/threads/porsche-ruf-and-gt5-trying-to-figure-out-the-legal-situation.184857/",
+    "https://www.roadandtrack.com/news/a73437973/porsche-ruf-acquisition-talks-rumor/",
+    "https://www.reddit.com/r/cars/comments/blczpf/does_anyone_here_actually_own_a_ruf/",
+    "https://purebrandlicensing.com/ruf-automobile/",
+    "https://www.youtube.com/watch?v=UfA3tcVg1EM",
+    "https://rufnorthamerica.com/"
+   ]
+  },
+  {
+   "query": "RUF Automobile founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Ruf_Automobile",
+    "https://www.ruf-automobile.de/en/",
+    "https://www.facebook.com/petrolicious/posts/the-first-feeling-you-get-when-walking-into-the-facility-was-how-personal-the-co/1384271403876696/",
+    "https://news.dupontregistry.com/blogs/ruf-automobile",
+    "https://kahnmedia.com/ruf-releases-film-to-celebrate-80th-anniversary-and-pivotal-moments/",
+    "https://www.reddit.com/r/cars/comments/blczpf/does_anyone_here_actually_own_a_ruf/",
+    "https://carsyeah.com/ourportfolio/alois-ruf/",
+    "https://hifglobal.com/media/news-description/2026/08/17/hif-global-and-ruf-automobile-showcase-e-fuels-inhigh-performance-vehicles-at-monterey-car-week",
+    "https://www.motorauthority.com/news/1135805_learn-the-story-behind-ruf-automobile",
+    "https://www.hugegarage.com/figures/alois-ruf-sr/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部12頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部12頁・検索6回）"
+ }
+}

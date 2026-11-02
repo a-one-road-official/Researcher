@@ -1,0 +1,2699 @@
+{
+ "name": "Hexcel",
+ "aliases": [
+  "ヘクセル"
+ ],
+ "context": "複合材料（参考：素材側）（米）",
+ "researched_at": "2026-11-02T15:02:43.923821+00:00",
+ "official_url": "https://www.hexcel.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Tom Gentile (Chairman and CEO)",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "label": "Number of employees",
+    "value": "5,894 (2024)",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Sales/revenue",
+    "value": "1.99B 2.19B 2.37B 1.51B 1.32B",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "Advanced Composite Materials & Solutions | Hexcel",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CARBON FIBER",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HexTow Continuous Carbon Fiber",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Reinforcements",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HexMC® Molding Composite",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "global leader in advanced composite materials",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for Demanding Composite",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel empowers engineers and manufacturers with high-performance, certification-backed composite materials. Our solutions are crafted to meet rigorous standards in both performance and delivery.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Carbon Fiber Developer",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the world’s largest producer of aerospace carbon fiber and the leading supplier of carbon fiber to U.S. military programs, making it an industry leader in advanced aerospace materials.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineered Composite Solutions for",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our advanced materials enable lighter, stronger, and more efficient systems. Explore how our innovations transform industries like aerospace and automotive.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading Manufacturer of Carbon Fiber",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "carbon fiber is the preferred carbon fiber for the world’s most advanced aerospace and industrial composite applications.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Joining Composites and Metal",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel manufactures a wide range of film adhesives, foaming films, primers and liquid shims for metal-to-metal and composite bonding.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resin Formulations for Composites",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Materials Built for",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether in the air, in orbit, or on the road, Hexcel is a leading supplier of advanced composite materials to the most technologically advanced sectors in the global economy.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Materials Built for Your Industry",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the leading supplier of carbon fiber, honeycomb and other composite materials for the commercial aerospace industry.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From helicopters to defense aircraft to launch vehicles, Hexcel provides composites for more than 100 space and defense programs",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CARBON FIBER",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexTow Continuous Carbon Fiber",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Reinforcements",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexMC® Molding Composite",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Composites for Flight-Critical Applications",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "From commercial jets to space-bound systems, Hexcel delivers certified aerospace materials that meet performance and weight-reduction demands.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "of any composite materials manufacturer worldwide.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Composite Materials for",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the leading manufacturer of carbon fiber with more than 50 years of experience and the most qualified positions on aerospace programs.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel manufactures a wide range of film adhesives, foaming films, primers and liquid shims for metal-to-metal and composite bonding.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Parts and structures",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Parts and Structures",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel produces high-quality components, structures and assemblies to precise customer specifications.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "ARC Technologies, a Hexcel Company, is the leading supplier of microwave and RF absorbing materials for commercial and defense applications.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is a major supplier of composites for primary and secondary structures, aircraft interiors – and a leader in composites for new generation engines.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Repair",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The composites content in each new aircraft program has grown significantly since the introduction of prepregs in the 1970s. Composites are now essential materials in the construction of all aircraft and the commercial aerospace industry is the largest user of Hexcel advanced composites.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexTow® carbon fiber",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "for all composite primary structures of the A350 XWB.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Why use Hexcel composites?",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "With a spirit of innovation that has grown stronger and stronger for over 75 years, Hexcel continues to push back the performance boundaries for aircraft designers with IM carbon fiber, toughened epoxy resins, out-of autoclave curing prepregs, noise reducing honeycombs and value added composite parts.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "CARBON FIBER",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "HexTow Continuous Carbon Fiber",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Reinforcements",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "HexMC® Molding Composite",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is a leader in the Defense & Space market, primarily in the manufacture of advanced composites used in commercial helicopters and in military aircraft.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated composite solutions provider",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the most integrated composite solutions provider in the industry",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "experienced at all stages in the composites chain",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "We are currently qualified to supply materials to a broad range of more than 100 helicopter, military aircraft and space programs.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Announces Sponsorship of the USA Bobsled and Skeleton Team",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "technology patents",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexForce® Bias Weave fabric – a patented weaving process reducing scrap by up to 30%",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Through the CACRC qualifications, HexPly® M20 offers a harmonized product across multiple OEMs for airlines to purchase and stock for all their fleet repair needs.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Fin Tip: Epoxy/quartz prepregs",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Tip caps",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Outstanding material solutions and decades of experience are combined with a strong forward-looking Technical Support team that is ready to work in partnership with customers to ensure the best solutions for the designs of today and tomorrow.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Civil engineering spans many different types of applications from bridges, roadways, airports, tunnels, subsea structural protection, water supply, sewage systems, aquafarming to buildings. While being one of the oldest engineering disciplines, it continues to evolve and progress as new materials and technologies are brought to market.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "non-crimp fabrics provides superior structural reinforcement for the construction and repair of buildings, bridges, roads, pipes and numerous other civil engineering applications.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "are layers of unidirectional fibers placed in predetermined orientations and stitch bonded. These multiaxial reinforcements provide strength and stiffness in multiple directions depending on the controlled orientation of the fibers.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Leak Management and Pipe Repair",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiaxial fabrics provide high levels of drapeablity thanks to the textile construction. Carbon is the preferred fiber for pipe repairs, due to the high stiffness and high modulus. Carbon is often selected as it enables a thinner patch to be used, accommodating any space limitations.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "This method of managing and repairing leaks is suitable for all pipe sizes, fittings, valves, vessels and platforms, and is compatible with steel and PVC.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Thought Leadership",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "JEC Composites Article: Innovation and collaboration for cleaner, more sustainable transportation",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "JEC Composites Feature Article: Wind-assisted ship propulsion has created a need for certified composite materials",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "The Naval Architect Article: Composite materials offer commercial shipbuilders an enticing mix of benefits",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "The protective shell of a jet engine housed within the cowling, usually made from honeycomb. Provides noise absorption, insulation, structural support and can aid heat dissipation.",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Thought Leadership",
+    "url": "https://www.hexcel.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/news/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/news/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Patents",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovation & Leadership",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Strapped in the Friendship VII capsule, Astronaut John Glenn, Jr. returns to earth safely protected from extreme re-entry heat and possible impact injury by materials manufactured by Hexcel.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "To mitigate dependence on military sales, Hexcel purchases one of its principal suppliers, Coast Manufacturing, with manufacturing plants in Livermore, California; Seguin, Texas; and Lancaster, Ohio. Danutec is formed by the Austrian Chemie Linz Group. The pilot plant in Linz grows to become one of the leading suppliers of laminates and prepregs for the ski and tennis industries.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel enters the medical field with its acquisitions of Tower Scientific, a company that specializes in the manufacture of custom implants for knee, hip and shoulder joints.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbus unveils the first A380, which takes its maiden flight. Hexcel is a principal supplier to the A380 program, with HexPly® M21 and 8552 prepregs qualified for many primary and secondary structures. Hexcel’s RTM 6 resin and Injectex® fabrics, Redux® adhesives, HexWeb® honeycombs and machined and heat-formed honeycomb parts are also on board.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Takes Flight, Changes Leadership, Goes to Mars",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In January, Hexcel announces that it has acquired full ownership of Formax UK Limited, enabling it to further advance dry reinforcements technology for future aerospace applications and to provide scale for growing industrial markets.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "New Plants Open, New Partnerships in Innovation Begin",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovations Continue, Customer Relationships Grow Despite Pandemic",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong Growth, Sustainabilty Leadership",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "for its partnership with Fairmat to recycle carbon fiber prepreg composite cutoffs.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "” program for ensuring that safety is one of our guiding principles.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Our participation in supply chain security programs such as C-TPAT and AEO allow Hexcel to minimize potential delays in delivery to maintain assurance of supply for our customers.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel participates in the Customs-Trade Partnership Against Terrorism and the Authorized Economic Operator programs to ensure we are able to deliver products to our customers even when countries limit the import volumes during challenging times.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel maintains a close partnership with the relevant government authorities to confirm that our Export Management System is compliant with the requirements of each national authority. The coordinated classification of goods, software and technology allows Hexcel to understand when an export authorization is required and when an license exception is available.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to developing technology, Hexcel recognizes the value in investing in strategic partnerships with companies to further advance leading-edge technologies.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the content of the accordCuring in only 2 minutes at 150°C/300°F, REACH-compliant HexPly® M77 brings significant advantages to automotive and sports equipment manufacturers, especially as this reactive system also offers a long shelf life of 6 weeks at 23°C.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel employs more than 250 people in research and technology, and the company has more than 1,350 patents and pending applications worldwide.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Description",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of new matrix resin systems for prepregs and infusion systems, including synthesis of novel resins, hardeners, polymers and additives. Studies in structure-property relationships, to enhance overall properties of the final product.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of innovative product forms such as HexMC® brand of prepregs for compression molding, as well as novel part processing methods of composite materials for specific applications. Support with advanced structural analysis. Design, fabrication and testing of demonstrator parts for validation of newly developed materials and technologies.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Capital Equipment",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.hexcel.com/hexcel-showcases-production-readiness-and-next-generation-innovation-at-camx-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.hexcel.com/hexcel-showcases-production-readiness-and-next-generation-innovation-at-camx-2026/",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Commercial Aerospace",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense & Space",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "across aerospace, defense & space, and industrial applications.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Years Serving Aerospace",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the world’s largest producer of aerospace carbon fiber and the leading supplier of carbon fiber to U.S. military programs, making it an industry leader in advanced aerospace materials.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the global leader in honeycomb manufacturing developing lightweight core material offering exceptional light weighting, stiffness, and noise and energy absorption.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our advanced materials enable lighter, stronger, and more efficient systems. Explore how our innovations transform industries like aerospace and automotive.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "carbon fiber is the preferred carbon fiber for the world’s most advanced aerospace and industrial composite applications.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the world leader in honeycomb manufacturing for the commercial aerospace market.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the leading supplier of carbon fiber, honeycomb and other composite materials for the commercial aerospace industry.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From helicopters to defense aircraft to launch vehicles, Hexcel provides composites for more than 100 space and defense programs",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel helps companies in a variety of industrial markets gain a competitive advantage with composites technologies.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you are designing for aerospace and defense platforms or industrial applications,",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Launches New Vented Flex-Core® Honeycomb Designed to Accelerate Production of Next-Generation Space Launch Vehicles",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Aerospace - Hexcel",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Aerospace",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense & Space",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Composites for Flight-Critical Applications",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "From commercial jets to space-bound systems, Hexcel delivers certified aerospace materials that meet performance and weight-reduction demands.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel has the greatest number of aerospace qualified products",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Composite Materials for",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Our aerospace products are used across the airframe from wings to nacelles to interiors.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the leading manufacturer of carbon fiber with more than 50 years of experience and the most qualified positions on aerospace programs.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is the world leader in honeycomb manufacturing for the commercial aerospace market.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "ARC Technologies, a Hexcel Company, is the leading supplier of microwave and RF absorbing materials for commercial and defense applications.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturers",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "COMMERCIAL AEROSPACE",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The composites content in each new aircraft program has grown significantly since the introduction of prepregs in the 1970s. Composites are now essential materials in the construction of all aircraft and the commercial aerospace industry is the largest user of Hexcel advanced composites.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Products for Aerospace",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexForce® and HexPly® Aerospace Selector Guide",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Composite Solutions for Aerospace",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel has the greatest number of aerospace qualified products of any composite materials manufacturer worldwide.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Resources",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexPly® Prepregs and HexForce® Reinforcements for Aerospace",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexFlow® RTM6-2 – a 2-part version of standard HexFlow® RTM6 for ease of transportation outside Europe",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepreg repair solutions for aerospace structures",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "In the early 1990s, Hexcel was asked by the newly formed Composite Aircraft Composite Repair Committee (CACRC) to develop a prepreg repair solution for Aerospace structures. Hexcel proposed an epoxy prepreg with a high-temperature performance from a low energy cure cycle. HexPly® M20 prepreg cures at 130°C (265°F) to form a tough, high temperature resistant fiber-reinforced composite.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense & Space - Hexcel",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Aerospace",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense & Space",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is a leader in the Defense & Space market, primarily in the manufacture of advanced composites used in commercial helicopters and in military aircraft.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft, Helicopters, UAVs, Launchers, Missiles and Space",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "We are currently qualified to supply materials to a broad range of more than 100 helicopter, military aircraft and space programs.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense Aircraft",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Launchers, Missiles & Space",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "IM7 is the leading carbon fiber in the defense market. HexTow",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Launching satellites into space creates the ultimate performance challenge for composite materials. In addition to the crucial weight savings, the materials also have to withstand extreme temperature fluctuations. The performance requirements can be accommodated by Hexcel’s wide range of matrix systems.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "The unique environment of outer space places rigorous demands on the materials used for construction of military and commercial satellites. Severe temperature changes can cause ordinary materials to warp, expand, or contract depending on temperature; however, satellites are subject to relatively little risk from collision damage.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s Talk Defense & Space",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Find out more about our defense & space products.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Composite Solutions for Aerospace",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "HexcelinAerospace",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial - Hexcel",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Aerospace",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense & Space",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Resin Formulations for Composites",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexBond® 100 Series",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "HexBond® 200 Series",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "In reinforced fiber composites, a formulated polymeric substrate.",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "March 10 marks the end of production for Redux® 775 — the first ever aerospace film adhesive, which was launched in May 1954 from a formulation initially invented in 1942.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2008, Hexcel was awarded the biggest contract in its history to supply the primary structures prepreg for the Airbus A350 XWB. Hexcel had developed a superior product combining carbon fiber and resin formulation technologies.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.",
+    "url": "https://www.hexcel.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.",
+    "url": "https://www.hexcel.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "launchers. Hexcel’s range of resin formulations for",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "of resin formulations for composites and is the",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "performance applications. Hexcel pioneered the development of resin formulations for composites",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "With the same chemical formulation, each version presents several key benefits.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Prepregs are specially formulated resin matrix",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "complement the prepreg resin formulations.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3. Choose formulation and mix together with",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Final properties dependent on formulation recipe",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• Formulation Verification of the correct quantity of formulation components.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• Make a series of bleed-out tests where each test has the same prepreg stack (checked by weight).",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "series.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "proprietary formulations, manufacturing methods, and material-performance expertise matter materially.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 47",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 2108 A/B",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 5407",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 1350 (Mod 4)",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 1350 Mod 4",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 4010",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 913 Black A/B",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 61",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators RF 1591BK",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "EclipseSeries",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop all Resin Formulators",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators Product Selector Guide",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Resin Formulators Capabilities",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Formulation",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "s stock. Wary of its longtime reliance on the aerospace and defense industries, Hexcel has been seeking diversification to give it greater stability, completing a series of major acquisitions following the merger that have given the company a wider range of products than ever before.",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "By the late 1950s a national recession and a series of military cutbacks were affecting Hexcel",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "tunnel, in fishing rods, golf clubs, baseball bats, bicycle frames, and many other civilian, non-aerospace goods. The company also manufactured chemicals which were used as ingredients in Alka-Seltzer tablets, Scope mouthwash, and Vicks Formula 44 cough syrup. These specialty chemicals accounted for as much as nine percent of the company",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "s end. In early February 1995 the company emerged from Chapter 11, having arranged $45 million in exit financing from Citicorp. Another $50 million was obtained from a stock offering arrangement with Mutual Series Fund, Inc.",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "employees Worldwide",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/news/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/news/events/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "employees Worldwide",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Ken Holland, a fraternity brother of Roger, joined the company in 1948 with Paul, bringing with him a chemist’s expertise in resin and adhesive technology. That expertise quickly proved invaluable as Roger contended with the challenges of manufacturing fiberglass honeycomb for the company’s first contract with the military.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Company Incorporates, Awarded First Contract",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In the early hours of November 12, one of the ovens in Hexcel’s Berkeley plant explodes, igniting the whole building. Employees work day and night to restore limited operations within 14 days.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The slump in sales caused by military cutbacks prompts an internal reevaluation, and William S. Powell, a partner at Booz Allen & Hamilton, is elected president. Powell exits unprofitable business lines and from 1962 through 1967 the company achieves some of its best profit-to-sales ratios to date.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Ciba-Geigy acquires J. Brochier et Fils, a Lyon-based glass weaver founded in 1898.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel co-founder Roscoe T. “Bud” Hughes passes away.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Over the course of the year, Hexcel sharply refocuses its operations by reducing its headcount, selling or exiting non-core assets, closing plants and repositioning the company’s product line. It also raises $50 million in new equity financing.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In April, Hexcel co-founder Roger Steele passes away at age 93.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2023, Hexcel joined the Airbus Supplier Sustainability Council and were the first composites supplier to join the Aircraft Fleet Recycling Association (AFRA). The company also received funding from NASA to develop manufacturing processes and advanced composite materials to accelerate net-zero carbon emissions within the aviation industry.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Periodic system evaluations",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel provides training to our employees and business partners. We strive to make all of our business partners aware of the legal requirements for the import, export, and transport of our goods, software, and technology.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "More on Registration, Evaluation, Authorization and Restriction of Chemicals Regulation (REACH) in the next tab.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel is committed to fulfilling its legal duties under the Registration, Evaluation, Authorization and Restriction of Chemicals Regulation (REACH). We work closely with suppliers and customers to ensure good communication is established and maintained to assist with information flow in the supply chain and to provide a supportive environment.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/hexcel-showcases-production-readiness-and-next-generation-innovation-at-camx-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/category/news-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/industries/industrial/summer-sports/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/archer-aviation-plans-to-work-with-hexcel-to-advance-production-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "For Investors:",
+    "url": "https://www.hexcel.com/archer-aviation-plans-to-work-with-hexcel-to-advance-production-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/hexcel-advances-aerospace-design-innovation-with-first-ncamp-qualification-for-honeycomb-core-material/",
+    "pass": 1
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Aligning with evolving defense priorities and collaborating with start-ups",
+    "url": "https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", a manufacturing technology start-up company focused on accelerating composite production, especially as that applies to the Pentagon’s munitions and attritable drone platform programs.",
+    "url": "https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "is raised to the final curing temperature.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Founded in 1948; began with lightweight honeycomb materials and expanded over decades into carbon fiber, prepregs, engineered core, and specialty aerospace composites; acquired ARC Technologies in 2019; announced a merger with Woodward in 2020 that was later terminated and did not close.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": ". This is a product-oriented reporting structure, not an end-market reporting structure. Both segments sell into commercial aerospace, space and defense, and industrial markets, so investors need to distinguish between official reporting segments and the underlying end-market economics.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Founders",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": ". The company develops and manufactures structural materials. Hexcel was formed from the combination of California Reinforced Plastics (founded 1948), Ciba Composites (acquired 1995) and Hercules Composites Products Division (acquired 1995). The company sells its products in commercial, military and recreational markets for use in commercial and military",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel, originally named the California Reinforced Plastics Company, was founded in 1948 by a group of engineers from the",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "The company's first contract was for the research and development of honeycomb materials for use in radar domes on military aircraft.",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "FundingUniverse.com",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "\"Dave McCoy, founder of Mammoth Mountain, dies at 104\"",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the composites technologies, people and organisations shaping the future through JEC Group’s showcases of creativity & collaboration: the renowned JEC Composites Innovation Awards, Startup Booster challenge, & industry-themed Innovation Planets.",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.kongsberg.com/news/news-archive/2025/kongsberg-and-hexcel-sign-long-term-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "and the resulting changes in military priorities caused delays in orders for the planes just as the Arizona facility was coming on line. As it had done several times before, Hexcel did some belt-tightening and laid off a small number of employees, also redirecting the company",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": ", with a late 1991 start-up date projected. The company also began working with Reebok, the shoe manufacturer, to develop honeycomb arch supports for its shoes, which it began to manufacture in Casa Grande, Arizona. Hexcel materials were also used in the highspeed trains that ran through the English channel",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "The strength within Hexcel is its employees. Our success depends on hiring, developing and retaining employees who are knowledgeable, committed to teamwork and proud of what they do. We will provide them with an open, creative and safe workplace, communicating to them frequently and honestly; Honoring Commitments",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "We will live up to the commitments we make to our customers, employees, suppliers, shareholders and the communities in which we do business",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Hexcel, a culture of innovation permeates our organization and is a strategic priority. Targeting a breakthrough, aiming for what seems an unrealistic goal, or challenging some long-held paradigm are springboards to discovery and thinking “outside the box.” We embrace the curiosity to explore ideas, the passion to challenge the impossible and the conviction to succeed beyond expectations.",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "STAMFORD, Conn.–(BUSINESS WIRE)– Hexcel Corporation (NYSE: HXL): Summary of R",
+    "url": "https://www.hexcel.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The Boeing 737 MAX engine nacelles have an acoustic inner barrel that is manufactured from Hexcel engineered core and benefits from Hexcel’s",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Focuses on key-performance-driven market segments",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Focuses on key-performance-driven market segments",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Audi R8 Carbon Fiber X-Brace with HexMC-i",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "STAMFORD, Conn.–(BUSINESS WIRE)– Hexcel Corporation (NYSE: HXL): -Q4 2025 Sal",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel manufactures honeycomb in Casa Grande, Arizona, U.S.A. and Duxford, U.K.",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Harold Heath, a journeyman machinist trained at Boeing, acquires Tecna plastics and combines it with his modest machine shop in Renton, Washington. Heath Tecna Plastics is launched with an $800,000 order for insulation batts for the Boeing 707.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Donald Cambell’s revolutionary Bluebird car, incorporating honeycomb core panels supplied from Ciba in Duxford, England, breaks the world speed record.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbus Unveils First A380",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbus unveils the first A380, which takes its maiden flight. Hexcel is a principal supplier to the A380 program, with HexPly® M21 and 8552 prepregs qualified for many primary and secondary structures. Hexcel’s RTM 6 resin and Injectex® fabrics, Redux® adhesives, HexWeb® honeycombs and machined and heat-formed honeycomb parts are also on board.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Boeing Delivers – Hexcel Expands",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Boeing delivers the 1st 787 Dreamliner and 1st 747-8. Both aircraft use Hexcel materials extensively. In November, Hexcel commissions two new carbon fiber production lines at its Salt Lake City, Utah plant. The new lines increase Hexcel’s global carbon fiber output to 16 million pounds of nameplate capacity.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Duxford Celebrates 80 Years of Innovation in Composites in April. Hexcel celebrates the 80th anniversary of its site at Duxford, UK that was acquired on April 7, 1934 by Cambridge University Don, Dr. Norman de Bruyne.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In November, Hexcel breaks ground for a new £6 million R&T facility and additional investments for capacity expansions at its Duxford site to further expand R&T expertise and continue the development of leading edge technologies that will enable composite materials to penetrate further in aerospace structures and in selected industrial applications.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "First qualification batches of resin film are producedon the CM4 line at Hexcel Duxford.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Also in January, the first Boeing 737 MAX 8 takes to the skies with Hexcel composite materials used on the airframe and engines to deliver superior strength, stiffness, weight savings and fuel efficiency.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In May, Hexcel announces strategic investments in two U.S. companies renowned for innovation — Oxford Performance Materials of South Windsor, Connecticut, and Luminati Aerospace of New York.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "On May 24, Hexcel celebrates the opening of its new Innovation Center at Duxford, U.K.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Airbus Helicopters selects Hexcel to supply composite materials for the H160 helicopter. Hexcel’s reinforcements, prepregs, adhesives and honeycomb materials are selected for the H160’s composite fuselage structures and main rotor blades.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel acquires the Aerospace & Defense (A&D) business of Oxford Performance Materials (OPM) in December. OPM A&D produces qualified, high-performance thermoplastic, carbon fiber reinforced 3D printed parts for Commercial Aerospace and Space and Defense applications.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel HexAM™ Additive Manufacturing Approved by Boeing for Commercial Aircraft Platforms",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel and Safran Expand Scope of Existing Contract to include HexTow IM7 for the GE9X engine that powers the Boeing 777X",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "recognized by Airbus Defence & Space",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For the fourth consecutive year, Hexcel Grande, Arizona was recognized with the Boeing Supply Chain Performance Achievement Award for Superior Supplier Excellence.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In December, Hexcel sold to Boeing its interest in a 50-50 joint venture, Aerospace Composites Malaysia, that the two companies had shared for two decades.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2023, Hexcel joined the Airbus Supplier Sustainability Council and were the first composites supplier to join the Aircraft Fleet Recycling Association (AFRA). The company also received funding from NASA to develop manufacturing processes and advanced composite materials to accelerate net-zero carbon emissions within the aviation industry.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2008, Hexcel was awarded the biggest contract in its history to supply the primary structures prepreg for the Airbus A350 XWB. Hexcel had developed a superior product combining carbon fiber and resin formulation technologies.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Europe (Duxford, Cambridgeshire, U.K.)",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "state-of-the-art research center at Duxford",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Duxford, UK and Salt Lake City, Utah, US",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Duxford, UK",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose",
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose",
+    "url": "https://www.hexcel.com/archer-aviation-plans-to-work-with-hexcel-to-advance-production-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "STAMFORD, Conn., September 22, 2026 – Hexcel Corporation (NYSE: HXL), a global leader in advanced composites, today announced the successful qualification of its",
+    "url": "https://www.hexcel.com/hexcel-advances-aerospace-design-innovation-with-first-ncamp-qualification-for-honeycomb-core-material/",
+    "pass": 1
+   },
+   {
+    "quote": "STAMFORD, Conn.–(BUSINESS WIRE)– Hexcel Corporation (NYSE: HXL): Summary of R",
+    "url": "https://www.hexcel.com/hexcel-advances-aerospace-design-innovation-with-first-ncamp-qualification-for-honeycomb-core-material/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50% of the Boeing 787 and the Airbus",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "programs and was awarded the contract by Airbus",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "and has been specified on the Boeing 787 nacelles.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "transporter aircraft Airbus A400M",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "and structural performance for demanding NASA",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "In recent years, both the Airbus Helicopters H175 and",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Figure 5: Airbus A380 aileron spar, manufactured by Airbus France (Nantes), using",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Figure 4: Airbus A380 door hinge arm",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "manufactured by Airbus Helicopters using",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Airbus A350 XWB and Boeing 787. The growth in",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Stamford, Connecticut, United States",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Business segments as officially reported",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "7. What Are the Key Customer Segments of Hexcel?",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel’s most important customer segment as of FY2024. This includes large airframers, engine makers, nacelle suppliers, aerostructure manufacturers, and other Tier 1 suppliers. This segment matters because aircraft production rates drive volume and factory absorption.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Defense primes, rotorcraft manufacturers, missile and munitions suppliers, and space-system builders. This segment can offer resilience, technical intensity, and diversification away from pure commercial cycles.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel operates globally, but its footprint is not evenly distributed. North America and Europe are the operational core because those regions contain major aerospace manufacturing clusters and a large share of the company’s customer base. The company is headquartered in Stamford, Connecticut, and it maintains manufacturing, research, and support infrastructure across the United States and Europe.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel reports two business segments:",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": ". This is a product-oriented reporting structure, not an end-market reporting structure. Both segments sell into commercial aerospace, space and defense, and industrial markets, so investors need to distinguish between official reporting segments and the underlying end-market economics.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Stamford, CT 06901, USA",
+    "url": "https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative blade production concepts from Hexcel’s Engineered Products group have resulted in contract wins to produce sub-assemblies and even a complete main rotor blade for the Sikorsky S-76D™.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "The unique environment of outer space places rigorous demands on the materials used for construction of military and commercial satellites. Severe temperature changes can cause ordinary materials to warp, expand, or contract depending on temperature; however, satellites are subject to relatively little risk from collision damage.",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Ken Holland, a fraternity brother of Roger, joined the company in 1948 with Paul, bringing with him a chemist’s expertise in resin and adhesive technology. That expertise quickly proved invaluable as Roger contended with the challenges of manufacturing fiberglass honeycomb for the company’s first contract with the military.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Company Incorporates, Awarded First Contract",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel Wins New Contracts, Expands Portfolio",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "UTC Aerospace Systems’ Aerostructures business extends its contract with Hexcel to supply advanced composites for various commercial aerospace programs has been extended through 2030.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexcel and Safran Expand Scope of Existing Contract to include HexTow IM7 for the GE9X engine that powers the Boeing 777X",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2008, Hexcel was awarded the biggest contract in its history to supply the primary structures prepreg for the Airbus A350 XWB. Hexcel had developed a superior product combining carbon fiber and resin formulation technologies.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "programs and was awarded the contract by Airbus",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "materials to warp, expand or contract depending on",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Engineered Products group have resulted in contract",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Umbrex Consulting Fellowship",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Once a material is qualified, repeat ordering usually follows program production schedules. That means sales execution is closely linked to demand planning, contract management, and customer-service reliability rather than pure new-logo hunting. In smaller industrial markets, Hexcel can also use distributors or channel partners to broaden reach where direct coverage would be inefficient.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic pricing and contract analytics for aerospace and defense accounts, including mix and margin improvement by program.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Umbrex is the fastest, most reliable way to find the right independent management consultant for your projects. 90% of our consultants are alums of top tier consulting firms and have industry experience. Expertise of our consultants covers a broad range of services and industries. We offer global coverage, with consultants in 50+ countries.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "The company's first contract was for the research and development of honeycomb materials for use in radar domes on military aircraft.",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "FTI Consulting",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting: Director",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting: Manager",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting: Consultant",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "s sales are to aircraft manufacturers, while another tenth are to space and defense contractors. The remainder of Hexcel",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "s customers include makers of athletic equipment, such as tennis racquets and running shoes, manufacturers of",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Expects Cuts in Defense Contracts,",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "technology in which a permeable cap material is individually embedded into each honeycomb cell to create an acoustic septum. This technology is a leading contributor to the reduction of the area of acceptable noise contour of the 737 MAX engine by 40% over the legacy 737 NG, without any weight penalty.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "HexForce® Bias Weave fabric – a patented weaving process reducing scrap by up to 30%",
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Focuses on key-performance-driven market segments",
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "pass": 1
+   },
+   {
+    "quote": "Focuses on key-performance-driven market segments",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "M91/IM8-GP 6K ZB Fabric 145gsm with 40% RC",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "M91/IM8-GP 6K ZB Fabric PW 145gsm with 40% RC",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "M91/IM8-GS UD Tape 145gsm with 35% RC",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "M91/IM8-GS UD Tape 145gsm with 35% RC Statistics Report",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Slump Due to Military Cutbacks",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The slump in sales caused by military cutbacks prompts an internal reevaluation, and William S. Powell, a partner at Booz Allen & Hamilton, is elected president. Powell exits unprofitable business lines and from 1962 through 1967 the company achieves some of its best profit-to-sales ratios to date.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "To mitigate dependence on military sales, Hexcel purchases one of its principal suppliers, Coast Manufacturing, with manufacturing plants in Livermore, California; Seguin, Texas; and Lancaster, Ohio. Danutec is formed by the Austrian Chemie Linz Group. The pilot plant in Linz grows to become one of the leading suppliers of laminates and prepregs for the ski and tennis industries.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In December, Hexcel announces that it has taken a 50% interest in Formax UK Limited, a leading manufacturer of composite reinforcements, specializing in the production of lightweight multi-axial fabrics.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales grew 19% (up 37% in commercial aerospace) and earnings per share grew 374% as Hexcel continued projects to expand capacity. In March 2022, Hexcel broke ground on an",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales grew 13.4% (up 17% in commercial aerospace) and earnings per share grew 41.4% as Hexcel continued to rebound from the impact of the global pandemic.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "HexTow IM9 24K is an intermediate modulus (IM) fiber provides a 12% improvement in tensile strength compared with Hexcel IM7 fiber, which is amajor component in commercial aircraft engine fan blades and other aerospaceapplications. It is a workhorse fiber that builds on the company’s proven legacy of intermediate modulus fibers.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyndon moved to the United States in 1986 after studying chemistry and graduating from the University of Hertfordshire. Following research work in petrochemicals early in his career, Lyndon transitioned into aerospace, where he took on increasing responsibilities in marketing and general management of various business units, including partial ownership of an aerospace distribution company.",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "prepreg reduces mold cure times below 15 minutes and provides 15% higher mechanical performance than standard industrial prepregs, with enhanced fatigue properties.",
+    "url": "https://www.hexcel.com/industries/industrial/summer-sports/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Achim Fischereder, Hexcel Director of Sales & Marketing, Industrial",
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "pass": 1
+   },
+   {
+    "quote": "“There are several technical benefits to using HexPly XF as a surfacing technology. Machine-produced prepreg materials are calibrated for thickness online, so not only is HexPly XF lighter than a gelcoat (typically 50% lighter per m",
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Achim Fischereder, Hexcel Director of Sales & Marketing, Industrial Q:&",
+    "url": "https://www.hexcel.com/archer-aviation-plans-to-work-with-hexcel-to-advance-production-capabilities/",
+    "pass": 1
+   },
+   {
+    "quote": "50% carbon fiber composite. Hexcel is a major supplier of materials to those programs.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "gsm oz/yd² EU US warp % weft warp (yarns/cm) weft (picks/cm) warp weft mm",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "gsm oz/yd² warp % weft warp (yarns/cm) weft (picks/cm) warp weft mm",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Other styles available on demand. Stated thickness is the theoretical thickness of a cured ply with 50% fiber volume content.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "For U.S. quotes, orders and product information call toll-free 1-800-688-7734. For other worldwide sales office",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "More than 50% of the Boeing 787 and the Airbus",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "For US quotes, orders and product information call toll-free 1-866-601-5430. For other worldwide sales office",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "http://www.hexcel.com/contact/salesoffice",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ V oid content < 1%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "components at the 60% fibre volume necessary for high quality composite parts.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "represents approximately 5% of the total fabric weight.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The binder represents approximately 5% of the total fabric weight and is compatible with HexFlow®",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Designation Weave Weight Ratio %Warp/Weft Type of yarns (Warp/Weft) Weight (gsm) Thickness1 (mm)",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(% per",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1 The above average values are obtained with epoxy laminate at 55% of fibres volume",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Fibre coverage: 93%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Fibre coverage: 96%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Fibre coverage: 99% 43199 UR",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Fibre coverage: 99.5%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "285 gsm, 2x2 Twill, HS 6K RTM6 – FVC 60%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "with a 58 to 60 % fibre volume content.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Usually, the binder represents 5% or less of total fabric weight.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ Under vacuum < 50 mbar ± 10% (depends on target FVC)",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "either weighed or metered to the mixer with an accuracy of ± 1%.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ Weight control (balance) or volume control (flow meters) with ±1% accuracy.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Data is the result of several tests on cured laminates and normalized to 58% fibre volume content for tensile and compression.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "assessment of the suitability of any product for the purposes required. All sales are made subject to our standard terms",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "For other worldwide sales office telephone numbers and a full address list please go to:",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "http://www.hexcel.com/OurCompany/sales-offices",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "speciality materials, accounting for around 5% of",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "constitute more than 50% of the airframe of the",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "> 80 % warp",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Percentage w eight loss of gaseous mater ial from a w eighed prepreg",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Percentage w eight loss of matr ix from a w eighed test specimen",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Weight percentage of resin per unit area.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Percentage of fibre by volume in the composite.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "To be eliminated 25% To be eliminated 25%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Peel length 100%",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Structural repair and strengthening with fiber-reinforced composite materials brings economic advantages in the long term thanks to the long service life and low maintenance. Practically, this is achievable only by using materials made with a robust and controlled manufacturing process, guaranteeing high quality and standards.",
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Total annual quantity and duration.",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Total annual quantity and duration",
+    "url": "https://www.hexcel.com/resources/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance, Repair, and Operating Supplies (MRO)",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Wind energy is certainly a key market but HexPly XF technology is definitely not limited to wind. We have great feedback on the production benefits of HexPly XF from part manufacturers in both marine and industrial markets, too.”",
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "pass": 1
+   },
+   {
+    "quote": "“You could feel the energy at this show,” said Marc Gomez, Director, Customer Busi",
+    "url": "https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "reduce part count, decrease maintenance cost",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Mass per unit length",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Weight percentage of resin per unit area.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Mass per unit volume g/cm3.",
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Based on recent annual-report language, earnings materials, and management commentary around FY2024, Hexcel’s near-term agenda is practical and execution-oriented.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "What portion of the model appears recurring or repeat-driven versus one-time",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel is fundamentally a ship-and-bill manufacturing business. Revenue is recognized when materials and engineered products are delivered under customer orders or supply agreements. It is not a subscription or software-like model. However, because the same programs reorder material over time, the underlying revenue pattern can look recurring once platform positions are established.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "specialty chemical feedstocks and process inputs are essential to fiber production and performance consistency.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "secure qualified specialty inputs such as chemical feedstocks, resin ingredients, aramid and metallic materials, and process consumables.",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Reports",
+    "url": "https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Annual financials for Hexcel Corp.",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Financials",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "\"2024 Annual Report (Form 10-K)\"",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance / Repair: Director",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance / Repair: Manager",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance / Repair: Engineer",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance / Repair: Technician",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "e-Letter(s) Subscription(s)",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "Site Feedback",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hexcel : Advanced Composite Materials & Solutions — Hexcel : Advanced Composite Materials & Solutions Hexcel https://www.hexcel.com",
+    "url": "https://www.hexcel.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Corporation Employer Profile - Engineering Jobs — Hexcel Corporation Employer Profile - Engineering Jobs SAMPE https://careers.nasampe.org > profile",
+    "url": "https://careers.nasampe.org/profile/hexcel-corporation/793476/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Strategy and Business Model - Umbrex — Hexcel Strategy and Business Model - Umbrex Umbrex https://umbrex.com > hexcel",
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Corp Company Profile - GlobalData — Hexcel Corp Company Profile - GlobalData Global Data https://www.globaldata.com > hexcel-...",
+    "url": "https://www.globaldata.com/company-profile/hexcel-corp/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Corporation - Company Histories — Hexcel Corporation - Company Histories Company Histories https://www.company-histories.com > ...",
+    "url": "https://www.company-histories.com/Hexcel-Corporation-Company-History.html",
+    "pass": 3
+   },
+   {
+    "quote": "Financials - Quarterly Results - Hexcel Corp. - Investor Relations — Financials - Quarterly Results - Hexcel Corp. - Investor Relations Hexcel Corp. - Investor Relations https://investors.hexcel.com > financials",
+    "url": "https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel - Wikipedia — Hexcel - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Hexcel",
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Revenue 2012-2026 | HXL - Macrotrends — Hexcel Revenue 2012-2026 | HXL - Macrotrends Macrotrends https://www.macrotrends.net > revenue",
+    "url": "https://www.macrotrends.net/stocks/charts/HXL/hexcel/revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel's Competitors, Revenue , Number of Employees ... — Hexcel's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > hexcel",
+    "url": "https://www.owler.com/company/hexcel",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Corporation - Company Profile Report | IBISWorld — Hexcel Corporation - Company Profile Report | IBISWorld IBISWorld https://www.ibisworld.com > company",
+    "url": "https://www.ibisworld.com/united-states/company/hexcel-corporation/407070/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Advanced Composite Materials - GracoRoberts — Hexcel Advanced Composite Materials - GracoRoberts GracoRoberts https://www.gracoroberts.com > hexcel",
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel ($HXL): The Materials Bottleneck That Orchestrates ... — Hexcel ($HXL): The Materials Bottleneck That Orchestrates ... Medium https://startupsapience.medium.com > ...",
+    "url": "https://startupsapience.medium.com/hexcel-hxl-the-materials-bottleneck-that-orchestrates-speed-5908d655cc2b",
+    "pass": 3
+   },
+   {
+    "quote": "JEC World 2026: Hexcel to Unveil Breakthrough Composite ... — JEC World 2026: Hexcel to Unveil Breakthrough Composite ... Hexcel https://www.hexcel.com > News",
+    "url": "https://www.hexcel.com/jec-world-2026-hexcel-to-unveil-breakthrough-composite-solutions-for-aerospace-defense-and-automotive-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel to unveil composites for aerospace , defence and ... — Hexcel to unveil composites for aerospace , defence and ... JEC - Connecting the World with Composites https://www.jeccomposites.com > news",
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "pass": 3
+   },
+   {
+    "quote": "How Hexcel's latest innovations are paving the way for ... — How Hexcel's latest innovations are paving the way for ... Engineer Live https://engineerlive.com > Design",
+    "url": "https://engineerlive.com/how-hexcels-latest-innovations-are-paving-way-composite-advancement/",
+    "pass": 3
+   },
+   {
+    "quote": "For decades, Hexcel has supplied the advanced composite ... — For decades, Hexcel has supplied the advanced composite ... Facebook https://www.facebook.com > HexcelCorp > posts > for-de...",
+    "url": "https://www.facebook.com/HexcelCorp/posts/for-decades-hexcel-has-supplied-the-advanced-composite-materials-behind-many-of-/1502028828397194/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel and FIDAMC Join Forces to Shape the Future of ... — Hexcel and FIDAMC Join Forces to Shape the Future of ... Hexcel https://www.hexcel.com > News",
+    "url": "https://www.hexcel.com/hexcel-and-fidamc-join-forces-to-shape-the-future-of-composite-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "KONGSBERG and HEXCEL sign long-term partnership ... — KONGSBERG and HEXCEL sign long-term partnership ... Kongsberg https://www.kongsberg.com > news",
+    "url": "https://www.kongsberg.com/news/news-archive/2025/kongsberg-and-hexcel-sign-long-term-partnership-agreement/",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to share that Hexcel has received a grant from ... — We are excited to share that Hexcel has received a grant from ... Facebook https://www.facebook.com > HexcelCorp > posts > we-are...",
+    "url": "https://www.facebook.com/HexcelCorp/posts/we-are-excited-to-share-that-hexcel-has-received-a-grant-from-the-spanish-centre/829844718948945/?locale=fr_FR",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel - Berkshire Partners — Hexcel - Berkshire Partners Berkshire Partners https://berkshirepartners.com > hexcel",
+    "url": "https://berkshirepartners.com/portfolio-companies/hexcel/",
+    "pass": 3
+   },
+   {
+    "quote": "Advancing Lightweight Materials Worldwide - Hexcel — Advancing Lightweight Materials Worldwide - Hexcel Hexcel https://www.hexcel.com > about-us",
+    "url": "https://www.hexcel.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel Corporation | Encyclopedia.com — Hexcel Corporation | Encyclopedia.com Encyclopedia.com https://www.encyclopedia.com > books",
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel has reported Q1 2021 results including net sales of ... — Hexcel has reported Q1 2021 results including net sales of ... Facebook https://www.facebook.com > HexcelCorp > posts > hexcel...",
+    "url": "https://www.facebook.com/HexcelCorp/posts/hexcel-has-reported-q1-2021-results-including-net-sales-of-310-million-and-adjus/4087642877967490/",
+    "pass": 3
+   },
+   {
+    "quote": "Hexcel (HXL) Research Report - StockStory — Hexcel (HXL) Research Report - StockStory StockStory https://stockstory.org > ... > Hexcel",
+    "url": "https://stockstory.org/us/stocks/nyse/hxl",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hexcel.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/defense-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/industrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/news/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/hexcel-showcases-production-readiness-and-next-generation-innovation-at-camx-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/category/news-releases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/commercial-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/industrial/summer-sports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/archer-aviation-plans-to-work-with-hexcel-to-advance-production-capabilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/hexcel-advances-aerospace-design-innovation-with-first-ncamp-qualification-for-honeycomb-core-material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexcel.com/user_area/content_media/raw/AerospaceSelectorGuide.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hexcel.com/user_area/content_media/raw/HexcelinAerospace.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://careers.nasampe.org/profile/hexcel-corporation/793476/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://umbrex.com/resources/company-profiles/hexcel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macrotrends.net/stocks/charts/HXL/hexcel/revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gracoroberts.com/brands/hexcel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hexcel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kongsberg.com/news/news-archive/2025/kongsberg-and-hexcel-sign-long-term-partnership-agreement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/HexcelCorp/posts/we-are-excited-to-share-that-hexcel-has-received-a-grant-from-the-spanish-centre/829844718948945/?locale=fr_FR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/HexcelCorp/posts/hexcel-has-reported-q1-2021-results-including-net-sales-of-310-million-and-adjus/4087642877967490/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hexcel engineering services clients other industries",
+   "results": [
+    "https://www.hexcel.com/",
+    "https://careers.nasampe.org/profile/hexcel-corporation/793476/",
+    "https://umbrex.com/resources/company-profiles/hexcel/",
+    "https://www.globaldata.com/company-profile/hexcel-corp/",
+    "https://www.company-histories.com/Hexcel-Corporation-Company-History.html",
+    "https://www.linkedin.com/company/hexcel-corporation/life",
+    "https://www.compositesworld.com/news/hexcel-to-merge-with-aerospaceindustrial-equipment-oem-woodward",
+    "https://www.workinseguin.com/companies/hexcel-corporation",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://csimarket.com/stocks/HXL-Customers"
+   ]
+  },
+  {
+   "query": "Hexcel revenue turnover employees",
+   "results": [
+    "https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://www.macrotrends.net/stocks/charts/HXL/hexcel/revenue",
+    "https://www.owler.com/company/hexcel",
+    "https://www.ibisworld.com/united-states/company/hexcel-corporation/407070/",
+    "https://www.globaldata.com/company-profile/hexcel-corp/",
+    "https://finance.yahoo.com/markets/stocks/articles/hexcel-falls-revenue-miss-weak-212454507.html",
+    "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000717605/3dbbccfe-b13f-41b5-86e9-9f23613d577d.pdf",
+    "https://pitchbook.com/profiles/company/12006-10",
+    "https://stockanalysis.com/stocks/hxl/revenue/"
+   ]
+  },
+  {
+   "query": "Hexcel supplies components to OEM",
+   "results": [
+    "https://www.hexcel.com/",
+    "https://www.gracoroberts.com/brands/hexcel/",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://startupsapience.medium.com/hexcel-hxl-the-materials-bottleneck-that-orchestrates-speed-5908d655cc2b",
+    "https://www.hexcel.com/jec-world-2026-hexcel-to-unveil-breakthrough-composite-solutions-for-aerospace-defense-and-automotive-markets/",
+    "https://www.youtube.com/watch?v=xrBEAzmrxGI",
+    "https://www.compositesworld.com/products/at-jec-europe-2015-hexcel",
+    "https://www.scribd.com/document/905352112/WorldofComposites-HexcelOverviewBrochure",
+    "https://coast-lineintl.com/hexcel-featured-products/",
+    "https://www.hexcel.com/Resources/"
+   ]
+  },
+  {
+   "query": "Hexcel aerospace defence non-automotive",
+   "results": [
+    "https://www.hexcel.com/",
+    "https://www.jeccomposites.com/news/spotted-by-jec/jec-world-hexcel-to-unveil-composite-solutions-for-aerospace-defence-and-automotive-markets/?news_type=announcement,product-technology&end_use_application=aerospace,automotive-road-transportation,defence-security-ballistics&process=compression-moulding,fiber-placement,filament-winding,press-moulding,rtm&tax_product=adhesives-glues-putties,carbon-fiber,equipment-tools-ancillary-products,foam,honeycomb-aluminium-or-nomex-excluded,prepreg,thermoplastic-resins,thermosetting-resins",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://engineerlive.com/how-hexcels-latest-innovations-are-paving-way-composite-advancement/",
+    "https://www.facebook.com/HexcelCorp/posts/for-decades-hexcel-has-supplied-the-advanced-composite-materials-behind-many-of-/1502028828397194/",
+    "https://startupsapience.medium.com/hexcel-hxl-the-materials-bottleneck-that-orchestrates-speed-5908d655cc2b",
+    "https://www.gracoroberts.com/brands/hexcel/",
+    "https://www.composites.media/company/hexcel",
+    "https://www.hexcel.com/industries/defense-space/",
+    "https://www.hexcel.com/industries/commercial-aerospace/"
+   ]
+  },
+  {
+   "query": "Hexcel licensing technology partnership",
+   "results": [
+    "https://www.hexcel.com/hexcel-and-fidamc-join-forces-to-shape-the-future-of-composite-materials/",
+    "https://www.kongsberg.com/news/news-archive/2025/kongsberg-and-hexcel-sign-long-term-partnership-agreement/",
+    "https://www.facebook.com/HexcelCorp/posts/we-are-excited-to-share-that-hexcel-has-received-a-grant-from-the-spanish-centre/829844718948945/?locale=fr_FR",
+    "https://berkshirepartners.com/portfolio-companies/hexcel/",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://investors.hexcel.com/investor-relations/news/news-details/2026/Hexcel-Announces-Expanded-Long-Term-Agreements-with-Boeing/default.aspx",
+    "https://www.youtube.com/watch?v=0mQDWFJdE2I",
+    "https://www.composites.media/company/hexcel",
+    "https://www.linkedin.com/posts/hexcel-corporation_hexcel-in-bangalore-activity-7470550404745940992-OOuJ",
+    "https://www.hexcel.com/hexcel-announces-expanded-long-term-agreements-with-boeing/"
+   ]
+  },
+  {
+   "query": "Hexcel founder early days first customer funding",
+   "results": [
+    "https://www.hexcel.com/about-us/",
+    "https://www.encyclopedia.com/books/politics-and-business-magazines/hexcel-corporation",
+    "https://www.facebook.com/HexcelCorp/posts/hexcel-has-reported-q1-2021-results-including-net-sales-of-310-million-and-adjus/4087642877967490/",
+    "https://stockstory.org/us/stocks/nyse/hxl",
+    "https://en.wikipedia.org/wiki/Hexcel",
+    "https://startupsapience.medium.com/hexcel-hxl-the-materials-bottleneck-that-orchestrates-speed-5908d655cc2b",
+    "https://www.linkedin.com/company/hexcel-corporation/life",
+    "https://pitchbook.com/profiles/company/12006-10",
+    "https://finance.yahoo.com/markets/stocks/articles/long-term-agreements-strengthen-hexcels-154700886.html",
+    "https://www.company-histories.com/Hexcel-Corporation-Company-History.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式22頁／PDF・画像6件／外部13頁・検索6回）"
+ }
+}

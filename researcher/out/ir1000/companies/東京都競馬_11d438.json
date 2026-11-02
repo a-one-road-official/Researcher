@@ -1,0 +1,1520 @@
+{
+ "name": "東京都競馬",
+ "aliases": [],
+ "context": "証券コード9672／サービス業／プライム（内国株式）／2025.12期 売上高41,759百万円 営業利益率36.9%",
+ "researched_at": "2026-11-02T14:55:11.222974+00:00",
+ "official_url": "https://tokyotokeiba.co.jp/",
+ "identified_by": "search:yahoo_jp:東京都競馬",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1949年（昭和24年）12月20日",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "110名",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "「大井競馬場」の賃貸 地方競馬インターネット等投票システムの賃貸 「伊勢崎オートレース場」の賃貸 遊園地「東京サマーランド」の経営 倉庫施設の賃貸 商業施設等の賃貸",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "296億94百万円 37億83百万円 60億94百万円 23億72百万円",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、空調設備の施工管理および保守サービスを行っています",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "また、全国の地方競馬場の投票券発売に対応する共同発売システム（トータリゼータシステム）を整備し、南関東4競馬場をはじめとした全国の地方競馬場の勝馬投票券をインターネットなどで発売するサービス「SPAT4」を導入するなど、地方競馬界の発展にも寄与しています",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "【サービスサイト】",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "大井競馬場内各種サービス業務",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社の株式会社東京プロパティサービスが大井競馬場内の飲食店・駐車場の運営、指定席の販売等の各種サービスの提供を行っています",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "大井競馬場内フードサービス",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東京プロパティサービス",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "また2014年より開始したSPAT4会員向けのサービス「SPAT4プレミアムポイント」では、多数のイベント開催やキャンペーンを通じ顧客の満足度を高めております",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "【サービスサイト】",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "【サービスサイト】",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "大井競馬場内の各種サービス業務、当社所有のオフィス・商業施設の管理運営を関連会社の株式会社東京プロパティサービスに委託しています",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、関連会社の株式会社タックでは、空調設備の施工管理及び保守サービスを行っております",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "【サービスサイト】",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東京プロパティサービス",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "空調設備の施工管理・保守サービス",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社である株式会社タックにおいては、都内の百貨店や金融機関を中心に空調設備の施工管理および保守サービスを行っているほか、当社グループが所有する施設の設備工事を行っております",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "全額出資の子会社、大井興業株式会社（現 株式会社東京プロパティサービス）を設立",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "場内サービスを主体とする事業を委託",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "大井興業株式会社を株式会社東京プロパティサービスへ商号変更",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "公営競技事業の主力である大井競馬場では、入居テナントと連携してエネルギー使用の最適化・効率化を念頭におき、削減対策を実施しております",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "日用品の販売やサービスの提供、飲食店を展開しており、近隣住民のみなさまの生活の基盤となっています",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "このような不確実性の高い状況下において、当社グループの最大の強みは、公営競技事業（大井競馬場・インターネット投票システム『SPAT4』・伊勢崎オートレース場）、遊園地事業（東京サマーランド）、倉庫賃貸事業ならびにサービス事業といった、エンターテインメント空間の提供と独自の不動産アセットを掛け合わせた強固な事業基盤を有している点にあります",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズや構成の変化・公営競技界の働き手不足、経営効率化とサービス向上、持続可能な社会の実現への貢献などを意識した経営が重要との認識のもと、公営競技に長きにわたり携わってきた当社として、地方公共団体とも連携しながら、当社に求められる公共性・公益性をふまえたうえで、さらなる企業価値向上の方向性をお示しするため、策定いたしました",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法および会社法等の関係法令、ならびに東京証券取引所の定める「有価証券上場規程（以下、適時開示規則）」に従い、正確、公平かつ迅速な情報開示を行います",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "9672（サービス業）",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "証券会社の貸株サービスを利用している場合",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業",
+    "url": "https://tokyotokeiba.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "運営を行っているサービス事業についても、収益に大きく貢献する目処は立っていない",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス事業 1,682 11.2% 308 △ 3.6",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫賃貸事業、サービス事業については安定的な推移を見込む",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(6)サービス事業",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービス事業では、東京都品川区の商業施設「大井競馬場前ショッピングモール ウィ",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クルームの管理運営などを、子会社の東京プロパティサービスが行っている",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設の運営などでは苦労している模様で、サービス事業を積極的に拡大していこうとの",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15年7月にＭ＆Ａをしたタック(空調設備の設計施工、保守サービス)もこのセグメント",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "公営競技事業 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ページ｜事業紹介",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "遊園地事業 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ページ｜事業紹介",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "倉庫賃貸事業 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ページ｜事業紹介",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス事業 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ページ｜事業紹介",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "施設紹介 | 事業紹介 | 東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "JR大森駅前の店舗ビルが集積するエリアに立地しており、オフィス環境の提供を中心として、1階部分は飲食店等の幅広い業種・業態にも活用していただける施設となっています",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "関連ページ｜事業紹介",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "地域社会とパートナー企業に寄り添い、共に発展する都心型倉庫事業の実現",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "※2026年12月31日基準日の株主優待より、対象店舗を拡大いたします",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "※2026年12月31日基準日の株主優待より、対象店舗を拡大いたします",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "券面に記載のある期間内、大井競馬の開催日に大井競馬場内飲食店舗「",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "」以外の店舗ではご利用できません",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "※2026年12月31日現在の株主名簿に記載された株主様への進呈分（2027年3月発送予定）より、ご利用対象店舗を大井競馬場内の当社指定店舗（複数店舗へ拡大）に変更いたします",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "対象店舗の詳細は、2026年12月末頃に当社ウェブサイト等にてお知らせいたします",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/procedure/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介TOP",
+    "url": "https://tokyotokeiba.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "商業施設やオフィスビル等の管理運営・賃貸、空調設備の施工管理・保守を行っています",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、空調設備の施工管理および保守サービスを行っています",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、関連会社の株式会社タックでは、空調設備の施工管理及び保守サービスを行っております",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "空調設備の施工管理・保守サービス",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "関連会社である株式会社タックにおいては、都内の百貨店や金融機関を中心に空調設備の施工管理および保守サービスを行っているほか、当社グループが所有する施設の設備工事を行っております",
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "pass": 1
+   },
+   {
+    "quote": "客単価の推移および増加施策について",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "例年、期初に発表される会社計画は保守的な数字のケースが多い",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "時(2017年2月中旬予定 )に示される 17/12期会社計画もかなり保守的な数字になる可能",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15年7月にＭ＆Ａをしたタック(空調設備の設計施工、保守サービス)もこのセグメント",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【手数料及びリスク情報等】",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SBI証券で取り扱っている商品等へのご投資には、各商品毎に所定の手数料や必要経費等をご負担いただく場合があります",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各商品等への投資に際してご負担いただく手数料等及びリスクは商品毎に異なりますので、詳細につきま",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2035年度を目標年度とする、当社初の長期経営方針です",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期から2030年12月期までの5年間を計画期間とする中期経営計画です",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要、企業理念、沿革等の情報を掲載しています",
+    "url": "https://tokyotokeiba.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月にはSPAT4 公式アプリをリリースし、SPAT4のさらなる価値向上を目指しております",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日現在",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1949年（昭和24年）12月20日",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月16日現在",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社案内 |東京都競馬株式会社",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1949-1969の沿革を開閉",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970-1999の沿革を開閉",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000-2019の沿革を開閉",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020-の沿革を開閉",
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年には、東京サマーランド園内に天然水の森の取り組みに関するPRコーナーを設置し、来園者に向けて森林整備の意義や活動内容の発信を行っております",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月、東京都競馬株式会社は、2035年度を目標年度とする、",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の目指す姿から、バックキャストにより施策を検討し、策定いたしました",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年に目指す姿",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年に目指す姿の実現により、当社独自のトリプルボトムライン「PLACE」「PLANET」「PEOPLE」の好循環サイクルを確立し、サステナビリティ課題の解決と当社グループの成長を図ってまいります",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月、東京都競馬株式会社は、2026年12月期から2030年12月期までの５年間を計画期間とする",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 主な活動実績",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月19日に公表した「未来の空間創造プロジェクト the 1st Furlong −東京都競馬株式会社 中期経営計画2030−」について説明",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年目指す姿",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2035年の目指す姿から、バックキャストにより施策を検討し、策定いたしました",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月19日に開示した「中期経営計画2030」の期間中においては、連結配当性向35％を基準とし、1株当たりの年間配当137円を目安とする配当方針を掲げております",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日現在",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/shareholder/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月期中間配当以前については、株式併合後の基準で換算した金額を記載しております",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月22日",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年2月15日",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年10月29日",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月30日",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月26日(木) 午前10時",
+    "url": "https://tokyotokeiba.co.jp/ir/stock/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年12月15日",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1991年に9,862億円でピーク",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年8月21日に発生した東京サ",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年以降、地方競馬電話投票売上高(SBI証券では6割強がSPAT4と推定)は年率20％",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年は、ダート競馬の祭典として高い集客 、",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年を底に回復が鮮明",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年度売上高 (前期比)",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年は社債50億円の償還を迎えるが、手元の現預金で返済可能な状況にある",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年8月には、",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成27年3月以降、募集・売出し（普通社債を除く）にあたり、株式会社SBI証券が、主幹事となっている銘柄は当社WEBサイト",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年入社",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月13日 17:15",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "東京港や羽田空港からのアクセスが良好で、物流の一等地である東京都品川区の勝島地区を中心に、物流大手各社様をはじめとした様々なお客様へ倉庫を賃貸しています",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また2014年より開始したSPAT4会員向けのサービス「SPAT4プレミアムポイント」では、多数のイベント開催やキャンペーンを通じ顧客の満足度を高めております",
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都あきる野市の観光の拠点としてみなさまに愛されてきた東京サマーランドでは、安全管理体制を整え、ご来園されるお客様が安心して楽しむことのできる施設運営を行っています",
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "当社保有の倉庫・物流施設の管理運営を関連会社の東京倉庫株式会社が行い、物流大手各社様をはじめとした様々なお客様へ賃貸しています",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "東京港や羽田空港からのアクセスが良好で、物流の一等地である東京都品川区の勝島地区を中心に、物流大手各社様をはじめとした様々なお客様へ倉庫を賃貸しております",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "マルチテナント型の倉庫やレンタル収納スペースなど、より幅広くお客様のニーズに合わせた物流倉庫の提供を行っています",
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "pass": 1
+   },
+   {
+    "quote": "また、2018年より冬季に「東京メガイルミ」を開催しており、競馬場ならではのお馬さんイベント等を実施し、大井競馬の開催のない日にも多くのお客様に競馬場を楽しんでいただいています",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "北関東最大級の大型ビジョンを備える等、快適な施設づくりに努め、お客様にスピード感あふれるレース観戦を楽しんでいただいております",
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、気候変動などの地球環境問題への配慮、人権の尊重、従業員の健康・労働環境への配慮や公正・適切な処遇、取引先との公正・適正な取引、自然環境災害等への危機管理などサステナビリティを巡る様々な課題へ対応し、社会および当社グループの事業活動の持続的成長と中長期的な企業価値の向上を推進するとともに、当社グループのサステナビリティへの取り組みに関する適切かつ効果的な情報開示を推進することを目的に、サステナビリティ推進委員会を設置いたしました",
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、「未来に向けた空間創造投資」として、大井競馬場等の再整備に約400億円を投じるほか、デジタル空間での顧客体験価値をより高めるべく、SPAT4関連システムの強化に約150億円の投資を行ってまいります",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズや構成の変化・公営競技界の働き手不足、経営効率化とサービス向上、持続可能な社会の実現への貢献などを意識した経営が重要との認識のもと、公営競技に長きにわたり携わってきた当社として、地方公共団体とも連携しながら、当社に求められる公共性・公益性をふまえたうえで、さらなる企業価値向上の方向性をお示しするため、策定いたしました",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループならではの蓄積されたノウハウによる顧客創造・外部展開の実現",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "SPAT4の売上・会員数の推移について",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "株主や顧客、地域社会のすべての人々に安心と信頼、そして笑顔を届けるため、誠実な経営で社会の発展に貢献し続けます",
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "pass": 1
+   },
+   {
+    "quote": "SPAT4ユーザーの中心層は 40代で3割強を占める",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "地方競馬が抱えていた 顧客層の若返り という課題は、在宅",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーは40代が3割強占め中心顧客層となっている",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客層の若返りが進んでおり、",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "③スマートフォンゲームで課金慣れしたゲームユーザーの一部が 、架空のデータに",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(3)安全管理～大井競馬場 、伊勢崎オートレース場 、東京サマーランドなど多くの顧客",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万一、本資料に基づいてお客様が損害を被ったとし",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "だからこそ、この高い公共性の担保という企業としての社会的責任を果たしつつ、プライム市場上場企業として、第4次中期経営計画の最終年度である2030年に「売上高480億円以上、営業利益190億円以上」という力強い利益成長をいかに牽引していくのか、という点につきまして、当社のビジネスモデルの強みや財務戦略の意図なども交えながら、より一層の透明性をもって市場へ継続的に発信していく所存です",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "非常に安定した収益構造",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの違いはあるにし",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "事業環境の認識と当社の強みについて",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "このような不確実性の高い状況下において、当社グループの最大の強みは、公営競技事業（大井競馬場・インターネット投票システム『SPAT4』・伊勢崎オートレース場）、遊園地事業（東京サマーランド）、倉庫賃貸事業ならびにサービス事業といった、エンターテインメント空間の提供と独自の不動産アセットを掛け合わせた強固な事業基盤を有している点にあります",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、この高い公共性の担保という企業としての社会的責任を果たしつつ、プライム市場上場企業として、第4次中期経営計画の最終年度である2030年に「売上高480億円以上、営業利益190億円以上」という力強い利益成長をいかに牽引していくのか、という点につきまして、当社のビジネスモデルの強みや財務戦略の意図なども交えながら、より一層の透明性をもって市場へ継続的に発信していく所存です",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "pass": 1
+   },
+   {
+    "quote": "先ずは大井エリアから、グループ各社の強み、地方公共団体や他社とのシナジーを最大限に活用して「まちづくり」を牽引するとともに、そのノウハウを他の事業拠点へ展開してまいります",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "より多くの人の笑顔を創造するためには、個々の個性や強みといった“らしさ”を活かし、空間に新たな価値を生み出す力が不可欠です",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "従業員の個性や強みといった “らしさ” を発揮できるように支援し、",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "pass": 1
+   },
+   {
+    "quote": "る営業利益率は特筆すべきことで",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方で 、高い営業利益率にもかか",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表13 レジャー企業のROEと営業利益率の関係",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(売上総利益率) 24.5% 24.9% 32.3% 33.5% 33.8% 34.6% 35.6%",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "大井競馬場内見学をはじめ、主に公営競技セグメントに関する事業説明や質疑応答を実施",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別収支における推移および今後の見通しについて",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://tokyotokeiba.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント別では 、公営競技事業と倉庫賃貸事業が収益の二本柱",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表1 15/12期 セグメント別売上構成およびセグメント別利益構成",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表3 15/12期 セグメント別の売上高およびセグメント利益",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間取引の消去等 △ 52 － △ 925 －",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益及び",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント損失売上高",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表8 【公営競技】売上高・セグメント利益率の推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "16/12期も、第3Ｑ決算までの状況からセグメント損失となることが濃厚で 、6期連続",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "でセグメント赤字の見通しと苦戦が続いている",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント赤字が続く",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表9 【遊園地事業】売上高・セグメント利益率の推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表10 【遊園地事業】 売上高・セグメント利益の四半期推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表12 【倉庫賃貸事業】売上高・セグメント利益率の推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15年7月にＭ＆Ａをしたタック(空調設備の設計施工、保守サービス)もこのセグメント",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表12 【サービス事業】売上高・セグメント利益率の推移",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トの中で 、倉庫賃貸事業の構成比",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間取引の消去等 -52 -52 -200 -200 -150",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間取引の消去等 -891 -5.5 -902 -5.6 -959 -5.4 -925 -5.0 -1,000 -5.1 -1,000 -4.8 -1,000 -4.7",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 - 東京都競馬株式会社 — 事業紹介 - 東京都競馬株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > business",
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬 （東証1部 9672） - SBI証券 — 東京都競馬 （東証1部 9672） - SBI証券 SBI証券 PDF https://search.sbisec.co.jp > popwin > info > stock",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "競馬場の大家さんはIT企業だった～ 東京都競馬 — 競馬場の大家さんはIT企業だった～ 東京都競馬 yuho-tantei.com https://yuho-tantei.com > 経営戦略探訪 > ビジネスモデル",
+    "url": "https://yuho-tantei.com/2026/05/tokyotokeiba/",
+    "pass": 3
+   },
+   {
+    "quote": "長期経営ビジョン | 経営方針 | IR情報 - 東京都競馬 株式会社 — 長期経営ビジョン | 経営方針 | IR情報 - 東京都競馬 株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > IR情報 > 経営方針",
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬 (株)の新卒採用・会社概要 | マイナビ2027 — 東京都競馬 (株)の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp252716 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp252716/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 （連結） | IR ライブラリー - 東京都競馬 株式会社 — 決算説明資料 （連結） | IR ライブラリー - 東京都競馬 株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > IR情報 > IRライブラリー",
+    "url": "https://tokyotokeiba.co.jp/ir/library/earningspresentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR ライブラリー | IR情報 - 東京都競馬株式会社 — IR ライブラリー | IR情報 - 東京都競馬株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > IR情報",
+    "url": "https://tokyotokeiba.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 東京都競馬 】[9672]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 東京都競馬 】[9672]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=9672",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 東京都競馬株式会社 — IR情報 - 東京都競馬株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > ...",
+    "url": "https://tokyotokeiba.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬 【9672】の株価材料ニュース, 決算 速報,適時開示情報 — 東京都競馬 【9672】の株価材料ニュース, 決算 速報,適時開示情報 株探 https://s.kabutan.jp > 東京都競馬 (9672)",
+    "url": "https://s.kabutan.jp/stocks/9672/news/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社案内 - 東京都競馬株式会社 — 会社概要 | 会社案内 - 東京都競馬株式会社 東京都競馬株式会社 https://tokyotokeiba.co.jp > 会社案内",
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬 【9672】の 事業 内容 - キタイシホン — 東京都競馬 【9672】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9672/business",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | 東京都競馬 採用サイト — 社員 インタビュー | 東京都競馬 採用サイト 東京都競馬株式会社 https://www.tokyotokeiba.co.jp > recruit > fresh > interview",
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬社長 に武市敬氏 - 日本経済新聞 — 東京都競馬社長 に武市敬氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－ 東京都競馬 株式会社 代表取締役 社長 武市 敬 — 業界毎特集記事－ 東京都競馬 株式会社 代表取締役 社長 武市 敬 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/6119",
+    "pass": 3
+   },
+   {
+    "quote": "東京都競馬 、 社長 に中西充氏 | 人物 ニュース - 日刊工業新聞 — 東京都競馬 、 社長 に中西充氏 | 人物 ニュース - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/506571",
+    "pass": 3
+   },
+   {
+    "quote": "＜新 社長 ＞ 東京都競馬 は武市氏 - 産経ニュース — ＜新 社長 ＞ 東京都競馬 は武市氏 - 産経ニュース 産経ニュース https://www.sankei.com > 経済 > 人事",
+    "url": "https://www.sankei.com/article/20260214-OOGSQJKZXJMNDHZJXIMPESTWEM/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tokyotokeiba.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/competition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/amusement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/rental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/business/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/irmessage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/midtermplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/managementpolicy/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/shareholder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/preference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/procedure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tokyotokeiba.co.jp/wpkeiba/wp-content/themes/tokyotokeiba/dist/assets/pdf/longterm_vision2035.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/wpkeiba/wp-content/themes/tokyotokeiba/dist/assets/pdf/longterm_vision2035_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/wpkeiba/wp-content/themes/tokyotokeiba/dist/assets/pdf/20251219_keikaku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/wpkeiba/wp-content/themes/tokyotokeiba/dist/assets/pdf/Medium_Term_Management_Plan_2030.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tokyotokeiba.co.jp/wpkeiba/wp-content/themes/tokyotokeiba/dist/assets/pdf/20251219_keikaku_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京都競馬",
+   "results": [
+    "https://tokyotokeiba.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%B6%E9%A6%AC",
+    "https://www.tokyocitykeiba.com/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9672",
+    "https://www.jra.go.jp/facilities/race/tokyo/",
+    "https://ja.wikipedia.org/wiki/東京都競馬",
+    "https://ja.wikipedia.org/wiki/東京競馬場",
+    "https://tokyotokeiba.co.jp/company/",
+    "https://www.jra.go.jp/facilities/race/tokyo/yoko/index.html"
+   ]
+  },
+  {
+   "query": "東京都競馬 ビジネスモデル",
+   "results": [
+    "https://tokyotokeiba.co.jp/business/",
+    "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "https://yuho-tantei.com/2026/05/tokyotokeiba/",
+    "https://tokyotokeiba.co.jp/ir/managementpolicy/longtermplan/",
+    "https://job.mynavi.jp/27/pc/search/corp252716/outline.html",
+    "https://note.com/hsho488/n/n25753e0bf506",
+    "https://kitaishihon.com/company/9672/story",
+    "https://bizspa.jp/post-706433/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9672",
+    "https://ja.wikipedia.org/wiki/東京都競馬"
+   ]
+  },
+  {
+   "query": "東京都競馬 決算説明資料",
+   "results": [
+    "https://tokyotokeiba.co.jp/ir/library/earningspresentation/",
+    "https://tokyotokeiba.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9672",
+    "https://tokyotokeiba.co.jp/ir/",
+    "https://s.kabutan.jp/stocks/9672/news/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9672",
+    "https://finance.matsui.co.jp/stock/9672/settlement/index",
+    "https://irbank.net/9672/ir"
+   ]
+  },
+  {
+   "query": "東京都競馬 事業系統図",
+   "results": [
+    "https://tokyotokeiba.co.jp/company/overview/",
+    "https://search.sbisec.co.jp/v2/popwin/info/stock/market_report_rela_161215.pdf",
+    "https://kitaishihon.com/company/9672/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251219/20251219522804.pdf",
+    "https://jra.jp/company/about/outline/organization/",
+    "https://job.mynavi.jp/28/pc/search/corp252716/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9672",
+    "https://tokyotokeiba.co.jp/risk/",
+    "https://ja.wikipedia.org/wiki/東京都競馬",
+    "https://tokyotokeiba.co.jp/business/"
+   ]
+  },
+  {
+   "query": "東京都競馬 社長 インタビュー",
+   "results": [
+    "https://www.tokyotokeiba.co.jp/recruit/fresh/interview/",
+    "https://www.nikkei.com/article/DGXZQODZ00009_T10C26A2000000/",
+    "https://shachomeikan.jp/industry_article/6119",
+    "https://www.nikkan.co.jp/articles/view/506571",
+    "https://www.sankei.com/article/20260214-OOGSQJKZXJMNDHZJXIMPESTWEM/",
+    "https://media.jwpta.or.jp/2018/11/01/interview22/",
+    "https://intetour.jp/intetour_corp/2190263/",
+    "https://tokyotokeiba.co.jp/company/message/",
+    "https://ten.1049.cc/interview/tokyotokeiba/",
+    "https://the-shashi.com/tse/9672/executives/"
+   ]
+  }
+ ],
+ "missing": {}
+}

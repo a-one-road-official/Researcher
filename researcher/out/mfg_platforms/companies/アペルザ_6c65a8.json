@@ -1,0 +1,1383 @@
+{
+ "name": "アペルザ",
+ "aliases": [
+  "Aperza",
+  "アペルザカタログ",
+  "Aperza Inc"
+ ],
+ "context": "製造業のカタログ・EC",
+ "researched_at": "2026-11-02T14:30:12.767371+00:00",
+ "official_url": "https://www.aperza.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2010年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2016年7月1日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2016年",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "カタログ 掲載企業一覧",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 富士工業株式会社による「HCJ2026（第26回厨房設備機器展）」出展 循環式IH調理ワゴンと調理油煙回収ユニットの同時体験 MCによる解説つき調理実演とプロのシェフによ...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 富士工業株式会社による「HCJ2026（第26回厨房設備機器展）」出展 循環式IH調理ワゴンと調理油煙回収ユニットの同時体験 MCによる解説つき調理実演とプロのシェフによ...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "AZAPA株式会社、CAEフォーラム2026出展 X線CT×1Dで車両丸ごとデジタルツイン",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… AZAPA株式会社は、「第20回 自動車技術に関するCAEフォーラム2026」〜自動車の革新技術を加速するデジタルエンジニアリング最前線〜に出展いたします",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… パンチ工業株式会社の公式YouTubeチャンネル開設 精密金型部品加工の技術紹介などの動画コンテンツ定期配信 決算情報や展示会の出展報告などの発信 パンチ工業株式会社は、...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ウイルテックはデバイス販売テクノ、ホタルクスと合同で、2025年11月19日（水）〜21日（金）に東京ビッグサイトで開催される「IIFES 2025」に出展する",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=3&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ロボティクス領域に向けたロータリーアクチュエータとリニアアクチュエータの開発 小型・軽量・高バックドライバビリティという特長 2025国際ロボット展への参考出展と2028...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=3&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "Doog、KAIZEN Mobile Robotを新プロモ開始 名古屋ロボデックス出展＆技術相談会",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=4&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 名古屋ロボデックス出展と新プロモーション開始 【KAIZEN Mobile Robot】のブランドロゴとメッセージ発信 エンドユーザ様向け技術相談会（予約制）の実施 株式...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=4&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "NSK、MECT2025に出展 Z-θアクチュエータ・PalGo・D‑VibA10を展示（10/22〜25・名古屋）",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 「メカトロテックジャパン2025（MECT2025）」への出展 コンセプト“MORE THAN PRECISION”と主な展示内容 会期・会場・ブース番号の出展概要 日本...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "スター精機、メカトロテックジャパン2025に初出展 7kg可搬SGLW-807W連動デモでワンストップ連携提案",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… メカトロテックジャパン2025に初出展 ガントリーローダーの連動デモを実施 工作機械×直行ロボットのワンストップ連携を提案 株式会社スター精機は、日本最大級の工作機械見本...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "NSK、MECT2025に出展 Z-θアクチュエータ・PalGo・D‑VibA10を展示（10/22〜25・名古屋）",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 「メカトロテックジャパン2025（MECT2025）」への出展 コンセプト“MORE THAN PRECISION”と主な展示内容 会期・会場・ブース番号の出展概要 日本...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "スター精機、メカトロテックジャパン2025に初出展 7kg可搬SGLW-807W連動デモでワンストップ連携提案",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… メカトロテックジャパン2025に初出展 ガントリーローダーの連動デモを実施 工作機械×直行ロボットのワンストップ連携を提案 株式会社スター精機は、日本最大級の工作機械見本...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、売り手と買い手をつなぐプラットフォームを提供することでこうした企業や製品が国内外に広く知られ、使われるようになるお手伝いをしています",
+    "url": "https://www.aperza.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "従来のアナログな対面営業や紙カタログ、高額な展示会出展に依存していた業界において、技術者のWeb検索シフトやデジタル化需要が拡大している",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "また、企業出展は無料で、問い合わせが入った場合に出展管理画面から見込み顧客へ直接回答できる仕組みも紹介されています",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "出展管理画面で顧客対応を継続できるか",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "無料出展から反応を確認したい",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザの思いに賛同する約500社のメーカーに掲載いただく形での船出でしたが、今では8,500社を超える企業に出展いただくまでに拡大しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回のブランドリニューアルにおいては、海外展開を見据え、コーポレート、およびサービスのブランドやトーン＆マナーを統一し、あわせてプラットフォームの出展企業を支援する機能・サービス群を『Apérza DX（アペルザDX）』のブランドで統一します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "業界では唯一の、製造業特化の動画マーケティングが可能な「アペルザTV」や、営業活動の生産性向上を支援する「アペルザDX」など、認知獲得〜受注までのファネルを一気通貫でカバーできる独自性の高いプロダクトポートフォリオを武器に、ものづくり産業における売り手企業（主にメーカー・商社のお客様）に向けて、アペルザのSaaSプロダクトをご提案いただきます",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "業界では唯一の、製造業特化の動画マーケティングが可能な「アペルザTV」や、営業活動の生産性向上を支援する「アペルザDX」など、認知獲得〜受注までのファネルを一気通貫でカバーできる独自性の高いプロダクトポートフォリオを武器に、ものづくり産業における売り手企業（主にメーカー・商社のお客様）に向けて、アペルザのSaaSの事業の拡大に伴走いただきます",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "業界では唯一の、製造業特化の動画マーケティングが可能な「アペルザTV」や、営業活動の生産性向上を支援する「アペルザDX」など、認知獲得〜受注までのファネルを一気通貫でカバーできる独自性の高いプロダクトポートフォリオを武器に、ものづくり産業における売り手企業（主にメーカー）に向けて、アペルザのメディアサービスをご提案いただきます",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "業界では唯一の、製造業特化の動画マーケティングが可能な「アペルザTV」や、営業活動の生産性向上を支援する「アペルザDX」など、認知獲得〜受注までのファネルを一気通貫でカバーできる独自性の高いプロダクトポートフォリオを武器に、ものづくり産業における売り手企業（主にメーカー）に向けて、アペルザのメディアサービスの事業拡大を伴走いただきます",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "製品カタログ、技術解説動画、ECモール、セールスマーケティング向けのSaaSなどを一体化し、売り手と買い手の双方の業務を支援するサービスを提供しています",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "現在は国内展開のみですが、日本のものづくりの技術や品質は海外でも高く評価されており、ゆくゆくは国内の売り手と海外の買い手を結ぶような役割も果たしていきたいと考えています",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   },
+   {
+    "quote": "現在、買い手として約60万人以上の方にご利用いただいており、売り手としての利用企業も1万社を超えるところまできました",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "無料掲載 / 広告掲載について",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アズビル、強化学習AIで生産計画を自動立案・更新「VIRTUAL PLANNER PP」2026年1月20日販売開始",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… AIが生産計画を自動立案・更新する「AI最適生産計画立案システム VIRTUAL PLANNER PP」の販売開始 強化学習によりAIが最適な生産計画を短時間で立案し、生...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "オートデスク、AU 2025でエージェント型AI発表 アシスタント強化・MCPサーバー2025年秋ベータ予定・APS課金刷新",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "オートデスク、AU 2025でエージェント型AI発表 アシスタント強化・MCPサーバー2025年秋ベータ予定・APS課金刷新",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "アペルザのメディアを通じた広告宣伝や、営業活動のデジタル化支援、メールを活用したマーケティング、売上拡大につながる業務効率の改善を実現します",
+    "url": "https://www.aperza.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・動画配信等による見込み顧客送客・販促課金、ECの取引手数料、SaaS「Apérza DX」の月額利用料が主な収益源",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザとイプロスの違いと活用法 製造業の媒体掲載を商談につなげる考え方 - 集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "集客・広告戦略メディア「キャククル」",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザとイプロスを比べるとき、掲載料金や会員数、掲載できる製品数だけを見ると判断が粗くなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "詳しい媒体概要や広告掲載料金の考え方は、",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザ広告掲載の解説記事",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "イプロスの広告メニューや無料プランとの違いは、",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "イプロス広告掲載の解説記事",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "イプロスは無料掲載から始められる一方、有料活用では優先表示、広告メニュー、特設サイト、分析機能なども検討対象になります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "媒体広告や特設サイトも検討したい",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "キャククルに広告掲載",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "リスティング広告",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "アフィリエイト広告",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "記事広告（タイアップ広告）",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "タクシー動画広告",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "Web広告戦略",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスでは、社内ベンチャーである製造業向けカタログサイト「iPROS（イプロス）」の立ち上げに携わり、営業から資料作成、ウェブサイトの設計図となるHTMLコーディング、広告運用まで幅広く経験しました",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "仲介手数料0円オフィス",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Apérza（アペルザ） | ものづくり産業向けポータル - 製品検索・カタログ・通販",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "search-aperza-",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "型番、製品名、メーカー名を検索",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュース・記事を読む",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カタログ検索",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュース検索",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会DB(データベース)",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会取材動画",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会 / イベント",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "無料掲載 / 広告掲載について",
+    "url": "https://www.aperza.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュース検索 | アペルザ (Apérza) | Apérza（アペルザ） | ものづくり産業向けポータル",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "製品検索結果：8,875件中 1-30件を表示",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 株式会社エムジーによる「熱中症指数表示灯 インテリジェントタワーシリーズ（形式：IT60SA1-WBGT）」の発売 暑さ指数（WBGT）に応じた5色のランプとブザーによる...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 日本パルスモーター株式会社の株式取得（子会社化）完了 日本パルスモーター株式会社の商号変更 株式取得（子会社化）の目的と当該子会社の概要、今後の見通し マブチモーター株式...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ＳＣＳＫ株式会社、ネットワンシステムズ株式会社、TechShare 株式会社の3社がNVIDIA技術を活用したフィジカルAIの協業を開始 製造・物流・医療などの現場におけ...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ホリバ・インド社によるPristine Deeptech Private Limitedの全株式取得と子会社化の完了 ダイヤモンドなど先端材料向けの分析・計測ソリューショ...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 液化水素基地「川崎 LH₂ターミナル」の起工式開催 「液化水素サプライチェーンの商用化実証」の主要設備 世界初の商用規模施設としての設計・建設 2025年11月27日、日...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 株式会社ビーマップおよび株式会社SpicyCompanyの人工ダイヤモンド製造装置販売事業開始決定 人工ダイヤモンド材料の開発および販売事業の強化と「材料」＋「製造インフ...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 豊田通商株式会社によるリンクウィズ株式会社への出資と共同事業開発契約の締結 点群データの高速処理による3次元形状認識ソフトウェアの開発 量産工程に求められる自律型ロボット...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 横河電機株式会社とANYbotics AGによる「OpreX Robot Management Core」と「ANYmal」ロボットの統合 防爆・非防爆ロボットの管理を統...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 三菱電機株式会社は、2026年7月1日付で北米グループ3社の組織を再編し、FA機器・CNCの販売・サービス事業の統合、間接部門の集約、メイソン製造拠点資産の譲渡を通じて、...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 八洲電機と日立システムズによるCool IT Systems社製直接液冷システム（DLC）の販売・据え付け・試運転・保守サービスの共同提供開始 八洲電機のDLC現場技術力...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 105℃対応の細径高屈曲ロボットケーブル「ORP-SL105℃」発売 PFAS（注1）対応の「ORP-SLケーブルシリーズ」新ラインアップ 2026年4月1日より出荷開始...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ACサーボアクチュエータFPAシリーズの新発売 精密遊星歯車減速機ハーモニックプラネタリ®と専用ACサーボモータの一体化製品 直交部を持たないことによる高効率、高精度の実...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 岩崎電気が2026年2月26日に「パルスドキセノン除染装置」についてのウェビナーを開催 水銀レスのランプを使用し、有害なオゾンも発生しない「パルスドキセノン除染装置」 高...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… AIが生産計画を自動立案・更新する「AI最適生産計画立案システム VIRTUAL PLANNER PP」の販売開始 強化学習によりAIが最適な生産計画を短時間で立案し、生...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… グリーンイノベーション基金事業「次世代型タンデム太陽電池量産技術実証事業」の新規開始 タンデム化と量産技術開発により、高性能なペロブスカイト太陽電池の早期社会実装を目指す...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 小型・軽量設計のドライバー形状 最大約140 m/sで細部のホコリを吹き飛ばす 発売日2026年4月1日 パナソニック株式会社 エレクトリックワークス社（以下、当社）は、...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… デジタルツインサービス「Gemello（ジェメロ）」の販売開始 高性能レーザースキャナーと360°パノラマカメラによる現場撮影を含むサービス構成 機械とのIoT連動による...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "Zrek、製造・物流の目視検査向け独自VLM開発開始 作業動画検索も",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 製造業および物流分野における目視検査や作業理解の高度化を目的とした独自VLMの開発開始 画像や動画と自然言語を同時に理解できるAIモデルであるVLMの説明 目視検査、作業...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… VLM（視覚言語モデル）搭載の「生成AI活用型 飲料容器高度リサイクルロボット」第１号機の受注 「ウム・ヴェルト 加須第３リサイクルセンター」向けの納入決定 生成AI（V...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 汎用インバータ新製品「FRENIC-Mini（C3）」の発売 従来製品（FRENIC-Mini（C2））比で約15％の小型化と「2重定格」の採用 スマートフォン等でのモニ...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 海洋構造物の腐食などで発生する水中電界（UEP）の非接触・高感度測定 水中ロボット搭載用「CF100」と潜水士用「CF110」の同時発売 世界最高級の高分解能（10µVp...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 株式会社日立ソリューションズ・テクノロジーによるデンソー主催表彰制度での優秀賞受賞 受賞プロジェクト「周辺監視ECUソフトウェアの表示機能を実現するための基盤ソフト開発」...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "企業検索 | Apérza Catalog（アペルザカタログ） | ものづくり産業向けカタログサイト",
+    "url": "https://www.aperza.com/company/top/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "ニュース検索 | アペルザ (Apérza) | Apérza（アペルザ） | ものづくり産業向けポータル",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "製品検索結果：8,875件中 31-60件を表示",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 汎用インバータ新製品「FRENIC-Mini（C3）」の発売 従来製品（FRENIC-Mini（C2））比で約15％の小型化と「2重定格」の採用 スマートフォン等でのモニ...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 海洋構造物の腐食などで発生する水中電界（UEP）の非接触・高感度測定 水中ロボット搭載用「CF100」と潜水士用「CF110」の同時発売 世界最高級の高分解能（10µVp...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 株式会社日立ソリューションズ・テクノロジーによるデンソー主催表彰制度での優秀賞受賞 受賞プロジェクト「周辺監視ECUソフトウェアの表示機能を実現するための基盤ソフト開発」...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ポリゴン編集ソフト「POLYGONALmeister」V10.0の販売開始 トリム機能と凹凸検査機能の強化 パッケージ別の提供と販売価格の提示 POLYGONALmeis...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 富士工業株式会社による「HCJ2026（第26回厨房設備機器展）」出展 循環式IH調理ワゴンと調理油煙回収ユニットの同時体験 MCによる解説つき調理実演とプロのシェフによ...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… Air Water India Private Limitedによるタタ・スチール ジャムシェドプル製鉄所向け大型産業ガスプラント取得 タタ・スチールとの20年間の長期運...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… キャステムベトナムの竣工式実施 ベトナム北部クアンニン省での新設工場 2026年5月末までの量産開始予定 株式会社キャステム及びキャステムグローバルグループのキャステムベ...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… Pro-faceの新製品として新型HMI「GP6000シリーズ」を発表、2025年12月15日より受注開始 「GP4000シリーズ」と「SP5000シリーズ」の後継として...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… ロボット開発・運用における知的財産（IP）の可視化と価値化を支援する統合型プラットフォームの共同発表 ロボットの動作・設計・制御に関する知見の体系化と、再利用可能な知財資...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 石油資源開発株式会社が、北海道苫小牧市の北海道事業所構内に系統用蓄電池設備「JAPEX苫小牧蓄電所」を設置することを決定し、2025年10月6日に着工したこと 当社として...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… AZAPA株式会社は、「第20回 自動車技術に関するCAEフォーラム2026」〜自動車の革新技術を加速するデジタルエンジニアリング最前線〜に出展いたします",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 東京エレクトロン九州における新開発棟（名称：プロセス開発棟）の完成と竣工式 コータ／デベロッパ、洗浄装置、ウェーハボンダーをはじめとする3次元実装向け装置の開発・製造 プ...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… アンリツ株式会社によるDEWETRONの計測・データ収集ソリューションの国内販売開始 高砂製作所の電力制御技術とDEWETRONの高精度計測技術のシナジー最大化 自動車、...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… CES 2026での変革的なAIロボティクス戦略の発表 3つの基盤的パートナーシップに支えられたロードマップ Atlas、Spot、MobEDなどの展示とライブデモンスト...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 株式会社New Innovationsによる株式会社ファースト・オートメーションの全株式取得とグループ会社化 AI図面管理「図面バンク」と製造業特化型生成AI「SPESI...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… リモートアクセス用クラウド「mGuard Secure Cloud」の日本国内での正式発売とサービス開始 セキュアな遠隔サポートを可能にするクラウド経由アクセスと簡単な設...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 高速応答・入出力フルレンジ対応CMOS型デュアルコンパレーター「TC75W71FU」の出荷開始 従来製品TC75W56FU比での伝搬遅延時間短縮（Low to High最...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 発表日：2025年12月23日 可変表示型光パターン形成LED照明「ホロライト・プロジェクター」の開発 漢字を含む文字投影、スクロール表示、複数パターン切り替え表示 「ク...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 優良工場表彰制度「第14回 2026 GOOD FACTORY賞」決定 インド・タイ・フィリピン・ベトナム・日本の5か国より8工場／事業所を表彰 加えて、過去受賞工場を対...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 「JT33 TDLASガスアナライザ」の国内防爆取得 硫化水素（H₂S）のリアルタイム・連続測定 キャリアガス不要とHeartbeat Technologyによる状態監視...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 新事業所「中部リンケージコモンズ（CLC）」の地鎮祭実施 東京大学と共同開発する高度な制御技術を導入した試験設備の実装予定 2027年9月の稼働開始予定と共創パートナー募...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… GMP対応細胞ファイバ製造装置「CellFiber Extruder」量産型モデル機の発表 CellFiber®（細胞ファイバ）技術を用いた再生医療等製品向け細胞の大量生...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "HORIBA、インドPristine Deeptechを買収し人工ダイヤ研究開発拠点を強化",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "豊田通商、リンクウィズへ出資し点群3D形状認識で自律型ロボットを共同開発",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… 豊田通商株式会社によるリンクウィズ株式会社への出資と共同事業開発契約の締結 点群データの高速処理による3次元形状認識ソフトウェアの開発 量産工程に求められる自律型ロボット...",
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… Brakes India Private Limitedとの資本業務提携決議 第三者割当増資による約11億37百万円の資金調達 購買、製造、技術ライセンス供与、製品相互販...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… シリーズAラウンドで累計5億円の資金調達を完了 JPインベストメント地域・インパクト1号を引受先とする第三者割当増資を実施 調達資金は自律走行式金型交換装置の開発、生産能...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=3&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… シリーズAラウンドで累計5億円の資金調達を完了 JPインベストメント地域・インパクト1号を引受先とする第三者割当増資を実施 調達資金は自律走行式金型交換装置の開発、生産能...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=4&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機、Nozomi Networks買収でSerendie強化 2030年度売上1.1兆円目標",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… Serendie関連事業の強化を目的とした買収 Nozomi NetworksのSaaS・クラウド・AIの取り込みによる質的強化 Serendie関連事業で2030年度に...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機、Nozomi Networks買収でSerendie強化 2030年度売上1.1兆円目標",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "この記事の内容をまとめると… Serendie関連事業の強化を目的とした買収 Nozomi NetworksのSaaS・クラウド・AIの取り込みによる質的強化 Serendie関連事業で2030年度に...",
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "pass": 1
+   },
+   {
+    "quote": "【無料閲覧可】株式会社アペルザ / Apérza Catalogの資金調達推移・投資家情報 | FIRST CVC",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達は最新の1回分を無料で公開しています",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達の推移",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達の全履歴と投資家を見る（無料登録）",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "これまで一貫してベンチャー投資に従事、ITを中心に幅広い分野への投資と、そのIPO/M&Aを担当",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "起業から資金調達、資本政策、M&A、IPOなど、スタートアップが直面する様々な課題に対して支援を行っている",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "投資銀行本部にて主にインターネット企業の株式上場(IPO)支援を担当し、ミクシィやDeNAなど数多くのIPOを実現させる",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスで築き上げた自動車・食品・半導体などのあらゆる業界の生産現場を見てきた経験と、顧客と共に海外を含む新工場プロジェクトを成功に導いてきた実績を基に、東証一部上場企業などメーカー数十社の営業・販売支援/コンサルティングを担った後、現在はFAプロダクツほか複数社の代表を兼任",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "グループ会社（プライム上場企業）や顧問税理士を含むステークホルダーと連携し、正確かつスピーディな業務遂行とプロセス改善を期待しています",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "60万軒超の施工実績を誇るプライム上場企業",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "学校給食用の厨房機器において国内トップクラスのシェアを誇る、スタンダード上場企業",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」となったビジネスパーソンから見る、キャリアアップのヒント",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の「社長の右腕」として活躍されている3名のビジネスパーソン",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "人々の暮らしを支え、より良い社会を実現するという大志を抱いて1964年に弊社は創業いたしました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_1/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、創業２４年を迎え、国・県・市町村の公共事業に関わる業務を支援するソフトウェア開発を中心に営んで現在に至る",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_1/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年創業以来、複写機に代表される事務機器に始まり、オフィス家具、OA機器、ネットワーク機器、通信販売、オフィス内軽印刷とその活動の範囲を広げてまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "キヤノンプレシジョン（株）は、キヤノン（株）の最初の子会社としてカメラ部品の製造からスタートしました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度の平面研磨技術と特殊プリズムで時代を創る株式会社テクニカルはプリズム製造メーカーとしては1989年の創業で最も若い企業でもあります",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "農業機械と環境機器の開発・製造・販売メーカー 創業115年の実績と信頼",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初より技術を培ってきました組立加工と、成長戦略の柱の一つとして強化してきましたプラスチック射出成形では、金型設計～金型製作～射出成形をワンス...",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "１９６６年の創業以来、お客様のご用途、ご要望に迅速に、的確に、対応できるよう、お客...",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、環境をテーマとして全国の行政等の要望に対応した製品開発に取り組んでおります",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_3/",
+    "pass": 1
+   },
+   {
+    "quote": "明治４０年代創業の水産・食品加工機械メーカーです",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_4/",
+    "pass": 1
+   },
+   {
+    "quote": "幣社は1978年の創業以来、秋田において主に杉材の乾燥システムの確立を目標に今日まで 木材乾燥装置の開発を進めてまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_5/",
+    "pass": 1
+   },
+   {
+    "quote": "秋田化学工業株式会社は昭和４７年創業以来、金属製品の表面処理を通して、製品の機能向上に努めてまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_5/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、築き上げてきた技術力と開発力を礎にこれからもお客様から「信頼」され「納得」いただける製品とサービスをスピーディーに提供する事をモットーに邁進していく所存です",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_5/",
+    "pass": 1
+   },
+   {
+    "quote": "テクマン工業株式会社は1973年に創業し、山形県鶴岡市に本社を置く機械メーカーです",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "pass": 1
+   },
+   {
+    "quote": "鈴木製作所は１９５３年の創業以来「ミシン事業」と「包装事業」を２本柱として、お取引先をはじめ関係各位より多大なご支援をいただきながら発展してまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "pass": 1
+   },
+   {
+    "quote": "設立当初より当社は、従来のロストワックスの概念にとらわれることなく、大...",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、創業以来社員一人ひとりが真面目にものづくりに取り組む姿勢と、「お客様に喜んでもらえるものづくり」をモットーに精進してまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から90年、山本製作所は穀物乾燥機や精米機をはじめとする収穫後機器の専門メーカーとして、どんな時代にもお客様に満足していただける製品・サービスを提供してまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "pass": 1
+   },
+   {
+    "quote": "タンガロイは、超硬合金のパイオニアとして1934年創業以来、高い材料技術力と最先端の生産技術力により、金属加工用切削工具をメインとする様々な新製品を作り出し、お客様のものづくりに貢献し続けています",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "電線加工業務は、創業以来弊社の基幹業務です",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の創業は昭和39年 リニアモーション（直動式）ベアリングが日本に紹介され、生産が始められた当初から、研究・開発を重ね生産をリードしてきたリーディングカンパニーです",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "21世紀になった今、高度化された技術・利便性が追求される中、創業より一貫して理...",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "日本全薬工業株式会社（ゼノアック）は、2016年5月に創業70周年を迎えました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年より始めた経営品質向上活動は、当初こそ理解の難しい基準書と格闘しましたが、2012年の「経営革新推進賞」受賞をきっか...",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来100余年、工作機械用ツーリング及び周辺機器のメーカーとして1924年（大正13年）に機械工具製作を業として創立し、現在のドリルチャックメーカーの中では最も古くから製造開発を行ってまいりました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_8/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、日立製作所特約店として、創業以来70年余にわたり、郷土産業の発展とともに着実に歩んできました",
+    "url": "https://www.aperza.com/company/area/area_prefectureId_8/",
+    "pass": 1
+   },
+   {
+    "quote": "【無料閲覧可】株式会社アペルザ / Apérza Catalogの資金調達推移・投資家情報 | FIRST CVC",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "FIRST CVC ↗",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "運営会社サイト（FIRST CVC）↗",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "FIRST CVC. All rights reserved.",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "Message from Founder",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "創業者からのメッセージ",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザを創業する際、こんなことを考えました",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2001年より社内ベンチャープロジェクトとして、キーエンス初のインターネット事業「iPROS（イプロス）」の立ち上げに参画",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスを退職後、複数のスタートアップ創業経験を経て、2016年7月に株式会社アペルザを創業",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "IBM退職後は、製造業に特化し様々な販売手法を提案する株式会社FAナビを創業",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "楽天やファストサーチアンドトランスファを経て、アペルザの創業と共に参画",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、株式会社メルカリにて米国・日本向け「メルカリ」の製品開発／マーケティング、及び、決済新規事業「メルペイ」の立ち上げにプロダクトマネージャーとして従事",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年4月アペルザへ入社し、事業開発担当としてメディア事業・SaaS事業それぞれにおける新規サービスの企画、立ち上げに従事",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり産業向けオンラインプラットフォームを運営するアペルザ、創業6周年を機に新たなパーパスを策定し、ブランドをリニューアル | 株式会社アペルザのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり産業向けオンラインプラットフォームを運営するアペ�ルザ、創業6周年を機に新たなパーパスを策定し、ブランドをリニューアル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり産業向けオンラインプラットフォームを運営する株式会社アペルザ（本社：神奈川県横浜市、代表取締役：石原誠、以下「アペルザ」）は、創業6周年を機に新たな成長戦略にもとづいた「パーパス」の策定、およびブランドロゴのリニューアルを実施したことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "それは「技術者の設計時間の70％が部品探しに費やされている」という業界の課題に直面したことがきっかけでした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "業容の拡大をふまえ、パーパスを策定、再定義するとともに、創業時の殻を脱ぎ捨て、これからの成長戦略に合致したブランドへ生まれ変わる必要性があると判断し、今回のブランドリニューアルへと至りました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザは2016年の創業以来、一貫して「ものづくり産業」に向けたインターネットサービスを提供してきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "まもなく創業から6年が経過します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来、アペルザは本当に多くの人や企業に支えられ、ここまでやって来ることができました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "2001年より社内ベンチャープロジェクトとして、キーエンス初のインターネット事業である「iPROS（イプロス）」の立ち上げに参画",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスを退職後、複数のスタートアップ創業経験を経て、2016年7月に株式会社アペルザを創業し代表取締役社長兼CEOに就任",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり産業向けオンラインプラットフォームを運営するアペルザ、創業6周年を機に新たなパーパスを策定し、ブランドをリニューアル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザは2016年に創業し10年目を迎えましたが、一貫してものづくり産業に向けたインターネットサービスを提供してきました",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "まさに「第二創業期」を迎える今、安定した経営基盤のもと、スタートアップならではのスピード感を持ちながら挑戦を続ける私たちと一緒に、事業の成長を支えてくださる方を募集しています",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "※既存顧客に対するアップセルやクロスセルの営業行為のみ、受け身でのサポート業務のみといった役割ではなく、能動的にサービスの活用を促すCS組織の初期的な立ち上げを行っていただく役割です",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "＜募集背景＞当社は創業以来、少数精鋭の体制（従業員数十名規模）で事業立ち上げ〜推進をしてきましたが、今後の事業拡大に合わせて組織陣容の拡大を想定しています",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "AIの時代における組織モデルが未確立な状況の中では、一人ひとりの採用が企業価値に直結し、 採用の質がそのまま会社の成長速度になると考えています",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "単なる作業者ではなく、一人称で実務を回しながら、業務フローの改善やシステム化（「freee会計」等の活用）など「仕組みづくり」にも携わっていただきます",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "代表取締役社長の石原誠氏は、キーエンスで営業と社内ベンチャーの立ち上げや、複数のスタートアップ創業など、多岐にわたるキャリアを経て、2016年に同社を立ち上げた",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスでは、社内ベンチャーである製造業向けカタログサイト「iPROS（イプロス）」の立ち上げに携わり、営業から資料作成、ウェブサイトの設計図となるHTMLコーディング、広告運用まで幅広く経験しました",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "創業前の腕試しでAppleベストアプリに選ばれる",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "当初は子ども向け教育プログラムを検討しましたが、規制や参入障壁の高さで断念",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "アペルザとイプロスを比べるとき、掲載料金や会員数、掲載できる製品数だけを見ると判断が粗くなります",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "利用企業数8万社、利用者数50万人（2022年3月時点）という、国内でも有数の大規模プラットフォームに成長を遂げました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、買い手として約60万人以上の方にご利用いただいており、売り手としての利用企業も1万社を超えるところまできました",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サービス - 株式会社アペルザ — サービス - 株式会社アペルザ 株式会社アペルザ https://www.aperza.co.jp > service",
+    "url": "https://www.aperza.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アペルザ - FIRST CVC — 株式会社 アペルザ - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > aperza.co.jp",
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザ とイプロスの違いと活用法 製造業の媒体掲載を商談 ... — アペルザ とイプロスの違いと活用法 製造業の媒体掲載を商談 ... キャククル https://www.shopowner-support.net > manufacturing > ap...",
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザ の現在地とこれから－製造業の「マーケット ... - note — アペルザ の現在地とこれから－製造業の「マーケット ... - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/aperza/n/nc57a617e676c",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザ | 事例 | kintone（キントーン） - サイボウズ — アペルザ | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > aperza",
+    "url": "https://kintone-sol.cybozu.co.jp/cases/aperza.html",
+    "pass": 3
+   },
+   {
+    "quote": "アペルザ について - 株式会社アペルザ — アペルザ について - 株式会社アペルザ 株式会社アペルザ https://www.aperza.co.jp > about",
+    "url": "https://www.aperza.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アペルザ の全ての求人一覧 - HERP Career — 株式会社 アペルザ の全ての求人一覧 - HERP Career herp.careers https://herp.careers > aperzainc",
+    "url": "https://herp.careers/v1/aperzainc",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 — 業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE — 株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_aperza",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社 アペルザ 代表取締役 社長 石原 誠 — 業界毎特集記事－株式会社 アペルザ 代表取締役 社長 石原 誠 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アペルザ ｜成長 ベンチャー に訊く - CBRE — 株式会社 アペルザ ｜成長 ベンチャー に訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_aperza",
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "pass": 3
+   },
+   {
+    "quote": "創業 6周年を機に新たなパーパスを策定し、ブランドを ... — 創業 6周年を機に新たなパーパスを策定し、ブランドを ... Apérza（アペルザ） https://www.aperza.com > Home > Press",
+    "url": "https://www.aperza.com/corp/20220602",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の未来を創る「マーケットネットワーク」構想とは — 製造業の未来を創る「マーケットネットワーク」構想とは JACリクルートメント https://www.jac-recruitment.jp > aperza > interview01",
+    "url": "https://www.jac-recruitment.jp/company/aperza/interview01/",
+    "pass": 3
+   },
+   {
+    "quote": "tvk【神奈川ビジネス Up To Date】公式 石原誠 アペルザ 代表 ... — tvk【神奈川ビジネス Up To Date】公式 石原誠 アペルザ 代表 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UWnerKX5shc",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.aperza.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/top/?utm_source=footer_portal&utm_medium=app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/new/?utm_source=footer_portal&utm_medium=app",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?k&o=2&l=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?k&o=3&l=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?k&o=4&l=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?k&o=5&l=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/ja/s/news/?k&o=6&l=30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_areaId_1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_areaId_2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/area/area_prefectureId_8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015207/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015206/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015205/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015204/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015203/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.com/company/page/10015202/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.aperza.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/company/aperza.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aperza.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://herp.careers/v1/aperzainc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shachomeikan.jp/industry_article/4779",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secure.acce.org/pages/changing-business-models/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ugenie.io/blog/the-benefits-and-drawbacks-of-a-membership-business-model",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitalcommons.kennesaw.edu/amj/vol12/iss1/8/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アペルザ 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.aperza.co.jp/service/",
+    "https://www.firstcvc.jp/company/aperza.co.jp",
+    "https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/",
+    "https://note.com/aperza/n/nc57a617e676c",
+    "https://kintone-sol.cybozu.co.jp/cases/aperza.html",
+    "https://www.wantedly.com/companies/aperza/post_articles/184245",
+    "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "https://www.ini.co.jp/portfolio/aperza.html",
+    "https://tv.aperza.com/watch/2183",
+    "https://ja.wikipedia.org/wiki/アペルザ"
+   ]
+  },
+  {
+   "query": "アペルザ 売上 従業員 創業",
+   "results": [
+    "https://www.aperza.co.jp/about/",
+    "https://prtimes.jp/main/html/rd/p/000000119.000014995.html",
+    "https://herp.careers/v1/aperzainc",
+    "https://shachomeikan.jp/industry_article/4779",
+    "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "https://yoxo-o.jp/arukikata/33",
+    "https://www.wantedly.com/companies/aperza/post_articles/181714",
+    "https://startup-db.com/companies/7LPWpoVUReOGz5Em",
+    "https://www.openwork.jp/company.php?m_id=a0C10000013fE9b",
+    "https://ja.wikipedia.org/wiki/アペルザ"
+   ]
+  },
+  {
+   "query": "アペルザ 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://shachomeikan.jp/industry_article/4779",
+    "https://www.cbre.co.jp/properties/column/office/trend/venture_aperza",
+    "https://www.aperza.com/corp/20220602",
+    "https://www.jac-recruitment.jp/company/aperza/interview01/",
+    "https://www.youtube.com/watch?v=UWnerKX5shc",
+    "https://lp.startup-db.com/media/articles/aperza",
+    "https://www.wantedly.com/companies/aperza/post_articles/181714",
+    "https://yoxo-o.jp/arukikata/33",
+    "https://astavision.com/interview/2995",
+    "https://www.aperza.co.jp/about/"
+   ]
+  },
+  {
+   "query": "アペルザ revenue members business model",
+   "results": [
+    "https://secure.acce.org/pages/changing-business-models/",
+    "https://ugenie.io/blog/the-benefits-and-drawbacks-of-a-membership-business-model",
+    "https://digitalcommons.kennesaw.edu/amj/vol12/iss1/8/",
+    "https://quietlight.com/what-is-a-membership-business-model/",
+    "https://www.i4a.com/blog/non-dues-revenue-ideas/",
+    "https://associationsnow.com/2021/01/the-classic-membership-model-is-dead-and-thats-a-good-thing-heres-why/",
+    "https://www.mckinley-advisors.com/blog/membership-model",
+    "https://a16z.com/outgrowing-advertising-multimodal-business-models-as-a-product-strategy/",
+    "https://userswp.io/types-of-membership-business-models/",
+    "https://www.aperza.co.jp/about/?anchor=section-member"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部11頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部11頁・検索4回）"
+ }
+}

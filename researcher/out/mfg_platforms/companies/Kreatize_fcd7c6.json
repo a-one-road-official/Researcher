@@ -1,0 +1,231 @@
+{
+ "name": "Kreatize",
+ "aliases": [],
+ "context": "製造調達プラットフォーム（独）",
+ "researched_at": "2026-11-02T14:40:52.423905+00:00",
+ "official_url": "https://www.kreatize.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "お金の形": [
+   {
+    "quote": "Alle Betriebe in unserem Netzwerk sind geprüft. Jedes Material durchläuft vor der Lieferung zwingend einen exakt reglementierten QM-Prozess. Das Resultat sind 99,85% Akzeptanzquote unserer Kund:innen - und fantastisches Feedback der Kolleg:innen aus der Produktion. Wenn nicht, kümmern wir uns um die schnellstmögliche Abwicklung der Reklamation.",
+    "url": "https://www.kreatize.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beschaffungsmanagement mit KREATIZE bedeutet: Materialien, die Sie regelmäßig bestellen, kommen mit automatisierter Verlässlichkeit bei Ihnen an. Das erleichtert die Planung und schafft freie Kapazitäten, damit ihr Team die strategisch entscheidenden Themen anpacken kann.",
+    "url": "https://www.kreatize.com/",
+    "pass": 1
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Founder & CEO",
+    "url": "https://www.kreatize.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder and CTO",
+    "url": "https://www.kreatize.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founder & CEO",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder and CTO",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 1
+   },
+   {
+    "quote": "Getting started is easy. Within a few days, we can start a potential analysis to check whether your requirements and requirements match our offer.",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 1
+   }
+  ],
+  "誰から払われるか": [
+   {
+    "quote": "We work from Berlin to be closer to our partners and suppliers.",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 1
+   }
+  ],
+  "規模": [
+   {
+    "quote": "We work from Berlin to be closer to our partners and suppliers.",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "KREATIZE - Wevolver — KREATIZE - Wevolver Wevolver https://www.wevolver.com > kreatize",
+    "url": "https://www.wevolver.com/profile/kreatize",
+    "pass": 3
+   },
+   {
+    "quote": "Career - KREATIZE — Career - KREATIZE KREATIZE https://www.kreatize.com > about",
+    "url": "https://www.kreatize.com/en/about",
+    "pass": 3
+   },
+   {
+    "quote": "KREATIZE — KREATIZE KREATIZE https://www.kreatize.com > ...",
+    "url": "https://www.kreatize.com/en",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kreatize.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kreatize.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kreatize.com/impressum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kreatize.com/en/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kreatize.com/en/impressum",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://stripe.com/jp/resources/more/subscription-box-business-models-101-different-types-and-how-to-pick-one",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi-solutions.co.jp/subscription_support/column/subscriptionbusiness001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techfirm.co.jp/blog/membership-business-pros-and-cons",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wevolver.com/profile/kreatize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/106999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integrity-sbp.com/media/contents/president/founder",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=C9hpVd9N8Vo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/gohakopr/n/n71863c7dd066",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wevolver.com/profile/kreatize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kearney.com/industry/industrial-goods-services/article/riding-the-wave-of-subscription-business-models-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kreatize 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://stripe.com/jp/resources/more/subscription-box-business-models-101-different-types-and-how-to-pick-one",
+    "https://www.hitachi-solutions.co.jp/subscription_support/column/subscriptionbusiness001/",
+    "https://www.techfirm.co.jp/blog/membership-business-pros-and-cons",
+    "https://taketin.com/knowledge/membership/%E4%BC%9A%E5%93%A1%E5%88%B6%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E5%A7%8B%E3%82%81%E6%96%B9%EF%BD%9C%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%81%AE%E6%A7%8B%E7%AF%89%E3%82%AC%E3%82%A4%E3%83%89/",
+    "https://frontier-eyes.online/recurring/",
+    "https://start-link.jp/hubspot-ai/management/business-strategy/subscription-model-transition",
+    "https://baremetrics.com/jp/blog/saas-pricing-models-part3",
+    "https://gri.jp/media/entry/4497",
+    "https://scalebase.com/blog/sales-strategy/payperuse-businessmodel",
+    "https://www.kreatize.com/en"
+   ]
+  },
+  {
+   "query": "Kreatize 売上 従業員 創業",
+   "results": [
+    "https://www.wevolver.com/profile/kreatize",
+    "https://www.kreatize.com/en/about",
+    "https://forbesjapan.com/articles/detail/106999",
+    "https://bizzine.jp/article/corner/388",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.launchstarz.com/ja/approach",
+    "https://kreategroup.fi/en/share/kreate-as-an-investment/",
+    "https://jobtalk.jp/companies/4086070/answers?question_codes=sales",
+    "https://www.linkedin.com/company/kreatai",
+    "https://tracxn.com/d/companies/kreatize/__sj_MDrPbGqbQSYEoAeBnJ6plgZYRC5tI1f1K8dSugks"
+   ]
+  },
+  {
+   "query": "Kreatize 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://integrity-sbp.com/media/contents/president/founder",
+    "https://www.youtube.com/watch?v=C9hpVd9N8Vo",
+    "https://note.com/gohakopr/n/n71863c7dd066",
+    "https://donzoko-ceo.com/",
+    "https://www.youtube.com/playlist?list=PLRriYu_A8rZpZT8Jxusrwb-b4YwN_pjGW",
+    "https://v-tsushin.jp/interview/interview00/",
+    "https://www.wantedly.com/companies/nexil/post_articles/503126",
+    "https://www.youtube.com/watch?v=LG6K-amPFMY",
+    "https://sogyotecho.jp/klab-2/",
+    "https://www.crunchbase.com/person/simon-tuchelmann"
+   ]
+  },
+  {
+   "query": "Kreatize revenue members business model",
+   "results": [
+    "https://www.kreatize.com/en",
+    "https://www.wevolver.com/profile/kreatize",
+    "https://www.kearney.com/industry/industrial-goods-services/article/riding-the-wave-of-subscription-business-models-in-manufacturing",
+    "https://kartra.com/blog/membership-pricing-models/",
+    "https://www.raklet.com/blog/membership-model/",
+    "https://www.chargebee.com/resources/guides/",
+    "https://www.youtube.com/watch?v=1rzdlMHZDx8",
+    "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/sign-up-now-creating-consumer-and-business-value-with-subscriptions",
+    "https://www.pedowitzgroup.com/blog/the-complete-guide-to-revenue-marketing-27-things-every-cmo-needs-to-know"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）",
+  "集客": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）"
+ }
+}

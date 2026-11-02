@@ -1,0 +1,1908 @@
+{
+ "name": "Oreca",
+ "aliases": [
+  "ORECA",
+  "オレカ"
+ ],
+ "context": "レース車体供給・開発受託（仏）",
+ "researched_at": "2026-11-02T14:49:32.929689+00:00",
+ "official_url": "https://www.oreca.fr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "Precision engineering and dimensioning of components and structures, ensuring strength and performance.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Systems Management",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Integration and coordination of embedded systems to ensure consistency, reliability, and overall performance.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Composites",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Expertise in composite materials to combine low weight, high strength, and optimal structural performance.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing high-precision components through controlled and rigorous industrial processes.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Development and integration of reliable, high-performance electrical and electronic systems.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Precise and rigorous assembly of components and vehicles to ensure final quality and therefore performance and reliability.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Group has selected Siemens’ Simcenter software to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs (Image courtesy of ORECA Group)",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA adopts Siemens’ Simcenter STAR-CCM+ and Simcenter Optistruct to enhance computational fluid dynamics (CFD) and composite optimization workflows",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Development",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Electrolysis Systems",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Systems Engineering",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Vehicle Systems Development and Integration",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Testing Services for Mobility and Energy Systems",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Simulation",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Vehicle System and Chassis Simulation",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Powertrain, HVAC, Thermal and E/E System Simulation",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Testing",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Powertrain Testing",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Actuators for Engine, Powertrain and Vehicle Testbeds",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Powertrain Testing Solutions",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Test and Emulation Products",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Lab Management Software for Battery Development and Testing",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Battery Lifetime Prediction for Electric Vehicle Fleets",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Hub",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL supports international customers and partners in their sustainable and digital transformation. The company focuses on electrification, software, artificial intelligence, and automation. In addition, AVL supports companies in energy-intensive industries on their path to more sustainable and efficient energy generation and supply.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "- Full command of the international supply chain",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Quick systems",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Heating systems",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Battery trays",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lubricants & Additives",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Additives",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lubricants & additives",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Suspension systems",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Other vehicle components",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fuel supply",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Structures",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Workshop supplies",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "BS BATTERY",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Battery BSLI-12 + battery holder pack",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Battery BSLI-10 + battery holder pack",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Octane Booster TC2 300 ml petrol engine additive",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "the roll bars reinforce the vehicle's structure and prevent the bodywork from deforming too much to avoid the risk of being crushed in accidents and rollovers;",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "stopwatches, data acquisition systems, GPS and digital dashboards: these instruments are electronic tools of varying degrees of sophistication, ranging from simple stopwatches to very complete measurement and analysis instruments such as the Alfano or Garmin dashboards, which allow you to analyse your performance in depth, before, during and after the race",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Battery and electric instruments for motor sport",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "To keep the full power of your car and to supply all the equipment that requires it with electricity, choose a battery adapted to the practice of motor sport. ORECA Store has selected for you specific batteries, in particular lithium batteries to allow you to gain in weight and performance.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Also get a battery charger to keep your batteries full and on top of your performance!",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "was introduced in 2011 to meet the Automobile Club de l'Ouest (ACO)'s revised LMP2 regulations. Designed around a carbon-fibre monocoque and double-wishbone pushrod suspension, it was cost-capped and compatible with production-based V8 engines. Most customer teams opted for the Nissan VK45DE 4.5L, while others chose the Judd-BMW 3.6L V8.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Several chassis are still active in historic racing under the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca was also selected as one of four chassis suppliers for the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "sports prototype regulations, and currently supplies",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "with chassis for their respective",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "They will also supply",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ford Confirms ORECA Chassis; Sayers to Lead LMDh Effort – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Monocoque",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Chassis concept",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA 07 chassis 5",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Since 1973, ORECA has supported leading motorsport brands raising standards of performance and excellence.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Modelling vehicle behaviour to anticipate, optimise, and validate future performance under real-world conditions.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "’s ambition to expand the use of advanced simulation technologies across highly competitive racing programs, it has replaced its legacy CFD environment with Siemens’ technologies to improve simulation efficiency, enable more advanced multiphysics simulation and strengthen workflow integration across its motorsport engineering teams.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL’s Remote Test Trip Solution",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL RACETECH and ORECA Motorsport are entering into a technical partnership in the field of advanced vehicle simulation.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "A first concrete step in the collaboration is the integration of the ORECA 07 into AVL RACETECH’s simulation environment. This will create a ready-to-use virtual vehicle model for customer teams using ORECA products.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "\"We are proud to announce our technical cooperation with ORECA, a globally recognized leader and one of the most iconic names in modern motorsport. This partnership, centred on advanced vehicle dynamics simulation, is a clear testament to our long-term commitment to being present and competitive at the very pinnacle of motorsport engineering.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "From professional desktop simulation environments to state-of-the-art Driver in the Loop solutions, this collaboration is designed to deliver tangible, measurable impact. It will accelerate ORECA's development cycles, significantly reduce engineering risk, and continuously elevate the performance standard of every race car that carries the ORECA name”,",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Copied to clipboard",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL and QinetiQ have signed a memorandum of understanding to form a strategic partnership.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL List GmbH and CEER sign Memorandum of Understanding to strengthen strategic partnership",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL List GmbH and CEER have signed a Memorandum of Understanding (MoU) during the PIF Private Sector Forum, marking a major milestone in the evolution of their strategic partnership.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Brand Events",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- Brand academies",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- VIP Hospitalities",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary Brands",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our platform offers brands and enthusiasts privileged access to the motorsport world through exclusive premium experiences and services.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our 3x3 basketball event in Marseille gathering the world’s top players, organised alongside FIBA in partnership with FFBB.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating distribution activities to brand experience",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our flagship motorsport-focused retail brand, offering enthusiasts and professionals the broadest range of technical gear, spare parts, and lifestyle products.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our football-focused e-commerce platform, offering fans official club and national team merchandise, including jerseys, kits, and equipment.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our multi-sport e-commerce brand featuring a curated selection of top equipment and lifestyle products for sports enthusiasts across all disciplines.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our rugby-focused e-commerce boutique providing fans with kits and equipment from the world’s top clubs and national teams.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "In the context of Ford’s return to the highly competitive 24 Hours of Le Mans, ORECA delivered a comprehensive strategy combining brand experience, activation, and commerce to maximise visibility and drive commercial value.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Designing and implementing a temporary hospitality setup hosting 500 international VIPs",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Ford Racing merchandise collection (available on-site and online)",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Amplifying the project through PR, media, and digital channels in partnership with Ford Monde",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport car parts and equipment on Oreca-Store",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Helmet equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cockpit equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tripmeters",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Downpipes",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "CV joints & tripods",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Limited slip differentials",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Brake callipers",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Brake Callipers Accessories",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "PIP PINS pins",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanic's equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Test equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Weighing equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone - iPad cases",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Brands",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "RETRO BRANDS",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "equipment for safety and performance measurement, including a wide range of instrumentation. Many parts to",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "prepare or repair your car for racing: engine parts, braking equipment, rims and dampers, electrical equipment, lighting... ORECA Store has brought together the most famous motorsport brands to offer you the most complete and reliable range possible.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "TERRATRIP",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sale of parts, equipment and accessories for motor sports",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Interior equipment",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "The steering wheel is one of the most popular items among riders. It is important to choose a steering wheel that is easy to handle and grips well so that you can be at one with it and drive with ease.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "To keep the full power of your car and to supply all the equipment that requires it with electricity, choose a battery adapted to the practice of motor sport. ORECA Store has selected for you specific batteries, in particular lithium batteries to allow you to gain in weight and performance.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Braking equipment for motor sports",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Oreca Motorsport",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Since 1973, ORECA has supported leading motorsport brands raising standards of performance and excellence.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing high-precision components through controlled and rigorous industrial processes.",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA selects Siemens Xcelerator to advance high-performance motorsport design",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "’s ambition to expand the use of advanced simulation technologies across highly competitive racing programs, it has replaced its legacy CFD environment with Siemens’ technologies to improve simulation efficiency, enable more advanced multiphysics simulation and strengthen workflow integration across its motorsport engineering teams.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.siemens.com/en-us/campaigns/siemens-motorsports/",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "About ORECA Motorsport",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1973 by Hugues de Chaunac, ORECA is fully dedicated to performance and a major player in the world of motorsport today.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Jack Technology collaborates with Siemens to advance intelligent apparel manufacturing with Industrial AI and humanoid robotics",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development | AVL",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Energy Engineering",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Ecosystem",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Testing Services for Mobility and Energy Systems",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Emission and Energy Certification",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Management Solutions",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL RACETECH and ORECA Motorsport are entering into a technical partnership in the field of advanced vehicle simulation.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "“ORECA Motorsport is glad to strengthen its link with AVL RACETECH, a well-established reference in simulation technologies for motorsport. Simulation has become a key performance driver in modern racing, not only to accelerate car development, but also to support teams and drivers throughout the entire lifecycle of a program”,",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "says Rémi Taffin, ORECA Motorsport Director.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "\"We are proud to announce our technical cooperation with ORECA, a globally recognized leader and one of the most iconic names in modern motorsport. This partnership, centred on advanced vehicle dynamics simulation, is a clear testament to our long-term commitment to being present and competitive at the very pinnacle of motorsport engineering.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "With around 12,000 employees, AVL is one of the world’s leading mobility technology companies for development, simulation, and testing in the automotive industry and in other sectors such as aviation, marine, and energy. Based on extensive in-house research, AVL develops innovative technologies and development tools for green, safe, and sustainable mobility.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL supports international customers and partners in their sustainable and digital transformation. The company focuses on electrification, software, artificial intelligence, and automation. In addition, AVL supports companies in energy-intensive industries on their path to more sustainable and efficient energy generation and supply.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "About ORECA Motorsport",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL, Shell and Fraunhofer IKTS Join Forces to Develop Solid Oxide Co-electrolysis-Based Power-To-Liquids Technology for Synthetic Aviation Fuel",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - The Motorsport company: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - The Motorsport company",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Sports",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA | Sport and automotive agency",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca Motorsport",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "The Agency gathers Events and Retail activities, designing experiences and developing white-label and proprietary e-commerce solutions tailored to the sports and automotive worlds.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "We design and deliver impactful experiences within two worlds we are passionate about: automotive, embedded in our DNA for over 50 years, and sports, a new arena for creativity, emotion, and audience engagement. Together with our clients, we turn bold ideas into experience-driven projects delivered with rigor and attention to detail.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport Activations & Sports Competitions",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our platform offers brands and enthusiasts privileged access to the motorsport world through exclusive premium experiences and services.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Logistics & Transports",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- 10,000 m² storage space",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- International transport plan",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- End-to-end IT architecture ensuring a reliable ecosystem",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our flagship motorsport-focused retail brand, offering enthusiasts and professionals the broadest range of technical gear, spare parts, and lifestyle products.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Made In Sport",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Our multi-sport e-commerce brand featuring a curated selection of top equipment and lifestyle products for sports enthusiasts across all disciplines.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "This approach positions ORECA as a rare player within the motorsport and sports business ecosystem. We break conventions by mastering the entire value chain. Few organisations today bring together the technical expertise of a race car manufacturer, the creative vision of a bold experiential agency, and the power of a retail network closely connected to fan communities.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport car parts and equipment on Oreca-Store",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wheel spacers",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation inserts",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsports goodies",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "BMW MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "HYUNDAI MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "RENAULT SPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Car sport parts",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "prepare or repair your car for racing: engine parts, braking equipment, rims and dampers, electrical equipment, lighting... ORECA Store has brought together the most famous motorsport brands to offer you the most complete and reliable range possible.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "TEAM DYNAMICS MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "ULTER SPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "XTREM MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sportswear",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "ORECA | Builder of race cars that win",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development | AVL",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, AVL VSM™ RACE will become an integral part of the development of the ORECA 09, ORECA’s next-generation LMP2, which will be homologated for the years 2028 to 2032.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "200 series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "210 series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "536 series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "536B series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "811 G-Line series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "HL836 series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "600 series",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "FORMULA 1",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "To keep the full power of your car and to supply all the equipment that requires it with electricity, choose a battery adapted to the practice of motor sport. ORECA Store has selected for you specific batteries, in particular lithium batteries to allow you to gain in weight and performance.",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Current series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "FIA World Endurance Championship",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Former series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Formula 3000",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "French Supertouring Championship",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "FIA GT Championship",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "European Le Mans Series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "American Le Mans Series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "European Rally Championship",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Championships",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "(LMP1)",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "French Formula Three Championship",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Le Mans Series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca worked closely with Dodge on the Dodge Viper Competition Coupe, producing well over 100 customer cars in the period 2006–2007 to GT3 specification.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "with 'Semi-works' help for the 2010 Le Mans 24 Hours, as well as for the rest of the Le Mans Series races, taking overall honours at the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "and the overall championship ahead of the factory Peugeot teams.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "LMP1 car with support from",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Le Mans",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "'FLM09'. This was initially run in its own series named the Formula Le Mans Cup until 2010 when it was adapted to allow it to be run three other endurance series including the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "which gave the car its own category (LMPC). The idea was to give an affordable platform for smaller teams to get into endurance racing.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "was introduced in 2011 to meet the Automobile Club de l'Ouest (ACO)'s revised LMP2 regulations. Designed around a carbon-fibre monocoque and double-wishbone pushrod suspension, it was cost-capped and compatible with production-based V8 engines. Most customer teams opted for the Nissan VK45DE 4.5L, while others chose the Judd-BMW 3.6L V8.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Asian Le Mans Series",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "series, both in Europe and the United States.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "was launched to accommodate the new LMP2 regulations for 2011. In 2015, the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "was unveiled, winning the LMP2 class at the 24 Hours of Le Mans.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ皆Oreca 07に乗るのか？ - LMP2徹底解説",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "34,608回視聴 • 2026/07/11 • #ORECA07 #LMP2 #LeMans",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA 07 LMP2は、ル・マン24時間レース、デイトナ24時間レース、WECといった国際スポーツカーレースで、いかにして圧倒的な強さを誇るようになったのでしょうか？Rebellion R-Oneからどのように進化を遂げたのか、技術的な側面から解説します",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "#LMP2Challenge",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "ポルシェ919 LMP1：ドライバーは息ができなかった！ポルシェ919ハイブリッドLMP1に何が起こったのか？",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA launches \"Build to Win\", a new YouTube series",
+    "url": "https://www.oreca.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA launches \"Build to Win\", a new YouTube series",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "To answer these questions and open the doors of ORECA Motorsport, its history, its expertise and the diversity of its programmes, ORECA is launching \"Build to Win\", a new video series streaming on YouTube.",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "A series brought to life by an Endurance enthusiast",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "To guide viewers through this journey, ORECA has chosen Guillaume Lajouanie, known on social media as Franck Paradiso. An Endurance racing enthusiast and content creator in the world of motorsport, Guillaume brings an accessible, personable approach to the series. Episode by episode, he takes viewers on a journey through the places, the expertise and the personalities of ORECA Motorsport.",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Founded in 1973 by Hugues de Chaunac, ORECA is fully dedicated to performance and a major player in the world of motorsport today.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "With around 12,000 employees, AVL is one of the world’s leading mobility technology companies for development, simulation, and testing in the automotive industry and in other sectors such as aviation, marine, and energy. Based on extensive in-house research, AVL develops innovative technologies and development tools for green, safe, and sustainable mobility.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Sustained by steady growth, the agency currently counts nearly 50 employees based in Paris and the south of France, sharing a culture of performance and commitment.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Founder(s)",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "and race car constructor, founded in 1973 and run by Hugues de Chaunac, former team manager of F1 team",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Garage 56 2021",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "employees",
+    "url": "https://www.oreca.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "A series brought to life by an Endurance enthusiast",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA's Founder and President, Hugues de Chaunac, looks back on his career, the founding of the Group and the key milestones in its history.",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "adds Guillermo F. Pezzetto, Director Product and Business Development Racing, AVL List GmbH.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL List GmbH and CEER sign Memorandum of Understanding to strengthen strategic partnership",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL List GmbH and CEER have signed a Memorandum of Understanding (MoU) during the PIF Private Sector Forum, marking a major milestone in the evolution of their strategic partnership.",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "AVL List GmbH",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "We design and deliver impactful experiences within two worlds we are passionate about: automotive, embedded in our DNA for over 50 years, and sports, a new arena for creativity, emotion, and audience engagement. Together with our clients, we turn bold ideas into experience-driven projects delivered with rigor and attention to detail.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Ford – 2026 24 Hours of Le Mans: Events & Retail expertise coming together",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "In the context of Ford’s return to the highly competitive 24 Hours of Le Mans, ORECA delivered a comprehensive strategy combining brand experience, activation, and commerce to maximise visibility and drive commercial value.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Ford Racing merchandise collection (available on-site and online)",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Amplifying the project through PR, media, and digital channels in partnership with Ford Monde",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "ASTON MARTIN",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "BMW MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "FERRARI F1",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "FORD PERFORMANCE",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "GENESIS MAGMA RACING",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "HYUNDAI MOTORSPORT",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "MCLAREN",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "MERCEDES AMG",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "PORSCHE",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "SPARCO FORD PERFORMANCE",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOYOTA GAZOO RACING",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Audi A1",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Audi A2",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Audi R8",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "An Oreca 03-Nissan, raced by Boutsen Energy Racing at the",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Corolla",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota TS030 Hybrid",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motorsport GmbH",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "which gave the car its own category (LMPC). The idea was to give an affordable platform for smaller teams to get into endurance racing.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "was introduced in 2011 to meet the Automobile Club de l'Ouest (ACO)'s revised LMP2 regulations. Designed around a carbon-fibre monocoque and double-wishbone pushrod suspension, it was cost-capped and compatible with production-based V8 engines. Most customer teams opted for the Nissan VK45DE 4.5L, while others chose the Judd-BMW 3.6L V8.",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Honda Performance Development",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Judd-BMW HK",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Genesis GMR-001",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ford Confirms ORECA Chassis; Sayers to Lead LMDh Effort – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "\"Genesis Unveils GMR-001 Hypercar – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "BMW V12 LM：ル・マン24時間レースで勝利するためにグランプリチームによって設計されたエンジン",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Told Ken Miles to Slow Down… Then He Lost Le Mans 1966",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Later variants & Audi DPi",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Audi R18 TDI RP1：ル・マン伝説の始まり",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Audi R18 RP4/5：ル・マンを制した最後のディーゼル車",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Hypercar completes its first track tests with ORECA",
+    "url": "https://www.oreca.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "The Ford Racing Hypercar’s first laps",
+    "url": "https://www.oreca.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "11 November – Genesis Magma Racing: looking back on a first season in the FIA WEC",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "A review of Genesis Magma Racing's first season in Endurance racing and a behind-thescenes look at this new programme.",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Hypercar completes its first track tests with ORECA",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   },
+   {
+    "quote": "The Ford Racing Hypercar’s first laps",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "Tech Center Consultancy",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey Facility Solutions",
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "pass": 3
+   },
+   {
+    "quote": "We design and deliver impactful experiences within two worlds we are passionate about: automotive, embedded in our DNA for over 50 years, and sports, a new arena for creativity, emotion, and audience engagement. Together with our clients, we turn bold ideas into experience-driven projects delivered with rigor and attention to detail.",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "- Comprehensive legal and regulatory support to secure operations, covering GDPR compliance, eco-organisations coordination, distribution contracts, and commercial terms",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Builder of race cars that win - ORECA — Builder of race cars that win - ORECA ORECA https://www.oreca.com > manufacturer",
+    "url": "https://www.oreca.com/en/manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA selects Siemens Xcelerator — ORECA selects Siemens Xcelerator Siemens Newsroom https://news.siemens.com > en-us > si...",
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Motorsport | LinkedIn — ORECA Motorsport | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/oreca-motorsport",
+    "pass": 3
+   },
+   {
+    "quote": "What has caused Oreca to essentially become the sole ... — What has caused Oreca to essentially become the sole ... Reddit https://www.reddit.com > wec > vqtqyn",
+    "url": "https://www.reddit.com/r/wec/comments/vqtqyn/what_has_caused_oreca_to_essentially_become_the/",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - The Motorsport company Revenue and Competitors — Oreca - The Motorsport company Revenue and Competitors Growjo https://growjo.com > company > Orec...",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA - 2026 Company Profile, Funding & Competitors — ORECA - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/oreca/__RZwmDWK_1fQmvBlj3YHoQOXVnklrZSH8L5EhQA-oEpo",
+    "pass": 3
+   },
+   {
+    "quote": "Sport and automotive agency - ORECA — Sport and automotive agency - ORECA ORECA https://www.oreca.com > agency",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - The Motorsport company Information - RocketReach — Oreca - The Motorsport company Information - RocketReach RocketReach https://rocketreach.co > oreca-the-mot...",
+    "url": "https://rocketreach.co/oreca-the-motorsport-company-profile_b5ce9235f42e095c",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA | LinkedIn — ORECA | LinkedIn LinkedIn Estonia https://ee.linkedin.com > oreca",
+    "url": "https://ee.linkedin.com/company/oreca",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport car parts and equipment on Oreca -Store — Motorsport car parts and equipment on Oreca -Store ORECA STORE https://en.oreca-store.com > vehicle",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - Wikipedia — Oreca - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Oreca",
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA 07: The car which utterly dominated sportscar racing — ORECA 07: The car which utterly dominated sportscar racing YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA - Automotive group and sport business for over 50 years — ORECA - Automotive group and sport business for over 50 years ORECA https://www.oreca.com > ...",
+    "url": "https://www.oreca.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA 07 - Racecar Engineering — ORECA 07 - Racecar Engineering Racecar Engineering https://www.racecar-engineering.com > ...",
+    "url": "https://www.racecar-engineering.com/cars/rebellion-r1/",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA STORE | Motorsport Shop — ORECA STORE | Motorsport Shop ORECA STORE https://en.oreca-store.com",
+    "url": "https://en.oreca-store.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IMSA 2017 Prototype Tech Profile: ORECA 07 - RACER — IMSA 2017 Prototype Tech Profile: ORECA 07 - RACER RACER - Racing News https://racer.com > 2017/01/23 > imsa...",
+    "url": "https://racer.com/2017/01/23/imsa-2017-prototype-tech-profiles-oreca-07",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA Group Chooses IFS Cloud and Its Integration Partner ... — ORECA Group Chooses IFS Cloud and Its Integration Partner ... IFS https://www.ifs.com > insights > news",
+    "url": "https://www.ifs.com/en/insights/news/oreca-group-chooses-ifs-cloud-and-its-integration-partner-k4-u-to-boost-operations-and-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Oreca - LapMeta — Oreca - LapMeta LapMeta https://lapmeta.com > org",
+    "url": "https://lapmeta.com/en/org/110",
+    "pass": 3
+   },
+   {
+    "quote": "ORECA launches \"Build to Win\", a new YouTube series — ORECA launches \"Build to Win\", a new YouTube series ORECA https://www.oreca.com > groupe > or...",
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Air filter maintenance",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   },
+   {
+    "quote": "The bucket is essential for the comfort and safety of the rider. It is important to choose a bucket that you feel comfortable in;",
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Oreca - The Motorsport company: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "pass": 3
+   },
+   {
+    "quote": "- Monitoring and reporting to ensure measurable sales results",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   },
+   {
+    "quote": "Business model and revenue management",
+    "url": "https://www.oreca.com/en/agency",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oreca.fr",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.oreca.com/en/manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/oreca/__RZwmDWK_1fQmvBlj3YHoQOXVnklrZSH8L5EhQA-oEpo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oreca.com/en/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oreca.com/en/manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.oreca-store.com/vehicle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Oreca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oreca.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.racecar-engineering.com/cars/rebellion-r1/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ifs.com/en/insights/news/oreca-group-chooses-ifs-cloud-and-its-integration-partner-k4-u-to-boost-operations-and-growth",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oreca.com/en/manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=npTA9qCCNoI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ro3Bft3MJOM",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oreca engineering services clients other industries",
+   "results": [
+    "https://www.oreca.com/en/manufacturer",
+    "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development",
+    "https://www.linkedin.com/company/oreca-motorsport",
+    "https://www.reddit.com/r/wec/comments/vqtqyn/what_has_caused_oreca_to_essentially_become_the/",
+    "https://www.ifs.com/en/insights/news/oreca-group-chooses-ifs-cloud-and-its-integration-partner-k4-u-to-boost-operations-and-growth",
+    "https://www.digitalengineering247.com/article/oreca-picks-siemens-xcelerator-to-enhance-performance-motorsport-design",
+    "https://www.motorsportjobs.com/us/company/oreca",
+    "https://lapmeta.com/en/org/110",
+    "https://www.oreca.com/en/"
+   ]
+  },
+  {
+   "query": "Oreca revenue turnover employees",
+   "results": [
+    "https://growjo.com/company/Oreca_-_The_Motorsport_company",
+    "https://tracxn.com/d/companies/oreca/__RZwmDWK_1fQmvBlj3YHoQOXVnklrZSH8L5EhQA-oEpo",
+    "https://www.oreca.com/en/agency",
+    "https://rocketreach.co/oreca-the-motorsport-company-profile_b5ce9235f42e095c",
+    "https://ee.linkedin.com/company/oreca",
+    "https://choosemycompany.com/en/groupe-oreca",
+    "https://www.reveliolabs.com/companies/irca/employees",
+    "https://csimarket.com/Industry/industry_Efficiency.php?ind=505",
+    "https://www.sec.gov/Archives/edgar/data/1856608/000110465923051341/tm233866d2_ars.pdf",
+    "https://www.konaequity.com/company/oreca-4019040245/"
+   ]
+  },
+  {
+   "query": "Oreca supplies components to OEM",
+   "results": [
+    "https://www.oreca.com/en/manufacturer",
+    "https://en.oreca-store.com/vehicle.html",
+    "https://en.wikipedia.org/wiki/Oreca",
+    "https://www.reddit.com/r/wec/comments/vqtqyn/what_has_caused_oreca_to_essentially_become_the/",
+    "https://news.siemens.com/en-us/siemens-simcenter-oreca-group/",
+    "https://www.trustpilot.com/review/www.oreca-store.com",
+    "https://www.roadandtrack.com/news/a65050980/ford-oreca-chassis-supplier-le-mans-hypercar-program/",
+    "https://www.racecar-engineering.com/articles/nascar/oreca-to-lead-engine-work-for-nascar-euro-series/",
+    "https://racecarsdirect.com/Advert/Details/102183/oreca-05-lmp2-parts",
+    "https://www.oreca.com/en/"
+   ]
+  },
+  {
+   "query": "Oreca aerospace defence non-automotive",
+   "results": [
+    "https://www.youtube.com/watch?v=8xhsq68eTy8",
+    "https://www.oreca.com/en",
+    "https://www.racecar-engineering.com/cars/rebellion-r1/",
+    "https://en.oreca-store.com/",
+    "https://racer.com/2017/01/23/imsa-2017-prototype-tech-profiles-oreca-07",
+    "https://www.centracore.com/industries/aerospace-defense/",
+    "https://forza.fandom.com/wiki/Oreca",
+    "https://www.linkedin.com/company/oreca-motorsport",
+    "https://www.instagram.com/orecamotorsport/",
+    "https://en.wikipedia.org/wiki/Oreca_09"
+   ]
+  },
+  {
+   "query": "Oreca licensing technology partnership",
+   "results": [
+    "https://www.ifs.com/en/insights/news/oreca-group-chooses-ifs-cloud-and-its-integration-partner-k4-u-to-boost-operations-and-growth",
+    "https://www.oreca.com/en/manufacturer",
+    "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "https://orca.security/partners/overview/",
+    "https://lapmeta.com/en/org/110",
+    "https://partnerships.slac.stanford.edu/partner-slac/license-technology",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://en.wikipedia.org/wiki/Oreca",
+    "https://www.anl.gov/partnerships/technology-licensing-agreements",
+    "https://www.oreca.com/en/"
+   ]
+  },
+  {
+   "query": "Oreca founder early days first customer funding",
+   "results": [
+    "https://www.oreca.com/en/news/groupe/oreca-launches-build-to-win-a-new-youtube-series",
+    "https://www.youtube.com/watch?v=npTA9qCCNoI",
+    "https://www.youtube.com/watch?v=ro3Bft3MJOM",
+    "https://www.linkedin.com/posts/akashizzle_entrepreneurs-first-is-now-the-unicorn-that-activity-7437438616563482624-q3FC",
+    "https://altar.io/lessons-from-a-fintech-unicorn/",
+    "https://reachforchange.org/articles/what-entrepreneurs-need-to-succeed/",
+    "https://eiexchange.com/content/funding-founders-over-50",
+    "https://www.foundercatalyst.com/about-us",
+    "https://www.youtube.com/watch?v=GRFXFNbQ-6U",
+    "https://en.wikipedia.org/wiki/Oreca"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

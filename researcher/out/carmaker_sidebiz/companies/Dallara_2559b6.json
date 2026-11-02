@@ -1,0 +1,2576 @@
+{
+ "name": "Dallara",
+ "aliases": [
+  "Dallara Automobili",
+  "ダラーラ"
+ ],
+ "context": "レース車体・エンジニアリング（伊）",
+ "researched_at": "2026-11-02T14:30:11.197453+00:00",
+ "official_url": "https://www.dallara.it",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Giampaolo Dallara (President) Andrea Pontremoli (CEO) Aldo Costa (Chief Technical Officer)",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "Dalla pista, alla strada fino allo spazio: la forma, la leggerezza e la velocità del vento ci ispirano ogni giorno nel progettare automobili da competizione, vetture da strada e componenti per velivoli che sono la sintesi perfetta di passione e competenza.",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "progettazione, industrializzazione e produzione di componenti in materiali compositi",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "per l'ottimizzazione di strutture e componenti, riducendo il peso mantenendo la resistenza strutturale",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "per la produzione di componenti complessi.",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Presse idrauliche per la realizzazione di componenti in composito mediante la tecnologia produttiva in compression moulding",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "(powertrain, batterie e inverter).",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Broadcasting system",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Broadcasting integrato",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrazione di componenti elettronici",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Il Gruppo Dallara opera nel settore della progettazione, dello sviluppo e della produzione di vetture da competizione e stradali, ad alte prestazioni, e di loro parti componenti.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Presente fin dalla fondazione, include tutti i servizi di progettazione, prototipazione e produzione per le competizioni automobilistiche, in particolare i servizi legati alla fornitura di vetture o componenti per il Motorsport.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "L’azienda di Stradella di Collecchio (PR) progetta e produce le attrezzature, i modelli e gli stampi necessari alla produzione dei componenti in composito per il Motorsport, l’Aerospace, l’Automotive e altri settori. Lo stabilimento è stato acquistato da Dallara nel 2014, cambiando nome nel 2018 da “Camattini Meccanica” in “Dallara Compositi”.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": ", is at the center of our activities, with a particular focus on improving the structure and safety of vehicles through the use of advanced composite materials such as carbon fiber.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "design, industrialization and production of components made using composites",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "ever-lighter and tougher structures for",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced composites",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "for the optimization of structures and components, reducing weight while maintaining structural strength",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "(digital twin) for accurate simulations of complex systems before physical production",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "for the production of complex components.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "with the goal of creating strong synergies and riding growth in the sector, developing a technology and production supply chain able to integrate",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Clean room for lamination of composites.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Large autoclaves for the creation of structures in composite materials.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Hydraulic presses for creation of components in composite materials using compression molding production technology.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly and inspection lines for complex systems.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Composite materials for aircraft",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Development and construction of composite structural parts for remote guided aircraft, applying technologies derived from motorsport",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Role of non-traditional space supply chain aggregator in the Italy-Axiom Space agreement for the creation of the first commercial space station",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "INDIANAPOLIS (Tuesday, July 28, 2026) – INDYCAR has unveiled the new NTT INDYCAR SERIES chassis and powertrain package for 2028, introducing a car with a modernized look designed...",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynisma today announces a major new agreement with Dallara, confirming Dynisma as Technical Partner of the Italian motorsport, automotive and advanced engineering specialist following a multi‑million, multi‑simulator deal for its flagship DMG‑360XY Driver‑in‑the‑Loop motion systems.",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "The engineering know-how acquired by Dallara over 50+ years in motorsport represents a wealth of competences which extends far beyond the world of racing. Our extensive knowledge of composites, expertise in aerodynamics and excellence in designing lightweight, high-performance structures also finds application in special projects.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "This new version maintains the versatility and comfort which made the original model famous, but introduces adjustable components such as the customizable backrest and anatomical handles, unique details designed to support athletes throughout their competition.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The project focused on the creation of critical components to improve aerodynamic performance: helmet, boot spoilers, and pole tips. Despite the limitations imposed by the rule book, Dallara’s technicians employed the same methodological rigor used for racing cars.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The first phase was an in-depth analysis of the athlete’s posture when competing, followed by an intense design phase. Each component was made to measure, taking into consideration the physical characteristics of the athlete and using the same technologies as for cars: from CAD systems to aerodynamic analysis, right through to construction of the final helmet made from carbon fiber.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The wind-tunnel testing phase represented a further challenge. Structures normally used for motorbikes were adapted to test Valentina’s equipment, with her demonstrating a remarkable ability to stay in position even with wind speeds of 130-140 km/h.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain portal",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "advanced electronic systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "DIVES: Integration between Traditional Mechanics and Advanced Electronic Systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": ", where electronic systems are not just additions to the vehicle, but rather integral parts that define its identity and performance.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "We do not limit ourselves to simply supplying a vehicle: we guide and support clients with",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "(internal vehicle systems) and",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "(powertrain, batteries and inverters).",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Broadcasting system",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated broadcasting",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle control systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Design and development of wiring systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration of electronic components",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Lighting systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration of artificial intelligence systems",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Each piece of data gathered helps improve the precision of our forecasting models, and as a consequence, the performance of our vehicles.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e test",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Partecipazione al gruppo di lavoro della Presidenza del Consiglio dei Ministri per le tecnologie spaziali innovative",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Il dipartimento mantiene, inoltre, un forte orientamento all’innovazione attraverso",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Ci aiuta in tre modi principali:",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "L'implementazione di modelli matematici avanzati di tipo Transformer rappresenta il futuro dell'ottimizzazione delle performance. Questi sistemi vengono applicati per prevedere comportamenti aerodinamici complessi e identificare potenziali anomalie. È una tecnologia che combina prevenzione e prestazione, garantendo maggiore affidabilità ai veicoli.",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Presente fin dalla fondazione, include tutti i servizi di progettazione, prototipazione e produzione per le competizioni automobilistiche, in particolare i servizi legati alla fornitura di vetture o componenti per il Motorsport.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Per tutte le Business Unit, oltre alle produzioni prototipali e in serie, Dallara fornisce ai propri clienti anche",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Fondata nel 1972, raggruppa tutte le attività di progettazione, prototipazione e test delle tre Business Unit aziendali (Racing, Automotive e Aerospace).",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Ore di formazione tra dipendenti e",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Dipendenti sotto ai 30 anni",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "La scelta del Consiglio di Amministrazione di dotarsi di un modello di organizzazione e di gestione si inserisce nella più ampia politica d’impresa che ha l’obiettivo di sensibilizzare il personale (dal management ai dipendenti), i collaboratori esterni e i partner commerciali alla",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": ", al rispetto delle norme giuridiche vigenti e dei fondamentali principi di etica degli affari nel perseguimento dell’oggetto sociale.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via il Dallara Esports Championship con dallara EXP IR8 Tribute",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Participation in the Presidency of the Council of Ministers working group for innovative space technologies",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "This website is the product of the close collaboration and long-standing partnership between",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynisma today announces a major new agreement with Dallara, confirming Dynisma as Technical Partner of the Italian motorsport, automotive and advanced engineering specialist following a multi‑million, multi‑simulator deal for its flagship DMG‑360XY Driver‑in‑the‑Loop motion systems.",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "This website is the product of the close collaboration and long-standing partnership between",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via il Dallara Esports Championship con dallara EXP IR8 Tribute",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototipazione e testing",
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The Z-bike project is an extraordinary example of a special partnership between Dallara and Alex Zanardi, a friendship which transformed a personal challenge into a team victory.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "A new challenge also came out of the collaboration between Alex and the Dallara team: to design and manufacture a commercial version of the Z-bike, accessible to all and suited to different kinds of disabilities.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the Z-bike project continues to bring innovation to the adaptive mobility sector, and is available both for athletes with disabilities and for athletes without disabilities through the Z-bike brand (www.zetabike.it).",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara-AK Esports is an initiative born of Dallara’s decades of experience in simulations. A strategic partnership with AK Informatica which aims to redefine the standards of sim racing at a global level.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership took its first steps in Indianapolis, a symbolic city in the motorsport landscape and a place with lots of history for Dallara, but then expanded with new centers in Paris, in the e-motion center, and at our headquarters in Varano, a town which now aims to become a landmark in the sim racing landscape as well.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership brings together Dallara’s expertise in the simulation and virtualization of vehicles with the experience of AK Informatica in the e-sports sector, creating a solid, ambitious synergy which is unique in its field.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The Dallara Esports Championship, developed on Assetto Corsa, represents a concrete example of this fusion. The virtual competition is based on sophisticated mathematical models, derived from real data gathered on the track and in the wind tunnel, in particular for the Dallara Stradale and Stradale EXP.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership with AK Informatica allowed these complex models to be transferred into an engaging virtual environment, offering participants the ability to race on historic tracks such as Mugello, Imola, and Spa.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "To find out more about this partnership and the world of sim racing, visit the website: https://dallara-akesports.com/",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara’s partnership with Valentina Greggio, world champion speed skier, represents one of our company’s most interesting projects.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "It was a request for help, motivated by the need to compete on equal footing with her international rivals – above all the French and Swedish – who could count on the support of their respective national industries to develop technically advanced equipment.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The project focused on the creation of critical components to improve aerodynamic performance: helmet, boot spoilers, and pole tips. Despite the limitations imposed by the rule book, Dallara’s technicians employed the same methodological rigor used for racing cars.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The wind-tunnel testing phase represented a further challenge. Structures normally used for motorbikes were adapted to test Valentina’s equipment, with her demonstrating a remarkable ability to stay in position even with wind speeds of 130-140 km/h.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the relationship between Dallara and Valentina Greggio continues to evolve, in the constant search for improvement while balancing performance and safety.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "y of this partnership is the perfect representation of how Dallara’s engineering expertise can also find applications in fields apparently very different from motorsport, guided by the same curiosity, enthusiasm and dedication which drives all of our projects.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "This website is the product of the close collaboration and long-standing partnership between",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "partnerships with universities, start-ups, and other technology partners",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced sensors and electronics capture and interpret vehicle data with unprecedented precision and granularity. The data gathered, both on the track and through our services, feed a sophisticated mathematical modeling system, describing the vehicle’s behavior from multiple aspects: structural, dynamic, and aerodynamic. The strength of this",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "This website is the product of the close collaboration and long-standing partnership between",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip-to-content",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Di fronte alla profonda trasformazione tecnologica del motorsport, legata al confronto tra abilità umana e intelligenza artificiale, Dallara ha scelto strategicamente di evolvere il proprio DNA ingegneristico attraverso l'integrazione sempre più profonda tra meccanica tradizionale e sistemi elettronici avanzata.",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Se sei qui per scoprire semplicemente una bella auto sportiva,",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Experience Hub: dove il motorsport incontra la comunità",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "A pochi passi da Speedway, il leggendario circuito di Indianapolis, il Dallara Experience Hub è il luogo in cui esplorare il dietro le quinte del motorsport e conoscere l’heritage. Qui la passione per le corse si trasforma in un’esperienza accessibile a tutti, dal pubblico più curioso agli appassionati più esperti.",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "il distretto industriale dell’Emilia-Romagna che riunisce alcuni dei marchi più prestigiosi del motorsport e dell’automotive a livello mondiale.",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace | Dallara",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Aerospace:",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Nel settore Aerospace, Dallara ha trovato l’opportunità perfetta per applicare le competenze sviluppate nel mondo del",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboriamo con partner di livello globale come Leonardo ed Axiom Space per sviluppare soluzioni che uniscono leggerezza, robustezza e tecnologia avanzata. Rispondiamo alle più stringenti regolamentazioni internazionali, operando con successo tra aerospazio e spazio.",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: competenze certificate EN/AS9100",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Nel segmento Aerospace, Dallara offre ai propri clienti soluzioni all’avanguardia nella",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "progettazione, industrializzazione e produzione di componenti in materiali compositi",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Grazie alla nostra capacità di integrare le nostre tecnologie con il mondo dell’industria spaziale e aerospaziale, collaboriamo attivamente con istituzioni governative, player industriali di rilevanza nazionale e internazionale, agenzie spaziali e istituti di ricerca in progetti di rilevanza globale.",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "per aeromobili, piattaforme marine, veicoli terrestri e moduli spaziali.",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Sviluppo e realizzazione di parti strutturali in composito per aeromobili a pilotaggio remoto, applicando tecnologie derivate dal motorsport",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Stazione spaziale Axiom Space",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Ruolo di aggregatore della filiera non tradizionale dello spazio nell’accordo Italia-Axiom Space per la realizzazione della prima stazione spaziale commerciale",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Nel panorama dell’automotive e del motorsport ci troviamo di fronte a una profonda trasformazione. Nel",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "motorsport",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "E-Sports & Digital Entertainment",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara sta ridefinendo il concetto di esperienza motorsport. L'offerta spazia da simulatori premium a soluzioni più accessibili, integrate in un ecosistema completo di eventi, tornei e competizioni. La gestione include streaming, commentatori professionisti e campagne social, creando un ponte tra il mondo virtuale e quello reale delle corse.",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Presente fin dalla fondazione, include tutti i servizi di progettazione, prototipazione e produzione per le competizioni automobilistiche, in particolare i servizi legati alla fornitura di vetture o componenti per il Motorsport.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Nata nel 2021, rappresenta un’opportunità molto significativa di applicazione delle conoscenze e competenze sviluppate nei settori Racing e Automotive. Proprio come nel motorsport, gran parte delle attività di ricerca e sviluppo si focalizzano sul miglioramento della struttura e della sicurezza dei veicoli attraverso l’uso della fibra di carbonio e di altri materiali compositi.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": ", in particolare nei settori Motorsport e Aerospace. Ogni società del Gruppo ha un ruolo fondamentale sulla base delle competenze specifiche sviluppate nel tempo.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Fondata nel 1972, raggruppa tutte le attività di progettazione, prototipazione e test delle tre Business Unit aziendali (Racing, Automotive e Aerospace).",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "L’azienda di Stradella di Collecchio (PR) progetta e produce le attrezzature, i modelli e gli stampi necessari alla produzione dei componenti in composito per il Motorsport, l’Aerospace, l’Automotive e altri settori. Lo stabilimento è stato acquistato da Dallara nel 2014, cambiando nome nel 2018 da “Camattini Meccanica” in “Dallara Compositi”.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara AK E-sports",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Nata a febbraio 2024, la Dallara AK E-Sports LLC si occupa di e-sports ed eventuale vendita/affitto di simulatori di guida per videogames ed e-sports.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "i piani industriali e i budget",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynisma annuncia oggi un importante nuovo accordo con Dallara, che conferma Dynisma come Partner Tecnologico dello specialista italiano del motorsport, dell’automotive e dell’ingegneria avanzata, a seguito di un contratto multimilionario per la fornitura di più sistemi di simulazione dinamica Driver-in-the-Loop...",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara annuncia che l’Ing. Giampaolo Dallara è entrato a far parte della Indianapolis Motor Speedway (IMS) Hall of Fame, uno dei più importanti riconoscimenti nell’ambito del motorsport internazionale.",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Alex Zanardi è stato un campione capace di segnare profondamente lo sport con la sua determinazione e la sua capacità di trasformare ogni limite in un punto di partenza, diventando nel tempo un riferimento umano oltre che professionale. Per Dallara Alex è stato soprattutto un...",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via il Dallara Esports Championship con dallara EXP IR8 Tribute",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace | Dallara",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Aerospace:",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "from the Race Track to Space",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "In the Aerospace sector, Dallara has found the perfect opportunity to apply its expertise developed in the",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with global partners such as Leonardo and Axiom Space to develop solutions which combine lightness, robustness and advanced technology. We comply with the most stringent international regulations, working with success between the aerospace and space sectors.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: EN/AS9100-certified expertise",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "In the Aerospace sector, Dallara offers its customers cutting-edge solutions for the",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "design, industrialization and production of components made using composites",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to our ability to integrate our technologies with the aerospace, space and defense industry, we work actively with government institutions, national and international industrial players, space agencies, and research bodies on projects of global importance.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "aircraft, marine platforms, land vehicles and space modules.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Our projects are focused on cutting-edge technologies for space and space tourism including:",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Development and construction of composite structural parts for remote guided aircraft, applying technologies derived from motorsport",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Contribution to experimental activities on the Ax-3 space mission led by Col. Walter Villadei with the “Radiation shielding materials” project.",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Axiom Space Station",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Role of non-traditional space supply chain aggregator in the Italy-Axiom Space agreement for the creation of the first commercial space station",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Participation in the Presidency of the Council of Ministers working group for innovative space technologies",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynisma today announces a major new agreement with Dallara, confirming Dynisma as Technical Partner of the Italian motorsport, automotive and advanced engineering specialist following a multi‑million, multi‑simulator deal for its flagship DMG‑360XY Driver‑in‑the‑Loop motion systems.",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "New heat exchanger concept aims to make liquid hydrogen a viable high-performance race fuel by overcoming cryogenic constraints and unlocking more usable energy for endurance racing",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara announces that Mr. Giampaolo Dallara has been inducted into the Indianapolis Motor Speedway (IMS) Hall of Fame, an important recognition in international motorsport.",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Al via Formula SAE Italy 2026: a Varano i talenti dell’ingegneria di domani,",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuova era in arrivo: più veloce, più leggera e progettata per infrangere record. INDYCAR presenta la nuova vettura della NTT INDYCAR SERIES per il 2028 e oltre",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via Formula SAE Italy 2026: a Varano i talenti dell’ingegneria di domani,",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Si apre oggi all'Autodromo Riccardo Paletti di Varano de' Melegari la XXI edizione di Formula SAE Italy, la competizione che ogni anno richiama studenti universitari da tutto il mondo per confrontarsi su progettazione, innovazione e sviluppo di vetture da competizione.",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuova era in arrivo: più veloce, più leggera e progettata per infrangere record. INDYCAR presenta la nuova vettura della NTT INDYCAR SERIES per il 2028 e oltre",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "INDIANAPOLIS (martedì 28 luglio 2026) – INDYCAR ha svelato il nuovo telaio e il nuovo pacchetto del gruppo motopropulsore della...",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via il Dallara Esports Championship con dallara EXP IR8 Tribute",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula SAE Italy 2026 Gets Underway: Tomorrow’s Engineering Talent Takes to the Track in Varano",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "The 21st edition of Formula SAE Italy officially kicks off today at the Riccardo Paletti Circuit in Varano de' Melegari, bringing together university students from around the world to showcase their skills in race car design, innovation, and engineering.",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "New Era Loading – Faster, Lighter and Built to Break Records – INDYCAR Introduces New NTT INDYCAR SERIES Race Car for 2028 and Beyond",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "INDIANAPOLIS (Tuesday, July 28, 2026) – INDYCAR has unveiled the new NTT INDYCAR SERIES chassis and powertrain package for 2028, introducing a car with a modernized look designed...",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via Formula SAE Italy 2026: a Varano i talenti dell’ingegneria di domani,",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Si apre oggi all'Autodromo Riccardo Paletti di Varano de' Melegari la XXI edizione di Formula SAE Italy, la competizione che ogni anno richiama studenti universitari da tutto il mondo per confrontarsi su progettazione, innovazione e sviluppo di vetture da competizione.",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuova era in arrivo: più veloce, più leggera e progettata per infrangere record. INDYCAR presenta la nuova vettura della NTT INDYCAR SERIES per il 2028 e oltre",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "INDIANAPOLIS (martedì 28 luglio 2026) – INDYCAR ha svelato il nuovo telaio e il nuovo pacchetto del gruppo motopropulsore della...",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Al via il Dallara Esports Championship con dallara EXP IR8 Tribute",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "The development of this innovative vehicle at the Varano R&D center followed the same rigorous high-tech methodology used for race cars. The process began with the 3D digitization of the athlete and his vehicle, followed by in-depth aerodynamic analysis using CFD (Computational Fluid Dynamics) – the same sophisticated technology used to optimize the performance of race cars.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "The Dallara Esports Championship, developed on Assetto Corsa, represents a concrete example of this fusion. The virtual competition is based on sophisticated mathematical models, derived from real data gathered on the track and in the wind tunnel, in particular for the Dallara Stradale and Stradale EXP.",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": ": from race cars and automotive solutions, through to aerospace applications.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula SAE Italy 2026 Gets Underway: Tomorrow’s Engineering Talent Takes to the Track in Varano | Dallara",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula SAE Italy 2026 Gets Underway: Tomorrow’s Engineering Talent Takes to the Track in Varano",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula SAE Italy",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Organized by ANFIA with the support of SAE International, Motor Valley Development, and the Varano Circuit, Formula SAE Italy is one of the leading student engineering competitions in Europe. The event is designed to give participants hands-on experience that closely reflects the real-world vehicle development process, from concept and design through to on-track testing.",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula Sae Italy",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "New Era Loading – Faster, Lighter and Built to Break Records – INDYCAR Introduces New NTT INDYCAR SERIES Race Car for 2028 and Beyond",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Formula SAE Italy 2026 Gets Underway: Tomorrow’s Engineering Talent Takes to the Track in Varano",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "The 21st edition of Formula SAE Italy officially kicks off today at the Riccardo Paletti Circuit in Varano de' Melegari, bringing together university students from around the world to showcase their skills in race car design, innovation, and engineering.",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "New Era Loading – Faster, Lighter and Built to Break Records – INDYCAR Introduces New NTT INDYCAR SERIES Race Car for 2028 and Beyond",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "INDIANAPOLIS (Tuesday, July 28, 2026) – INDYCAR has unveiled the new NTT INDYCAR SERIES chassis and powertrain package for 2028, introducing a car with a modernized look designed...",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "INDYCAR 101：ダラーラにおけるカーボンファイバーの科学と創造性",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Three",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "IndyCar",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle IndyCar subsection",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Other formulas",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Formula One World Championship results",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "IndyCar Series",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "FIA Formula 2",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "FIA Formula 3",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Super Formula Championships",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Formula E cars",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "in Varano. Dallara designed his first Formula Three car for",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Formula 3000",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Italian Formula Three Championship",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "British Formula Three Championship",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "and was the beginning of the company's dominance of Formula Three. The new F393 featured major aerodynamic changes compared to its predecessor and introduced a monodamper front suspension layout. The F393 won every race in the Italian, French and German championships that year, while the British series saw numerous entrants – including champion",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "would win the Japanese championship with its own cars in 1993 and 1994 before switching to Dallara chassis. From then on Dallara would dominate the Formula Three market, although",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "winning the French title in 1999. Since then Dallara has won every major Formula Three title, although",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ". The Constructors' Championship results were: no classification in 1988, 8th in 1989 (with 8 points), 15th (with no points) in 1990, 8th in 1991 (with 5 points) and 10th in 1992 (with 2 points) by",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "'s planned but aborted return to the series.",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ", who joined Hispania in March 2010, criticized the F110, saying that he was disappointed at the quality and level of engineering in the car and that the design of the car was missing a lot of contemporary practices commonly employed in the process of building a Formula One car.",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "confirmed his new Formula One team,",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara IndyCar Factory near the Indianapolis Motor Speedway",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "debuted its own chassis formula during the",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara won the Indy Racing League championship in both 1998 and 1999.",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Automobili: History of Excellence in Race Cars",
+    "url": "https://dallaraexperiencehub.com/dallara-history",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Group. Tre business unit,",
+    "url": "https://www.dallara.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Nel segmento Aerospace, Dallara offre ai propri clienti soluzioni all’avanguardia nella",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "È così che nasce la divisione",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "tutte le business unit",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Per tutte le Business Unit, oltre alle produzioni prototipali e in serie, Dallara fornisce ai propri clienti anche",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Fondata nel 1972, raggruppa tutte le attività di progettazione, prototipazione e test delle tre Business Unit aziendali (Racing, Automotive e Aerospace).",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "100% delle emissioni di scope 1 e 2 compensate",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "100% energia elettrica da fonti rinnovabili",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/special-projects/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is our Digital Innovation and Vehicle Electronics Solutions (DIVES) division.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "all Dallara’s business units",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/page/3/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/corporate/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/corporate/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/category/newsroom/stradale/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/category/newsroom/stradale/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business units",
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Units",
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/page/2/",
+    "pass": 1
+   },
+   {
+    "quote": "Porsche Lost 93% of Its Profit — Here's WHY",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "), Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), with Sales and Marketing growing fastest (up",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "+8.1% (+149)",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "8.1% YoY",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "0.0% YoY",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "+11.5%",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "+11.0%",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Nel segmento Aerospace, Dallara offre ai propri clienti soluzioni all’avanguardia nella",
+    "url": "https://www.dallara.it/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "A partire dal 1988, l’esperienza maturata nelle competizioni motoristiche è stata riversata nel settore delle vetture stradali ad alta prestazione con consulenze per Alfa Romeo, Audi, Bugatti, Ferrari, KTM, Lamborghini e Maserati.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "È il centro di ingegneria a Speedway in Indiana (USA), a due passi dal circuito di Indianapolis. Oltre al racing, si concentrano qui attività nei settori aerospaziale e della difesa degli Stati Uniti.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "dell’impresa nei confronti del mercato, nella prospettiva di creazione di valore per gli stakeholder.",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "La scelta del Consiglio di Amministrazione di dotarsi di un modello di organizzazione e di gestione si inserisce nella più ampia politica d’impresa che ha l’obiettivo di sensibilizzare il personale (dal management ai dipendenti), i collaboratori esterni e i partner commerciali alla",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.",
+    "url": "https://www.dallara.it/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.",
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Porsche Lost 93% of Its Profit — Here's WHY",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "LIVE Ferrari Racing Days - Sport Prototipi Clienti Ferrari 499P Modificata",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "James May Porsche 917 Review | The Grand Tour Seizoen 3",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Lamborghini",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Andrea de Cesaris",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Honda Indy V8",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "KV Racing Technology Dallara-Honda IR-05",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Honda Collection Hall",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "World Series by Nissan",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari 333 SP",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ". The 333 SP, manufactured at Michelotto, won a great number of races both in North America and Europe. Ferrari also hired Dallara to develop the racing version of the",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari F50",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Audi R8",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari 499P",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"Exclusive: How Haas and Ferrari operate from the same F1 facilities\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"BMW Confirms Dallara Partnership for LMDh Program – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"United Named McLaren LMDh Partner; Barclay Team Boss – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallas, Lamborghini.",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"Lamborghini Huracán LP 620-2 Super Trofeo | Lamborghini Dallas\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "www.lamborghinidallas.com",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"Lamborghini Huracán Gt3 EVO - Technical Specifications, Pictures, Videos\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Lamborghini.com",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "2001ESASP.480...91M",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Advancing access, affordability, and workforce readiness",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "A Flexible, Affordable Way to Get Your Degree",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Addressing Indiana’s Healthcare Affordability Crisis",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "This audio file is brought to you by",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Loading audio file, please wait.",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Audi engine, turned into a car ready for the 2007 Geneva Car Show in",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "by Audi in the same CAD environment that we used to design the chassis",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "successful Audis R8 and R10, the Ferrari 333 Sports Car, the Beta",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "the Toyota Le Mans cars, in 1999 the Honda Formula One car and other",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and company namesake Giampaolo Dallara established his own company in 1972 working out of his family home and garage",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and company namesake Giampaolo Dallara established his own company in 1972 working out of his family home and garage. Fifty years later, Dallara celebrated its fiftieth anniversary. The Dallara story is compelling and the company is more active than ever.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara’s location is no accident. In addition to being Mr. Dallara’s home town, Parma is located in the Emilia-Romagna region. Known as Motor Valley, the region is Italy’s racing and automotive heartland. Dallara’s neighbors include Ferrari, Lamborghini, Maserati, Ducati, Pagani and dozens of specialty suppliers.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "When Maserati ran into financial problems and stopped racing, Dallara went to Lamborghini because Ferruccio Lamborghini wanted to race. Dallara played key engineering roles for the iconic Espada and Miura. Ironically, the success likely took Ferrucio Lamborghini’s attention away from racing.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara left Lamborghini for de Tomaso and was finally able to design a Formula One car. Frank Williams raced a Dallara-designed de Tomaso 505/38 Formula One car in 1970. Fate intervened again when Ford bought a large stake in de Tomaso. Ford was already in open-wheel racing with Lotus, so they had no need for de Tomaso’s Formula One program.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara’s motorsport credentials opened doors that grew the company. In addition to race car design that included cars like the Ferrari 333SP and Audi R8 LMP, road cars such as the Bugatti Chiron, Alfa Romeo 8C and Maserati MC20 are now part of Dallara’s portfolio.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Pure History – McLaren Soul at Silverstone",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "An Alpine Adventure: Sliding Vintage Ferraris on the Snow in St. Moritz",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Hot Laps in the Cold – Lamborghini Ice Driving in Livigno",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "NOVITEC Sharpens the Ferrari 12Cilindri Spider With Carbon, NF12 Wheels and a Valved Exhaust",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Lamborghini Fenomeno Takes Germany",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "collaborazioni con università, start-up e altri partner tecnologici",
+    "url": "https://www.dallara.it/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Persone al 30 giugno 2025 (headcount)",
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineer Giampaolo Dallara, founder and Chairman of Dallara, has been inducted into the Automotive Hall of Fame, the most prestigious international honor reserved for individuals who have made a decisive contribution to the development of the global automotive industry. The induction...",
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "partnerships with universities, start-ups, and other technology partners",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Over the last few years, we have planted some seeds:",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, these seeds are sprouting, weaving and growing together.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": ": for this reason we train our employees on appropriate use of AI.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineer Giampaolo Dallara, founder and Chairman of Dallara, has been inducted into the Automotive Hall of Fame, the most prestigious international honor reserved for individuals who have made a decisive contribution to the development of the global automotive industry. The induction...",
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Group Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 1,084 employees in 2023 to 1,356 in 2026",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 10th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Dallara Group's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by North America and Western Europe.",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Group employees by region",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Group employees by department",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in North America receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Dallara Group's headcount grew",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, up from",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Dallara Group employees located?",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Dallara Group employees are based in Southern Europe (",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by North America and Western Europe.",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Dallara Group founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Group was founded in",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in 1972 by",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by designer",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ", and co-founded",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": ". The series began focusing on a new chassis/engine package to be rolled out for 2012. By this time, the Dallara IR-03/05 was exclusively paired with the",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "World Series by Nissan",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "World Series by Renault",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "\"Dallara to mark its 200th win in series at Barber\"",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara is a story of passion, talent, tenacity, and continuous enthusiasm. Dallara Automobili da Competizione was founded in January",
+    "url": "https://dallaraexperiencehub.com/dallara-history",
+    "pass": 3
+   },
+   {
+    "quote": "Startup women’s leagues on the rise, fueled by popularity of women’s sports. But will they last?",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Lucas Oil founder Forrest Lucas dies at 83",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Stefano dePonti has been Dallara USA’s CEO since the inception of the Indianapolis operation, which employs about 60 full-time employees and 80 people total. It’s Dallara’s only location outside of Italy.",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s North American headquarters has seen other changes of late, rebranding to the Dallara Experience Hub and featuring multiple gathering areas totaling 33,000 square feet, racing simulators, a conference room and a manufacturing garage, all of which can be used for large events.",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara has also announced a venture with AK Esports for a Sim Garage concept that offers more immersive simulator experiences, with locations at the headquarters and another at Bottleworks District in downtown Indianapolis.",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Automobili is a race car constructor which was founded in 1972",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and company namesake Giampaolo Dallara established his own company in 1972 working out of his family home and garage",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and company namesake Giampaolo Dallara established his own company in 1972 working out of his family home and garage. Fifty years later, Dallara celebrated its fiftieth anniversary. The Dallara story is compelling and the company is more active than ever.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Second, over 100 engineers, designers, technicians and model-makers in Dallara’s aerodynamic department manage the mysteries of airflow. Dallara’s first wind tunnel, built in Mr. Dallara’s garage, was the only one in Italy at the time with a rolling road. Dallara built and has upgraded its wind tunnel since those days.",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "for our clients.",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "turnkey solutions",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting and Advisory Firms",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", a move that allowed them to gain the contract for the",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "As a consequence, the company secured other contracts and built chassis for",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara also provided engineering services for",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "New Construction AI Platform Enters Indiana, Giving General Contractors ‘God Mode’ for Early-Stage Projects",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "organizations worldwide. PTC customers include the world's most",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Advanced sensors and electronics capture and interpret vehicle data with unprecedented precision and granularity. The data gathered, both on the track and through our services, feed a sophisticated mathematical modeling system, describing the vehicle’s behavior from multiple aspects: structural, dynamic, and aerodynamic. The strength of this",
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "pass": 1
+   },
+   {
+    "quote": "Dallara Group Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "RSS Feeds",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Pacers Foundation, Gleaners team up to feed hungry Hoosiers",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s North American headquarters has seen other changes of late, rebranding to the Dallara Experience Hub and featuring multiple gathering areas totaling 33,000 square feet, racing simulators, a conference room and a manufacturing garage, all of which can be used for large events.",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Subscriptions",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Online & Print Subscriptions",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Reports and Proxies",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Dallara automotive engineering and vehicle development — Dallara automotive engineering and vehicle development Facebook https://www.facebook.com > DallaraGroup > posts > from...",
+    "url": "https://www.facebook.com/DallaraGroup/posts/from-the-initial-concept-to-road-type-approval-turning-vision-into-high-performa/1591048983053719/",
+    "pass": 3
+   },
+   {
+    "quote": "Passion in every fiber - Dallara — Passion in every fiber - Dallara Dallara https://www.dallara.it > ...",
+    "url": "https://www.dallara.it/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara : Engineering the Future of Motorsports - YouTube — Dallara : Engineering the Future of Motorsports - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "pass": 3
+   },
+   {
+    "quote": "In the field with Dallara Automobili - IMD Business School — In the field with Dallara Automobili - IMD Business School imd.org https://www.imd.org > articles > in-th...",
+    "url": "https://www.imd.org/research-knowledge/data-analytics/articles/in-the-field-with-dallara-automobili/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara - Wikipedia — Dallara - Wikipedia Wikipedia https://en.wikipedia.org > Dallara",
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Group Number of Employees 2026 - Revelio Labs — Dallara Group Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara - Overview, News & Similar companies | ZoomInfo.com — Dallara - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > dallara",
+    "url": "https://www.zoominfo.com/c/dallara/10486191",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Information - RocketReach — Dallara Information - RocketReach RocketReach https://rocketreach.co > dallara-profil...",
+    "url": "https://rocketreach.co/dallara-profile_b5c408c0f42e0d88",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of the Dallara Group — Overview of the Dallara Group Dallara https://www.dallara.it > the-dallara-gr...",
+    "url": "https://www.dallara.it/en/the-dallara-group/",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Automobili: knowledge company - Financial Times — Dallara Automobili: knowledge company - Financial Times Financial Times https://www.ft.com > ... > Automobiles",
+    "url": "https://www.ft.com/content/10bae7b2-fbbe-11e3-9a03-00144feab7de",
+    "pass": 3
+   },
+   {
+    "quote": "History of Excellence in Race Cars - Dallara Experience Hub — History of Excellence in Race Cars - Dallara Experience Hub Dallara Experience Hub https://dallaraexperiencehub.com > da...",
+    "url": "https://dallaraexperiencehub.com/dallara-history",
+    "pass": 3
+   },
+   {
+    "quote": "Products | Dallara - Le Mans Co.,LTD. — Products | Dallara - Le Mans Co.,LTD. 株式会社ルマン https://www.lemans.co.jp > dallara",
+    "url": "https://www.lemans.co.jp/en/products/dallara.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara (@dallaragroup) • Instagram photos and videos — Dallara (@dallaragroup) • Instagram photos and videos Instagram https://www.instagram.com > dallarag...",
+    "url": "https://www.instagram.com/dallaragroup/",
+    "pass": 3
+   },
+   {
+    "quote": "Q&A with Stefano dePonti on Dallara USA's interest in racing ... — Q&A with Stefano dePonti on Dallara USA's interest in racing ... Indianapolis Business Journal https://www.ibj.com > articles > dallar...",
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Dallara : Touring The Quiet Powerhouse Of Global ... — Inside Dallara : Touring The Quiet Powerhouse Of Global ... The Gentleman Racer - https://thegentlemanracer.com > dallara",
+    "url": "https://thegentlemanracer.com/2026/06/dallara/",
+    "pass": 3
+   },
+   {
+    "quote": "PTC And Dallara Automobili Celebrate 15-Year Technology ... — PTC And Dallara Automobili Celebrate 15-Year Technology ... PTC - Investor Relations https://investor.ptc.com > news-details",
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Racing Through Five Decades of Dallara History — Racing Through Five Decades of Dallara History The Speed Journal https://www.thespeedjournal.com > d...",
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "pass": 3
+   },
+   {
+    "quote": "Giampaolo Dallara inducted into Automotive Hall of Fame — Giampaolo Dallara inducted into Automotive Hall of Fame Facebook https://www.facebook.com > automotivehalloffame > posts",
+    "url": "https://www.facebook.com/automotivehalloffame/posts/for-more-than-six-decades-giampaolo-dallara-has-helped-shape-the-world-of-motors/1421867023293969/",
+    "pass": 3
+   },
+   {
+    "quote": "Giampaolo Dallara On His Career As A Builder of Race Cars — Giampaolo Dallara On His Career As A Builder of Race Cars YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=jzcSfJarH2k",
+    "pass": 3
+   },
+   {
+    "quote": "Dallara Stradale: If an F1 car was a Miata | Henry Catchpole — Dallara Stradale: If an F1 car was a Miata | Henry Catchpole Facebook https://www.facebook.com > ... > Cars > Hagerty > Videos",
+    "url": "https://www.facebook.com/Hagerty/videos/dallara-stradale-if-an-f1-car-was-a-miata-henry-catchpole-the-drivers-seat/774004034974749/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dallara.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/digital-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/il-gruppo-dallara/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/stradale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/special-projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/digital-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/2026/09/02/formula-sae-italy-2026-gets-underway-tomorrows-engineering-talent-takes-to-the-track-in-varano/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/page/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/corporate/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/category/newsroom/stradale/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dallara.it/en/category/newsroom/stradale/page/2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.facebook.com/DallaraGroup/posts/from-the-initial-concept-to-road-type-approval-turning-vision-into-high-performa/1591048983053719/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/dallara/10486191",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/dallara-profile_b5c408c0f42e0d88",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dallaraexperiencehub.com/dallara-history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/dallaragroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thespeedjournal.com/dallara-racing-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Dallara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/automotivehalloffame/posts/for-more-than-six-decades-giampaolo-dallara-has-helped-shape-the-world-of-motors/1421867023293969/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dallara engineering services clients other industries",
+   "results": [
+    "https://www.facebook.com/DallaraGroup/posts/from-the-initial-concept-to-road-type-approval-turning-vision-into-high-performa/1591048983053719/",
+    "https://www.dallara.it/en/",
+    "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "https://www.imd.org/research-knowledge/data-analytics/articles/in-the-field-with-dallara-automobili/",
+    "https://en.wikipedia.org/wiki/Dallara",
+    "https://tadviser.com/index.php/Project:Dallara_(technologies_for_production_of_racing_cars)",
+    "https://www.thespeedjournal.com/dallara-racing-history/",
+    "https://www.ptc.com/en/resources/corporate/podcast/third-angle/episode-48?srsltid=AYCX9vJS-sIjWOL1RQ8MdTagbmnRG7iMkoTKY1cfJuYL887d68vt67gR",
+    "https://www.motorvalley.it/en/members/brands/dallara-automobili/",
+    "https://www.dallara.it/en/the-dallara-group/"
+   ]
+  },
+  {
+   "query": "Dallara revenue turnover employees",
+   "results": [
+    "https://www.reveliolabs.com/companies/dallara-group/employees",
+    "https://www.zoominfo.com/c/dallara/10486191",
+    "https://rocketreach.co/dallara-profile_b5c408c0f42e0d88",
+    "https://www.dallara.it/en/the-dallara-group/",
+    "https://www.ft.com/content/10bae7b2-fbbe-11e3-9a03-00144feab7de",
+    "https://www.imd.org/research-knowledge/data-analytics/articles/in-the-field-with-dallara-automobili/",
+    "https://www.ibj.com/articles/43612-dallara-sees-indy-operations-as-springboard-for-u-s-expansion",
+    "https://www.motorvalley.it/en/members/brands/dallara-automobili/",
+    "https://incfact.com/company/dallara-indianapolis-in/",
+    "https://www.zoominfo.com/c/dallara/1334043623"
+   ]
+  },
+  {
+   "query": "Dallara supplies components to OEM",
+   "results": [
+    "https://www.dallara.it/en/",
+    "https://en.wikipedia.org/wiki/Dallara",
+    "https://dallaraexperiencehub.com/dallara-history",
+    "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "https://www.lemans.co.jp/en/products/dallara.html",
+    "https://www.24h-lemans.com/en/news/dallara-lancia-and-ferrari-the-italian-connection-21440",
+    "https://www.thespeedjournal.com/dallara-racing-history/",
+    "https://www.motor1.com/features/402526/made-in-motor-valley-dallara/",
+    "https://www.facebook.com/groups/527146584145263/posts/1902177786642129/",
+    "https://www.dallara.it/en/the-dallara-group/"
+   ]
+  },
+  {
+   "query": "Dallara aerospace defence non-automotive",
+   "results": [
+    "https://www.dallara.it/en/",
+    "https://www.instagram.com/dallaragroup/",
+    "https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports",
+    "https://en.wikipedia.org/wiki/Dallara",
+    "https://thegentlemanracer.com/2026/06/dallara/",
+    "https://www.roadandtrack.com/reviews/a65781652/no-car-is-more-analog-than-the-dallara-stradale/",
+    "https://www.facebook.com/DallaraGroup/posts/the-%F0%9D%97%97%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE-%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B2-is-more-than-just-a-vehicle-it-is-the-truest-distillation-o/1358773832947903/",
+    "https://www.dallarastradale.be/",
+    "https://www.youtube.com/watch?v=Hps_SAm-bYY",
+    "https://www.dallara.it/en/aerospace/"
+   ]
+  },
+  {
+   "query": "Dallara licensing technology partnership",
+   "results": [
+    "https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "https://www.dallara.it/en/",
+    "https://www.lanl.gov/engage/collaboration/feynman-center/partner-with-us/licensing-technology",
+    "https://www.facebook.com/fia/videos/a-new-global-partner-a-shared-drive-to-shape-the-future-of-motor-sportwere-proud/1658112822329854/",
+    "https://partnerships.slac.stanford.edu/partner-slac/license-technology",
+    "https://www.unifyr.com/atlas/licensing-partnership/",
+    "https://www.si.com/onsi/f1/dallara-and-ibm-partner-to-push-vehicle-development-toward-a-faster-future",
+    "https://www.dynisma.com/news/dynisma-appointed-technical-partner-of-dallara-following-multi-simulator-dmg-360xy-agreement"
+   ]
+  },
+  {
+   "query": "Dallara founder early days first customer funding",
+   "results": [
+    "https://www.thespeedjournal.com/dallara-racing-history/",
+    "https://en.wikipedia.org/wiki/Dallara",
+    "https://www.facebook.com/automotivehalloffame/posts/for-more-than-six-decades-giampaolo-dallara-has-helped-shape-the-world-of-motors/1421867023293969/",
+    "https://www.youtube.com/watch?v=jzcSfJarH2k",
+    "https://www.facebook.com/Hagerty/videos/dallara-stradale-if-an-f1-car-was-a-miata-henry-catchpole-the-drivers-seat/774004034974749/",
+    "https://arstechnica.com/cars/2017/11/dallara-will-build-its-first-road-car-and-we-want-one/",
+    "https://www.autonews.com/article/20171116/COPY01/311169958/race-car-specialist-dallara-s-stradale-inspired-by-lotus/",
+    "http://www.indycar.com/News/2016/11/11-20-Dallara-birthday",
+    "https://www.imd.org/research-knowledge/data-analytics/articles/in-the-field-with-dallara-automobili/",
+    "https://en.wikipedia.org/wiki/Giampaolo_Dallara"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式21頁／PDF・画像0件／外部15頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像0件／外部15頁・検索6回）"
+ }
+}

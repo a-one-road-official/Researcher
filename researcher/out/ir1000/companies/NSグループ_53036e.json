@@ -1,0 +1,876 @@
+{
+ "name": "ＮＳグループ",
+ "aliases": [],
+ "context": "証券コード471A／その他金融業／プライム（内国株式）／2025.12期 売上高29,826百万円 営業利益率33.1%",
+ "researched_at": "2026-11-02T14:41:15.984499+00:00",
+ "official_url": "https://nsg-inc.co.jp/",
+ "identified_by": "search:ddgs:google:NSグループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2021年8月",
+    "url": "https://nsg-inc.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループ会社の経営管理等",
+    "url": "https://nsg-inc.co.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "株主・投資家向けの情報をご紹介しています",
+    "url": "https://nsg-inc.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "（家賃債務保証サービス相関図） ＮＳグループグループでは家賃債務保証事業を実施しておりますが、その対象は主として居住用・事業用（いわゆる事務所や店舗）・その他（駐車場や借地、工場など）に分かれます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "そこから新規の顧客を紹介していただいている",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸経営に役立つ商材紹介とライブインタビュー",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "家賃債務保証とは、賃貸借契約の連帯保証人の役割を果たすサービスです",
+    "url": "https://nsg-inc.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "入居者さまとオーナーさまの両者にとって安心できるサービスを提供しています",
+    "url": "https://nsg-inc.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "当社の100％子会社である日本セーフティー株式会社は、1997年の創業以来、業界に先駆けて不動産賃貸借契約に必要な「連帯保証人」を引き受ける家賃債務保証サービスを開始しました",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、事業用賃貸の分野においても、新型コロナを契機とした経済環境の変化により、賃貸人の方の敷金確保が難しくなるなど、家賃保証サービスへのニーズが一段と高まっております",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "このような中、当社は、住居用保証事業において更なるシェアの拡大を目指すとともに事業用保証事業においても、柔軟な商品設計をもとに他社との差別化を目指してまいります",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また既存事業に加え、住居用・事業用それぞれのニーズに合わせた周辺サービスを提案することで、お客様の満足度を高め、長期的な収益向上を目指します",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "これに加え、お客様のご期待にしっかりとお応えしていくため、DXを通じた業務改善を推し進め、一層便利で価値のあるサービスを提供することで、企業価値の向上に尽力してまいります",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "社会情勢として少子高齢化や在留外国人の増加が進むなか、賃貸契約のインフラとして家賃債務保証サービスの社会的意義はますます高まると考えられます",
+    "url": "https://nsg-inc.co.jp/ir/management/governance",
+    "pass": 1
+   },
+   {
+    "quote": "このような経営環境のなか、当社は次の成長段階に進むために、組織体制の強化と新サービス拡充に取組んでおり、今まで築き上げてきた経営基盤を強化させることで、更なる成長と安定的な業務運営を目指していきます",
+    "url": "https://nsg-inc.co.jp/ir/management/governance",
+    "pass": 1
+   },
+   {
+    "quote": "NSグループ株式会社（当社）は、金融商品取引法に関する法令および東京証券取引所の定める適時開示規則等に従って情報の開示を行います",
+    "url": "https://nsg-inc.co.jp/ir/management/disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、家賃債務保証サービスを手掛けております",
+    "url": "https://nsg-inc.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "家賃債務保証とは、当社が不動産賃貸借契約の連帯保証人の役割を果たすサービスです",
+    "url": "https://nsg-inc.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "このように家賃債務保証サービスは、入居者さまとオーナーさまの両者にとって安心できるサービスを提供しています",
+    "url": "https://nsg-inc.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社グループでは住居用保証に限らず、事業用保証においても様々なサービスを展開しております",
+    "url": "https://nsg-inc.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳグループグループは、連結子会社である日本セーフティー株式会社において、単一セグメントで家賃債務保証事業を展開しており、「家賃債務保証サービス」及び「集金代行サービス」等があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "(1）家賃債務保証事業① 家賃債務保証サービス ＮＳグループグループが展開する家賃債務保証サービスとは、日本セーフティー株式会社が入居者の連帯保証人になり、家賃等の保証を約束することです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "一般的に不動産を賃貸借する場合には賃貸人から連帯保証人を求められますが、日本セーフティー株式会社が家賃債務保証サービスを提供することで、賃貸人に対して賃貸料収入を保証することになるため、家賃債務保証を実施することで、入居者はお部屋を借りやすく、物件の賃貸人はお部屋を貸しやすくなります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "家賃債務保証サービスの保証委託契約は、不動産会社（不動産仲介業者、不動産管理会社を含む総称）が仲介しております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、連帯保証人を確保しづらい入居希望者の家賃債務保証サービスへの需要拡大のほか、自治体の補助による家賃債務保証サービスの利用促進や居住支援法人との連携による安定的な案件の流入が期待されると考えております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "このように家賃債務保証自体の需要が高まる中、入居者の信用を補填し、家賃や原状回復費用の回収を保証することで、入居者のスムーズな手続きをサポートし、賃貸人に安心と安定をご提供することが家賃債務保証サービスの最も重要な目的です",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "このような中で、ＮＳグループグループは健全な財務内容、担当者によるスピーディーな対応、迅速な審査対応などサービス面において高い評価を得ており、不動産会社及び不動産賃貸人に選ばれております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "（家賃債務保証サービス相関図） ＮＳグループグループでは家賃債務保証事業を実施しておりますが、その対象は主として居住用・事業用（いわゆる事務所や店舗）・その他（駐車場や借地、工場など）に分かれます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "（居住用） （事業用） （その他） 家賃債務保証サービスについて、主要な保証・サービスの内容は以下のとおりです（保証プランに応じて保証の範囲は異なります）",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "② 集金代行サービス 家賃債務保証サービスに付随して、集金代行サービスも実施しております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "収納代行サービスを提供する金融機関と業務提携し、家賃等の集金業務を不動産会社や不動産賃貸人に代わって実施しております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＮＳグループグループが集金代行にて借主から預かった家賃等を送金する際に、家賃とその他の料金（管理料等）を分割して異なる送金先に直接送金ができるサービスを提供しております（分別送金サービス）",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "当該分別送金サービスは、競合他社での展開はほとんどないと考えており、ＮＳグループグループが強みとするサービスです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "[集金代行時のフロー] (2）ＮＳグループグループのビジネスモデルと強み① 家賃債務保証に係る審査・回収業務ａ．審査業務 家賃債務保証サービスを提供するには、まずは入居者の入居審査を実施する必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、幅広く入居者に家賃債務保証サービスを提供することは、家賃滞納や回収不能な債権（いわゆる貸倒）の発生のリスク（回収リスク）を高めることにつながります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "ｂ．回収業務 家賃債務保証サービスを幅広い入居者に提供するためには、それを支える高い回収率を維持する必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "社会情勢として少子高齢化や在留外国人の増加が進むなか、賃貸借契約のインフラとして家賃債務保証サービスの社会的意義はますます高まると考えられます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "このような経営環境のなか、ＮＳグループグループは次の成長段階に進むために、組織体制の強化と新サービス拡充に取組んでおり、今まで築き上げてきた経営基盤を強化させることで、更なる成長と安定的な業務運営を目指していきます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＳグループグループの提供する家賃債務保証サービスは、賃貸不動産の利用者が対象のサービスです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "② 経営戦略 家賃債務保証業界においては企業間の競争が激しさを増しており、時代や賃貸人、賃借人のニーズに合わせた様々な新しいサービスの展開の重要性が増している状況であります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "幅広く家賃債務保証サービスを提供するためには、それを支える高い回収率を維持する必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ＮＳグループグループの提供する家賃債務保証サービスは、日本における賃貸不動産の利用者が対象のサービスであり、日本の賃貸不動産市場、特に住宅用不動産市場の影響を受けることになりますが、人口動態の変化等により賃貸不動産市場が低迷した場合、持続的な円安等のマクロ経済要因と相まって、ＮＳグループグループの財政状態、経営成績及びキャッシュ・フローの状況に影響を与える可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ＮＳグループグループにおけるコンプライアンスの推進状況にかかわらず、ＮＳグループグループや、ＮＳグループグループの回収業務その他事業上の対応等に関し、報道機関による報道、ソーシャルメディア等におけるＮＳグループグループのサービス利用者その他の者によるレビュー又はコメント等の投稿、紛争の発生その他様々な要因により風評が生じる可能性があり、当該風評の正当性にかかわらず、ＮＳグループグループのレピュテーションが低下し、ＮＳグループグループの財政状態、経営成績及びキャッシュ・フローの状況に影響を与える可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "なお、関連当事者取引について、「関連当事者取引管理規程」に基づき、取締役会で適切に検討・承認を行う体制を整えておりますが、今後の取引については、代位弁済時や集金代行サービスに伴う送金などの合理性のある取引を除き、原則として実施しない方針であります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "連携サービス",
+    "url": "https://edinetdb.jp/company/E41149/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス情報",
+    "url": "https://edinetdb.jp/company/E41149/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "EDINET DBはCabocia株式会社が運営する独立したサービスであり、金融庁およびEDINET（Electronic Disclosure for Investors' NETwork）とは組織的な関係はありません",
+    "url": "https://edinetdb.jp/company/E41149/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "管理業務支援サービス",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "仲介業務支援サービス",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "その際、家賃と管理料その他の料金を分割して異なる送金先に直接送金ができる「分別送金サービス」を展開",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "送金や集金代行についても、オーナーへの送金明細や集金代行サービスの送金報告書などのダウンロードが可能",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "周辺サービス強化 AI活用も推進",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "併せて、保証の周辺領域のサービスの提供にも意欲を見せる",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、他社と提携し、駆け付けサービスをオプションで提供",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "「周辺サービスの数がたくさんあるということで、価格決定の主導権を当社が握ることにもなる",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "管理会社からすると、当社との提携によってさまざまなサービスを受けられるようになる」と大塚社長はコメントする",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "シェアを高める中で、サービスレベルを上げていくところはまだまだ伸ばせる」",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "賃貸経営に役立つ情報や、オーナー・不動産会社のニーズ、最新の設備やサービスなど、時代の変化を細かく拾い出し、最新情報を提供していきます",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "SCREECH、サービス開始3年半 提携2500社",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2021年8月",
+    "url": "https://nsg-inc.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月31日時点",
+    "url": "https://nsg-inc.co.jp/ir/stock/overview",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月30日に実施した配当は、上場に向けた最適資本構成の構築及び資本効率の改善を検討している中で、同業他社を参考に、事業上必要なキャッシュを維持しつつ、一定率以上の自己資本比率を確保しながらROEの向上を図ることを目標として、１株当たり460円16銭、総額120億円の配当を実施しました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月期末時点では自己資本比率38.47％、ROE22.10％となっております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月、グループの統括会社である株式会社NSグループの社長の座を娘の荻野佳奈子に譲り、自らは代表取締役会長となる",
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "2012年に当時のニュートン・サンザグループへ入社し、2度の育休を経て2023年に社長に就任した",
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "2023年1月、東京・",
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "1949年生",
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月26日",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月25日",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月19日",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "2026年03月18日",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "また既存事業に加え、住居用・事業用それぞれのニーズに合わせた周辺サービスを提案することで、お客様の満足度を高め、長期的な収益向上を目指します",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "これに加え、お客様のご期待にしっかりとお応えしていくため、DXを通じた業務改善を推し進め、一層便利で価値のあるサービスを提供することで、企業価値の向上に尽力してまいります",
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "ＮＳグループグループの提供する家賃債務保証サービスは、賃貸不動産の利用者が対象のサービスです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＳグループグループは、中長期的成長のために、住居用保証での安定的な収益拡大を図りつつ、事業用保証や豊富な顧客データを活用した新規事業を推進し、新たな収益の柱とすることを目指します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "ｃ．新規事業の実行 長年にわたり家賃債務保証事業を展開してきたことにより、大量の顧客情報を保有しております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "当該顧客情報を利用した周辺ビジネスを展開することにより、企業グループのさらなる発展を目指します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ＮＳグループグループの提供する家賃債務保証サービスは、日本における賃貸不動産の利用者が対象のサービスであり、日本の賃貸不動産市場、特に住宅用不動産市場の影響を受けることになりますが、人口動態の変化等により賃貸不動産市場が低迷した場合、持続的な円安等のマクロ経済要因と相まって、ＮＳグループグループの財政状態、経営成績及びキャッシュ・フローの状況に影響を与える可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、ＮＳグループグループが現在保有する顧客データよりも大規模な顧客データにアクセス可能な事業者が当該市場に参入した場合、ＮＳグループグループより迅速に審査を実施できる可能性や、より正確に入居者のリスクを評価して保証料や手数料に反映できる可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "(4）のれん及び無形資産の減損並びに損失評価引当金について（発生可能性：低、発生時期：特定時期なし、影響度：中） ＮＳグループグループは、企業買収に伴う多額ののれんや顧客関連資産を有しており、当連結会計年度末時点の残高は、のれんが36,039百万円、顧客関連資産が7,041百万円となっており、同時点での連結総資産額の56.6％を占めております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "(11）情報漏洩について（発生可能性：低、発生時期：特定時期なし、影響度：中） ＮＳグループグループは、個人情報を含む顧客情報やその他の機密情報を取り扱っております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、ＮＳグループグループにおけるコンプライアンスの推進状況にかかわらず、ＮＳグループグループや、ＮＳグループグループの回収業務その他事業上の対応等に関し、報道機関による報道、ソーシャルメディア等におけるＮＳグループグループのサービス利用者その他の者によるレビュー又はコメント等の投稿、紛争の発生その他様々な要因により風評が生じる可能性があり、当該風評の正当性にかかわらず、ＮＳグループグループのレピュテーションが低下し、ＮＳグループグループの財政状態、経営成績及びキャッシュ・フローの状況に影響を与える可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "そこから新規の顧客を紹介していただいている",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "提携企業からすると、当社経由で多くの顧客にリーチできる",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "「売買×賃貸管理」の融合が成長の鍵 顧客との関係構築を収益機会に",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "［事業系統図］ [代位弁済時のフロー] 通常、不動産の賃貸においては不動産会社が入居者と賃貸人の各種契約の取次を実施し、入居者と賃貸人で賃貸借契約を締結します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "[集金代行時のフロー] (2）ＮＳグループグループのビジネスモデルと強み① 家賃債務保証に係る審査・回収業務ａ．審査業務 家賃債務保証サービスを提供するには、まずは入居者の入居審査を実施する必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "当社の収益構造において賃料が重要",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "不動産管理会社は家賃債務保証会社の財務安定性、販売手数料、借主の信用リスクに応じて第一保証会社と第二保証会社を使い分けています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "第一保証会社としては販売手数料が高い保証会社が利用される傾向にある一方で、財務安定性を優先して選定する不動産管理会社も一定数存在し、第二保証会社としては販売手数料は第一保証会社より低位な水準にあるものの高い信用リスクを許容できる保証会社が利用される傾向があるとＮＳグループは考えております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "特に、ＮＳグループグループが注力している小規模な賃貸不動産会社を対象とする市場セグメントにおいては、賃貸不動産会社に支払われる販売手数料や、審査プロセスの簡便性及び審査通過承認率を中心に激しい競争が行われています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、ＮＳグループグループが現在保有する顧客データよりも大規模な顧客データにアクセス可能な事業者が当該市場に参入した場合、ＮＳグループグループより迅速に審査を実施できる可能性や、より正確に入居者のリスクを評価して保証料や手数料に反映できる可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "当該マネジメント契約は2025年６月30日をもって解約いたしましたが、当該マネジメント契約に基づく上場の成功報酬412.5百万円（税込）を2025年12月に支払いました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "ＮＳグループグループは、連結子会社である日本セーフティー株式会社において、単一セグメントで家賃債務保証事業を展開しており、「家賃債務保証サービス」及び「集金代行サービス」等があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "特に、ＮＳグループグループが注力している小規模な賃貸不動産会社を対象とする市場セグメントにおいては、賃貸不動産会社に支払われる販売手数料や、審査プロセスの簡便性及び審査通過承認率を中心に激しい競争が行われています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "当該分別送金サービスは、競合他社での展開はほとんどないと考えており、ＮＳグループグループが強みとするサービスです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "[集金代行時のフロー] (2）ＮＳグループグループのビジネスモデルと強み① 家賃債務保証に係る審査・回収業務ａ．審査業務 家賃債務保証サービスを提供するには、まずは入居者の入居審査を実施する必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "② 模倣困難な競争優位性 ＮＳグループグループは、競合他社には獲得困難な滞納情報や取扱店との連携情報等、豊富なデータを蓄積しております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "これらのデータをインプットしたAIモデルを各種業務に活用することで、オペレーションを高度化し、模倣困難な競争優位性を築いているとＮＳグループは考えております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "(3）参入障壁について（発生可能性：中、発生時期：特定時期なし、影響度：低） ＮＳグループグループが営む家賃債務保証事業については、2017年10月に国土交通省の登録制度が開始されておりますが、家賃債務保証事業を営む上で当該登録を行うことは必須ではなく、その他家賃債務保証事業を営むために必要な許認可等を定めた法的規制は現状存在しないため、許認可の面では参入障壁が低いといえます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＳグループグループの強みとして、相対的に信用力の高い入居者に注力する競合他社と比較して、入居者の審査通過率が高いことが挙げられ、ＮＳグループグループの入居者審査プロセスは、統計的にみて回収努力が奏功しない者などリスクが特に高い申込者を特定・却下することに主眼を置いており、賃貸交渉を妨げないよう、初期審査を迅速に完了するよう努めております",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "住居用保証においては、中小の不動産会社との提携を強みに、住宅確保要配慮者(以下、要配慮者)の入居支援に注力していく",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "審査通過率9割超、回収に強み",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "6万6000店と提携 ネットワーク強み",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本セーフティーの強みは、全国の中小不動産会社とのネットワークだと話す",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "6万6000店の不動産会社の取扱店が一番の強み",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NSグループ、上場初年で利回り5%超え。この数字を額面通りに受け取る... — Aug 9, 2026 · これがNSグループの基本的なビジネスモデルだ。 不動産会社を「営業網」として使う 契約の流れもシンプルだ。 不動産管理会社などの「取扱店」が入居者に保証契約を案内し、NSグループはその取扱店から紹介を受ける。",
+    "url": "https://x.com/motohake/article/2086598351009755340",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ（471a）の事業内容、事業の状況や経営戦略、事業等のリス... — 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。 ～の成功要因や課題、業界内でのポジショニングを理解することで、今後のビジネス展開における重要な洞察を得ることができます。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ株式会社 — NSグループ株式会社のホームページです。 入居者様の家賃・賃貸保証支援はもちろん、不動産仲介・管理会社様の業務をサポートする家賃保証事業を中心にサービスを展開していきます。",
+    "url": "https://nsg-inc.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ株式会社 有価証券報告書 全文（最新）｜事業内容・リスク... — 当社グループは当社と連結子会社1社で構成されております。 当社グループは、連結子会社である日本セーフティー株式会社において、単一セグメントで家賃債務保証事業を展開しており、「家賃債務保証サービス」及び「集金代行サービス」等があります。",
+    "url": "https://edinetdb.jp/company/E41149/text",
+    "pass": 3
+   },
+   {
+    "quote": "企業調査レポート NS グループ — するビジネスモデルを確立した。当時は賃貸契約に連帯保証人が求められるケースが多く、保証人 確保が入居の障壁となっていた。旧 日本セーフティーはこの課題に応え、賃借人の利便性向上と賃貸人の安定収入確保を両立する仕組",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/nsg-inc20260910.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | NSグループ株式会社 — 決算説明資料 ホーム 株主・投資家情報 IRライブラリー 決算説明資料 決算短信 決算説明資料 有価証券報告書",
+    "url": "https://nsg-inc.co.jp/ir/library/presentation",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ株式会社 — 決算説明資料 - EDINET DB — EDINET DB > 企業一覧 > NSグループ株式会社 > IR資料 > 決算説明資料 NSグループ株式会社 — 決算説明資料 四半期決算の説明資料。 経営者による業績解説と短期見通し。 AIによる構造化データ・参考情報。 重要な判断には 元PDFをご確認ください。",
+    "url": "https://edinetdb.jp/company/E41149/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ株式会社 — IR資料 - EDINET DB — EDINET DB > 企業一覧 > NSグループ株式会社 > IR資料 NSグループ株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E41149/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "荻野勝朗 - Wikipedia — スポーツ用品店「ヴィクトリア」の創業者。 現在は、 カラオケボックス 「パセラ」や カプセルホテル 「安心お宿」などを運営する株式会社NSグループ（旧・ニュートン・サンザグループ）の代表取締役会長を務める。 東京都 出身、 中央大学 商学部 卒業 ...",
+    "url": "https://ja.wikipedia.org/wiki/荻野勝朗",
+    "pass": 3
+   },
+   {
+    "quote": "NSグループ、家賃債務保証専業 売上263億円【上場インタビュー】 :: ... — Dec 26, 2025 · 「業界の認知度向上目指す」家賃債務保証 (以下、保証)会社大手の日本セーフティー (大阪市)を擁するNSグループ (同)が、12月16日、東証プライム市場に上場した。 保証業界の存在感を高めていくことを目指す。 住居用保証においては、中小の不動...",
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "pass": 3
+   },
+   {
+    "quote": "新社長就任に向けてのNSグループの新たな挑戦 - サードニュース — Nov 2, 2024 · 公式サイトは こちら から確認できます。 これからNSグループがどのような戦略を打ち出していくのか、そして新社長の大塚氏がどのようにグループをリードしていくのか、その動向に注目です。",
+    "url": "https://news.3rd-in.co.jp/article/8117848e-98f2-11ef-842a-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "【社長就任1年記】目指したのは「もっと社員に愛着を持ってもらえる会... — Jun 10, 2024 · 2023年4月に社長交代を発表した株式会社NSグループ。 今回は現社長の荻野佳奈子に、社長就任後1年間で手掛けた新施策についてインタビューを実施しました。 ＜目次＞1、社長就任から1年2、苦しいコロ...",
+    "url": "https://www.wantedly.com/companies/company_8257999/post_articles/498084",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様、いびきされてますよね？」 あえて踏み込むストレート接客で... — Sep 15, 2026 · クレームすらもファン化させてしまう、中島さんの「ストレートで温かい接客術」に迫ります！ この記事は、NSグランプリ受賞者に対して、NSグループ社長の荻野佳奈子がインタビューを実施した内容をもとに作成しています",
+    "url": "https://www.wantedly.com/companies/company_8257999/post_articles/975820",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nsg-inc.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/management/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/management/disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/presentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/securities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/stock/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/management/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/management/disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/presentation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/ir/library/securities",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nsg-inc.co.jp/wp-content/themes/nsg-inc/img/img_business-top_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nsg-inc.co.jp/wp-content/themes/nsg-inc/img/img_top-business.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://x.com/motohake/article/2086598351009755340",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E41149/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsw.co.jp/corporate/sosiki.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E5%8B%9D%E6%9C%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zenchin.com/news/content-4952.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NSグループ",
+   "results": [
+    "https://nsg-inc.co.jp/",
+    "https://www.nsgrp.co.jp/",
+    "https://finance.yahoo.co.jp/quote/471A.T",
+    "https://finance.yahoo.co.jp/quote/471A.T/profile",
+    "https://nsg-inc.co.jp/ir",
+    "https://www.nsgrp.co.jp/business/",
+    "http://ns-network.com/",
+    "https://ja.wikipedia.org/wiki/NSGグループ"
+   ]
+  },
+  {
+   "query": "NSグループ ビジネスモデル",
+   "results": [
+    "https://x.com/motohake/article/2086598351009755340",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=471a",
+    "https://nsg-inc.co.jp/",
+    "https://edinetdb.jp/company/E41149/text",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/nsg-inc20260910.pdf",
+    "https://nsg-inc.co.jp/wp-content/uploads/2025/11/f336ee9b586fa829293a486c1ff992a7.pdf",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/nsg-inc20260401.pdf"
+   ]
+  },
+  {
+   "query": "NSグループ 決算説明資料",
+   "results": [
+    "https://nsg-inc.co.jp/ir/library/presentation",
+    "https://edinetdb.jp/company/E41149/presentations/",
+    "https://www.nsg.co.jp/ja-jp/investors/ir-library/ir-presentations?link",
+    "https://www.nsd.co.jp/ir/irmaterial/material.html",
+    "https://edinetdb.jp/company/E41149/ir-docs/",
+    "https://nsg-inc.co.jp/ir",
+    "https://www.sony.com/ja/SonyInfo/IR/library/presen/er/archive.html"
+   ]
+  },
+  {
+   "query": "NSグループ 事業系統図",
+   "results": [
+    "https://nsg-inc.co.jp/",
+    "https://www.nsw.co.jp/corporate/sosiki.html",
+    "https://www.nsholdings.co.jp/",
+    "https://ns-network.com/group/",
+    "https://www.nswest.co.jp/company/group/",
+    "https://www.nssol.nipponsteel.com/kansai/company/organization.html",
+    "https://www.nsuship.co.jp/ja/company/organization.html"
+   ]
+  },
+  {
+   "query": "NSグループ 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/荻野勝朗",
+    "https://www.zenchin.com/news/content-4952.php",
+    "https://news.3rd-in.co.jp/article/8117848e-98f2-11ef-842a-9ca3ba083d71",
+    "https://www.wantedly.com/companies/company_8257999/post_articles/498084",
+    "https://www.wantedly.com/companies/company_8257999/post_articles/975820",
+    "https://www.youtube.com/watch?v=fbZeeU7pLcU",
+    "https://x.com/ogikanaaaaa"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部6頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部6頁・検索5回）"
+ }
+}

@@ -1,0 +1,1748 @@
+{
+ "name": "クラウドインフラ",
+ "en": "cloud infrastructure services",
+ "aliases": [
+  "IaaS",
+  "クラウドサービス"
+ ],
+ "context": "2 デジタル・サイバー ④クラウド・データセンター",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:35:56.470658+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のパブリッククラウドサービスの売上高は2025年に9,803億ドル（前年比22.4％増）まで増加すると見込まれている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-3 世界のパブリッククラウドサービス市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、高い成長率を遂げ、2025年は4兆4,930億円（前年比20.3％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-5 日本のパブリッククラウドサービス市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラ サービス市場規模 , 予測 – 2032",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルクラウドインフラストラクチャサービス市場規模の洞察は2032に予測",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年、グローバルクラウドインフラサービス市場規模はUSD 113.5億で評価されました",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2022年から2032年にかけて17.8%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なクラウドインフラサービス市場は、2032年までのUSD 587.9億ドルに達する見込み",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2022〜2032年の間に17.8%のCAGRでUSD 587.9億ドルに達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2022:",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 113.5億円",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 587.9億円",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウド市場規模・シェア｜成長分析 [2035]",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.78 Trillion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3.51 Trillion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウド市場は2025年に推定0.78兆米ドルに達し、2026年の0.91兆米ドルから2035年までに3.51兆米ドルに成長すると予測されており、予測期間中に16.2%のCAGRを記録します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "パブリック クラウド市場規模と予測 (2021 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "このエッジ クラウド アーキテクチャにより、2032 年までに 850 億ドルの支出が増加すると予想されます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "USD 31 B (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "USD 780 B (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8.2 B (2025)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド サービスの市場規模と傾向: (2026 ～ 2033 年)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド サービス市場は、2026 年の",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "サービスモデルの洞察(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "導入型インサイト(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模の洞察(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "産業縦の洞察(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域インサイト(Revenue、USD Bn、2026 - 2033)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のクラウド市場は2020年代に入り、企業のデジタル化やAI活用の加速に伴い急拡大しています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドコンピューティング全体の市場規模は2025年に約7,800億ドル規模に達し、2026年には約9,000億ドルへ成長するという予測が出ています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド市場は巨大なプレイヤー間での競争が激しく、2026年も以下の動きが注目されています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のクラウド市場は、依然として米国を中心とした主要クラウドプロバイダーが大きなシェアを維持しながら、AIやハイブリッドクラウド戦略の浸透を背景に進化を続けています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパブリッククラウドサービスの売上高は2024年に7,733億ドル（前年比22.4%増）まで増加すると見込まれている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-3 世界のパブリッククラウドサービス市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、高い成長率を遂げ、2024年は4兆1,423億円（前年比26.1％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-5 日本のパブリッククラウドサービス市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "発表によると、2026年第1四半期のクラウドインフラ市場は1年前と比較して35％成長となり、AIブームによる急速な成長が数字として現れています",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年第1四半期単体のクラウドインフラ全体の売り上げはグローバルで1290億ドル（1ドル160円換算で約20兆6400億円）となりました",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のクラウドサービス業界の市場シェアを簡易に試算しますと、1位はアマゾン、2位はマイクロソフト、3位はアルファベット（グーグル）となります",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年のクラウドサービス業界の市場規模を7,813億ドルとしております",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社フォーチュンビジネスインサイツによると、2025年の同業界の市場規模は7,813億ドルです",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均15.7%で成長し、規模は2兆9,045億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "7,813億ドル",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "2兆9,045億ドル",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス業界の市場規模の予想成長推移 ©2026 Deallab",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 Microsoftがソフトウェア開発プラットフォーム大手のGitHunを75億ドルで買",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年 Google（現Alphabet）がセキュリティー大手のMandiantを54億ドルで買収",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は13兆円超、生成AIが成長を牽引",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "2025年Q1時点、クラウド市場は",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "約940億ドル（約13兆6300億円）規模",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場も拡大、2025年に4.4兆円へ",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には市場規模3.1兆円",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には約4.4兆円",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のパブリッククラウドサービスの売上高は2025年に9,803億ドル（前年比22.4％増）まで増加すると見込まれている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、高い成長率を遂げ、2025年は4兆4,930億円（前年比20.3％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2022年から2032年にかけて17.8%のCAGRで成長しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間2022〜2032年の間に17.8%のCAGRでUSD 587.9億ドルに達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2022-2032 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウド市場は2025年に推定0.78兆米ドルに達し、2026年の0.91兆米ドルから2035年までに3.51兆米ドルに成長すると予測されており、予測期間中に16.2%のCAGRを記録します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、インドのデジタル インディア プログラムと中国の産業クラウドの義務化により、予測 CAGR 19.4% で最も急成長している地域となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "Platform-as-a-Service (PaaS) は、マネージド AI/ML ツールチェーンとローコード プラットフォームに対する開発者の需要に後押しされて、2035 年まで 20.4% の CAGR で拡大すると予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業は最も急速に成長しているセグメントであり、従量課金制の価格設定により、CAGR は 19.4% と予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2026 年から 2035 年の間に 19.4% という最も高い地域 CAGR を記録すると予測されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "19.4% の CAGR (2026 ～ 2035 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "14.8% CAGR",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "15.6% CAGR",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "16.1% CAGR",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "年間平均成長率（CAGR）は 12.2%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2025年11月、Huawei社のクラウドは、新しいAIを搭載したクラウドソリューションを発表し、ブラジルでの収益を倍増し、強力な地域採用と企業のデジタル変革を反映したと報告しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2025年11月、Huawei社のクラウドは、ブラジルとアジアパシフィックのAIとクラウドサービスを拡大し、大企業をターゲットにし、複数の分野にわたるデジタル変革の取り組みをサポートし、強力な地域需要を反映しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2026〜2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "また、Apsara Conference 2025でクラウドインフラを拡大しました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までのグローバルクラウドサービス市場の成長率は?",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のクラウド市場は2020年代に入り、企業のデジタル化やAI活用の加速に伴い急拡大しています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2034年には2兆ドルを超える見通しが示されており、年間平均成長率（CAGR）は15％超と予想されています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2026年にかけては、CAGRが13％以上に達すると予想されており、今後10年程度は安定した成長余地があるとみられています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "市場アナリストは、Google Cloudの収益成長率が2026年に40％台に達する可能性を指摘しており、今後もプレゼンスを高めることが期待されています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のパブリッククラウドサービスの売上高は2024年に7,733億ドル（前年比22.4%増）まで増加すると見込まれている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、高い成長率を遂げ、2024年は4兆1,423億円（前年比26.1％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、この四半期のクラウドインフラ市場自体の成長率が35％であったことと、上位3社のシェアが変わらなかったことを考慮すると、上位3社の成長率がクラウド市場自体の成長率と変わらず35％程度だったことがうかがえます",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均15.7%で成長し、規模は2兆9,045億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "前年比23%増",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場も拡大、2025年に4.4兆円へ",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "The global cloud services market size accounted for USD 843.87 billion in 2026 and is expected to exceed around USD 2,726.94 billion by 2034, growing at a CAGR of 15.27% from 2025 to 2034. The cloud services market is driven by the increasing demand for scalable and cost-efficient IT infrastructure.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 15.27%",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. cloud services market size was exhibited at USD 248.10 billion in 2026 and is projected to be worth around USD 817.06 billion by 2034, growing at a CAGR of 15.54% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global cloud services market?",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global cloud services market is estimated to hit growth at a CAGR of 15.54% from 2025 to 2034.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The global cloud computing market size was valued at USD 943.6 billion in 2025 and is projected to grow from USD 1,188.1 billion in 2026 to USD 3,349.6 billion in 2033, at a CAGR of 16.0% from 2026 to 2033. North America dominated the market, accounting for a revenue share of 38.6% in 2025. Market growth is accelerating due to the swift adoption of artificial intelligence (AI),",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (fastest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 16.0%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 16.0% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The global cloud computing market is expected to witness a compound annual growth rate of 16.0% from 2026 to 2033 to reach USD 3,349.6 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Cloud Infrastructure Services Market was estimated at 143.21 USD Billion in 2024. The Cloud Infrastructure Services industry is projected to grow from 165.08 USD Billion in 2025 to 683.81 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 15.27% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "The Cloud Infrastructure Services Market is projected to grow at a 15.27% CAGR from 2025 to 2035, driven by increasing demand for scalable solutions and digital transformation initiatives.",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Cloud Infrastructure Services Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "The anticipated CAGR for the market during the 2025 - 2035 period is 15.27%.",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "By end-user, the large enterprises segment dominated the market with the highest CAGR in 2025.",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 28.52%",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America multi-cloud computing market size is estimated at USD 6.82 billion in 2025 and is projected to reach approximately USD 209.50 billion by 2035, with a 28.67% CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. multi-cloud computing market size is calculated at USD 5.11 billion in 2025 and is expected to reach nearly USD 64.06 billion in 2035, accelerating at a strong CAGR of 28.77% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The multi-cloud computing market is expected to grow at a compound annual growth rate (CAGR) of around 28.52% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global cloud infrastructure service market size was valued at USD 167.8 billion in 2025 and is projected to grow from USD 196.83 billion in 2026 to USD 705.46 billion by 2034, registering a CAGR of 17.3% during the forecast period from 2026 to 2034. North America dominated the cloud infrastructure service market with a market share of 39.5% in 2025.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The disaster recovery and backup as a service segment is projected to register the fastest growth at a CAGR of 18.9% during the forecast period. Growing concerns over cyber threats, business continuity, regulatory compliance, and increasing investments in resilient cloud-based disaster recovery solutions are expected to accelerate segment growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2025年第3四半期時点でAmazonはおよそ29％、Microsoftは20％、Googleは13％となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-4 世界のクラウドインフラサービス市場のシェアの推移",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間の27.4%を超える最大の収益分配のために占めるITおよび電気通信セグメント",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、ITと電気通信セグメントは、予測期間にわたって27.4%の最大の収益シェアで市場を支配しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、予測期間にわたって43.7%以上の市場シェアで市場を支配しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウド市場規模・シェア｜成長分析 [2035]",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウド市場調査レポート サービスモデル別（IAAS、SAAS、PAAS）、組織規模別（中小企業および大企業）、業界別（IT・通信、製造、BFSI、小売、ヘルスケア、政府、航空宇宙・防衛、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、南米） – 業界の規模、シェアおよび2035年までの予測",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、ハイパースケーラーの本社と世界で最も深いエンタープライズ ソフトウェア エコシステムに支えられ、2025 年のパブリック クラウド市場の約 41% を占めました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は約 25% で 2 番目に大きなシェアを占めており、GDPR に基づくデータ ローカリゼーション要件により、ソブリン クラウド サービスのプレミアム ティアが形成されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "大企業は 2025 年のパブリック クラウド市場シェアの約 62% を占め、エンタープライズ ライセンス契約に基づいてワークロードが統合されました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025 年のパブリック クラウド市場で最大のシェアを維持し、米国がリードしました",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "現在、フォーチュン 500 企業の 65% 以上を占めるネットゼロコミットメントを持つ企業は、再生可能エネルギーの購入契約を締結している地域に電力を供給しているプロバイダーから優先的に調達することになります",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "~41% のシェア (2025 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "~25% シェア (2025 年)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの最大 78%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの最大 22%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの最大6%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの約 12%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "地域シェアの最大 38%",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド サービス市場の動向、シェア、予測、2026 ～ 2033 年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "デプロイメントモデルでは、パブリッククラウドセグメントは2026年に最大75%のシェアを占める予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "サービスモデルに基づき、SaaSセグメントは、サブスクリプションベースのビジネスアプリやエンタープライズソリューションの傾向が高まるため、2026年に最大54%のシェアを占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズ規模の面では、大企業セグメントは2026年の市場で最大60%のシェアを保持すると推定され、これは主に大規模な企業が生産作業負荷をクラウドサービスに徐々に動かすことによるものです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "業界を垂直にし、IT&テレコミュニケーション部門は、2026年までの総市場シェアの30%を占める市場をリードし、クラウドインフラ、ソフトウェア開発プラットフォーム、デジタルトランスフォーメーションなどの分野における広範な採用を支持する見込みです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026, プロジェクトの市場シェア 39%. この成長のための主要なドライバーの中には、Microsoft Azure、AWS、Google Cloudなどの著名なクラウドサービス提供の初期導入、およびBFSI、ヘルスケア、テクノロジー、電気通信分野におけるデジタル変革サービスにおける企業による実質的な投資などの重要な存在が含まれます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "このレポートは、国のIaaS市場におけるAlibaba Cloudのシェアが約26.8%に上昇し、四半期ごとの成長を継続的にマークしています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場で最大の市場シェアを占めるセグメントは?",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "パブリッククラウドセグメントは、2026年に最大の市場シェアを保持しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のクラウド市場シェアと動向【世界及び日本国内】 - 株式会社DEHA SOLUTIONS",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のクラウド市場シェアと動向【世界及び日本国内】",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、2026年のクラウド市場について世界市場の最新シェアや日本国内のクラウド市場シェアとその特徴などを紹介していきます",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "これを読めば2026年のクラウド市場のシェアやトレンドが丸わかりですよ",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "最新のグローバル市場シェア（2025～2026年時点）では以下の通りです",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "推定グローバル市場シェア（2025年）",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "この「ビッグ3」（AWS、Azure、GCP）の3社だけで約63％の市場シェアを占めており、圧倒的な集中度を維持しています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "それでも約30％前後のシェアを占め、他社を引き離す存在です",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Azureは企業向け統合性を武器に成長し、現在は約20％のシェアを占めています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Google CloudはAI・データ分析機能を強みとして成長しており約13％までシェアを伸ばしています",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2024年第2四半期時点でAmazonはおよそ32%、Microsoftは23％、Googleは12%となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-4 世界のクラウドインフラサービス市場のシェアの推移",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドプロバイダー上位3社のシェアは変わらず",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "前述の通り、この四半期のクラウドインフラ市場自体の成長率が35％であったことと、上位3社のシェアが変わらなかったことを考慮すると、上位3社の成長率がクラウド市場自体の成長率と変わらず35％程度だったことがうかがえます",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、市場の垣根が低くなりハイブリッド化が進む状況を踏まえ、これらIaaS・PaaS・SaaSの各領域を牽引する主要企業（計10社）を抽出し、総合的なクラウド市場におけるシェアを分析しています",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のクラウドサービス業界の市場シェアを簡易に試算しますと、1位はアマゾン、2位はマイクロソフト、3位はアルファベット（グーグル）となります",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービス業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 市場シェアの推移：AWS が先行、追う Azure／GCP",
+    "url": "https://qiita.com/s_tsuchida/items/87048c8c2c682014f8ea",
+    "pass": 3
+   },
+   {
+    "quote": "最新の市場シェアを見ると、以下の傾向があります（2025年 Q2 時点の代表的な調査より）：",
+    "url": "https://qiita.com/s_tsuchida/items/87048c8c2c682014f8ea",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 2025年 第1四半期時点の世界シェア（IaaS＋PaaS）",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "🕰 2020年〜2025年のシェア推移（傾向）",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア：約4〜6%（2025年時点）",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア：約2〜3%",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェア：約2%未満",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラのシェア、AWSがトップを維持するも28％、AzureとGoogle Cloudが少しずつ差を詰めていく",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "AWSのシェアは28％に",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドプロバイダー上位3社のシェアの数字は、AWSが前四半期から1ポイント下がって28％、Microsoft AzureとGoogle Cloudはそれぞれ1ポイントずつ増加して14％でした",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "AWSのシェアは、他の調査会社では30％を上回る値が",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーの動向と競争環境",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、市場の垣根が低くなりハイブリッド化が進む状況を踏まえ、これらIaaS・PaaS・SaaSの各領域を牽引する主要企業（計10社）を抽出し、総合的なクラウド市場におけるシェアを分析しています",
+    "url": "https://deallab.info/cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "── 現状、将来展望、主要プレイヤー、そして企業の選択戦略まで",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Services Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": ", AI, and online payments drives the growth of authentication. Many sectors, including healthcare, retail, IT, and banking, demand the market. Many key companies are investing in cloud services and cloud-based solutions like TATA. These applications and demand drive the growth in the country.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the major players operating in the cloud services market?",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the cloud services market are Alibaba Group Holding Limited, Amazon Web Services, Inc, Cisco Systems, Inc, Dell, Technologies Inc, Google Llc, Hewlett Packard Enterprise Development Lp, International Business Machines Corporation, Microsoft Corporation, Oracle Corporation, Rackspace Hosting, Inc, RyohinKeikaku Co. Ltd., and Isagenix International LLC.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the cloud computing industry include Amazon Web Services (AWS); Microsoft Azure; Google Cloud Platform (GCP); Oracle Cloud; Salesforce, Inc.; and Alibaba Cloud. Competition is increasingly centered on expanding cloud infrastructure capabilities, strengthening AI and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study of the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the cloud computing market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba Cloud, Amazon Web Services, Inc., CloudHesive, Coastal Cloud, DigitalOcean, Google, GroundCloud, IBM, Microsoft Azure, Oracle Cloud, Rackspace Technology, Inc., Salesforce, Inc., Tencent, The Descartes Systems Group Inc., VMware LLC, are some of the prominent players present in the cloud computing market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Cloud Infrastructure Services Market include",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in the Cloud Infrastructure Services Market?",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Amazon Web Services, Microsoft Azure, Google Cloud, IBM Cloud, and Alibaba Cloud.",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Cloud Computing Market Trends, Companies, Revenue / Sales Performance, Subscriber Growth, Pricing Strategies, Cloud Adoption, Infrastructure Expansion, Competitive Landscape, and Industry Outlook",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups are driving innovation in areas such as",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid modernization initiatives are pushing organizations, startups, and enterprises towards cloud-based solutions to improve agility, streamline operations, and enhance competitiveness, increasing demand for efficient multi-cloud computing platforms.",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the Major Players in the Global Multi-Cloud Computing Market?",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/cloud-infrastructure-market.asp",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "(2025 年 1 月): 2025 会計年度のデータセンター設備投資額 800 億ドルを発表",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud trends are influencing enterprises' investment plans, digital business decision-making processes, and vendor and technology choices. Corporations' key concerns are data security and privacy, since information storage, usage, and transfer must be digitally safeguarded. As per surveys, around 60% of business-sensitive data on hard drives is held unsafely.",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "reported that cloud infrastructure revenue increased 121% year over year to USD 7.4 billion in the first quarter of fiscal 2027. The company also added 850 MW of data center capacity during the quarter, highlighting continued infrastructure investment to support AI and cloud workloads.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "announced that its global infrastructure had expanded to 105 availability zones across 32 regions, following additional data center investments in Japan, Malaysia, France, and Mexico. The expansion strengthens the provider's ability to deliver scalable cloud and AI infrastructure while addressing regional data privacy and sovereignty requirements.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2026, Amazon raised its projected 2026 capital expenditure to approximately USD 220 billion, up 10% from its previous plan, as AWS sales increased 37% year over year to USD 42.2 billion during the second quarter. The investment increase reflects continued requirements for AI computing and cloud infrastructure capacity.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The disaster recovery and backup as a service segment is projected to register the fastest growth at a CAGR of 18.9% during the forecast period. Growing concerns over cyber threats, business continuity, regulatory compliance, and increasing investments in resilient cloud-based disaster recovery solutions are expected to accelerate segment growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The large enterprise segment dominated the global cloud infrastructure service market with a 65.8% share in 2025. The segment's growth is driven by substantial investments in cloud modernization, large-scale digital transformation initiatives, adoption of AI and analytics platforms, and increasing demand for scalable, secure, and high-performance cloud infrastructure across global operations.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market was valued at USD 56.98 billion in 2025, making it the largest contributor in North America. Increasing investments in hyperscale cloud infrastructure, growing adoption of AI-powered cloud platforms, rising enterprise digital transformation initiatives, and strong demand for infrastructure-as-a-service (IaaS) solutions continue to strengthen market growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada's market reached USD 9.30 billion in 2025. Expanding cloud adoption among enterprises, increasing investments in regional data centers, rising demand for secure cloud storage, and growing implementation of hybrid cloud solutions continue to support steady market expansion.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UK market was valued at USD 8.54 billion in 2025. Rising enterprise migration to cloud platforms, increasing demand for managed cloud services, expanding investments in data center infrastructure, and growing adoption of AI-enabled cloud solutions continue to support market growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany's market accounted for USD 12.59 billion in 2025. Strong industrial digitalization, increasing deployment of hybrid cloud environments, growing investments in secure cloud infrastructure, and rising adoption of Industry 4.0 technologies continue to support market expansion.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's market generated USD 8.90 billion in 2025. Increasing enterprise cloud migration, growing investments in digital infrastructure, rising adoption of AI and IoT applications, and expanding demand for secure cloud services continue to support market growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE market was valued at USD 1.62 billion in 2025. Government-led digital transformation initiatives, increasing investments in smart city projects, expanding cloud data center infrastructure, and rising adoption of public and hybrid cloud services continue to drive market growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Africa's market reached approximately USD 5.76 billion in 2025. Growing investments in digital infrastructure, increasing cloud adoption among enterprises, expanding internet connectivity, and rising demand for affordable cloud computing solutions continue to create long-term growth opportunities across the region.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Brazil's market was valued at USD 3.92 billion in 2025, making it the largest contributor in Latin America. Rising cloud adoption across banking, retail, manufacturing, and healthcare sectors, increasing investments in hyperscale data centers, and growing demand for cloud-based infrastructure services continue to strengthen market growth.",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Services dominate the cloud infrastructure market with over 54% share in 2026, valued at approximately US$ 179.12 Billion, due to enterprises increasingly shifting to managed, consumption-based cloud models that reduce upfront infrastructure investment while offloading operational complexity, scalability management, and infrastructure maintenance to hyperscalers.",
+    "url": "https://www.persistencemarketresearch.com/market-research/cloud-infrastructure-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fast-growing market expanding at a CAGR of 12.6%, driven by government-led digital transformation programs, hyperscaler investments, and rapid enterprise cloud adoption.",
+    "url": "https://www.persistencemarketresearch.com/market-research/cloud-infrastructure-market.asp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "令和8年版 情報通信白書｜ クラウド サービス - 総務省 — 令和8年版 情報通信白書｜ クラウド サービス - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラ サービス 市場規模 , 予測 – 2032 — クラウドインフラ サービス 市場規模 , 予測 – 2032 Spherical Insights https://www.sphericalinsights.com > reports > cloud-infras...",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド サービス 市場 の動向、シェア、予測、2026 ～ 2033 年 — クラウド サービス 市場 の動向、シェア、予測、2026 ～ 2033 年 Coherent Market Insights https://www.coherentmarketinsights.com > クラウドサービ...",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "総務省｜令和7年版 情報通信白書｜ クラウド サービス — 総務省｜令和7年版 情報通信白書｜ クラウド サービス 総務省 https://www.soumu.go.jp > whitepaper > html",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラ の シェア 、AWSが28％、Azureは21％で ... — クラウドインフラ の シェア 、AWSが28％、Azureは21％で ... Publickey https://www.publickey1.jp > blog",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドインフラ のシェア、AWSがトップを維持するも28 — クラウドインフラ のシェア、AWSがトップを維持するも28 Publickey https://www.publickey1.jp > blog > aws28azuregoogle_cl...",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Infrastructure Services Market Size & Share 2031 — Cloud Infrastructure Services Market Size & Share 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Infrastructure Services Market Size & Forecast 2026 ... — Cloud Infrastructure Services Market Size & Forecast 2026 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/cloud-infrastructure-services-market-109529",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "19.4",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "アジア太平洋地域は、インドのデジタル インディア プログラムと中国の産業クラウドの義務化により、予測 CAGR 19.4% で最も急成長している地域となっています"
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "年間平均成長率（CAGR）は 12.2%"
+   },
+   {
+    "value": "15",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "さらに、2034年には2兆ドルを超える見通しが示されており、年間平均成長率（CAGR）は15％超と予想されています"
+   },
+   {
+    "value": "13",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "2025年から2026年にかけては、CAGRが13％以上に達すると予想されており、今後10年程度は安定した成長余地があるとみられています"
+   },
+   {
+    "value": "15.27",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "quote": "The global cloud services market size accounted for USD 843.87 billion in 2026 and is expected to exceed around USD 2,726.94 billion by 2034, growing at a CAGR of 15.27% from 2025 to 2034. The cloud services market is driven by the increasing demand for scalable and cost-efficient IT infrastructure."
+   },
+   {
+    "value": "15.54",
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "quote": "The U.S. cloud services market size was exhibited at USD 248.10 billion in 2026 and is projected to be worth around USD 817.06 billion by 2034, growing at a CAGR of 15.54% from 2025 to 2034."
+   },
+   {
+    "value": "16.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "quote": "The global cloud computing market size was valued at USD 943.6 billion in 2025 and is projected to grow from USD 1,188.1 billion in 2026 to USD 3,349.6 billion in 2033, at a CAGR of 16.0% from 2026 to 2033. North America dominated the market, accounting for a revenue share of 38.6% in 2025. Market g"
+   },
+   {
+    "value": "15.27",
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "quote": "As per Market Research Future analysis, the Cloud Infrastructure Services Market was estimated at 143.21 USD Billion in 2024. The Cloud Infrastructure Services industry is projected to grow from 165.08 USD Billion in 2025 to 683.81 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR)"
+   },
+   {
+    "value": "28.52",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "quote": "CAGR of 28.52%"
+   },
+   {
+    "value": "28.77",
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "quote": "The U.S. multi-cloud computing market size is calculated at USD 5.11 billion in 2025 and is expected to reach nearly USD 64.06 billion in 2035, accelerating at a strong CAGR of 28.77% between 2026 and 2035."
+   },
+   {
+    "value": "17.3",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "quote": "The global cloud infrastructure service market size was valued at USD 167.8 billion in 2025 and is projected to grow from USD 196.83 billion in 2026 to USD 705.46 billion by 2034, registering a CAGR of 17.3% during the forecast period from 2026 to 2034. North America dominated the cloud infrastructu"
+   },
+   {
+    "value": "18.9",
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "quote": "The disaster recovery and backup as a service segment is projected to register the fastest growth at a CAGR of 18.9% during the forecast period. Growing concerns over cyber threats, business continuity, regulatory compliance, and increasing investments in resilient cloud-based disaster recovery solu"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "29",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2025年第3四半期時点でAmazonはおよそ29％、Microsoftは20％、Googleは13％となっている"
+   },
+   {
+    "value": "20",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2025年第3四半期時点でAmazonはおよそ29％、Microsoftは20％、Googleは13％となっている"
+   },
+   {
+    "value": "13",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2025年第3四半期時点でAmazonはおよそ29％、Microsoftは20％、Googleは13％となっている"
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "quote": "予測期間の27.4%を超える最大の収益分配のために占めるITおよび電気通信セグメント"
+   },
+   {
+    "value": "43.7",
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "quote": "北米は、予測期間にわたって43.7%以上の市場シェアで市場を支配しています"
+   },
+   {
+    "value": "41",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "北米は、ハイパースケーラーの本社と世界で最も深いエンタープライズ ソフトウェア エコシステムに支えられ、2025 年のパブリック クラウド市場の約 41% を占めました"
+   },
+   {
+    "value": "25",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "欧州は約 25% で 2 番目に大きなシェアを占めており、GDPR に基づくデータ ローカリゼーション要件により、ソブリン クラウド サービスのプレミアム ティアが形成されています"
+   },
+   {
+    "value": "62",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "大企業は 2025 年のパブリック クラウド市場シェアの約 62% を占め、エンタープライズ ライセンス契約に基づいてワークロードが統合されました"
+   },
+   {
+    "value": "65",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "現在、フォーチュン 500 企業の 65% 以上を占めるネットゼロコミットメントを持つ企業は、再生可能エネルギーの購入契約を締結している地域に電力を供給しているプロバイダーから優先的に調達することになります"
+   },
+   {
+    "value": "78",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "地域シェアの最大 78%"
+   },
+   {
+    "value": "22",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "地域シェアの最大 22%"
+   },
+   {
+    "value": "6",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "地域シェアの最大6%"
+   },
+   {
+    "value": "12",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "地域シェアの約 12%"
+   },
+   {
+    "value": "38",
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "quote": "地域シェアの最大 38%"
+   },
+   {
+    "value": "75",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "デプロイメントモデルでは、パブリッククラウドセグメントは2026年に最大75%のシェアを占める予定です"
+   },
+   {
+    "value": "54",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "サービスモデルに基づき、SaaSセグメントは、サブスクリプションベースのビジネスアプリやエンタープライズソリューションの傾向が高まるため、2026年に最大54%のシェアを占めています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "エンタープライズ規模の面では、大企業セグメントは2026年の市場で最大60%のシェアを保持すると推定され、これは主に大規模な企業が生産作業負荷をクラウドサービスに徐々に動かすことによるものです"
+   },
+   {
+    "value": "30",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "業界を垂直にし、IT&テレコミュニケーション部門は、2026年までの総市場シェアの30%を占める市場をリードし、クラウドインフラ、ソフトウェア開発プラットフォーム、デジタルトランスフォーメーションなどの分野における広範な採用を支持する見込みです"
+   },
+   {
+    "value": "39",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "2026, プロジェクトの市場シェア 39%. この成長のための主要なドライバーの中には、Microsoft Azure、AWS、Google Cloudなどの著名なクラウドサービス提供の初期導入、およびBFSI、ヘルスケア、テクノロジー、電気通信分野におけるデジタル変革サービスにおける企業による実質的な投資などの重要な存在が含まれます"
+   },
+   {
+    "value": "26.8",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "quote": "このレポートは、国のIaaS市場におけるAlibaba Cloudのシェアが約26.8%に上昇し、四半期ごとの成長を継続的にマークしています"
+   },
+   {
+    "value": "63",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "この「ビッグ3」（AWS、Azure、GCP）の3社だけで約63％の市場シェアを占めており、圧倒的な集中度を維持しています"
+   },
+   {
+    "value": "30",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "それでも約30％前後のシェアを占め、他社を引き離す存在です"
+   },
+   {
+    "value": "20",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "Microsoft Azureは企業向け統合性を武器に成長し、現在は約20％のシェアを占めています"
+   },
+   {
+    "value": "13",
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "quote": "Google CloudはAI・データ分析機能を強みとして成長しており約13％までシェアを伸ばしています"
+   },
+   {
+    "value": "32",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2024年第2四半期時点でAmazonはおよそ32%、Microsoftは23％、Googleは12%となっている"
+   },
+   {
+    "value": "23",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2024年第2四半期時点でAmazonはおよそ32%、Microsoftは23％、Googleは12%となっている"
+   },
+   {
+    "value": "12",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "quote": "への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2024年第2四半期時点でAmazonはおよそ32%、Microsoftは23％、Googleは12%となっている"
+   },
+   {
+    "value": "28",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "quote": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に"
+   },
+   {
+    "value": "21",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "quote": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に"
+   },
+   {
+    "value": "35",
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "quote": "クラウドインフラのシェア、AWSが28％、Azureは21％で変わらずも、市場全体が年35％の急成長に"
+   },
+   {
+    "value": "6",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "quote": "世界シェア：約4〜6%（2025年時点）"
+   },
+   {
+    "value": "3",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "quote": "世界シェア：約2〜3%"
+   },
+   {
+    "value": "2",
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "quote": "世界シェア：約2%未満"
+   },
+   {
+    "value": "28",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "quote": "クラウドインフラのシェア、AWSがトップを維持するも28％、AzureとGoogle Cloudが少しずつ差を詰めていく"
+   },
+   {
+    "value": "14",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "quote": "クラウドプロバイダー上位3社のシェアの数字は、AWSが前四半期から1ポイント下がって28％、Microsoft AzureとGoogle Cloudはそれぞれ1ポイントずつ増加して14％でした"
+   },
+   {
+    "value": "30",
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "quote": "AWSのシェアは、他の調査会社では30％を上回る値が"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-109529",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deha.co.jp/magazine/cloud-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/cloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/s_tsuchida/items/87048c8c2c682014f8ea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prAP53747625",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/public-cloud-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-102697",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vIxwYC5qRI6ImFg__GDzW5nPkmR1jFKhNOpWSUBmv5sXCILXMNZ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vJt23s2OcfE53gqkklJ4ETwfBg94LENxCcOXs2IPQSGDkQYFman",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.srgresearch.com/articles/cloud-market-share-trends-big-three-together-hold-63-while-oracle-and-the-neoclouds-inch-higher",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://holori.com/cloud-market-share-2026-top-cloud-vendors-in-2026/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/oracle/comments/1nfzuv3/the_worlds_largest_cloud_providers_ranked_by/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/infrastructure-as-a-service-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/cloud-infrastructure-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vJg3IdMfIgj1LzoYpOEifdTEe-r5TKCEY6ktyPJy_oAF8mbhdjl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/cloud-infrastructure-services-market-109529",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosperops.com/blog/top-cloud-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://slickfinch.com/blog/2025-cloud-infrastructure-provider-market-share-analysis-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クラウドインフラ 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-109529",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market",
+    "https://jp.linkedin.com/pulse/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%81%E3%83%A3%E3%83%86%E3%82%B9%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%A5%AD%E7%95%8C%E6%88%A6%E7%95%A5%E3%81%A8%E6%A9%9F%E4%BC%9A2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E4%BA%88%E6%B8%ACcagr%E3%81%AF72-lorviquec-ix1se",
+    "https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "https://www.businessresearchinsights.com/jp/market-reports/cloud-infrastructure-market-103195",
+    "https://ended693.inkrich.com/posts/public-cloud-329029-mvw7amov",
+    "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+    "https://www.fortunebusinessinsights.com/jp/クラウドインフラサービス市場-109529"
+   ]
+  },
+  {
+   "query": "クラウドインフラ 市場 シェア 上位 企業",
+   "results": [
+    "https://deha.co.jp/magazine/cloud-2026/",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html",
+    "https://deallab.info/cloud/",
+    "https://qiita.com/s_tsuchida/items/87048c8c2c682014f8ea",
+    "https://business.ntt-east.co.jp/column/bizdrive/cloud-vendor-share-ranking.html",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4",
+    "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r06/html/nd218200.html",
+    "https://ict-garage-jp.com/cloud-market-share-2026/"
+   ]
+  },
+  {
+   "query": "クラウドインフラ 市場 前年比 2025",
+   "results": [
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html",
+    "https://note.com/hiradairaheipei/n/n4c06403148e5",
+    "https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html",
+    "https://my.idc.com/getdoc.jsp?containerId=prAP53747625",
+    "https://www.mordorintelligence.com/ja/industry-reports/public-cloud-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-102697",
+    "https://blogs.itmedia.co.jp/business20/2025/12/2025ai2025.html",
+    "https://www.ragate.co.jp/media/developer_blog/1u3tq-ibqgzo",
+    "https://ict-garage-jp.com/cloud-market-share-2026/"
+   ]
+  },
+  {
+   "query": "cloud infrastructure services market size CAGR 2025",
+   "results": [
+    "https://www.precedenceresearch.com/cloud-services-market",
+    "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vIxwYC5qRI6ImFg__GDzW5nPkmR1jFKhNOpWSUBmv5sXCILXMNZ",
+    "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html",
+    "https://www.futuremarketinsights.com/reports/cloud-services-market",
+    "https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market",
+    "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "https://www.cloudzero.com/blog/cloud-computing-market-size/",
+    "https://dimensionmarketresearch.com/report/cloud-infrastructure-services-market/"
+   ]
+  },
+  {
+   "query": "cloud infrastructure services market share top players percent",
+   "results": [
+    "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vJt23s2OcfE53gqkklJ4ETwfBg94LENxCcOXs2IPQSGDkQYFman",
+    "https://www.srgresearch.com/articles/cloud-market-share-trends-big-three-together-hold-63-while-oracle-and-the-neoclouds-inch-higher",
+    "https://holori.com/cloud-market-share-2026-top-cloud-vendors-in-2026/",
+    "https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market",
+    "https://www.reddit.com/r/oracle/comments/1nfzuv3/the_worlds_largest_cloud_providers_ranked_by/",
+    "https://www.crn.com/news/cloud/2026/cloud-market-share-q2-2026-google-gains-share-as-aws-falls",
+    "https://www.cloudzero.com/blog/cloud-service-providers/",
+    "https://www.fortunebusinessinsights.com/cloud-infrastructure-services-market-109529",
+    "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/"
+   ]
+  },
+  {
+   "query": "cloud infrastructure services market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/cloud-infrastructure-services-market-1599",
+    "https://www.precedenceresearch.com/multi-cloud-computing-market",
+    "https://straitsresearch.com/report/cloud-infrastructure-service-market",
+    "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "https://www.mordorintelligence.com/industry-reports/infrastructure-as-a-service-market",
+    "https://www.persistencemarketresearch.com/market-research/cloud-infrastructure-market.asp",
+    "https://www.marketsandmarkets.com/Market-Reports/us-cloud-computing-market-15852553.html",
+    "https://www.srgresearch.com/research/cloud-infrastructure-services",
+    "https://metastatinsight.com/report/cloud-services-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "cloud infrastructure services market key companies share 2025",
+   "results": [
+    "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vJg3IdMfIgj1LzoYpOEifdTEe-r5TKCEY6ktyPJy_oAF8mbhdjl",
+    "https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market",
+    "https://www.precedenceresearch.com/cloud-services-market",
+    "https://holori.com/cloud-market-share-2026-top-cloud-vendors-in-2026/",
+    "https://www.fortunebusinessinsights.com/cloud-infrastructure-services-market-109529",
+    "https://www.prosperops.com/blog/top-cloud-providers/",
+    "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "https://www.linkedin.com/posts/mark-haranas-98758667_cloud-market-share-q1-2025-aws-dips-microsoft-activity-7326611285050101763-HPab",
+    "https://www.srgresearch.com/articles/cloud-market-share-trends-big-three-together-hold-63-while-oracle-and-the-neoclouds-inch-higher",
+    "https://slickfinch.com/blog/2025-cloud-infrastructure-provider-market-share-analysis-insights/"
+   ]
+  }
+ ],
+ "missing": {}
+}

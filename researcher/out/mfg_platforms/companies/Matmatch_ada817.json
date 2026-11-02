@@ -1,0 +1,155 @@
+{
+ "name": "Matmatch",
+ "aliases": [],
+ "context": "素材データベース・検索（独）",
+ "researched_at": "2026-11-02T14:46:56.363378+00:00",
+ "official_url": "https://matmatch.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://matmatch.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hitachi-solutions.co.jp/subscription_support/column/subscriptionbusiness001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sce.com/ja/business/rates-financing/rate-comparison-tool/where-revenue-goes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baremetrics.com/jp/blog/understanding-subscription-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KjtxLW0RZJI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://coralcap.co/2021/10/mailchimp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newspicks.com/news/16395744/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=U8J3jxHt_7U",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://v-tsushin.jp/interview/interview00/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=C_ks9yvuQnk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.investopedia.com/terms/b/businessmodel.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getdbt.com/blog/modeling-subscription-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.mtch.com/investor-relations/news-events/news-events/news-details/2026/Match-Group-Announces-Fourth-Quarter-and-Full-Year-Results/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Matmatch 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.hitachi-solutions.co.jp/subscription_support/column/subscriptionbusiness001/",
+    "https://www.sce.com/ja/business/rates-financing/rate-comparison-tool/where-revenue-goes",
+    "https://baremetrics.com/jp/blog/understanding-subscription-revenue",
+    "https://stripe.com/jp/resources/more/subscription-business-models-101-types-of-models-how-they-work-and-how-to-choose-one",
+    "https://websv.info/article/1811.html",
+    "https://note.com/joyous_sayyou/n/n34935cb98037",
+    "https://aidiot.jp/media/matching/business_method/",
+    "https://gri.jp/media/entry/4497",
+    "https://www.selva-i.co.jp/portalsite/knowledge/1344-2",
+    "https://ms123.co.jp/knowhow/m10/"
+   ]
+  },
+  {
+   "query": "Matmatch 売上 従業員 創業",
+   "results": [
+    "https://www.youtube.com/watch?v=KjtxLW0RZJI",
+    "https://coralcap.co/2021/10/mailchimp/",
+    "https://newspicks.com/news/16395744/body/",
+    "https://shikiho.toyokeizai.net/us/MTCH",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://www.tikr.com/ja/blog/match-group-stock-fell-10-last-year-amid-payer-declines-can-it-recover-in-2026",
+    "https://strainer.jp/notes/470",
+    "https://www.rinen-mg.co.jp/web-rinentokeiei/entry-5895.html",
+    "https://venture.jp/news/2023/07/20/2450/",
+    "https://tracxn.com/d/companies/matmatch/__6LmAu5QAoWVH6KvN3vsAWLvF_s7rotyQ07OTPSoL_tU"
+   ]
+  },
+  {
+   "query": "Matmatch 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.youtube.com/watch?v=U8J3jxHt_7U",
+    "https://v-tsushin.jp/interview/interview00/",
+    "https://www.youtube.com/watch?v=C_ks9yvuQnk",
+    "https://shacho.osakazine.net/e781711.html",
+    "https://donzoko-ceo.com/category/kigyou/",
+    "https://college.goodfind.jp/articles/safie-sadoshima-innovation/",
+    "https://hirocom-media.com/articles/tag/1383",
+    "https://sogyotecho.jp/klab-2/",
+    "https://www.nippon-shacho.com/interview/interview07/",
+    "https://nozokuru.jp/"
+   ]
+  },
+  {
+   "query": "Matmatch revenue members business model",
+   "results": [
+    "https://www.investopedia.com/terms/b/businessmodel.asp",
+    "https://www.getdbt.com/blog/modeling-subscription-revenue",
+    "https://ir.mtch.com/investor-relations/news-events/news-events/news-details/2026/Match-Group-Announces-Fourth-Quarter-and-Full-Year-Results/",
+    "https://businessmodelnavigator.com/explore",
+    "https://www.altexsoft.com/blog/revenue-model-types/",
+    "https://membershipguide.org/handbook/planning-your-membership-move/making-the-business-case-for-membership/how-much-membership-revenue-can-we-expect",
+    "https://memberpress.com/blog/brick-and-mortar-recurring-revenue-tips/",
+    "https://www.smartinsights.com/digital-marketing-strategy/online-business-revenue-models/",
+    "https://fourweekmba.com/revenue-models/",
+    "https://compworth.com/company/matmatch"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "誰から払われるか": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "お金の形": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "規模": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "創業期の始め方": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "集客": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

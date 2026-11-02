@@ -1,0 +1,1538 @@
+{
+ "name": "光伝送装置",
+ "en": "optical transport network equipment",
+ "aliases": [
+  "オール光ネットワーク",
+  "IOWN",
+  "光通信"
+ ],
+ "context": "3 情報通信 ①オール光ネットワーク",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:41:07.010111+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "分析であり、市場規模・シェア・成長、2032年までの予測、主要システムベンダー、そしてキャリア長距離・メトロ・ハイパースケーラー向けデータセンター間接続（DCI）の各レイヤーにわたる需要を扱う",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 2025",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "128億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "210-250億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模（2025）",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "約128億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "約210-250億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に約128億ドル",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "2032年に210-250億ドルの帯",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2024年に在庫調整で約13%縮小し、2025年に約10%回復した",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "コンセンサスは約128億ドルの基盤に対し約8.6%成長と読み、そこで止まる",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送装置市場は今後5年間でCAGR 2%で成長 | e.x.press",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "> 光伝送装置市場は今後5年間でCAGR 2%で成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送装置市場は今後5年間でCAGR 2%で成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "--Dell’Oro Groupが新たに発表した予測レポートによると、光伝送市場は、顧客が過剰在庫を消化するために購入を一時停止した2024年の減少により、今後5年間で平均2%成長すると予測されている",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク市場規模、シェア | レポート - 2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "$ 19.42 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "$ 20.86 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "$ 42.73 Billion",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットリサーチフューチャーの分析によると、光トランスポートネットワーク市場（OTN）の市場規模は2024年に194.2億米ドルと推定されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "この光トランスポートネットワーク市場分析は、2025年から2035年までの市場規模、成長要因、競争ダイナミクスの包括的な評価を提供します",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "世界のネットワーク機器の出荷額は、2017年以降増加傾向にあるが、2024年は1,077億ドル（前",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2021年に再び減少に転じたが、2024年は増加して6,616億円となっ",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の5G基地局（マクロセル）の市場規模（出荷額）は249億ドル（前年比15.2％減）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり、日本では17億ドル（前年比25.7％減）となった（ 図表Ⅱ-1-5-3）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-5-3 日本の 5G 基地局（マクロセル）の市場規模（出荷額）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "29.6兆円",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関連データ 世界の5G基地局（マクロセル）の市場規模",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "351.2 億ドル",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の情報端末の出荷額は、2024年は6,007億ドル（前年比6.9％増）となった（ 図表Ⅱ-1-5-6）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降は1兆円前後で",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "横ばいの推移となっており、2024年は1兆920億円であった（ 図表Ⅱ-1-5-7）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "549億ドル（前年比9.9％減） 、輸入額は943億ドル（前年比6.9％減）で、394億ドルの輸入超過（前",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023年には、米国では2,272億ドルの輸入超過（前年比17.7％",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減） 、中国では2,069億ドルの輸出超過（前年比2.6％減）となっている（図表Ⅱ-1-5-11）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "オール光網に40年度まで官民で5.9兆円の投資目標を定め導入を促します",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の光通信市場規模は30年に53兆円に達する見通し",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "京セラ、部品事業に6500億円投資 AI半導体向け売上高3倍へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "FTTP導入目標は維持する一方で、現金による設備投資見通しを2.8億ドルから30億ドル～3.2億ドルに引き上げた",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 シスコの23年度第3四半期の売上高は14.6億ドルで前年同期比14％増加",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「第1四半期の売上高は、ガイダンスの9,000万ドルから1億ドルの範囲内でした",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "シスコの2023年度第3四半期の売上高は14.6億ドルで、前年同期比14%増加しました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "クアルコムは、2022年に同社の車載事業の売上高が300億ドルに成長し、2022年7月末以降、その額は100億ドル以上増加したと述べた",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "6.1 LC：世界の光トランシーバー市場は2023年に約1％減少する",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーンの混乱が続いているにもかかわらず、光通信業界はこれらの問題をほぼ克服し、2020年から2022年にかけて光部品およびモジュール市場は力強い成長を遂げました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "LCは、2023年の世界の光トランシーバー市場は、イーサネットと無線フロントホールトランシーバーの販売がそれぞれ10%と30%減少し、他のすべてのセグメントの成長を相殺するため、わずかに（約1%）減少すると予測しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "IDCの2022年世界半期通信サービストラッカーレポートによると、通信サービスおよび有料テレビサービスへの世界の支出は前年比2.2%増の1兆4,780億ドルに達すると予測されています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "IDCは、2023年の通信サービスおよび有料テレビサービスへの世界の支出は2.0%増の1兆5,410億ドルに達すると予測しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "国内チップ企業の急速な発展に伴い、4*25G PIN PD市場は国内チップ企業が争う主要市場の一つになると予想されています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年4月のIT市場は、依然として好不調が続いています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "IDCは最新の月次世界IT支出成長予測において、今年の総成長率は為替レート固定で4.8%増の3兆2,700億ドルと予測しました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "総務省｜令和8年版 情報通信白書｜市場規模",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "pass": 3
+   },
+   {
+    "quote": "（1） 市場規模",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のネットワーク機器の出荷額は、長期的に増加傾向であり、2025年は1,195億ドル（前年比10.9％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、再び減少に転じたが、2023年から増加し、2025年は6,945億円となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "CAGR 2025-2032",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "独自指標 · ▲DCIで2025年以降再拡大 · 🔒確定値はレポート内",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2025-2032）",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "へCAGR約8.6%",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア層のベンダー利益率は2023年以降圧縮、DCI層は2025年に再拡大した",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "横ばいのキャリア事業と年約40%成長のDCI事業は成長率を共有しない",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア層は長距離価格の浸食とともに2023年以降圧縮し、DCI層はクラウド需要が供給を上回った2025年に再拡大した",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "キャリアは圧縮、DCIは2025年以降再拡大",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "400ZR/800ZR/1.6Tが装置あたり容量を拡大",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送装置市場は今後5年間でCAGR 2%で成長 | e.x.press",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "> 光伝送装置市場は今後5年間でCAGR 2%で成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送装置市場は今後5年間でCAGR 2%で成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "OTN業界は、2025年に208.6億米ドルから2035年までに427.3億米ドルに成長すると予測されており、2025年から2035年の予測期間中に7.43％の年平均成長率（CAGR）を示しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2025 - 2035）",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、IoTアプリケーションの増加と5Gネットワークの拡大は、光トランスポートネットワーク市場（OTN）の成長をさらに刺激する可能性があります",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "米国の光トランスポートネットワーク市場は、5G、クラウドインフラ、データセンターの拡大への強力な投資によって北米をリードしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "5Gインフラの拡大",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "最近のデータによると、世界の帯域幅需要は年率30％以上の増加が見込まれており、高度な光伝送ソリューションが必要です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋の光トランスポートネットワーク市場（OTN）は、2023年から2032年にかけて最も早いCAGRで成長すると予想されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "1、光伝送ネットワーク（OTN）機器は、800G/1.6Tを超える次世代コヒーレント光伝送技術の実用化と組み合わさることで、ネットワーク全体の伝送容量を飛躍的に拡大する成長機会を有しております",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "トンネルボーリングジャンボ市場機会分析2026：2032年に701百万米ドル規模へ拡大",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の5G基地局（マクロセル）の市場規模（出荷額）は249億ドル（前年比15.2％減）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり、日本では17億ドル（前年比25.7％減）となった（ 図表Ⅱ-1-5-3）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の情報端末の出荷額は、2024年は6,007億ドル（前年比6.9％増）となった（ 図表Ⅱ-1-5-6）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5G対応スマートフォンの出荷台数は今後も拡大するこ",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "とが見込まれ、2030年には15億6,941万台まで拡大すると予測されている（ 図表Ⅱ-1-5-8）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の出荷台数は243万台（前年比10.3％減） 、新",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "257万台（前年比10.4％減）であり、双方とも出",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は690万台（前年比9.9％減）となっている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "549億ドル（前年比9.9％減） 、輸入額は943億ドル（前年比6.9％減）で、394億ドルの輸入超過（前",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2023年には、米国では2,272億ドルの輸入超過（前年比17.7％",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "減） 、中国では2,069億ドルの輸出超過（前年比2.6％減）となっている（図表Ⅱ-1-5-11）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界の半導体市場（出荷額）は、2024年には906億ドル（前年比4.7％減）となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に再び減少に転じ、2024年には66億ドル（前年比6.5％減）となった",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野、光通信装置で世界シェア倍増へ 「ガラケー」教訓に - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野、光通信装置で世界シェア倍増へ 「ガラケー」教訓に",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "pass": 3
+   },
+   {
+    "quote": "1、光伝送ネットワーク（OTN）機器は、800G/1.6Tを超える次世代コヒーレント光伝送技術の実用化と組み合わさることで、ネットワーク全体の伝送容量を飛躍的に拡大する成長機会を有しております",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "pass": 3
+   },
+   {
+    "quote": "FTTHカバー率は62.3%で、前年同期比5.3%増加しました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "このニュースは、同社の2023年第1四半期の決算説明会で確認され、フロンティアは5年以上ぶりに前年同期比でEBITDAが増加したと報告した",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "導入計画を確認する一方で、第1四半期にはFTTPインフラが33万9000箇所以上をカバーし、光ファイバーブロードバンド加入者数の増加数は前年同期比19%増の8万7000人と四半期ベースで過去最高を記録した",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "ディッシュのワイヤレス事業を統括するジョン・スウィアリンガ氏は、同社の現在の5Gネットワ​​ークは約7000万人のアメリカ人をカバーしており、今年を通してそのカバー範囲の拡大に取り組むと述べました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はすでに2月にプリマスとベイジングストークで3Gサービスを停止しており、6月にはハル、オックスフォード、グレーター・ロンドンに停止範囲を拡大する予定",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "STLのマネージングディレクター、アンキット・アガルワル氏は、インドの通信事業者は企業や家庭向けの光ファイバーブロードバンドネットワークの拡大に加え、国内の通信塔の60～70%を光ファイバー化することを目指しており、これにより同社のケーブル、接続、サービス事業が強化されると述べた",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「欧州では20％以上のシェアを誇り、米国では10～12％程度のシェアで、規模拡大のための基盤は十分に整っています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Fiberの公式発表によると、同社は米国のオースティン、ハンツビル、ローリー・ダーラム、ソルトレイクシティの4都市で20ギガのブロードバンドプロジェクトを拡大・試験するために、8つの企業、非営利団体、教育機関を探している",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "3.1 インフィネラの2023年第1四半期の売上高は3億9,200万ドルで、前年同期比15.7%増となった",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "3.2 ADVAの2023年第1四半期の売上高は1億7900万ユーロで、前年同期比5.2%増",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "3.3 シスコの23年度第3四半期の売上高は14.6億ドルで前年同期比14％増加",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "前年同期比で売上高は16%増加し、2023年の年間目標である8%を上回りました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "第2四半期に向けては、引き続き前年比で売上高成長、利益率拡大、そして2023年上半期には約10%の売上高成長を達成する計画です",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のネットワーク機器の出荷額は、長期的に増加傾向であり、2025年は1,195億ドル（前年比10.9％増）となった（",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "pass": 3
+   },
+   {
+    "quote": "800G製品へのシフトが進み拡大をけん引",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "50G以下の製品は、データセンターでの採用は一部であり、多くがFTTxや基地局に採用されているため、今後の伸びは年率数パーセントにとどまるとみられる",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は、AIネットワーク向けの投資が好調で、また、大手クラウドベンダーを中心とした海底ケーブルの敷設計画が進行したため、市場は前年比8.6％の増加となった",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2025年も市場は堅調であり、海底ケーブルやデータセンターへの投資が拡大するに伴い拡大が続くと予想される",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2029年頃から、需要が急増する400G対応スイッチでの採用増加、また、AIアクセラレーターチップ同士の接続におけるCPO利用が増えることから、市場は大幅な拡大が予想される",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降は、引き続きAI向けでデータセンター関連投資が継続することに加え、世界的なデータトラフィック増加に伴う海底ケーブルや幹線系の投資拡大に関連した機器・デバイスの伸びも予想される",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "分析であり、市場規模・シェア・成長、2032年までの予測、主要システムベンダー、そしてキャリア長距離・メトロ・ハイパースケーラー向けデータセンター間接続（DCI）の各レイヤーにわたる需要を扱う",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "高集中、上位3社が主導 ·",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "CR3 xx% · HHI x,xxx",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "ファーウェイが売上の約3分の1で首位、シエナとインフィネラ統合後のノキアが各約5分の1",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "競争構造 · HHI＋CR3/CR5/CR10",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "上位3ベンダー、",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク市場規模、シェア | レポート - 2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "その他のカテゴリーにはさまざまなニッチサービスが含まれ、全体のセグメントに寄与していますが、上位2つの影響には及びません",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "図3：2022年地域別光トランスポートネットワーク（OTN）市場シェア（米ドル十億）",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」から引用されている",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート 「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "pass": 3
+   },
+   {
+    "quote": "（マクロセル）のシェア（出荷額）は、首位がHuawei（31.0％） 、2位がEricsson（26.6％） 、3位が",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、2023年時点で世界の33％のシェアを占めると見込まれており、Beyond 5Gに向けた潜在的な",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-5-4 世界の電子部品市場（売上高）のシェア（2023 年）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "関連データ 世界の5G基地局（マクロセル）のシェア",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界市場の出荷金額ベースのシェアは、首位がHuawei（34.2％） 、2位がEricsson",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（25.7％） 、3位がNokia（17.6％）となっており、日本企業は合計で1.4%を占めている（図表Ⅱ-1-5-",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-5-5 世界のマクロセル基地局市場のシェア（2024 年・出荷額）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界市場の出荷金額ベースのシェアは、首位がCisco（62.6％） 、2位がH3C（10.2％） 、",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の日本市場の出荷金額ベースのシェアは、首位がCisco（35.0％） 、2位がNEC（27.5％） 、",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "体（13億1,802万台）の71％を占めている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業（ソニーセミコンダクタソリューションズ）が51.1%のシェアを占めている",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野、光通信装置で世界シェア倍増へ 「ガラケー」教訓に - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野、光通信装置で世界シェア倍増へ 「ガラケー」教訓に",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "政府が次世代光通信で日本勢の世界シェアを30年に1割へ伸ばす目標です",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "政府はAI対応で要となる次世代光通信技術の基幹技術で日本勢の世界シェアを2030年に2倍の1割まで伸ばす目標を掲げる",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」から引用されている",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、YH Researchが発行したレポート 「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」 を紹介しています",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "pass": 3
+   },
+   {
+    "quote": "EU39+英国諸国の中で、東欧諸国と北欧諸国は、主に光ファイバーの拡張に積極的に取り組んでいることにより、FTTH/B普及率（普及率）ランキングで上位に位置しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "アガーワル氏によると、STLは現在、世界で12％の市場シェアを誇っています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "「欧州では20％以上のシェアを誇り、米国では10～12％程度のシェアで、規模拡大のための基盤は十分に整っています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "収益を最終市場別に見ると、通信が43%、産業が35%、エレクトロニクスが11%、計測機器が10%を占めた",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "K2 Acquisitionは、オートトークスの株式約2,270,947株（オートトークスの発行済み株式の4.39%を占める）を購入することに条件付きで合意した",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "LCは、上位15社のICP（インターネット・コンテンツ・プロバイダー）の設備投資支出が、数年間の2桁成長の後、2023年にはわずか4%とほぼ横ばいになると予測しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "長波長および短波長市場全体では、GCSがトップの座を占め、SiFotonicsがそれに続き、両社で市場シェアの60%以上を占めています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "四半期業績は低調だったものの、Huaweiは2023年第1四半期の業績不振により市場シェアが低下したEricssonを犠牲にして、首位の座を取り戻しました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、Nokiaは両社のシェア低下の恩恵を受け、1%のシェアを獲得しました",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "6.2.5 LC: シリコン光ベースのトランシーバが2028年までにトランシーバ市場の44%を占める",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "LCは、シリコンベースの光変調器トランシーバーの市場シェアが2022年の24%から2028年には44%に上昇すると予測しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2026年から2028年にかけて導入される800Gおよび1.6Tポートのうち、LPO/CPOポートは30%以上を占めるでしょう",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "Huaweiは今四半期および過去4四半期で最高の市場シェアを獲得しています",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "NECのマイクロ波事業が加わることで、Aviatの市場シェアは上位6位から上位3位に上がる可能性があります",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Optical Transport Network - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ciena社は、2025会計年度において、WaveLogicの売上高に占めるプラグガブル製品の割合が前年度の11％から22％に増加したことを明らかにしました",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、DWDMシステムは光伝送ネットワーク市場で49.72％のシェアを占め、スペクトル効率が経済性を左右する長距離および海底回線分野におけるその優位性を浮き彫りにしました",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高のうち、コンポーネントが58.44％を占めており、これは光伝送機器の導入台数が膨大であることを反映しています",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年の収益の35.67％を占めました",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、DWDMシステムは光伝送ネットワーク市場で49.72％のシェアを占めます",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク市場規模、シェア、成長分析：技術別、構成要素別、サービス別、データレート別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク機器市場規模、シェア、および成長分析：コンポーネント別、技術別、機器タイプ別、エンドユーザー産業別、地域別－業界予測 2026-2033年",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "segment accounted for the largest market revenue share in 2024",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Technology - Market share 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Technology - Market share 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on End-user - Market share 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on End-user - Market share 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Component - Market share 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "光トランスポートネットワーク市場（OTN）の主要企業には、ファーウェイテクノロジーズ（中国）、ZTEコーポレーション（中国）、シスコシステムズ（米国）、ノキア（エスポー）、シエナコーポレーション（米国）などがあり、研究開発プロセスに投資することで市場需要を高めようとしています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "光伝送ネットワーク市場市場の主要企業には以下が含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "プロファイルされた主要企業",
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Optical Transport Network Equipment Market?",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players:",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "All key players are prominent leaders in the optical transport network equipment market future trends as they are likely to boost the strategies and innovate ideas to expand the optical transport network equipment market size.",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Volume Forecast, Company Ranking, Competitive Landscape, Growth Factors, Trends and Pricing Analysis",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Optical Transport Network Equipment Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Exhibit: Data Table: Emerging startups details)",
+    "url": "https://www.skyquestt.com/report/optical-transport-network-equipment-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/optical-transport-network-equipment-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "光伝送装置市場 は今後5年間で CAGR 2%で成長 | e.x.press — 光伝送装置市場 は今後5年間で CAGR 2%で成長 | e.x.press Laser Focus World Japan https://ex-press.jp > lfwj > lfwj-news > lfwj-biz-market",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "pass": 3
+   },
+   {
+    "quote": "高市戦略17分野、光通信 装置 で世界 シェア 倍増へ 「ガラケー ... — 高市戦略17分野、光通信 装置 で世界 シェア 倍増へ 「ガラケー ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "pass": 3
+   },
+   {
+    "quote": "プレスリリース：『2026 光通信関連 市場 総調査』まとまる ... — プレスリリース：『2026 光通信関連 市場 総調査』まとまる ... 富士キメラ総研 https://www.fcr.co.jp > ...",
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年光通信関連 市場 ，56.4%増の15兆 ... - Optronics ONLINE — 2025 年光通信関連 市場 ，56.4%増の15兆 ... - Optronics ONLINE optronics-media.com https://optronics-media.com > news",
+    "url": "https://optronics-media.com/news/20191126/61457/",
+    "pass": 3
+   },
+   {
+    "quote": "Optical Transport Network Equipment Market Size 2026-2030 — Optical Transport Network Equipment Market Size 2026-2030 Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Optical transport network equipment Market - 2035 — Optical transport network equipment Market - 2035 Future Market Insights https://www.futuremarketinsights.com > ...",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "of the total revenue in 2025, making it the largest component category in the market. This dominance is attributed to rising investments in core and metro infrastructure where high-capacity optical transport platforms enable robust backbone connectivity.",
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.6",
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "quote": "へCAGR約8.6%"
+   },
+   {
+    "value": "2",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "quote": "光伝送装置市場は今後5年間でCAGR 2%で成長 | e.x.press"
+   },
+   {
+    "value": "4.0",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている"
+   },
+   {
+    "value": "4.0",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "4.0",
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている"
+   },
+   {
+    "value": "31.0",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "（マクロセル）のシェア（出荷額）は、首位がHuawei（31.0％） 、2位がEricsson（26.6％） 、3位が"
+   },
+   {
+    "value": "26.6",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "（マクロセル）のシェア（出荷額）は、首位がHuawei（31.0％） 、2位がEricsson（26.6％） 、3位が"
+   },
+   {
+    "value": "33",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "では、2023年時点で世界の33％のシェアを占めると見込まれており、Beyond 5Gに向けた潜在的な"
+   },
+   {
+    "value": "34.2",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "2024年の世界市場の出荷金額ベースのシェアは、首位がHuawei（34.2％） 、2位がEricsson"
+   },
+   {
+    "value": "25.7",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "（25.7％） 、3位がNokia（17.6％）となっており、日本企業は合計で1.4%を占めている（図表Ⅱ-1-5-"
+   },
+   {
+    "value": "17.6",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "（25.7％） 、3位がNokia（17.6％）となっており、日本企業は合計で1.4%を占めている（図表Ⅱ-1-5-"
+   },
+   {
+    "value": "1.4",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "（25.7％） 、3位がNokia（17.6％）となっており、日本企業は合計で1.4%を占めている（図表Ⅱ-1-5-"
+   },
+   {
+    "value": "62.6",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "2024年の世界市場の出荷金額ベースのシェアは、首位がCisco（62.6％） 、2位がH3C（10.2％） 、"
+   },
+   {
+    "value": "10.2",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "2024年の世界市場の出荷金額ベースのシェアは、首位がCisco（62.6％） 、2位がH3C（10.2％） 、"
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "2024年の日本市場の出荷金額ベースのシェアは、首位がCisco（35.0％） 、2位がNEC（27.5％） 、"
+   },
+   {
+    "value": "27.5",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "2024年の日本市場の出荷金額ベースのシェアは、首位がCisco（35.0％） 、2位がNEC（27.5％） 、"
+   },
+   {
+    "value": "71",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "体（13億1,802万台）の71％を占めている"
+   },
+   {
+    "value": "51.1",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "quote": "企業（ソニーセミコンダクタソリューションズ）が51.1%のシェアを占めている"
+   },
+   {
+    "value": "4.0",
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "quote": "YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている"
+   },
+   {
+    "value": "12",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "アガーワル氏によると、STLは現在、世界で12％の市場シェアを誇っています"
+   },
+   {
+    "value": "20",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "「欧州では20％以上のシェアを誇り、米国では10～12％程度のシェアで、規模拡大のための基盤は十分に整っています"
+   },
+   {
+    "value": "43",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "収益を最終市場別に見ると、通信が43%、産業が35%、エレクトロニクスが11%、計測機器が10%を占めた"
+   },
+   {
+    "value": "35",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "収益を最終市場別に見ると、通信が43%、産業が35%、エレクトロニクスが11%、計測機器が10%を占めた"
+   },
+   {
+    "value": "11",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "収益を最終市場別に見ると、通信が43%、産業が35%、エレクトロニクスが11%、計測機器が10%を占めた"
+   },
+   {
+    "value": "10",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "収益を最終市場別に見ると、通信が43%、産業が35%、エレクトロニクスが11%、計測機器が10%を占めた"
+   },
+   {
+    "value": "4.39",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "K2 Acquisitionは、オートトークスの株式約2,270,947株（オートトークスの発行済み株式の4.39%を占める）を購入することに条件付きで合意した"
+   },
+   {
+    "value": "4",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "LCは、上位15社のICP（インターネット・コンテンツ・プロバイダー）の設備投資支出が、数年間の2桁成長の後、2023年にはわずか4%とほぼ横ばいになると予測しています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "長波長および短波長市場全体では、GCSがトップの座を占め、SiFotonicsがそれに続き、両社で市場シェアの60%以上を占めています"
+   },
+   {
+    "value": "1",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "一方、Nokiaは両社のシェア低下の恩恵を受け、1%のシェアを獲得しました"
+   },
+   {
+    "value": "44",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "6.2.5 LC: シリコン光ベースのトランシーバが2028年までにトランシーバ市場の44%を占める"
+   },
+   {
+    "value": "24",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "LCは、シリコンベースの光変調器トランシーバーの市場シェアが2022年の24%から2028年には44%に上昇すると予測しています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "quote": "しかし、2026年から2028年にかけて導入される800Gおよび1.6Tポートのうち、LPO/CPOポートは30%以上を占めるでしょう"
+   },
+   {
+    "value": "11",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "quote": "Ciena社は、2025会計年度において、WaveLogicの売上高に占めるプラグガブル製品の割合が前年度の11％から22％に増加したことを明らかにしました"
+   },
+   {
+    "value": "22",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "quote": "Ciena社は、2025会計年度において、WaveLogicの売上高に占めるプラグガブル製品の割合が前年度の11％から22％に増加したことを明らかにしました"
+   },
+   {
+    "value": "49.72",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "quote": "2025年、DWDMシステムは光伝送ネットワーク市場で49.72％のシェアを占め、スペクトル効率が経済性を左右する長距離および海底回線分野におけるその優位性を浮き彫りにしました"
+   },
+   {
+    "value": "58.44",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "quote": "2025年の売上高のうち、コンポーネントが58.44％を占めており、これは光伝送機器の導入台数が膨大であることを反映しています"
+   },
+   {
+    "value": "35.67",
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "quote": "アジア太平洋地域は、2025年の収益の35.67％を占めました"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/optical-transport-network-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%85%89%E6%B3%A2%E9%95%B7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108577",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000363835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31210962/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/pr/26005.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://optronics-media.com/news/20191126/61457/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ciaj.or.jp/pressrelease2025/12132.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/optical-transport-network-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/optical-communication-and-networking-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/optical-transport-network-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/optical-transport-network-otn-equipment-market-108706",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-otn-hardware-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/optical-transport-network-market-5241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delloro.com/news/optical-transport-equipment-market-forecast-to-grow-16-percent-in-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblog.comsoc.org/category/optical-network-equipment-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/optical-transport-network-market-4729",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/2586883/optical_transport_network_otn_equipment?srsltid=AYCX9vKq-aeF_IV09giCX5Z86Rq31Lz8e0b3UC5uYJr1KNKvkOF-q85A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/support/billing-support",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedcomputing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consolidated.bandcamp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/optical-transport-network-equipment-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellectualmarketinsights.com/blogs/global-optical-network-equipment-market-leading-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/optical-transport-network-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/4253476/optical-transport-network-equipment",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "光伝送装置 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/optical-transport-network-market",
+    "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/",
+    "https://jp.linkedin.com/pulse/%E5%85%89%E3%83%87%E3%83%BC%E3%82%BF%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE%E5%B8%82%E5%A0%B4%E3%81%AE%E5%B0%86%E6%9D%A5%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E5%8B%95%E5%90%91%E3%81%8A%E3%82%88%E3%81%B32026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AB%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8Bcagr-42%E3%81%AE%E6%88%90%E9%95%B7-alpha-aims-uojpe",
+    "https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591",
+    "https://www.fortunebusinessinsights.com/jp/%E5%85%89%E6%B3%A2%E9%95%B7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108577",
+    "https://www.researchnester.jp/industry-reports/coherent-optical-equipment-market/1360",
+    "https://www.sphericalinsights.com/jp/reports/optical-communication-and-networking-market",
+    "https://www.dcmarketinsights.com/ja/report/optical-transceiver-market-ja",
+    "https://www.gii.co.jp/report/tbrc2165590-optical-transport-network-equipment-global-market.html"
+   ]
+  },
+  {
+   "query": "光伝送装置 市場 シェア 上位 企業",
+   "results": [
+    "https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352",
+    "https://www.mordorintelligence.com/ja/industry-reports/optical-transport-network-market",
+    "https://www.dreamnews.jp/press/0000363835",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf",
+    "https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/",
+    "https://japan.zdnet.com/release/31210962/",
+    "https://www.holightoptic.com/ja/2023%E5%B9%B45%E6%9C%88%E3%81%AE%E4%B8%96%E7%95%8C%E5%85%89%E9%80%9A%E4%BF%A1%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91/",
+    "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "https://deallab.info/optical-fiber/",
+    "https://www.qyresearch.co.jp/reports/560085/optical-transport-equipment"
+   ]
+  },
+  {
+   "query": "光伝送装置 市場 前年比 2025",
+   "results": [
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd215110.html",
+    "https://www.fcr.co.jp/pr/26005.htm",
+    "https://www.mordorintelligence.com/ja/industry-reports/optical-transport-network-market",
+    "https://optronics-media.com/news/20191126/61457/",
+    "https://www.ciaj.or.jp/pressrelease2025/12132.html",
+    "https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html",
+    "https://www.atpress.ne.jp/news/6468462",
+    "https://newscast.jp/smart/news/6634648",
+    "https://www.dreamnews.jp/press/0000340058"
+   ]
+  },
+  {
+   "query": "optical transport network equipment market size CAGR 2025",
+   "results": [
+    "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "https://www.mordorintelligence.com/industry-reports/optical-transport-network-market",
+    "https://www.gminsights.com/industry-analysis/optical-communication-and-networking-market",
+    "https://straitsresearch.com/report/optical-transport-network-market",
+    "https://www.businessresearchinsights.com/market-reports/optical-transport-network-otn-equipment-market-108706",
+    "https://www.linkedin.com/pulse/why-optical-transport-network-otn-equipment-market-thriving-o98jc",
+    "https://www.grandviewresearch.com/industry-analysis/global-otn-hardware-market",
+    "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "https://www.maximizemarketresearch.com/market-report/global-optical-transport-network-market/21779/",
+    "https://www.futuremarketreport.com/industry-report/optical-transport-network-equipment-market"
+   ]
+  },
+  {
+   "query": "optical transport network equipment market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/optical-transport-network-market",
+    "https://www.grandviewresearch.com/industry-analysis/global-otn-hardware-market",
+    "https://www.coherentmarketinsights.com/market-insight/optical-transport-network-market-5241",
+    "https://www.delloro.com/news/optical-transport-equipment-market-forecast-to-grow-16-percent-in-2026/",
+    "https://straitsresearch.com/report/optical-transport-network-market",
+    "https://techblog.comsoc.org/category/optical-network-equipment-market/",
+    "https://www.snsinsider.com/reports/optical-transport-network-market-4729",
+    "https://www.linkedin.com/posts/praneettomar_opticalnetworking-fiberoptics-strategy-activity-7449004105483698176-LBbi",
+    "https://finance.yahoo.com/sectors/technology/articles/optical-transport-equipment-market-forecast-093000744.html",
+    "https://www.thebusinessresearchcompany.com/report/optical-transport-network-equipment-market-report"
+   ]
+  },
+  {
+   "query": "optical transport network equipment market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis",
+    "https://www.gminsights.com/industry-analysis/optical-communication-and-networking-market",
+    "https://www.mordorintelligence.com/industry-reports/optical-transport-network-market",
+    "https://straitsresearch.com/report/optical-transport-network-market",
+    "https://www.coherentmarketinsights.com/market-insight/optical-transport-network-market-5241",
+    "https://www.grandviewresearch.com/industry-analysis/global-otn-hardware-market",
+    "https://www.linkedin.com/pulse/optical-network-market-investment-landscape-strategic-fajuf",
+    "https://www.snsinsider.com/reports/optical-transport-network-market-4729",
+    "https://www.researchandmarkets.com/reports/2586883/optical_transport_network_otn_equipment?srsltid=AYCX9vKq-aeF_IV09giCX5Z86Rq31Lz8e0b3UC5uYJr1KNKvkOF-q85A",
+    "https://www.consolidated.com/support/billing-support"
+   ]
+  },
+  {
+   "query": "optical transport network equipment market key companies share 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/optical-transport-network-market",
+    "https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market",
+    "https://straitsresearch.com/report/optical-transport-network-market",
+    "https://www.skyquestt.com/report/optical-transport-network-equipment-market",
+    "https://www.businessresearchinsights.com/market-reports/optical-transport-network-otn-equipment-market-108706",
+    "https://www.linkedin.com/posts/praneettomar_opticalnetworking-fiberoptics-strategy-activity-7449004105483698176-LBbi",
+    "https://www.grandviewresearch.com/industry-analysis/global-otn-hardware-market",
+    "https://www.intellectualmarketinsights.com/blogs/global-optical-network-equipment-market-leading-companies",
+    "https://www.marketresearchfuture.com/reports/optical-transport-network-market/companies",
+    "https://www.qyresearch.com/reports/4253476/optical-transport-network-equipment"
+   ]
+  }
+ ],
+ "missing": {}
+}

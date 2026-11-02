@@ -1,0 +1,1729 @@
+{
+ "name": "オートサーバー",
+ "aliases": [],
+ "context": "証券コード5589／情報・通信業／スタンダード（内国株式）／2025.12期 売上高6,463百万円 営業利益率36.9%",
+ "researched_at": "2026-11-02T14:54:21.027917+00:00",
+ "official_url": "https://www.autoserver.co.jp/",
+ "identified_by": "search:yahoo_jp:オートサーバー",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2015年11月13日\n\t\t\t\t\t\t（創業1997年6月11日）",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "株式会社ASH設立（現",
+    "value": "株式会社オートサーバー）",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1997（平成9）年6月11日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "2015（平成27）年11月13日",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "115名（2025年12月）",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "115名(2025年12月末日時点)",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "64億6,200万円（2025年12月期）",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "64億6,200万円（2025年12月期）",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "●情報ネットワークにおけるコンピューター通信システムを利用した自動車販売に関する情報処理ならびに情報提供 ●コンピューターシステムの企画開発、販売並びに保守管理",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "●自動車流通ネットサービス「ASNET（エーエスネット）」の運営 ●情報ネットワークにおけるコンピューター通信システムを利用した 自動車販売に関する情報処理ならびに情報提供 ●コンピューターシステムの企画開発、販売ならびに保守管理 自動車流通ネットサービス「ASNET（エーエスネット）」を運営し、インターネットによる通信システムを利用した自動車販売に関する情報処理ならびに情報提供と、それにともなうシステムの企画開発や販売、保守管理を行っています。 ASNET（エーエスネット）によるオークション代行サービスでは、全国140を超えるオートオークション会場をネットで結び、入札・落札やポス押し、商談などの代行サービスと、それらの関連サービスを展開。年会費、入会金は無料、取り引きが成立した場合に、固定の料金をいただくシステムで、パソコンと古物商許可さえあれば、誰でもどこからでも全国の中古車情報を集めることができます。オークション形式のほか、あらかじめ価格を設定しての売買や店舗との併売など、さまざまなニーズにも対応。業界シェアトップクラス*です。 *2025年時点の会員数・提携会場数・年間取扱情報",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ASNET登録会員数≪８万５千会員突破≫のお知らせ",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が10,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が20,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が30,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が40,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が50,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が60,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が65,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が70,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が75,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が80,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNET会員数が85,000を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "今後とも「顧客満足度向上」と「全ての企業・ユーザーに頼られる企業」であり続けることを目指し、皆様のご期待に沿える事業成長・企業価値の向上に努め、中古車に関わるあらゆる事業者様と共に歩みます",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の証券会社にお問い合わせください",
+    "url": "https://www.autoserver.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーへのサービスメリット提供",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザー数の多さと顧客層の多様さが特長であり、",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、「整備板⾦業者」「ガソリンスタンド事業者」「⼩規模販売事業者」といった顧客属性をはじめとする多様かつ多数のユーザー様にご利⽤いただいております",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "とくに取引台数ごとのユーザー割合は⽉間取引台数が2台以下のライトユーザーが約80％を占めており、特定のユーザーの利⽤状況に左右されることなく、安定的なプラットフォーム運営が可能な状況であることが強みとなっています",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "総ユーザー数",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "アクティブユーザー数",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※AAU…Annual Active User（年稼働ユーザー）ASNETで年1台以上取引をした会員",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "落札台数ごとのユーザー割合",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客から選ばれ続けるために時代の先を行く提案とサービスを」代表取締役社長／高田典明",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "*2025年時点の会員数・提携会場数・年間取扱情報台数による／当社調べ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級*の中古車流通プラットフォーム「ASNET」*2026年の会員数・提携会場数・年間取扱情報台数による／当社調べ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "12月 ASNET会員数が10,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "09月 ASNET会員数が30,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "07月 ASNET会員数が50,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "11月 ASNET会員数が55,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "02月 ASNET会員数が60,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "06月 ASNET会員数が65,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "06月 ASNET会員数が70,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "02月 ASNET会員数が75,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "07月 ASNET会員数が80,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "06月 ASNET会員数が85,000を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "を開始することにより、中古車取扱事業者等からなるASNETの会員数（注）を伸ばすとともに、提携するオートオーク",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "獲得し、顧客基盤を拡充させること、③会員の中古車小売業務サポートといった中古車販売事業を総合的に支えるサー",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）ASNETの会員数は、法人・個人を含めた拠点数となります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社はMBO後、日本市場において確固たる地位を築くべく経営資源の投下を国内に集中し、顧客拡大によるバイイング",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、スマートフォンアプリを通じてASNET会員と店舗顧客を結びつけるサービスの提供を開始いたしました",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、MBO開始時期との比較において、ASNET会員数は47,743会員（2015年12月末）から77,361会員（2023年",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001年12月 ASNET会員数が10,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2003年８月 ASNET会員数が20,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006年９月 ASNET会員数が30,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2013年４月 ASNET会員数が40,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年７月 ASNET会員数が50,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年２月 ASNET会員数が60,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年６月 ASNET会員数が70,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年７月 ASNET会員数が80,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中古車を取り扱うあらゆる事業者に加入していただいており、法人・個人を合わせ、会員数は83,749（2025年12月",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "万台（2025年1月から12月平均）、合計21.3万台の掲載台数を有しており、かつ会員数が多く、多数の取引参加者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当該他社の利用者が掲載した中古車の出品情報を受信し、これをASNETへ掲載しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後も「顧客満",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "足度向上並びに中古車流通に関わる全ての企業・ユーザーに使いやすく頼られる企業」であり続けることを信念に、",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、当社はASNET事業において顧客による車両の落札、出品若しくは",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、ASNET事業拡大のための経営戦略として、主に①ASNET会員数の拡大及び②ASNET取引台数の拡大を図ること",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "①会員数の増加と利用頻度の向上",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "策を引き続き実施した結果、2025年12月末の会員数は 83,749、うち新規入会件数3,979件、前年同期比3,136会員の",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "増加、（ただし当該入会会員がASNETで取引を行わないこともあるため、会員数の増加が業績の拡大に繋がるとは限",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度においても、新たな顧客開拓に注力し、新規会員の獲得においては、中古車取扱事業者のほか、自動車",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新たな金融支援サービスの案内を開始しました",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【プレスリリース】「中古車リース」サービスの提供を開始します",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が運営する中古車流通プラットフォーム「ASNET（エーエスネット）」は、中古車販売店様・自動車関連事業者様が入会金・月会費無料でご利用いただける中古車流通Webサービスです",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の誇る全国規模のネットワーク・業界最大の車両情報を、Webインフラをベースとした簡単・便利な各種サービスにより会員様にお届けします",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "中古車流通サービスの決定版",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "オークション代行サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "全国140を超えるオートオークション会場とのデータ連携を基に、入札・落札やポス押し、商談等の代行サービスおよびそれらの関連サービスを展開",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗在庫業販仲介サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "小売サポートサービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会員様によりASNETを活用いただくために、各種webサービスやPCソフトウェア、スマートフォンアプリなどの開発・提供を通じて、小売りサポートを展開しています",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な自動車用品サプライヤーやリサイクル部品の大手流通ネットワークと提携し、会員様に対し通販サービスを提供しています",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを詳しく見る",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "リアルタイムオークション参加サービス（ASリアル）開始",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "共有在庫サービス「ASワンプラ」の出品台数が10万台を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "IRメール配信サービスへの登録はこちら",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス別の取引台数",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年の創業以来、当社は「全ての会員様に利便性を提供すること」を基本理念に、中古車流通の活性化をめざし、中古車流通総合サービス「ASNET」を運営しております",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そして現在、ASNETは国内140以上のオートオークション会場との接続による「オークション代行サービス」と、当社が独自に運営する中古車業販ECマーケット「ASワンプラサービス」により、年間取扱情報台数1,200万台超、75,000を超える会員様にご利用いただいております",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス別の取引台数",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス別の取引台数",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス料金表",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス別の取引台数",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちのサービス",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETサービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスガイド",
+    "url": "https://www.autoserver.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "便利サービス",
+    "url": "https://www.autoserver.co.jp/ir/stock/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年 年末年始休業のお知らせ",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 夏季休業のお知らせ",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月13日",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜AUTO SERVER 株式会社オートサーバー",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年06月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年05月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年09月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年07月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年04月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年12月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年03月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年08月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年09月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年02月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年08月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年11月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年11月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年04月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年05月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年04月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年06月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年07月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年02月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年06月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年06月",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年の創業以来、当社は「全ての会員様に利便性を提供すること」を基本理念に、中古車流通の活性化をめざし、中古車流通総合サービス「ASNET」を運営しております",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月26日",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月末日",
+    "url": "https://www.autoserver.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月下旬",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月中旬",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第1四半期決算発表",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月中旬",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期決算発表",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月、豊橋本部が新築移転！豊橋駅東口から徒歩3分の好立地です！",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年秋に東証スタンダード名証メインに上場しました",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年 2025年 2024年",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "1998年５月よりASNET上",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1997年６月 株式会社オートサーバー（旧オートサーバー）創業(愛知県豊橋市)",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1998年５月 インターネットを利用した自動車売買の仲介並びに付随サービスを提供する事業",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1999年９月 オートオークション会場との業務提携を開始し、ASNETにおいてオークション落札",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2000年７月 中古自動車販売商工組合(中販連)との接続を開始",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001年４月 メーカー系オークション会場との接続開始",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2001年12月 ASNET会員数が10,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2003年３月 ASNETにおいてリアルタイムにオートオークションのセリに参加する事のできる",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2003年８月 ASNET会員数が20,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2006年９月 ASNET会員数が30,000を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2008年２月 事業拡大のため、東京センターを東京都中央区日本橋に新設",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2008年８月 東京都中央区に本社移転",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2009年11月 バイクオークション会場との業務提携を開始",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2010年11月 ASNETを全面リニューアルし、「ASNET２」をリリース",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年４月 提携するオークション会場が100会場を突破",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年５月 情報セキュリティマネジメントシステムの国際規格『IS027001(lSMS)』認証を取",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2011年６月 自動車部品のリサイクル商品を取り扱う通販サービス「AS中古パーツ」の提供を",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2012年４月 自動車の販促品・装備品を扱う通販サービス「AS通販（現・カー用品+）」の提供",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介｜AUTO SERVER 株式会社オートサーバー",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "> 事業紹介",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が運営する中古車流通プラットフォーム「ASNET（エーエスネット）」は、中古車販売店様・自動車関連事業者様が入会金・月会費無料でご利用いただける中古車流通Webサービスです",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗在庫業販仲介サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "中古自動車販売店にとって、仕入れと同様に重要なのは在庫の回転率を上げることです",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "⼀⽅、売り⼿が出品する際はあらかじめオークション会場へ⾞を持ち込む必要があるほか、オークション会場を利⽤するためには会場ごとに会員登録をする必要があることから（⼊会⾦や⽉会費が必要となります）、店舗から遠隔地のオークション会場や、複数のオークション会場への⼊会や利⽤がむずかしいという⾯は否めません",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "会社紹介記事",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "時代のニーズをいち早くとらえ、創業からほどなくして、インターネットを利用した中古自動車の仲介事業を始めました、現在は東京に本社を構え、全国の新車ディーラー、中古車販売店など、さまざまな中古車販売業者を相手に、独自の中古車流通プラットフォーム「ASNET（エーエスネット）」を運営しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "「ASNET（エーエスネット）」は、中古車売買の取引をサポートするネットシステムで、自動車オーナーではなく、新車ディーラー、中古車販売店などさまざまな自動車関連事業者が、入会金・月会費無料で利用できる中古車流通webサービスです",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "オークション形式のほか、あらかじめ価格を設定しての売買や店舗との併売など、さまざまなニーズにも対応",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "税理士法人 山田アンドパートナーズ",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ほか、スマートフォンアプリを通じてASNET会員と店舗顧客を結びつけるサービスの提供を開始いたしました",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及び中古車販売店に展示されている業販可能な在庫車両）を、ASNET上で横断的に検索・落札ができることが特徴",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また中古車販売店舗の設置、古物商許可証を取得して",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "店頭在庫車両を持つASNET会員にとっては、店舗での小売販売と並行しながらASNETにおいて業販を行うことがで",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "小売価格を計算する機能を有しており、ASNET会員の店舗に来店された消費者が、小売価格で中古車を検索・閲覧",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "能を通じて、定期点検や用品類の販促広報、店舗での各種イベントの案内等のお知らせを送ることも可能です",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イヤ、ホイール、カーナビゲーション、ドライブレコーダー、オイル等）及び店舗運営に必要な各種販促品（のぼ",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "うち①については中古車販売店、新車ディーラー、整備板金工場、ガソリンスタンド、輸出事業者",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "等、あらゆる中古車取扱事業者を対象に、当社の営業リソース及び代理店を用いて取り組むこととしております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "となり、買取事業者・新車ディーラー・リース会社・中古車販売店等を介して業販市場・小売市場（輸出市場を含",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、近年、大手中古車販売店が仕入元を業販市場（オークションでの落札）から消費者からの買取にシ",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フトする動きや、大手買取業者等が買い取った中古車をオークションでの売却から自社店舗での小売にシフトする動",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "一方、既存会員の利用促進においては、定期的な営業活動や代理店施策の実施、ANSETの機能強化及び既存",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ASNETの特徴は、全国各地のオートオークション会場にある車両や中古車販売店に展示されている在庫車両を",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン会場をはじめとする全国各地のオートオークション会場や大手中古車販売店等と引き続き提携関係を維持しつ",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお当社では今後、指名委員会や取締役会での",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、既存会員の利用促進のための定期的な営業活動や代理店施策の実施、ASNETの機能強化及び既存サービス",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．指名委員会",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、取締役の指名の決定に関する透明性と客観性を高めるため、取締役会の任意の諮問機関として",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "指名委員会を設置しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本書提出日現在、指名委員会は、代表取締役社長 髙田典明 常務取締役 山本林の取締役２名、及び社外",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "委員長は代表取締役社長であり、指名委員会は、取締役会の諮問に応じて取締役の選解任の方針及び基",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度に開催された指名委員会における具体的な検討内容は、次のとおりであります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "在庫がなくても早期に仕入れ手段を確保でき、中古車販売をはじめられます",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、在庫のコストとリスクの軽減にも役立ちます",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "店舗在庫業販仲介サービス",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "中古自動車販売店にとって、仕入れと同様に重要なのは在庫の回転率を上げることです",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会員様および提携企業やグループの在庫情報を集め、業者間での中古車取引を活性化する仲介を行っています",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "共有在庫サービス「ASワンプラ」の出品台数が10万台を突破",
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETを運営する当社は「ネットでのオークション代⾏」というポジションの強みを活かし、幅広いオークション会場との連携をはたし、中古⾞流通のDXを促進しています",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "とくに取引台数ごとのユーザー割合は⽉間取引台数が2台以下のライトユーザーが約80％を占めており、特定のユーザーの利⽤状況に左右されることなく、安定的なプラットフォーム運営が可能な状況であることが強みとなっています",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み詳細",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "ASNETの強み",
+    "url": "https://www.autoserver.co.jp/ir/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "11月 共有在庫サービス「ASワンプラ」の出品台数が10万台を突破",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "る在庫リスク圧縮の動き等を背景に、オークションを経ずに業者間で売買を行う動きが活発化しつつあり、旧オート",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "及び中古車販売店に展示されている業販可能な在庫車両）を、ASNET上で横断的に検索・落札ができることが特徴",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "て21.3万台（2025年１月から12月平均）の掲載実績があり、これら掲載台数の多さがASNETの強みとなっておりま",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、前述のように会員にとっては加入コストや会費等の固定費が不要であるという費用面の強み",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に加え、提携会場数が多いという強みがあります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスは、提携会場数が多いという強みがあり、特に「AA入札」と同様、最大手のオークション運営事",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当サービスは、店頭在庫車両を持つASNET会員より、業販価格を付した車両情報をASNETへ掲載していただき、車",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "店頭在庫車両を持つASNET会員にとっては、店舗での小売販売と並行しながらASNETにおいて業販を行うことがで",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、中古車の無在庫販売や在庫圧縮を志向する中古車販売",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が存在することが強みとなっております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "情報を用いて、在庫を持つことなく消費者のニーズにあった車両の販売を提案することが可能となります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ASNETの特徴は、全国各地のオートオークション会場にある車両や中古車販売店に展示されている在庫車両を",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "つ、中古車販売整備システム会社との提携や、新たなオークション会場との提携並びに店頭在庫の出品会員の獲得",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "●コンピューターシステムの企画開発、販売並びに保守管理",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "●コンピューターシステムの企画開発、販売ならびに保守管理",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車流通ネットサービス「ASNET（エーエスネット）」を運営し、インターネットによる通信システムを利用した自動車販売に関する情報処理ならびに情報提供と、それにともなうシステムの企画開発や販売、保守管理を行っています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "規約に基づき車両の取引オークション会場毎に定めた落札手数料や成約手数料等（一部の例外を除き車両取引価格",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当サービスでは、出品車両情報の掲載時点では手数料は不要とし、売買が成立した際に、ASNET利用規約に基づ",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "きASNET会員である売り手及び買い手の双方から、又は買い手からのみ手数料（一部の例外を除き車両取引価格に",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "員が当該車両を落札した場合、当社は買い手からのみ手数料を受領することとなります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当サービスの利用にあたり、当社はASNET会員から手数料を受領しておりませんが、当サービスを通じて陸送の",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "受注があった陸送会社から陸送料金の一定割合を手数料として得ております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、当サービスにおいて流通した部品取扱高の一定割合をJARA社から手数料として得ております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ダーと商品委託販売契約を締結し、売上の一部を手数料として得ております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成約の都度、手数料を受領しており、これが売上の大部分を構成しているためです",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "保守や機能拡充を図るためのシステム部門を中心に、優秀な人材の採用とその育成を図ります",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、当社がASNET会員に対し一律的な利用可能額の設定をしていること、及び取引1台あたりの手数料額がオークショ",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社はASNETにおける手数料の変更等によって一定の収益を確保することとしており、本書提出日現在において、リス",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、当社はASNET事業において顧客による車両の落札、出品もしくは成約の都度、手数料を受領してお",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "車両の落札、出品若しくは成約の都度、手数料を受領しており、これが売上の大部分を構成しているためで",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（注）対価として契約に基づく手数料を支払っております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "額２億７千万円、取締役（監査等委員）の報酬限度額を年額３千万円と決議しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "また、ASワンプラサービスは売買双⽅から⼿数料が得られる⾼収益構造であり、中古⾞流通の新たなスタイルを⽀えるサービスとして急成⻑を遂げています",
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "動車）をはじめとする次世代車の普及が計画されていること等により、自動車を取り巻くビジネスモデルが大きく変",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現時点の株主構成及びビジネスモデルに照らしても、",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介｜AUTO SERVER 株式会社 オートサーバー — 事業紹介｜AUTO SERVER 株式会社 オートサーバー autoserver.co.jp https://www.autoserver.co.jp > company",
+    "url": "https://www.autoserver.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) オートサーバー 【東証スタンダード・名証メイン上場】 — (株) オートサーバー 【東証スタンダード・名証メイン上場】 マイナビ https://job.mynavi.jp > search > corp101930 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "上場会見： オートサーバー の髙田社長、会員増で流通台数アップ — 上場会見： オートサーバー の髙田社長、会員増で流通台数アップ c-eye.co.jp https://c-eye.co.jp > ipo-eq",
+    "url": "https://c-eye.co.jp/ipo-eq/69113",
+    "pass": 3
+   },
+   {
+    "quote": "オートサーバー — オートサーバー autoserver.co.jp https://www.autoserver.co.jp",
+    "url": "https://www.autoserver.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Auto Server 5589 - オートサーバー - Shared Research — Auto Server 5589 - オートサーバー - Shared Research Shared Research https://sharedresearch.jp > companies",
+    "url": "https://sharedresearch.jp/ja/companies/5589",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜投資家の皆様へ - オートサーバー — 決算説明資料 ｜投資家の皆様へ - オートサーバー autoserver.co.jp https://www.autoserver.co.jp > presentations",
+    "url": "https://www.autoserver.co.jp/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の皆様へ（IR情報） - オートサーバー — 投資家の皆様へ（IR情報） - オートサーバー autoserver.co.jp https://www.autoserver.co.jp > ...",
+    "url": "https://www.autoserver.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 オートサーバー 】[5589]IR情報 中期経営計画や 決算 短信 — 【 オートサーバー 】[5589]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5589",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信｜投資家の皆様へ - オートサーバー — 決算 短信｜投資家の皆様へ - オートサーバー autoserver.co.jp https://www.autoserver.co.jp > results",
+    "url": "https://www.autoserver.co.jp/ir/results/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・営業所｜AUTO SERVER 株式会社 オートサーバー — 会社概要・営業所｜AUTO SERVER 株式会社 オートサーバー autoserver.co.jp https://www.autoserver.co.jp > company > profile",
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "オートサーバー とは？ASNETの会費・手数料・入会条件を ... — オートサーバー とは？ASNETの会費・手数料・入会条件を ... 日本カーネット株式会社 https://info-q.j-carnet.co.jp > index.php > autoserver",
+    "url": "https://info-q.j-carnet.co.jp/index.php/autoserver/",
+    "pass": 3
+   },
+   {
+    "quote": "オートサーバー 【5589】の 社長 ・役員 - キタイシホン — オートサーバー 【5589】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5589/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "上場会見： オートサーバー の髙田 社長 、会員増で流通台数アップ — 上場会見： オートサーバー の髙田 社長 、会員増で流通台数アップ c-eye.co.jp https://c-eye.co.jp > ipo-eq",
+    "url": "https://c-eye.co.jp/ipo-eq/69113",
+    "pass": 3
+   },
+   {
+    "quote": "〈 インタビュー 〉 オートサーバー 安達正純 社長 - 日刊自動車新聞 — 〈 インタビュー 〉 オートサーバー 安達正純 社長 - 日刊自動車新聞 日刊自動車新聞 https://www.netdenjd.com > archives",
+    "url": "https://www.netdenjd.com/archives/39498",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "５．当社は、ASNET事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以下に事業セグメントに関連する業界動向について記載いたします",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はASNET運営事業のみの単一セグメントであるため、セグメントごとの記載を省略しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はASNET運営事業の単一セグメントであるた",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "め、セグメント情報に関連付けた記載は行っておりません",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２．当社は単一セグメントであるため、セグメント情報に関連付けた記載は行っておりません",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注)当社はASNET運営事業のみの単一セグメントであるため、セグメントごとの記載は省略しております",
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.autoserver.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autoserver.co.jp/ir/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.autoserver.co.jp/assets/images/company/phtBizModel.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitaishihon.com/company/5589/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オートサーバー",
+   "results": [
+    "https://www.autoserver.co.jp/",
+    "http://www.asnet.jp/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261102562332/",
+    "https://www.youtube.com/@autoserverIR",
+    "https://sharedresearch.jp/ja/companies/5589",
+    "https://ja.wikipedia.org/wiki/オクトーバーフェスト",
+    "https://shikiho.toyokeizai.net/stocks/5589/corporate",
+    "https://kabuyoho.jp/reportTop?bcode=5589",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?stock_sec_code_mul=5589&exchange_code=JPN",
+    "https://www.asnet.jp/asnet/authentication/login"
+   ]
+  },
+  {
+   "query": "オートサーバー ビジネスモデル",
+   "results": [
+    "https://www.autoserver.co.jp/company/",
+    "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "https://c-eye.co.jp/ipo-eq/69113",
+    "https://www.autoserver.co.jp/",
+    "https://sharedresearch.jp/ja/companies/5589",
+    "https://www.youtube.com/watch?v=a3JWFqPcrMc",
+    "https://shikiho.toyokeizai.net/news/0/742784",
+    "https://irzukan.click/companies/5589",
+    "https://info-q.j-carnet.co.jp/index.php/autoserver/",
+    "https://consovation.com/株式会社オートサーバーのビジネスモデルがスゴ/"
+   ]
+  },
+  {
+   "query": "オートサーバー 決算説明資料",
+   "results": [
+    "https://www.autoserver.co.jp/ir/presentations/",
+    "https://www.autoserver.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5589",
+    "https://www.autoserver.co.jp/ir/results/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260810/20260810516318.pdf",
+    "https://edinetdb.jp/company/E38919/presentations/",
+    "https://finance.logmi.jp/articles/379159",
+    "https://as.j-carnet.co.jp/autoserver-company/",
+    "https://irbank.net/5589/ir",
+    "https://ufocatch.com/document/TD2025021301180"
+   ]
+  },
+  {
+   "query": "オートサーバー 事業系統図",
+   "results": [
+    "https://www.autoserver.co.jp/company/profile/",
+    "https://www.nikkei.com/markets/ir/irftp/ednr/20260324/S100XTAQ/20260324S100XTAQ.pdf",
+    "https://info-q.j-carnet.co.jp/index.php/autoserver/",
+    "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "https://www.jpx.co.jp/listing/stocks/new/jr4eth0000000jjs-att/09AUTOSERVER-1s.pdf",
+    "https://sharedresearch.jp/ja/companies/5589",
+    "https://shikiho.toyokeizai.net/stocks/5589/corporate",
+    "https://scouter.monex.co.jp/report/top/5589",
+    "https://diamond.jp/zai/articles/-/1020996",
+    "https://www.autoserver.co.jp/company/"
+   ]
+  },
+  {
+   "query": "オートサーバー 社長 インタビュー",
+   "results": [
+    "https://kitaishihon.com/company/5589/board-of-director",
+    "https://www.autoserver.co.jp/ir/overview/",
+    "https://c-eye.co.jp/ipo-eq/69113",
+    "https://www.netdenjd.com/archives/39498",
+    "https://www.youtube.com/watch?v=a3JWFqPcrMc",
+    "https://kigyo-scope.jp/company/5589/ceo/",
+    "https://job.mynavi.jp/28/pc/search/corp101930/outline.html",
+    "https://invest-n.jp/ir/24872/",
+    "https://as.j-carnet.co.jp/autoserver-company/",
+    "https://jp.linkedin.com/posts/yukihide-taira-b5b926153_5589株式会社オートサーバー代表取締役社長髙田典明氏国内最大級の中古車ec-activity-7153576464213282817-_k-Q"
+   ]
+  }
+ ],
+ "missing": {}
+}

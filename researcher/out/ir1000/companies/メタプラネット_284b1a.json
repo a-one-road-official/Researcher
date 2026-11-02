@@ -1,0 +1,990 @@
+{
+ "name": "メタプラネット",
+ "aliases": [],
+ "context": "証券コード3350／卸売業／スタンダード（内国株式）／2025.12期 売上高8,905百万円 営業利益率70.6%",
+ "researched_at": "2026-11-02T14:40:55.736030+00:00",
+ "official_url": "https://metaplanet.jp/",
+ "identified_by": "search:yahoo_jp:メタプラネット",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "ビットコイン・トレジャリー・オペレーション（ビットコイン保有量の最大化） ビットコイン教育およびメディア ビットコインホテルの再開発",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立年月",
+    "value": "1999年6月",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "8,905 1,062 738.3％",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高経常利益（損失）率",
+    "value": "△1,079.6％ 564.2％ ―",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "691 370 1,062 － 1,062 － 1,062",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － － － －",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "8,468 436 8,905 8,905 － 8,905",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高又は振替高",
+    "value": "－ － － － － －",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "1,777百万円 3,460百万円",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "企業パートナー募集",
+    "url": "https://metaplanet.jp/ja/contact",
+    "pass": 1
+   },
+   {
+    "quote": "広告費ゼロで、メタプラネットの25万人超の株主にリーチできる株主優待パートナーシップにご参加しませんか",
+    "url": "https://metaplanet.jp/ja/contact",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、ビットコインを始めるうえでおすすめの国内取引所を3社紹介する",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "仮想通貨のおすすめキャンペーンを紹介",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "UTXO Management社 共同設立者兼マネージングパートナー（現任）",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "Unbroken Chain社ジェネラルパートナー（現任）",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "White & Case 東京 パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "東京事務所アドミニストレーティブ・パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "東京事務所エグゼクティブ・パートナー（2001年～2009年）",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "Bingham McCutchen （東京駐在） パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan, Lewis & Bockius LLP （東京・香港・上海） パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドマン・サックス証券㈱ パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank Investment Advisers オペレーティング・パートナー",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "５．2026年３月25日開催の定時株主総会において定款の変更が決議されたことにより、当社は同日付をもって指名委員会等設置会社に移行しております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月25日開催の定時株主総会において定款の変更が決議されたことにより、当社は同日付をもって指名委員会等設置会社に移行しております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同氏の専門知識は、UTXO Managementの共同創設者兼マネージングパートナーとしての業務を通じてさらに具現化されています",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "国際的な法律事務所のパートナーとしてのキャリアを通じ、日本国内外において取締役会および経営陣に対し、法的リスク管理およびガバナンスに関する助言を行ってまいりました",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "社外取締役は、取締役会又は指名委員会等設置会等を通じて、監査委員会監査、内部監査及び会計監査の報告を受けるとともに、内部監査担当者及び会計監査人と必要に応じて適宜意見交換を行い、相互連携を図っております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1999年6月11日設立",
+    "url": "https://metaplanet.jp/ja/contact",
+    "pass": 1
+   },
+   {
+    "quote": "1999年6月11日設立",
+    "url": "https://metaplanet.jp/ja/ir-contact",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月2日",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年より事業としてビットコインへの投資と長期保有を行っている",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月現在は株価が高値から下落中",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "1999年6月",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "1999年にダイキサウンド株式会社として設立され、",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年2月には、当時の社名である「レッド・プラネット・ジャパン」を",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月8日（月）、メタプラネットはビットコインを主要準備資産とする方針を発表した",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月以降、メタプラネットは定期的にビットコインの購入を続けている",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年初頭、メタプラネットの株価は1株あたり20円以下の極めて低い水準で推移していたが、",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に入ると、",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月上旬の株価は1,500円付近で推移していたので、2024年4月時点の株価（約20円）から",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月に高値を更新してからは、ビットコインの価格下落と共に同社の株価も大きく下落していた",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には不安が緩和されビットコイン含む市場全体が上昇した",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月には、JPXが暗号資産トレジャリー企業に対する規制強化を検討しているとBloombergが報道したことも株価の下落に影響している",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月には優先株発行を検討へしたと発表されており、ビットコインの財務戦略強化から今後の上昇が期待されている",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月～2026年10月までの価格動向だが、上昇・下落を繰り返していることが分かる",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月現在は、安値から回復傾向にある",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月3日から2025年6月9日までの日足の値動き",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月9日現在、メタプラネットの価格は、日",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月から現在までの相場状況を詳しく見てみると、",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月1日から2025年6月9日までの日足の値動き",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月9日現在、メタプラネットの価格は1544円付近に推移しており、チャートの形状からも上昇の勢いが強いことが確認できる",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年10月3日から2025年6月9日までの月足の値動き",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月9日現在、",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月に安値14円（赤枠）を付けて以降、上昇傾向が続いていることが確認できる",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年４月に「ビットコイン・スタンダード」体制を採用し（米国ナスダック上場のストラテジー社に続き、世界で2番目の事例）、当社の戦略的仮説（法定通貨に依存せず、ビットコインを準備資産として長期的に保有することが企業価値を高めるという仮説）は着実に実証されつつあります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度に向けて、当社はビットコインを基盤とした高度な資本運営・資本配分機能をさらに強化し、企業価値の持続的な成長を図ってまいります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年末時点におけるBTC保有数量は35,102BTCに達しており、2024年12月末時点の1,761BTCと比較して大幅に増加いたしました",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年２月に発行した2,100万株の第三者割当による第13回乃至第17回新株予約権がすべて行使されたこと、同年６月に発行した5.55億株相当の新株予約権のうち1.56億株が行使されたこと、さらに同年９月に実施した3.85億株の海外募集、12月に実施した2,361万株の第三者割当によるＢ種種類株式の発行により、当社のBTC蓄積ペースはさらに加速しました",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月31日",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年６月30日",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月30日",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月31日",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2000年５月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2000年９月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2007年４月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2013年４月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2015年10月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2022年３月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2024年７月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年５月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年７月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1977年４月28日",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "1976年11月19日",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2000年６月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2003年１月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2004年８月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2011年１月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2017年８月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2018年３月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2019年７月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2019年10月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2020年８月",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビットコイン主軸の収益モデルとETF組み入れによる資金流入が、企業価値を下支えする構造を形成し、今後は市場での存在感をさらに強め成長加速が期待される",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ゲーム利用者へのBTC普及も目指す方針だ",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との契約から生じる収益",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ビットコインなどの仮想通貨（暗号資産）は、投資対象として人気が高いだけでなく、近年はさまざまなサービスを利用するための決済手段としての需要も増えてきている",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "特に新興国では、既存の銀行システムに依存せずに金融サービスを提供できる点が評価されている",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、BTC価格の上昇や同社のサービス基盤強化によって、優先株による長期的な資金調達と株主価値の両立が期待される",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "貸暗号資産サービス",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "レバレッジ取引のサービスはなく、現物取引に特化しており、取引の形式は「取引所」と「販売所」の2種類がある",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "また、多くの関連サービスが提供されている点も特徴だ",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "レバレッジ取引やレンディング（貸暗号資産）、仮想通貨の積み立てと、短期・長期の両方で利用しやすいサービスが多く、取引の選択肢を広げられる",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "貸して増やす（レンディングサービス）",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス開始",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人第二種金融商品取引業協会",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス業のため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "メリルリンチ日本証券ストラクチャード商品グループ",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同氏は、アジアにおける金融サービス業界での豊富なリーダーシップ経験を有しております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同氏は、金融サービス分野およびデジタルアセット分野において豊富なリーダーシップ経験を有しております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "同氏は、アジアにおける金融サービス業界において数十年にわたるリーダーシップ経験を有しており、ハイパフォーマンス組織を統括する上級管理職としての実績を有しております",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "金融商品取引業者",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "仮想通貨の送金手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "取引所を利用してビットコインを取引する場合は、取引手数料がかからないようになっているため、ビットコインをメインの取引対象とするのであれば、Coincheckがうってつけ",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "日本円の入金手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "日本円の出金手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "仮想通貨の入金手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "仮想通貨の出金手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "最低55円（税込）の手数料",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "手頃な手数料で手軽に株式投資",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "取引手数料無料でビットコインの現物取引が可能",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "注：１．完全希薄化後発行済株式数は、(i) 発行済普通株式総数、(ii) 転換社債の転換が仮に行われた場合の潜在株式数、(iii) 発行済ストックオプションの行使による潜在株式数、(iv) 権利行使された新株予約権による株式数、で構成され、それぞれの日付時点におけるものです",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後、既存ホテルについては、稼働率と客単価を維持・向上していくとともに、ビットコイン・トレジャリー事業の拡大と企業のビットコイン採用の推進を通じ、グローバルな変革をリードし、拡大することで収益を確保し、また引き続きコスト削減を実現することで経常利益の計上に努めてまいります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メタプラネット とは？ビットコイン投資戦略や株価推移 — メタプラネット とは？ビットコイン投資戦略や株価推移 ダイヤモンド・オンライン https://diamond.jp > crypto > market > metaplanet",
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット のようなビットコイン・トレジャリー企業 ... — メタプラネット のようなビットコイン・トレジャリー企業 ... OpenWorkキャリア https://career.openwork.jp > question",
+    "url": "https://career.openwork.jp/question/9jc9irc7f9tyv8",
+    "pass": 3
+   },
+   {
+    "quote": "【BTC投資】 メタプラネットビジネスモデル をGemini AIで ... — 【BTC投資】 メタプラネットビジネスモデル をGemini AIで ... note https://note.com > 投資・マネー > 仮想通貨",
+    "url": "https://note.com/shinao39/n/n6facf1706775",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット とは？ビットコインを核とする日本発の革新的 ... — メタプラネット とは？ビットコインを核とする日本発の革新的 ... abc株式会社 https://abc-chain.com > Home > 仮想通貨コラム",
+    "url": "https://abc-chain.com/crypto/column/metaplanet/",
+    "pass": 3
+   },
+   {
+    "quote": "【 メタプラネット 】[3350]IR情報 中期経営計画や 決算 短信 — 【 メタプラネット 】[3350]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3350",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット （3350）のIR情報・ 決算資料 - IRBANK — メタプラネット （3350）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > メタプラネット",
+    "url": "https://irbank.net/3350/ir",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット 【3350】のIR 資料 - バフェット・コード — メタプラネット 【3350】のIR 資料 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/3350/library",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット 【3350】の 事業 内容 - キタイシホン — メタプラネット 【3350】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット ｜同業他社と比較して分かる強み・年収・働き ... — メタプラネット ｜同業他社と比較して分かる強み・年収・働き ... note https://note.com > 投資・マネー > 仮想通貨",
+    "url": "https://note.com/magic_swift2546/n/n84d16c880f38",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット （メタプラ）とは？ビットコイン戦略で注目 ... — メタプラネット （メタプラ）とは？ビットコイン戦略で注目 ... Coincheck https://coincheck.com > Article",
+    "url": "https://coincheck.com/ja/article/677",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット 【3350】の 社長 ・役員 - キタイシホン — メタプラネット 【3350】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "【解説人語】 メタプラネット のビットコイン戦略 株価は ... — 【解説人語】 メタプラネット のビットコイン戦略 株価は ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=cS8BEkAz0_8",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット CEO、ビットコイン移動は売却でないと説明 — メタプラネット CEO、ビットコイン移動は売却でないと説明 Iolite（アイオライト） https://iolite.net > news > coinpost-730916",
+    "url": "https://iolite.net/news/coinpost-730916",
+    "pass": 3
+   },
+   {
+    "quote": "メタプラネット - Wikipedia — メタプラネット - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > メタプラネット",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当連結会計年度より報告セグメントの区分を変更しております",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "詳細は、「第５ 経理の状況 １ 連結財務諸表等 (1）連結財務諸表 注記事項（セグメント情報等）」に記載のとおりであります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "仕入実績をセグメント毎に示すと、次の通りです",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．当第３四半期連結累計期間より、従来「ビットコイントレジャリー事業」としていたセグメント名称を「ビットコイン関連事業」に変更しております",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "当該セグメントの名称変更によるセグメント情報に与える影響はありません",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売実績をセグメント毎に示すと、次の通りです",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当連結会計年度より、従来「ビットコイントレジャリー事業」としていたセグメント名称を「ビットコイン関連事業」に変更しております",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額の算定方法",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成のために採用している会計処理の方法と同一であります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの利益又は損失は、営業利益又は営業損失ベースの数値であります",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の金額に関する情報及び収益の分解情報",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント間の内部売上高又は振替高",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント利益又は損失（△）",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "この多層的な資本構成こそが、ビットコインのボラティリティを中長期的な成長機会へと転換する当社独自の競争優位性であると考えています",
+    "url": "https://kitaishihon.com/company/3350/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://metaplanet.jp/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metaplanet.jp/ja/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metaplanet.jp/ja/ir-contact",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://diamond.jp/crypto/market/metaplanet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/3350/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gerovich",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kitaishihon.com/company/3350/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "メタプラネット",
+   "results": [
+    "https://metaplanet.jp/ja",
+    "https://www.nikkei.com/nkd/company/?scode=3350",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=3350&exchange_code=JPN",
+    "https://x.com/Metaplanet",
+    "https://www.bloomberg.com/jp/quote/MTPLF:US",
+    "https://metaplanet.jp/ja/disclosures",
+    "https://metaplanet-sec.jp/",
+    "https://ja.wikipedia.org/wiki/メタプラネット",
+    "https://finance.yahoo.co.jp/quote/3350.T",
+    "https://cryptonews.com/jp/cryptocurrency/what-is-metaplanet/"
+   ]
+  },
+  {
+   "query": "メタプラネット ビジネスモデル",
+   "results": [
+    "https://diamond.jp/crypto/market/metaplanet/",
+    "https://metaplanet.jp/ja/about",
+    "https://career.openwork.jp/question/9jc9irc7f9tyv8",
+    "https://note.com/shinao39/n/n6facf1706775",
+    "https://abc-chain.com/crypto/column/metaplanet/",
+    "https://coincheck.com/ja/article/677",
+    "https://www.youtube.com/watch?v=cS8BEkAz0_8",
+    "https://kitaishihon.com/company/3350/business",
+    "https://note.com/magic_swift2546/n/n84d16c880f38"
+   ]
+  },
+  {
+   "query": "メタプラネット 決算説明資料",
+   "results": [
+    "https://metaplanet.jp/ja/disclosures",
+    "https://metaplanet.jp/ja/media",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3350",
+    "https://irbank.net/3350/ir",
+    "https://www.buffett-code.com/company/3350/library",
+    "https://kitaishihon.com/company/3350/ir-library",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260812518572",
+    "https://finance.matsui.co.jp/stock/3350/settlement/index"
+   ]
+  },
+  {
+   "query": "メタプラネット 事業系統図",
+   "results": [
+    "https://metaplanet.jp/ja/about",
+    "https://kitaishihon.com/company/3350/business",
+    "https://diamond.jp/crypto/market/metaplanet/",
+    "https://note.com/magic_swift2546/n/n84d16c880f38",
+    "https://coincheck.com/ja/article/677",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100QGGD.pdf",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3350"
+   ]
+  },
+  {
+   "query": "メタプラネット 社長 インタビュー",
+   "results": [
+    "https://x.com/gerovich",
+    "https://kitaishihon.com/company/3350/board-of-director",
+    "https://www.youtube.com/watch?v=cS8BEkAz0_8",
+    "https://iolite.net/news/coinpost-730916",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88",
+    "https://www.coindesk.com/ja/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
+    "https://diamond.jp/crypto/market/metaplanet/",
+    "https://note.com/magic_swift2546/n/n84d16c880f38"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

@@ -1,0 +1,2112 @@
+{
+ "name": "量子コンピュータ",
+ "en": "quantum computing",
+ "aliases": [
+  "量子計算機"
+ ],
+ "context": "4 量子 ①量子コンピューティング",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:38:11.639619+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の量子コンピューティング市場規模は、2025年には15億2000万米ドルと評価され、2026年の19億7000万米ドルから2034年には155億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、2025年に世界の量子コンピューティング市場を席巻し、55.7%のシェアを占め、市場規模は8億5000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド導入は、2025年には世界の量子コンピューティング市場を席巻し、61.8%のシェアを獲得、市場規模は9億4000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛分野は、2025年に世界の量子コンピューティング市場において23.4%のシェアを占め、市場規模は3億6000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年に5億4000万米ドルの規模となり、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には7億米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年におけるドイツ市場規模は1億1000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国市場は2025年に0.09億米ドルの規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の量子コンピューティング市場は、2025年には世界市場の23.1%を占め、市場規模は3億5,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は34.1%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模、CAGR 32.14%成長 | e.x.press",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "> 量子コンピューティング市場規模、CAGR 32.14%成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模、CAGR 32.14%成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "--Zion Market Researchのレポートによると、世界の量子コンピューティング市場規模は2024年に約10億6000万米ドルと評価され、2025～2034年にかけてCAGR約32.14%で拡大し、2034年末までに約171億5000万米ドルに達すると予測されている",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "・世界市場は、2021年にハードウェアセグメントで最も高い成長を記録し、セグメント収益の62%以上を占めた",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模｜2035年までの成長分析",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、2035年末までに37.9%のシェアを占め、トップクラスになると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "2024年までに、量子コンピューティング市場は、政府の強力な支援、活発な研究開発活動、そしてGoogleやIBMといったアメリカの巨大企業の存在により、驚異的な16億5000万米ドルに達すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模は2025年に12億ドルを超えると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに予測される量子コンピューティングの市場規模はどのくらいですか?",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模は2025年には12億米ドルを超え、2035年までに95億5,000万米ドルに達すると予測されており、予測期間である2026年から2035年の間に約23.1%のCAGRで成長する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、2035年末までに37.9%のトップシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "サイクオンタムは光方式の量子コンピューターの開発で2000億円近い資金を調達した（写真：サイクオンタム）",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "光方式の量子コンピューターを開発する米PsiQuantum（サイクオンタム）は、12億8000万米ドル（約1920億円）を調達してランキング1位となった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "2位の米SandboxAQ（サンドボックスAQ）は5億米ドル（約750億円）を調達している",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "3位の米IonQ（イオンQ）はイオントラップ型の量子コンピューターを手掛けており、4億3200万米ドル（約648億円）を調達した",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内トップの調達額を誇るQunaSys（キュナシス、東京・文京）は世界38位の2400万米ドル（約36億円）だった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "S/4HANA切り替えで大混乱、TOYO TIREは42億円の減益要因 穴は「周辺連携」",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "防災庁が発足、初日に「緊急要請」発表へ 27年度概算要求は652億円",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国商務省はCHIPSおよび科学法による約100億ドルの研究開発枠に量子技術を含め、支援を拡大させたことを発表しています",
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の量子経済開発コンソーシアム(QED-C)によると、世界の量子コンピュータ市場は、2024年時点で約10億7,700万ドル規模とされていましたが、その後、年平均成長率27％で推移し、2027年には約22億600万ドルに達すると見込まれています",
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "pass": 3
+   },
+   {
+    "quote": "14.4兆円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "15.4兆円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "10.6兆円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "2,121億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "25.6兆円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "12.1兆円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "3,599億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "3,483億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "キャタピラー、受注残が過去最高の780億ドルに データセンター向け電源が牽引",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "5,607億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "2,691億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "4,155億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "15.6億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "60.6億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "-2.0億円",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearchの調査によると、2025年における量子コンピュータの世界市場規模は105百万米ドルと予測されています",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "量子コンピューティング市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子コンピューティング市場規模は、2025年には15億2000万米ドルと評価され、2026年の19億7000万米ドルから2034年には155億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模、CAGR 32.14%成長 | e.x.press",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "> 量子コンピューティング市場規模、CAGR 32.14%成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模、CAGR 32.14%成長",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "--Zion Market Researchのレポートによると、世界の量子コンピューティング市場規模は2024年に約10億6000万米ドルと評価され、2025～2034年にかけてCAGR約32.14%で拡大し、2034年末までに約171億5000万米ドルに達すると予測されている",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）では、約23.1%の年平均成長率（CAGR）で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場規模は2025年には12億米ドルを超え、2035年までに95億5,000万米ドルに達すると予測されており、予測期間である2026年から2035年の間に約23.1%のCAGRで成長する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "IonQ、FIUに「Superion 256」を納入へ 2027年後半、オンプレミス量子機の販売拡大",
+    "url": "https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国商務省はCHIPSおよび科学法による約100億ドルの研究開発枠に量子技術を含め、支援を拡大させたことを発表しています",
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国の量子経済開発コンソーシアム(QED-C)によると、世界の量子コンピュータ市場は、2024年時点で約10億7,700万ドル規模とされていましたが、その後、年平均成長率27％で推移し、2027年には約22億600万ドルに達すると見込まれています",
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "pass": 3
+   },
+   {
+    "quote": "アマゾン、AWSが6四半期連続で加速 「1兆ドル事業」へ投資を拡大",
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場分析レポート：2026年164百万米ドル規模、成長率32.0%推移",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年までの予測期間では年平均成長率（CAGR）32.0%で成長し、2032年には868百万米ドルに達すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場分析レポート：2026年164百万米ドル規模、成長率32.0%推移 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "前年比6.3倍",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 37.9%",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度にチームを新設し、取り組みを拡大",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum computer hardware sales could be a USD$10B by 2045, with a CAGR of 30%",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティングの市場規模は2045年には100億ドルを超える見込み（年平均成長率30%）",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場分析レポート：2026年164百万米ドル規模、成長率32.0%推移 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場分析レポート：2026年164百万米ドル規模、成長率32.0%推移",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年までの予測期間では年平均成長率（CAGR）32.0%で成長し、2032年には868百万米ドルに達すると見込まれています",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "2月末に発表された2024年通年業績では年間収益4310万ドル（前年比+95%）と新規受注9,560万ドルを達成し、ガイダンス上限を上回りました (",
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "pass": 3
+   },
+   {
+    "quote": "を計上し、2025年度以降も継続的に投資拡大する計画です (",
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the healthcare and pharmaceuticals segment is expected to gain the highest market share with a CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 29.73%",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. quantum computing market size was estimated at USD 809.87 million in 2026 and is predicted to be worth around USD 8,506.37 million by 2035, at a CAGR of 29.99% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which Region is Expected to Grow at the Fastest CAGR During 2026-2035?",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global quantum computing market?",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing market is poised to grow at a CAGR of 29.73% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum computing ecosystem is expanding, with an increasing number of startups entering the market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end-user: The BFSI segment led the market with the largest revenue share of 21.7% in 2025 and is expected to grow at the fastest CAGR over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 22.3%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The service segment is expected to grow at the fastest rate from 2025 to 2030. This segment includes a range of services related to quantum computing, such as consulting, quantum software development, quantum algorithm design, and quantum",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 22.3% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing market is expected to grow at a compound annual growth rate of 22.3% from 2026 to 2033 to reach USD 8.0 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing region in the Quantum Computing Market, projected to expand at a CAGR of 25.6% during the forecast period, driven by increasing government investments in quantum research, growing adoption of advanced computing technologies, and expanding quantum initiatives across China, Japan, South Korea, India, and Australia",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum computing market was valued at USD 1.3 billion in 2025, expanding to USD 1.69 billion in 2026, and is projected to grow at a CAGR of 19.15% (2026–2035) to reach USD 8.18 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 8.18 billion by 2035, growing at a CAGR of 19.15% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size, Share | CAGR of 37.0%",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 37.0%",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, expanding at a CAGR of",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 36.46%",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of offerings, services dominate the market, capturing a 40.0% share in 2026, and is also projected to grow at a leading 39.2% CAGR through 2040 for sustained integration support.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "量子コンピューティング市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場の規模、シェア、トレンド分析レポート：タイプ別（ソフトウェア、ハードウェア）、アプリケーション別（機械学習、最適化、生物医学シミュレーション、金融サービス、電子材料探索、その他（交通最適化、天気予報、その他））、展開形態別（オンプレミス、クラウド）、業種別（防衛、ヘルスケア・製薬、化学、銀行・金融、エネルギー・電力、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に41.6%の市場シェアを占め、量子コンピューティング市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は2025年に市場シェアの55.7%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、2025年に世界の量子コンピューティング市場を席巻し、55.7%のシェアを占め、市場規模は8億5000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習分野は2025年に市場シェア24.8%を占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械学習分野は、2025年には世界の量子コンピューティング市場において24.8%のシェアを占め、3億8000万米ドルの規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド分野は2025年に61.8%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド導入は、2025年には世界の量子コンピューティング市場を席巻し、61.8%のシェアを獲得、市場規模は9億4000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛分野は2025年に市場シェア23.4%を占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛分野は、2025年に世界の量子コンピューティング市場において23.4%のシェアを占め、市場規模は3億6000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "・世界市場は、2021年にハードウェアセグメントで最も高い成長を記録し、セグメント収益の62%以上を占めた",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場の規模とシェア（提供サービス、システム別）、テクノロジー別、アプリケーション別、導入別、エンドユーザー別 - グローバル需給分析、成長予測、統計レポート2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに37.9％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピューティング市場におけるサービスシステムセグメントは、2035年末までに52%の市場シェアを獲得すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "最適化セグメントは市場シェアの33%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、2035年末までに37.9%のシェアを占め、トップクラスになると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2035年までに市場シェアの26.9%を獲得すると見込まれています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア（2024年）",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "北米の量子コンピューティング市場は、2035年末までに37.9%のトップシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "pass": 3
+   },
+   {
+    "quote": "デロイトトーマツグループ（東京・千代田）が調査した量子コンピューティング・スタートアップの調達額ランキング（2025年1月時点）を見ると、量子ハードウエアを開発する北米のスタートアップが上位を占めていることが分かる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "上位10社のうち9社が北米企業だ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "ランキング上位50社にランクインした日本企業はQunaSysだけで、日本勢の苦戦が見て取れる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には世界上位5社が市場売上において大きな割合を占めており、量子ハードウェア開発力、クラウドサービス展開力、ソフトウェア技術力が競争優位性を形成しています",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、2025年を基準年として、2021年から2032年までの量子コンピュータ市場について、販売数量（セット）、販売収益（百万米ドル）、市場シェア、企業ランキング、地域別動向を包括的に分析しています",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「量子コンピュータ―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "CATL（寧徳時代）の知財戦略：221億元の研究開発と5万件超特許で支える電池首位の技術基盤",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum in South Korea: ambitions to become a global leader in the 2030s",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には世界上位5社が市場売上において大きな割合を占めており、量子ハードウェア開発力、クラウドサービス展開力、ソフトウェア技術力が競争優位性を形成しています",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、2025年を基準年として、2021年から2032年までの量子コンピュータ市場について、販売数量（セット）、販売収益（百万米ドル）、市場シェア、企業ランキング、地域別動向を包括的に分析しています",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「量子コンピュータ―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "By Region, North America accounted for the largest revenue share of the quantum computing market in 2025.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the BFSI segment dominated the global market in 2025.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the healthcare and pharmaceuticals segment is expected to gain the highest market share with a CAGR between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, IBM, GlobalFoundries, D-Wave Quantum, Rigetti Computing, and other quantum firms. The U.S. government announced a USD 2 billion investment in nine quantum computing companies under the CHIPS and Science Act. The initiative includes funding for quantum chip manufacturing, hardware development, and domestic quantum infrastructure to strengthen U.S. leadership in quantum technologies.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum computing ecosystem is expanding, with an increasing number of startups entering the market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on offering: The system segment led the market with the largest revenue share of 63.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on deployment: The on-premise segment led the market with the largest revenue share of 48.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on application: The optimization segment led the market with the largest revenue share of 29.3 % in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end-user: The BFSI segment led the market with the largest revenue share of 21.7% in 2025 and is expected to grow at the fastest CAGR over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe dominated the quantum computing market with a share of 33.4% in 2025. This is attributable to the rising pattern of cooperation between the industrial and academic sectors within the European quantum computing market. These collaborations are expediting the progression of fresh quantum computing technologies and applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The System led with 63.5% of the market share in 2025, driven by significant investments in quantum processors, control hardware, and integrated computing infrastructure required to support commercial and research-based quantum computing applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Cloud led the segment accounting for 51.2% of the market share in 2025, driven by growing adoption of Quantum-as-a-Service (QaaS) platforms that provide cost-effective, scalable, and on-demand access to quantum computing resources without requiring significant infrastructure investments.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The BFSI segment led end use segment accounting for 21.2% of the market share in 2025, driven by increasing adoption of quantum computing for portfolio optimization, risk analysis, fraud detection, algorithmic trading, and advanced cybersecurity applications across financial institutions.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The EU accounts for 6% of global quantum patents despite hosting a disproportionately large share of the world's quantum technology companies, reflecting a structural gap between research activity and commercial IP output",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Share, by Deployment Model, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the quantum computing market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Offering, System dominated the global Quantum Computing Market in 2025, accounting for",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the global Quantum Computing Market in 2025, accounting for more than",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of offerings, services dominate the market, capturing a 40.0% share in 2026, and is also projected to grow at a leading 39.2% CAGR through 2040 for sustained integration support.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "With respect to deployment modes, cloud-based deployment architecture dominates the industry (65.0%) in 2026 and is poised to experience a higher CAGR of 37.3% till 2040 by abstracting hardware constraints.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Services Offering Dominates the Market in 2026 and Beyond",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-based infrastructures secure the dominant 2026 deployment market share, fundamentally eliminating cost-prohibitive physical hardware investments and extreme cryogenic maintenance requirements. Global enterprises leverage existing API ecosystems to seamlessly integrate remote quantum processing units (QPUs) into classical architectures, bypassing massive proprietary computing expenditures.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "業界の主要企業としては、Cambridge Quantum Computing Ltd.、Nokia Bell Labs、Toshiba Corporation、D-Wave Systems Inc.、IonQ, Inc.、QxBranch Inc.、Rigetti & Co, Inc.、Alibaba Group Holding Limited、QuantumCTek Co., Ltd.、Anhui Qasky Quantum Technology Co. Ltd.、Huawei Technologies Co., Ltd.、Baidu, Inc.、Qubitekk Inc.などが挙げられます",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業動向と競争戦略",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場における主要企業として、IBM、D-Wave、IonQ、Quantinuum、Infleqtion、Quandela、Origin Quantum、CIQTEK、QuantumCTek、QUDOOR Technologiesなどが挙げられます",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、特許戦略、技術モダリティ（方式）、および市場投入戦略（「現在価値」対「未来価値」）に基づき、主要プレイヤーを以下の",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "つの戦略グループに属する主要企業の戦略、ロードマップ、アライアンス、および",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "と同じ「イオントラップ」方式 の主要プレイヤーですが、その戦略は",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "で主要プレイヤーです",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業別 競合ポジショニング比較表（マトリクス）",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "月時点）の特許データベース分析、および主要企業の",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "技術的詳細、動作原理、主要企業、SWOT分析、ベンチマーク評価、特有の材料要件",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業50社以上の概要（設立年、達成した量子ビット数（および予測数）の過去実績も記載）",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "How is quantum computing benchmarked? What is the current and future status of the key players and competing quantum computing technologies?",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Explanation of the differences between the main competing quantum computer technologies. Each covers: technical details, operating principles, key companies, SWOT analysis, benchmarking, and specific material requirements. Technologies include superconducting, photonic, silicon-spin, neutral atom, and trapped ion platforms, plus a section on alternatives including annealers and diamond defects.",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of 50+ key companies with historical data on the year founded, qubit number achieved (and projected).",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing progress in logical qubit number scalability between key players/qubit modalities",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in superconducting quantum computing (hardware)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in trapped ion quantum computing (hardware)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in photonic quantum computing",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in silicon spin quantum computing",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in neutral atom quantum computing (hardware)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in diamond defect quantum computing",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing key players in quantum annealing",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業動向と競争戦略",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場における主要企業として、IBM、D-Wave、IonQ、Quantinuum、Infleqtion、Quandela、Origin Quantum、CIQTEK、QuantumCTek、QUDOOR Technologiesなどが挙げられます",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "といった主要企業、および米国・日本・欧州の市場に影響を与える可能性があります",
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "pass": 3
+   },
+   {
+    "quote": "IBMやD-Wave、Googleなど主要企業もスポンサーや講演者として参加すると見られ、新製品の発表や提携の発表の場になる可能性があります",
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "pass": 3
+   },
+   {
+    "quote": ": 本回答ではIBMおよび主要企業の公式発表 (",
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the quantum computing market?",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum computing ecosystem is expanding, with an increasing number of startups entering the market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "These startups are focusing on various aspects of quantum technology, from hardware and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the quantum computing market include Accenture Plc., D-WaveSystem Inc., Google LLC., IBM Corporation, and others. Organizations are focusing on increasing their customer base to gain a competitive edge in the industry. Therefore, key players are taking several strategic initiatives, such as mergers and acquisitions, and partnerships with other major companies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the quantum computing market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the quantum computing market include Accenture Plc., D-WaveSystem Inc., Google LLC, IBM Corporation, Intel Corporation, Microsoft Corporation, Quantinuum Ltd., Rigetti & Co, Inc., Riverlane, and Zapata Computing",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in quantum computing market?",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in quantum computing market include IBM Quantum, IonQ, Microsoft Azure Quantum, Google Quantum AI, AWS Braket.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Competitive Landscape: Consolidating Hardware Leadership and QPU Orchestration",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Startups and Innovator Companies: Optimizing Sub-System Orchestration and Algorithmic Simulations",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Competitive Landscape and Industry Analysis:",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum computing industry report presents an in-depth analysis, highlighting the capabilities of various stakeholders, based on different segments such as offering, deployment mode, technology, application, end use industry, geographical regions, and key players.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is anchored by massive hyperscale developers alongside specialized pure-play innovators. Industry-defining infrastructure and algorithmic orchestration are currently driven by major entities such as IBM, Google Quantum AI, Quantinuum, IonQ, D-Wave, and rapidly scaling startups including PsiQuantum and QuEra.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Massive sovereign government programs and tier-one technology conglomerates overwhelmingly dominate research expenditures in 2026. However, startups / SMEs heavily secure agile venture capital, specifically targeting niche software orchestration, error-correction algorithms, and essential cryogenic component manufacturing within the broader global hardware supply chain.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Increased Investment in Quantum Startups",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is emerging as the fastest-growing region, with a surge in quantum startups and educational initiatives.",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ただ、13位にとどめた最大の理由は、調達額に見合う売上がまだ見えないことだ",
+    "url": "https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "デロイトトーマツグループ（東京・千代田）が調査した量子コンピューティング・スタートアップの調達額ランキング（2025年1月時点）を見ると、量子ハードウエアを開発する北米のスタートアップが上位を占めていることが分かる",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内トップの調達額を誇るQunaSys（キュナシス、東京・文京）は世界38位の2400万米ドル（約36億円）だった",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内2位で早稲田大学発の米Nanofiber Quantum Technologies（ナノファイバー・クアンタム・テクノロジーズ、NanoQT）は、米国へ本社機能を移すことで経営や資金調達を優位に進めている",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ （SU投資額）2025年の量子SUへの投資額は2.0兆円、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資額の内、90％以上が量子コンピュー",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 2025年までの累計政府投資額は約2.3兆円規模 ※(日本の約5倍、",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和8年6月24日 日本成長戦略会議提出資料「戦略１７分野における「主要な製品・技術等」の官民投資ロードマップ（案）」より",
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PsiQuantum benefiting from over $1B in investment to build quantum computing data centers in Australia and the US (1)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": "PsiQuantum benefiting from over $1B in investment to build quantum computing data centers in Australia and the US (2)",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "pass": 3
+   },
+   {
+    "quote": ": The Union government furthered its efforts to build a quantum computing and quantum communication, sensing, and materials ecosystem, including quantum projects, with an investment of â‚¹6,003.65 crore under the National Quantum Mission (NQM).",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, IBM, GlobalFoundries, D-Wave Quantum, Rigetti Computing, and other quantum firms. The U.S. government announced a USD 2 billion investment in nine quantum computing companies under the CHIPS and Science Act. The initiative includes funding for quantum chip manufacturing, hardware development, and domestic quantum infrastructure to strengthen U.S. leadership in quantum technologies.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, IBM announced plans to invest more than USD 10 billion in quantum computing over the next five years to develop a large-scale fault-tolerant quantum computer by 2029. The investment will support quantum hardware development, manufacturing expansion, research, and ecosystem partnerships.",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the fastest-growing region in the Quantum Computing Market, projected to expand at a CAGR of 25.6% during the forecast period, driven by increasing government investments in quantum research, growing adoption of advanced computing technologies, and expanding quantum initiatives across China, Japan, South Korea, India, and Australia",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The System led with 63.5% of the market share in 2025, driven by significant investments in quantum processors, control hardware, and integrated computing infrastructure required to support commercial and research-based quantum computing applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Cloud led the segment accounting for 51.2% of the market share in 2025, driven by growing adoption of Quantum-as-a-Service (QaaS) platforms that provide cost-effective, scalable, and on-demand access to quantum computing resources without requiring significant infrastructure investments.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government generated USD 234 million in 2025 and is projected to represent 16.00% of the market by 2035. Government buyers operate as direct users, program sponsors, and ecosystem builders, funding software access and algorithm development while establishing research-to-commercialization pathways. Its declining share reflects expansion in commercial verticals rather than a reduced strategic role.",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, increasing the need for efficient logistics networks and advanced optimization capabilities. Additionally, global energy investment is projected to reach",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "toward R&D in 2025, including investments in advanced technologies such as quantum computing.",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware manufacturers are actively scaling modular, fault-tolerant networks to resolve highly complex, distributed computational challenges. Following urgent World Economic Forum directives in January 2026 regarding compressed Q-Day timelines, immense global investment is aggressively mobilizing to secure digital ecosystems and expedite utility-scale deployments.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-based infrastructures secure the dominant 2026 deployment market share, fundamentally eliminating cost-prohibitive physical hardware investments and extreme cryogenic maintenance requirements. Global enterprises leverage existing API ecosystems to seamlessly integrate remote quantum processing units (QPUs) into classical architectures, bypassing massive proprietary computing expenditures.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America secures the dominant market share (45.0%) through aggressive federal funding mechanisms accelerating scalable commercialization. This mature supply chain environment provides definitive cost advantages, explicitly allowing regional hardware developers to execute rapid iteration cycles essential for achieving foundational fault-tolerant enterprise infrastructure deployments.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market size for quantum computing is expected to be USD 2.55 billion, driven by massive sovereign investments. Further, the market is projected to reach USD 198.00 billion by 2040.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America maintains the dominant market share in 2026, capturing 45.0% of global revenue. This structural lead is sustained by unparalleled federal funding ecosystems, dense concentrations of established tier-one hardware manufacturers, and rapid commercial enterprise adoption of cloud-based processing.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Massive sovereign government programs and tier-one technology conglomerates overwhelmingly dominate research expenditures in 2026. However, startups / SMEs heavily secure agile venture capital, specifically targeting niche software orchestration, error-correction algorithms, and essential cryogenic component manufacturing within the broader global hardware supply chain.",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "(US): Signed definitive agreement for $100 million CHIPS Act funding to accelerate superconducting quantum computing R&D across readout electronics, cryostat architecture, and high-connectivity chip fabrication.",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": ": North America dominates the quantum computing market with approximately 37% global share, driven by United States leadership through substantial government funding including $2.5 billion Department of Energy commitment, presence of major quantum computing companies, and advanced research ecosystem supporting quantum innovation and commercialization.",
+    "url": "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific emerges as the fastest-growing region with accelerating government investments including Japan's $7.4 billion commitment, China's 1 trillion-yuan venture fund, and Australia's $620 million PsiQuantum investment supporting quantum infrastructure development and commercialization pathways.",
+    "url": "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "was valued at US$ 698.6 million in 2026 and is projected to reach US$ 1,716.1 million by 2033, representing a CAGR of 13.7% during the forecast period, driven by accelerating quantum hardware development, expanding cloud-based accessibility, growing applications in artificial intelligence and machine learning, and substantial government investments in quantum research infrastructure globally.",
+    "url": "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": ": Rigetti received Phase 2 funding from DARPA, totaling up to USD 1.5 million, to support the creation of benchmarks evaluating large-scale quantum computer performance in real-world applications.",
+    "url": "https://www.snsinsider.com/reports/quantum-computing-market-2740",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the Quantum Computing Market in 2025, led by technology investments, research initiatives, and early enterprise adoption of quantum solutions.",
+    "url": "https://www.snsinsider.com/reports/quantum-computing-market-2740",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Forecast 2035: Rising Investments Driving Commercial Adoption",
+    "url": "https://www.marketsandmarketsblog.com/quantum-computing-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "pass": 3
+   },
+   {
+    "quote": "Venture capital funding for quantum technology reached a new high point in 2024.",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-report-captures-state-quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum computing firms received the most funding ($1.6 billion in publicly announced investments), followed by quantum software companies at $621 million. The researchers note that quantum received less than 1% of total venture capital funding worldwide.",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-report-captures-state-quantum-computing",
+    "pass": 3
+   },
+   {
+    "quote": "PsiQuantum joins Microsoft’s M12 https://medium.com/m12vc/welcoming-psiquantum-to-the-m12-",
+    "url": "https://arxiv.org/pdf/2202.12733",
+    "pass": 3
+   },
+   {
+    "quote": ", its first proprietary quantum chip developed at the AWS Center for Quantum Computing at Caltech. Ocelot is built with cat qubits that suppress environmental noise and reduce error-correction overhead, using an architecture of 14 physical qubits including buffers and detection circuits. Operating with minimal power requirements, Ocelot represents AWS’s growing investment in hardware innovation.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "raised $360 million through an ATM equity offering",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", boosting its cash reserves to over $700 million and ensuring funding for both its computing and networking roadmaps. IonQ subsequently",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "raised an additional $1 billion",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Quanta Computer invested $35 million into Rigetti",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond computing, Infleqtion produces commercial-grade atomic clocks like Tiqker, and recently won UK funding to build its first optical atomic clock. Their miniMOT V2 system and fiber collimation optics (with Thorlabs) further support quantum sensing and lab-based development.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by €128 million in climate-focused funding and partnerships with over 70 organizations, IQM is positioning itself as a European quantum hardware leader.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "with support from CDP Venture Capital and Italian firms like Edison, Baker Hughes, and BNP Paribas. In March 2025, the Spanish government committed a €67 million investment through SETT to expand Multiverse’s work in energy-efficient AI, particularly in compressing large language models by up to 90%.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "PQShield raised $20 million in Series A funding led by Addition.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": ", co-developed with Sorbonne Université, reduced the quantum hardware requirements for small molecule simulations. The innovation earned €8 million in funding through the France 2030 national plan, reinforcing the company’s leading role in quantum-enabled drug discovery.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "QuEra has also formed major partnerships, including with Kipu Quantum and PlanQK to provide easier access to quantum technology, and received investment from Google Quantum AI to advance fault-tolerance. In 2024, QuEra launched the Quantum Alliance Partner Program to unite tech leaders in addressing global computational challenges using neutral-atom systems.",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "QuiX raised €15 million in Series A funding",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   },
+   {
+    "quote": "Though it is backed by more than US$665m in funding, PsiQuantum operates quietly but effectively, betting that its long-term, fault-tolerant architecture will ultimately leapfrog the competition.",
+    "url": "https://technologymagazine.com/top10/top-10-quantum-computing-companies-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Companies like IBM and PsiQuantum are investing heavily in quantum computing. IBM has committed $150 billion over five years to support domestic manufacturing and advance quantum computing technology . PsiQuantum raised $750 million in March 2025 to develop a fault-tolerant quantum computer.",
+    "url": "https://sites.google.com/view/intel-market-research/top-reports/quantum-computing-cloud-service-market-growth-2025",
+    "pass": 3
+   },
+   {
+    "quote": "1. Record investment.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "pass": 3
+   },
+   {
+    "quote": "McKinsey reports about USD 12.6 billion of investment into quantum technology companies in 2025, a 6.3-fold jump over the year before. Private capital supplied roughly 97% of it. Money on this scale pays for chip fabrication, error-correction research and hiring.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "pass": 3
+   },
+   {
+    "quote": "7. Public-market funding.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "pass": 3
+   },
+   {
+    "quote": "leads the market. The US hosts most of the major hardware companies, the biggest private funding, and federal programmes such as the National Quantum Initiative and the June 2026 executive orders. Canada adds D-Wave and Xanadu.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "pass": 3
+   },
+   {
+    "quote": "The quantum computing market is small but moving fast. IMIR sizes it at USD 1.8 billion in 2025 and projects USD 12.9 billion by 2034, a 24.5% CAGR. Record funding, hardware milestones, new public listings and government mandates are all pulling in the same direction, while competition between qubit technologies keeps the field open for new leaders.",
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Financial fragility is the third risk. Quantinuum lost USD 192.6 million on USD 30.9 million of revenue in 2025 and Rigetti's revenue fell to USD 7.1 million from USD 10.8 million, so a delay in fault-tolerant roadmaps or a turn in equity markets could stall funding for several vendors at once.",
+    "url": "https://dataintelo.com/report/global-quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-quantum-computing-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 — 量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 — 量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Companies, Size & Trends 2026 ... — Quantum Computing Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size & Share Report, 2026-2033 — Quantum Computing Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size & Share 2026-2035 — Quantum Computing Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > quanta...",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size , Share, Growth, Report, 2034 — Quantum Computing Market Size , Share, Growth, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size , Share | CAGR of 37.0% — Quantum Computing Market Size , Share | CAGR of 37.0% Market.us https://market.us > report > quantum-...",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size , Share, Growth , Report, 2034 — Quantum Computing Market Size , Share, Growth , Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size , Share | Industry Report, 2035 — Quantum Computing Market Size , Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size, Share, Growth, Report, 2034 — Quantum Computing Market Size, Share, Growth, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size, Share | Industry Report, 2035 — Quantum Computing Market Size, Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size & Growth Analysis, 2033 — Quantum Computing Market Size & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Size, Share & Growth Report 2035 — Quantum Computing Market Size, Share & Growth Report 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/quantum-computing-market-2740",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Market Companies , Size & Trends 2026 ... — Quantum Computing Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Computing Companies in 2026 (76 Major Players) — Quantum Computing Companies in 2026 (76 Major Players) The Quantum Insider https://thequantuminsider.com > top-...",
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "29.5",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "世界の量子コンピューティング市場規模は、2025年には15億2000万米ドルと評価され、2026年の19億7000万米ドルから2034年には155億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです"
+   },
+   {
+    "value": "32.2",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています"
+   },
+   {
+    "value": "35.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています"
+   },
+   {
+    "value": "32.14",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "quote": "量子コンピューティング市場規模、CAGR 32.14%成長 | e.x.press"
+   },
+   {
+    "value": "27",
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "quote": "米国の量子経済開発コンソーシアム(QED-C)によると、世界の量子コンピュータ市場は、2024年時点で約10億7,700万ドル規模とされていましたが、その後、年平均成長率27％で推移し、2027年には約22億600万ドルに達すると見込まれています"
+   },
+   {
+    "value": "32.0",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "quote": "2026年から2032年までの予測期間では年平均成長率（CAGR）32.0%で成長し、2032年には868百万米ドルに達すると見込まれています"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "37.9",
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "quote": "CAGR 37.9%"
+   },
+   {
+    "value": "30",
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "quote": "Quantum computer hardware sales could be a USD$10B by 2045, with a CAGR of 30%"
+   },
+   {
+    "value": "32.0",
+    "url": "https://newscast.jp/smart/news/4334062",
+    "quote": "2026年から2032年までの予測期間では年平均成長率（CAGR）32.0%で成長し、2032年には868百万米ドルに達すると見込まれています"
+   },
+   {
+    "value": "29.73",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "quote": "CAGR of 29.73%"
+   },
+   {
+    "value": "29.99",
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "quote": "The U.S. quantum computing market size was estimated at USD 809.87 million in 2026 and is predicted to be worth around USD 8,506.37 million by 2035, at a CAGR of 29.99% from 2026 to 2035."
+   },
+   {
+    "value": "22.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum comp"
+   },
+   {
+    "value": "25.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Asia Pacific is the fastest-growing region in the Quantum Computing Market, projected to expand at a CAGR of 25.6% during the forecast period, driven by increasing government investments in quantum research, growing adoption of advanced computing technologies, and expanding quantum initiatives acros"
+   },
+   {
+    "value": "19.15",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "quote": "The quantum computing market was valued at USD 1.3 billion in 2025, expanding to USD 1.69 billion in 2026, and is projected to grow at a CAGR of 19.15% (2026–2035) to reach USD 8.18 billion by 2035."
+   },
+   {
+    "value": "37.0",
+    "url": "https://market.us/report/quantum-computing-market/",
+    "quote": "Quantum Computing Market Size, Share | CAGR of 37.0%"
+   },
+   {
+    "value": "36.46",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "quote": "CAGR of 36.46%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "41.6",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "北米は2025年に41.6%の市場シェアを占め、量子コンピューティング市場を牽引しました"
+   },
+   {
+    "value": "55.7",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "ハードウェア分野は2025年に市場シェアの55.7%を占め、市場を席巻した"
+   },
+   {
+    "value": "24.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "機械学習分野は2025年に市場シェア24.8%を占め、市場を席巻するだろう"
+   },
+   {
+    "value": "61.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "クラウド分野は2025年に61.8%のシェアを占め、市場を席巻するだろう"
+   },
+   {
+    "value": "23.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "防衛分野は2025年に市場シェア23.4%を占め、市場を席巻した"
+   },
+   {
+    "value": "32.2",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています"
+   },
+   {
+    "value": "27.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています"
+   },
+   {
+    "value": "35.8",
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "quote": "欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています"
+   },
+   {
+    "value": "62",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "quote": "・世界市場は、2021年にハードウェアセグメントで最も高い成長を記録し、セグメント収益の62%以上を占めた"
+   },
+   {
+    "value": "37.9",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "quote": "2035年までに37.9％のシェアを獲得"
+   },
+   {
+    "value": "52",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "quote": "量子コンピューティング市場におけるサービスシステムセグメントは、2035年末までに52%の市場シェアを獲得すると予測されています"
+   },
+   {
+    "value": "33",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "quote": "最適化セグメントは市場シェアの33%を占めると予想されています"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "quote": "アジア太平洋地域は、2035年までに市場シェアの26.9%を獲得すると見込まれています"
+   },
+   {
+    "value": "22.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum comp"
+   },
+   {
+    "value": "30.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "The global quantum computing market size was valued at USD 1.6 billion in 2025 and is projected to grow from USD 1.9 billion in 2026 to USD 8.0 billion by 2033, growing at a CAGR of 22.3% from 2026 to 2033. The market in North America dominated with a revenue share of 30.6% in 2025. The quantum comp"
+   },
+   {
+    "value": "63.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Based on offering: The system segment led the market with the largest revenue share of 63.5% in 2025."
+   },
+   {
+    "value": "48.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Based on deployment: The on-premise segment led the market with the largest revenue share of 48.4% in 2025."
+   },
+   {
+    "value": "29.3",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Based on application: The optimization segment led the market with the largest revenue share of 29.3 % in 2025."
+   },
+   {
+    "value": "21.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Based on end-user: The BFSI segment led the market with the largest revenue share of 21.7% in 2025 and is expected to grow at the fastest CAGR over the forecast period."
+   },
+   {
+    "value": "33.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "Europe dominated the quantum computing market with a share of 33.4% in 2025. This is attributable to the rising pattern of cooperation between the industrial and academic sectors within the European quantum computing market. These collaborations are expediting the progression of fresh quantum comput"
+   },
+   {
+    "value": "51.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "The Cloud led the segment accounting for 51.2% of the market share in 2025, driven by growing adoption of Quantum-as-a-Service (QaaS) platforms that provide cost-effective, scalable, and on-demand access to quantum computing resources without requiring significant infrastructure investments."
+   },
+   {
+    "value": "21.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "quote": "The BFSI segment led end use segment accounting for 21.2% of the market share in 2025, driven by increasing adoption of quantum computing for portfolio optimization, risk analysis, fraud detection, algorithmic trading, and advanced cybersecurity applications across financial institutions."
+   },
+   {
+    "value": "6",
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "quote": "The EU accounts for 6% of global quantum patents despite hosting a disproportionately large share of the world's quantum technology companies, reflecting a structural gap between research activity and commercial IP output"
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "quote": "In terms of offerings, services dominate the market, capturing a 40.0% share in 2026, and is also projected to grow at a leading 39.2% CAGR through 2040 for sustained integration support."
+   },
+   {
+    "value": "39.2",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "quote": "In terms of offerings, services dominate the market, capturing a 40.0% share in 2026, and is also projected to grow at a leading 39.2% CAGR through 2040 for sustained integration support."
+   },
+   {
+    "value": "65.0",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "quote": "With respect to deployment modes, cloud-based deployment architecture dominates the industry (65.0%) in 2026 and is poised to experience a higher CAGR of 37.3% till 2040 by abstracting hardware constraints."
+   },
+   {
+    "value": "37.3",
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "quote": "With respect to deployment modes, cloud-based deployment architecture dominates the industry (65.0%) in 2026 and is poised to experience a higher CAGR of 37.3% till 2040 by abstracting hardware constraints."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-104855",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/quantum-readiness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://strainer.jp/tags/quantum-computing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4334062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4334062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/furu_kaggle/n/n1412be077531",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/quantum-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/featured-insights/the-rise-of-quantum-computing",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/quantum-computing-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/quantum-computing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/QuantumComputing/comments/1chaa7e/current_state_on_quantum_computing_what_are_the/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/quantum-computing-market-2740",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarketsblog.com/quantum-computing-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-report-captures-state-quantum-computing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arxiv.org/pdf/2202.12733",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technologymagazine.com/top10/top-10-quantum-computing-companies-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sites.google.com/view/intel-market-research/top-reports/quantum-computing-cloud-service-market-growth-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-quantum-computing-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "量子コンピュータ 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-104855",
+    "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/",
+    "https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/quantum-readiness",
+    "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "https://www.marketresearchfuture.com/ja/reports/quantum-computing-market-2583",
+    "https://www.jetro.go.jp/biz/areareports/special/2026/0301/cd0b5e673c976aa3.html",
+    "https://www.gminsights.com/ja/industry-analysis/quantam-computing-market",
+    "https://newscast.jp/news/1794161",
+    "https://www.fortunebusinessinsights.com/jp/量子コンピューティング市場-104855"
+   ]
+  },
+  {
+   "query": "量子コンピュータ 市場 シェア 上位 企業",
+   "results": [
+    "https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/",
+    "https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html",
+    "https://strainer.jp/tags/quantum-computing",
+    "https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%B8%82%E5%A0%B4-104855",
+    "https://www.atpress.ne.jp/news/4334062",
+    "https://x.com/KagawaTomo/article/2086933136869404932",
+    "https://diamond.jp/articles/-/384578",
+    "https://kabu.com/kabuyomu/market/1352.html",
+    "https://qcnavigator.hatenablog.com/entry/qc-pure-play"
+   ]
+  },
+  {
+   "query": "量子コンピュータ 市場 前年比 2025",
+   "results": [
+    "https://www.researchnester.com/ja/reports/quantum-computing-market/4910",
+    "https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf",
+    "https://straitsresearch.com/jp/report/quantum-computing-market",
+    "https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/",
+    "https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053",
+    "https://newscast.jp/smart/news/4334062",
+    "https://x.com/shocolt/article/2055936294706987425",
+    "https://note.com/furu_kaggle/n/n1412be077531",
+    "https://www.jetro.go.jp/biz/areareports/special/2026/0301/cd0b5e673c976aa3.html",
+    "https://tech-dictionary.com/quantum-computing-market-2026/"
+   ]
+  },
+  {
+   "query": "quantum computing market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+    "https://www.precedenceresearch.com/quantum-computing-market",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "https://www.mckinsey.com/featured-insights/the-rise-of-quantum-computing",
+    "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "https://www.rootsanalysis.com/quantum-computing-market",
+    "https://www.bccresearch.com/market-research/information-technology/quantum-computing-technologies-and-global-markets.html?srsltid=AYCX9vI6yDglGCXHgOhEduw_q9GalkjllJw-Dyz6y7-HFWRxUZQeMWXA",
+    "https://quantumconsortium.org/publication/2025-market-forecast-quantum-computing/",
+    "https://www.expertmarketresearch.com/reports/quantum-computing-market"
+   ]
+  },
+  {
+   "query": "quantum computing market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+    "https://www.mckinsey.com/featured-insights/the-rise-of-quantum-computing",
+    "https://market.us/report/quantum-computing-market/",
+    "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "https://www.rootsanalysis.com/quantum-computing-market",
+    "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "https://www.reddit.com/r/QuantumComputing/comments/1chaa7e/current_state_on_quantum_computing_what_are_the/",
+    "https://www.linkedin.com/pulse/top-7-quantum-computing-market-share-company-mystic-trumblex-hirzf/",
+    "https://www.gminsights.com/industry-analysis/quantam-computing-market",
+    "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point"
+   ]
+  },
+  {
+   "query": "quantum computing market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp",
+    "https://www.snsinsider.com/reports/quantum-computing-market-2740",
+    "https://www.marketsandmarketsblog.com/quantum-computing-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "https://www.linkedin.com/pulse/competitive-landscape-united-states-quantum-computing-services-w8l2c",
+    "https://mitsloan.mit.edu/ideas-made-to-matter/new-mit-report-captures-state-quantum-computing",
+    "https://market.us/report/quantum-computing-market/",
+    "https://arxiv.org/pdf/2202.12733",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "quantum computing market key companies share 2025",
+   "results": [
+    "https://www.precedenceresearch.com/quantum-computing-market",
+    "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-computing-market",
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+    "https://www.mckinsey.com/featured-insights/the-rise-of-quantum-computing",
+    "https://www.marketresearchfuture.com/reports/quantum-computing-market-2583",
+    "https://technologymagazine.com/top10/top-10-quantum-computing-companies-2025",
+    "https://sites.google.com/view/intel-market-research/top-reports/quantum-computing-cloud-service-market-growth-2025",
+    "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+    "https://www.intellectualmarketinsights.com/blogs/Top-Leading-Quantum-Computing-Companies-Globally-2025"
+   ]
+  }
+ ],
+ "missing": {}
+}

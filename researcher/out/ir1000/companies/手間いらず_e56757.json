@@ -1,0 +1,2097 @@
+{
+ "name": "手間いらず",
+ "aliases": [],
+ "context": "証券コード2477／情報・通信業／スタンダード（内国株式）／2026.06期 売上高2,185百万円 営業利益率73.6%",
+ "researched_at": "2026-11-02T14:45:42.517847+00:00",
+ "official_url": "https://www.temairazu.com/",
+ "identified_by": "search:yahoo_jp:手間いらず",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "2,185,279 2,414,083 228,803 10.5%",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "、お客様のおもてなしのために時間をたっぷり使うことができるようになり、",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーはお客様と宿泊施設を繋ぐ大切な存在",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務はサイトコントローラーで時間をかけずに効率的に、お客様対応や企画業務へ多くの時間を使う",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務を効率化し、お客様のおもてなしのための時間の創出で、質の高いサービス提供にも寄与",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、連携をしている販売先（OTA）、システム（BE、PMS）について教えてもらえませんか？",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊客を増やすために複数のOTAへ情報を掲載したとしても、サイトコントローラーでまとめて管理することができるので、管理コストを抑えて国内外問わず多彩な販路を拡大でき、今まで獲得できなかった潜在的な顧客を獲得することができます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊者の予約管理、チェックイン・チェックアウトの業務、客室の割り当て（アサイン）、在庫管理や料金管理も行うことができ、顧客情報管理ツールとしても利用可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "様々な販売先の客室在庫管理や宿泊予約情報、宿泊プランの料金設定もTEMAIRAZUひとつで設定可能です",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊予約サイト(OTA)やブッキングエンジン(BE)、ホールセラーなど多岐にわたる販売先と連携し、宿泊施設と各販売先及び、その先にいるお客様との架け橋になる販売管理の基幹を担うのがTEMAIRAZUのシステムです",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "集客チャネルの多様化を行うことで、お客様の目に留まる機会を増やします",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "キャンセル待ちのお客様管理を手間いらずの管理画面上で、在庫連動を行いながら管理することができる機能です",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "キャンセル待ちのお客様へ優先的にお部屋の確保ができるため、直接予約の比率UPを促進します",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "電話予約や当日直接お越しいただいたお客様の情報を手間いらずに登録でき、予約サイト以外の経路の予約もまとめて管理できます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "現在、連携をしている販売先（OTA）、システム（BE、PMS）について教えてもらえませんか？",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーはお客様と宿泊施設を繋ぐ大切な存在",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務はサイトコントローラーで時間をかけずに効率的に、お客様対応や企画業務へ多くの時間を使う",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務を効率化し、お客様のおもてなしのための時間の創出で、質の高いサービス提供にも寄与",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "直近365日間の在庫数に応じて、自動で日ごとに販売先を設定することができます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "管理する施設のグループ化とログインユーザーごとに管理する施設のグループを選択することができます",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "もともと客室の販売を部屋タイプ別にしていて、お客様に希望の客室カラーを聞いてアサインする運用をしていたのですが、なかなかお客様の希望に合わせられなかったり、確認するためのオペレーションも負担になっていたので、最初から客室カラー別に販売できるように変更しようとしました",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "当ホテルは客室ごとにカラーがあるので、推し活や女子会、ホカンス的な使い方をされることが多く、立地も相まって国内のお客様が多い現状です",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "コロナが落ち着いてからは周りの動きに合わせて価格は上がっているが、手間いらずの機能もうまく活用しながら販売調整ができているので、そこにちゃんとお客様ついてきていると感じます",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "これからも国内外の様々なゲストにお越しいただけるよう、集客・顧客管理においては、最適なサイトコントローラーサービスをご提供していきます",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様については、別で営業担当がおりますので、そこでの部屋数の調整も必要になりますし、滞在期間を延長されるお客様も多いので、毎日大きく変動するわけではありませんが、様々な経路で予約が入る中で、長期スパンで状況を見て客室在庫のコントロールができ、PMSともデータ連携して情報管理ができるのはとても助かります",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "私達が大切だと考えているのは、予約の管理で間違いがなく、お客様が予約を取りたいときに確実に取れることです",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "リピーター獲得のため、広告宣伝費をかけずに料理原価に振り切る方針で顧客満足度を上げ、1995年には22億円の設備投資を行い、その後もリピーターの満足度向上のために約5年スパンで数億円規模の設備投資を実施",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "設備投資と共に人への投資で、お客様のおもてなしに注力しています",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "そこには無駄や非効率な部分がたくさんありますが、そこがお客様の喜びに繋がり、それが旅館で働く価値になると思っています",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "まだ開業してから1年ほどですが、大阪の難波という、競合宿泊施設の多いエリアでたくさんのお客様に愛されるホテルに育てていきたいと思っています",
+    "url": "https://www.temairazu.com/case/zzzzhotel_namba",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーはお客様と宿泊施設を繋ぐ大切な存在",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "空いている客室を有効活用するために、直近のチェックイン日で日帰り入浴のお客様の客室利用などのデイユースプランやワーケーションでの利用なども面白いと思っています",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "業界全体で人手不足なので、24時間365日継続して管理することは、人の手では絶対にできないことなので、便利な機能をたくさん生み出してもらい、お客様と宿泊施設を繋ぐ存在として、これからも成長していってもらいたいです",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "少人数でインターネットの管理を行い、その分スタッフ様にはお客様へのおもてなしにお時間を使っていただきたい",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "各施設のスタッフもご宿泊されるお客様の情報を把握するために、手間いらずで予約情報の閲覧のみに権限を制限したアカウントを作成して、担当施設の予約だけを閲覧できるようにしています",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "凛とした和の室礼で、大切な方とゆっくりお過ごしいただく、大人のお客様だけの特別な10室です",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "わざわざ足を運ぶ地域だからこそ、お客様の数々の相談をもらう機会も多く、予約を管理する業務はとても重要なポイントだと思いサポートを行っております",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "これからも顧客満足度向上と予約センターの業務効率化のために、システム提供の部分だけでなく、ペーパーレス化へ繋がる情報提供も行い、共に街を施設を盛り上げられるようにサポートしていきます",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務はサイトコントローラーで時間をかけずに効率的に、お客様対応や企画業務へ多くの時間を使う",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "当ホテルは開業当初より欧米の富裕層を主なターゲットとしてプロモーションしており、ホテルの規模感や話題性なども相まって年間の稼働率も高く、8割以上が欧米からのインバウンドのお客様となっていました",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "当施設はブランドを大事にしているホテルですので、国内のお客様にリーチするために幅は広げつつも、バランスをとりながら掲載プランを増やしたり、掲載OTAや特集への参加を増やす取り組みをしてきました",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "多くのコールセンターは営業時間が18時までのところが多いと思いますが、手間いらずのカスタマーサポートセンターは21時まで繋がるので、宿泊されるお客様の対応が終わったあと遅い時間に作業をすることも多い私としてはとてもありがたいです",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "そして他の時間をお客様の対応や企画業務などに使うことができており、まさに手間いらず",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊者様は海外からのお客様だけでなく、結婚式を終えた方々が特別な時間を過ごすケースもあると思いますので、サイトコントローラーの役割として国内・海外の様々なシステムとシームレスな接続を行い、販路の拡大や業務効率化の実現を通して、宿泊者様への素敵な時間の創出にお役立ちできるよう尽力していきたいと思っております",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務を効率化し、お客様のおもてなしのための時間の創出で、質の高いサービス提供にも寄与",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "インターネットでの宿泊予約が主流となり、広くお客様に認知していただくために、複数の宿泊予約サイトに情報を掲載することが必要となってきました",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、複数の宿泊予約サイトの管理画面をそれぞれ操作して販売管理をすることは難しく、お客様の対応など日常的な業務で手一杯となり、煩雑な管理でトラブルが発生することは容易に想像できました",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "ホテルにとっていちばん大切な、お客様のおもてなしのために時間をたっぷり使うことができ、質の高いサービス提供にも手間いらずが寄与していると感じます",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "良い口コミやレビューをいただくことが多いので非常にありがたいのですが、その分お客様の期待値がとても高まっています",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "全7室というお部屋数の少ない施設ではありますが、全室がスイートルームとなっており、お客様へのおもてなしに関わる時間を最大限捻出できる環境を、手間いらずにおいても作る必要があると思い担当をさせていただいております",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "一方で施設を認知してもらうためには販売先を増やす必要があり、その分予約管理や在庫調整に関わる時間も増えてしまいます",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はどの部屋になるか当日まで分からず、施設におまかせいただいていました",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、18部屋すべてに特徴があるので、お客様が客室を選択できたほうが満足度が上がるのではないかと考え、18室それぞれを別の部屋タイプとして販売することにしました",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "宿自体を最大の商品として、いかに目の前のお客様に集中できる体制を整えられるかを意識しています",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "温泉山荘 だいこんの花 様は、オンラインでの宿泊販売に特化されており、お客様が予約（プラン）検索から予約確定まで迷われないような導線作りをされております",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーにとって使いやすいインターフェースが追求されている",
+    "url": "https://www.temairazu.com/case/oakwood_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "当ホテルでは日本語が読めない外国人スタッフも手間いらずの操作を行いますが、一度教えれば感覚的に操作することができているので、システム全体が親切な設計で、ユーザーにとって使いやすいインターフェースが追求されていると感じます",
+    "url": "https://www.temairazu.com/case/oakwood_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊業界のDXという一見限定的な市場に見えて、実際には全国数万の宿泊施設が顧客対象",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "『比較.com』においては、ショッピング、プロバイダー、旅行、資産運用といった様々な分野の商品・サービスに関する情報を、インターネットユーザーのニーズに沿って整理し提供しております",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他、顧客要望に応じた複数の機能改善を実施し、業務効率化による人材不足への対応と、宿泊施設の価値向上のための新たな施策に取り組むことが可能となっております",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "サイト『比較.com』においては、検索エンジンの最適化、ユーザーインターフェイスの改善、モバイルユーザビリティの向上等の対策を継続的に行いましたが、検索エンジンのアルゴリズムの影響を受け、サイトのトラフィックが減少しました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの質が向上",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務を効率化し、お客様のおもてなしのための時間の創出で、質の高いサービス提供にも寄与",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスラインナップ",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスを詳しく見る",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーは、飲食や航空業界向けのサービスも存在していますが、今回は宿泊業界で利用されているサイトコントローラーについて、どういったシステムなのか、導入するメリットや主な機能、導入する際の注意点などを詳しくご紹介します",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "信頼できる営業担当、対応の素早いカスタマーサポート、技術力のある開発チームなどのサポート体制が整っているサービスであることが大切です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "また、既存の機能で対応が難しい場合に、新しい機能追加について柔軟に相談できそうなサービスを選択しましょう",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーの導入実績が多いサービスは、運営が安定しているケースが多いです",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊予約と航空券をセットとしたダイナミックパッケージ商品の販売など、施設タイプやマーケットに特化した旅⾏会社も増えています",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "航空会社から航空座席や、ツアーオペレーターからオプショナルツアーなどの素材も仕⼊れ、旅⾏商品（パッケージツアー）を造成して販売することもあります",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "20年あまりサービス提供を続け、数多くの導入実績があり、様々な宿泊施設の課題に対応可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "国際的なサービスとも親和性が高いシステム構成で新しい販路・次世代サービス連携で販売をサポートし運営を最適化します",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "チャットボットサービスを搭載した宿泊予約サイトとの連携ができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "チャットボット搭載予約サイトと在庫を共有し、チャットボットサービスを最大限に活用できます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "管理業務を効率化し、お客様のおもてなしのための時間の創出で、質の高いサービス提供にも寄与",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "外部連携サービス",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "キヤノンITソリューションズ株式会社",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "新日本コンピュータサービス株式会社",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社鹿児島システムサービス",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社鳥海インターネットサービス",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社スマートホテルソリューションズ",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "リアルエージェントモジュール連携サービスを利用することで、旅行会社（リアルエージェント）からの予約情報や返室情報を手間いらずに取り込むことができます",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/article",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/article",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/contact/apply",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/contact/apply",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらず自動 | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "サービス導入のお申し込み",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらず.NET2 | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "サービス導入のお申し込み",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらずmini | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービス導入のお申し込み",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "これからも国内外の様々なゲストにお越しいただけるよう、集客・顧客管理においては、最適なサイトコントローラーサービスをご提供していきます",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "サービスお申し込み",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "サービスのご案内",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "The Apartment Bay YOKOHAMAは、ケン・コーポレーショングループが手掛ける、横浜みなとみらいのウェスティンホテル横浜併設の、30日以上の長期滞在に特化したロングステイサービスアパートメントです",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "連携パートナー",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富なパートナー連携で販路拡大や業務効率化を実現できます",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧を見る",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各バージョン毎の機能紹介については、下記よりご確認ください",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーとは？メリットや機能を紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーとは？メリットや機能を紹介",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーは、飲食や航空業界向けのサービスも存在していますが、今回は宿泊業界で利用されているサイトコントローラーについて、どういったシステムなのか、導入するメリットや主な機能、導入する際の注意点などを詳しくご紹介します",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーの導入による課題解決事例をご紹介",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラー手間いらずの導入事例で、導入していただいた施設様の業務改善や成功事例をご紹介します",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "実店舗を構え、窓⼝での旅⾏販売を⾏う旅⾏会社です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "以前は旅⾏代理店への在庫の受け渡しや返室は、FAXや電話で⾏っていましたが、最近ではサイトコントローラーで⼀括管理することが可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "独自連携でパートナー拡大",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "Booking.comの推奨サイトコントローラーとしてプレミアパートナーに認定",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらずはBooking.comのコネクティビティ・パートナープログラムにて、ビジネスバリュー提供、Booking.comプロダクト機能実装、高クオリティ接続確立、エンゲージメントの４つのカテゴリー全てにおいて取り組みが高く評価され、昨年に引き続きトップレベルとされるプレミアパートナーに認定されています",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー紹介",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー問い合わせ",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/article",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー関連",
+    "url": "https://www.temairazu.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/contact/apply",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらず自動 | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらず.NET2 | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらずmini | サービス紹介 | サイトコントローラー 手間いらず",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "サービス紹介",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "ちょうどそのタイミングで初期投資が必要なかった自社HPの予約システムの導入をする際に、サイトコントローラー『手間いらず』を紹介してもらいました",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/zzzzhotel_namba",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/zzzzhotel_namba",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/aonagi",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様ご紹介",
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.temairazu.com/case/oakwood_tokyo",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "様々な宿泊予約サイトに掲載している客室在庫調整や宿泊プランの料金設定、",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "一画面で在庫・料金設定を把握・調整可能",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊施設様の予約管理業務に必要な客室在庫・プラン料金・予約情報の3つの要素を1つの画面に集約し、スピーディーな状況把握・管理ツールアクセスを実現しました",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形態の宿泊施設での導入実績があり、在庫・料金・予約管理の業務効率化から",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊予約サイトの在庫・料金・予約情報の管理から",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "なぜオーバーブッキングを防げるのか？自動在庫連携の仕組み",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーの主要な4つの機能（在庫・料金・予約・分析）",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、OTAごとに管理画面にログインして、販売する客室の在庫数を調整したり、宿泊プランの販売価格を変更するなどの各種設定を行う必要があり、作業の手間と時間がかかります",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "また、OTAごとに在庫数を分散して掲載すると、在庫数が少なくなった場合に販売できない予約サイトができてしまい、予約検討者の離脱や売れ残りが発生するリスクもあります",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーを導入することで、複数のOTAを1つの画面でまとめて管理することができるようになり、予約情報の取得や在庫調整も自動で行われます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "仕組みとしては、一つのOTAで予約が成立すると、その予約情報をサイトコントローラーが自動で取得し、連携するすべてのOTAで同じ情報が共有され、他のOTAの在庫数を自動で減らします",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、OTAごとに管理画面にログインして在庫数を調整する必要は無くなり、最後の１部屋まですべてのOTAで予約を受け付けることができるようになります",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "連携するすべてのOTAで同じ在庫数の情報が共有されるため、最後の１部屋まですべてのOTAで予約を受け付けることができ、販売機会の損失を防ぐことができます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "また、効率的な在庫管理を始めとしたサイトコントローラー機能の活用によって、ターゲットへの有効的なアプローチによる稼働率の向上や、 競合施設との差別化を図る的確な価格設定による販売の最適化を実現し、収益の最大化を図ることができます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "サイトコントローラーの主な機能は、在庫管理、料金管理、予約管理、分析機能の4つが挙げられます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "各OTAに登録している客室在庫の管理を一括で行うことができます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "販売したい客室を各OTA共通の在庫として販売し、予約が入ったら連携している全てのOTAの在庫を自動で一括調整します",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "電話などOTA以外で予約が入った際に手動で在庫数を調整したり、全客室まとめて販売を停止する設定も可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊者の予約管理、チェックイン・チェックアウトの業務、客室の割り当て（アサイン）、在庫管理や料金管理も行うことができ、顧客情報管理ツールとしても利用可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "OTAの販売管理工数削減といった業務の効率化や、新規予約獲得による売上アップのための販路拡大など、自施設に必要な機能や強みを持つサイトコントローラーを選ぶことで最適な管理体制やコスト削減を実現することができます",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "以前は旅⾏代理店への在庫の受け渡しや返室は、FAXや電話で⾏っていましたが、最近ではサイトコントローラーで⼀括管理することが可能です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊施設から客室在庫及び料⾦の提供を受け、販売を主とする旅⾏会社へと卸売りをする旅⾏会社です",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "宿泊者の予約管理、チェックイン・チェックアウトの業務、客室の割り当て、在庫や料⾦管理を⾏うことができるシステムです",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "収益最⼤化を⽬指すために、需要予測、価格設定、在庫管理、予約管理、競合分析などの要素を総合的に管理するためのシステムで、AIなど独⾃のアルゴリズムを基に最適な宿泊料⾦を算出します",
+    "url": "https://www.temairazu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "様々な販売先の客室在庫管理や宿泊予約情報、宿泊プランの料金設定もTEMAIRAZUひとつで設定可能です",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらずにある料金・在庫を確認した上で予約が確定される連携方式で、オーバーブッキングのリスクを最小限に抑えることができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "空室在庫の管理",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "複数の宿泊予約サイトの客室在庫の出し入れを自動で行います",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "予約情報入力のオプションと組み合わせることで在庫連動が可能となり、調整漏れの心配も無くなります",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "在庫数を表示可能なカレンダー形式で、月ごとにレート変更や手仕舞いなど販売状況を把握した上で設定を調整することができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "アカウントごとに在庫・料金操作や予約情報の閲覧可否などの権限を設定することもできるので、担当する業務に合わせてご利用いただくことができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "コネクティングルームとしての販売と個々の客室の販売を同時に行うことができ、２つの売り方を共通する在庫として管理できます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "競合施設の日々の販売価格や在庫状況をデータで取得し、2つの条件値でプランの販売価格を比較閲覧することができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "キャンセル待ちのお客様管理を手間いらずの管理画面上で、在庫連動を行いながら管理することができる機能です",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "在庫一覧印刷機能",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "月単位で日ごとの在庫数と予約数の一覧を簡単に作成し、プリントすることができます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "チャットボット搭載予約サイトと在庫を共有し、チャットボットサービスを最大限に活用できます",
+    "url": "https://www.temairazu.com/about/temairazu",
+    "pass": 1
+   },
+   {
+    "quote": "予約通知受信［下り］ 在庫調整［上り］",
+    "url": "https://www.temairazu.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "直近365日の在庫数（稼働率）に合わせて、予約サイトの販売価格を自動で調整できます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "直近365日間の在庫数に応じて、自動で日ごとに販売先を設定することができます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "競合施設の日々の販売価格や在庫状況をデータで取得し、2つの条件値でプランの販売価格を比較閲覧することができます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "短時間に大量予約が発生した際に自動手仕舞いを行い、在庫・料金調整の時間を確保することが可能",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "予約が日をまたいで24時以降にチェックイン可能なプランを販売している場合でも、予め設定していた時刻までは当日分の扱いとして在庫・料金の管理を行うことができます",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "在庫数の変更や売り止め、料金設定の変更など、手間いらず管理画面での操作の履歴をアカウント別に確認・把握する事ができる機能です",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "在庫数アラート",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "予約情報取得や在庫の手動変更によって在庫数が設定値以下になった場合にアラートを通知することができます",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "即座に在庫数を把握することができ、先々の販売状況が良好な日程を素早く確認、管理することができます",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "在庫数一括登録",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "表計算ソフトを用いて在庫数を一括で管理することができます",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "この機能により、シーズンごとなど長期間の在庫状況の把握、より正確な在庫コントロールが可能となります",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "短時間予約発生アラートや在庫数アラートは、どのように通知に気づくことができるのでしょうか",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "1画面で複数施設の在庫・料金・予約状況を確認可能",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "客室在庫・予約管理",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "複数の施設の客室在庫やプラン料金の設定を1つの画面でまとめて管理することができます",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "手間いらずは在庫調整や料金調整などの日常的な作業で毎日触っています",
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "pass": 1
+   },
+   {
+    "quote": "法人のお客様については、別で営業担当がおりますので、そこでの部屋数の調整も必要になりますし、滞在期間を延長されるお客様も多いので、毎日大きく変動するわけではありませんが、様々な経路で予約が入る中で、長期スパンで状況を見て客室在庫のコントロールができ、PMSともデータ連携して情報管理ができるのはとても助かります",
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "pass": 1
+   },
+   {
+    "quote": "部屋タイプがたくさんあったので、導入前は客室在庫の管理が非常に大変でしたが、まとめて管理ができるようになったのでとても助かりました",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "複数のOTAの客室在庫とプラン料金をまとめてコントロールできる、宿泊施設の販売強化の鍵となるシステムだからこそ、経営戦略のひとつとしてご活用いただいております",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "他の施設の販売動向を把握することで、効果的な価格設定ができるので、レートサーベイで取得された日々の販売価格や在庫状況を、数日ごとに細かくチェックしています",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "日常的なサイトコントローラーの操作としては、在庫の調整や予約確認、料金ランクの変更やカレンダー設定などを行っています",
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月28日",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月14日（月）",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月22日（水）〜24日（金）",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日（水）",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月23日（水）〜25日（金）",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月8日（火）",
+    "url": "https://www.temairazu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月28日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月16日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月12日",
+    "url": "https://www.temairazu.com/information/news",
+    "pass": 1
+   },
+   {
+    "quote": "1974年に客室6室の民宿旅館として開業した宿に生まれ、大学卒業後に別の旅館での修行を経て、1990年から経営に携わる",
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "pass": 1
+   },
+   {
+    "quote": "1936年に伊東の老舗旅館「陽気館」の別館として開業した「熱川館」に生まれ、大学卒業後に大手ホテルチェーンでセールスやマーケティングなどを経験した後に、2006年に四代目社長に就任",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "2020年に入社し、HOTEL K5には開業準備段階から関わっている",
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "1964年に「磯の宿そとぼう」として開業した宿に生まれ、各地の旅館で修行をした後に、2代目社長に就任",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "2014年に同施設を「是空」としてリニューアルオープンし、自らもサイトコントローラーを駆使して販売管理業務に関わりつつ宿の運営に携わっている",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "2005年頃に紀伊乃国屋へ入社した当初は、まだサイトコントローラーは利用しておらず、ほとんどは自社公式サイトからの流入で、OTAもじゃらんしか掲載しておらず、手動で予約の管理を行っていました",
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "pass": 1
+   },
+   {
+    "quote": "2017年の開業当初は他社サイトコントローラーを利用してOTAなどの管理をしていました",
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月18日 15:11",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降の展望：宿泊DXの次は「情報の一元管理」",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期決算によると、売上高は",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、料金調整やレポート生成を自動化する「手間いらず自動」をリリース",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期の内訳は、固定収入が",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期の自己資本比率は",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降は、",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "2022年10月3日 3:50",
+    "url": "https://diamond.jp/articles/-/310473",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月30日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月24日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期 有価証券報告書",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月18日",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期 第1四半期決算短信[日本基準](非連結)",
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期 決算短信〔日本基準〕（非連結）",
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期 第3四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月期 第2四半期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月11日 16:38",
+    "url": "https://note.com/temairazu/n/n7c486ae14c09",
+    "pass": 3
+   },
+   {
+    "quote": "1971年10月16日生まれ 福島県出身",
+    "url": "https://note.com/temairazu/n/n7c486ae14c09",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "国内宿泊予約サイトのプランに対しても連泊制限設定に連動する自動売止設定を行うことで、連泊・高単価プランを優先的に販売することが可能で、稼働率向上や平均客室単価を上げる販売戦略を実行することができます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "稼働が高い日やチェックイン日間近に海外サイトなど手数料が高いサイトの販売を停止したり、自社のみへの販売となるように調整を行うことで、収益の最大化に繋がる販売を行うことが可能になります",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "施設様の過去の実績に基づいた客室稼働率や平均客室単価、RevPARやブッキングカーブ、リードタイム集計などを含む、予約・売上状況をサイト別と部屋タイプ別に確認・分析することができます",
+    "url": "https://www.temairazu.com/service/jido",
+    "pass": 1
+   },
+   {
+    "quote": "繁忙期やイベント日などの稼働が高い日程には少人数でのプラン販売を停止することで、平均客室単価を向上させる販売が可能となります",
+    "url": "https://www.temairazu.com/service/net2",
+    "pass": 1
+   },
+   {
+    "quote": "※ 1施設当たりの月額料金(税別)になります",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "※ 別途、予約1件ごとに従量制料金がかかります",
+    "url": "https://www.temairazu.com/service/mini",
+    "pass": 1
+   },
+   {
+    "quote": "開始1年目で自社HPでの売上が数千万円規模となり、OTAからの予約が増加して、リアルの旅行会社からの送客が減ることで、手数料の削減効果があり、不信に思っていた当時の社長や予約担当者を納得させることができました",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "一元管理のシステムなので、多くのサイトの情報を一括で調整できる部分はもちろんですが、最後の1室は自社HPなど特定の予約サイトで売るようにしたり、予約が比較的多い時期は、手数料が高めのサイトは数部屋あったら売止をかけるなど細かく調整できるところがいいです",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "客室数は決まっていて、いかに効率的に一室の単価を上げて売るかというのが重要なので、日々、手間いらずの画面をトレーダーのように見て調整をしていますが、毎日やってても飽きないですね",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "また、燃料費の高騰や備品コスト、人件費上昇などに伴って各宿のADR（平均客室単価）も上がっていると思いますが、他社の価格を見ながらレートコントロールを密にするようになり、結果として稼働率、ADR共に上昇傾向にあります",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "こういったことをしっかりやっていけば、客室単価も、売上も上がると確信していましたので、「TEMAIRAZU YIELD」の機能はとてもありがたいです",
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "pass": 1
+   },
+   {
+    "quote": "ダッシュボードもわかりやすく、予約室数や売上、稼働率、平均単価などを、サイト別と部屋別に数字を追うことができます",
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "pass": 1
+   },
+   {
+    "quote": "それから、各OTAの日毎の料金が料金確認ページからぱっと確認できるので、お客さんからお電話で宿泊料金のお問い合わせがあった際にすぐに案内できたり、PMSへデータ出力する際のインバウンドサイトの手数料変換機能が備わっていて簡単に設定できたりと、とにかくやりたいことが簡単に実現できるところが手間いらずのいいところです",
+    "url": "https://www.temairazu.com/case/zzzzhotel_namba",
+    "pass": 1
+   },
+   {
+    "quote": "システムの動作も軽く、使い勝手が良いこと、他社のサイトコントローラーと比較して利用料金も安価だったため導入を決定しました",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "また、夏季冬季の長期休暇や年末年始などの繁忙期のファミリータイプの販売では、人数別販売停止の機能を利用して、3名以下の受け入れを止めて客室単価を上げる販売設定も行っています",
+    "url": "https://www.temairazu.com/case/zekuu",
+    "pass": 1
+   },
+   {
+    "quote": "ストック収益型の堅牢なビジネスモデル",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "月額固定利用料（基本・オプション）と、予約数に応じた変動通信料",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "解約率は低水準を維持",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "この「地味だが確実な進化」が、20年以上の黒字経営と解約率の低さにつながっている",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "当事業における収入は、主に月額固定の基本利用料・オプション利用料等と予約数に応じて課金がされる変動料金で構成されています",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業における収入は、主に月額固定の広告収入と成果報酬型の広告収入で構成されています",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度においては、訪日旅行者が高水準を維持したことにより宿泊予約数が増加し、月額変動収入が増加いたしました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、月額固定収入も増加し、これらが当社の売上高・利益にも反映されました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度において、アプリケーションサービス事業は、需給の変化もみられる市場環境の下で、当社が進めた販路拡大および外部サービスとの連携強化により、宿泊予約数が増え月額変動収入が増加いたしました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、低い水準の解約率を維持し、新規契約を増やしたことにより月額固定収入も増加し、これらが当社の売上高・利益に反映されました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本ノートでは、様々な高収益企業のビジネスモデル、強さの秘密を独自の視点で解説しています",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "高収益企業のビジネスモデルを解説｜稼ぎの方程式を解き明かす｜野上隆徳｜note",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "高収益企業のビジネスモデルを解説し、営業利益率が高い企業の稼ぎの方程式を解き明かす",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "ストック収益型の堅牢なビジネスモデル",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "“手間をいとわない手間いらず”──この逆説的な姿勢こそが、令和の日本企業における最強のビジネスモデルだ",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "高収益企業のビジネスモデルを解説｜稼ぎの方程式を解き明かす",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊業を救うDXツール「サイトコントローラー」とは？関所ビジネスの驚くべき収益性 | 山田英夫のビジネスモデル・ラボ | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/310473",
+    "pass": 3
+   },
+   {
+    "quote": "山田英夫のビジネスモデル・ラボ",
+    "url": "https://diamond.jp/articles/-/310473",
+    "pass": 3
+   },
+   {
+    "quote": "そのビジネスモデルを明らかにし、今後を展望する",
+    "url": "https://diamond.jp/articles/-/310473",
+    "pass": 3
+   },
+   {
+    "quote": "丸井の新しいビジネスモデル「売らない店」は、なぜ売れているのか",
+    "url": "https://diamond.jp/articles/-/310473",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業系統図〕",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "16億34百万円（構成比75.2％）",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、アプリケーションサービス事業及びインターネットメディア事業の２つのセグメントを構成しております",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報は次のとおりです",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの状況は以下のとおりです",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、アプリケーションサービス事業の売上高は2,408,545千円(前期比10.8％増)、セグメント利益は1,915,264千円(前期比8.1％増)となりました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、インターネットメディア事業の売上高は5,537千円(前期比48.8％減)となり、セグメント損失は",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "△2,432千円(前年同期はセグメント利益1,485千円)となりました",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注） セグメント間の取引はありません",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【営業利益率73%】「 手間いらず 」が築いた“最強のSaaS ... — 【営業利益率73%】「 手間いらず 」が築いた“最強のSaaS ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず 株式会社（2477）— 企業情報 - ENVALITH — 手間いらず 株式会社（2477）— 企業情報 - ENVALITH ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/2477/overview",
+    "pass": 3
+   },
+   {
+    "quote": "会社名から 手間いらず 手間いらず ? - 企業分析ナレッジ — 会社名から 手間いらず 手間いらず ? - 企業分析ナレッジ SPLENDID21 https://sp-21.co.jp > column",
+    "url": "https://sp-21.co.jp/column/159/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | 投資家向け情報 | 手間いらず 株式会社 — IRライブラリ | 投資家向け情報 | 手間いらず 株式会社 手間いらず株式会社 https://www.temairazu.co.jp > 投資家向け情報",
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 2025 | 投資家向け情報 | 手間いらず 株式会社 — 決算 短信 2025 | 投資家向け情報 | 手間いらず 株式会社 手間いらず株式会社 https://www.temairazu.co.jp > ... > IRライブラリ > 決算短信",
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "pass": 3
+   },
+   {
+    "quote": "【 手間いらず 】[2477]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 手間いらず 】[2477]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2477",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず （2477）のIR情報・ 決算資料 - IRBANK — 手間いらず （2477）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > 手間いらず",
+    "url": "https://irbank.net/2477/ir",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず 【2477】の 事業 内容 - キタイシホン — 手間いらず 【2477】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2477/business",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず 株式会社 — 手間いらず 株式会社 手間いらず株式会社 https://www.temairazu.co.jp",
+    "url": "https://www.temairazu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【 手間いらず 】[2477]IR情報 中期経営計画や決算短信 | 日経 ... — 【 手間いらず 】[2477]IR情報 中期経営計画や決算短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2477",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず の「TEMAIRAZU」シリーズへの不正アクセス ... — 手間いらず の「TEMAIRAZU」シリーズへの不正アクセス ... piyolog https://piyolog.hatenadiary.jp > entry > 2026/09/30",
+    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
+    "pass": 3
+   },
+   {
+    "quote": "【2477】 手間いらず のIR、決算を聞く - バリュートレンド — 【2477】 手間いらず のIR、決算を聞く - バリュートレンド e-actionlearning.jp https://e-actionlearning.jp > visit > 2018/11",
+    "url": "https://e-actionlearning.jp/visit/2477/2018/11",
+    "pass": 3
+   },
+   {
+    "quote": "代表メッセージ | 採用情報 | 手間いらず 株式会社 — 代表メッセージ | 採用情報 | 手間いらず 株式会社 手間いらず株式会社 https://www.temairazu.co.jp > 採用情報",
+    "url": "https://www.temairazu.co.jp/recruit/c_message",
+    "pass": 3
+   },
+   {
+    "quote": "宿泊予約サイトコントローラー「 手間いらず ... - Instagram — 宿泊予約サイトコントローラー「 手間いらず ... - Instagram Instagram https://www.instagram.com > temairazu_cm",
+    "url": "https://www.instagram.com/temairazu_cm/",
+    "pass": 3
+   },
+   {
+    "quote": "手間いらず 株式会社の社員 インタビュー | IT/Web業界の転職 ... — 手間いらず 株式会社の社員 インタビュー | IT/Web業界の転職 ... 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/1896/interview",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.temairazu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/about/temairazu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/information/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/article",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/contact/apply",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/service/jido",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/service/net2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/service/mini",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/toggle_suidobashi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/bayyokohama",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/izu_hamanoyu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/atagawakan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/k5_tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/zzzzhotel_namba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/zekuu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/kinokuniya_bettei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/trunk_hotel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/aonagi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/daikon_no_hana",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.com/case/oakwood_tokyo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.temairazu.com/images/sitecontroller-issue.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.temairazu.com/images/result01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/beyondge/n/n74066521d654",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/310473",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2477/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.temairazu.co.jp/recruit/c_message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/temairazu/n/n7c486ae14c09",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "手間いらず",
+   "results": [
+    "https://www.temairazu.com/",
+    "https://www.temairazu.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E6%89%8B%E9%96%93%E3%81%84%E3%82%89%E3%81%9A",
+    "https://www.instagram.com/temairazu_cm/",
+    "https://kizankan.co.jp/blog/temairazu-access/20261010",
+    "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
+    "https://x.com/temairazu_cm",
+    "https://www.facebook.com/temairazucm/",
+    "https://ja.wikipedia.org/wiki/手間いらず",
+    "https://www.temairazu.co.jp/info"
+   ]
+  },
+  {
+   "query": "手間いらず ビジネスモデル",
+   "results": [
+    "https://note.com/beyondge/n/n74066521d654",
+    "https://diamond.jp/articles/-/310473",
+    "https://envalith.com/ja/companies/2477/overview",
+    "https://strainer.jp/notes/453",
+    "https://sp-21.co.jp/column/159/",
+    "https://www.wantedly.com/companies/temairazu/stories",
+    "https://kizankan.co.jp/blog/temairazu-access/20261010",
+    "https://www.temairazu.com/partner",
+    "https://www.youtube.com/watch?v=cF2AM_rdy4w",
+    "https://ja.wikipedia.org/wiki/手間いらず"
+   ]
+  },
+  {
+   "query": "手間いらず 決算説明資料",
+   "results": [
+    "https://www.temairazu.co.jp/ir/news",
+    "https://www.temairazu.co.jp/ir/relation/2025?type=financial",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2477",
+    "https://irbank.net/2477/ir",
+    "https://www.mec.co.jp/ir/library/",
+    "https://www.buffett-code.com/company/2477/library",
+    "https://www.temairazu.co.jp/ir/relation/2026?type=financial_results",
+    "https://treelazy.com/stock/jp/2477/conference",
+    "https://treelazy.com/stock-jp/2477/conference",
+    "https://irbank.net/E05564/reports"
+   ]
+  },
+  {
+   "query": "手間いらず 事業系統図",
+   "results": [
+    "https://kitaishihon.com/company/2477/business",
+    "https://www.temairazu.co.jp/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2477",
+    "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
+    "https://e-actionlearning.jp/visit/2477/2018/11",
+    "https://jigyou-v2.kabu-trendpro.com/company/2477/",
+    "https://www.facebook.com/temairazucm/",
+    "https://kizankan.co.jp/blog/temairazu-access/20261010",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "https://seizo-bu.com/qc-pro/新qc7つ道具の使い方/系統図法の作り方（テンプレート付）と事例を知/"
+   ]
+  },
+  {
+   "query": "手間いらず 社長 インタビュー",
+   "results": [
+    "https://www.temairazu.co.jp/recruit/c_message",
+    "https://note.com/temairazu/n/n7c486ae14c09",
+    "https://www.instagram.com/temairazu_cm/",
+    "https://www.green-japan.com/company/1896/interview",
+    "https://sp-21.co.jp/column/159/",
+    "https://paiza.jp/recruiters/931",
+    "https://e-actionlearning.jp/visit/2477/2018/11",
+    "https://www.travelvoice.jp/20171002-98062",
+    "https://ja.wikipedia.org/wiki/%E6%89%8B%E9%96%93%E3%81%84%E3%82%89%E3%81%9A"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部8頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部8頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部8頁・検索5回）"
+ }
+}

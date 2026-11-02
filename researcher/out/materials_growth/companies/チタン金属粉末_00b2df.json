@@ -1,0 +1,1699 @@
+{
+ "name": "チタン金属粉末",
+ "en": "titanium metal powder",
+ "aliases": [
+  "titanium powder",
+  "Ti-6Al-4V powder",
+  "チタン粉末"
+ ],
+ "context": "金属粉末",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:44:03.219612+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のチタン粉末市場規模は 2024 年に 15 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）14.8%超で成長すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Size, By Product, 2021-2034 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "グレード5チタンの市場規模は2024年に7億9,800万米ドルを超え、2025年から2034年にかけて年平均成長率（CAGR）15.2%で推移すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のチタン粉末市場規模、2021〜2034年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点で、米国のチタン粉末市場規模は約3億6,210万米ドルと推定されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2024",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "１.市場規模と予測データ：世界のチタンベースの粉末市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "HDHチタン粉末の世界市場（2026年～2032年）、市場規模（10～25 μm、25～45 μm、45～106 μm、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "HDHチタン粉末の世界市場（2026年～2032年）、市場規模（10～25 μm、25～45 μm、45～106 μm、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、HDHチタン粉末の世界市場規模、市場動向、セグメント別予測（10～25 μm、25～45 μm、45～106 μm、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "世界のHDHチタン粉末市場規模は、2025年の10億6,900万米ドルから2032年には17億1,000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "米国におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "中国におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "欧州におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、地域別のHDHチタン粉末の世界市場の歴史的レビューとして、各地域および国別の市場規模（2021年から2026年までの年間売上と収益）、およびアメリカ、APAC、ヨーロッパ、中東・アフリカにおける売上成長率が詳述されている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、HDHチタン粉末の世界市場予測が示されており、地域別、国別、タイプ別、および用途別の市場規模予測（年間売上と収益、2027年から2032年まで）が含まれている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "アトマイズ法の既存企業は、市場規模の経済、自社保有のスクラップ、自動車ティア1メーカーとの委託加工契約を活用していますが、シェアを守るためにプラズマ法や水素プラズマ法への設備更新にも投資しています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、航空宇宙、防衛、電気自動車（EV）分野からの堅調な需要に後押しされ、2025年の市場規模のかなりの割合を占めました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模と成長予測",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,500 換算",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Size & Share 2025 to 2034",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market size was valued at USD 1.5 billion in 2024 and is estimated to grow at a CAGR of over 14.8% from 2025 to 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 1.5 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 6.1 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Size, By Product, 2021-2034 (USD Billion)",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Grade 5 titanium was valued over USD 798 million in 2024 and will observe a CAGR f around 15.2% from 2025 to 2034. Grade 5 titanium powders are extending use across marine, aerospace, medical and chemical fields and are expected to be on the rise due to the offering of significant resistance to corrosion.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Titanium Powder Market Size, 2021- 2034 (USD Million)",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.5 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size in 2034",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.0 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7.8 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD Billion 1.66 billion in 2025.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2036, the Titanium Powder Market is expected to be worth USD Billion 7.76 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "From 2026 to 2036, the market is projected to expand at a CAGR of 14.8%.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to create an incremental opportunity of USD Billion 5.81 billion between 2026 and 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market is projected to grow at a CAGR of 14.8% from 2026 to 2036. The analysis covers more than 30 countries, with the leading markets detailed below.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Billion 1.95 to USD Billion 7.76, at a CAGR of 14.8%",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, the global titanium powder market is expected to be worth USD Billion 1.95 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "By 2036, the titanium powder market is expected to be worth USD Billion 7.76 billion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Historical Market Size Value (USD Million) Analysis, 2021 to 2025",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Metal Powder Market To Reach $900.9 Million By 2033",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Metal Powder Product Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Metal Powder End Use Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Metal Powder Regional Outlook (Volume, Kilotons; Revenue, USD Million, 2021 - 2033)",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のチタン粉末市場規模は 2024 年に 15 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）14.8%超で成長すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、医療分野では、3D プリンティングによるチタン粉末の利用が増加し、人工器官や筋肉代替デバイスの設計に活用されていることから、急速に拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、より効率的な粉末製造方法の導入や 3D プリンティング技術の活用も、業界の拡大を後押ししている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "合金粉末セグメントの売上高は 2024 年に約 10 億米ドルとなり、2025 年から 2034 年にかけて年平均成長率（CAGR）15.3%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "グレード5チタンの市場規模は2024年に7億9,800万米ドルを超え、2025年から2034年にかけて年平均成長率（CAGR）15.2%で推移すると予測されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "グレード5チタン粉末は、海洋、航空宇宙、医療、化学分野での用途が拡大しており、優れた耐食性を備えていることから、需要は増加すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野で使用されるチタン粉末市場の年平均成長率（CAGR）は、2025年から2034年にかけて15.5%と推定されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 to 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "５.主要生産地域のデータ：世界のチタンベースの粉末市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：チタンベースの粉末の世界の主要生産地域、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：アプリケーション別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別セグメントの販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "世界のHDHチタン粉末市場規模は、2025年の10億6,900万米ドルから2032年には17億1,000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "米国におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "中国におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "欧州におけるHDHチタン粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、地域別のHDHチタン粉末の世界市場の歴史的レビューとして、各地域および国別の市場規模（2021年から2026年までの年間売上と収益）、およびアメリカ、APAC、ヨーロッパ、中東・アフリカにおける売上成長率が詳述されている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "Mordor Intelligenceによると、金属粉末市場の規模は、2025年の72億1,000万米ドル、2026年の75億2,000万米ドルから、2031年までに95億3,000万米ドルへと拡大すると予測されており、2026年から2031年までの年間平均成長率（CAGR）は4.86％となる見込みです",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "「その他の種類」については、整形外科用・歯科用インプラント、極超音速システム、半導体の熱管理部品において超高純度粉末の需要が高まっていることから、年率5.85％の成長が見込まれています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "「その他のプロセス」は、2031年までCAGR5.38％で拡大すると見込まれます",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に金属粉末市場シェアの44.26%を占め、2031年までに5.48%という最も高いCAGRで推移すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、インドの生産連動型インセンティブ（PLI）制度により、2025年にはプレス・焼結能力が大幅に拡大しました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の72億1,000万米ドル、2026年の75億2,000万米ドルから、2031年までに95億3,000万米ドルへと拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは4.86%です",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に44.26%のシェアを占め、2031年までに5.48%のCAGRで推移すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market size was valued at USD 1.5 billion in 2024 and is estimated to grow at a CAGR of over 14.8% from 2025 to 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Grade 5 titanium was valued over USD 798 million in 2024 and will observe a CAGR f around 15.2% from 2025 to 2034. Grade 5 titanium powders are extending use across marine, aerospace, medical and chemical fields and are expected to be on the rise due to the offering of significant resistance to corrosion.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 to 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder industry was valued at USD 1.5 billion in 2024 and is estimated to grow at a CAGR of over 14.8% from 2025 to 2034, driven by increased R&D and innovation in healthcare.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The alloyed powder segment was valued at USD 1 billion in 2024 and is anticipated to expand at a 15.3% CAGR during 2025-2034 due to their higher tensile strength, lightweight nature, and resistance to extreme temperatures.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. titanium powder market was valued at USD 362.1 million in 2024 and is expected to grow at a 15.4% CAGR, primarily fueled by surging demand from the aerospace and automotive sectors.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 to 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth at 14.8% CAGR reflects the compounding effect of expanding additive manufacturing installed base, increasing adoption in serial production, and new application development across automotive and industrial sectors.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "From 2026 to 2036, the market is projected to expand at a CAGR of 14.8%.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market is expanding at 14.8% CAGR driven by additive manufacturing adoption, aerospace qualification, and medical device growth. Cost barriers constrain broader adoption, while production innovation enables market expansion.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Country Growth Comparison Titanium Powder Market Cagr (2026 2036)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "China leads at 20.0% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "India leads at 18.5% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany leads at 17.0% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "France leads at 15.5% CAGR through 2036.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market is projected to grow at a CAGR of 14.8% from 2026 to 2036. The analysis covers more than 30 countries, with the leading markets detailed below.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "India is expected to grow at 18.5% through 2036, supported by defense manufacturing, medical device production growth, and industrial AM adoption.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germany is expected to grow at 17.0% through 2036, driven by its aerospace component manufacturing, automotive AM development, and advanced powder production technology.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The USA is expected to grow at 12.6% through 2036, reflecting its aerospace and defense leadership, medical device industry, and AM technology development.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 8.2% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2025 – 2035 :",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market in 2025, approximately 54% and is projected to grow at a substantial CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "he hydride-dehydride segment accounted for the largest share in 2025, approximately 42% and is anticipated to grow at a significant CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "he aerospace segment accounted for the highest market revenue in 2025, approximately 33% and is anticipated to grow at a significant CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global titanium powder market size is calculated at USD 2.02 billion in 2026 and is predicted to reach around USD 6.09 billion by 2034, expanding at a double-digit CAGR of 14.82% from 2026 to 2034. The rising demand for sustainable or recyclable advanced materials that can be used in different industries, including aerospace and medicine, is driving the growth of the titanium powder market.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. titanium powder market is projected to grow at a notable CAGR of 15.42% during the forecast period.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.82%",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "両社は、相互に結び付いた国際市場を起点とする主要企業となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末業界で事業を展開する主要企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界主要プレイヤーには、先進金属グループ、ADMA製品、AP&C、BLT、ECKART TLS、グローバルチタン、IperionX、Kymera International、MEPCO、N.Vなどがあります.",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "また、HDHチタン粉末のポートフォリオと能力、市場参入戦略、市場における地位、地理的な展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界のHDHチタン粉末市場における各社の独自の地位をより深く理解します",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、主要企業ごとのHDHチタン粉末に関する詳細データ（2021年から2026年までの年間売上、収益、価格、市場シェア）、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（CR3、CR5、CR10）、新規参入企業、市場のM&A活動と戦略がまとめられている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、OSAKA Titanium、Reading Alloys、MTCO、TLS Technik、Kymera International、Oerlikon、AMG Critical Materials、Toho Titanium、Medicoat、Oerlikoといった主要企業ごとの詳細な分析が収録されており、各社の企業情報、製品ポートフォリオと仕様、売上、収益、価格、粗利益（2021年から2026年まで）、主要事業概要、および最新の動向が記されている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国主要企業",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の主要企業",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州主要企業",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the titanium powder industry are:",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are some of the prominent players in the titanium powder industry?",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the industry include Advanced Metallurgical Group, ADMA Products, AP&C, BLT, ECKART TLS, Global Titanium, IperionX, Kymera International, MEPCO, and N.V.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Strategic Positioning",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Titanium Powder Market",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Titanium Powder Market",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Emerging Players/Startups",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Assessment of the competitive landscape and powder producer positioning.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Titanium Metal Powder Market",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "We offer custom report options, including stand-alone sections and country-level data. Special pricing is available for start-ups and universities.",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Trends, Leading Companies, Company Revenue / Sales Performance, Plant Utilization, Production Volume, Pricing Dynamics, Supply Chain Performance, Competitive Landscape, and Industry Growth",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major investors include global titanium producers, aerospace and automotive companies, and private equity firms focusing on advanced manufacturing. Key players such as TIMET, VSMPO-AVISMA, GE Additive, and Kobe Steel are investing heavily in R&D, production capacity, and innovative titanium powder technologies.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The startup ecosystem in the market is growing, with a strong focus on developing specialized titanium powders, high-precision alloy formulations, and additive manufacturing solutions. Collaboration with universities, research institutions, and accelerators fosters innovation, enabling startups to provide advanced materials for aerospace, medical implants, and industrial applications.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the titanium powder market?",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the titanium powder market are Advanced Metallurgical Group, Global Titanium, Kymera International, North Steel, Sandvik, Tronox Inc. (Cristal Metals), ADMA Products, BLT, MEPCO, N.V., OSAKA Titanium Technologies, Praxair S.T. Technologies, ECKART TLS, and Others.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Titanium Metal Market include",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Titanium Metal Market?",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Titanium Metal Market include Titanium Metals Corporation, VSMPO-AVISMA Corporation, and Allegheny Technologies Incorporated.",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Toho Titanium Co., Ltd. is one of the key players, contributing to the competitive landscape of the Titanium Metal Market.",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing With Metal Powders Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the additive manufacturing with metal powders industry?",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include 3D Systems Corporation, Additive Industries, Advanced Powder & Coatings, Inc, Aubert & Duval S.A, Aerojet Rocketdyne (L3Harris), Airbus SE, Allegheny Technologies (ATI), APWorks, Xi'an Bright Laser Technologies, Carpenter Technologies Corp, Colibrium Additive (GE Additive), and Constellium.",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "UK start-up commercializing solid-state electrolysis for low-carbon titanium powder.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Emerging Challengers & Disruptive Start-Ups",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include ATI Inc., Carpenter Technology Corporation, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the titanium metal powder market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include AP&C; ATI Inc.; Carpenter Technology Corporation; CNPC Powder Group Co., Ltd.; OSAKA Titanium technologies Co., Ltd.; Praxair Surface Technologies; Sandvik AB; Tekna Holding ASA; TLS Technik GmbH & Co. Spezialpulver KG; Toho Titanium Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "チタン粉末市場のシェア｜2025〜2034年の予測レポート",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末市場 サイズとシェア 2025 to 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "グレード別チタン粉末市場の売上高シェア（2024年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、YHResearchの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のチタンベースの粉末市場におけるトップ14企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ10企業は売上の観点から約59.0%の市場シェアを持っていた",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "２.会社別の売上と市場シェア：世界のチタンベースの粉末会社別の売上、価格、市場シェア、業界ランキングを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、世界最大手2社が2025年には約%のシェアを占める見込みです",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、エグゼクティブサマリーとして、HDHチタン粉末の世界市場概況（2021年から2032年までの年間売上、地域別および国別の現在および将来の分析）、粒度（10-25 μm、25-45 μm、45-106 μm、その他）別のセグメント分析、および用途（航空宇宙、自動車、医療、産業、その他）別のセグメント分析（売上、収益、価格、市場シェア）が収録されている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "には、主要企業ごとのHDHチタン粉末に関する詳細データ（2021年から2026年までの年間売上、収益、価格、市場シェア）、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（CR3、CR5、CR10）、新規参入企業、市場のM&A活動と戦略がまとめられている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末：市場シェア分析、業界動向・統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Powder - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、鉄が44.08％のシェアを占めました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、アトマイズ法が金属粉末市場シェアの69.79％を占めました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アトマイズ法の既存企業は、市場規模の経済、自社保有のスクラップ、自動車ティア1メーカーとの委託加工契約を活用していますが、シェアを守るためにプラズマ法や水素プラズマ法への設備更新にも投資しています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に金属粉末市場シェアの44.26%を占め、2031年までに5.48%という最も高いCAGRで推移すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、航空宇宙、防衛、電気自動車（EV）分野からの堅調な需要に後押しされ、2025年の市場規模のかなりの割合を占めました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に市場の大きなシェアを占める欧州は、軽自動車の生産が伸び悩んだことで成長の制約に直面しました",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には44.08%のシェアを占めています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には69.79%を占めています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年に44.26%のシェアを占め、2031年までに5.48%のCAGRで推移すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "A: 不純物限度、熱履歴による微細構造、分布パーセンタイル、異なるアトマイズ媒体によるモルフォロジー、利用可能なサイズ範囲、および試験の幅のわずかな違いが、Ti-6-4化学を主張するメーカー間のグレードのばらつきのかなりの部分を占めています",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Share | Forecasts Report, 2025-2034",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "metals and has business opportunities in China. Cristal Metals concentrates on titanium raw materials which is quite critical in the whole supply. These companies strive to keep up with the growing pace of the development of powder production and 3D printing technologies.",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, alloyed powder is expected to account for 54.6% of the segment. Ti-6Al-4V (Grade 5) dominates alloyed powder demand due to its established qualification in aerospace structural applications and medical implant standards. Alloyed powder requires precise chemistry control and spherical morphology for consistent additive manufacturing performance.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2025",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated the market in 2025, approximately 54% and is projected to grow at a substantial CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "he hydride-dehydride segment accounted for the largest share in 2025, approximately 42% and is anticipated to grow at a significant CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "he aerospace segment accounted for the highest market revenue in 2025, approximately 33% and is anticipated to grow at a significant CAGR during the forecast period",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the titanium powder market with the largest market share of 35% in 2024.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the aerospace and defense segment accounted for the largest in 2024.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The estimated value of titanium mineral and synthetic concentrates is imported by the United States worth USD 600 million in 2023, in which more than 95% of the titanium is consumed by the y domestic TiO2 pigment producers.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage of manufacturers representing 70–75% of global market share in 2024",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Alloyed powder segment held the largest market share of 58.3% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Aerospace & defense segment held the largest market share of 44.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 33.8% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5840-2692（日本）；0081-5058402692（グローバル）",
+    "url": "https://newscast.jp/news/3065264",
+    "pass": 3
+   },
+   {
+    "quote": "には、アジア太平洋地域（APAC）におけるHDHチタン粉末の市場状況が記されており、地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）、タイプ別、および用途別の売上情報（2021年から2026年まで）が提供されている",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：HDHチタン粉末の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "日本と韓国は、多層セラミックコンデンサ向けに特化した超微細銅・銀粉末を専門とするニッチ市場を開拓し、南北アメリカ・欧州における輸出の優位性を確固たるものにしています",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Technology & Materials Co., Ltd.、Alcoa Corporation、ATI、Aubert & Duval、BASF、CNPC Powder、CRS Holdings, LLC.、Erasteel、GKN Powder Metallurgy、H.C. Starck Tungsten GmbH、Hitachi High-Tech India Private Limited、Hoganas AB、JFE Steel Corporation、Kymera International、Linde Plc、Metalysis Ltd.、Outokumpu、Polema、Rio Tinto Metal Powders、Sandvik AB、Seiko Epson Corporation、Tekna、Valimetなどです",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi High-Tech India Private Limited",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "CPチタン、Ti-6-4、その他のチタン合金粉末の主要な世界的生産者は、アメリカ大陸、ヨーロッパ、中国、インド、日本に集中している",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "大阪チタニウムテクノロジーズ",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦チタニウム",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社大阪チタニウムテクノロジーズ",
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/titanium-powder-production/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語 (Japanese)",
+    "url": "https://www.hoganas.com/ja/powder-technologies/titanium-powders/",
+    "pass": 3
+   },
+   {
+    "quote": "Tronox Inc. / Cristal Metals (USA), IperionX (USA), OSAKA Titanium Technologies (Japan), Global Titanium (USA) are expanding presence through regional focus and specialized product development.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "OSAKA Titanium Technologies (Japan)",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific (China, Japan, India, Rest of APAC)",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "pass": 3
+   },
+   {
+    "quote": "Global, highest intensity in North America, Europe, and Japan",
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese miner-to-metal player expanding spherical atomization lines.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota, Mitsubishi Heavy Industries, Samsung.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "Diversified Japanese steelmaker entering titanium powder to serve EV chassis.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "Honda, Panasonic Energy, Hitachi Metals.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; UK; France; Italy; China; India; Japan; South Korea; Brazil; Saudi Arabia; UAE",
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "チタン粉末市場 のシェア｜2025〜2034年の予測レポート — チタン粉末市場 のシェア｜2025〜2034年の予測レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末市場規模 ・予測【2035年】 — チタン粉末市場規模 ・予測【2035年】 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038",
+    "pass": 3
+   },
+   {
+    "quote": "HDH チタン粉末 の世界 市場 （2026年～2032年） - アットプレス — HDH チタン粉末 の世界 市場 （2026年～2032年） - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末市場 のシェア｜2025〜2034年の 予測 レポート — チタン粉末市場 のシェア｜2025〜2034年の 予測 レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末市場 規模・ 予測 【2035年】 — チタン粉末市場 規模・ 予測 【2035年】 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038",
+    "pass": 3
+   },
+   {
+    "quote": "チタン粉末 市場のシェア｜2025〜2034年の予測レポート — チタン粉末 市場のシェア｜2025〜2034年の予測レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "チタン金属粉末 サプライヤー - Met3DP — チタン金属粉末 サプライヤー - Met3DP Met3DP https://met3dp.com > 未分類",
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Share | Forecasts Report, 2025 -2034 — Titanium Powder Market Share | Forecasts Report, 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > titaniu...",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Metal Powder Market To Reach $900.9Mn By 2033 — Titanium Metal Powder Market To Reach $900.9Mn By 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium Powder Market Companies, Size & Trends 2026-2034 — Titanium Powder Market Companies, Size & Trends 2026-2034 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Titanium Powder Companies | Report Prime — Top 10 Titanium Powder Companies | Report Prime Report Prime https://www.reportprime.com > comp...",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "The UK is expected to grow at 14.1% through 2036, reflecting aerospace industry demand, medical technology development, and AM research investment.",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "India announced plans to develop a global Titanium and Rare Earth industrial hub in Andhra Pradesh using beach sand mineral resources. The project aims to attract ₹50,000 crore (US$6 billion) investment and create over 40,000 jobs, strengthening domestic titanium processing for aerospace, defense, and electric mobility sectors.",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "IperionX Limited received an additional US$25 million from the U.S. Department of War’s IBAS program to expand domestic titanium production. The funding supports scaling capacity up to 1,400 metric tons annually, strengthening U.S. defense supply chains and reducing reliance on imported titanium materials.",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "6. How are government investments in critical minerals affecting the titanium metal powder industry?",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government investments in critical minerals are boosting titanium powder supply chains, with over $10–25 billion global funding programs improving domestic production capacity and reducing import dependence by up to 30% in defense sectors.",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": ": The market is growing worldwide due to the widespread use of additive manufacturing and 3D printing technologies. Main growth areas include North America, Europe, and Asia-Pacific, driven by strong industrial infrastructure, government programs, and rising investment in high-performance titanium parts.",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The TDF is expected to begin commissioning in Q4 2023 and be operational by Q1 2024, targeting a run-rate of 125 tpa by Q3 2024. Development of the TDF remains subject to successful Board approval for a final investment decision, expected in Q3 2023.",
+    "url": "https://iperionx.com/2023/04/27/iperionx-plans-to-build-the-worlds-largest-100-recycled-titanium-metal-powder-facility-by-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Closed Series D funding, began construction of 3,000 tpa plant.",
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "quote": "世界のチタン粉末市場規模は 2024 年に 15 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）14.8%超で成長すると推定される"
+   },
+   {
+    "value": "15.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "quote": "合金粉末セグメントの売上高は 2024 年に約 10 億米ドルとなり、2025 年から 2034 年にかけて年平均成長率（CAGR）15.3%で拡大すると予測される"
+   },
+   {
+    "value": "15.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "quote": "グレード5チタンの市場規模は2024年に7億9,800万米ドルを超え、2025年から2034年にかけて年平均成長率（CAGR）15.2%で推移すると予測されます"
+   },
+   {
+    "value": "4.1",
+    "url": "https://newscast.jp/news/3065264",
+    "quote": "YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "quote": "世界のHDHチタン粉末市場規模は、2025年の10億6,900万米ドルから2032年には17億1,000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています"
+   },
+   {
+    "value": "4.86",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "quote": "Mordor Intelligenceによると、金属粉末市場の規模は、2025年の72億1,000万米ドル、2026年の75億2,000万米ドルから、2031年までに95億3,000万米ドルへと拡大すると予測されており、2026年から2031年までの年間平均成長率（CAGR）は4.86％となる見込みです"
+   },
+   {
+    "value": "5.38",
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "quote": "「その他のプロセス」は、2031年までCAGR5.38％で拡大すると見込まれます"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "quote": "The global titanium powder market size was valued at USD 1.5 billion in 2024 and is estimated to grow at a CAGR of over 14.8% from 2025 to 2034."
+   },
+   {
+    "value": "15.2",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "quote": "Grade 5 titanium was valued over USD 798 million in 2024 and will observe a CAGR f around 15.2% from 2025 to 2034. Grade 5 titanium powders are extending use across marine, aerospace, medical and chemical fields and are expected to be on the rise due to the offering of significant resistance to corr"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share."
+   },
+   {
+    "value": "8.2",
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 8.2% from 2026 to 2035"
+   },
+   {
+    "value": "14.82",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "quote": "The global titanium powder market size is calculated at USD 2.02 billion in 2026 and is predicted to reach around USD 6.09 billion by 2034, expanding at a double-digit CAGR of 14.82% from 2026 to 2034. The rising demand for sustainable or recyclable advanced materials that can be used in different i"
+   },
+   {
+    "value": "15.42",
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "quote": "The U.S. titanium powder market is projected to grow at a notable CAGR of 15.42% during the forecast period."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.5",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "quote": "The global titanium powder market size was valued at USD 1.5 billion in 2024 and is estimated to grow at a CAGR of over 14.8% from 2025 to 2034."
+   },
+   {
+    "value": "6.1",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "quote": "$ 6.1 Billion"
+   },
+   {
+    "value": "798",
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "quote": "Grade 5 titanium was valued over USD 798 million in 2024 and will observe a CAGR f around 15.2% from 2025 to 2034. Grade 5 titanium powders are extending use across marine, aerospace, medical and chemical fields and are expected to be on the rise due to the offering of significant resistance to corr"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "quote": "USD 2.0 Bn"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "quote": "USD 7.8 Bn"
+   },
+   {
+    "value": "1.7",
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "quote": "The titanium powder market was valued at USD 1.7 billion in 2025. The market is set to reach USD 2.0 billion by 2026-end and grow at a CAGR of 14.8% between 2026-2036 to reach USD 7.8 billion by 2036. Alloyed powder will dominate with a 54.6% share, while Grade 5 will lead with a 47.3%% share."
+   },
+   {
+    "value": "900.9",
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "quote": "Titanium Metal Powder Market To Reach $900.9 Million By 2033"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3065264",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4222329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3353706",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/262q05.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportocean.co.jp/industry-reports/japan-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/titanium-powder-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.kiswel.com/product/product_titanium.asp",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hoganas.com/ja/powder-technologies/titanium-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryresearch.biz/market-reports/titanium-metal-powder-market-100904",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/titanium-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iperionx.com/2023/04/27/iperionx-plans-to-build-the-worlds-largest-100-recycled-titanium-metal-powder-facility-by-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/energy/articles/jake-paul-backs-project-revive-110000084.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/titanium-powder-r466/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "チタン金属粉末 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "https://jp.linkedin.com/pulse/3d%E5%8D%B0%E5%88%B7%E7%94%A8%E7%90%83%E7%8A%B6%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E6%B4%9E%E5%AF%9F2026%E5%B9%B42033%E5%B9%B4%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8796%E3%81%A7%E6%88%90%E9%95%B7-insightflow-researchx-lubee",
+    "https://www.mordorintelligence.com/ja/industry-reports/metal-powder-market",
+    "https://www.imarcgroup.com/report/ja/japan-metal-powder-market",
+    "https://newscast.jp/news/3065264",
+    "https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038",
+    "https://www.atpress.ne.jp/news/3065264",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4-101458",
+    "https://www.marketresearch.co.jp/insights/titanium-market-mordor/",
+    "https://www.verifiedmarketreports.com/ja/product/titanium-powder-market/"
+   ]
+  },
+  {
+   "query": "チタン金属粉末 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.atpress.ne.jp/news/4222329",
+    "https://newscast.jp/smart/news/3353706",
+    "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html",
+    "https://www.fcr.co.jp/report/262q05.htm",
+    "https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038",
+    "https://www.reportocean.co.jp/industry-reports/japan-metal-powder-market",
+    "https://karthixzx.gorillawiki.jp/entry/2bbda49e1e3111168e6dfd2fa7b1f028",
+    "https://note.com/qy_research/n/n022ba9d33023"
+   ]
+  },
+  {
+   "query": "チタン金属粉末 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/titanium-powder-market",
+    "https://newscast.jp/smart/news/3353706",
+    "https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/",
+    "https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB/",
+    "https://am-printing.com/ja/titanium-powder-production/",
+    "https://jp.kiswel.com/product/product_titanium.asp",
+    "https://www.hoganas.com/ja/powder-technologies/titanium-powders/",
+    "https://www.atpress.ne.jp/news/4222329",
+    "https://www.daido.co.jp/products/powder/target/",
+    "https://www.toho-titanium.co.jp/products/tipowder/"
+   ]
+  },
+  {
+   "query": "titanium metal powder market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/titanium-powder-market",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://www.mordorintelligence.com/industry-reports/metal-powder-market",
+    "https://www.industryresearch.biz/market-reports/titanium-metal-powder-market-100904",
+    "https://www.linkedin.com/pulse/comprehensive-analysis-titanium-metal-powder-market-tzsic",
+    "https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.meticulousresearch.com/product/metal-powder-market-5860",
+    "https://www.researchandmarkets.com/reports/6228721/titanium-powder-market-outlook-size-share?srsltid=AYCX9vKqiyQo_9OYS9GFPZjoH6Gd7GmTTSlqKJRAhkVrsVOgPVi2ZwZD",
+    "https://dataintelo.com/report/titanium-powder-market"
+   ]
+  },
+  {
+   "query": "titanium metal powder market key players competitive landscape",
+   "results": [
+    "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "https://www.linkedin.com/pulse/revenue-projections-growth-forecast-titanium-metal-powder-ohvte",
+    "https://www.precedenceresearch.com/titanium-powder-market",
+    "https://www.futuremarketinsights.com/reports/titanium-powder-market",
+    "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "https://www.marketresearchfuture.com/reports/titanium-metal-market-7482",
+    "https://www.industryresearch.biz/market-reports/titanium-metal-powder-market-100904",
+    "https://www.gminsights.com/industry-analysis/additive-manufacturing-with-metal-powders-market",
+    "https://www.reportprime.com/titanium-powder-r466/company",
+    "https://www.rootsanalysis.com/titanium-powder-market"
+   ]
+  },
+  {
+   "query": "titanium metal powder startup funding 2025",
+   "results": [
+    "https://www.sphericalinsights.com/reports/titanium-metal-powder-market",
+    "https://iperionx.com/2023/04/27/iperionx-plans-to-build-the-worlds-largest-100-recycled-titanium-metal-powder-facility-by-2025/",
+    "https://www.precedenceresearch.com/titanium-powder-market",
+    "https://finance.yahoo.com/energy/articles/jake-paul-backs-project-revive-110000084.html",
+    "https://www.reportprime.com/titanium-powder-r466/company",
+    "https://www.linkedin.com/pulse/titanium-powder-production-supply-market-us-o0jcf",
+    "https://www.grandviewresearch.com/industry-analysis/titanium-metal-powder-market-report",
+    "https://teo.wisc.edu/2025/10/13/3d-powder-tech/",
+    "https://dataintelo.com/report/titanium-powder-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

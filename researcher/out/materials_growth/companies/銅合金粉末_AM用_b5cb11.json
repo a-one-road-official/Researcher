@@ -1,0 +1,1264 @@
+{
+ "name": "銅合金粉末（AM用）",
+ "en": "copper powder additive manufacturing",
+ "aliases": [
+  "copper alloy powder",
+  "GRCop",
+  "純銅粉末"
+ ],
+ "context": "金属粉末",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:43:09.435333+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の銅粉市場は、先進製造業、エレクトロニクス、自動車用途、積層造形、および高性能導電性材料への需要に支えられ、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅が2025年の米国重要鉱物リストに掲載されたことで、国内の銅供給と加工に対する政策的関心が高まり、米国の銅粉市場は恩恵を受けると予想される",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2034年までに158万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場は、2026年から2034年にかけて年平均成長率（CAGR）3.6%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場規模・成長レポート 2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "1,131億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "6,477億ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測市場規模（2030年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "同国の市場はまた、企業が複雑で高性能な部品の社内AM生産をサポートする、より広範なインダストリー4.0フレームワークと密接に統合されているため、その恩恵を受けています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "」によると、高性能銅合金粉末の世界市場は、2025年に68.33百万米ドルと推定され、2026年には74.14百万米ドルに達すると予測されています",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "6.1. 金額別市場規模",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 材料別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 用途別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "6.4. 技術別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "6.5. 地域別市場規模と予測",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.1. 日本の金属粉末市場規模：鉄系材料別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.2. 日本の金属粉末市場規模：非鉄系材料別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.1. 日本の金属粉末市場規模：自動車用途別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.2. 日本の金属粉末市場規模：航空宇宙・防衛用途別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.3. 日本の金属粉末市場規模：ヘルスケア用途別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.4. 日本の金属粉末市場規模：エレクトロニクス用途別、2019-2030年",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Copper Powder Market Size, Share & Forecast Report 2025 to 2034 | Dataintelo",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$47.8 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$92.4 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Copper Powder Market Size & Forecast",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 8.9% | USD Billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$18.3 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$3.2 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$27.3 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$20.5 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$13.6 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "$14.3 billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "貿易成長率（5年間年率）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "過去5年間の平均年間成長率",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、急速な工業化、スマート製造イニシアチブ、そして政府の多大な支援に支えられ、2026年から2035年にかけて最も速いペースで拡大すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "21.4% CAGR（2026～2035年）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリー4.0の導入拡大：",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "、航空宇宙、ヘルスケア、工業分野における導入拡大と、インダストリー4.0製造業を推進する政策による広範な支援を受け、地域の積層造形市場において支配的な地位を確立しています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末市場分析レポート：2026年74.14百万米ドル規模、成長率8.7%推移｜QYResearch",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末市場分析レポート：2026年74.14百万米ドル規模、成長率8.7%推移",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）8.7%で推移し、2032年には122百万米ドルに拡大すると見込まれています",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at CAGR of",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, representing a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 8.9% | USD Billion",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.2% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "operate dedicated production lines for pure copper powder spheroidization, employing gas atomization technologies that achieve particle size distributions within ±5 micrometers specifications. The pure copper segment is projected to grow at",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.3% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.8% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.2% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.1% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "are collaborating with additive manufacturing service providers to develop integrated heat management solutions that reduce cooling energy consumption by 15-20% compared to traditional approaches. The electronics segment is expected to grow at",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.7% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.4% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "8.2% CAGR",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業は、粉体の純度、粒度と形態、生産能力、用途性能、グローバルな流通ネットワークを駆使して競争している",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "インド市場への参入戦略（GTM）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー:",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "分析力の明晰さ、体系的な問題解決能力、そしてデータ統合における精確さで知られるパルルは、大規模なデータセットを戦略的インサイトへと簡素化することに長けており、テクノロジーの導入、市場参入、ポートフォリオの成長に関する意思決定を促進する上で重要な役割を果たします",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "• 主要企業プロファイル",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Market Positioning 2025-2034",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape for 3D printing copper powder is characterized by moderate consolidation among established suppliers with strong aerospace and medical device qualifications, combined with growing pressure from cost-competitive Asian manufacturers targeting commercial and emerging market segments. The market is led by",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本銅粉市場分析",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsui Mining & Smelting Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Metal Mining Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fukuda Metal Foil & Powder Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kymera International (US) · GGP Metalpowder AG (Switzerland) · Pometon S.p.A. (Italy) · Mitsui Mining & Smelting Co., Ltd. (Japan) · Sumitomo Metal Mining Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の主要プレーヤーには、三菱マテリアル株式会社、GGP Metal Powder AG、Kymera International、Höganäs AB、およびPometon S.p.A.が含まれます",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "4位 日本 - 5億2900万米ドル",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "ANSYS, Inc. (米国)、Höganäs AB (スウェーデン)、EOS (ドイツ)、Stratasys (米国)、Renishaw plc. (英国)、ヤマザキマザック株式会社 (日本)、Materialise (ベルギー)、Markforged (米国)、Titomic Limited (オーストラリア)、SLM Solutions (ドイツ)、Proto Labs (米国)、ENVISIONTEC US LLC (米国)、Ultimaker BV (オランダ)、American Additive Manufacturing LLC (米国)、Optomec, Inc. (米国)、3D Systems Inc. (米国)、ExOne (米国)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "米国、中国、ドイツ、日本、英国",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "(日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "日本、中国、インドなどの主要国は、民生用電子機器、自動車、医療部品にAMを活用しており、一方で地域的なデジタル化はAMをより身近なものにしています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan (+81)",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "Japan オフィス",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "特に、競合分析、市場規模予測、業界構造分析、カスタマイズ調査分野において、多くの日本企業から高い信頼と評価を獲得しています",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL：japan@qyresearch.com",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「金属粉末の日本市場（～2031年）、英文タイトル：Japan Metal Powder Market Overview, 2030」調査資料を発表しました",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "資料には、金属粉末の日本市場規模、動向、セグメント別予測（鉄、非鉄、自動車）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末産業は、従来の自動車や産業用金型用途を支える存在から、高付加価値・精密製造戦略の基盤へと進化を遂げてきました",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "「ものづくり」という精神を礎に、日本は先進的な粉末冶金技術を航空宇宙、医療、電気自動車（EV）の製造分野に統合してきました",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "並行して、エネルギー価格の高騰やリサイクル規制の強化といった規制や資源動向により、日本のメーカーは噴霧化、粉末回収、およびプロセス効率の最適化を迫られている",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "日本の金属粉末セクターは、従来の焼結自動車・産業用部品から、高精度製造および積層造形（AM）のエコシステムへと深く統合される段階へと進化しています",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、昭和KDEはCNPCの環境配慮型チタン、アルミニウム、鉄粉末の日本国内販売に関する契約を締結し、カスタマイズされた合金ソリューションと環境優先事項を融合させた",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "日本における長年のAMインテグレーターであるソライズ・パートナーズは、ファールソン・テクノロジーズおよびジャパン3Dプリンター社と提携し、自動車製造向けに最適化された大型レーザー粉末床溶融システムを導入し、日本の「次世代3Dプリンターエキスポ」で展示した",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "これらの動向は、戦略的提携の構築、技術的主権、そして持続可能性の融合を通じて、日本の金属粉末市場が「職人技による精密加工」から「スマートな産業近代化」へと移行しつつあることを裏付けている",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、鉄系金属粉末が依然として伝統的な製造分野、特に自動車および産業機械セクターにおいて不可欠な存在である",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "ホーガネス・ジャパン、コベルコ、エプソンアトミックスなどの日本メーカーは、精密歯車、構造部品、軟磁性部品をターゲットに、アトマイズ鉄粉およびスポンジ鉄粉の品質を向上させてきた",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "一方、非鉄金属粉末は、日本のハイエンド電子機器、航空宇宙、医療産業に支えられ、より急速な成長を遂げている",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場でこれから来る！３Dプリンタの金属粉末のご紹介！",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "誌面を一新した「レーザー、PTA用盛金用合金粉末カタログ（近日、日本語版を",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "西日本貿易株式会社",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "なお画像の超硬パンチは日本積層造形株式会社様で造形実施しております",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "日本アトマイズ加工株式会社",
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/",
+    "pass": 3
+   },
+   {
+    "quote": "of total market value in 2025, driven by aggressive expansion in additive manufacturing hubs across China, India, and Japan. China's National 13th Five-Year Plan has catalyzed significant investment in powder metallurgy capabilities, with companies like",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "13.2.2 Japan",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "銅粉市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.0%の市場シェアを占め、銅粉市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "微粒化された銅粉末は、粉末冶金、溶射、積層造形、その他の産業用途において、粒子サイズ、形態、流動特性を制御できることから、2025年には45.2%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "球状銅粉末セグメントは、その良好な流動性、充填性、および高度な製造プロセスへの適合性により、2025年には44.8%のシェアを占める見込みである",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金分野は、ベアリング、フィルター、構造部品、摩擦材、電気部品における銅粉末の確立された使用に支えられ、2025年には36.8%のシェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器・電気機器分野は、効率的な放熱に対する需要により、2025年には35.6%のシェアを占め、導電性材料は引き続き銅粉の消費を支えている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.0%という圧倒的な市場シェアを占めた",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄筋市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形市場の規模とシェア、プリンタータイプ別（デスクトッププリンター、産業用プリンター）、材質別、業界別、テクノロジー別、ソフトウェア別、アプリケーション別、サービス別 - グローバル需給分析、成長予測、統計レポート 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに44.3％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、連続生産に適した信頼性の高い大型システムへの需要の高まりにより、積層造形市場における産業用プリンターセグメントは、全体シェアの68.5%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高度な製造業における機能的で高性能な部品の採用が増えているため、材料セグメント内の金属サブタイプは 2035 年までにかなりのシェアを占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米（2035年までに44.3%のシェア）",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間の終わりまでに、産業用プリンターセグメントは、積層造形市場で68.5％という最大のシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "材料セグメントでは、金属サ​​ブタイプが2035年末までに高いシェア価値で市場をリードすると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年までに、どのエンドユーザー セグメントが積層造形市場で大きな市場シェアを獲得するでしょうか?",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "プリンターの種類別に見ると、産業用プリンターセグメントは2035年までに68.5%という最大の市場シェアを獲得し、2026年から2035年にかけて大きな成長機会を示すことが予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場は、2035年末までに44.3%の最大の市場シェアを占めると予測されており、将来的にはさらに多くのビジネスチャンスが生まれると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "pass": 3
+   },
+   {
+    "quote": "高性能銅合金粉末―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「高性能銅合金粉末―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "respectively. The competitive advantage of copper stems from superior thermal conductivity values ranging from 300-450 W/m-K, significantly exceeding aluminum's 150-200 W/m-K range. Industry analysts project copper's market share to expand to",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, moderately outpacing overall market expansion as thermal management becomes increasingly central to electronics and aerospace design paradigms. Related ceramics materials are also seeing integration with additive manufacturing workflows, though copper powder applications dominate thermal management segments.",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share, encompassing thermal management solutions for 5G infrastructure, data center servers, high-power computing, and advanced consumer electronics. Telecommunications infrastructure providers such as",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "銅粉市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "of total market value in 2025, driven by aggressive expansion in additive manufacturing hubs across China, India, and Japan. China's National 13th Five-Year Plan has catalyzed significant investment in powder metallurgy capabilities, with companies like",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share. Commercial service providers offer outsourced additive manufacturing capabilities to customers lacking internal equipment investments or technical expertise, creating a distributed network of copper powder users across regional markets. The commercial segment includes rapidly expanding 3D printing service platforms such as",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, supported by government funding expansion for advanced manufacturing research and increasing university-industry partnerships in additive manufacturing technology development.",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "高性能 銅合金粉末市場 分析レポート：2026年74.14百万米ドル ... — 高性能 銅合金粉末市場 分析レポート：2026年74.14百万米ドル ... note https://note.com > 科学・テクノロジー > 化学",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "pass": 3
+   },
+   {
+    "quote": "CuCrZr 銅合金粉末 の積層造形 - 3D Printing Metal Powder丨Truer — CuCrZr 銅合金粉末 の積層造形 - 3D Printing Metal Powder丨Truer am-printing.com https://am-printing.com > additive-manufacturing-of-cucr...",
+    "url": "https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "3.6",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです"
+   },
+   {
+    "value": "5.6",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている"
+   },
+   {
+    "value": "5.4",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています"
+   },
+   {
+    "value": "10.8",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている"
+   },
+   {
+    "value": "7.0",
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "quote": "自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている"
+   },
+   {
+    "value": "21.4",
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です"
+   },
+   {
+    "value": "8.7",
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）8.7%で推移し、2032年には122百万米ドルに拡大すると見込まれています"
+   },
+   {
+    "value": "7.71",
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "quote": "当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています"
+   },
+   {
+    "value": "8.9",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "CAGR: 8.9% | USD Billion"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "47.8",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$47.8 billion"
+   },
+   {
+    "value": "92.4",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$92.4 billion"
+   },
+   {
+    "value": "18.3",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$18.3 billion"
+   },
+   {
+    "value": "3.2",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$3.2 billion"
+   },
+   {
+    "value": "27.3",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$27.3 billion"
+   },
+   {
+    "value": "20.5",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$20.5 billion"
+   },
+   {
+    "value": "13.6",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$13.6 billion"
+   },
+   {
+    "value": "14.3",
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "quote": "$14.3 billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/copper-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qy_research/n/n366973a51371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3351728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6101282",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6977131",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi2152362-copper-powder-market-size-share-trends-analysis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/copper-powder-market-10530",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/8525/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/global-ultrafine-copper-powder-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/copper-powder-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/copper-metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-additive-manufacturing-copper-powder-market-strategic-research-report?srsltid=AYCX9vIieUaiqN1GAX9otIxnbZzTk7DAqwT-mwsLiyBETYC32oUq8P3C",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/copper-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/metal-powder-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elementum3d.com/copper/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mdpi.com/2504-4494/9/9/320",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/fabric8labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esastar-publication-ext.sso.esa.int/ESATenderActions/details/182234",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "銅合金粉末（AM用） 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://jp.linkedin.com/pulse/%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%A6%82%E8%A6%81%E6%88%90%E9%95%B7%E5%88%86%E6%9E%90%E3%81%A82026%E3%81%8B%E3%82%892033%E3%81%BE%E3%81%A7%E3%81%AE148cagr%E4%BA%88%E6%B8%AC-atlas-marketz-research-menme",
+    "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "https://newscast.jp/news/3351728",
+    "https://www.sdki.jp/reports/additive-manufacturing-with-metal-powder-market/590642367",
+    "https://www.atpress.ne.jp/news/7542582",
+    "https://www.fortunebusinessinsights.com/jp/%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-119245",
+    "https://www.marketresearchfuture.com/ja/reports/copper-copper-alloy-powder-market-36300"
+   ]
+  },
+  {
+   "query": "銅合金粉末（AM用） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://straitsresearch.com/jp/report/copper-powder-market",
+    "https://www.factmr.com/ja/report/copper-metal-powder-market",
+    "https://www.atpress.ne.jp/news/6101282",
+    "https://newscast.jp/news/6977131",
+    "https://note.com/qy_research/n/n366973a51371",
+    "https://www.gii.co.jp/report/grvi2152362-copper-powder-market-size-share-trends-analysis.html",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%84%E3%80%81%E7%B2%89%E6%9C%AB%E5%86%B6%E9%87%91%E3%81%AB%E9%96%A2%E3%81%99-2/",
+    "https://jp.linkedin.com/pulse/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E7%94%A8%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%91%E3%81%A8%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7%E8%A6%8B%E9%80%9A%E3%81%9720262033-pharmameridant-analytics-7isue",
+    "https://www.marketresearchfuture.com/ja/reports/copper-powder-market-10530"
+   ]
+  },
+  {
+   "query": "銅合金粉末（AM用） 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg1/%E7%B2%89%E6%9C%AB/%E5%90%88%E9%87%91/",
+    "https://em.mitsui-kinzoku.com/engineered-powders/products/additive-manufacturing-copper/",
+    "https://www.fukuda-kyoto.co.jp/technology/research/additive-manufacturing.html",
+    "https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/",
+    "https://metoree.com/categories/8525/",
+    "https://www.mitsubishisteel.co.jp/product/formed-fabricated/special-alloy-powders/",
+    "https://www.hoganas.com/ja/powder-technologies/additive-manufacturing-metal-powders/3d-printing-metal-powders/custom-AM-metal-powder/",
+    "https://www.dmgmori.co.jp/sp/am/",
+    "https://events.malvernpanalytical.com/AM_Hyogo2025",
+    "https://www.globalresearch.jp/jp/inbx26d0395"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing market size CAGR 2025",
+   "results": [
+    "https://market.us/report/global-ultrafine-copper-powder-market/",
+    "https://www.grandviewresearch.com/industry-analysis/copper-powder-market-report",
+    "https://dataintelo.com/report/global-3d-printing-copper-powder-market",
+    "https://www.factmr.com/report/copper-metal-powder-market",
+    "https://www.linkedin.com/pulse/top-additive-manufacturing-copper-powder-companies-how-umvzf",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.futuremarketinsights.com/reports/additive-manufacturing-with-metal-powders-market",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://additivemanufacturingresearch.com/news/over-1-4-million-kg-of-copper-powders-for-additive-manufacturing-expected-to-ship-by-2029/"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing market key players competitive landscape",
+   "results": [
+    "https://www.linkedin.com/pulse/copper-powder-3d-printing-market-research-report-industry-ksi6e",
+    "https://www.grandviewresearch.com/industry-analysis/copper-powder-market-report",
+    "https://www.fortunebusinessinsights.com/north-america-and-asia-pacific-metal-powder-market-112094",
+    "https://www.maximizemarketresearch.com/market-report/global-metal-powders-for-additive-manufacturing-market/63568/",
+    "https://www.marketresearchreports.com/reports/global-additive-manufacturing-copper-powder-market-strategic-research-report?srsltid=AYCX9vIieUaiqN1GAX9otIxnbZzTk7DAqwT-mwsLiyBETYC32oUq8P3C",
+    "https://straitsresearch.com/report/copper-powder-market",
+    "https://www.precedenceresearch.com/metal-powder-market",
+    "https://www.researchandmarkets.com/articles/key-companies-in-copper-additive-manufacturing?srsltid=AYCX9vKiTgWcp67aTYirguGp6Tjh8DDGJSAqRydDg-Hqwz5qIW484Q4x",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.verifiedmarketreports.com/product/additive-manufacturing-copper-powder-market/"
+   ]
+  },
+  {
+   "query": "copper powder additive manufacturing startup funding 2025",
+   "results": [
+    "https://www.elementum3d.com/copper/",
+    "https://www.sphericalinsights.com/blogs/top-25-companies-in-global-ultra-fine-copper-powder-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.mdpi.com/2504-4494/9/9/320",
+    "https://www.idtechex.com/en/research-report/metal-additive-manufacturing/1097",
+    "https://startupintros.com/orgs/fabric8labs",
+    "https://www.linkedin.com/pulse/key-regional-trends-shaping-additive-manufacturing-copper-xrvdf/",
+    "https://esastar-publication-ext.sso.esa.int/ESATenderActions/details/182234",
+    "https://ampower.eu/studies/copper-additive-manufacturing/",
+    "https://www.canadianmetalworking.com/canadianmetalworking/article/metalworking/copper-alloys-find-their-place-in-the-world-of-additive-manufacturing",
+    "https://cdn.prod.website-files.com/61b0171ee0f72a1eb0d6fe3c/682f3b122d35369d5be26e65_Advanced_Manufacturing__Q1_2025.pdf"
+   ]
+  }
+ ],
+ "missing": {}
+}

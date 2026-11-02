@@ -1,0 +1,1545 @@
+{
+ "name": "チャットプラス",
+ "aliases": [],
+ "context": "証券コード598A／情報・通信業／グロース（内国株式）／2026.06期 売上高1,221百万円 営業利益率43.4%",
+ "researched_at": "2026-11-02T14:47:34.536904+00:00",
+ "official_url": "https://chatplus.jp/",
+ "identified_by": "search:yahoo_jp:チャットプラス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2016年8月",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "Q 会社の設立はいつですか？",
+    "value": "A 2016年8月です。",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "チャットツール開発・販売 FAQ作成ツール開発 チャットボット作成代行 AI導入支援",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "label": "Q 主な事業内容を教えてください。",
+    "value": "A 労働力人口の減少や、それに伴うDX推進などの社会的・経営的課題の解決に資するソリューションとして、SaaSによるサブスクリプション(継続課金)方式のチャットボットシステム「ChatPlus」「AI AgentPlus」及びFAQシステム「FAQPlus」の開発・提供を行っております。 チャットボットシステムは、従来、電話やメールなどの有人対応により実施されていた社内外からの問い合わせ対応を自動化・省人化することで、企業の業務効率化及び生産性向上を支援するサービスであります。また、導入の容易さと高いコストパフォーマンスを特徴としており、多くの顧客企業においてDX推進の基盤ツールとして活用されています。さらに、WebサイトやECサイト上で訪問者を適切な情報へ誘導する機能を備えており、マーケティング支援ツールとしても活用されています。これにより、コンバージョン率の向上や運用コストの削減を実現し、顧客企業の収益最大化に貢献しています。加えて、ヘルプサイトを構築するFAQシステム「FAQPlus」を展開しています。 詳細は サービス をご覧ください。",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "AIエージェントに役割を持たせ、高精度AIチャットボットにより、目的に合わせて顧客対応・各種業務の自動化と高度化を実現する",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高い検索性を備え利用者を正確に回答に導く“AIエージェント協働型FAQシステム”",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業務効率化・顧客満足度の向上、売上機会の創出",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業務効率化はもちろん、顧客満足度の向上や売上機会の創出、人手不足解消、ナレッジマネジメント、",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "均一で高品質な応対により、顧客の不満を減らしロイヤルティ向上に寄与します",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客インサイト獲得と",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Web上で新規顧客を獲得、成約率約15％を実現",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIエージェントの接客で、カーリースの審査申し込みが増加！Web広告の半額以下で新規顧客を獲得",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チャットを利用したユーザーの購入額は脅威の7倍！回答率90%超で売上と顧客満足度を同時に向上",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "11月26日（木）AIエージェントセミナーAIエージェント型チャットボットで実現する、これからのユーザー対応",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先企業",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "この節目を迎えることができましたのは、お客様、お取引先様、従業員そして株主・投資家の皆様をはじめとする多くの皆様のご支援の賜物であり、深く感謝申しあげます",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、「コミュニケーションによる感動を最大限に追求し、AIを駆使した全自動社会を最速で実現する」というミッションのもと、企業と顧客をつなぐ問い合わせ領域に取り組んでまいりました",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、AI技術の急速な進化により、問い合わせ対応は「正しく回答する」時代から、「顧客を理解し、最適な行動を提案し、業務そのものを実行する」時代へと大きく変化しています",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はこうした変革の中心に立ち、チャットを起点とした業務変革を推進し、企業の生産性向上と顧客体験の向上を同時に実現する新たな価値創造に挑戦しています",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "対応や業務を自動化することで企業の省力化やDX（デジタル化）を支えると同時に、問い合わせをするユーザーに対しても、",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "“ 顧客ニーズをスピーディーに反映する開発体制 ”",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "企画から改善までを一体で回す体制により、迅速に顧客価値を高め続ける仕組みを構築",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "導入支援から導入後のフォローまで一貫したサポート体制を整えており、顧客ニーズを的確に把握",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "開発チームとの連携により、細かな顧客ニーズにも応えられる機能改善サイクルを確立",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客伴走体制のもと継続的な機能改善を重ね、バラエティに富んだ機能を保有",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ECサイトの顧客対応効率化から、営業力の強化、社内業務の効率化まで幅広い用途に活用可能",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ITreview※１ユーザーが支持した日本のSaaS・ソフトウェアを選出するITreview The Best Software in Japan 2026",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2026年3月の1年間、ITreviewでリアルユーザーのレビューを20件以上獲得した製品を対象に、製品への満足度や使いやすさ、サポート品質といった各種評価のスコア、レビュー件数や市場での検索数、今年の注目度といった指標を掛け合わせITreview Scoreを算出し、上位100製品が選出されます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「ITreview Grid Award 2026 Spring」では、ITreviewに集まった約15.1万件のレビューをもとに、四半期に一度、顧客満足度と認知度の双方が優れた製品を「Leader」として表彰、バッジが発行されています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ITreviewのLeaderは、多くの利用者から支持を得ている証です",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、ChatPlusユーザーがFAQPlusを利用する場合は、FAQPlusも１アカウントとして集計",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "この効率性により、無駄なコストをかけずに競争力を維持するとともに、市場や顧客ニーズの変化にも",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "成長の基本戦略は、顧客数の拡大と1社あたり取引金額拡大、そして解約率の低位維持の３軸",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客数の拡大",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会への出展やSEO対策の強化によるリード流入の拡大と、持続的なサービス進化で顧客企業の多様なニーズに対応し、導入可能企業数と受注率を格段に向上させます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "量と質の両面から顧客基盤を拡大することで、成長市場におけるシェア拡大を目指します",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客単価の向上",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "プランの高度化と顧客基盤の拡大を両立させることで、顧客1社から得られる売上を着実に引き上げます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客伴走体制に基づく顧客満足度の向上と、開発環境を活かした継続的なプロダクト価値の向上を推し進めます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点の強化、データ収集・分析によるマーケティング・サービス改善、",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "この事業運営において、企業価値の最大化を実現し、株主、顧客企業、取引先、従業員等のステークホルダーから信頼される企業であり続け、経営の機動性、透明性及び健全性を高めるために、迅速で合理的な意思決定体制及び業務執行の効率化を可能とする社内体制を構築し、コーポレート・ガバナンスの強化に取り組んでおります",
+    "url": "https://chatplus.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、導入の容易さと高いコストパフォーマンスを特徴としており、多くの顧客企業においてDX推進の基盤ツールとして活用されています",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、コンバージョン率の向上や運用コストの削減を実現し、顧客企業の収益最大化に貢献しています",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、顧客満足度（CS）と顧客体験（CX）の向上、インサイト獲得と機会創出、商談化促進と成約率向上、さらには従業員満足度（ES）の向上など様々な経営効果をもたらします",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が提供するチャットボットシステムは、スモールビジネスから大企業まで、業種・業態を問わず導入可能な全方位型サービスであり、顧客企業のニーズに応じた柔軟なプラン設計が可能なSaaS型サービスです",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、顧客企業ごとの業務課題に応じた機能追加やAPI連携などのカスタマイズにも対応しており、導入後の利用価値向上を促進しています",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "成長戦略としては、急速に進化する生成AIの継続的な活用を中核に位置付け、「AI AgentPlus」については、顧客企業及び市場ニーズ並びに競合他社の動向を踏まえ、競争力の高い機能の段階的な拡充を進めてまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、顧客ニーズへの対応範囲を拡大し、機能面のミスマッチによる機会損失の防止を図ってまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "また、FAQ記事の自動作成等によりFAQ運用の自動化を推進した「FAQPlus」を展開し、チャットボットシステム以外の顧客層の獲得を図るとともに、「FAQPlus」で構築したナレッジを「AI AgentPlus」と連携させることで、追加設定を要することなく回答が可能な環境を構築し、相互利用による顧客単価の向上及び解約防止を推進してまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、チャットコミュニケーションのデータを活用した営業支援及びカスタマーサクセス支援における効率化・適正化サービスの開発を進めることで、顧客企業の営業活動の最適化及び顧客エンゲージメントの向上を支援してまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの取り組みを着実に積み重ねることにより、顧客企業への付加価値提供を図るとともに、持続的な成長を目指してまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "で提供し、顧客企業側はネットワーク経由で利用する形態のサービス",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "と高いコストパフォーマ ンスを特長としてお り、多くの顧客企業において DX推進の基盤ツールとして 活用されていま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、コンバージョン率の向上 や運用コストの削減を実 現し、顧客企業の収益最",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の一連の体験プロセス）などに応じたチャットシナリ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・利用目的に応じた適切な オンボーディ ング(新規顧客企業",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・豊富なノウハウに基づく活用提案など顧客企業に伴走する",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・顧客企業からの要望やフィードバックを反映した継続的な",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社外利用…サービス・利用案内、製品案内、予約受付、ITサポートサービス、施設案内、新規見込顧客申込獲",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "シナリオ型チャットボッ トは、あらかじめ設定された質 問及び回答の流れに基づ き、利用者が選択肢を通じて 対",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "内容：配送状況の顧客への対応が必要",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客企業の予算やニーズに応じて、月額1,980円から88,000円(月契約の場合)の範囲で、上記機能を利用可能な各",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜応対＞口調・役割設定 導入企業の目的に応じ て、共感型やセールス型など AIの「口",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これに対して、自社開発AIは、顧客企業の登録データ( 回答生成の際の",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "｢AXソリューション｣",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI機能部門でもTOP12位にランクインし、AI搭載製品として高い評価を獲得しました",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "３つのサービスで多様なコミュニケーションニーズと業務課題を解決します",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "関連商品の提案や多言語対応で販路拡大も実現し、営業負担を軽減しながら成約率を高めます",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成長を続ける自治体サービスの安定運用に高精度AIチャットボットが貢献",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスの内容をまとめた資料です",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "各種サービスの内容をまとめた資料です",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "3つのサービス",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスの強み",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「こんな機能あったらいいのに」に応えられる機能拡充、サービス開発が可能",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2026年3月の1年間、ITreviewでリアルユーザーのレビューを20件以上獲得した製品を対象に、製品への満足度や使いやすさ、サポート品質といった各種評価のスコア、レビュー件数や市場での検索数、今年の注目度といった指標を掛け合わせITreview Scoreを算出し、上位100製品が選出されます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2026年3月の1年間に、ITreviewで10件以上のレビューを獲得した製品を対象としています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "生成AI機能への満足度・レビュー件数、市場での検索数、注目度、AIサービスからの引用数などを総合して「ITreview Score」を算出し、上位20製品が選出されます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "「ITreview Grid Award 2026 Spring」では、ITreviewに集まった約15.1万件のレビューをもとに、四半期に一度、顧客満足度と認知度の双方が優れた製品を「Leader」として表彰、バッジが発行されています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※１：ITreviewは、アイティクラウド株式会社が運営する、法人向けソフトウェアやクラウドサービスの口コミ・比較サイト",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスラインアップ",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※：アカウント数はサービス別に集計",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "この仕組みにより、計画的な成長戦略の策定やサービス改善への投資が可能です",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高いブランド認知により広告宣伝費を抑制できるほか、自社開発やシステム化により効率的かつ低コストでサービスを提供しています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "主なサービス提供領域がAIエージェントへ進化したことに伴い、マーケットを大きく拡大しています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス機能の拡大",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会への出展やSEO対策の強化によるリード流入の拡大と、持続的なサービス進化で顧客企業の多様なニーズに対応し、導入可能企業数と受注率を格段に向上させます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客接点の強化、データ収集・分析によるマーケティング・サービス改善、",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も当社は、AIエージェントの可能性を追求し、サービスの進化を続けていきます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、「コミュニケーションによる感動を最大限に追求し、AIを駆使した全自動社会を最速で実現する」というミッションのもと、SaaSソリューション事業を展開しております",
+    "url": "https://chatplus.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "AXソリューション",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "労働力人口の減少や、それに伴うDX推進などの社会的・経営的課題の解決に資するソリューションとして、SaaSによるサブスクリプション(継続課金)方式のチャットボットシステム「ChatPlus」「AI AgentPlus」及びFAQシステム「FAQPlus」の開発・提供を行っております",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "チャットボットシステムは、従来、電話やメールなどの有人対応により実施されていた社内外からの問い合わせ対応を自動化・省人化することで、企業の業務効率化及び生産性向上を支援するサービスであります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が提供するチャットボットシステムは、スモールビジネスから大企業まで、業種・業態を問わず導入可能な全方位型サービスであり、顧客企業のニーズに応じた柔軟なプラン設計が可能なSaaS型サービスです",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、チャットコミュニケーションのデータを活用した営業支援及びカスタマーサクセス支援における効率化・適正化サービスの開発を進めることで、顧客企業の営業活動の最適化及び顧客エンゲージメントの向上を支援してまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当該各数値については、金融商品取引法第193条の２第１項の規定によ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "定に基づき、金融商品取引法第193条の２第１項の規定に準じて、みおぎ監査法人により監査を受けており",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの提供者がソフトウエア・アプリケーションの機能をクラウド経由",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "で提供し、顧客企業側はネットワーク経由で利用する形態のサービス",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ツ配信サービスとして運営",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "その他、当社は同じくSaaS方式にて、Webメディア向けのコンテンツ配信サービスを展開しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "配信サービスは、占い等のコンテンツを通 じて、訪問者の再訪を促し、訪問のきっかけを創出す るとともに、コンバ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス -",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆様へ - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要 - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "株主・投資家の皆様へ - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "3分でわかるチャットプラス - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "“ 安定したストック型収益 ”",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "継続課金型モデルにより、長期的な収益安定性を実現",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "売上の90％以上は継続課金型のストック収入で構成されており、収益の予測可能性が高く、",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ストック型収益比率",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "チャーンレート",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※1：売上高に占める「ChatPlus」「AI AgentPlus」「FAQPlus」の月額・年額収入の合計の割合",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "※3：「ChatPlus」「AI AgentPlus」「FAQPlus」の月額利用料金の合計×12",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "成長の基本戦略は、顧客数の拡大と1社あたり取引金額拡大、そして解約率の低位維持の３軸",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客単価の向上",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "高単価のAI搭載上位プランへの乗り換えを促進するアップセル施策、",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "解約率の低位維持",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "解約率を低位に抑えることで、LTVの最大化を目指します",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "業績・財務情報 - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "IRニュース - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "IRカレンダー - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "コーポレート・ガバナンス - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "決算短信 - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/results/",
+    "pass": 1
+   },
+   {
+    "quote": "株式情報 - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "よくあるご質問 - 【月額1,500円～ 】チャットボット導入実績No.1｜チャットプラス",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "労働力人口の減少や、それに伴うDX推進などの社会的・経営的課題の解決に資するソリューションとして、SaaSによるサブスクリプション(継続課金)方式のチャットボットシステム「ChatPlus」「AI AgentPlus」及びFAQシステム「FAQPlus」の開発・提供を行っております",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "また、FAQ記事の自動作成等によりFAQ運用の自動化を推進した「FAQPlus」を展開し、チャットボットシステム以外の顧客層の獲得を図るとともに、「FAQPlus」で構築したナレッジを「AI AgentPlus」と連携させることで、追加設定を要することなく回答が可能な環境を構築し、相互利用による顧客単価の向上及び解約防止を推進してまいります",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業の予算やニーズに応じて、月額1,980円から88,000円(月契約の場合)の範囲で、上記機能を利用可能な各",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「AI AgentPlus」は、月額170,000円(月契約の場合)から、利用可能です",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "チャットボットシステム及びFAQシステムは、顧客企業のニーズに合わせて異なる価格帯で月額又は年額課金の形",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSなどサブスクリプシ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ン料含む月額利用料金 (年契約の場合は年契 約金額÷12)の",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．「ChatPlus」「AI AgentPlus」及び「FAQPlus」のストック型収益は、月契約の月額料金及び年契約の月割",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "す(大和総研「2023 資本ストックの『量』『質』『偏在』の改善と省人化投資で供給力強化を」)",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の売上高は、サブスクリプション(継続課金)方式のビジネスモデルに基づき、ARRを基礎として構成されてお",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客価値の向上を通じた 解約率の低減を実現 するとともに、顧客企業のニーズを把握 することでアップセル( 注２)",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "設定を要することなく回答が可能な環 境を構築し、相互利用による顧客単価 の向上及び解約防止を推 進してまいり",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SaaSソリューション事業のビ ジネスモデルは、サービスの利用期間に応じて継続的に 収益を計上するサブスク リ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "プション(継続課金)方式であります",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は事業規模の拡大状況を、営業利益は収益構造の健全性を、また、ARRはストック型ビジネスにおける将来の安定的",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ARRは、主にサブスクリプション型ビジネスにおいて、既存契約に基づき将来にわたり継続的に得られると見込ま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、チャットボットシステ ム「ChatPlus」及び「AI AgentPlus」によるストック型収益の 売上高に占める割",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、今後の事業拡大に伴 い、AWS及びChatGPTに係るシステム 利用料が増加することが 想定されます",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のSaaSソリューション事業のビ ジネスモデルは、サブスクリプション型のリカー リングモデルであること か",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ら、当社の持続的な成長に は、新規顧客の獲得のみなら ず、既存顧客の維 持及び単価向上が重要と 考えておりま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、予算及び経営計画には、過去実績を基に一定の解約率を見込んでおります",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① ストック・オプションの権利行使による株式価値の希薄化について",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に売上高・利用量の増加に伴うシステム利用料",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これは主に売上高・利用量の増加に伴うシステム利用料の計上等によるも",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な資金需要は、SaaSソリューション事業にかかるシステム利用料、顧客獲得や認知度向上のためのWeb広告及",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "① 【ストック・オプション制度の内容】",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取締役の報酬の額は、2025年９月18日開催の定時株主総会において、年額200,000千円以内と決議しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、これまで4,200社を超える企業に導入し、解約率1％を達成したチャットボットサービスがあります",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラスは、無料トライアルから始められて、月額1500円で利用することが出来ます",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラスなら月額1,500円でここまでできる",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラスは、月額1,500円と他社より一桁、二桁安いにもかかわらず、機能数は他社ツールを凌駕しており、チャットボット業界を牽引しています",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月27日（金）15:00-",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月26日（木）15:00-",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月17日（火）15:00-",
+    "url": "https://chatplus.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年8月",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2026年3月の1年間、ITreviewでリアルユーザーのレビューを20件以上獲得した製品を対象に、製品への満足度や使いやすさ、サポート品質といった各種評価のスコア、レビュー件数や市場での検索数、今年の注目度といった指標を掛け合わせITreview Scoreを算出し、上位100製品が選出されます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月～2026年3月の1年間に、ITreviewで10件以上のレビューを獲得した製品を対象としています",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月末時点アカウント数",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月期",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年8月です",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "２ 【沿革】…………………………………………………………………………………………………………………３",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年８月 チャットボットシステム(注１)の開発・提供を目的として、東京都千代田区丸の内に当社を",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年８月 SaaS(注２)によるチャットボットシステム「ChatPlus」(有人対応型)をリリース",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年１月 「ChatPlus」にシナリオ型チャットボット(注３)機能を実装",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2017年６月 プライバシーマークの認証を取得",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2018年７月 本社を東京都中央区京橋に移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年３月 本社を東京都千代田区神田神保町に移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年１月 ISO27001(ISMS：情報セキュリティマネジメントシステム)の認証取得",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年８月 株式会社ネットシーズよりSaaS事業であるコンテンツ企画制作配信事業を譲受(注４)",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年３月 本社を東京都千代田区西神田に移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年２月 「ChatPlus」に生成AI(OpenAI社が提供するGPT-3.5)(注５)を連携した生成AI型「AIチャット",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月 「AIチャットボットプラン」に改良版AIモデル「GPT-4Turbo」と連携する機能をリリース",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年２月 本社を東京都千代田区丸の内に移転",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年５月 「AIチャットボットプラン」に次世代AIモデル「GPT-4o(GPT-4Omni)」と連携する機能をリリ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月 FAQシステム(注６)に特化した「FAQPlus」をリリース",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年８月 「AIチャットボットプラン」に「GPT-５」を取り入れた最適化モデルをリリース",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月 OpenAI,LLCとゼロデータ保持等のデータ管理機能を備えたエンタープライズ契約を締結",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月 「FAQPlus」を、「AIチャットボットプラン」と連携可能なFAQシステムとしてリニューアル",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月 「AIチャットボットプラン」を「AI AgentPlus」としてリニューアル",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月 2022年12月 2023年６月 2024年６月 2025年６月 2025年12月 2026年３月",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2026年４月30日現在",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2022年には、倒産件数のうち7.5％(485件)に達している",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年６月期 2025年６月期",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年９月に「銀の認定」を取得しました",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、チャットプラス株式会社を設立し、チャットサポートシステムの運営、チャットボット「チャットプラス」を提供",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年9月、LINEが「Messaging API」の提供を開始したことで、ボットブームの時流に乗ることが出来ました",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、チャットプラス社は、チャットサポートツールをホームページやアプリに簡単に埋め込むことができるサービスとして「チャットプラス」のリリースを開始しました",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルの強み",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "(3) 収益構造について",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を継続的に積み上げることで、収益及び利益が逓増するビジネスモデルを構築しています",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ービス、ビジネスモデルを改革 し、業務そのものや組織 ・",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社の売上高は、サブスクリプション(継続課金)方式のビジネスモデルに基づき、ARRを基礎として構成されてお",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は事業規模の拡大状況を、営業利益は収益構造の健全性を、また、ARRはストック型ビジネスにおける将来の安定的",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "事業紹介 -3分でわかるチャットプラス-",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "２．営業方針は直販を基本とし、代理店契約を希望する企業がある場合のみ、代理店契約を締結",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "代理店経由の",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "では、機能開発を推進するためのプロジェクトマネージャーや営業体制の強化に向けた採用を計画しておりますが、",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年６月 株式会社アクシスパートナーズ 取締役",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2019年１月 弁護士法人内田・鮫島法律事務所 パートナー",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年１月 弁護士法人内田 ・鮫島法律事務 所 パートナー (現",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ここで、チャトプラスの機能の一部をご紹介したいと思います",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイスマイリーが運営するAIポータルメディア「AIsmiley」は、AIの専門家によるコンテンツ配信とプロダクト紹介を行うWebメディアです",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "コールセンターAI導入事例紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "AIソリューション一覧紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発プロセス紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI開発会社紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "教育現場にAIを導入する活用事例紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの有効な活用方法や便利なブラウザ拡張機能を紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTでコーディングを効率化した活用事例やサポートサービスを紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの要約おすすめサービス10選を紹介",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "AI・人工知能製品・サービスの紹介動画",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "富士通、店舗運営と経営判断を高度化する小売業向けAIエージェント…",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "サービスの強み",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルの強み",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強い認知度と効率的な運用により、無駄なコストをかけず競争優位を維持",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な実績と高度な技術力を強みに、着実にシェアを伸ばし、競争優位を確立していきます",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "強み ・膨大な情報の中か ら、会話形式で",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "――ユーザーの目線の開発とサポート力で、「機能面」で他社にはない強みが生まれたわけですね",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "INTRODUCTION事業紹介 -3分でわかる チャットプラス — INTRODUCTION事業紹介 -3分でわかる チャットプラス チャットプラス https://chatplus.jp > Home > 株主・投資家の皆様へ",
+    "url": "https://chatplus.jp/ir/individual/",
+    "pass": 3
+   },
+   {
+    "quote": "Chat Plus - 【月額1500円～ 】 チャット ボット導入実績No.1 — Chat Plus - 【月額1500円～ 】 チャット ボット導入実績No.1 チャットプラス https://chatplus.jp > Home > Service",
+    "url": "https://chatplus.jp/service/chatplus/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラス 株式会社｜事業内容・特徴・採用・求人 — チャットプラス 株式会社｜事業内容・特徴・採用・求人 スタクラ https://startupclass.co.jp > 企業を探す > AI",
+    "url": "https://startupclass.co.jp/online/companies/1643/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラス とは？IPOと顧客対応AIの実力を解説 - CX研究所 — チャットプラス とは？IPOと顧客対応AIの実力を解説 - CX研究所 CX研究所 https://cxkenkyujo.com > その他",
+    "url": "https://cxkenkyujo.com/chatplus-ipo-and-cx/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報INVESTOR RELATIONS 株主・投資家の皆様へ — IR情報INVESTOR RELATIONS 株主・投資家の皆様へ チャットプラス https://chatplus.jp > ...",
+    "url": "https://chatplus.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - 【月額1500円～ 】 チャット ボット導入実績No.1 — 決算説明資料 - 【月額1500円～ 】 チャット ボット導入実績No.1 チャットプラス https://chatplus.jp > Home > 株主・投資家の皆様へ",
+    "url": "https://chatplus.jp/ir/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "【 チャットプラス 】[598A]IR情報 中期経営計画や 決算 短信 — 【 チャットプラス 】[598A]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=598A",
+    "pass": 3
+   },
+   {
+    "quote": "[G－ チャットプラス 598A.T] 「2026年6月期 決算説明資料 ... — [G－ チャットプラス 598A.T] 「2026年6月期 決算説明資料 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260818522325",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260818522325",
+    "pass": 3
+   },
+   {
+    "quote": "FAQよくあるご質問 - チャットプラス — FAQよくあるご質問 - チャットプラス チャットプラス https://chatplus.jp > Home > 株主・投資家の皆様へ",
+    "url": "https://chatplus.jp/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラス — チャットプラス チャットプラス https://chatplus.jp",
+    "url": "https://chatplus.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラス （598A）のIPO上場情報 — チャットプラス （598A）のIPO上場情報 やさしいIPO株のはじめ方 https://www.ipokiso.com > company > chatplus",
+    "url": "https://www.ipokiso.com/company/2026/chatplus.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 インタビュー 】 チャットプラス 西田 社長 国内最多導入の ... — 【 インタビュー 】 チャットプラス 西田 社長 国内最多導入の ... AIsmiley https://aismiley.co.jp > ニュース",
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 【月額1500円～ 】 チャット ボット導入実績No.1 — 会社概要 - 【月額1500円～ 】 チャット ボット導入実績No.1 チャットプラス https://chatplus.jp > Home > 企業TOP",
+    "url": "https://chatplus.jp/corporate/about/",
+    "pass": 3
+   },
+   {
+    "quote": "チャットプラス ［598A］IPO - YouTube — チャットプラス ［598A］IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=rcQymxrL3gc",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "なお、当社の報告セグメ ントは「SaaSソリューション事 業」の単一セグメントであ り、セグメント別の記載は行 っ",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "構成比は月契約が60.9％、年契約が39.1％",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高構成比は9.7％",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "４．当社は、SaaSソリューション事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はSaaSソリューション事業の単一セグメントであるため、セグメント別の記載は省略しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社はSaaSソリューション事業の単一セグメントのため、セグメント別の記載はしておりません",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、SaaSソリューション事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "５．当社は、SaaSソリューション事業の単一セグメントであるため、セグメント情報の記載を省略しておりま",
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://chatplus.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/corporate/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chatplus.jp/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "チャットプラス",
+   "results": [
+    "https://chatplus.jp/",
+    "https://www.ipokiso.com/company/2026/chatplus.html",
+    "https://job.mynavi.jp/28/pc/search/corp242685/outline.html",
+    "https://www.openwork.jp/company.php?m_id=a0C1000001HqRsd",
+    "https://www.aspicjapan.org/asu/service/7034",
+    "https://ja.wikipedia.org/wiki/チャットステーションL",
+    "https://finance.yahoo.co.jp/quote/598A.T",
+    "https://ipokabu.net/ipo/598A",
+    "https://uikabu.com/ipo-chatplus/",
+    "https://chatplus.jp/service/chatplus/"
+   ]
+  },
+  {
+   "query": "チャットプラス ビジネスモデル",
+   "results": [
+    "https://chatplus.jp/ir/individual/",
+    "https://chatplus.jp/service/chatplus/",
+    "https://note.com/open_azalea2045/n/nd497b198403e",
+    "https://startupclass.co.jp/online/companies/1643/",
+    "https://cxkenkyujo.com/chatplus-ipo-and-cx/",
+    "https://chatplus.jp/blog/ai-chatbot-mechanism/",
+    "https://holistic-r.org/c_info/598a/",
+    "https://job.mynavi.jp/28/pc/search/corp242685/outline.html",
+    "https://boxil.jp/service/3162/",
+    "https://www.youtube.com/watch?v=Mso9s578vLE"
+   ]
+  },
+  {
+   "query": "チャットプラス 決算説明資料",
+   "results": [
+    "https://chatplus.jp/ir/",
+    "https://chatplus.jp/ir/presentation/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=598A",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260818522325",
+    "https://chatplus.jp/ir/faq/",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus.pdf",
+    "https://irp-system.net/presenter/?conts=01ky486dgjgd2ts74hhp3g0mqn",
+    "https://catr.jp/companies/466d9/150098",
+    "https://www2.jpx.co.jp/disc/598A0/140120260818522325.pdf",
+    "https://irbank.net/598A/ir"
+   ]
+  },
+  {
+   "query": "チャットプラス 事業系統図",
+   "results": [
+    "https://chatplus.jp/",
+    "https://www.jpx.co.jp/listing/stocks/new/t13vrt000001faux-att/07ChatPlus-1s.pdf",
+    "https://ipo-navi.jp/column/chatplus-598a-ipo-listing-report",
+    "https://chatplus.jp/ir/faq/",
+    "https://www.ipokiso.com/company/2026/chatplus.html",
+    "https://job.mynavi.jp/28/pc/search/corp242685/outline.html",
+    "https://chatplus.jp/ir/governance/",
+    "https://boxil.jp/service/3162/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260714593119/",
+    "https://chatplus.jp/ir/individual/"
+   ]
+  },
+  {
+   "query": "チャットプラス 社長 インタビュー",
+   "results": [
+    "https://aismiley.co.jp/ai_news/chatplus-aismiley-interview/",
+    "https://chatplus.jp/corporate/about/",
+    "https://www.youtube.com/watch?v=rcQymxrL3gc",
+    "https://startupclass.co.jp/online/companies/1643/",
+    "https://ipo-navi.jp/column/chatplus-598a-ipo-listing-report",
+    "https://chatplus.jp/ir/message/",
+    "https://www.nikkei.com/article/DGXZQOUC1546Q0V10C26A7000000/",
+    "https://shikiho.toyokeizai.net/news/0/951598",
+    "https://ingage.jp/relation/testimonials/chatplus/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部2頁・検索5回）"
+ }
+}

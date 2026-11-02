@@ -1,0 +1,1673 @@
+{
+ "name": "LNG運搬船",
+ "en": "LNG carrier",
+ "aliases": [
+  "LNG船"
+ ],
+ "context": "8 造船 ③LNG運搬船",
+ "kind": "market",
+ "researched_at": "2026-11-02T15:03:01.324747+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share, and Growth Analysis, By Propulsion Type (Steam Turbines, Dual Fuel Diesel Engine/Tri-Fuel Diesel Engine (DFDE/TFDE)), By Containment System, By Carrier Size, By Application, By Region - Industry Forecast 2026-2033",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模は、2024年に1,400億5,000万米ドルと評価され、2025年の1,486億米ドルから2033年までに2,386億3,000万米ドルへ成長する見込みです",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：推進タイプ別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：貯蔵システム別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：運搬船サイズ別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：用途別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,300 換算",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船市場は、2025年から2030年にかけて56億1,040万米ドル成長し、予測期間中のCAGRは6.4％になると予測されています",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、世界のLNG運搬船市場について、包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダーを対象としたベンダー分析を提供しています",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4章 市場規模",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模、2025年",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模実績",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,500 換算",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,000 換算",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模・シェア、成長分析2035年",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模とシェア、船型別（小型船（≤40,000m³）、中型船（~40,000-150,000m³）、大型/Q Max船（>150,000m³）}、封じ込めシステム、用途、推進タイプ - SWOT分析、競争戦略的洞察、地域動向2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2025 市場規模",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "これらのLNG開発計画には、HDヒュンダイと中国船舶重工に少なくとも36隻の新しいLNG運搬船を発注する必要があり、さらに数十隻が発注される予定で、数十億ドルの投資となります",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、ベンチャーグローバルは2025年7月、米国のCP2プラント向けに151億ドルの資金を確保しました",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "基準年市場規模（2025年）",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "163億ドル",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "予測年市場規模（2035年）",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "302億ドル",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、アジア太平洋地域のLNG船市場は、LNG輸入量の増加、支援政策、そして従来型エネルギー源から脱炭素化が進んだエネルギー源への移行により、市場シェアの34.6%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "北米LNG船市場は、予測期間中に市場シェアの27.9%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG 船の市場規模とシェア、主要な洞察、主要メーカーと市場見通しー容量別、収容タイプ別、アプリケーション別、および地域別―世界市場の見通しと予測2025―2037年",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size and Share, Key Insights, Key Manufacturers and Market Outlook - By Capacity, Capacity Type, Application, and Region - Global Market Outlook and Forecast 2025-2037",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "2037年の予想市場規模:",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模:",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "LNGタンカー市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：タイプ別（モス型、メンブレン型）、貯蔵容量別（120,000立方メートル未満、120,000～160,000立方メートル、160,000立方メートル超）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNGタンカー市場は、2025年には157億米ドルと評価され、2034年までに180億4000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNGタンカーの世界市場規模は、2025年には157億米ドルと評価された",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "年間市場規模は2034年までに180億4000万米ドルに達すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2034年までの潜在市場規模（TAM）は、約1,527億9,000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は予測期間中に年平均成長率（CAGR）1.56%を記録すると予想されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、北米、ヨーロッパ、アジア太平洋（APAC）、中東およびアフリカ（MEA）、南米の5つの主要地域に関して、2021年から2034年までの市場規模と予測推定値を提供します",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mordor Intelligenceによると、LNG運搬船の市場規模は、2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから、2031年までに231億9,000万米ドルへと拡大し、2026年から2031年にかけてCAGR6.89％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章 市場規模と成長予測",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,500 換算",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,750 換算",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船の市場規模、シェア、成長、2035年予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界LNG船市場規模は1,453億ドル",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率6.2%で拡大し、2035年末には2,539億米ドルを超える見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの市場規模",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 市場規模と予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "13.1.1.1. 市場規模と予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "予測期間（2026年～2033年）におけるCAGRは6.1％と予測されています",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.1%です",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：推進タイプ別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：貯蔵システム別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：運搬船サイズ別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模：用途別& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船の市場規模& CAGR（2026-2033）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "収益の前年比比較（2023-2025年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船市場は、2025年から2030年にかけて56億1,040万米ドル成長し、予測期間中のCAGRは6.4％になると予測されています",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の前年比",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）6.4%で成長が見込まれます",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "北米の液化天然ガス（LNG）輸出取引能力は、2023年から2028年の間に倍増し、2023年の114億立方フィート/日（Bcf/d）から2028年には244億立方フィート/日に達すると予想されています（現在の操業と将来のプロジェクトを考慮）",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "この前年比8%増（10億立方フィート/日相当）は、新規液化プロジェクトの稼働開始に直接起因しています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "世界の市場規模は2025年には163億米ドルを超え、2035年までに6.4%を超えるCAGRで成長し、302億米ドルの収益に達すると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2037 年の CAGR:",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "2026年～2034年の年平均成長率（CAGR）",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年から2034年にかけて年平均成長率（CAGR）1.56%を記録すると推定されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は予測期間中に年平均成長率（CAGR）1.56%を記録すると予想されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の年間平均成長率（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mordor Intelligenceによると、LNG運搬船の市場規模は、2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから、2031年までに231億9,000万米ドルへと拡大し、2026年から2031年にかけてCAGR6.89％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年にLNG運搬船市場シェアの48.7％を占め、2031年までCAGR7.3％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に22％のシェアを占め、12か所の新規輸入ターミナルが建設され、再ガス化能力が年間2億4,000万トンに拡大したことが後押しとなりました",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "カタールのノース・フィールド拡張計画により、2030年までに122隻の新造船が確保され、受注残高の勢いを強めるとともに、LNG運搬船市場の規模拡大を支えています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから、2031年までに231億9,000万米ドルへと拡大し、2026年から2031年にかけてCAGR6.89％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、2031年までCAGR7.7％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率6.2%で拡大し、2035年末には2,539億米ドルを超える見込みです",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月の最新調査によると、日本の大手海運会社である三井物産、日本郵船、川崎汽船は、2030年までにLNG船隊を40%以上拡大する予定",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年までの市場成長率",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLNG運搬船市場は、2025年の111億8,000万米ドルから2031年までに160億6,000万米ドルへ拡大し、CAGR 6.22％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR：2026年～2031年",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、カタールエナジーは2024年3月のプレスリリースで、生産拡大と船隊近代化を支援するため、19隻の追加船舶に関する定期用船契約を締結したと発表しました",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.22%です",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年周消耗量为35.6亿m3，远低于2023年的42.3亿m3，也略低于5年平均周消耗量36.8亿m3，这表明LNG消费需求不足导致了去库存缓慢",
+    "url": "http://www.ishipoffshore.com/archives/2724.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: North America (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 3.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 3.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "size was estimated at USD 16.3 billion in 2025 and is expected to surpass USD 30.2 billion by the end of 2035, rising at a CAGR of 6.4% during the forecast period, i.e., 2026-2035. In 2026, the industry size of LNG carrier is estimated at USD 17.4 billion.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "6.4% CAGR (2026-2035)",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "The global market size was more than USD 16.3 billion in 2025 and is anticipated to grow at a CAGR of over 6.4%, reaching USD 30.2 billion revenue by 2035.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033 at CAGR of",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, expanding at a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 8.2% | USD Billion",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2033. The region's growth is anchored in China's expanding LNG import infrastructure, with major ports including Shanghai, Guangdong, and Jiangsu accelerating terminal expansion to support industrial demand and power generation diversification from coal dependency. India's emerging LNG capabilities represented",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2033, driven by technical advances in materials science, improved insulation performance, and reduced maintenance requirements extending vessel operational life by",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 value, growing at",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2033, reflecting the strategic importance of flexible infrastructure in emerging LNG markets.",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "cluster itself, and it also posts the fastest regional CAGR at 7.8%. Europe follows at 24.6%, sustained by the post-2022 pivot away from piped Russian volumes. Expect the LNG Carriers Market to stay supply-constrained well past 2028.",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "X-DF two-stroke propulsion is scaling at a 9.2% CAGR through 2035, the fastest of any powertrain in the LNG Carriers Market",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "LNG bunkering service providers are expanding at a 9.5% CAGR, the steepest end-user growth rate on record",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "Europe grew at a 7.1% CAGR across the forecast window",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "Vessels below 40,000 m³ serving bunkering hubs at Rotterdam, Singapore, Zeebrugge and Jebel Ali represent the fastest-expanding end-user pocket, growing at 9.5% annually. With over 1,200 LNG-fuelled ships on order across container, car-carrier and tanker fleets, dedicated bunker supply tonnage is structurally undersupplied",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "8.4% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位5社の比較",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の市場シェア分析（2025年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模・シェア、成長分析2035年",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模とシェア、船型別（小型船（≤40,000m³）、中型船（~40,000-150,000m³）、大型/Q Max船（>150,000m³）}、封じ込めシステム、用途、推進タイプ - SWOT分析、競争戦略的洞察、地域動向2026-2035",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに34.6％のシェアを獲得",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "新しいLNG輸出会社であるゴールデンパスLNGとプラークミンズLNGフェーズ2（中規模トレイン18基を含む）の稼働開始時期は、これらの施設が2025～2026年の国内のLNG輸出能力の19％を占めるため、予測に直接影響を与える可能性があります",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "メンブレンセグメントは、2035年までの予測期間中にLNG船市場で最大のシェア55.3%を獲得すると予測されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "デュアル燃料推進セグメントは、2035年までにLNG船市場シェアの40%を占め、大幅な成長を遂げると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "大型船セグメントは、2034年までに最も大きな成長を遂げると予想されており、LNG船市場シェアは45.2%に達する見込みです",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までに、アジア太平洋地域のLNG船市場は、LNG輸入量の増加、支援政策、そして従来型エネルギー源から脱炭素化が進んだエネルギー源への移行により、市場シェアの34.6%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "北米LNG船市場は、予測期間中に市場シェアの27.9%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "2023年以降、LNG輸出で世界トップの座を占める米国は、市場での存在感をさらに高めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のLNG船市場は、船隊の竣工数と契約数が年間約6%増加していることから、市場シェアの21.6%を占めると予想されています",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "世界の LNG 船市場の成長、規模、シェア、主要な傾向分析および調査レポート 2037年",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "LNG 船の市場規模とシェア、主要な洞察、主要メーカーと市場見通しー容量別、収容タイプ別、アプリケーション別、および地域別―世界市場の見通しと予測2025―2037年",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "アトムパワー電池市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "トリウム原子炉市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 炉の技術タイプ別、燃料サイクルの段階別、アプリケーション別、開発段階別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "pass": 3
+   },
+   {
+    "quote": "LNGタンカー市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：タイプ別（モス型、メンブレン型）、貯蔵容量別（120,000立方メートル未満、120,000～160,000立方メートル、160,000立方メートル超）、地域別（北米、欧州、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場 | 業界シェア 市場規模 成長性 2026 - 2031年",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "モス社の球形タンクは、北極海航路において18％のシェアを維持し、依然として重要な役割を果たしています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ME-GIエンジンは、多燃料対応の柔軟性により、新造船受注の24％を占めています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "DFDEおよびTFDEシステムは18％のシェアを占めており、排出規制海域での機動性を高めますが、効率性のベンチマークには及ばない状況です",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドSTaGEパッケージは、タービンと補助ガスエンジンを組み合わせ、特殊な需要を取り込んでいますが、受注シェアが3％にとどまっているのは、その高い複雑さを反映しています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年にLNG運搬船市場シェアの48.7％を占め、2031年までCAGR7.3％を記録すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2025年に22％のシェアを占め、12か所の新規輸入ターミナルが建設され、再ガス化能力が年間2億4,000万トンに拡大したことが後押しとなりました",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "北米と中東は、それぞれ15％と10％のシェアを占める輸出拠点となっています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "南米は5％のシェアを占めており、その中心はブラジルです",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、2031年までCAGR7.7％で成長すると予測されています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船の市場規模、シェア、成長、2035年予測",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "14.1. 市場シェア分析",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "By cargo capacity: 150,000-179,999 m³ segment held the largest market share of 41.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: LNG transportation segment held the largest market share of 86.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG transportation dominated the global market with a revenue share of 86.2% in 2025. This is due to the growing global trade of",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The membrane segment is projected to account for 55.3% share of the LNG carrier market by 2035, propelled by the adoption of membrane containment systems enabling larger vessel capacities, enhanced safety, and greater efficiency.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "By 2035, the Asia Pacific LNG carrier market is expected to hold 34.6% of the market share due to LNG imports increasing, supportive policies, and transitioning away from traditional sources of energy to more decarbonized sources of energy.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "globally in 2025, with the top three shipbuilders controlling approximately",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.2 Global LNG Carriers Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Membrane containment commanded a 65.8% revenue share of the LNG Carriers Market in 2025, reflecting its superior volumetric efficiency per unit of hull",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "The 180,000–220,000 m³ vessel class accounted for USD 7.98 billion in 2025 revenue",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "Nearly half of the active trade fleet is made up of confirmed orders, with the highest delivery concentration occurring between 2027 and 2029",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "The Membrane Type containment system dominated the market in 2025 with a 60.0% share, reflecting its widespread adoption due to higher cargo capacity and efficient space utilization compared to other types.",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers: Market Share by Propulsion Type, 2025",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Engine technology on the majority of new builds has converged on WinGD's two-stroke dual-fuel configuration, with GTT dominating the membrane containment system market. Those two technology incumbents effectively set the specifications for new orders, giving them considerable pricing power as the orderbook extends delivery windows to 2028 and beyond.",
+    "url": "https://www.shipfinex.com/blog/top-lng-carrier-operators",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場ポジショニング（2025年）",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント別分析、およびベンダー情勢が盛り込まれています",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG 船市場で活動している主要企業の一部を以下に示します",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析（主要企業の市場順位・シェア）",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがLNG船市場の主要企業です",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場の主要プレイヤーには、BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがいます",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global LNG carriers market include Hanwha Group and Kawasaki Heavy Industries, Ltd., among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the LNG carrier market are listed below:",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "Get a glimpse of competitive landscape analysis",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the market include Gaztransport & Technigaz S.A., Mitsui O.S.K. Lines, Ltd., Hudong–Zhonghua Shipbuilding Corporation, Teekay Lng Partners, L.P., Kawasaki Heavy Industries Ltd., Dynagas LNG Partners LP., GasLog Ltd., BW Group, MISC Group, Nippon Yusen Kabushiki Kaisha.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape with advanced LNGC technology",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Industry Structure 2025-2033",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Key Companies",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Benchmarking Of Key Players",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "An exhaustive competitive landscape section profiles major players in the LNG Carriers market, assessing their strategic positioning, product offerings, recent developments, and market shares. This benchmarking helps businesses identify key competitors, understand their strategies, and pinpoint opportunities for differentiation and strategic alliances within the industry.",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LNG運搬船市場規模・シェア分析レポート2031年 — Mordor IntelligenceによるLNG運搬船市場分析 LNG運搬船市場規模は、2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから2031年までに231億9,000万米ドルに拡大し、2026年から2031年の間に6.89%のCAGRを記録する見込みである。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推... — Dec 22, 2025 · 世界のLNG運搬船の市場規模は、2024年に1,400億5,000万米ドルと評価され、2025年の1,486億米ドルから2033年までに2,386億3,000万米ドルへ成長する見込みです。 予測期間（2026年～2033年）におけるCAGRは6.1％と予測されています。",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船の世界市場 2026年～2030年 - GII — Jun 29, 2026 · 本レポートでは、世界のLNG運搬船市場について、包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダーを対象としたベンダー分析を提供しています。",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模、レポート、2035年までの動向 — Sep 24, 2026 · 世界の LNG 船市場は 2026 年に 160 億 8000 万米ドルと評価され、2035 年までに 259 億 2000 万米ドルに達し、CAGR 5.45% で成長すると予測されています。",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/lng-carrier-market-113765",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模・シェア、成長分析2035年 — Oct 3, 2025 · LNG船市場規模は2025年に163億米ドルと推定され、2035年末までに302億米ドルを超えると予想されています。 予測期間（2026年から2035年）中は年平均成長率（CAGR）6.4%で成長が見込まれます。",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模、業界シェア、2034年までの予測 — Sep 21, 2026 · 世界の LNG 船市場規模は 2026 年に 180 億 4000 万米ドルと評価され、2026 年から 2034 年にかけて 7.99% の CAGR で成長し、2034 年までに 333 億 7000 万米ドルに達すると予測されています。",
+    "url": "https://www.fortunebusinessinsights.com/jp/lngキャリア市場-109927",
+    "pass": 3
+   },
+   {
+    "quote": "LNG船市場規模・シェア、成長分析2035年 — Oct 3, 2025 · アジア太平洋地域は、LNG輸入量の増加、支援政策、そして従来のエネルギー源から脱炭素化が進んだエネルギー源への移行を背景に、2035年末までに34.6%のシェアを占めると見込まれています。",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNGキャリア市場：市場規模・シェアと2034年までの予測 — Apr 24, 2026 · 本レポートは、タイプ、貯蔵容量、地域といった詳細な市場区分に基づき、LNG運搬船市場の概要を提供することを目的としています。 世界のLNG運搬船市場は、予測期間中に高い成長が見込まれています。",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場 | 業界シェア 市場規模 成長性 2026 - 2031年 — Jun 11, 2026 · 北米と中東は、それぞれ15％と10％のシェアを占める輸出拠点となっています。 米国の液化量は2024年に9,800万トンに増加し、メキシコ湾からアジアへの航路において、年間18～22隻のLNG運搬船の需要を牽引しています。",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG運搬船市場規模・シェア分析レポート2031年 — Samsung Heavy Industries、Hyundai Heavy Industries Group、Daewoo Shipbuilding & Marine Engineering、Qatar Gas Transport Co.（Nakilat）、Mitsui O.S.K. Linesが、この市場で事業を展開する主要企業です。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルLNG船のトップ会社の市場シェアおよびランキング 2025--YH ... — Jul 10, 2025 · このレポートはのグローバルLNG船の現状と今後の動向を調査および分析し、製品別、アプリケーション別、会社別、地域別と国別のLNG船の市場規模を把握するのに役立つ。",
+    "url": "https://www.yhresearch.co.jp/reports/1078122/lng-carrier",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: LNG運搬船市場- 世界の産業規模、シェア、動向、機... — Jan 19, 2026 · 世界のLNG運搬船市場は、2025年の111億8,000万米ドルから2031年までに160億6,000万米ドルへ拡大し、CAGR 6.22％を記録すると予測されています。",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船分野における「LNG運搬船」の投資促進策の方向性 — 我が国造船所においてLNG運搬船は2019年を最後に建造実績無し。 元々は我が国が強みを持つモス型が主流であったが、近年はメンブレン型が世界の主流となり、韓国造船所が建造の大宗を占めるものの、足元では中国造船所が建造実績を伸ばしている。",
+    "url": "https://www.mlit.go.jp/maritime/content/002015885.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全球及中国LNG船舶行业深度调研报告（2025 VH6） — 商业模式上，长期租约占比下降，现货市场波动性增强，2025年即期运费均值较2023年上涨62%。 技术创新聚焦低碳化，氨燃料预留设计和碳捕捉系统成为新船标配，全球首艘零碳LNG运输船进入试航阶段。",
+    "url": "https://m.gepresearch.com/80/view-808324-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share And Growth Report, 2033 — LNG carriers market size was valued at $15.8 billion in 2025 and is projected to grow from $18.4 billion in 2026 to $23.3 billion by 2033, at a CAGR of 3.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carrier Market Size & Share, Growth Analysis 2035 — Dec 8, 2025 · LNG Carrier Market size was estimated at USD 16.3 billion in 2025 and is expected to surpass USD 30.2 billion by the end of 2035, rising at a CAGR of 6.4% during the forecast period, i.e., 2026-2035.",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share & Forecast Report 2025 to ...LNG Carriers Market Size, Share, Types, Trends, Report 2035LNG Carriers Market Size & Growth Forecast | 6.89% CAGR | DMA ...United States Liquefied Natural Gas (LNG) Carrier MarketLNG Carriers Market: 21,850.30 million by 2033 | 8.35% CAGR — The LNG Carriers market was valued at $18.4 billion in 2025 and is projected to reach $32.8 billi",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Share, Types, Trends, Report 2035 — Oct 16, 2026 · LNG Carriers Market Summary The LNG Carriers Market reached USD 16.55 billion in 2025 and enters the forecast window at USD 17.78 billion in 2026, climbing to USD 33.83 billion by 2035 at a 7.4% CAGR. Two catalysts anchor that trajectory.",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size & Growth Forecast | 6.89% CAGR | DMA ... — Jul 8, 2026 · The global LNG Carriers market is projected to reach USD 40.54 Billion by 2033, growing at a robust CAGR of 6.80% from USD 23.9 Billion in 2025, driven by increasing natural gas demand and expanding liquefaction capacities.",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size, Industry Share, Forecast to 2034 — Oct 12, 2026 · Asia Pacific holds the major share of the LNG carriers market, driven by increased demand for natural gas due to the strong adoption of clean energy sources and industrial growth.",
+    "url": "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "pass": 3
+   },
+   {
+    "quote": "LNG Carriers Market Size & Share Analysis Report 2031 — Sep 11, 2026 · Asia-Pacific commanded 48.7% of the LNG carriers market share in 2025 and is forecast to post a 7.3% CAGR to 2031. Japan and South Korea together import 122 million tonnes annually, guaranteeing steady charter demand.",
+    "url": "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global LNG Carriers Market Study 2026-2033: Market Overview ... — The LNG Carriers Market is highly competitive, characterized by a mix of established shipbuilders and energy companies. Key players include Wärtsilä, STX Offshore & Shipbuilding, Mitsui...",
+    "url": "https://www.linkedin.com/pulse/global-lng-carriers-market-study-2026-2033-overview-top-players-vt0tf",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 LNG Carrier Operators Ranking 2026 - shipfinex.com — Jun 2, 2026 · Explore the Top 10 LNG carrier operators in 2026, including fleet capacity, newbuild orderbook rankings, and the companies driving global LNG trade.",
+    "url": "https://www.shipfinex.com/blog/top-lng-carrier-operators",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "現在、推進システムへの投資額のうち約150億米ドルが、早期償却のリスクにさらされています",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "in total infrastructure investment during 2024-2025, with corresponding carrier procurement commitments exceeding",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "for large-scale carriers during peak demand in 2025, providing profitable returns on vessel investments when utilization exceeds",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, with total investment value exceeding",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "pass": 3
+   },
+   {
+    "quote": "Contract structures are separating into two distinct pools: 15-to-20-year producer-backed charters funding newbuilds at fixed returns, and a volatile residual spot pool where rates swing by an order of magnitude within a single year",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "pass": 3
+   },
+   {
+    "quote": "The LNG Carriers market size was valued at USD 23.9 Billion in 2025. This valuation reflects the significant global investment in specialized vessels for transporting liquefied natural gas, driven by increasing energy demand and expanding international trade routes for natural gas resources.",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.1",
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "quote": "予測期間（2026年～2033年）におけるCAGRは6.1％と予測されています"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "quote": "世界のLNG運搬船市場は、2025年から2030年にかけて56億1,040万米ドル成長し、予測期間中のCAGRは6.4％になると予測されています"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "予測期間（2026年から2035年）中、年平均成長率（CAGR）6.4%で成長が見込まれます"
+   },
+   {
+    "value": "1.56",
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "quote": "また、2026年から2034年にかけて年平均成長率（CAGR）1.56%を記録すると推定されています"
+   },
+   {
+    "value": "6.89",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "Mordor Intelligenceによると、LNG運搬船の市場規模は、2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから、2031年までに231億9,000万米ドルへと拡大し、2026年から2031年にかけてCAGR6.89％を記録すると予測されています"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "アジア太平洋地域は2025年にLNG運搬船市場シェアの48.7％を占め、2031年までCAGR7.3％を記録すると予測されています"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "quote": "市場は2025年から2035年にかけて年平均成長率6.2%で拡大し、2035年末には2,539億米ドルを超える見込みです"
+   },
+   {
+    "value": "6.22",
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "quote": "世界のLNG運搬船市場は、2025年の111億8,000万米ドルから2031年までに160億6,000万米ドルへ拡大し、CAGR 6.22％を記録すると予測されています"
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "quote": "CAGR of 3.4% from 2026 to 2033"
+   },
+   {
+    "value": "6.4",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "quote": "size was estimated at USD 16.3 billion in 2025 and is expected to surpass USD 30.2 billion by the end of 2035, rising at a CAGR of 6.4% during the forecast period, i.e., 2026-2035. In 2026, the industry size of LNG carrier is estimated at USD 17.4 billion."
+   },
+   {
+    "value": "8.2",
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "quote": "CAGR: 8.2% | USD Billion"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "quote": "cluster itself, and it also posts the fastest regional CAGR at 7.8%. Europe follows at 24.6%, sustained by the post-2022 pivot away from piped Russian volumes. Expect the LNG Carriers Market to stay supply-constrained well past 2028."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "34.6",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "2035年までに34.6％のシェアを獲得"
+   },
+   {
+    "value": "19",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "新しいLNG輸出会社であるゴールデンパスLNGとプラークミンズLNGフェーズ2（中規模トレイン18基を含む）の稼働開始時期は、これらの施設が2025～2026年の国内のLNG輸出能力の19％を占めるため、予測に直接影響を与える可能性があります"
+   },
+   {
+    "value": "55.3",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "メンブレンセグメントは、2035年までの予測期間中にLNG船市場で最大のシェア55.3%を獲得すると予測されています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "デュアル燃料推進セグメントは、2035年までにLNG船市場シェアの40%を占め、大幅な成長を遂げると予想されています"
+   },
+   {
+    "value": "45.2",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "大型船セグメントは、2034年までに最も大きな成長を遂げると予想されており、LNG船市場シェアは45.2%に達する見込みです"
+   },
+   {
+    "value": "27.9",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "北米LNG船市場は、予測期間中に市場シェアの27.9%を占めると予想されています"
+   },
+   {
+    "value": "6",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "欧州のLNG船市場は、船隊の竣工数と契約数が年間約6%増加していることから、市場シェアの21.6%を占めると予想されています"
+   },
+   {
+    "value": "21.6",
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "quote": "欧州のLNG船市場は、船隊の竣工数と契約数が年間約6%増加していることから、市場シェアの21.6%を占めると予想されています"
+   },
+   {
+    "value": "70.8",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています"
+   },
+   {
+    "value": "98.5",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています"
+   },
+   {
+    "value": "7.7",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年には、膜技術がLNG運搬船市場シェアの70.8％を占め、積載率98.5％を実現するGTT社の「Mark III Flex+」および「NO96」の各バリエーションに支えられ、2031年までCAGR7.7％で成長すると予測されています"
+   },
+   {
+    "value": "18",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "モス社の球形タンクは、北極海航路において18％のシェアを維持し、依然として重要な役割を果たしています"
+   },
+   {
+    "value": "40.2",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "2025年時点でも、LNG運搬船市場規模の40.2％を蒸気タービンが占めていましたが、X-DF二行程エンジンは2031年までCAGR8.6％で拡大しています"
+   },
+   {
+    "value": "24",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "ME-GIエンジンは、多燃料対応の柔軟性により、新造船受注の24％を占めています"
+   },
+   {
+    "value": "3",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "ハイブリッドSTaGEパッケージは、タービンと補助ガスエンジンを組み合わせ、特殊な需要を取り込んでいますが、受注シェアが3％にとどまっているのは、その高い複雑さを反映しています"
+   },
+   {
+    "value": "48.7",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "アジア太平洋地域は2025年にLNG運搬船市場シェアの48.7％を占め、2031年までCAGR7.3％を記録すると予測されています"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "アジア太平洋地域は2025年にLNG運搬船市場シェアの48.7％を占め、2031年までCAGR7.3％を記録すると予測されています"
+   },
+   {
+    "value": "22",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "欧州は2025年に22％のシェアを占め、12か所の新規輸入ターミナルが建設され、再ガス化能力が年間2億4,000万トンに拡大したことが後押しとなりました"
+   },
+   {
+    "value": "15",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "北米と中東は、それぞれ15％と10％のシェアを占める輸出拠点となっています"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "北米と中東は、それぞれ15％と10％のシェアを占める輸出拠点となっています"
+   },
+   {
+    "value": "5",
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "quote": "南米は5％のシェアを占めており、その中心はブラジルです"
+   },
+   {
+    "value": "41.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "quote": "By cargo capacity: 150,000-179,999 m³ segment held the largest market share of 41.1% in 2025."
+   },
+   {
+    "value": "86.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "quote": "By application: LNG transportation segment held the largest market share of 86.2% in 2025."
+   },
+   {
+    "value": "55.3",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "quote": "The membrane segment is projected to account for 55.3% share of the LNG carrier market by 2035, propelled by the adoption of membrane containment systems enabling larger vessel capacities, enhanced safety, and greater efficiency."
+   },
+   {
+    "value": "34.6",
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "quote": "By 2035, the Asia Pacific LNG carrier market is expected to hold 34.6% of the market share due to LNG imports increasing, supportive policies, and transitioning away from traditional sources of energy to more decarbonized sources of energy."
+   },
+   {
+    "value": "65.8",
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "quote": "Membrane containment commanded a 65.8% revenue share of the LNG Carriers Market in 2025, reflecting its superior volumetric efficiency per unit of hull"
+   },
+   {
+    "value": "60.0",
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "quote": "The Membrane Type containment system dominated the market in 2025 with a 60.0% share, reflecting its widespread adoption due to higher cargo capacity and efficient space utilization compared to other types."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/lng-carrier-market-113765",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/reports/1078122/lng-carrier",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/002015885.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.ishipoffshore.com/archives/2724.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://m.gepresearch.com/80/view-808324-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-lng-carriers-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/lng-carriers-market/companies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shipfinex.com/blog/top-lng-carrier-operators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consbrgs.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LNG運搬船 市場規模 CAGR",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html",
+    "https://www.businessresearchinsights.com/jp/market-reports/lng-carrier-market-113765",
+    "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "https://www.fortunebusinessinsights.com/jp/lngキャリア市場-109927",
+    "https://www.globalresearch.co.jp/reports/lng-carriers-market-tnv/"
+   ]
+  },
+  {
+   "query": "LNG運搬船 市場 シェア 上位 企業",
+   "results": [
+    "https://www.sdki.jp/reports/lng-carriers-market/81391",
+    "https://www.researchnester.com/ja/reports/lng-carrier-market/3825",
+    "https://www.theinsightpartners.com/ja/reports/lng-carrier-market",
+    "https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.yhresearch.co.jp/reports/1078122/lng-carrier",
+    "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004"
+   ]
+  },
+  {
+   "query": "LNG運搬船 市場 前年比 2025",
+   "results": [
+    "https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market",
+    "https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html",
+    "https://www.mlit.go.jp/maritime/content/002015885.pdf",
+    "http://www.ishipoffshore.com/archives/2724.html",
+    "https://m.gepresearch.com/80/view-808324-1.html",
+    "https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004"
+   ]
+  },
+  {
+   "query": "LNG carrier market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report",
+    "https://www.researchnester.com/reports/lng-carrier-market/3825",
+    "https://dataintelo.com/report/global-lng-carriers-market",
+    "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast",
+    "https://www.transpireinsight.com/report/united-states-liquefied-natural-gas-lng-carrier-market",
+    "https://www.futuremarketreport.com/industry-report/lng-carriers-market"
+   ]
+  },
+  {
+   "query": "LNG carrier market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/lng-carriers-market-109927",
+    "https://www.marketresearchfuture.com/reports/lng-carriers-market-22896",
+    "https://www.mordorintelligence.com/industry-reports/lng-carriers-market",
+    "https://www.mordorintelligence.com/industry-reports/lng-carriers-market/companies",
+    "https://www.linkedin.com/pulse/global-lng-carriers-market-study-2026-2033-overview-top-players-vt0tf",
+    "https://www.shipfinex.com/blog/top-lng-carrier-operators",
+    "https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report"
+   ]
+  },
+  {
+   "query": "LNG carrier market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://www.consolidatedsupply.com/",
+    "https://consolidatednd.com/",
+    "https://nebnet.net/",
+    "https://consbrgs.com/",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "LNG carrier market key companies share 2025",
+   "results": []
+  }
+ ],
+ "missing": {}
+}

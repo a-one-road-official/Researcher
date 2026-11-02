@@ -1,0 +1,1928 @@
+{
+ "name": "自動運転トラック",
+ "en": "autonomous truck",
+ "aliases": [
+  "自動運転物流",
+  "レベル4トラック"
+ ],
+ "context": "2 デジタル・サイバー ⑥自動運転",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:37:05.365433+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "自動運転トラック市場規模、成長予測2025-2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自律走行トラック市場規模は、2024年に3,569億米ドルと評価され、2025年から2034年の間に年平均成長率(CAGR)16.2%を記録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "3,569億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "1兆5,000億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行トラック市場規模、クラス別、2022年–2034年、(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラスに基づき、市場はクラス4、クラス5、クラス6、クラス7、およびクラス8に分類されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自律走行トラック市場規模、2022年-2034年、(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自律走行トラック市場は、2024年に収益シェアの70%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2024",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済：2035年に自動運転シャトルの国内市場は322億円に",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "総合技研：国内ADAS市場は2030年に2,464億円規模に",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Kenneth Research：世界の自動運転市場、2024年までに約2兆1,200億円規模に",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC：世界の自動運転車市場は2026年まで約28％のCAGRで拡大",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Report Ocean：レベル1～3の世界市場は2027年まで20.8％以上で成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC：世界のADAS市場は2026年まで約13％のCAGRで成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Kenneth Research：ADASの世界市場は2030年末までに1,047億ドルに",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転タクシーの世界市場、2030年に15兆円規模に",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Precedence Research：自動運転バス市場は2035年に2兆円規模 アジア地域が急成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune Business Insights：自動運転バス市場は2032年に1兆4,000億円規模へ",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune Business Insights：2034年に市場規模は32兆円へ拡大",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Market Research Future：2035年に市場規模25兆8,000億円に",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "フロスト＆サリバン：自動運転技術で進化するTaaS市場は2025年に8兆円規模",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights：2034年には230兆円市場に成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場規模、シェア、成長率、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動運転トラック市場規模は、2025年には432億8000万米ドルと評価され、2026年の480億9000万米ドルから2034年には1117億9000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は11.12%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場は、レベル4の自動運転貨物輸送ソリューションの商用化、AI搭載トラック輸送プラットフォームへの需要増加、コネクテッドロジスティクスインフラへの投資拡大を背景に、今後も投資活動が継続すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の自動運転トラック市場は、レベル4の自動運転トラックの早期商用化、コネクテッド貨物回廊への堅調な投資、主要な自動運転技術開発企業や商用車メーカーの存在により、2025年には地域別シェアで38.74%と最大規模を占めました",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の自動運転トラック市場は、無人貨物輸送の商業化の進展、自動運転物流回廊への投資拡大、トラックメーカー、技術開発者、貨物運送業者間の強力な連携により、2025年には142億8000万米ドルの規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの自動運転トラック市場は、インテリジェント交通インフラ、コネクテッド貨物輸送回廊、商用車イノベーションへの投資拡大に支えられ、2025年には18億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の自動運転トラック市場は、予測期間中に年平均成長率（CAGR）13.84%で成長すると予想されており、地域別で最も速い成長率を示すと見込まれています",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自動運転トラック市場は、政府主導の高度道路交通構想、自動運転貨物輸送の実証実験の急速な展開、商用車自動化への多額の投資に支えられ、2025年には81億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの自動運転トラック市場規模は、物流部門の急速な近代化、専用貨物輸送回廊の拡大、コネクテッド商用車の普及拡大などを背景に、2025年には12億7000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動運転トラック市場は、2025年には23億4000万米ドルと評価されており、これは、商用運転手不足への対応と輸送自動化による貨物生産性の向上に対する国の関心の高まりに支えられている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.12%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "AI主導の貨物輸送変革が世界的に加速する中、自動運転トラック市場は2035年までに610億ドル規模に達する見通し | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "AI主導の貨物輸送変革が世界的に加速する中、自動運転トラック市場は2035年までに610億ドル規模に達する見通し",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "市場分析によると、自動運転トラック市場は2025年に20億米ドル規模に達し、2035年には610億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "世界的に自動化やインテリジェント・モビリティ・ソリューションの導入が進む中、自動運転トラック市場は今後10年間で飛躍的な成長を遂げると予測されています",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の20億米ドルから2035年には610億米ドルへと拡大する見通しであり、自動運転トラックは次世代物流ネットワークの重要な構成要素になると期待されています",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場規模レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場は、2025年に32億米ドルと評価され、2026年の39億米ドルから2035年までに331億米ドルへ拡大し、年平均成長率（CAGR）26.9%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Long-Haul Trucking Market Size, By Automation Level, 2022 – 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディーゼルは2025年に 21億2,320万米ドルの市場規模で市場をリードし、収益の 66.7%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "電動自動運転トラックの市場規模は2025年に 6億1,640万米ドルであり、2035年には 87億1,790万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド駆動方式の市場規模は2025年に 4億4,280万米ドルであり、2035年には 55億3,570万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラス7の市場規模は2025年に 7億9,870万米ドルであり、2035年には 70億6,050万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラス8は2025年に 23億8,370万米ドルの市場規模で、同年の収益の 74.9%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハブ間運行の市場規模は2025年に 9億5,100万米ドルであり、2035年には 106億4,050万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "長距離貨物輸送は最大の用途であり、2025年の市場規模は14億4,590万米ドル、2035年には146億1,820万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "港湾・ターミナル物流の市場規模は2025年に4億7,600万米ドルに達し、2035年には51億480万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "越境物流の市場規模は2025年に2億2,810万米ドルとなり、2035年には21億5,460万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "「自動運転トラック市場規模、シェア、動向、2035年までの世界予測」市場調査レポートの出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "「自動運転トラック市場規模、シェア、動向、2035年までの世界予測」市場調査レポートの出版・販売開始のご案内",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZはMarketsandMarkets（マーケッツアンドマーケッツ）の英文調査報告書「自動運転トラック市場規模、シェア、動向、2035年までの世界予測-Autonomous Trucks Market - Global Forecast To 2035」の販売を2026年7月30日に開始いたしました",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の自律走行トラック市場規模は、2024年に3,569億米ドルと評価され、2025年から2034年の間に年平均成長率(CAGR)16.2%を記録すると推定されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2025年〜2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025 to 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物輸送部門は、電子商取引の世界的な拡大と、より迅速な配送に対するニーズの高まりを背景に、2024年には市場シェアの30％を占めるようになった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラックの市場規模は2024年に3,569億米ドルに達し、輸送インフラへの多額の投資と政府による支援的な規制に牽引され、2025年から2034年にかけて年平均成長率（CAGR）16.2%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービスは一定水準に達し、2020年代半ばからは拡大フェーズに突入している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC：世界の自動運転車市場は2026年まで約28％のCAGRで拡大",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC：世界のADAS市場は2026年まで約13％のCAGRで成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Technavio：2029年までCAGR 22.4％で成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune Business Insights：2034年に市場規模は32兆円へ拡大",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRC：2032年までCAGR74.2％で市場が成長",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "、公共交通、物流などで試験的利用が始まっており、2023～2024年頃からの本格的な実用期間を経て2025年以降に拡大すると見ている",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "米調査会社のGrand View Researchが2020年3月までに発表した自動運転車の世界市場調査によると、2021年から2030年にかけCAGR63.1％で推移し、市場規模は2030年までに420万台に達すると予測している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "米調査会社のKenneth Researchが2020年7月に発表した調査レポート「グローバル自動運転車市場における5G：世界的な需要の分析及び機会展望2027年」によると、世界の自動運転市場は2016年から2024年までにCAGR25.7％を記録し、2024年までに200億ドル（約2兆1,200億円）規模に達すると予測している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社のIMARCが2021年11月に発表した世界の自動運転車市場に関する調査によると、同市場は2021年から2026年の間に約28％のCAGRで拡大すると予測している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Report Oceanが2021年11月に発表した世界の半自動運転車市場に関するレポートによると、2021年から2027年の予測期間において年平均20.8％以上の成長を遂げるとしている",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場規模、シェア、成長率、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の自動運転トラック市場規模は、2025年には432億8000万米ドルと評価され、2026年の480億9000万米ドルから2034年には1117億9000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は11.12%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場は、レベル4の自動運転貨物輸送ソリューションの商用化、AI搭載トラック輸送プラットフォームへの需要増加、コネクテッドロジスティクスインフラへの投資拡大を背景に、今後も投資活動が継続すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、WaabiはシリーズB資金調達ラウンドで2億米ドルを調達し、生成型AIベースの自動運転トラック技術の商業化を加速させ、世界のトラックメーカーとの提携を拡大した",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、PlusはTRATON GROUPから戦略的投資を受け、工場生産の自動運転大型トラックの導入を加速させ、グローバルな商用車エコシステムを拡大する",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は40.7%と、目覚ましい成長が見込まれています",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年の20億米ドルから2035年には610億米ドルへと拡大する見通しであり、自動運転トラックは次世代物流ネットワークの重要な構成要素になると期待されています",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場は、2025年に32億米ドルと評価され、2026年の39億米ドルから2035年までに331億米ドルへ拡大し、年平均成長率（CAGR）26.9%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "レベル3の収益は2025年に28億4,440万米ドルとなった一方、レベル4は3億3,800万米ドルを占め、年率29.8%とより速いペースで成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年の自動運転長距離トラック輸送収益の19.4%を占め、年率30.8%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "レベル3の2025年の売上高は 28億4,440万米ドルで、全体の約89.4%を占め、年率26.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "29.8%のCAGRは、定義された運行領域内で無人運転を実現することによる追加的な商業価値を反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国で自動運転トラックが毎日100万kmを超える走行距離を記録していることは、検証済みの走行条件を拡大するうえで、蓄積された運用データが重要であることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディーゼルの年平均成長率（CAGR）は 24.9%で、市場全体を下回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR は 29.1%であり、インフラ整備が進む間の導入を支えられることを示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR は 24.8%でクラス8を下回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントの CAGR は 27.5%であり、主要ハブ間を結ぶ、走行距離が長く高速道路中心の貨物輸送という、最も有望な自動運転用途との整合性を反映している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）26.5%は、労働力および稼働率の面で大きな価値があることを反映している一方、専用の拠点間輸送レーンと比べて、ルートの変動性が高く、天候への曝露が多様で、集荷・配送インターフェースがより複雑であることが成長を抑制する要因となっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2026年の508億2,000万米ドルから2035年には1,586億9,000万米ドルへと、年平均成長率（CAGR）13.5%に達するとMarketsandMarketsでは予測しています",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月、Aurora Innovation社は、米国テキサス州における商用無人トラック輸送サービスをフォートワースからエルパソへと拡大し、同国の主要輸送ルートの一つに沿って自動運転による貨物輸送事業を拡張しました",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "主要な推進要因（道路の安全性と交通管理への注目の高まり、ドライバー不足への対応ニーズの増大、自動運転技術の採用拡大、有利な政府規制や安全基準）、阻害要因（サイバーセキュリティやデータセキュリティへの懸念、一般社会の受容度の低さ、発展途上国におけるインフラの未整備）、課題（開発・統合にかかる高コスト、規制上の障壁）、および機会（車両のコネクティビティ実現に向けた5G技術の統合、先端技術の利用拡大、トラック・プラトーニング（隊列走行）需要の急増、自動車IoTへの注目の高まり）の分析",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "2015年創業の中国系新興企業TuSimpleは、米アリゾナ州を起点に自動運転が可能な物流網を拡大していく方針を掲げ、長距離自動運転トラックの実用化を進めていく戦略を推し進めていた",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "最新のロードマップ案によると、2025年度以降東北自動車道の佐野SA～大谷PA間約40キロでも取り組みを開始し、長期的に東北～九州へインフラ整備を拡大していく",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までにレベル4自動運転トラックの運用を開始し、2030年代に拡大を図っていくとしている",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は最大市場で、2025年時点で世界トラック需要の約4割を占め、中国・インド・ASEAN、アフリカ、南米では都市化と物流高度化により需要が拡大しています",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年のNavistar買収によって北米事業が大きく拡大し、2025年もその統合効果が続いています",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年にUDトラックスを買収したことで大型車の事業規模が拡大し、アジア・日本・豪州で強固な販売基盤を築いています",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "2034年にかけて年平均6.5%で成長し、規模は2兆3,280億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年から2035年にかけて約14.6%のCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2026-2035の :",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年(約85%)に市場を投下し、予想期間に相当するCAGRで成長する予定",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、レベル1セグメントは2025年に市場を支配し、予測期間中に相当するCAGRで成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、約92%で最大の株式を占め、予測期間中に重要なCAGRで成長する予定",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、ICエンジンセグメントは2025年に最大のシェアを占め、予測期間中に重要なCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "egment は 2025 年に市場を支配しました、およそ 72% は予測期間の間に実質的な CAGR で育つことを写し出しました",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、軽トラックのセグメントは2025年に市場を支配し、予測期間中に相当するCAGRで成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、約35%の市場収益を占めるFMCGセグメントは、予測期間中に重要なCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、FMCG セグメントは、2025年に最高市場収益を占め、予測期間中に重要な CAGR で成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2032年にかけて17.8%のCAGR",
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-672",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転（レベル４）システムを導入する地域の拡大",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/r502_syakaiwg_jimukyokushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度に倍増",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/r502_syakaiwg_jimukyokushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ カバレッジ拡大に必要となる技術開発として、空港や港湾等（公共エリア）の制限区域における高精度３次",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/r502_syakaiwg_jimukyokushiryou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動運転車市場は2025年時点ですでに47億8,000万ドル（約7,600億円）規模に達しており、2026年から2035年にかけて年平均成長率（CAGR）24.40％で拡大すると予測している",
+    "url": "https://jidounten-lab.com/u_66855",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "# 自律走行トラック市場 サイズとシェア 2025 to 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、クラス8セグメントが40%超の市場シェアを保持し、2034年までに6,000億米ドルを超えると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行トラック市場シェア、用途別、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物輸送セグメントは2024年に約30%の市場シェアを保持しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の自律走行トラック市場は、2024年に収益シェアの70%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律走行トラック企業市場シェア、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Daimler および AB Volvo は、自律走行トラック業界において約15%の市場シェアを保有している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物輸送部門は、電子商取引の世界的な拡大と、より迅速な配送に対するニーズの高まりを背景に、2024年には市場シェアの30％を占めるようになった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は2024年の市場収益の70％を占め、強力な政府主導の取り組みと有利な規制枠組みに支えられている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "レベル4は、カーシェアや",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "▼自動運転バス市場規模、シェア、トレンド 2026～2035年｜Precedence Research",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、欧州が55.49％のシェアで世界市場をけん引したという",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に45.46%の市場シェアでロボタクシー市場をけん引した",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "2020年7月リリースのレポートでは、レベル4トラックは2025年までに商用化されるとし、2040年までに米国の年間一般貨物輸送量全体の約6.4%を占め、年間貨物料金で約47億5000万ドル（約5,100億円）の節約につながると予測している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insightsが2022年3月に発行したレポート「自動運転トラック市場 サイズとシェア 2025 to 2034」によると、世界の自動運転トラック市場規模は2024年に356.9億ドル（約5兆5,000億円）と評価されており、2025年から2034年の間はCAGR16.2%で成長すると予測している",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "▼自動運転トラック市場 サイズとシェア 2025 to 2034｜Global Market Insights",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場規模、シェア、成長率、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場の規模、シェア、トレンド分析レポート：自動化レベル別（レベル4、レベル5）、コンポーネント別（ハードウェア、ソフトウェア、サービス）、車両タイプ別（大型トラック、中型トラック、小型トラック）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア38.74%で自動運転トラック市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、LiDAR、レーダー、カメラ、高性能コンピューティングユニット、GPSモジュール、その他自動運転トラックに統合されるセンシングコンポーネントの価値が高いことから、2025年には64.38%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "大型トラック部門は、長距離貨物輸送で広く利用されているため、2025年には67.21%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の自動運転トラック市場は、レベル4の自動運転トラックの早期商用化、コネクテッド貨物回廊への堅調な投資、主要な自動運転技術開発企業や商用車メーカーの存在により、2025年には地域別シェアで38.74%と最大規模を占めました",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の自動運転トラック市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.74%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転車向けHDマップ市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両テレマティクス市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転車市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "ADASおよび自動運転コンポーネント市場の規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律型クレーン市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転車・トラック市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は、Continentalが25%超の市場シェアで首位となった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社には、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "レベル3の収益は2025年に28億4,440万米ドルとなった一方、レベル4は3億3,800万米ドルを占め、年率29.8%とより速いペースで成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "Scaniaは、世界のGDPの70%を占める36カ国で、360万人分の運転手ポストが未充足であると報告した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年の自動運転長距離トラック輸送収益の19.4%を占め、年率30.8%で成長すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "レベル3の2025年の売上高は 28億4,440万米ドルで、全体の約89.4%を占め、年率26.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "ディーゼルは2025年に 21億2,320万米ドルの市場規模で市場をリードし、収益の 66.7%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "駆動方式別の自動運転長距離トラック輸送市場の収益シェア（2025年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界の電動トラック販売台数では中国が 80%超を占めた一方、欧州では 1万台超、米国では 1,700台超の販売が記録された",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラス8は2025年に 23億8,370万米ドルの市場規模で、同年の収益の 74.9%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "小売・電子商取引の市場規模は2025年に推定7億1,000万米ドルとなり、収益の22.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に最大の地域市場となり、売上高は12億8,180万米ドル、市場シェアは40.3%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "「自動運転トラック市場規模、シェア、動向、2035年までの世界予測」市場調査レポートの出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "「自動運転トラック市場規模、シェア、動向、2035年までの世界予測」市場調査レポートの出版・販売開始のご案内",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "SEMABIZはMarketsandMarkets（マーケッツアンドマーケッツ）の英文調査報告書「自動運転トラック市場規模、シェア、動向、2035年までの世界予測-Autonomous Trucks Market - Global Forecast To 2035」の販売を2026年7月30日に開始いたしました",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器受託製造の市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツアナリティクスの市場規模、シェア、動向、2031年までの世界予測（MarketsandMarkets）",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "現状、自動運転分野においては協調領域が大半を占めており、2陣営4ブランドの体制は大きく変わらないものと思われる",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋は最大市場で、2025年時点で世界トラック需要の約4割を占め、中国・インド・ASEAN、アフリカ、南米では都市化と物流高度化により需要が拡大しています",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年の商用車とトラック業界の市場シェアを簡易に試算しますと、1位はダイムラートラック、2位はトレイトン、3位はボルボとなります",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "商用車とトラック業界の市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "商用車とトラックの世界市場シェアと業界ランキング(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界市場で首位となったのは、ドイツのダイムラートラックです",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "TRATONは2025年に向けて電動化投資を大幅に増額する方針を公式に示しており、ゼロエミッション化の進展がランキング上位維持の背景となっています",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、約92%で最大の株式を占め、予測期間中に重要なCAGRで成長する予定",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの中で、ICエンジンセグメントは2025年に最大のシェアを占め、予測期間中に重要なCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、約35%の市場収益を占めるFMCGセグメントは、予測期間中に重要なCAGRで成長することを期待しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "自律走行トラック業界で事業を展開する主要企業には以下が含まれる:",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "や欧州での展開が拡大し、政府支援や技術革新、サービスの多様化によって市場が拡大し、車両の量産化などにより参入企業の収益力向上が期待されるとしている",
+    "url": "https://jidounten-lab.com/u_33437",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、自動運転ソフトウェア、AI搭載の知覚システム、センサーフュージョン技術、安全性検証、物流企業やOEMとの戦略的パートナーシップにおける技術革新を通じて競争している",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック市場の主要企業",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "• その他主要企業",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転長距離トラック輸送市場の主要企業には、Applied Intuition、Continental、Daimler Truck（Torc Robotics）、Einride、TRATONなどが含まれ、これらの企業は2025年に合計で46.5%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "pass": 3
+   },
+   {
+    "quote": "• 本レポートは、自動運転トラック市場全体およびそのサブセグメントにおける収益規模の推定値に関する情報を提供し、市場のリーダー企業や新規参入企業を支援します",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "スクールバスブランド「IC Bus」で高い存在感を持ち、北米の中・大型トラック市場でも長年主要プレイヤーとして位置づけられてきました",
+    "url": "https://deallab.info/truck/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボルボグループ、ダイムラートラック、スコーニア、マントラック、バス、イヴェコなど主要企業は、自動車用トラック技術の開発、供給能力の拡大、物流、小売、製造業界からの需要の拡大を支援しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "FAW、Foton、Plus、Pony.ai、およびヒュンダイのような主要企業は、効率的な貨物、鉱山および産業輸送のための成長の要求を支える生産およびパートナーシップを拡大しています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "オーロラ・イノベーション、コディアック・ロボティクス、ガティク、ダイムラー・トラック、トーク・ロボティクスを含む主要企業は、自動運転車の開発を拡充し、供給を強化し、貨物輸送需要の拡大を図っています",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業リスト",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising autonomous truck startups in North America",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the autonomous truck industry include:",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the autonomous truck industry?",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market include AB Volvo, Daimler, Dongfeng, Embark, Hino, Iveco, Paccar, Sinotruk, TRATON, and TuSimple.",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market Size, Key Companies, Company Market Share, Autonomous Truck Deployment, Technology Adoption, ADAS Integration, Sensor Demand, and Market Forecast",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the autonomous trucks market?",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key companies in the autonomous truck industry are Daimler Truck AG, AB Volvo, PACCAR Inc., and Tesla.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in autonomous trucks market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the autonomous trucks market include Daimler Truck AG, AB Volvo, PACCAR Inc., Tesla, Waymo LLC, Aurora Innovation, Inc., PlusAI, Inc., Applied Intuition, Inc., Nuro, Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Startups are adamant that autonomous technology will solve the safety issues in the trucking industry, but many questions remain",
+    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Autonomous Trucks market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2025 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the autonomous truck market?",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in this market are Aurora Innovation, Inc., Daimler Truck AG, Volvo Autonomous Solutions, PACCAR Inc..",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "such as Tesla, Waymo, and Cruise highlighted the early competitive landscape",
+    "url": "https://ultimo-he.eu/wp-content/uploads/2025/09/AHFE_Early-Digital-Market-Insights-on-Autonomous-Vehicles_July_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market: Competitive Landscape",
+    "url": "https://www.industryarc.com/pressrelease/5372/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players are deploying various strategies, entering into mergers & acquisitions, strategic agreements & contracts, developing, testing, and introducing more effective autonomous truck platforms.",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some major players included in the global Autonomous Truck market report are:",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "9. Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "自動運転トラック市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、Applied Intuitionは、自動車および商用車向けAI搭載車両インテリジェンス、自動運転ソフトウェア、シミュレーションプラットフォームの拡張を目的として、6億米ドルのシリーズF資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月、WaabiはシリーズB資金調達ラウンドで2億米ドルを調達し、生成型AIベースの自動運転トラック技術の商業化を加速させ、世界のトラックメーカーとの提携を拡大した",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に自動運転トラック開発を手掛ける米Torc Roboticsに出資・子会社化し、クラス 8 トラックのFreightliner eCascadiaの自動運転化を推進している",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2024年5月にはいすゞがGatikに対し、3,000万ドル（約47億円）を出資することに合意したことが発表された",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "同年8月には、NIPPON EXPRESSホールディングスもGatikへの出資を発表している",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "ベンチャーラウンドでは、ソフトバンクグループが10億ドル（約1,500億円）を出資したことで話題となった",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月には、資金調達シードラウンドで東京大学協創プラットフォーム、PKSHAアルゴリズム2号ファンド、AIS CAPITALなどを引受先とした第三者割当増資で3億円を調達したと発表した",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "Gatikとは2021年にいすゞの北米法人がレベル4トラックの開発で提携を交わしており、今回新たに3,000万ドルを出資し、パートナーシップをより強固なものとした",
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "pass": 3
+   },
+   {
+    "quote": "The government has provided significant investments in autonomous vehicle research, along with incentives for companies developing self-driving technology. Additionally, China is investing in smart infrastructure, such as 5G networks and smart roads, to support the safe operation of autonomous trucks.",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market size of autonomous truck reached USD 356.9 billion in 2024 and is set to grow at a CAGR of 16.2% from 2025 to 2034, driven by significant investments in transportation infrastructure and supportive government regulations.",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific's contribution to date in this industry can be visible with the regional dominance in the industrial and mining sectors. The 5G integration idea of China brought smart highways in modern frame. The e-commerce industry's investment and interest in automated last-mile and middle-mile delivery solutions has bolstered the logistics and e-commerce innovation.",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, ORIX Corporation announced an investment in RoboTruck Inc., a company focused on autonomous vehicle technologies for logistics, to collaborate on the development and deployment of autonomous driving solutions within the logistics sector. This partnership aims to accelerate innovation in automated freight transportation and enhance operational efficiency across logistics networks.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Daimler Truck launched Daimler Truck Defence as a global brand to expand its military mobility solutions. The company plans mid-three-digit million-euro investments, portfolio expansion, and enhanced capabilities. Daimler Truck aims to achieve €1 billion in defence revenue by 2028 while strengthening manufacturing, partnerships, and employment at its Worth site.",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Economic challenges include high development costs, infrastructure investment, and uncertain returns. Autonomous truck technology can require millions of dollars in R&D spending, while deployment costs may delay adoption despite potential long-term savings of 10–20% in logistics operations.",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Labor shortages are accelerating autonomous truck adoption as companies seek alternatives to driver gaps. The global trucking industry faces a shortage of over 3 million drivers, encouraging investment in automation to improve freight efficiency and reliability.",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading truck manufacturers are investing in AI, sensors, and autonomous systems to enhance freight mobility. Global autonomous vehicle investments exceed $100 billion, with companies developing Level 4 technologies, testing fleets, and strategic partnerships.",
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominate the vehicle type segment with ~62% market share, as Class 8 long-haul applications deliver the highest return on autonomous technology investment through reduced driver wages and extended operational uptime on high-mileage interstate freight routes.",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The return-on-investment calculus is most compelling for high-mileage intercity routes where driver wage costs and mandatory rest hours most significantly constrain throughput. The Federal Highway Administration (FHWA) estimates that Class 8 trucks account for nearly 68% of total U.S. freight ton-miles.",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "France represents approximately 11% of the European autonomous trucks market. Stellantis N.V. and logistics group GEODIS have conducted autonomous last-mile delivery truck pilots supported by French Ministry for Ecological Transition funding, with national decarbonization ambitions accelerating interest in electric autonomous platforms.",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Heavy Duty Trucks (Class 7 and 8) are the dominant segment, accounting for approximately 62% of total market share. Their leadership is attributable to the superior economic return on autonomous technology investment in long-haul, high-mileage freight applications, where elimination of mandatory driver rest periods and reduction in driver wages deliver the greatest operational cost savings.",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The heavy-duty category held the largest market share, of 60%, in 2024 because of its widespread use in long-haul freight transport, mining, and port operations. Their high cargo capacity and sustainability for fixed routes encourage investments in heavy-duty autonomous trucks by freight carriers.",
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The autonomous truck market forecasts continued investment activity driven by the commercialization of Level 4 autonomous freight solutions, increasing demand for AI-powered trucking platforms, and growing investments in connected logistics infrastructure.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Autonomous Truck Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2025, Applied Intuition closed a USD 600 million Series F funding round to expand its AI-powered vehicle intelligence, autonomous driving software, and simulation platforms for automotive and commercial vehicle applications.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2025, Waabi raised USD 200 million in Series B funding to accelerate commercialization of its generative AI-based autonomous trucking technology and expand partnerships with global truck manufacturers.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2025, Plus secured a strategic investment from TRATON GROUP to accelerate deployment of factory-built autonomous heavy-duty trucks and expand its global commercial vehicle ecosystem.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific autonomous truck market is expected to grow at a CAGR of 13.84% during the forecast period, showcasing the fastest regional growth. Growth is supported by rapid expansion of intelligent logistics infrastructure, increasing investments in autonomous driving technologies, and government initiatives promoting connected transportation systems.",
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "and Guangzhou. The country has invested over $5 billion in AV research and",
+    "url": "https://ultimo-he.eu/wp-content/uploads/2025/09/AHFE_Early-Digital-Market-Insights-on-Autonomous-Vehicles_July_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "T able 1:Public investment in AV technology.",
+    "url": "https://ultimo-he.eu/wp-content/uploads/2025/09/AHFE_Early-Digital-Market-Insights-on-Autonomous-Vehicles_July_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• February‍‌‍‍‌‍‌‍‍‌ 2025: Volvo Group Venture Capital AB put money into Canada-based Waabi Innovation Inc. to propel next-generation autonomous trucking technology. Waabi’s AI-driven “Waabi Driver” solution is a concept for the safest large-scale commercial deployment of autonomous trucks.",
+    "url": "https://www.industryarc.com/pressrelease/5372/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market in Middle East & Africa is projected to grow at a 18.9% CAGR through 2035, supported by government-led logistics-infrastructure investment in the Gulf states piloting autonomous freight technology. The UAE led the Middle East & Africa market in 2025, reflecting its concentration of both government investment and regional logistics-corridor pilot programs.",
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "自動運転トラック市場規模 、成長予測2025-2034年 — 自動運転トラック市場規模 、成長予測2025-2034年 Global Market Insights Inc. https://www.gminsights.com > autonomous-truck-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック の 市場規模 、成長 |グローバルレポート [2034] — 自動運転トラック の 市場規模 、成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック の 市場 規模、成長 |グローバルレポート [2034] — 自動運転トラック の 市場 規模、成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "pass": 3
+   },
+   {
+    "quote": "「 自動運転トラック市場 規模、 シェア 、動向、2035年までの ... — 「 自動運転トラック市場 規模、 シェア 、動向、2035年までの ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size , Growth Forecasts 2025 -2034 — Autonomous Truck Market Size , Growth Forecasts 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > autono...",
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size , Growth | Global Report [2034] — Autonomous Truck Market Size , Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market Companies, Size & Trends 2026 ... — Autonomous Trucks Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size & Share Report, 2026-2033 — Autonomous Truck Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market Size, Share, Growth Report 2035 — Autonomous Trucks Market Size, Share, Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market Size, Trends & Forecast to 2033 — Autonomous Trucks Market Size, Trends & Forecast to 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size, Growth | Global Report [2034] — Autonomous Truck Market Size, Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Truck Market Size, Share & Trends Analysis, 2032 — Autonomous Truck Market Size, Share & Trends Analysis, 2032 P&S Intelligence https://www.psmarketresearch.com > ...",
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Trucks Market Companies , Size & Trends 2026 ... — Autonomous Trucks Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "pass": 3
+   },
+   {
+    "quote": "The State of Autonomous Trucking in 2025 : A Recap of 2024 — The State of Autonomous Trucking in 2025 : A Recap of 2024 NACFE https://nacfe.org > the-state-of-autono...",
+    "url": "https://nacfe.org/autonomous-trucking/the-state-of-autonomous-trucking-in-2025-a-recap-of-2024/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "世界の自律走行トラック市場規模は、2024年に3,569億米ドルと評価され、2025年から2034年の間に年平均成長率(CAGR)16.2%を記録すると推定されています"
+   },
+   {
+    "value": "22.4",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "Technavio：2029年までCAGR 22.4％で成長"
+   },
+   {
+    "value": "74.2",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "Stratistics MRC：2032年までCAGR74.2％で市場が成長"
+   },
+   {
+    "value": "63.1",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "米調査会社のGrand View Researchが2020年3月までに発表した自動運転車の世界市場調査によると、2021年から2030年にかけCAGR63.1％で推移し、市場規模は2030年までに420万台に達すると予測している"
+   },
+   {
+    "value": "25.7",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "米調査会社のKenneth Researchが2020年7月に発表した調査レポート「グローバル自動運転車市場における5G：世界的な需要の分析及び機会展望2027年」によると、世界の自動運転市場は2016年から2024年までにCAGR25.7％を記録し、2024年までに200億ドル（約2兆1,200億円）規模に達すると予測している"
+   },
+   {
+    "value": "11.12",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "quote": "世界の自動運転トラック市場規模は、2025年には432億8000万米ドルと評価され、2026年の480億9000万米ドルから2034年には1117億9000万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は11.12%となる見込みです"
+   },
+   {
+    "value": "40.7",
+    "url": "https://newscast.jp/smart/news/3189195",
+    "quote": "2026年から2035年の予測期間における年平均成長率（CAGR）は40.7%と、目覚ましい成長が見込まれています"
+   },
+   {
+    "value": "26.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "自動運転長距離トラック輸送市場は、2025年に32億米ドルと評価され、2026年の39億米ドルから2035年までに331億米ドルへ拡大し、年平均成長率（CAGR）26.9%で成長すると予測されている"
+   },
+   {
+    "value": "24.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "ディーゼルの年平均成長率（CAGR）は 24.9%で、市場全体を下回る"
+   },
+   {
+    "value": "29.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "CAGR は 29.1%であり、インフラ整備が進む間の導入を支えられることを示している"
+   },
+   {
+    "value": "24.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "CAGR は 24.8%でクラス8を下回る"
+   },
+   {
+    "value": "27.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "このセグメントの CAGR は 27.5%であり、主要ハブ間を結ぶ、走行距離が長く高速道路中心の貨物輸送という、最も有望な自動運転用途との整合性を反映している"
+   },
+   {
+    "value": "26.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "年平均成長率（CAGR）26.5%は、労働力および稼働率の面で大きな価値があることを反映している一方、専用の拠点間輸送レーンと比べて、ルートの変動性が高く、天候への曝露が多様で、集荷・配送インターフェースがより複雑であることが成長を抑制する要因となっている"
+   },
+   {
+    "value": "13.5",
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "quote": "は、2026年の508億2,000万米ドルから2035年には1,586億9,000万米ドルへと、年平均成長率（CAGR）13.5%に達するとMarketsandMarketsでは予測しています"
+   },
+   {
+    "value": "24.40",
+    "url": "https://jidounten-lab.com/u_66855",
+    "quote": "日本の自動運転車市場は2025年時点ですでに47億8,000万ドル（約7,600億円）規模に達しており、2026年から2035年にかけて年平均成長率（CAGR）24.40％で拡大すると予測している"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "2024年には、クラス8セグメントが40%超の市場シェアを保持し、2034年までに6,000億米ドルを超えると予想されています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "貨物輸送セグメントは2024年に約30%の市場シェアを保持しました"
+   },
+   {
+    "value": "70",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "中国の自律走行トラック市場は、2024年に収益シェアの70%を占めました"
+   },
+   {
+    "value": "15",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "Daimler および AB Volvo は、自律走行トラック業界において約15%の市場シェアを保有している"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "55.49",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "2024年には、欧州が55.49％のシェアで世界市場をけん引したという"
+   },
+   {
+    "value": "45.46",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "アジア太平洋地域は2025年に45.46%の市場シェアでロボタクシー市場をけん引した"
+   },
+   {
+    "value": "6.4",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "2020年7月リリースのレポートでは、レベル4トラックは2025年までに商用化されるとし、2040年までに米国の年間一般貨物輸送量全体の約6.4%を占め、年間貨物料金で約47億5000万ドル（約5,100億円）の節約につながると予測している"
+   },
+   {
+    "value": "16.2",
+    "url": "https://jidounten-lab.com/u_33437",
+    "quote": "Global Market Insightsが2022年3月に発行したレポート「自動運転トラック市場 サイズとシェア 2025 to 2034」によると、世界の自動運転トラック市場規模は2024年に356.9億ドル（約5兆5,000億円）と評価されており、2025年から2034年の間はCAGR16.2%で成長すると予測している"
+   },
+   {
+    "value": "38.74",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "quote": "北米は、2025年の市場シェア38.74%で自動運転トラック市場を牽引しました"
+   },
+   {
+    "value": "64.38",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "quote": "ハードウェア分野は、LiDAR、レーダー、カメラ、高性能コンピューティングユニット、GPSモジュール、その他自動運転トラックに統合されるセンシングコンポーネントの価値が高いことから、2025年には64.38%のシェアを占める見込みです"
+   },
+   {
+    "value": "67.21",
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "quote": "大型トラック部門は、長距離貨物輸送で広く利用されているため、2025年には67.21%のシェアを占める見込みです"
+   },
+   {
+    "value": "25",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "2025年は、Continentalが25%超の市場シェアで首位となった"
+   },
+   {
+    "value": "29.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "レベル3の収益は2025年に28億4,440万米ドルとなった一方、レベル4は3億3,800万米ドルを占め、年率29.8%とより速いペースで成長すると予測されている"
+   },
+   {
+    "value": "70",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "Scaniaは、世界のGDPの70%を占める36カ国で、360万人分の運転手ポストが未充足であると報告した"
+   },
+   {
+    "value": "19.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "は、2025年の自動運転長距離トラック輸送収益の19.4%を占め、年率30.8%で成長すると予測されている"
+   },
+   {
+    "value": "30.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "は、2025年の自動運転長距離トラック輸送収益の19.4%を占め、年率30.8%で成長すると予測されている"
+   },
+   {
+    "value": "89.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "レベル3の2025年の売上高は 28億4,440万米ドルで、全体の約89.4%を占め、年率26.5%で成長すると予測される"
+   },
+   {
+    "value": "26.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "レベル3の2025年の売上高は 28億4,440万米ドルで、全体の約89.4%を占め、年率26.5%で成長すると予測される"
+   },
+   {
+    "value": "66.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "ディーゼルは2025年に 21億2,320万米ドルの市場規模で市場をリードし、収益の 66.7%を占めた"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "2024年の世界の電動トラック販売台数では中国が 80%超を占めた一方、欧州では 1万台超、米国では 1,700台超の販売が記録された"
+   },
+   {
+    "value": "74.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "クラス8は2025年に 23億8,370万米ドルの市場規模で、同年の収益の 74.9%を占めた"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "小売・電子商取引の市場規模は2025年に推定7億1,000万米ドルとなり、収益の22.0%を占めた"
+   },
+   {
+    "value": "40.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "quote": "北米は2025年に最大の地域市場となり、売上高は12億8,180万米ドル、市場シェアは40.3%を占めた"
+   },
+   {
+    "value": "92",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "quote": "2025年、約92%で最大の株式を占め、予測期間中に重要なCAGRで成長する予定"
+   },
+   {
+    "value": "35",
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "quote": "2025年、約35%の市場収益を占めるFMCGセグメントは、予測期間中に重要なCAGRで成長することを期待しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_33437",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3189195",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000357782",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/truck/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmi.com/ja/industry-reports/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-672",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/r502_syakaiwg_jimukyokushiryou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_66855",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/policy/shingikai/content/001897708.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/semi-autonomous-bus-market-87328844.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/autonomous-truck-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/semi-autonomous-bus-market/North-America",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/FreightBrokers/comments/1ry2hw9/will_autonomous_driverless_trucks_effect_jobs_and/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ultimo-he.eu/wp-content/uploads/2025/09/AHFE_Early-Digital-Market-Insights-on-Autonomous-Vehicles_July_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://nacfe.org/autonomous-trucking/the-state-of-autonomous-trucking-in-2025-a-recap-of-2024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journals.sagepub.com/doi/abs/10.1177/03611981251315683",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.industryarc.com/pressrelease/5372/autonomous-trucks-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/articles/key-companies-in-autonomous-truck",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/autonomous-truck-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自動運転トラック 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "https://jp.linkedin.com/pulse/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%81%A8%E6%88%90%E9%95%B7%E3%81%AE%E5%B1%95%E6%9C%9B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8C%85%E6%8B%AC%E7%9A%84%E3%81%AA%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr%E3%81%8C49%E3%81%AE%E5%A2%97%E5%8A%A0-7512504648121995264-kceqe",
+    "https://jidounten-lab.com/u_33437",
+    "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "https://newscast.jp/smart/news/3189195",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "https://www.coherentmi.com/ja/industry-reports/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-672",
+    "https://www.atpress.ne.jp/news/1782098",
+    "https://www.fortunebusinessinsights.com/jp/自動運転トラック市場-103590"
+   ]
+  },
+  {
+   "query": "自動運転トラック 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "https://www.dreamnews.jp/press/0000357782",
+    "https://jidounten-lab.com/u_autonomous-truck-matome",
+    "https://deallab.info/truck/",
+    "https://www.sphericalinsights.com/jp/reports/autonomous-truck-market",
+    "https://donelbirchcr.exblog.jp/36722374/",
+    "https://www.udtrucks.com/japan/news-and-stories/insights/auto-truck",
+    "https://www.coherentmi.com/ja/industry-reports/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-672",
+    "https://www.fortunebusinessinsights.com/jp/自動運転トラック市場-103590"
+   ]
+  },
+  {
+   "query": "自動運転トラック 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market",
+    "https://www.coherentmi.com/ja/industry-reports/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-672",
+    "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590",
+    "https://straitsresearch.com/jp/report/autonomous-truck-market",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/r502_syakaiwg_jimukyokushiryou.pdf",
+    "https://jidounten-lab.com/u_66855",
+    "https://www.youtube.com/watch?v=BTSZCwiXZwM",
+    "https://www.dreamnews.jp/press/0000357782",
+    "https://www.mlit.go.jp/policy/shingikai/content/001897708.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market"
+   ]
+  },
+  {
+   "query": "autonomous truck market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/semi-autonomous-bus-market-87328844.html",
+    "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+    "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "https://www.mordorintelligence.com/industry-reports/autonomous-truck-market",
+    "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "https://www.alliedmarketresearch.com/self-driving-truck-market",
+    "https://www.bccresearch.com/pressroom/ias/autonomous-trucks-market-projected-to-reach-$69-billion-by-2028?srsltid=AYCX9vKnGcBQJrtBl60lSJ6EdHGwRchi3godlSS8HmLnxtFFsPvHc8VR",
+    "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "https://straitsresearch.com/report/autonomous-truck-market"
+   ]
+  },
+  {
+   "query": "autonomous truck market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "https://www.mordorintelligence.com/industry-reports/autonomous-truck-market",
+    "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/semi-autonomous-bus-market/North-America",
+    "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "https://www.facebook.com/FreightWaves/videos/autonomous-world-who-wins-in-logistics/1510907596705075/",
+    "https://www.reddit.com/r/FreightBrokers/comments/1ry2hw9/will_autonomous_driverless_trucks_effect_jobs_and/",
+    "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "https://www.verifiedmarketreports.com/blog/top-10-companies-in-autonomous-truck/"
+   ]
+  },
+  {
+   "query": "autonomous truck market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp",
+    "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "https://www.mordorintelligence.com/industry-reports/autonomous-truck-market",
+    "https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report",
+    "https://www.linkedin.com/pulse/semi-autonomous-autonomous-truck-market-size-growth-d2dif",
+    "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "https://straitsresearch.com/report/autonomous-truck-market",
+    "https://ultimo-he.eu/wp-content/uploads/2025/09/AHFE_Early-Digital-Market-Insights-on-Autonomous-Vehicles_July_2025.pdf",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "autonomous truck market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/autonomous-truck-market-103590",
+    "https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report",
+    "https://www.precedenceresearch.com/autonomous-trucks-market",
+    "https://www.mordorintelligence.com/industry-reports/autonomous-truck-market",
+    "https://www.sphericalinsights.com/reports/autonomous-truck-market",
+    "https://nacfe.org/autonomous-trucking/the-state-of-autonomous-trucking-in-2025-a-recap-of-2024/",
+    "https://journals.sagepub.com/doi/abs/10.1177/03611981251315683",
+    "https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126",
+    "https://www.industryarc.com/pressrelease/5372/autonomous-trucks-market",
+    "https://www.researchandmarkets.com/articles/key-companies-in-autonomous-truck"
+   ]
+  }
+ ],
+ "missing": {}
+}

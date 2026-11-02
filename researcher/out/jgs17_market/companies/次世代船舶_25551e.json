@@ -1,0 +1,636 @@
+{
+ "name": "次世代船舶",
+ "en": "alternative fuel vessels",
+ "aliases": [
+  "アンモニア船",
+  "水素船",
+  "ゼロエミッション船"
+ ],
+ "context": "8 造船 ①次世代船舶",
+ "kind": "market",
+ "researched_at": "2026-11-02T15:01:47.110955+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "⚫ 令和7年度補正予算で1,200億円を措置",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「官民投資１兆円」のフレーム",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官:3,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民:2,800億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（民:3,500億円規模）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1,200億円",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "120億円：～2030",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約410億円の内数：2025～2030 （官民約270億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "150億円※１：～2026",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生産設備整備支援 約960億円※２：2025～2029",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（官民約2,510億円）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年には1億851万米ドルへ拡大すると予測されており、2026年から2035年の予測期間における年平均成長率（CAGR）は1.67％となる見込みです",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けて日本クルーズ船建造市場は量的拡大より高付加価値化が成長機会を左右する",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年の1億851万米ドルへ拡大し、CAGR1.67％で推移すると予測されています",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "（５年間120億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "採択（予算額2.0億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（総事業費1,200億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "→サプライチェーン強靭化事業で11件を採択（総事業費167億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の建造促進事業（R6年度開始分 5年間 600億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロエミッション船等の建造促進事業（R7年度開始分 5年間 300億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「船舶関連機器のサプライチェーン強靭化」補助 （106億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＤXによる船舶産業の省人化・効率化補助 造船のDXオートメーション補助（2.0億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経済安全保障推進法に基づく「デジタル技術を用いた高性能次世代船舶開発技術」等開発（120億円）",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ＧＩ基金(次世代船舶の開発)：393.4億円(最長10年間)",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和6～10年度 合計600億円",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "令和7～11年度 合計300億円",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10％のコスト削減建造能力倍増",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場、2035年に1億851万米ドルへ拡大｜CAGR 1.67％、クルーズ需要拡大と次世代船舶投資が市場成長を後押し | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場、2035年に1億851万米ドルへ拡大｜CAGR 1.67％、クルーズ需要拡大と次世代船舶投資が市場成長を後押し",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年には1億851万米ドルへ拡大すると予測されており、2026年から2035年の予測期間における年平均成長率（CAGR）は1.67％となる見込みです",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向けて日本クルーズ船建造市場は量的拡大より高付加価値化が成長機会を左右する",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年の1億851万米ドルへ拡大し、CAGR1.67％で推移すると予測されています",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本政府が2035年を視野に造船能力の倍増を掲げる中、造船企業には単純な建造量の拡大だけでなく、次世代船舶、環境対応、デジタル製造、高度な船内設備統合といった領域で競争力を高めることが求められます",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府も造船業の再生において2035年の建造能力確保を掲げており、今後は単なる建造量の拡大だけでなく、生産性・技術力・次世代船舶への対応力を含む競争力が問われる局面になるとみられます",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "日本のクルーズ市場では、国土交通省が市場の多様化・高度化や個人旅行需要に対応したサービス拡大を課題として掲げており、2025年の日本人クルーズ人口も前年比約8％増の24.3万人となっています",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   },
+   {
+    "quote": "• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "⚫ 船価の約7割を材料費（鋼材、舶用機器等）が占める",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のシェアは15-16%で推移してい",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "約１～２割）を占める状態に",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（シェア10％）",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "報道発表資料：2030年における次世代船舶受注量の世界トップシェアを目指します<br>～「船舶産業の変革実現のための検討会」報告書のとりまとめ～ - 国土交通省",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年における次世代船舶受注量の世界トップシェアを目指します",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "pass": 3
+   },
+   {
+    "quote": "「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なＧＸ、ＤＸ、人材確保等に係る取組、ロードマップ、今後の実施体制をとりまとめました",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030 年における次世代船舶受注量の世界トップシェアを目指します",
+    "url": "https://www.mlit.go.jp/report/press/content/001754728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "酸化炭素(LCO2)輸送船を含めた次世代船舶について、2030年に我が国が受注量のトップシェアを確保すること",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(5.5％)を占め、2050年のカーボンニュートラル実現に向けては、水素・アンモニア",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... — 造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > seichou17 > zousen",
+    "url": "https://digital-supporter.net/mirai-ai/seichou17/zousen.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年における次世代船舶受注量の世界トップシェアを目指します — 「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なGX、DX、人材確保等に係る取組、ロードマップ、今後の実施体制をとりまとめました。",
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、業界分析、船種別（コンテナ船、旅客船、ばら...船舶推進システム業界の世界市場シェアと市場規模 | deallab2030 年における次世代船舶受注量の世界トップシェアを目指します海運業界の市場シェアの分析 | deallab船舶の世界市場（2025-2033）：市場規模、シェア、動向分析日本の造船会社の世界ランキング 政府が現状・課題と再生の道筋を整理... — 無料サンプルをリクエストするこのレポートの詳細については、こちらをご覧ください。 従来型推進システムからハイブリッド推進システムへの移行が顕著なトレンド 巨大な船舶は大量の燃料を消費するため、地球温暖化の一因となります。しかし、多くの海運会社にとって燃料は主なコスト要因です。したがって、エネルギー効率の向上が海運業界のイノベーションの主な推進力となります。ハイブリッド推進システムの効率性と費用対効果により、",
+    "url": "https://www.fortunebusinessinsights.com/jp/船舶市場-102699",
+    "pass": 3
+   },
+   {
+    "quote": "2030 年における次世代船舶受注量の世界トップシェアを目指します — 「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なGX、DX、人材確保等に係る取組、ロードマップ、今後の実施 ...",
+    "url": "https://www.mlit.go.jp/report/press/content/001754728.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、成長率 | 2034 年の業界予測船舶の世界市場（2025-2033）：市場規模、シェア、動向分析船舶市場規模、シェア、成長率（2034年まで）2025年6月20日 海事局船舶産業課 - 国土交通省船舶産業の変革ロードマップに基づく 取組の進捗状況について — 無料サンプルをリクエストするこのレポートの詳細については、こちらをご覧ください。 従来型推進システムからハイブリッド推進システムへの移行が顕著なトレンド 巨大な船舶は大量の燃料を消費するため、地球温暖化の一因となります。しかし、多くの海運会社にとって燃料は主なコスト要因です。したがって、エネルギー効率の向上が海運業界のイノベーションの主な推進力となります。ハイブリッド推進システムの効率性と費用対効果により、燃料ベースの従来型推進システムから環境に優しいハイブリッド推進システムへの切り替えが進んでいます。多くの船舶運航者",
+    "url": "https://www.fortunebusinessinsights.com/jp/船舶市場-102699",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月20日 海事局船舶産業課 - 国土交通省 — 我が国は、2030年に目指すベき船舶産業の目標として「我が国海事産業が次世代船舶の受注量におけるトップシェアを確保」を設定した。 実現に向けた道筋が示された。その実現に向けて、水素やアンモニアなどの新たな貨物の船舶による輸送需要",
+    "url": "https://www.mlit.go.jp/report/press/content/001895516.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Alternative Fuel Market Size, Share & Forecast Report 2025 to ...Alternative Fuel Market Size, Share & Trends | Industry ...Sustainable Marine Fuels Market Companies, Size & Trends 2026 ...Sustainable Marine Fuels Market Size, Share & Growth, 2034LR:2025 Alternative Fuel Vessel Application Trends and Market ...Alternative Fuels Market Size And Share Report, 2026-2033Alternative-Fueled Vessel Order",
+    "url": "https://dataintelo.com/report/alternative-fuel-market",
+    "pass": 3
+   },
+   {
+    "quote": "LR:2025 Alternative Fuel Vessel Application Trends and Market ... — Lloyd’s Register (LR) points out that global new ship orders are slowing, but demand for alternative fuel vessels continues to grow. According to statistics, although the growth rate of global new ship orders in 2025 has slowed compared to 2024, the order volume for alternative fuel vessels still maintains a relatively significant",
+    "url": "https://www.worldports.org/lr2025-alternative-fuel-vessel-application-trends-and-market-outlook/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "1.67",
+    "url": "https://newscast.jp/smart/news/6526035",
+    "quote": "日本クルーズ船建造市場、2035年に1億851万米ドルへ拡大｜CAGR 1.67％、クルーズ需要拡大と次世代船舶投資が市場成長を後押し | NEWSCAST"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "50",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる"
+   },
+   {
+    "value": "16",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "日本のシェアは15-16%で推移してい"
+   },
+   {
+    "value": "10",
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "quote": "（シェア10％）"
+   },
+   {
+    "value": "5.5",
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "quote": "(5.5％)を占め、2050年のカーボンニュートラル実現に向けては、水素・アンモニア"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/marine-vessels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E5%B8%82%E5%A0%B4-102699",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6526035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E5%B8%82%E5%A0%B4-102699",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.deallab.info/outboard-motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/content/001754728.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://deallab.info/ship-operator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/marine-vessel-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/marine-vessel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/report/press/content/001895516.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mlit.go.jp/maritime/content/001895998.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://dataintelo.com/report/alternative-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/alternative-fuel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/sustainable-marine-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/sustainable-marine-fuels-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldports.org/lr2025-alternative-fuel-vessel-application-trends-and-market-outlook/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldshipping.org/dual-fuel-fleet-dashboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/alternative-fuel-vehicles-market-102518",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.worldports.org/lng-fuelled-boxships-sustain-alternative-fuel-share-of-global-orderbook/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/alternative-fuel-vehicle-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/automotive-alternative-fuel-vehicle-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.catnmsplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trade.gov/consolidated-screening-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lr.org/en/knowledge/insights-articles/alternative-fuelled-ship-orders-remain-significant-in-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/alternative-fuels-market-116738",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.imarinenews.com/21269.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-vessels-fuel-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "次世代船舶 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/marine-vessels-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E5%B8%82%E5%A0%B4-102699",
+    "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf",
+    "https://newscast.jp/smart/news/6526035",
+    "https://digital-supporter.net/mirai-ai/seichou17/zousen.html",
+    "https://www.meti.go.jp/shingikai/enecho/shoene_shinene/suiso_seisaku/pdf/016_02_00.pdf",
+    "https://jp.linkedin.com/pulse/%E9%80%A0%E8%88%B9-market-drivers%E3%81%AE%E8%A7%A3%E6%98%8E%E3%81%A82033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC-cagr-12-arcana-aim-mh9be",
+    "https://www.jpmac.or.jp/file/1773288914694.pdf",
+    "https://www.fortunebusinessinsights.com/jp/船舶市場-102699"
+   ]
+  },
+  {
+   "query": "次世代船舶 市場 シェア 上位 企業",
+   "results": [
+    "https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html",
+    "https://www.fortunebusinessinsights.com/jp/船舶市場-102699",
+    "https://www.deallab.info/outboard-motor/",
+    "https://www.mlit.go.jp/report/press/content/001754728.pdf",
+    "https://deallab.info/ship-operator/",
+    "https://www.globalresearch.co.jp/marine-vessel-market/",
+    "https://smbiz.asahi.com/article/16263543"
+   ]
+  },
+  {
+   "query": "次世代船舶 市場 前年比 2025",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/marine-vessels-market",
+    "https://www.marketreport.jp/marine-vessel-market",
+    "https://www.fortunebusinessinsights.com/jp/船舶市場-102699",
+    "https://www.globalresearch.co.jp/marine-vessel-market/",
+    "https://www.mlit.go.jp/report/press/content/001895516.pdf",
+    "https://straitsresearch.com/jp/report/marine-vessel-market",
+    "https://www.mlit.go.jp/maritime/content/001895998.pdf"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels market size CAGR 2025",
+   "results": [
+    "https://dataintelo.com/report/alternative-fuel-market",
+    "https://www.emergenresearch.com/industry-report/alternative-fuel-market",
+    "https://www.precedenceresearch.com/sustainable-marine-fuels-market",
+    "https://www.marketdataforecast.com/market-reports/sustainable-marine-fuels-market",
+    "https://www.worldports.org/lr2025-alternative-fuel-vessel-application-trends-and-market-outlook/",
+    "https://www.grandviewresearch.com/industry-analysis/alternative-fuels-market-report",
+    "https://www.imarinenews.com/24481.html"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels market share top players percent",
+   "results": [
+    "https://www.worldshipping.org/dual-fuel-fleet-dashboard",
+    "https://www.fortunebusinessinsights.com/alternative-fuel-vehicles-market-102518",
+    "https://www.worldports.org/lng-fuelled-boxships-sustain-alternative-fuel-share-of-global-orderbook/",
+    "https://www.precedenceresearch.com/alternative-fuel-vehicle-market",
+    "https://www.mordorintelligence.com/industry-reports/automotive-alternative-fuel-vehicle-market",
+    "https://www.worldports.org/lng-fueled-vessels-lead-alternative-fueled-newbuild-market/",
+    "https://blog.bccresearch.com/10-key-players-shaping-the-sustainable-marine-fuel-market"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://consolidatednd.com/",
+    "https://www.consolidated.com/",
+    "https://www.catnmsplan.com/",
+    "https://www.consolidatedsupply.com/",
+    "https://www.trade.gov/consolidated-screening-list",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "alternative fuel vessels market key companies share 2025",
+   "results": [
+    "https://www.worldports.org/lr2025-alternative-fuel-vessel-application-trends-and-market-outlook/",
+    "https://www.lr.org/en/knowledge/insights-articles/alternative-fuelled-ship-orders-remain-significant-in-2025/",
+    "https://www.fortunebusinessinsights.com/alternative-fuels-market-116738",
+    "https://www.emergenresearch.com/industry-report/alternative-fuel-market",
+    "https://www.imarinenews.com/21269.html",
+    "https://dataintelo.com/report/alternative-fuel-market",
+    "https://dataintelo.com/report/global-vessels-fuel-market"
+   ]
+  }
+ ],
+ "missing": {
+  "投資": "記載なし（読んだ33頁・検索7回）"
+ }
+}

@@ -1,0 +1,2028 @@
+{
+ "name": "Porsche Engineering",
+ "aliases": [
+  "Porsche Engineering Group",
+  "ポルシェエンジニアリング"
+ ],
+ "context": "他社向け開発受託（独）",
+ "researched_at": "2026-11-02T14:44:09.382206+00:00",
+ "official_url": "https://www.porsche-engineering.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "This June marks five years since Porsche Engineering Services s.r.o. (PECZ) established its location on the innovation campus in Ostrava. Since then, the Czech subsidiary has continuously expanded its local competencies to deliver cutting-edge solutions across increasingly complex and integrated value chains.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche sells MHP to Tata Consultancy Services",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche's history underscores that it is more than just a sports car manufacturer—it is also a trusted engineering partner for external clients. The collaboration with Linde, which began in the 1980s and continues today, exemplifies Porsche Engineering’s enduring role as an innovative, client-focused development partner.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "1996: Founding of Porsche Engineering Services",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting and Advisory Firms",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Davidson Consulting",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative by tradition: 90 years of engineering services by Porsche - Porsche Newsroom",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative by tradition: 90 years of engineering services by Porsche",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Since Ferdinand Porsche founded his Stuttgart engineering office in 1931, the Porsche name has been closely associated with engineering services. Nine decades on, we take a journey through automotive history.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Despite the successful start as a vehicle manufacturer, engineering services remained an integral part of Porsche’s range of services. Overseas customers such as the Studebaker Corporation also placed their trust in the office: between 1952 and 1954, Porsche developed a four-door saloon with a self-supporting body in a modern pontoon design for the US car manufacturer.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "The international network also enables the engineers to implement complete vehicle developments and present their customers with turnkey results. Porsche Engineering proved this with the Porsche Cayenne Coupé: as general contractor, the service provider was responsible for the entire process chain, from the concept and testing to monitoring the start of production in 2019.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "The creation of Porsche Technologies comes as Porsche reorganises its portfolio of IT and development services. The sports car manufacturer recently announced the full sale of its management and IT consultancy MHP to Indian IT services provider Tata Consultancy Services (TCS). According to a mandatory Tata filing, the company is valued at €320 million.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "tata consultancy services",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "In April 1931, Porsche returned to Stuttgart and founded his consulting firm",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "designs and consulting services for motors and vehicles",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "In June 1934, Porsche received a contract from Hitler to design a people's car (or",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "with conventional powerplant was chosen for production instead. Ninety chassis that had already been built in the expectation of winning the contract were converted into",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". The development of the Maus originates from a contract given to Porsche for the design of a 100-tonne tank in March 1942.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "In late 1944, Porsche was contracted to develop a new turbojet engine for the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". A contract with",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche was later contracted by Volkswagen for additional consulting work and received a",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering has developed three prototype V2X applications over the past twelve months. The software team in Lecce and the Nardò Technical Center play a key role in this. A state-of-the-art wireless infrastructure is available there.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering has developed the concept of an ‘AC battery’ for electric vehicles that unites numerous components in a single part. It is controlled by a standardized control unit concept with a particularly powerful and real-time-capable computing platform. The system was developed as part of a feasibility study, tested on the test bench, and demonstrated in a vehicle.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Driver assistance systems make road traffic safer, but so far mainly cover standard situations. Using artificial intelligence, Porsche Engineering is working to make identifying traffic situations that occur less frequently—known as corner cases— easier and more reliable. The aim is to improve ADAS.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Software plays a key role in modern life, but also in vehicles. For this reason, OEMs and suppliers use proven methods and tools to identify errors in programs as early as possible. Researchers are already working on new approaches, including ones based on artificial intelligence.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "* Data determined in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) as required by law. For Plug-in Hybrid Electric Vehicle (PHEV) range and Equivalent All Electric Range (EAER) figures are determined with the battery fully charged, using a combination of both battery power and fuel.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2012, Porsche acquired the Nardò Technical Center (NTC) in Apulia, a premier proving ground spanning 700 hectares and featuring a 6.2-kilometer handling course, the iconic 12.6-kilometer circular track, and other cutting-edge testing infrastructure.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "This achievement underscored Porsche Engineering’s position as a key innovation and technology partner in motorsport. By contributing to the success of one of the most important races in motorsport history, Porsche Engineering reinforced its reputation for excellence and leadership in cutting-edge engineering solutions, particularly in the field of battery technology.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "* Data determined in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) as required by law. For Plug-in Hybrid Electric Vehicle (PHEV) range and Equivalent All Electric Range (EAER) figures are determined with the battery fully charged, using a combination of both battery power and fuel.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Sports equipment: the Cayago Seabob stood out with its pioneering impeller drive with battery technology from Porsche Engineering",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "The electric powertrain is embedded deep in the Porsche DNA.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering contributes expertise in vehicles, architecture, systems and software, and Porsche Digital in digital products, customer experience and services. The joint offer spans concept, hardware and software development, validation and operation, with data and AI applied throughout.",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering and software are converging, making separate units harder to justify. The merger also widens the market for Porsche’s know-how beyond its own models, with commercial vehicles and maritime systems among target sectors. It draws on the 1931 design office of Ferdinand Porsche, the origin of Porsche Engineering.",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "General Motors: performance and production forecast",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Driving Systems",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering will contribute expertise in vehicle, architecture and systems development as well as software engineering. Porsche Digital adds experience in",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Battery",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "By painting this picture of the business owner, Pyta thus confirms the long-standing belief that Ferdinand Porsche’s first and foremost concern was safeguarding the ownership structure of his family business and protecting its resources. According to Pyta, Porsche benefited significantly from his access to political decision-makers without embracing the ideology of National Socialism.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "super-heavy tank, as well as other weapon systems, including the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ", the weight of the batteries rendered it slow to climb hills. It also suffered from a limited range due to limited battery life.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Mixte Hybrid\" in 1901: instead of a massive battery-pack, an",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". As a backup, a small battery pack was fitted. This is the first",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Though over 300 Lohner-Porsche chassis were sold up to 1906, most of them were two-wheel drive; either front- or rear-wheel driven trucks, buses, and fire-engines. Some four-wheel-drive buses were produced, but no four-wheel-drive automobiles.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "with conventional powerplant was chosen for production instead. Ninety chassis that had already been built in the expectation of winning the contract were converted into",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "body, welded to the central-tube platform chassis, instead of the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Shareholder Structure\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering likes to move into uncharted territory when it comes to development projects for external customers and transfer its experience from automotive development to other sectors. One successful collaboration of this kind was the optimization of the crane cab design for Terex Cranes.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Racing games and automotive development aim to replicate reality, but with different focuses—games emphasize visuals, while developers prioritize driving physics. Collaborations with Porsche allow game makers to use 3D models and laser-scanned vehicle data. Innovations like Porsche's \"Virtual Roads\" app open new possibilities for both industries.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand Ambassadors",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital will join forces under the brand Porsche Technologies in the future.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The launch of Porsche Technologies is planned for the beginning of the second quarter of 2027. Leadership will be assumed by Markus-Christian Eberl, currently CEO of Porsche Engineering, as CEO; Stefan Zerweck, currently CEO of Porsche Digital, as CTO; and Dirk Philipp, currently CFO/COO of Porsche Engineering, as CFO/COO.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Zerweck, Markus-Christian Eberl, Dirk Philipp (l-r), future leadership of Porsche Technologies",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The establishment of Porsche Technologies will be accompanied by a new brand identity that visualizes technological expertise and a commitment to innovation. Based on a clear geometric square shape, dynamic graphic elements represent the expansion of existing boundaries and the broader solution space enabled by integrated technology solutions.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. Insofar as Porsche Newsroom provides information concerning vehicles, the data refers to the German market. Statements concerning standard equipment and statutory, legal and tax regulations and repercussion are valid for the Federal Public of Germany only.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "At Porsche Engineering, we combine technological excellence with commitment to people. With the agility of a mid-sized company and the resources of a global network, we deliver innovative, future-ready solutions. Our culture thrives on collaboration, driven by a shared passion for advancing technologies that redefines industries.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With locations across multiple continents, Porsche Engineering brings diverse expertise and innovative solutions directly to you. Our international teams collaborate across borders to pioneer and accelerate technologies for vehicles and beyond.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With multiple competence centers across Germany, Porsche Engineering drives innovation, connecting local expertise with global ambitions to pioneer and accelerate technologies for vehicles and beyond.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in the Porsche Research & Development Center in Weissach, the competence network of Porsche Engineering is globally managed with further project teams in Germany in Bietigheim-Bissingen, Mönsheim, Leipzig and Wolfsburg.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche's history underscores that it is more than just a sports car manufacturer—it is also a trusted engineering partner for external clients. The collaboration with Linde, which began in the 1980s and continues today, exemplifies Porsche Engineering’s enduring role as an innovative, client-focused development partner.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "This achievement underscored Porsche Engineering’s position as a key innovation and technology partner in motorsport. By contributing to the success of one of the most important races in motorsport history, Porsche Engineering reinforced its reputation for excellence and leadership in cutting-edge engineering solutions, particularly in the field of battery technology.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand Ambassadors",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Birth of the sports car brand: Ferry Porsche (centre), his father Ferdinand Porsche (right) and Erwin Komenda with the 356 No. 1 Roadster - the first vehicle to bear the Porsche name (1948)",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports equipment: the Cayago Seabob stood out with its pioneering impeller drive with battery technology from Porsche Engineering",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. Insofar as Porsche Newsroom provides information concerning vehicles, the data refers to the German market. Statements concerning standard equipment and statutory, legal and tax regulations and repercussion are valid for the Federal Public of Germany only.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Membership Terms",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Brands",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche is bringing Porsche Engineering and Porsche Digital together under a single brand. From the second quarter of 2027, both units are set to operate as Porsche Technologies. The sports car manufacturer wants to",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": ". The combination is intended to connect development disciplines that have previously been organised separately.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "In China, the two companies will continue the cooperation already established at a joint research and development site under the new brand. Porsche is",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-Benz and Volvo deepen Nvidia partnerships",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Brand Ambassadors",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Porsche sports car brand began in 1948 when the first vehicle to carry the Porsche name was built. However, the history of the company goes further back.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "By painting this picture of the business owner, Pyta thus confirms the long-standing belief that Ferdinand Porsche’s first and foremost concern was safeguarding the ownership structure of his family business and protecting its resources. According to Pyta, Porsche benefited significantly from his access to political decision-makers without embracing the ideology of National Socialism.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "In his absence, his children Ferry Porsche and Louise Piëch took over the management of the company. This arrangement of succession within the family prevented any disputes relating to the transfer of management. With its transformation into an automobile manufacturer and the founding of the Porsche brand, the company completed its growth strategy launched in 1931.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. Insofar as Porsche Newsroom provides information concerning vehicles, the data refers to the German market. Statements concerning standard equipment and statutory, legal and tax regulations and repercussion are valid for the Federal Public of Germany only.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ferdinand Porsche - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Citizenship",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "He was a recipient of the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "citizenship.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "While at Daimler Motoren Gesellschaft he came up with several very successful race car designs. The series of models equipped with superchargers that culminated in the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "then took over the sponsorship, but also lost interest due to the high tooling costs.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". This resulted in a lawsuit against Porsche claiming infringement of Tatra's patents regarding air-cooling of the rear engine. The suit was interrupted by the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "and Porsche was urged to apply for German citizenship in 1934.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "A few days later, he indeed filed a declaration giving up the Czechoslovak citizenship at a Czechoslovak consulate in",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "of both brands was only stopped by the outbreak of",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "In November 1945, Porsche was asked to continue the design of the Volkswagen in France and to move the factory equipment there as part of",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "The legal basis of Piëch and Porsche's imprisonment was principally Ferdinand Porsche's contribution to his country's war effort and personal friendship with Hitler. In the Porsche family's own account, the affair was a thinly veiled attempt at extorting money and forcing them to collaborate with Renault;",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ", the first car to carry the Porsche brand name. The company had relocated from Stuttgart to",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "royalty",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "by displaying signs commemorating its native son, the local authorities removed the signs in 2013. They also changed the composition of a local museum display so that it not only commemorates Porsche's automotive achievements, but also mentions his Nazi party and SS membership, and shows the importance of his work for the Nazi cause.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "and affected his release after three months of imprisonment. Rosenberger had to leave Germany, and his ownership stake was subject to \"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Le Monde diplomatique - English edition",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". Mondediplo.com. 28 November 1947",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Thinking Small: The Long, Strange Trip of the Volkswagen Beetle",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"As Porsche turns 150, a power struggle over leadership picks up speed\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Hiott, Andrea: \"Thinking Small: The Long Strange Trip of the Volkswagen Beetle.\" Random House, 2012,",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Newspaper clippings about Ferdinand Porsche",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Tiptronic",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The Frauscher x Porsche 790 Spectre electric sports boat, jointly developed by Porsche and Austrian boatbuilder Frauscher, has set a new speed record at the Monaco Energy Boat Challenge. With an average speed of 51.05 knots (94.5 km/h), the boat broke the symbolic 50-knot barrier for the first time and set a new competition record.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "1972 was the last time a human was on the moon. There are plans to return soon. To ensure that astronauts and lunar robots are optimally prepared to do so, the German Aerospace Center (DLR) and the European Space Agency (ESA) have jointly built the LUNA research facility. It is a kind of mini earth satellite, a training ground as “true to life” as possible.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche’s new road simulation test bench makes it possible to accurately reproduce real road conditions. This means that vehicle characteristics can be optimized and validated early in the development process—for Porsche sports cars and in other vehicle projects.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "TABASKO (from the German for ‘tape-based carbon-fiber lightweight construction’) can reduce the use of plastic materials; the process developed by Porsche Engineering also allows the use of post-consumer recycled material. This makes vehicle construction a bit more sustainable.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence is bringing massive changes to all areas of life, including development. In this interview, Markus-Christian Eberl, CEO of Porsche Engineering, and Dr. Matthias Peissner, Head of the Human-Technology Interaction Research Unit at the Fraunhofer Institute for Industrial Engineering IAO in Stuttgart, talk about the opportunities and limitations of the new technology.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Values are provided for comparison only. To the extent that fuel and energy consumption or CO",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "values are given as ranges, these do not relate to a single, individual car and do not constitute part of the offer. Optional features and accessories can change relevant vehicle parameters such as weight, rolling resistance and aerodynamics which may result in a change in fuel or energy consumption and CO",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "values. Vehicle loading, topography, weather and traffic conditions, as well as individual driving styles, can all affect the actual fuel consumption, energy consumption, electrical range, and CO",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsports",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "GT Customer Sports",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Esports Racing",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports & Society",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Technologies will provide holistic end-to-end technology solutions for Porsche and external customers, while expanding the offering for Porsche Engineering’s existing industrial customers with the digital capabilities of Porsche Digital.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The establishment of Porsche Technologies will be accompanied by a new brand identity that visualizes technological expertise and a commitment to innovation. Based on a clear geometric square shape, dynamic graphic elements represent the expansion of existing boundaries and the broader solution space enabled by integrated technology solutions.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "At its Capital Markets Day, Porsche AG presents its strategy ‘Sportwagenschmiede '35’, which focuses on its medium-term ambitions.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Ing. h.c. F. Porsche AG has thus reached another milestone in its \"Sportwagenschmiede '35\" strategy.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche's history underscores that it is more than just a sports car manufacturer—it is also a trusted engineering partner for external clients. The collaboration with Linde, which began in the 1980s and continues today, exemplifies Porsche Engineering’s enduring role as an innovative, client-focused development partner.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "This achievement underscored Porsche Engineering’s position as a key innovation and technology partner in motorsport. By contributing to the success of one of the most important races in motorsport history, Porsche Engineering reinforced its reputation for excellence and leadership in cutting-edge engineering solutions, particularly in the field of battery technology.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Values are provided for comparison only. To the extent that fuel and energy consumption or CO",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "values are given as ranges, these do not relate to a single, individual car and do not constitute part of the offer. Optional features and accessories can change relevant vehicle parameters such as weight, rolling resistance and aerodynamics which may result in a change in fuel or energy consumption and CO",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "values. Vehicle loading, topography, weather and traffic conditions, as well as individual driving styles, can all affect the actual fuel consumption, energy consumption, electrical range, and CO",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Job Architecture",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsports",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "GT Customer Sports",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Esports Racing",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports & Society",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Birth of the sports car brand: Ferry Porsche (centre), his father Ferdinand Porsche (right) and Erwin Komenda with the 356 No. 1 Roadster - the first vehicle to bear the Porsche name (1948)",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports equipment: the Cayago Seabob stood out with its pioneering impeller drive with battery technology from Porsche Engineering",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche is combining Porsche Engineering and its software arm Porsche Digital as Porsche Technologies, launching early in the second quarter of 2027. The merged business will sell end-to-end technology services to Porsche, other automakers and sectors including space, defence and medical technology.",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering contributes expertise in vehicles, architecture, systems and software, and Porsche Digital in digital products, customer experience and services. The joint offer spans concept, hardware and software development, validation and operation, with data and AI applied throughout.",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche is bringing Porsche Engineering and Porsche Digital together under a single brand. From the second quarter of 2027, both units are set to operate as Porsche Technologies. The sports car manufacturer wants to",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering will contribute expertise in vehicle, architecture and systems development as well as software engineering. Porsche Digital adds experience in",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Technologies will therefore not work exclusively for Porsche. Its services will also target customers in commercial vehicles, aerospace, maritime industries, defence and medical technology. Existing industrial customers of Porsche Engineering, in particular, are expected to gain access to Porsche Digital’s digital capabilities.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "The creation of Porsche Technologies comes as Porsche reorganises its portfolio of IT and development services. The sports car manufacturer recently announced the full sale of its management and IT consultancy MHP to Indian IT services provider Tata Consultancy Services (TCS). According to a mandatory Tata filing, the company is valued at €320 million.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "E/E architectures are becoming more complex as development cycles shrink. Molex’s Sushil Kumar Singh explains how digital twins, virtual validation and agentic AI could move connector validation upstream.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "sports car",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "“Zonal architectures can significantly reduce harness complexity”",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsports",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "GT Customer Sports",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Esports Racing",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sports & Society",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Porsche sports car brand began in 1948 when the first vehicle to carry the Porsche name was built. However, the history of the company goes further back.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "70 years of sports cars at Porsche",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "What do a watch and sports car engineering have in common? The answer.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "International Motorsports Hall of Fame",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "railway locomotives than in automobiles.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "had discussed the possibility of military application of the Volkswagen with Porsche as early as April 1934. A Porsche brochure in 1934 said a \"car must be suitable not only for personal use, but also for transport and particular military purposes.\" It was not until January 1938 that high-ranking",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "officials formally approached him about designing an inexpensive, lightweight military transport vehicle that could operate reliably both on- and off-road, in even the most extreme conditions.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ", an advisory group of engineers and industrialists created by",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Auto, Motor und Sport",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ferdinand Porsche, Creator of the Sports Car That Bore His Name, Is Dead at 88\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche's Past: The Dark Pre-History of the World's Favorite Sports Car\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Audi Sport GmbH",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Rennsport Reunion",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Audi Sport",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering has already demonstrated and verified the potential of AI for time and cost savings during the development process in several projects. In the field of passive safety, the first steps towards adoption in series development are now being taken.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Formula E",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "911 GT3 RS (WLTP)*:",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "911 GT3 S/C (WLTP)*:",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formula E",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Formula E",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ferdinand Porsche 1937 with a Volkswagen prototype of the series W30",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "series-hybrid",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "While at Daimler Motoren Gesellschaft he came up with several very successful race car designs. The series of models equipped with superchargers that culminated in the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "formula. The main regulation of this formula was that the weight of the car without driver, fuel, oil, water, and tires was not allowed to exceed",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "The series production version made in Stuttgart had a",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "body used in the initial limited Gmünd-made series. When Ferry Porsche resurrected the company, he counted on series production figures of about 1,500. More than 78,000 Porsche 356s were manufactured in the following 17 years.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"75 Years Ago in Wolfsburg: Start of Series Production of the Volkswagen Beetle\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "911 GT3",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "LMP2000 (9R3)",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Formula E Team",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Audi in Formula One",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Series:",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Vee",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Super Vee",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Volkswagen Germany",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "AIACR-CSI European Championship",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Online Annual & Sustainability Report",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Online Annual & Sustainability Report",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Your free weekly intelligence feed",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "By signing up for the Automotive World Intelligence Feed, you agree to our",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Online Annual & Sustainability Report",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "were to be given an annual grant of",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "royalty",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Intelligent soft switching with AI support promises to reduce switching losses in power transistors by up to 95 percent. Porsche Engineering is already testing the new approach in simulations.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2012, the facility has been modernized to enhance intelligent and connected vehicle testing. Operating year-round, the NTC supports global clients while complementing the Weissach Development Center. Since 2023, a software division in closely located Lecce expands the advanced competencies and expertise in Southern Italy.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Since the acquisition, Porsche Engineering has transformed the NTC into a hub for high-performance and connected vehicle development through extensive modernization. The addition of a 5G network and a software division in Lecce, a city renowned for its educational and talent resources, further highlights its role as an innovation hub.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "173.3%",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "-2.8% (-207)",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "2.8% YoY",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "0.7% YoY",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Eastern Europe accounts for the largest share of Porsche Engineering Group's global workforce with approximately",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "% of Total",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Europe grows, China sinks: global LV sales set to fall 3.7%",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Sales",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Global light vehicle sales forecast – October 2026 edition",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Monthly global LV sales forecast providing a snapshot of past and future volumes by region.",
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "pass": 3
+   },
+   {
+    "quote": "Germany’s AI market grows by nearly 50% in 2026",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Germany’s AI market is expanding rapidly as companies move from pilots to productive use. Bitkom expects spending on AI software, services and hardware to rise 48% to €28.7 billion in 2026, with generative AI driving much of the growth.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "business unit",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "While his father was in captivity, Ferry worked diligently to keep the company in business, developing a division for the repair of automobiles, water pumps, and",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ". That included a large number of Soviets. By early 1945, German nationals comprised only 10% of Volkswagen's workforce.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "The Porsche-Piëch family, through the holding company Porsche SE, is a major shareholder and controls the majority of the Volkswagen Group's voting rights.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\", a Nazi policy that was part of the broader persecution of Jews. That allowed Ferdinand Porsche and Anton Piëch to acquire Rosenberger's stake in the company at nominal value, well below its worth. Although Porsche and Piëch settled with Rosenberger after the war, his founding role was never fully recognized. Rosenberger's 10% stake in Porsche would have made him a billionaire.",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"1938 Dein Kdf Wagen Sales Broschüre (Brochure)\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Divisions and",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Anhui Jianghuai Automobile Group Holdings (50%)",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "(33.3%)",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Evaluation at the Touch of a Button",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche & Startups",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Employees & Society",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 4,833 employees in 2023 to 4,301 in 2026",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 5th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Porsche Engineering Group's headcount peaked at",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Porsche Engineering Group's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by Western Europe and East Asia.",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group employees by region",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group employees by department",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in North America receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Porsche Engineering Group's headcount shrank",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, down from",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Porsche Engineering Group employees located?",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Porsche Engineering Group employees are based in Eastern Europe (",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by Western Europe and East Asia.",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Porsche Engineering Group founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche & Startups",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Employees & Society",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Since Ferdinand Porsche founded his Stuttgart engineering office in 1931, the Porsche name has been closely associated with engineering services. Nine decades on, we take a journey through automotive history.",
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital will operate as Porsche Technologies from the second quarter of 2027. The new unit will combine vehicle development, software and AI, with around 2,700 employees across nine countries worldwide, serving Porsche and external customers.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "The future development network will comprise around 2,700 employees across locations in nine countries: Germany, Spain, Italy, the Czech Republic, Croatia, Romania, Israel, the United States and China. The international footprint is intended to support development services across locations while also addressing specific regional requirements.",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Volkswagen rolls out Copilot to 330,000 employees",
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche & Startups",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Employees & Society",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche’s history forms a part of its identity – even the period under National Socialism. Today, Porsche AG is committed to setting a clear example of tolerance and openness. Funding academic research into the company’s history will help Porsche to understand its past and therefore shape its future.",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "This article is about the founder of",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "and founder of the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "In April 1931, Porsche returned to Stuttgart and founded his consulting firm",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "With car commissions scarce due to the depressed economic climate, Porsche founded a subsidiary company,",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ", Porsche was praised as the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "A new city, \"Stadt des KdF-Wagens\" was founded near",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "started in February 1940, as soon as the VW factories had become operational. When Volkswagen production ceased by the end of the war, 50,435",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": ", the Jewish co-founder of Porsche, aired on German TV. Despite Rosenberger's contributions to the German automotive industry and German auto racing, when Hitler ascended to power, Rosenberger was arrested for \"Rassenschande\" (racial crimes) and imprisoned at the",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche founder made fortune from closeness to Adolf Hitler\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Founder’s Legacy Hits Nazi Past in Czech Hometown",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"After The Winds of War - Porsche's Early Days (Part I)\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche founder's legacy hit by Nazi past in Czech hometown\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"How Porsche's Jewish Cofounder Was Driven Out Of The Company By The Nazis\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "\"Austrian city to rename street honouring Porsche founder over alledged Nazi links\"",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "(founder)",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   },
+   {
+    "quote": "German founders of motor vehicle manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Accelerating innovative mobility solutions | Porsche Engineering",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Start at Porsche Engineering",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering: Pioneering and Accelerating Technologies for Vehicles and Beyond",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "At Porsche Engineering, we are committed to develop pioneering digital and engineering solutions. Since 1931, we have been crafting the technologies of the future for vehicles and beyond.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore news, insights, and innovations in our Newsroom—your source for updates on Porsche Engineering’s journey in shaping future mobility and engineering solutions.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering celebrates 25 Years of Engineering Excellence and Innovation in the Czech Republic",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Czech Republic, the Czech branch of the international technology service provider Porsche Engineering, celebrates its 25th anniversary in 2026. Since its foundation in Prague in 2001, the company has developed from a small engineering office into one of Porsche Engineering’s largest development locations and an important part of its international development network.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Frauscher x Porsche 790 Spectre Surpasses the 50-Knot Mark",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The Frauscher x Porsche 790 Spectre electric sports boat, jointly developed by Porsche and Austrian boatbuilder Frauscher, has set a new speed record at the Monaco Energy Boat Challenge. With an average speed of 51.05 knots (94.5 km/h), the boat broke the symbolic 50-knot barrier for the first time and set a new competition record.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Romania Celebrates Ten Years as a Software and AI Hub",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering likes to move into uncharted territory when it comes to development projects for external customers and transfer its experience from automotive development to other sectors. One successful collaboration of this kind was the optimization of the crane cab design for Terex Cranes.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "1972 was the last time a human was on the moon. There are plans to return soon. To ensure that astronauts and lunar robots are optimally prepared to do so, the German Aerospace Center (DLR) and the European Space Agency (ESA) have jointly built the LUNA research facility. It is a kind of mini earth satellite, a training ground as “true to life” as possible.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligent soft switching with AI support promises to reduce switching losses in power transistors by up to 95 percent. Porsche Engineering is already testing the new approach in simulations.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering is embracing data-driven development—using a full range of modular tools throughout the entire development cycle to do so. The tools can be flexibly adapted to the individual requirements of each project. Industry customers benefit from significantly shorter development cycles, especially when they make maximum use of the range of tools.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The ComBox app from Porsche Engineering records relevant measurements in test vehicles, evaluates them with the help of AI—on the spot in some cases—and automatically sends the results and measurement data to the cloud. This reduces the manual workload for test drivers and increases the efficiency when developing and validating new vehicle functions.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Opens First Integrated R&D Hub Outside Germany in Shanghai",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche has officially opened its first integrated overseas R&D center in Shanghai’s Hongqiao CBD, marking a major milestone in its “In China, for China” strategy.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche’s new road simulation test bench makes it possible to accurately reproduce real road conditions. This means that vehicle characteristics can be optimized and validated early in the development process—for Porsche sports cars and in other vehicle projects.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The new Porsche Engineering Magazine: \"New Horizons\"",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "The latest issue of the Porsche Engineering Magazine paves the way for new horizons. Take a look at innovative solutions for the automotive industry and beyond.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "In a rapidly changing industry, Porsche Engineering relies on innovation and flexibility. The latest issue highlights technical responses to increasing complexity and speed – from modular toolkits for data-driven development to fascinating insights beyond the automotive sector.",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital are evaluating the combination of both groups",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital combine their expertise - Porsche Newsroom",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche & Startups",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche at a Glance",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Museum",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Human Rights in the Porsche Group",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Newsroom",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital combine their expertise",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Technologies: Porsche Engineering and Porsche Digital combine their expertise",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital will join forces under the brand Porsche Technologies in the future.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Technologies will provide holistic end-to-end technology solutions for Porsche and external customers, while expanding the offering for Porsche Engineering’s existing industrial customers with the digital capabilities of Porsche Digital.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The launch of Porsche Technologies is planned for the beginning of the second quarter of 2027.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The launch of Porsche Technologies is planned for the beginning of the second quarter of 2027. Leadership will be assumed by Markus-Christian Eberl, currently CEO of Porsche Engineering, as CEO; Stefan Zerweck, currently CEO of Porsche Digital, as CTO; and Dirk Philipp, currently CFO/COO of Porsche Engineering, as CFO/COO.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Zerweck, Markus-Christian Eberl, Dirk Philipp (l-r), future leadership of Porsche Technologies",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "The establishment of Porsche Technologies will be accompanied by a new brand identity that visualizes technological expertise and a commitment to innovation. Based on a clear geometric square shape, dynamic graphic elements represent the expansion of existing boundaries and the broader solution space enabled by integrated technology solutions.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "jonas.bierschneider@porsche.de",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital are evaluating consolidation",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital are currently evaluating the consolidation of competences by combining both corporate groups.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche AG increases its stake in Manthey Racing GmbH",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Ing. h.c. F. Porsche AG has increased its stake in Manthey Racing GmbH to 67 per cent.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche presents new strategy through to 2035",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "At its Capital Markets Day, Porsche AG presents its strategy ‘Sportwagenschmiede '35’, which focuses on its medium-term ambitions.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche sells MHP to Tata Consultancy Services",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Ing. h.c. F. Porsche AG has thus reached another milestone in its \"Sportwagenschmiede '35\" strategy.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Dr. Ing. h.c. F. Porsche AG.",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "About us: Innovation, expertise, and global solutions | Porsche Engineering",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Start at Porsche Engineering",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "About Porsche Engineering - Your Global Technology Partner",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "At Porsche Engineering, we combine technological excellence with commitment to people. With the agility of a mid-sized company and the resources of a global network, we deliver innovative, future-ready solutions. Our culture thrives on collaboration, driven by a shared passion for advancing technologies that redefines industries.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With locations across multiple continents, Porsche Engineering brings diverse expertise and innovative solutions directly to you. Our international teams collaborate across borders to pioneer and accelerate technologies for vehicles and beyond.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With multiple competence centers across Germany, Porsche Engineering drives innovation, connecting local expertise with global ambitions to pioneer and accelerate technologies for vehicles and beyond.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in the Porsche Research & Development Center in Weissach, the competence network of Porsche Engineering is globally managed with further project teams in Germany in Bietigheim-Bissingen, Mönsheim, Leipzig and Wolfsburg.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "With over 30 years of experience in the Chinese market and two strategic locations, Porsche Engineering develops advanced solutions in automated driving, connectivity, and intelligent vehicles in and for China. This strong local presence drives the future of technologies for vehicles and beyond, meeting the rapidly evolving expectations of Chinese customers.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "By establishing Porsche Engineering Romania, the company reinforces the growing role of software development and artificial intelligence in the automotive industry. With its two locations in Cluj-Napoca and Timișoara, Porsche Engineering is driving the future of technologies through cutting-edge digital solutions.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "In the vibrant Los Angeles area, Porsche Engineering combines its technological excellence with California’s spirit of innovation. Positioned in one of the world’s key automotive markets, the team focuses on developing and validating advanced vehicle functions and digital services, including connectivity and infotainment.",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Porsche Engineering : Accelerating innovative mobility solutions — Porsche Engineering : Accelerating innovative mobility solutions Porsche Engineering https://www.porscheengineering.com > ...",
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering and Porsche Digital combine their ... — Porsche Engineering and Porsche Digital combine their ... Porsche Newsroom https://newsroom.porsche.com > pors...",
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "pass": 3
+   },
+   {
+    "quote": "About us: Innovation, expertise, and global solutions — About us: Innovation, expertise, and global solutions Porsche Engineering https://www.porscheengineering.com > ...",
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering — Porsche Engineering Porsche Newsroom https://newsroom.porsche.com > pors...",
+    "url": "https://newsroom.porsche.com/en/innovation/porsche-engineering.html",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering - Wikipedia — Porsche Engineering - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Pors...",
+    "url": "https://en.wikipedia.org/wiki/Porsche_Engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Information - RocketReach — Porsche Engineering Information - RocketReach RocketReach https://rocketreach.co > porsche-engi...",
+    "url": "https://rocketreach.co/porsche-engineering-profile_b6a49b54c878bdb8",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group Number of Employees 2026 — Porsche Engineering Group Number of Employees 2026 Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Services - Overview, News & Similar ... — Porsche Engineering Services - Overview, News & Similar ... ZoomInfo https://www.zoominfo.com > porsche...",
+    "url": "https://www.zoominfo.com/c/porsche-engineering-services-inc/350616326",
+    "pass": 3
+   },
+   {
+    "quote": "Porscheengineering - 2026 Company Profile & Competitors — Porscheengineering - 2026 Company Profile & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/porscheengineering/__ppHhOakFRTGQzdGCzvFpQHlTbnjVmjQLS5Y6s-dlW9U",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Newsroom — Porsche Engineering Newsroom Porsche Engineering https://www.porscheengineering.com > ...",
+    "url": "https://www.porscheengineering.com/en/peg/newsroom/",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering's Post - LinkedIn — Porsche Engineering's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/porsche-engineering_a-new-chapter-introducing-porsche-technologies-activity-7513629404011323395-QBhL",
+    "pass": 3
+   },
+   {
+    "quote": "The history of the Porsche engineering office — The history of the Porsche engineering office Porsche Newsroom https://newsroom.porsche.com > pors...",
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "pass": 3
+   },
+   {
+    "quote": "90 years of Porsche engineering — 90 years of Porsche engineering Porsche Club Great Britain https://www.porscheclubgb.com > april",
+    "url": "https://www.porscheclubgb.com/news-and-events/news/2021/april/90-years-of-porsche-engineering",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.porsche-engineering.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porscheengineering.com/it/peg/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/porsche-engineering-profile_b6a49b54c878bdb8",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/porsche-engineering-services-inc/350616326",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://porsche.oempartsonline.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebsracing.com/What-Is-The-Difference-Between-Genuine-Porsche-OEM-and-Aftermarket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lnengineering.com/products/genuine-porsche-parts/?srsltid=AYCX9vK42fyTlG-_UJ8iCt6jVzwDSJt57zMrSe1k6s5Iq7soD_8tINTS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porscheengineering.com/en/peg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche-consulting.com/international/en/industries/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.volkswagen-group.com/en/the-history-of-the-brands-17668/the-history-of-porsche-17688",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Porsche Engineering engineering services clients other industries",
+   "results": [
+    "https://www.porscheengineering.com/en/peg/",
+    "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "https://www.porscheengineering.com/it/peg/about-us/",
+    "https://newsroom.porsche.com/en/innovation/porsche-engineering.html",
+    "https://en.wikipedia.org/wiki/Porsche_Engineering",
+    "https://www.porsche-consulting.com/usa/en/industries/industrial-goods-0",
+    "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "https://newsroom.porsche.com/en/2025/company/porsche-engineering-digital-evaluate-consolidation-40682.html",
+    "https://www.linkedin.com/posts/porsche-ag_the-international-engineering-services-provider-activity-7518572845262614528-BRuc",
+    "https://www.porscheengineering.com/en/peg/services/"
+   ]
+  },
+  {
+   "query": "Porsche Engineering revenue turnover employees",
+   "results": [
+    "https://rocketreach.co/porsche-engineering-profile_b6a49b54c878bdb8",
+    "https://www.reveliolabs.com/companies/porsche-engineering-group/employees",
+    "https://www.zoominfo.com/c/porsche-engineering-services-inc/350616326",
+    "https://tracxn.com/d/companies/porscheengineering/__ppHhOakFRTGQzdGCzvFpQHlTbnjVmjQLS5Y6s-dlW9U",
+    "https://newsroom.porsche.com/en/company/annual-sustainability-report-2023/key-financials.html",
+    "https://rocketreach.co/porsche-engineering-services-gmbh-profile_b5fb1743f9c4c486",
+    "https://newsroom.porsche.com/en/company/facts-and-figures.html",
+    "https://www.helgilibrary.com/companies/porsche-ag",
+    "https://investorrelations.porsche.com/en/financial-information/financial-performance",
+    "https://www.porsche-holding.com/en/Company/facts-figures"
+   ]
+  },
+  {
+   "query": "Porsche Engineering supplies components to OEM",
+   "results": [
+    "https://porsche.oempartsonline.com/",
+    "https://www.ebsracing.com/What-Is-The-Difference-Between-Genuine-Porsche-OEM-and-Aftermarket",
+    "https://lnengineering.com/products/genuine-porsche-parts/?srsltid=AYCX9vK42fyTlG-_UJ8iCt6jVzwDSJt57zMrSe1k6s5Iq7soD_8tINTS",
+    "http://forums.pelicanparts.com/porsche-911-technical-forum/269868-oem-vs-genuine-porsche.html",
+    "https://www.porsche.com/international/accessoriesandservice/classic/originalpartscatalogue/",
+    "https://rennlist.com/forums/997-forum/1499608-oem-parts-versus-non-oem-parts.html",
+    "https://www.porsche.com/usa/accessoriesandservice/porscheservice/parts/",
+    "https://www.design911.co.uk/blog/oe-vs-oem-parts-debunking-the-myths-with-design911/",
+    "https://sunwayautoparts.com/where-to-buy-porsche-parts/",
+    "https://rennzonenews.com/2026/06/01/porsche-parts-guide-oem-vs-genuine-vs-aftermarket/"
+   ]
+  },
+  {
+   "query": "Porsche Engineering aerospace defence non-automotive",
+   "results": [
+    "https://www.porscheengineering.com/en/peg/",
+    "https://www.porsche-consulting.com/international/en/industries/defense",
+    "https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html",
+    "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "https://www.porscheengineering.com/en/peg/newsroom/",
+    "https://www.aerospacedefensereview.com/porsche-consulting-inc",
+    "https://newsroom.porsche.com/en/2025/innovation/porsche-engineering-interview-esa-astronaut-matthias-maurer-40891.html",
+    "https://www.reddit.com/r/NonCredibleDefense/comments/1nlzg35/porsche_wants_to_get_into_the_defense_industry/",
+    "https://en.wikipedia.org/wiki/Porsche_Engineering",
+    "https://www.porsche-technologies.com/en"
+   ]
+  },
+  {
+   "query": "Porsche Engineering licensing technology partnership",
+   "results": [
+    "https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html",
+    "https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/",
+    "https://www.adt.media/software-defined-vehicles/porsche-creates-technology-unit-for-software-and-engineering/2750922",
+    "https://www.linkedin.com/posts/porsche-engineering_a-new-chapter-introducing-porsche-technologies-activity-7513629404011323395-QBhL",
+    "https://www.instagram.com/p/DeMvZlPD2hK/",
+    "https://newsroom.porsche.com/en/2025/company/porsche-engineering-digital-evaluate-consolidation-40682.html",
+    "https://www.porscheengineering.com/it/peg/about-us/",
+    "https://ansys.synopsys.com/campaigns/porsche",
+    "https://www.facebook.com/PorscheDigitalCroatia/posts/a-new-chapter-introducing-porsche-technologiesporsche-engineering-and-porsche-di/1566063148872351/",
+    "https://www.porsche-technologies.com/en"
+   ]
+  },
+  {
+   "query": "Porsche Engineering founder early days first customer funding",
+   "results": [
+    "https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html",
+    "https://en.wikipedia.org/wiki/Ferdinand_Porsche",
+    "https://www.volkswagen-group.com/en/the-history-of-the-brands-17668/the-history-of-porsche-17688",
+    "https://www.porscheclubgb.com/news-and-events/news/2021/april/90-years-of-porsche-engineering",
+    "https://www.facebook.com/000Magazine/posts/porsches-story-from-its-earliest-days-as-a-carmaker-has-been-inextricably-linked/1191630046298079/",
+    "https://newsroom.porsche.com/christophorus/en/2021/398/ferdinand-porsche-engineering.html",
+    "https://www.porsche-holding.com/en/Company/history/ferdinand-porsche",
+    "https://www.youtube.com/watch?v=rZE9kn8jCEo",
+    "https://www.ebsco.com/research-starters/business-and-management/porsche-ag/",
+    "https://www.britannica.com/biography/Ferdinand-Porsche"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

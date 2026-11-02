@@ -1,0 +1,1534 @@
+{
+ "name": "中外製薬",
+ "aliases": [],
+ "context": "証券コード4519／医薬品／プライム（内国株式）／2025.12期 売上高1,257,941百万円 営業利益率47.6%",
+ "researched_at": "2026-11-02T14:33:03.142725+00:00",
+ "official_url": "https://www.chugai-pharm.co.jp/",
+ "identified_by": "search:yahoo_jp:中外製薬",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上収益",
+    "value": "13,450 +6.9％",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "label": "製商品売上高",
+    "value": "11,000 +2.1％",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "label": "製商品別売上高の推移",
+    "value": "過去の主要製品売上高の推移および領域別の売上高の推移を掲載しています。",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "#ビジネスモデル",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "#ビジネスモデル",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "【20年余で営業利益が21倍に】中外製薬のユニークかつ強固なビジネスモデル／技術ドリブンの創薬戦略／イノベーションを生む人と組織とは",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自のビジネスモデルの基盤となるロシュ社との戦略的アライアンスについて、分かりやすく紹介します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の技術・サイエンスと、ロシュ社との戦略的アライアンスに基づく「独自のビジネスモデル」を最大限に活用し、共有価値を創造します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "#ビジネスモデル",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略的アライアンスとビジネスモデルの特徴「ロシュとのアライアンス」編",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬は、2002年、世界有数の製薬企業であるスイスのロシュ社と戦略的アライアンスをスタートさせ、独自のビジネスモデルのもと成長を遂げてきました",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、当社の企業価値向上とロシュ・グループの発展に寄与するという点で、世界でも類を見ないビジネスモデルとなっています",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "本動画では、この独自のビジネスモデルの基盤となる、ロシュ社との戦略的アライアンスについて解説します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略的アライアンスとビジネスモデルの特徴「ロシュとの取引」編",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   },
+   {
+    "quote": "#ビジネスモデル",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202511_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/",
+    "pass": 1
+   },
+   {
+    "quote": "国際協定等を踏まえた挑戦的な目標を掲げ、温室効果ガスの排出量の削減とエネルギーの効率的使用の実現に向けて、取引先やアカデミアとの連携も含めた新たな環境対策の創出および推進に取り組みます",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お取引先の皆さま",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm.html",
+    "pass": 1
+   },
+   {
+    "quote": "・取引先へのSDS",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/biodiversity/docs/TNFD_disclosures_report.pdf?202604",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客満足度",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③\u0007 当社グループを主要な取引先",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④\u0007 当社グループの主要な取引先",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注２)\u0007「主要な取引先」 ：過去５年間のいずれかの事業年度において、当社グループとの取引額が、当該取引先の連結売上高の２％以上、又は当社グループの連結\u0007",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高の２％以上である当該取引先",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "自社創製品の",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロシュ社との協業のもと、革新的な医薬品とサービスを継続的に患者さんへ提供することを目指し、イノベーションの継続的な創出に注力しています",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "在宅福祉移送サービスカー寄贈事業における車両利用状況のアンケート結果報告",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "異動や産休・育休という転機を挑戦に変え、製品浸透の知見や患者さんへの深い想像力へと転換させてきた",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「患者さん向け医薬品・医療機器情報」の一部サイトで実施しておりましたシステムメンテナンスが完了し、サービスを再開いたしました",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202511_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "「私たちのモデルのユニークな点は、中外製薬として独自に研究開発を進める強みと、ロシュ・グループの一員として、製品をグローバルに展開できる強みの双方を持っていることです",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・R&D",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "エレビジスの製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "ルンスミオ点滴静注1mg/30mg 製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "PHCソリューションへの挑戦",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "PHCソリューション、事業開発、CVF（特命）統括 山口 哲弥",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "ピアスカイ注340mg 製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "フェスゴ配合皮下注MA/IN 製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "ITソリューション部長 小原 圭介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "バビースモ硝子体内注射液 120 mg/mL製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "エブリスディドライシロップ60 mg製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロナプリーブ点滴静注セット製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業本部 カスタマーソリューション部長 嶋内 隆人",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "視神経脊髄炎スペクトラム障害治療薬「エンスプリング皮下注」製品説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンスプリング皮下注120mgシリンジ製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. 「FoundationOne CDx がんゲノムプロファイル」製品紹介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "1.「ヘムライブラ 皮下注」製品概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. テセントリク点滴静注1200mg 製品説明",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "新たなソリューション提供に向けた組織改正",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. 「ボンビバ錠」の概要、製品について",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "当第3四半期連結累計期間の売上収益は、製商品売上高及びその他の売上収益が伸長し、10,681億円（前年同期比17.2％増）となりました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "売上収益のうち、製商品売上高は9,068億円（同14.1％増）となりました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内製商品売上高は、薬価改定や後発品浸透等の影響を受けたものの、主力品のポライビー、ヘムライブラ、バビースモ及び新製品のルンスミオ、エレビジスの売上が増加し、前年同期を上回りました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社国内事業所における次世代基幹業務基盤（ERP）の稼働に向けた移行対応として、医薬品卸売企業向けの出荷時期について当第3四半期（2026年7月～9月）内への前倒しを実施しており、国内製商品売上高が増加しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外製商品売上高は、ガルデルマへ導出したNEMLUVIOの同社向け輸出が大幅に増加するとともに、ロシュ向けのアレセンサ輸出が増加し、前年同期を上回りました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "製商品原価率は、製品別売上構成比の変化等により34.7％と前年同期比で1.6ポイント上昇しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "製商品売上高",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "このうち、国内製商品売上高につきましては、薬価改定及び後発品浸透の影響による売上高の減少等の一方、新製品のルンスミオや主力品の数量伸長により、4,980億円（同5.4％増）と増収を見込んでおります",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "海外製商品売上高につきましては、",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "上記の売上収益の見通しに続き、製品別売上構成比の変化等により、製商品原価率は前年同期比2.3ポイントの上昇となる34.9％を想定しており、売上総利益は9,615億円（前年同期比6.1％増）となる見通しです",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "製商品別売上高の推移",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/",
+    "pass": 1
+   },
+   {
+    "quote": "かけがえのない地球を次世代につなぐため、自然資本の保全・回復への取り組みに加え、研究開発型の製薬企業として、有害化学物質に対し独自の削減目標を設定し、製品のライフサイクル全体で化学物質リスクの最小化に取り組みます",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境に配慮した製品包装資材の導入",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "活動、製品、サービスが生物多様性に与える著しいインパクト",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷低減に対する当社製品対策への取り組みについて",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱っている製品",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製商品別売上高の推移",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "製商品別売上高の推移",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "過去の主要製品売上高の推移および領域別の売上高の推移を掲載しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・パイプライン・技術",
+    "url": "https://www.chugai-pharm.co.jp/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "どんな製品を扱っているの？",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "公益財団法人日本バスケットボール協会（JBA）との パートナー契約決定のお知らせ",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬は、公益財団法人日本バスケットボール協会（JBA）の「ヘルスケアイノベーションパートナー」として、バスケットボール日本代表「AKATSUKI JAPAN」を応援しています",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん一人ひとりの健康と幸せを最優先に考えて事業に取り組む、中外製薬の価値観についてご紹介します",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ライフイベントを糧に真の医療パートナーをめざすMRの軌跡",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな社員の想いと、挑戦のストーリーをご紹介します",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「私たちのミッションは、米国アカデミアの革新的な研究者、バイオテクノロジー企業、ベンチャー投資家とのパートナーシップを見いだし、構築することです」と、Wongは語ります",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "「これらのパートナーシップを通じて、抗体、中分子創薬プラットフォームSnipeTide™、低分子という中外の創薬基盤の補完に繋げていきたいと考えています」",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーからみると、創薬から開発までのバリューチェーン全体にわたる強みを持つ中外のチームと協働しながら、ロシュ・グループを通じて有望なサイエンスをグローバルな機会につなげられる可能性があります」とWongは説明します",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは新規のパートナーとも再現し得るモデルであり、中外製薬の創薬イノベーションが世界中の患者さんの生活の向上に貢献する可能性を示しています",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "未来のパートナーへのメッセージ",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "科学的な深みを持ちながら、アイデアを患者さんにとって意味のある解決策へと発展させるため、パートナーと緊密に連携することを大切にしています」",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの目標は、単に契約プロセスを早めることではなく、パートナーとともに質の高い科学的成果を追求することです",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬にとって、パートナーシップは単なる取引ではなく、ともに変革につながる価値を築くためのコミットメントです",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬工業株式会社 藤枝工場のご紹介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "フランチャイズ ライフサイクルリーダー 羽原 裕二",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介：患者団体との協働",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介：デジタルコンプライアンスの体制整備",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "事例紹介：女性活躍推進",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬のご紹介（2022年6月15日収録）",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬のご紹介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬 会社のご紹介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "1. 「FoundationOne CDx がんゲノムプロファイル」製品紹介",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "取締役、監査役、執行役員のご紹介です",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/",
+    "pass": 1
+   },
+   {
+    "quote": "この挑戦的な目標を達成するために、私たちはロシュや外部パートナーとの連携による革新的な地球環境保全活動を推進します",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な取り組みのご紹介",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "地球環境への取り組みにより外部から評価された実績をご紹介します",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年のトップイノベーター像実現に向けた成長戦略「TOP I 2030」をご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "大株主の状況や株主数の推移、自己株式取得状況などをご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/",
+    "pass": 1
+   },
+   {
+    "quote": "直近5年間の株価や、リアルタイムで株価数値と売買高をご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/",
+    "pass": 1
+   },
+   {
+    "quote": "独自のビジネスモデルの基盤となるロシュ社との戦略的アライアンスについて、分かりやすく紹介します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2030」をご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな社員の想いと、挑戦のストーリーをご紹介します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "より多くの投資家の方々にアニュアルレポートを読んでいただけるように、紹介動画を作成しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "本レポートの制作リーダーとともに、社内副業制度を通じて制作に参加したMR(医薬情報担当者)が、初心者の視点から、「過去から未来に続く挑戦（イノベーション）」をテーマにした創業100周年特別編集ページ、中外製薬の今後の成長に関わる重要な要素（マテリアリティの見直し、新人事制度、トップメッセージなど）について分かりやすく紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の創薬技術が適用されている自社創製品（製品、開発品）をご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/product/",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬の会社紹介動画、テレビCMなどを当社の公式",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、その先にある患者さんの幸せを想いながら、道なき道を進む社員たちの、挑戦の物語をご紹介します",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   },
+   {
+    "quote": "気候変動 GHG排出 ・森林伐採に伴う炭素吸収源の減少・産業用機械使用や店舗操業によるGHG排出",
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/biodiversity/docs/TNFD_disclosures_report.pdf?202604",
+    "pass": 2
+   },
+   {
+    "quote": "血友病フランチャイズの",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260326jCEOpresentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ロシュをはじめ、多様なパートナー",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、 取締役候補者の選任については、 任意の諮問機関である指名委員会にて審議し、 取締役会にて決定しております",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 指名委員会議長、 報酬委員",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1999年\u00078月 デューク\u0007ストリート\u0007キャピタル パートナー",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "公正性を担保するため、取締役会の任意の諮問機関として、指名委員会、報酬委員会及び特別委員会をそれぞれ設置しております",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役候補者の選任及び取締役の解任については、指名委員会にて審議し、",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会 ・ 報酬委員会 ・ 特別委員会報告",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "経営の透明性及び公正性を担保するため、取締役会の任意の諮問機関と して、指名委員会、報酬委員会及び特別委員会をそれ",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会 指名委員会は、取締役候補者に関する議案を審議するとともに、最高経営責任者\u0007",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "中外製薬は、独自の技術とサイエンスを強みとする、研究開発型の製薬企業です",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬の特徴や強みを",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "松田は「求めるのは、中外製薬の強みとシナジーを生み出せる技術です",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "協働が生む強み：ロシュ・グループにおける中外製薬",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "「私たちのモデルのユニークな点は、中外製薬として独自に研究開発を進める強みと、ロシュ・グループの一員として、製品をグローバルに展開できる強みの双方を持っていることです",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーからみると、創薬から開発までのバリューチェーン全体にわたる強みを持つ中外のチームと協働しながら、ロシュ・グループを通じて有望なサイエンスをグローバルな機会につなげられる可能性があります」とWongは説明します",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬の抗体技術の強みであるバイスペシフィック抗体やマルチスペシフィックT細胞エンゲージャーのほか、タンパク質分解誘導、RNA治療、遺伝子編集の領域で活発な動きがあると見ています",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "中外製薬は、独自の技術とサイエンスを強みとする、研究開発型の製薬企業です",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高、経費率、利益率のデータを用いて、他社と比較しながら中外製薬の強みをご説明します",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": " 営業利益率は49.5%と高い収益性を示す",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260326jCEOpresentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は49.8%と高水準を維持",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260326jCEOpresentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A\u0007\u0007還元と成長投資のバランスを重視しつつ、将来に向けた積極的な成長投資が当社の強みに繋がるとの考えで議論している",
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年12月MATをもとに作成 無断転載禁止 市場の範囲は中外製薬定義による",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会のスクリプト（質疑含む）を掲載しました",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会の動画配信を開始しました",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算を発表しました",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期連結決算",
+    "url": "https://www.chugai-pharm.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年に日本で初めて承認された「免疫チェックポイント阻害剤」は、がん細胞が免疫細胞の攻撃を逃れるしくみを解除し、免疫細胞ががん細胞を攻撃する力を保つ",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年度から2019年度までの25年間で、治療満足度は11%から52%へ、薬剤貢献度は7%から83%へ伸びている",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代からは、特定の分子標的薬の効果や副作用を事前に調べる「コンパニオン診断」が導入",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年以降「次世代シークエンサー」という検査装置を用いた包括的がん関連遺伝子解析システムが登場し、がん種を横断的に診断できるようになった",
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月21日｜グローバルイノベーションをつなぐ現場：中外製薬U.S. Partnering Officeの取り組み｜ストーリー｜中外製薬",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年07月21日",
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日現在での情報を掲載しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日 （火）",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 開発パイプラインの状況",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第2四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第2四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第2四半期 開発パイプラインの状況",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第2四半期（中間期）連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第1四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第1四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第1四半期 開発パイプラインの状況",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第1四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年の総括と2026年の見通し",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第3四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第3四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第3四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第2四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第2四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第2四半期（中間期） 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期第1四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第1四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年第1四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期：連結決算概要",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年見通し",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 開発パイプラインの状況",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会のスクリプト（質疑含む）を掲載しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会の動画配信を開始しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算を発表しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期連結決算",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年のトップイノベーター像実現に向けた成長戦略「TOP I 2030」をご紹介しています",
+    "url": "https://www.chugai-pharm.co.jp/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年のトップイノベーター像実現に向けた成長戦略「TOP I",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月10日に創業100周年を迎えた中外製薬",
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月09日",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月07日",
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算 説明会",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期の総括",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 開発パイプラインの状況",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年第3四半期 連結決算（",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会のスクリプト（質疑含む）を掲載しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期第3四半期決算説明会の動画配信を開始しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "製商品原価率は、製品別売上構成比の変化等により34.7％と前年同期比で1.6ポイント上昇しました",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   },
+   {
+    "quote": "上記の売上収益の見通しに続き、製品別売上構成比の変化等により、製商品原価率は前年同期比2.3ポイントの上昇となる34.9％を想定しており、売上総利益は9,615億円（前年同期比6.1％増）となる見通しです",
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "中外製薬 の価値創造 モデル | 経営戦略 — 中外製薬 の価値創造 モデル | 経営戦略 中外製薬株式会社 https://www.chugai-pharm.co.jp > strategy > valuecreation",
+    "url": "https://www.chugai-pharm.co.jp/profile/strategy/valuecreation.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略「TOP I 2030」 | 経営方針 | 中外製薬 について — 成長戦略「TOP I 2030」 | 経営方針 | 中外製薬 について 中外製薬株式会社 https://www.chugai-pharm.co.jp > profile > growth_strategy",
+    "url": "https://www.chugai-pharm.co.jp/profile/strategy/growth_strategy.html",
+    "pass": 3
+   },
+   {
+    "quote": "中外製薬 の価値創造 — 中外製薬 の価値創造 中外製薬株式会社 PDF https://www.chugai-pharm.co.jp > jAR2020_12_M04",
+    "url": "https://www.chugai-pharm.co.jp/ir/ar2020/pdf/jAR2020_12_M04.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "中外製薬 株式会社 『秀逸な ビジネスモデル の 研究開発型製薬 ... — 中外製薬 株式会社 『秀逸な ビジネスモデル の 研究開発型製薬 ... ジャパニーズ インベスター オンライン https://japaneseinvestor.jp > jilist > ir_ad",
+    "url": "https://japaneseinvestor.jp/jilist/ir_ad/259/",
+    "pass": 3
+   },
+   {
+    "quote": "中外製薬 について | 中外製薬 株式会社 — 中外製薬 について | 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > profile",
+    "url": "https://www.chugai-pharm.co.jp/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 | IRライブラリ | IR情報 | 中外製薬 株式会社 — 説明 会 資料 | IRライブラリ | IR情報 | 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > presentations",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ 中外製薬 株式会社 — IR情報｜ 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > ...",
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・補足 資料 | IRライブラリ | IR情報 | 中外製薬 株式会社 — 決算 短信・補足 資料 | IRライブラリ | IR情報 | 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > tanshin",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/tanshin.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | IRライブラリ | IR情報 | 中外製薬 株式会社 — IRカレンダー | IRライブラリ | IR情報 | 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > event",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | IR情報 | 中外製薬 株式会社 — IRライブラリ | IR情報 | 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > reports_downloads",
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 会社案内 | 中外製薬 について — 組織図 | 会社案内 | 中外製薬 について 中外製薬株式会社 https://www.chugai-pharm.co.jp > about > organization",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 中外製薬 について — 会社案内 | 中外製薬 について 中外製薬株式会社 https://www.chugai-pharm.co.jp > profile > about",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 中外製薬 — 会社概要 - 中外製薬 中外製薬株式会社 https://www.chugai-pharm.co.jp > profile > about > outline",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "組織図（        年  月  日現在） — 組織図（        年  月  日現在） 中外製薬株式会社 PDF https://www.chugai-pharm.co.jp > jOrganization",
+    "url": "https://www.chugai-pharm.co.jp/profile/about/organization/files/jOrganization.pdf?20250401",
+    "pass": 3
+   },
+   {
+    "quote": "中外製薬 on X: \"奥田修 社長 ・CEOの インタビュー 動画も公開 ... — 中外製薬 on X: \"奥田修 社長 ・CEOの インタビュー 動画も公開 ... X https://x.com > @chugai_cc",
+    "url": "https://x.com/chugai_cc/status/1976569887280832711",
+    "pass": 3
+   },
+   {
+    "quote": "ダイジェスト版｜ 中外製薬 CEOメッセージ「中外 ... - YouTube — ダイジェスト版｜ 中外製薬 CEOメッセージ「中外 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=XdL_7thlAJQ",
+    "pass": 3
+   },
+   {
+    "quote": "中外製薬 、折り返し迎えた「10年成長戦略」奥田 社長 が語った ... — 中外製薬 、折り返し迎えた「10年成長戦略」奥田 社長 が語った ... Answers（アンサーズ） https://answers.and-pro.jp > pharmanews",
+    "url": "https://answers.and-pro.jp/pharmanews/32945/",
+    "pass": 3
+   },
+   {
+    "quote": "学長室だより - 中外製薬 奥田 社長 との対談（20231002） — 学長室だより - 中外製薬 奥田 社長 との対談（20231002） Google https://sites.google.com > president-messages > 学長座談会",
+    "url": "https://sites.google.com/gifu-pu.ac.jp/president-messages/%E5%AD%A6%E9%95%B7%E5%BA%A7%E8%AB%87%E4%BC%9A/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC%E5%A5%A5%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%8720231002",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ - 中外製薬 株式会社 — CEOメッセージ - 中外製薬 株式会社 中外製薬株式会社 https://www.chugai-pharm.co.jp > profile > message",
+    "url": "https://www.chugai-pharm.co.jp/profile/message/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.chugai-pharm.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202511_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/article/202412_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/story/detail/20260721100000_133.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/latest.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/profile/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/profile/ad/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/story/?year=&filter=business_models&",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/english/ir/reports_downloads/presentations.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.chugai-pharm.co.jp/sustainability/environment/biodiversity/docs/TNFD_disclosures_report.pdf?202604",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/ar2020/pdf/jAR2020_12_M00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/annual_reports/files/jAR2025_12_spread.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/reports_downloads/annual_reports/files/jAR2025_12_single.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260327jExtraordinaryReport.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260326jChugai_115thAGM_Resolve.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260326jCEOpresentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chugai-pharm.co.jp/ir/share/agm/files/260226jChugai_115thAGM_Convo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://x.com/chugai_cc/status/1976569887280832711",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XdL_7thlAJQ",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中外製薬",
+   "results": [
+    "https://www.chugai-pharm.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC",
+    "https://x.com/chugai_cc",
+    "https://chugai-pharm.jp/doctor/",
+    "https://www.youtube.com/chugaijp",
+    "https://ja.wikipedia.org/wiki/中外製薬",
+    "https://finance.yahoo.co.jp/quote/4519.T",
+    "https://www.chugai-pharm.co.jp/profile/about/outline.html",
+    "https://www.nikkei.com/nkd/company/?scode=4519",
+    "https://finance.yahoo.co.jp/quote/4519.T/profile"
+   ]
+  },
+  {
+   "query": "中外製薬 ビジネスモデル",
+   "results": [
+    "https://www.chugai-pharm.co.jp/profile/strategy/valuecreation.html",
+    "https://www.chugai-pharm.co.jp/profile/strategy/growth_strategy.html",
+    "https://www.chugai-pharm.co.jp/ir/ar2020/pdf/jAR2020_12_M04.pdf",
+    "https://japaneseinvestor.jp/jilist/ir_ad/259/",
+    "https://www.chugai-pharm.co.jp/profile/",
+    "https://www.chugai-pharm.co.jp/profile/strategy/",
+    "https://note.com/pharmms/n/n75f8ec411f16",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd121310.html",
+    "https://www.chugai-pharm.co.jp/profile/overview/whatkind/",
+    "https://note.com/shyuukatu_gy/n/nf4cb726ade38"
+   ]
+  },
+  {
+   "query": "中外製薬 決算説明資料",
+   "results": [
+    "https://www.chugai-pharm.co.jp/ir/reports_downloads/presentations.html",
+    "https://www.chugai-pharm.co.jp/ir/",
+    "https://www.chugai-pharm.co.jp/ir/reports_downloads/tanshin.html",
+    "https://www.chugai-pharm.co.jp/ir/reports_downloads/event/",
+    "https://www.chugai-pharm.co.jp/ir/reports_downloads/",
+    "https://www.chugai-pharm.co.jp/media/conference.html",
+    "https://www.chugai-pharm.co.jp/news/detail/20260424170002_1583.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260723598715/",
+    "https://finance.logmi.jp/companies/379",
+    "https://finance.yahoo.co.jp/quote/4519.T/financials"
+   ]
+  },
+  {
+   "query": "中外製薬 事業系統図",
+   "results": [
+    "https://www.chugai-pharm.co.jp/profile/about/organization.html",
+    "https://www.chugai-pharm.co.jp/profile/about/",
+    "https://www.chugai-pharm.co.jp/profile/about/outline.html",
+    "https://www.chugai-pharm.co.jp/profile/about/organization/files/jOrganization.pdf?20250401",
+    "https://www.chugai-pharm.co.jp/profile/",
+    "https://www.chugai-pharm.co.jp/ir/",
+    "https://www.chugai-pharm.co.jp/profile/strategy/growth_strategy.html",
+    "https://www.chugai-pharm.co.jp/profile/about/group/office.html",
+    "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC",
+    "https://ja.wikipedia.org/wiki/中外製薬"
+   ]
+  },
+  {
+   "query": "中外製薬 社長 インタビュー",
+   "results": [
+    "https://x.com/chugai_cc/status/1976569887280832711",
+    "https://www.youtube.com/watch?v=XdL_7thlAJQ",
+    "https://answers.and-pro.jp/pharmanews/32945/",
+    "https://sites.google.com/gifu-pu.ac.jp/president-messages/%E5%AD%A6%E9%95%B7%E5%BA%A7%E8%AB%87%E4%BC%9A/%E4%B8%AD%E5%A4%96%E8%A3%BD%E8%96%AC%E5%A5%A5%E7%94%B0%E7%A4%BE%E9%95%B7%E3%81%A8%E3%81%AE%E5%AF%BE%E8%AB%8720231002",
+    "https://www.chugai-pharm.co.jp/profile/message/",
+    "https://toyokeizai.net/articles/-/926272?display=b",
+    "https://www.youtube.com/watch?v=kd2_XGbn2XA",
+    "https://business.nikkei.com/atcl/gen/19/00939/102600010/",
+    "https://www.nikkan.co.jp/articles/view/743139",
+    "https://iyakukeizaionline.com/iyakukeizaiweb/detail/179022"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

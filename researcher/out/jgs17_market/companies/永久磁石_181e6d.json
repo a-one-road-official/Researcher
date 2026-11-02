@@ -1,0 +1,1976 @@
+{
+ "name": "永久磁石",
+ "en": "permanent magnet",
+ "aliases": [
+  "ネオジム磁石",
+  "レアアース磁石"
+ ],
+ "context": "9 マテリアル ①永久磁石",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:57:53.370902+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の永久磁石市場は、希土類鉱業、精製、高性能磁石製造における中国の圧倒的な地位を背景に、2025年には178億2000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドの永久磁石市場は、電気自動車製造、再生可能エネルギー設備の設置、産業オートメーションの急速な成長に牽引され、2025年には14億3000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の永久磁石市場は、高性能磁性材料、精密製造、先進的な自動車技術における日本のリーダーシップに支えられ、2025年には22億4000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の永久磁石市場は、予測期間中に年平均成長率（CAGR）9.12%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の永久磁石市場は、電気自動車製造の拡大、風力発電プロジェクトの導入拡大、国内の希土類加工インフラへの投資増加を背景に、2025年には27億1000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの永久磁石市場は、重要鉱物資源開発の拡大、クリーンエネルギー投資の増加、電動輸送への需要の高まりに支えられ、2025年には4億8000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.34%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場：市場規模・シェア・動向分析（材料別・用途別・地域別）、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size, Share & Trends Analysis Report By Material (Ferrite, NdFeB, Alnico, SmCo), By Application (Automotive, Consumer Goods & Electronics, Medical, Aerospace & Defense), By Region, And Segment Forecasts, 2026 - 2033",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期電動機市場規模、シェア、および成長分析：タイプ別、電圧別、用途別、エンドユーザー別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場に関する当社の調査レポートによると、市場は予測期間中に約9%のCAGRで成長し、2035年までに約1680億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025年の永久磁石市場規模は 約750億米ドルと登録されています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模（2025～2034年）：製品別（フェライト、ネオ（NdFeB）、SmCO、アルニコ）、用途別",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場規模は、2024年に460億米ドルとなり、年平均成長率9.4%で1,162億米ドルの成長が見込まれています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "導電性プラスチックコンパウンドの世界市場規模は2034年までにCAGR 9.0％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバリデーションのグローバル市場規模は2021年に2,246億8,730万ドル、2034年までにCAGR 11.20％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のポリエステル繊維市場規模（2025～2034年）：グレード別（PET、ピーシーディーティー）、製品別、用途別",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のミノキシジル市場規模（2025～2034年）：品別（5%、2%）、形態別、用途別",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "光学イメージングの世界市場は、収益ベースで2022年に15億ドル規模と推定され、2022年から2027年にかけてCAGR13.5％で成長する見通しです",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "インラインカメラ検査システムのグローバル市場規模は2025年に16億6000万ドル、2030年までにCAGR 8.3％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "市場概要 世界の硬質フェライト磁石市場は2023年に29億米ドルに達し、2031年には37億米ドルに達すると予測され、予測期間2024-2031年のCAGRは3.3%で成長する見込みです",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の航空宇宙エンジニアリングサービスアウトソーシング市場は、2021年にXX億米ドルの規模に達しました",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 世界の電子タバコ用リキッド市場規模は2024年に23億米ドルに達しました",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "IMARC Groupは、2033年までに市場規模が77億米ドルに達し、2025…",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 世界のサーフボード市場規模は2023年に29億米ドルに達した",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場は2025年に143.8億米ドルと評価され、2026年には167.1億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模：材料タイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジスプロシウムおよびテルビウムを用いた高保磁力の粒界拡散NdFeBは、2025年の市場規模が28億米ドルで、2026〜2035年に約17.7%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の永久磁石市場は2025年に10億1,000万米ドルを創出し、2026〜2035年に約20.0%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国の市場規模は2025年に9億2,000万米ドルとなり、2035年までに55億5,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の永久磁石市場は2025年に9億3,400万米ドルを創出し、2026〜2035年に約18.0%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの市場規模は2025年に3億4,600万米ドルとなり、2035年までに17億9,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの市場規模は2025年に1億200万米ドルとなり、2035年までに5億2,500万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋の永久磁石市場は、2025年に世界売上高の83.2%を占め、2035年には321.5億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の市場規模は2025年に97.8億米ドルとなり、2035年にはアジア太平洋の需要の77.7%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD2,500 ⇒換算￥392,500",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD4,000 ⇒換算￥628,000",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模 2025年～2029年",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模は、2024年から2029年の間にCAGR 9%で184.5億米ドル増加すると予測されている",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4 市場規模",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4.3 市場規模 2024",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "• 市場規模の予測（2032年）：786.5億米ドル",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.2. 製品種類別の過去市場規模（ドル）および数量（トン）の分析、2019年～2024年",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.3. 製品種類別、現在の市場規模（10億ドル）および数量（トン）の分析と予測、2025年～2032年",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.2. 最終用途産業別、過去市場規模（ドル）および数量（トン）の分析、2019年～2024年",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.3. 最終用途産業別、現在の市場規模（10億ドル）および数量（トン）の分析と予測、2025年～2032年",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 地域別過去市場規模（ドル）および数量（トン）の分析、2019年～2024年",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "6.3. 地域別、2025年～2032年の現在の市場規模（ドルで10億）および数量（トン）の分析と予測",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月、ニロン・マグネティックス社は、希土類元素を含まない永久磁石の生産を大幅に拡大するため、米国に最大18億米ドルを投じて大規模生産施設を建設する計画を発表した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月、ノベオン・マグネティックスは、米国における希土類永久磁石の製造能力を拡大し、自動車、産業、防衛用途向けの国内サプライチェーンを強化するために、2億1500万米ドルを調達した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "この期間、太陽光発電の成長は2倍以上となり、モジュールコストの低さと効率的な許認可手続きに後押しされ、世界の再生可能電力容量の拡大の80％近くを占める見込みです",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.8%です",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場に関する当社の調査レポートによると、市場は予測期間中に約9%のCAGRで成長し、2035年までに約1680億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "他のすべての再生可能電力技術の中で、太陽光発電 (PV) に次ぐ 2 番目に高い成長率です",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場規模は、2024年に460億米ドルとなり、年平均成長率9.4%で1,162億米ドルの成長が見込まれています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "導電性プラスチックコンパウンドの世界市場規模は2034年までにCAGR 9.0％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバリデーションのグローバル市場規模は2021年に2,246億8,730万ドル、2034年までにCAGR 11.20％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "光学イメージングの世界市場は、収益ベースで2022年に15億ドル規模と推定され、2022年から2027年にかけてCAGR13.5％で成長する見通しです",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "インラインカメラ検査システムのグローバル市場規模は2025年に16億6000万ドル、2030年までにCAGR 8.3％で拡大する見通し",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "市場概要 世界のマシンビジョン市場の規模は、2025年に158億3000万米ドルと評価され、2030年までに236億3000万米ドルに達すると予測されており、2025年から2030年にかけて年平均成長率（C…",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "市場概要 世界の硬質フェライト磁石市場は2023年に29億米ドルに達し、2031年には37億米ドルに達すると予測され、予測期間2024-2031年のCAGRは3.3%で成長する見込みです",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARCグループは、2022年から2027年にかけて、この市場がXX%のCAGRで成長すると予測しています…",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は11.8%と見込まれ、2035年には456億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の専門家との議論から、希土類価格の変動が売上高ベースで基礎的な需要動向を見えにくくする中でも、世界の永久磁石出荷量は2022〜2025年に年平均成長率（CAGR）+4.6%で拡大したことが示されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電気自動車販売台数は2024年に1,700万台を超え、前年比で25%超増加した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "駆動モーター向け焼結NdFeBの需要はBEV/PHEVの生産台数に比例して拡大し、複数モーター搭載プラットフォームでは車両1台当たりの使用量が増加する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の自動車セグメントの年平均成長率（CAGR）は14.8%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026〜2035年の洋上風力発電セグメントの年平均成長率（CAGR）は13.0%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "風力タービンの定格出力が5 MWを超えて拡大するにつれて、PMSGの採用が増加する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のEV保有台数は2024年末に約5,800万台に達し、新車生産に加え、保守、交換、部品のエコシステムも拡大している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2028年まで短期的な制約が続き、2029年以降はリサイクルの規模拡大により緩やかに緩衝効果が生じる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジスプロシウムおよびテルビウムを用いた高保磁力の粒界拡散NdFeBは、2025年の市場規模が28億米ドルで、2026〜2035年に約17.7%の年平均成長率（CAGR）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模は、2024年から2029年の間にCAGR 9%で184.5億米ドル増加すると予測されている",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場：前年比成長率 2024年から2029年（%）の図表",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場のデータ表：前年比成長率 2024年～2029年（％）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "NdFeB磁石 – 前年比成長率 2024年～2029年 (%)",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム磁石に関するデータ表 – 2024年から2029年までの前年比成長率（％）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト磁石に関する図表 – 2024年から2029年までの前年比成長率（％）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト磁石に関するデータ表 – 2024年から2029年までの前年比成長率（％）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "サマリウムコバルト磁石に関する図表 – 前年比成長率 2024年～2029年 (%)",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "• 世界市場の成長率（2025年から2032年までのCAGR）：8.7%",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "5Gインフラの展開拡大、IoTエコシステムの拡大、そして輸送機器や産業機器における継続的な電動化が、新たな需要の流れを生み出しています",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2034",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 value and grow at",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "GWEC recorded a record 178 GW of wind installations in 2025, up 40 percent, and five turbine makers each passed 15 GW. Direct drive and medium speed turbines from Goldwind, Mingyang and other Chinese makers use permanent magnet generators whose rotors carry large NdFeB blocks with high temperature grades. Energy applications grow at",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Volume grades from N35 to N42 grow at",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share | CAGR of 8.4%",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.4%",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global permanent magnet market size was valued at USD 31.84 billion in 2025 and is projected to grow from USD 34.21 billion in 2026 to USD 64.92 billion by 2034, registering a CAGR of 8.34% during the forecast period (2026–2034). Asia Pacific dominated the permanent magnet market with a market share of 74.68% in 2025.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "(SmCo) segment is expected to grow at a CAGR of 9.6% during the forecast period due to increasing demand from aerospace, defense, and high-temperature industrial applications. Its excellent corrosion resistance and thermal stability make it suitable for mission-critical operating environments.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The bonded permanent magnets segment is expected to grow at a CAGR of 9.8% during the forecast period due to increasing demand for lightweight, complex-shaped magnetic components in automotive electronics, sensors, medical devices, and consumer electronics.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The renewable energy segment is projected to grow at a CAGR of 10.4% during the forecast period due to the rapid expansion of offshore and onshore wind energy installations. Increasing adoption of direct-drive wind turbines equipped with permanent magnet generators is expected to sustain long-term demand.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The permanent magnet market size is valued at USD 34.50 Billion in 2026 and is projected to reach USD 65.47 Billion by 2034, at a CAGR of 8.34% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The permanent magnet market is projected to grow at a CAGR of 8.34% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 3.80%",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2026 to 2035:",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2019-2025",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035 - Market by Region",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035 - Market by Country",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の規模、シェア、トレンド分析レポート：タイプ別（ネオジム鉄ホウ素（NdFeB）、サマリウムコバルト（SmCo）、フェライト、アルニコ）、材料別（希土類磁石、結合磁性材料、フェライト磁石、ネオジム（NdFeB）、サマリウムコバルト（SmCo）、フェライト（セラミック））、エンドユーザー別（自動車、再生可能エネルギー、産業、家電、航空宇宙・防衛、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に74.68%の市場シェアを占め、永久磁石市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム鉄ホウ素（NdFeB）セグメントは、その優れた磁気強度、高いエネルギー密度、および小型アプリケーションにおける優れた性能により、2025年には67.8%のシェアを占めました",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "希土類磁石分野は、その優れた磁力、コンパクトなサイズ、そして電気自動車、風力タービン、産業オートメーション、家電製品などにおける幅広い用途により、2025年には73.5%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、永久磁石同期モーターを使用する電気自動車およびハイブリッド車の生産増加により、2025年には34.7%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の永久磁石市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に74.68%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "グラフェン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "複合材電柱市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場：市場規模・シェア・動向分析（材料別・用途別・地域別）、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのうち、バッテリー式電気自動車（BEV）が世界全体の販売台数の20％以上を占めています",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "この期間、太陽光発電の成長は2倍以上となり、モジュールコストの低さと効率的な許認可手続きに後押しされ、世界の再生可能電力容量の拡大の80％近くを占める見込みです",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期モーター：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "同期電動機市場規模、シェア、および成長分析：タイプ別、電圧別、用途別、エンドユーザー別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の規模、シェア、成長分析：種類別、最終用途産業別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場,調査、規模、シェア、傾向、メーカーレポート洞察と将来予測調査 2035年",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場調査レポートの規模とシェア、成長機会、およびトレンド洞察分析― 材質別 (フェライト、ネオジム鉄ボロン (NdFeB)、アルミニウム ニッケル コバルト (アルニコ)、サマリウム コバルト (SmCo)、アプリケーションー別および地域別―世界予測 2026―2035 年",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、消費財およびエレクトロニクスのサブセグメントは、そのような機器の多くで永久磁石の需要が高いため、2035年末までに最大25%の最大市場シェアを保持すると予想されています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、製造業におけるこの地域の重要性が高まっているため、2026－2035年に永久磁石市場で最大の収益シェアを最大34%保持すると予想されています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "米国商務省傘下の国際貿易局は、2020 年の日本の新車販売台数の 36.2% を新車販売台数が占めたと観測しています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは、2026 ― 2035 年永久磁石市場で重要な位置を占めると予想されるもう 1 つの地域です",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "当社のデータ洞察によると、この地域には大量のレアアース埋蔵量があるため、2035年末までに最大27%の第2位の市場シェアを保持するはずです",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "シリンガアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "プロピオンアルデヒド市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、製造プロセス別、純度・グレード別、最終用途産業別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム・鉄・ボロン系が2024年に54.55%のシェアを占めました",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "ネオジム・鉄・ボロン系が2024年に54.55%のシェアを占めたのは、様々な分野で多様な用途に使用されているためです",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2023年に39.13%の市場シェアを獲得し、永久磁石市場で支配的な地位を占めています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は第3位の生産国であり、中国は世界のレアアース生産量の85～90%以上を占めているため、磁石用のネオジム鉄ホウ素磁石とサマリウム・コバルト磁石の供給チェーンにおいて極めて重要です",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石業界の上位5社には、日立金属株式会社、江門Magsource新材料有限公司、VACUUMSCHMELZE（VAC）、Arnold Magnetic Technologiesが含まれ、電子、自動車、再生可能エネルギー産業だけでなく、市場で強力な市場シェアを維持することを可能にする高度な製造能力を持っています",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2 各社の市場シェア分析",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙工学サービスアウトソーシングの世界市場、シェア、規模、成長、機会、2022-2027年の分析＆予測",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業株式会社は、2025年に7.5%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "当市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年に合計29.0%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、中国は世界のレアアース採掘量の70%超、全加工量の87%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "焼結NdFeBは2025年に市場売上高の64.9%を占め、2035年には79.5%に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボンドNdFeBは2025年に市場収益の9.6%を占め、2035年までに45.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "フェライト磁石は2025年に33.4億米ドルを生み出し、2035年には市場収益の8.9%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "サマリウムコバルトは2025年に市場収益の1.9%を占め、2035年までに4億7,800万米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "新興・代替磁性材料は2035年に市場収益の0.4%を占め、2026〜2035年に約24.6%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "焼結磁石は2025年に市場収益の90.0%を占め、2035年までに407.9億米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "粒界拡散処理は2025年に23.0億米ドルを生み出し、2035年には焼結磁石収益の47.7%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ボンド磁石は2025年に市場収益の9.6%を占め、2026〜2035年に約13.0%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別永久磁石市場シェア、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "BEV駆動用サブセグメントは2035年までに142.8億米ドルに達すると予測され、2025年には市場需要全体の16.0%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料別市場シェア 2024年～2029年（%）の図表",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "材料別市場シェア 2024年～2029年（%）のデータ表",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーに関する図表 – 市場シェア 2024年～2029年（%）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザーに関するデータ表 – 市場シェア 2024年～2029年（%）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "方法に関する図表 – 市場シェア 2024年から2029年（%）",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近の動向と影響分析：主要市場参入企業別",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場の成長に重要な役割を果たす主要な主要企業には、Adams Magnetic Products, LLC、Arnold Magnetic Technologies Corporation、Stanford Magnets (Oceania International LLC)、Permanent Magnets Ltd、VACUUMSCHMELZE GmbH & Co， KGなどが含まれます",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の永久磁石市場分析レポートの詳細な競争分析、企業概要、最近の傾向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業・市場シェア",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の主な企業には、Shin-Etsu Chemical Co., Ltd.、Proterial Ltd.、TDK Corporation、Zhong Ke San Huan、JL MAG Rare-Earth Co., Ltd.が挙げられる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と市場洞察",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "産業調査および成長報告書には、市場の競争状況の詳細な分析と、以下のような主要企業の情報を含んでいます",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石の世界市場：主要企業の市場シェア2026年",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "• 永久磁石市場の主要企業は誰であり、成長のためにどのような戦略を採用しているのでしょうか？",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場の主要企業は、競争力を維持するために、イノベーション、サプライチェーンの多様化、および戦略的提携を重視しています",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の概要：",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market: By Type: Ferrite, Neodymium Iron Boron, Aluminum Nickel Cobalt, Samarium Cobalt; By End-Use: Computer Hard Disk Drives (HDD), CD, DVD, HVAC, Heating, Ventilating and Air Conditioners, Others; Regional Analysis; Market Dynamics; Competitive Landscape; 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other key players in the market include Hitachi Metals, Ltd., Industrial Magnetics, Inc., and MASTER MAGNETICS, Inc., among others.",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the report, who are the key players in the permanent magnets industry?",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape consists of Adams Magnetic Products Co., Arnold Magnetic Technologies, The Bunting® Magnetics Co., Advanced Technology & Materials Co., Ltd. (AT&M), Hitachi Metals, Ltd., Industrial Magnetics, Inc., and MASTER MAGNETICS, Inc., among others.",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players In The Global Permanent Magnet Market",
+    "url": "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies in the permanent magnet market include Adams Magnetic Products Co., Arnold Magnetic Technologies, Daido Steel Co., Ltd., Goudsmit Magnetics Group, Earth-Panda Advance Magnetic Material Co., Ltd., Ningbo Yunsheng Co., Ltd., Hangzhou Permanent Magnet Group, Electron Energy Corp., Magnequench International LLC, and Eclipse Magnetics Ltd.",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Fiber Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Foam Tape Market Size, Key Companies, Company Technology / Innovation, Production Economics, Trade Analysis, Material Efficiency, Market Penetration, Company Investment Strategies, and Sustainability Trends",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Floor Adhesives Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cement Paints Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and company intelligence",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Analysis, Dynamics, Key Players and Innovations, Outlook and Forecast 2025-2032",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Permanent Magnet Material Companies Profiled",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Which key companies operate in Permanent Magnet Material Market?",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Key players",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Table 1. Key Players of Permanent Magnet Material in Global Market",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Industry trends and structural change; global market size by volume and value; competitive landscape by manufacturer, including capacity expansions, mergers and acquisitions; market segments by type, application and geography.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Primary work establishes segmentation by type and application, product price ranges, key participants, raw material supply and downstream demand, industry status and outlook, and market dynamics including risks, influencing factors, opportunities, barriers, trends and the strategies of leading players.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Custom reports aligned with your industry and competitive landscape.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "From startups to Fortune 500s.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Analysis, Dynamics, Key Players and Innovations, Outlook and Forecast 2026-2034",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Analysis, Dynamics, Key Players and Innovations, Outlook and Forecast 2026-2032",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted By 2,000+ Brands & Startups In Over 100 Countries",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "永久磁石市場における主要な投資および資金調達活動、2026年",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポリ塩化ビニル（PVC）の世界市場2025年-2032年：硬質、軟質",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "Polyvinyl Chloride (PVC) Market by Product Type, End-Users, and Geography : Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2025-2032",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "pass": 3
+   },
+   {
+    "quote": "a year from a small base. Niron Magnetics secured USD 300 million of funding for a rare-earth-free iron nitride plant in Minnesota that targets 1,500 t a year by 2027.",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrite remains the main rare-earth-free magnet and is used wherever size matters less than cost. Iron nitride is the newest option: Niron Magnetics raised USD 300 million for a Minnesota plant targeting 1,500 t a year by 2027. Producers are also cutting heavy rare earths, as in Proterial's heavy-rare-earth-free Neo magnet. Other magnet types grow at 7.3% a year.",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in the Permanent Magnet Market, 2026",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2026, Noveon Magnetics raised USD 215 million to expand its U.S. rare earth permanent magnet manufacturing capacity and strengthen domestic supply chains for automotive, industrial, and defense applications.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The rare earth magnets segment accounted for a share of 73.5% in 2025 due to their superior magnetic strength, compact size, and extensive use in electric vehicles, wind turbines, industrial automation, and consumer electronics. Rising investments in electrification and renewable energy continue to strengthen the demand for rare earth-based permanent magnets across high-performance applications.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "The automotive segment accounted for a share of 34.7% in 2025 due to the increasing production of electric and hybrid vehicles utilizing permanent magnet synchronous motors. Rising investments in vehicle electrification and stringent fuel efficiency regulations continue to drive demand for high-performance permanent magnets across the automotive industry.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Partnered with High Street Capital in 2023 to expand its production capabilities and innovation in magnetic solutions. Invested in advanced technology to meet rising demands in renewable energy and electric vehicle markets.",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Which region dominates the permanent magnet market and where are the strongest investment opportunities?",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads the market with a 65% revenue share in 2025 due to its strong rare-earth supply chain and manufacturing base, while North America and Europe are emerging investment hubs driven by supply chain diversification and electrification initiatives.",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, industrial automation and the proliferation of robotics utilize permanent magnets extensively in servo motors and actuators. The trend toward smart factories and Industry 4.0 is accelerating investment in automated systems, thereby supporting sustained market growth for these critical materials.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE represented 17.6% of Middle East & Africa demand in 2025 and is projected to grow at an approximately 22.7% CAGR (2026–2035). Clean-energy investment and advanced-manufacturing development support the country's above-average outlook. Its role as a regional technology and logistics hub may also strengthen demand for industrial automation and equipment components.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "MP Materials announced a $1.25 billion investment to develop a large-scale rare earth magnet manufacturing campus in Texas. The project aims to strengthen supply chain independence and expand magnet production capacity for EVs and defense applications.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ndfeb-permanent-magnets-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "永久磁石市場規模、シェア、成長率（2034年） — Sep 3, 2026 · 世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです。",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、トレンド、成長 2034 年 — Oct 12, 2026 · 世界の永久磁石市場規模は、2025 年の 320 億 7000 万ドルから、2034 年までに 8.30% の CAGR で 659 億 4000 万ドルに成長すると予測されています。",
+    "url": "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模・産業レポート 2031 — 世界の永久磁石市場規模は2026年に54.91 ビリオン 米ドルと評価されており、2031年までに74.11 ビリオン 米ドルに達すると予測され、CAGR 6.18%で成長する見込みです。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模・動向 | 2035 年の予測 — Jul 25, 2026 · 世界の永久磁石市場規模は、2035年の260億6,000万米ドルから2025年までに133億4,000万米ドルに達し、7%のCAGRで成長すると予測されています。",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/permanent-magnets-market-121109",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで — Feb 25, 2026 · 世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています。",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場 | 市場規模 業界シェア 市場分析 成長性 2026年 — Jan 28, 2026 · 自動車用途への需要拡大が、今後数年間の永久磁石市場の成長を牽引すると予想されます。 永久磁石は持続的な磁場を生成する材料であり、電動モーター、発電機、センサー、アクチュエーターに広く使用されています。",
+    "url": "https://www.gii.co.jp/report/tbrc1928036-permanent-magnet-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模・産業レポート 2031 — エンドユーザー産業別では、自動車が2025年に38.29%の収益シェアでトップとなり、医療画像や外科用ロボティクスを含むその他のエンドユーザー産業セグメントは2031年にかけて年平均成長率8.54%で成長する見込みです。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "永久磁石市場規模、シェア、トレンド、成長 2034 年 — Oct 12, 2026 · 永久磁石には、合金磁石、フェライト磁石、ボンド磁石などが含まれる。 これらは、電気モーター、発電機、センサー、磁気ロック システムなど、幅広い産業用および民生用アプリケーションに不可欠です。",
+    "url": "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模（2025～2034年）：製品別（フェライト、ネオ... — Aug 10, 2022 · 永久磁石市場シェア 永久磁石業界の上位5社には、日立金属株式会社、江門Magsource新材料有限公司、VACUUMSCHMELZE（VAC）、Arnold Magnetic Technologiesが含まれ、電子、自動車、再生可能エネルギー産業だけでなく、市場で強力な市場シェアを維持することを可能に ...",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石業界全体規模、国内外シェア、主要企業ランキング2024-... — Jun 28, 2024 · QYResearchが発行した最新市場調査レポート「永久磁石―グローバル市場シェアとランキング、全体の売上と需要予測、2024～2030」によると、永久磁石の世界市場規模は2030年までに220.6億米ドルに達し、予測期間中の年平均成長率は7.8%になると予測されています。",
+    "url": "https://www.qyresearch.co.jp/news/4821/permanent-magnets",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場,調査、規模、シェア、傾向、メーカーレポート洞察... — 永久磁石市場規模は、2025年の市場価値約750億米ドルから2035年までに約1680億米ドル達すると予想されています。 また、市場の成長は2026― 2035年の予測期間中に約9%のCAGRで成長すると推定されています。",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 永久磁石の世界市場（2025-2029）：セルキャストア... — 再生可能エネルギー分野では、特にネオジム（NdFeB）磁石などの永久磁石の使用が風力発電において不可欠です。 世界的な再生可能エネルギー源へのシフトが市場の成長を促進しています。",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の永久磁石市場規模（2025～2034年）：製品別（フェライト、ネオ... — Aug 10, 2022 · 日立金属は、ネオジム磁石よりも約80％安価なフェライト系磁石の生産に注力。 これらの酸化鉄フェライト磁石は、ほとんどの材料が容易に入手可能であったため、NEOMAXスーパー磁石よりもはるかに安価でした。",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "pass": 3
+   },
+   {
+    "quote": "【市場調査レポート】 世界の永久磁石市場（2025年～2029年）：製品別... — 市場は、風力エネルギー、再生可能エネルギー、電動工具、電気モーター、先進エネルギー貯蔵システム、電気自動車、ロボット工学、ラップトップなど、さまざまな分野での需要の高まりにより、著しい成長を遂げています。",
+    "url": "https://www.marketreport.jp/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Report 2025-2030 [250 Pages & 350 ... — Apr 29, 2026 · The global permanent magnet market size was valued at USD 58.87 billion in 2025 and is projected to reach USD 88.51 billion by 2030, growing at 8.5% cagr from 2025 to 2030.",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size, Share & Forecast Report 2025 ...Permanent Magnet Market Size, Share | CAGR of 8.4%Permanent Magnet Market Size, Share, Growth, 2034Permanent Magnets Market Size & Industry Report, 2035Permanent Magnet Market Size, Share, Trends & Growth 2034Permanent Magnets Market Size, Share & Outlook - reanin.com — Nov 4, 2019 · The global permanent magnets market was worth $21.0 ",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share | CAGR of 8.4% — In 2024, the Global Permanent Magnet Market was valued at US$ 35.2 billion, and between 2025 and 2034, this market is estimated to register a CAGR of 8.4%, reaching about US$ 78.9 billion by 2034.",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Growth, 2034 — Sep 3, 2026 · The global permanent magnet market size was valued at USD 31.84 billion in 2025 and is projected to grow from USD 34.21 billion in 2026 to USD 64.92 billion by 2034, registering a CAGR of 8.34% during the forecast period (2026–2034).",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size & Industry Report, 2035 — Oct 16, 2026 · The global permanent magnets market attained a value of nearly USD 43.20 Billion in 2025. The market is further expected to grow at a CAGR of 3.80% during the forecast period of 2026-2035 to reach a value of USD 62.73 Billion by 2035.",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Trends & Growth 2034 — Oct 12, 2026 · The global permanent magnet market size was valued at USD 32.07 billion in 2025 and is projected to grow from USD 34.6 billion in 2026 to USD 65.94 billion by 2034 at a CAGR of 8.30% during the forecast period of 2026-2034.",
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Drivers Report 2026-2030 — Permanent Magnet market size stood at $46.8 billion in 2026 and is projected to reach $71.68 billion by 2030 at a 11.2% CAGR. Key players: Hitachi Ltd., Shin-Etsu Chemical Co. Ltd., Daido Steel Co. Ltd.",
+    "url": "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Top key Companies Analysis 2026 to 2035 — Sep 15, 2026 · The Asia Pacific dominated the permanent magnet market with the largest revenue share of 65.00% in 2025, due to its rare-earth supply chain and diversified industrial base.",
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Report 2025-2030 [250 Pages & 350 ...Permanent Magnet Market Size, Share, Trends & Growth 2034Permanent Magnet Material Market 2025 to 2032Permanent Magnet Market Size & Share 2026-2035Permanent Magnet Companies - Top Players' List — Driver: Growing demand for permanent magnets due to increased deployment of wind turbines The growing demand for offshore wind turbines in Env",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Trends & Growth 2034 — Oct 12, 2026 · Asia Pacific dominated the permanent magnet market with a market share of 75% in 2025. A permanent magnet, widely known as a hard magnet, is an object that retains its magnetic properties even in the absence of a magnetizing force such as an inducing field or current.",
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Material Market 2025 to 2032 — Dec 15, 2025 · Regionally, Asia-Pacific is the largest market, holding a share of about 41%, due to extensive manufacturing activities and the rapid adoption of green technologies. This is followed by North America and Europe, with shares of 28% and 19%, respectively.",
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size & Share 2026-2035 — The Permanent Magnet Market share structure remains fragmented, with the five largest participants collectively accounting for approximately 29.0% of revenue in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Global NdFeB Permanent Magnets Market — Countries such as China, India, and Japan are actively investing in clean energy and advanced manufacturing, creating sustained demand for NdFeB magnets. Additionally, increasing electronics production and supportive government policies further accelerate regional market growth.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ndfeb-permanent-magnets-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnets Market Size, Share & Forecast Report 2025 ...Permanent Magnet Market Report 2025-2030 [250 Pages & 350 ...Permanent Magnet Market Size, Share, Trends & Growth 2034Permanent Magnet Market Size, Share, Growth, 2034Permanent Magnet Market Size, Share | CAGR of 8.4%north-america Permanent Magnet Market Size, Share,Trends ... — Nov 4, 2019 · The global permanent magnets market was wor",
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Report 2025-2030 [250 Pages & 350 ... — Apr 29, 2026 · Explore the global Permanent Magnet market, projected to reach USD 88.51 billion by 2030 at a CAGR of 8.5%. Get insights into types, applications, key players, and regional growth trends.",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share, Growth, 2034 — Sep 3, 2026 · Asia Pacific dominated the permanent magnet market with a market share of 74.68% in 2025. Permanent magnets are materials capable of generating a persistent magnetic field without requiring an external power source.",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "pass": 3
+   },
+   {
+    "quote": "Permanent Magnet Market Size, Share | CAGR of 8.4% — On the basis of applications, the permanent magnet market was dominated by consumer electronics with a market share of 36.4% in 2024. In 2024, the Asia Pacific was the biggest market for permanent magnets, constituting around 52.1% of the total market share, valued at approximately US$18.3 billion.",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.34",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです"
+   },
+   {
+    "value": "6.8",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "quote": "世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています"
+   },
+   {
+    "value": "9.4",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "永久磁石の世界市場規模は、2024年に460億米ドルとなり、年平均成長率9.4%で1,162億米ドルの成長が見込まれています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています"
+   },
+   {
+    "value": "9.0",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "導電性プラスチックコンパウンドの世界市場規模は2034年までにCAGR 9.0％で拡大する見通し"
+   },
+   {
+    "value": "11.20",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "バイオプロセスバリデーションのグローバル市場規模は2021年に2,246億8,730万ドル、2034年までにCAGR 11.20％で拡大する見通し"
+   },
+   {
+    "value": "13.5",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "光学イメージングの世界市場は、収益ベースで2022年に15億ドル規模と推定され、2022年から2027年にかけてCAGR13.5％で成長する見通しです"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "インラインカメラ検査システムのグローバル市場規模は2025年に16億6000万ドル、2030年までにCAGR 8.3％で拡大する見通し"
+   },
+   {
+    "value": "3.3",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "市場概要 世界の硬質フェライト磁石市場は2023年に29億米ドルに達し、2031年には37億米ドルに達すると予測され、予測期間2024-2031年のCAGRは3.3%で成長する見込みです"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は11.8%と見込まれ、2035年には456億米ドルに達すると予測される"
+   },
+   {
+    "value": "4.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "業界の専門家との議論から、希土類価格の変動が売上高ベースで基礎的な需要動向を見えにくくする中でも、世界の永久磁石出荷量は2022〜2025年に年平均成長率（CAGR）+4.6%で拡大したことが示されている"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "2026〜2035年の自動車セグメントの年平均成長率（CAGR）は14.8%"
+   },
+   {
+    "value": "13.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "2026〜2035年の洋上風力発電セグメントの年平均成長率（CAGR）は13.0%"
+   },
+   {
+    "value": "9",
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "quote": "永久磁石市場規模は、2024年から2029年の間にCAGR 9%で184.5億米ドル増加すると予測されている"
+   },
+   {
+    "value": "8.7",
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "quote": "• 世界市場の成長率（2025年から2032年までのCAGR）：8.7%"
+   },
+   {
+    "value": "8.4",
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "quote": "Permanent Magnet Market Size, Share | CAGR of 8.4%"
+   },
+   {
+    "value": "8.34",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "quote": "The global permanent magnet market size was valued at USD 31.84 billion in 2025 and is projected to grow from USD 34.21 billion in 2026 to USD 64.92 billion by 2034, registering a CAGR of 8.34% during the forecast period (2026–2034). Asia Pacific dominated the permanent magnet market with a market s"
+   },
+   {
+    "value": "9.6",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "quote": "(SmCo) segment is expected to grow at a CAGR of 9.6% during the forecast period due to increasing demand from aerospace, defense, and high-temperature industrial applications. Its excellent corrosion resistance and thermal stability make it suitable for mission-critical operating environments."
+   },
+   {
+    "value": "9.8",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "quote": "The bonded permanent magnets segment is expected to grow at a CAGR of 9.8% during the forecast period due to increasing demand for lightweight, complex-shaped magnetic components in automotive electronics, sensors, medical devices, and consumer electronics."
+   },
+   {
+    "value": "10.4",
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "quote": "The renewable energy segment is projected to grow at a CAGR of 10.4% during the forecast period due to the rapid expansion of offshore and onshore wind energy installations. Increasing adoption of direct-drive wind turbines equipped with permanent magnet generators is expected to sustain long-term d"
+   },
+   {
+    "value": "3.80",
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "quote": "CAGR of 3.80%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "74.68",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "アジア太平洋地域は、2025年に74.68%の市場シェアを占め、永久磁石市場を牽引しました"
+   },
+   {
+    "value": "67.8",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "ネオジム鉄ホウ素（NdFeB）セグメントは、その優れた磁気強度、高いエネルギー密度、および小型アプリケーションにおける優れた性能により、2025年には67.8%のシェアを占めました"
+   },
+   {
+    "value": "73.5",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "希土類磁石分野は、その優れた磁力、コンパクトなサイズ、そして電気自動車、風力タービン、産業オートメーション、家電製品などにおける幅広い用途により、2025年には73.5%のシェアを占めると予測されています"
+   },
+   {
+    "value": "34.7",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "自動車分野は、永久磁石同期モーターを使用する電気自動車およびハイブリッド車の生産増加により、2025年には34.7%のシェアを占める見込みです"
+   },
+   {
+    "value": "70",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている"
+   },
+   {
+    "value": "90",
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "quote": "国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "quote": "そのうち、バッテリー式電気自動車（BEV）が世界全体の販売台数の20％以上を占めています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "quote": "この期間、太陽光発電の成長は2倍以上となり、モジュールコストの低さと効率的な許認可手続きに後押しされ、世界の再生可能電力容量の拡大の80％近くを占める見込みです"
+   },
+   {
+    "value": "25",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "quote": "このうち、消費財およびエレクトロニクスのサブセグメントは、そのような機器の多くで永久磁石の需要が高いため、2035年末までに最大25%の最大市場シェアを保持すると予想されています"
+   },
+   {
+    "value": "34",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "quote": "アジア太平洋地域は、製造業におけるこの地域の重要性が高まっているため、2026－2035年に永久磁石市場で最大の収益シェアを最大34%保持すると予想されています"
+   },
+   {
+    "value": "36.2",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "quote": "米国商務省傘下の国際貿易局は、2020 年の日本の新車販売台数の 36.2% を新車販売台数が占めたと観測しています"
+   },
+   {
+    "value": "27",
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "quote": "当社のデータ洞察によると、この地域には大量のレアアース埋蔵量があるため、2035年末までに最大27%の第2位の市場シェアを保持するはずです"
+   },
+   {
+    "value": "54.55",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "ネオジム・鉄・ボロン系が2024年に54.55%のシェアを占めました"
+   },
+   {
+    "value": "49.94",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています"
+   },
+   {
+    "value": "39.13",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "アジア太平洋地域は、2023年に39.13%の市場シェアを獲得し、永久磁石市場で支配的な地位を占めています"
+   },
+   {
+    "value": "90",
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "quote": "日本は第3位の生産国であり、中国は世界のレアアース生産量の85～90%以上を占めているため、磁石用のネオジム鉄ホウ素磁石とサマリウム・コバルト磁石の供給チェーンにおいて極めて重要です"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "信越化学工業株式会社は、2025年に7.5%を超える市場シェアを獲得し、市場をリードした"
+   },
+   {
+    "value": "29.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "であり、2025年に合計29.0%の市場シェアを占めた"
+   },
+   {
+    "value": "70",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "2024年、中国は世界のレアアース採掘量の70%超、全加工量の87%を占めた"
+   },
+   {
+    "value": "87",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "2024年、中国は世界のレアアース採掘量の70%超、全加工量の87%を占めた"
+   },
+   {
+    "value": "64.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "焼結NdFeBは2025年に市場売上高の64.9%を占め、2035年には79.5%に達すると予測される"
+   },
+   {
+    "value": "79.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "焼結NdFeBは2025年に市場売上高の64.9%を占め、2035年には79.5%に達すると予測される"
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "ボンドNdFeBは2025年に市場収益の9.6%を占め、2035年までに45.8億米ドルに達すると予測される"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "フェライト磁石は2025年に33.4億米ドルを生み出し、2035年には市場収益の8.9%を占めると予測される"
+   },
+   {
+    "value": "1.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "サマリウムコバルトは2025年に市場収益の1.9%を占め、2035年までに4億7,800万米ドルを生み出すと予測される"
+   },
+   {
+    "value": "0.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "新興・代替磁性材料は2035年に市場収益の0.4%を占め、2026〜2035年に約24.6%の年平均成長率（CAGR）で成長すると予測される"
+   },
+   {
+    "value": "24.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "新興・代替磁性材料は2035年に市場収益の0.4%を占め、2026〜2035年に約24.6%の年平均成長率（CAGR）で成長すると予測される"
+   },
+   {
+    "value": "90.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "焼結磁石は2025年に市場収益の90.0%を占め、2035年までに407.9億米ドルを生み出すと予測される"
+   },
+   {
+    "value": "47.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "粒界拡散処理は2025年に23.0億米ドルを生み出し、2035年には焼結磁石収益の47.7%を占めると予測される"
+   },
+   {
+    "value": "13.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "ボンド磁石は2025年に市場収益の9.6%を占め、2026〜2035年に約13.0%の年平均成長率（CAGR）で成長すると予測される"
+   },
+   {
+    "value": "16.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "quote": "BEV駆動用サブセグメントは2035年までに142.8億米ドルに達すると予測され、2025年には市場需要全体の16.0%を占めた"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B0%B8%E4%B9%85%E7%A3%81%E7%9F%B3%E5%B8%82%E5%A0%B4-102776",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/permanent-magnets-market-121109",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mktsdata.com/permanent-magnet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.co.jp/news/4821/permanent-magnets",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/reports/799946/permanent-magnets",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreport.jp/permanent-magnets-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dataintelo.com/report/permanent-magnets-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/permanent-magnets-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidated.com/support/billing-support/my-account",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consbrgs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trade.gov/consolidated-screening-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ndfeb-permanent-magnets-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/permanent-magnet-market/north-america",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "永久磁石 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776",
+    "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/permanent-magnets-market-121109",
+    "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "https://www.gii.co.jp/report/tbrc1928036-permanent-magnet-global-market-report.html",
+    "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market"
+   ]
+  },
+  {
+   "query": "永久磁石 市場 シェア 上位 企業",
+   "results": [
+    "https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market",
+    "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776",
+    "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "https://www.mktsdata.com/permanent-magnet/",
+    "https://straitsresearch.com/jp/report/permanent-magnet-market",
+    "https://www.qyresearch.co.jp/news/4821/permanent-magnets",
+    "https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market",
+    "https://www.yhresearch.co.jp/reports/799946/permanent-magnets"
+   ]
+  },
+  {
+   "query": "永久磁石 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776",
+    "https://www.sdki.jp/reports/permanent-magnet-market/61820",
+    "https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html",
+    "https://www.globalresearch.co.jp/permanent-magnets-market/",
+    "https://www.mktsdata.com/permanent-magnet/",
+    "https://www.marketreport.jp/permanent-magnets-market",
+    "https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/"
+   ]
+  },
+  {
+   "query": "permanent magnet market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "https://dataintelo.com/report/permanent-magnets-market",
+    "https://market.us/report/permanent-magnets-market/",
+    "https://straitsresearch.com/report/permanent-magnet-market",
+    "https://www.expertmarketresearch.com/reports/permanent-magnets-market",
+    "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "https://www.reanin.com/reports/permanent-magnets-market",
+    "https://www.grandviewresearch.com/industry-analysis/permanent-magnets-industry"
+   ]
+  },
+  {
+   "query": "permanent magnet market share top players percent",
+   "results": [
+    "https://www.thebusinessresearchcompany.com/report/permanent-magnet-global-market-report",
+    "https://www.towardschemandmaterials.com/insights/permanent-magnet-market",
+    "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "https://www.intelmarketresearch.com/permanent-magnet-material-market-11023",
+    "https://www.gminsights.com/industry-analysis/permanent-magnet-market",
+    "https://www.mordorintelligence.com/industry-reports/permanent-magnet-market/companies",
+    "https://www.futuremarketinsights.com/reports/high-performance-permanent-magnet-market"
+   ]
+  },
+  {
+   "query": "permanent magnet market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://www.consolidated.com/support/billing-support/my-account",
+    "https://consolidatednd.com/",
+    "https://consbrgs.com/",
+    "https://www.trade.gov/consolidated-screening-list",
+    "https://nebnet.net/",
+    "https://consolidated.nyc/",
+    "https://conmet.com/"
+   ]
+  },
+  {
+   "query": "permanent magnet market key companies share 2025",
+   "results": [
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-ndfeb-permanent-magnets-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://dataintelo.com/report/permanent-magnets-market",
+    "https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html",
+    "https://www.fortunebusinessinsights.com/permanent-magnet-market-102776",
+    "https://straitsresearch.com/report/permanent-magnet-market",
+    "https://market.us/report/permanent-magnets-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/permanent-magnet-market/north-america"
+   ]
+  }
+ ],
+ "missing": {}
+}

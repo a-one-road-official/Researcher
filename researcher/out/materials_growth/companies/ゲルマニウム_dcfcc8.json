@@ -1,0 +1,2040 @@
+{
+ "name": "ゲルマニウム",
+ "en": "germanium",
+ "aliases": [
+  "germanium metal",
+  "ゲルマニウム"
+ ],
+ "context": "レアメタル・防衛赤外線",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:33:14.948299+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場規模、シェア、トレンド分析レポート：用途別（電子機器、光学機器、太陽電池、赤外線システム、その他の用途）、製品タイプ別（多結晶ゲルマニウム、単結晶ゲルマニウム、ゲルマニウム化合物）、最終用途産業別（電気通信、自動車、家電、軍事・防衛、その他の産業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のゲルマニウム市場規模は、2025年には2億7454万米ドルと評価され、2026年の2億8571万米ドルから2034年には3億9313万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場規模は、2026年には2億8571万米ドルと評価され、2034年までに3億9313万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%である",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.07%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄筋市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analytics（本社：東京都渋谷区）は、このたび、2026年01月05に「四塩化ゲルマニウム市場調査レポート：2026-2035年の市場規模、シェア、傾向の予測」を発表しました",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場に関する当社の調査レポートによると、四塩化ゲルマニウム市場規模は 2035 年に約 500 百万米ドルに達すると予想されています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025 年の 四塩化ゲルマニウム市場規模は約 330 百万米ドルとなっています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウムに関する市場調査レポートでは、市場は 2026-2035 年の予測期間中に約 3.9% の CAGR で成長するとも述べられています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "この点に関して、世界経済フォーラムによると、日本政府は国内半導体生産体制の強化のために2兆円を投じており、これが四塩化ゲルマニウム市場を支える要因となっています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバ用ゲルマニウム四塩化物 市場規模、成長、予測 2032",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "世界の光ファイバー用四塩化ゲルマニウム市場規模は2025年に2億3,005万ドルで、このレポートは2026年から2032年までの市場の成長、傾向、機会、予測をカバーしています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の市場規模",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模予測",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー用四塩化ゲルマニウム市場は、強いフォトニクス需要、5Gバックホールのアップグレード、クラウドデータトラフィックによりファイバーの展開があらゆる地域に深く浸透しており、世界中で勢いが持続する見通しです",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年に 10.00% の存在感を示す日本市場は、2031 年までに 2,301 万から 3,452 万に増加する可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー用四塩化ゲルマニウム市場は適度に集中した構造を示しており、少数の垂直統合型メーカーが2024年に世界の2億1,500万米ドルの業界で大きなシェアを占めることになる",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "これら 2 つのグレードの総合的な魅力により、光ファイバー用四塩化ゲルマニウム市場は持続的な拡大に向けて導かれています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "– Lumera Photonics (2023 年 6 月、Million 98.20): 中空コアファイバー製造用の高度なドーパント配合を獲得",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "高純度ゲルマニウム市場規模、シェアおよび2036年の予測",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 363.3 Mn",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 384.7 Mn",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 681.2 Mn",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年にはUSD 384.7百万5.9% CAGR、2036年にはUSD 681.2百万に増加します",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fact.MR市場分析によると、2025年の高純度ゲルマニウム市場は",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 363.3百万",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 384.7 百万",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 681.2 百万",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2036年の間にUSD 296.5百万の絶対的な機会が生まれました",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の悪化等により厳しい状況が続いてきたパワーデバイス市場は、在庫解消の兆しが見えつつあり、2026年以降の市場拡大が見込まれます",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2.市場規模推移・予測",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3.エリア別市場規模推移・予測",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "5.エリア別パワーデバイス市場規模推移・予測 22",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、2025年のワイドバンドギャップ半導体単結晶世界市場を調査し、各材料別の市場規模、製品・開発・技術・市場・プレーヤーの動向について、明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のワイドバンドギャプ半導体単結晶（SiC、GaN、Ga2O3、ダイヤモンドの合計）世界市場は、メーカー出荷金額ベースで2,869億円の見込みである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "成長率は材料により幅があるが、2035年のワイドバンドギャプ半導体単結晶（SiC、GaN、Ga2O3、ダイヤモンドの合計）世界市場は8,298億円になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "本調査におけるワイドバンドギャップ半導体単結晶市場は、SiC、GaN、Ga2O3、ダイヤモンドを対象とし、メーカー出荷金額ベースで算出した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "金属ゲルマニウムの世界市場（2026年～2032年）、市場規模（天然ゲルマニウム、再生ゲルマニウム）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "金属ゲルマニウムの世界市場（2026年～2032年）、市場規模（天然ゲルマニウム、再生ゲルマニウム）・分析レポートを発表",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "世界のゲルマニウム金属市場規模は、2025年の2億7,600万米ドルから2032年には3億9,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "米国のゲルマニウム金属市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "中国のゲルマニウム金属市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のゲルマニウム金属市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別の世界の歴史的レビュー」には、2021年から2026年までの地域別および国/地域別の世界の金属ゲルマニウム市場規模に関する歴史的レビューが詳細に記載されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は2025年に3億4,576万米ドルと評価され、2026年には3億6,262万米ドルに成長し、CAGR5.16％で推移し、2032年までに4億9,195万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のゲルマニウム市場規模は、2025年には2億7454万米ドルと評価され、2026年の2億8571万米ドルから2034年には3億9313万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウムはこれらのファイバーの製造に不可欠であり、5Gや光ファイバーネットワークを含む通信インフラの世界的な拡大が、大きな需要を生み出しています",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー製造におけるゲルマニウム消費を促進する主な要因は、アジア太平洋地域全体における高速インターネットへのニーズと、5Gネットワ​​ークの継続的な拡大です",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場規模は、2026年には2億8571万米ドルと評価され、2034年までに3億9313万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%である",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.07%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウムに関する市場調査レポートでは、市場は 2026-2035 年の予測期間中に約 3.9% の CAGR で成長するとも述べられています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsの専門家によると、四塩化ゲルマニウム市場シェアの成長は、高速インターネット、クラウドコンピューティング、5Gネットワークといった高度な電気通信インフラの世界的な展開に伴う光ファイバーの普及拡大によるものです",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年までに、光ファイバー分野における四塩化ゲルマニウムの需要は年平均成長率（CAGR）5.5%で増加すると予測されており、これは主に5Gネットワークの展開によって牽引される可能性があります",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "7.00% CAGR",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "Reportprime は、全体の収益が 2025 年の 2 億 3,005 万から 2031 年までに 3 億 4,524 万に増加し、CAGR 7.00% になると予測しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "7.00% の世界的な CAGR を反映するペースで、2,880 万が追加されます",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "約22.00%のシェアを占めると予想されているヨーロッパは、7.00%のCAGRを追跡しながら、2025年の5,061万人から2031年には7,595万人に拡大し、2,534万人が追加される可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "18.00% 付近のスライスから始まり、地域価値は 2031 年までに 4,141 万から 6,214 万に上昇し、約 7.00% の CAGR で 2,073 万の増分ボリュームを実現する可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "これは 7.00% の CAGR と並行して 1,151 万の増加となります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "世界価値の約 5.00% と予測されると、韓国は 2025 年の 1,150 万から 2031 年までに 1,726 万に増加し、7.00% の堅実な CAGR で 576 万が追加される可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年には約 15.00% に相当し、米国セグメントだけでも 2031 年までに 3,451 万から 5,179 万に増加し、同じ 7.00% の CAGR で 1,728 万の増分価値を生み出すと予測されています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2036):",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年にはUSD 384.7百万5.9% CAGR、2036年にはUSD 681.2百万に増加します",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.9% CAGR",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026年から2036年",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツは2036年まで 7.6% CAGR を記録する見込みです",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "2036年までに高純度ゲルマニウム市場を拡大している国はどこですか?",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2036)",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.6% CAGRは、国内の産業電子機器および光学技術基盤によって支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.9% CAGR、専門的な電子工学や研究用途からの潜在的な需要に支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "6.3% CAGRは、放射線検出や特殊な半導体材料の確立された応用によって形作られました",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.6% CAGRは英国が主導しています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.0% CAGRは、日本の専門的な電子機器・材料製造の役割に支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 5.16%",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.16%です",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 5.16%",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.16%です",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "市場環境の悪化等により厳しい状況が続いてきたパワーデバイス市場は、在庫解消の兆しが見えつつあり、2026年以降の市場拡大が見込まれます",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本国内ではコンソーシアムも形成される模様で、Ga2O3の標準化やデバイスの普及拡大を目標としている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "成長率は材料により幅があるが、2035年のワイドバンドギャプ半導体単結晶（SiC、GaN、Ga2O3、ダイヤモンドの合計）世界市場は8,298億円になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "世界のゲルマニウム金属市場規模は、2025年の2億7,600万米ドルから2032年には3億9,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "米国のゲルマニウム金属市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "中国のゲルマニウム金属市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のゲルマニウム金属市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると予測されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場は2025年に3億4,576万米ドルと評価され、2026年には3億6,262万米ドルに成長し、CAGR5.16％で推移し、2032年までに4億9,195万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 5.16%",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは5.16%です",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2034",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Purity (projected at an 8.7% CAGR, driven by low-loss optical fibers, 5G broadband expansion, and advanced semiconductor doping)",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fiber Optics (projected at an 8.9% CAGR, propelled by surging global internet traffic, 5G rollouts, and autonomous LiDAR systems)",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (high-growth hub at a 7.8% CAGR, spurred by domestic semiconductor investments like the CHIPS Act and recycling initiatives)",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global germanium market size was valued at USD 332.45 million in 2025 and is anticipated to reach USD 344.82 million in 2026 from USD 461.84 million by 2034, growing at a CAGR of 3.72% during the forecast period from 2026 to 2034.",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to grow at a modest CAGR (3–5%), supported by defense modernization, fiber infrastructure expansion, and strategic stockpiling—though growth will hinge on diversification success, recycling scale-up, and tech innovation beyond traditional uses.",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (20262033): 3.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 3.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global germanium market is expected to grow at a CAGR of 3.4% from 2026 to 2033, reaching USD 436.9 million by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 with a compound annual growth rate",
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ゲルマニウム市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "参入障壁 (100 ワード)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "— 四塩化ゲルマニウム分野への参入には資本集約型です",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "特許で保護された精製工程と湿気のない配送を保証する世界的な物流能力の必要性と相まって、これらの要因が総合的に新規参入を阻止し、現在の寡占構造を強化しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的バイヤー、特殊化学大手、プライベート・エクイティ・ファンドはいずれも、供給を確保し、隣接する価値プールに参入し、レポートプライムが予測する2031年までのCAGR 7.00%を達成するために、ボルトオンおよび変革的な取引を追求してきた",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー市場向け四塩化ゲルマニウムは競争が激しく、いくつかの主要企業が市場シェアを争っています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "このレポートは、戦略的意思決定、市場参入、製品開発、および投資機会に関する重要な情報を提供するため、電気通信、光ファイバー、およびエレクトロニクス業界の利害関係者にとって不可欠です",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "主な企業は以下の通りです:",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場に参入している主要企業はどこですか？",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場に参入している主要企業はどこですか？",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "溶液法によるSiCウエハー製造増加、市場参入見通し",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "世界のゲルマニウム金属の主要企業には、Yunnan Germanium、Chihong Zn&Ge、China Germanium、Shenzhen Zhongjin Lingnan、Sichuan Shengtun Zinc Germanium などがあります",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "また、ゲルマニウム金属のポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析することで、加速する世界のゲルマニウム金属市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "また、新製品や市場への潜在的な新規参入企業、市場におけるM&A活動と戦略についても触れられています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入企業は、二酸化ゲルマニウム、金属ゲルマニウム、四塩化ゲルマニウムに注力し、それぞれ異なる加工工程、純度基準、物流上の考慮事項が求められます",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies:",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional, and Country Level Analysis; Segment-Level Analysis, DROC; PESTLE Analysis; Porter’s Five Forces Analysis; Competitive Landscape; Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Teck Resources Limited and China Germanium Co., Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the germanium market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Teck Resources Limited, Yunnan Chihong Zinc & Germanium Co., Ltd., Umicore, JSC Germanium, China Germanium Co., Ltd., 5N Plus, Noah Chemicals, AXT, Inc., PPM Pure Metals GmbH, and Indium Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players leveraging the germanium market growth?",
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players in the global germanium market include Yunnan Chihong Zinc & Germanium Co., Ltd., Umicore, Teck Resources Limited, JSC Germanium, PPM Pure Metals GmbH, Indium Corporation, China Germanium Co., Ltd., AXT, Inc., 5N Plus, Noah Chemicals, among others.",
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Key Players",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the Germanium Market",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Germanium Market",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dollar sales by type and application categories, regional production trends across Asia Pacific, North America, and Europe, competitive landscape with specialty materials producers and refining companies, material specifications and purity requirements, integration with fiber optic manufacturing facilities and electronics production operations.",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Featuring profiles of key companies involved in the germanium value chain, the report equips readers with the competitive landscape they need to benchmark strategy and identify partnership or investment prospects.",
+    "url": "https://finance.yahoo.com/news/germanium-market-set-strategic-growth-144100595.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players & Competitive Analysis",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Industry Trends",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Who are the key players in the market?",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "“From a thousand applicants, we were selected as one of the top 40 deep-tech startups in Europe,” the Groove Quantum team writes in",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": "The company was one of 40 European ‘deep-tech’ startups to receive the funding.",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "“From a thousand applicants, we were selected as one of the top 40 deep-tech startups in Europe,” the company wrote on LinkedIn. “This milestone enables us to keep scaling up qubit counts rapidly while maintaining state-of-the-art fidelities, bringing practical quantum computing closer to reality.“",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Business & Startups",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenty of cash for AI and its enablers; 80 startups raise over $6B.",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ". This investment includes a €2.5 million ($2.95 million USD) grant component. Groove Quantum was selected as one of 40 deep-tech startups in Europe to receive this funding. The investment is intended to enable Groove Quantum to increase qubit counts while maintaining current fidelities, supporting the advancement of quantum computing toward practical applications.",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nexus, powered by GQI, connects quantum startups and investors through verified profiles and strategic matchmaking.",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Mitsubishi Materials.",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "JX Nippon Mining and Metals Corporation.",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Gécamines · Mitsubishi Materials. · UCL Resources. · JER Group. · Nippon Germanium.",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、ジェカミン、三菱マテリアル、UCLリソーシズ、JERグループ、日本ゲルマニウムなどである",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "この点に関して、世界経済フォーラムによると、日本政府は国内半導体生産体制の強化のために2兆円を投じており、これが四塩化ゲルマニウム市場を支える要因となっています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は化学物質審査規制法（化審法）を施行しており、上市前の評価と承認が義務付けられています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "これに加えて、日本市場のトップ 5 プレーヤーは次のとおりです:",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "● Mitsubishi Chemical Corporation",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "● Sumitomo Electric Industries, Ltd.",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "● Showa Denko K.K. (Resonac Holdings)",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan Top Story",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、韓国、日本では積極的な繊維化のおかげで消費を牽引しているが、",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年に 10.00% の存在感を示す日本市場は、2031 年までに 2,301 万から 3,452 万に増加する可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "日本 | 10.00% | 10.00% | 7.00%",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "三菱化学グループ",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "信越化学工業",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "イギリスは 5.6%位、日本は 5.0%位と予想されています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本での養子縁組を支えるものは何ですか?",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.0% CAGRは、日本の専門的な電子機器・材料製造の役割に支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高純度ゲルマニウム市場は、先進的な電子産業と半導体研究および精密計測機器の強力な能力によって支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "国別分析では、ドイツ、ブラジル、アメリカ、英国、日本と、ゲルマニウム供給および関連産業部門に関連する公式指標が取り上げられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ;ブラジル、アメリカ合衆国、イギリス、日本",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "5N Plus Inc.、ADVANCED MATERIAL JAPAN CORPORATION、American Elements、AXT, Inc.などです",
+    "url": "https://newscast.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "5N Plus Inc.、ADVANCED MATERIAL JAPAN CORPORATION、American Elements、AXT, Inc.などです",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本国内ではコンソーシアムも形成される模様で、Ga2O3の標準化やデバイスの普及拡大を目標としている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンドは世界的に日本がけん引している材料でもある",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "セルマーク・ジャパン株式会社 CellMark Japan",
+    "url": "https://mono.ipros.com/cg1/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾といった主要国/地域の市場状況についても個別に記述されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：金属ゲルマニウムの世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Canada, Mexico, Germany, UK, Spain, Russia, India, China, Japan, South Korea, Brazil, UAE",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America (US, Canada), Europe (Germany, UK, France, Italy, Spain, Russia, Poland, Rest of Europe), Asia Pacific (China, India, Japan, South Korea, Australia, ASEAN Countries, Rest of Asia Pacific), Middle East & Africa (UAE, Saudi Arabia, Qatar, South Africa, Rest of Middle East & Africa), Latin America (Brazil, Argentina, Mexico, Colombia, Rest of Latin America).",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Germany grows at 3.8%, with advanced optical engineering capabilities and strong electronics processing sector. Japan advances at 3.6%, emphasizing high-purity germanium applications through advanced refining technologies and semiconductor industry requirements, while Canada grows steadily at 3.4%, focusing on resource extraction advantages and proximity to key North American markets.",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Shows High-Purity Excellence",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Japan Market Share Analysis By Type | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Technology collaboration between Japanese companies and international germanium suppliers is expanding supply capabilities",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "India, China, USA, South Korea, Germany, Japan, Canada, and 40+ countries",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "JP - Japan",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific region dominates the global germanium market, both as the leading producer and largest consumer. This is underpinned by major electronics manufacturing hubs in China, Japan, South Korea, and India, extensive deployment of fibre optic infrastructure, and China’s position as the world’s top producer, accounting for around 60% of total output.",
+    "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/",
+    "pass": 3
+   },
+   {
+    "quote": "Demand is especially strong in technologically advanced nations including Japan, South Korea, and Western countries focused on next-generation electronics.",
+    "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/",
+    "pass": 3
+   },
+   {
+    "quote": "Murata",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Ventures",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Shin-Etsu Chemical",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場規模、シェア、トレンド分析レポート：用途別（電子機器、光学機器、太陽電池、赤外線システム、その他の用途）、製品タイプ別（多結晶ゲルマニウム、単結晶ゲルマニウム、ゲルマニウム化合物）、最終用途産業別（電気通信、自動車、家電、軍事・防衛、その他の産業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.6%の市場シェアを占め、ゲルマニウム市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Project Blueによると、2023年には、中国は世界のアンチモン採掘量の48％、精製ゲルマニウム（59.2％）および精製ガリウム（98.8％）生産量のかなりの部分を占めていた",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のゲルマニウム市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄筋市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analytics（本社：東京都渋谷区）は、このたび、2026年01月05に「四塩化ゲルマニウム市場調査レポート：2026-2035年の市場規模、シェア、傾向の予測」を発表しました",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsの専門家によると、四塩化ゲルマニウム市場シェアの成長は、高速インターネット、クラウドコンピューティング、5Gネットワークといった高度な電気通信インフラの世界的な展開に伴う光ファイバーの普及拡大によるものです",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analyticsの調査によると、アジア太平洋地域が光ファイバーの敷設を主導しており、2024年には中国が世界の光ファイバー生産量の約55－60%を占め、市場需要の高さを示しています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、通信セグメントが予測期間中に市場を牽引し、40%の市場シェアを占めると予想されています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの地域のうち、アジア太平洋地域は予測期間中に35%という最大の市場シェアを占めると予想されています",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "pass": 3
+   },
+   {
+    "quote": "約22.00%のシェアを占めると予想されているヨーロッパは、7.00%のCAGRを追跡しながら、2025年の5,061万人から2031年には7,595万人に拡大し、2,534万人が追加される可能性があります",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "注目すべき20.00%のシェアを誇る中国は、2031年までに4,601万人から6,905万人に急増する可能性があり、7.00%の軌道でさらに2,304万人増加する可能性がある",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "地域 | 2025年シェア | 2031 シェア | CAGR",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年までの上位 3 地域のシェア",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "北米の 25% という圧倒的なシェアは、Tier-1 ケーブル メーカーと特殊化学品サプライヤーとの緊密な提携によって生まれ、迅速な契約サイクルとプレミアム価格設定を可能にしています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは 22% を占め、国境を越えた産業クラスターを活用しています",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバー用四塩化ゲルマニウム市場は適度に集中した構造を示しており、少数の垂直統合型メーカーが2024年に世界の2億1,500万米ドルの業界で大きなシェアを占めることになる",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバル光ファイバ用ゲルマニウム四塩化物販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 タイプ別のグローバル光ファイバ用ゲルマニウム四塩化物収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "高純度ゲルマニウム市場規模、シェアおよび2036年の予測",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別:結晶は2026年の市場の 48.5% を占め、検出器や特殊な半導体用途における結晶材料の重要性を反映しています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別:放射線検出は2026年に市場をリードし、シェア 25.4% しています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー産業別:電子分野は2026年に 35.6% シェアを占めており、専門的な電子・光学システムにおけるゲルマニウムの利用によって支えられています",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "クリスタルは2026年に 48.5% シェアを保つ見込みです",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "シェア(2026年)",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線検知は2026年に 25.4% シェアを占める見込みです",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器は2026年の 35.6% シェアを占める可能性が高いです",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント分析は、指定された製品タイプ、用途、エンドユーザー業界を2026年のシェアを用いて比較します",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "クリスタルは2026年のシェア 48.5% 占める予定です",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.マーケットシェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "4.マーケットシェア",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "先行するSiC単結晶ウエハーは6インチサイズが市場のほとんどを占め、8インチサイズのウエハーが徐々に増えつつある",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "pass": 3
+   },
+   {
+    "quote": "売上高では、2025年に世界の上位2社が市場シェアの約%を占めました",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "また、天然ゲルマニウムとリサイクルゲルマニウムというタイプ別の金属ゲルマニウムセグメントについて、2021年から2026年までの世界市場における販売量市場シェア、収益と市場シェア、および販売価格が分析されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、IR光学、太陽電池、光ファイバー通信、その他といった用途別の金属ゲルマニウムセグメントについても、同様に2021年から2026年までの世界市場における販売量市場シェア、収益と市場シェア、および販売価格の詳細な要約が収録されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の年間販売量と販売量市場シェア、年間収益と収益市場シェア、および企業別の販売価格のデータが提供されています",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "Though niche, germanium substrates remain essential for high-efficiency multi-junction solar cells in space and concentrated PV; research into germanium-tin alloys for silicon photonics and thermophotovoltaics could open new demand avenues post-2030.",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Germanium ingot segment led the market with the largest revenue share of 34.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Fiber optics segment led the market with the largest revenue share of 44.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the market with revenue share of 43.8% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The fiber optics segment led the market with the largest revenue share of 44.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The germanium ingot accounted for largest revenue share of 34.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By Type, Germanium Ingot dominated in 2025 with largest share; High Purity GeO2 growing at the fastest CAGR.",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Ingot dominated; High Purity GeO2 is growing at the fastest CAGR.",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Europe Country Market Share Analysis, 2025 & 2035 | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The germanium market features approximately 15-20 meaningful players with moderate to high concentration, where the top three companies control roughly 30-40% of global production capacity through established refining operations and extensive customer relationships across electronics and telecommunications sectors.",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "These companies leverage established extraction facilities and ongoing capacity optimization initiatives to defend market positions while expanding into adjacent high-purity germanium applications and specialty material markets. Yunnan Chihong Zinc & Germanium Co., Ltd. commands approximately 11.8% market share through integrated mining operations and strategic positioning in Asian markets.",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "\"Germanium - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026-2031)\"",
+    "url": "https://finance.yahoo.com/news/germanium-market-set-strategic-growth-144100595.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global germanium market with a 58.80% revenue share in 2025. This is owing to the growing demand for solar applications such as CPV and space-based systems.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The germanium ingot segment held the largest market share of 45.10% in 2025. The use of high-quality crystalline germanium in electronics, solar, and optical fields contributes to the segment’s leading market share.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ゲルマニウム市場規模 ・産業展望レポート2031 — ゲルマニウム市場規模 ・産業展望レポート2031 Mordor Intelligence https://www.mordorintelligence.com > germanium-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム Market Forecast 2026-2033: 年平均成長率 ... — ゲルマニウム Market Forecast 2026-2033: 年平均成長率 ... LinkedIn https://jp.linkedin.com > pulse > ゲルマニウム-market-for...",
+    "url": "https://jp.linkedin.com/pulse/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0-market-forecast-2026-2033-%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr67%E3%81%A7%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E6%88%90%E9%95%B7%E3%82%92%E8%A6%8B%E8%BE%BC%E3%82%80-s0ece",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場規模 、シェア | 成長 研究 - 2035 — ゲルマニウム市場規模 、シェア | 成長 研究 - 2035 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/germanium-market-109970",
+    "pass": 3
+   },
+   {
+    "quote": "光ファイバ用 ゲルマニウム 四塩化物 市場規模 、 成長 、予測 2032 — 光ファイバ用 ゲルマニウム 四塩化物 市場規模 、 成長 、予測 2032 Report Prime https://www.reportprime.com > 光ファイバ用ゲルマニウ...",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "pass": 3
+   },
+   {
+    "quote": "高純度 ゲルマニウム市場 規模、シェアおよび2036年の 予測 — 高純度 ゲルマニウム市場 規模、シェアおよび2036年の 予測 Fact.MR https://www.factmr.com > 産業財",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "ゲルマニウム市場 規模・産業展望レポート2031 — ゲルマニウム市場 規模・産業展望レポート2031 Mordor Intelligence https://www.mordorintelligence.com > germanium-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属 ゲルマニウム の世界市場（2026年～2032年） - Newscast.jp — 金属 ゲルマニウム の世界市場（2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/3450660",
+    "pass": 3
+   },
+   {
+    "quote": "高純度 ゲルマニウム 市場規模、シェアおよび2036年の予測 — 高純度 ゲルマニウム 市場規模、シェアおよび2036年の予測 Fact.MR https://www.factmr.com > 産業財",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size , Share, Growth, Trend & Analysis 2034 — Germanium Market Size , Share, Growth, Trend & Analysis 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size , Share & Trends Report, 2026-2033 — Germanium Market Size , Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size , Share, Trends & Forecast 2034 — Germanium Market Size , Share, Trends & Forecast 2034 Zion Market Research https://www.zionmarketresearch.com > ...",
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size , Share & Growth Report 2035 — Germanium Market Size , Share & Growth Report 2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size to Reach USD 423 Million by 2034 at ... — Germanium Market Size to Reach USD 423 Million by 2034 at ... LinkedIn https://www.linkedin.com > pulse > g...",
+    "url": "https://www.linkedin.com/pulse/germanium-market-size-reach-usd-423-million-2034-l41xf",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size & Industry Outlook Report 2031 — Germanium Market Size & Industry Outlook Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size, Share & Trends Report, 2026-2033 — Germanium Market Size, Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market | Global Market Analysis Report - 2035 — Germanium Market | Global Market Analysis Report - 2035 Fact.MR https://www.factmr.com > report > ge...",
+    "url": "https://www.factmr.com/report/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Germanium Market Size, Share, Growth, Trend & Analysis 2034 — Germanium Market Size, Share, Growth, Trend & Analysis 2034 Market Data Forecast https://www.marketdataforecast.com > ...",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum Secures €10 Million to Scale Germanium ... — Groove Quantum Secures €10 Million to Scale Germanium ... The Quantum Insider https://thequantuminsider.com > groo...",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum receives €10m in EIC funding for germanium ... — Groove Quantum receives €10m in EIC funding for germanium ... Data Center Dynamics https://www.datacenterdynamics.com > ...",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum gets €10M for germanium quantum computing — Groove Quantum gets €10M for germanium quantum computing LinkedIn https://www.linkedin.com > posts > q...",
+    "url": "https://www.linkedin.com/posts/quantumtech-frontier_groove-quantum-secures-10-million-eic-accelerator-activity-7345829273254944770-XrnG",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "North America (high-growth hub at a 7.8% CAGR, spurred by domestic semiconductor investments like the CHIPS Act and recycling initiatives)",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Since implementing licensing requirements in mid-2023, China’s policy has tightened supply, spurred strategic stockpiling in the EU and U.S., and accelerated investments in alternative sourcing—making supply chain transparency and ethical provenance key competitive differentiators.",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rising investments in 5G networks,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific held the leading market share in 2025, fueled by growing demand for solar applications such as CPV and space-based systems, as well as increasing investment in 5G networks and broadband. Industrialization, electronics production, and adoption of high-performance devices are driving germanium applications in semiconductors, photonics, and IR optics.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The European germanium market obtained large market shares in 2025 due to huge investments in digital infrastructure, broadband expansion and the intelligent grid. The International Energy Agency states that the European Union's plan of action for the electricity grid, released late in 2022, estimates investments of around USD 633 billion by 2030 in order to upgrade and extend the grid.",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "The fiber optics segment is projected to witness the fastest growth during the forecast period, propelled by global investments in 5G networks, data centers, and high-speed communication infrastructure",
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America represents the fastest-growing regional market, fuelled by demand in aerospace, defence, and renewable energy. Investment in 5G infrastructure, requiring germanium-doped fibre optics, as well as thermal imaging and satellite solar panels for military and space applications, is driving growth.",
+    "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum secured €10 million in EIC Accelerator funding to scale its germanium-based quantum chip technology.",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum, based in Delft, was one of only 40 companies selected from over 1,000 applicants across Europe to receive funding under the EIC Accelerator program, according to",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": ". The award includes a €2.5 million grant and additional equity investment from the EIC Fund, which aims to back high-risk, high-impact technologies in sectors such as deep tech and advanced computing.",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": "Nord Quantique Secures $10 Million DARPA Funding Extension",
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum receives €10m in EIC funding for germanium quantum technology development - DCD",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum Brasil 2026",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum India 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum New York 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum Southern Europe 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum APAC 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum London 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum LATAM 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Forum MENA 2027",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum receives €10m in EIC funding for germanium quantum technology development",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum has secured €10 million ($11.8m) in funding through the European Innovation Council (EIC) Accelerator program, including a €2.5m ($2.95m) grant.",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "The company was one of 40 European ‘deep-tech’ startups to receive the funding.",
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Funding: Q4 2025",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion.",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$100.0M in Series B investment",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ", plus seed and Series A rounds totaling $40.0M led by",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$40.0M in strategic funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "INR 384.0M (~$4.3M) in Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$475.0M in seed funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$275.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$220.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$125.0M in funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "over $100.0M in Series A and seed financing",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$46.0M in seed and Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum Secures €10M ($11.8M USD) EIC Accelerator Funding for Germanium-Based Quantum Computing - Quantum Computing Report",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   },
+   {
+    "quote": "Groove Quantum Secures €10M ($11.8M USD) EIC Accelerator Funding for Germanium-Based Quantum Computing",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Delft-based company developing germanium-based quantum computing technology, has secured €10 million ($11.8 million USD) in funding through the",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   },
+   {
+    "quote": ". This investment includes a €2.5 million ($2.95 million USD) grant component. Groove Quantum was selected as one of 40 deep-tech startups in Europe to receive this funding. The investment is intended to enable Groove Quantum to increase qubit counts while maintaining current fidelities, supporting the advancement of quantum computing toward practical applications.",
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.07",
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "quote": "世界のゲルマニウム市場規模は、2025年には2億7454万米ドルと評価され、2026年の2億8571万米ドルから2034年には3億9313万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%となる見込みです"
+   },
+   {
+    "value": "5.5",
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "quote": "2030年までに、光ファイバー分野における四塩化ゲルマニウムの需要は年平均成長率（CAGR）5.5%で増加すると予測されており、これは主に5Gネットワークの展開によって牽引される可能性があります"
+   },
+   {
+    "value": "7.00",
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "quote": "Reportprime は、全体の収益が 2025 年の 2 億 3,005 万から 2031 年までに 3 億 4,524 万に増加し、CAGR 7.00% になると予測しています"
+   },
+   {
+    "value": "5.16",
+    "url": "https://newscast.jp/news/9106901",
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています"
+   },
+   {
+    "value": "5.16",
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "quote": "ゲルマニウム市場は、2032年までにCAGR5.16％で4億9,195万米ドル拡大すると予測されています"
+   },
+   {
+    "value": "5.2",
+    "url": "https://newscast.jp/news/3450660",
+    "quote": "世界のゲルマニウム金属市場規模は、2025年の2億7,600万米ドルから2032年には3億9,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.2%で成長すると見込まれています"
+   },
+   {
+    "value": "5.16",
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "quote": "ゲルマニウム市場は2025年に3億4,576万米ドルと評価され、2026年には3億6,262万米ドルに成長し、CAGR5.16％で推移し、2032年までに4億9,195万米ドルに達すると予測されています"
+   },
+   {
+    "value": "3.72",
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "quote": "The global germanium market size was valued at USD 332.45 million in 2025 and is anticipated to reach USD 344.82 million in 2026 from USD 461.84 million by 2034, growing at a CAGR of 3.72% during the forecast period from 2026 to 2034."
+   },
+   {
+    "value": "3.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "quote": "CAGR of 3.4% from 2026 to 2033"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "363.3",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "quote": "USD 363.3 Mn"
+   },
+   {
+    "value": "384.7",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "quote": "USD 384.7 Mn"
+   },
+   {
+    "value": "681.2",
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "quote": "USD 681.2 Mn"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/germanium-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/germanium-market-109970",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/release/31140656/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/9106901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9106901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3450660",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8692150",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E9%9B%B2%E5%8D%97%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E7%94%A3%E6%A5%AD/369582",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reuters.com/jp/world/china/V6T5RYJXMBOKPCSRPGMUMXRPMM-2023-10-20/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/report/germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/germanium-market-6986",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/germanium-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lucintel.com/germanium-market/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finance.yahoo.com/news/germanium-market-set-strategic-growth-144100595.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://directory.startupluxembourg.com/companies/groove_quantum",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ゲルマニウム 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/germanium-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/germanium-market",
+    "https://jp.linkedin.com/pulse/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0-market-forecast-2026-2033-%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr67%E3%81%A7%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E6%88%90%E9%95%B7%E3%82%92%E8%A6%8B%E8%BE%BC%E3%82%80-s0ece",
+    "https://www.businessresearchinsights.com/jp/market-reports/germanium-market-109970",
+    "https://japan.zdnet.com/release/31140656/",
+    "https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719",
+    "https://www.atpress.ne.jp/news/7269166",
+    "https://www.astuteanalytica.com/ja/industry-report/germanium-market",
+    "https://www.marketresearch.co.jp/insights/germanium-market-pmr/",
+    "https://www.globalresearch.co.jp/germanium-market/"
+   ]
+  },
+  {
+   "query": "ゲルマニウム 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "https://newscast.jp/news/9106901",
+    "https://straitsresearch.com/jp/report/germanium-market",
+    "https://www.atpress.ne.jp/news/9106901",
+    "https://www.mordorintelligence.com/ja/industry-reports/germanium-market",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112509807&la=ja",
+    "https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F",
+    "https://mrctechforum.inkrich.com/posts/%E5%8D%98%E7%B5%90%E6%99%B6%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4",
+    "https://www.astuteanalytica.com/ja/industry-report/germanium-market",
+    "https://www.verifiedmarketreports.com/ja/product/germanium-market/"
+   ]
+  },
+  {
+   "query": "ゲルマニウム 参入 企業 国内",
+   "results": [
+    "https://mono.ipros.com/cg1/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0/",
+    "https://newscast.jp/news/3450660",
+    "https://www.factmr.com/ja/report/high-purity-germanium-market",
+    "https://www.atpress.ne.jp/news/8692150",
+    "https://straitsresearch.com/jp/report/germanium-market",
+    "https://baike.baidu.com/ja/item/%E9%9B%B2%E5%8D%97%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E7%94%A3%E6%A5%AD/369582",
+    "https://www.reuters.com/jp/world/china/V6T5RYJXMBOKPCSRPGMUMXRPMM-2023-10-20/",
+    "https://metoree.com/categories/6916/",
+    "https://jp.linkedin.com/pulse/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A72026%E5%B9%B4%E7%89%88-deco-drive-quzqe",
+    "https://www.genryoubank.com/material/183"
+   ]
+  },
+  {
+   "query": "germanium market size CAGR 2025",
+   "results": [
+    "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "https://www.zionmarketresearch.com/report/germanium-market",
+    "https://www.snsinsider.com/reports/germanium-market-6986",
+    "https://www.linkedin.com/pulse/germanium-market-size-reach-usd-423-million-2034-l41xf",
+    "https://www.mordorintelligence.com/industry-reports/germanium-market",
+    "https://www.factmr.com/report/germanium-market",
+    "https://www.sphericalinsights.com/our-insights/germanium-market",
+    "https://www.usgs.gov/centers/national-minerals-information-center/germanium-statistics-and-information",
+    "https://www.persistencemarketresearch.com/market-research/germanium-market.asp"
+   ]
+  },
+  {
+   "query": "germanium market key players competitive landscape",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/germanium-market-report",
+    "https://www.mordorintelligence.com/industry-reports/germanium-market",
+    "https://www.factmr.com/report/germanium-market",
+    "https://www.linkedin.com/pulse/understanding-competitive-landscape-germanium-oxide-market-pqwmf",
+    "https://www.marketdataforecast.com/market-reports/global-germanium-market",
+    "https://www.lucintel.com/germanium-market/",
+    "https://finance.yahoo.com/news/germanium-market-set-strategic-growth-144100595.html",
+    "https://www.polarismarketresearch.com/industry-analysis/germanium-market",
+    "https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/",
+    "https://www.marketresearch.com/Deep-Insights-Research-Co-DIR-v4285/Global-Germanium-Competitive-Landscape-Professional-46417412/"
+   ]
+  },
+  {
+   "query": "germanium startup funding 2025",
+   "results": [
+    "https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/",
+    "https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://directory.startupluxembourg.com/companies/groove_quantum",
+    "https://quantumcomputingreport.com/groove-quantum-secures-e10-million-eic-accelerator-funding-for-germanium-based-quantum-computing/",
+    "https://www.linkedin.com/posts/quantumtech-frontier_groove-quantum-secures-10-million-eic-accelerator-activity-7345829273254944770-XrnG",
+    "https://www.startuprad.io/post/dach-startup-funding-2025-deep-tech-defense-and-decacorns",
+    "https://capvisory.de/federal-funding-programs-for-tech-startups-in-germany/",
+    "https://cordis.europa.eu/project/id/101113173",
+    "https://americom.org/2025/05/22/strain-on-our-germanium-supply-chain-a-shortage-we-cant-afford-to-ignore/"
+   ]
+  }
+ ],
+ "missing": {}
+}

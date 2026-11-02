@@ -1,0 +1,2506 @@
+# 素材ごとの市場の伸び・規模・大手の参入（ニッチで伸びがエグい素材を探す）（事実のみ・24品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## チタン金属粉末（titanium metal powder）
+- 文脈：金属粉末
+- 市場規模：
+  - 「世界のチタン粉末市場規模は 2024 年に 15 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）14.8%超で成長すると推定される」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「Titanium Powder Market Size, By Product, 2021-2034 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「グレード5チタンの市場規模は2024年に7億9,800万米ドルを超え、2025年から2034年にかけて年平均成長率（CAGR）15.2%で推移すると予測されます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「米国のチタン粉末市場規模、2021〜2034年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「2024年時点で、米国のチタン粉末市場規模は約3億6,210万米ドルと推定されます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「市場規模で 2024」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「市場規模で 2034」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている」（https://newscast.jp/news/3065264）
+  - 「１.市場規模と予測データ：世界のチタンベースの粉末市場に関する過去データ（2020～2025年）および将来予測データ（2026～2031年）を提供し、市場の成長と規模を明確に示します」（https://newscast.jp/news/3065264）
+  - 「HDHチタン粉末の世界市場（2026年～2032年）、市場規模（10～25 μm、25～45 μm、45～106 μm、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/4222329）
+  - 「HDHチタン粉末の世界市場（2026年～2032年）、市場規模（10～25 μm、25～45 μm、45～106 μm、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/4222329）
+  - 「資料には、HDHチタン粉末の世界市場規模、市場動向、セグメント別予測（10～25 μm、25～45 μm、45～106 μm、その他）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/4222329）
+  - 「世界のHDHチタン粉末市場規模は、2025年の10億6,900万米ドルから2032年には17億1,000万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）7.1%で成長すると見込まれています」（https://www.atpress.ne.jp/news/4222329）
+- 成長率：
+  - 「世界のチタン粉末市場規模は 2024 年に 15 億米ドルに達し、2025 年から 2034 年にかけて年平均成長率（CAGR）14.8%超で成長すると推定される」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「年平均成長率（CAGR）（2025〜2034年）」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「一方、医療分野では、3D プリンティングによるチタン粉末の利用が増加し、人工器官や筋肉代替デバイスの設計に活用されていることから、急速に拡大している」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「加えて、より効率的な粉末製造方法の導入や 3D プリンティング技術の活用も、業界の拡大を後押ししている」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「合金粉末セグメントの売上高は 2024 年に約 10 億米ドルとなり、2025 年から 2034 年にかけて年平均成長率（CAGR）15.3%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「グレード5チタンの市場規模は2024年に7億9,800万米ドルを超え、2025年から2034年にかけて年平均成長率（CAGR）15.2%で推移すると予測されます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「グレード5チタン粉末は、海洋、航空宇宙、医療、化学分野での用途が拡大しており、優れた耐食性を備えていることから、需要は増加すると見込まれます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「航空宇宙・防衛分野で使用されるチタン粉末市場の年平均成長率（CAGR）は、2025年から2034年にかけて15.5%と推定されます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「予測期間 2025 to 2034 CAGR」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST」（https://newscast.jp/news/3065264）
+  - 「世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025」（https://newscast.jp/news/3065264）
+  - 「YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている」（https://newscast.jp/news/3065264）
+  - 「５.主要生産地域のデータ：世界のチタンベースの粉末市場における主要な生産地域、生産能力、生産量、前年比成長率に関する情報を提供します」（https://newscast.jp/news/3065264）
+  - 「第4章：チタンベースの粉末の世界の主要生産地域、パーセントとCAGR（2020～2031）」（https://newscast.jp/news/3065264）
+  - 「第6章：製品別の販売量、平均価格、売上、パーセントとCAGR（2020～2031）」（https://newscast.jp/news/3065264）
+- 主要企業：
+  - 「両社は、相互に結び付いた国際市場を起点とする主要企業となる見込みです」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「チタン粉末業界で事業を展開する主要企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「業界主要プレイヤーには、先進金属グループ、ADMA製品、AP&C、BLT、ECKART TLS、グローバルチタン、IperionX、Kymera International、MEPCO、N.Vなどがあります.」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します」（https://newscast.jp/news/3065264）
+  - 「第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する」（https://newscast.jp/news/3065264）
+  - 「また、HDHチタン粉末のポートフォリオと能力、市場参入戦略、市場における地位、地理的な展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界のHDHチタン粉末市場における各社の独自の地位をより深く理解します」（https://www.atpress.ne.jp/news/4222329）
+  - 「には、主要企業ごとのHDHチタン粉末に関する詳細データ（2021年から2026年までの年間売上、収益、価格、市場シェア）、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（CR3、CR5、CR10）、新規参入企業、市場のM&A活動と戦略がまとめられている」（https://www.atpress.ne.jp/news/4222329）
+  - 「には、OSAKA Titanium、Reading Alloys、MTCO、TLS Technik、Kymera International、Oerlikon、AMG Critical Materials、Toho Titanium、Medicoat、Oerlikoといった主要企業ごとの詳細な分析が収録されており、各社の企業情報、製品ポートフォリオと仕様、売上、収益、価格、粗利益（2021年から2026年まで）、主要事業概要、および最新の動向が記されている」（https://www.atpress.ne.jp/news/4222329）
+  - 「金属粉末市場に参入している主要企業はどこですか？」（https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html）
+  - 「米国主要企業」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「中国の主要企業」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「欧州主要企業」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「Key Players」（https://www.gminsights.com/industry-analysis/titanium-powder-market）
+- 日本企業：
+  - 「世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025 | NEWSCAST」（https://newscast.jp/news/3065264）
+  - 「世界と日本のチタンベースの粉末市場分析：規模、成長率、企業ランキング2025」（https://newscast.jp/news/3065264）
+  - 「TEL：050-5840-2692（日本）；0081-5058402692（グローバル）」（https://newscast.jp/news/3065264）
+  - 「には、アジア太平洋地域（APAC）におけるHDHチタン粉末の市場状況が記されており、地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）、タイプ別、および用途別の売上情報（2021年から2026年まで）が提供されている」（https://www.atpress.ne.jp/news/4222329）
+  - 「・日本語タイトル：HDHチタン粉末の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4222329）
+  - 「日本と韓国は、多層セラミックコンデンサ向けに特化した超微細銅・銀粉末を専門とするニッチ市場を開拓し、南北アメリカ・欧州における輸出の優位性を確固たるものにしています」（https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html）
+  - 「Advanced Technology & Materials Co., Ltd.、Alcoa Corporation、ATI、Aubert & Duval、BASF、CNPC Powder、CRS Holdings, LLC.、Erasteel、GKN Powder Metallurgy、H.C. Starck Tungsten GmbH、Hitachi High-Tech India Private Limited、Hoganas AB、JFE Steel Corporation、Kymera International、Linde Plc、Metalysis Ltd.、Outokumpu、Polema、Rio Tinto Metal Powders、Sandvik AB、Seiko Epson Corporation、Tekna、Valimetなどです」（https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html）
+  - 「Hitachi High-Tech India Private Limited」（https://www.gii.co.jp/report/moi2125355-metal-powder-market-share-analysis-industry-trends.html）
+  - 「Japanese」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「CPチタン、Ti-6-4、その他のチタン合金粉末の主要な世界的生産者は、アメリカ大陸、ヨーロッパ、中国、インド、日本に集中している」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「大阪チタニウムテクノロジーズ」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「東邦チタニウム」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「株式会社大阪チタニウムテクノロジーズ」（https://mono.ipros.com/cg2/%E3%83%81%E3%82%BF%E3%83%B3%E7%B2%89%E6%9C%AB/）
+  - 「Japanese」（https://am-printing.com/ja/titanium-powder-production/）
+  - 「日本語 (Japanese)」（https://www.hoganas.com/ja/powder-technologies/titanium-powders/）
+- 上位シェア：
+  - 「チタン粉末市場のシェア｜2025〜2034年の予測レポート」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「チタン粉末市場 サイズとシェア 2025 to 2034」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「グレード別チタン粉末市場の売上高シェア（2024年）」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「上記の図表／データは、YHResearchの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」」（https://newscast.jp/news/3065264）
+  - 「YHResearch調査チームの最新レポート「グローバルチタンベースの粉末のトップ会社の市場シェアおよびランキング 2025」によると、2025年から2031年の予測期間中のCAGRが4.1%で、2031年までにグローバルチタンベースの粉末市場規模は5.2億米ドルに達すると予測されている」（https://newscast.jp/news/3065264）
+  - 「図. 世界のチタンベースの粉末市場におけるトップ14企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）」（https://newscast.jp/news/3065264）
+  - 「2024年、世界のトップ10企業は売上の観点から約59.0%の市場シェアを持っていた」（https://newscast.jp/news/3065264）
+  - 「２.会社別の売上と市場シェア：世界のチタンベースの粉末会社別の売上、価格、市場シェア、業界ランキングを提供します」（https://newscast.jp/news/3065264）
+  - 「３.中国市場の会社別データ：中国のチタンベースの粉末市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します」（https://newscast.jp/news/3065264）
+  - 「第2章：世界チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）」（https://newscast.jp/news/3065264）
+  - 「第3章：中国チタンベースの粉末の主要会社の市場シェアとランキング、販売量、売上、平均価格（2020～2025）」（https://newscast.jp/news/3065264）
+  - 「売上高ベースでは、世界最大手2社が2025年には約%のシェアを占める見込みです」（https://www.atpress.ne.jp/news/4222329）
+  - 「には、エグゼクティブサマリーとして、HDHチタン粉末の世界市場概況（2021年から2032年までの年間売上、地域別および国別の現在および将来の分析）、粒度（10-25 μm、25-45 μm、45-106 μm、その他）別のセグメント分析、および用途（航空宇宙、自動車、医療、産業、その他）別のセグメント分析（売上、収益、価格、市場シェア）が収録されている」（https://www.atpress.ne.jp/news/4222329）
+- 投資：
+  - 「The UK is expected to grow at 14.1% through 2036, reflecting aerospace industry demand, medical technology development, and AM research investment.」（https://www.futuremarketinsights.com/reports/titanium-powder-market）
+  - 「India announced plans to develop a global Titanium and Rare Earth industrial hub in Andhra Pradesh using beach sand mineral resources. The project aims to attract ₹50,000 crore (US$6 billion) investment and create over 40,000 jobs, strengthening domestic titanium processing for aerospace, defense, and electric mobility sectors.」（https://www.sphericalinsights.com/reports/titanium-metal-powder-market）
+  - 「IperionX Limited received an additional US$25 million from the U.S. Department of War’s IBAS program to expand domestic titanium production. The funding supports scaling capacity up to 1,400 metric tons annually, strengthening U.S. defense supply chains and reducing reliance on imported titanium materials.」（https://www.sphericalinsights.com/reports/titanium-metal-powder-market）
+  - 「6. How are government investments in critical minerals affecting the titanium metal powder industry?」（https://www.sphericalinsights.com/reports/titanium-metal-powder-market）
+  - 「Government investments in critical minerals are boosting titanium powder supply chains, with over $10–25 billion global funding programs improving domestic production capacity and reducing import dependence by up to 30% in defense sectors.」（https://www.sphericalinsights.com/reports/titanium-metal-powder-market）
+  - 「: The market is growing worldwide due to the widespread use of additive manufacturing and 3D printing technologies. Main growth areas include North America, Europe, and Asia-Pacific, driven by strong industrial infrastructure, government programs, and rising investment in high-performance titanium parts.」（https://www.precedenceresearch.com/titanium-powder-market）
+  - 「The TDF is expected to begin commissioning in Q4 2023 and be operational by Q1 2024, targeting a run-rate of 125 tpa by Q3 2024. Development of the TDF remains subject to successful Board approval for a final investment decision, expected in Q3 2023.」（https://iperionx.com/2023/04/27/iperionx-plans-to-build-the-worlds-largest-100-recycled-titanium-metal-powder-facility-by-2025/）
+  - 「Closed Series D funding, began construction of 3,000 tpa plant.」（https://www.reportprime.com/titanium-powder-r466/company）
+- 検索結果の抜粋：
+  - 「チタン粉末市場 のシェア｜2025〜2034年の予測レポート — チタン粉末市場 のシェア｜2025〜2034年の予測レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「チタン粉末市場規模 ・予測【2035年】 — チタン粉末市場規模 ・予測【2035年】 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038）
+  - 「HDH チタン粉末 の世界 市場 （2026年～2032年） - アットプレス — HDH チタン粉末 の世界 市場 （2026年～2032年） - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4222329）
+  - 「チタン粉末市場 のシェア｜2025〜2034年の 予測 レポート — チタン粉末市場 のシェア｜2025〜2034年の 予測 レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「チタン粉末市場 規模・ 予測 【2035年】 — チタン粉末市場 規模・ 予測 【2035年】 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/titanium-powder-market-109038）
+  - 「チタン粉末 市場のシェア｜2025〜2034年の予測レポート — チタン粉末 市場のシェア｜2025〜2034年の予測レポート Global Market Insights Inc. https://www.gminsights.com > titanium-powder-market」（https://www.gminsights.com/ja/industry-analysis/titanium-powder-market）
+  - 「チタン金属粉末 サプライヤー - Met3DP — チタン金属粉末 サプライヤー - Met3DP Met3DP https://met3dp.com > 未分類」（https://met3dp.com/ja/titanium-metal-powder-suppliers-20240104/）
+  - 「Titanium Powder Market Share | Forecasts Report, 2025 -2034 — Titanium Powder Market Share | Forecasts Report, 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > titaniu...」（https://www.gminsights.com/industry-analysis/titanium-powder-market）
+  - 「Titanium Metal Powder Market To Reach $900.9Mn By 2033 — Titanium Metal Powder Market To Reach $900.9Mn By 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/press-release/global-titanium-metal-powder-market）
+  - 「Titanium Powder Market Companies, Size & Trends 2026-2034 — Titanium Powder Market Companies, Size & Trends 2026-2034 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/titanium-powder-market）
+  - 「Top 10 Titanium Powder Companies | Report Prime — Top 10 Titanium Powder Companies | Report Prime Report Prime https://www.reportprime.com > comp...」（https://www.reportprime.com/titanium-powder-r466/company）
+
+## ニッケル基超合金粉末（nickel superalloy powder）
+- 文脈：金属粉末
+- 市場規模：
+  - 「3D プリンティング用超合金粉末の世界市場（2026年～2032年）、市場規模（鉄系金属粉末、チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/7394406）
+  - 「3D プリンティング用超合金粉末の世界市場（2026年～2032年）、市場規模（鉄系金属粉末、チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「資料には、3D プリンティング用超合金粉末の世界市場規模、市場動向、セグメント別予測（鉄系金属粉末、チタン金属粉末、ニッケル金属粉末、アルミニウム金属粉末、その他）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/7394406）
+  - 「3Dプリンティング用超合金粉末の世界市場規模は、2025年の6億5600万米ドルから2032年には20億600万米ドルに成長すると予測されています」（https://www.atpress.ne.jp/news/7394406）
+  - 「米国における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「中国における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「欧州における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「本インサイトレポートは、3Dプリンティング用超合金粉末の世界市場を形作る主要な市場動向、推進要因、影響要因を評価し、タイプ別、用途別、地域別、市場規模別に予測を細分化することで、新たなビジネスチャンスを明らかにします」（https://www.atpress.ne.jp/news/7394406）
+  - 「3Dプリンティング用超合金粉末市場の機会は、最終市場規模によってどのように異なるか？」（https://www.atpress.ne.jp/news/7394406）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7394406）
+  - 「Nickel Superalloy Market Size, Share & Industry Report By 2035」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+- 成長率：
+  - 「2026年から2032年にかけて、年平均成長率（CAGR）17.6%で成長すると予測されています」（https://www.atpress.ne.jp/news/7394406）
+  - 「米国における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「中国における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「欧州における3Dプリンティング用超合金粉末市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までのCAGRは%です」（https://www.atpress.ne.jp/news/7394406）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「As per Market Research Future analysis, the Nickel Superalloy Market Size was estimated at 15.76 USD Billion in 2024. The Nickel Superalloy industry is projected to grow from 16.4 USD Billion in 2025 to 24.44 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 4.07% during the forecast period 2025 - 2035」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「The Nickel Superalloy Market is projected to grow at a 4.07% CAGR from 2025 to 2035, driven by aerospace demand, energy sector advancements, and technological innovations.」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「What is the expected CAGR for the Nickel Superalloy Market during the forecast period 2025 - 2035?」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「The expected CAGR for the Nickel Superalloy Market during the forecast period 2025 - 2035 is 4.07%.」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「The global Ni-based superalloys market size is calculated at USD 17.97 billion in 2025 and is predicted to increase from USD 18.77 billion in 2026 to approximately USD 26.61 billion by 2034, expanding at a CAGR of 4.46% from 2025 to 2034. The increased demand for Ni-based superalloys in aerospace and energy industry is driving the global market.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「Asia Pacific is projected to grow at a significant CAGR from 2025 to 2034.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「By application, the industrial gas turbines segment is projected to grow at a CAGR from 2025 to 2034.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「By alloy type, the single crystal alloys segment is expected to grow at a CAGR between 2025 and 2034.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「By form, the powders segment is expected to grow at a CAGR between 2025 and 2034.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「CAGR (2025-2034): 4.46%」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+- 主要企業：
+  - 「本レポートでは、3Dプリンティング用超合金粉末のポートフォリオと機能、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の3Dプリンティング用超合金粉末市場における各社の独自の立ち位置をより深く理解することを目的としています」（https://www.atpress.ne.jp/news/7394406）
+  - 「では、企業別のグローバル市場に焦点を当て、主要企業の販売実績、収益、価格、市場シェア（2021年～2026年）を詳細に分析しています」（https://www.atpress.ne.jp/news/7394406）
+  - 「主要メーカーの生産・販売地域、製品提供、市場集中度（CR3、CR5、CR10）、新製品投入、潜在的参入者、M&A活動および戦略についても記述されています」（https://www.atpress.ne.jp/news/7394406）
+  - 「では、Sandvik、Carpenter、GEなどを含む主要プレイヤー各社の詳細な分析が行われています」（https://www.atpress.ne.jp/news/7394406）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Key Players and Competitive Insights」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「The Nickel Superalloy Market is currently characterized by a dynamic competitive landscape, driven by increasing demand from aerospace, energy, and defense sectors. Key players such as General Electric (US), Honeywell International (US), and」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Key Companies in the Nickel Superalloy Market include」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Revenue Forecast, Competitive Landscape, Growth Factors, and Trends」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Key Companies Profiled」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Which companies are considered key players in the Nickel Superalloy Market?」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Key players in the Nickel Superalloy Market include General Electric, Honeywell International, and United Technologies Corporation.」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Ni-based Superalloys Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「Other Key Players」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+- 日本企業：
+  - 「・日本語タイトル：3D プリンティング用超合金粉末の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/7394406）
+  - 「Japanese」（https://am-printing.com/ja/nickel-based-superalloys-20231208/）
+  - 「積層造形後、熱処理前のニッケル基超合金造形体、及び熱処理後のニッケル基超合金造形体のそれぞれについて、図２に示すように、底面及び上面を構成する各円の中心付近を通る平面で切断し、その断面を走査型電気顕微鏡（ＳＥＭ）（日本電子株式会社製、ＪＳＭ－７２００Ｆ）にて観察した」（https://patents.google.com/patent/WO2023027054A1/ja）
+  - 「Hitachi Ltd」（https://patents.google.com/patent/WO2023027054A1/ja）
+  - 「三菱日立パワーシステムズ株式会社」（https://patents.google.com/patent/WO2023027054A1/ja）
+  - 「Japanese」（https://www.marketresearchfuture.com/reports/nickel-superalloy-market-29082）
+  - 「Mitsubishi Power」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「Japan Ni-based Superalloys Market Outlook, by Form, 2020-2033」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「Japan Ni-based Superalloys Market Outlook, by Microstructure, 2020-2033」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「Japan Ni-based Superalloys Market Outlook, by End Use, 2020-2033」（https://www.fairfieldmarketresearch.com/report/ni-based-superalloys-market）
+  - 「, with China, Japan, and India developing indigenous capabilities supported by government industrial policies and OEM supply chain investments. Developing regions including Russia and Eastern Europe maintain specialized production capabilities, particularly for conventional cast and wrought superalloys, though limited access to advanced technologies constrains competitive positioning.」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「12.2.2 Japan」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「15.3.13 Hitachi Metals, Ltd.」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「15.3.20 Sumitomo Metal Mining Co., Ltd.」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「Asia Pacific is experiencing the most rapid capacity expansion, with China, India, and Japan progressively investing in superalloy production facilities supported by government industrial policies and OEM supply chain investments. Chinese capacity has expanded from approximately」（https://dataintelo.com/report/nickel-base-superalloy-market）
+- 上位シェア：
+  - 「売上高の面では、世界最大の2社が2025年には約100%のシェアを占める見込みです」（https://www.atpress.ne.jp/news/7394406）
+  - 「このインサイトレポートは、世界の3Dプリンティング用超合金粉末市場の状況を包括的に分析し、製品セグメンテーション、企業設立、売上高、市場シェア、最新の開発動向、M&A活動などに関する主要なトレンドを明らかにしています」（https://www.atpress.ne.jp/news/7394406）
+  - 「本レポートは、製品タイプ別、用途別、主要メーカー別、主要地域・国別に、3Dプリンティング用超合金粉末市場の包括的な概要、市場シェア、成長機会を提示します」（https://www.atpress.ne.jp/news/7394406）
+  - 「では、企業別のグローバル市場に焦点を当て、主要企業の販売実績、収益、価格、市場シェア（2021年～2026年）を詳細に分析しています」（https://www.atpress.ne.jp/news/7394406）
+  - 「North America accounted for the largest market share of 39% in 2024.」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「Which Application Segment Dominated the Ni-based Superalloys Market in 2024?」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「In 2024, the bars and rods segment dominated the market, due to its increased adoption in industries like」（https://www.precedenceresearch.com/ni-based-superalloys-market）
+  - 「market share in 2025, representing approximately」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「The nickel base superalloy market exhibits concentrated competitive dynamics with substantial barriers to entry limiting participation to established materials suppliers and manufacturers with substantial capital investment, technical expertise, and established customer relationships. Global competitive structure is dominated by approximately 15 to 20 major producers controlling an estimated」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「Market Share (2025)」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「Thermomechanically processed materials including Inconel 625, Inconel X-750, and René 77 providing superior fatigue strength and damage tolerance for aerospace compressor and structural applications. Market share of」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「Single-crystal directional solidification materials including CMSX-4 and PWA1480 engineered for extreme creep resistance in turbine rotor applications. Market share of」（https://dataintelo.com/report/nickel-base-superalloy-market）
+- 投資：
+  - 「The nickel base superalloy market exhibits concentrated competitive dynamics with substantial barriers to entry limiting participation to established materials suppliers and manufacturers with substantial capital investment, technical expertise, and established customer relationships. Global competitive structure is dominated by approximately 15 to 20 major producers controlling an estimated」（https://dataintelo.com/report/nickel-base-superalloy-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/nickel-base-superalloy-market）
+
+## 銅合金粉末（AM用）（copper powder additive manufacturing）
+- 文脈：金属粉末
+- 市場規模：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「北米の銅粉市場は、先進製造業、エレクトロニクス、自動車用途、積層造形、および高性能導電性材料への需要に支えられ、予測期間中に年平均成長率（CAGR）4.1%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅が2025年の米国重要鉱物リストに掲載されたことで、国内の銅供給と加工に対する政策的関心が高まり、米国の銅粉市場は恩恵を受けると予想される」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「カナダの銅粉市場は、銅を優先鉱物として位置づけ、2030年までに国内の採掘、加工、先端製造、リサイクルのバリューチェーンを強化することを目指す「カナダ重要鉱物戦略」によって支えられています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2034年までに158万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場は、2026年から2034年にかけて年平均成長率（CAGR）3.6%で成長すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「積層造形市場規模・成長レポート 2035」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025 市場規模」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年の市場規模：」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2026年の市場規模：」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 成長率：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「世界の銅粉市場規模は、2025年には115万米ドルと評価され、2026年の119万米ドルから2034年には158万米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は3.6%となる見込みです」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「電解銅粉末は、電気、電子機器、摩擦材、特殊粉末冶金用途における高純度粉末の需要に牽引され、予測期間中に年平均成長率（CAGR）5.6%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「フレーク状銅粉末セグメントは、導電性コーティング、インク、塗料、電磁シールド、装飾製品、印刷用途での使用に牽引され、予測期間中に年平均成長率（CAGR）5.4%で成長すると予想されています」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「積層造形分野は、熱交換器、冷却システム、電気部品、その他の熱管理用途で使用される複雑な銅部品の需要に牽引され、予測期間中に年平均成長率（CAGR）10.8%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「自動車分野は、銅をベースとした部品、電気システム、摩擦材、および熱管理技術の使用に牽引され、予測期間中に年平均成長率（CAGR）7.0%で成長すると予想されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「この文書は、2047年までに銅需要を6倍に増やすことを目標とし、2030年までに年間500万トンの製錬・精製能力を追加することで、銅の下流エコシステムを強化する計画だ」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「CAGR 2026-2035」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「貿易成長率（5年間年率）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「過去5年間の平均年間成長率」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「アジア太平洋地域は、急速な工業化、スマート製造イニシアチブ、そして政府の多大な支援に支えられ、2026年から2035年にかけて最も速いペースで拡大すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「21.4% CAGR（2026～2035年）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 主要企業：
+  - 「主要企業は、粉体の純度、粒度と形態、生産能力、用途性能、グローバルな流通ネットワークを駆使して競争している」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「インド市場への参入戦略（GTM）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「主要プレイヤー:」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「分析力の明晰さ、体系的な問題解決能力、そしてデータ統合における精確さで知られるパルルは、大規模なデータセットを戦略的インサイトへと簡素化することに長けており、テクノロジーの導入、市場参入、ポートフォリオの成長に関する意思決定を促進する上で重要な役割を果たします」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「• 主要企業プロファイル」（https://www.atpress.ne.jp/news/6101282）
+  - 「led competitive landscape」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「Competitive Landscape and Market Positioning 2025-2034」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「The competitive landscape for 3D printing copper powder is characterized by moderate consolidation among established suppliers with strong aerospace and medical device qualifications, combined with growing pressure from cost-competitive Asian manufacturers targeting commercial and emerging market segments. The market is led by」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「Key Companies Profiled」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「Map the competitive landscape and the strategies of leading players」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+- 日本企業：
+  - 「日本銅粉市場分析」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本の銅粉市場は、半導体、データセンター、電化技術における銅需要の高まりから恩恵を受けると予想されており、経済産業省は銅を2040年までに需要が大幅に増加すると見込まれる重要鉱物として位置付けている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「日本はまた、JOGMECが支援する銅材料のリサイクルおよび加工技術を通じて銅資源の安全保障を強化し、銅粉用途向けの銅原料の長期的な供給を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Mitsui Mining & Smelting Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Sumitomo Metal Mining Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Fukuda Metal Foil & Powder Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「Kymera International (US) · GGP Metalpowder AG (Switzerland) · Pometon S.p.A. (Italy) · Mitsui Mining & Smelting Co., Ltd. (Japan) · Sumitomo Metal Mining Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「この市場の主要プレーヤーには、三菱マテリアル株式会社、GGP Metal Powder AG、Kymera International、Höganäs AB、およびPometon S.p.A.が含まれます」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「4位 日本 - 5億2900万米ドル」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「ANSYS, Inc. (米国)、Höganäs AB (スウェーデン)、EOS (ドイツ)、Stratasys (米国)、Renishaw plc. (英国)、ヤマザキマザック株式会社 (日本)、Materialise (ベルギー)、Markforged (米国)、Titomic Limited (オーストラリア)、SLM Solutions (ドイツ)、Proto Labs (米国)、ENVISIONTEC US LLC (米国)、Ultimaker BV (オランダ)、American Additive Manufacturing LLC (米国)、Optomec, Inc. (米国)、3D Systems Inc. (米国)、ExOne (米国)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「米国、中国、ドイツ、日本、英国」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「(日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「日本、中国、インドなどの主要国は、民生用電子機器、自動車、医療部品にAMを活用しており、一方で地域的なデジタル化はAMをより身近なものにしています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「Japan (+81)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 上位シェア：
+  - 「銅粉市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「銅粉市場規模、シェア、トレンド分析レポート：製造方法別（アトマイズ銅粉、電解銅粉、還元銅粉、その他製造方法）、製品形態別（球状銅粉、フレーク状銅粉、不規則形状銅粉、樹枝状銅粉）、用途別（粉末冶金、積層造形、溶射、導電性コーティングおよびインク）、最終用途産業別（電子機器および電気機器、自動車、航空宇宙および防衛、産業機械）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域は、2025年に42.0%の市場シェアを占め、銅粉市場を牽引しました」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「微粒化された銅粉末は、粉末冶金、溶射、積層造形、その他の産業用途において、粒子サイズ、形態、流動特性を制御できることから、2025年には45.2%のシェアを占める見込みである」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「球状銅粉末セグメントは、その良好な流動性、充填性、および高度な製造プロセスへの適合性により、2025年には44.8%のシェアを占める見込みである」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「粉末冶金分野は、ベアリング、フィルター、構造部品、摩擦材、電気部品における銅粉末の確立された使用に支えられ、2025年には36.8%のシェアを占めた」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「電子機器・電気機器分野は、効率的な放熱に対する需要により、2025年には35.6%のシェアを占め、導電性材料は引き続き銅粉の消費を支えている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域の銅粉市場は、2025年には地域別シェア42.0%を占め、市場規模は4億7460万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アジア太平洋地域は2025年に42.0%という圧倒的な市場シェアを占めた」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「鉄筋市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/copper-powder-market）
+- 投資：
+  - 「銅粉市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「2026年2月、新川新材料は、太陽光発電用銅粉の研究開発、生産能力の拡大、および市場開拓を支援するため、約1億人民元のIPO前資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/copper-powder-market）
+  - 「of total market value in 2025, driven by aggressive expansion in additive manufacturing hubs across China, India, and Japan. China's National 13th Five-Year Plan has catalyzed significant investment in powder metallurgy capabilities, with companies like」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「market share. Commercial service providers offer outsourced additive manufacturing capabilities to customers lacking internal equipment investments or technical expertise, creating a distributed network of copper powder users across regional markets. The commercial segment includes rapidly expanding 3D printing service platforms such as」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「through 2034, supported by government funding expansion for advanced manufacturing research and increasing university-industry partnerships in additive manufacturing technology development.」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/global-3d-printing-copper-powder-market）
+- 検索結果の抜粋：
+  - 「高性能 銅合金粉末市場 分析レポート：2026年74.14百万米ドル ... — 高性能 銅合金粉末市場 分析レポート：2026年74.14百万米ドル ... note https://note.com > 科学・テクノロジー > 化学」（https://note.com/qy_research/n/n366973a51371）
+  - 「CuCrZr 銅合金粉末 の積層造形 - 3D Printing Metal Powder丨Truer — CuCrZr 銅合金粉末 の積層造形 - 3D Printing Metal Powder丨Truer am-printing.com https://am-printing.com > additive-manufacturing-of-cucr...」（https://am-printing.com/ja/additive-manufacturing-of-cucrzr-copper-alloy-powder/）
+
+## アルミ合金粉末（AM用）（aluminum powder additive manufacturing）
+- 文脈：金属粉末
+- 市場規模：
+  - 「積層造形（AM）用ガスアトマイズド金属粉末の世界市場（2026年～2032年）、市場規模（カスタムAM用金属粉末、汎用AM用金属粉末）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/9786454）
+  - 「積層造形（AM）用ガスアトマイズド金属粉末の世界市場（2026年～2032年）、市場規模（カスタムAM用金属粉末、汎用AM用金属粉末）・分析レポートを発表」（https://newscast.jp/news/9786454）
+  - 「世界の積層造形（AM）用ガスアトマイズド金属粉末市場規模は、2025年の37億7500万米ドルから2032年には55億9400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.8％で成長すると見込まれています」（https://newscast.jp/news/9786454）
+  - 「米国における積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「中国の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「欧州の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「2021年から2026年までの主要な地理的地域（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）および国/地域別の年間販売量と年間収益の市場規模データが提供されています」（https://newscast.jp/news/9786454）
+  - 「具体的には、2027年から2032年までのグローバル市場規模の地域別（アメリカ大陸、APAC、ヨーロッパ、中東・アフリカ）の販売量と年間収益の予測、国別予測、タイプ別予測、および用途別予測が提供されています」（https://newscast.jp/news/9786454）
+  - 「積層造形市場規模・成長レポート 2035」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025 市場規模」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年の市場規模：」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2026年の市場規模：」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「基準年市場規模（2025年）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「1,131億ドル」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 成長率：
+  - 「世界の積層造形（AM）用ガスアトマイズド金属粉末市場規模は、2025年の37億7500万米ドルから2032年には55億9400万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.8％で成長すると見込まれています」（https://newscast.jp/news/9786454）
+  - 「米国における積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までの年間平均成長率（CAGR）は%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「中国の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「欧州の積層造形（AM）用ガスアトマイズド金属粉末市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/news/9786454）
+  - 「CAGR 2026-2035」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「予測期間（2026年から2035年）中、年平均成長率（CAGR）は21.4%です」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「貿易成長率（5年間年率）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「過去5年間の平均年間成長率」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「アジア太平洋地域は、急速な工業化、スマート製造イニシアチブ、そして政府の多大な支援に支えられ、2026年から2035年にかけて最も速いペースで拡大すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「21.4% CAGR（2026～2035年）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2024年11月、ストラタシスは、多額の投資を行い、トリトンテクノロジーズと提携することでポリマー以外にも事業を拡大し、製品ポートフォリオに量産グレードの金属およびセラミック積層造形を追加したと発表しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「インダストリー4.0の導入拡大：」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年11月、Fabric8Labsは5,000万米ドルを調達し、米国での電気化学的積層造形生産を拡大し、熱管理、無線通信、パワーエレクトロニクス向けの部品の年間生産能力を500万個から2,200万個に増強しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「、航空宇宙、ヘルスケア、工業分野における導入拡大と、インダストリー4.0製造業を推進する政策による広範な支援を受け、地域の積層造形市場において支配的な地位を確立しています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「当調査会社が発表した調査レポート「Japan Metal Powder Market Overview, 2030」によると、日本の金属粉末市場は2025年から2030年にかけて年平均成長率（CAGR）7.71％以上で成長すると予測されています」（https://www.atpress.ne.jp/news/6101282）
+- 主要企業：
+  - 「アディティブ・マニュファクチャリング（AM）向けガスアトマイズド金属粉末の世界的な主要企業には、サンドビック、リンデAMT、ホーガネスAB、エラスティール（エラメット・グループ）、OSAKAチタニウム・テクノロジーズなどが含まれます」（https://newscast.jp/news/9786454）
+  - 「また、本レポートでは、世界的な主要企業の戦略についても分析しています」（https://newscast.jp/news/9786454）
+  - 「特に、積層造形（AM）用ガスアトマイズド金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界の積層造形（AM）用ガスアトマイズド金属粉末市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/9786454）
+  - 「新製品や潜在的な参入企業、市場のM&A活動と戦略についても言及されています」（https://newscast.jp/news/9786454）
+  - 「第13章には、主要企業の詳細な分析が個別にまとめられています」（https://newscast.jp/news/9786454）
+  - 「合計で29社の主要企業が分析対象となっています」（https://newscast.jp/news/9786454）
+  - 「インド市場への参入戦略（GTM）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「主要プレイヤー:」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「分析力の明晰さ、体系的な問題解決能力、そしてデータ統合における精確さで知られるパルルは、大規模なデータセットを戦略的インサイトへと簡素化することに長けており、テクノロジーの導入、市場参入、ポートフォリオの成長に関する意思決定を促進する上で重要な役割を果たします」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「• 主要企業プロファイル」（https://www.atpress.ne.jp/news/6101282）
+- 日本企業：
+  - 「具体的には、2021年から2026年までのAPACの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別の販売量、および用途別の販売量に関するデータが提供されています」（https://newscast.jp/news/9786454）
+  - 「・日本語タイトル：積層造形（AM）用ガスアトマイズド金属粉末の世界市場2026年～2032年」（https://newscast.jp/news/9786454）
+  - 「4位 日本 - 5億2900万米ドル」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「ANSYS, Inc. (米国)、Höganäs AB (スウェーデン)、EOS (ドイツ)、Stratasys (米国)、Renishaw plc. (英国)、ヤマザキマザック株式会社 (日本)、Materialise (ベルギー)、Markforged (米国)、Titomic Limited (オーストラリア)、SLM Solutions (ドイツ)、Proto Labs (米国)、ENVISIONTEC US LLC (米国)、Ultimaker BV (オランダ)、American Additive Manufacturing LLC (米国)、Optomec, Inc. (米国)、3D Systems Inc. (米国)、ExOne (米国)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「米国、中国、ドイツ、日本、英国」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「(日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「日本、中国、インドなどの主要国は、民生用電子機器、自動車、医療部品にAMを活用しており、一方で地域的なデジタル化はAMをより身近なものにしています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2025年6月、島津製作所は、大学や産業界のパートナーと共同で統合型金属積層造形システムを開発するための5年間の研究開発プログラムに、日本のNEDOに選定されたと発表しました」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「Japan (+81)」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「Japan オフィス」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/6101282）
+  - 「金属粉末の日本市場（～2031年）、市場規模（鉄、非鉄、自動車）・分析レポートを発表」（https://www.atpress.ne.jp/news/6101282）
+  - 「株式会社マーケットリサーチセンター（本社：東京都港区、世界の市場調査資料販売）では、「金属粉末の日本市場（～2031年）、英文タイトル：Japan Metal Powder Market Overview, 2030」調査資料を発表しました」（https://www.atpress.ne.jp/news/6101282）
+  - 「資料には、金属粉末の日本市場規模、動向、セグメント別予測（鉄、非鉄、自動車）、関連企業の情報などが盛り込まれています」（https://www.atpress.ne.jp/news/6101282）
+  - 「日本の金属粉末産業は、従来の自動車や産業用金型用途を支える存在から、高付加価値・精密製造戦略の基盤へと進化を遂げてきました」（https://www.atpress.ne.jp/news/6101282）
+- 上位シェア：
+  - 「売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました」（https://newscast.jp/news/9786454）
+  - 「また、カスタムAM金属粉末とレギュラーAM金属粉末の2つのタイプ別の市場分析、および2021年から2026年までのタイプ別の世界販売シェア、収益、販売価格に関する詳細なデータが示されています」（https://newscast.jp/news/9786454）
+  - 「さらに、チタンベース、銅ベース、タングステンベース、ニッケルベース、鉄ベース、その他の粉末原料別の市場分析、および2021年から2026年までの粉末原料別の世界販売シェア、収益、販売価格のデータも提供されています」（https://newscast.jp/news/9786454）
+  - 「最後に、航空宇宙、医療機器、工業用金型、自動車製造、エネルギー・電力などの用途別の市場分析、および2021年から2026年までの用途別の世界販売シェア、収益、販売価格の詳細が記載されています」（https://newscast.jp/news/9786454）
+  - 「具体的には、2021年から2026年までの企業別の積層造形（AM）用ガスアトマイズド金属粉末の年間販売量とその市場シェア、年間収益とその市場シェア、および企業別の販売価格のデータが含まれています」（https://newscast.jp/news/9786454）
+  - 「積層造形市場の規模とシェア、プリンタータイプ別（デスクトッププリンター、産業用プリンター）、材質別、業界別、テクノロジー別、ソフトウェア別、アプリケーション別、サービス別 - グローバル需給分析、成長予測、統計レポート 2026-2035」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2035年までに44.3％のシェアを獲得」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「北米の付加製造市場は、強力な研究開発能力と潤沢な連邦政府資金に支えられ、2035年までに44.3%のシェアを確保すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2035年までに、連続生産に適した信頼性の高い大型システムへの需要の高まりにより、積層造形市場における産業用プリンターセグメントは、全体シェアの68.5%を占めると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「高度な製造業における機能的で高性能な部品の採用が増えているため、材料セグメント内の金属サブタイプは 2035 年までにかなりのシェアを占めると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「北米（2035年までに44.3%のシェア）」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「予測期間の終わりまでに、産業用プリンターセグメントは、積層造形市場で68.5％という最大のシェアを獲得すると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「材料セグメントでは、金属サ​​ブタイプが2035年末までに高いシェア価値で市場をリードすると予想されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「北米市場は、議論された任期を通じて44.3％という最高のシェアを維持すると予測されています」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+  - 「2035 年までに、どのエンドユーザー セグメントが積層造形市場で大きな市場シェアを獲得するでしょうか?」（https://www.researchnester.com/ja/reports/additive-manufacturing-market/5009）
+- 投資：記載なし（読んだ30頁・検索6回）
+
+## 高エントロピー合金（high entropy alloy）
+- 文脈：新合金
+- 市場規模：
+  - 「共晶高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/9134537）
+  - 「共晶高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「世界の共晶高エントロピー合金市場規模は、2025年の574万米ドルから2032年には2,561万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.3%で成長すると見込まれています」（https://www.atpress.ne.jp/news/9134537）
+  - 「米国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「中国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「欧州における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「第１２章には、共晶高エントロピー合金の世界市場の将来予測が地域別にレビューされており、2027年から2032年までのグローバル市場規模、アメリカ、APAC、ヨーロッパ、中東・アフリカ各国の予測、およびタイプ別とアプリケーション別の予測が収録されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/9134537）
+  - 「水素貯蔵用高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/7329451）
+  - 「水素貯蔵用高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表」（https://newscast.jp/news/7329451）
+  - 「世界の水素貯蔵高エントロピー合金市場規模は、2025年の2,152万米ドルから2032年には7,686万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）20.3%で成長すると見込まれています」（https://newscast.jp/news/7329451）
+- 成長率：
+  - 「世界の共晶高エントロピー合金市場規模は、2025年の574万米ドルから2032年には2,561万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.3%で成長すると見込まれています」（https://www.atpress.ne.jp/news/9134537）
+  - 「米国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「中国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「欧州における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9134537）
+  - 「世界の水素貯蔵高エントロピー合金市場規模は、2025年の2,152万米ドルから2032年には7,686万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）20.3%で成長すると見込まれています」（https://newscast.jp/news/7329451）
+  - 「米国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/7329451）
+  - 「中国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/7329451）
+  - 「欧州における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/7329451）
+  - 「5.50％のCAGR」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「アジア太平洋地域の高エントロピー合金市場は、急速な工業化、研究開発投資の増加、自動車、エネルギー、エレクトロニクス分野での採用増加により、2025年から2032年の間に14.36%という最も高いCAGRで成長する見込みです」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「積層造形分野は、材料の無駄を最小限に抑えた軽量で複雑な形状の部品へのトレンドの高まりを背景に、2025年から2032年にかけて最も高いCAGRを達成すると予想されています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「極限環境アプリケーション分野は、従来の合金では厳しい熱、機械、腐食条件下では不十分な宇宙、エネルギー、高温製造環境での需要に支えられ、2025年から2032年にかけて最も高いCAGRで成長すると予測されています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「アジア太平洋地域の高エントロピー合金市場は、急速な工業化、研究開発投資の増加、そして自動車、エネルギー、エレクトロニクス分野における採用の増加に牽引され、2025年から2032年にかけて14.36%という最も高いCAGRで成長すると見込まれています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「球面の洞察とコンサルティングによって公表された研究報告によると、グローバル中型のエントロピー合金市場規模は、予測期間2026〜2035年の間に5.36パーセントのCAGRで2025ドル1.82億米ドルにUSD 1.08億から成長するために計画されている.」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「Spherical Insights & Consulting が公表したリサーチレポートによると、世界中規模のエントロピー合金市場規模は、2025 年 USD 1.82 億米ドル 2035 億米ドル 2036 億米ドル、予想期間 2026～2035 年の間に 5.36 % の CAGR から成長する予定です」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+- 主要企業：
+  - 「本レポートでは、共晶高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の共晶高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています」（https://www.atpress.ne.jp/news/9134537）
+  - 「第３章には、企業別のグローバル市場データが示されており、各企業の年間売上高、市場シェア、年間収益、販売価格、生産地域分布、製品情報、市場集中度分析（競争環境、CR3, CR5, CR10）、新製品、潜在的な新規参入者、およびM&A活動と戦略が詳述されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「第１３章には、Heeger MaterialsからATT Advanced Elemental Materials Co., Ltd.までの主要企業10社の詳細な分析が含まれており、各企業の会社情報、製品ポートフォリオ、仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の動向が個別に記述されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「本レポートでは、水素貯蔵用高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、加速する世界の水素貯蔵用高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています」（https://newscast.jp/news/7329451）
+  - 「第3章には、企業別の世界市場データ、年間売上高と市場シェア、年間収益と市場シェア、販売価格、主要メーカーの生産地域分布、提供製品、市場集中度分析、新規参入企業、M&A活動と戦略に関する情報が含まれている」（https://newscast.jp/news/7329451）
+  - 「第13章には、主要企業（Heeger Materials, Alloyed, Oerlikonなど）の詳細な分析が含まれており、各企業の会社情報、製品ポートフォリオと仕様、売上、収益、価格、粗利益（2021-2026年）、主要事業概要、および最新の動向が記載されている」（https://newscast.jp/news/7329451）
+  - 「世界の高エントロピー合金市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「この調査結果は非常に有益で、新市場参入の判断に役立ちました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「Startups」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「本レポートでは、耐火高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、加速する世界の耐火高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています」（https://newscast.jp/news/6202500）
+  - 「また、主要メーカーの生産・販売拠点、提供製品、市場集中度分析、新規参入企業、M&A活動および戦略についても分析されている」（https://newscast.jp/news/6202500）
+  - 「第１３章には、Heeger Materials、Alloyed、Oerlikonなどの主要企業について、企業情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主な事業概要、および最新動向が詳細に分析されている」（https://newscast.jp/news/6202500）
+  - 「主要企業（最大3社）のSWOT分析」（https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html）
+  - 「製品ポートフォリオ、事業展開地域、戦略的提携に基づく主要企業のベンチマーキング」（https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html）
+- 日本企業：
+  - 「第６章には、アジア太平洋（APAC）地域における共晶高エントロピー合金の国別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、タイプ別、およびアプリケーション別の販売と収益データが収録されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「・日本語タイトル：共晶高エントロピー合金の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/9134537）
+  - 「第6章には、アジア太平洋地域（APAC）における地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、製品タイプ別、用途別の売上と収益の履歴データ（2021-2026年）が詳細に分析されている」（https://newscast.jp/news/7329451）
+  - 「・日本語タイトル：水素貯蔵用高エントロピー合金の世界市場2026年～2032年」（https://newscast.jp/news/7329451）
+  - 「日本冶金工業株式会社」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「中国、日本、韓国、インドは、強力な政府支援と産学連携の強化を背景に、高エントロピー合金の開発・生産の主要拠点として台頭しています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「日本における高エントロピー合金市場の洞察」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「日本の高エントロピー合金市場は、冶金学、小型化、先端材料工学における深い専門知識を背景に、勢いを増しています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「また、日本の積極的な高齢化対策も、その生体適合性と耐腐食性から、インプラントや手術器具などのバイオメディカル用途における高エントロピー合金の使用を後押ししています」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「また、中国、日本、韓国などの国は材料科学に投資を続けてきました」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「中国、日本、韓国、インドなどの国は、製造能力を強化し、高性能合金の採用を促進することに注力しています」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「日本ヤキン工業株式会社」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「株式会社日立製作所」（https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis）
+  - 「第６章には、APAC地域における耐火性高エントロピー合金の地域別および国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益データ（2021-2026年）が、タイプ別およびアプリケーション別の分析とともに記載されている」（https://newscast.jp/news/6202500）
+  - 「・日本語タイトル：耐火性高エントロピー合金の世界市場2026年～2032年」（https://newscast.jp/news/6202500）
+- 上位シェア：
+  - 「収益面では、世界最大の2社が2025年には約100%のシェアを占めると予測されています」（https://www.atpress.ne.jp/news/9134537）
+  - 「第２章には、世界市場の全体像が提示されており、共晶高エントロピー合金のグローバル年間売上予測（2021-2032年）、地域別および国別の現状と将来分析、製品タイプ別（粉末、棒、板、その他）およびアプリケーション別（航空宇宙、自動車、医療機器、その他）の販売、収益、市場シェア、販売価格の詳細な分析が収録されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「第３章には、企業別のグローバル市場データが示されており、各企業の年間売上高、市場シェア、年間収益、販売価格、生産地域分布、製品情報、市場集中度分析（競争環境、CR3, CR5, CR10）、新製品、潜在的な新規参入者、およびM&A活動と戦略が詳述されている」（https://www.atpress.ne.jp/news/9134537）
+  - 「収益面では、世界市場は2025年には、上位2社が市場シェアの約10%を占めると予測されています」（https://newscast.jp/news/7329451）
+  - 「第3章には、企業別の世界市場データ、年間売上高と市場シェア、年間収益と市場シェア、販売価格、主要メーカーの生産地域分布、提供製品、市場集中度分析、新規参入企業、M&A活動と戦略に関する情報が含まれている」（https://newscast.jp/news/7329451）
+  - 「高エントロピー合金市場規模, シェア & 2032 への予測」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「世界の高エントロピー合金市場の規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「北米は、主に強力な研究開発投資、強力な産業基盤、航空宇宙、防衛、自動車分野における先進材料の早期導入により、2024年に43.61%という最大の収益シェアで高エントロピー合金市場を支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「3D遷移金属高エントロピー合金セグメントは、バランスの取れた機械的特性、合成の容易さ、航空宇宙、自動車、電子機器などの複数の業界にわたる幅広い適用性により、2024年に34.6％という最大の収益シェアで市場を支配しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「3D遷移金属高エントロピー合金セグメントは、バランスの取れた機械的特性、合成の容易さ、そして航空宇宙、自動車、エレクトロニクスなど複数の産業における幅広い適用性により、2024年には34.6%という最大の収益シェアで市場を席巻しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「鋳造・凝固セグメントは、その広範な産業応用、拡張性、そしてバルク高エントロピー合金部品の製造における費用対効果の高さにより、2024年には38.9%という最大の市場シェアを獲得しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「優れた機械的特性セグメントは、2024年には31.4%と最大の市場収益シェアを占めました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「優れた強度対重量比と応力下における耐久性を理由に、産業界が高エントロピー合金への依存度を高めていることから、構造用途セグメントは2024年に36.7%の収益シェアで市場を牽引しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「宇宙・防衛分野は、高強度と軽量性を両立し、過酷な運用環境下でも性能安定性を備えた材料への切実なニーズにより、2024年には29.8%という最大の市場シェアを獲得しました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「2024年、北米における高エントロピー合金の売上高シェアは、防衛、宇宙、エネルギー分野における需要の増加に牽引され、米国市場が圧倒的なシェアを占めました」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+- 投資：
+  - 「JX Nippon Mining & Metals Corporationは、Osaka Alloying Works Co., Ltd.への出資比率を52.6%に引き上げ社ると発表」（https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798）
+  - 「CHIPS Act has attracted nearly USD 450 billion in private semiconductor investments in the United States through August 2024」（https://www.gminsights.com/industry-analysis/high-entropy-alloy-market）
+  - 「RHEA demand tracks hypersonic program funding cycles; procurement volume acceleration anticipated from mid-2027 as programs move from development to low-rate initial production」（https://www.gminsights.com/industry-analysis/high-entropy-alloy-market）
+  - 「March 2025 - Breakthrough Victoria and Swinburne University of Technology invested in EntroMat.」（https://www.gminsights.com/industry-analysis/high-entropy-alloy-market）
+  - 「North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors」（https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market）
+  - 「Asia-Pacific high entropy alloy market is poised to grow at the fastest CAGR of 14.36% between 2025 and 2032, led by rapid industrialization, rising R&D investments, and increased adoption in automotive, energy, and electronics sectors」（https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market）
+  - 「, Medical & healthcare, Research & Academia, and Others. The Aerospace & Defense segment held the largest market share of 29.8% in 2024, owing to the urgent need for materials that offer both high strength and lightweight properties, along with performance stability in extreme operational environments. Government investments and space missions further fuel this segment.」（https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market）
+  - 「North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors.」（https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market）
+  - 「Last September, Alloy raised a $100 million Series C, also led by Lightspeed, at a $1.35 billion valuation.」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Founded in 2015, Alloy has now raised just over $200 million.」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Q1 Global Startup Funding Posts Strongest Quarter Since Q2 2022 With A Third Going To Massive OpenAI Deal」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+- 検索結果の抜粋：
+  - 「共晶 高エントロピー合金 の世界 市場 （2026年～2032年 ... — 共晶 高エントロピー合金 の世界 市場 （2026年～2032年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9134537）
+  - 「高エントロピー合金 の 市場規模 |業界分析レポート、2035 年 — 高エントロピー合金 の 市場規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243）
+  - 「水素貯蔵用 高エントロピー合金 の世界 市場 （2026年～2032年） — 水素貯蔵用 高エントロピー合金 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7329451）
+  - 「高エントロピー合金市場規模 , シェア & 2032 への予測 — 高エントロピー合金市場規模 , シェア & 2032 への予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「高エントロピー合金 の 市場規模 、シェア、2034 年の予測 — 高エントロピー合金 の 市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...」（https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696）
+  - 「高エントロピー合金 の 市場 規模 |業界分析レポート、2035 年 — 高エントロピー合金 の 市場 規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243）
+  - 「高エントロピー合金市場 規模, シェア & 2032 への 予測 — 高エントロピー合金市場 規模, シェア & 2032 への 予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「高エントロピー合金 の 市場 規模、シェア、2034 年の 予測 — 高エントロピー合金 の 市場 規模、シェア、2034 年の 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...」（https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696）
+  - 「耐火性 高エントロピー合金 の世界 市場 （2026年～2032年） — 耐火性 高エントロピー合金 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/6202500）
+  - 「2034年までの 高エントロピー合金 および高融点金属 市場 の 予測 — 2034年までの 高エントロピー合金 および高融点金属 市場 の 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html）
+  - 「高エントロピー合金 の市場規模、シェア、2034 年の予測 — 高エントロピー合金 の市場規模、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...」（https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696）
+  - 「高エントロピー合金 市場規模, シェア & 2032 への予測 — 高エントロピー合金 市場規模, シェア & 2032 への予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market）
+  - 「ミニ特集「ハイ エントロピー合金 の研究最前線」 - 日本金属学会 — ミニ特集「ハイ エントロピー合金 の研究最前線」 - 日本金属学会 日本金属学会 PDF https://www.jim.or.jp > journal > pdf3 > all-57-7」（https://www.jim.or.jp/journal/m/pdf3/57/07/all-57-7.pdf）
+  - 「高エントロピー合金 の市場規模 |業界分析レポート、2035 年 — 高エントロピー合金 の市場規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243）
+  - 「High Entropy Alloy Market Size , Forecasts Report 2026-2035 — High Entropy Alloy Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > high-e...」（https://www.gminsights.com/industry-analysis/high-entropy-alloy-market）
+
+## 金属ガラス（アモルファス合金）（amorphous metal）
+- 文脈：新合金
+- 市場規模：
+  - 「金属ガラス市場規模、動向・予測（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「金属ガラス市場は2025年に10億8,000万米ドルと評価され、2026年には11億7,000万米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「金属ガラス市場は、商業的に性質の異なる2つの需要の流れによって形成されている」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「金属ガラス市場規模：材料組成別、2025年および2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「北米の金属ガラス市場は2025年に1億8,400万米ドルを生み出し、年平均成長率（CAGR）7.7%で成長すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「の2025年の市場規模は5,200万米ドルで、2026〜2035年の年平均成長率（CAGR）は7.1%と予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「の市場規模は2035年までに5,600万米ドルに達すると予測され、2025年の欧州市場売上高に占める割合は18.1%であった」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は2025年の欧州市場売上高の14.8%を占め、市場規模は2035年までに4,300万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「アジア太平洋地域の金属ガラス市場は、2025年に6億7,600万米ドルを生み出し、2035年には世界市場売上高の63.1%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「の市場規模は2025年に3億3,700万米ドルで、2035年にはアジア太平洋市場売上高の52.8%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「2028年に19億2,100万米ドルに達する世界のアモルファス金属の市場規模 | MARKETYSERS GLOBAL CONSULTING LLPのプレスリリース」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「2028年に19億2,100万米ドルに達する世界のアモルファス金属��の市場規模」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）8.1%で成長し、2035年には23億5,000万米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2035年までに3億8,300万米ドルに達し、年平均成長率（CAGR）10.5%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2035年までに6億4,800万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は10.5%になると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年に6,500万米ドルを生み出し、2026〜2035年の年平均成長率（CAGR）は6.6%になると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は2035年までに2億2,900万米ドルに達し、年平均成長率（CAGR）18.2%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「ニューヨーク、2022年02月07日 – MARKETYSERS GLOBAL CONSULTING LLP のグループ会社である Emergen Researchは Emergen Researchの最新の分析によると、世界のアモルファス金属の市場規模は2020年に9億8,540万米ドルに達し、予測期間中に安定した収益CAGRを記録すると予想されています」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「世界のアモルファス金属市場は予測期間にわたって8.8％のCAGRを記録すると予想され、収益は2020年の9億8,540万米ドルから2028年には19億2,100万米ドルに増加すると予測されています」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「世界の噴霧成形アモルファス合金粉末市場規模は、2025年の3,717万米ドルから2032年には7,648万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.5%で成長すると見込まれています」（https://newscast.jp/news/7306611）
+  - 「バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大 | QY Research株式会社のプレスリリース」（https://www.dreamnews.jp/press/0000356136）
+  - 「バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大」（https://www.dreamnews.jp/press/0000356136）
+  - 「その後、2026年から2032年にかけて年平均成長率（CAGR）14.2%で推移し、2032年には1668百万米ドルに拡大すると見込まれています」（https://www.dreamnews.jp/press/0000356136）
+  - 「回転ステアリングツール市場の最新予測：2026年に447百万米ドル規模、成長率4.9%の見通し」（https://www.dreamnews.jp/press/0000356136）
+  - 「自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大」（https://www.dreamnews.jp/press/0000356136）
+  - 「世界のタンパク質および抗体精製用磁気ビーズ市場動向、年平均成長率6.7%で拡大継続2026-2032」（https://www.dreamnews.jp/press/0000356136）
+- 主要企業：
+  - 「金属ガラス市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「金属ガラス市場の主要企業には、Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporationなどがある」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「グローバル市場レポートに含まれるいくつかの主要企業は、日立金属株式会社、マテリオン株式会社、青島雲呂先端材料技術株式会社、中国アモルファステクノロジー株式会社、Zhaojing Incorporated、Shijiazhuang Shenke Metal Products Co.株式会社、Federal Steel Supply、Inc.、Advanced Metal Technology、Inc」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、特にアトマイズドアモルファス合金粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界のアトマイズドアモルファス合金粉末市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/7306611）
+  - 「さらに、競争状況分析、市場集中度（CR3、CR5、CR10比率）分析（2024年から2026年）、新製品と潜在的な新規参入企業、および市場のM&A活動と戦略についても言及されています」（https://newscast.jp/news/7306611）
+  - 「第13章には、主要企業の詳細な分析が収録されています」（https://newscast.jp/news/7306611）
+  - 「主要企業と今後の競争ポイント」（https://www.dreamnews.jp/press/0000356136）
+  - 「非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年） | 記事 | ブログ」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年）」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「市場参入企業は、高度な製品の開発、性能向上、変化する業界ニーズへの対応を目的として、研究開発への投資を強化しています」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「🚀 非晶質鋼市場の主要企業」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「これらの複雑さは、先行投資と運用コストの増加につながり、小規模企業の参入を妨げ、広範な採用を制限する可能性があります」（https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/）
+  - 「ナノ結晶合金や先進的な複合材料などの代替材料の参入は、市場シェアに脅威をもたらします」（https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/）
+- 日本企業：
+  - 「Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporation」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「Nikkei Asia. "EV Motor Alloy from Japan's Proterial Trims Power Use by 5%." asia.nikkei.com」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「中国の変圧器製造とアモルファスリボンの消費が地域市場の規模を支える一方、日本は精密材料に関する専門性を発揮し、韓国とインドでは電子機器と送電網拡張による需要が加わる」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「TDK Corporation」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「金属ガラス市場の主要企業には、Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporationなどがある」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「グローバル市場レポートに含まれるいくつかの主要企業は、日立金属株式会社、マテリオン株式会社、青島雲呂先端材料技術株式会社、中国アモルファステクノロジー株式会社、Zhaojing Incorporated、Shijiazhuang Shenke Metal Products Co.株式会社、Federal Steel Supply、Inc.、Advanced Metal Technology、Inc」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の微粒化アモルファス合金粉末の販売額と収益が示されています」（https://newscast.jp/news/7306611）
+  - 「・日本語タイトル：微粒化アモルファス合金粉末の世界市場2026年～2032年」（https://newscast.jp/news/7306611）
+  - 「日本住所：〒104-0061 東京都中央区銀座6-13-16 銀座Wallビル UCF5階」（https://www.dreamnews.jp/press/0000356136）
+  - 「TEL：050-5893-6232（日本）／0081-5058936232（グローバル）」（https://www.dreamnews.jp/press/0000356136）
+  - 「E-mail：japan@qyresearch.com」（https://www.dreamnews.jp/press/0000356136）
+  - 「日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...」（https://www.dreamnews.jp/press/0000356136）
+  - 「Hitachi Metals, Ltd.」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「北米（米国、カナダ、メキシコ）欧州（ドイツ、英国、フランス、イタリア）アジア太平洋（中国、日本、インド、韓国）ラテンアメリカ（ブラジル、アルゼンチン）中東およびアフリカ（MEA）（アラブ首長国連邦、サウジアラビア、南アフリカ）アフリカ)」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+  - 「16-8, Higashi 1-chome, Shibuya-ku, Tokyo 150-0011, Japan」（https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4）
+- 上位シェア：
+  - 「金属ガラス市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「であり、2025年の市場シェアは合計で」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「Feリボン需要は2035年まで市場で最大の数量を占めるセグメントであり続ける」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は2025年に7億4,700万米ドルを生み出し、2035年には市場の64.3%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は2025年に市場の5.0%を占め、2035年までに1億5,400万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年に市場シェア6.0%を占め、2035年には1億4,600万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年に5億9,600万米ドルを生み出し、2035年には市場の47.1%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年の市場収益の10.5%を占め、2035年までに3億3,900万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年に市場シェア5.0%を占め、2035年までに1億1,200万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年に7億2,600万米ドルを生み出し、2035年には市場の58.7%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「は、2025年の市場収益の14.5%を占め、2035年までに3億7,800万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「また、製品タイプ別（水アトマイズ、ガスアトマイズ）、酸素含有量別（<1000ppm、1000-1200ppm、>1200ppm）、粒度別（<25μm、≥25μm）、および用途別（磁性粉末コア、アモルファスコーティング、その他）に、それぞれの販売額、市場シェア、収益、および販売価格（2021年から2026年）の詳細な分析が収録されています」（https://newscast.jp/news/7306611）
+  - 「具体的には、2021年から2026年までの企業別の微粒化アモルファス合金粉末の年間販売額とその市場シェア、年間収益とその市場シェア、販売価格が示されています」（https://newscast.jp/news/7306611）
+  - 「QYResearch調査チームの最新レポート「バルク金属ガラス―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、バルク金属ガラスの世界市場は、2025年に668百万米ドルと推定され、2026年には753百万米ドルに達すると予測されています」（https://www.dreamnews.jp/press/0000356136）
+  - 「世界のバルク金属ガラス市場では、アジア太平洋地域が最大の市場となっており、約60％のシェアを占めている」（https://www.dreamnews.jp/press/0000356136）
+- 投資：
+  - 「International Energy Agency. "World Energy Investment 2025." iea.org」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「by 2033, requiring substantial investments in power conversion and distribution infrastructure. Solar photovoltaic inverters and」（https://dataintelo.com/report/amorphous-metal-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/amorphous-metal-market）
+  - 「Regionally, Asia-Pacific dominates the market with approximately 45% share, led by China, Japan, and South Korea, where substantial investments in electrical infrastructure and manufacturing capabilities have created strong demand. North America follows with roughly 30% market share, with particular strength in aerospace and medical applications.」（https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption）
+  - 「02 Investment strategies in amorphous metals markets」（https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption）
+  - 「Investment in manufacturing innovation represents another critical strategy, with several companies developing improved production techniques such as suction casting and spark plasma sintering that promise to reduce costs and increase production volumes. These innovations could potentially reduce manufacturing costs by 30-40% within the next five years.」（https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption）
+  - 「The funds raised will be used to finance the operational launch in 2025 of Vulkam's first plant, located in Isère, and dedicated to the production of its new metals for industry, Vulkalloys®, with unprecedented mechanical performance designed to」（https://www.groupeseb.com/en/news/vulkam-raises-eu34m-build-its-first-amorphous-metals-production-plant-revolution-metallurgy）
+- 検索結果の抜粋：
+  - 「金属ガラス市場 の 規模 ・シェア・予測レポート（2034年） — 金属ガラス市場 の 規模 ・シェア・予測レポート（2034年） Global Market Insights Inc. https://www.gminsights.com > ... > 化学・材料 > 特殊ガラス」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「2028年に19億2100万米ドルに達する世界の アモルファス金属 ... — 2028年に19億2100万米ドルに達する世界の アモルファス金属 ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000120.000082259.html）
+  - 「微粒化 アモルファス合金 粉末の世界 市場 （2026年～2032年） — 微粒化 アモルファス合金 粉末の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7306611）
+  - 「アモルファス合金 ストリップ 市場 の12.7％の 年平均成長率 ... — アモルファス合金 ストリップ 市場 の12.7％の 年平均成長率 ... LinkedIn https://jp.linkedin.com > pulse > アモルファス合金ストリッ...」（https://jp.linkedin.com/pulse/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E5%90%88%E9%87%91%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AE127%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%88%90%E9%95%B7%E5%86%85%E8%A8%B3-rhetoricreachx-mbuie）
+  - 「バルク 金属ガラス市場規模 レポート2026：753百万米ドル到達 ... — バルク 金属ガラス市場規模 レポート2026：753百万米ドル到達 ... ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000356136）
+  - 「金属ガラス市場 の規模・シェア・ 予測 レポート（2034年） — 金属ガラス市場 の規模・シェア・ 予測 レポート（2034年） Global Market Insights Inc. https://www.gminsights.com > ... > 化学・材料 > 特殊ガラス」（https://www.gminsights.com/ja/industry-analysis/metallic-glass-market）
+  - 「銅系 アモルファス合金市場 | 市場 規模 分析 予測 2026-2032年 ... — 銅系 アモルファス合金市場 | 市場 規模 分析 予測 2026-2032年 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 電力インフラ > 変圧器」（https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html）
+  - 「アモルファス合金 とAMの可能性 | 業務用3Dプリンターの ... — アモルファス合金 とAMの可能性 | 業務用3Dプリンターの ... ShareLab NEWS https://news.sharelab.jp > コラム」（https://news.sharelab.jp/column/amorphous-hereus220826/）
+  - 「アモルファス金属 メーカー8社 注目ランキング【2026年】 — アモルファス金属 メーカー8社 注目ランキング【2026年】 Metoree https://metoree.com > 金属材料」（https://metoree.com/categories/6014/）
+  - 「Amorphous Metal Market Analysis 2025 to 2034 — Amorphous Metal Market Analysis 2025 to 2034 TrendX Insights https://trendxinsights.com > amorpho...」（https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/）
+  - 「World's Top 10 Companies in Amorphous Alloy Band Market — World's Top 10 Companies in Amorphous Alloy Band Market Spherical Insights https://www.sphericalinsights.com > ...」（https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035）
+  - 「Amorphous Metal Market Size , Share & Forecast Report 2025 ... — Amorphous Metal Market Size , Share & Forecast Report 2025 ... Dataintelo https://dataintelo.com > report > amor...」（https://dataintelo.com/report/amorphous-metal-market）
+  - 「The Growth Journey of the Amorphous Metal Market ... — The Growth Journey of the Amorphous Metal Market ... Apiary.io https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io」（https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/）
+
+## 形状記憶合金（shape memory alloy）
+- 文脈：機能合金
+- 市場規模：
+  - 「形状記憶合金市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「世界の形状記憶合金（SMA）市場規模は2025年に17億米ドルと評価され、2026年には18億8,000万米ドルに達すると見込まれている」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金（SMA）市場ではNiTi／ニチノールが主導的な地位を占め、2025年の市場規模は14億4,000万米ドルとなり、2035年には41億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金（SMA）市場規模：合金タイプ別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「銅系SMAは2025年に10.0%のシェアを占め、2035年には4億8,300万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「鉄系SMAは2025年に5,100万米ドルの市場規模となり、2035年には3.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「その他のSMAは2025年に2.0%のシェアを占め、2035年には9,600万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「線材は2025年に8億8,100万米ドルの市場規模となり、2035年には25億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「板材・帯材は2025年に18.0%のシェアを占め、2035年には8億6,900万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「チューブは2025年に2億300万米ドルの市場規模となり、2035年には5億8,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/5211789）
+  - 「形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表」（https://newscast.jp/smart/news/5211789）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）は11％と予測され、2035年には48億3,000万米ドルに達する見通しである」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「神経血管、電気生理、構造的心疾患、末梢血管、整形外科の各医療機器市場を背景に、医療用ニチノール需要は18%の年平均成長率（CAGR）で拡大 [1]」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「医療分野は2035年まで圧倒的な売上シェアを維持し、OEMによる安定した調達が11.0%の年平均成長率（CAGR）の軌道を後押し」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「供給側の能力拡大が数量の伸びを支え、新たなOEM認定サイクルにより、2027〜2030年にかけて売上の伸びが加速する見込み」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「LMEニッケル価格は2025年に平均15,160米ドル/tとなり、インドネシアでの生産拡大が続くなか、過去10年間で最低水準を記録した [3]」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「地政学的な事象や日本からの供給引き締まりにより、予測年平均成長率（CAGR）11.0%の成長が抑制される可能性がある」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています」（https://newscast.jp/smart/news/5211789）
+  - 「米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています」（https://newscast.jp/smart/news/5211789）
+  - 「中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/smart/news/5211789）
+  - 「ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています」（https://newscast.jp/smart/news/5211789）
+  - 「世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています」（https://www.atpress.ne.jp/news/5211789）
+  - 「米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています」（https://www.atpress.ne.jp/news/5211789）
+  - 「中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/5211789）
+  - 「ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています」（https://www.atpress.ne.jp/news/5211789）
+- 主要企業：
+  - 「高い認定障壁により新規参入が制限され、新たなSMA機器設計の商業化が遅れる」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「材料仕様、工程バリデーション、機器レベルのエビデンス要件が迅速な参入を制限する一方、検証済みの生産プロセスを確立した既存企業を保護する側面もある」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「医療分野のプログラムは持続的な高付加価値の基盤となる一方、航空宇宙および自動車分野の参入経路は、市場の重心を直ちに変えるというより、戦略的な選択肢を広げる」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「一方、規制要件は引き続き、サプライヤーや販売業者の市場参入経路に影響を及ぼしている」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「高度な医療に対応する病院ネットワークが直接的な臨床需要を支えており、流通拠点としての役割により、より広域な地域に医療機器の材料や部品を供給する際の参入・再輸出拠点としての重要性も高まっている」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金市場の主要企業には、Resonetics、Fort Wayne Metals、ATI Inc.、Xi'an Saite Metal Materials Development Co. Ltd.、Furukawa Electricなどがある」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「また、本レポートでは、記憶合金超弾性ワイヤーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の記憶合金超弾性ワイヤー市場における各企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/smart/news/5211789）
+  - 「さらに、市場の競争状況分析、市場集中度（CR3、CR5、CR10）が2024年から2026年の期間で分析されており、新規参入企業、市場のM&A活動、および戦略についても記述されています」（https://newscast.jp/smart/news/5211789）
+  - 「また、本レポートでは、記憶合金超弾性ワイヤーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の記憶合金超弾性ワイヤー市場における各企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/5211789）
+  - 「さらに、市場の競争状況分析、市場集中度（CR3、CR5、CR10）が2024年から2026年の期間で分析されており、新規参入企業、市場のM&A活動、および戦略についても記述されています」（https://www.atpress.ne.jp/news/5211789）
+  - 「当社の調査レポートによると、世界の形状記憶合金アクチュエータ市場の成長において重要な役割を果たしている主要企業には、Johnson Matthey、SAES Getters、Fort Wayne Metals、Dynalloy Inc.、Memry Corporation などが含まれます」（https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003）
+  - 「本市場調査レポートには、これらの主要企業の詳細な競合分析、企業概要、最近の傾向、主要な市場戦略が含まれています」（https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003）
+- 日本企業：
+  - 「米国はチタンスポンジの約80%を日本から輸入しており、国内にはチタンスポンジの生産能力がない [4]」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「地政学的な事象や日本からの供給引き締まりにより、予測年平均成長率（CAGR）11.0%の成長が抑制される可能性がある」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「日本は2025年に1億1,900万米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）6.7%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「世界の主要な形状記憶合金超弾性ワイヤーメーカーには、古河電気工業、新日本製鉄、蘭州海明科利新材料、中国機械金属江蘇、北京時代比連などが含まれます」（https://newscast.jp/smart/news/5211789）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の売上および収益、タイプ別の売上、および用途別の売上が分析されています」（https://newscast.jp/smart/news/5211789）
+  - 「古河電工、日本製鉄、蘭州西明科技新材料、中国機械金属江蘇、北京時代必聯、深センNitiDriveTech、西安星克、上海帝一科技、西安知和、PEIERTECHなどの各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の開発状況が網羅的に記述されています」（https://newscast.jp/smart/news/5211789）
+  - 「・日本語タイトル：形状記憶合金（スーパーエラスティック）ワイヤーの世界市場2026年～2032年」（https://newscast.jp/smart/news/5211789）
+  - 「古河電気工業」（https://newscast.jp/smart/news/5211789）
+  - 「世界の主要な形状記憶合金超弾性ワイヤーメーカーには、古河電気工業、新日本製鉄、蘭州海明科利新材料、中国機械金属江蘇、北京時代比連などが含まれます」（https://www.atpress.ne.jp/news/5211789）
+  - 「2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の売上および収益、タイプ別の売上、および用途別の売上が分析されています」（https://www.atpress.ne.jp/news/5211789）
+  - 「古河電工、日本製鉄、蘭州西明科技新材料、中国機械金属江蘇、北京時代必聯、深センNitiDriveTech、西安星克、上海帝一科技、西安知和、PEIERTECHなどの各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の開発状況が網羅的に記述されています」（https://www.atpress.ne.jp/news/5211789）
+  - 「・日本語タイトル：形状記憶合金（スーパーエラスティック）ワイヤーの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/5211789）
+  - 「古河電気工業」（https://www.atpress.ne.jp/news/5211789）
+  - 「古河電気工業株式会社」（https://prtimes.jp/main/html/rd/p/000003021.000067400.html）
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003）
+- 上位シェア：
+  - 「形状記憶合金市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「Resoneticsは2025年に10.1%を超える市場シェアを獲得し、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「であり、2025年に合計27%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「医療分野は2035年まで圧倒的な売上シェアを維持し、OEMによる安定した調達が11.0%の年平均成長率（CAGR）の軌道を後押し」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金（SMA）市場ではNiTi／ニチノールが主導的な地位を占め、2025年の市場規模は14億4,000万米ドルとなり、2035年には41億1,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「銅系SMAは2025年に10.0%のシェアを占め、2035年には4億8,300万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「鉄系SMAは2025年に5,100万米ドルの市場規模となり、2035年には3.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「その他のSMAは2025年に2.0%のシェアを占め、2035年には9,600万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「板材・帯材は2025年に18.0%のシェアを占め、2035年には8億6,900万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「棒材・バー材は2025年に8.0%のシェアを占め、2035年には3億8,600万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「ばね・成形アクチュエーターは2025年に1億1,900万米ドルの市場規模となり、2035年には7.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「粉末は2025年に3.0%のシェアを占め、2035年には1億4,500万米ドルの市場規模になると予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金（SMA）市場シェア：用途別、2025年」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「航空宇宙・防衛分野は2025年に18.0%のシェアを占め、2035年には7億7,300万米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました」（https://newscast.jp/smart/news/5211789）
+- 投資：
+  - 「たとえば、2022年1月には、アイルランド・ダブリンのスタートアップ「Exergyn」が排出削減を目的とした熱管理技術のために3,500万ドルの資金調達を行いました」（https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878）
+  - 「Middle East & Africa generated USD 50 million in 2025 and is expected to expand at an 11.4% CAGR (2026–2035). Demand is centered on imported medical devices and materials, with healthcare capacity investment in Gulf markets creating a stronger base for interventional cardiology, endoscopy, and related specialist procedures.」（https://www.gminsights.com/industry-analysis/shape-memory-alloys-market）
+  - 「held a 4.8% share in 2025. Its strategic role is concentrated at the melt stage, where upstream metallurgical capability underpins downstream medical-grade conversion. This position makes capacity planning and customer-aligned investment central to its competitive relevance.」（https://www.gminsights.com/industry-analysis/shape-memory-alloys-market）
+  - 「30% of our revenue is generated working with investment firms and helping them identify viable opportunity areas.」（https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china）
+  - 「In January 2024, Confluent and ATI announced an investment exceeding USD 50 million to more than triple ATI's medical Nitinol melt capacity.」（https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html）
+  - 「Demographic trends further strengthen this opportunity. According to projections from the United Nations, the global population aged 60 and above is expected to expand substantially by 2050, increasing demand for orthopedic implants and assistive devices. In parallel, research funding from the National Institutes of Health continues to accelerate innovation in advanced biomaterials.」（https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp）
+  - 「North America leads the market with a 37.5% share, supported by advanced U.S. innovation, regulatory frameworks, and biomedical research funding.」（https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp）
+  - 「Last September, Alloy raised a $100 million Series C, also led by Lightspeed, at a $1.35 billion valuation.」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Founded in 2015, Alloy has now raised just over $200 million.」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Q1 Global Startup Funding Posts Strongest Quarter Since Q2 2022 With A Third Going To Massive OpenAI Deal」（https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/）
+  - 「Startup Funding: Q4 2025」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion.」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$100.0M in Series B investment」（https://semiengineering.com/startup-funding-q4-2025/）
+- 検索結果の抜粋：
+  - 「形状記憶合金市場規模 ・予測レポート（2026〜2035年） — 形状記憶合金市場規模 ・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金 Market Sizeは、2026年から2033年までの年間 ... — 形状記憶合金 Market Sizeは、2026年から2033年までの年間 ... LinkedIn https://jp.linkedin.com > pulse > 形状記憶合金-market-siz...」（https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91-market-size%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E9%96%93%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C88%E3%81%A8%E6%8E%A8%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E6%8E%A2%E7%B4%A2-fiodf）
+  - 「形状記憶合金 の世界 市場 は、2021年から2027年の予測期間中 — 形状記憶合金 の世界 市場 は、2021年から2027年の予測期間中 PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000003021.000067400.html）
+  - 「形状記憶合金市場 規模・ 予測 レポート（2026〜2035年） — 形状記憶合金市場 規模・ 予測 レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金市場 | 市場 規模 業界分析 予測 2034年 【 市場 調査 ... — 形状記憶合金市場 | 市場 規模 業界分析 予測 2034年 【 市場 調査 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html）
+  - 「形状記憶合金 の 市場 規模、シェア |成長レポート [2034] — 形状記憶合金 の 市場 規模、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > メモリ合金市場...」（https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322）
+  - 「形状記憶合金市場 における戦略の調整：2026年から2033年 ... — 形状記憶合金市場 における戦略の調整：2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > 形状記憶合金市場にお...」（https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%A6%E7%95%A5%E3%81%AE%E8%AA%BF%E6%95%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8746%E3%81%AE%E4%BA%88-7513698836369039360-4sqve）
+  - 「形状記憶合金 市場規模・予測レポート（2026〜2035年） — 形状記憶合金 市場規模・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market」（https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market）
+  - 「形状記憶合金 ワイヤ メーカー8社 注目ランキング【2026年】 — 形状記憶合金 ワイヤ メーカー8社 注目ランキング【2026年】 Metoree https://metoree.com > 金属材料」（https://metoree.com/categories/9801/）
+  - 「形状記憶合金 の市場規模、シェア |成長レポート [2034] — 形状記憶合金 の市場規模、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > メモリ合金市場...」（https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322）
+  - 「Shape Memory Alloys Market Size , Forecasts Report 2026-2035 — Shape Memory Alloys Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > shape-...」（https://www.gminsights.com/industry-analysis/shape-memory-alloys-market）
+  - 「China Shape Memory Alloys Market Outlook, 2033 — China Shape Memory Alloys Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china）
+  - 「Shape Memory Alloys Market Size , Share, Trends | Report, 2035 — Shape Memory Alloys Market Size , Share, Trends | Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997）
+  - 「Shape Memory Alloys Market Size & Growth Analysis, 2033 — Shape Memory Alloys Market Size & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp）
+  - 「Shape Memory Alloys Market Size, Forecasts Report 2026-2035 — Shape Memory Alloys Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > shape-...」（https://www.gminsights.com/industry-analysis/shape-memory-alloys-market）
+
+## マグネシウム合金（magnesium alloy）
+- 文脈：軽量金属
+- 市場規模：
+  - 「世界のマグネシウム合金市場規模、シェア、分析（2032年まで）」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場規模、シェア、動向、成長率（2032年まで）」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「2023年の市場規模」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場規模は、2023年には約」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場規模は、2023年には約24億2000万米ドルでしたが、2032年までに約71億4000万米ドルに成長すると予測されています」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場は、2024年から2032年の間に年平均成長率（CAGR）約12.80%で成長すると予測されている」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/7012785）
+  - 「民生用電子機器向けマグネシウム合金の世界市場（2026年～2032年）、市場規模（鋳造合金、鍛造合金、その他）・分析レポートを発表」（https://newscast.jp/smart/news/7012785）
+  - 「世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています」（https://newscast.jp/smart/news/7012785）
+  - 「2021年から2026年までの地理的地域別および国/地域別の年間売上高と年間収益の市場規模データが含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「2027年から2032年までの地域別の市場規模予測と年間収益予測に加え、アメリカ地域、APAC地域、ヨーロッパ地域、中東およびアフリカ地域における国別の予測、さらにタイプ別および用途別の世界予測が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「2024 Market Size」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「$ 1.9 Billion」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「2025 Market Size」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「$ 1.98 Billion」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+- 成長率：
+  - 「世界のマグネシウム合金市場規模、シェア、動向、成長率（2032年まで）」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「でしたが、2024年から2032年までの年平均成長率」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「12.80％のCAGR」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「2024年から2032年までのマグネシウム合金市場の年平均成長率（CAGR）はどのくらいになるでしょうか？」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場は、2024年から2032年の間に年平均成長率（CAGR）約12.80%で成長すると予測されている」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています」（https://newscast.jp/smart/news/7012785）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「マグネシウム合金産業は、2025年に19.78億米ドルから2035年までに29.31億米ドルに成長する見込みであり、2025年から2035年の予測期間中に年平均成長率（CAGR）は4.01を示します」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「市場分析によれば、電子機器セグメントはマグネシウム合金市場全体の成長に大きく寄与する可能性があり、今後数年間で年平均成長率が5％を超えるとの予測が示されています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「2025年9月、ダイコアアルミニウム（カナダ）は、マグネシウム合金のための先進的な製造技術に投資することで生産能力を拡大しました」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「マグネシウム合金市場は、2024年から2035年までの間に年平均成長率4.01%で成長する見込みであり、自動車および航空宇宙分野での需要の増加と製造技術の進展がその要因となっています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「2025年から2035年の予測期間におけるマグネシウム合金市場の予想CAGRはどのくらいですか？」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「2025年から2035年の予測期間中のマグネシウム合金市場の予想CAGRは4.01%です」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「世界の民生用電子機器向けマグネシウム合金市場規模は、2025年の5億2,500万米ドルから2032年には7億8,000万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.9%で成長すると見込まれています」（https://www.atpress.ne.jp/news/7012785）
+  - 「今後、IMARC Groupは、同市場が2033年までに46億米ドルに達し、2025年から2033年の間に年平均成長率（CAGR）9.29％を記録すると予想しています」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+- 主要企業：
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「マグネシウム合金市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場における主要企業には、Magnesium Elektron、Nanjing Yunhai Special Metals、Ka Shui International、US Magnesium、Meridian Lightweight Technologies、Shanghai Regal Magnesium、Magontec、Shanxi Credit Magnesium、Shanxi Yinguang Huasheng Magnesium、およびAMACORなどが挙げられる」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、特に民生用電子機器向けマグネシウム合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界的な民生用電子機器向けマグネシウム合金市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/smart/news/7012785）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、競争状況分析を含む市場集中度分析（CR3、CR5、CR10の集中度を2024年から2026年まで）、新製品情報、潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「第13章には、Luxfer、U.S. Magnesium、Dead Sea Magnesium、Yunhai Special Metals、Regal Magnesium、Magontec、Zhenxin Magnesium、Shanxi Bada Magnesium、Yinguang Huasheng Magnesium、Huashun Magnesium、Shaanxi Tianyu Magnesiumといった主要企業の詳細な分析が含まれています」（https://newscast.jp/smart/news/7012785）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「北米の主要国には、米国とカナダが含まれ、Aerospace AlloysやDajcor Aluminumなどの主要企業が積極的に関与しています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「中国、日本、インドがこの市場の主要国であり、China Magnesium CorporationやUACJ Corporationなどの主要企業が積極的に参加しています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「マグネシウム合金市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「主要企業のプロファイル」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「また、本レポートでは、世界的な主要企業の戦略を分析し、特に民生用電子機器向けマグネシウム合金のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界的な民生用電子機器向けマグネシウム合金市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/7012785）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供される製品タイプ、競争状況分析を含む市場集中度分析（CR3、CR5、CR10の集中度を2024年から2026年まで）、新製品情報、潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://www.atpress.ne.jp/news/7012785）
+  - 「第13章には、Luxfer、U.S. Magnesium、Dead Sea Magnesium、Yunhai Special Metals、Regal Magnesium、Magontec、Zhenxin Magnesium、Shanxi Bada Magnesium、Yinguang Huasheng Magnesium、Huashun Magnesium、Shaanxi Tianyu Magnesiumといった主要企業の詳細な分析が含まれています」（https://www.atpress.ne.jp/news/7012785）
+- 日本企業：
+  - 「2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています」（https://newscast.jp/smart/news/7012785）
+  - 「・日本語タイトル：民生用電子機器向けマグネシウム合金の世界市場2026年～2032年」（https://newscast.jp/smart/news/7012785）
+  - 「Japanese」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「航空宇宙合金（米国）、マグネシウムエレクトロン（英国）、ノルスク・ハイドロ（ノルウェー）、UACJコーポレーション（日本）、中国マグネシウムコーポレーション（中国）、ダイコールアルミニウム（カナダ）、青海塩湖産業（中国）、雲陽マグネシウム（中国）、クムズ（ロシア）」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この地域は、世界市場の約25％を占めており、中国が最大の貢献者であり、日本が続いています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「中国、日本、インドがこの市場の主要国であり、China Magnesium CorporationやUACJ Corporationなどの主要企業が積極的に参加しています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この分散は、ニッチプレーヤーが繁栄することを可能にし、UACJコーポレーション（日本）や中国マグネシウムコーポレーション（中国）などの大企業が戦略的パートナーシップや買収を通じて地位を強化し、市場全体の構造を形成しています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「2021年から2026年までのAPAC地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾を含む）の売上高と収益、タイプ別売上高、用途別売上高の詳細な分析が提供されています」（https://www.atpress.ne.jp/news/7012785）
+  - 「・日本語タイトル：民生用電子機器向けマグネシウム合金の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/7012785）
+  - 「この市場調査報告書は、北米（米国、カナダ）、欧州（ドイツ、フランス、英国、イタリア、スペイン、その他）、アジア太平洋（中国、日本、インド、韓国、オーストラリア、インドネシア、その他）、中南米（ブラジル、メキシコ、その他）、中東・アフリカを含むすべての主要地域市場についても包括的な分析を行っている」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「アメリカ、カナダ、ドイツ、フランス、イギリス、イタリア、スペイン、中国、日本、インド、韓国、オーストラリア、インドネシア、ブラジル、メキシコ」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「Overall, the deliverable was well organized and my experience with the project team was good. In particular, I appreciated how they responded when I requested additional information and the Japanese version.」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「日本の銅合金の市場規模、シェア、動向、予測 タイプ別、最終用途別、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「日本のアルミニウム合金市場規模、シェア、動向および予測用途別、地域別、2026年～2034年」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「Japan Market Research」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+- 上位シェア：
+  - 「世界のマグネシウム合金市場規模、シェア、分析（2032年まで）」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「世界のマグネシウム合金市場規模、シェア、動向、成長率（2032年まで）」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「各セグメントでは、2021年から2026年までの世界売上市場シェア、収益と市場シェア、販売価格の詳細なデータが示されています」（https://newscast.jp/smart/news/7012785）
+  - 「2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています」（https://newscast.jp/smart/news/7012785）
+  - 「マグネシウム合金市場の規模とシェア | 業界レポート 2035」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「最近の研究によると、自動車部門はマグネシウム合金市場のかなりの部分を占めると予想されており、2025年までに数十億ドルを超える市場規模になる可能性があると推定されています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「業界の報告によれば、航空宇宙セグメントはマグネシウム合金市場の重要なシェアを占め、2026年までに数十億米ドルの評価に達する可能性があります」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この地域は、世界市場の約35％を占めており、マグネシウム合金の最大の市場となっています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この地域は、世界市場の約30％を占めており、2番目に大きな市場となっています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この地域は、世界市場の約25％を占めており、中国が最大の貢献者であり、日本が続いています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「この地域は現在、世界市場の約10％を占めており、南アフリカやUAEが先頭に立っています」（https://www.marketresearchfuture.com/ja/reports/magnesium-alloy-market-28554）
+  - 「各セグメントでは、2021年から2026年までの世界売上市場シェア、収益と市場シェア、販売価格の詳細なデータが示されています」（https://www.atpress.ne.jp/news/7012785）
+  - 「2021年から2026年までの企業別の年間売上高、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています」（https://www.atpress.ne.jp/news/7012785）
+  - 「マグネシウム合金市場規模、シェア、業界分析レポート 2033」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「日本の銅合金の市場規模、シェア、動向、予測 タイプ別、最終用途別、地域別、2026-2034年」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+- 投資：
+  - 「The U.S. is the leading country with the highest spending on the defense sector. In 2019, the U.S. government proposed a budget of USD 686 billion for the Department of Defense. The key investments of the budget in aircraft included 77 F-35 Joint Strike Fighters, 10 P-8A Aircraft, and 15 KC-46 Tanker Replacements.」（https://www.grandviewresearch.com/industry-analysis/magnesium-alloys-market）
+  - 「The U.S. automotive market is one of the largest in the world and witnessed sales of 17.2 million units in 2018. It also received Foreign Direct Investment (FDI) of USD 114.6 billion in 2018 for the automotive sector. These factors are also likely to have a positive impact on market growth as magnesium alloys are widely used in vehicle interior, exterior, chassis, and powertrain applications.」（https://www.grandviewresearch.com/industry-analysis/magnesium-alloys-market）
+  - 「The region is anticipated to maintain its current position during the forecast term. Over the next few years, new automotive project investments and increased FDIs are expected to be important development drivers for the market. Hyundai Motor, for example, announced a US$ 1.55 billion investment in its new Indonesia car plant in November 2019. Production is aligned to begin in late 2021.」（https://www.datamintelligence.com/research-report/magnesium-alloys-market）
+  - 「In 2019, the U.S. government proposed a budget of USD 686 billion for the Department of Defense. The key investments of the budget in aircraft included 77 F-35 Joint Strike Fighters, 10 P-8A Aircraft and 15 KC-46 Tanker Replacements」（https://www.databridgemarketresearch.com/reports/north-america-magnesium-alloys-market）
+  - 「In November 2019, Hyundai Motor invested USD 1.55 billion in its new Indonesia Car Plant. The production in its new car plant started in late 2021」（https://www.databridgemarketresearch.com/reports/north-america-magnesium-alloys-market）
+  - 「Magnesium Alloy Market By Product Type (Tubes and Pipes, Sheets and Plates, Castings, Extrusions, Others), By Alloy Series Outlook (AZ Series Alloys, AM Series Alloys, AJ Series Alloys, Others), By End-Use Industry - Global Industry Outlook, Key Companies (Magnesium Elektron, US Magnesium, Nanjing Yunhai Special Metals, and others), Trends and Forecast 2025-2034」（https://dimensionmarketresearch.com/report/magnesium-alloy-market/）
+  - 「: The company doubled its magnesium alloy recycling capacity to 4,000 tonnes per year by installing a second Rauch furnace. This investment supports India’s automotive and aerospace sectors with sustainable magnesium supply.」（https://dimensionmarketresearch.com/report/magnesium-alloy-market/）
+  - 「: The Australian government provided almost AUD 2 million in funding to Magnium Australia for feasibility studies on a zero-carbon magnesium refinery in Western Australia.」（https://dimensionmarketresearch.com/report/magnesium-alloy-market/）
+- 検索結果の抜粋：
+  - 「世界の マグネシウム合金市場規模 、シェア、分析（2032年 ... — 世界の マグネシウム合金市場規模 、シェア、分析（2032年 ... Zion Market Research https://www.zionmarketresearch.com > report > magnesiu...」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「民生用電子機器向け マグネシウム合金 の世界 市場 （2026年 ... — 民生用電子機器向け マグネシウム合金 の世界 市場 （2026年 ... Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/7012785）
+  - 「マグネシウム合金 ホイールの 市場規模成長 分析2026-2033 — マグネシウム合金 ホイールの 市場規模成長 分析2026-2033 LinkedIn https://jp.linkedin.com > pulse > マグネシウム合金ホイー...」（https://jp.linkedin.com/pulse/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E6%88%90%E9%95%B7%E5%88%86%E6%9E%902026-2033%E9%81%8E%E5%8E%BB%E3%81%AEcagr-73%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E6%A5%AD%E7%95%8C%E6%8B%A1%E5%A4%A7-vintage-vector-bkiue）
+  - 「民生用電子機器向け マグネシウム合金 の世界 市場 （2026年 ... — 民生用電子機器向け マグネシウム合金 の世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/7012785）
+  - 「マグネシウム合金市場 規模、シェア、業界分析レポート 2033 — マグネシウム合金市場 規模、シェア、業界分析レポート 2033 IMARC Group https://www.imarcgroup.com > Chemical & Materials」（https://www.imarcgroup.com/report/ja/magnesium-alloys-market）
+  - 「マグネシウム合金 インゴットの世界 市場 （2026年～2032年） — マグネシウム合金 インゴットの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/5082934）
+  - 「世界の マグネシウム合金市場 規模、シェア、分析（2032年 ... — 世界の マグネシウム合金市場 規模、シェア、分析（2032年 ... Zion Market Research https://www.zionmarketresearch.com > report > magnesiu...」（https://www.zionmarketresearch.com/ja/report/magnesium-alloys-market）
+  - 「マグネシウム合金 の世界 市場 （～2035年）：業界動向、 予測 — マグネシウム合金 の世界 市場 （～2035年）：業界動向、 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/root2015362-magnesium-alloys-market-till-industry-trends.html）
+  - 「マグネシウム合金市場 規模、シェア、成長率、 予測 （2034年 ... — マグネシウム合金市場 規模、シェア、成長率、 予測 （2034年 ... Straits Research https://straitsresearch.com > 化学品・材料 > 金属・鉱物」（https://straitsresearch.com/jp/report/magnesium-alloys-market）
+  - 「マグネシウム合金 - メーカー・ 企業 14社の業務用製品ランキング — マグネシウム合金 - メーカー・ 企業 14社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > マグネシウム合金」（https://mono.ipros.com/cg2/%E3%83%9E%E3%82%B0%E3%83%8D%E3%82%B7%E3%82%A6%E3%83%A0%E5%90%88%E9%87%91/）
+  - 「民生用電子機器向け マグネシウム合金 の世界市場（2026年 ... — 民生用電子機器向け マグネシウム合金 の世界市場（2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/7012785）
+  - 「Magnesium Alloys Market Size , Share & Growth Report, 2035 — Magnesium Alloys Market Size , Share & Growth Report, 2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/magnesium-alloys-market-5878）
+  - 「Magnesium Alloys Market Size , Share, & Trends Report, 2035 — Magnesium Alloys Market Size , Share, & Trends Report, 2035 Roots Analysis https://www.rootsanalysis.com > mag...」（https://www.rootsanalysis.com/magnesium-alloys-market）
+  - 「Magnesium Alloys Market Size | Industry Report, 2020-2027 — Magnesium Alloys Market Size | Industry Report, 2020-2027 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/magnesium-alloys-market）
+  - 「North America Magnesium Alloys Market Size & Forecast 2029 — North America Magnesium Alloys Market Size & Forecast 2029 Data Bridge Market Research https://www.databridgemarketresearch.com > ...」（https://www.databridgemarketresearch.com/reports/north-america-magnesium-alloys-market）
+
+## 生分解性マグネシウム（医療用）（biodegradable magnesium implant）
+- 文脈：医療金属
+- 市場規模：
+  - 「生分解性マグネシウム合金製骨スクリューの世界市場（2026年～2032年）、市場規模（全ネジ、部分ネジ）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/7695481）
+  - 「生分解性マグネシウム合金製骨スクリューの世界市場（2026年～2032年）、市場規模（全ネジ、部分ネジ）・分析レポートを発表」（https://newscast.jp/news/7695481）
+  - 「世界の生分解性マグネシウム合金製骨スクリュー市場規模は、2025年の8,424万米ドルから2032年には1億7,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.4%で成長すると見込まれています」（https://newscast.jp/news/7695481）
+  - 「第4章「生分解性マグネシウム合金製骨スクリューの世界過去レビュー（地域別）」には、2021年から2026年までの地理的地域別および国/地域別の世界市場規模（年間販売数と年間収益）の過去のデータがまとめられています」（https://newscast.jp/news/7695481）
+  - 「第12章「生分解性マグネシウム合金製骨スクリューの世界予測レビュー（地域別）」には、2027年から2032年までの地域別の世界市場規模予測（販売数と年間収益）、国別の米州、APAC、ヨーロッパ、中東およびアフリカの予測、さらにタイプ別およびアプリケーション別のグローバル予測が詳細に示されています」（https://newscast.jp/news/7695481）
+  - 「生分解性マグネシウム合金製骨スクリューの世界市場（2026年～2032年）、市場規模（全ネジ、部分ネジ）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/7695481）
+  - 「生分解性マグネシウム合金製骨スクリューの世界市場（2026年～2032年）、市場規模（全ネジ、部分ネジ）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+  - 「世界の生分解性マグネシウム合金製骨スクリュー市場規模は、2025年の8,424万米ドルから2032年には1億7,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.4%で成長すると見込まれています」（https://www.atpress.ne.jp/news/7695481）
+  - 「第4章「生分解性マグネシウム合金製骨スクリューの世界過去レビュー（地域別）」には、2021年から2026年までの地理的地域別および国/地域別の世界市場規模（年間販売数と年間収益）の過去のデータがまとめられています」（https://www.atpress.ne.jp/news/7695481）
+  - 「第12章「生分解性マグネシウム合金製骨スクリューの世界予測レビュー（地域別）」には、2027年から2032年までの地域別の世界市場規模予測（販売数と年間収益）、国別の米州、APAC、ヨーロッパ、中東およびアフリカの予測、さらにタイプ別およびアプリケーション別のグローバル予測が詳細に示されています」（https://www.atpress.ne.jp/news/7695481）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/7695481）
+- 成長率：
+  - 「世界の生分解性マグネシウム合金製骨スクリュー市場規模は、2025年の8,424万米ドルから2032年には1億7,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.4%で成長すると見込まれています」（https://newscast.jp/news/7695481）
+  - 「世界の生分解性マグネシウム合金製骨スクリュー市場規模は、2025年の8,424万米ドルから2032年には1億7,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）11.4%で成長すると見込まれています」（https://www.atpress.ne.jp/news/7695481）
+  - 「2031年には163万トンに達する見通しで、2026年から2031年にかけてCAGR5.08％で拡大する見込みです」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「海水電解抽出は、2031年まで5.62%のCAGRで最も急成長しているルートですが、熱ピジョン法は依然として現在の生産量の62.74%を占めています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「海水抽出による金属マグネシウムの市場規模は16万トンと推定されており、パイロットプラントの商業化が成功すれば、2031年までに2倍になる可能性があります」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「アジア太平洋地域は、2025年の世界の出荷量の47.85%を占め、5.96%のCAGRで成長しています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「ドイツのリサイクル業者は、スプルーやランナーを回収するクローズドループプログラムを拡大し、二次マグネシウムの供給量を地域供給量の30%以上へと押し上げています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「2031年まで5.62%のCAGRで最も急成長しているルートです」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「5.96%のCAGRで成長しています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「2020/6/16「拡大するNET空間とバーチャルな世界を作り出す空間ディスプレー(AR/VR,透明,5G)」受付中！」（https://cmcre.com/）
+  - 「Forecast CAGR (2025 to 2035):」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+  - 「The global medical biodegradable magnesium alloy market is projected to grow from USD 327.0 million in 2025 to approximately USD 548.1 million by 2035, recording an absolute increase of USD 221.1 million over the forecast period. This translates into a total growth of 67.6%, with the market forecast to expand at a compound annual growth rate (CAGR) of 5.3% between 2025 and 2035.」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+  - 「Medical Biodegradable Magnesium Alloy Market Forecast CAGR: 5.3%」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+  - 「Forecast CAGR (2025 to 2035)」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+  - 「CAGR (2025 to 2035)」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+- 主要企業：
+  - 「また、本レポートでは、生分解性マグネシウム合金製骨スクリューのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の生分解性マグネシウム合金製骨スクリュー市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/7695481）
+  - 「主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中率分析（CR3、CR5、CR10）、新規製品および潜在的参入企業、市場のM&A活動と戦略についても情報が提供されます」（https://newscast.jp/news/7695481）
+  - 「第13章「主要プレーヤー分析」には、Syntellix、CG MedTech、Bioretec、botiss biomaterials、KLS Martinなどの主要企業について、会社情報、生分解性マグネシウム合金製骨スクリューの製品ポートフォリオと仕様、2021年から2026年までの販売数、収益、価格、粗利益、主要事業概要、および最新の動向に関する詳細な分析が個別に記載されています」（https://newscast.jp/news/7695481）
+  - 「また、本レポートでは、生分解性マグネシウム合金製骨スクリューのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の生分解性マグネシウム合金製骨スクリュー市場におけるこれらの企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/7695481）
+  - 「主要メーカーの生産地域分布、販売地域、提供される製品タイプ、市場集中率分析（CR3、CR5、CR10）、新規製品および潜在的参入企業、市場のM&A活動と戦略についても情報が提供されます」（https://www.atpress.ne.jp/news/7695481）
+  - 「第13章「主要プレーヤー分析」には、Syntellix、CG MedTech、Bioretec、botiss biomaterials、KLS Martinなどの主要企業について、会社情報、生分解性マグネシウム合金製骨スクリューの製品ポートフォリオと仕様、2021年から2026年までの販売数、収益、価格、粗利益、主要事業概要、および最新の動向に関する詳細な分析が個別に記載されています」（https://www.atpress.ne.jp/news/7695481）
+  - 「この供給不足により、自動車メーカーや防衛主要企業はアジアの在庫や小規模なカナダの委託溶解プールに依存せざるを得ず、輸送コストの上昇と供給安定性の懸念が高まっています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「金属マグネシウム市場に参入している主要企業はどこですか？」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「新規参入業者の脅威」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「2026「医療用機械器具メーカー」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026「歯科用機械器具メーカー」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026「医療用電子応用装置メーカー」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026「医療用計測器メーカー」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026「医療用機械器具卸」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026「日用紙製品メーカー」参入企業業績データ～規模／成長性／収益性／生産性～」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+- 日本企業：
+  - 「中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の各市場状況も個別に扱われています」（https://newscast.jp/news/7695481）
+  - 「・日本語タイトル：生分解性マグネシウム合金製骨スクリューの世界市場2026年～2032年」（https://newscast.jp/news/7695481）
+  - 「中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾の各市場状況も個別に扱われています」（https://www.atpress.ne.jp/news/7695481）
+  - 「・日本語タイトル：生分解性マグネシウム合金製骨スクリューの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/7695481）
+  - 「2026年度の外資系製薬企業48社の日本における医療用医薬品売上高は4兆2,468億円(2025年度比107.7%)の見込」（https://www.fkg-report.jp/market-trends/medical/）
+  - 「日本と韓国は、家電製品の筐体やBEVバッテリーカバー用の合金技術を最適化し、インゴットを輸入しながら付加価値の高い部品を輸出しています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「2026/5/29「車載および非車載電池領域における事業競争力と日本の課題」受付中！」（https://cmcre.com/）
+  - 「2026/3/26「非車載電池領域における事業競争力と日本の課題」受付中！」（https://cmcre.com/）
+  - 「2025/2/13「日本・欧州のプラスチック容器包装リサイクル 現状および最新動向」受付中！」（https://cmcre.com/）
+  - 「2024/7/26「DX/GX時代のグローバル航空市場、次世代航空機開発(装備品含む)に向けて“造らずに創る”、日本プレーヤーの競争力向上に必須な新たな取組み」受付中！」（https://cmcre.com/）
+  - 「2024/4/17「日本・欧州のプラスチック容器包装リサイクル 現状および最新動向」受付中！」（https://cmcre.com/）
+  - 「2024/1/29「日本市場におけるAM(Additive Manufacturing 付加製造) 活用、設計・開発・ものづくりの発展に寄与する主要因とその鍵を捉えた成功への取組み」受付中！」（https://cmcre.com/）
+  - 「2023/12/1「日本・欧州のプラスチック容器包装リサイクル 現状および最新動向」受付中！」（https://cmcre.com/）
+  - 「2023/8/25「グローバル産業用ドローン及び空飛ぶ車エアモビリティ (有人) その市場動向と“造らずに創る”この取組みを通じた日本市場の成長」受付中！」（https://cmcre.com/）
+  - 「2023/8/8「日本・欧州のプラスチック容器包装リサイクル 現状および最新動向」受付中！」（https://cmcre.com/）
+- 上位シェア：
+  - 「また、タイプ別（全ねじ、半ねじ）、材料別（高純度マグネシウム、マグネシウム合金）、表面処理別（無コーティング、コーティングあり）、アプリケーション別（病院、整形外科クリニック）のセグメントについて、それぞれ2021年から2026年までの世界販売市場シェア、収益と市場シェア、および販売価格の詳細な分析が示されています」（https://newscast.jp/news/7695481）
+  - 「第3章「企業別グローバル分析」には、2021年から2026年までの企業別の生分解性マグネシウム合金製骨スクリューの年間販売数、販売市場シェア、年間収益、収益市場シェア、および販売価格の内訳データが詳細に分析されています」（https://newscast.jp/news/7695481）
+  - 「また、タイプ別（全ねじ、半ねじ）、材料別（高純度マグネシウム、マグネシウム合金）、表面処理別（無コーティング、コーティングあり）、アプリケーション別（病院、整形外科クリニック）のセグメントについて、それぞれ2021年から2026年までの世界販売市場シェア、収益と市場シェア、および販売価格の詳細な分析が示されています」（https://www.atpress.ne.jp/news/7695481）
+  - 「第3章「企業別グローバル分析」には、2021年から2026年までの企業別の生分解性マグネシウム合金製骨スクリューの年間販売数、販売市場シェア、年間収益、収益市場シェア、および販売価格の内訳データが詳細に分析されています」（https://www.atpress.ne.jp/news/7695481）
+  - 「金属マグネシウム市場 | 業界シェア 市場規模 成長性 2026 - 2031年」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「金属マグネシウム：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「Metal Magnesium - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026 - 2031)」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「海水電解抽出は、2031年まで5.62%のCAGRで最も急成長しているルートですが、熱ピジョン法は依然として現在の生産量の62.74%を占めています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「アジア太平洋地域は、2025年の世界の出荷量の47.85%を占め、5.96%のCAGRで成長しています」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「金属マグネシウムの世界市場シェアと順位、総販売量および需要予測（2026年～2032年）」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「金属マグネシウム市場の規模、シェア、および成長分析：製品タイプ別、形態別、用途別、エンドユーザー産業別、製造プロセス別、流通チャネル別、地域別―2026年～2033年の業界予測」（https://www.gii.co.jp/report/moi1910805-metal-magnesium-market-share-analysis-industry.html）
+  - 「2026年版 機能別ME機器市場の中期予測とメーカーシェア（治療機器編）」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2026年版 機能別ME機器市場の中期予測とメーカーシェア（診断機器編）」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2025年版 機能別ME機器市場の中期予測とメーカーシェア（治療機器編）」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+  - 「2025年版 機能別ME機器市場の中期予測とメーカーシェア（診断機器編）」（https://www.yano.co.jp/market_reports/listMr.php?class_code=07&srsltid=AYCX9vJz9rY-q5Q1i4uFUTpTjvjYF0jnDfAl4F9NKfB5WR6hmqx37-Q9）
+- 投資：
+  - 「Healthcare Infrastructure Development: Provide funding for advanced surgical facilities and specialized equipment needed for biodegradable implant procedures, particularly in emerging markets like China (7.2% CAGR) and India (6.6% CAGR) where healthcare infrastructure expansion creates significant growth opportunities.」（https://www.futuremarketinsights.com/reports/medical-biodegradable-magnesium-alloy-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/magnesium-implant-market）
+- 検索結果の抜粋：
+  - 「生分解性マグネシウム 合金製骨スクリューの世界 市場 （2026 ... — 生分解性マグネシウム 合金製骨スクリューの世界 市場 （2026 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7695481）
+  - 「生分解性マグネシウム 合金製骨スクリューの世界 市場 （2026 ... — 生分解性マグネシウム 合金製骨スクリューの世界 市場 （2026 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/7695481）
+  - 「生分解性マグネシウム 合金製骨スクリューの世界市場（2026 ... — 生分解性マグネシウム 合金製骨スクリューの世界市場（2026 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/7695481）
+
+## スカンジウム（scandium）
+- 文脈：レアメタル
+- 市場規模：
+  - 「スカンジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場規模、シェア、トレンド分析レポート：製品タイプ別（酸化物、フッ化物、塩化物、硝酸塩、ヨウ化物、合金、炭酸塩、その他）、エンドユーザー産業別（航空宇宙・防衛、固体酸化物燃料電池（SOFC）、セラミックス、照明、電子機器、3Dプリンティング、スポーツ用品、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「世界のスカンジウム市場規模は、2025年には6億4345万米ドルと評価され、2026年の6億9943万米ドルから2034年には13億6327万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.7%となる見込みです」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「最終用途産業に基づくと、世界のスカンジウム市場は、航空宇宙・防衛、固体酸化物燃料電池（SOFC）、セラミックス、照明、電子機器、3Dプリンティング、スポーツ用品、その他に分類される」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場規模は、2026年には6億9943万米ドルと評価され、2034年までに13億6327万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.7%である」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウムの世界市場規模：年平均成長率12.5%予測、最新トレンドと需要変化2026-2032 | NEWSCAST」（https://newscast.jp/smart/news/2559968）
+  - 「スカンジウムの世界市場規模：年平均成長率12.5%予測、最新トレンドと需要変化2026-2032」（https://newscast.jp/smart/news/2559968）
+  - 「QYResearch調査チームの最新レポート「スカンジウム―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、スカンジウムの世界市場は、2025年に215百万米ドルと推定され、2026年には239百万米ドルに達すると予測されています」（https://newscast.jp/smart/news/2559968）
+  - 「アルミニウム・スカンジウム合金市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：製品別（スカンジウム2%、スカンジウム1.5%、その他）、用途別（防衛・航空宇宙、輸送、消費財、その他）、地域別（北米、欧州、アジア太平洋、南米・中米）」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「2025年の市場規模」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「世界のアルミニウム・スカンジウム合金市場は、2025年には1億490万米ドルと評価され、2034年までに2億626万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「2034年までの市場規模」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「酸化スカンジウム市場規模・市場シェア・成長・市場動向・2033年までの市場予測 | 記事 | ブログ」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「酸化スカンジウム市場規模・市場シェア・成長・市場動向・2033年までの市場予測」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+- 成長率：
+  - 「スカンジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「世界のスカンジウム市場規模は、2025年には6億4345万米ドルと評価され、2026年の6億9943万米ドルから2034年には13億6327万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は8.7%となる見込みです」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「フッ化物セグメントは市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）9.21%で成長すると予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「このセグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）10.31%で成長すると予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アジア太平洋地域は世界のスカンジウム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）9.1%で成長すると予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「ヨーロッパは予測期間中に年平均成長率8.67%で成長し、3億8540万米ドルを生み出すと予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「2020年から2025年にかけて、ドイツ政府とEV業界は、同国の電気自動車販売に対する共同補助金を拡大することで合意しました」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「しかし、最近のCOVID-19の発生、国内の死者数が急速に12万人に近づいていること、社会移動の制限、ロックダウンは、同国の産業の拡大を阻害すると予想され、検討対象の市場を抑制すると予想されます」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場規模は、2026年には6億9943万米ドルと評価され、2034年までに13億6327万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は8.7%である」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウムの世界市場規模：年平均成長率12.5%予測、最新トレンドと需要変化2026-2032 | NEWSCAST」（https://newscast.jp/smart/news/2559968）
+- 主要企業：
+  - 「スカンジウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「▪スカンジウム市場の主要企業と製品分類」（https://newscast.jp/smart/news/2559968）
+  - 「スカンジウム市場の主要企業には、Rusal、Rio Tinto、住友金属鉱山（SMM）、MCC、湖南東方スカンジウム（Hunan Oriental Scandium）、Rongjia Scandium、Huizhou Top Metal Materials（TOPM）、Hunan Rare Earth Metal Research Instituteなどが含まれます」（https://newscast.jp/smart/news/2559968）
+  - 「市場調査では、2025年を基準年として、2021～2032年の販売数量（千トン単位）と売上高（百万米ドル）を対象に、価格、市場シェア、主要企業の順位を分析します」（https://newscast.jp/smart/news/2559968）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://newscast.jp/smart/news/2559968）
+  - 「詳細に分析された主要企業：」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「航空宇宙工学、防衛、研究施設、積層造形などの主要企業が、市場における技術導入を継続的に推進しています」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「The Insight Partnersは、当社のグローバルな市場参入戦略を支える有益な市場インテリジェンスを提供してくれました」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「🚀 酸化スカンジウム市場の主要企業」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「酸化スカンジウム市場には、グローバル企業、地域企業、新興イノベーターが参入しており、以下の取り組みを通じて競争を展開しています：」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「✔ 市場参入戦略」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「▪スカンジウム市場の主要企業と製品分類」（https://www.atpress.ne.jp/news/2559968）
+  - 「スカンジウム市場の主要企業には、Rusal、Rio Tinto、住友金属鉱山（SMM）、MCC、湖南東方スカンジウム（Hunan Oriental Scandium）、Rongjia Scandium、Huizhou Top Metal Materials（TOPM）、Hunan Rare Earth Metal Research Instituteなどが含まれます」（https://www.atpress.ne.jp/news/2559968）
+  - 「市場調査では、2025年を基準年として、2021～2032年の販売数量（千トン単位）と売上高（百万米ドル）を対象に、価格、市場シェア、主要企業の順位を分析します」（https://www.atpress.ne.jp/news/2559968）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://www.atpress.ne.jp/news/2559968）
+- 日本企業：
+  - 「Sumitomo Metal Mining Co. Ltd (Taganito HPAL Nickel Corp)」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場の主要企業には、Rusal、Rio Tinto、住友金属鉱山（SMM）、MCC、湖南東方スカンジウム（Hunan Oriental Scandium）、Rongjia Scandium、Huizhou Top Metal Materials（TOPM）、Hunan Rare Earth Metal Research Instituteなどが含まれます」（https://newscast.jp/smart/news/2559968）
+  - 「地域別には北米、欧州、中国、日本を含み、需要分析では米国、カナダ、中国、日本、韓国、東南アジア、インド、オーストラリア、ドイツ、フランス、英国、イタリア、オランダ、北欧諸国、メキシコ、ブラジル、トルコ、サウジアラビア、UAEなどを対象とします」（https://newscast.jp/smart/news/2559968）
+  - 「QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です」（https://newscast.jp/smart/news/2559968）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://newscast.jp/smart/news/2559968）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://newscast.jp/smart/news/2559968）
+  - 「japan@qyresearch.com」（https://newscast.jp/smart/news/2559968）
+  - 「、急速な工業化、航空宇宙分野への投資、合金製造能力の拡大により、中国、日本、韓国、インドが牽引役となり、」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「日本や韓国などの国々は、輸送機器や精密工学分野で使用される先進的な軽量材料に注力していくでしょう」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「米国、欧州、中国、日本の各国政府は、航空宇宙製造と先端材料研究への投資を増やし続けており、長期的な調達機会を強化しています」（https://www.theinsightpartners.com/ja/reports/aluminium-scandium-alloy-market）
+  - 「Sumitomo Corporation」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「16-8, Higashi 1-chome, Shibuya-ku, Tokyo 150-0011, Japan」（https://mrctechforum.inkrich.com/posts/%E9%85%B8%E5%8C%96%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1）
+  - 「スカンジウム市場の主要企業には、Rusal、Rio Tinto、住友金属鉱山（SMM）、MCC、湖南東方スカンジウム（Hunan Oriental Scandium）、Rongjia Scandium、Huizhou Top Metal Materials（TOPM）、Hunan Rare Earth Metal Research Instituteなどが含まれます」（https://www.atpress.ne.jp/news/2559968）
+  - 「地域別には北米、欧州、中国、日本を含み、需要分析では米国、カナダ、中国、日本、韓国、東南アジア、インド、オーストラリア、ドイツ、フランス、英国、イタリア、オランダ、北欧諸国、メキシコ、ブラジル、トルコ、サウジアラビア、UAEなどを対象とします」（https://www.atpress.ne.jp/news/2559968）
+  - 「QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です」（https://www.atpress.ne.jp/news/2559968）
+- 上位シェア：
+  - 「スカンジウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「スカンジウム市場規模、シェア、トレンド分析レポート：製品タイプ別（酸化物、フッ化物、塩化物、硝酸塩、ヨウ化物、合金、炭酸塩、その他）、エンドユーザー産業別（航空宇宙・防衛、固体酸化物燃料電池（SOFC）、セラミックス、照明、電子機器、3Dプリンティング、スポーツ用品、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アジア太平洋地域は、2025年に42.5%の市場シェアを占め、スカンジウム市場を牽引しました」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「このセグメントは最大の市場シェアを占めており、予測期間中に年平均成長率（CAGR）10.31%で成長すると予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アジア太平洋地域は世界のスカンジウム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）9.1%で成長すると予想されています」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「2025年のスカンジウム市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アジア太平洋地域は2025年に42.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「鉄筋市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「QYResearch調査チームの最新レポート「スカンジウム―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、スカンジウムの世界市場は、2025年に215百万米ドルと推定され、2026年には239百万米ドルに達すると予測されています」（https://newscast.jp/smart/news/2559968）
+  - 「上記の図表／データは、QYResearchの最新レポート「スカンジウム―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」から引用されています」（https://newscast.jp/smart/news/2559968）
+- 投資：
+  - 「サンライズ・エナジー・メタルズ社は、サイアーストン・スカンジウム・プロジェクトにおける開発準備活動を加速させ、将来の商業生産を支援するため、750万豪ドルの資金調達を完了した」（https://straitsresearch.com/jp/report/scandium-market）
+  - 「The Government of Canada committed up to CAD 6.9 million in funding for Scandium Canada’s Crater Lake project, with work extending to March 2028 to advance project feasibility and develop aluminium-scandium alloy applications with industrial partners; this funding provides a concrete near-term milestone for the advancement of Canada’s domestic scandium project.」（https://straitsresearch.com/report/scandium-market）
+  - 「Rio Tinto and Canada Growth Fund announced an investment of approximately CAD 25 million to expand scandium oxide production capacity in Sorel-Tracy, Canada, to nine tonnes annually. The Government of Canada also agreed to purchase scandium under an offtake agreement.」（https://straitsresearch.com/report/scandium-market）
+  - 「Raised US $ 10 Million via placement; commissioned pilot hydrometallurgical circuit.」（https://www.reportprime.com/scandium-metal-r352/company）
+  - 「Initial production is targeted for the second half of 2028. Construction is targeted to begin in the second half of 2026, subject to a final investment decision and financing. If Syerston reaches its target, Sunrise would become the largest of the scandium producers on this list by stated capacity.」（https://rare-earth-mining.com/top-10-scandium-producers/）
+  - 「The project has a planned one-year construction period and a 24-month ramp-up. No final investment decision has been taken, and the company began updating the feasibility study in June 2026. Nyngan’s study volume is close to Hunan Oriental’s stated oxide capacity, and the lease covers the full deposit.」（https://rare-earth-mining.com/top-10-scandium-producers/）
+  - 「into recovering scandium from a side stream of its uranium recovery plant, with Worley leading the work. The study is expected to conclude by the end of 2026. Terrafame is targeting a final investment decision in early 2027, with production starting about two years later, which implies around 2029.」（https://rare-earth-mining.com/top-10-scandium-producers/）
+- 検索結果の抜粋：
+  - 「スカンジウム の世界 市場規模 ： 年平均成長率 12.5%予測 — スカンジウム の世界 市場規模 ： 年平均成長率 12.5%予測 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/2559968）
+  - 「スカンジウム市場規模 ・産業概要レポート2031 — スカンジウム市場規模 ・産業概要レポート2031 Mordor Intelligence https://www.mordorintelligence.com > scandium-market」（https://www.mordorintelligence.com/ja/industry-reports/scandium-market）
+  - 「グローバル スカンジウム ヨウ化物 市場 は、2026年から2033年 ... — グローバル スカンジウム ヨウ化物 市場 は、2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > グローバルスカンジウム...」（https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E3%83%A8%E3%82%A6%E5%8C%96%E7%89%A9%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr89%E3%81%A7%E6%80%A5%E9%80%9F%E3%81%AB%E6%88%90-7515886765958807553-umixe）
+  - 「スカンジウム の世界 市場 規模：年平均成長率12.5% 予測 — スカンジウム の世界 市場 規模：年平均成長率12.5% 予測 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/2559968）
+  - 「スカンジウム の世界 市場 規模：年平均成長率12.5% 予測 — スカンジウム の世界 市場 規模：年平均成長率12.5% 予測 アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社」（https://www.atpress.ne.jp/news/2559968）
+  - 「市場 規模・シェア分析、成長トレンドと 予測 (2025年～2030年) — 市場 規模・シェア分析、成長トレンドと 予測 (2025年～2030年) (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > scandium-m...」（https://www.marketresearch.co.jp/insights/scandium-market-mordor/）
+  - 「スカンジウム市場 | 業界シェア 市場 規模 成長性 2026 - 2031年 — スカンジウム市場 | 業界シェア 市場 規模 成長性 2026 - 2031年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > レアメタル」（https://www.gii.co.jp/report/moi1939042-scandium-market-share-analysis-industry-trends.html）
+  - 「スカンジウム 金属 市場 規模、需要、 予測 [2035 年] — スカンジウム 金属 市場 規模、需要、 予測 [2035 年] Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/scandium-metal-market-100601）
+  - 「スカンジウム メタル 企業 トップ10 - Report Prime — スカンジウム メタル 企業 トップ10 - Report Prime Report Prime https://www.reportprime.com > company」（https://www.reportprime.com/ja/%E3%82%B9%E3%82%AB%E3%83%B3%E3%82%B8%E3%82%A6%E3%83%A0%E3%83%A1%E3%82%BF%E3%83%AB-r352/company）
+  - 「スカンジウム の需給動向とレアアースの課題The 4th ... — スカンジウム の需給動向とレアアースの課題The 4th ... journal.jogmec.go.jp https://journal.jogmec.go.jp > metal > current-topics_01138」（https://journal.jogmec.go.jp/metal/current-topics/current-topics_01138.html）
+  - 「スカンジウム 回収事業への 参入 について - 住友金属鉱山 — スカンジウム 回収事業への 参入 について - 住友金属鉱山 住友金属鉱山株式会社 https://www.smm.co.jp > ニュース > 2016年」（https://www.smm.co.jp/news/release/2016/04/000833.html）
+  - 「スカンジウム 市場規模・産業概要レポート2031 — スカンジウム 市場規模・産業概要レポート2031 Mordor Intelligence https://www.mordorintelligence.com > scandium-market」（https://www.mordorintelligence.com/ja/industry-reports/scandium-market）
+  - 「スカンジウム 箔 スカンジウム シートの世界市場（2026年 ... — スカンジウム 箔 スカンジウム シートの世界市場（2026年 ... Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/5731575）
+  - 「Scandium Market Size & Industry Overview Report 2031 — Scandium Market Size & Industry Overview Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/scandium-market）
+  - 「Scandium Metal Market Size , Share, Growth Report, 2034 — Scandium Metal Market Size , Share, Growth Report, 2034 Zion Market Research https://www.zionmarketresearch.com > ...」（https://www.zionmarketresearch.com/report/scandium-metal-market）
+
+## タングステン重合金（tungsten heavy alloy）
+- 文脈：防衛・放射線遮蔽
+- 市場規模：
+  - 「タングステン市場規模・シェア・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「世界のタングステン市場規模は2025年に73.5億米ドルと評価され、2026年には77.5億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「業界専門家との議論によると、世界のタングステン市場規模は2024年に69.8億米ドルに達し、2025年の基準年に向けて一貫した上昇基調を示した」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステンカーバイド製品の市場規模は2025年に47.8億米ドルとなり、2035年にはタングステン市場の売上高の66.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「世界のタングステン市場規模：製品タイプ別、2025年および2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン加工製品の市場規模は2025年に8億8,256万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.76%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「切削・機械加工工具の市場規模は2025年に22.8億米ドルとなり、2035年にはタングステン市場の売上高の33.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「2025年、北米のタングステン市場は世界売上高の19.4%を占め、2035年には22.2億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「英国の2025年の市場規模は3億5,314万米ドルで、2035年までに欧州タングステン市場の売上高の20.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「フランスは2025年に欧州タングステン市場の売上高の18.0%を占め、市場規模は2035年までに4億8,627万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/3395748）
+  - 「タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表」（https://newscast.jp/smart/news/3395748）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）は4.86%で、2035年には118.8億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン加工製品の市場規模は2025年に8億8,256万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.76%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン鉱石・精鉱は2025年にタングステン市場の売上高の2.0%を占め、2026〜2035年に年平均成長率（CAGR）-2.11%で縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「摩耗部品・耐摩耗部品は、2025年のタングステン市場売上高の13.0%を占め、2026〜2035年に年平均成長率（CAGR）4.92%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています」（https://newscast.jp/smart/news/3395748）
+  - 「タングステン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「世界のタングステン市場規模は2025年に51億米ドルと評価され、2026年の55億米ドルから2034年には100億3,000万米ドルへと成長し、予測期間（2026～2034年）における年平均成長率（CAGR）は7.8%に達すると予測されています」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「欧州の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「タングステン合金セグメントは、予測期間中に年平均成長率（CAGR）4.7%で成長すると見込まれています」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「エネルギー分野は、特殊な電気部品、エネルギー関連機器、高温環境下での用途におけるタングステンの利用に牽引され、予測期間中に年平均成長率（CAGR）5%で成長すると見込まれています」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「米国陸軍省は2026年9月14日、国内のタングステン製造強化、加工能力の拡大、および重要原材料の安定供給確保を目的として、Elmet Group（エルメット・グループ）に対し4億5,000万ドルの投資を行うと発表しました」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「欧州のタングステン市場は、予測期間中に年平均成長率（CAGR）5.5%で拡大し、地域別市場の中で最も高い成長率を示すと予測されています」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「これにより、同施設の年間処理能力は2028年までに約5,000トンから7,000トンへと拡大する見込みです」（https://straitsresearch.com/jp/report/tungsten-market）
+- 主要企業：
+  - 「採掘、APT精製、酸化物製造、超硬合金製品、特殊粉末にまたがる統合体制により、原材料の安定確保と、より付加価値の高い下流用途への参入を実現している」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン市場の主要企業には、Xiamen Tungsten Co., Ltd.、Kennametal Inc.、Jiangxi Tungsten Industry Holding Group Co., Ltd.、Sandvik AB、China Minmetals Corporationが含まれる」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「また、本レポートでは、タングステン重金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なタングステン重金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています」（https://newscast.jp/smart/news/3395748）
+  - 「加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても触れられています」（https://newscast.jp/smart/news/3395748）
+  - 「第13章「主要プレーヤー分析」には、H.C. Starck Tungsten Powders、Buffalo Tungsten、Kennametal、Elmet Technologies、Atlantic Equipment Engineers、M&I Materials、Avis Metal Industries Ltd、Materion Advanced Materials Group、Oerlikon Metco、6K Additive、Mi-Tech Metals, Inc.、Powdermet Inc.、William Rowland、Innomet Powders、Hunan Outai Rare Metal Co., Ltd.、Shanghai Longjin Metal Materials Co., Ltd.といった主要企業の詳細な情報が記載されています」（https://newscast.jp/smart/news/3395748）
+  - 「タングステン市場は、採掘企業、タングステン精鉱生産者、金属加工業者、超硬合金メーカー、特殊材料サプライヤーなどが参入しており、適度に集約された構造となっています」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「Xiamen Tungsten Company（厦門鎢業）、China Minmetals Corporation（中国五鉱集団）、H.C. Starck、Guangdong Xianglu Tungsten Company（広東翔鷺鎢業）といった主要企業が、世界のタングステン市場シェアの約45～50%を占めていると推定されます」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「タングステン市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「また、本レポートでは、タングステン・チタン合金ターゲットのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界のタングステン・チタン合金ターゲット市場における各企業の独自の立場をより深く理解できるようにしています」（https://www.atpress.ne.jp/news/8667085）
+  - 「また、主要メーカーの生産地域分布、販売地域、提供する製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10集中度）、新製品と潜在的参入企業、市場のM&A活動と戦略についても言及されています」（https://www.atpress.ne.jp/news/8667085）
+  - 「第13章「主要企業分析」には、Plansee SE、Nano Research Elements、ATT、Advanced Engineering Materials、SCI Engineered Materials、ALB Materials Inc、Edgetech Industries (ETI)、Kurt J. Lesker Company、Konfoong Materials International、Fonlink Photoelectric、Changsha Xinkang Advanced Materials、Tarfilm Hi-Tech、Vital Thin Film Materialsといった主要企業の詳細なプロファイルが網羅されています」（https://www.atpress.ne.jp/news/8667085）
+  - 「また、本レポートでは、タングステン重金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なタングステン重金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています」（https://newscast.jp/news/3395748）
+- 日本企業：
+  - 「日本は2025年にアジア太平洋地域のタングステン市場の売上高の15.0%を占め、市場規模は2035年までに9億8,686万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「H.C. Starck Tungsten Powders GmbHは、Masan High-Tech MaterialsからH.C. Starckを買収した後、Mitsubishi Materials Corporationのタングステン事業プラットフォームの一翼を担っている」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「Mitsubishi MaterialsはH.C. Starckの買収を完了し、W-Pro統合プログラムを開始した」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「Mitsubishi Materials Corporation. "Tungsten Business Overview." mmc.co.jp」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「Masan High-Tech Materials. "Masan High-Tech Materials Group and Mitsubishi Materials Corporation Group Signed Definitive Agreements." masanhightechmaterials.com」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「具体的な対象国/地域としては、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾が網羅されています」（https://newscast.jp/smart/news/3395748）
+  - 「・日本語タイトル：タングステン重金属粉末の世界市場2026年～2032年」（https://newscast.jp/smart/news/3395748）
+  - 「2026年7月、三菱マテリアル株式会社は、ドイツにおけるH.C. Starck Tungsten社のスクラップ処理能力を年間5,000トンから7,000トンに引き上げる投資計画を発表し、リサイクルタングステンの供給体制強化を図りました」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「日本のタングステン市場」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「三菱マテリアル株式会社は2026年9月、ジャパン・ニュー・メタルズ秋田工場におけるタングステンリサイクル設備の増強に約80億円を投資すると発表しました」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「Japan New Metals Co., Ltd. (Japan)」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「Xiamen Tungsten Co., Ltd. (China) · China Minmetals Corporation (China) · Japan New Metals Co., Ltd. (Japan) · Wolfram Company JSC (Russia) · Specialty Metals Resources S.A. (Switzerland)」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「この市場をリードする企業は、厦門タングステン公司、中国五鉱集団公司、日本新金属集団公司、ウルフラム社、スペシャリティ・メタルズ・リソーシズ社などである」（https://straitsresearch.com/jp/report/tungsten-market）
+  - 「第6章「アジア太平洋地域市場」には、2021年から2026年までのアジア太平洋地域における国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）のタングステン・チタン合金ターゲットの販売量と収益、タイプ別販売量、および用途別販売量が詳細に分析されています」（https://www.atpress.ne.jp/news/8667085）
+  - 「・日本語タイトル：タングステン・チタン合金ターゲットの世界市場2026年～2032年」（https://www.atpress.ne.jp/news/8667085）
+- 上位シェア：
+  - 「タングステン市場規模・シェア・予測レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「Xiamen Tungsten Co., Ltd.は、2025年に12.0%を超える市場シェアを獲得し、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「であり、2025年には合計で47.0%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「2024年、中国は世界の鉱山生産に6万7,000トンを供給し、世界の一次生産量の80%超を占めた」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステンカーバイド製品の市場規模は2025年に47.8億米ドルとなり、2035年にはタングステン市場の売上高の66.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン合金・鋼材は2025年にタングステン市場の売上高の14.0%を占め、2035年には15.4億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン化学品は2025年にタングステン市場の売上高の7.0%を占め、2035年には8億3,191万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「タングステン鉱石・精鉱は2025年にタングステン市場の売上高の2.0%を占め、2026〜2035年に年平均成長率（CAGR）-2.11%で縮小すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「切削・機械加工工具の市場規模は2025年に22.8億米ドルとなり、2035年にはタングステン市場の売上高の33.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「鉱山・掘削機器は2025年にタングステン市場の売上高の23.0%を占め、2035年には26.1億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「摩耗部品・耐摩耗部品は、2025年のタングステン市場売上高の13.0%を占め、2026〜2035年に年平均成長率（CAGR）4.92%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「電気・電子部品の売上高は2025年に10億3,000万米ドルに達し、2035年にはタングステン市場売上高の15.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「放射線遮蔽・カウンターウェイトは、2025年のタングステン市場売上高の9.0%を占め、2035年には9億5,075万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/tungsten-market）
+  - 「また、タングステン重金属粉末のタイプ別（95%以上、95%、その他）のセグメント分析、および2021年から2026年までのタイプ別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格に関する詳細が示されています」（https://newscast.jp/smart/news/3395748）
+- 投資：
+  - 「In July 2026, H.C. Starck announced an approximately EUR 50 million investment to expand tungsten recycling capacity at its facility in Goslar, Germany. The project is expected to increase tungsten scrap-processing capacity from approximately 5,000 to 7,000 tonnes per year by 2028, strengthening the company's recycled-tungsten supply capabilities.」（https://www.grandviewresearch.com/industry-analysis/tungsten-market-report）
+  - 「respectively through 2034, underpinned by rising defense modernization investments and nascent industrial manufacturing expansion.」（https://dataintelo.com/report/global-tungsten-heavy-alloys-market）
+  - 「through 2034, supported by sustained semiconductor industry investment and EV market expansion across major economies. The broader advanced materials ecosystem, including the Nylon 6 and 66 market, underscores the diverse material science innovation landscape from which WHA applications continue to benefit.」（https://dataintelo.com/report/global-tungsten-heavy-alloys-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/global-tungsten-heavy-alloys-market）
+  - 「Wire, with 37.0% share (2025), retains its lead because no substitute matches tungsten's combination of tensile strength and melting point in electrical-discharge machining. Tube growth is the more interesting story — aerospace primes qualifying tungsten-alloy throat inserts for hypersonic programmes have raised order books sharply since 2024」（https://www.marketresearchfuture.com/reports/tungsten-market-7050）
+  - 「US Department of Defense (September 2023): Allocated Title III funding toward domestic」（https://www.marketresearchfuture.com/reports/tungsten-market-7050）
+  - 「Asia-Pacific is expected to be the fastest-growing region, capturing a market share of 38.5%. The China dominates the global Tungsten Heavy Alloys market with a 24.7% share, driven by R&D investment and strong industry infrastructure.」（https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market）
+- 検索結果の抜粋：
+  - 「銅 タングステン合金市場 | 市場 規模 分析 予測 2026-2032年 ... — 銅 タングステン合金市場 | 市場 規模 分析 予測 2026-2032年 ... グローバルインフォメーション https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html）
+  - 「第35号 高密度 タングステン合金 『ヘビーアロイ』大型製品の ... — 第35号 高密度 タングステン合金 『ヘビーアロイ』大型製品の ... 日本タングステン株式会社 https://www.nittan.co.jp > tech > gihou > ogataseihin_019」（https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html）
+  - 「United States Tungsten Alloy Market Analysis Report 2026-2033 — United States Tungsten Alloy Market Analysis Report 2026-2033 LinkedIn https://www.linkedin.com > pulse > u...」（https://www.linkedin.com/pulse/united-states-tungsten-alloy-market-analysis-report-2026-2033-muhte）
+
+## ベリリウム銅（beryllium copper）
+- 文脈：電子・防衛
+- 市場規模：
+  - 「快削性ベリリウム銅合金の世界市場（2026年～2032年）、市場規模（ロッド、ワイヤー、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/5464663）
+  - 「快削性ベリリウム銅合金の世界市場（2026年～2032年）、市場規模（ロッド、ワイヤー、その他）・分析レポートを発表」（https://newscast.jp/smart/news/5464663）
+  - 「世界の快削ベリリウム銅合金市場規模は、2025年の1億600万米ドルから2032年には1億4100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.9%で成長すると見込まれています」（https://newscast.jp/smart/news/5464663）
+  - 「快削ベリリウム銅合金（C17300）の世界市場は現在、家電、車載エレクトロニクス、航空宇宙などの主要な下流分野に集中しています」（https://newscast.jp/smart/news/5464663）
+  - 「コネクタ用ベリリウム銅（CuBe）の世界市場（2026年～2032年）、市場規模（ベリリウム銅ストリップ、ベリリウム銅棒、ベリリウム銅線、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用ベリリウム銅（CuBe）の世界市場（2026年～2032年）、市場規模（ベリリウム銅ストリップ、ベリリウム銅棒、ベリリウム銅線、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の世界市場規模は、2025年の2億4,000万米ドルから2032年には3億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.4％で成長すると見込まれています」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定される」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の欧州市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「2021年から2026年までのグローバル市場規模が、地理的地域別および国/地域別の年間販売量と年間収益で示されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「具体的には、2027年から2032年までの地域別グローバル市場規模予測と年間収益予測、南北アメリカ、APAC、ヨーロッパ、中東・アフリカの国別予測、およびタイプ別とアプリケーション別のグローバル予測が含まれています」（https://www.atpress.ne.jp/news/8848908）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/8848908）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/8848908）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/8848908）
+- 成長率：
+  - 「世界の快削ベリリウム銅合金市場規模は、2025年の1億600万米ドルから2032年には1億4100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）3.9%で成長すると見込まれています」（https://newscast.jp/smart/news/5464663）
+  - 「第４章には、世界のフリーマシニングベリリウム銅合金市場の地域別および国別の過去の売上高と収益データ（2021年～2026年）、ならびにアメリカ、APAC、ヨーロッパ、中東・アフリカの地域別売上成長率がレビューされています」（https://newscast.jp/smart/news/5464663）
+  - 「コネクタ用銅ベリリウム（CuBe）の世界市場規模は、2025年の2億4,000万米ドルから2032年には3億2,500万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）4.4％で成長すると見込まれています」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定される」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の中国市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「コネクタ用銅ベリリウム（CuBe）の欧州市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ベリリウム銅合金産業は、2025年に45.23億米ドルから2035年には62.65億米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は3.31を示します」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「2025年第3四半期：カザトムプロム、北米へのベリリウム銅合金市場輸出業務を拡大」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ベリリウム銅合金市場は、2024年から2035年までの間に年平均成長率3.31%で成長する見込みであり、電子機器、航空宇宙、自動車部門での需要の増加に支えられています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「世界のベリリウム銅市場の基準シナリオは、2035年までの着実な成長を想定しており、2026年から2035年までの年平均成長率（CAGR）は4.2%です」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「2035年までに市場指数は150（2025年＝100）に達し、実質ベースで50%の拡大を反映すると予測されます」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「全体として、この分野は技術進歩と接続要件の増大に支えられ、2035年までに約4.5%のCAGRで成長すると予想されます」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「電子部品の小型化による薄板・線材への需要拡大、車両の電化による1台あたりのコネクタ搭載量の増加、5Gインフラ整備による高周波コネクタの需要、データセンターにおける高密度コネクタへの移行」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「全体として、この分野は産業自動化と車両の電化に支えられ、2035年までに約3.8%のCAGRで成長すると予想されます」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+- 主要企業：
+  - 「本レポートでは、世界有数の企業が持つ、加工性ベリリウム銅合金の製品ポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当てた戦略を分析し、急成長する世界の加工性ベリリウム銅合金市場における各社の独自の立ち位置をより深く理解することを目的としています」（https://newscast.jp/smart/news/5464663）
+  - 「第３章には、企業ごとの世界のフリーマシニングベリリウム銅合金の年間売上高、売上市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、集中度CR3、CR5、CR10）、新製品と潜在的参入者、およびM&A活動と戦略に関する情報が掲載されています」（https://newscast.jp/smart/news/5464663）
+  - 「コネクタ用銅ベリリウム（CuBe）の世界的な主要企業には、マテリオン、NGKベリルコ、カザトムプロム、ベルモント・メタルズ、スミス・メタル・センターズなどが含まれます」（https://www.atpress.ne.jp/news/8848908）
+  - 「また、本レポートでは、コネクタ用ベリリウム銅（CuBe）のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なコネクタ用ベリリウム銅（CuBe）市場の加速する動向における主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています」（https://www.atpress.ne.jp/news/8848908）
+  - 「また、主要メーカーのコネクタ用ベリリウム銅（CuBe）の生産地域分布、販売地域、製品タイプ、市場集中度分析（競争環境分析、CR3、CR5、CR10の集中度比率と2024-2026年の予測）、新製品および潜在的参入者、市場のM&A活動と戦略についても記載されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「第13章には、主要企業の分析が詳細に記述されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ここでの市場は、信頼性と効率を確保するために革新的なアプリケーションと製品の向上に焦点を当てる主要企業によって特徴づけられています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「北米の競争環境は堅調で、マテリオン、アメテック、ミラーエレクトリックなどの主要企業が存在しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「アジア太平洋の競争環境は進化しており、NGKインシュレータや三菱マテリアルなどの主要企業が市場をリードしています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「中東およびアフリカの競争環境はまだ発展途上であり、いくつかの主要企業が存在感を示し始めています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「しかし、主要企業の集団的影響力は重要であり、革新を推進し、業界基準を設定しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ベリリウム銅合金市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「主要企業のプロファイル」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+- 日本企業：
+  - 「第６章には、APAC地域（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）における地域別、タイプ別、用途別のフリーマシニングベリリウム銅合金の売上および収益データが収録されています」（https://newscast.jp/smart/news/5464663）
+  - 「・日本語タイトル：快削性ベリリウム銅合金の世界市場2026年～2032年」（https://newscast.jp/smart/news/5464663）
+  - 「具体的には、2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益、タイプ別およびアプリケーション別の販売量データが提供されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「・日本語タイトル：コネクタ用ベリリウム銅（CuBe）の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/8848908）
+  - 「Japanese」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「Mitsubishi Materials」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「マテリオン（米国）、NGKインシュレーター（日本）、ヘラウス（ドイツ）、KGHMザナム（ポーランド）、アルテンプ合金（米国）、三菱マテリアル（日本）、アメテック（米国）、ミラーエレクトリック（米国）、三井金属鉱業（日本）」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「この地域の成長は、特に中国や日本などの国々における急速な工業化によって促進されており、電子機器および自動車セクターにおける高性能材料の需要が高まっています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「中国はこの地域で最大の市場であり、世界シェアの約15%を占めており、日本は約5%を占めています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「アジア太平洋の競争環境は進化しており、NGKインシュレータや三菱マテリアルなどの主要企業が市場をリードしています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「主要なプレーヤーであるマテリオン（米国）、NGKインシュレーター（日本）、ヘラウス（ドイツ）は、市場での地位を強化する戦略を積極的に追求しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「一方、NGKインシュレーター（日本）は、製造プロセスにエコフレンドリーな実践を統合し、持続可能性へのコミットメントを強調しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「2025年9月、NGKインシュレーター（日本）は、ベリリウム銅合金の製造専用の新しい生産施設を発表し、出力能力の向上を目指しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「市場の主要なプレーヤーには、マテリオン、NGK絶縁体、ヘラウス、KGHMザナム、三菱マテリアルが含まれます」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「Materion Corporation、NGK Metals Corporation、Wieland Group、KME AG、古河電気工業」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+- 上位シェア：
+  - 「第２章には、世界のフリーマシニングベリリウム銅合金市場の概要、地域別および国別の現在と将来の分析（2021年、2025年、2032年）、製品タイプ別（ロッド、ワイヤー、その他）および用途別（家電、自動車エレクトロニクス、航空宇宙、その他）の市場セグメントに関する売上、収益、市場シェア、販売価格がまとめられています」（https://newscast.jp/smart/news/5464663）
+  - 「第３章には、企業ごとの世界のフリーマシニングベリリウム銅合金の年間売上高、売上市場シェア、年間収益、収益市場シェア、販売価格、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、集中度CR3、CR5、CR10）、新製品と潜在的参入者、およびM&A活動と戦略に関する情報が掲載されています」（https://newscast.jp/smart/news/5464663）
+  - 「コスト構成：直接材料が約86％、製造間接費が約12％、人件費が約2％を占めています」（https://www.atpress.ne.jp/news/8848908）
+  - 「売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました」（https://www.atpress.ne.jp/news/8848908）
+  - 「また、製品タイプ別（ベリリウム銅ストリップ、ベリリウム銅ロッド、ベリリウム銅ワイヤ、その他）、ベリリウム含有量別（低ベリリウム含有量（Be ≤ 1%）、高ベリリウム含有量（Be > 1%））、グレード別（C17200、C17510、その他）、およびアプリケーション別（航空宇宙・防衛、自動車エレクトロニクス、通信、家電、その他）のコネクタ用ベリリウム銅（CuBe）の販売に関する詳細な分析が提供されており、それぞれ2021年から2026年までの売上市場シェア、収益と市場シェア、および販売価格が示されています」（https://www.atpress.ne.jp/news/8848908）
+  - 「グローバルでの企業別年間販売量および販売市場シェア（2021-2026）、企業別年間収益および収益市場シェア（2021-2026）、企業別販売価格が含まれます」（https://www.atpress.ne.jp/news/8848908）
+  - 「ベリリウム銅合金市場の規模とシェアレポート 2035」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「2025年には、通信セクターが市場のかなりの部分を占めると予想されており、接続性の進展とデジタル通信への依存の高まりを反映しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「2025年には、自動車業界がベリリウム銅合金市場の重要なシェアを占めると予測されており、これは車両技術の革新と安全性および効率性への強調によって推進されます」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「2025年には、電気用途セグメントが市場の相当なシェアを占めると予想されており、これは電化の進展と先進的な電気システムを支える材料の必要性を反映しています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「北米はベリリウム銅合金の最大市場であり、世界市場シェアの約45%を占めています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「アメリカ合衆国がこの市場をリードしており、カナダが続いており、全体の市場シェアの約15%を占めています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ヨーロッパは、ベリリウム銅合金市場において重要な成長を遂げており、世界シェアの約30%を占めています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ドイツとフランスが最大の貢献国であり、それぞれ約12%と8%の市場シェアを持っています」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「電気コネクタ（推定シェア：30%）」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+- 投資：
+  - 「through 2034, driven by downstream oil and gas investments in the Arabian Gulf, South Africa's growing electronics and defense manufacturing base, and ambitious national infrastructure programs such as Saudi Arabia's NEOM smart city project, which requires advanced telecommunications and electrical infrastructure.」（https://dataintelo.com/report/beryllium-copper-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/beryllium-copper-market）
+  - 「Industrial automation investment providing manufacturing base with documented 20-25% productivity improvements through advanced control systems」（https://www.futuremarketinsights.com/reports/beryllium-copper-plate-market）
+  - 「Korea’s agile chaebol supply chains continue ramping up advanced battery and display capacity, spurring robust need for high-performance copper alloys. Market turnover is expected to swell from $33.35 million in 2025 to $56.35 million come 2031—an extra $23.00 million and an impressive 9.12% CAGR. Explosive investment in next-generation solid-state EV batteries anchors the momentum.」（https://www.reportprime.com/beryllium-copper-r2894）
+  - 「3.11 Investment Pockets」（https://introspectivemarketresearch.com/reports/beryllium-copper-alloys-market/）
+  - 「China (1.5% CAGR) emerges as a steady performer, leveraging its established manufacturing base and expanding telecommunications networks to foster consistent demand. Strategic investments in industrial automation and semiconductor materials further strengthen its role in the global supply chain.」（https://www.factmr.com/report/beryllium-market）
+  - 「Spain’s beryllium market growth, estimated at 2.0% CAGR, is underpinned by its rapid transition toward high-value industrial production and aerospace specialization. Strategic initiatives in Madrid, Barcelona, and Seville are driving investments in aerospace-grade alloys and precision manufacturing infrastructure.」（https://www.factmr.com/report/beryllium-market）
+- 検索結果の抜粋：
+  - 「快削性 ベリリウム銅 合金の世界 市場 （2026年～2032年） — 快削性 ベリリウム銅 合金の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/5464663）
+  - 「コネクタ用 ベリリウム銅 （CuBe）の世界 市場 （2026年 ... — コネクタ用 ベリリウム銅 （CuBe）の世界 市場 （2026年 ... アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8848908）
+  - 「ベリリウム銅 ストリップ 市場 は、2026年から2033年までの間 ... — ベリリウム銅 ストリップ 市場 は、2026年から2033年までの間 ... LinkedIn https://jp.linkedin.com > pulse > ベリリウム銅ストリップ市...」（https://jp.linkedin.com/pulse/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB57%E3%81%AEcagr%E3%81%A7%E9%87%8D%E8%A6%81%E3%81%AA%E6%88%90%E9%95%B7%E3%81%A8%E7%AB%B6%E4%BA%89%E3%81%AE%E8%BF%BD%E8%B7%A1%E3%81%8C%E8%A6%8B-7515967701362556928-hvjde）
+  - 「ベリリウム銅 合金 市場 の 規模 とシェアレポート 2035 — ベリリウム銅 合金 市場 の 規模 とシェアレポート 2035 Market Research Future https://www.marketresearchfuture.com > reports > berylli...」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ベリリウム銅市場 2035年予測：航空宇宙と ... - IndexBox — ベリリウム銅市場 2035年予測：航空宇宙と ... - IndexBox IndexBox https://www.indexbox.io > ブログ > 市場 > ベリリウム銅」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「ベリリウム銅 合金 市場 規模、シェア、2034年までの 予測 — ベリリウム銅 合金 市場 規模、シェア、2034年までの 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > ベリリウム銅...」（https://www.fortunebusinessinsights.com/jp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-109446）
+  - 「快削性 ベリリウム銅 棒の世界 市場 （2026年～2032年） — 快削性 ベリリウム銅 棒の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/1813566）
+  - 「ベリリウム銅 合金 市場 の規模とシェアレポート 2035 — ベリリウム銅 合金 市場 の規模とシェアレポート 2035 Market Research Future https://www.marketresearchfuture.com > reports > berylli...」（https://www.marketresearchfuture.com/ja/reports/beryllium-copper-alloy-market-39757）
+  - 「ベリリウム銅 ばね 市場 ：世界 市場予測 、2026年～2032年 — ベリリウム銅 ばね 市場 ：世界 市場予測 、2026年～2032年 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属」（https://www.gii.co.jp/report/ires2159022-beryllium-copper-springs-market-global-forecast.html）
+  - 「ベリリウム銅市場 2035年 予測 ：航空宇宙と ... - IndexBox — ベリリウム銅市場 2035年 予測 ：航空宇宙と ... - IndexBox IndexBox https://www.indexbox.io > ブログ > 市場 > ベリリウム銅」（https://www.indexbox.io/ja/blog/beryllium-copper-market-forecast-to-2035-growth-driven-by-aerospace-and-electronics-demand/）
+  - 「ベリリウム銅 - メーカー・ 企業 6社の業務用製品ランキング — ベリリウム銅 - メーカー・ 企業 6社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ベリリウム銅」（https://mono.ipros.com/cg2/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85/）
+  - 「ベリリウム銅 メーカー23社 - Metoree — ベリリウム銅 メーカー23社 - Metoree Metoree https://metoree.com > 金属材料」（https://metoree.com/categories/2983/）
+  - 「10％ ベリリウム銅 合金関連 企業 トップ10一覧 - LinkedIn — 10％ ベリリウム銅 合金関連 企業 トップ10一覧 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > 10ベリリウム銅合金関連...」（https://jp.linkedin.com/pulse/10%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%E5%90%88%E9%87%91%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%83%88%E3%83%83%E3%83%9710%E4%B8%80%E8%A6%A7-solvantac-0fcze）
+  - 「ベリリウム銅 （25合金、165合金、50合金、10合金） — ベリリウム銅 （25合金、165合金、50合金、10合金） 大和合金株式会社 https://yamatogokin.org > jhp > ベリリウム銅（25合金、...」（https://yamatogokin.org/jhp/%E3%83%99%E3%83%AA%E3%83%AA%E3%82%A6%E3%83%A0%E9%8A%85%EF%BC%8825%E5%90%88%E9%87%91%E3%80%81165%E5%90%88%E9%87%91%E3%80%8150%E5%90%88%E9%87%91%E3%80%8110%E5%90%88%E9%87%91%EF%BC%89/）
+  - 「快削性 ベリリウム銅 合金の世界市場（2026年～2032年） — 快削性 ベリリウム銅 合金の世界市場（2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/5464663）
+
+## ガリウム（gallium）
+- 文脈：レアメタル
+- 市場規模：
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場規模は、2026年には24億6000万米ドルと評価され、2034年までに79億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%です」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウムの市場規模は2030年までに2億9800万米ドルに達すると予測｜CAGR 9.5%」（https://www.atpress.ne.jp/news/7627334）
+  - 「窒化ガリウムの世界市場規模は、2021年から2030年の予測期間中、年平均成長率（CAGR）9.5%で成長し、2030年には2億9800万米ドルに達すると予測しています」（https://www.atpress.ne.jp/news/7627334）
+  - 「医薬品ブリスター包装市場規模は2029年までに161.1億ドルに達する見込み - 最新予測」（https://www.atpress.ne.jp/news/7627334）
+  - 「ノンアルコールビール市場は、年平均成長率（CAGR）7.8％を記録し、2030年には319億米ドルに成長すると予測される」（https://www.atpress.ne.jp/news/7627334）
+  - 「家庭用フィットネス機器の世界市場は、年平均成長率（CAGR）7.1％で推移し、2030年には128億米ドルに成長すると予測」（https://www.atpress.ne.jp/news/7627334）
+  - 「人工角膜・角膜インプラント市場は年平均成長率（CAGR）7.1%で成長し、2030年には7億140万米ドルに達すると予測される」（https://www.atpress.ne.jp/news/7627334）
+  - 「eSIM市場は、複合年間成長率（CAGR）31.1％を記録し、2030年には6億6,080万米ドルに成長すると予測される」（https://www.atpress.ne.jp/news/7627334）
+  - 「ATVとUTVの市場規模は、複合年間成長率（CAGR）7.7％を記録し、2030年には136億2140万米ドルに成長すると予測される」（https://www.atpress.ne.jp/news/7627334）
+- 成長率：
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「5G技術の普及拡大は、高周波用途に最適なGaNデバイスにとって大きなビジネスチャンスとなる」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場規模は、2026年には24億6000万米ドルと評価され、2034年までに79億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%です」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウムの市場規模は2030年までに2億9800万米ドルに達すると予測｜CAGR 9.5%」（https://www.atpress.ne.jp/news/7627334）
+  - 「窒化ガリウムの世界市場規模は、2021年から2030年の予測期間中、年平均成長率（CAGR）9.5%で成長し、2030年には2億9800万米ドルに達すると予測しています」（https://www.atpress.ne.jp/news/7627334）
+  - 「ノンアルコールビール市場は、年平均成長率（CAGR）7.8％を記録し、2030年には319億米ドルに成長すると予測される」（https://www.atpress.ne.jp/news/7627334）
+  - 「家庭用フィットネス機器の世界市場は、年平均成長率（CAGR）7.1％で推移し、2030年には128億米ドルに成長すると予測」（https://www.atpress.ne.jp/news/7627334）
+  - 「人工角膜・角膜インプラント市場は年平均成長率（CAGR）7.1%で成長し、2030年には7億140万米ドルに達すると予測される」（https://www.atpress.ne.jp/news/7627334）
+  - 「eSIM市場は、複合年間成長率（CAGR）31.1％を記録し、2030年には6億6,080万米ドルに成長すると予測される」（https://www.atpress.ne.jp/news/7627334）
+- 主要企業：
+  - 「窒化ガリウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「酸化ガリウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「2024年の市場は、参入メーカーの設備投資に伴う量産化によって、価格が低下したため最終製品に採用しやすくなり、小型化ニーズが高いAC-DCアダプタにおいてシリコンからの置き換えが進んだ」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25032&la=ja）
+  - 「世界の窒化ガリウム市場の成長に重要な役割を果たす主要な主要企業には、Koninklijke Philips N.V.、Qorvo Inc.、Infineon Technologies AG、Texas Instruments Incorporated、VisIC Technologies Ltd.などが含まれます」（https://www.sdki.jp/reports/gallium-nitride-market/590641402）
+  - 「この調査には、世界の窒化ガリウム市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/gallium-nitride-market/590641402）
+  - 「当社の調査レポートによると、Koninklijke Philips N.V.、Qorvo Inc.、Infineon Technologies AG、Texas Instruments Incorporated、VisIC Technologies Ltd. などは、世界の窒化ガリウム市場で機能する主要企業の一部です」（https://www.sdki.jp/reports/gallium-nitride-market/590641402）
+  - 「当社の調査レポートによると、Fujitsu Ltd.、Mitsubishi Chemical Corporation、Panasonic Corporation、Toshiba Corporation、Sumitomo Chemical Co., Ltd. などは、窒化ガリウム市場の日本の分野で機能している主要企業の一部です」（https://www.sdki.jp/reports/gallium-nitride-market/590641402）
+  - 「溶液法によるSiCウエハー製造増加、市場参入見通し」（https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vLE8kS3iyDC1oMjMMozU_j2_HHcoCUrKqsuQvXFbs25o9ET-ZQe）
+  - 「Startups」（https://www.sphericalinsights.com/jp/blogs/world-s-top-10-companies-in-gallium-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「また、本レポートでは、窒化ガリウムRFデバイスのポートフォリオと技術力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的な窒化ガリウムRFデバイス市場の急速な拡大の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://newscast.jp/news/1538690）
+  - 「第3章には、世界の窒化ガリウム（GaN）RFデバイス市場における主要企業別の詳細な分析が示されています」（https://newscast.jp/news/1538690）
+  - 「さらに、主要メーカーの生産地域分布、販売地域、提供製品、市場集中度分析（競争状況、CR3、CR5、CR10比率、2024年から2026年）、新製品、潜在的参入企業、M&A活動と戦略に関する情報が記載されています」（https://newscast.jp/news/1538690）
+  - 「第13章には、窒化ガリウム（GaN）RFデバイス市場の主要企業に関する詳細な分析が示されています」（https://newscast.jp/news/1538690）
+  - 「Competitive Landscape」（https://www.persistencemarketresearch.com/market-research/gallium-market.asp）
+  - 「Key players include China Aluminum Corporation, China Germanium Co., Ltd., 5N Plus Inc., Dowa Holdings Co., Ltd., IQE plc, Wolfspeed, Inc., Qorvo, Inc., and Neo Performance Materials Inc.」（https://www.persistencemarketresearch.com/market-research/gallium-market.asp）
+- 日本企業：
+  - 「アジア太平洋地域は、中国、日本、韓国などの国々における電子機器製造業の急速な拡大を背景に、窒化ガリウム市場において最も高い成長率を示すと予想されている」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「三菱電機株式会社」（https://www.atpress.ne.jp/news/7627334）
+  - 「この地域には、中国、日本、韓国などの国々が先頭に立つ半導体メーカーが多数存在します」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「Japanese」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25032&la=ja）
+  - 「総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470）は、中国の景況悪化による民生機器や産業向けを中心とした在庫が2025年後半に向けて解消され、2026年以降大きな伸長が予想されるほか、長期的には自動車の電動化などによって需要が高まるパワー半導体の世界市場を調査した」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25032&la=ja）
+  - 「半導体レジストなど前工程材料は、ウエハーの薄化や回路パターンの形成に必要であるため一定の需要がみられるが、2024年以降、日本や欧州、北米で需要が低調であり、2025年の市場は前年比3.0%増にとどまるとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25032&la=ja）
+  - 「日本ものづくりワールド」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「ローム東芝三菱電機の半導体事業統合、シナジー創出では「工場再編」が議題に」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「ローム、東芝、日本産業パートナーズ、TBJホールディングス、三菱電機は、ロームと東芝デバイス＆ストレージ（TDSC）の半導体事業、三菱電機のパワーデバイス事業の事業／経営統合に関する協議開始に向けた基本合意書を締結したと発表した」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「三菱電機は、EVや再生可能エネルギー用電源システム向けのトレンチ型SiC-MOSFETチップ4品種のサンプル提供を開始した」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「日本IBMが千歳事業所を開設、Rapidusなど半導体関連顧客を支援」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「日立の新型GPUコールドプレートは何がすごいか 40℃超高温水冷却のメカニズム」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「日本は世界第3位のBluetooth大国、国内活動強化に向け日本代表が就任」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「日立がGPU冷却用コールドプレート開発、独自のU字構造で消費電力を約30％削減」（https://monoist.itmedia.co.jp/mn/articles/2605/22/news106.html）
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/gallium-nitride-market/590641402）
+- 上位シェア：
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場の規模、シェア、トレンド分析レポート：製品タイプ別（パワーデバイス、光電子デバイス、RFデバイス、LED）、デバイスタイプ別（GaNオンシリコン、GaNオンサファイア、GaNオン炭化ケイ素）、用途別（パワーエレクトロニクス、民生用電子機器、自動車、RFおよび無線通信、航空宇宙および防衛）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「北米は2025年に38.5%の市場シェアを占め、窒化ガリウム市場を牽引しました」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「2025年の窒化ガリウム市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「北米は2025年時点で38.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「合成黒鉛市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「酸化ガリウム市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場の規模、シェア、トレンド分析レポート：技術別（分子線エピタキシー、化学気相成長法、化学合成法、熱蒸着・昇華法、その他）、用途別（電力・高電圧デバイス、エレクトロルミネッセンスデバイス、ガスセンサー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は、2025年に42.6%の市場シェアを占め、酸化ガリウム市場を牽引しました」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は酸化ガリウム産業を牽引し、2024年には50％のシェアを占めた」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+- 投資：
+  - 「オーストラリアは最大2億米ドルの優遇出資を約束し、両政府は将来のオフテイク権を獲得した」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「日本国内では、α型を2011年創業の京都大学発ベンチャーであるFLOSFIAが、β型をタムラ製作所などが出資するノベルクリスタルテクノロジーが、基板とデバイスの作成技術を開発しています」（https://www.nepconjapan.jp/hub/ja-jp/blog/blog03.html）
+  - 「Defense programs consume gallium-based RF devices and germanium infrared components in radar, electronic warfare, thermal imaging, satellite communications, and electro-optical systems. The U.S. Department of War announced a USD 18.5 million investment in Lattice Materials to expand germanium and silicon optics production.」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「Latin America is projected to rise from USD 26 million in 2025 to USD 80 million by 2035 at a CAGR of 11.5%. Telecom investment, electronics manufacturing, and nearshoring support demand, particularly in Brazil and Mexico. The region remains primarily a consuming market, with demand tied to imported semiconductor and network equipment rather than a large domestic refining base.」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「U.S. germanium and optics investment - 2025」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「: The U.S. Department of War announced a USD 18.5 million investment in Lattice Materials to expand germanium and silicon optics production. The investment reflects a policy focus on domestic capacity for materials used in defense optical systems.」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「Teck Trail Operations strategic investment agreement - 2025」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「On June 2025, a US semiconductor manufacturer invested heavily in gallium nitride power device production for the domestic electric vehicle and defense industries.」（https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-gallium-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「3.Rising semiconductor manufacturing investments」（https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-gallium-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「Strong 8.9% CAGR reflects rapid electronics sector expansion and increasing technology industry investment, creating substantial gallium demand growth opportunities for specialized suppliers.」（https://www.futuremarketinsights.com/reports/gallium-market）
+  - 「The 8.2% CAGR demonstrates Germany's commitment to advanced gallium applications through precision manufacturing investments and comprehensive quality standard development programs.」（https://www.futuremarketinsights.com/reports/gallium-market）
+  - 「The 7.5% CAGR supports France's focus on high-value gallium applications through strategic investments in advanced technology sectors and specialized processing capability development.」（https://www.futuremarketinsights.com/reports/gallium-market）
+  - 「The 6.7% CAGR supports the United Kingdom's innovation focus through research and development investments that advance gallium application technologies and specialized processing capabilities.」（https://www.futuremarketinsights.com/reports/gallium-market）
+  - 「The 6% CAGR supports sustained growth in technology innovation sectors through advanced manufacturing investments and comprehensive gallium processing capability development programs.」（https://www.futuremarketinsights.com/reports/gallium-market）
+  - 「Startup Funding: Q4 2025」（https://semiengineering.com/startup-funding-q4-2025/）
+- 検索結果の抜粋：
+  - 「窒化 ガリウム の 市場規模 は2030年までに2億9800万米ドルに ... — 窒化 ガリウム の 市場規模 は2030年までに2億9800万米ドルに ... アットプレス https://www.atpress.ne.jp > ... > Report Ocean Co. Ltd.」（https://www.atpress.ne.jp/news/7627334）
+  - 「ガリウム市場 シェア・ 規模 ・2030年までの 成長 見通し — ガリウム市場 シェア・ 規模 ・2030年までの 成長 見通し Mordor Intelligence https://www.mordorintelligence.com > gallium-market」（https://www.mordorintelligence.com/ja/industry-reports/gallium-market）
+  - 「グローバル 成長 における ガリウム リン化物 市場 ：2026年から ... — グローバル 成長 における ガリウム リン化物 市場 ：2026年から ... LinkedIn https://jp.linkedin.com > pulse > グローバル成長におけ...」（https://jp.linkedin.com/pulse/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E6%88%90%E9%95%B7%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%AA%E3%83%B3%E5%8C%96%E7%89%A9%E5%B8%82%E5%A0%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%B8%AC66-cagr%E3%81%A8%E6%A5%AD%E7%95%8C%E4%BA%88%E6%B8%AC-topo-track-xjtze）
+  - 「ガリウム市場 規模、シェア - 2035 年までの 予測 — ガリウム市場 規模、シェア - 2035 年までの 予測 Market Growth Reports https://www.marketgrowthreports.com > Home > 情報技術」（https://www.marketgrowthreports.com/jp/market-reports/gallium-market-115212）
+  - 「電子用 ガリウム の世界 市場 （2026年～2032年）、 市場 規模（5N — 電子用 ガリウム の世界 市場 （2026年～2032年）、 市場 規模（5N アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/6873260）
+  - 「ガリウム 市場規模における世界トップ10 企業 - Spherical Insights — ガリウム 市場規模における世界トップ10 企業 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > blogs > world-s-top-1...」（https://www.sphericalinsights.com/jp/blogs/world-s-top-10-companies-in-gallium-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「ガリウム メーカー14社 注目ランキング【2026年】 - Metoree — ガリウム メーカー14社 注目ランキング【2026年】 - Metoree Metoree https://metoree.com > 化学物質」（https://metoree.com/categories/6887/）
+  - 「酸化 ガリウム （Ga2O3）はパワー半導体の有望株!?実用化に ... — 酸化 ガリウム （Ga2O3）はパワー半導体の有望株!?実用化に ... ネプコン ジャパン https://www.nepconjapan.jp > hub > ja-jp > blog > blog03」（https://www.nepconjapan.jp/hub/ja-jp/blog/blog03.html）
+  - 「窒化 ガリウム 市場規模、シェア、予測、2034年 — 窒化 ガリウム 市場規模、シェア、予測、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > 窒化ガリウム...」（https://www.fortunebusinessinsights.com/jp/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%B8%82%E5%A0%B4-106876）
+  - 「Gallium Market Size , Share, and Growth Forecast 2026 – 2033 — Gallium Market Size , Share, and Growth Forecast 2026 – 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/gallium-market.asp）
+  - 「Gallium Market Size , Share, Trends & Growth | 2034 — Gallium Market Size , Share, Trends & Growth | 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/gallium-market-117976）
+  - 「Gallium & Germanium Market Size , Share & Forecast, 2035 — Gallium & Germanium Market Size , Share & Forecast, 2035 Global Market Insights Inc. https://www.gminsights.com > galliu...」（https://www.gminsights.com/industry-analysis/gallium-and-germanium-market）
+  - 「Gallium Industry Projections: Market Revenue and 7.8 ... — Gallium Industry Projections: Market Revenue and 7.8 ... LinkedIn https://www.linkedin.com > pulse > g...」（https://www.linkedin.com/pulse/gallium-industry-projections-market-revenue-78-cagr-npzgc）
+  - 「Gallium Market | Global Market Analysis Report - 2035 - Fact.MR — Gallium Market | Global Market Analysis Report - 2035 - Fact.MR Fact.MR https://www.factmr.com > report > ga...」（https://www.factmr.com/report/gallium-market）
+  - 「World's Top 10 Companies in Gallium Market Size — World's Top 10 Companies in Gallium Market Size Spherical Insights https://www.sphericalinsights.com > ...」（https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-gallium-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035）
+
+## ゲルマニウム（germanium）
+- 文脈：レアメタル・防衛赤外線
+- 市場規模：
+  - 「ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場規模、シェア、トレンド分析レポート：用途別（電子機器、光学機器、太陽電池、赤外線システム、その他の用途）、製品タイプ別（多結晶ゲルマニウム、単結晶ゲルマニウム、ゲルマニウム化合物）、最終用途産業別（電気通信、自動車、家電、軍事・防衛、その他の産業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「世界のゲルマニウム市場規模は、2025年には2億7454万米ドルと評価され、2026年の2億8571万米ドルから2034年には3億9313万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%となる見込みです」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場規模は、2026年には2億8571万米ドルと評価され、2034年までに3億9313万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%である」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.07%で成長すると予測されている」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「鉄筋市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan」（https://japan.zdnet.com/release/31140656/）
+  - 「四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年」（https://japan.zdnet.com/release/31140656/）
+  - 「SDKI Analytics（本社：東京都渋谷区）は、このたび、2026年01月05に「四塩化ゲルマニウム市場調査レポート：2026-2035年の市場規模、シェア、傾向の予測」を発表しました」（https://japan.zdnet.com/release/31140656/）
+  - 「四塩化ゲルマニウム市場に関する当社の調査レポートによると、四塩化ゲルマニウム市場規模は 2035 年に約 500 百万米ドルに達すると予想されています」（https://japan.zdnet.com/release/31140656/）
+  - 「さらに、2025 年の 四塩化ゲルマニウム市場規模は約 330 百万米ドルとなっています」（https://japan.zdnet.com/release/31140656/）
+  - 「四塩化ゲルマニウムに関する市場調査レポートでは、市場は 2026-2035 年の予測期間中に約 3.9% の CAGR で成長するとも述べられています」（https://japan.zdnet.com/release/31140656/）
+- 成長率：
+  - 「ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「世界のゲルマニウム市場規模は、2025年には2億7454万米ドルと評価され、2026年の2億8571万米ドルから2034年には3億9313万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%となる見込みです」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウムはこれらのファイバーの製造に不可欠であり、5Gや光ファイバーネットワークを含む通信インフラの世界的な拡大が、大きな需要を生み出しています」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「光ファイバー製造におけるゲルマニウム消費を促進する主な要因は、アジア太平洋地域全体における高速インターネットへのニーズと、5Gネットワ​​ークの継続的な拡大です」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場規模は、2026年には2億8571万米ドルと評価され、2034年までに3億9313万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.07%である」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.07%で成長すると予測されている」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「四塩化ゲルマニウムに関する市場調査レポートでは、市場は 2026-2035 年の予測期間中に約 3.9% の CAGR で成長するとも述べられています」（https://japan.zdnet.com/release/31140656/）
+  - 「SDKI Analyticsの専門家によると、四塩化ゲルマニウム市場シェアの成長は、高速インターネット、クラウドコンピューティング、5Gネットワークといった高度な電気通信インフラの世界的な展開に伴う光ファイバーの普及拡大によるものです」（https://japan.zdnet.com/release/31140656/）
+  - 「2030年までに、光ファイバー分野における四塩化ゲルマニウムの需要は年平均成長率（CAGR）5.5%で増加すると予測されており、これは主に5Gネットワークの展開によって牽引される可能性があります」（https://japan.zdnet.com/release/31140656/）
+  - 「7.00% CAGR」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「Reportprime は、全体の収益が 2025 年の 2 億 3,005 万から 2031 年までに 3 億 4,524 万に増加し、CAGR 7.00% になると予測しています」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「7.00% の世界的な CAGR を反映するペースで、2,880 万が追加されます」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+- 主要企業：
+  - 「ゲルマニウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「参入障壁 (100 ワード)」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「— 四塩化ゲルマニウム分野への参入には資本集約型です」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「特許で保護された精製工程と湿気のない配送を保証する世界的な物流能力の必要性と相まって、これらの要因が総合的に新規参入を阻止し、現在の寡占構造を強化しています」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「戦略的バイヤー、特殊化学大手、プライベート・エクイティ・ファンドはいずれも、供給を確保し、隣接する価値プールに参入し、レポートプライムが予測する2031年までのCAGR 7.00%を達成するために、ボルトオンおよび変革的な取引を追求してきた」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「光ファイバー市場向け四塩化ゲルマニウムは競争が激しく、いくつかの主要企業が市場シェアを争っています」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「このレポートは、戦略的意思決定、市場参入、製品開発、および投資機会に関する重要な情報を提供するため、電気通信、光ファイバー、およびエレクトロニクス業界の利害関係者にとって不可欠です」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「主な企業は以下の通りです:」（https://www.factmr.com/ja/report/high-purity-germanium-market）
+  - 「ゲルマニウム市場に参入している主要企業はどこですか？」（https://newscast.jp/news/9106901）
+  - 「ゲルマニウム市場に参入している主要企業はどこですか？」（https://www.atpress.ne.jp/news/9106901）
+  - 「溶液法によるSiCウエハー製造増加、市場参入見通し」（https://www.yano.co.jp/press-release/show/press_id/3929?srsltid=AYCX9vKsteJqazb-kI4sdG1WzMFZtl3aYdW0dBXGYrre4_mMTuLQf35F）
+  - 「世界のゲルマニウム金属の主要企業には、Yunnan Germanium、Chihong Zn&Ge、China Germanium、Shenzhen Zhongjin Lingnan、Sichuan Shengtun Zinc Germanium などがあります」（https://newscast.jp/news/3450660）
+  - 「また、ゲルマニウム金属のポートフォリオと能力、市場参入戦略、市場での位置づけ、地理的展開に焦点を当て、主要グローバル企業の戦略を分析することで、加速する世界のゲルマニウム金属市場における各企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/3450660）
+  - 「また、新製品や市場への潜在的な新規参入企業、市場におけるM&A活動と戦略についても触れられています」（https://newscast.jp/news/3450660）
+  - 「市場参入企業は、二酸化ゲルマニウム、金属ゲルマニウム、四塩化ゲルマニウムに注力し、それぞれ異なる加工工程、純度基準、物流上の考慮事項が求められます」（https://www.atpress.ne.jp/news/8692150）
+- 日本企業：
+  - 「Mitsubishi Materials.」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「JX Nippon Mining and Metals Corporation.」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「Gécamines · Mitsubishi Materials. · UCL Resources. · JER Group. · Nippon Germanium.」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「この市場をリードする企業は、ジェカミン、三菱マテリアル、UCLリソーシズ、JERグループ、日本ゲルマニウムなどである」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan」（https://japan.zdnet.com/release/31140656/）
+  - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31140656/）
+  - 「ZDNET Japan」（https://japan.zdnet.com/release/31140656/）
+  - 「この点に関して、世界経済フォーラムによると、日本政府は国内半導体生産体制の強化のために2兆円を投じており、これが四塩化ゲルマニウム市場を支える要因となっています」（https://japan.zdnet.com/release/31140656/）
+  - 「日本は化学物質審査規制法（化審法）を施行しており、上市前の評価と承認が義務付けられています」（https://japan.zdnet.com/release/31140656/）
+  - 「これに加えて、日本市場のトップ 5 プレーヤーは次のとおりです:」（https://japan.zdnet.com/release/31140656/）
+  - 「● Mitsubishi Chemical Corporation」（https://japan.zdnet.com/release/31140656/）
+  - 「● Sumitomo Electric Industries, Ltd.」（https://japan.zdnet.com/release/31140656/）
+  - 「● Showa Denko K.K. (Resonac Holdings)」（https://japan.zdnet.com/release/31140656/）
+  - 「CNET Japan Top Story」（https://japan.zdnet.com/release/31140656/）
+  - 「日本語で話せば「自分の声」のまま外国語に DeepLが新音声翻訳を提供開始」（https://japan.zdnet.com/release/31140656/）
+- 上位シェア：
+  - 「ゲルマニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ゲルマニウム市場規模、シェア、トレンド分析レポート：用途別（電子機器、光学機器、太陽電池、赤外線システム、その他の用途）、製品タイプ別（多結晶ゲルマニウム、単結晶ゲルマニウム、ゲルマニウム化合物）、最終用途産業別（電気通信、自動車、家電、軍事・防衛、その他の産業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「アジア太平洋地域は、2025年に42.6%の市場シェアを占め、ゲルマニウム市場を牽引しました」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「Project Blueによると、2023年には、中国は世界のアンチモン採掘量の48％、精製ゲルマニウム（59.2％）および精製ガリウム（98.8％）生産量のかなりの部分を占めていた」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「2025年のゲルマニウム市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「アジア太平洋地域は2025年に42.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「鉄筋市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/germanium-market）
+  - 「四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年 - ZDNET Japan」（https://japan.zdnet.com/release/31140656/）
+  - 「四塩化ゲルマニウム市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年」（https://japan.zdnet.com/release/31140656/）
+  - 「SDKI Analytics（本社：東京都渋谷区）は、このたび、2026年01月05に「四塩化ゲルマニウム市場調査レポート：2026-2035年の市場規模、シェア、傾向の予測」を発表しました」（https://japan.zdnet.com/release/31140656/）
+- 投資：
+  - 「North America (high-growth hub at a 7.8% CAGR, spurred by domestic semiconductor investments like the CHIPS Act and recycling initiatives)」（https://www.marketdataforecast.com/market-reports/global-germanium-market）
+  - 「Since implementing licensing requirements in mid-2023, China’s policy has tightened supply, spurred strategic stockpiling in the EU and U.S., and accelerated investments in alternative sourcing—making supply chain transparency and ethical provenance key competitive differentiators.」（https://www.marketdataforecast.com/market-reports/global-germanium-market）
+  - 「Rising investments in 5G networks,」（https://www.grandviewresearch.com/industry-analysis/germanium-market-report）
+  - 「Asia Pacific held the leading market share in 2025, fueled by growing demand for solar applications such as CPV and space-based systems, as well as increasing investment in 5G networks and broadband. Industrialization, electronics production, and adoption of high-performance devices are driving germanium applications in semiconductors, photonics, and IR optics.」（https://www.polarismarketresearch.com/industry-analysis/germanium-market）
+  - 「The European germanium market obtained large market shares in 2025 due to huge investments in digital infrastructure, broadband expansion and the intelligent grid. The International Energy Agency states that the European Union's plan of action for the electricity grid, released late in 2022, estimates investments of around USD 633 billion by 2030 in order to upgrade and extend the grid.」（https://www.polarismarketresearch.com/industry-analysis/germanium-market）
+  - 「The fiber optics segment is projected to witness the fastest growth during the forecast period, propelled by global investments in 5G networks, data centers, and high-speed communication infrastructure」（https://www.polarismarketresearch.com/industry-analysis/germanium-market）
+  - 「North America represents the fastest-growing regional market, fuelled by demand in aerospace, defence, and renewable energy. Investment in 5G infrastructure, requiring germanium-doped fibre optics, as well as thermal imaging and satellite solar panels for military and space applications, is driving growth.」（https://www.sfa-oxford.com/rare-earths-and-minor-metals/minor-metals-and-minerals/germanium-market-and-germanium-price-drivers/）
+  - 「Groove Quantum secured €10 million in EIC Accelerator funding to scale its germanium-based quantum chip technology.」（https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/）
+  - 「Groove Quantum, based in Delft, was one of only 40 companies selected from over 1,000 applicants across Europe to receive funding under the EIC Accelerator program, according to」（https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/）
+  - 「. The award includes a €2.5 million grant and additional equity investment from the EIC Fund, which aims to back high-risk, high-impact technologies in sectors such as deep tech and advanced computing.」（https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/）
+  - 「Nord Quantique Secures $10 Million DARPA Funding Extension」（https://thequantuminsider.com/2025/07/07/groove-quantum-secures-e10-million-to-scale-germanium-based-quantum-chips/）
+  - 「Groove Quantum receives €10m in EIC funding for germanium quantum technology development - DCD」（https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/）
+  - 「Investment Forum Brasil 2026」（https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/）
+  - 「Investment Forum India 2027」（https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/）
+  - 「Investment Forum New York 2027」（https://www.datacenterdynamics.com/en/news/groove-quantum-receives-10m-in-eic-funding-for-germanium-quantum-technology-development/）
+- 検索結果の抜粋：
+  - 「ゲルマニウム市場規模 ・産業展望レポート2031 — ゲルマニウム市場規模 ・産業展望レポート2031 Mordor Intelligence https://www.mordorintelligence.com > germanium-market」（https://www.mordorintelligence.com/ja/industry-reports/germanium-market）
+  - 「ゲルマニウム Market Forecast 2026-2033: 年平均成長率 ... — ゲルマニウム Market Forecast 2026-2033: 年平均成長率 ... LinkedIn https://jp.linkedin.com > pulse > ゲルマニウム-market-for...」（https://jp.linkedin.com/pulse/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0-market-forecast-2026-2033-%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr67%E3%81%A7%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%AA%E6%88%90%E9%95%B7%E3%82%92%E8%A6%8B%E8%BE%BC%E3%82%80-s0ece）
+  - 「ゲルマニウム市場規模 、シェア | 成長 研究 - 2035 — ゲルマニウム市場規模 、シェア | 成長 研究 - 2035 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/germanium-market-109970）
+  - 「光ファイバ用 ゲルマニウム 四塩化物 市場規模 、 成長 、予測 2032 — 光ファイバ用 ゲルマニウム 四塩化物 市場規模 、 成長 、予測 2032 Report Prime https://www.reportprime.com > 光ファイバ用ゲルマニウ...」（https://www.reportprime.com/ja/%E5%85%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E7%94%A8%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%8B%E3%82%A6%E3%83%A0%E5%9B%9B%E5%A1%A9%E5%8C%96%E7%89%A9-r719）
+  - 「高純度 ゲルマニウム市場 規模、シェアおよび2036年の 予測 — 高純度 ゲルマニウム市場 規模、シェアおよび2036年の 予測 Fact.MR https://www.factmr.com > 産業財」（https://www.factmr.com/ja/report/high-purity-germanium-market）
+  - 「ゲルマニウム市場 規模・産業展望レポート2031 — ゲルマニウム市場 規模・産業展望レポート2031 Mordor Intelligence https://www.mordorintelligence.com > germanium-market」（https://www.mordorintelligence.com/ja/industry-reports/germanium-market）
+  - 「金属 ゲルマニウム の世界市場（2026年～2032年） - Newscast.jp — 金属 ゲルマニウム の世界市場（2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/3450660）
+  - 「高純度 ゲルマニウム 市場規模、シェアおよび2036年の予測 — 高純度 ゲルマニウム 市場規模、シェアおよび2036年の予測 Fact.MR https://www.factmr.com > 産業財」（https://www.factmr.com/ja/report/high-purity-germanium-market）
+  - 「Germanium Market Size , Share, Growth, Trend & Analysis 2034 — Germanium Market Size , Share, Growth, Trend & Analysis 2034 Market Data Forecast https://www.marketdataforecast.com > ...」（https://www.marketdataforecast.com/market-reports/global-germanium-market）
+  - 「Germanium Market Size , Share & Trends Report, 2026-2033 — Germanium Market Size , Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/germanium-market-report）
+  - 「Germanium Market Size , Share, Trends & Forecast 2034 — Germanium Market Size , Share, Trends & Forecast 2034 Zion Market Research https://www.zionmarketresearch.com > ...」（https://www.zionmarketresearch.com/report/germanium-market）
+  - 「Germanium Market Size , Share & Growth Report 2035 — Germanium Market Size , Share & Growth Report 2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/germanium-market-6986）
+  - 「Germanium Market Size to Reach USD 423 Million by 2034 at ... — Germanium Market Size to Reach USD 423 Million by 2034 at ... LinkedIn https://www.linkedin.com > pulse > g...」（https://www.linkedin.com/pulse/germanium-market-size-reach-usd-423-million-2034-l41xf）
+  - 「Germanium Market Size & Industry Outlook Report 2031 — Germanium Market Size & Industry Outlook Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/germanium-market）
+  - 「Germanium Market Size, Share & Trends Report, 2026-2033 — Germanium Market Size, Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/germanium-market-report）
+
+## ハフニウム（hafnium）
+- 文脈：半導体・原子力
+- 市場規模：
+  - 「炭化ハフニウム市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「炭化ハフニウム市場は2025年に1億8,500万米ドルと評価され、2026年には1億9,700万米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「航空宇宙・防衛分野の2025年の市場規模は7,770万米ドルで、2035年にはハフニウムカーバイド市場の44.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「電子機器・半導体分野は2025年に市場の22.0%を占め、2035年までに1億450万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「原子力エネルギー分野は2025年に1,850万米ドルの市場規模を記録し、2035年までに3,760万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「産業製造分野は2025年に市場シェアの16.0%を占め、2035年までに6,270万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「研究開発分野は2025年に1,300万米ドルの市場規模を記録し、2026〜2035年に年平均成長率（CAGR）4.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「炭化ハフニウム市場規模：最終用途別、2025年および2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「粉末 — 標準（>10 µm）は2025年に5,180万米ドルの市場規模を記録し、2035年までに市場の22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「ハフニウム市場規模、シェア、トレンド分析レポート：製品タイプ別（金属ハフニウム、化合物ハフニウム、酸化ハフニウム、合金ハフニウム）、用途別（超合金、半導体、原子力用途、プラズマ切断）、グレード別（工業グレード、半導体グレード、原子力グレード）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「世界のハフニウム市場規模は、2025年には3億9485万米ドルと評価され、2026年の4億2610万米ドルから2034年には7億3490万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は7.98%となる見込みです」（https://straitsresearch.com/jp/report/hafnium-market）
+- 成長率：
+  - 「2026年から2035年にかけて年平均成長率（CAGR）8.7%で成長し、2035年には4億1,800万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「政府による極超音速分野への資金提供が継続すれば、航空宇宙・防衛セグメントの年平均成長率（CAGR）は2035年まで世界市場の成長率を上回る」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ALD用HfC拡散バリアおよびスパッタリングターゲットの需要は、3 nm以下の製造施設における先端ノードのウエハ投入量に直接連動して拡大する」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ファウンドリーによる2 nm未満の生産能力への投資が2035年まで続けば、電子機器・半導体は市場で最も成長の速い主要最終用途セグメントとなり、年平均成長率（CAGR）は10%を超える（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム価格の変動は、2026〜2035年の年平均成長率（CAGR）8.7%に対する単年で最大のリスクである」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「研究開発分野は2025年に1,300万米ドルの市場規模を記録し、2026〜2035年に年平均成長率（CAGR）4.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「世界のハフニウム市場規模は、2025年には3億9485万米ドルと評価され、2026年の4億2610万米ドルから2034年には7億3490万米ドルに成長すると予測されており、予測期間（2026年～2034年）の年平均成長率（CAGR）は7.98%となる見込みです」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「2026年6月、同社は米国戦略資本局から、ハフニウムなどの材料を支える国内の希土類および重要鉱物の処理能力を拡大するための条件付き融資の確約を受けた」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「2026―2035年の予測期間中は、年平均成長率（CAGR）5.9%で成長が見込まれています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場の将来は、政策的、研究志向的、構造的に電子化学品の生産を志向しており、その発展は、商品の拡大ではなく、高度な製造業、地域の産業複合体、長期的な政府の介入という3つの側面によって支えられています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「例えば、日本では、ラピダス株式会社が経済産業省の支援を受けて2nmクラスの半導体を製造していますが、これには当然のことながら、高度なゲートスタックの高k誘電体材料としてハフニウム酸化（HfO 2）が必要となり、国内市場におけるハフニウム酸化の需要拡大を直接的に促進しています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「世界のハフニウム前駆体市場規模は、2025年の7,911万米ドルから2032年には1億3,800万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）8.4%で成長すると見込まれています」（https://www.atpress.ne.jp/news/9578954）
+  - 「米国におけるハフニウム前駆体市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://www.atpress.ne.jp/news/9578954）
+- 主要企業：
+  - 「合成のハードルが高いため、認定された純度グレードへの新規参入が制限され、単位当たりの採算性は高止まりする」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「こうした要件は、認定済みの製造工程を持つ既存サプライヤーに有利に働き、新規参入企業が高付加価値用途に参入するペースを制約する」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「半導体向けターゲット材、超微粉末、認定済みコーティングは、標準粉末を保護する障壁よりも実質的に強固な技術的参入障壁の恩恵を受ける」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「炭化ハフニウム市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「炭化ハフニウム市場の主要企業には、Treibacher Industrie AG、Materion Corporation、Hunan Huawei Jingcheng、American Elements、Xi'an Function Material Groupなどがある」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「こうした処理上の課題は生産コストを増加させ、新規精製業者の参入を阻害し、高度な産業用途向けの高純度ハフニウムの普及を妨げている」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「主要企業は、高純度ハフニウム生産、ジルコニウム・ハフニウム統合精製能力、長期供給契約を通じて競争している」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「ハフニウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「産業地理学的には、東京および首都圏は、投資、外国企業の参入、そして戦略的事業活動の要衝であり、先端産業の資材調達行動に影響を与えています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「環境、安全、品質に関するコンプライアンスの地域間差異は、日本のサプライヤーにとって国際市場参入コストと時間の増加につながります」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本の主要企業としては、Iwatani Corporation、Mitsubishi Materials Corporation、OSAKA Titanium Technologies Co., Ltd.、Dowa Holdings Co., Ltd.、Tanaka Holdings Co., Ltd.などが挙げられます」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「また、ハフニウム前駆体のポートフォリオと能力、市場参入戦略、市場における地位、地理的な事業展開に焦点を当て、世界有数の企業の戦略を分析することで、成長著しい世界のハフニウム前駆体市場における各社の独自の立ち位置をより深く理解します」（https://www.atpress.ne.jp/news/9578954）
+  - 「さらに、主要メーカーの生産地域分布、販売地域、製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10）、新製品情報、潜在的な新規参入企業、および市場におけるM&A活動と戦略が記載されている」（https://www.atpress.ne.jp/news/9578954）
+- 日本企業：
+  - 「日本は2025年に800万米ドルを計上し、2035年には2,200万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「日本市場は、先端半導体の生産、航空宇宙材料の開発、原子炉の保守需要に支えられている」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「日本ハフニウム市場分析」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「日本のハフニウム市場は、半導体材料、精密製造、先端エレクトロニクス分野における日本のリーダーシップに支えられ、2025年には3,520万米ドル規模に達すると予測されています」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「日本の半導体製造装置メーカーと特殊材料サプライヤーからなる強力なエコシステムは、先端産業用途におけるハフニウムの採用をさらに促進しています」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「日本のハフニウム市場調査レポート、規模とシェア、予測2035年」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場調査レポート - タイプ別（ハフニウムスポンジ、ハフニウムクリスタルバー、ハフニウム酸化）; アプリケーション別 ; 最終用途産業別ー日本の需要と供給の分析、成長予測、統計レポート 2026ー2035年」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場調査、規模、傾向のハイライト(予測2026ー2035年)」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場規模」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「2026年には、日本のハフニウムの業界規模は31.4百万米ドルに達すると予想されています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウム市場は、主に政府の直接支援による半導体製造やその他の関連材料処理の成長に牽引され、予測期間にわたって上昇傾向で成長すると見込まれています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「経済産業省の半導体再活性化戦略大綱（METI）の報告書によると、2021年度から2023年度の期間に、日本は設備投資と研究開発投資の両方で126億米ドルを超える半導体投資支援を費やしました」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「総務省統計局（日本）は、消費者物価指数（CPI）の財のサブ指数を115.2（2024年＝100）と予測しています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+  - 「日本のハフニウムのサプライチェーンは、輸入原料によって支えられており、国内では関連するジルコニウム処理ラインを通じて精製されています」（https://www.researchnester.jp/industry-reports/japan-hafnium-market/626）
+- 上位シェア：
+  - 「炭化ハフニウム市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「航空宇宙・防衛分野の2025年の市場規模は7,770万米ドルで、2035年にはハフニウムカーバイド市場の44.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「電子機器・半導体分野は2025年に市場の22.0%を占め、2035年までに1億450万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「産業製造分野は2025年に市場シェアの16.0%を占め、2035年までに6,270万米ドルの市場規模に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「粉末 — 標準（>10 µm）は2025年に5,180万米ドルの市場規模を記録し、2035年までに市場の22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「粉末 — 超微粉／ナノ（≤10 µm）は2035年までに6,300万米ドルの市場規模に達すると予測され、2025年には市場シェアの12.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「コーティング — PVDは2025年に1,300万米ドルを生み出し、2035年には市場の7.9%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「スパッタリングターゲット — ロータリー／チューブラー型は2025年に1,300万米ドルを生み出し、2035年には市場の9.1%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「セラミック部品は2025年に市場シェアの5.0%を占め、2035年には1,700万米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「99.5〜99.9%の高純度HfCは2025年に市場シェアの36.0%を占め、2035年には1億5,500万米ドルを生み出すと予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「炭化ハフニウム市場シェア、純度グレード別、2025年」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「99%未満の商業用／工業用グレードHfCは2025年に市場シェアの5.0%を占め、2035年には市場の3.8%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「地域別炭化ハフニウム市場シェア、2025年・2035年」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「ハフニウム市場規模、シェア、トレンド分析レポート：製品タイプ別（金属ハフニウム、化合物ハフニウム、酸化ハフニウム、合金ハフニウム）、用途別（超合金、半導体、原子力用途、プラズマ切断）、グレード別（工業グレード、半導体グレード、原子力グレード）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/hafnium-market）
+- 投資：
+  - 「ハフニウム市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/hafnium-market）
+  - 「The rising investments in nuclear power plants, especially in the U.S. and China, have further boosted the demand for hafnium rods, securing their top spot in the market. The trend is anticipated to persist through 2025, with continued industrial adoption and technological advancements driving growth in the segment.」（https://market.us/report/hafnium-market/）
+  - 「In February 2026, the U.S. government launched its Critical Minerals Support Program, offering funding up to USD 500 million per project. This initiative explicitly funds domestic extraction, refining facilities, separation technology, and downstream recycling for strategic materials, including hafnium.」（https://www.datamintelligence.com/research-report/hafnium-market）
+  - 「The Asia Pacific hafnium market is expected to grow at a CAGR of approximately 6.8% over the forecast period, the fastest pace among all regions, supported by expanding semiconductor manufacturing and nuclear power investment.」（https://www.expertmarketresearch.com/reports/hafnium-market）
+  - 「February 2026 - Materion Secured 65 million Dollar Defense Investment for Critical Materials」（https://www.expertmarketresearch.com/reports/hafnium-market）
+  - 「As part of the PSV Venture House, PSV Hafnium benefits from over 20 years of experience in the innovation ecosystem, where PSV, as a venture house, has collectively invested in 450+ startups. A prime example of this success is Glycom (infant formula), a deep tech startup spun out of DTU, that received funding from PSV and was sold for €765 million to Dutch DSM in 2020.」（https://hello-tomorrow.org/discover-psv-hafnium-with-marianne-hyltoft/）
+  - 「The fund’s first close in 2024 is at €55M, targeting €70M (hard cap €90M in total capital), and aims to back approximately 25 deep tech startups over the next four years. Investment horizons +10 years.」（https://hello-tomorrow.org/discover-psv-hafnium-with-marianne-hyltoft/）
+  - 「We provide substantial funding to match the needs of deep tech companies, supporting them throughout their development journey. Our average first check ranges between €100,000 to €1M.」（https://hello-tomorrow.org/discover-psv-hafnium-with-marianne-hyltoft/）
+  - 「© European Investment Fund 2026」（https://www.eif.org/press/all/new-venture-fund-psv-hafnium-secures-backing-from-eif-and-eifo-to-invest-in-early-stage-deep-tech-in-denmark-and-the-nordics）
+  - 「VC funding in CEE report — Q3 2026」（https://www.vestbee.com/insights/articles/psv-hafnium-secures-51-6-m）
+- 検索結果の抜粋：
+  - 「炭化 ハフニウム市場規模 ・予測レポート（2026〜2035年） — 炭化 ハフニウム市場規模 ・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > hafnium-carbide-market」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム市場規模 、シェア、 成長 |グローバルレポート [2034] — ハフニウム市場規模 、シェア、 成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物」（https://www.fortunebusinessinsights.com/jp/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-108578）
+  - 「ジルコニウムおよび ハフニウム市場規模 分析 2026 — ジルコニウムおよび ハフニウム市場規模 分析 2026 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/zirconium-and-hafnium-market-101119）
+  - 「ハフニウム市場 、2034年に142.6トン 規模 到達見込み — ハフニウム市場 、2034年に142.6トン 規模 到達見込み CNET Japan https://japan.cnet.com > リリース」（https://japan.cnet.com/release/31171893/）
+  - 「炭化 ハフニウム市場 規模・ 予測 レポート（2026〜2035年） — 炭化 ハフニウム市場 規模・ 予測 レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > hafnium-carbide-market」（https://www.gminsights.com/ja/industry-analysis/hafnium-carbide-market）
+  - 「ハフニウム 前駆体の世界 市場 （2026年～2032年） — ハフニウム 前駆体の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9578954）
+  - 「ハフニウム の 国内 製造技術を確立、第一稀元素化学工業 — ハフニウム の 国内 製造技術を確立、第一稀元素化学工業 EE Times Japan https://eetimes.itmedia.co.jp > articles > news044」（https://eetimes.itmedia.co.jp/ee/articles/2609/25/news044.html）
+  - 「第一稀元素、レアメタル「 ハフニウム 」を 国内 製造 28年メド ... — 第一稀元素、レアメタル「 ハフニウム 」を 国内 製造 28年メド ... 日本経済新聞 https://www.nikkei.com > ビジネス > 素材」（https://www.nikkei.com/article/DGXZQOUC3165R0R30C26A8000000/）
+  - 「ハフニウム 市場規模、シェア、成長 |グローバルレポート [2034] — ハフニウム 市場規模、シェア、成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 金属・鉱物」（https://www.fortunebusinessinsights.com/jp/%E3%83%8F%E3%83%95%E3%83%8B%E3%82%A6%E3%83%A0-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88-108578）
+  - 「稀元素、レアメタル「 ハフニウム 」の 国内 製造技術確立 28 ... — 稀元素、レアメタル「 ハフニウム 」の 国内 製造技術確立 28 ... 株探 https://kabutan.jp > 市場ニュース」（https://kabutan.jp/news/marketnews/?b=n202608250875）
+  - 「Hafnium Market Size , Share, Growth | Global Report [2034] — Hafnium Market Size , Share, Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/hafnium-market-108578）
+  - 「Hafnium Market Size , Share, Growth | CAGR of 7.3% — Hafnium Market Size , Share, Growth | CAGR of 7.3% Market.us https://market.us > hafnium-market」（https://market.us/report/hafnium-market/）
+  - 「Hafnium Market Size , Share, Analysis Report, 2026-2033 — Hafnium Market Size , Share, Analysis Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/hafnium-market-report）
+  - 「Hafnium Market Size , Share & Forecast 2026-2035 — Hafnium Market Size , Share & Forecast 2026-2035 DataM Intelligence https://www.datamintelligence.com > ...」（https://www.datamintelligence.com/research-report/hafnium-market）
+  - 「Hafnium Market Size, Share, Growth | Global Report [2034] — Hafnium Market Size, Share, Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/hafnium-market-108578）
+
+## ニオブ（niobium）
+- 文脈：超伝導・合金
+- 市場規模：
+  - 「ニオブ市場規模 - 2026-2035年予測レポート」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場規模とシェア（製品タイプ別：ニオブ合金、ニオブ酸化物、ニオブ炭化物、ニオブ酸ニオブ）、用途、エンドユーザー、生産、貿易 - SWOT分析、競争戦略の洞察、地域動向2026-2035」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2025 市場規模」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「基準年市場規模（2025年）」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「予測年市場規模（2035年）」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「さらに、米国空軍省は航空戦力調達と研究開発に2,151億ドルの予算を要求しています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2026年から2035年にかけて、欧州のニオブ市場は、自動車・航空宇宙分野、医療分野における軽量・高性能材料の需要増加により、大幅な市場価値成長を達成すると予測されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場は2034年までに成長する見込みです」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場規模は2025年に34億米ドルと評価され、2035年までに65億米ドルを超え、予測期間（2026年～2035年）中に6.8%を超えるCAGRを記録すると予想されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場規模, 株式 & 見通しへ 2032」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「世界のニオブ市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「2024 年の市場規模」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「USD 2.08 Billion」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「2032 年の市場規模」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「USD 3.23 Billion」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+- 成長率：
+  - 「CAGR 2026-2035」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「予測期間である2026年から2035年にかけて、年平均成長率（CAGR）6.8%で拡大します」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場規模は2025年に34億米ドルと評価され、2035年までに65億米ドルを超え、予測期間（2026年～2035年）中に6.8%を超えるCAGRを記録すると予想されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2025年から2032年の予測期間中、市場は航空宇宙、エレクトロニクス、自動車などの産業における高性能材料の需要増加により、6.00％のCAGRで成長すると予想されます」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「2023年12月、世界EVバッテリー協会の報告書によると、EVバッテリーにニオブを組み込むことで、エネルギー貯蔵が強化され、バッテリーの劣化が軽減され、電気自動車バッテリーの全体的な寿命が延びるため、拡大する電気自動車市場にとってニオブは重要な材料となる」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「2026〜2035年の年平均成長率（CAGR）9.7%で成長し、2035年までに4億5,400万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「積層造形および粉末冶金の採用拡大により、粉末グレードのニッケル・ニオブの構造的な需要増加が2035年まで支えられる」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「粉末状ニッケルニオブは2025年に市場収益の18%を占め、2026〜2035年に年平均成長率（CAGR）14.8%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「箔、線材、ペレット、顆粒を含むその他の製品形態は、2035年に市場収益の7%を占め、2026〜2035年に年平均成長率（CAGR）16.4%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「高純度、超高純度、カスタム組成を含むその他のグレードは、2025年に市場売上高の10%を占め、年平均成長率（CAGR）14.2%で成長すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「電子部品・コンデンサは2025年に700万米ドルを生み出し、年平均成長率（CAGR）9.9%で成長すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「自動車分野は2035年までに3,600万米ドルに達し、年平均成長率（CAGR）9.9%で拡大すると予測される（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「建設・インフラ分野は2025年の市場売上高の5%を占め、2026〜2035年に年平均成長率（CAGR）7.2%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「五酸化ニオブ市場は、2032年までにCAGR7.43％で5億7,119万米ドル規模に拡大すると予測されています」（https://newscast.jp/news/2084064）
+- 主要企業：
+  - 「インド市場への参入戦略（GTM）」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「主要企業の詳細はレポートでご確認いただけます」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「世界のニオブ市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「レポートには、世界のニオブ市場の主要企業に関する詳細な分析が含まれています」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「この調査結果は非常に有益で、新市場参入の判断に役立ちました」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「ニオブ原料へのアクセス、専門的な生産ノウハウ、顧客の認定要件、長期にわたる調達サイクルを通じて安定した成分組成と納入実績を示す必要性が、高い参入障壁となっている」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「ニッケル・ニオブ市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「ニッケルニオブ市場の主要企業には、CBMM、TANIOBIS GmbH、GfE Metalle und Materialien GmbH、KBM Affilips B.V.、MBR Metals GmbHが含まれる」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「五酸化ニオブ市場における主要企業はどこですか？」（https://newscast.jp/news/2084064）
+  - 「五酸化ニオブ市場における主要企業はどこですか？」（https://www.atpress.ne.jp/news/2084064）
+  - 「エリア別の需要では、半導体製造装置部品や放熱基板は参入する日系メーカーが多いことから、日本の比率が高い」（https://www.fuji-keizai.co.jp/press/detail.html?cid=21101&la=en）
+  - 「主要企業と競争環境」（https://www.dreamnews.jp/press/0000351720）
+  - 「ニオブ市場における主要企業はどこですか？」（https://www.gii.co.jp/report/moi2121915-niobium-market-share-analysis-industry-trends.html）
+- 日本企業：
+  - 「（日本、中国、インド、インドネシア、マレーシア、オーストラリア、韓国、その他のアジア太平洋地域）」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブの需要は、主に中国、日本、インドなどの国々によって牽引されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「日本、中国、韓国では、鉄鋼業界と最先端の製造技術がニオブ需要を牽引しています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「日本製鉄株式会社」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「信越化学工業株式会社」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「日立金属株式会社」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「アジア太平洋地域は、インド、日本、中国などの新興経済国における航空宇宙産業や自動車産業でのニオブの使用増加により、2035年までに41%という最大の収益シェアを占めると予測されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「Japan (+81)」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「Japan オフィス」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「住友金属鉱山株式会社（日本）」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「中国、インド、日本などの主要国は、特に自動車やインフラプロジェクトにおいてニオブ系合金の需要が高まっているため、重要なプレーヤーとして台頭しています」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「日本は2025年にアジア太平洋地域の売上高の18%を占め、2035年には4,200万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://newscast.jp/news/2084064）
+  - 「アジア太平洋地域で、特に中国、日本、韓国、インド、オーストラリアが重要です」（https://newscast.jp/news/2084064）
+  - 「グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です」（https://www.atpress.ne.jp/news/2084064）
+- 上位シェア：
+  - 「ニオブ市場規模とシェア（製品タイプ別：ニオブ合金、ニオブ酸化物、ニオブ炭化物、ニオブ酸ニオブ）、用途、エンドユーザー、生産、貿易 - SWOT分析、競争戦略の洞察、地域動向2026-2035」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2035年までに41％のシェアを獲得」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ合金セグメントは、議論された期間においてニオブ市場における最大のシェア46%を占めると推定されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「フェロニオブはこのサブセグメントをリードしており、2035年には79.7%を占めると推定されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「「Mineral Commodity Summaries 2024」によると、米国におけるフェロニオブの消費は、最終用途の約57%を占める鉄鋼業界と超合金が中心となっています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2035年までに、航空宇宙産業がエンドユーザー向けニオブ市場の大部分を占めるようになるでしょう」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「アジア太平洋地域は、2035年末までに世界のニオブ市場において最大の41%のシェアを占めると予想されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「2021年のカナダ鉱業協会のデータによると、カナダのニオブ埋蔵量は世界のニオブ埋蔵量の9.4%を占め、ブラジルに次いで世界第2位です」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「市場シェア（2025年推定）」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「アジア太平洋地域は、インド、日本、中国などの新興経済国における航空宇宙産業や自動車産業でのニオブの使用増加により、2035年までに41%という最大の収益シェアを占めると予測されています」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「世界のニオブ市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「北米地域、特にブラジルはニオブの主要な生産地として際立っており、世界の生産量の90%以上を占めています」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「ニッケル・ニオブ市場規模、シェア、予測（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「ニッケル・ニオブ市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「世界のニオブ鉱山生産の約92%をブラジルが占める」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+- 投資：
+  - 「North America is projected to witness notable growth through 2026–2035 as its share advances, encouraged by rising aerospace, automotive, and defense adoption supported by federal investments in high-purity niobium oxide production.」（https://www.researchnester.com/reports/niobium-market/3073）
+  - 「Additionally, in 2022, the European Organization for Nuclear Research (CERN) announced new investments in superconducting technologies using niobium-tin alloys, further reinforcing niobium's relevance in cutting-edge scientific applications」（https://www.databridgemarketresearch.com/reports/global-niobium-market）
+  - 「In January 2024, a report by the International Renewable Energy Agency (IREA) highlighted that the growing investments in clean energy technologies, including wind and solar power, are accelerating the demand for niobium to manufacture durable and high-performance alloys used in renewable energy equipment」（https://www.databridgemarketresearch.com/reports/global-niobium-market）
+  - 「Nebraska also enacted legislation in April 2026 providing NioCorp greater flexibility to qualify for approximately US$200 million in potential state tax benefits over 10 years, subject to investment and job-creation requirements.」（https://www.desmoinesregister.com/press-release/story/123257/niobium-market-to-reach-usd-10-155-billion-by-2034-with-growing-cagr-of-10-7-driven-by-advanced-steel-and-clean-energy/）
+  - 「Niobium has raised over $23 million in oversubscribed follow-on funding to accelerate development of its second-generation fully homomorphic encryption (FHE) hardware platform.」（https://thequantuminsider.com/2025/12/03/niobium-23m-fhe-funding/）
+  - 「, a leading custom silicon provider for fully homomorphic encryption (FHE) platforms, today announced the close of a $23 million-plus oversubscribed follow-on investment to its seed round. The capital will accelerate the development of Niobium’s second-generation FHE platforms and support its transition from prototype to production-ready silicon suitable for customer pilots and early deployment.」（https://thequantuminsider.com/2025/12/03/niobium-23m-fhe-funding/）
+  - 「Nord Quantique Secures $10 Million DARPA Funding Extension」（https://thequantuminsider.com/2025/12/03/niobium-23m-fhe-funding/）
+  - 「QuantrolOx Raises €12 Million in Series A2」（https://thequantuminsider.com/2025/12/03/niobium-23m-fhe-funding/）
+  - 「Silicon Catalyst Portfolio Company Neurophos Secures $110 Million Series A」（https://siliconcatalyst.com/silicon-catalyst-portfolio-company-niobium-secures-55m-in-venture-financing）
+  - 「Silicon Catalyst Portfolio Company Owl Secures $15M in Series A Round」（https://siliconcatalyst.com/silicon-catalyst-portfolio-company-niobium-secures-55m-in-venture-financing）
+  - 「Silicon Catalyst Portfolio Company SigmaSense Closes $24M Series B Funding Round」（https://siliconcatalyst.com/silicon-catalyst-portfolio-company-niobium-secures-55m-in-venture-financing）
+  - 「Ayar Labs Secures $35 Million in Series B Funding」（https://siliconcatalyst.com/silicon-catalyst-portfolio-company-niobium-secures-55m-in-venture-financing）
+  - 「Niobium on Wednesday announced raising $23 million in an oversubscribed funding round that brings the total raised by the company to over $28 million.」（https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/）
+  - 「The funding came from new investors Blockchange Ventures, ADVentures, Korea Development Bank (KDB), JobsOhio Growth Capital, Rev1 Angels, and Silicon Catalyst Ventures, and previous investors Fusion Fund, Morgan Creek Capital, Rev1 Ventures, and Ohio Innovation Fund.」（https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/）
+  - 「Zafran Security Raises $60 Million in Series C Funding」（https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/）
+- 検索結果の抜粋：
+  - 「ニオブ市場規模 ・産業展望レポート2031 - Mordor Intelligence — ニオブ市場規模 ・産業展望レポート2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > niobium-market」（https://www.mordorintelligence.com/ja/industry-reports/niobium-market）
+  - 「ニオブ市場規模 - 2026-2035年予測レポート — ニオブ市場規模 - 2026-2035年予測レポート Research Nester https://www.researchnester.com > reports > niobium-market」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ市場規模 、業界シェア、動向、分析、2026-2034年 — ニオブ市場規模 、業界シェア、動向、分析、2026-2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > ニオブ市場-10...」（https://www.fortunebusinessinsights.com/jp/%E3%83%8B%E3%82%AA%E3%83%96%E5%B8%82%E5%A0%B4-105267）
+  - 「ニオブ市場規模 , 株式 & 見通しへ 2032 — ニオブ市場規模 , 株式 & 見通しへ 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...」（https://www.databridgemarketresearch.com/jp/reports/global-niobium-market）
+  - 「ニッケル・ ニオブ市場規模 と世界動向、2025〜2034年 — ニッケル・ ニオブ市場規模 と世界動向、2025〜2034年 Global Market Insights Inc. https://www.gminsights.com > nickel-niobium-market」（https://www.gminsights.com/ja/industry-analysis/nickel-niobium-market）
+  - 「ニオブ市場 規模 - 2026-2035年 予測 レポート — ニオブ市場 規模 - 2026-2035年 予測 レポート Research Nester https://www.researchnester.com > reports > niobium-market」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「五酸化 ニオブ市場 ―2026年～2032年の世界 市場予測 — 五酸化 ニオブ市場 ―2026年～2032年の世界 市場予測 Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/2084064）
+  - 「五酸化 ニオブ市場 ―2026年～2032年の世界 市場予測 — 五酸化 ニオブ市場 ―2026年～2032年の世界 市場予測 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/2084064）
+  - 「ニオブ市場 規模、業界シェア、動向、分析、2026-2034年 — ニオブ市場 規模、業界シェア、動向、分析、2026-2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > ニオブ市場-10...」（https://www.fortunebusinessinsights.com/jp/%E3%83%8B%E3%82%AA%E3%83%96%E5%B8%82%E5%A0%B4-105267）
+  - 「ニオブ市場 規模・産業展望レポート2031 - Mordor Intelligence — ニオブ市場 規模・産業展望レポート2031 - Mordor Intelligence Mordor Intelligence https://www.mordorintelligence.com > niobium-market」（https://www.mordorintelligence.com/ja/industry-reports/niobium-market）
+  - 「ニオブ - メーカー・ 企業 5社の業務用製品ランキング - イプロス — ニオブ - メーカー・ 企業 5社の業務用製品ランキング - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ニオブ」（https://mono.ipros.com/cg1/%E3%83%8B%E3%82%AA%E3%83%96/）
+  - 「ニオブ 粉末の市場の成長分析と動向予測レポート2026-2032 ... — ニオブ 粉末の市場の成長分析と動向予測レポート2026-2032 ... ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000354667）
+  - 「ニオブ 市場規模 - 2026-2035年予測レポート — ニオブ 市場規模 - 2026-2035年予測レポート Research Nester https://www.researchnester.com > reports > niobium-market」（https://www.researchnester.com/ja/reports/niobium-market/3073）
+  - 「ニオブ 市場規模、業界シェア、動向、分析、2026-2034年 — ニオブ 市場規模、業界シェア、動向、分析、2026-2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > ニオブ市場-10...」（https://www.fortunebusinessinsights.com/jp/%E3%83%8B%E3%82%AA%E3%83%96%E5%B8%82%E5%A0%B4-105267）
+  - 「Niobium Market Size & Industry Outlook Report 2031 — Niobium Market Size & Industry Outlook Report 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/niobium-market）
+
+## レニウム（rhenium）
+- 文脈：航空エンジン
+- 市場規模：
+  - 「レニウム市場規模、洞察および投資分析3034」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「2024 Market Size」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「$ 610.78 Million」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「2025 Market Size」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「$ 640.35 Million」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「2035 Market Size」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「$ 1,027.48 Million」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「市場調査の未来の分析によると、2024年のレニウム市場規模は610.78百万米ドルと推定されています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「2024年の市場規模」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「2035年の市場規模」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「[最新リリース]世界のレニウム市場規模、シェア、需要分析 2026―35年」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「2026―2035年までのレニウム市場の市場規模はどれくらいですか?」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場に関する当社の調査レポートによると、市場は予測期間2026―2035年において複利年間成長率（CAGR）7.8%で成長すると予想されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「2035年には市場規模は3,420億米ドルに達する見込みです」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「しかし、当社の調査アナリストによると、基準年の市場規模は2025年には1,620億米ドルにとどまると予測されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+- 成長率：
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「レニウム産業は、2025年に640.35百万米ドルから2035年までに1027.48百万米ドルに成長すると予測されており、2025年から2035年の予測期間中に年平均成長率（CAGR）は4.84%となる見込みです」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「CAGR（2025 - 2035）」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「市場データは、電子機器部門が今後数年間で約5%の年平均成長率で成長することが予測されており、このセクターにおけるレニウムの需要をさらに強化しています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「レニウム市場は、2025年から2035年までの間に4.84%のCAGRで成長する見込みで、航空宇宙および電子機器分野での需要の増加が推進要因となっています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「レニウム市場に関する当社の調査レポートによると、市場は予測期間2026―2035年において複利年間成長率（CAGR）7.8%で成長すると予想されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「2024年には、北米とヨーロッパ連合の航空宇宙メーカーが、循環型経済政策に沿って、使用済みエンジンからレニウムを回収するクローズドループ リサイクル プログラムを拡大しました」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「将来を見据えた輸出促進政策とグローバルサプライチェーンとの継続的な統合により、2028―2030年の間にレニウム含有材料の輸出が拡大するです」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「2026―2035年までのCAGR」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「アジア太平洋地域はレニウムの発展途上市場であり、予測期間中に複利年間成長率4.8%の成長が見込まれています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「世界のレニウム市場規模は、予測期間中に複利年間成長率7.8%で成長し、2035年には3,420億米ドルに達すると予測されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「さらに、市場は予測期間中に約7.8% の CAGR で成長する態勢が整っています」（https://newscast.jp/news/9424943）
+  - 「当社のレニウム市場分析によると、アジア太平洋地域は予測期間中に4.8%という最速の成長率を記録すると予想されています」（https://newscast.jp/news/9424943）
+  - 「レニウム・モリブデン市場は、2026年から2033年にかけて年平均成長率（CAGR）5.8%で成長すると予測されています」（https://mrctechforum.inkrich.com/posts/%E3%83%AC%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「さらに、市場は予測期間中に約7.8% の CAGR で成長する態勢が整っています」（https://www.atpress.ne.jp/news/9424943）
+- 主要企業：
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「米国はこの市場の支配的なプレーヤーであり、フリーポート・マクモランやアメリカン・レニウム・マーケット・アロイなどの主要企業が先頭を切っています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「レニウム市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「プロファイルされた主要企業」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「当社の調査レポートによると、世界のレニウム市場の成長に重要な役割を果たしている主な主要企業には、 ZF Friedrichshafen AG、Robert Bosch GmbH、GKN Automotive (Dana Limited)、BorgWarner Inc.、Schaeffler AG などが含まれています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場で競合している日本の主要企業はどこですか？」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「🚀 レニウムとモリブデン市場の主要企業」（https://mrctechforum.inkrich.com/posts/%E3%83%AC%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「の競争環境には、グローバル企業、地域メーカー、革新的なスタートアップ企業が参入しています」（https://mrctechforum.inkrich.com/posts/%E3%83%AC%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「本報告書は、レニウム（Re）蒸着材料の世界市場に関する売上、販売量、価格、市場シェア、主要企業のランキングなどを網羅し、地域別、国別、製品タイプ別、用途別に詳細に分析しています」（https://www.atpress.ne.jp/news/9473525）
+  - 「レニウム（Re）蒸着材料の世界の主要企業：Stanford Advanced Materials、Kurt J. Lesker、ALB Materials、Heeger Materials、Testbourne」（https://www.atpress.ne.jp/news/9473525）
+  - 「第7章：レニウム（Re）蒸着材料市場における主要企業情報を提供し、会社概要と事業概要を詳細に紹介する」（https://www.atpress.ne.jp/news/9473525）
+  - 「主要プレイヤーの戦略分析：レニウム（Re）蒸着材料市場の主要プレイヤーを戦略的にプロファイリングし、その成長戦略や市場進出方法を総合的に分析します」（https://www.atpress.ne.jp/news/9473525）
+  - 「また本レポートでは、レニウム合金粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界的なレニウム合金粉末市場における各企業の独自の立場をより深く理解できるようにしています」（https://newscast.jp/news/3372198）
+  - 「加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても言及されています」（https://newscast.jp/news/3372198）
+- 日本企業：
+  - 「Japanese」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「必要に応じて日本語レポートが入手可能」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場におけるレニウム輸出に関して、日本の地元企業はどのような利益を得るのですか?」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「日本は世界のパートナーとレアメタルの取引で積極的な役割を果たしていることから、レニウム市場は国際バリューチェーン全体にわたって日本の企業に複数の輸出機会を提供しています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「日本税関の貿易データによると、ベリリウム、クロム、その他のレアメタルとともにレニウムを含む商品群8112の2023年の輸出額は約63百万米ドルで、2022年と比較して16%増加し、金額ベースで日本の総輸出額の0.008%を占めるとのことです」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「ジェトロの統計でも、これらの材料の日本の輸出先はアジアやその他の地域に広がっていることが確認されており、貿易関係が確立されていることを示唆しています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「さらに、EPAやCPTPPの枠組みなどの政府の取り組みにより、RCEPや二国間EPAの下で、ASEAN、EU、北米のパートナーへの日本の金属輸出に対する特恵関税アクセスが引き続き促進されており、高価値のマイナーメタルの競争力が高まっています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「北九州の工場でレニウムを加工してきたKohsei Co., Ltd.のような日本メーカーの国内企業による企業活動は、輸出市場への対応力を示しています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場で競合している日本の主要企業はどこですか？」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「市場展望によれば、日本のレニウム市場における上位 5 社は、Aisin Corporation、JTEKT Corporation、NSK Ltd.、Mitsubishi Electric Corporation、Hitachi Astemo, Ltd などです」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「日本市場のトップ 5 プレーヤー」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「Mitsubishi Electric Corporation」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「Hitachi Astemo Ltd」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場 における日本のキープレーヤートップ5は誰ですか?」（https://www.sdki.jp/reports/rhenium-market/113905）
+- 上位シェア：
+  - 「北米はレニウムの最大市場であり、世界のシェアの約45%を占めています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「ヨーロッパはレニウム市場での重要な成長を目撃しており、世界のシェアの約30%を保持しています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「アジア太平洋は急速にレニウム市場の重要なプレーヤーとして台頭しており、世界のシェアの約20%を占めています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「中東およびアフリカ地域は、現在レニウム市場を発展させており、世界のシェアの約5%を占めています」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「[最新リリース]世界のレニウム市場規模、シェア、需要分析 2026―35年」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウム市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 製品タイプ別、アプリケーション別、エンドユーザー産業別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「レニウムに関する当社の市場調査によると、北米市場は予測期間中、約38 %の市場シェアを占め、最大の市場となると予想されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「日本税関の貿易データによると、ベリリウム、クロム、その他のレアメタルとともにレニウムを含む商品群8112の2023年の輸出額は約63百万米ドルで、2022年と比較して16%増加し、金額ベースで日本の総輸出額の0.008%を占めるとのことです」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「調査報告書によると、一次レニウムは2035年までに58%と最大の市場シェアを占めると予測されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「調査報告書によると、超合金は2035年までに46%のシェアを占め、市場を牽引すると予測されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「北米市場は、今後1年間で世界市場の38%のシェアを占め、支配的になると予想されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「バナジウム市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― タイプ別、アプリケーション別、エンドユーザー別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「カルシウムアルミネート市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― アプリケーション別、最終用途産業別、製品タイプ別、純度グレード別、製造プロセス別、流通チャネル別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「当社の調査レポートによると、2035年には北米地域が最大のレニウム市場シェアを獲得すると予測されています」（https://www.sdki.jp/reports/rhenium-market/113905）
+  - 「これらのうち、一次レニウム分野は、一次レニウムの極度の希少性と最終アプリケーションからの高い回収率により、2035年末までに58%の市場シェアを占めると予測されています」（https://newscast.jp/news/9424943）
+- 投資：
+  - 「Rhenium Market Size, Insight & Investment Analysis 3034」（https://www.marketresearchfuture.com/reports/rhenium-market-37811）
+  - 「This region is a leading consumer, driven by a robust aerospace and defense industry and significant investments in research and development for high-temperature materials. The U.S. plays a pivotal role. The Rhenium Market in North America is expected to exhibit a CAGR of 6.3%.」（https://rheniummarketsize.docs.apiary.io/）
+  - 「This region is emerging as a significant growth hub, fueled by expanding industrialization, particularly in China and India, increasing aerospace investments, and a growing electronics manufacturing base. The Rhenium Market in Asia-Pacific is expected to exhibit a CAGR of 7.2%.」（https://rheniummarketsize.docs.apiary.io/）
+  - 「, Safran reported 1,030 LEAP engine deliveries in the first half, up 41% year over year, and raised its full-year delivery-growth outlook to the high teens. That supports the superalloy demand environment, although engine growth does not translate one-for-one into rhenium consumption.」（https://strategicmetalsinvest.com/rhenium-prices/）
+- 検索結果の抜粋：
+  - 「レニウム市場規模 、洞察および投資分析3034 — レニウム市場規模 、洞察および投資分析3034 Market Research Future https://www.marketresearchfuture.com > reports > rheniu...」（https://www.marketresearchfuture.com/ja/reports/rhenium-market-37811）
+  - 「レニウム市場 の発展、傾向、需要、 成長 分析および予測2026 ... — レニウム市場 の発展、傾向、需要、 成長 分析および予測2026 ... Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/9424943）
+  - 「レニウム とモリブデン 市場規模 ：課題と将来展望（2026 ... — レニウム とモリブデン 市場規模 ：課題と将来展望（2026 ... inkrich https://mrctechforum.inkrich.com > posts > レニウムとモ...」（https://mrctechforum.inkrich.com/posts/%E3%83%AC%E3%83%8B%E3%82%A6%E3%83%A0%E3%81%A8%E3%83%A2%E3%83%AA%E3%83%96%E3%83%87%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「レニウム市場規模 、シェア、業界動向の概要、2035年 — レニウム市場規模 、シェア、業界動向の概要、2035年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/rhenium-market-100153）
+  - 「レニウム市場 の発展、傾向、需要、成長分析および 予測 2026 ... — レニウム市場 の発展、傾向、需要、成長分析および 予測 2026 ... アットプレス https://www.atpress.ne.jp > ... > SDKI Inc.」（https://www.atpress.ne.jp/news/9424943）
+  - 「レニウム 市場規模、シェア、業界動向の概要、2035年 — レニウム 市場規模、シェア、業界動向の概要、2035年 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/rhenium-market-100153）
+  - 「レニウム 合金粉末の世界市場（2026年～2032年） - Newscast.jp — レニウム 合金粉末の世界市場（2026年～2032年） - Newscast.jp Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/3372198）
+  - 「Rhenium Market Size , Insight & Investment Analysis 3034 — Rhenium Market Size , Insight & Investment Analysis 3034 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/rhenium-market-37811）
+  - 「Metal Rhenium Market Size , Trends, 2026-2033 Forecast ... — Metal Rhenium Market Size , Trends, 2026-2033 Forecast ... LinkedIn https://www.linkedin.com > pulse > m...」（https://www.linkedin.com/pulse/metal-rhenium-market-size-trends-2026-2033-forecast-9nbcf）
+  - 「Rhenium Market Reach High 6.6% CAGR Till 2032 · Apiary — Rhenium Market Reach High 6.6% CAGR Till 2032 · Apiary Apiary.io https://rheniummarketsize.docs.apiary.io」（https://rheniummarketsize.docs.apiary.io/）
+  - 「Rhenium Market Growth Analysis - Size and Forecast 2024 ... — Rhenium Market Growth Analysis - Size and Forecast 2024 ... Technavio https://www.technavio.com > report」（https://www.technavio.com/report/rhenium-market-industry-analysis）
+  - 「Metal Rhenium Market Outlook Report 2025 -2034 — Metal Rhenium Market Outlook Report 2025 -2034 Yahoo Finance https://finance.yahoo.com > news > m...」（https://finance.yahoo.com/news/metal-rhenium-market-outlook-report-140700952.html）
+  - 「Rhenium Market Size, Insight & Investment Analysis 3034 — Rhenium Market Size, Insight & Investment Analysis 3034 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/rhenium-market-37811）
+  - 「Metal Rhenium Market Size, Trends, 2026-2033 Forecast ... — Metal Rhenium Market Size, Trends, 2026-2033 Forecast ... LinkedIn https://www.linkedin.com > pulse > m...」（https://www.linkedin.com/pulse/metal-rhenium-market-size-trends-2026-2033-forecast-9nbcf）
+  - 「Rhenium surge: Speculation or fundamental shift? — Rhenium surge: Speculation or fundamental shift? Argus Media https://www.argusmedia.com > 27141...」（https://www.argusmedia.com/en/news-and-insights/latest-market-news/2714173-rhenium-surge-speculation-or-fundamental-shift）
+
+## リチウム金属負極（lithium metal anode）
+- 文脈：電池材料
+- 市場規模：
+  - 「リチウム金属負極市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場規模、シェア、トレンド分析レポート：負極材料タイプ別（純リチウム金属負極、リチウム複合負極、コーティングリチウム金属負極）、電池化学別（固体リチウム金属電池、リチウム硫黄電池、リチウム金属リチウムイオン電池、その他のリチウム金属電池化学）、用途別（電気自動車、家電製品、エネルギー貯蔵システム、航空宇宙・防衛、医療機器）、セル形状別（パウチ型セル、円筒型セル、角型セル、ボタン型セル）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「コーティングされたリチウム金属負極材の市場は、メーカー各社がリチウム金属の安定性とサイクル寿命の向上に注力していることから、予測期間中に年平均成長率（CAGR）28.32%で成長すると予想されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「アジア太平洋地域のリチウム金属負極市場は、高級EVや次世代モビリティプラットフォーム向けの超高エネルギー密度バッテリーに対する需要の高まりを背景に、2025年には58.23%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「中国のリチウム金属負極市場規模は、2025年には10億2,000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「インドのリチウム金属負極市場規模は、急速に拡大する電動二輪車のエコシステムと、エネルギー密度が高く性能が向上した先進的なバッテリー技術に対する強い需要に牽引され、2025年には4,500万米ドルと評価されました」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「日本のリチウム金属負極市場は、自動車メーカーが次世代バッテリー技術を将来のEVプラットフォームに統合する中で、同地域が固体電池の商用化において主導的な役割を果たしていることを背景に、2025年には2億1000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「米国のリチウム金属負極市場は、2025年には3億7000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「カナダのリチウム金属負極市場規模は、国内の重要鉱物資源の優位性により、2025年には3,500万米ドルと評価された」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.3%で成長すると予測されている」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/smart/news/4586611）
+  - 「全固体電池用リチウム金属負極の世界市場（2026年～2032年）、市場規模（>50/μm、10～20/μm、＜5/μm）・分析レポートを発表」（https://newscast.jp/smart/news/4586611）
+  - 「本資料には、全固体電池用リチウム金属負極の世界市場規模、市場動向、セグメント別予測（>50/μm、10～20/μm、＜5/μm）、関連企業の情報などが盛り込まれています」（https://newscast.jp/smart/news/4586611）
+- 成長率：
+  - 「リチウム金属負極市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場の規模は、2025年には15億米ドルと評価され、2026年の18億米ドルから2034年には42億米ドルに成長すると予測されており、予測期間（2026年～2034年）中の年平均成長率（CAGR）は11.3%となる見込みです」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「2026年6月、Solidion社は、先進的なバッテリー技術の開発、製造能力の拡大、および商業化活動を支援するため、3,500万米ドルの資金を確保しました」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「コーティングされたリチウム金属負極材の市場は、メーカー各社がリチウム金属の安定性とサイクル寿命の向上に注力していることから、予測期間中に年平均成長率（CAGR）28.32%で成長すると予想されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム硫黄電池分野は、高い理論エネルギー密度と低コストの材料を背景に、予測期間中に年平均成長率（CAGR）30%を記録すると予想されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「固体電池用リチウム金属負極の世界市場規模は、2025年の4億8,900万米ドルから2032年には13億9,800万米ドルに拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています」（https://newscast.jp/smart/news/4586611）
+  - 「固体電池用リチウム金属負極材の米国市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています」（https://newscast.jp/smart/news/4586611）
+  - 「固体電池用リチウム金属負極の中国市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRはX％になると推定されています」（https://newscast.jp/smart/news/4586611）
+  - 「欧州の全固体電池用リチウム金属負極市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています」（https://newscast.jp/smart/news/4586611）
+  - 「具体的には、2021年から2032年までの世界市場規模、2021年、2025年、2032年における地域別の市場規模年平均成長率（CAGR）、2021年、2025年、2032年における国/地域別の世界市場の現状と将来分析が含まれます」（https://newscast.jp/smart/news/4586611）
+  - 「さらに、厚さ別に50マイクロメートル超、10～20マイクロメートル、5マイクロメートル未満のタイプごとの市場規模とその年平均成長率、2021年から2026年までの世界市場におけるタイプ別市場シェアが詳述されています」（https://newscast.jp/smart/news/4586611）
+  - 「材料別では、自立型リチウム箔、複合負極、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場における材料別市場シェアが示されています」（https://newscast.jp/smart/news/4586611）
+  - 「アプリケーション別には、電気自動車（EV）、電動垂直離着陸機（eVTOL）、家庭用電化製品、その他の市場規模、その年平均成長率、および2021年から2026年までの世界市場におけるアプリケーション別市場シェアの要約が収録されています」（https://newscast.jp/smart/news/4586611）
+  - 「リチウム金属電池材料市場の規模は、2025年に11億米ドルに達し、2026年から2035年にかけて約36.4%の年平均成長率（CAGR）で拡大し、2035年には237億7,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+- 主要企業：
+  - 「アノードフリー電池構造と複合リチウム金属アノードは、市場参入企業に新たな機会を提供する」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場の競争環境は現在、既存の電池材料メーカー、先進的な電池技術企業、自動車用電池開発企業、研究開発型スタートアップ企業、特殊材料サプライヤーなど、多様な企業が参入する細分化された市場となっている」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「固体電池用リチウム金属負極の世界的な主要企業には、Ganfeng Lithium、Tianqi Lithium、Albemarle、China Energy Lithium、Chengxin Lithiumなどが含まれます」（https://newscast.jp/smart/news/4586611）
+  - 「また本レポートでは、急速に拡大する世界の固体電池用リチウム金属負極市場における各企業の独自の立場をより深く理解するため、固体電池用リチウム金属負極のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析しています」（https://newscast.jp/smart/news/4586611）
+  - 「本レポートでは、製品タイプ、用途、主要企業、主要地域および国別に、固体電池用リチウム金属負極市場の包括的な概要、市場シェア、成長機会を提示します」（https://newscast.jp/smart/news/4586611）
+  - 「また、新製品および潜在的な新規参入企業、合併・買収、事業拡大に関する情報も提供されています」（https://newscast.jp/smart/news/4586611）
+  - 「デンドライト形成リスクが参入のゲートキーパーとして機能するため、需要が急増するのは、バッテリー開発企業が用途ごとに求められる使用サイクル下で信頼性の高い挙動を実証した場合に限られる」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「車両プログラムが検証済みの材料構成を選定し、生産規模の拡大によって工程管理が参入障壁となると、統合が進む可能性が高まる」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「リチウム金属電池材料市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「リチウム金属電池材料市場の主要企業には、QuantumScape、Solid Power、SES AI、Albemarle、Ascend Elements などが含まれます」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「固体電池用リチウム金属負極の世界的な主要企業には、Ganfeng Lithium、Tianqi Lithium、Albemarle、China Energy Lithium、Chengxin Lithiumなどが含まれます」（https://www.atpress.ne.jp/news/4586611）
+  - 「また本レポートでは、急速に拡大する世界の固体電池用リチウム金属負極市場における各企業の独自の立場をより深く理解するため、固体電池用リチウム金属負極のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析しています」（https://www.atpress.ne.jp/news/4586611）
+- 日本企業：
+  - 「日本のリチウム金属負極市場分析」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「日本のリチウム金属負極市場は、自動車メーカーが次世代バッテリー技術を将来のEVプラットフォームに統合する中で、同地域が固体電池の商用化において主導的な役割を果たしていることを背景に、2025年には2億1000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「Toyota Motor Corporation (Japan)」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「Mitsubishi Chemical Group (Japan)」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「2021年から2026年までのAPAC地域における地域別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に中国、日本、韓国、東南アジア、インド、オーストラリアの各国の市場状況が個別に扱われています」（https://newscast.jp/smart/news/4586611）
+  - 「2027年から2032年までの地域別の世界市場予測（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、アメリカ大陸における米国、カナダ、メキシコ、ブラジルの国別予測、アジア太平洋地域における中国、日本、韓国、東南アジア、インド、オーストラリアの国/地域別予測、ヨーロッパにおけるドイツ、フランス、英国、イタリア、ロシアの国別予測、中東・アフリカにおけるエジプト、南アフリカ、イスラエル、トルコ、GCC諸国の国/地域別予測、そしてタイプ別およびアプリケーション別の世界市場予測が詳細に示されています」（https://newscast.jp/smart/news/4586611）
+  - 「・日本語タイトル：全固体電池用リチウム金属負極の世界市場2026年～2032年」（https://newscast.jp/smart/news/4586611）
+  - 「中国は 4億1,800万米ドル、日本は 9,500万米ドル、韓国は 8,600万米ドルを占めた」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「Ganfeng Lithium は主要な負極材料企業として存在感を示し、出光興産は日本で硫化物電解質の開発を支えている」（https://www.gminsights.com/ja/industry-analysis/lithium-metal-battery-materials-market）
+  - 「2021年から2026年までのAPAC地域における地域別市場規模、タイプ別市場規模、およびアプリケーション別市場規模に関する情報が含まれ、特に中国、日本、韓国、東南アジア、インド、オーストラリアの各国の市場状況が個別に扱われています」（https://www.atpress.ne.jp/news/4586611）
+  - 「2027年から2032年までの地域別の世界市場予測（アメリカ大陸、アジア太平洋地域、ヨーロッパ、中東・アフリカ）、アメリカ大陸における米国、カナダ、メキシコ、ブラジルの国別予測、アジア太平洋地域における中国、日本、韓国、東南アジア、インド、オーストラリアの国/地域別予測、ヨーロッパにおけるドイツ、フランス、英国、イタリア、ロシアの国別予測、中東・アフリカにおけるエジプト、南アフリカ、イスラエル、トルコ、GCC諸国の国/地域別予測、そしてタイプ別およびアプリケーション別の世界市場予測が詳細に示されています」（https://www.atpress.ne.jp/news/4586611）
+  - 「・日本語タイトル：全固体電池用リチウム金属負極の世界市場2026年～2032年」（https://www.atpress.ne.jp/news/4586611）
+  - 「Japanese」（https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja）
+  - 「初期（2001〜2008年期）から出願が確認できるのはパナソニックIPマネジメント（パナソニック含む）、トヨタ自動車【7203】、ソニー【6758】、エルジー・ケム【051910】、三星エスディアイ【006400】、日本電気【6701】、三井化学【4183】、三洋電機、東芝の9社です」（https://patentscouter.com/entry/newbattery5）
+  - 「日本電気 【6701】」（https://patentscouter.com/entry/newbattery5）
+- 上位シェア：
+  - 「リチウム金属負極市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極市場規模、シェア、トレンド分析レポート：負極材料タイプ別（純リチウム金属負極、リチウム複合負極、コーティングリチウム金属負極）、電池化学別（固体リチウム金属電池、リチウム硫黄電池、リチウム金属リチウムイオン電池、その他のリチウム金属電池化学）、用途別（電気自動車、家電製品、エネルギー貯蔵システム、航空宇宙・防衛、医療機器）、セル形状別（パウチ型セル、円筒型セル、角型セル、ボタン型セル）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「アジア太平洋地域は、2025年に58.23%の市場シェアを占め、リチウム金属負極市場を牽引しました」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「純リチウム金属負極材は、従来のグラファイト負極材と比較して、リチウム貯蔵容量が最も高く、電気化学ポテンシャルが最も低く、電池エネルギー密度を大幅に向上させることができるため、2025年には市場シェアの54.60%を占めると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「固体リチウム金属電池は、エネルギー密度の向上、安全性の向上、リチウム金属電極との適合性といった可能性から、2025年には市場シェアの45.50%を占めると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「電気自動車セグメントは、航続距離の延長、充電速度の向上、軽量バッテリーシステムへの需要の高まりにより、2025年には市場全体の51.26%を占める見込みです」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「パウチ型電池は、その柔軟な設計、軽量構造、高エネルギー密度バッテリーアーキテクチャへの対応能力により、2025年には46.51%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「アジア太平洋地域のリチウム金属負極市場は、高級EVや次世代モビリティプラットフォーム向けの超高エネルギー密度バッテリーに対する需要の高まりを背景に、2025年には58.23%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「2025年には電気自動車の登録台数が230万台に達し、そのうち電動二輪車が約128万台、つまり全登録台数の57%を占めました」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「2025年のリチウム金属負極市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「アジア太平洋地域は2025年に58.23%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+- 投資：
+  - 「3. The report helps you to discover potential areas for growth and investment with a detailed analysis of key sectors and major projects provided in this report.」（https://www.maximizemarketresearch.com/market-report/lithium-metal-industry/207384/）
+  - 「: Sila announced securing $300 million in private funding. According to Sila, the funding will help accelerate U.S. production of its silicon-carbon (Si/C) anode technology, Titan Silicon. It will also support the planned Phase 2 expansion of the company’s plant in Moses Lake, Washington. (source:」（https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market）
+  - 「NextSource Materials Inc. announced the approval of a Final Investment Decision (FID) on Phase 1 of its proposed battery anode facility in Abu Dhabi, UAE. The company stated that the FID marks a major step in its strategy to become a fully integrated, global producer of graphite anode materials. (source:」（https://www.polarismarketresearch.com/industry-analysis/lithium-ion-battery-anode-market）
+- 検索結果の抜粋：
+  - 「リチウム金属負極市場規模 、シェア、 成長率 （2034年まで） — リチウム金属負極市場規模 、シェア、 成長率 （2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） — 全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4586611）
+  - 「全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） — 全固体電池用 リチウム金属負極 の世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4586611）
+  - 「2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 — 2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 富士経済グループ https://www.fuji-keizai.co.jp > report > detail」（https://www.fuji-keizai.co.jp/report/detail.html?code=112607703&la=ja）
+  - 「2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 — 2026 リチウム金属負極 の開発最前線/主要サプライヤー調査 fkg-report.jp https://www.fkg-report.jp > reports」（https://www.fkg-report.jp/reports/112607703.html）
+  - 「リチウム金属負極市場 規模、シェア、成長率（2034年まで） — リチウム金属負極市場 規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「リチウム金属負極 市場規模、シェア、成長率（2034年まで） — リチウム金属負極 市場規模、シェア、成長率（2034年まで） Straits Research https://straitsresearch.com > 化学品・材料 > 先端材料」（https://straitsresearch.com/jp/report/lithium-metal-anode-market）
+  - 「全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） — 全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4586611）
+  - 「【2026年版】次世代電池関連銘柄10選｜ リチウム金属負極 — 【2026年版】次世代電池関連銘柄10選｜ リチウム金属負極 特許スカウター https://patentscouter.com > entry > newbattery5」（https://patentscouter.com/entry/newbattery5）
+  - 「全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） — 全固体電池用 リチウム金属負極 の世界市場（2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4586611）
+
+## 全固体電池用固体電解質（solid electrolyte）
+- 文脈：電池材料
+- 市場規模：
+  - 「世界の固体電池市場規模は、2025年には27億8000万米ドルと評価され、2026年の37億9000万米ドルから2034年には454億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%となる見込みです」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「この市場は年平均成長率（CAGR）35.6%で成長すると予想されています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「全固体電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）36.4%で成長すると予測されている」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「移動式エネルギー貯蔵システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「バッテリーセパレーターコーティング市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「正極活物質リサイクル市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「リチウムビス（FSI）電解質塩市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「全固体電池の世界市場規模、2026年222百万米ドルへ拡大 | Global info Research Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000362379）
+  - 「全固体電池の世界市場規模、2026年222百万米ドルへ拡大」（https://www.dreamnews.jp/press/0000362379）
+  - 「Global Info Researchの分析によれば、グローバル全固体電池市場は2026年時点で約895百万米ドル規模と推定される」（https://www.dreamnews.jp/press/0000362379）
+  - 「市場規模と今後5年予測：EV高性能化が商用化を牽引」（https://www.dreamnews.jp/press/0000362379）
+  - 「Global Info Researchの最新レポートによると、2026年から2032年の予測期間において、市場規模は約895百万米ドルから39,760百万米ドルへ拡大する見通しである」（https://www.dreamnews.jp/press/0000362379）
+  - 「中国市場は2027年時点で約375百万米ドル、世界の約44.75%を占める一方、2032年には10,375百万米ドル、約26.10%となる見通しである」（https://www.dreamnews.jp/press/0000362379）
+  - 「投資評価や内部稟議では、2032年に向けた市場規模だけでなく、用途別・地域別の成長差と競争軸の変化を併せて整理することが、経営判断に資する」（https://www.dreamnews.jp/press/0000362379）
+  - 「トラックスケールの世界市場規模、2026年854百万米ドルへ拡大」（https://www.dreamnews.jp/press/0000362379）
+- 成長率：
+  - 「全固体電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「世界の固体電池市場規模は、2025年には27億8000万米ドルと評価され、2026年の37億9000万米ドルから2034年には454億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%となる見込みです」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「このセグメントは、年平均成長率（CAGR）36.5%で成長すると予測されています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「この市場は年平均成長率（CAGR）35.6%で成長すると予想されています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「全固体電池市場の規模は、2026年には37億9000万米ドルと評価され、2034年までに454億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%です」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「全固体電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）36.4%で成長すると予測されている」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「全固体電池の世界市場規模、2026年222百万米ドルへ拡大 | Global info Research Co.,Ltdのプレスリリース」（https://www.dreamnews.jp/press/0000362379）
+  - 「全固体電池の世界市場規模、2026年222百万米ドルへ拡大」（https://www.dreamnews.jp/press/0000362379）
+  - 「2026年から2032年までの年平均成長率は88.2%と予測されている」（https://www.dreamnews.jp/press/0000362379）
+  - 「Global Info Researchの最新レポートによると、2026年から2032年の予測期間において、市場規模は約895百万米ドルから39,760百万米ドルへ拡大する見通しである」（https://www.dreamnews.jp/press/0000362379）
+  - 「2027年時点ではまだ限定的な規模にとどまるが、2032年には23,459百万米ドル、全体の約59%に拡大すると予測される」（https://www.dreamnews.jp/press/0000362379）
+  - 「世界トランポリン市場展望2026：CAGR7.9%で2032年343百万米ドル規模」（https://www.dreamnews.jp/press/0000362379）
+  - 「トラックスケールの世界市場規模、2026年854百万米ドルへ拡大」（https://www.dreamnews.jp/press/0000362379）
+- 主要企業：
+  - 「この市場における主要企業は、ロバート・ボッシュ、トヨタ自動車、ソリッド・パワー、エクセレーション・ソリッドステート、ブライト・ボルトである」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「主要企業ランキングと市場シェア：完成車・電池・材料が並走」（https://www.dreamnews.jp/press/0000362379）
+  - 「現時点では、単一企業による寡占というよりも、既存の動力電池大手、自動車メーカー、新興技術企業がそれぞれ異なる強みを持って参入する梯隊型の競争構造である」（https://www.dreamnews.jp/press/0000362379）
+  - 「主要企業の動向」（https://www.dreamnews.jp/press/0000362379）
+  - 「日本企業にとって、全固体電池市場の分析は、単なる電池技術の把握にとどまらず、新事業評価、海外市場参入、技術提携先の選定に直結する」（https://www.dreamnews.jp/press/0000362379）
+  - 「材料、製造装置、検査装置、車載部品、商社機能を持つ企業は、どの用途・地域で量産投資が先行するかを把握することで、供給網上の参入余地を検討しやすくなる」（https://www.dreamnews.jp/press/0000362379）
+  - 「トレーディングカードグローバル市場予測2026-2032：業界再編の兆候を捉える 主要企業シェア・新規参入リスク分析」（https://www.dreamnews.jp/press/0000362379）
+  - 「本レポートで分析する「主要な戦略グループ」の分類と主要プレイヤー」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「基準に基づき、主要プレイヤーを以下の」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「多くが化学、石油、ガラス、セラミックといった異業種の既存技術を応用して参入しています」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「という、主要プレイヤーの中で最も野心的なロードマップを公表しています」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「主要企業の戦略ポジショニング比較表（マトリクス）」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「主要プレイヤーは、そのビジネスモデルとターゲット市場に基づき、」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、全固体電池の世界市場を調査し、種類別動向（硫化物系全固体電池、酸化物系全固体電池、高分子系全固体電池、半固体電池）、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc）
+  - 「なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「2025 次世代電池関連技術・市場の全貌」をご購入の上、ご覧いただければ幸いです」（https://www.fkg-report.jp/market-trends/2025/2274.html）
+- 日本企業：
+  - 「中国、日本、韓国といった主要経済国が市場をリードしており、トヨタ、サムスンSDI、CATLなどの企業が全固体電池技術に多額の投資を行っています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「Email: japan@qyresearch.com；」（https://www.dreamnews.jp/press/0000362379）
+  - 「Email: japan@qyresearch.com」（https://www.dreamnews.jp/press/0000362379）
+  - 「2025年10月、豊田市で、Toyota and Sumitomo Metal Miningは全固体電池向け正極材料の量産化に向けた協業を発表した」（https://www.dreamnews.jp/press/0000362379）
+  - 「日本企業への示唆」（https://www.dreamnews.jp/press/0000362379）
+  - 「日本企業にとって、全固体電池市場の分析は、単なる電池技術の把握にとどまらず、新事業評価、海外市場参入、技術提携先の選定に直結する」（https://www.dreamnews.jp/press/0000362379）
+  - 「日本語サイト：」（https://www.dreamnews.jp/press/0000362379）
+  - 「日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...」（https://www.dreamnews.jp/press/0000362379）
+  - 「、マクセル、村田製作所）」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「日本電気硝子」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「TDK 12」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「されており、単なる一企業の戦略を超え、日本のバッテリーサプライチェーンを強化する国策としての側面も持ちます」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「と同様、トヨタやパナソニックといった日本の「セルメーカー」への素材供給（水平分業）を目指す戦略が明確です」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「量産・検査装置」を世界で初めて開発・標準化した企業（例：日本の製造装置メーカー）になる可能性があります」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+  - 「技術課題と日本の勝ち筋」（https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/）
+- 上位シェア：
+  - 「全固体電池市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「固体電池市場の規模、シェア、トレンド分析レポート：タイプ別（薄膜電池、バルク電池）、容量別（20mAh未満、20mAh～500mAh、500mAh超）、カテゴリー別（単セル電池、多セル電池）、用途別（民生用・携帯用電子機器、電気自動車、エネルギーハーベスティング、ウェアラブル機器・医療機器、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「アジア太平洋地域は、2025年に42.6%の市場シェアを占め、固体電池市場を牽引しました」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「20mAh～500mAhの容量セグメントは、世界の固体電池市場で最大のシェアを占めています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「500mAh以上のセグメントは、電気自動車市場における固体電池の使用増加により、2021年に19.6%の市場シェアを獲得しました」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「ウェアラブル機器および医療機器は、市場シェア第2位を占めています」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「2025年の全固体電池市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「アジア太平洋地域は2025年に42.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「移動式エネルギー貯蔵システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「バッテリーセパレーターコーティング市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「正極活物質リサイクル市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「リチウムビス（FSI）電解質塩市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/solid-state-battery-market）
+  - 「2027年時点では新エネルギー車用途が市場の大半を占め、2032年には35,781百万米ドル、全体の約90%を構成する見通しである」（https://www.dreamnews.jp/press/0000362379）
+  - 「中国市場は2027年時点で約375百万米ドル、世界の約44.75%を占める一方、2032年には10,375百万米ドル、約26.10%となる見通しである」（https://www.dreamnews.jp/press/0000362379）
+- 投資：
+  - 「3M announced a $100 million investment to build a new research and development facility in the US focused on innovative battery electrolyte solutions for electric vehicles and energy storage.」（https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146）
+  - 「Q2 2025: CATL Announces $200 Million Investment in Battery Electrolyte Market Production Expansion」（https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146）
+  - 「CATL revealed a $200 million investment to expand its battery electrolyte production capacity, responding to increased demand from global electric vehicle manufacturers.」（https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146）
+  - 「Q3 2025: Sionic Energy Raises $50 Million Series B Funding to Scale Battery Electrolyte Market Technology」（https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146）
+  - 「Sionic Energy secured $50 million in Series B funding to accelerate the development and commercialization of its advanced battery electrolyte technology for electric vehicles.」（https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146）
+  - 「With electric mobility, consumer electronics and renewable energy storage continuing to expand, the global solid electrolyte market is positioned for sustained growth through 2033. Ongoing innovation, manufacturing investment and cross-industry collaboration will remain central to the commercial adoption of solid-state battery technologies.」（https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html）
+  - 「Solid-state battery startup funding did not show sustained quarter-by-quarter growth between Q3 2025 and Q3 2026. Deal volume stabilized at five or six financings per quarter, while investment totals swung dramatically because of a handful of exceptionally large rounds.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「Across five quarters, we tracked 25 financings involving 24 companies, worth at least $696 million. Quarterly funding climbed from $30.2 million in Q3 2025 to $338.3 million in Q1 2026, collapsed to $44.7 million in Q2, then recovered to at least $111.2 million in Q3.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「The apparent boom in Q1 2026 was overwhelmingly a QingTao story. Its approximately $275 million Series H accounted for 81.3% of quarterly investment, despite deal count remaining unchanged at six.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「The Q3 recovery was similarly concentrated. INX Technology raised more than $100 million, representing approximately 90% of disclosed capital. Excluding rounds above $50 million, quarterly investment actually fell 75% from Q2.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「Funding continues to favor companies with established financing histories. Follow-on investments represented 80% of all transactions, while first financings accounted for just five rounds. The biggest checks went to developers pursuing manufacturing expansion, commercialization or public-market readiness.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「China has the clearest geographical advantage in the sample. Chinese startups accounted for 72% of financings, and Asia-Pacific represented more than 95% of disclosed investment in each of the final three quarters. US and European financing became much less visible after Q4 2025.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「Technology preferences have been highly dependent on individual transactions. Hybrid solid-state batteries dominated Q1 investment through QingTao, all-solid-state cells led Q3 through INX, and sulfide electrolyte startups experienced a brief burst of deal activity in early 2026 without extending it into Q3.」（https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals）
+  - 「Seventeen US and European solid-state battery startups have raised a combined $4.2 billion in funding, but they're at wildly different stages of commercial readiness.」（https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape）
+  - 「, a spin-out from TNO's Holst Centre in the Netherlands, raised €15 million in February 2024 to scale its 3D solid-state battery architecture. The technology uses billions of micropillars coated with battery materials to create high surface area and short ion transport distances, enabling ultra-fast charging. The approach is clever but unproven at automotive scale.」（https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape）
+- 検索結果の抜粋：
+  - 「全固体電池 向けの 固体電解質市場 、2030年以降に急加速か — 全固体電池 向けの 固体電解質市場 、2030年以降に急加速か EE Times Japan https://eetimes.itmedia.co.jp > articles > news037」（https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html）
+  - 「固体電解質 - メーカー・ 企業 6社の業務用製品ランキング — 固体電解質 - メーカー・ 企業 6社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 固体電解質」（https://mono.ipros.com/cg2/%E5%9B%BA%E4%BD%93%E9%9B%BB%E8%A7%A3%E8%B3%AA/）
+  - 「Solid Electrolyte Market Segments & Size 2031 — Solid Electrolyte Market Segments & Size 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/solid-electrolyte-market）
+  - 「Global Solid Electrolyte Market to Surge at 69.7% CAGR ... — Global Solid Electrolyte Market to Surge at 69.7% CAGR ... PR Newswire https://www.prnewswire.com > global...」（https://www.prnewswire.com/news-releases/global-solid-electrolyte-market-to-surge-at-69-7-cagr-driven-by-ev-adoption-and-solid-state-batteries--valuates-reports-302644836.html）
+
+## シリコン負極材（silicon anode material）
+- 文脈：電池材料
+- 市場規模：
+  - 「シリコン系負極材料市場規模レポート2026：846百万米ドル到達予測、年平均成長率40.1%で拡大 | NEWSCAST」（https://newscast.jp/smart/news/8811075）
+  - 「シリコン系負極材料市場規模レポート2026：846百万米ドル到達予測、年平均成長率40.1%で拡大」（https://newscast.jp/smart/news/8811075）
+  - 「2025年の世界市場規模は622百万米ドルと予測され、2026～2032年はCAGR40.1%で成長し、2032年には6,397百万米ドルに達すると見込まれる」（https://newscast.jp/smart/news/8811075）
+  - 「市場規模は2025年の622百万米ドルから2032年の6,397百万米ドルへ拡大する見通しであり、CAGR40.1%という高成長が示すように、シリコン系負極材料は次世代リチウムイオン電池の重要材料として存在感を高めると考えられる」（https://newscast.jp/smart/news/8811075）
+  - 「シリコン電池市場規模・統計レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン電池市場は2025年に5億5,500万米ドルと評価され、2026年には7億5,500万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「業界リーダーからの情報に基づくと、シリコン電池市場は2030年までに25.1億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「電池タイプ別シリコン電池市場規模、2025年・2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン・グラフェン電池の市場規模は2035年までに4億2,000万米ドルに達し、年平均成長率（CAGR）23.4%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「ヘルスケア分野の市場規模は2025年に3,000万米ドルとなり、2035年には4億2,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「エネルギー・電力用途の市場規模は2035年に3億5,000万米ドルに達すると予測され、年平均成長率（CAGR）は37.1%（2026〜2035年）となる見込みである」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「産業用途の市場規模は2025年に2,000万米ドルとなり、2035年には5.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+- 成長率：
+  - 「シリコン系負極材料市場規模レポート2026：846百万米ドル到達予測、年平均成長率40.1%で拡大 | NEWSCAST」（https://newscast.jp/smart/news/8811075）
+  - 「シリコン系負極材料市場規模レポート2026：846百万米ドル到達予測、年平均成長率40.1%で拡大」（https://newscast.jp/smart/news/8811075）
+  - 「2025年の世界市場規模は622百万米ドルと予測され、2026～2032年はCAGR40.1%で成長し、2032年には6,397百万米ドルに達すると見込まれる」（https://newscast.jp/smart/news/8811075）
+  - 「市場規模は2025年の622百万米ドルから2032年の6,397百万米ドルへ拡大する見通しであり、CAGR40.1%という高成長が示すように、シリコン系負極材料は次世代リチウムイオン電池の重要材料として存在感を高めると考えられる」（https://newscast.jp/smart/news/8811075）
+  - 「年平均成長率（CAGR）28.9%（2026〜2035年）で拡大し、2035年までに70億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「Si/C製造の規模拡大に伴いシリコン負極の価格プレミアムが縮小し、2030年までに高級EVセグメントから中価格帯のプラットフォームへと採用が拡大」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「米国および欧州で継続する政策投資は、認定済みシリコン負極の生産能力を多様化し、10年半ばまでの需要拡大を支える」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン・グラフェン電池の市場規模は2035年までに4億2,000万米ドルに達し、年平均成長率（CAGR）23.4%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「全固体シリコン電池の売上高は2025年に3,100万米ドルを記録し、年平均成長率（CAGR）46.7%（2026〜2035年）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「above-10,000 mAhの容量帯は2035年までに31億5,000万米ドルに達し、年平均成長率（CAGR）34.6%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「角形シリコン電池セルは、2035年までに売上高19億6,000万米ドルに達し、年平均成長率（CAGR）32.6%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「負極部材の2025年の売上高は1億9,400万米ドルで、年平均成長率（CAGR）29.9%（2026〜2035年）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「自動車用途は2035年に市場シェア45.0%を占め、年平均成長率（CAGR）33.7%（2026〜2035年）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「年平均成長率47.3」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+- 主要企業：
+  - 「主要企業には、BTR、Shin-Etsu Chemical、Daejoo Electronic Materials、IOPSILION、Luoyang Lianchuang、Shanshan Corporation、Lanxi Zhide Advanced Materials、Guangdong Kaijin New Energy、Group14、Jiangxi Zhengtuo Energy、Posco Chemical、Shida Shenghua、Resonac、Chengdu Guibao、Shanghai Putailai (Jiangxi Zichen)、Hunan Zhongke Electric (Shinzoom)、Shenzhen XFH、iAmetal、Guoxuan High-Tech、Nexeon、Sila Nanotechnologiesなどが含まれる」（https://newscast.jp/smart/news/8811075）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://newscast.jp/smart/news/8811075）
+  - 「生産規模、技術認定、顧客との関係が大きな参入障壁となっているためだ」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン電池市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン電池市場の主要企業には、Samsung SDI、CATL、LG Energy Solution、COSMX、SK Onなどがある」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「中国・成都の製紙機械部品メーカー、日本市場に初参入」（https://36kr.jp/305821/）
+  - 「The Silicon Anode Battery Market is a highly competitive industry with several key players operating globally.」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「The following key companies have been profiled for this study on the」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「Revenue forecast, company ranking, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「Who are the key players in silicon anode battery market?」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「Some key players operating in the silicon anode battery market include XG Sciences, Enevate Corporation, ENOVIX Corporation, Amprius technologies, Huawei, OneD Material, Inc. and others」（https://www.grandviewresearch.com/industry-analysis/silicon-anode-battery-market-report）
+  - 「Key Players Analysis」（https://market.us/report/global-silicon-anode-battery-market/）
+- 日本企業：
+  - 「主要企業には、BTR、Shin-Etsu Chemical、Daejoo Electronic Materials、IOPSILION、Luoyang Lianchuang、Shanshan Corporation、Lanxi Zhide Advanced Materials、Guangdong Kaijin New Energy、Group14、Jiangxi Zhengtuo Energy、Posco Chemical、Shida Shenghua、Resonac、Chengdu Guibao、Shanghai Putailai (Jiangxi Zichen)、Hunan Zhongke Electric (Shinzoom)、Shenzhen XFH、iAmetal、Guoxuan High-Tech、Nexeon、Sila Nanotechnologiesなどが含まれる」（https://newscast.jp/smart/news/8811075）
+  - 「北米、アジア太平洋、欧州を中心に市場競争が進み、中国、日本、韓国などの材料・電池産業集積地では技術開発と量産能力の両面が競争軸となる」（https://newscast.jp/smart/news/8811075）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://newscast.jp/smart/news/8811075）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://newscast.jp/smart/news/8811075）
+  - 「japan@qyresearch.com」（https://newscast.jp/smart/news/8811075）
+  - 「QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です」（https://newscast.jp/smart/news/8811075）
+  - 「日本は2025年に7.0%の市場シェアを占め、2035年には市場規模が4億7,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「日本シリコン負極電池市場」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「日本は電池技術革新のパイオニアであり、先端技術、研究機関、政府支援による強力なエコシステムを有しています」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「日本は、カーボンニュートラルな未来を実現するため、電池の効率性、安全性、 持続可能性の向上に注力しています」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「例えば、2025年4月には、日本ガイシグループの製造拠点がポーランドのHelios Renewable Energy SP.Z O.O.と初の仮想売電契約を締結しました」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「また、日本では自動車産業やエレクトロニクス産業の基盤が強固であることから、市場の成長がさらに加速します」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「パナソニック株式会社、コネックス・システムズ株式会社、日立化成工業株式会社、昭和電工株式会社、五幾電池株式会社、日本ガイシ株式会社は、日本のシリコン負極電池市場における重要なプレーヤーです」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「例えば、2025年1月、iPhoneの主要バッテリーサプライヤーの1つであるTdk Corporationは、Amperex Technology Ltd.が開発し、従来の黒鉛陽極電池よりもエネルギー密度が15%高い新世代のシリコン陽極電池を2025年に導入する予定です」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+  - 「アジア太平洋地域（中国、日本、インド、韓国、インドネシア、マレーシア、オーストラリア、ニュージーランド、その他のアジア太平洋地域）」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+- 上位シェア：
+  - 「本記事は、QY Research発行のレポート「シリコン系負極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します」（https://newscast.jp/smart/news/8811075）
+  - 「シリコン電池市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「Si/C複合セルによるシリコン電池市場の売上高は2025年に2億2,200万米ドルに達し、この電池タイプは2035年に38.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「SiOx電池の売上高は2035年までに12億6,000万米ドルに達すると予測され、2025年のシェアは21.8%であった」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「ナノシリコン電池の売上高は2025年に6,600万米ドルとなり、2035年には11.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「1,000 mAh未満の容量帯は2025年に14.0%のシェアを占め、2035年までに7億100万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「容量帯別シリコン電池市場シェア、2025年」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「1,000〜5,000 mAhの容量帯の売上高は2025年に2億1,100万米ドルとなり、2035年には28.0%のシェアを占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「5,000〜10,000 mAhの容量帯は2035年までに11億9,000万米ドルに達すると予測され、2025年のシェアは19.0%であった」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「円筒形シリコン電池セルの2025年の売上高は1億8,300万米ドルで、2035年には市場シェア30.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「パウチ型セルは2025年に市場シェア46.0%を占め、2035年までに売上高29億4,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「Si/C複合材料は2025年に普及率ベースで48.0%を占め、2035年には売上高ベースで33億6,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「SiOx材料の2025年の売上高は1億5,000万米ドルで、2035年には普及率ベースで27.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「ナノシリコン材料は、2035年までに売上高ベースで9億1,000万米ドルに達すると予測され、2025年には普及率ベースで13.0%を占めた」（https://www.gminsights.com/ja/industry-analysis/silicon-battery-market）
+  - 「シリコン負極電池の市場規模、シェア、メーカー、分析、成長予測 2034年」（https://www.surveyreports.jp/industry-analysis/silicon-anode-battery-market/1037889）
+- 投資：
+  - 「今後の展望としては、2025年の1000トン生産ライン建設と製品開発に向けて、24年末に新たな資金調達を予定している」（https://36kr.jp/305821/）
+  - 「In May 2025, GDI announced the raising of an additional USD 11.5 million in Series A funding to scale up the production of its silicon anodes for electric vehicle batteries in the U.S. and Europe. The CEO of the company, Rob Anstey, stated that "the new funding will help expand production at the company's pilot facility in the Netherlands within 24 months." (Source:」（https://www.precedenceresearch.com/silicon-anode-battery-market）
+  - 「Total funding for silicon anode start-ups and pure-play companies is estimated to have exceeded US$4.5 billion in 2024. Source: IDTechEx.」（https://www.idtechex.com/en/research-report/silicon-anode-batteries-2025/1052）
+  - 「For instance, Group14 Technologies, a manufacturer of silicon battery materials, completed an additional funding round led by Porsche, with proceeds designated for expanding production capacity at its battery active materials plant in Washington.」（https://www.rootsanalysis.com/silicon-anode-battery-market）
+  - 「Similarly, Enovix announced a partnership with YBS International to establish high-volume production for its silicon anode battery technology in Southeast Asia. This expansion is intended to enable high-volume production of its 3D silicon-anode lithium-ion at a facility in Penang science park, Malaysia providing non-dilutive funding and scaling benefits.」（https://www.rootsanalysis.com/silicon-anode-battery-market）
+  - 「— On July 21, 2026, Sila secured $300 million in private funding to expand U.S. production of its Titan Silicon silicon-carbon anode material, including a planned second-phase expansion at its Moses Lake, Washington, facility to supply EV, defense, electronics and other battery markets.」（https://www.marketresearchfuture.com/reports/silicon-anode-lithium-ion-battery-market-25193）
+  - 「Canada represented approximately 10% of North American market revenue in 2025 and is projected to generate USD 174 million by 2035. Its activity is connected to expanding battery and EV supply-chain investment corridors, particularly where provincial and federal initiatives align with broader North American content and localization objectives.」（https://www.gminsights.com/industry-analysis/silicone-anodes-market）
+  - 「The United Arab Emirates generated USD 20 million in 2025 and is projected to reach USD 131 million by 2035. Renewable-energy investments, fleet-electrification activity, and a premium-oriented mobility market support a demand profile that can favor higher-energy-density battery materials. South Africa represents a smaller developing opportunity as charging, storage, and battery ecosystems mature.」（https://www.gminsights.com/industry-analysis/silicone-anodes-market）
+  - 「Group14 Technologies. "Group14 Closes US$463M Series D Funding Round and Acquires 100% Ownership of BAM Factory in South Korea from SK, Inc." group14.technology」（https://www.gminsights.com/industry-analysis/silicone-anodes-market）
+  - 「Sila Nanotechnologies. "Sila Secures $300 Million in Private Funding to Ramp Gigascale Anode Manufacturing and Strengthen America's Technology Sovereignty." silanano.com」（https://www.gminsights.com/industry-analysis/silicone-anodes-market）
+  - 「In July 2026, Sila Nanotechnologies secured USD 300 million in private funding to support Phase 2 expansion of its Moses Lake, Washington silicon-carbon anode facility」（https://www.gminsights.com/industry-analysis/silicone-anodes-market）
+  - 「Advano has raised $19.5M across 2 funding rounds.」（https://startupintros.com/orgs/advano）
+  - 「2 funding rounds」（https://startupintros.com/orgs/advano）
+  - 「Advano has raised $19.5M in total across 2 funding rounds.」（https://startupintros.com/orgs/advano）
+  - 「Advano has raised $19.5M across 2 funding rounds. Most recently, it raised $19.0M Series A in January 2020.」（https://startupintros.com/orgs/advano）
+- 検索結果の抜粋：
+  - 「シリコン負極 電池 市場規模 、シェア、業界分析 2032 | 記事 — シリコン負極 電池 市場規模 、シェア、業界分析 2032 | 記事 inkrich https://worldwideresearchreport.inkrich.com > posts」（https://worldwideresearchreport.inkrich.com/posts/802/）
+  - 「電池用 シリコン負極材料 の 市場 規模、動向 |レポート [2035] — 電池用 シリコン負極材料 の 市場 規模、動向 |レポート [2035] Market Growth Reports https://www.marketgrowthreports.com > market-reports」（https://www.marketgrowthreports.com/jp/market-reports/battery-silicon-anode-material-maket-100034）
+  - 「シリコン負極材料市場 の成長、2035 年までのレポート — シリコン負極材料市場 の成長、2035 年までのレポート Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/silicon-anode-material-market-105077）
+  - 「電池用 シリコン負極材料 の市場規模、動向 |レポート [2035] — 電池用 シリコン負極材料 の市場規模、動向 |レポート [2035] Market Growth Reports https://www.marketgrowthreports.com > market-reports」（https://www.marketgrowthreports.com/jp/market-reports/battery-silicon-anode-material-maket-100034）
+  - 「Silicon Anode Material Market Growth, Report by 2035 — Silicon Anode Material Market Growth, Report by 2035 Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/silicon-anode-material-market-105077）
+
+## ナトリウムイオン電池材料（sodium-ion battery materials）
+- 文脈：電池材料
+- 市場規模：
+  - 「ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「世界のナトリウムイオン電池市場規模は、2025年には4億7000万米ドルと評価され、2026年の5億5000万米ドルから2034年には18億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.42%となる見込みです」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池の市場規模は、2026年には5億5000万米ドルと評価され、2034年までに18億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.42%です」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.42%で成長すると予測されている」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「移動式エネルギー貯蔵システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「バッテリーセパレーターコーティング市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「正極活物質リサイクル市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「リチウムビス（FSI）電解質塩市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測 | QY Research株式会社」（https://www.atpress.ne.jp/news/1593319）
+  - 「ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測」（https://www.atpress.ne.jp/news/1593319）
+  - 「QYResearch調査チームの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ナトリウムイオン電池用正極材料の世界市場は、2025年に156百万米ドルと推定され、2026年には232百万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/1593319）
+  - 「コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026」（https://www.atpress.ne.jp/news/1593319）
+  - 「無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032」（https://www.atpress.ne.jp/news/1593319）
+  - 「自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測」（https://www.atpress.ne.jp/news/1593319）
+  - 「【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測」（https://www.atpress.ne.jp/news/1593319）
+- 成長率：
+  - 「ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「世界のナトリウムイオン電池市場規模は、2025年には4億7000万米ドルと評価され、2026年の5億5000万米ドルから2034年には18億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.42%となる見込みです」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「北米地域は2番目に大きく、予測期間中に年平均成長率（CAGR）9.6%で成長すると予想されています」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池の市場規模は、2026年には5億5000万米ドルと評価され、2034年までに18億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.42%です」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.42%で成長すると予測されている」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測 | QY Research株式会社」（https://www.atpress.ne.jp/news/1593319）
+  - 「ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測」（https://www.atpress.ne.jp/news/1593319）
+  - 「その後、2026年から2032年にかけて年平均成長率（CAGR）26.5%で推移し、2032年には950百万米ドルに拡大すると見込まれています」（https://www.atpress.ne.jp/news/1593319）
+  - 「特に2025年以降、中国・欧州を中心にナトリウムイオン電池の商用化ラインが拡大し、定置型蓄電システム（ESS）や低コストEV用途での採用が進展している」（https://www.atpress.ne.jp/news/1593319）
+  - 「世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032」（https://www.atpress.ne.jp/news/1593319）
+  - 「無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032」（https://www.atpress.ne.jp/news/1593319）
+  - 「世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032」（https://www.atpress.ne.jp/news/1593319）
+  - 「自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測」（https://www.atpress.ne.jp/news/1593319）
+- 主要企業：
+  - 「この市場における主要企業は、Faradion、AGM Batteries Limited、NEI Corporation、Natron Energy、Haldor Topsoe A/Sである」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています」（https://www.atpress.ne.jp/news/1593319）
+  - 「日本ナトリウムイオン電池市場の成長を牽引する主要企業には、以下が含まれます：」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「ナトリウムイオン電池市場に参入している主要企業はどこですか？」（https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html）
+  - 「主要市場参入企業の最近の動向」（https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html）
+  - 「世界のナトリウムイオン電池競合インテリジェンス、2026年 - 主要企業の戦略的分析、技術動向、製造、イノベーション、および競合情勢」（https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html）
+  - 「なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、」（https://www.fkg-report.jp/market-trends/2026/3438.html）
+  - 「2021年以降、参入メーカーが増加している」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja）
+  - 「次世代電池参入事業者」（https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja）
+  - 「ナトリウムイオン電池用多陰イオン性正極材料の世界的な主要企業には、IBU-tec、江蘇Zoolnasm Energy Technology、Qina New Energy Technology、浙江Sodium Innovation Energy、GEM Co., Ltd.などが含まれます」（https://www.atpress.ne.jp/news/1737752）
+  - 「また、本レポートでは、ナトリウムイオン電池用多陰イオン性正極材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なナトリウムイオン電池用多陰イオン性正極材料市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています」（https://www.atpress.ne.jp/news/1737752）
+  - 「また、主要メーカーの生産拠点分布、販売地域、提供する製品タイプ、市場集中度（CR3、CR5、CR10）の分析（2024年～2026年）、競争状況分析、新製品情報、潜在的な新規参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://www.atpress.ne.jp/news/1737752）
+  - 「第13章「主要企業の分析」には、IBU-tec、Jiangsu Zoolnasm Energy Technology、Qina New Energy Technology、Zhejiang Sodium Innovation Energy、GEM Co., Ltd.、Zhongkehai Sodium Technology、Jia Na Energy Technologyなどの主要企業について、企業情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、売上総利益、主な事業概要、最新の動向といった詳細な分析が個別に記載されています」（https://www.atpress.ne.jp/news/1737752）
+  - 「BYDやCATLが参入」（https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000）
+  - 「商品開発部の田邉明寛氏は「開発をスタートさせた22年は中国内でもメーカーが限定的だったが、次第に参入企業が増え、現在は価格競争が始まっている」と語る」（https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000）
+- 日本企業：
+  - 「排出量削減目標を掲げる中で、ナトリウムイオン電池の需要は発電部門と輸送部門で増加すると予想され、特にインド、中国、そして日本、韓国、インドネシア、マレーシアといった東南アジア諸国でその傾向が顕著になるでしょう」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「Sumitomo Chemical Co.LTD.」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「欧米・中国・日本の材料メーカーが競合する中で、技術力に加え、量産対応力・品質安定性・国際規格適合力が競争優位性を左右している」（https://www.atpress.ne.jp/news/1593319）
+  - 「QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です」（https://www.atpress.ne.jp/news/1593319）
+  - 「日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階」（https://www.atpress.ne.jp/news/1593319）
+  - 「TEL：050-5893-6232（日本）；0081-5058936232（グローバル）」（https://www.atpress.ne.jp/news/1593319）
+  - 「japan@qyresearch.com」（https://www.atpress.ne.jp/news/1593319）
+  - 「日本ナトリウムイオン電池市場規模およびシェアレポート 2036年」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「日本ナトリウムイオン電池市場調査レポート – 最新動向、成長機会、市場規模およびシェア予測分析 – 2026年～2036年」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「KDMIアナリストの成長分析によると、日本のナトリウムイオン電池市場の売上高は2036年までに6,590万米ドルに達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「japan-sodium-ion-battery-market」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「日本ガイシ株式会社、パナソニック株式会社、株式会社東芝、住友電気工業株式会社、ファラディオン・リミテッド、Contemporary Amperex Technology Co., Limited（CATL）」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「日本のナトリウムイオン電池市場の規模はどのくらいですか？」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「日本ナトリウムイオン電池市場に関する調査レポートによると、同市場は2026年から2036年の期間に年平均成長率（CAGR）11.2%で成長し、2036年末までに6,590万米ドルの市場規模に達すると予測されています」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+  - 「・日本ナトリウムイオン電池市場の成長は、強力な政府支援によって牽引されています」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+- 上位シェア：
+  - 「ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池市場の規模、シェア、トレンド分析レポート：タイプ別（ナトリウム硫黄電池、ナトリウム塩電池（ゼブラ電池）、ナトリウム酸素電池（ナトリウム空気電池））、技術別（水系、非水系）、用途別（エネルギー貯蔵およびグリッド統合、電気自動車（EV）、住宅用エネルギー貯蔵、緊急バックアップおよびUPS、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「アジア太平洋地域は、2025年に42.5%の市場シェアを占め、ナトリウムイオン電池市場を牽引しました」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「2025年のナトリウムイオン電池市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「アジア太平洋地域は2025年に42.5%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「移動式エネルギー貯蔵システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「バッテリーセパレーターコーティング市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「正極活物質リサイクル市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「リチウムビス（FSI）電解質塩市場規模、シェア、2034年」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/sodium-ion-battery-market）
+  - 「QYResearch調査チームの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ナトリウムイオン電池用正極材料の世界市場は、2025年に156百万米ドルと推定され、2026年には232百万米ドルに達すると予測されています」（https://www.atpress.ne.jp/news/1593319）
+  - 「上記の図表／データは、QYResearchの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」から引用されています」（https://www.atpress.ne.jp/news/1593319）
+  - 「本記事は、QY Researchが発行したレポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」 を紹介しています」（https://www.atpress.ne.jp/news/1593319）
+  - 「日本ナトリウムイオン電池市場規模およびシェアレポート 2036年」（https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897）
+- 投資：
+  - 「Europe is set to expand faster than any other region, with revenue climbing at a 24.4% CAGR during 2026-2032. European cell makers are building local sodium-ion capacity specifically to reduce exposure to Asian lithium-ion supply chains, and national governments are backing that shift with direct funding for domestic material and cell production rather than leaving it to private capital alone.」（https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report）
+  - 「In December 2025, EVE Energy Co. Ltd. broke ground on a sodium-ion battery production campus in Huizhou, China, backed by a RMB 1 billion (about USD 140 million) investment and targeting 2 GWh of annual capacity. The campus consolidates EVE's sodium-ion research, pilot production, and manufacturing in one site aimed at data-center and energy-storage customers.」（https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report）
+  - 「Bell led product management and customer programs at Group14, which is manufacturing next generation silicon anode materials and has raised more than $1 billion from investors. He also held research and management roles at battery materials companies including Ionic Materials.」（https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/）
+  - 「Bedrock Materials has raised $9.0M across 1 funding round.」（https://startupintros.com/orgs/bedrock-materials）
+  - 「1 funding round」（https://startupintros.com/orgs/bedrock-materials）
+  - 「Bedrock Materials has raised $9.0M in total across 1 funding round.」（https://startupintros.com/orgs/bedrock-materials）
+  - 「Bedrock Materials has raised $9.0M across 1 funding round. Most recently, it raised $9.0M Seed in May 2024.」（https://startupintros.com/orgs/bedrock-materials）
+  - 「$9.0M raised」（https://startupintros.com/orgs/bedrock-materials）
+  - 「: Achieved seed funding, R&D headquarters setup, and precursor production within a year, backed by hardtech incubator mHUB.[4][5]」（https://startupintros.com/orgs/bedrock-materials）
+  - 「sodiumbatteryhub.com/2024/05/22/bedrock-materials-secures-9m-seed-funding」（https://startupintros.com/orgs/bedrock-materials）
+  - 「prnewswire.com/news-releases/bedrock-materials-secures-9-million-seed-funding-establishes-rd-headquarters-in-chicago-302147240.html」（https://startupintros.com/orgs/bedrock-materials）
+- 検索結果の抜粋：
+  - 「ナトリウムイオン電池 用正極 材料市場規模 は2026年232百万 ... — ナトリウムイオン電池 用正極 材料市場規模 は2026年232百万 ... アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社」（https://www.atpress.ne.jp/news/1593319）
+  - 「ナトリウムイオン電池市場 の 規模 、統計および展望 2031 — ナトリウムイオン電池市場 の 規模 、統計および展望 2031 Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/sodium-ion-battery-market）
+  - 「ナトリウムイオン電池材料市場規模 ・シェア | 成長 [2034] — ナトリウムイオン電池材料市場規模 ・シェア | 成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492）
+  - 「2026 ナトリウムイオン電池 関連技術・ 市場 の全貌 - 富士経済 — 2026 ナトリウムイオン電池 関連技術・ 市場 の全貌 - 富士経済 富士経済グループ https://www.fuji-keizai.co.jp > report > detail」（https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja）
+  - 「ナトリウムイオン電池 (SiB)の 市場 を調査。2040年の世界 市場 ... — ナトリウムイオン電池 (SiB)の 市場 を調査。2040年の世界 市場 ... fkg-report.jp https://www.fkg-report.jp > market-trends」（https://www.fkg-report.jp/market-trends/2026/3438.html）
+  - 「ナトリウムイオン電池 とは？注目される理由やメリット ... — ナトリウムイオン電池 とは？注目される理由やメリット ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_95」（https://www.wsew.jp/hub/ja-jp/blog/article_95.html）
+  - 「ナトリウムイオン電池 メーカー3社 注目ランキング【2026年】 — ナトリウムイオン電池 メーカー3社 注目ランキング【2026年】 Metoree https://metoree.com > 電源」（https://metoree.com/categories/11264/）
+  - 「ナトリウムイオン電池材料 市場規模・シェア |成長 [2034] — ナトリウムイオン電池材料 市場規模・シェア |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料」（https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492）
+  - 「ナトリウムイオン電池 レポート2025 技術、市場、そして日本 ... — ナトリウムイオン電池 レポート2025 技術、市場、そして日本 ... エネがえる https://www.enegaeru.com > 家庭用蓄電池」（https://www.enegaeru.com/sodium-ionbatteryreport2025）
+  - 「Sodium - Ion Battery Materials Market Size , Share | Growth [2034] — Sodium - Ion Battery Materials Market Size , Share | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492）
+  - 「Sodium - Ion Battery Materials Market Size, Share | Growth [2034] — Sodium - Ion Battery Materials Market Size, Share | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492）
+
+## 炭化ケイ素（SiC）基板（silicon carbide wafer）
+- 文脈：パワー半導体
+- 市場規模：
+  - 「世界の炭化ケイ素（SiC）市場は、2025年に56億米ドルと評価され、2026年には74億米ドル、2035年までには1,097億米ドルに達すると予測されており、2026〜2035年の年平均成長率（CAGR）は約34.8%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「ブラック炭化ケイ素は、数量・売上高の両面で最大の製品カテゴリーであり、2025年の市場規模は 23.70億米ドルに達しました」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「グリーン炭化ケイ素の2025年の市場規模は 21.47億米ドルで、超高純度（>99.5%）の製品がPVT法による結晶成長および電子グレードのセラミック基板向けの直接的な前駆体として使用されることから、急速な拡大が予測されます」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「その他の特殊グレードの市場規模は 10.59億米ドルです」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「製品タイプ別の世界の炭化ケイ素市場規模、2022〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「SiCディスクリートデバイス（MOSFET、ショットキーバリアダイオード、JFET）の2025年の市場規模は 24.53億米ドルに達し、高周波スイッチング電源（SMPS）、通信整流器、電気自動車用オンボードチャージャーなどで幅広く採用されています」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「SiCパワーモジュールの2025年の市場規模は 23.14億米ドルで、最も急速に成長しているデバイスカテゴリーです」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「その他の特殊SiCデバイスの2025年の市場規模は 8.09億米ドルでした」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「4インチ（100 mm）ウェーハセグメントの2025年の市場規模は 21.47億米ドルに達し、従来型ダイオード、RF GaN-on-SiCデバイス、産業用パワー半導体ラインを支えています」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「6インチおよび8インチセグメントの2025年の市場規模は 19.79億米ドルで、主要な成長エンジンとなっています」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「SiCウェハー市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「SiCウェハー市場規模、シェア、トレンド分析レポート：ウェハーサイズ別（2インチ、3インチ、4インチ、6インチ、8インチ、12インチ）、用途別（電力、無線周波数（RF）、その他の用途）、エンドユーザー産業別（通信、電気自動車（EV）、太陽光発電／電源／エネルギー貯蔵、産業（UPSおよびモータードライブなど）、その他のエンドユーザー産業）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/sic-wafer-market）
+- 成長率：
+  - 「世界の炭化ケイ素（SiC）市場は、2025年に56億米ドルと評価され、2026年には74億米ドル、2035年までには1,097億米ドルに達すると予測されており、2026〜2035年の年平均成長率（CAGR）は約34.8%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「200 mm基板への移行により、ウェハー1枚当たりの実使用可能なダイ数は1.8〜2.0倍に増加しますが、マイクロパイプ、基底面転位（BPD）、積層欠陥を制御するため、高度なホットゾーン物理気相輸送（PVT）モデリングとレーザーアシストスライシング技術が必要となります」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「CAGR全体の10〜12パーセントポイント」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「CAGR全体の6〜8パーセントポイント」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「CAGR全体の4〜5パーセントポイント」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「CAGR全体への寄与：4〜6ポイント」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「CAGR全体への寄与：3〜4ポイント」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「電気自動車および800 Vパワートレインアーキテクチャの普及拡大」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「SiCウェハー市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「世界のSICウェハー市場規模は、2025年には12億5000万米ドルと評価され、2026年の14億4000万米ドルから2034年には45億米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は15.3%となる見込みです」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「2インチ、3インチ、4インチセグメントが市場への貢献度が最も高く、予測期間中に年平均成長率（CAGR）14.2%で成長すると予測されています」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「電力分野は市場シェアが最も高く、予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されています」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「通信分野は市場への最大の貢献者であり、予測期間中に年平均成長率 (CAGR) 15.7% で成長すると推定されています」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「北米は最大の収益貢献地域であり、予測期間中に年平均成長率（CAGR）15.7%で成長すると予想されています」（https://straitsresearch.com/jp/report/sic-wafer-market）
+- 主要企業：
+  - 「基板の欠陥密度、ウェハー形状、パッケージの熱管理が自動車OEMにおける設計採用の成約を左右するため、非統合型の市場参加企業にとって持続的な参入障壁が形成されています」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「炭化ケイ素市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「炭化ケイ素市場の主要企業には、Cree, Inc.、Infineon Technologies、STMicroelectronics、ON Semiconductor Corporation、ROHM Co., Ltd.が含まれ、これらの企業は2025年に合計で65.4%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「国内SiCウエハ製造の拡大は、主要企業にとって高収益の機会を生み出しています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「主要企業は、パートナーシップや協業、合併・買収、地域展開など、様々な有機的・無機的な戦略を駆使して、高い収益を上げています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「今後数年間、有機的な売上高は主要企業の利益を倍増させると予測されています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「市場の主要企業は次のとおりです」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「日本では、ROHM Co., Ltd.、Showa Denko Materials Co., Ltd.、Sumitomo Electric Industries, Ltd.、Mitsubishi Electric Corporation、Toshiba Corporationなどが主要企業です」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介します」（https://www.atpress.ne.jp/news/9817664）
+  - 「スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032」（https://www.atpress.ne.jp/news/9817664）
+  - 「新規参入企業は、既存の競合他社と比較して、高額な設備投資を管理する上で極めて大きな課題に直面しています」（https://newscast.jp/news/1008252）
+  - 「主要企業レベルの動向は、生産能力拡大、戦略的提携、技術的差別化に焦点が当てられています」（https://www.gii.co.jp/report/ires1929143-sic-substrate-materials-market-by-wafer-diameter.html）
+  - 「SiC基板材料市場の主要企業はどこですか？」（https://www.gii.co.jp/report/ires1929143-sic-substrate-materials-market-by-wafer-diameter.html）
+- 日本企業：
+  - 「日本は、既存の主要デバイスメーカーを中核とする主要なパワー半導体製造エコシステムを維持している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「Mitsubishi Electric Corporation、Fuji Electric Co., Ltd.、Renesas Electronics、Toshiba Corporation、Danfoss A/S、Microchip Technology、Littelfuse、GeneSiC Semiconductor、Coherent (II-VI) は、産業用の専用モジュール、RF GaN-on-SiC基板、高信頼性の防衛用電力システムを提供している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「例えば、日本のウェハーメーカーである昭和電工株式会社とドイツの半導体メーカーであるインフィニオン・テクノロジーズ社は、エピタキシャル成長を含む多種多様な炭化ケイ素（SiC）材料の供給契約を締結しました」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「さらに、台湾、中国、日本、韓国は世界の半導体市場のかなりの部分を占めています」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「Shin-Etsu Chemical Co. Ltd」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「この市場をリードする企業は、Wolfspeed Inc.、II-VI Incorporated、Dow、STMicroelectronics、昭和電工株式会社です」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「日本の炭化ケイ素（SiC）市場調査レポート、規模とシェア、予測2035年」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「日本の炭化ケイ素（SiC）市場」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「日本の炭化ケイ素（SiC）市場調査レポート - 製品別（ブラック炭化ケイ素、グリーン炭化ケイ素、球形炭化ケイ素）；アプリケーション別；デバイス別；ウエハサイズ別ー日本の需要と供給の分析、成長予測、統計レポート 2026ー2035年」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「日本の炭化ケイ素（SiC）市場調査、規模、傾向のハイライト(予測2026ー2035年)」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「日本の炭化ケイ素（SiC）市場規模」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「2026年には、日本の炭化ケイ素（SiC）の業界規模は88.9百万米ドルに達すると予想されています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「再生可能エネルギー発電能力の力強い拡大は、日本における炭化ケイ素製品の売上を牽引すると予測されています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「環境エネルギー政策研究所（ISEP）の分析によると、2024年の日本の総電力生産量（消費者が直接使用する電力を含む）に占める再生可能エネルギーの割合は26.7%となり、前年の25.7%から1ポイント上昇する見込みです」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+  - 「国際エネルギー機関（IEA）の報告書によると、原子力部門は日本の国内総電力生産量の40%を占めており、市場の成長にも貢献しています」（https://www.researchnester.jp/industry-reports/japan-silicon-carbide-sic-market/263）
+- 上位シェア：
+  - 「炭化ケイ素市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「Cree, Inc.は、2025年に17.2%超の市場シェアを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「が含まれ、これらの企業が合わせて2025年に65.4%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「デバイスタイプ別の世界の炭化ケイ素市場シェア、2025年（%）」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「アチソン法は工業グレードのバルクSiC合成で10.32億米ドルを占め、その他の生産方法は10.04億米ドルを占めた」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「中東・アフリカは2025年に 4.87 億米ドルを占めた」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「世界のシリコンカーバイド市場は、デバイスおよび基板レベルで寡占化しており、2025年には上位4社が市場売上高の 57.6%、上位5社が 65.4% を占めた」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「2025年に売上高シェア約 17.2% を占める世界市場のリーダーであり、専用の 200 mm SiC基板製造施設（Siler City）と自動化されたデバイス大規模製造工場（Mohawk Valley）を運営している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「市場シェア約 15.6% を占め、CoolSiC™ MOSFET、ハイブリッドモジュール、高電圧産業用デバイスを供給している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「市場シェア約 14.6% を占め、大量生産に対応した自動車向け認証済みSiC MOSFETモジュールの製造と、国際的な戦略的合弁事業による生産能力拡張で知られている」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「市場シェア 10.2% を占め、結晶成長から自動車用トラクションモジュールまで、完全垂直統合型のEliteSiC製造プラットフォームを運営している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「市場シェア約 7.8% を占め、トレンチゲート型SiC MOSFETを先駆的に開発するとともに、子会社SiCrystalを通じて基板からモジュールまでの一貫生産を推進している」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「2025年現在、アジア太平洋地域が炭化ケイ素市場で最大のシェアを占めている」（https://www.gminsights.com/ja/industry-analysis/silicon-carbide-market）
+  - 「SiCウェハー市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/sic-wafer-market）
+  - 「SiCウェハー市場規模、シェア、トレンド分析レポート：ウェハーサイズ別（2インチ、3インチ、4インチ、6インチ、8インチ、12インチ）、用途別（電力、無線周波数（RF）、その他の用途）、エンドユーザー産業別（通信、電気自動車（EV）、太陽光発電／電源／エネルギー貯蔵、産業（UPSおよびモータードライブなど）、その他のエンドユーザー産業）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/sic-wafer-market）
+- 投資：
+  - 「Invitalia — national inward-investment and development agency; Contratti di Sviluppo (development contracts) for large investments, accessed 26 August 2026」（https://globaldeal.io/finder/ja/articles/taiwan-italy-semiconductor-silicon-carbide-market-entry）
+  - 「Governments globally are providing direct industrial policy support to localize SiC crystal and device fabrication. Federal programs including multi-hundred-million-dollar preliminary funding awards under the U.S. CHIPS and Science Act and dedicated wide-bandgap research initiatives provide long-term capital support for domestic 200 mm substrate and fab expansions.」（https://www.gminsights.com/industry-analysis/silicon-carbide-market）
+  - 「Major industrial economies are committing billions in capital grants, tax credits, and research subsidies to secure domestic supply chains for wide-bandgap semiconductors. Direct government investments support high-volume 200 mm wafer substrate fabrication facilities and front-end device fabs, reducing the capital investment risks associated with long crystal-growth learning curves.」（https://www.gminsights.com/industry-analysis/silicon-carbide-market）
+  - 「In the United States, Bosch signed a preliminary memorandum with the U.S. Department of Commerce for up to US$ 225 million in CHIPS Act funding to support the transformation of its Roseville, California, facility into a 200mm SiC wafer fabrication site, with plans to invest up to US$1.9 billion for manufacturing capacity targeted at electric mobility applications.」（https://www.persistencemarketresearch.com/market-research/silicon-carbide-sic-wafer-market.asp）
+  - 「European aerospace and defence R&D investment reached €25.2 Billion in 2024, a 9.4 percent year-on-year advance per the Aerospace, Security and Defence Industries Association of Europe (ASD), with military R&D accounting for 61 percent of spending, creating sustained procurement demand for high-specification SiC semiconductor materials in radar, electronic warfare, and power conditioning systems.」（https://www.persistencemarketresearch.com/market-research/silicon-carbide-sic-wafer-market.asp）
+  - 「Geographical distribution of SiC wafer production shows significant concentration. The United States leads with approximately 40% of global production capacity, followed by Japan (25%), Europe (20%), and China (15%). However, China has been making aggressive investments to reduce its dependency on imports, with government initiatives targeting a 30% market share by 2025.」（https://eureka.patsnap.com/report-silicon-carbide-wafer-market-predictions-and-innovations）
+  - 「Startup Funding: Q1 2025」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「AI chips and data center communications see big funding; 75 startups raise $2 billion.」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「The first quarter of 2025 saw six companies raise at least $100 million in investment. Of those, three went to quantum hardware companies, with major investment into neutral atom, superconducting, and hybrid quantum control approaches.」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「Several new companies emerged from stealth to bring coherent DSPs, a novel memory structure, and MEMS-photonics integration to market. They join makers of RISC-V processors, atomic layer processing and metrology equipment, and high-voltage power semiconductors in the 75 companies featured for Q1 2025 that collectively raised over $2 billion.」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「$75.0M in Series D funding」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「over $36.0M in a Series B round」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「$21.5M in seed funding」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「over $100.0M in Series B funding」（https://semiengineering.com/startup-funding-q1-2025/）
+  - 「$44.0M in Series B funding」（https://semiengineering.com/startup-funding-q1-2025/）
+- 検索結果の抜粋：
+  - 「炭化ケイ素 [ SiC ]モジュール 市場規模 、シェア | 成長 、2034 年 — 炭化ケイ素 [ SiC ]モジュール 市場規模 、シェア | 成長 、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 炭化シリコン（...」（https://www.fortunebusinessinsights.com/jp/%E7%82%AD%E5%8C%96%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%EF%BC%88sic%EF%BC%89%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-112939）
+  - 「半絶縁性 炭化ケイ素基板市場 の動向：4.9%のCAGR 成長 — 半絶縁性 炭化ケイ素基板市場 の動向：4.9%のCAGR 成長 LinkedIn https://jp.linkedin.com > pulse > 半絶縁性炭化ケイ素基板...」（https://jp.linkedin.com/pulse/%E5%8D%8A%E7%B5%B6%E7%B8%81%E6%80%A7%E7%82%AD%E5%8C%96%E3%82%B1%E3%82%A4%E7%B4%A0%E5%9F%BA%E6%9D%BF%E5%B8%82%E5%A0%B4%E3%81%AE%E5%8B%95%E5%90%9149%E3%81%AEcagr%E6%88%90%E9%95%B7%E4%B8%BB%E8%A6%81%E3%81%AA%E4%BF%83%E9%80%B2%E8%A6%81%E5%9B%A0%E3%81%A8%E5%88%B6%E7%B4%84%E3%81%AA-7518772707405156352-awpcf）
+  - 「炭化ケイ素 （ SIC ） 市場 規模 |グローバル分析 [2035] — 炭化ケイ素 （ SIC ） 市場 規模 |グローバル分析 [2035] Market Reports World https://www.marketreportsworld.com > market-reports > s...」（https://www.marketreportsworld.com/jp/market-reports/silicon-carbide-sic-market-14723837）
+  - 「SiC基板 材料 市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... — SiC基板 材料 市場 | 市場 規模 分析 予測 2026-2032年 【 市場 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 電子部品/半導体 > 半導体材料」（https://www.gii.co.jp/report/ires1929143-sic-substrate-materials-market-by-wafer-diameter.html）
+  - 「世界の 炭化ケイ素 （ SiC ）粉末 市場 成長率：2032年までに9.5 ... — 世界の 炭化ケイ素 （ SiC ）粉末 市場 成長率：2032年までに9.5 ... note https://note.com > 科学・テクノロジー > エネルギー」（https://note.com/qy_research/n/nd1f379fb7adf）
+  - 「「中国 SiC 技術を使いこなせ」――マルエム商会が示すパワー ... — 「中国 SiC 技術を使いこなせ」――マルエム商会が示すパワー ... EE Times Japan https://eetimes.itmedia.co.jp > articles > news003」（https://eetimes.itmedia.co.jp/ee/articles/2604/30/news003.html）
+  - 「Silicon Carbide ( SiC ) Market Report 2025 - MarketsandMarkets — Silicon Carbide ( SiC ) Market Report 2025 - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/silicon-carbide-electronics-market-439.html）
+  - 「Silicon Carbide ( SiC ) Wafer Market Size & Share [2026-2035] — Silicon Carbide ( SiC ) Wafer Market Size & Share [2026-2035] Market Growth Reports https://www.marketgrowthreports.com > ...」（https://www.marketgrowthreports.com/market-reports/silicon-carbide-sic-wafer-market-122908）
+  - 「Semi-Insulating Silicon Carbide Wafer Market Report [2034] — Semi-Insulating Silicon Carbide Wafer Market Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/semi-insulating-silicon-carbide-wafer-market-107018）
+  - 「Silicon Carbide Wafer Market Size, Report, Trends By 2035 — Silicon Carbide Wafer Market Size, Report, Trends By 2035 Business Research Insights https://www.businessresearchinsights.com > ...」（https://www.businessresearchinsights.com/market-reports/silicon-carbide-wafer-market-101937）
+  - 「Silicon Carbide ( SiC ) Wafer Market Size & Forecast, 2033 — Silicon Carbide ( SiC ) Wafer Market Size & Forecast, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/silicon-carbide-sic-wafer-market.asp）
+  - 「US Silicon Carbide ( SiC ) Market (2025-2030) — US Silicon Carbide ( SiC ) Market (2025-2030) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/silicon-carbide-electronics-market/US）
+
+## 窒化ガリウム（GaN）基板（gallium nitride substrate）
+- 文脈：パワー・高周波
+- 市場規模：
+  - 「世界のGaN基板市場は、2025年に2億9,230万米ドルと評価され、2026年には3億2,260万米ドル、2035年までに8億6,120万米ドルに達すると予測されており、2026年から2035年にかけて約11.5%の年平均成長率（CAGR）で拡大する見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「アジア太平洋地域の市場規模は2025年に1億2,465万米ドルとなり、このうち中国が8,289万米ドルを占めました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「当社の市場推計では、市場規模は2025年の2億9,226万米ドルから2035年までに8億6,115万米ドルへ拡大すると見込まれますが、すべての基板形態で一様に拡大するわけではありません」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN-on-SiC基板の市場規模は2025年に8,386万米ドルとなり、2035年には2億5,477万米ドルに達すると予測され、年平均成長率（CAGR）は約11.86%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「世界のGaN基板市場規模、基板タイプ別、2022〜2035年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN-on-Si基板の市場規模は2025年に4,172万米ドルとなり、2035年には1億380万米ドルに達すると予測され、年平均成長率（CAGR）は約9.66%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN-on-Sapphire基板の市場規模は2025年に5,701万米ドルとなり、2035年には1億5,145万米ドルに達すると予測され、年平均成長率（CAGR）は約10.39%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「バルクGaN基板の市場規模は2025年に8,624万米ドルとなり、2035年には3億1,507万米ドルに達すると予測され、基板タイプ別では最も高い約13.89%の年平均成長率（CAGR）となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN-on-diamond、GaN-on-AlN、エンジニアード接合基板などを含むその他のカテゴリーの市場規模は、2025年に2,344万米ドルとなり、2035年には3,607万米ドルに達すると予測され、年平均成長率（CAGR）は約4.39%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2インチ未満のカテゴリーの市場規模は2025年に5,699万米ドルとなり、2035年には1億4,947万米ドルに達すると予測され、年平均成長率（CAGR）は約10.23%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「4インチ区分の市場規模は2025年に8,476万米ドルとなり、年平均成長率（CAGR）約12.06%で成長し、2035年には2億6,204万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+- 成長率：
+  - 「世界のGaN基板市場は、2025年に2億9,230万米ドルと評価され、2026年には3億2,260万米ドル、2035年までに8億6,120万米ドルに達すると予測されており、2026年から2035年にかけて約11.5%の年平均成長率（CAGR）で拡大する見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2024年の電気自動車販売台数は1,700万台を超え、中国が1,100万台超を占めたことで、車載充電器、DC-DCコンバーターなど、GaN対応電力段の対象市場が拡大しました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「当社の市場推計では、市場規模は2025年の2億9,226万米ドルから2035年までに8億6,115万米ドルへ拡大すると見込まれますが、すべての基板形態で一様に拡大するわけではありません」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「バルクGaNは最も急速な成長が見込まれる基板タイプであり、2025年の8,624万米ドルから2035年には3億1,507万米ドルに拡大し、年平均成長率（CAGR）は約13.89%となる見通しです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「自動車は最も急速に成長する最終用途産業であり、3,611万米ドルから2億1,529万米ドルに拡大し、CAGRは約19.67%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「6インチ超のウェーハカテゴリーは、1億668万米ドルから3億5,738万米ドルに増加し、CAGRは約12.96%となる見通しであり、より大口径の製造インフラへのアクセスが商業上重要であることを反映しています」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「世界の窒化ガリウム市場規模は、2025年には21億3000万米ドルと評価され、2026年の24億6000万米ドルから2034年には79億1000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%となる見込みです」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「5G技術の普及拡大は、高周波用途に最適なGaNデバイスにとって大きなビジネスチャンスとなる」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場規模は、2026年には24億6000万米ドルと評価され、2034年までに79億1000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は15.7%です」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「窒化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）15.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+- 主要企業：
+  - 「結晶品質を向上させながら商業的に有用な直径まで生産規模を拡大できるバルク GaN サプライヤーは、既存の LED 形式のみに注力するサプライヤーよりも、高付加価値のデバイス構成に参入できる可能性があります」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Mitsubishi Chemical Group Corporation は、オプトエレクトロニクスおよびパワーデバイス用途向けの化合物半導体材料事業に参入している」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Wolfspeed は、ワイドバンドギャップ材料およびパワーデバイスの主要企業であり続けている」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN基板市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN基板市場の主要企業には、Sumitomo Electric Industries, Ltd.、Wolfspeed、Soitec、Mitsubishi Chemical Group Corporation、Kyma Technologies Inc.などが含まれます」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「✓ 競争環境と市場への参入・撤退の見通し」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「窒化ガリウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+  - 「原子炉の設計や緩衝剤の化学的性質をカバーする包括的な特許の藪により、グリーンフィールドへの参入は法的にリスクが高い一方、サプライヤーの認定サイクルが特に自動車や航空宇宙において厳しいため、商品化のスケジュールが 5 年以上に延びています」（https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850）
+  - 「これは、Reportprime の予測 7.31 % CAGR で 2032 年まで需要が増加するにもかかわらず、新規参入を妨げるハードルです」（https://www.reportprime.com/ja/%E7%AA%92%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0%E5%8D%98%E7%B5%90%E6%99%B6%E5%9F%BA%E6%9D%BF-r3850）
+  - 「生産効率が高められる6インチSiCウエハーの本格投入が動き始めており、2017年以降は、参入各社が販売に注力するとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「SiC-SBD（ショットキー・バリア・ダイオード）は、2016年に参入企業の増加と製品ラインアップの拡大が進んだことにより市場は170億円となり、今後も堅調に拡大していくとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「今後は中高耐圧領域での製品ラインアップの拡大や参入企業の増加により市場の活性化が期待される」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「今後は、参入企業によってはディスクリート単体からモジュール事業にシフトする動きもみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「さらに、世界のGaN基板エコシステムで活動する主要企業のバリューチェーン分析、競争環境、および企業プロファイルも含まれています」（https://www.dreamnews.jp/press/0000359260）
+- 日本企業：
+  - 「Sumitomo Electric Industries, Ltd.は、2025年に18.4%を超える市場シェアで首位となりました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric Industries, Ltd., Wolfspeed, Soitec, Mitsubishi Chemical Group Corporation, Kyma Technologies Inc.」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo ElectricとOsaka Metropolitan Universityは、ダイヤモンド表面の研磨改良とGaN層転写を用いて、2インチの多結晶ダイヤモンド基板上に作製したGaN-HEMTを2025年5月に報告しました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric Industries, Ltd., Sumitomo Electric and Osaka Metropolitan University Successfully Fabricate GaN-HEMT on 2-Inch Polycrystalline Diamond Substrate, May 2025, sumitomoelectric.com」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「日本は化合物半導体材料に関する高度な専門知識を有しており、Sumitomo Electric による GaN 基板および先進的な熱管理アーキテクチャに関する取り組みなどが挙げられる」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2025年には、Sumitomo Electric Industries が 18.4% のシェアを占め、Wolfspeed が 14.5%、Soitec が 12.5%、Mitsubishi Chemical Group Corporation が 9.2%、Kyma Technologies が 7.0% で続いた」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric Industries, Ltd. は、化合物半導体材料に関する専門知識と、長年にわたる GaN 基板開発の実績を組み合わせている」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Mitsubishi Chemical Group Corporation は、オプトエレクトロニクスおよびパワーデバイス用途向けの化合物半導体材料事業に参入している」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「同社の地位は、日本の幅広い材料エコシステムと、認定済み専門基板への需要に結び付いている」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「DOWA Electronics Materials Co., Ltd. は、アジア太平洋地域の専門化合物半導体材料市場に供給している」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「TDK Corporationは、電子材料、センサー、特殊RF用途に事業基盤を有しており、ニッチなGaN材料需要を支える可能性があります」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric and Osaka Metropolitan University — 多結晶ダイヤモンド上のGaN-HEMT、2025年5月」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric and Osaka Metropolitan Universityは、2インチの多結晶ダイヤモンド基板上にGaN-HEMTを作製したと発表しました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN基板市場の主要企業には、Sumitomo Electric Industries, Ltd.、Wolfspeed、Soitec、Mitsubishi Chemical Group Corporation、Kyma Technologies Inc.などが含まれます」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「アジア太平洋地域は、中国、日本、韓国などの国々における電子機器製造業の急速な拡大を背景に、窒化ガリウム市場において最も高い成長率を示すと予想されている」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+- 上位シェア：
+  - 「GaN基板市場の規模とシェア：2035年統計レポート」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN基板市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Sumitomo Electric Industries, Ltd.は、2025年に18.4%を超える市場シェアで首位となりました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「が含まれ、これらの企業が2025年に合計で61.6%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2024年の電気自動車販売台数は1,700万台を超え、中国が1,100万台超を占めたことで、車載充電器、DC-DCコンバーターなど、GaN対応電力段の対象市場が拡大しました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「アジア太平洋地域の市場規模は2025年に1億2,465万米ドルとなり、このうち中国が8,289万米ドルを占めました」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「世界のGaN基板市場シェア（最終用途産業別、2025年）（%）」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「米国市場は2025年に7,534万米ドルを占めた」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「中国は地域市場の8,289万米ドルを占めた」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2025年には、Sumitomo Electric Industries が 18.4% のシェアを占め、Wolfspeed が 14.5%、Soitec が 12.5%、Mitsubishi Chemical Group Corporation が 9.2%、Kyma Technologies が 7.0% で続いた」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「Kyma Technologies Inc.は、HVPE法で成長させたGaN基板を専門に供給する企業であり、2025年の市場シェアは推定7.0%です」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「2025年時点で、アジア太平洋地域がGaN基板市場で最大のシェアを占めている」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「窒化ガリウム市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-nitride-market）
+- 投資：
+  - 「Wolfspeed remains a significant wide-bandgap materials and power-device participant. Its fiscal 2024 Form 10-K reported approximately USD 807 million in revenue and described continued investments in its Mohawk Valley facility and John Palmour Manufacturing Center, reflecting the capital intensity of wide-bandgap scale-up」（https://www.gminsights.com/industry-analysis/gan-substrate-market）
+  - 「Asia-Pacific leads the market with a 40% share, supported by its strong semiconductor manufacturing ecosystem, rapid 5G deployment, growing electric vehicle production, and significant investments in advanced electronics across China, Japan, South Korea, and Taiwan.」（https://www.transparencymarketresearch.com/gan-substrate-market.html）
+  - 「Startup Funding: Q4 2025」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion.」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$100.0M in Series B investment」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「, plus seed and Series A rounds totaling $40.0M led by」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$40.0M in strategic funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「INR 384.0M (~$4.3M) in Series A funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$475.0M in seed funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$275.0M in Series C funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$220.0M in Series C funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$125.0M in funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「over $100.0M in Series A and seed financing」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「$46.0M in seed and Series A funding」（https://semiengineering.com/startup-funding-q4-2025/）
+  - 「Investment Forum Brasil 2026」（https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/）
+- 検索結果の抜粋：
+  - 「GaN基板市場 の 規模 とシェア：2035年統計レポート — GaN基板市場 の 規模 とシェア：2035年統計レポート Global Market Insights Inc. https://www.gminsights.com > gan-substrate-market」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「GaN基板市場 - 世界の機会分析と産業予測 2023-2032 — GaN基板市場 - 世界の機会分析と産業予測 2023-2032 TOMORUBA https://tomoruba.eiicon.net > blogs」（https://tomoruba.eiicon.net/blogs/2867）
+  - 「GaN基板市場 の規模とシェア：2035年統計レポート — GaN基板市場 の規模とシェア：2035年統計レポート Global Market Insights Inc. https://www.gminsights.com > gan-substrate-market」（https://www.gminsights.com/ja/industry-analysis/gan-substrate-market）
+  - 「次世代パワー半導体とは｜SiC・ GaN ・酸化 ガリウム ... — 次世代パワー半導体とは｜SiC・ GaN ・酸化 ガリウム ... 株式会社IBLC https://iblc.co.jp > post > topix-028」（https://iblc.co.jp/post/topix-028）
+  - 「GaN （ 窒化ガリウム ）半導体とは | 最新の市場・技術動向やSiC — GaN （ 窒化ガリウム ）半導体とは | 最新の市場・技術動向やSiC オートモーティブ ワールド https://www.automotiveworld.jp > blog > article12-gan」（https://www.automotiveworld.jp/hub/ja-jp/blog/article12-gan.html）
+  - 「将来有望な GaN 事業に多数の 企業 が 参入 する中でTSMCの GaN ... — 将来有望な GaN 事業に多数の 企業 が 参入 する中でTSMCの GaN ... セミコンポータル https://www.semiconportal.com > hattori > 251118-tsmcgan」（https://www.semiconportal.com/archive/blog/insiders/hattori/251118-tsmcgan.html）
+  - 「GaN Substrate Market Size & Share, Statistics Report 2035 — GaN Substrate Market Size & Share, Statistics Report 2035 Global Market Insights Inc. https://www.gminsights.com > gan-su...」（https://www.gminsights.com/industry-analysis/gan-substrate-market）
+  - 「Gallium Nitride ( GaN ) Substrates Market Size at 11.75 ... — Gallium Nitride ( GaN ) Substrates Market Size at 11.75 ... MSE Supplies https://www.msesupplies.com > news」（https://www.msesupplies.com/blogs/news/gallium-nitride-gan-substrates-market-size-at-11-75-growth-rate-from-2017-to-2022?srsltid=AYCX9vKD5Hi-ljMKSPlz3b0W1m9vg3e7CiPE5Gf_5rZT6OlGefMumz6x）
+  - 「GaN Substrate Market Size , Share, Trends & Sales Report -2036 — GaN Substrate Market Size , Share, Trends & Sales Report -2036 transparencymarketresearch.com https://www.transparencymarketresearch.com > ...」（https://www.transparencymarketresearch.com/gan-substrate-market.html）
+  - 「Gallium Nitride Substrates Market Trends, Growth, 2026 — Gallium Nitride Substrates Market Trends, Growth, 2026 Stratview Research https://www.stratviewresearch.com > ...」（https://www.stratviewresearch.com/market-reports/Gallium-Nitride-Substrates-Market.html）
+  - 「Gallium Nitride ( GaN ) Substrates Market : Size, Forecast 2031 — Gallium Nitride ( GaN ) Substrates Market : Size, Forecast 2031 Knowledge Sourcing Intelligence https://www.knowledge-sourcing.com > ...」（https://www.knowledge-sourcing.com/report/gallium-nitride-substrates-market）
+  - 「Vertical Semiconductor raises $11m for development of GaN ... — Vertical Semiconductor raises $11m for development of GaN ... Data Center Dynamics https://www.datacenterdynamics.com > ...」（https://www.datacenterdynamics.com/en/news/vertical-semiconductor-raises-11m-for-development-of-gan-transistors/）
+
+## 酸化ガリウム（gallium oxide）
+- 文脈：次世代パワー半導体
+- 市場規模：
+  - 「酸化ガリウム市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「世界の酸化ガリウム市場規模は、2025年には27億米ドルと評価され、2026年の40億4000万米ドルから2034年には1021億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は49.73%となる見込みです」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「2024年の市場規模」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「2033年予測市場規模」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場規模は、2026年には40億4000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）49.73%で成長し、2034年には1021億3000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）49.73%で成長すると予測されています」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「電子用酸化ガリウムの世界市場（2026年～2032年）、市場規模（4N、5N、その他）・分析レポートを発表 | NEWSCAST」（https://newscast.jp/news/2255049）
+  - 「電子用酸化ガリウムの世界市場（2026年～2032年）、市場規模（4N、5N、その他）・分析レポートを発表」（https://newscast.jp/news/2255049）
+  - 「資料には、電子用酸化ガリウムの世界市場規模、市場動向、セグメント別予測（4N、5N、その他）、関連企業の情報などが盛り込まれています」（https://newscast.jp/news/2255049）
+  - 「世界の電子用酸化ガリウム市場規模は、2025年の1,234万米ドルから2032年には1億400万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）36.2%で成長すると見込まれています」（https://newscast.jp/news/2255049）
+  - 「米国における電子用酸化ガリウム市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/2255049）
+  - 「中国における電子用酸化ガリウム市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/2255049）
+- 成長率：
+  - 「酸化ガリウム市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「世界の酸化ガリウム市場規模は、2025年には27億米ドルと評価され、2026年の40億4000万米ドルから2034年には1021億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は49.73%となる見込みです」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「年平均成長率（2025年～2033年）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は、2024年にガリウム酸化物産業で最大のシェア（50.0%）を占め、予測期間中に大幅な拡大が見込まれる世界最大の市場シェア地域です」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「このプロジェクトは、ニューヨーク州ローマにある同社の施設で実施され、年間少なくとも1トンの4Nグレードガリウムを生産できる量産体制へと拡大される予定だ」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場規模は、2026年には40億4000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）49.73%で成長し、2034年には1021億3000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）49.73%で成長すると予測されています」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「世界の電子用酸化ガリウム市場規模は、2025年の1,234万米ドルから2032年には1億400万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）36.2%で成長すると見込まれています」（https://newscast.jp/news/2255049）
+  - 「米国における電子用酸化ガリウム市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/2255049）
+  - 「中国における電子用酸化ガリウム市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/2255049）
+  - 「欧州における電子用酸化ガリウム市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です」（https://newscast.jp/news/2255049）
+  - 「第4章には、2021年から2026年までの世界市場の歴史的レビューが収録されており、地域別および国/地域別の年間販売量と収益データを提供し、米州、APAC、欧州、中東・アフリカにおける販売成長率を概観しています」（https://newscast.jp/news/2255049）
+- 主要企業：
+  - 「酸化ガリウム市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「また、電子用酸化ガリウムのポートフォリオと能力、市場参入戦略、市場における地位、地理的な事業展開に焦点を当て、世界の主要企業の戦略を分析し、成長著しい世界の電子用酸化ガリウム市場における各社の独自の地位をより深く理解することを目的としています」（https://newscast.jp/news/2255049）
+  - 「主要メーカーの生産拠点分布、販売地域、提供製品の種類、市場集中度（CR3、CR5、CR10）、新規参入企業、M&A活動と戦略についても触れています」（https://newscast.jp/news/2255049）
+  - 「第13章には、主要企業（5N Plus、Indium Corporation、Fomos-Materials、Materion、Kojundo Chemical Laboratory、Vital Materials、Nippon Rare Metal、Yamanaka Hutechなど）の詳細な分析が収録されており、各社の会社情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主要事業概要、最新動向などが網羅されています」（https://newscast.jp/news/2255049）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「電気自動車、再生可能エネルギー、航空宇宙、防衛、産業オートメーション、通信などの分野への市場参入、幅広いバンドギャップ、高故障電圧、および酸化ガリウムのエネルギー効率への供給 パワー半導体、急速EV充電、スマートグリッドソリューション、5G / 6Gインフラストラクチャ、および洗練された産業用電子機器の需要が高まっています」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「主要企業リスト」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「また、主要生産地域、消費地域、及び主要企業の生産・消費の観点から、市場動向を深く理解し、企業が新規市場の開拓や競争力強化に向けた戦略を立てるための有益な情報を提供します」（https://www.atpress.ne.jp/news/8908224）
+  - 「３.中国市場の会社別データ：中国の酸化ガリウムパワーデバイス市場における主要企業の売上、価格、市場シェア、業界ランキングに関するデータを提供します」（https://www.atpress.ne.jp/news/8908224）
+  - 「第10章：会社概要、製品仕様、アプリケーション、最近の発展状況、販売量、平均価格、売上、粗利益率などについて、市場における主要企業の基本状況を詳しく紹介する」（https://www.atpress.ne.jp/news/8908224）
+  - 「スキン効果電気伴熱システムの日本市場動向と産業構造：主要企業・成長率・リスク要因2026-2032」（https://www.atpress.ne.jp/news/8908224）
+  - 「一方で、中国メーカーの新規参入が進み、価格競争の激化が予想されるとした」（https://eetimes.itmedia.co.jp/ee/articles/2605/01/news067.html）
+  - 「生産効率が高められる6インチSiCウエハーの本格投入が動き始めており、2017年以降は、参入各社が販売に注力するとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「SiC-SBD（ショットキー・バリア・ダイオード）は、2016年に参入企業の増加と製品ラインアップの拡大が進んだことにより市場は170億円となり、今後も堅調に拡大していくとみられる」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+  - 「今後は中高耐圧領域での製品ラインアップの拡大や参入企業の増加により市場の活性化が期待される」（https://www.fuji-keizai.co.jp/press/detail.html?cid=17026&la=ja）
+- 日本企業：
+  - 「この地域には、中国、日本、韓国などの国々が先頭に立つ半導体メーカーが多数存在します」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「日本レアメタル」（https://newscast.jp/news/2255049）
+  - 「第6章「APAC」には、アジア太平洋地域の国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売と収益、およびタイプ別、用途別の販売状況が網羅されています」（https://newscast.jp/news/2255049）
+  - 「・日本語タイトル：電子用酸化ガリウムの世界市場2026年～2032年」（https://newscast.jp/news/2255049）
+  - 「世界中の政府は、米国におけるCHPSと科学法、EUにおけるチップス法、日本半導体およびデジタル産業戦略、韓国韓国K半導体戦略、インドのセミコンインドプログラム、中国国家集積回路産業投資基金、台湾の半導体産業開発プログラムなど、さまざまな政策を通じた半導体投資およびローカライズの取り組みを推進することにより、市場の成長を促進しています」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「株式会社ノベル・クリスタル・テクノロジーズ、株式会社タムラ、株式会社FLOSFIA、株式会社キマ・テクノロジーズ、株式会社NCTアメリカ、株式会社シンポティクス・テクノロジーズ、ノースロップ・グルマン、株式会社コヒーレント、株式会社TDK、三菱電機、インフィノン・テクノロジーズAG、富士電機株式会社、東京エレクトロン株式会社、日本電信株式会社、その他.」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「2025年11月21日、経済産業省(METI)は、次世代半導体製造を加速し、日本の半導体サプライチェーンを強化する「情報技術推進機構(IPA)」の「情報技術推進機構(情報技術推進機構)」を通じて、100億円を投資することを決定しました」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「アジアパシフィック(中国、日本、インド、APACの残り)」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「日本、中国、韓国、台湾のウェーハ、基材、電子機器部品の製造をはじめ、先進半導体製造業界がリードポジションを捉えています」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「日本は、中国と韓国が先進的なパワー半導体に投資している、二酸化物材料の研究開発と商品化に先立ちます」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「株式会社TDK」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「三菱電機株式会社」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「日本電信電話株式会社」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「アジア太平洋地域：中国、日本、韓国、インド、東南アジア、オーストラリア、その他のアジア太平洋地域」（https://www.atpress.ne.jp/news/8908224）
+  - 「TEL：050-5840-2692（日本）；0081-5058402692（グローバル）」（https://www.atpress.ne.jp/news/8908224）
+- 上位シェア：
+  - 「酸化ガリウム市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「酸化ガリウム市場の規模、シェア、トレンド分析レポート：技術別（分子線エピタキシー、化学気相成長法、化学合成法、熱蒸着・昇華法、その他）、用途別（電力・高電圧デバイス、エレクトロルミネッセンスデバイス、ガスセンサー、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は、2025年に42.6%の市場シェアを占め、酸化ガリウム市場を牽引しました」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は酸化ガリウム産業を牽引し、2024年には50％のシェアを占めた」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は、2024年にガリウム酸化物産業で最大のシェア（50.0%）を占め、予測期間中に大幅な拡大が見込まれる世界最大の市場シェア地域です」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は、2023年に世界市場で重要な地位を占めました」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「2025年の酸化ガリウム市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「アジア太平洋地域は2025年に42.6%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「売上高ベースでは、世界最大手2社が2025年には約%のシェアを占める見込みです」（https://newscast.jp/news/2255049）
+  - 「また、4N、5N、その他といったタイプ別の販売、収益、価格、市場シェア、および半導体、光電子、太陽エネルギー、その他といった用途別の販売、収益、価格、市場シェアについても詳細に分析しています」（https://newscast.jp/news/2255049）
+  - 「第3章では、企業別の世界市場データに焦点を当て、各企業の年間販売量、市場シェア、年間収益、販売価格を2021年から2026年の期間で分析しています」（https://newscast.jp/news/2255049）
+- 投資：
+  - 「オーストラリアは最大2億米ドルの優遇出資を約束し、両政府は将来のオフテイク権を獲得した」（https://straitsresearch.com/jp/report/gallium-oxide-market）
+  - 「政府の立ち上げには、2025年1月7日、米国商務省が、CHIPS Incentives Programのヘムロック・セミコンダクターに直接出資し、米国のハイパーピュア半導体グレードのポリシリコンコンの生産を拡大しています」（https://www.sphericalinsights.com/jp/reports/gallium-oxide-market）
+  - 「日本国内では、α型を2011年創業の京都大学発ベンチャーであるFLOSFIAが、β型をタムラ製作所などが出資するノベルクリスタルテクノロジーが、基板とデバイスの作成技術を開発しています」（https://www.nepconjapan.jp/hub/ja-jp/blog/blog03.html）
+  - 「CAGR. is emerging as the next frontier in wide-bandgap semiconductor materials, where beta-phase Ga2O3 substrates with a 4.8 eV bandgap offer theoretical performance advantages over silicon carbide in high-voltage power switching applications, attracting R&D investment from defence agencies and power electronics companies positioning for the post-SiC technology generation.」（https://www.factmr.com/report/2027/gallium-oxide-market）
+  - 「High-voltage device prototyping: Beta-Ga2O3 vertical Schottky barrier diodes with breakdown voltages exceeding 2,600V have been demonstrated at AFRL and Kyma Technologies. These prototype devices validate the theoretical voltage handling advantage of the 4.8 eV bandgap and establish the performance benchmarks that justify continued R&D investment [4].」（https://www.factmr.com/report/2027/gallium-oxide-market）
+  - 「The gallium oxide market is experiencing robust growth globally, with the USA leading at an 11.2% CAGR through 2036, driven by expanding semiconductor infrastructure and growing electronics innovation, alongside increasing investment in advanced material technologies and power electronics development.」（https://www.factmr.com/report/2027/gallium-oxide-market）
+  - 「), raising the total number of sanctioned projects to 10. Collectively, these projects reflect an investment commitment of approximately INR 1.60 trillion (」（https://www.rootsanalysis.com/gallium-oxide-power-devices-market）
+  - 「Notably, investment trends in gallium-oxide semiconductor startups are increasing drastically, which is further fueling the market growth. For instance, in August 2025, Netrasemi, a semiconductor startup, raised $12.5 million in its Series A funding round led by Zoho Corporation.」（https://www.rootsanalysis.com/gallium-oxide-power-devices-market）
+  - 「Regional analysis shows Asia-Pacific leading the WBG semiconductor market with approximately 45% share, followed by North America and Europe. China, Japan, and South Korea are making substantial investments in WBG semiconductor manufacturing capabilities, including research into next-generation materials like Ga2O3.」（https://eureka.patsnap.com/report-market-analysis-of-gallium-oxide-in-semiconductor-applications）
+  - 「NextGO Epi, a Berlin-based startup developing Ga₂O₃ epitaxial wafers for next-generation power semiconductor devices, has secured a €2 million pre-seed funding round.」（https://compoundsemiconductor.net/article/124703/Gallium_Oxide_startup_NextGO_Epi_raises_%E2%82%AC2m）
+  - 「NextGO Epi, a Berlin-based deep tech startup spun off from Leibniz-Institut für Kristallzüchtung (IKZ), producing Gallium Oxide epitaxial wafers for next-generation power electronics, has secured a €2 million pre-seed funding round.」（https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/）
+  - 「Graduated with honors in physics in 2017, joined IKZ in late 2017, and has led the "Gallium Oxide Epitaxy" research group since 2019, securing several million in funding.」（https://www.nextgoepi.com/）
+- 検索結果の抜粋：
+  - 「電子用 酸化ガリウム の世界 市場 （2026年～2032年） — 電子用 酸化ガリウム の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news」（https://newscast.jp/news/2255049）
+  - 「酸化ガリウム (Ga2O3) マーケットサイズは2026年から2033年 ... — 酸化ガリウム (Ga2O3) マーケットサイズは2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > 酸化ガリウム-ga2o3-マ...」（https://jp.linkedin.com/pulse/%E9%85%B8%E5%8C%96%E3%82%AC%E3%83%AA%E3%82%A6%E3%83%A0-ga2o3-%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%93%E3%81%AB82%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B-afo9e）
+  - 「酸化ガリウム パワーデバイス 市場 、CAGR12.50%で 成長 し — 酸化ガリウム パワーデバイス 市場 、CAGR12.50%で 成長 し アットプレス https://www.atpress.ne.jp > ... > YH Research株式会社」（https://www.atpress.ne.jp/news/8908224）
+  - 「パワー半導体世界 市場 、2035年は7兆円超え 酸化ガリウム も ... — パワー半導体世界 市場 、2035年は7兆円超え 酸化ガリウム も ... EE Times Japan https://eetimes.itmedia.co.jp > articles > news067」（https://eetimes.itmedia.co.jp/ee/articles/2605/01/news067.html）
+  - 「酸化ガリウム （Ga2O3）半導体の世界 市場 、2034年までの 予測 — 酸化ガリウム （Ga2O3）半導体の世界 市場 、2034年までの 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 電子部品/半導体 > 半導体製造」（https://www.gii.co.jp/report/smrc1933109-gallium-oxide-ga2o3-semiconductor-market-forecasts.html）
+  - 「酸化ガリウム （Ga2O3）はパワー半導体の有望株!?実用化に ... — 酸化ガリウム （Ga2O3）はパワー半導体の有望株!?実用化に ... ネプコン ジャパン https://www.nepconjapan.jp > hub > ja-jp > blog > blog03」（https://www.nepconjapan.jp/hub/ja-jp/blog/blog03.html）
+  - 「酸化ガリウム メーカー13社 注目ランキング【2026年】 — 酸化ガリウム メーカー13社 注目ランキング【2026年】 Metoree https://metoree.com > 化学物質」（https://metoree.com/categories/6765/）
+  - 「【2025年版】半導体関連銘柄10選｜Ga2O3（ 酸化ガリウム ... — 【2025年版】半導体関連銘柄10選｜Ga2O3（ 酸化ガリウム ... 特許スカウター https://patentscouter.com > entry > semiconductor4」（https://patentscouter.com/entry/semiconductor4）
+  - 「Gallium Oxide Market Size , Share & Industry Forecast by 2035 — Gallium Oxide Market Size , Share & Industry Forecast by 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/gallium-oxide-market-23107）
+  - 「Gallium Oxide Market | Global Market Analysis Report - 2036 — Gallium Oxide Market | Global Market Analysis Report - 2036 Fact.MR https://www.factmr.com > report > ga...」（https://www.factmr.com/report/2027/gallium-oxide-market）
+  - 「Global Gallium Oxide Market Analysis and Forecast, 2020- 2025 — Global Gallium Oxide Market Analysis and Forecast, 2020- 2025 Business Wire https://www.businesswire.com > home」（https://www.businesswire.com/news/home/20201230005304/en/Global-Gallium-Oxide-Market-Analysis-and-Forecast-2020-2025-High-Demand-from-Electronics-and-Power-Devices---ResearchAndMarkets.com）
+  - 「Gallium Oxide Market Size, Share & Industry Forecast by 2035 — Gallium Oxide Market Size, Share & Industry Forecast by 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/gallium-oxide-market-23107）
+  - 「Gallium Oxide startup NextGO Epi raises €2m — Gallium Oxide startup NextGO Epi raises €2m Compound Semiconductor https://compoundsemiconductor.net > ...」（https://compoundsemiconductor.net/article/124703/Gallium_Oxide_startup_NextGO_Epi_raises_%E2%82%AC2m）
+  - 「NextGO Epi raises €2m for Gallium Oxide development — NextGO Epi raises €2m for Gallium Oxide development Electronics Weekly https://www.electronicsweekly.com > ...」（https://www.electronicsweekly.com/news/business/epi-raises-e2m-for-gallium-oxide-development-2026-07/）

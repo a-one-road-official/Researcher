@@ -1,0 +1,2025 @@
+{
+ "name": "グリーンスチール",
+ "en": "green steel",
+ "aliases": [
+  "グリーン鉄",
+  "水素還元製鉄",
+  "低炭素鋼"
+ ],
+ "context": "9 マテリアル ②グリーン鉄",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:57:23.303814+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーン鋼市場は、2025年には628億4000万米ドルと評価され、2026年の714億6000万米ドルから2034年には1999億米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は13.72%です",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のグリーン鋼市場は、2025年には地域別で最大の36.84%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のグリーン鋼市場は、世界最大の鉄鋼生産国としての地位と、低炭素製鉄への移行加速を背景に、2025年には143億7000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのグリーン鉄鋼市場は、鉄鋼生産能力の拡大と持続可能な製造業への投資増加を背景に、2025年には39億7000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のグリーン鉄鋼市場は、先進的な製鉄技術による重工業の脱炭素化への取り組みを背景に、2025年には34億3000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のグリーン鋼市場は、予測期間中に年平均成長率（CAGR）16.42%で成長すると予想されており、地域別では最も速い成長率を示すと見込まれています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のグリーン鋼市場は、産業の脱炭素化への取り組みの強化と、自動車およびインフラ部門による低炭素鋼の調達増加を背景に、2025年には115億7000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのグリーン鉄鋼市場は、豊富なクリーン電力資源と低排出鉄鋼生産への投資拡大に支えられ、2025年には20億5000万米ドル規模に達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン鋼市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）13.72%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析（日本、中国、アジアなど）",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析(Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030)]について",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ潤滑剤の世界市場（2025~2030）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "遠心ポンプの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "ドロマイトの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "石灰石の世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "特殊印刷消耗品の世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "The global green steel market size was estimated at USD 718.30 billion in 2024 and is projected to grow at a CAGR of 6.0% from 2025 to 2030.This growth is significantly driven by the increasing demand for sustainable manufacturing practices and the reduction of carbon footprints in the steel industry.",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "• Production Technology Outlook (Volume, Kilotons; Revenue, USD Billion, 2018 - 2030)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "• End-use Outlook (Volume, Kilotons; Revenue, USD Billion, 2018 - 2030)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "• Regional Outlook (Volume, Kilotons; Revenue, USD Billion, 2018 - 2030)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "4.3.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "4.4.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "5.2.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "5.4.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "5.5.1. Market estimates and forecasts, 2018 - 2030 (Kilotons) (USD Billion)",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場規模と予測 - 2025 へ 2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のグローバル市場は、その効率性と汎用性を支持しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プロセス型インサイト(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユース業界インサイト(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域洞察(Revenue、USD Bn、2020 - 2032)",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のUSD 6.95 Bnでグリーンスチール市場が評価され、2032年までのUSD 189.82 Bnに達すると予想される",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share | CAGR of 24.0%",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 276.9 billion",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2378.3 billion",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 110.22 Billion.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2–2.4 billion tonnes",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 276.9",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "billion in 2025.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2378.3",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "billion by 2035.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "1,849 million",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "1,718.2 million",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "75 billion tonnes",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Growth Report, 2026-2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025: USD 573.0 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated market size in 2026: USD 604.3 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Projected market size by 2033: USD 1,312.0 Billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2023,Midrex Technologies, Inc., a subsidiary of Kobe Steel, is set to provide and erect the MIDREX Flex reduction facility for ThyssenKrupp Steel Europe AG at their Duisburg location in Germany. This installation is expected to boast an annual production capability of 2.5 million tons.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market size in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "USD 573.0 billion",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーン鋼市場は、2025年には628億4000万米ドルと評価され、2026年の714億6000万米ドルから2034年には1999億米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は13.72%です",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月、ボストン・メタル社は、溶融酸化物電解プラットフォームの継続的な規模拡大と、マサチューセッツ州における排出ガスゼロの鉄鋼生産のための多不活性陽極工業用電解槽の稼働を支援するため、転換社債による投資を確保した",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "（H-DRI）セグメントは、鉄鉱石還元工程から化石燃料を完全に排除しようとする世界的な積極的な取り組みに後押しされ、予測期間中に年平均成長率（CAGR）15.65%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン水素分野は、冶金用石炭に代わるゼロエミッション削減剤としての重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）16.12%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "The global green steel market size was estimated at USD 718.30 billion in 2024 and is projected to grow at a CAGR of 6.0% from 2025 to 2030.This growth is significantly driven by the increasing demand for sustainable manufacturing practices and the reduction of carbon footprints in the steel industry.",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "→Grand View Research社はグリーンスチールの世界市場が2025年～2030年に年平均6.0%成長すると展望しています",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに、化合物の年間成長率を示す",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "60.4%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年2月、日産自動車株式会社 低COの使用拡大を決定",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share | CAGR of 24.0%",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025 - 2035",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.0%,",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 24.0%",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 11.7%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 11.7% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million, Volume in Kilotons and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The green steel market is expected to grow at a CAGR of 11.7% from 2026 to 2033 to reach USD 1,312.0 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is anticipated to register the fastest CAGR of 12.5% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market size was valued at $ 6.28 Billion in 2025 & is estimated to reach $ 212.39 Billion by 2033, exhibiting a CAGR of 55.29% from 2026-2033",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2033)",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Green Steel Market is growing at a CAGR of 33.5% over the forecasted period 2025 - 2033.",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2025 and is expected to grow at the fastest CAGR of 21.29% during the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, Asia Pacific dominated the green steel market with a share of 44% in 2025 and is expected to grow at a CAGR of 22.80% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, North America held 16% market share in the green steel market in 2025 and is expected to experience the fastest growth with a CAGR of 24.70% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the construction segment dominated the market with a 41% share in 2025 and is expected to grow at a CAGR of 20.90% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the automotive segment held 25% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.60% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the building materials segment dominated the market with a 39% share in 2025 and is expected to grow at a CAGR of 20.80% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the transportation segment held 24% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.10% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By production method, the electric arc furnace segment dominated the market with a 36% share in 2025 and is expected to grow at a CAGR of 20.70% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By production method, the hydrogen reduction segment held 23% market share in 2025 and is expected to have the fastest growth with a CAGR of 28.50% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, the steel segment dominated the market with a 38% share in 2025 and is expected to grow at a CAGR of 20.60% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, the flat steel segment held 22% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.30% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the smart manufacturing segment dominated the market with a 27% share in 2025 and is expected to grow at a CAGR of 23.60% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the digital twin technology segment held 14% market share in 2025 and is expected to have the fastest growth with a CAGR of 25.40% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to Towards Chemicals and Materials Analytics and Consulting, the global green steel market volume was valued at 49.66 million metric tons in 2025 and is expected to surpass around 548.49 million metric tons by 2035, accelerating a compound annual growth rate (CAGR) of 27.15% over the forecast period from 2026 to 2035.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Energy Monitor report reveals that the global steel industry is doubling down on coal infrastructure, allowing new coal-based capacity to heavily outpace plant retirements. Despite highly publicized green steel initiatives, 319 million tonnes per annum of traditional blast furnace capacity is currently announced or under construction globally, marking a 5% increase year-over-year.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "is estimated to be valued at USD 4.16 billion by the end of 2024, with a high revenue CAGR of 48.82% over the forecast period.",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Green steel Market Size was estimated at 3.6 USD Billion in 2024. The Green steel industry is projected to grow from 5.3 USD Billion in 2025 to 236.6 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 46.3% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "The Green steel Market is projected to grow at a remarkable 46.3% CAGR from 2025 to 2035, driven by sustainability initiatives, technological advancements, and regulatory support.",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the green steel market from 2025 to 2035 is 46.3%.",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "The global green steel market size was accounted for USD 5.92 billion in 2025 and is predicted to increase from USD 9.21 billion in 2026 to approximately USD 404.86 billion by 2035, growing at a CAGR of 52.58% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 52.58%",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The electric arc furnaces sector is anticipated to grow at the highest CAGR from 2026 to 2035. This is due to the fact that the electric arc furnace efficiently decreases the energy needed to manufacture green steel, planning to make it widely accepted as a method of manufacturing carbon-free steel.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. green steel market size was evaluated at USD 2.40 billion in 2025 and is predicted to be worth around USD 167.10 billion by 2035, rising at a CAGR of 52.85% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is expected to grow at the fastest rate in the market during the forecast period, due to decarbonization targets, government policies, and the rising industrial and urban demand for green steel. In February 2025, Australia launched a green iron fund of $636 million to support green steel work and boost its development.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global green steel market?",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global green steel market is poised to grow at a CAGR of 52.58% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at CAGR of",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, representing a robust compound annual growth rate of",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 14.2% | USD Billion",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2034, reflecting accelerating decarbonization across industrial supply chains.",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン鋼市場の規模、シェア、トレンド分析レポート：生産技術別（電気アーク炉（EAF）、水素直接還元鉄（H-DRI）、二酸化炭素回収・貯留（CCS）統合）、エネルギー源別（グリーン水素、再生可能電力）、エンドユーザー別（自動車、建設、機械・設備、再生可能エネルギーインフラ）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に36.84%の市場シェアを占め、グリーン鋼市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気アーク炉（EAF）セグメントは、その高い効率性、鉄スクラップの広範な利用、再生可能エネルギーによる直接給電が可能であることから、2025年には市場シェアの51.48%を占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車分野は、厳しい排出削減目標と、自動車業界による積極的なカーボンニュートラルな車両ライフサイクルの追求に支えられ、2025年には44.25%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のグリーン鋼市場は、2025年には地域別で最大の36.84%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のグリーン鋼市場において、どの地域が最大のシェアを占めるでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に36.84%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄筋市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "ジルコニウム管市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析（日本、中国、アジアなど）",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析(Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030)]について",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "バイオ潤滑剤の世界市場（2025~2030）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "遠心ポンプの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "ドロマイトの世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "石灰石の世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "特殊印刷消耗品の世界市場（2025年~2030年）：市場規模、シェア、動向分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "心臓アブレーションの世界市場：主要企業の市場シェア2026年",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン・スチール市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェアは、軽量で丈夫なスチールグレードの需要が持続するためです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年シェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、軽量・強靭な鋼材の需要が持続するためシェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年シェア ドイツ、イタリア、フランス、スペインなどの主要国に於ける堅牢な製鋼産業の足跡があります",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プロセスタイプの面では、電気アーク炉(EAF)は2025年の市場収益分配をdominateと推定されます",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "share of the market in 2025.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "point spread above conventional industrial lending rates to underwrite technology execution risk, hydrogen supply price risk, and offtake concentration risk in long-term green steel contracts, pushing weighted average cost of capital for project finance to 9–13% in Europe versus 6–8% for equivalent BF-BOF brownfield capex.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The green steel market structure for low-carbon steel is divided between adapting industrial heavyweights and specialized, ground-up greenfield producers. Tier 1 companies like ArcelorMittal, Nucor, Nippon Steel, and POSCO dominate early volume by retrofitting blast furnaces, scaling renewable-powered Electric Arc Furnaces, and developing hydrogen technologies.",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By production technology: Electric arc furnace segment held the largest market share of 51.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use: Automotive & transportation segment held the largest market share of 47.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific region dominated the green steel market with a revenue share of 40.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "China dominated the Asia Pacific region market with a revenue share of 74.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on production technology, the electric arc furnace segment accounted for largest revenue share of 51.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end-use, the automotive & transportation segment accounted for largest revenue share of 47.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3 Structural Growth Drivers",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "*This data will be provided for Top 3 market players*",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of Type, Hydrogen-Based Direct Reduced Iron (H2-DRI) is dominating the market in the year 2024",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "On the basis of application, Automotive & Transportation segment is dominating the market in the year 2024 where as Construction segment stood as second largest market .",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.1 Global Green Steel Market Concentration Ratio",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.1.2 % Market Share - Top 3",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.1.3 Market Holding by Top 5",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Green Steel market study is conducted on basis of 200+ companies (leaders as well as emerging regional players) dealing in the market with purpose to understand company’s market positioning by value, sales volume and their market share at global and/or regional level.",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific region have seen second highest market share in 2024 for Global Green Steel Market.",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2025 and is expected to grow at the fastest CAGR of 21.29% during the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, Asia Pacific dominated the green steel market with a share of 44% in 2025 and is expected to grow at a CAGR of 22.80% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By region, North America held 16% market share in the green steel market in 2025 and is expected to experience the fastest growth with a CAGR of 24.70% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the construction segment dominated the market with a 41% share in 2025 and is expected to grow at a CAGR of 20.90% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the automotive segment held 25% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.60% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the building materials segment dominated the market with a 39% share in 2025 and is expected to grow at a CAGR of 20.80% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use, the transportation segment held 24% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.10% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By production method, the electric arc furnace segment dominated the market with a 36% share in 2025 and is expected to grow at a CAGR of 20.70% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By production method, the hydrogen reduction segment held 23% market share in 2025 and is expected to have the fastest growth with a CAGR of 28.50% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, the steel segment dominated the market with a 38% share in 2025 and is expected to grow at a CAGR of 20.60% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, the flat steel segment held 22% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.30% in the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "By technology, the smart manufacturing segment dominated the market with a 27% share in 2025 and is expected to grow at a CAGR of 23.60% over the forecast period.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "既存企業は、広範なグローバル事業展開、脱炭素化への巨額の設備投資、主要企業パートナーとの長期オフテイク契約を通じて競争力を維持している",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1. 主要市場参入企業別の最新動向と影響分析",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "心臓アブレーションの世界市場：主要企業の市場シェア2026年",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "7.1. 主要市場参入企業別の最新動向と影響分析",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 7. Competitive Landscape",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "・世界のグリーンスチール市場における主要プレイヤーは？",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "→「ArcelorMittal、China BaoWu Steel Group Corporation Limited、Emirates Steel Arkan、Nippon Steel Corporation、Nucor Corporation、Outokumpu、Salzgitter AG、SSAB、Tata Steel、thyssenkrupp AG、voestalpine AGなど ...」をグリーンスチール市場のグローバル主要プレイヤーとして判断しています",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "※上記FAQの市場規模、市場予測、成長率、主要企業に関する情報は本レポートの概要を作成した時点での情報であり、最終レポートの情報と少し異なる場合があります",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players In The Industry",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "ArcelorMittal, Nucor Corporation, Nippon Steel Corporation, POSCO, JFE Steel Corporation, JSW Steel, H2 Green Steel, Liberty Steel Group, HBIS Group, Boston Metal, Emirates Steel Arkan, Tenaris, Tata Steel, Salzgitter AG, Thyssenkrupp Steel, Other Key Players",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include ArcelorMittal, SSAB, and ThyssenKrupp AG.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Competitive Landscape Assessment",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global green steel market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the green steel market are SSAB, ArcelorMittal, thyssenkrupp AG, Nucor Corporation, Outokumpu, voestalpine AG, Emirates Steel Arkan, Nippon Steel Corporation, China BaoWu Steel Group Corporation Limited, Salzgitter AG, Tata Steel; and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Consolidation trends are emerging as larger players acquire smaller startups to integrate cutting-edge technologies and expand capacity.",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Private equity and venture capital investing heavily in green steel startups and innovations.",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "platforms, where material performance and sustainability credentials are critical. The competitive landscape is influenced by industry standards, certification processes, and the strategic alliances forged between automakers and steel suppliers to secure green material sourcing.",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key players in the Green Steel Market?",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading Players in the market are Green Steel Group, H2 Green Steel, Deutsche Edelstahlwerke Services, Tata Steel, Hydrogen Breakthrough Ironmaking Technology, Arcelor Mittal, Emirates Steel, Jindal Steel and Power, Thyssenkrupp, China Baowu Steel Group.",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANIES PROFILED",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key players in Green Steel Market?",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Top key Companies Analysis 2026 to 2035",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players: SSAB, H2 Green Steel, ArcelorMittal, thyssenkrupp Steel.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 7: Who are the top key players in the green steel market?",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wax Melts Market Trends, Leading Companies, Company Revenue / Sales Performance, Plant Utilization, Production Volume, Pricing Dynamics, Supply Chain Performance, Competitive Landscape, and Industry Growth",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Pipe Coatings Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Flat Glass Coatings Market Trends, Leading Companies, Company Revenue / Sales Performance, Plant Utilization, Production Volume, Pricing Dynamics, Supply Chain Performance, Competitive Landscape, and Industry Growth",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Refinish Coating Market Size, Key Companies, Company Production Capacity, Manufacturing Efficiency, Capacity Utilization, Raw Material Consumption, Cost Structure, Export Trends, Company Expansion Strategies, and Competitive Landscape",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and company intelligence",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the top 10 green steel companies revolutionizing the steel industry in 2024. Explore key players driving innovation, sustainability, and carbon reduction in steel production.",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Green steel Market include",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the green steel market?",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the green steel market include SSAB, ArcelorMittal, Tata Steel, Nucor Corporation, Thyssenkrupp AG, POSCO, Cleveland-Cliffs Inc., Salzgitter AG, and Hyundai Steel.",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Key Companies, Company Market Share, Production Capacity, Raw Material Pricing, Export & Import Analysis, Manufacturing Cost, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the green steel market?",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the green steel market are Deutsche Edelstahlwerke, SSAB, Salzgitter AG, JSW Steel, ArcelorMittal, H2GreenSteel, Hesteel Group, Liberty Steel Group, Nucor, Voestalpine and Others.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape with advanced low-carbon technologies",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape for green steel is characterized by consolidation around major global steelmakers with sufficient capital, geographic scale, and technology capabilities to undertake billion-dollar investments in low-carbon production infrastructure.",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "グリーン鉄鋼市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、ステグラ社は、スウェーデンのボーデンに建設中の大規模なグリーン製鉄所の建設を完了させるため、ウォレンバーグ・インベストメンツが主導する大規模な資金調達ラウンドを完了した",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月、グリーン製鉄スタートアップ企業のElectraは、低品位鉄鉱石を高純度鉄に精製する低温電気化学プロセスの商業化を加速させるため、シリーズB資金調達ラウンドを実施した",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月、GravitHyは、フランスのフォス＝シュル＝メールに建設予定の年間200万トンの直接還元鉄製鉄所の設計および許認可手続きを進めるため、マルセガリアやリオ・ティントなどの戦略的投資家からの支援を受けたシリーズA資金調達ラウンドを発表した",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "According to the International Energy Agency (IEA, 2025), the steel industry is expected to require significant investment in low-emissions production technologies through 2050 as global steel demand continues to grow, with industry forecasts projecting",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "DIW Berlin’s study on investment costs for green steel finds that FOAK H₂-DRI projects systematically run 20–35% above initial feasibility-stage CapEx estimates, driven by three compounding cost vectors: electrolyzer system lead times of",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024, ArcelorMittal launched the XCarb Program, which focuses on achieving carbon-neutral steel production by leveraging innovative technologies and increasing the use of renewable energy sources. The initiative includes investments in hydrogen-based steelmaking and partnerships with key industry stakeholders to advance sustainable steel production.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global Investment Flow for Green Steel Market 2026",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2026, Tata Steel signed a formal Letter of Intent and Memorandum of Understanding with the Government of Jharkhand at the World Economic Forum in Davos to deploy ₹11,100 crore ($1.22 billion) in advanced green steel technologies. The investments mark a major milestone in transitioning Indias heavy industry away from traditional fossil-reliant blast furnaces.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2026, the Swedish green steel startup Stegra (formerly H2 Green Steel) secured a massive €1.4 billion ($1.7 billion) equity investment from an investor consortium led by the prominent Wallenberg family. This major capital injection provides a critical financial lifeline to complete the construction of its flagship, hydrogen-based greenfield steel plant in northern Sweden.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, in December 2025, ArcelorMittal France launched its €500 million ($545 million) electrical steel production unit at its industrial plant in Mardyck, near Dunkirk. Representing the companys largest capital investment in Europe over the last decade, the advanced complex has successfully rolled its first commercial coils.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, in October 2025, Stahl-Holding-Saar (SHS) secured €1.7 billion ($1.85 billion) in funding to officially launch its massive green hydrogen steelmaking initiative, the Power4Steel project, in Saarland.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, in February 2026, the German Federal Ministry for Economic Affairs and Energy (BMWK) confirmed €322 million in additional state funding for Salzgitter AG’s primary green steel transformation program, the SALCOS (Salzgitter Low CO₂-Steelmaking) project.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Swedish green steel firm Stegra announced a new €975 million ($1.1 billion) funding round, aiming to finish building what will be the world’s first large-scale green steel plant. Situated in Boden, northern Sweden, the plant will use renewable hydrogen to substitute coal in steel manufacturing, a sector thats particularly challenging to decarbonize.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominates the global green steel market with a 44% market share, supported by large-scale steel production, government policies, renewable energy investments, and hydrogen-based steelmaking initiatives.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "VC (+1-784)",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the global green steel market with the largest market share of 58% in 2025. North America is also a hugely profitable market in the region for green steel. The green steel industry in the United Kingdom has grown in recent years as a result of rising investments and offtake partnerships among new companies to meet new business strategies.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. industry for green steel is experiencing remarkable growth, owing to strategic corporate investments, significant federal funding, policy support, and global leadership. In March 2024, the Biden Administration, the U.S., launched a new initiative of up to $1 billion for two revolutionary green steel projects.",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "positioning investments in EAF technology and renewable energy procurement agreements. Japan's commitment to carbon neutrality by 2050 has accelerated",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share by 2034, offer a scalable path for virgin steel production from iron ore, critical for meeting future demand growth, though requiring significant infrastructure investment in green hydrogen production and distribution. The \"Others\" category, including direct reduced iron (DRI) with renewable energy and biomass-based reduction methods, accounts for",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025. This process utilizes green hydrogen produced from renewable electricity via electrolysis to reduce iron ore, eliminating carbon dioxide emissions in the reduction stage while requiring substantial capital investment and reliable hydrogen supply infrastructure.",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "in cumulative capital deployment through 2034. Green hydrogen production infrastructure investment, critical for hydrogen-based steel production scaling, represents an estimated",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe was the top performer in the Green steel market by occupying 35.4% of the share in 2025, with the stringent emission regulations and high renewable energy penetration. Countries like Germany and Sweden are incentivizing hydrogen-based steel projects, and investments in green steel infrastructure have increased by 22% over the past three years.",
+    "url": "https://www.marketdataforecast.com/market-reports/green-steel-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グリーンスチール市場規模、シェア、成長 | 2034 年の予測レポート — Oct 12, 2026 · 世界のグリーンスチール市場規模は、予測期間中のCAGR 55.6%で、2026年の774億6000万ドルから2034年までに1,290億8000万ドルに成長すると予測されています。",
+    "url": "https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場規模・シェアおよび2031年成長トレンドレポート — Oct 5, 2026 · グリーンスチール市場は2026年に14.13 ビリオン 米ドル規模となり、CAGRが47.78%で成長し、2031年までに99.58 ビリオン 米ドルに達する見込みです。 ArcelorMittal、SSAB、Stegra、Salzgitter AG、thyssenkrupp Steel Europeがこの市場で事業を展開する主要企業です。",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場 2026-2035 |規模、シェア、予測 — Sep 21, 2026 · グリーンスチール市場は、2026年の2,332億8,000万米ドルから2035年までに4,665億6,000万米ドルまで、8%のCAGRで増加すると予測されています。",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/green-steel-market-119950",
+    "pass": 3
+   },
+   {
+    "quote": "2035 年のグリーンスチール市場規模と動向 — Sep 5, 2026 · グリーンスチール市場レポートの概要 世界のグリーンスチール市場規模は、2025年に65億4,224万米ドルと評価され、2026年の10億3,804万米ドルから2035年までに40億7,9189万米ドルに成長すると予測されており、予測期間中に58.02%のCAGRを示します。",
+    "url": "https://www.globalmarketstatistics.com/jp/market-reports/green-steel-market-11638",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場 | 市場規模 業界分析 予測 2034年 【市場調査レ... — Apr 6, 2026 · Stratistics MRCによると、世界のグリーンスチール市場は2026年に98億米ドル規模となり、予測期間中にCAGR 16.3％で成長し、2034年までに329億米ドルに達すると見込まれています。",
+    "url": "https://www.gii.co.jp/report/smrc2007926-green-steel-market-forecasts-global-analysis-by.html",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動... — レポートの概要 グリーンスチールの市場規模と動向 世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています。",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "pass": 3
+   },
+   {
+    "quote": "世界のグリーンスチール市場（2025-2030）：生産技術別（EAF、水素ベ... — The global green steel market size was estimated at USD 718.30 billion in 2024 and is projected to grow at a CAGR of 6.0% from 2025 to 2030.This growth is significantly driven by the increasing demand for sustainable manufacturing practices and the reduction of carbon footprints in the steel industry.",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場規模、シェア、成長 | 2034 年の予測レポート — Oct 12, 2026 · 北米が優勢だった グリーンスチール市場 2025 年には市場シェアが 28% になると予想されます。 基本的に、化石燃料を一切使用せずに製造される鉄鋼はグリーンスチールと呼ばれます。",
+    "url": "https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場規模と成長、予測 [2025-2034] — Aug 28, 2026 · 世界のグリーンスチール市場規模は、2025 年に 239 億 5,000 万米ドルと推定され、2034 年までに 708 億 1,000 万米ドルに拡大し、CAGR 11.45% で成長すると予想されています。",
+    "url": "https://www.marketreportsworld.com/jp/market-reports/green-steel-market-14714449",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンスチール市場の動向 |競争市場分析 2035 | WiseGuyReports — 主要な市場動向に関する洞察 世界のグリーンスチール市場は、環境規制が強化され、持続可能な製品への需要が増加するにつれて、2025から2035まで15.5%のCAGRで急速に成長すると予測されています。",
+    "url": "https://www.wiseguyreports.com/ja/reports/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "緑の鋼鉄市場のサイズ、共有及び機会 2025-2032 — Mar 30, 2026 · 大手鋼の消費産業は、低炭素鋼の品種の強い好みを表明し、自社製品のカーボンフットプリントを下げています。 持続可能性は重要な差別化要因となり、建設、自動車、製造部門のグリーン鋼種に対する市場需要は長期的に大きく成長する見込みです。",
+    "url": "https://www.coherentmarketinsights.com/ja/グリーンスチール市場",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share | CAGR of 24.0% — Green Steel Market size is expected to be worth around USD 2378.3 Billion by 2035 from USD 276.9 Billion in 2025, at a CAGR of 24.0%",
+    "url": "https://market.us/report/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share, Growth | Forecast Report, 2034Green Steel Market Size, Share & Growth Report, 2026-2033Green Steel Market Size, Share & 2031 Growth Trends ReportGlobal Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share, Growth and Forecast, 2025-2035Green Steel Market Size, Share & Trends | Industry Report 2035 — Oct 12, 2026 · The global green ste",
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Growth Report, 2026-2033 — The global green steel market size was valued at USD 573.0 billion in 2025 and is projected to grow from USD 604.3 billion in 2026 to USD 1,312.0 billion by 2033, at a CAGR of 11.7% from 2026 to 2033. Asia Pacific dominated the green steel market with the largest revenue share of 40.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & 2031 Growth Trends Report — Oct 5, 2026 · The Green Steel Market size was valued at USD 9.56 billion in 2025 and is estimated to grow from USD 14.13 billion in 2026 to reach USD 99.58 billion by 2031, at a CAGR of 47.78% during the forecast period (2026-2031).",
+    "url": "https://www.mordorintelligence.com/industry-reports/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Green Steel Market Size, Industry Share & Forecast ... — Oct 22, 2026 · Green Steel Market size was valued at $ 6.28 Billion in 2025 & is estimated to reach $ 212.39 Billion by 2033, exhibiting a CAGR of 55.29% from 2026-2033",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share, Growth and Forecast, 2025-2035 — Green steel market valued at USD 10.88 billion in 2025, forecast to reach USD 58.60 billion by 2035 at an 18.34% CAGR as border carbon pricing lifts demand.",
+    "url": "https://www.credenceresearch.com/report/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & 2031 Growth Trends Report — Oct 5, 2026 · The green steel market is highly fragmented, with the top five players including ArcelorMittal, SSAB, Stegra, Salzgitter AG, and thyssenkrupp Steel Europe. Their strategies differ between phased electric arc furnace conversion and full route replacement.",
+    "url": "https://www.mordorintelligence.com/industry-reports/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size by Key Business Segments & ApplicationGreen Steel Market Top key Companies Analysis 2026 to 2035Green Steel Market Size, Share, Growth | Forecast Report, 2034Top 10 Companies in Green Steel Market in 2024Green Steel Market Size & Share | Industry Report 2035Green Steel Market Share by Company - LinkedIn — Oct 5, 2026 · Curious to know how market share of key-players or Sale",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Top key Companies Analysis 2026 to 2035 — Sep 21, 2026 · Answer : Asia Pacific dominates the global green steel market with a 44% market share, supported by large-scale steel production, government policies, renewable energy investments, and hydrogen-based steelmaking initiatives.",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share, Growth | Forecast Report, 2034Top 10 Companies in Green Steel Market in 2024Green Steel Market Size & Share | Industry Report 2035Green Steel Market Share by Company - LinkedIn — Oct 12, 2026 · North America dominated the green steel market with a market share of 28% in 2025. Essentially, the steel produced without using any fossil fuel is called green steel. It is ",
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Companies in Green Steel Market in 2024 — Oct 4, 2024 · Green steel companies are reimagining the way steel is produced, using innovative technologies to reduce carbon footprints. This blog highlights the top 10 green steel companies leading this transformation, based on their market share, revenue, innovation, reputation, and environmental impact.",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size & Share | Industry Report 2035 — 3 days ago · North America remains the largest market for Green steel, driven by robust regulatory support and investment in sustainable infrastructure. The Asia-Pacific region is emerging as the fastest-growing market, fueled by rising consumer awareness and demand for eco-friendly products.",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share, Growth | Forecast Report, 2034Green Steel Market Size by Key Business Segments & ApplicationGreen Steel Market Companies, Size & Trends 2026-2035Green Steel Market Size, Share & Forecast Report 2025 to 2034 ...Global Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share & Trends, 2034Green Steel Market Size, Share & Growth Report, 2026",
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size by Key Business Segments & ApplicationGreen Steel Market Companies, Size & Trends 2026-2035Green Steel Market Size, Share & Forecast Report 2025 to 2034 ...Global Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share & Trends, 2034Green Steel Market Size, Share & Growth Report, 2026-2033 — Oct 5, 2026 · The Green Steel market study is conducte",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Companies, Size & Trends 2026-2035Green Steel Market Size, Share & Forecast Report 2025 to 2034 ...Global Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share & Trends, 2034Green Steel Market Size, Share & Growth Report, 2026-2033 — The global green steel market size was accounted for USD 3.80 billion in 2024 and is anticipated to reach around USD",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Forecast Report 2025 to 2034 ...Global Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share & Trends, 2034Green Steel Market Size, Share & Growth Report, 2026-2033 — Asia Pacific commands the largest share of the global green steel market, accounting for 42.3% of revenues in 2025, driven by the region's dominance in steel production ",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "pass": 3
+   },
+   {
+    "quote": "Green Steel Market Size, Share & Trends, 2034 — Asia Pacific Green steel market held 32.2% of the share in 2025, with the rising steel demand in the construction and automotive sectors. China and India are actively investing in green hydrogen and renewable-powered EAF plants.",
+    "url": "https://www.marketdataforecast.com/market-reports/green-steel-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "13.72",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "世界のグリーン鋼市場は、2025年には628億4000万米ドルと評価され、2026年の714億6000万米ドルから2034年には1999億米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は13.72%です"
+   },
+   {
+    "value": "15.65",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "（H-DRI）セグメントは、鉄鉱石還元工程から化石燃料を完全に排除しようとする世界的な積極的な取り組みに後押しされ、予測期間中に年平均成長率（CAGR）15.65%で成長すると予想されています"
+   },
+   {
+    "value": "16.12",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "グリーン水素分野は、冶金用石炭に代わるゼロエミッション削減剤としての重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）16.12%で成長すると予想されています"
+   },
+   {
+    "value": "6.0",
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています"
+   },
+   {
+    "value": "6.0",
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "quote": "世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています"
+   },
+   {
+    "value": "24.0",
+    "url": "https://market.us/report/green-steel-market/",
+    "quote": "Green Steel Market Size, Share | CAGR of 24.0%"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "CAGR of 11.7% from 2026 to 2033"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "Asia Pacific is anticipated to register the fastest CAGR of 12.5% over the forecast period."
+   },
+   {
+    "value": "55.29",
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "quote": "Green Steel Market size was valued at $ 6.28 Billion in 2025 & is estimated to reach $ 212.39 Billion by 2033, exhibiting a CAGR of 55.29% from 2026-2033"
+   },
+   {
+    "value": "33.5",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "quote": "The Green Steel Market is growing at a CAGR of 33.5% over the forecasted period 2025 - 2033."
+   },
+   {
+    "value": "21.15",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2"
+   },
+   {
+    "value": "21.29",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2"
+   },
+   {
+    "value": "22.80",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By region, Asia Pacific dominated the green steel market with a share of 44% in 2025 and is expected to grow at a CAGR of 22.80% over the forecast period."
+   },
+   {
+    "value": "24.70",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By region, North America held 16% market share in the green steel market in 2025 and is expected to experience the fastest growth with a CAGR of 24.70% in the forecast period."
+   },
+   {
+    "value": "20.90",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the construction segment dominated the market with a 41% share in 2025 and is expected to grow at a CAGR of 20.90% over the forecast period."
+   },
+   {
+    "value": "24.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the automotive segment held 25% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.60% in the forecast period."
+   },
+   {
+    "value": "20.80",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the building materials segment dominated the market with a 39% share in 2025 and is expected to grow at a CAGR of 20.80% over the forecast period."
+   },
+   {
+    "value": "24.10",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the transportation segment held 24% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.10% in the forecast period."
+   },
+   {
+    "value": "20.70",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the electric arc furnace segment dominated the market with a 36% share in 2025 and is expected to grow at a CAGR of 20.70% over the forecast period."
+   },
+   {
+    "value": "28.50",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the hydrogen reduction segment held 23% market share in 2025 and is expected to have the fastest growth with a CAGR of 28.50% in the forecast period."
+   },
+   {
+    "value": "20.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the steel segment dominated the market with a 38% share in 2025 and is expected to grow at a CAGR of 20.60% over the forecast period."
+   },
+   {
+    "value": "24.30",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the flat steel segment held 22% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.30% in the forecast period."
+   },
+   {
+    "value": "23.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By technology, the smart manufacturing segment dominated the market with a 27% share in 2025 and is expected to grow at a CAGR of 23.60% over the forecast period."
+   },
+   {
+    "value": "25.40",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By technology, the digital twin technology segment held 14% market share in 2025 and is expected to have the fastest growth with a CAGR of 25.40% in the forecast period."
+   },
+   {
+    "value": "27.15",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "According to Towards Chemicals and Materials Analytics and Consulting, the global green steel market volume was valued at 49.66 million metric tons in 2025 and is expected to surpass around 548.49 million metric tons by 2035, accelerating a compound annual growth rate (CAGR) of 27.15% over the forec"
+   },
+   {
+    "value": "48.82",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "quote": "is estimated to be valued at USD 4.16 billion by the end of 2024, with a high revenue CAGR of 48.82% over the forecast period."
+   },
+   {
+    "value": "46.3",
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "quote": "As per Market Research Future analysis, the Green steel Market Size was estimated at 3.6 USD Billion in 2024. The Green steel industry is projected to grow from 5.3 USD Billion in 2025 to 236.6 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 46.3% during the forecast period 2"
+   },
+   {
+    "value": "52.58",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "quote": "The global green steel market size was accounted for USD 5.92 billion in 2025 and is predicted to increase from USD 9.21 billion in 2026 to approximately USD 404.86 billion by 2035, growing at a CAGR of 52.58% from 2026 to 2035."
+   },
+   {
+    "value": "52.85",
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "quote": "The U.S. green steel market size was evaluated at USD 2.40 billion in 2025 and is predicted to be worth around USD 167.10 billion by 2035, rising at a CAGR of 52.85% from 2026 to 2035."
+   },
+   {
+    "value": "14.2",
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "quote": "CAGR: 14.2% | USD Billion"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.84",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "アジア太平洋地域は、2025年に36.84%の市場シェアを占め、グリーン鋼市場を牽引しました"
+   },
+   {
+    "value": "51.48",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "電気アーク炉（EAF）セグメントは、その高い効率性、鉄スクラップの広範な利用、再生可能エネルギーによる直接給電が可能であることから、2025年には市場シェアの51.48%を占めると予測されています"
+   },
+   {
+    "value": "44.25",
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "quote": "自動車分野は、厳しい排出削減目標と、自動車業界による積極的なカーボンニュートラルな車両ライフサイクルの追求に支えられ、2025年には44.25%のシェアを占める見込みです"
+   },
+   {
+    "value": "13",
+    "url": "https://market.us/report/green-steel-market/",
+    "quote": "point spread above conventional industrial lending rates to underwrite technology execution risk, hydrogen supply price risk, and offtake concentration risk in long-term green steel contracts, pushing weighted average cost of capital for project finance to 9–13% in Europe versus 6–8% for equivalent "
+   },
+   {
+    "value": "8",
+    "url": "https://market.us/report/green-steel-market/",
+    "quote": "point spread above conventional industrial lending rates to underwrite technology execution risk, hydrogen supply price risk, and offtake concentration risk in long-term green steel contracts, pushing weighted average cost of capital for project finance to 9–13% in Europe versus 6–8% for equivalent "
+   },
+   {
+    "value": "51.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "By production technology: Electric arc furnace segment held the largest market share of 51.2% in 2025."
+   },
+   {
+    "value": "47.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "By end-use: Automotive & transportation segment held the largest market share of 47.6% in 2025."
+   },
+   {
+    "value": "40.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "The Asia Pacific region dominated the green steel market with a revenue share of 40.9% in 2025."
+   },
+   {
+    "value": "74.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "quote": "China dominated the Asia Pacific region market with a revenue share of 74.0% in 2025."
+   },
+   {
+    "value": "1.2",
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "quote": "5.1.2 % Market Share - Top 3"
+   },
+   {
+    "value": "21.15",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2"
+   },
+   {
+    "value": "44",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2"
+   },
+   {
+    "value": "21.29",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "The green steel market size was estimated at USD 78.11 billion in 2025 and is projected to grow from USD 94.63 billion in 2026 to approximately USD 532.04 billion by 2035, at a CAGR of 21.15% from 2026 to 2035. Asia Pacific dominated the steel market market with the largest revenue share of 44% in 2"
+   },
+   {
+    "value": "22.80",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By region, Asia Pacific dominated the green steel market with a share of 44% in 2025 and is expected to grow at a CAGR of 22.80% over the forecast period."
+   },
+   {
+    "value": "16",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By region, North America held 16% market share in the green steel market in 2025 and is expected to experience the fastest growth with a CAGR of 24.70% in the forecast period."
+   },
+   {
+    "value": "24.70",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By region, North America held 16% market share in the green steel market in 2025 and is expected to experience the fastest growth with a CAGR of 24.70% in the forecast period."
+   },
+   {
+    "value": "41",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the construction segment dominated the market with a 41% share in 2025 and is expected to grow at a CAGR of 20.90% over the forecast period."
+   },
+   {
+    "value": "20.90",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the construction segment dominated the market with a 41% share in 2025 and is expected to grow at a CAGR of 20.90% over the forecast period."
+   },
+   {
+    "value": "25",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the automotive segment held 25% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.60% in the forecast period."
+   },
+   {
+    "value": "24.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By application, the automotive segment held 25% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.60% in the forecast period."
+   },
+   {
+    "value": "39",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the building materials segment dominated the market with a 39% share in 2025 and is expected to grow at a CAGR of 20.80% over the forecast period."
+   },
+   {
+    "value": "20.80",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the building materials segment dominated the market with a 39% share in 2025 and is expected to grow at a CAGR of 20.80% over the forecast period."
+   },
+   {
+    "value": "24",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the transportation segment held 24% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.10% in the forecast period."
+   },
+   {
+    "value": "24.10",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By end use, the transportation segment held 24% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.10% in the forecast period."
+   },
+   {
+    "value": "36",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the electric arc furnace segment dominated the market with a 36% share in 2025 and is expected to grow at a CAGR of 20.70% over the forecast period."
+   },
+   {
+    "value": "20.70",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the electric arc furnace segment dominated the market with a 36% share in 2025 and is expected to grow at a CAGR of 20.70% over the forecast period."
+   },
+   {
+    "value": "23",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the hydrogen reduction segment held 23% market share in 2025 and is expected to have the fastest growth with a CAGR of 28.50% in the forecast period."
+   },
+   {
+    "value": "28.50",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By production method, the hydrogen reduction segment held 23% market share in 2025 and is expected to have the fastest growth with a CAGR of 28.50% in the forecast period."
+   },
+   {
+    "value": "38",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the steel segment dominated the market with a 38% share in 2025 and is expected to grow at a CAGR of 20.60% over the forecast period."
+   },
+   {
+    "value": "20.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the steel segment dominated the market with a 38% share in 2025 and is expected to grow at a CAGR of 20.60% over the forecast period."
+   },
+   {
+    "value": "22",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the flat steel segment held 22% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.30% in the forecast period."
+   },
+   {
+    "value": "24.30",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By material type, the flat steel segment held 22% market share in 2025 and is expected to have the fastest growth with a CAGR of 24.30% in the forecast period."
+   },
+   {
+    "value": "27",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By technology, the smart manufacturing segment dominated the market with a 27% share in 2025 and is expected to grow at a CAGR of 23.60% over the forecast period."
+   },
+   {
+    "value": "23.60",
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "quote": "By technology, the smart manufacturing segment dominated the market with a 27% share in 2025 and is expected to grow at a CAGR of 23.60% over the forecast period."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4-108711",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/green-steel-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/green-steel-market-119950",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalmarketstatistics.com/jp/market-reports/green-steel-market-11638",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/green-steel-market-14714449",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/green-steel-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/green-steel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/green-steel-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consbrgs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.catnmsplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-green-steel-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/green-steel-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グリーンスチール 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711",
+    "https://www.mordorintelligence.com/ja/industry-reports/green-steel-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/green-steel-market-119950",
+    "https://straitsresearch.com/jp/report/green-steel-market",
+    "https://www.globalmarketstatistics.com/jp/market-reports/green-steel-market-11638",
+    "https://www.gii.co.jp/report/smrc2007926-green-steel-market-forecasts-global-analysis-by.html",
+    "https://www.coherentmarketinsights.com/ja/グリーンスチール市場"
+   ]
+  },
+  {
+   "query": "グリーンスチール 市場 シェア 上位 企業",
+   "results": []
+  },
+  {
+   "query": "グリーンスチール 市場 前年比 2025",
+   "results": [
+    "https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024",
+    "https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/",
+    "https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711",
+    "https://www.marketreportsworld.com/jp/market-reports/green-steel-market-14714449",
+    "https://www.wiseguyreports.com/ja/reports/green-steel-market",
+    "https://www.coherentmarketinsights.com/ja/グリーンスチール市場",
+    "https://straitsresearch.com/jp/report/green-steel-market"
+   ]
+  },
+  {
+   "query": "green steel market size CAGR 2025",
+   "results": [
+    "https://market.us/report/green-steel-market/",
+    "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report",
+    "https://www.mordorintelligence.com/industry-reports/green-steel-market",
+    "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "https://www.credenceresearch.com/report/green-steel-market",
+    "https://www.emergenresearch.com/industry-report/green-steel-market"
+   ]
+  },
+  {
+   "query": "green steel market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/green-steel-market",
+    "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "https://www.towardschemandmaterials.com/insights/green-steel-market",
+    "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "https://www.emergenresearch.com/blog/top-10-companies-in-green-steel-market",
+    "https://www.marketresearchfuture.com/reports/green-steel-market-11286",
+    "https://www.linkedin.com/pulse/green-steel-market-share-company-illume-analytics-pnqif"
+   ]
+  },
+  {
+   "query": "green steel market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://consolidatednd.com/",
+    "https://consbrgs.com/",
+    "https://www.consolidatedsupply.com/",
+    "https://www.catnmsplan.com/",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "green steel market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/green-steel-market-108711",
+    "https://www.htfmarketintelligence.com/report/global-green-steel-market",
+    "https://www.precedenceresearch.com/green-steel-market",
+    "https://dataintelo.com/report/global-green-steel-market",
+    "https://www.verifiedmarketreports.com/product/green-steel-market/",
+    "https://www.marketdataforecast.com/market-reports/green-steel-market",
+    "https://www.grandviewresearch.com/industry-analysis/green-steel-market-report"
+   ]
+  }
+ ],
+ "missing": {}
+}

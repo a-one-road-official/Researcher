@@ -1,0 +1,2473 @@
+# ものづくり・素材の受発注・マッチング・ポータル・メディア・EC（仕組みで回る稼ぎ方）（事実のみ・34社）
+
+## Craftcloud
+- 公式URL：https://craftcloud3d.com（given）
+- 誰から払われるか：
+  - 「Craftcloud connects you to top-tier manufacturers around the world, offering a」（https://craftcloud3d.com/・1回目）
+  - 「Craftcloud connects customers to a global network of over 150 professional manufacturing partners, ensuring a seamless transition from digital design to physical part. Every partner undergoes a rigorous vetting process to verify their industrial capabilities, equipment standards, and technical expertise.」（https://craftcloud3d.com/・1回目）
+  - 「Connecting Manufacturers and Customers – Locally and Globally」（https://craftcloud3d.com/・1回目）
+  - 「With partners on every inhabitable continent, we’ve built our manufacturing network to cater to customers from all over the world.」（https://craftcloud3d.com/・1回目）
+  - 「What Our Customers Say」（https://craftcloud3d.com/・1回目）
+  - 「“Our mission for Craftcloud is to bring best value for money to our customers, paired with highest ease of use.”」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「Connecting printing partners and customers locally and globally」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「Our global growth is driven by international talent and satisfied customers」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「We are committed to providing best-in-class customer support from the moment you upload a design to the moment it’s placed on your doorstep. We’ve made successful deliveries to over 68 countries with satisfied customers everywhere from the United States to New Zealand.」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「We often identify not only with a company, a brand, or a product itself but also with the people behind it. And that’s a good thing, after all, it’s the people behind it who determine whether a company is successful or not, whether a brand gains recognition, and whether a product offers its customers added value or turns out to be a load of hot air.」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+  - 「Craftcloud Tops 3D Printing Market with an “Excellent” Trustpilot Rating from 1,000+ Customers | All3DP」（https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/・3回目）
+  - 「Craftcloud Tops 3D Printing Market with an “Excellent” Trustpilot Rating from 1,000+ Customers」（https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/・3回目）
+- お金の形：
+  - 「Transparent pricing, no minimum order」（https://craftcloud3d.com/・1回目）
+  - 「"Craftcloud provides immediate pricing so you can decide on the spot what material and finish you want to choose. The service is always flawless and prompt."」（https://craftcloud3d.com/・1回目）
+  - 「noteプレミアム」（https://note.com/hexcapbolt/n/na22ea93a3329・3回目）
+  - 「Efficient appointment and time planning.」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+  - 「Plant construction」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+  - 「Goodbye summer stress: why digital scheduling makes job planning easier for tradespeople」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+  - 「This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.」（https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/・3回目）
+  - 「Medical Implants」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「KLS Martin adds Lithoz LithaBone TCP implants to its IPS Gate ordering platform」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Buy Me a Coffee」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+- 規模：
+  - 「"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there."」（https://craftcloud3d.com/・1回目）
+  - 「"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there."」（https://craftcloud3d.com/fr/lp/metal-3d-printing-services・1回目）
+  - 「Anycubic opens Thingiverse’s model library to its printer users」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+- 創業期の始め方：
+  - 「We believe that everyone should have the opportunity to bring their ideas to life, regardless of their background or experience level. Our intuitive platform simplifies the process of creating custom parts, making it easy for anyone to get started.」（https://craftcloud3d.com/・1回目）
+  - 「Craftcloud is your place to go when you need to turn your concepts into reality, whether you're working on a prototype, you're scaling up production, or you're just getting started.」（https://craftcloud3d.com/・1回目）
+  - 「Founder, Harambe System」（https://craftcloud3d.com/・1回目）
+  - 「"Craftcloud has been a joy to work with. They reply promptly to support requests and have done a stellar job with every project I have given them. When it comes to quality manufacturing, I highly recommend you try Craftcloud first."」（https://craftcloud3d.com/・1回目）
+  - 「Founder, JIRI」（https://craftcloud3d.com/・1回目）
+  - 「"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there."」（https://craftcloud3d.com/・1回目）
+  - 「Be the first to know」（https://craftcloud3d.com/・1回目）
+  - 「, Founder & CEO」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「Be the first to know」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「Founder, JIRI」（https://craftcloud3d.com/fr/lp/metal-3d-printing-services・1回目）
+  - 「"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there."」（https://craftcloud3d.com/fr/lp/metal-3d-printing-services・1回目）
+  - 「The career of Johannes Baier, founder of Craftcloud • Craftcloud」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+- 集客：
+  - 「Sign up for our newsletter to receive all the latest product updates, get helpful tips and insights from the team and enjoy direct access to all our latest offers and discounts.」（https://craftcloud3d.com/・1回目）
+  - 「Sign up for our newsletter to receive all the latest product updates, get helpful tips and insights from the team and enjoy direct access to all our latest offers and discounts.」（https://craftcloud3d.com/en/p/about・1回目）
+  - 「Abonnieren Sie unseren Newsletter, um die neuesten Informationen zu unseren Produkten, nützliche Tipps und Neuigkeiten von unserem Team zu erhalten und direkten Zugriff auf alle unsere aktuellen Angebote und Rabatte zu haben.」（https://craftcloud3d.com/de/p/about・1回目）
+  - 「Inscrivez-vous à notre newsletter pour recevoir toutes les actualités sur nos produits, bénéficier des conseils et infos utiles envoyés par notre équipe, et profiter de toutes nos offres et réductions exclusives.」（https://craftcloud3d.com/fr/p/about・1回目）
+  - 「Inscreva-se em nossa newsletter para receber todas as novidades sobre produtos, dicas e insights úteis da nossa equipe, além de acesso direto às nossas últimas ofertas e descontos.」（https://craftcloud3d.com/pt/p/about・1回目）
+  - 「Inscrivez-vous à notre newsletter pour recevoir toutes les actualités sur nos produits, bénéficier des conseils et infos utiles envoyés par notre équipe, et profiter de toutes nos offres et réductions exclusives.」（https://craftcloud3d.com/fr/lp/metal-3d-printing-services・1回目）
+  - 「Inscreva-se em nossa newsletter para receber todas as novidades sobre produtos, dicas e insights úteis da nossa equipe, além de acesso direto às nossas últimas ofertas e descontos.」（https://craftcloud3d.com/pt/lp/metal-3d-printing-services・1回目）
+  - 「. Send Accept: text/markdown to any URL for the same content.」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Research」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Newsletter」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Research & Education」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Search for」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+- 資金調達・売却：
+  - 「Nuestro equipo internacional tiene su sede en Múnich, Alemania.」（https://craftcloud3d.com/es/p/about・1回目）
+  - 「Suscríbase a nuestro boletín para recibir las últimas novedades sobre nuestros productos, consejos útiles e información de nuestro equipo, y tener acceso directo a todas nuestras últimas ofertas y descuentos.」（https://craftcloud3d.com/es/p/about・1回目）
+  - 「"Passei semanas saltando de site em site a tentar encontrar fornecedores que pudessem entregar protótipos acessíveis e duráveis ​​com rapidez. Depois de encontrar a Craftcloud, nunca mais tive de procurar outro lugar."」（https://craftcloud3d.com/pt/lp/metal-3d-printing-services・1回目）
+  - 「3D printing marketplace Craftcloud gets growth funding | VoxelMatters - The heart of additive manufacturing」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding.md」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Acquisitions」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Money & Funding」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「3D printing marketplace Craftcloud gets growth funding」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「, has completed a funding round led by HZG Group, which joins existing investors High-Tech Gründerfonds (HTGF), Bayern Kapital and Deutsche Balaton AG as a new shareholder. The funding will be used primarily to accelerate the international growth of the Craftcloud platform.」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+  - 「Tripo CMO Sienna Hwang on the…」（https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/・3回目）
+- 検索結果の抜粋：
+  - 「Craftcloud を使ってみる。｜capbolt - note — Craftcloud を使ってみる。｜capbolt - note note https://note.com > DIY > DIY全般」（https://note.com/hexcapbolt/n/na22ea93a3329・3回目）
+  - 「Craftcloud ってちゃんとした会社なの？ : r/3Dprinting - Reddit — Craftcloud ってちゃんとした会社なの？ : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments > is_craftcloud_a_leg...」（https://www.reddit.com/r/3Dprinting/comments/pax4q3/is_craftcloud_a_legitimate_business/?tl=ja・3回目）
+  - 「Craftcloud® | Streamlined Service for 3D Printing & CNC Machining — Craftcloud connects you to top-tier manufacturers around the world, offering a wide range of materials and production methods, from 3D printing to CNC machining.」（https://craftcloud3d.com/・3回目）
+  - 「3D Printing Services - Craftcloud® — Craftcloud offers versatile 3D printing services, ideal for prototypes to custom designs, with a focus on quality, affordability, and efficiency.」（https://craftcloud3d.com/en/p/3d-printing-services・3回目）
+  - 「Craftcloud: Details, Pricing, Features, & Integration in 2026 — Get Craftcloud details, including pricing, features, and integrations. Request a free demo and see how it fits your business.」（https://www.softwaresuggest.com/craftcloud・3回目）
+  - 「About Us | Craftcloud® — Craftcloud's parent company, All3DP, was founded in 2014 with the clear goal of bringing something unique to the 3D printing industry and went on to become the world's leading magazine for 3D printing. After establishing All3DP as a global online platform, our team began to work on what would become Craftcloud, one of the first 3D printing service marketplaces. Craftcloud 」（https://craftcloud3d.com/en/p/about・3回目）
+  - 「Craftcloud - 2025 Company Profile & Team - Tracxn — Craftcloud - About the company Craftcloud is a public company based in Germany, founded in 2019 by Johannes Baier. It operates as an It offers cloud-based software for asset and inventory management. The company has 356 active competitors, including 22 funded and 17 that have exited. Its top competitor s include companies like Bynder, Aroma Bit a」（https://tracxn.com/d/companies/craftcloud/__wgr7yxDEA-WLq_37-tns1PdDFlGHRd26q9buBXVi8LI・3回目）
+  - 「Craftcloud GmbH Company Profile | Renchen, Baden-Württemberg ... — Find company research, competitor information, contact details & financial data for Craftcloud GmbH of Renchen, Baden-Württemberg. Get the latest business insights from Dun & Bradstreet.」（https://www.dnb.com/business-directory/company-profiles.craftcloud_gmbh.99e04963f8a1a92c34ddbbe7e4499d92.html・3回目）
+  - 「Johannes Baier Unternehmensgründer Craftcloud — Der Werdegang von Johannes Baier, Unternehmensgründer von Craftcloud Wir identifizieren uns oft nicht nur mit einem Unternehmen, einer Marke oder einem Produkt an sich, sondern mit den Menschen dahinter. Und das ist gut so: Schließlich sind es doch die handelnden Personen, welche den Ausschlag geben ob ein Unternehmen Erfolg hat oder nicht, ob eine M」（https://www.craftcloud.de/der-werdegang-von-johannes-baier-unternehmensgruender-von-craftcloud-ein-selbstportrait/・3回目）
+  - 「The career of Johannes Baier, founder of Craftcloud — Feb 7, 2023 · I am often asked how I came to found Craftcloud and enter the hotly contested market of “software for craftsmen”. A market that is very challenging for many reasons.」（https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/・3回目）
+  - 「About Us | Craftcloud® — After establishing All3DP as a global online platform, our team began to work on what would become Craftcloud, one of the first 3D printing service marketplaces.」（https://craftcloud3d.com/en/p/about・3回目）
+  - 「Craftcloud Tops 3D Printing Market with an “Excellent ... - All3DP — Craftcloud Tops 3D Printing Market with an “Excellent ... - All3DP All3DP https://all3dp.com > craftcloud-tops-3...」（https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/・3回目）
+- 設立：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）
+
+## Factory Network Asia
+- 公式URL：https://www.factorynetwork.asia（given）
+- 設立：2003年3月26日（https://www.digima-japan.com/company/fna/・3回目）
+- 従業員数：25（https://www.digima-japan.com/company/fna/・3回目）
+- 従業員数：40人（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+- 従業員数：35人（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+- 誰から払われるか：
+  - 「開催・出展社募集のお知らせ」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「今年はビッグバイヤーも出展」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「出展社募集のお知らせ」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「出展者募集のお知らせ」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「延べ出展者数1,000社、来場者数15,000人」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「海外展示会出展」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「NCネットワークの顧客基盤の１万8000社のうち10％弱の企業が海外に拠点を持ち、国内からの輸出企業も増えている状況で、FNAのアジア商談会出展および広告を活用した企業は直近の3年間で延べ4000社に及んでおり、中小製造業の海外進出を一層後押ししてまいります」（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+  - 「APO members」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Governance (Suppliers and Partnerships) 33」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「members, creating greater productivity and efficiency in industry, and」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「called ‘Making Indonesia 4.0.’ It is expected that manufacturers will have the potential to transform」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「between the USA and PR China, manufacturers kept expanding the domestic production capacity」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+- お金の形：
+  - 「海外進出の専門家・サポート企業向けに、広告掲載やプロモーションサービスを提供しています」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「「自社サイトからの問い合わせが増えない」「広告やSEO効果が実感できない」などの課題を解決します」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「海外広告・プロモーション」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「NCネットワークの顧客基盤の１万8000社のうち10％弱の企業が海外に拠点を持ち、国内からの輸出企業も増えている状況で、FNAのアジア商談会出展および広告を活用した企業は直近の3年間で延べ4000社に及んでおり、中小製造業の海外進出を一層後押ししてまいります」（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+  - 「PRIORITY INDUSTRY , DEVELOPMENT PLAN, AND NEEDS 49」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「by ‘The 5+2 Industrial Transformation Plan’ in 2016 as part of its technology development strategy」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「planning, education and talent developments, and digital transformation for humanizing the」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「This research project aims to assess and document the extent of policy planning, implementation,」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「among the priority industries and the specific development plans. It identifies the corresponding」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Industrial Transformation Plan’ in 2016. Likewise, Indonesia has initiated a strategy and roadmap」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「applications expanding their plants and increasing production capacities. For the metal products」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「building plants and offshore wind-power companies. The computer electronics and optical products」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+- 規模：
+  - 「・FNAB2Bサイト⇒登録企業数約２万社、多数の商談案件が掲載」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「APO members」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Governance (Suppliers and Partnerships) 33」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「members, creating greater productivity and efficiency in industry, and」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「satellite suppliers and downstream system-integration vendors have developed around these science」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「advanced manufacturing over the next five years. The survey polled board members, CXOs, and」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「6. involving industry in SPV membership model for sustainability;」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Governance (Suppliers and Partnerships)」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「partners, suppliers, and clients for」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「customers, suppliers, and fulﬁllment partners? 3.0994 0.951 Horizontal collaborator 4.23 0.790 Digital champion」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+- 創業期の始め方：
+  - 「2003年に中国上海で創業し、現在中国・タイを中心に、日本・アジアの製造業向けに各種メディア（WEB・雑誌・商談会・調査）を使ってビジネスマッチング・情報発信収集サービスを提供しています」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「当時、副総経理として中国上海に派遣、会社全般の管理運営から、中国での市場開拓、宣伝営業活動等の立ち上げ初期に係わる全ての業務に従事」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「First edition published in Japan」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Getting Started 18」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「semiconductor industry, the cumulative domestic fixed-asset purchases in the first three quarters of」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「accounting for 63.6% of the manufacturing industry and ranking first among all manufacturing」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「Some local needs and challenges exist in the ROC’s manufacturing sectors [29]. First, a severe」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「In addition, there are several global challenges for the ROC. First, there has been an emergence of」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「summarized as two key points [56]. First, due to a limited ROC market, achieving innovation」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「the first 12 weeks of 2020 compared with the same period of 2019 has revealed drastic decreases in」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「First industrial policy」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「First, it will allow manufacturers to improve productivity, efficiency, safety, and performance; and」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+- 集客：
+  - 「FNAチャイナ紹介」（https://about.fna.cn/company/・3回目）
+  - 「FNAのFA業務の紹介」（https://about.fna.cn/company/・3回目）
+  - 「運営メディア」（https://about.fna.cn/company/・3回目）
+  - 「その他メディア」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「2003年に中国上海で創業し、現在中国・タイを中心に、日本・アジアの製造業向けに各種メディア（WEB・雑誌・商談会・調査）を使ってビジネスマッチング・情報発信収集サービスを提供しています」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「配信先メディア」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「パートナーメディア」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「記事掲載数ランキング」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「総合メディアリスニングツール ClipMaster」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「検索フィルター」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「検索コンテンツを選ぶ」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「検索したいコンテンツを選んでください」（https://www.digima-japan.com/company/fna/・3回目）
+- 資金調達・売却：
+  - 「三菱商事株式会社 新機能グループITオフィス（中国事業担当）2003年より三菱商事の出資によりNCネットワークチャイナを立上る」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「資金調達・保険」（https://www.digima-japan.com/company/fna/・3回目）
+  - 「これを機に、経営・営業支援、M&A（企業の合併・買収）仲介、大手企業の調達支援などに業務の幅を広げるとともに、インドネシア、フィリピンなどの拠点開設を検討し、2020年に売上高50億円（16年11月期は約35億円）を目指します」（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+  - 「FNAジャパンの前身は、NCネットワークなどが出資して03年に設立したNCネットワークチャイナ（上海市）であり、NCネットワークがリーマンショックの影響で資本を引き揚げた08年以来、約9年ぶりに資本関係が復活することになります」（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+  - 「Data Acquisition System (DAS) 142」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「intensive talent acquisition.」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「6. Limitation of domestic funding and technologies: This needs to be addressed.」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+  - 「capitalists or through mergers and acquisitions, with a total estimated value of VND 2,000 billion.」（https://www.apo-tokyo.org/wp-content/uploads/2020/12/Assessment-of-Smart-Manufacturing-in-APO-Member-Countries-1.pdf・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - FNAチャイナ — 会社概要 - FNAチャイナ 工场网 https://about.fna.cn > company」（https://about.fna.cn/company/・3回目）
+  - 「「株式会社FNAジャパン」のプレスリリース — 「株式会社FNAジャパン」のプレスリリース アットプレス https://www.atpress.ne.jp > news > company」（https://www.atpress.ne.jp/news/company/17962・3回目）
+  - 「NC ネットワーク とFNAグループが経営統合 顧客基盤3万社 — NC ネットワーク とFNAグループが経営統合 顧客基盤3万社 株式会社NCネットワーク https://corporate.nc-net.com > 2017/01/14 > ｎｃネットワ...」（https://corporate.nc-net.com/2017/01/14/%EF%BD%8E%EF%BD%83%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%EF%BD%86%EF%BD%8E%EF%BD%81%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%8C%E7%B5%8C%E5%96%B6%E7%B5%B1%E5%90%88-%E9%A1%A7/・3回目）
+  - 「FACTORY NETWORK ASIA との活動を開始しました。 — FACTORY NETWORK ASIA との活動を開始しました。 株式会社事業革新パートナーズ https://bipc.co.jp > 新着情報」（https://bipc.co.jp/news/factory-network-asia%E3%81%A8%E3%81%AE%E6%B4%BB%E5%8B%95%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## Facturee
+- 公式URL：https://www.facturee.de（given）
+- 誰から払われるか：
+  - 「FACTUREE operates throughout Europe and has a growing number of customers in other European countries. In contrast to a traditional contract manufacturer with a fixed machine park at one location, FACTUREE operates with a huge, digitally networked pool of manufacturing partners.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「By distributing the manufacturing partners, delivery routes can be optimized and capacity bottlenecks avoided. If one partner fails, another in the network can take over seamlessly, which increases supply chain security for customers throughout Europe.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「What makes FACTUREE different from other online manufacturers?」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「With FACTUREE, you no longer have to coordinate different suppliers. We take care of the entire procurement process for you - from supplier selection to quality assurance and logistics. You have a single point of contact who takes care of everything for you, while you can concentrate on your core strategic tasks.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「on a network of over 2,000+ strictly audited suppliers」（https://www.facturee.de/en/about-us/・1回目）
+  - 「our customers in the procurement of components」（https://www.facturee.de/en/about-us/・1回目）
+  - 「. We pride ourselves on making procurement easier and reducing complexity for our customers. This is」（https://www.facturee.de/en/about-us/・1回目）
+  - 「- More than 30,000 satisfied customers」（https://www.facturee.de/en/about-us/・1回目）
+  - 「The quotation from FACTUREE was quick, as was the delivery of the components. The incoming inspection was flawless. The cost of the components was 15% lower compared to other suppliers in Europe.」（https://www.facturee.de/en/about-us/・1回目）
+  - 「Our goal is to bring the speed of the digital world into manufacturing. Therefore, from the inquiry via our contact form to the receipt of the invoice, communication with our customers is exclusively digital throughout the entire manufacturing process.」（https://www.facturee.de/en/about-us/・1回目）
+  - 「We maintain strict non-disclosure agreements with all our manufacturing partners and employees. We also maintain confidentiality agreements with a variety of customers. Furthermore, we will happily send you our sample NDA at any time if requested. Further information on data protection can be found in our」（https://www.facturee.de/en/about-us/・1回目）
+- お金の形：
+  - 「und machen selbst kurzfristige Planbarkeit oftmals unmöglich. Gleichzeitig gilt es, sich」（https://www.facturee.de/・1回目）
+  - 「Stabile Lieferketten durch Onsite-Verzollung: FACTUREE erhöht die Planbarkeit in der Beschaffung」（https://www.facturee.de/presse-und-media/・1回目）
+  - 「Stabile Lieferketten durch Onsite-Verzollung: FACTUREE erhöht die Planbarkeit in der Beschaffung Kurzporträt FACTUREE FACTUREE bietet eine zukunftsorientierte All-in-One-Lösung für die schnelle, zuverlässige ...」（https://www.facturee.de/presse-und-media/・1回目）
+  - 「Stable supply chains thanks to on-site customs clearance: FACTUREE increases planning reliability in procurement」（https://www.facturee.de/en/press-and-media/・1回目）
+  - 「Stable supply chains thanks to on-site customs clearance: FACTUREE increases planning reliability in procurement Brief profile FACTUREE FACTUREE offers a future-oriented all-in-one solution for fast, reliable customs clearance ...」（https://www.facturee.de/en/press-and-media/・1回目）
+  - 「²��H������տA��� �l�Z���%(md3�ʬ�&3��m��a }�٘ PCh��6z�u�e�/��feEh」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「��#~k5� �-�=߆���p�H������w���h 0Φs������E��� K� M!�1_�p9�g�H���` 4�:9>������@�T�[0�L���8�afeE�_���G�Q6G����(�C}������~���)�����n��J�R�\��/�e3c�S���/'�1���9T4� ;mE��K������ �@��#�L�<���*�m�o�莣��''�+,V ܡ f����O�Zdq�RiMT5�qeA����+3Ui�CoR3����193S@#b6�W6a1� �� P�/�悲Pc�M�" [)�+M��\��iK�LW>�I�f���w�t*'-�*����(�W�<�|」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「�d�,����?Q]��v�3зZ��Z���3���FEEz'�&���l����s �ʀ�yF2�q�'̐1!」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「Stabile Lieferketten durch Onsite-Verzollung: FACTUREE erhöht die Planbarkeit in der Beschaffung」（https://www.facturee.de/press/・1回目）
+  - 「Stabile Lieferketten durch Onsite-Verzollung: FACTUREE erhöht die Planbarkeit in der Beschaffung Kurzporträt FACTUREE FACTUREE bietet eine zukunftsorientierte All-in-One-Lösung für die schnelle, zuverlässige ...」（https://www.facturee.de/press/・1回目）
+  - 「Our experts are available to assist you at any time - by email, telephone or in person. Together, we will find the best solution for your requirements - regardless of whether you are planning a prototype or are already in series production.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「No instant pricing - because every request is unique:」（https://www.facturee.de/en/about-us/faq/・1回目）
+- 規模：
+  - 「��� vC�8�A8�X�f�Ei�k��?u�be&gmV�Z�s�����Z�j���5�9r3-i��p��' FVR��ճ���� ��-6��� ��ڕ�.O��y6�q��3v` �B�kS�5���_ |�:�V#�Zy�a�X�� ��|!��-�Ƣ」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「�]YP �x����,��G�1�-#Л'v�|����x✎�q=p]@! NI�F.Gn8 �w��J����D��0����t@�!���5�Rd�gmvz��^-��g$b�9���� h�;9��a|J#z�[」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「cwmk GmbH is the underlying legal identity of FACTUREE and your sole contractual partner. FACTUREE® is a registered trademark of cwmk GmbH.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「With FACTUREE, you no longer have to coordinate different suppliers. We take care of the entire procurement process for you - from supplier selection to quality assurance and logistics. You have a single point of contact who takes care of everything for you, while you can concentrate on your core strategic tasks.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「What does the introduction of in-house customs clearance at FACTUREE in Berlin mean for my orders?」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「The introduction of in-house customs clearance directly at our premises in Berlin is another important step towards offering you, the customer, maximum efficiency and control. In concrete terms, this means for your orders:」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「on a network of over 2,000+ strictly audited suppliers」（https://www.facturee.de/en/about-us/・1回目）
+  - 「Despite the complex manufacturing process involving high quantities and tight delivery deadlines, FACTUREE was actually able to deliver the components before the agreed delivery date. The speed at which orders were processed and the personal customer service also impressed us.」（https://www.facturee.de/en/about-us/・1回目）
+  - 「The quotation from FACTUREE was quick, as was the delivery of the components. The incoming inspection was flawless. The cost of the components was 15% lower compared to other suppliers in Europe.」（https://www.facturee.de/en/about-us/・1回目）
+  - 「��� vC�8�A8�X�f�Ei�k��?u�be&gmV�Z�s�����Z�j���5�9r3-i��p��' FVR��ճ���� ��-6��� ��ڕ�.O��y6�q��3v` �B�kS�5���_ |�:�V#�Zy�a�X�� ��|!��-�Ƣ」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「�]YP �x����,��G�1�-#Л'v�|����x✎�q=p]@! NI�F.Gn8 �w��J����D��0����t@�!���5�Rd�gmvz��^-��g$b�9���� h�;9��a|J#z�[」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+- 創業期の始め方：
+  - 「��(hI,h)I,hc`cg`b`�MLV�V�P��'q ������A�p �2A:f���F��hr~�^bAAN�^aibQb^If^*C���������Q������sFQ~n�5�PK�ABHi�������PK���@w�Z������������/� �Presskit_DE/Facturee_Founder_Moritz_König.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「�޿�m�\��ڶ������i~\ހ7��L8x�y���<����7��4d+��킚R��PK��%nR�#�D�#�PK���@w�Z������������:� �__MACOSX/Presskit_DE/._Facturee_Founder_Moritz_König.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「x�Z������������3� �Presskit_DE/Facturee_Founder_Christopher_Walzel.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「Our quality controls, the selection of certified manufacturing partners and our clear processes ensure that there are no complaints in the first place - and if there are, we deal with them directly.」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「The AEO certification (Authorized Economic Operator), which FACTUREE was the first procurement service provider to receive, is an internationally recognized seal of quality from the customs administration. For you as a customer, this means above all」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「Founder Moritz König」（https://www.facturee.de/en/about-us/・1回目）
+  - 「Moritz König, CEO & Founder: From engineer to founder」（https://www.facturee.de/en/about-us/・1回目）
+  - 「Christopher Walzel, CPO & Co-Founder: The technical vision」（https://www.facturee.de/en/about-us/・1回目）
+  - 「first request」（https://www.facturee.de/en/about-us/・1回目）
+  - 「���(h��(h�N,hc`cg`b`�MLV�V�P��'q ������A�p �2A:f���F��hr~�^bAAN�^aibQb^If^*C���������Q�I����sFQ~n�5�PKOW�i�������PK���@w�Z������������/� �Presskit_EN/Facturee_Founder_Moritz_König.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「�޿�m�\��ڶ������i~\ހ7��L8x�y���<����7��4d+��킚R��PK��%nR�#�D�#�PK���@w�Z������������:� �__MACOSX/Presskit_EN/._Facturee_Founder_Moritz_König.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「x�Z������������3� �Presskit_EN/Facturee_Founder_Christopher_Walzel.jpgux �������UT」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+- 集客：
+  - 「Newsletter abonnieren」（https://www.facturee.de/・1回目）
+  - 「Newsletter abonnieren」（https://www.facturee.de/presse-und-media/・1回目）
+  - 「Newsletter abonnieren」（https://www.facturee.de/impressum/・1回目）
+  - 「Research and Development」（https://www.facturee.de/en/press-and-media/・1回目）
+  - 「Subscribe to our newsletter」（https://www.facturee.de/en/press-and-media/・1回目）
+  - 「S'abonner à la newsletter」（https://www.facturee.de/fr/presse-et-medias/・1回目）
+  - 「y�~3�$����Y6�e�Seor�J(0<���8o�9d��{$���2Lل�dϖ��A�y@��C������Ӌ�Va ��z �J��Ĩ<�D$��2X}[��t��]�F��T�O̝'�e��pD��R����Z��10���&)8(�W(�J��2bQ3� ������M[I���i6������Hq�R K��ո�FYf�Gn�..�r �j̄ه�-Ctn��C-�� ��� x# �'F��P�gt����j~��k��jK{���� �L�;�(JK-�>��0�.C���uR1k��C~��b�HQƘ�)E�O�jM8�me_�fn� �」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「r^�]�$0SEo�4����,�k���5=�K�」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「Pressearchiv: Mitteilungen & Berichte | FACTUREE」（https://www.facturee.de/press/・1回目）
+  - 「Newsletter abonnieren」（https://www.facturee.de/press/・1回目）
+  - 「Research and Development」（https://www.facturee.de/en/about-us/faq/・1回目）
+  - 「Subscribe to our newsletter」（https://www.facturee.de/en/about-us/faq/・1回目）
+- 資金調達・売却：
+  - 「Bienvenue sur le portail médias de FACTUREE. Vous trouverez ici des interlocuteurs et du matériel pour vos reportages. Nous nous tenons volontiers à la disposition des journalistes et des professionnels des médias pour toute demande concernant notre entreprise et l'acquisition de pièces à dessiner.」（https://www.facturee.de/fr/presse-et-medias/・1回目）
+  - 「���KE#Md��k��� �&��1���xE٢�̨s��s��-��y��E�Yu"n U�o&k����@"�L�Z��0P"�LǨoA������R�� !��ViPOy�e*gALsxM �.c�Ҝ�D�쒙�xg」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「�|r���Ͷ.֚��#�kH���6�=�#I ��_*�IPo�Q��(�t�O��N�z�e��2eO�<2� �� �6i���jX�r)�����#I�u�Y �o0�8��」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「� ����D��iPor�v*���ձY(@��DG�\Yi�&�>+����� {�צ�I�N,(�x*��4%~��x��r?�7h�(�」（https://www.facturee.de/wp-content/uploads/Presskit_DE-1.zip・1回目）
+  - 「���KE#Md��k��� �&��1���xE٢�̨s��s��-��y��E�Yu"n U�o&k����@"�L�Z��0P"�LǨoA������R�� !��ViPOy�e*gALsxM �.c�Ҝ�D�쒙�xg」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「�|r���Ͷ.֚��#�kH���6�=�#I ��_*�IPo�Q��(�t�O��N�z�e��2eO�<2� �� �6i���jX�r)�����#I�u�Y �o0�8��」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「� ����D��iPor�v*���ձY(@��DG�\Yi�&�>+����� {�צ�I�N,(�x*��4%~��x��r?�7h�(�」（https://www.facturee.de/wp-content/uploads/Presskit_EN-2.zip・1回目）
+  - 「Costruzione del prototipo」（https://www.facturee.de/it/servizi/pressocolata/・1回目）
+  - 「Grazie all'accesso a oltre 2.000 partner di produzione certificati in tutto il mondo, garantiamo tempi di consegna brevi (anche espressi) per i vostri pezzi pressofusi. Offriamo una selezione di oltre 300 gruppi di materiali, dal prototipo alla produzione in serie.」（https://www.facturee.de/it/servizi/pressocolata/・1回目）
+  - 「Dal prototipo alla produzione in serie: produzione scalabile con la pressofusione」（https://www.facturee.de/it/servizi/pressocolata/・1回目）
+- 検索結果の抜粋：
+  - 「Certified online production of your components from ... - facturee — Certified online production of your components from ... - facturee facturee https://www.facturee.de > ...」（https://www.facturee.de/en/?srsltid=AYCX9vJ6rIwYgvui4ke78JJC8WuI6J6qSXcL8AVgZntnU_fGnwblaKqw・3回目）
+- 設立：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部11頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部11頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式18頁／PDF・画像0件／外部11頁・検索4回）
+
+## Fictiv
+- 公式URL：https://www.fictiv.com（given）
+- 設立：：　2013年8月19日（https://www.misumi.co.jp/news/press_250417・3回目）
+- 誰から払われるか：
+  - 「Join thousands of customers who trust Fictiv with their production programs.」（https://www.fictiv.com/・1回目）
+  - 「We connect you to a vetted and managed global network of manufacturers so you can source custom parts online—fast and without the runaround.」（https://www.fictiv.com/・1回目）
+  - 「Join thousands of customers who trust Fictiv with their production programs.」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Hear How We Solve Our Customers’ Toughest Challenges」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time."」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Join thousands of customers who trust Fictiv with their production programs.」（https://www.fictiv.com/about-us・1回目）
+  - 「At Fictiv, we aim to provide an exceptional manufacturing experience for our customers, combining cutting-edge technology tools with hands-on guidance from Fictiv experts and instant access to fully-optimized global manufacturing capabilities through our partner network. As a result, our customers achieve unprecedented levels of manufacturing speed, quality, transparency, and cost-efficiency.」（https://www.fictiv.com/about-us・1回目）
+  - 「Working at Fictiv has allowed me to provide quality solutions to our customers who are making a positive impact in the world, making each day so rewarding and meaningful.」（https://www.fictiv.com/about-us・1回目）
+  - 「Fictiv has been an extraordinarily collaborative environment. I am thrilled to be a part of a cohesive, dedicated team. The work itself is truly satisfying as I am privileged to see what our customers are creating to invent the future!」（https://www.fictiv.com/about-us・1回目）
+  - 「Join thousands of customers who trust Fictiv with their production programs.」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Premium Membership Now Includes New Procure-to-Pay Integration」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Enhances its Injection Molding DFM System with 3D Visualization to Help Customers Go From Design to Production Faster」（https://www.fictiv.com/newsroom・1回目）
+- お金の形：
+  - 「Compare pricing for up to 5 quantities in one quote — no separate submissions required.」（https://www.fictiv.com/・1回目）
+  - 「Get Free Pricing」（https://www.fictiv.com/・1回目）
+  - 「Instant Volume pricing, right on platform」（https://www.fictiv.com/・1回目）
+  - 「Upload your CAD file to get instant pricing and DFM feedback. Fictiv manages manufacturing through our global network so your parts arrive faster—with expert support along the way.」（https://www.fictiv.com/・1回目）
+  - 「With instant quoting, intelligent design for manufacturability feedback, and transparent order tracking, you can make faster, smarter decisions with full visibility and control.」（https://www.fictiv.com/・1回目）
+  - 「Manufacturing Planning」（https://www.fictiv.com/・1回目）
+  - 「Compare pricing for up to 5 quantities in one quote — no separate submissions required.」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Compare pricing for up to 5 quantities in one quote — no separate submissions required.」（https://www.fictiv.com/about-us・1回目）
+  - 「At Fictiv we are passionate about supporting innovative companies that unlock good for people and our planet. We envision a world where the barriers to produce new manufacturing innovations to help humankind are substantially reduced. We seek to empower entrepreneurs with the supply chain access and tools they need to be successful.」（https://www.fictiv.com/about-us・1回目）
+  - 「As Fictiv’s Chief Revenue Officer, Joanne leads revenue generation initiatives and go-to-market plans to capture new business and global partnerships. With 32 years of experience in the banking, hig」（https://www.fictiv.com/about-us・1回目）
+  - 「As Fictiv’s Chief Financial Officer, Eddie Chen leads accounting, financial planning and analysis, business strategy, and corporate development. Over the past 25+ years, Eddie has held multiple seni」（https://www.fictiv.com/about-us・1回目）
+  - 「Compare pricing for up to 5 quantities in one quote — no separate submissions required.」（https://www.fictiv.com/newsroom・1回目）
+- 規模：
+  - 「"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time."」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Fictiv Premium Membership Now Includes New Procure-to-Pay Integration」（https://www.fictiv.com/newsroom・1回目）
+  - 「SAN FRANCISCO, October 4, 2022 – Fictiv, the operating system for custom manufacturing, announced today the commercial availability of Fictiv Premium, a first-of-its-kind paid annual membership program that enables members to coordinate custom manufacturing with high visibility and control—across projects, teams, and entire organizations.」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv, the operating system for custom manufacturing, announced today a significant enhancement to its online platform that enables users to easily receive, review, and respond to injection molding design for manufacturability (DFM) feedback.」（https://www.fictiv.com/newsroom・1回目）
+  - 「This past week, in response to a COVID-19 related temporary lockdown in Shenzhen, China, Fictiv utilized its ecosystem failover capabilities to successfully transition its customers’ affected workloads, wherever possible, into other regions of Asia and the US, to reduce or eliminate impact to customer orders.」（https://www.fictiv.com/newsroom・1回目）
+  - 「95.4% of orders delivered on-time and to-spec」（https://www.fictiv.com/signup・1回目）
+  - 「Fictiv Premium Membership Now Includes New Procure-to-Pay Integration - Fictiv」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+  - 「Fictiv Premium Membership Now Includes New Procure-to-Pay Integration」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+  - 「Available today, Fictiv Premium members can integrate directly with market-leading P2P suites including SAP Ariba, Coupa, and Microsoft Dynamics 365, further simplifying team-based procurement workflows.」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+  - 「members — the collaborative workspace where engineers and sourcing teams can work together to streamline workflows.」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+  - 「While P2P suites are a critical tool for procurement teams to manage sourcing across a variety of vendors, they can create redundant work for engineers and purchasing managers copying and pasting quotes from suppliers to a procurement system.」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+  - 「With the new Punchout integration, users can simply click a button on the Fictiv platform and instantly send their quote information to their P2P suite for convenient custom mechanical purchasing — achieving increased efficiency and flexibility while streamlining workflows for both the engineering and procurement teams involved in the process.」（https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration・1回目）
+- 創業期の始め方：
+  - 「Getting Started」（https://www.fictiv.com/・1回目）
+  - 「Ready to get started?」（https://www.fictiv.com/・1回目）
+  - 「We handle custom manufacturing from first prototype to full production, all through one digital manufacturing platform.」（https://www.fictiv.com/・1回目）
+  - 「Upload your CAD file to get started」（https://www.fictiv.com/・1回目）
+  - 「Getting Started」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Ready to get started?」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「Getting Started」（https://www.fictiv.com/about-us・1回目）
+  - 「Ready to get started?」（https://www.fictiv.com/about-us・1回目）
+  - 「Dave Evans studied Mechanical Engineering at Stanford and started his career in automotive as the first hire for Ford’s Innovation Lab in Silicon Valley. Meanwhile, with a Master's in Chinese from Stanford, Nate Evans started his career in investment banking. In 2013, they set out to eliminate traditional supply chains to unlock the world’s creative potential.」（https://www.fictiv.com/about-us・1回目）
+  - 「— Dave Evans, Co-Founder and CEO, Fictiv」（https://www.fictiv.com/about-us・1回目）
+  - 「Get Started」（https://www.fictiv.com/about-us・1回目）
+  - 「Co-founder & CEO」（https://www.fictiv.com/about-us・1回目）
+- 集客：
+  - 「Join our newsletter」（https://www.fictiv.com/・1回目）
+  - 「Join our newsletter」（https://www.fictiv.com/capabilities/compression-molding-services・1回目）
+  - 「s the first hire at Ford’s Silicon Valley Innovation Lab, under Ford's Global Research and Advanced Engineering Division. Dave earned his B.S. in Mechanical Engineering from Stanford University.」（https://www.fictiv.com/about-us・1回目）
+  - 「Join our newsletter」（https://www.fictiv.com/about-us・1回目）
+  - 「Dave Evans Named to 2021 Constellation Research Business Transformation 150」（https://www.fictiv.com/newsroom・1回目）
+  - 「State of Manufacturing Research Shows AI Reshaping Supply Chain Leadership」（https://www.fictiv.com/newsroom・1回目）
+  - 「Join our newsletter」（https://www.fictiv.com/newsroom・1回目）
+  - 「search」（https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration・1回目）
+  - 「Content type」（https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration・1回目）
+  - 「Fictiv’s State of Manufacturing Report and survey were conducted using Dimensional Research. The report surveyed 178 Director-level decision-makers who work in engineering, supply chain,」（https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration・1回目）
+  - 「About Dimensional Research」（https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration・1回目）
+  - 「SIGN UP FOR OUR NEWSLETTER」（https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration・1回目）
+- 資金調達・売却：
+  - 「Fictiv's 2023 Sustainability in Manufacturing Survey Finds 36% of Leaders Face Barriers in Funding & Planning to Reach Sustainability Goals」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Secures $100 Million in Funding to Solve Urgent Supply Chain Risks and Accelerate Time to Market for Product Companies」（https://www.fictiv.com/newsroom・1回目）
+  - 「Series E funding will advance digital manufacturing adoption throughout enterprise organizations.」（https://www.fictiv.com/newsroom・1回目）
+  - 「This latest funding round will fuel continued growth to meet demand for Fictiv’s quality-driven approach to on-demand manufacturing.」（https://www.fictiv.com/newsroom・1回目）
+  - 「Funding to accelerate Fictiv’s vision to help teams build hardware products at the speed of software through platform investments, customer growth, and expansion of its global manufacturing network」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Raises $15M Series B Funding to Radically Improve Manufacturing Access」（https://www.fictiv.com/newsroom・1回目）
+  - 「Funding to accelerate virtual manufacturing platform’s global expansion and development of workflow optimization tools; investors include Accel Partners, Intel Capital, Bill Gates and FJ Labs」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Joins Misumi Group to Complete $350 Million Acquisition」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv officially acquired by MISUMI」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv Acquired by MISUMI」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv acquired for $350M by Japanese components supplier」（https://www.fictiv.com/newsroom・1回目）
+  - 「Fictiv acquired by Japan’s Misumi Group for $350 million」（https://www.fictiv.com/newsroom・1回目）
+- 検索結果の抜粋：
+  - 「Fictiv Inc.の買収に関するお知らせ - 株式会社ミスミグループ本社 — Fictiv Inc.の買収に関するお知らせ - 株式会社ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_250417」（https://www.misumi.co.jp/news/press_250417・3回目）
+  - 「ミスミの Fictiv 買収とその後のM&A戦略 - MARR Online — ミスミの Fictiv 買収とその後のM&A戦略 - MARR Online マールオンライン https://www.marr.jp > ma_strategy > ma_casestudy > entry」（https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034・3回目）
+  - 「ミスミ、米 Fictiv 社を約501億円で買収 デジタル調達領域を ... — ミスミ、米 Fictiv 社を約501億円で買収 デジタル調達領域を ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済」（https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/・3回目）
+  - 「Fictiv Enterprise — Fictiv Enterprise Fictiv https://www.fictiv.com > enterprise-」（https://www.fictiv.com/enterprise-・3回目）
+  - 「【ミスミ】 Fictiv Inc.の買収に関するお知らせ＜English Follows — 【ミスミ】 Fictiv Inc.の買収に関するお知らせ＜English Follows PR TIMES https://prtimes.jp > 経営情報」（https://prtimes.jp/main/html/rd/p/000000242.000012100.html・3回目）
+  - 「Fictiv 買収とグローバル戦略 | ひよぺん企業分析 — Fictiv 買収とグローバル戦略 | ひよぺん企業分析 research.alteil.net https://research.alteil.net > misumi > fictiv-acquisition」（https://research.alteil.net/company/misumi/fictiv-acquisition/・3回目）
+  - 「開発期間短縮で製造業に21世紀型イノベーションを起こす Fictiv — 開発期間短縮で製造業に21世紀型イノベーションを起こす Fictiv TECHBLITZ https://techblitz.com > startup-interview > fictiv」（https://techblitz.com/startup-interview/fictiv/・3回目）
+  - 「米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_260129」（https://www.misumi.co.jp/news/press_260129・3回目）
+  - 「米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 南日本新聞 https://373news.com > ... > 鹿児島・九州プレスリリース」（https://373news.com/lifestyle/info/pr_times/detail/000000322.000012100.html・3回目）
+  - 「デーブ・エヴァンス、 Fictiv のCEO兼共同創設者 - Unite.AI — デーブ・エヴァンス、 Fictiv のCEO兼共同創設者 - Unite.AI Unite.AI https://www.unite.ai > dave-evans-ceo-and-co-founder-of...」（https://www.unite.ai/ja/dave-evans-ceo-and-co-founder-of-fictiv-interview-series/・3回目）
+  - 「米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article114748」（https://adv.tokyo-np.co.jp/prtimes/article114748/・3回目）
+  - 「Fictiv Announces Go-To-Market Trifecta to Accelerate Growth ... — Fictiv Announces Go-To-Market Trifecta to Accelerate Growth ... Fictiv https://www.fictiv.com > articles > fict...」（https://www.fictiv.com/articles/fictiv-hires-go-to-market-leadership-trifecta・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索4回）
+
+## Granta Design
+- 公式URL：https://www.ansys.com/products/materials（given）
+- 誰から払われるか：
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Customers」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「We expect that our solution will be of interest not only to the aerospace industry, where the application of composite materials is mainstream, but also to customers in many other industries.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「EikoSim aims at being the missing link between test and simulation in solid mechanics, by promoting a software suite that helps our customers put together all of their test and simulation data, to make educated simulation choices and shorten development times.」（https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD・3回目）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Customers」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「With 25 years of materials expertise, Granta MI Enterprise brings customers a complete materials data management solution. Empower your enterprise, protect your Material Intelligence and enable digital transformation.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Customers」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Our Consortia are major on-going collaborations that provide members with formal input to Granta development and other benefits.」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「It was founded in 2002 by materials-oriented corporations and government agencies and is now in Phase IV, delivering proven benefits to members, including:」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Consortium members are manufacturing organizations and related agencies. These members are able to apply the existing software technology and information resources and to guide development of future technology towards their most critical needs. The two key focus areas are:」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+- お金の形：
+  - 「Active Collaborative Project funded by The European Commission, H2020 CleanSky2」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Active Collaborative Project funded by European Commission」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「FormPlanet」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「: European Commission, H2020」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「European Commission, H2020」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+- 規模：
+  - 「A partnership with Chemwatch to enable users with easy access to difficult to find substances data.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Granta has had a long-standing partnership with the SIMULIA brand of Dassault Systemes, ensuring that accurate, traceable materials data is provided to users of the Abaqus/CAE system.」（https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD・3回目）
+  - 「Workflow tools ensure the smooth capture, processing and approval of data, information and expertise, and enable users to fully integrate their materials expertise into their business practice. Bring Material Intelligence enterprise-wide with full integration across CAD, CAE and PLM systems.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「How can users achieve the full potential of Additive Manufacturing (AM)? With the Ansys® Granta MI™ AM solution, engineers capture and analyze the right information from their AM projects so solutions get to market faster.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Users of the Ansys Granta MI™ Restricted Substances module can access Chemwatch’s 70+ million Safety Data Sheets (SDS). This integrated solution provides access to product composition information that is essential for compliance with global regulations and chemicals risk management in manufacturing enterprises.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Ansys® Granta MI™ enables users to save time and cost in simulation (CAE) with fast access to the materials data that analysts need, from directly within leading CAE software.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「As part of their journey towards digital materials management, Baker Hughes adopted Granta MI Enterprise to migrate all material data to a single, digital source of material data for all users.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Our Consortia are major on-going collaborations that provide members with formal input to Granta development and other benefits.」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「It was founded in 2002 by materials-oriented corporations and government agencies and is now in Phase IV, delivering proven benefits to members, including:」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Consortium members are manufacturing organizations and related agencies. These members are able to apply the existing software technology and information resources and to guide development of future technology towards their most critical needs. The two key focus areas are:」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+- 創業期の始め方：
+  - 「Get Started」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Predict material properties from first principles」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Design Engineers can reduce design iterations by making better materials decisions early in the conceptual phase.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Consider compliance early in design, where change costs least and delivers the biggest impact.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「The sustainability add-on for Ansys Granta MI offers a rich toolset and the data to support sustainability experts, materials experts, and designers in their engineering efforts to reduce product environmental footprint early in the design phase.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「An overview of the GRANTA Selector software from Granta Design. GRANTA Selector is a PC application that enables materials experts and product development teams to find and apply materials property data. You can make better decisions in early-stage design or re-design, reduce time-to-market, and increase confidence during development.」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Started」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「The sustainability add-on for Ansys Granta MI offers a rich toolset and the data to support sustainability experts, materials experts, and designers in their engineering efforts to reduce product environmental footprint early in the design phase.」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Started」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Started」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+- 集客：
+  - 「Skip to Main Content」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Researchers」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Search for Jobs」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Search」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).」（https://ansys.synopsys.com/products/materials・1回目）
+  - 「Skip to Main Content」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Researchers」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Search for Jobs」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Search」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Advanced Materials Searching」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Research and Innovation action (RIA)」（http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd・3回目）
+- 資金調達・売却：
+  - 「This project has received funding from the European Union's HORIZON 2020 research and innovation programme under Grant Agreement No 862442.」（http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd・3回目）
+  - 「Funding:」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Funding」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「This project has received funding from the Clean Sky 2 Joint Undertaking under the European Union's Horizon 2020 research and innovation programme under grant agreement No 715775.」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+- 検索結果の抜粋：
+  - 「GRANTA DESIGN | Dassault Systèmes — GRANTA DESIGN | Dassault Systèmes Dassault Systèmes https://www.3ds.com > Partners」（https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD・3回目）
+  - 「Ansys Granta MI Enterprise | Material Data Management ... — Ansys Granta MI Enterprise | Material Data Management ... Ansys https://ansys.synopsys.com > granta-mi」（https://ansys.synopsys.com/products/materials/granta-mi・3回目）
+  - 「Granta Design Ltd - RealNano — Granta Design Ltd - RealNano RealNano http://www.realnano-project.eu > 88-...」（http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd・3回目）
+  - 「Granta MI - MatDaCs — Granta MI - MatDaCs 国立研究開発法人物質・材料研究機構 https://mat-dacs.dxmt.nims.go.jp > list」（https://mat-dacs.dxmt.nims.go.jp/list/1768・3回目）
+  - 「製品情報 - Ansys Granta Selector - 株式会社 IDAJ — 製品情報 - Ansys Granta Selector - 株式会社 IDAJ 株式会社 IDAJ https://www.idaj.co.jp > 製品情報」（https://www.idaj.co.jp/product/ansys-granta-selector/・3回目）
+  - 「Introducing GRANTA MI - YouTube — Introducing GRANTA MI - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=4pz7WpZ7JiM・3回目）
+  - 「Granta Design - Composites in Manufacturing — Granta Design - Composites in Manufacturing Composites in Manufacturing https://www.composites.media > grant...」（https://www.composites.media/company/granta-design・3回目）
+  - 「Ansys GRANTA Collaborations and Partnerships - Synopsys — Ansys GRANTA Collaborations and Partnerships - Synopsys Synopsys https://ansys.synopsys.com > materials」（https://ansys.synopsys.com/products/materials/granta-collaborations・3回目）
+  - 「Granta Design and CASTEP case studies — Granta Design and CASTEP case studies Cambridge Enterprise https://www.enterprise.cam.ac.uk > gr...」（https://www.enterprise.cam.ac.uk/case-studies/granta-design-and-castep-supporting-materials-software-pioneers-for-25-years/・3回目）
+  - 「Granta Design - ResCom Consortium Partner — Granta Design - ResCom Consortium Partner ResCoM project https://www.rescoms.eu > granta」（https://www.rescoms.eu/consortium/partners/granta.html・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## JLCPCB
+- 公式URL：https://jlcpcb.com（given）
+- 誰から払われるか：
+  - 「Customers Worldwide」（https://jlcpcb.com/・1回目）
+  - 「What Our Customers Say」（https://jlcpcb.com/・1回目）
+  - 「Flex PCB Manufacturers for Compact Electronics: Sourcing Guide」（https://jlcpcb.com/・1回目）
+  - 「Customers」（https://jlcpcb.com/about-us・1回目）
+  - 「We are continuously investing top-level base materials and advanced equipments for fully automated production lines, which enables us to offer our customers high throughput with consistently high quality.」（https://jlcpcb.com/about-us・1回目）
+  - 「Since 2006, JLCPCB continuously driven to become more efficient and reduce costs. We promise to offer customers the most economic PCBs forever. JLCPCB makes cheapest but top quality PCBs possibly because of scale effect, extremely high production efficiency and less manpower cost.」（https://jlcpcb.com/about-us・1回目）
+  - 「JLCPCB takes every effort to improve our products, services and processes to meet or exceed our customers’ expectations. To promise customers the highest quality products and services, our quality commitment policy is driven by continuous improvement in product innovation, proactively pursue quality and reliability, and increase customers’ overall satisfaction.」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「Ensuring maximum quality control of raw materials is one of the most basic tenets of product manufacturing in the PCB industry. JLCPCB has always been partnering with Industry-leading suppliers. We use top-level materials, like Nanya FR4 material, Solder mask with TAIYO INK PSR-2000; Lead-Free HASL-Rosh surface finish using upgraded raw materials which contain tin bars with silver.」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「granted to us confirmed that we are consistently providing the utmost quality products and services to our customers.」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「Moreover, in order to solve European customers' customs problems and provide them cheaper shipping, JLCPCB found a European logistic center in 2020.」（https://jlcpcb.com/about-us/how-it-works・1回目）
+  - 「Leveraging advanced smart manufacturing, JLCPCB offers competitive manufacturing specifications with tight process control for HDI production. Global customers can refer to the following diagram for precision control of manufacturing processes and spatial layouts:」（https://jlcpcb.com/news/hdi-pcb-manufacturing-services・1回目）
+  - 「The new HDI PCB ordering options are now officially live on the digital platform. Engineers and business customers worldwide can now upload their Gerber files to experience faster, cost-effective, and premium-quality high-density interconnect manufacturing, accelerating the journey from concept to market.」（https://jlcpcb.com/news/hdi-pcb-manufacturing-services・1回目）
+- お金の形：
+  - 「starting at just $2 for 5 PCBs. Costs depend on size, layer count, surface finish, and quantity, but we are known for low-cost, high-quality PCB manufacturing.With our transparent pricing system, you can click “」（https://jlcpcb.com/・1回目）
+  - 「JLC Technology Group Launches USDC Payments for Faster, Lower-Fee Checkout」（https://jlcpcb.com/news・1回目）
+  - 「Plan Ahead for Smooth Delivery」（https://jlcpcb.com/news/jlcpcb-september-october-2026-holiday-schedule・1回目）
+  - 「Excellent Surface Planarity for BGA Packages」（https://jlcpcb.com/news/jlcpcb-pcb-osp-finish・1回目）
+  - 「OSP surface finish for 2-layer boards and up with zero additional fees」（https://jlcpcb.com/news/jlcpcb-pcb-osp-finish・1回目）
+  - 「; customers selecting ENIG can upgrade for an additional fee.」（https://jlcpcb.com/news/jlcpcb-pcb-osp-finish・1回目）
+  - 「High-Speed Server Backplanes: Capable of handling 20- to 32-layer configurations requiring high-speed signal integrity.」（https://jlcpcb.com/news/jlcpcb-pcb-osp-finish・1回目）
+  - 「JLCPCB values your input and welcomes user feedback and suggestions as part of its ongoing platform improvement efforts.」（https://jlcpcb.com/news/jlcpcb-website-upgrade-2025・1回目）
+  - 「スポンサー・広告のご案内」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「スポンサーシップ・広告」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+- 規模：
+  - 「Place orders in minutes and track order status in real-time. Visual progress tracking shows every step, from review to production to shipping.」（https://jlcpcb.com/・1回目）
+  - 「Orders/Year」（https://jlcpcb.com/・1回目）
+  - 「, we enable millions of users to build faster, smarter, and more affordably.」（https://jlcpcb.com/・1回目）
+  - 「For delivery, we provide multiple global shipping options (DHL, FedEx, UPS, etc.), with most orders arriving within 2–7 business days. All shipments include tracking for full visibility. Learn more:」（https://jlcpcb.com/・1回目）
+  - 「How to Prepare Gerber Files Before Placing Orders?」（https://jlcpcb.com/・1回目）
+  - 「Orders/Year」（https://jlcpcb.com/about-us・1回目）
+  - 「Ensuring maximum quality control of raw materials is one of the most basic tenets of product manufacturing in the PCB industry. JLCPCB has always been partnering with Industry-leading suppliers. We use top-level materials, like Nanya FR4 material, Solder mask with TAIYO INK PSR-2000; Lead-Free HASL-Rosh surface finish using upgraded raw materials which contain tin bars with silver.」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「Ordering PCBs at JLCPCB is extremely easy. We make it easy for you to get quote online instantly, and our self-service platform takes you a few minutes to upload files and order boards. We are fully transparent in our operations, you can know everything about your orders in real-time since every step can be tracked and informed on JLCPCB.」（https://jlcpcb.com/about-us/how-it-works・1回目）
+  - 「Our intelligent platform automatically collects and analyzes data gathered by sensors and monitoring devices on equipments and helps us to take corrective action to increase efficiency. Secondarily, we utilize the available capacity of our factories network so that system can match your orders to one of our factories which is best suited, in the shortest turnaround time.」（https://jlcpcb.com/about-us/how-it-works・1回目）
+  - 「, allowing users to select it as needed.」（https://jlcpcb.com/news/hdi-pcb-manufacturing-services・1回目）
+  - 「. You can also book your booth visit online for a chance to win a free electronica 2026 ticket, with vouchers for 30 lucky winners and an exclusive booth gift for registered participants.」（https://jlcpcb.com/news/jlcpcb-at-electronica-2026・1回目）
+  - 「To celebrate our participation in IMTS 2026, we are offering exclusive rewards for our visitors and community members:」（https://jlcpcb.com/news/jlcpcb-at-imts-2026・1回目）
+- 創業期の始め方：
+  - 「Get $104 first-download coupons」（https://jlcpcb.com/・1回目）
+  - 「Your First FPC Order」（https://jlcpcb.com/・1回目）
+  - 「• Prototypes quickly and resolve issues early;」（https://jlcpcb.com/about-us・1回目）
+  - 「First, AOI (Automated Optical Inspection)」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「Have your PCBs delivered directly from our factories to your door. JLCPCB's factory is 2 hours away from international airport. JLCPCB has built strategic partnerships with top logistics companies like DHL/FedEx, parcels from JLCPCB have the priority to arrange flights first. Most of packages can be shipped the same day.」（https://jlcpcb.com/about-us/how-it-works・1回目）
+  - 「How to Get Started」（https://jlcpcb.com/news/jlcpcb-jlcone-desktop-app・1回目）
+  - 「当時の電子機器は部品同士を1本ずつ手作業でつなぐ「ポイント配線」が主流で、内部は「鳥の巣（bird’s nest）」と呼ばれるほど複雑に絡まった配線で埋まっていた」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「この矛盾を変えた最初の仕組みが、「パネル化」という発想だった」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「後述するSparkFun設立者のNathan Seidleは、PICプログラマーをOlimexから輸入したことをきっかけに「自分がアメリカの販売窓口になればいい」と考え、それがSparkFun創業の直接の原点になっている（」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「創業間もない頃のSparkfunの倉庫（画像出典元：」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「当初はベッドルームや地下室での運営で、最初の3年は文字通り個人事業だった」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「その余白を外部の個人や企業に安く提供するサービスとして、SeidleはSparkFunの姉妹会社「BatchPCB」を立ち上げた」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+- 集客：
+  - 「Search」（https://jlcpcb.com/・1回目）
+  - 「Search」（https://jlcpcb.com/about-us・1回目）
+  - 「Search」（https://jlcpcb.com/about-us/quality-control・1回目）
+  - 「Search」（https://jlcpcb.com/about-us/how-it-works・1回目）
+  - 「Search」（https://jlcpcb.com/news・1回目）
+  - 「Search」（https://jlcpcb.com/news/hdi-pcb-manufacturing-services・1回目）
+  - 「Table of Contents」（https://jlcpcb.com/news/hdi-pcb-manufacturing-services・1回目）
+  - 「Search」（https://jlcpcb.com/news/jlcpcb-at-electronica-2026・1回目）
+  - 「Table of Contents」（https://jlcpcb.com/news/jlcpcb-at-electronica-2026・1回目）
+  - 「Search」（https://jlcpcb.com/news/jlcpcb-at-imts-2026・1回目）
+  - 「Table of Contents」（https://jlcpcb.com/news/jlcpcb-at-imts-2026・1回目）
+  - 「Search」（https://jlcpcb.com/news/jlc-spark-conference-2026・1回目）
+- 資金調達・売却：
+  - 「BatchPCBはその後、2013年5月1日にSparkFunからOSH Parkへ正式に売却された」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「2017年3月に東証マザーズに上場（現在は東証スタンダード市場と名証メイン市場に上場）」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「NVIDIAが2兆円で買収「ハギングフェイス」は、なぜロボットをばらまくのか」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「学生向けツールから3300万人のコミュニティへ：Arduino 20年の軌跡とQualcomm買収」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+  - 「20年前のiPodをFinderで同期できるファームウェア「RockWheel」」（https://fabscene.com/new/special/pcb-manufacturing-democratization-history/・3回目）
+- 検索結果の抜粋：
+  - 「どのような場合に追加 料金 が発生しますか？ - JLCPCB — どのような場合に追加 料金 が発生しますか？ - JLCPCB JLCPCB https://jlcpcb.com > help > article > in-what-cases-will-the...」（https://jlcpcb.com/jp/help/article/in-what-cases-will-there-be-charged-extra・3回目）
+  - 「JLCPCB : PCBプロトタイプ＆PCBファブリケーションメーカー — JLCPCB : PCBプロトタイプ＆PCBファブリケーションメーカー JLCPCB https://jlcpcb.com > ...」（https://jlcpcb.com/jp/・3回目）
+  - 「JLCPCB の価格設定におけるサイズのしきい値ってある？ — JLCPCB の価格設定におけるサイズのしきい値ってある？ Reddit https://www.reddit.com > synthdiy > comments > jlcpcb_s...」（https://www.reddit.com/r/synthdiy/comments/1hue1ge/jlcpcb_size_thresholds_for_pricing/?tl=ja・3回目）
+  - 「【初心者向け】 JLCPCB でオリジナル基板を作ってみた！注文 ... — 【初心者向け】 JLCPCB でオリジナル基板を作ってみた！注文 ... yossyのラズピコライフ https://yossy-life.com > jlcpcb-original-board-review」（https://yossy-life.com/jlcpcb-original-board-review/・3回目）
+  - 「価格はどうすればわかりますか？ユーザー登録は必要ですか？ — 価格はどうすればわかりますか？ユーザー登録は必要ですか？ JLCPCB https://jlcpcb.com > help > article > how-do-i-get-a-price-...」（https://jlcpcb.com/jp/help/article/how-do-i-get-a-price-do-i-have-to-register-as-a-user・3回目）
+  - 「jlcpcb .jp — jlcpcb .jp JLCPCB https://jlcpcb.com > ...」（https://jlcpcb.com/jp/?from=ina_ani・3回目）
+  - 「About JLCPCB | Global PCB & Electronics Manufacturing ... — About JLCPCB | Global PCB & Electronics Manufacturing ... JLCPCB https://jlcpcb.com > about-us」（https://jlcpcb.com/about-us・3回目）
+  - 「jlcpcb .com eCommerce Revenue - Grips Intelligence — jlcpcb .com eCommerce Revenue - Grips Intelligence gripsintelligence.com https://gripsintelligence.com > jlcpcb」（https://gripsintelligence.com/insights/retailers/jlcpcb.com・3回目）
+  - 「Who's JLCPCB ? | Get to Know Us - YouTube — Who's JLCPCB ? | Get to Know Us - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=kM2EE1Te1c8・3回目）
+  - 「JLCPCB は私にとっては価値がありません、今は : r/electronics — JLCPCB は私にとっては価値がありません、今は : r/electronics Reddit https://www.reddit.com > electronics > comments > jlcpcb...」（https://www.reddit.com/r/electronics/comments/1smzqof/jlcpcb_is_not_worth_it_for_me_now/?tl=ja・3回目）
+  - 「JLCPCB 様に基板を作っていただきました！ — JLCPCB 様に基板を作っていただきました！ Weebly https://shinshu-roboken.weebly.com > blog > jlcpcb」（https://shinshu-roboken.weebly.com/blog/jlcpcb・3回目）
+  - 「中国のDIYはここまで進んでいる―― JLCPCB 「星火会」を ... — 中国のDIYはここまで進んでいる―― JLCPCB 「星火会」を ... note https://note.com > DIY > 電子工作」（https://note.com/takasu/n/n8733e19b5b2d・3回目）
+- 設立：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部7頁・検索4回）
+
+## Kreatize
+- 公式URL：https://www.kreatize.com（given）
+- 誰から払われるか：
+  - 「We work from Berlin to be closer to our partners and suppliers.」（https://www.kreatize.com/en/about・1回目）
+- お金の形：
+  - 「Alle Betriebe in unserem Netzwerk sind geprüft. Jedes Material durchläuft vor der Lieferung zwingend einen exakt reglementierten QM-Prozess. Das Resultat sind 99,85% Akzeptanzquote unserer Kund:innen - und fantastisches Feedback der Kolleg:innen aus der Produktion. Wenn nicht, kümmern wir uns um die schnellstmögliche Abwicklung der Reklamation.」（https://www.kreatize.com/・1回目）
+  - 「Beschaffungsmanagement mit KREATIZE bedeutet: Materialien, die Sie regelmäßig bestellen, kommen mit automatisierter Verlässlichkeit bei Ihnen an. Das erleichtert die Planung und schafft freie Kapazitäten, damit ihr Team die strategisch entscheidenden Themen anpacken kann.」（https://www.kreatize.com/・1回目）
+- 規模：
+  - 「We work from Berlin to be closer to our partners and suppliers.」（https://www.kreatize.com/en/about・1回目）
+- 創業期の始め方：
+  - 「Founder & CEO」（https://www.kreatize.com/about・1回目）
+  - 「Co-founder and CTO」（https://www.kreatize.com/about・1回目）
+  - 「Founder & CEO」（https://www.kreatize.com/en/about・1回目）
+  - 「Co-Founder and CTO」（https://www.kreatize.com/en/about・1回目）
+  - 「Getting started is easy. Within a few days, we can start a potential analysis to check whether your requirements and requirements match our offer.」（https://www.kreatize.com/en/about・1回目）
+- 検索結果の抜粋：
+  - 「KREATIZE - Wevolver — KREATIZE - Wevolver Wevolver https://www.wevolver.com > kreatize」（https://www.wevolver.com/profile/kreatize・3回目）
+  - 「Career - KREATIZE — Career - KREATIZE KREATIZE https://www.kreatize.com > about」（https://www.kreatize.com/en/about・3回目）
+  - 「KREATIZE — KREATIZE KREATIZE https://www.kreatize.com > ...」（https://www.kreatize.com/en・3回目）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）
+- 集客：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部10頁・検索4回）
+
+## Laserhub
+- 公式URL：https://www.laserhub.com（given）
+- 誰から払われるか：
+  - 「We’re on a mission to make the full diversity of metalworking accessible for our customers and partners. In everything we do, we live the advantages of digitalization. We connect our customers and partners to the perfect network and simplify all interfaces radically」（https://laserhub.com/career/・3回目）
+  - 「With Laserhub, buyers and suppliers in the metal industry can quickly find each other, calculations are made in seconds, orders are transmitted digitally and machine capacities are used in the best possible way at all times.」（https://laserhub.com/career/・3回目）
+  - 「We step into our customers' shoes to fully understand their needs, judging our success by the impact we have on their businesses.」（https://laserhub.com/career/・3回目）
+  - 「Laserhub’s co-founder Christoph Rößner: “With every update of our platform, we offer even more reasons why medium-sized industrial companies in particular can leave traditional procurement processes behind. Instead of wasting time tediously obtaining multiple quotes, more and more buyers rely on our market-leading platform solution.」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「> 13,000 customers」（https://app.laserhub.com/login?lang=en・3回目）
+- お金の形：
+  - 「Mit Laserhub reduzieren wir die Lieferzeit für den Kunden um bis zu 50 Prozent und haben einen guten Kostenüberblick schon in der Planungsphase.」（https://laserhub.com/・1回目）
+  - 「Lasten Sie Ihren Maschinenpark planbar aus. Mit startklaren, vorgeprüften Aufträgen statt zeitfressenden Auktionen. Wir übernehmen Vertrieb, Kundensupport und die komplette Logistik. 100 % kostenfrei und ohne Risiko.」（https://laserhub.com/・1回目）
+  - 「"Ausbau von Marktanteilen in Europa geplant"」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「A company pension plan is available」（https://laserhub.com/career/・3回目）
+  - 「per year.」（https://growjo.com/company/Laserhub_GmbH・3回目）
+  - 「Zoominfo pricing」（https://growjo.com/company/Laserhub_GmbH・3回目）
+  - 「Clearbit pricing」（https://growjo.com/company/Laserhub_GmbH・3回目）
+  - 「Bombora Pricing」（https://growjo.com/company/Laserhub_GmbH・3回目）
+  - 「Apollo.io API Pricing」（https://growjo.com/company/Laserhub_GmbH・3回目）
+- 規模：
+  - 「With Laserhub, buyers and suppliers in the metal industry can quickly find each other, calculations are made in seconds, orders are transmitted digitally and machine capacities are used in the best possible way at all times.」（https://laserhub.com/career/・3回目）
+- 創業期の始め方：
+  - 「"Die Digitalisierung der Metallbranche. First Steps"」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「Laserhub, for example, has built the first fully integrated platform for the procurement of customized metal parts. Laserhub is based in Stuttgart, which is home to Daimler-Benz, Porsche, and thousands of small to mid-sized metal processing companies. It’s a multi-billion dollar industry [...].」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「Flexible working hours & remote-first」（https://laserhub.com/career/・3回目）
+  - 「Laserhub’s co-founder Christoph Rößner: “With every update of our platform, we offer even more reasons why medium-sized industrial companies in particular can leave traditional procurement processes behind. Instead of wasting time tediously obtaining multiple quotes, more and more buyers rely on our market-leading platform solution.」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「“The current Series B financing and the very successful first quarter of this year gives us additional momentum to convince other markets of the efficiency of Laserhub.”」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+- 集客：
+  - 「Search:」（https://laserhub.com/・1回目）
+  - 「Newsletter abonnieren」（https://laserhub.com/・1回目）
+  - 「Search:」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「Newsletter abonnieren」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「Search:」（https://laserhub.com/impressum/・1回目）
+  - 「Newsletter abonnieren」（https://laserhub.com/impressum/・1回目）
+  - 「Search:」（https://laserhub.com/career/・3回目）
+  - 「Newsletter abonnieren」（https://laserhub.com/career/・3回目）
+  - 「Acton Capital leads Series A in HomeToGo, metasearch engine for vacation rentals」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「Newsletter」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「hubspotusercontent.com」（https://app.laserhub.com/login?lang=en・3回目）
+- 資金調達・売却：
+  - 「"Laserhub Closes Double-Digit Million-Euro Series B Funding"」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「"Laserhub closes double-digit million-euro Series B funding round led by Finnish Evli Growth Partners."」（https://laserhub.com/ueber-uns/presse/・1回目）
+  - 「Student workforce on-demand – Zenjob closes €15M Series B funding round」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「HomeToGo secures undisclosed amount in Series C funding」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「Total Funding」（https://growjo.com/company/Laserhub_GmbH・3回目）
+- 検索結果の抜粋：
+  - 「Career - Laserhub — Career - Laserhub Laserhub https://laserhub.com > career」（https://laserhub.com/career/・3回目）
+  - 「Laserhub - Crunchbase Company Profile & Funding — Laserhub - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > laserhub」（https://www.crunchbase.com/organization/laserhub・3回目）
+  - 「Laserhub Reviews and Pricing 2026 - F6S — Laserhub Reviews and Pricing 2026 - F6S F6S https://www.f6s.com > laserhub」（https://www.f6s.com/software/laserhub・3回目）
+  - 「Software Engineering at Laserhub — Software Engineering at Laserhub Laserhub https://laserhub.com > software-engin...」（https://laserhub.com/software-engineering-laserhub/・3回目）
+  - 「From Discovery Research to MVP - Anja Schneck UX Design — From Discovery Research to MVP - Anja Schneck UX Design anjaschneck.de https://www.anjaschneck.de > laserhub」（https://www.anjaschneck.de/work/laserhub・3回目）
+  - 「Laserhub closes Series B to expand its leadership in Europe — Laserhub closes Series B to expand its leadership in Europe Acton Capital https://www.actoncapital.com > news」（https://www.actoncapital.com/news/laserhub-closes-series-b-to-expand-its-leadership-in-europe・3回目）
+  - 「Laserhub GmbH - LinkedIn — Laserhub GmbH - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/laserhub-gmbh/・3回目）
+  - 「Das Laserhub -Team — Das Laserhub -Team Laserhub https://laserhub.com > Ueber uns」（https://laserhub.com/ueber-uns/team/・3回目）
+  - 「Laserhub GmbH: Revenue , Competitors, Alternatives - Growjo — Laserhub GmbH: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Laserhub_GmbH」（https://growjo.com/company/Laserhub_GmbH・3回目）
+  - 「Laserhub — Laserhub Laserhub https://app.laserhub.com > login」（https://app.laserhub.com/login?lang=en・3回目）
+  - 「Why we have invested in Laserhub - Fuse Venture Partners — Why we have invested in Laserhub - Fuse Venture Partners Fuse Venture Partners https://fuseventure.partners > ...」（https://fuseventure.partners/2279-2/・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部12頁・検索4回）
+
+## MFG.com
+- 公式URL：https://www.mfg.com（given）
+- 誰から払われるか：
+  - 「Get instant pricing and a manufacturer matched within 24 hours, or compare quotes from qualified shops you can trust. Manage your order all in one place.」（https://www.mfg.com/・1回目）
+  - 「Get discovered by buyers, capture RFQs, and turn opportunities into orders with modern tools designed for growing shops.」（https://www.mfg.com/・1回目）
+  - 「For Buyers」（https://www.mfg.com/・1回目）
+  - 「See our network of manufacturers and learn about their capabilities.」（https://www.mfg.com/・1回目）
+  - 「Market-backed guidance that helps suppliers quote better, faster.」（https://www.mfg.com/・1回目）
+  - 「Evaluate manufacturers by price, lead time, capabilities, and more.」（https://www.mfg.com/・1回目）
+  - 「For Manufacturers」（https://www.mfg.com/・1回目）
+  - 「Where Great Shops Get Found–And Get Hired」（https://www.mfg.com/・1回目）
+  - 「Find Manufacturers With the Capabilities You Need」（https://www.mfg.com/・1回目）
+  - 「Fast Quotes from Top Manufacturers」（https://www.mfg.com/・1回目）
+  - 「50k+ Buyers & 100k+」（https://www.mfg.com/・1回目）
+  - 「Manufacturers」（https://www.mfg.com/・1回目）
+- お金の形：
+  - 「Get instant pricing and a manufacturer matched within 24 hours, or compare quotes from qualified shops you can trust. Manage your order all in one place.」（https://www.mfg.com/・1回目）
+  - 「Upload your part for instant pricing on eligible parts. Connect with a manufacturer within 24 hours and work with them directly.」（https://www.mfg.com/・1回目）
+  - 「is a listing of global manufacturers. Buyers can search and browse profiles, then reach out to those they believe best fit their needs. Manufacturers can be discovered based on capabilities, certifications, and location.」（https://www.mfg.com/about-us/・1回目）
+  - 「from US manufacturers alone! With one of our paid memberships, qualified manufacturers are able to」（https://www.mfg.com/about-us/・1回目）
+  - 「“MFG Verified” Priority Directory Listing:」（https://www.mfg.com/about-us/・1回目）
+  - 「https://app.mfg.com/RSS_Feed_Global.xml is invalid XML, likely due to invalid characters. XML error: XML_ERR_NAME_REQUIRED at line 13, column 138」（https://www.mfg.com/about-us/・1回目）
+- 規模：
+  - 「Get discovered by buyers, capture RFQs, and turn opportunities into orders with modern tools designed for growing shops.」（https://www.mfg.com/・1回目）
+  - 「Market-backed guidance that helps suppliers quote better, faster.」（https://www.mfg.com/・1回目）
+  - 「from US manufacturers alone! With one of our paid memberships, qualified manufacturers are able to」（https://www.mfg.com/about-us/・1回目）
+  - 「When you post a Request for Quote on MFG, you’ll get assistance from our team to ensure it is ready for bidding. Receive quotes from multiple suppliers with one RFQ and save yourself time!」（https://www.mfg.com/about-us/・1回目）
+  - 「Chat with suppliers with ease using our messaging feature.」（https://www.mfg.com/about-us/・1回目）
+  - 「Benefits for Paid Suppliers:」（https://www.mfg.com/about-us/・1回目）
+  - 「MFG strives to become the preferred destination in manufacturing for buyers to easily discover new suppliers and for manufacturers to efficiently discover new customers.」（https://www.mfg.com/about-us/・1回目）
+- 創業期の始め方：
+  - 「Get Started」（https://www.mfg.com/・1回目）
+  - 「Nearly 1 Million Request」（https://www.mfg.com/・1回目）
+  - 「Get Started」（https://www.mfg.com/about-us/・1回目）
+  - 「MFG Verified profiles are always at the top of search results in the Manufacturer Directory ensuring buyers see them first.」（https://www.mfg.com/about-us/・1回目）
+- 集客：
+  - 「Search Manufacturer Directory」（https://www.mfg.com/・1回目）
+  - 「Search for:」（https://www.mfg.com/・1回目）
+  - 「Your Manufacturer Search, Simplified」（https://www.mfg.com/・1回目）
+  - 「Contains mature or sensitive content」（https://www.mfg.com/・1回目）
+  - 「Contains abusive or derogatory content」（https://www.mfg.com/・1回目）
+  - 「Contains spam, fake content or potential malware」（https://www.mfg.com/・1回目）
+  - 「Search Manufacturer Directory」（https://www.mfg.com/about-us/・1回目）
+  - 「Search for:」（https://www.mfg.com/about-us/・1回目）
+  - 「is a listing of global manufacturers. Buyers can search and browse profiles, then reach out to those they believe best fit their needs. Manufacturers can be discovered based on capabilities, certifications, and location.」（https://www.mfg.com/about-us/・1回目）
+  - 「Search thousands of shops based on location, certifications, equipment, and more to find the right fit for your custom parts request.」（https://www.mfg.com/about-us/・1回目）
+  - 「MFG Verified profiles are always at the top of search results in the Manufacturer Directory ensuring buyers see them first.」（https://www.mfg.com/about-us/・1回目）
+  - 「Contains mature or sensitive content」（https://www.mfg.com/about-us/・1回目）
+- 検索結果の抜粋：
+  - 「Register - Join Custom Manufacturing Marketplace - MFG — Register - Join Custom Manufacturing Marketplace - MFG MFG https://www.mfg.com > registration」（https://www.mfg.com/registration/・3回目）
+  - 「数字を隠す店では、 従業員 は 売上 をつくれない - 大和製作所 — 数字を隠す店では、 従業員 は 売上 をつくれない - 大和製作所 大和製作所 https://www.yamatomfg.com > rocky-fuji-mail-archive」（https://www.yamatomfg.com/info/rocky-fuji-mail-archive/share-restaurant-metrics-with-staff/・3回目）
+  - 「田野井製作所 社長インタビュー ：ウィングロボティクスによる ... — 田野井製作所 社長インタビュー ：ウィングロボティクスによる ... JET-Robotics https://jet-mfg.com > 特集」（https://jet-mfg.com/contents/tanoiseisakusyo-saitama-interview/・3回目）
+  - 「MFG.com - Crunchbase Company Profile & Funding — MFG.com - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > mfg」（https://www.crunchbase.com/organization/mfg・3回目）
+  - 「Find Manufacturing Buyers For Your Business - MFG — Find Manufacturing Buyers For Your Business - MFG MFG https://www.mfg.com > manufacturers」（https://www.mfg.com/manufacturers/・3回目）
+  - 「Has anyone used MFG. com ? Has it been successful for you ... — Has anyone used MFG. com ? Has it been successful for you ... Facebook https://www.facebook.com > ... > MACHINIST | Facebook」（https://www.facebook.com/groups/769782850345135/posts/1827328164590593/・3回目）
+  - 「MFG : The World's Largest Custom Manufacturing Marketplace — MFG : The World's Largest Custom Manufacturing Marketplace MFG https://www.mfg.com」（https://www.mfg.com/・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部10頁・検索4回）
+
+## Maker's Row
+- 公式URL：https://makersrow.com（given）
+- 誰から払われるか：
+  - 「Manufacturers In The USA | Find Trusted Manufacturers | Maker's Row」（https://makersrow.com/・1回目）
+  - 「Find Trusted Manufacturers in the USA」（https://makersrow.com/・1回目）
+  - 「Connect with trusted U.S. manufacturers across apparel, textiles, furniture, packaging, beauty & more. Post your production requirements once & get matched with manufacturers who fit your project.」（https://makersrow.com/・1回目）
+  - 「U.S. clothing manufacturers」（https://makersrow.com/・1回目）
+  - 「Find Manufacturers」（https://makersrow.com/・1回目）
+  - 「For Manufacturers」（https://makersrow.com/・1回目）
+  - 「Join verified U.S. manufacturers on Maker’s Row, connect with brands seeking manufacturing partners, and access new projects to grow your business.」（https://makersrow.com/・1回目）
+  - 「Share your product specifications, budget, and manufacturing requirements to receive competitive quotes from verified U.S. manufacturers that match your production needs.」（https://makersrow.com/・1回目）
+  - 「Browse verified U.S. manufacturers by industry, location, capabilities, and production expertise to find the best manufacturing partner for your product.」（https://makersrow.com/・1回目）
+  - 「Connect directly with verified manufacturers, discuss project requirements, compare capabilities, and confidently move your product into production.」（https://makersrow.com/・1回目）
+  - 「Connect with Manufacturers」（https://makersrow.com/・1回目）
+  - 「Publish your manufacturing project and connect with verified U.S. manufacturers on our manufacturing marketplace」（https://makersrow.com/・1回目）
+- お金の形：
+  - 「Pricing」（https://makersrow.com/・1回目）
+  - 「Simple pricing with no hidden fees. Choose the right solution either」（https://makersrow.com/・1回目）
+  - 「Select Plan」（https://makersrow.com/・1回目）
+  - 「75 proposals per month」（https://makersrow.com/・1回目）
+  - 「200 Ask Maker's Row AI credits per month」（https://makersrow.com/・1回目）
+  - 「150 proposals per month」（https://makersrow.com/・1回目）
+  - 「75 proposals per month after conversion」（https://makersrow.com/・1回目）
+  - 「Compare manufacturing quotes based on pricing, production capabilities, lead times, minimum order quantities (MOQs), quality standards, and communication. Reviewing multiple quotes helps you choose the right manufacturing partner with confidence.」（https://makersrow.com/・1回目）
+  - 「Choose a manufacturer based on product category, production capabilities, minimum order quantities (MOQs), certifications, pricing, location, communication, and experience. Comparing multiple manufacturing quotes helps you select the best manufacturing partner for your business.」（https://makersrow.com/・1回目）
+  - 「Maker’s Row Pricing Plans | Connect With US Manufacturers」（https://makersrow.com/pricing/・1回目）
+  - 「Pricing」（https://makersrow.com/pricing/・1回目）
+  - 「Simple pricing with no hidden fees. Choose the right solution either」（https://makersrow.com/pricing/・1回目）
+- 規模：
+  - 「3 team users」（https://makersrow.com/・1回目）
+  - 「6 team users」（https://makersrow.com/・1回目）
+  - 「11 team users」（https://makersrow.com/・1回目）
+  - 「3 team users」（https://makersrow.com/pricing/・1回目）
+  - 「6 team users」（https://makersrow.com/pricing/・1回目）
+  - 「11 team users」（https://makersrow.com/pricing/・1回目）
+  - 「Reach out to your users and get reviews on Maker’s Row.」（https://makersrow.com/pricing/・1回目）
+  - 「and database for members to connect American manufacturers with small, medium-sized, and product-based businesses.」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+  - 「In 2024, the company is among the top 10 suppliers to」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+  - 「Maker's Row Pros is a service that offers personal guidance in manufacturing and other areas. The members that have joined the “Maker Community” are able to communicate one-on-one with professionals through the service.」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+  - 「"Best Ecommerce Suppliers (+ Finding the Best Ones for Your Business)"」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+  - 「. Wikipedia® is a registered trademark of the」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+- 創業期の始め方：
+  - 「Your factory answers your first inquiry with one line: “Please send your」（https://makersrow.com/・1回目）
+  - 「- Sign up as a Brand and Get started with project creation to connect with right manufacturing partners for FREE」（https://makersrow.com/・1回目）
+  - 「Get Started」（https://makersrow.com/pricing/・1回目）
+  - 「Get Started Today」（https://makersrow.com/pricing/・1回目）
+  - 「Ready to get started?」（https://makersrow.com/pricing/・1回目）
+  - 「Are there any additional resources available to help factories get started on Maker's Row?」（https://makersrow.com/pricing/・1回目）
+  - 「Yes, Maker’s Row offers a variety of resources, including tutorials, webinars, and articles, to help factories get started and make the most of their subscription.」（https://makersrow.com/pricing/・1回目）
+  - 「Founder and Designer @ Ugmonk」（https://makersrow.com/pricing/・1回目）
+  - 「CEO & Founder @ Kiki Lynn」（https://makersrow.com/pricing/・1回目）
+  - 「Are there any additional resources available to help brands get started on Maker's Row?」（https://makersrow.com/pricing/・1回目）
+  - 「Yes, Maker’s Row offers a variety of resources, including tutorials, webinars, and articles, to help brands get started and make the most of their subscription.」（https://makersrow.com/pricing/・1回目）
+  - 「- Sign up as a Brand and Get started with project creation to connect with right manufacturing partners for FREE」（https://makersrow.com/pricing/・1回目）
+- 集客：
+  - 「Search」（https://makersrow.com/・1回目）
+  - 「Connect with brands actively searching for trusted manufacturing partners.」（https://makersrow.com/・1回目）
+  - 「Browse and search manufacturers」（https://makersrow.com/・1回目）
+  - 「Search and compare manufacturers」（https://makersrow.com/・1回目）
+  - 「Maker’s Row simplifies the process of finding trusted U.S. manufacturers by bringing brands and manufacturers together on one manufacturing marketplace. Instead of searching multiple directories, you can publish one project for free, compare manufacturing quotes, and connect with the right manufacturing partner faster.」（https://makersrow.com/・1回目）
+  - 「Browse and search manufacturers」（https://makersrow.com/pricing/・1回目）
+  - 「Search and compare manufacturers」（https://makersrow.com/pricing/・1回目）
+  - 「Search Rank」（https://makersrow.com/pricing/・1回目）
+  - 「Get highlighted on searches done by brands on Maker’s Row」（https://makersrow.com/pricing/・1回目）
+  - 「Search and bid on projects」（https://makersrow.com/pricing/・1回目）
+  - 「Search for projects using filters like category, industry, location and start bidding」（https://makersrow.com/pricing/・1回目）
+  - 「Unlimited factory search」（https://makersrow.com/pricing/・1回目）
+- 資金調達・売却：
+  - 「when Maker's Row announced $1 million in seed funding July 19, 2013.」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+- 検索結果の抜粋：
+  - 「Maker's Row - Wikipedia — Maker's Row - Wikipedia Wikipedia https://en.wikipedia.org > Maker's_Row」（https://en.wikipedia.org/wiki/Maker%27s_Row・3回目）
+  - 「Maker's Row : Manufacturers In The USA | Find Trusted ... — Maker's Row : Manufacturers In The USA | Find Trusted ... Maker's Row https://makersrow.com」（https://makersrow.com/・3回目）
+  - 「Maker's Row vs Sewport vs PluckyReach 2026 — Maker's Row vs Sewport vs PluckyReach 2026 Plucky Reach https://pluckyreach.com > blog > mak...」（https://pluckyreach.com/blog/makers-row-vs-sewport-vs-pluckyreach・3回目）
+  - 「Matthew Burnett and Tanya Menendez of Maker's Row — Matthew Burnett and Tanya Menendez of Maker's Row YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=KuEwEPNi804・3回目）
+  - 「Maker's Row - Crunchbase Company Profile & Funding — Maker's Row - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > maker...」（https://www.crunchbase.com/organization/makers-row・3回目）
+  - 「起業家と工場とをつなぐプラットフォーム「 Maker's Row 」に ... — 起業家と工場とをつなぐプラットフォーム「 Maker's Row 」に ... Make: Japan https://makezine.jp > blog > 2016/12 > the-factory-finders」（https://makezine.jp/blog/2016/12/the-factory-finders.html・3回目）
+  - 「Maker's Row and the future of American manufacturing — Maker's Row and the future of American manufacturing YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=ADYL-7lNlcs・3回目）
+- 設立：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式2頁／PDF・画像0件／外部10頁・検索4回）
+
+## MatWeb
+- 公式URL：https://www.matweb.com（given）
+- 誰から払われるか：
+  - 「It’s a membership organisation that also includes communities, events and various educational and development resources, as well as copies of their monthly member's publication ‘Materials World'.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「You can get access to useful resources on materials by simply using the search field on their homepage. You’ll get links to articles and research on specific materials, as well as information on suppliers.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「プレミアム会員 (Premium Membership):」（https://mat-dacs.dxmt.nims.go.jp/list/1589・3回目）
+- お金の形：
+  - 「🍂 November Morning Bossa Nova Jazz - Warm Autumn Coffee Music for Focus and Study」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+  - 「Due to the large amount and quality of information and reports available, there is a subscription fee to access their resources.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「It’s a membership organisation that also includes communities, events and various educational and development resources, as well as copies of their monthly member's publication ‘Materials World'.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「やCADソフトウェアへ材料データを直接エクスポートできるプレミアム会員機能もサポートされている」（https://mat-dacs.dxmt.nims.go.jp/list/1589・3回目）
+  - 「プレミアム会員 (Premium Membership):」（https://mat-dacs.dxmt.nims.go.jp/list/1589・3回目）
+- 規模：
+  - 「It’s a membership organisation that also includes communities, events and various educational and development resources, as well as copies of their monthly member's publication ‘Materials World'.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「You can get access to useful resources on materials by simply using the search field on their homepage. You’ll get links to articles and research on specific materials, as well as information on suppliers.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「プレミアム会員 (Premium Membership):」（https://mat-dacs.dxmt.nims.go.jp/list/1589・3回目）
+- 創業期の始め方：
+  - 「【これだけマスターすれば一人前】プロが教える! Excelの超時短テクニック15選【15分の動画で人生が変わる！】」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+- 集客：
+  - 「MatWeb - 材料特性検索ツール - YouTube」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+  - 「MatWeb - 材料特性検索ツール」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+  - 「MatMatchの使い方：材料選定とサプライヤー検索ツール」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+  - 「Newsletter」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「Search」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「, sometimes this just isn’t enough, especially if you’re searching for info on an extremely obscure material.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「(ASM) materials site is similar to Matweb in that it covers a wide-range of different materials. You can search for resources from their 30 volume handbook alloy centre (which also provides processing guidelines), over 4000 micrographs for industrially important alloys, and a failure analysis database.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「Their information is guaranteed to be reliable and up-to-date. Another benefit is that you can search for specific industries. This is particularly useful and time-saving if you’re looking to find safe materials to use in a certain industrial process, as they will list the possibilities for you.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「You will need to register for a free account before searching, but this will give you access to their full databases.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「. You can contact them through a web-form, asking for specific details on a material or materials process and they will search through their extensive physical and digital libraries for the relevant information.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「You can get access to useful resources on materials by simply using the search field on their homepage. You’ll get links to articles and research on specific materials, as well as information on suppliers.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「(ASTM) have a wealth of information and research available on their site, including a searchable database of the journal; ‘Materials Performance and Characterization’. Here you can find detailed reports and articles on materials used in the following industries: mechanical, transportation, aerospace, energy and medical devices.」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+- 検索結果の抜粋：
+  - 「MatWeb : Online Materials Information Resource — MatWeb : Online Materials Information Resource MatWeb https://www.matweb.com」（https://www.matweb.com/・3回目）
+  - 「A Material Property Finder - MatWeb - YouTube — A Material Property Finder - MatWeb - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Ij3Rd0sp5Dg・3回目）
+  - 「MatWeb – Top 6 Alternative Websites — MatWeb – Top 6 Alternative Websites Mechanical-Engineering.com https://mechanical-engineering.com > ...」（https://mechanical-engineering.com/matweb-alternative/・3回目）
+  - 「MatWeb : a free online resource for material properties — MatWeb : a free online resource for material properties WordPress.com https://insidescienceresources.wordpress.com > ...」（https://insidescienceresources.wordpress.com/2019/05/15/matweb-a-free-online-resource-for-material-properties/・3回目）
+  - 「Search Capabilities for Materials Property Data - MatWeb — Search Capabilities for Materials Property Data - MatWeb MatWeb https://www.matweb.com > search」（https://www.matweb.com/search/search.aspx・3回目）
+  - 「MatWeb - MatDaCs — MatWeb - MatDaCs 国立研究開発法人物質・材料研究機構 https://mat-dacs.dxmt.nims.go.jp > list」（https://mat-dacs.dxmt.nims.go.jp/list/1589・3回目）
+  - 「(a) MatWeb's search engine and (b) MatWeb's material ... — (a) MatWeb's search engine and (b) MatWeb's material ... ResearchGate https://www.researchgate.net > figure」（https://www.researchgate.net/figure/a-MatWebs-search-engine-and-b-MatWebs-material-properties-search-engine-3_fig1_364765722・3回目）
+  - 「MatWeb LLC Spin-Off Announced — MatWeb LLC Spin-Off Announced MatWeb https://www.matweb.com > news > M...」（https://www.matweb.com/news/MatWeb_Spinout.aspx・3回目）
+  - 「MatWeb , a COMSOL ISV Partner — MatWeb , a COMSOL ISV Partner COMSOL https://www.comsol.com > matweb」（https://www.comsol.com/partners-consultants/software/matweb・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部7頁・検索4回）
+
+## Material ConneXion
+- 公式URL：https://www.materialconnexion.com（given）
+- 誰から払われるか：
+  - 「Suppliers」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「to schedule your visit. Academic members may use the automated booking form, available」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「We do not offer complimentary visits to non-members.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer individual memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「We do not offer individual memberships, but individuals may take advantage of our corporate membership option.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer academic memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion does not provide material samples. Members may request samples directly from the manufacturer by using the contact information found in the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Suppliers」（https://insights.materialconnexion.com/about-us/・3回目）
+  - 「Access to 10K+ material innovations from 7K+ global manufacturers through our Material Database」（https://insights.materialconnexion.com/about-us/・3回目）
+- お金の形：
+  - 「ADVERTISING」（https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/・3回目）
+  - 「Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer individual memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「We do not offer individual memberships, but individuals may take advantage of our corporate membership option.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer academic memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+- 規模：
+  - 「Suppliers」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「to schedule your visit. Academic members may use the automated booking form, available」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「We do not offer complimentary visits to non-members.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer individual memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「We do not offer individual memberships, but individuals may take advantage of our corporate membership option.」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Do you offer academic memberships?」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Material ConneXion does not provide material samples. Members may request samples directly from the manufacturer by using the contact information found in the」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Suppliers」（https://insights.materialconnexion.com/about-us/・3回目）
+  - 「We’re headquartered in New York, but members can access materials worldwide.」（https://insights.materialconnexion.com/about-us/・3回目）
+- 創業期の始め方：
+  - 「場所の立ち上げから携わっていた吉川久美子氏と、知財図鑑 代表の出村光世、知財図鑑 編集長の荒井亮の2人が語り合った」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「創業者のジョージ・ベイレリアンはイタリア家具を輸入し、インテリアの生地やカーテンなどを扱うショールームを運営していたのですが、お客さんには玩具やカバンを扱う人たちもマテリアルに興味を持ち来場したそうです」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「NISSHA株式会社にて樹脂成形品に転写する加飾フィルム事業部に所属し、家電や自動車メーカーのデザイン部門に対し、CMF デザインの提案を行う部署を立ち上げる」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「一人の頭の中にある発想を、まだ見ぬ価値へと育てていく」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「未来をバックキャストする知財ハンターのワークショップを通し、イノベーションのきっかけを」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「How a material substitution transformed a staple hair care product. Ever since the first person wanted to put...」（https://insights.materialconnexion.com/about-us/・3回目）
+- 集客：
+  - 「現在の人気記事」（https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/・3回目）
+  - 「人気のお買いモノ記事」（https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/・3回目）
+  - 「利用者さんから、ここで紹介したマテリアルが製品の一部に採用されたことを、直接お知らせいただけると嬉しかったですし、ふとしたタイミングで思い出していただき伺うこともありました」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「知財図鑑ではデジタルベースで大量の情報を検索できるのですが、デジタルな情報とフィジカルな素材をうまく接続できると面白くなりそうです」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「東京ビッグサイトなどで行われる、ビジネス系の展示会に足を運びます」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「展示会場では営業の方のみならず、素材を開発している方も参加しているので、開発の意図や特徴まで細かく、かつわかりやすく教えていただけるんです」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「この記事を読んでくださった方で、イベントに参加いただいたり、訪れたことのある方がいらっしゃたら、改めて感謝をお伝えしたいです」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「この記事のタグ」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「クリエイティブ・メディアです」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「あなたの会社の知財や特許情報を紹介し、新たなコラボレーションを生み出しましょう」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「Skip to main content」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「Content Type」（https://insights.materialconnexion.com/faqs/・3回目）
+- 検索結果の抜粋：
+  - 「Material ConneXion Tokyo、六本木移転オープン 企業リリース — Material ConneXion Tokyo、六本木移転オープン 企業リリース 日刊工業新聞 https://www.nikkan.co.jp > releases > view」（https://www.nikkan.co.jp/releases/view/57891・3回目）
+  - 「7千点の素材ライブラリー「 マテリアルコネクション 」南青山 ... — 7千点の素材ライブラリー「 マテリアルコネクション 」南青山 ... fashionsnap.com https://www.fashionsnap.com > ニュース > ファッション」（https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/・3回目）
+  - 「素材の「探す」と「つくる」を繋げる Material ConneXion ... — 素材の「探す」と「つくる」を繋げる Material ConneXion ... 知財図鑑 https://chizaizukan.com > pickup > interview」（https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG・3回目）
+  - 「Material ConneXion Tokyo 手に触れてこそ素材は想像力を ... — Material ConneXion Tokyo 手に触れてこそ素材は想像力を ... ameet.jp https://www.ameet.jp > feature」（https://www.ameet.jp/feature/551/・3回目）
+  - 「FAQs - Material ConneXion — FAQs - Material ConneXion Material ConneXion https://insights.materialconnexion.com > ...」（https://insights.materialconnexion.com/faqs/・3回目）
+  - 「About Us - Material ConneXion — About Us - Material ConneXion Material ConneXion https://insights.materialconnexion.com > ...」（https://insights.materialconnexion.com/about-us/・3回目）
+  - 「Material ConneXion — Material ConneXion Materially https://www.materially.eu > mcx-libra...」（https://www.materially.eu/en/mcx-library-insights/・3回目）
+  - 「Material ConneXion – Financials, Industry Trends & Funding Inf… — Discover Material ConneXion's estimated revenue, valuation, funding history, employee data, and top competitors.」（https://compworth.com/company/material-connexion・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## Matmatch
+- 公式URL：https://matmatch.com（given）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 誰から払われるか：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- お金の形：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 創業期の始め方：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 集客：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## Metalshub
+- 公式URL：https://www.metals-hub.com（given）
+- 売上高：$6.5M（https://getlatka.com/companies/metals-hub.com・3回目）
+- 誰から払われるか：
+  - 「Customers」（https://www.metals-hub.com/en/・1回目）
+  - 「Connect with new suppliers, conduct effective negotiations and take data-driven driven decisions to save direct raw material cost. On average companies」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover 9 new suppliers」（https://www.metals-hub.com/en/・1回目）
+  - 「Simplify enquiry-to-contract, run auctions, discover new customers and allocate the most suited inventory to optimise your netback across offers. On average companies」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover 3 new customers」（https://www.metals-hub.com/en/・1回目）
+  - 「Will implementing Metalshub negatively impact my personal relationships to buyers/sellers?」（https://www.metals-hub.com/en/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Metalshub is backed internationally proclaimed investors with significant experience in helping Software as a Service (SaaS) companies create lasting value for its customers.」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Customers」（https://www.metals-hub.com/en/industry-player/recycling-company/・1回目）
+  - 「“Metalshub makes it easier to conclude transactions. All necessary information can be seen at a glance, clarifications via mail or telephone are no longer required, all buyers and sellers have been checked beforehand.”」（https://www.metals-hub.com/en/industry-player/recycling-company/・1回目）
+  - 「See What Our Customers Think About Metalshub」（https://www.metals-hub.com/en/industry-player/recycling-company/・1回目）
+- お金の形：
+  - 「User Feedback」（https://www.metals-hub.com/en/・1回目）
+  - 「Pricing」（https://www.metals-hub.com/en/・1回目）
+  - 「User Feedback」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Pricing」（https://www.metals-hub.com/en/about-us/・1回目）
+  - 「Metalshub Pricing - Invest in Your Future」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「User Feedback」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Pricing」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Our Pricing Plans」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Flexible Pricing for Every Need」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Chose the plan that best fits your requirements.」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「Custom Pricing」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「User Feedback」（https://www.metals-hub.com/en/industry-player/recycling-company/・1回目）
+- 規模：
+  - 「Connect with new suppliers, conduct effective negotiations and take data-driven driven decisions to save direct raw material cost. On average companies」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover 9 new suppliers」（https://www.metals-hub.com/en/・1回目）
+  - 「What Users Say About Us」（https://www.metals-hub.com/en/・1回目）
+  - 「Members」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Membership Statutes」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Regular Federation Members」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Regular Subscribers & Members」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Associate Members」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Italy’s Supreme Court orders permanent closure of Acciaierie d’Italia (ADI)」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+- 創業期の始め方：
+  - 「Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.」（https://www.metals-hub.com/en/・1回目）
+  - 「Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.」（https://www.metals-hub.com/en/pricing/・1回目）
+  - 「第36回グラハム＆ドッド・アニュアル・イベント：ヒマラヤ・キャピタル創業者兼会長 リー・ルー（96年卒）登壇」（https://www.youtube.com/watch?v=4Y7Dzp0GKr8・3回目）
+  - 「10月11日 – ロンドン金属取引所（LME）は、メタルズハブ社と協力して非鉄金属の現物取引プラットフォームを開発しており、最初の製品は2022年初頭に発売される予定です」（https://www.youtube.com/watch?v=4Y7Dzp0GKr8・3回目）
+  - 「最初に破綻する先進国はどこか？」（https://www.youtube.com/watch?v=4Y7Dzp0GKr8・3回目）
+  - 「Co-Founder & Managing Director」（https://growjo.com/company/Metalshub・3回目）
+  - 「Founder figures link to the second they were said; public figures name their source; estimates are marked EST and say whose they are. Not financial advice.」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Mobile First Company (Allo)」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Trusted by 45,000+ founders, operators, and investors.」（https://getlatka.com/companies/metals-hub.com・3回目）
+- 集客：
+  - 「Content Management Systems」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Newsletter」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「AI-Powered SaaS Search」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Search」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「Skip to content」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Newsletter」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Search」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Search for:」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+- 資金調達・売却：
+  - 「Total Funding」（https://growjo.com/company/Metalshub・3回目）
+  - 「E-commerce platform Metalshub raises $11m funding - EUROMETAL」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「E-commerce platform Metalshub raises $11m funding」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+- 検索結果の抜粋：
+  - 「Metalshub - Platform to Buy, Sell and Trade Raw Materials — Metalshub - Platform to Buy, Sell and Trade Raw Materials Metals Hub https://www.metals-hub.com > ...」（https://www.metals-hub.com/en/・3回目）
+  - 「Metalshub | LinkedIn — Metalshub | LinkedIn LinkedIn https://jp.linkedin.com > company > metalshub」（https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image・3回目）
+  - 「LME and Metalshub Developing Trusted Commodity Spot ... — LME and Metalshub Developing Trusted Commodity Spot ... London Metal Exchange https://www.lme.com > lme-digest > l...」（https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices・3回目）
+  - 「Metalshub - Valuation, Funding & Investors - PitchBook — Metalshub - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/233432-47・3回目）
+  - 「Metalshub Revenue 2025: $6.5M Est. - GetLatka — Metalshub Revenue 2025: $6.5M Est. - GetLatka GetLatka https://getlatka.com > metals-hub」（https://getlatka.com/companies/metals-hub.com・3回目）
+  - 「metalshub - Instagram — metalshub - Instagram Instagram https://www.instagram.com > metalshub」（https://www.instagram.com/metalshub/・3回目）
+  - 「Metalshub : Revenue, Competitors, Alternatives - Growjo — Metalshub : Revenue, Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub」（https://growjo.com/company/Metalshub・3回目）
+  - 「LME CEO on Metalshub Partnership, Aluminum - YouTube — LME CEO on Metalshub Partnership, Aluminum - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=4Y7Dzp0GKr8・3回目）
+  - 「About Metalshub : Our Mission, Team & Values — About Metalshub : Our Mission, Team & Values Metals Hub https://www.metals-hub.com > about-us」（https://www.metals-hub.com/en/about-us/・3回目）
+  - 「Metalshub : Revenue , Competitors, Alternatives - Growjo — Metalshub : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub」（https://growjo.com/company/Metalshub・3回目）
+  - 「E-commerce platform Metalshub raises $11m funding — E-commerce platform Metalshub raises $11m funding EUROMETAL https://eurometal.net > e-commerce-pl...」（https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/・3回目）
+  - 「Our Partners | Metalshub — Our Partners | Metalshub Metals Hub https://www.metals-hub.com > partners」（https://www.metals-hub.com/en/partners/・3回目）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）
+
+## Metoree
+- 公式URL：https://metoree.com（given）
+- 設立：2014年2月（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+- 設立：2017年7月4日 [ 1 ]（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+- 誰から払われるか：
+  - 「展示会に出展しなくても販売機会を増やせる」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「イプロスは「閲覧会員数、出展企業数No.1」を公式に掲げており、2001年のサービス開始以来、圧倒的なユーザー基盤を築いてきました」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「出展企業数: 47,607社」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「一方、メトリーは2020年にスタートしたサービスですが、「掲載企業数」においてイプロスを上回る可能性があります」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「出展企業数: 80,000社以上」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「両社が示す「掲載企業」の定義は同じではありません」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「たとえば、一時的なキャンペーン出展企業を含めているのか、能動的に製品を掲載する有料顧客のみを指すのか、休眠企業を含むのかなどによって、数字の意味は大きく変わります」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「掲載企業の定義も異なるので、指標の背景を理解することが重要です」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「約4.7万社（出展企業数）」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「両方のプラットフォームに出展する場合は、それぞれの想定ターゲットに合わせて掲載する商材や訴求内容を工夫することが重要です」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「Metoree, a Website that Allows Users to Search Manufacturers and Suppliers, Has Started Operations in the Philippines.」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+- お金の形：
+  - 「メトリー（Metoree）広告掲載のメリット・料金・評判・効果を徹底解説 - 集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリー（Metoree）広告掲載のメリット・料金・評判・効果を徹底解説」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーの媒体特性、掲載料金、無料・有償プランの違い、導入事例、向いている企業、メトリー掲載だけでは解決しにくい課題まで整理」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「自社製品の掲載からバナー広告まで出稿形式は多様」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーへの出稿形式は、製品情報・会社情報の登録掲載と、特定カテゴリページ内へのバナー広告配置の2種類があります」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーへの広告掲載で得られるメリット」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーへの広告掲載の主なメリットは、①展示会に頼らずオンラインで恒常的な販売機会を確保できること、②Metoreeのドメイン力でカテゴリ上位表示を獲得して自社サイトへの流入を増やせること、③BtoB購買に直接かかわるエンジニア・研究者・購買担当者にリーチできること、の3点です」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーの広告掲載料金・無料プランと有償プランの違い」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリーには無料掲載プランと有償の広告プランがあります」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「有償プランでは上位表示優遇・バナー広告・レポーティング機能が追加されます」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「有償プラン（広告プラン）」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+- 規模：
+  - 「具体的な料金は非公開で問い合わせにより決まりますが、費用対効果を評価する際は「月間問い合わせ件数×商談化率×受注単価」を軸に投資対効果を逆算する方法が有効です」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「イプロスは「閲覧会員数、出展企業数No.1」を公式に掲げており、2001年のサービス開始以来、圧倒的なユーザー基盤を築いてきました」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「閲覧会員数: 1,891,051人」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「閲覧会員数: 非公開」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「メトリーは登録会員数を公開しておらず、B2Bにおける企業間マッチング機会の拡大を主軸に据えています」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「一方で、イプロスは約190万人という会員数を公表しており、企業における「個人ユーザー」への認知・興味段階へのアプローチを可能にしています」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「会員数/ユーザー数」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「会員数は非公表」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「Metoree, a Website that Allows Users to Search Manufacturers and Suppliers, Has Started Operations in the Philippines.」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+- 創業期の始め方：
+  - 「最初に、業界や企業規模だけでなく、顧客がどのような場面で製品を探し、導入時に何を確認し、誰が選定に関わるのかを整理します」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「最初に注目したいのは、両社が掲げる「規模」に関する指標とその意味です」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「メトリーの想定するユーザー行動は、最初から「見積依頼」や「製品への直接問い合わせ」を行うことであり、カタログを集めて比較検討するプロセスよりも、スピード感のある商談開始を重視しています」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「“Metoree, a Comparison Site for Industrial Products, Has Started Its Operation in India”」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+  - 「Metoree, a Website that Allows Users to Search Manufacturers and Suppliers, Has Started Operations in the Philippines.」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+- 集客：
+  - 「メトリー（Metoree）広告掲載のメリット・料金・評判・効果を徹底解説 - 集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「業界別おすすめ記事を見る」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「おすすめ記事を見る」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「新着記事を見る」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「▼フリーワード検索する」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリー（Metoree）広告掲載のメリット・料金・評判・効果を徹底解説」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリー（Metoree）は、製造業・研究開発・購買部門の担当者が産業用製品を比較する際に利用することができる製品比較検索プラットフォームです」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリー以外の製造業向け比較サイトも含めて、掲載先の特徴や料金を比較したい方は、以下の記事もご覧ください」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「この記事では、」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「自社サイトのSEOが弱い段階でも、購買意欲の高い比較検討層に対してカテゴリ上位表示で即座にリーチできる」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「メトリー（Metoree）は、ZAZA株式会社が運営する産業用製品の比較検索サービスです」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+- 資金調達・売却：
+  - 「6月 日本政策金融公庫より資金調達を実施」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+  - 「ZAZA株式会社が日本政策金融公庫より資金調達を実施」（https://ja.wikipedia.org/wiki/ZAZA_(%E4%BC%81%E6%A5%AD)・3回目）
+- 検索結果の抜粋：
+  - 「メトリー（ Metoree ）広告掲載のメリット・ 料金 ・評判・効果 ... — メトリー（ Metoree ）広告掲載のメリット・ 料金 ・評判・効果 ... キャククル https://www.shopowner-support.net > metoree」（https://www.shopowner-support.net/attracting_customers/manufacturing/metoree/・3回目）
+  - 「【徹底比較】イプロスvsメトリー製造業マーケティング担当者 ... — 【徹底比較】イプロスvsメトリー製造業マーケティング担当者 ... 合同会社ユー・ラボ https://blog.u-labo.co.jp > ipros-vs-metoree-b2b-platform...」（https://blog.u-labo.co.jp/ipros-vs-metoree-b2b-platform-comparison/・3回目）
+  - 「Metoree 無料掲載・費用・広告・評判・クチコミ — Metoree 無料掲載・費用・広告・評判・クチコミ Metoree https://metoree.com > ad_placement」（https://metoree.com/ad_placement/・3回目）
+  - 「会社概要 - Metoree — 会社概要 - Metoree Metoree https://metoree.com > company」（https://metoree.com/company/・3回目）
+  - 「大日本パックェージ株式会社 - Metoree — 大日本パックェージ株式会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/40562/・3回目）
+  - 「Jiangsu Yudi Optical Co.,Ltd.の企業レビュー - Metoree — Jiangsu Yudi Optical Co.,Ltd.の企業レビュー - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/42805/・3回目）
+  - 「顧客管理システム メーカー62社 - Metoree — 顧客管理システム メーカー62社 - Metoree Metoree https://metoree.com > categories」（https://metoree.com/categories/8815/・3回目）
+  - 「【2022年版】BtoB製造業のオウンドメディア・ブログ事例 ... — 【2022年版】BtoB製造業のオウンドメディア・ブログ事例 ... Metoree https://metoree.com > articles」（https://metoree.com/articles/464/・3回目）
+  - 「ZAZA (企業) - Wikipedia — 概要 2017年に 名古屋大学 在籍中に永津豪・村瀬裕太らが設立した 大学発ベンチャー。 食体験・料理教室マッチングプラットフォーム「airKitchen」や産業用製品メーカー・代理店の比較検索サービス「Metoree (メトリー)」などのwebサービスを運営する。」（https://ja.wikipedia.org/wiki/ZAZA_(企業)・3回目）
+  - 「会社概要 | Metoree — Metoreeはエンジニア・研究者・購買担当者の方のための産業用製品メーカー比較・販売サービスです。 工作機械・測定器・センサ・工具・電気電子部品・建材・農業資材など7,000以上のカテゴリー、産業用製品メーカー・代理店80,000社を登録しています。」（https://metoree.com/company/・3回目）
+  - 「【メディア掲載】弊社代表 齋藤一博のインタビュー記事が「Metoree (... — Jul 3, 2026 · この度、製造業・産業用製品の比較サイト「Metoree（メトリー）」の成功事例紹介ページにて、弊社代表取締役社長 齋藤一博のインタビュー記事が掲載されましたのでお知らせいたします。」（https://r-i.jp/news/information/003082.html・3回目）
+  - 「Yuta Murase - ZAZA株式会社COO/共同創業者|テレビCM放送中| メトリー...About Us | Metoree - Search Manufacturers and SuppliersZAZA (企業) - Wikipedia産業用製品比較販売サービス「メトリー」、メ～テレ（名古屋テレビ放...株式会社これからミステリーとは？社長・事業内容・ヒカルとの関係を... — 概要 ZAZA株式会社COO/共同創業者|テレビCM放送中| メトリー運営|airKitchen運営|愛知出身|刈谷高→名古屋大→NEC→ZAZA|J1東京ヴェルディのスポンサー The position will be responsible for the formulation of Metoree KPIs and the completion of their execution. In a」（https://jp.linkedin.com/in/yuta-murase-b17b0a134・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部6頁・検索4回）
+
+## NCネットワーク
+- 公式URL：https://ncnfactory.jp/（search:yahoo_jp:NCネットワーク）
+- 設立：2020年2月 (前身のNCネットワーク加工事業部は2000年にスタート）（https://ncnfactory.jp/about/・1回目）
+- 設立：2020年2月 (前身のNCネットワーク加工事業部は2000年にスタート）（https://ncnfactory.jp:443/about/・1回目）
+- 設立：2021年5月12日（https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/・3回目）
+- 誰から払われるか：
+  - 「” held at Tokyo Big Sight from Tuesday, March 17 to Thursday, March 19, 2026. Since our booth was located near those of automotive manufacturers, we were pleased to welcome many professionals involved in the development of in-vehicle fuel cells. We hope that our manufacturing support, leveraging our extensive network, will contribute to solving your challenges in the future.」（https://ncnfactory.jp/・1回目）
+  - 「謹賀新年 Happy New Year ＆ 展示会出展のお知らせ」（https://ncnfactory.jp/・1回目）
+  - 「「NCネットワークファクトリー展示会出展のお知らせ」」（https://ncnfactory.jp/・1回目）
+  - 「に出展を予定しております」（https://ncnfactory.jp/・1回目）
+  - 「謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024」（https://ncnfactory.jp/・1回目）
+  - 「新年のご挨拶 EVHVFCV展示会出展のお知らせ」（https://ncnfactory.jp/・1回目）
+  - 「新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜」（https://ncnfactory.jp/・1回目）
+  - 「謹賀新年 Happy New Year ＆ 展示会出展のお知らせ」（https://ncnfactory.jp/about-two/・1回目）
+  - 「謹賀新年 第10回自動車部品&加工EXPO, H2&FC EXPO 水素・燃料電池展 出展のお知らせ NCNF in Trade Show2024」（https://ncnfactory.jp/about-two/・1回目）
+  - 「新年のご挨拶 EVHVFCV展示会出展のお知らせ」（https://ncnfactory.jp/about-two/・1回目）
+  - 「新年あけましておめでとうございます 〜EVHVFCV技術展出展のお知らせ〜」（https://ncnfactory.jp/about-two/・1回目）
+  - 「のグループ会社であり、同社の会員企業データベースを共有しています」（https://ncnfactory.jp/partner/・1回目）
+- お金の形：
+  - 「We plan to exhibit at the」（https://ncnfactory.jp/・1回目）
+  - 「We plan to exhibit at the」（https://ncnfactory.jp/news/・1回目）
+  - 「We will be back here in 2026 as we plan to exhibit again. See you again.」（https://ncnfactory.jp/news/・1回目）
+  - 「We understand that there is a long road from the principle prototype to the prototype and the completion of mass production drawings, but NC Network Factory can help you from the initial stages of such projects. Please feel free to contact us.」（https://ncnfactory.jp/news/・1回目）
+  - 「We have also received a plaque with our name on it from Hokkaido Space Port (HOSPO) as a tax return gift for our personal tax payment. We are told that it is currently under construction and it is difficult to enter the site, but if you are planning to visit Taiki Town from Obihiro, Hokkaido in the future, please visit the site to see the plaque.」（https://ncnfactory.jp/news/・1回目）
+  - 「In cooperation with our partner companies, we will strive to create new products that are useful to society and contribute to stable production. We are sure that there are some points that we did not fully explain on the day, so please feel free to contact us for further information.」（https://ncnfactory.jp/news/・1回目）
+  - 「We plan to exhibit at the」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「We will be back here in 2026 as we plan to exhibit again. See you again.」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「We understand that there is a long road from the principle prototype to the prototype and the completion of mass production drawings, but NC Network Factory can help you from the initial stages of such projects. Please feel free to contact us.」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「We have also received a plaque with our name on it from Hokkaido Space Port (HOSPO) as a tax return gift for our personal tax payment. We are told that it is currently under construction and it is difficult to enter the site, but if you are planning to visit Taiki Town from Obihiro, Hokkaido in the future, please visit the site to see the plaque.」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「In cooperation with our partner companies, we will strive to create new products that are useful to society and contribute to stable production. We are sure that there are some points that we did not fully explain on the day, so please feel free to contact us for further information.」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「. We received a lot of attention from the people involved in the casting and forging of leak-free aluminum parts for hydrogen fuel cell vehicles. We are sure that there were some parts that we did not explain well enough, so please feel free to contact us if you have any questions.」（https://ncnfactory.jp/news/page/2/・1回目）
+- 規模：
+  - 「会員分布・会員数」（https://ncnfactory.jp/partner/・1回目）
+  - 「We select processing contractors from among the 15,000 Emidas members plus our own cultivated partner factories according to the needs of our customers. When selecting a company, our staff conducts offline interviews and inspections.」（https://ncnfactory.jp/partner/・1回目）
+  - 「In addition to approximately 15,000 companies in Japan, local companies in China, Vietnam, and Thailand have registered with Emidas.」（https://ncnfactory.jp/partner/・1回目）
+  - 「Member Distribution and Number of Members」（https://ncnfactory.jp/partner/・1回目）
+  - 「会員分布・会員数」（https://ncnfactory.jp:443/partner/・1回目）
+  - 「We select processing contractors from among the 15,000 Emidas members plus our own cultivated partner factories according to the needs of our customers. When selecting a company, our staff conducts offline interviews and inspections.」（https://ncnfactory.jp:443/partner/・1回目）
+  - 「In addition to approximately 15,000 companies in Japan, local companies in China, Vietnam, and Thailand have registered with Emidas.」（https://ncnfactory.jp:443/partner/・1回目）
+  - 「Member Distribution and Number of Members」（https://ncnfactory.jp:443/partner/・1回目）
+  - 「10年後には会員数が1,000社を突破し、」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「2000年にはNHKで紹介され、さらに会員数が急増、2001年には」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「会員数 10,000社を突破する規模」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「しかし、21世紀を前にしていち早く製造業同士のマッチングをビジネス化し、この不況下にもかかわらず会員数を増やしているのが株式会社NCネットワークだ」（https://shachomeikan.jp/industry_article/2811・3回目）
+- 創業期の始め方：
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about-two/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/partner/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/news/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/recruit/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/category/uncategorized/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/about-two/93df3728-cd14-4023-afe3-f2c643ca331f/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp:443/about-two/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp:443/partner/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp:443/about/・1回目）
+  - 「量産・新機種立ち上げ / Mass Production and new model launch activities」（https://ncnfactory.jp/news/page/2/・1回目）
+- 集客：
+  - 「会社紹介 / About」（https://ncnfactory.jp/・1回目）
+  - 「Search」（https://ncnfactory.jp/・1回目）
+  - 「H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました」（https://ncnfactory.jp/・1回目）
+  - 「謹賀新年 Happy New Year ＆ 展示会出展のお知らせ」（https://ncnfactory.jp/・1回目）
+  - 「「NCネットワークファクトリー展示会出展のお知らせ」」（https://ncnfactory.jp/・1回目）
+  - 「2025年1月EVHVFCV展示会ご来場ありがとうございました」（https://ncnfactory.jp/・1回目）
+  - 「展示会ご来場いただき誠にありがとうございました Thank you very much for visiting our exhibition!」（https://ncnfactory.jp/・1回目）
+  - 「EV/HV/FCV展示会2023にご来場いただきありがとうございました」（https://ncnfactory.jp/・1回目）
+  - 「新年のご挨拶 EVHVFCV展示会出展のお知らせ」（https://ncnfactory.jp/・1回目）
+  - 「会社紹介 / About」（https://ncnfactory.jp/about-two/・1回目）
+  - 「Search」（https://ncnfactory.jp/about-two/・1回目）
+  - 「H2&FC EXPO展示会（東京ビッグサイト）ご来場ありがとうございました」（https://ncnfactory.jp/about-two/・1回目）
+- 資金調達・売却：
+  - 「2020年に株式会社大日光・エンジニアリングの出資を受け「NCネットワークファクトリー」として分社化いたしました」（https://ncnfactory.jp/recruit/・1回目）
+  - 「（本社：東京都台東区、代表取締役社長：内原康雄、以下ＮＣネットワーク）は、このほど加工事業部門を分社化し、全額出資の子会社として株式会社ＮＣネットワークファクトリー（本社：同上、代表取締役：角田洋晴、以下ＮＣネットワークファクトリー）を設立しました」（https://ncnfactory.jp/news/page/3/・1回目）
+  - 「2020年に株式会社大日光・エンジニアリングの出資を受け「NCネットワークファクトリー」として分社化いたしました」（https://ncnfactory.jp:443/recruit/・1回目）
+  - 「株式会社オレンジページ、東証グロース上場のベビーカレンダーグループへ参画～新体制のもとネット事業を大幅強化、伝統のブランド力とデジタルを融合～」（https://www.atpress.ne.jp/news/261663・3回目）
+  - 「キャリアパーク就職エージェントは、東京証券取引所グロース市場に上場しているポート株式会社(証券コード：7047)が運営しているサービスです」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「2000年にはベンチャーキャピタルの主導で、名だたる商社や銀行に出資してもらえる状況を作ることができました」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「出資や増資を受けられたのは、Webサイトを通じて、現在の主力メンバーの多くが集まってきてくれたことも大きな理由です」（https://careerpark-agent.jp/interview/133-2・3回目）
+  - 「そして、株式会社NCネットワークの前身である株式会社エヌシーネットワークへとビジネス展開する1998年前後は、楽天グループの創業やアマゾンの上場などのITバブルがあり、社会的にも大きな動きがあった時期でした」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「株式会社エヌシーネットワークを設立し代表取締役に就任後、大手商社などから多くの融資をいただき、株式上場も目指していました」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「しかし、2008年には上場を断念することになってしまいました」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「年間約12,000組の結婚式を手がけ、取扱組数で国内トップを誇る、プライム上場企業」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「『白猫プロジェクト』『ドラゴンクエストウォーク』 など、数多くのヒットタイトルを手掛けるプライム上場企業」（https://shachomeikan.jp/industry_article/2811・3回目）
+- 検索結果の抜粋：
+  - 「NC会員 | サービス概要 | 挑戦する製造業のために — NC会員 | サービス概要 | 挑戦する製造業のために エミダス https://ja.nc-net.or.jp > services > member > nc」（https://ja.nc-net.or.jp/services/member/nc/・3回目）
+  - 「エミダス事業 - 株式会社NCネットワーク — エミダス事業 - 株式会社NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com > company > business」（https://corporate.nc-net.com/company/business.html・3回目）
+  - 「協力工場について / About Partner Factories — 協力工場について / About Partner Factories 株式会社 NCネットワークファクトリー https://ncnfactory.jp > partner」（https://ncnfactory.jp/partner/・3回目）
+  - 「エミダスの 料金 と評判は？広告掲載・ 会員 機能・導入事例を解説 — エミダスの 料金 と評判は？広告掲載・ 会員 機能・導入事例を解説 キャククル https://www.shopowner-support.net > nc-net」（https://www.shopowner-support.net/attracting_customers/manufacturing/nc-net/・3回目）
+  - 「NC Network USA — NC Network USA ncnetwork-us.com https://www.ncnetwork-us.com」（https://www.ncnetwork-us.com/・3回目）
+  - 「NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... — NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... 株式会社NCネットワーク https://corporate.nc-net.com > 2021/06/04 > nc-biz-center...」（https://corporate.nc-net.com/2021/06/04/nc-biz-center-thailand-co-ltd-%E5%89%B5%E6%A5%AD%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%80%80-%E3%82%BF%E3%82%A4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%97%A5%E7%B3%BB%E4%BC%81%E6%A5%AD/・3回目）
+  - 「NCネットワーク 加工事業部門を分社化・事業拡大へ — NCネットワーク 加工事業部門を分社化・事業拡大へ 株式会社 NCネットワークファクトリー https://ncnfactory.jp > spun-off-processing-business-divisi...」（https://ncnfactory.jp/spun-off-processing-business-division-and-expanded-business/・3回目）
+  - 「NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... — NC BIZ CENTER (THAILAND) CO., LTD. 創業 のお知らせ タイ ... アットプレス https://www.atpress.ne.jp > ... > 株式会社NCネットワーク」（https://www.atpress.ne.jp/news/261663・3回目）
+  - 「株式会社 NCネットワーク 代表取締役社長 内原 康雄 — 株式会社 NCネットワーク 代表取締役社長 内原 康雄 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「001--> NCネットワーク のイベント — 001--> NCネットワーク のイベント エミダス http://blog.nc-net.or.jp > nc > cat89」（http://blog.nc-net.or.jp/nc/cat89/・3回目）
+  - 「株式会社 NCネットワーク 代表取締役 社長 内原 康雄 — 株式会社 NCネットワーク 代表取締役 社長 内原 康雄 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/2811・3回目）
+  - 「経営陣紹介 | 株式会社 NCネットワーク — 経営陣紹介 | 株式会社 NCネットワーク 株式会社NCネットワーク https://corporate.nc-net.com > company > managers」（https://corporate.nc-net.com/company/managers.html・3回目）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部10頁・検索5回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部10頁・検索5回）
+
+## OSH Cut
+- 公式URL：https://www.oshcut.com（given）
+- 誰から払われるか：
+  - 「Need custom cut metal, fast? We can often get custom metal parts to you before other shops have responded to your quote request.」（https://www.oshcut.com/・1回目）
+  - 「Our customers are the first to tell you – Sour Patch Straws come in every SendCutSend box, which is another reason to look forward to your part delivery.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「JOIN 100,000+ Customers」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「When you need to get closer to finished parts with fewer steps and fewer suppliers, SendCutSend is the clear choice.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「Upload your design, get instant pricing, and order custom parts in minutes. No waiting around for quotes or coordinating with multiple shops.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「"The ordering process is effortless compared with local shops that have higher minimum orders, setup charges and complicated, manual quoting processes."」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「“Ordinarily, shops are hiring an engineer to do all that work just to quote a job. There’s ordinarily very lengthy back-and-forth processes that are expensive for the shop and frustrating for the customer. Pushing that all onto a web front end allows the customer to iterate quickly and answer all the questions they need as far as capabilities go.”」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+  - 「OSH Cut ships orders to customers nationwide. About 12 percent of customers are in California, with 10 percent in Utah. Pricing typically beats competitors for low-volume orders, but is in “the middle of the pack” for larger orders, says Caleb.」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+  - 「OSH Cut also needs more space. OSH Cut is moving into a 40,000-square-foot facility in early 2023 to accommodate growth. “We’re in the process of building it right now,” says Caleb. “Once we move, we’ll have the ability to buy more lasers and other equipment to support our customers. . . . The lasers are really big, so space is the constraint right now.”」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+- お金の形：
+  - 「Instant Pricing」（https://www.oshcut.com/・1回目）
+  - 「Superior DFM feedback for your files」（https://www.oshcut.com/・1回目）
+  - 「I love your website ... good tools, good format. Fair pricing as well, and fast turnaround.」（https://www.oshcut.com/・1回目）
+  - 「Your simulation feedback was fantastic for helping me design my part!」（https://www.oshcut.com/・1回目）
+  - 「With instant online pricing, DFM analysis, automatic nesting, and multiple lead-time options, you can price your parts, order online, and have your prototype or turnkey order in-hand as soon as next day. Simply choose "Priority Rush" during checkout.」（https://www.oshcut.com/・1回目）
+  - 「Instant Pricing and Online Ordering」（https://www.oshcut.com/・1回目）
+  - 「No more waiting for quotes! Use our online platform to upload your parts, obtain pricing in any material and quantity, and checkout online whenever you are ready.」（https://www.oshcut.com/・1回目）
+  - 「Our pricing engine applies volume discounts automatically - you can change your part quantity or add new parts to see how it affects the price instantly.」（https://www.oshcut.com/・1回目）
+  - 「Fully Nested Online Pricing」（https://www.oshcut.com/・1回目）
+  - 「Our pricing engine nests your parts to minimize material usage, and passes savings on to you. Volume discounts are applied at the job level - the bigger the job, the cheaper individual parts will be.」（https://www.oshcut.com/・1回目）
+  - 「Instant DFM Feedback」（https://www.oshcut.com/・1回目）
+  - 「Our system analyzes your custom sheet metal parts and provides instant Design for Manufacturability (DFM) feedback for both flat and bent metal parts, letting you know if there are any problems that could affect your finished part.」（https://www.oshcut.com/・1回目）
+- 規模：
+  - 「Awesome experience for my first few orders. Part quality was excellent: clean cuts, clean bends. Customer service was extremely helpful and accommodating. Thank you, I will be a return customer.」（https://www.oshcut.com/・1回目）
+  - 「We are happy to handle your custom metal cutting and bending orders of any size, from a single prototype to a production run with thousands of metal parts. You can order a single part to verify your design before pulling the trigger on a production run.」（https://www.oshcut.com/・1回目）
+  - 「OSH Cut cuts, bends, and finishes metal at two facilities. Orders ship from the facility that gets parts to you fastest, and will-call pickup is available at both.」（https://www.oshcut.com/・1回目）
+  - 「Instant quotes, no minimum orders, and up to 80% off for quantity discounts. Scale smart, save more.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「SendCutSend has a dedicated Commercial Projects Team for large quantity orders」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「SendCutSend is for more than prototyping. Compared to OSH Cut and other manufacturing companies, we excel in providing a user-friendly platform with features like organizational account management, flexible payment options, and dedicated account managers to assist with orders and pricing.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「You need your parts YESTERDAY in order to get your project done. Standard SendCutSend orders ship in」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「When you need to get closer to finished parts with fewer steps and fewer suppliers, SendCutSend is the clear choice.」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「"The ordering process is effortless compared with local shops that have higher minimum orders, setup charges and complicated, manual quoting processes."」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「OSH Cut ships orders to customers nationwide. About 12 percent of customers are in California, with 10 percent in Utah. Pricing typically beats competitors for low-volume orders, but is in “the middle of the pack” for larger orders, says Caleb.」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+- 創業期の始め方：
+  - 「Great for all metal FIRST Robotics FRC parts!」（https://www.oshcut.com/・1回目）
+  - 「Outstanding speed, price, and packaging! Laser cut rectangular tubing made my project easier to get started on and quicker to assemble.」（https://www.oshcut.com/・1回目）
+  - 「First-time using. Great service. Website is very user-friendly.」（https://www.oshcut.com/・1回目）
+  - 「Was very happy with the delivered pieces and the whole process. This was my first time using a service like this and the parts analysis built into the website was very helpful. Delivery was as promised and price was very reasonable. I checked out a couple other service providers, but glad I found OSH Cut.」（https://www.oshcut.com/・1回目）
+  - 「This was my first ever laser cut order. Your process is excellent and accessible and made it possible for a newbie to get going.」（https://www.oshcut.com/・1回目）
+  - 「Great service, fast turnaround. First time customer and I will certainly return again if needed!」（https://www.oshcut.com/・1回目）
+  - 「I have only ever received quality parts from OSH Cut. First class operation.」（https://www.oshcut.com/・1回目）
+  - 「Show up on time, ship what you promised, pick up the phone, and dive headfirst into the tasks everyone else avoids ... OSH Cut's rock-solid reputation wasn't just handed to them -- they built it. They're one of those special vendors who rise far above the crowd.」（https://www.oshcut.com/・1回目）
+  - 「Your site allowed me to easily specify where I needed tapped holes. The parts arrived quickly and were cut and bent exactly as specified. I'm very happy my designs turned out perfectly the first time, but had they not, it wouldn't have been on OSH Cut.」（https://www.oshcut.com/・1回目）
+  - 「My first time using a site like this ... the part came out ten times better than I expected. Thanks!!」（https://www.oshcut.com/・1回目）
+  - 「Awesome experience for my first few orders. Part quality was excellent: clean cuts, clean bends. Customer service was extremely helpful and accommodating. Thank you, I will be a return customer.」（https://www.oshcut.com/・1回目）
+  - 「View first-principles DFM and the optimal production sequence, right in browser.」（https://www.oshcut.com/・1回目）
+- 集客：
+  - 「Search」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「Skip to content」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+  - 「Search」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+- 検索結果の抜粋：
+  - 「Terms of Service - OSH Cut — Terms of Service - OSH Cut OSH Cut https://www.oshcut.com > terms-of-se...」（https://www.oshcut.com/terms-of-service・3回目）
+  - 「Use OSH Cut to bring your legendary ideas to life in no time ... — Use OSH Cut to bring your legendary ideas to life in no time ... Facebook https://www.facebook.com > ... > OSH Cut > Videos」（https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/・3回目）
+  - 「Why Choose SendCutSend over OSH Cut ? — Why Choose SendCutSend over OSH Cut ? SendCutSend https://sendcutsend.com > sendcutsen...」（https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk・3回目）
+  - 「OSH Cut , Inc. (@OSHCutInc) / X — OSH Cut , Inc. (@OSHCutInc) / X X https://x.com > OSHCutInc」（https://x.com/OSHCutInc・3回目）
+  - 「Fabricator OSH Cut To Open Second U.S. Factory Near ... — Fabricator OSH Cut To Open Second U.S. Factory Near ... MetalForming Magazine https://www.metalformingmagazine.com > ...」（https://www.metalformingmagazine.com/article/?/finishing/other/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh・3回目）
+  - 「OSH Cut To Open A Second High-Tech Factory Near Cincinnati — OSH Cut To Open A Second High-Tech Factory Near Cincinnati OSH Cut https://www.oshcut.com > articles > o...」（https://www.oshcut.com/articles/osh-cut-to-open-a-second-high-tech-factory-near-cincinnati・3回目）
+  - 「Fabricator OSH Cut To Open Second U.S. Factory Near ... — Fabricator OSH Cut To Open Second U.S. Factory Near ... MetalForming Magazine https://www.metalformingmagazine.com > ...」（https://www.metalformingmagazine.com/article/?/cutting/laser-cutting/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh・3回目）
+  - 「OSH Cut - US Manufacturing Report, by Sustainment — OSH Cut - US Manufacturing Report, by Sustainment US Manufacturing Report https://usmanufacturingreport.com > ...」（https://usmanufacturingreport.com/article/osh-cut/・3回目）
+  - 「OSH Cut to open second U.S. factory - The Fabricator — OSH Cut to open second U.S. factory - The Fabricator The Fabricator https://www.thefabricator.com > news」（https://www.thefabricator.com/thefabricator/news/shopmanagement/osh-cut-to-open-second-us-factory・3回目）
+  - 「Affiliate Rewards - Partner With Us | OSH Cut — Affiliate Rewards - Partner With Us | OSH Cut OSH Cut https://www.oshcut.com > affiliate-re...」（https://www.oshcut.com/affiliate-rewards・3回目）
+  - 「OSH Cut 2026 Company Profile: Valuation, Funding & Investors — OSH Cut 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company」（https://pitchbook.com/profiles/company/499403-53・3回目）
+- 設立：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）
+
+## PCBWay
+- 公式URL：https://www.pcbway.com（given）
+- 誰から払われるか：
+  - 「Printed circuit boards for demanding customers」（https://www.pcbway.com/・1回目）
+  - 「Customers」（https://www.pcbway.com/・1回目）
+  - 「Great quality approved by customers all over the world」（https://www.pcbway.com/・1回目）
+  - 「The price difference caused by different payment methods At present, PCB manufacturers generally adjust PCB prices according to different payment methods, ranging from 5% to 10%, which also results in price differences.」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「SMT PCB Assembly Manufacturers In the world.We Offer a Full Range of Printed Circuit Board Capabilities to Fit All of Your PCB Needs.」（https://www.pcbway.com/about.html・1回目）
+  - 「Our customers」（https://www.pcbway.com/about.html・1回目）
+  - 「Our customers are all over the world. PCBWay works globally with its Hong Kong entity,」（https://www.pcbway.com/about.html・1回目）
+  - 「By bringing these capabilities together, PCBWay helps customers simplify their development process and coordinate multiple manufacturing needs through one partner.」（https://www.pcbway.com/blog/News/Meet_PCBWay_at_Electronica_2026_in_Munich_Germany_e64d6228.html・1回目）
+  - 「Now AI tools can help customers generate PCB, PCBA, 3D printing, and CNC machining designs, along with detailed manufacturing notes and documentation. However, AI-generated submissions may contain exc...」（https://www.pcbway.com/blog/・1回目）
+  - 「Comply with relevant laws and regulations to safeguard the personal data of customers and employees.」（https://www.pcbway.com/blog/News/Corporate_Social_Responsibility_of_PCBWay_22074fba.html・1回目）
+  - 「Turning an idea into a finished product often involves multiple stages, from circuit development and prototyping to mechanical fabrication and final assembly. PCBWay helps customers manage these steps with a broad range of engineering and manufacturing capabilities.」（https://www.pcbway.com/blog/News/Meet_PCBWay_at_EPTECH_2026_in_Calgary_Canada_ffeef53d.html・1回目）
+  - 「Our PCB Design Service supports projects from schematic design and PCB layout to electronic product development. For customers who already have design files, we provide PCB fabrication and assembly services to help bring their designs to life.」（https://www.pcbway.com/blog/News/Meet_PCBWay_at_EPTECH_2026_in_Calgary_Canada_ffeef53d.html・1回目）
+- お金の形：
+  - 「Feedback」（https://www.pcbway.com/・1回目）
+  - 「Manufacturer Direct Pricing」（https://www.pcbway.com/・1回目）
+  - 「Roomba That Breaks Your Feet」（https://www.pcbway.com/・1回目）
+  - 「Competitive pricing from manufacturer of diverse capabilities」（https://www.pcbway.com/・1回目）
+  - 「These cookies allow us to place advertising content relevant to the user on Facebook based on their browsing habits on our website. You can find out more and change your preferences on Facebook here:」（https://www.pcbway.com/・1回目）
+  - 「These cookies are Twitter's advertising cookies, which are used to deliver, measure, and improve the relevancy of ads. For more information, please visit」（https://www.pcbway.com/・1回目）
+  - 「Targeted Advertising」（https://www.pcbway.com/・1回目）
+  - 「Our third-party service providers and Our business partners may use advertising cookies to collect data about your online activities and your browsing habits on their websites. Thanks to the data collected by these cookies, they can offer you relevant advertising tailored to your preferences and interests.」（https://www.pcbway.com/・1回目）
+  - 「Cookies pertaining to advertising may be read and written.」（https://www.pcbway.com/・1回目）
+  - 「Feedback」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「These cookies allow us to place advertising content relevant to the user on Facebook based on their browsing habits on our website. You can find out more and change your preferences on Facebook here:」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「These cookies are Twitter's advertising cookies, which are used to deliver, measure, and improve the relevancy of ads. For more information, please visit」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+- 規模：
+  - 「My Orders」（https://www.pcbway.com/・1回目）
+  - 「Latest orders」（https://www.pcbway.com/・1回目）
+  - 「Registered (includ CN)」（https://www.pcbway.com/・1回目）
+  - 「My Orders」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「This message here is only a suggestion supplement to the above content, and does not for trading operations such as orders. If you have any urgent questions or order issues, please contact your sales rep.」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「My Orders」（https://www.pcbway.com/about.html・1回目）
+  - 「ProtoFlow is an AI-assisted PCB design tool for macOS, Windows, and Linux. It brings schematic capture, PCB layout and routing, and manufacturing file exports into one workspace. Users can describe a ...」（https://www.pcbway.com/blog/・1回目）
+  - 「How to Use Payoneer to Pay for Orders」（https://www.pcbway.com/blog/・1回目）
+  - 「How to Place PCBWay Orders from Online 3D Viewer Directly？」（https://www.pcbway.com/blog/・1回目）
+  - 「ProtoFlow is an AI-assisted PCB design tool for macOS, Windows, and Linux. It brings schematic capture, PCB layout and routing, and manufacturing file exports into one workspace. Users can describe a ...」（https://www.pcbway.com/blog/News/・1回目）
+  - 「Dear PCBWayers:Thank you for your continued support and trust in us throughout the year.To celebrate Dragon Boat Festival 2026, the PCBWay factory will be on holiday during this period.Orders can stil...」（https://www.pcbway.com/blog/News/・1回目）
+  - 「How to Use Payoneer to Pay for Orders」（https://www.pcbway.com/blog/News/・1回目）
+- 創業期の始め方：
+  - 「, and first-party conversion cookies (e.g., _gcl_*) are accessible.」（https://www.pcbway.com/・1回目）
+  - 「, and first-party conversion cookies (e.g., _gcl_*) are accessible.」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「Through the years we are proud to have been keeping an on-time delivery rate of 99%. We know, apart from PCB quality, the other most important factor is the shortest possible lead-time, which is crucial for engineers’ R&D works, especially in the stage of prototyping. We work in three shifts to make sure your PCBs will be on your desk as agreed up and as early as possible.」（https://www.pcbway.com/about.html・1回目）
+  - 「, and first-party conversion cookies (e.g., _gcl_*) are accessible.」（https://www.pcbway.com/about.html・1回目）
+  - 「Whether you're an experienced hardware engineer or an independent maker exploring AI for the first time, you're welcome to participate.」（https://www.pcbway.com/blog/News/PCBWay_and_Tindie_Launch_the_2026_AI_Hardware_Design_Contest_b88e4ca9.html・1回目）
+  - 「Your project report should clearly explain the concept, hardware design, AI implementation, development process, and final results.」（https://www.pcbway.com/blog/News/PCBWay_and_Tindie_Launch_the_2026_AI_Hardware_Design_Contest_b88e4ca9.html・1回目）
+  - 「Isn’t VIN the power input and VOUT the output? Many beginner hardware engineers have this question in PCB layout when they first look at power ICs and power module schematics. If a power supply essent...」（https://www.pcbway.com/blog/・1回目）
+  - 「Note: The tariff on auto parts comes into effect in early May. The average provided for the base rate is calculated by the World Trade Organization, which computes an average of all tariff lines. A large share of U.S. imports are assigned a 0% duty, but there are some very high rates in the tariff schedule.」（https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html・1回目）
+  - 「Note: Since this policy has just started, the express delivery may be chaotic. We will update the latest news in time. If you have any questions, you can also ask your PCBWay sales rep and she will help you solve it.」（https://www.pcbway.com/blog/News/Impact_of_the_New_U_S_Tariff_Policy_on_Customs_Clearance_51dff4fd.html・1回目）
+  - 「ProtoFlow takes PCBWay’s manufacturing requirements into account during the design process and checks the board for manufacturability before export, helping users identify and address potential issues early. Its built-in simulation tools and AI agent also allow users to test designs against their own requirements and refine them until all checks pass.」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_ProtoFlow_2ee42587.html・1回目）
+  - 「Whether you are testing an early concept, improving an existing design, or preparing for production, PCBWay can support your project with flexible manufacturing options.」（https://www.pcbway.com/blog/News/Meet_PCBWay_at_EPTECH_2026_in_Calgary_Canada_ffeef53d.html・1回目）
+  - 「1. First Prize (1 Winner)」（https://www.pcbway.com/blog/News/Meet_the_Winners_of_PCBWay_s_12th_Badge_Design_Contest_cfe34a25.html・1回目）
+- 集客：
+  - 「These cookies allow us to place advertising content relevant to the user on Facebook based on their browsing habits on our website. You can find out more and change your preferences on Facebook here:」（https://www.pcbway.com/・1回目）
+  - 「This message here is only a suggestion supplement to the above content, and does not for trading operations such as orders. If you have any urgent questions or order issues, please contact your sales rep.」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「These cookies allow us to place advertising content relevant to the user on Facebook based on their browsing habits on our website. You can find out more and change your preferences on Facebook here:」（https://www.pcbway.com/pcb_prototype/Talking_about_the_Composition_of_PCB_Price.html・1回目）
+  - 「Search title or content」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html・1回目）
+  - 「Search」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html・1回目）
+  - 「Just open the "Plugin and Content Manager" from the KiCad main menu an install the "PCBWay Plug-in for KiCad" plugin from the selection list.」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html・1回目）
+  - 「, then open the "Plugin and Content Manager" from the main window of KiCad and install the ZIP file via "Install from File".」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html・1回目）
+  - 「Table of Contents」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html・1回目）
+  - 「Aristurtle is a research student team」（https://www.pcbway.com/about.html・1回目）
+  - 「These cookies allow us to place advertising content relevant to the user on Facebook based on their browsing habits on our website. You can find out more and change your preferences on Facebook here:」（https://www.pcbway.com/about.html・1回目）
+  - 「Search title or content」（https://www.pcbway.com/blog/News/PCBWay_and_Tindie_Launch_the_2026_AI_Hardware_Design_Contest_b88e4ca9.html・1回目）
+  - 「Search」（https://www.pcbway.com/blog/News/PCBWay_and_Tindie_Launch_the_2026_AI_Hardware_Design_Contest_b88e4ca9.html・1回目）
+- 資金調達・売却：
+  - 「Previous：Crowdfunding Project——DeckSight」（https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_OpenSCAD_b39038d5.html・1回目）
+  - 「Next：Crowdfunding Project——DeckSight」（https://www.pcbway.com/blog/News/Meet_PCBWay_at_electronica_2024_688122e7.html・1回目）
+  - 「Total Funding」（https://growjo.com/company/Pcbway・3回目）
+  - 「Funding & Financials」（https://leadiq.com/c/pcbway/5a1d96d72300005c008579c3・3回目）
+- 検索結果の抜粋：
+  - 「PCBWay ではじめてのPCB基板を発注してみた！ - araisun.com — PCBWay ではじめてのPCB基板を発注してみた！ - araisun.com araisun.com https://araisun.com > review-pcbway」（https://araisun.com/review-pcbway/・3回目）
+  - 「低コストでフル機能対応のカスタムPCB試作サービス - PCBWay — 低コストでフル機能対応のカスタムPCB試作サービス - PCBWay PCBWay.jp https://www.pcbway.jp > quotesmt」（https://www.pcbway.jp/quotesmt.aspx・3回目）
+  - 「部品実装サービス - PCBWay — 部品実装サービス - PCBWay PCBWay.jp https://www.pcbway.jp > pcb-assembly」（https://www.pcbway.jp/pcb-assembly.html・3回目）
+  - 「PCBWay - China PCB Prototype & Fabrication Manufacturer — PCBWay, PCB Prototype the Easy Way With more than a decade in the field of PCB prototype and ... Learn More」（https://www.pcbway.com/・3回目）
+  - 「PCBWay : Revenue, Competitors, Alternatives - Growjo — PCBWay : Revenue, Competitors, Alternatives - Growjo Growjo https://growjo.com > Pcbway」（https://growjo.com/company/Pcbway・3回目）
+  - 「PCBWay's Competitors, Revenue, Number of Employees ... — PCBWay's Competitors, Revenue, Number of Employees ... Owler https://www.owler.com > pcbway」（https://www.owler.com/company/pcbway・3回目）
+  - 「PCBWay Celebrating 4 Years: A Letter from Mr. Yan，PCBWay CEO — Jun 19, 2018 · This week, PCBWay is celebrating its 4th year as a PCB manufacturing company. We thank our clients, employees, and shareholders for their contributions to our continued success.」（https://www.pcbway.com/blog/Activities/PCBWay_Celebrating_4_Years__A_Letter_from_Mr__Yan_PCBWay_CEO.html・3回目）
+  - 「私たちに関しては - 基板クイック試作 - PCBWay — PCBWayへようこそ！ PCBの試作品および製造の分野で10年以上にわたり、品質、納期、費用対効果およびその他の要求の面で、さまざまな業界のお客様のニーズを満たすことをお約束します。」（https://www.pcbway.jp/about.html・3回目）
+  - 「PCBWay Celebrating 4 Years: A Letter from Mr. Yan — PCBWay Celebrating 4 Years: A Letter from Mr. Yan PCBWay https://www.pcbway.com > Activities」（https://www.pcbway.com/blog/Activities/PCBWay_Celebrating_4_Years__A_Letter_from_Mr__Yan_PCBWay_CEO.html・3回目）
+  - 「huiling deng - pcbway ceo at Pcbway | 领英 - 领英 (中国) — pcbway ceo at Pcbway · 工作经历: Pcbway · 地点: 杭州 · 5 位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看huiling deng的职业档案。」（https://cn.linkedin.com/in/huiling-deng-345a37114・3回目）
+  - 「My experience - PCB Basic Information - PCBway — Yesterday I wrote about designing my first PC board with KICad and PCBWay, but it wasn't my first experience. Back in 1979, at age 16 during a Michigan Tech summer program, I saw the traditional process of making a PC board using large stencils, photography, and UV exposure, though we didn't make one ourselves. Later, I attempted Radio Shack's print」（https://www.pcbway.com/blog/PCB_Basic_Information/My_experience_530a8fac.html・3回目）
+  - 「私たちに関しては - 基板クイック試作 - PCBWay — PCBWayへようこそ! PCBの試作品および製造の分野で10年以上にわたり、品質、納期、費用対効果およびその他の要求の面で、さまざまな業界のお客様のニーズを満たすことをお約束します。 中国の製造業者、私達はあなたのPCBの必要性のあらゆる面であなたの最もよいビジネスパートナーそして ...」（https://www.pcbway.jp/about.html・3回目）
+- 設立：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式22頁／PDF・画像0件／外部10頁・検索4回）
+
+## Partful
+- 公式URL：https://www.partful.com（given）
+- 誰から払われるか：
+  - 「Original Equipment Manufacturers (OEMs)」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「The platform supports the intuitive management of various product configurations within a single 3D view. Buyers can navigate through different assembly options, subassemblies, and part specifications, ensuring accurate ordering for complex products.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Some users find it hard to share part diagrams with customers」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「All reviews are from verified customers」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「The typical users include original equipment manufacturers (OEMs), aftersales and technical documentation teams, dealers and distributors, field technicians, maintenance engineers, and sales and customer support teams.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- お金の形：
+  - 「Partful: Pricing, Free Demo & Features | Software Finder」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Get Pricing」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Partful Pricing」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Performance can feel sluggish on slower internet connections」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「What types of pricing plans does Partful offer?」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- 規模：
+  - 「Help articles, onboarding resources and instructions for Partful users」（https://partful.io/solutions/operations-manager-parts-software・3回目）
+  - 「OEMs, dealers and end users love our platform」（https://partful.io/solutions/operations-manager-parts-software・3回目）
+  - 「Partful is a cloud-based platform that turns technical documentation into interactive 3D parts catalogs and digital work instructions. While manual setup is needed for non-CAD parts, users benefit from faster part identification, fewer errors, and a more intuitive aftersales experience.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Based on 12 users reviews」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Partful enables businesses to create fully interactive 3D exploded parts catalogs using existing CAD data and sales bills of materials (BOMs). It enables users to visualize assemblies in detail, enhancing part identification and minimizing ordering errors.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「With Partful 2.0, OEM users can independently add and curate their own CAD and sales BOM content to create new products. This self-service approach enables users to efficiently publish products to their parts catalogs.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Some users find it hard to share part diagrams with customers」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Insights from real users on」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Besides English as its primary language, Partful also supports multiple languages to accommodate global users and translation options.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「Who are the typical users of Partful?」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「The typical users include original equipment manufacturers (OEMs), aftersales and technical documentation teams, dealers and distributors, field technicians, maintenance engineers, and sales and customer support teams.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- 創業期の始め方：
+  - 「Increase first-time fix rates with clear, guided work instructions」（https://partful.io/solutions/operations-manager-parts-software・3回目）
+  - 「Get A Firsthand Look At Software」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- 集客：
+  - 「Content Hub」（https://partful.io/solutions/operations-manager-parts-software・3回目）
+  - 「SEO Management」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+  - 「With Partful 2.0, OEM users can independently add and curate their own CAD and sales BOM content to create new products. This self-service approach enables users to efficiently publish products to their parts catalogs.」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- 検索結果の抜粋：
+  - 「Keep Operations Moving with Visual 3D Work Instructions — Keep Operations Moving with Visual 3D Work Instructions partful.io https://partful.io > solutions > operati...」（https://partful.io/solutions/operations-manager-parts-software・3回目）
+  - 「Partful Reviews 2026: Details, Pricing, & Features - G2 — Partful Reviews 2026: Details, Pricing, & Features - G2 G2 https://www.g2.com > partful > reviews」（https://www.g2.com/products/partful/reviews・3回目）
+  - 「Partful : Pricing, Free Demo & Features - Software Finder — Partful : Pricing, Free Demo & Features - Software Finder Software Finder https://softwarefinder.com > partful」（https://softwarefinder.com/ecommerce-software/partful・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## Protolabs Network
+- 公式URL：https://www.hubs.com（given）
+- 従業員数：140（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+- 従業員数：2,300 (2025)（https://en.wikipedia.org/wiki/Protolabs・3回目）
+- 誰から払われるか：
+  - 「How we manage our suppliers」（https://www.hubs.com/・1回目）
+  - 「With hundreds of manufacturers in our network, Protolabs Network (formerly Hubs) offers a very broad range of manufacturing capabilities and support both one-off prototyping and low-volume production. We pride ourselves on being the go-to manufacturer for geometrically complex parts or highly cosmetic parts.」（https://www.hubs.com/・1回目）
+  - 「Trusted manufacturers」（https://www.hubs.com/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/blog/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/newsletter/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/about/・1回目）
+  - 「Protolabs Network started life as the world’s largest peer-to-peer network of 3D printing services, but as we grew with our customers, we needed to offer more.」（https://www.hubs.com/about/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「We have rebranded our website as Protolabs Network, but your customer account and order details remain in the same system with no disruption to production. We continue to offer an enormous breadth of capabilities from trusted manufacturers, and our personalized service is here to stay.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「Protolabs offers accelerated manufacturing of quality parts in as fast as 1 day paired with our digital network of global suppliers–Protolabs Network–for advanced capabilities and volume pricing. Both offer injection molding, CNC machining, 3D printing, and sheet metal fabrication.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「For most orders, you will still need to place your order through one site or the other (protolabs.com or hubs.com) and will need a log in for each site. However, with qualifying orders on select Protolabs’ quotes at protolabs.com, customers can order machined parts produced through Protolabs Network. In future, these platforms will be combined.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/partner-network/・1回目）
+- お金の形：
+  - 「Volume pricing built to fit your budget」（https://www.hubs.com/・1回目）
+  - 「Fillauer Composites uses carbon-fiber and fiberglass to build prosthetic feet. Fillauer partnered with Protolabs Network to reduce the cost of production and open up more time for their engineers to focus on perfecting the designs.」（https://www.hubs.com/・1回目）
+  - 「Skelex exoskeletons make your arms feel weightless using dynamic balancing. They also managed to solve the biggest challenge many hardware startups face: manufacturing-on-demand when a new opportunity arises.」（https://www.hubs.com/・1回目）
+  - 「What if you could fight climate change with a fleet of tree-planting drones? That’s what DroneSeed is striving towards. With custom-built drones for each project and tight turnaround times, the Seattle-based startup leverages rapid manufacturing technologies to stay nimble.」（https://www.hubs.com/・1回目）
+  - 「Protolabs Network and Protolabs worked together to deliver parts demanding both speed and complexity, helping an iconic consumer electronics brand to further improve their coffee machines.」（https://www.hubs.com/・1回目）
+  - 「In January 2024, Hubs changed its name to Protolabs Network. You still get the same broad capabilities, exceptional quality and competitive pricing, but under the Protolabs Network brand as we strengthen our digital manufacturing options available at your fingertips.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「If you worked with one of our account managers, the same team member will continue to support you with your orders. If there’s anything you’re still wondering about, feel free to contact us with any other questions.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「Protolabs offers accelerated manufacturing of quality parts in as fast as 1 day paired with our digital network of global suppliers–Protolabs Network–for advanced capabilities and volume pricing. Both offer injection molding, CNC machining, 3D printing, and sheet metal fabrication.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「Talk with your Protolabs or Protolabs Network account manager to understand which is the best route for your project. Feel free to explore quoting through both systems and reach out to your account manager with any questions.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「We aim to keep our line item non-conformance rate below 1% and minimize part issues. If issues do arise, a corrective action plan goes into effect. The MP involved finds the root cause of the issue and improves the process to ensure similar problems do not arise in the future. The Protolabs Network Standards help us ensure your parts are made to spec.」（https://www.hubs.com/partner-network/・1回目）
+  - 「Pricing」（https://www.hubs.com/partner-network/・1回目）
+  - 「Edit the specifications of your quote to immediately adjust it for volume pricing, different materials, tolerances, secondary processes and more. Feel free to compare multiple quotes side by side. You can also upload a technical drawing and request certifications.」（https://www.hubs.com/how-ordering-works/・1回目）
+- 規模：
+  - 「How we manage our suppliers」（https://www.hubs.com/・1回目）
+  - 「Production orders」（https://www.hubs.com/・1回目）
+  - 「We handle customs clearance and cover import duties on orders shipped to the EU, UK, and US」（https://www.hubs.com/・1回目）
+  - 「Formify uses Protolabs Network's platform and Multi Jet Fusion (MJF) to create custom computer mice for pro gamers and casual users alike. Learn how the startup worked with Protolabs Network to produce the most innovative and personalized peripherals in the game.」（https://www.hubs.com/・1回目）
+  - 「Get complete program management from our team of experts to optimize cost, quantity, and quality control of production orders for end-use parts. Find out about manufacturing higher volumes at reduced part costs, our commitment to quality and expanded capabilities to support with scaling to production.」（https://www.hubs.com/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/blog/・1回目）
+  - 「Production orders」（https://www.hubs.com/blog/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/newsletter/・1回目）
+  - 「Production orders」（https://www.hubs.com/newsletter/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/about/・1回目）
+  - 「Production orders」（https://www.hubs.com/about/・1回目）
+  - 「How we manage our suppliers」（https://www.hubs.com/protolabs-network/・1回目）
+- 創業期の始め方：
+  - 「Learn about who we are and how it all started」（https://www.hubs.com/・1回目）
+  - 「First name」（https://www.hubs.com/・1回目）
+  - 「Learn about who we are and how it all started」（https://www.hubs.com/blog/・1回目）
+  - 「First name」（https://www.hubs.com/blog/・1回目）
+  - 「Learn about who we are and how it all started」（https://www.hubs.com/newsletter/・1回目）
+  - 「First name」（https://www.hubs.com/newsletter/・1回目）
+  - 「Learn about who we are and how it all started」（https://www.hubs.com/about/・1回目）
+  - 「Protolabs Network started life as the world’s largest peer-to-peer network of 3D printing services, but as we grew with our customers, we needed to offer more.」（https://www.hubs.com/about/・1回目）
+  - 「A world-first combined solution」（https://www.hubs.com/about/・1回目）
+  - 「First name」（https://www.hubs.com/about/・1回目）
+  - 「Learn about who we are and how it all started」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「First name」（https://www.hubs.com/protolabs-network/・1回目）
+- 集客：
+  - 「Newsletter」（https://www.hubs.com/・1回目）
+  - 「Annual trend reports, posters and other downloadable content」（https://www.hubs.com/・1回目）
+  - 「A part for academic research」（https://www.hubs.com/・1回目）
+  - 「Research」（https://www.hubs.com/・1回目）
+  - 「Sign up for our newsletter」（https://www.hubs.com/・1回目）
+  - 「You're now subscribed to our newsletter.」（https://www.hubs.com/・1回目）
+  - 「Newsletter」（https://www.hubs.com/blog/・1回目）
+  - 「Annual trend reports, posters and other downloadable content」（https://www.hubs.com/blog/・1回目）
+  - 「Sign up for our newsletter」（https://www.hubs.com/blog/・1回目）
+  - 「You're now subscribed to our newsletter.」（https://www.hubs.com/blog/・1回目）
+  - 「Sign up for our newsletter | Protolabs Network」（https://www.hubs.com/newsletter/・1回目）
+  - 「Newsletter」（https://www.hubs.com/newsletter/・1回目）
+- 資金調達・売却：
+  - 「Ultimately, to offer you more capabilities. Protolabs acquired Hubs to bring engineers more options: global reach, diverse capabilities and unparalleled speed through a single manufacturing resource. Our brand identity as Protolabs Network reflects our future as a collaborative operation with a streamlined experience.」（https://www.hubs.com/protolabs-network/・1回目）
+  - 「Founded as "3D Hubs", and later renamed "Hubs", it was acquired by Protolabs in 2021, and is primarily used by designers and engineers. In 2024, it renamed the platform Protolabs Network.」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「In January 2021, Minnesota-based Protolabs, a publicly traded custom part manufacturer, acquired the company for $280 million in cash and stock, plus $50 million for reaching targets based on performance.」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「"15 Amsterdam-based startups that got acquired in 2021 - Silicon Canals"」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「"Upon Protolabs Acquisition, 3D Hubs Becomes "Hubs"」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「NIPO Software」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「In 2014, Protolabs acquired FineLine Prototyping Inc., a North Carolina-based 3D printing company. In fall 2016, Protolabs' 3D printing services moved to a new 77,000 sq. ft. facility in Cary, North Carolina. The company also opened a CNC machining plant in Plymouth, Minnesota.」（https://en.wikipedia.org/wiki/Protolabs・3回目）
+  - 「In November 2017, Protolabs acquired RAPID Manufacturing in」（https://en.wikipedia.org/wiki/Protolabs・3回目）
+  - 「The acquisition added a distributed model of manufacturing partners to Protolabs’ existing in-house factories and 3D Hubs was ultimately rebranded to Protolabs Network in 2024.」（https://en.wikipedia.org/wiki/Protolabs・3回目）
+  - 「"Proto Labs gets into 3-D printing with N.C. acquisition, opens Plymouth plant"」（https://en.wikipedia.org/wiki/Protolabs・3回目）
+  - 「Proto Labs, Inc.は米国に本社を置き、ニューヨーク証券取引所に上場している企業です（Form 10-K）」（https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html・3回目）
+  - 「2021年1月に3D Hubs（現在はProtolabs Networkに名称変更と記載）を買収し、北米・欧州・アジアにいる製造パートナーのネットワークを加えました」（https://otsumu.co.jp/knowledge/cases/protolabs-factory-network-hybrid.html・3回目）
+- 検索結果の抜粋：
+  - 「What is Protolabs Network ? — What is Protolabs Network ? Protolabs https://www.protolabs.com > about-us」（https://www.protolabs.com/about-us/what-is-protolabs-network/・3回目）
+  - 「Protolabs Network launches today — Protolabs Network launches today Protolabs Network https://www.hubs.com > blog > protol...」（https://www.hubs.com/blog/protolabs-network-launches/・3回目）
+  - 「Protolabs Network - Wikipedia — Protolabs Network - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Prot...」（https://en.wikipedia.org/wiki/Protolabs_Network・3回目）
+  - 「Protolabs launches Protolabs Network , formally known as Hubs — Protolabs launches Protolabs Network , formally known as Hubs VoxelMatters https://www.voxelmatters.com > prot...」（https://www.voxelmatters.com/protolabs-launches-protolabs-network-formally-known-as-hubs/・3回目）
+  - 「Protolabs Network (formerly Hubs) | On-demand ... — Protolabs Network (formerly Hubs) | On-demand ... Protolabs Network https://www.hubs.com」（https://www.hubs.com/・3回目）
+- 設立：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索4回）
+
+## SendCutSend
+- 公式URL：https://sendcutsend.com（given）
+- 誰から払われるか：
+  - 「JOIN 100,000+ Customers」（https://sendcutsend.com/・1回目）
+  - 「Our founder, Jim, was always working on various projects in his garage with the tools he had on hand, often making compromises. When he tried to up their fabrication capabilities by using custom-made laser cut parts, local shops were uninterested in small orders, quoting weeks-long lead times and wanting hundreds of dollars, just for one part.」（https://sendcutsend.com/about-us/・1回目）
+  - 「Through that, we’ve created the fastest way to cut and ship precision laser cut metals, from one-off prototypes to full production runs at 10x less the cost of traditional shops.」（https://sendcutsend.com/about-us/・1回目）
+  - 「JOIN 100,000+ Customers」（https://sendcutsend.com/pricing/・1回目）
+  - 「We offer flexible payment terms (NET 30 and NET 60) for existing, pre-qualified customers who prefer to pay with a PO.」（https://sendcutsend.com/pricing/・1回目）
+  - 「Commercial customers can generate a Formal Quote for a purchasing or accounting department at checkout. .」（https://sendcutsend.com/pricing/・1回目）
+  - 「This $1B manufacturing company hires from Dollar Tree, donut shops, and bars. Now it’s scaling with $110M from Sequoia, Paradigm, and Stripe co-founders」（https://sendcutsend.com/newsroom/・1回目）
+  - 「Manufacturers of today are also creative business founders who see gaps in the market that need filling. Take SendCutSend CEO Jim Belosic, who realized there are tons of businesses looking for one-off prototypes or small batches of a product instead of committing to a massive order.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「I just spent 14 days visiting 28 factories across America—from machine shops in Detroit to aerospace suppliers in Los Angeles. What I found wasn’t industrial decline, but something unexpected: a $2.5 trillion manufacturing sector stuck in gridlock, sitting on the cusp of a renaissance that could redefine the American economy.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「A lot of engineering focuses on structural members. How wide is this beam? How tall is this column? But some of the most important engineering decisions are in how to connect those members together.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「Last spring, Justin Robinson was among the first freshmen to join a new program at an Embry‑Riddle Aeronautical University rocket club, where new members learn the basics of designing and building a rocket engine from the ground up.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「With an average delivery time of two to three days on standard orders, SendCutSend’s Expedite Service combined with the strategic location of their three facilities (Reno, Nev., Paris, Ken., and Arlington, Tex.) means that customers across the United States can see their custom parts at their door in as little as 48 hours.」（https://sendcutsend.com/newsroom/・1回目）
+- お金の形：
+  - 「Laser cut sheet metal pricing examples」（https://sendcutsend.com/・1回目）
+  - 「to see instant pricing!」（https://sendcutsend.com/・1回目）
+  - 「Upload now for instant pricing」（https://sendcutsend.com/・1回目）
+  - 「Quoting and ordering through their site couldn't be easier, takes less than a few minutes from file upload to checkout. Parts arrived ahead of schedule, perfectly deburred, quality finish and within tolerances. Fantastic pricing for quick turn US-made parts.」（https://sendcutsend.com/・1回目）
+  - 「instant pricing」（https://sendcutsend.com/・1回目）
+  - 「Please note: Pricing examples on our website are provided as general estimates and may not always reflect current prices. While we strive to keep these examples accurate, uploading your file is the best way to see instant current pricing.」（https://sendcutsend.com/・1回目）
+  - 「Turn your designs into dollars by listing your parts as Products on the SendCutSend Marketplace. You create the Product, you promote it, we take care of everything else.」（https://sendcutsend.com/・1回目）
+  - 「Pricing」（https://sendcutsend.com/・1回目）
+  - 「Upload your CAD file for instant pricing」（https://sendcutsend.com/・1回目）
+  - 「Use our Parts Builder for instant pricing」（https://sendcutsend.com/・1回目）
+  - 「Customize simple part templates for instant pricing.」（https://sendcutsend.com/・1回目）
+  - 「We cut tens of thousands of parts every month, shipping them across the country quickly (and with Sour Punch Straws in each box). We’re building millions of square feet of manufacturing capacity across America, with world-class (borderline-creepy) customer support.」（https://sendcutsend.com/about-us/・1回目）
+- 規模：
+  - 「Formal Quotes make it easy to send a link to your accounts payable department so they can process payment for orders online, while the order itself remains associated with your account. This allows you to remain the point of contact if there are any questions during production. Read the complete FAQ for detailed info! …」（https://sendcutsend.com/・1回目）
+  - 「Our founder, Jim, was always working on various projects in his garage with the tools he had on hand, often making compromises. When he tried to up their fabrication capabilities by using custom-made laser cut parts, local shops were uninterested in small orders, quoting weeks-long lead times and wanting hundreds of dollars, just for one part.」（https://sendcutsend.com/about-us/・1回目）
+  - 「No minimum quantities. Volume discounts up to 80%. Free US shipping on orders of $39 or more.」（https://sendcutsend.com/pricing/・1回目）
+  - 「We’re happy to offer discounted pricing for large quantities and frequent or recurring orders.」（https://sendcutsend.com/pricing/・1回目）
+  - 「I just spent 14 days visiting 28 factories across America—from machine shops in Detroit to aerospace suppliers in Los Angeles. What I found wasn’t industrial decline, but something unexpected: a $2.5 trillion manufacturing sector stuck in gridlock, sitting on the cusp of a renaissance that could redefine the American economy.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「A lot of engineering focuses on structural members. How wide is this beam? How tall is this column? But some of the most important engineering decisions are in how to connect those members together.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「Last spring, Justin Robinson was among the first freshmen to join a new program at an Embry‑Riddle Aeronautical University rocket club, where new members learn the basics of designing and building a rocket engine from the ground up.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「With an average delivery time of two to three days on standard orders, SendCutSend’s Expedite Service combined with the strategic location of their three facilities (Reno, Nev., Paris, Ken., and Arlington, Tex.) means that customers across the United States can see their custom parts at their door in as little as 48 hours.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「Rapid turnaround laser cutting enables aerospace manufacturers to meet prototyping demands. Below are four laser cutting advantages for aerospace and how SendCutSend’s e-commerce model allows it to quickly process work for original equipment manufacturers (OEMs) and tier suppliers.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「SendCutSend’s unique business model simplifies metal manufacturing processes by allowing users to create custom, one-off parts, at a fraction of competitors’ prices.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「for laser cut and formed sheet metal, and each one wins on something different: Fabworks on lead time and automatic configuration, OSH Cut on thick material capacity and design feedback, Xometry on the range of processes available through its network, and Ponoko on non-metal materials and small rush orders.」（https://www.fabworks.com/blog/sendcutsend-alternatives・3回目）
+  - 「on laser cutting, next-day available on eligible small orders」（https://www.fabworks.com/blog/sendcutsend-alternatives・3回目）
+- 創業期の始め方：
+  - 「Getting Started」（https://sendcutsend.com/・1回目）
+  - 「GET STARTED」（https://sendcutsend.com/・1回目）
+  - 「Get Started」（https://sendcutsend.com/・1回目）
+  - 「Get started on your project with the click of a button. Whether you have a CAD file, a sketch, or just an idea.」（https://sendcutsend.com/・1回目）
+  - 「Start your first SendCutSend project today!」（https://sendcutsend.com/・1回目）
+  - 「It started with two fabricators」（https://sendcutsend.com/・1回目）
+  - 「Jim and Jake, our founders, experienced frustration with the time and money consumed in acquiring custom parts for their projects. Armed with expertise in software development, they launched SendCutSend as their solution.」（https://sendcutsend.com/・1回目）
+  - 「Choose from a variety of ways to get started ordering custom laser cut parts」（https://sendcutsend.com/・1回目）
+  - 「Getting Started」（https://sendcutsend.com/about-us/・1回目）
+  - 「GET STARTED」（https://sendcutsend.com/about-us/・1回目）
+  - 「Our founder, Jim, was always working on various projects in his garage with the tools he had on hand, often making compromises. When he tried to up their fabrication capabilities by using custom-made laser cut parts, local shops were uninterested in small orders, quoting weeks-long lead times and wanting hundreds of dollars, just for one part.」（https://sendcutsend.com/about-us/・1回目）
+  - 「CEO & Founder」（https://sendcutsend.com/about-us/・1回目）
+- 集客：
+  - 「Search」（https://sendcutsend.com/・1回目）
+  - 「Search」（https://sendcutsend.com/about-us/・1回目）
+  - 「VP OF TREAT RESEARCH」（https://sendcutsend.com/about-us/・1回目）
+  - 「Search」（https://sendcutsend.com/pricing/・1回目）
+  - 「Search」（https://sendcutsend.com/newsroom/・1回目）
+  - 「Search…」（https://www.fabworks.com/blog/sendcutsend-alternatives・3回目）
+  - 「ベロシックは、米国の製造業は「多くの人が思うよりもずっと健全だ」と主張するが、健全な部分は隠れている——1970年代から操業し、握手ベースの関係で予約が埋まり、SEOが壊滅的に苦手な小さな工房だ」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「Subscribe to our newsletter for weekly valuation updates. Delivered every Friday.」（https://multiples.vc/private-comps/sendcutsend・3回目）
+  - 「Newsletter」（https://multiples.vc/private-comps/sendcutsend・3回目）
+- 資金調達・売却：
+  - 「Talent Acquisition Manager」（https://sendcutsend.com/about-us/・1回目）
+  - 「Fabrication startup SendCutSend recently raised venture captial from Sequoia, Paradigm, and the co-founders of Stripe.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「SendCutSend commits to investing $1 billion after capital funding round」（https://sendcutsend.com/newsroom/・1回目）
+  - 「SendCutSend, a rapid custom manufacturer that has transformed domestic manufacturing, has reached a valuation of $1.01 billion following a recent $110 million investment. The funding was co-led by Sequoia, Paradigm, and Patrick and John Collison.」（https://sendcutsend.com/newsroom/・1回目）
+  - 「資本、成長、そして自己資金調達の規律」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「ベロシックは成長加速のために資金調達を検討しているが、製造業における「最も声の大きい連中は、最悪の製造業者だ」という警戒心を持ち続けている」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「Luca Ferrari, Bending Spoons CEO：4万ドルからのスタート、プロダクトマーケットフィットの買収、そしてプライベートエクイティを凌ぐ戦略」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「ミラノを拠点とするBending Spoonsの共同創業者兼CEO、ルカ・フェラーリが、All-In Podcastのホストであるジェイソン・カラカニス、チャマス・パリハピティヤ、デビッド・フリードバーグとともに、欧州で最も攻撃的なテクノロジー買収企業の一角を占める同社の運営モデルを解説する」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「話題は、創業者4人が返還されたベンチャーキャピタル4万ドルだけを手にした失敗AIスタートアップとしての出自、プロダクト・マーケット・フィットを自前で構築するのではなく買収するという決断、そしてその戦略の複利効果によってAOL、Vimeo、Eventbrite、Airtable、Miroを含むポートフォリオ」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「Bending Spoonsの買収戦略」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「買収における創業者の役割」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+  - 「IPOと公開市場」（https://finance.biggo.jp/podcast/783626b6d2f1cac3・3回目）
+- 検索結果の抜粋：
+  - 「Laser Cutting Online Quotes & Pricing - SendCutSend — Laser Cutting Online Quotes & Pricing - SendCutSend SendCutSend https://sendcutsend.com > pricing」（https://sendcutsend.com/pricing/?srsltid=AYCX9vLiIjgM6aTdncEsglb7FLDdGlp535J1CHRdsIub-8I3mFEl0j5D・3回目）
+  - 「Complex Sheet Metal Parts Pricing on SendCutSend - Facebook — Complex Sheet Metal Parts Pricing on SendCutSend - Facebook Facebook https://www.facebook.com > ... > SendCutSend > Videos」（https://www.facebook.com/sendcutsend/videos/got-complex-parts-with-multiple-secondary-operations-weve-got-you-upload-your-de/1604393631284379/・3回目）
+  - 「SendCutSend Alternatives: A Buyer's Guide for 2026 - Fabworks — SendCutSend Alternatives: A Buyer's Guide for 2026 - Fabworks Fabworks https://www.fabworks.com > Blog」（https://www.fabworks.com/blog/sendcutsend-alternatives・3回目）
+  - 「SendCutSend - Who Does This? - The Hobby-Machinist — SendCutSend - Who Does This? - The Hobby-Machinist The Hobby-Machinist https://www.hobby-machinist.com > s...」（https://www.hobby-machinist.com/threads/sendcutsend-who-does-this.124443/・3回目）
+  - 「How SendCutSend Is Changing The Way We Build https ... — How SendCutSend Is Changing The Way We Build https ... Reddit https://www.reddit.com > madeinusa > comments > how_s...」（https://www.reddit.com/r/madeinusa/comments/1wptohs/how_sendcutsend_is_changing_the_way_we_build/・3回目）
+  - 「SendCutSend Ranks Among the Fastest Growing Companies ... — SendCutSend Ranks Among the Fastest Growing Companies ... SendCutSend https://sendcutsend.com > Blog」（https://sendcutsend.com/blog/sendcutsend-ranks-among-the-fastest-growing-companies-in-the-us/?srsltid=AYCX9vLp2c7TIg4YL8HGWYJEpFuU1d56jW3s4wZ0f_ylnJyjQuOgKpUs・3回目）
+  - 「SendCutSend - LinkedIn — SendCutSend - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/sendcutsend・3回目）
+  - 「SendCutSend Started Their Growth To $100 Million With a ... — SendCutSend Started Their Growth To $100 Million With a ... Torchmate https://torchmate.com > sendcutsend」（https://torchmate.com/learn-more/success-stories/sendcutsend・3回目）
+  - 「How SendCutSend Is Changing The Way We Build - YouTube — How SendCutSend Is Changing The Way We Build - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=WavgGoGk034・3回目）
+  - 「SendCutSend Makes the Inc 5000 — SendCutSend Makes the Inc 5000 SendCutSend https://sendcutsend.com > Blog」（https://sendcutsend.com/blog/making-the-inc-5000-how-sendcutsends-on-demand-service-is-revolutionizing-modern-manufacturing/?srsltid=AYCX9vLdmK14ZF2BRMWKHDXXWP2qxW3JoUHCZ3HfTSIJNXgkDTPw6toX・3回目）
+  - 「SendCutSend Revenue , Valuation, Funding & Investors — SendCutSend Revenue , Valuation, Funding & Investors Multiples.vc https://multiples.vc > Companies」（https://multiples.vc/private-comps/sendcutsend・3回目）
+  - 「I first invested in SendCutSend in 2021, and I've ... - LinkedIn — I first invested in SendCutSend in 2021, and I've ... - LinkedIn LinkedIn https://www.linkedin.com > posts > sa...」（https://www.linkedin.com/posts/sandykory_i-first-invested-in-sendcutsend-in-2021-activity-7411783520928542720-9mpr・3回目）
+- 設立：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）
+
+## Sourcengine
+- 公式URL：https://www.sourcengine.com（given）
+- 誰から払われるか：
+  - 「Manufacturers」（https://www.sourcengine.com/・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/・1回目）
+  - 「The Electronic Components Marketplace for Professional Buyers and Engineers」（https://www.sourcengine.com/・1回目）
+  - 「Traceable or Vetted Suppliers」（https://www.sourcengine.com/・1回目）
+  - 「Featured Manufacturers」（https://www.sourcengine.com/・1回目）
+  - 「See All Manufacturers」（https://www.sourcengine.com/・1回目）
+  - 「Manufacturers」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「Manufacturers」（https://www.sourcengine.com/about-us・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/about-us・1回目）
+  - 「Sourcengine is an e-commerce marketplace for professional buyers in the electronic components industry. Our components, from over 3,500 suppliers, are traceable and can be purchased in one easy transaction.」（https://www.sourcengine.com/about-us・1回目）
+  - 「, we built a platform that enables our customers to issue one purchase order (PO) for an entire bill of materials (BOM). Sourcengine offers a suite of digital tools that provide the data, workflows, and visibility to organizations for efficient supply chain management.」（https://www.sourcengine.com/about-us・1回目）
+- お金の形：
+  - 「In mid-January, the Netherlands government announced its plan to modify its national export control measures for advanced semiconductor manufacturing equipment exports. This recent decision is part of a trend of countries subjecting similar technologies, primarily semiconductors, to national authorization requirements.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「U.S. Plans New Restrictions on AI and Quectel Update Concerns Suppliers - January 24th, 2025」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Divyansh Kaushik, an AI Expert at Beacon Global Strategies, says that the cap translates to roughly 50,000 H100 Nvidia GPUs. "Fifty thousand H100s is an enormous amount of power - enough to fuel cutting-edge research, run entire AI companies, or support the most demanding AI applications on the planet.”」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Tencent and CATL's Hong Kong-listed shares fell the Tuesday after the announcement, with both companies calling the move “a mistake.” Quectel has strongly denied these allegations and plans to challenge the DoD’s ruling.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Due to its competitive pricing and technological advancements, Quectel, a supplier with a 35% market share, is likely to be involved in the trade war more often, especially given its focus on semiconductors. This disruption could lead to more significant component unavailability, compliance issues, and delayed manufacturing for its customers.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「New Restrictions and Aggressive Pricing Hit Semiconductor Industry - December 13th, 2024」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「These restrictions will likely hurt sales for major U.S. chipmaking equipment manufacturers Lam Research, KLA, and Applied Materials, which have previously criticized such moves as more harmful than helpful. Advanced lithography manufacturer ASML will also likely feel the effects of this new crackdown.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「After discussions with Japan and the Netherlands, the two countries agreed to work with the U.S., allowing them to be exempt from enforcing the FDPR. Countries like Malaysia, Singapore, Israel, Taiwan, and South Korea will be subject to the rule. However, the U.S. states it plans to exempt countries from enforcement of the FDPR should they place similar controls.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「China Memory Sector Strikes with New Pricing Strategy」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Indong Kim, Vice President and Head of DRAM Product Planning at Samsung Semiconductor, discussed new HBM developments resulting from their capabilities within AI applications.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Fenn later elaborated that part of the solution is to increase the use of natural gas within data centers so that the industry can continue to pursue sustainability goals. It is a short-term solution that can reliably fuel much of the power demand without problems, like Meta's recent plans to build a nuclear-powered data center before compliance trouble and rare bees derailed those them.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「“You have to make them spend money in the United States, and those plants will open up. They’ll fund them. We don’t have to put up 10 cents,” Trump said.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+- 規模：
+  - 「Suppliers」（https://www.sourcengine.com/・1回目）
+  - 「Traceable or Vetted Suppliers」（https://www.sourcengine.com/・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/about-us・1回目）
+  - 「Sourcengine is an e-commerce marketplace for professional buyers in the electronic components industry. Our components, from over 3,500 suppliers, are traceable and can be purchased in one easy transaction.」（https://www.sourcengine.com/about-us・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/about-us/global-fulfillment・1回目）
+  - 「, to provide worldwide fulfillment of orders in a timely manner. With 20 locations around the globe and in 13 countries, there is no place that Sourcengine cannot deliver to.」（https://www.sourcengine.com/about-us/global-fulfillment・1回目）
+  - 「By partnering with Sourceability, a known logistics, supply, and fulfillment expert, customers can safely order from our e-commerce marketplace and know their orders will arrive in the timeliest of manners.」（https://www.sourcengine.com/about-us/global-fulfillment・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/about-us/procurement-quality・1回目）
+  - 「Number of orders」（https://www.sourcengine.com/about-us/procurement-quality・1回目）
+  - 「Our Quality team members implement a 3-tier incoming Inspection process based on the IDEA‌-1010B standard as well as other stringent industry quality standards. These strict standards ensure the highest quality and complete material conformance.」（https://www.sourcengine.com/about-us/procurement-quality・1回目）
+  - 「Suppliers」（https://www.sourcengine.com/about-us/compliance-certifications・1回目）
+- 創業期の始め方：
+  - 「"How effective the rule ends up being in the next 10 to 15 years is now up to the incoming team," said National Security Official Meghan Harris during the first Trump administration. "They are well aware that ensuring a dominant domestic industry is a core element of competition with China."」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Bob Marshall, CEO at Whisker Labs Inc., told Bloomberg that harmonics are typically the proverbial canary in the coal mine for a power grid, reflecting early stress and problems. Whisker Labs tracks the real-time use of residential sectors across the country, and the collected data has shown a strong connection between data center proximity and worsening harmonics.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Welcome to 2025! The semiconductor industry is entering another year full of opportunities and challenges. As the sector kicks back into gear after a well-deserved break, many organizations have started to prepare for the continuation of the AI boom and the probability of new tariffs implemented by the changing U.S. administration alongside China’s critical mineral ban.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「to decide. However, it can be determined that should the investigation conclude that there were unfair trade practices, President-elect Trump could implement further tariffs, given his hard stance on China’s trade policies and “America First” approach.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「rose to nearly 10% and 4%, respectively. SK Hynix has been on a roll recently as one of the leading players in the high-bandwidth memory (HBM) market, which has seen exponential demand thanks to its favorable use in AI applications.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「That said, China’s spotlight on Nvidia is not the first. Other global regulators have scrutinized it since its meteoric rise as a chip powerhouse. Multiple jurisdictions cleared the 2020 acquisition of Mellanox Technologies before it took place, but it came with several conditions. Chinese regulators allege that Nvidia breached these commitments, which triggered the probe.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「After the announcement of the ban, shares belonging to rare metal producers started flying with Perpetua Resources skyrocketing 270% over the timeframe. Depending on the length of the ban, raw metal producers could see high shares as prices continue to rise.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「“And for the first time,” CNBC notes, “the U.S. will add two companies that invest in chips to the entity list. Chinese private equity firm Wise Road Capital and tech firm Wingtech Technology Co. will be added.”」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「for the first time in 3Q24. Others, including CXMT and JHICC, have been significantly lowering their DDR4 prices, making their products almost 50% cheaper than equivalent products by SK Hynix and Samsung Electronics. This has been an ongoing strategy by at least CXMT for the last few months.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「These Chinese chipmakers have been rapidly climbing barriers despite U.S. sanctions. From 2018 to 2019, SMIC successfully developed a 7nm process technology that resembles TSMC’s first-generation 7nm process. SMIC has also made significant progress in talent acquisition, which has led to concerns in the South Korean chip industry regarding talent poaching.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Morgan Stanley forecasts that “CXMT’s DRAM market share will exceed 10% for the first time in 2024.”」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「“This is an exciting time. With AI so hot, HBM is everything. The various memory makers are racing against time to be the first to produce next-generation HBM.”」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+- 集客：
+  - 「Join Our Newsletter」（https://www.sourcengine.com/・1回目）
+  - 「Subscribe to our monthly newsletter」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/about-us・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/about-us/global-fulfillment・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/about-us/procurement-quality・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/about-us/compliance-certifications・1回目）
+  - 「Join Our Newsletter」（https://www.sourcengine.com/about-us/our-partners・1回目）
+  - 「Divyansh Kaushik, an AI Expert at Beacon Global Strategies, says that the cap translates to roughly 50,000 H100 Nvidia GPUs. "Fifty thousand H100s is an enormous amount of power - enough to fuel cutting-edge research, run entire AI companies, or support the most demanding AI applications on the planet.”」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「New research reveals that the growing use of data centers could impact the available electricity consumers rely on around them, leading to rapid electronic degradation or, worse, electrical fires. As the industry looks for a solution, the U.S. is taking the next step in achieving its goals of a one-stop shop for its domestic semiconductor ecosystem.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「With the proliferation of AI, the growing power requirements could distort the normal flow of electricity for millions of people. In an analysis by Bloomberg, research shows that this growing problem of power distortion could threaten billions in damage to home appliances and aging power equipment, especially in high-volume areas such as “data center alley” in Northern Virginia.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「The Semiconductor Industry Association (SIA) has congratulated the U.S. and Arizona on their latest significant commitment to improving domestic semiconductor manufacturing capabilities. A new CHIPS for America research and development facility for semiconductor prototyping and advanced packaging will be constructed in Arizona, marking the next important step in achieving U.S. chip ambitions.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+- 資金調達・売却：
+  - 「The Funding Gap in Green Technology: A Barrier to Progress」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「The gap in green technology funding has been a major roadblock in reaching sustainability goals, but maybe we can learn how to overcome these challenges by following examples set forth by the semiconductor industry.」（https://www.sourcengine.com/blog-categories/industry-news・1回目）
+  - 「. State broadcaster CCTV announced the inquiry, which has the potential to have profound implications for global technology and trade. CCTV reported that Nvidia is accused of violating commitments tied to its 2020 acquisition of Mellanox Technologies.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「That said, China’s spotlight on Nvidia is not the first. Other global regulators have scrutinized it since its meteoric rise as a chip powerhouse. Multiple jurisdictions cleared the 2020 acquisition of Mellanox Technologies before it took place, but it came with several conditions. Chinese regulators allege that Nvidia breached these commitments, which triggered the probe.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「These Chinese chipmakers have been rapidly climbing barriers despite U.S. sanctions. From 2018 to 2019, SMIC successfully developed a 7nm process technology that resembles TSMC’s first-generation 7nm process. SMIC has also made significant progress in talent acquisition, which has led to concerns in the South Korean chip industry regarding talent poaching.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「The semiconductor industry is preparing for the end of 2024. As it does, organizations are putting the final touches on their 2025 market strategies, with artificial intelligence (AI) taking the focus. Many semiconductor organizations are attempting to rapidly secure funding or propose alternative solutions now that the United States presidential election has ended.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Without the CHIPS Act, this agreement with TSMC, and other chipmakers, might have taken years to secure. Even now, companies are still deciding whether to commit to these large projects should government subsidies not be received Should the CHIPS Act be repealed and the funding removed, semiconductor companies might consider scaling back their projects or stopping them entirely.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Meanwhile, semiconductor manufacturers in the U.S. are racing to finalize funding agreements under the CHIPS Act. This is due to comments from President-elect Trump, which may put the future of the CHIPS Act at risk.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Chip Makers Race to Secure Funding from CHIPS Act」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「Despite recent hiccups, TSMC and GlobalFoundries have reportedly finalized the binding funding agreements under the CHIPS Act. GlobalWafers, another chipmaker that had been awarded funding, expressed optimism that the CHIPS Act would continue under the new administration.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「To secure its competitiveness as a country and expand its knowledge in advanced semiconductor manufacturing, the United States has recently announced its decision to award a portion of the CHIPS Act’s funding for semiconductor research and development to a New York facility.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+  - 「, The Albany NanoTech Complex will receive up to $825 million in funding as part of a broader federal effort. This funding will be devoted to continued research into EUV lithography technologies so that the United States can remain globally competitive.」（https://www.sourcengine.com/blog/semiconductor-industry-news・1回目）
+- 検索結果の抜粋：
+  - 「Sourcengine : Electronic Component Distributor & Online ... — Sourcengine : Electronic Component Distributor & Online ... Sourcengine https://www.sourcengine.com」（https://www.sourcengine.com/?srsltid=AYCX9vIkGlGsgnyRBK-P_8LWhBRuGlBl_FrGcfnJ0PvJBqmKcLAnaLYs・3回目）
+  - 「Sourcengine — Sourcengine Webflow https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io」（https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/・3回目）
+  - 「Global Ecomm Marketplace for Electronic Components — Global Ecomm Marketplace for Electronic Components Sourcengine https://www.sourcengine.com > about...」（https://www.sourcengine.com/about-us?srsltid=AYCX9vKxubOoK7S1XDBULQ9B4gWWBCtB-0sxv76NXtPvSime4MjecTnf・3回目）
+  - 「Sourcengine : Electronic Component Distributor & Online ... — Sourcengine : Electronic Component Distributor & Online ... Sourcengine https://www.sourcengine.com」（https://www.sourcengine.com/?srsltid=AYCX9vLvfK6lYkKvnhP-zuPdI12JlbeTxI3cVcvKqgXsw2ydiPGoMkf-・3回目）
+  - 「Sourcengine Company Profile - - Supply Chain 24/7 — Sourcengine Company Profile - - Supply Chain 24/7 Supply Chain 24/7 https://www.supplychain247.com > s...」（https://www.supplychain247.com/company/sourcengine・3回目）
+  - 「Electronic Components E-Commerce Marketplace — Electronic Components E-Commerce Marketplace Sourceability https://sourceability.com > sourcengine」（https://sourceability.com/sourcengine・3回目）
+  - 「Global Ecomm Marketplace for Electronic Components — Global Ecomm Marketplace for Electronic Components Sourcengine https://www.sourcengine.com > about...」（https://www.sourcengine.com/about-us?srsltid=AYCX9vLg-ZfMf9hRwKW9hUG0GnSnF2hLjrLGmyY_gJ866br7a7MzBgBA・3回目）
+- 設立：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）
+
+## Thomasnet
+- 公式URL：https://www.thomasnet.com（given）
+- 誰から払われるか：
+  - 「Customers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Buyers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Suppliers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「All suppliers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Supply chains are changing rapidly. Industrial sourcing is evolving just as fast. Finding the right suppliers is one of the most important steps in procurement, if not the most important.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「has long been a trusted directory, manufacturers today need verified data, global presence, and other AI tools specifically for supplier sourcing & quoting.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「– two leading platforms helping manufacturers connect with suppliers – and explore which is better suited for today’s sourcing teams.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「ThomasNet is one of the oldest online directories for industrial manufacturers and suppliers in North America.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Thomas Register of American Manufacturers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「, a searchable directory where buyers can find companies by category, product, or location.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「for suppliers.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Buyers can」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+- お金の形：
+  - 「Pricing」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「supplier listings and visibility」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「advertising and lead-generation services」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「, meaning its data & supplier capabilities now feed into Xometry’s manufacturing marketplace.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Pricing Model」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Paid supplier listings」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「With ThomasNet, suppliers can purchase listings + all listings are self-reported, forcing buyers to do verification on their own.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「"New tariffs shake up Q3 steel pricing across Southeast Asian supply chains"」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Get your company in front of the most qualified industrial, institutional, and commercial B2B buying audience with a Thomasnet.com company profile. It all starts by claiming your company for free — if you don’t have an existing profile, get started by listing your company.」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「Supplier Programs | Performance-Based Listings」（https://business.thomasnet.com/programs・3回目）
+  - 「a Sponsored Listing」（https://business.thomasnet.com/programs・3回目）
+  - 「What Is Thomas Advertising?」（https://business.thomasnet.com/programs・3回目）
+- 規模：
+  - 「Suppliers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「All suppliers」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Supply chains are changing rapidly. Industrial sourcing is evolving just as fast. Finding the right suppliers is one of the most important steps in procurement, if not the most important.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「– two leading platforms helping manufacturers connect with suppliers – and explore which is better suited for today’s sourcing teams.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「ThomasNet is one of the oldest online directories for industrial manufacturers and suppliers in North America.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「for suppliers.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「teams with vetted suppliers worldwide with in-person MESH Audits to verify supplier capabilities. Also, it offers tools to manage RFQ’s, supplier quoting, selection, & supplier development.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Vetted & In-Person Audited suppliers across」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Focused on helping OEM’s, Tier 1 suppliers, & global sourcing teams in automotive, lighting, energy, construction, agriculture & other industrial sectors.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「ThomasNet focuses primarily on North American suppliers while MESH Works covers suppliers across the world in 40+ countries with a heavy presence across North America, Europe & Asia.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「With ThomasNet, suppliers can purchase listings + all listings are self-reported, forcing buyers to do verification on their own.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「With MESH Works, we physically verify & in-person audit suppliers across a 45-point evaluation (manufacturing, quality, engineering, logistics) to ensure buyers can quickly validate & trust with our 3」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+- 創業期の始め方：
+  - 「Get Started」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「Get your company in front of the most qualified industrial, institutional, and commercial B2B buying audience with a Thomasnet.com company profile. It all starts by claiming your company for free — if you don’t have an existing profile, get started by listing your company.」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「First-Time Homebuyer Guide 🏡 | Mortgage Tips, Home Buying Steps & Down Payment Options」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「創業以来、難易度の高い樹脂成形品の金型・設備づくり、ものづくりを通じて、モビリティ業界における新しい価値を創造するイノベーターの強い味方となり、サービスを提供し続けてきました」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「1898年に創業者ハーヴィー・マーク・トーマスによって設立された「Thomas Publishing Company」から始まり、現在のオンラインプラットフォームとして、50万社以上のサプライヤー、140万以上の登録ユーザー数、600万点以上の製品情報を提供し続けています」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「の認定サプライヤーとして、これからも創業時から築き上げてきたDNAをベースに、ものづくりソリューションを通じて、イノベーションの創出に貢献してまいります」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「Ready to Get Started?」（https://business.thomasnet.com/programs・3回目）
+  - 「to get started.」（https://business.thomasnet.com/programs・3回目）
+  - 「started here」（https://business.thomasnet.com/programs・3回目）
+  - 「Our internal sales team had valuable insight into the narrative during upsell calls. We also had an in-house agency department that offered marketing services to industrial manufacturers. This uniquely positioned us to get first-hand feedback from one of our target audiences — marketing agencies.」（https://julian.is/work/supplier-analytics-dashboard/・3回目）
+  - 「First stab at a simple reporting dashboard」（https://julian.is/work/supplier-analytics-dashboard/・3回目）
+  - 「By this point, stakeholders in the organization had seen the low-fidelity mockups and a level of consensus was generated. One of the significant benefits of working with early black and white mockups is that you’re able to progress on the high-fidelity designs simultaneously.」（https://julian.is/work/supplier-analytics-dashboard/・3回目）
+- 集客：
+  - 「Search」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「, a searchable directory where buyers can find companies by category, product, or location.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「search and shortlist」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Directory search」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「ThomasNet focus is on marketing suppliers and for buyers, is specifically designed mainly for supplier search & discovery.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「& begin searching for suppliers. There are add-on paid tools to access MESH Audit reports, detailed supplier capabilities & more.」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Search 19,000+ suppliers by process, material or country」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Search, Evaluate, & Connect: How to Source on Thomasnet.com® | Thomas Webinar | May 2023」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「福利厚生紹介」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「I-PEXの“最・尖端”を発信するメディア」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「では、I-PEXが提供するサービス紹介、見積依頼など、プロジェクトに応じた最適なサプラチェーン構築の検討や評価にご活用いただけますので、ぜひご覧ください」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「この記事をシェアする」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+- 資金調達・売却：
+  - 「Acquired by」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Increased new customer acquisition by 108% for Thomasnet.com by transforming how the organization reports ROI to suppliers.」（https://julian.is/work/supplier-analytics-dashboard/・3回目）
+- 検索結果の抜粋：
+  - 「Thomasnet ® - Product Sourcing and Supplier Discovery ... — Thomasnet ® - Product Sourcing and Supplier Discovery ... Thomasnet https://www.thomasnet.com」（https://www.thomasnet.com/・3回目）
+  - 「ThomasNet vs MESH Works: Best Industrial Sourcing Platform ... — ThomasNet vs MESH Works: Best Industrial Sourcing Platform ... MESH Works https://www.meshworks.com > blog」（https://www.meshworks.com/blog/thomasnet-vs-mesh-works・3回目）
+  - 「Claim Your Company on Thomasnet .com - YouTube — Claim Your Company on Thomasnet .com - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Yy-5p8ctSto・3回目）
+  - 「12+ Best Thomasnet Alternatives for B2B Sourcing (2026) — 12+ Best Thomasnet Alternatives for B2B Sourcing (2026) Wonnda https://wonnda.com > magazine > tho...」（https://wonnda.com/magazine/thomasnet-alternatives/・3回目）
+  - 「Thomas Register - Wikipedia — Thomas Register - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Tho...」（https://en.wikipedia.org/wiki/Thomas_Register・3回目）
+  - 「I-PEX USA Manufacturing Inc.が Thomasnet ®でご覧 ... — I-PEX USA Manufacturing Inc.が Thomasnet ®でご覧 ... I-PEX株式会社 https://corp.i-pex.com > ホーム > The Sharpest」（https://corp.i-pex.com/ja/topics/i-pex-usa-manufacturing-inc-is-now-available-on-thomasnet・3回目）
+  - 「Reviewing The History Of Thomasnet | by Jay Scheer - Medium — Reviewing The History Of Thomasnet | by Jay Scheer - Medium Medium https://medium.com > everything-you...」（https://medium.com/@jayscheer/everything-you-need-to-know-about-thomasnet-b3ad41b29bef・3回目）
+  - 「Supplier Programs | Performance-Based Listings - Thomasnet — Supplier Programs | Performance-Based Listings - Thomasnet Thomasnet https://business.thomasnet.com > prog...」（https://business.thomasnet.com/programs・3回目）
+  - 「Generate New Leads with Thomasnet . - Facebook — Generate New Leads with Thomasnet . - Facebook Facebook https://www.facebook.com > ... > Thomasnet > Videos」（https://www.facebook.com/ThomasForIndustry/videos/generate-new-leads-with-thomasnet/968255171966380/・3回目）
+  - 「Reinventing ROI Reporting for Thomasnet .com | Julian Gaviria — Reinventing ROI Reporting for Thomasnet .com | Julian Gaviria julian.is https://julian.is > work > supplier-anal...」（https://julian.is/work/supplier-analytics-dashboard/・3回目）
+  - 「Is ThomasNet Worth It? A Review of ThomasNet by WebFX — Is ThomasNet Worth It? A Review of ThomasNet by WebFX WebFX https://www.webfx.com > blog > is-th...」（https://www.webfx.com/blog/manufacturing/is-thomasnet-worth-it/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索4回）
+
+## Total Materia
+- 公式URL：https://www.totalmateria.com（given）
+- 誰から払われるか：
+  - 「Customers」（https://www.totalmateria.com/・1回目）
+  - 「Customers」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Customers」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Customers」（https://www.totalmateria.com/about-us/・1回目）
+  - 「Over the past 25 years, we have expanded our niche by addressing an ever-widening array of engineering challenges related to materials. Our commitment to staying ahead of the curve has enabled us to not only meet but exceed the evolving needs of our customers, solidifying our reputation as the go-to resource for cutting & bleeding-edge solutions in our field.」（https://www.totalmateria.com/about-us/・1回目）
+  - 「to our customers with unparalleled support, localization, and presence worldwide」（https://www.totalmateria.com/about-us/・1回目）
+  - 「Customers」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+  - 「Explore how governed, interoperable materials data strengthens manufacturing from design to compliance. See how materials intelligence connects engineering, simulation and governance into a trusted digital thread. Hear senior industry perspectives, join focused discussions and take part in practical expert-led workshops in this free one-day event.」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+  - 「Executive insight from leading manufacturers, materials specialists and digital transformation practitioners」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+  - 「Expert workshops and roundtables focused on practical decisions, implementation priorities and future requirements」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+  - 「Workshops」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+  - 「The event will provide a long-term roadmap and practical steps to help you get there with parallel workshops on:」（https://www.totalmateria.com/news-and-events/uk-november-2026/・1回目）
+- お金の形：
+  - 「Pricing」（https://www.totalmateria.com/・1回目）
+  - 「The largest available curated materials information and selection resource on the planet」（https://www.totalmateria.com/・1回目）
+  - 「Pricing | Total Materia」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Pricing」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Offering exceptional price-performance ratio, Total Materia has an annual web subscription package to suit your needs.」（https://www.totalmateria.com/pricing/・1回目）
+  - 「ANNUAL SUBSCRIPTION」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Subscription cost」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Pricing options to fit your needs」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Subscription Period」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Subscription Cost」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Pricing」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Pricing」（https://www.totalmateria.com/about-us/・1回目）
+- 規模：
+  - 「Manage users and deliver accurate data for their profile」（https://www.totalmateria.com/・1回目）
+  - 「1 user access from 1 registered PC」（https://www.totalmateria.com/pricing/・1回目）
+  - 「up to 10 users from 3 different locations」（https://www.totalmateria.com/pricing/・1回目）
+  - 「up to 25 users from 4 different locations」（https://www.totalmateria.com/pricing/・1回目）
+  - 「up to 50 users from 6 different locations」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Unlimited number of users from unlimited locations」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Unlimited users · Tailored offer」（https://www.totalmateria.com/pricing/・1回目）
+  - 「2 Users」（https://www.totalmateria.com/pricing/・1回目）
+  - 「2 users access」（https://www.totalmateria.com/pricing/・1回目）
+  - 「3 Users」（https://www.totalmateria.com/pricing/・1回目）
+  - 「3 users access」（https://www.totalmateria.com/pricing/・1回目）
+  - 「4 Users」（https://www.totalmateria.com/pricing/・1回目）
+- 創業期の始め方：
+  - 「As pioneers and global leaders in our niche, our journey began with the launch of our first online materials database in 1999, setting a new standard for innovation and excellence. Since then, we have maintained our leading market position by continuously pushing the boundaries of possibility through relentless innovation and product development.」（https://www.totalmateria.com/about-us/・1回目）
+  - 「First online database」（https://www.totalmateria.com/about-us/・1回目）
+  - 「As the Co-Founder, President & CEO of Total Materia AG, Viktor brings a wealth of experience in the materials engineering industry and holds a BSc in mechanical and chemical engineering, MBA and PhD in applied computing.」（https://www.totalmateria.com/about-us/・1回目）
+  - 「Co-Founder & Chairman」（https://www.totalmateria.com/about-us/・1回目）
+  - 「Peter, Co-Founder and Chairman, oversees finance, legal matters, compliance, and IPR, along with strategic planning. Additionally, he holds a PhD in Mechanical Engineering.」（https://www.totalmateria.com/about-us/・1回目）
+  - 「As pioneers and global leaders in our niche, our journey began with the launch of our first online materials database in 1999, setting a new standard for innovation and excellence. Since then, we have maintained our leading market position by continuously pushing the boundaries of possibility through relentless innovation and product development.」（https://www.totalmateria.com/en-us/about-us/・1回目）
+  - 「First online database」（https://www.totalmateria.com/en-us/about-us/・1回目）
+  - 「As the Co-Founder, President & CEO of Total Materia AG, Viktor brings a wealth of experience in the materials engineering industry and holds a BSc in mechanical and chemical engineering, MBA and PhD in applied computing.」（https://www.totalmateria.com/en-us/about-us/・1回目）
+  - 「Co-Founder & Chairman」（https://www.totalmateria.com/en-us/about-us/・1回目）
+  - 「Peter, Co-Founder and Chairman, oversees finance, legal matters, compliance, and IPR, along with strategic planning. Additionally, he holds a PhD in Mechanical Engineering.」（https://www.totalmateria.com/en-us/about-us/・1回目）
+  - 「この分野におけるパイオニアとして1999年に最初のオンラインデータベースを発売しました」（https://mono.ipros.com/company/detail/2101219/・3回目）
+  - 「- 異なる形式の材料データシートを手作業で比較している」（https://mono.ipros.com/company/detail/2101219/・3回目）
+- 集客：
+  - 「Academia & Research」（https://www.totalmateria.com/・1回目）
+  - 「Academia & Research」（https://www.totalmateria.com/pricing/・1回目）
+  - 「Academia & Research」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletters」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Explore our published monthly newsletters below:」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletter March-April 2026」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Read Newsletter」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletter February 2026」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletter January 2026」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「This month’s edition features updates to Total Materia’s materials data, including new polymer producers, Green Line compliance and regulatory updates, and enhancements to Horizon and Optimizer that make material search, screening, and comparison more efficient.」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletter December 2025」（https://www.totalmateria.com/news-and-events/・1回目）
+  - 「Newsletter November 2025」（https://www.totalmateria.com/news-and-events/・1回目）
+- 資金調達・売却：
+  - 「Soporte de servicio experto de nuestro equipo de soluciones dedicado」（https://www.totalmateria.com/es/pricing/・1回目）
+- 検索結果の抜粋：
+  - 「価格 - Total Materia — 価格 - Total Materia Total Materia https://www.totalmateria.com > pricing」（https://www.totalmateria.com/ja/pricing/・3回目）
+  - 「Total Materia AG | 企業情報 | イプロスものづくり — Total Materia AG | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ソフトウェア」（https://mono.ipros.com/company/detail/2101219/・3回目）
+  - 「Total Materia について - MatGuide — Total Materia について - MatGuide MatGuide https://matguide.com > contents > total-materia-について」（https://matguide.com/contents/total-materia-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/・3回目）
+  - 「製品情報 - SIMULIA Abaqus Unified FEA - Total Materia (材料 ... — 製品情報 - SIMULIA Abaqus Unified FEA - Total Materia (材料 ... 株式会社 IDAJ https://www.idaj.co.jp > simulia-abaqus-fea > total-materia」（https://www.idaj.co.jp/product/simulia-abaqus-fea/total-materia/・3回目）
+  - 「Total Materia は世界で最も包括的な材料データベースで ... — Total Materia は世界で最も包括的な材料データベースで ... Knowledge Worker PDF https://kw.maruzen.co.jp > ...」（https://kw.maruzen.co.jp/ln/bn/11-2020-020.pdf・3回目）
+  - 「トータルマテリア 社について - Total Materia — トータルマテリア 社について - Total Materia Total Materia https://www.totalmateria.com > トータルマテリア社について」（https://www.totalmateria.com/ja/%E3%83%88%E3%83%BC%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E7%A4%BE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/・3回目）
+  - 「材料にまつわる多様な課題を解決します。 - Total Materia — 材料にまつわる多様な課題を解決します。 - Total Materia Total Materia https://www.totalmateria.com > ...」（https://www.totalmateria.com/ja/・3回目）
+  - 「Total Materia - EnginSoft — Total Materia - EnginSoft EnginSoft https://www.enginsoft.com > solutions」（https://www.enginsoft.com/solutions/totalmateria.html・3回目）
+  - 「Total Materia Horizon by Total Materia AG - Siemens — Total Materia Horizon by Total Materia AG - Siemens Siemens https://www.siemens.com > products」（https://www.siemens.com/en-us/products/siemens-industry-software-total-materia-horizon-by-total-materia-ag/・3回目）
+  - 「Documentation | Total Materia — Documentation | Total Materia Total Materia https://www.totalmateria.com > en-us」（https://www.totalmateria.com/en-us/documentation/・3回目）
+  - 「Total Materia - Our New Material Partner - ETA, Inc. — Total Materia - Our New Material Partner - ETA, Inc. ETA, Inc. https://www.eta.com > total-materia」（https://www.eta.com/products/partners/total-materia/・3回目）
+  - 「Total Materia 'Where material information meets ... - YouTube — Total Materia 'Where material information meets ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=0npuiVHFe1s・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索4回）
+
+## Treatstock
+- 公式URL：https://www.treatstock.com（given）
+- 設立：2016年（https://ja.wikipedia.org/wiki/Treatstock・3回目）
+- 誰から払われるか：
+  - 「Compare Suppliers」（https://jp.treatstock.com/・1回目）
+  - 「Use our online manufacturing tools for easy price calculation, order management and safe deals. Generate leads with business customers from all over the world.」（https://jp.treatstock.com/・1回目）
+- お金の形：
+  - 「Advertising Network」（https://jp.treatstock.com/・1回目）
+  - 「プリントの写真・ビデオを撮影する権利を品質の保証、ユーザーエクスペリエンスの改善または宣伝広告のために認めるものとします」（https://jp.treatstock.com/site/terms・3回目）
+  - 「Treatstock is a collective team of enthusiastic and talented specialists that have come together to revolutionize the world of manufacturing. We always listen to our users feedback and strives to update the platform on a regular basis with new and exciting features, innovations and partnerships.」（https://jp.treatstock.com/site/about・3回目）
+- 規模：
+  - 「Compare Suppliers」（https://jp.treatstock.com/・1回目）
+  - 「Treatstock is a collective team of enthusiastic and talented specialists that have come together to revolutionize the world of manufacturing. We always listen to our users feedback and strives to update the platform on a regular basis with new and exciting features, innovations and partnerships.」（https://jp.treatstock.com/site/about・3回目）
+- 創業期の始め方：
+  - 「最初のレイヤーがしっかりと接合されていない」（https://jp.treatstock.com/site/terms・3回目）
+  - 「最初の層の線が非常に多く見られると判断できるとき」（https://jp.treatstock.com/site/terms・3回目）
+  - 「に通報して十日間連絡がない場合、お手数ですがもう一度弊社までお問い合わせして、最初の連絡が正しく受理されているかご確認ください」（https://jp.treatstock.com/site/terms・3回目）
+  - 「Powered by First Mold」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+  - 「First name」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+- 集客：
+  - 「Search」（https://jp.treatstock.com/・1回目）
+  - 「アップロード (ウィキメディア・コモンズ)」（https://ja.wikipedia.org/wiki/Treatstock・3回目）
+  - 「ある3Dプリンター業界を扱う大手メディアは以下のようにTreatstockを表現した」（https://ja.wikipedia.org/wiki/Treatstock・3回目）
+  - 「Search」（https://jp.treatstock.com/site/terms・3回目）
+  - 「プリンターで制作可能なあらゆるものの検索とオーダー、そしてプリントを扱うマーケットプレイスです」（https://jp.treatstock.com/site/terms・3回目）
+  - 「のウェブサイトではは外部ウェブサイトやサービスが紹介されることがあります」（https://jp.treatstock.com/site/terms・3回目）
+  - 「プリントの写真・ビデオを撮影する権利を品質の保証、ユーザーエクスペリエンスの改善または宣伝広告のために認めるものとします」（https://jp.treatstock.com/site/terms・3回目）
+  - 「Search」（https://jp.treatstock.com/site/about・3回目）
+  - 「Data & Research」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+  - 「PRO Content」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+  - 「Search」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+  - 「Research」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+- 検索結果の抜粋：
+  - 「Treatstock : 機械加工、3D印刷、彫刻サービス — Treatstock : 機械加工、3D印刷、彫刻サービス Treatstock https://jp.treatstock.com」（https://jp.treatstock.com/・3回目）
+  - 「Treatstock - Wikipedia — Treatstock - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > Treatstock」（https://ja.wikipedia.org/wiki/Treatstock・3回目）
+  - 「ご利用条件 - Treatstock — ご利用条件 - Treatstock Treatstock https://jp.treatstock.com > site > terms」（https://jp.treatstock.com/site/terms・3回目）
+  - 「Buy or Sell 3D Models and Even Offer Local 3D Printing ... — Buy or Sell 3D Models and Even Offer Local 3D Printing ... 3DPrint.com https://3dprint.com > treatstock-3d-pr...」（https://3dprint.com/119118/treatstock-3d-print-services/・3回目）
+  - 「How to become a manufacturer on Treatstock - YouTube — How to become a manufacturer on Treatstock - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=7ZNqV1bI0yo・3回目）
+  - 「About Us - Treatstock — About Us - Treatstock Treatstock https://jp.treatstock.com > site > about」（https://jp.treatstock.com/site/about・3回目）
+  - 「Read Customer Service Reviews of treatstock .com - Trustpilot — Read Customer Service Reviews of treatstock .com - Trustpilot Trustpilot https://www.trustpilot.com > treatstock」（https://www.trustpilot.com/review/treatstock.com・3回目）
+  - 「Treatstock - Crunchbase Company Profile & Funding — Treatstock - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > treatst...」（https://www.crunchbase.com/organization/treatstock・3回目）
+  - 「Treatstock - Facebook — Treatstock - Facebook Facebook https://www.facebook.com > ... > Business service」（https://www.facebook.com/treatstock/・3回目）
+  - 「Information about Treatstock for Media — Information about Treatstock for Media Treatstock https://jp.treatstock.com > press」（https://jp.treatstock.com/press・3回目）
+  - 「What can I do with my income on Treatstock ? Help Center — What can I do with my income on Treatstock ? Help Center Treatstock https://www.treatstock.com > article」（https://www.treatstock.com/help/article/80-what-can-i-do-with-my-income-on-treatstock・3回目）
+  - 「Manufacturer Experience on Treatstock ? : r/3Dprinting - Reddit — Manufacturer Experience on Treatstock ? : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/3Dprinting/comments/16l9svy/manufacturer_experience_on_treatstock/・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+
+## Xometry
+- 公式URL：https://www.xometry.com（given）
+- 誰から払われるか：
+  - 「バイヤー（買い手）は、これまで私が「顧客」と言ってきた方々です」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「セラー（売り手）は、これまで私が「サプライヤーパートナー」と言ってきた方々です」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「当社のプラットフォーム上で買い手のために製品を製造することを当社が承認したか、当社の金融サービスや消耗品の購入など、当社のセラーサービスを利用した個人または企業」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「オンデマンドとは要求に応じてサービスの提供を行うことを指し、マーケットプレイスとは売り手と買い手が自由に参加できる電子市場のことです」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「買い手は製造業の新興企業からFortune100企業のバイヤーに至るまで多岐にわたり、取引を行うバイヤーの数は43,000人以上です」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「また、売り手としても大規模な機械工場や職人が運営する中小企業など、様々な規模における5000以上もの企業が登録しています」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「AI駆動のマーケットプレイス機能を拡大し、企業の買い手と製造業のサプライヤーを接続することに焦点を当てています」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「企業がカスタム製造された部品を需要に応じて調達できるように、買い手と世界中のサプライヤーのネットワークを接続します」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「世界中の数千のサプライヤーと数万の買い手にわたるネットワークを持ち、Xometryはサプライチェーンをデジタル化し、大規模な分散型生産を可能にすることで、製造業の近代化に中心的な役割を果たしています」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「Xometryは、AI駆動のワークフローを採用するために、サプライヤーと買い手との信頼をどのように築いてきましたか？」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「サプライヤーと買い手は、Xometryに速度と透明性を求めています」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「Books by members」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+- お金の形：
+  - 「翻訳（プレミアム）」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「ライティングツール（プレミアム）」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「ライティング（プレミアム）」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「Enterprise Resource Planning (ERP)」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「1c. How does Xometry plan to win?」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「How pricing power works」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Industrial supplier listings and discovery tools.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Xometry mostly sells direct rather than through distributors. That matters strategically because direct channels let it keep the customer relationship, the demand data, and the pricing signals. It also means that sales productivity, onboarding, and customer success are important levers for growth and margin improvement.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Xometry operates with an asset-light footprint. It does not depend on a network of company-owned factories, so its geographic reach comes from offices, digital infrastructure, and its supplier network rather than from owned production plants.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「The operational complexities are substantial. Quote accuracy matters because underpricing hurts margin and overpricing hurts conversion. Supplier quality and on-time performance matter because Xometry owns the customer relationship. The platform also has to balance buyer demand and supplier capacity across many processes and geographies.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「2021 public listing:」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「AI-driven estimation supports delivery commitments and operational planning.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+- 規模：
+  - 「Books by members」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Members’ forum」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「What Are the Key Suppliers to Xometry?」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Xometry’s opportunity is not only to win more of the same orders, but also to handle a broader set of manufacturing processes, part types, and more complex production requirements.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Many buyers still source directly from local or incumbent suppliers rather than through a digital platform, so offline relationships remain a real substitute to Xometry’s model.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Through Thomas, Xometry also serves industrial manufacturers and suppliers as paying customers. These companies buy digital marketing, discovery, and lead-generation services to reach industrial buyers.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「The model is diversified across two customer sides: demand-side manufacturing buyers and supply-side industrial suppliers. That is strategically useful because it reduces dependence on a single monetization stream. The tradeoff is that Xometry must serve two different buying centers well: procurement and engineering on one side, marketing and business development on the other.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Buyers can upload design files, receive quotes, and place orders digitally. This is the core of Xometry’s scalable acquisition and conversion model.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「. Marketplace includes the custom-manufacturing transaction platform, supplier network operations, and buyer-facing software and sales. Supplier Services includes Thomas, Thomasnet, and related marketing and demand-generation offerings sold to industrial suppliers.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Xometry’s software evaluates the job and returns an instant or near-instant quote where possible; more complex orders may require additional review.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「One of the clearest growth paths is deeper penetration into existing customers by moving from ad hoc orders to repeat procurement workflows.」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+- 創業期の始め方：
+  - 「Xometryは、2013年の創業から7年後の2020年に、年間売上が1億4,140万ドル（≒160億円）になるまで成長しました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「2013年にRandy Altshuler氏とLaurence Zuriff氏が共同創業しました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「その次に創業したのがCloudblueです」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「Cloudblueのビジネスが、Xometry創業に影響を与えているように思います」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「共同創業者のZuriff氏は、ブラウン大学卒業後、ジョンズホプキンス大学で経済学修士号を取得」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「2013年にXometryを共同創業し、現在はCSO（Chief Strategic Officer）を担っています」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「を参考に、2013年の創業から、2021年の上場申請まで、資金調達ラウンドを追ってみました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「創業ラウンドで420万ドル（≒5億円）」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「創業者ノート」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「1つの重要な原則は、品質チェックを生産プロセスの最初の段階にシフトすることです」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「アントワーヌは、先見の明を持つリーダーであり、Unite.AIの創業パートナーです」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「複数の企業を立ち上げてきた起業家として、AIは電気と同じほど社会を大きく変えると考えており、革新的な技術や汎用人工知能（AGI）の可能性について熱く語ることがよくあります」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+- 集客：
+  - 「Search」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「製造業を1つの投資テーマとするIDATEN Ventures としては、上場申請を機にご紹介すべきだと思いました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「今回の記事のようなIDATENブログの更新をタイムリーにお知りになりたい場合は、下記フォームからぜひ IDATEN Letters に登録をいただければ幸いです」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「将来面白いことになりそうなアメリカの成長企業を紹介します」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「関連記事は見つかりませんでした」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「ウクライナ戦争：西側メディアと中立的軍事ブロガー：2026年7月5日」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「SEOカンファレンス」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「メディアキット」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「ソーシャルメディア」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「メディアキット & リンクツール」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「Skip to content」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「Skip content」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+- 資金調達・売却：
+  - 「Xometry：製造業オンラインマーケットプレイスを展開する注目スタートアップがNasdaqに上場」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「資金調達ニュース」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「（ゾメトリー、と読みます）いう会社が、2021年6月にNasdaq上場申請をしました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「製造業を1つの投資テーマとするIDATEN Ventures としては、上場申請を機にご紹介すべきだと思いました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「上場申請に必要な書類」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「Cloudblueは順調に成長し、2013年にIngram Microという会社が買収しています」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「資金調達と成長の軌跡」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「この章では、Xometryの資金調達と、成長の軌跡を追います」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「を参考に、2013年の創業から、2021年の上場申請まで、資金調達ラウンドを追ってみました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「上場前最後となったラウンドには、アメリカ金融機関大手のT Rowe Priceがリード投資家として入りました」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「Nasdaq上場申請」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「上場によって、最大1億ドル（≒110億円）の調達を計画しています」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+- 検索結果の抜粋：
+  - 「Xometry Marketplace Accelerates Solutions for Complex ... — Xometry Marketplace Accelerates Solutions for Complex ... Xometry https://investors.xometry.com > xome...」（https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing・3回目）
+  - 「Xometry ：製造業オンラインマーケットプレイスを展開する ... — Xometry ：製造業オンラインマーケットプレイスを展開する ... IDATEN Ventures https://www.idaten.vc > post > xometry：製造業オンライ...」（https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4・3回目）
+  - 「FAQ (Frequently Asked Questions) - Xometry Europe — FAQ (Frequently Asked Questions) - Xometry Europe Xometry Europe https://xometry.eu > faq」（https://xometry.eu/en/faq/・3回目）
+  - 「Xometry Cloud Manufacturing Market — Xometry Cloud Manufacturing Market Xometry Pro https://xometry.pro > articles > xomet...」（https://xometry.pro/en/articles/xometry-cloud-manufacturing/・3回目）
+  - 「S-1 Teardown: Xometry - Bowery Capital — S-1 Teardown: Xometry - Bowery Capital Bowery Capital https://bowerycap.com > ... > Insights」（https://bowerycap.com/blog/insights/s-1-teardown-xometry・3回目）
+  - 「アメリカ成長株:ゾーメトリー( Xometry ):製造業向けオン ... — アメリカ成長株:ゾーメトリー( Xometry ):製造業向けオン ... america-growth.com https://america-growth.com > ホーム > IT」（https://america-growth.com/wp/xmtr/・3回目）
+  - 「About Xometry Asia — About Xometry Asia Xometry 择幂科技 https://xometry.asia > about-us」（https://xometry.asia/en/about-us/・3回目）
+  - 「Xometry が3Dプリント受託プラットフォーム事業で 売上 を大幅 ... — Xometry が3Dプリント受託プラットフォーム事業で 売上 を大幅 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済」（https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/・3回目）
+  - 「ヴァイディ・ラガヴァン、 Xometry のチーフプロダクト ... — ヴァイディ・ラガヴァン、 Xometry のチーフプロダクト ... Unite.AI https://www.unite.ai > vaidy-raghavan-chief-product-tech...」（https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/・3回目）
+  - 「Xometry Strategy and Business Model - Umbrex — Xometry Strategy and Business Model - Umbrex Umbrex https://umbrex.com > xometry」（https://umbrex.com/resources/company-profiles/xometry/・3回目）
+  - 「The First Manufacturing Partner to Reach $1 Million ... - Xometry — The First Manufacturing Partner to Reach $1 Million ... - Xometry Xometry https://www.xometry.com > resources」（https://www.xometry.com/resources/case-studies/the-first-manufacturing-partner-to-reach-1-million-in-xometry-revenue/・3回目）
+  - 「(NAS:XMTR) Xometry : The Future Digital Manufacturing ... — (NAS:XMTR) Xometry : The Future Digital Manufacturing ... Pernas Research https://pernasresearch.com > xmtr-xo...」（https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+
+## ものづくりドットコム
+- 公式URL：https://www.monodukuri.com（given）
+- 設立：2011年10月（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+- 誰から払われるか：
+  - 「https://www.monodukuri.com/concierge/members/type」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+- お金の形：
+  - 「ものづくりドットコムの詳細情報-広告メディア探しなら日本のメディアtest」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「広告メディアのみなさまへ」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「広告入稿までの期日・スケジュール」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「バナー広告、メールマガジン内5行広告、特別号/号外（独占メルマガ広告）いずれも掲載・配信日の1週間前までにご入稿ください」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「毎月2回発行の通常メルマガでの5行広告掲載の他、広告主様の配信したい情報のみを含んだ「特別号」の配信も行っています」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「記事広告の作成・掲載メニューもあり、高い確率でリード獲得へと繋げることが出来ます」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「ものづくりドットコム_広告メニューのご案内」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「全ての広告メニュー/事例」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「ものづくりドットコム広告メニュー」（https://jpm.sendenkaigi.com/detail/159・3回目）
+- 規模：
+  - 「https://www.monodukuri.com/concierge/members/type」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「産業革新研究所は、会員数約40,000人、累積訪問者数600万人を超える日本最大級の製造業の課題解決メディア「ものづくりドットコム」を運営しています」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+- 創業期の始め方：
+  - 「エキスパート会員であれば、登録情報を公開しアピールする事で、新たな仕事獲得へのきっかけ作りに繋がります」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+- 集客：
+  - 「株式会社産業革新研究所（本社：東京都品川区、代表取締役社長：興梠 陽介、以下「産業革新研究所」）が運営する日本最大級の製造業従事者向けメディア「ものづくりドットコム」は、サービスの新機能や会員制度の刷新を行いました」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「「ものづくりドットコム」は、日本最大級の製造業の課題解決メディアとして、コロナ禍においても、製造業に従事するみなさまの一助になるよう、オンラインによるセミナーや記事などのコンテンツ拡充を中心に、サービス提供を行ってまいりましたが、このたび、製造業に関わる人の「わからない！」を解決支援するナレッジシェアプラットフォームへと進化します」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「産業革新研究所は、会員数約40,000人、累積訪問者数600万人を超える日本最大級の製造業の課題解決メディア「ものづくりドットコム」を運営しています」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「「ものづくりドットコム」では、製造業従事者の疑問や質問の解決に繋がる専門的な技法や用語の解説記事、製造現場の事例記事、セミナーなどのコンテンツを提供しています」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「ものづくりドットコムの詳細情報-広告メディア探しなら日本のメディアtest」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「日本のメディアとは」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「メディア掲載はこちら」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「日本のメディアについて」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「広告メディアのみなさまへ」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「※日本のメディアを見たとお伝えください」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「どんなメディア？」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「ものづくりドットコムは記事・セミナー・専門家等を通じて製造業従事者の抱える課題解決支援するサイトです」（https://jpm.sendenkaigi.com/detail/159・3回目）
+- 検索結果の抜粋：
+  - 「ものづくりドットコム - 製造業のプロセス革新、課題解決を ... — ものづくりドットコム - 製造業のプロセス革新、課題解決を ... ものづくりドットコム https://www.monodukuri.com」（https://www.monodukuri.com/・3回目）
+  - 「産業革新研究所が運営する「 ものづくりドットコム 」を ... — 産業革新研究所が運営する「 ものづくりドットコム 」を ... PR TIMES https://prtimes.jp > 商品サービス」（https://prtimes.jp/main/html/rd/p/000000014.000021818.html・3回目）
+  - 「ものづくりドットコム の詳細情報 — ものづくりドットコム の詳細情報 日本のメディア https://jpm.sendenkaigi.com > detail」（https://jpm.sendenkaigi.com/detail/159・3回目）
+  - 「ものづくりドットコム の特徴・広告掲載費用・評判口コミを調査 — ものづくりドットコム の特徴・広告掲載費用・評判口コミを調査 キャククル https://www.shopowner-support.net > manufacturing > m...」（https://www.shopowner-support.net/attracting_customers/manufacturing/monodukuri-advertising/・3回目）
+  - 「製造業向けの広告・イベントで商談に直結するリードを獲得 — 製造業向けの広告・イベントで商談に直結するリードを獲得 ものづくりドットコム https://www.monodukuri.com > concierge > ads > lead」（https://www.monodukuri.com/concierge/ads/lead・3回目）
+  - 「ものづくりドットコム （www. monodukuri.com） - Facebook — ものづくりドットコム （www. monodukuri.com） - Facebook Facebook https://www.facebook.com > mono.kaku.navi」（https://www.facebook.com/mono.kaku.navi/?locale=ja_JP・3回目）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索4回）
+
+## アペルザ
+- 公式URL：https://www.aperza.com（given）
+- 設立：2010年01月（https://prtimes.jp/main/html/rd/p/000000119.000014995.html・3回目）
+- 設立：2016年7月1日（https://prtimes.jp/main/html/rd/p/000000119.000014995.html・3回目）
+- 設立：2016年（https://shachomeikan.jp/industry_article/4779・3回目）
+- 誰から払われるか：
+  - 「カタログ 掲載企業一覧」（https://www.aperza.com/・1回目）
+  - 「この記事の内容をまとめると… 富士工業株式会社による「HCJ2026（第26回厨房設備機器展）」出展 循環式IH調理ワゴンと調理油煙回収ユニットの同時体験 MCによる解説つき調理実演とプロのシェフによ...」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「この記事の内容をまとめると… 富士工業株式会社による「HCJ2026（第26回厨房設備機器展）」出展 循環式IH調理ワゴンと調理油煙回収ユニットの同時体験 MCによる解説つき調理実演とプロのシェフによ...」（https://www.aperza.com/ja/s/news/?k&o=2&l=30・1回目）
+  - 「AZAPA株式会社、CAEフォーラム2026出展 X線CT×1Dで車両丸ごとデジタルツイン」（https://www.aperza.com/ja/s/news/?k&o=2&l=30・1回目）
+  - 「この記事の内容をまとめると… AZAPA株式会社は、「第20回 自動車技術に関するCAEフォーラム2026」〜自動車の革新技術を加速するデジタルエンジニアリング最前線〜に出展いたします」（https://www.aperza.com/ja/s/news/?k&o=2&l=30・1回目）
+  - 「この記事の内容をまとめると… パンチ工業株式会社の公式YouTubeチャンネル開設 精密金型部品加工の技術紹介などの動画コンテンツ定期配信 決算情報や展示会の出展報告などの発信 パンチ工業株式会社は、...」（https://www.aperza.com/ja/s/news/?k&o=2&l=30・1回目）
+  - 「この記事の内容をまとめると… ウイルテックはデバイス販売テクノ、ホタルクスと合同で、2025年11月19日（水）〜21日（金）に東京ビッグサイトで開催される「IIFES 2025」に出展する」（https://www.aperza.com/ja/s/news/?k&o=3&l=30・1回目）
+  - 「この記事の内容をまとめると… ロボティクス領域に向けたロータリーアクチュエータとリニアアクチュエータの開発 小型・軽量・高バックドライバビリティという特長 2025国際ロボット展への参考出展と2028...」（https://www.aperza.com/ja/s/news/?k&o=3&l=30・1回目）
+  - 「Doog、KAIZEN Mobile Robotを新プロモ開始 名古屋ロボデックス出展＆技術相談会」（https://www.aperza.com/ja/s/news/?k&o=4&l=30・1回目）
+  - 「この記事の内容をまとめると… 名古屋ロボデックス出展と新プロモーション開始 【KAIZEN Mobile Robot】のブランドロゴとメッセージ発信 エンドユーザ様向け技術相談会（予約制）の実施 株式...」（https://www.aperza.com/ja/s/news/?k&o=4&l=30・1回目）
+  - 「NSK、MECT2025に出展 Z-θアクチュエータ・PalGo・D‑VibA10を展示（10/22〜25・名古屋）」（https://www.aperza.com/ja/s/news/?k&o=5&l=30・1回目）
+  - 「この記事の内容をまとめると… 「メカトロテックジャパン2025（MECT2025）」への出展 コンセプト“MORE THAN PRECISION”と主な展示内容 会期・会場・ブース番号の出展概要 日本...」（https://www.aperza.com/ja/s/news/?k&o=5&l=30・1回目）
+- お金の形：
+  - 「無料掲載 / 広告掲載について」（https://www.aperza.com/・1回目）
+  - 「アズビル、強化学習AIで生産計画を自動立案・更新「VIRTUAL PLANNER PP」2026年1月20日販売開始」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「この記事の内容をまとめると… AIが生産計画を自動立案・更新する「AI最適生産計画立案システム VIRTUAL PLANNER PP」の販売開始 強化学習によりAIが最適な生産計画を短時間で立案し、生...」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「オートデスク、AU 2025でエージェント型AI発表 アシスタント強化・MCPサーバー2025年秋ベータ予定・APS課金刷新」（https://www.aperza.com/ja/s/news/?k&o=5&l=30・1回目）
+  - 「オートデスク、AU 2025でエージェント型AI発表 アシスタント強化・MCPサーバー2025年秋ベータ予定・APS課金刷新」（https://www.aperza.com/ja/s/news/?k&o=6&l=30・1回目）
+  - 「アペルザのメディアを通じた広告宣伝や、営業活動のデジタル化支援、メールを活用したマーケティング、売上拡大につながる業務効率の改善を実現します」（https://www.aperza.co.jp/service/・3回目）
+  - 「メディア・動画配信等による見込み顧客送客・販促課金、ECの取引手数料、SaaS「Apérza DX」の月額利用料が主な収益源」（https://www.firstcvc.jp/company/aperza.co.jp・3回目）
+  - 「アペルザとイプロスの違いと活用法 製造業の媒体掲載を商談につなげる考え方 - 集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「集客・広告戦略メディア「キャククル」」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「アペルザとイプロスを比べるとき、掲載料金や会員数、掲載できる製品数だけを見ると判断が粗くなります」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「詳しい媒体概要や広告掲載料金の考え方は、」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「アペルザ広告掲載の解説記事」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+- 規模：
+  - 「アペルザとイプロスを比べるとき、掲載料金や会員数、掲載できる製品数だけを見ると判断が粗くなります」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「利用企業数8万社、利用者数50万人（2022年3月時点）という、国内でも有数の大規模プラットフォームに成長を遂げました」（https://prtimes.jp/main/html/rd/p/000000119.000014995.html・3回目）
+  - 「現在、買い手として約60万人以上の方にご利用いただいており、売り手としての利用企業も1万社を超えるところまできました」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+- 創業期の始め方：
+  - 「人々の暮らしを支え、より良い社会を実現するという大志を抱いて1964年に弊社は創業いたしました」（https://www.aperza.com/company/area/area_prefectureId_1/・1回目）
+  - 「弊社は、創業２４年を迎え、国・県・市町村の公共事業に関わる業務を支援するソフトウェア開発を中心に営んで現在に至る」（https://www.aperza.com/company/area/area_prefectureId_1/・1回目）
+  - 「1984年創業以来、複写機に代表される事務機器に始まり、オフィス家具、OA機器、ネットワーク機器、通信販売、オフィス内軽印刷とその活動の範囲を広げてまいりました」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「キヤノンプレシジョン（株）は、キヤノン（株）の最初の子会社としてカメラ部品の製造からスタートしました」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「高精度の平面研磨技術と特殊プリズムで時代を創る株式会社テクニカルはプリズム製造メーカーとしては1989年の創業で最も若い企業でもあります」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「農業機械と環境機器の開発・製造・販売メーカー 創業115年の実績と信頼」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「創業当初より技術を培ってきました組立加工と、成長戦略の柱の一つとして強化してきましたプラスチック射出成形では、金型設計～金型製作～射出成形をワンス...」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「１９６６年の創業以来、お客様のご用途、ご要望に迅速に、的確に、対応できるよう、お客...」（https://www.aperza.com/company/area/area_prefectureId_2/・1回目）
+  - 「当社は創業以来、環境をテーマとして全国の行政等の要望に対応した製品開発に取り組んでおります」（https://www.aperza.com/company/area/area_prefectureId_3/・1回目）
+  - 「明治４０年代創業の水産・食品加工機械メーカーです」（https://www.aperza.com/company/area/area_prefectureId_4/・1回目）
+  - 「幣社は1978年の創業以来、秋田において主に杉材の乾燥システムの確立を目標に今日まで 木材乾燥装置の開発を進めてまいりました」（https://www.aperza.com/company/area/area_prefectureId_5/・1回目）
+  - 「秋田化学工業株式会社は昭和４７年創業以来、金属製品の表面処理を通して、製品の機能向上に努めてまいりました」（https://www.aperza.com/company/area/area_prefectureId_5/・1回目）
+- 集客：
+  - 「Apérza（アペルザ） | ものづくり産業向けポータル - 製品検索・カタログ・通販」（https://www.aperza.com/・1回目）
+  - 「search-aperza-」（https://www.aperza.com/・1回目）
+  - 「型番、製品名、メーカー名を検索」（https://www.aperza.com/・1回目）
+  - 「ニュース・記事を読む」（https://www.aperza.com/・1回目）
+  - 「カタログ検索」（https://www.aperza.com/・1回目）
+  - 「ニュース検索」（https://www.aperza.com/・1回目）
+  - 「展示会DB(データベース)」（https://www.aperza.com/・1回目）
+  - 「展示会取材動画」（https://www.aperza.com/・1回目）
+  - 「展示会 / イベント」（https://www.aperza.com/・1回目）
+  - 「無料掲載 / 広告掲載について」（https://www.aperza.com/・1回目）
+  - 「ニュース検索 | アペルザ (Apérza) | Apérza（アペルザ） | ものづくり産業向けポータル」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「製品検索結果：8,875件中 1-30件を表示」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+- 資金調達・売却：
+  - 「HORIBA、インドPristine Deeptechを買収し人工ダイヤ研究開発拠点を強化」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「豊田通商、リンクウィズへ出資し点群3D形状認識で自律型ロボットを共同開発」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「この記事の内容をまとめると… 豊田通商株式会社によるリンクウィズ株式会社への出資と共同事業開発契約の締結 点群データの高速処理による3次元形状認識ソフトウェアの開発 量産工程に求められる自律型ロボット...」（https://www.aperza.com/ja/s/news/?utm_source=footer_portal&utm_medium=app・1回目）
+  - 「この記事の内容をまとめると… Brakes India Private Limitedとの資本業務提携決議 第三者割当増資による約11億37百万円の資金調達 購買、製造、技術ライセンス供与、製品相互販...」（https://www.aperza.com/ja/s/news/?k&o=2&l=30・1回目）
+  - 「この記事の内容をまとめると… シリーズAラウンドで累計5億円の資金調達を完了 JPインベストメント地域・インパクト1号を引受先とする第三者割当増資を実施 調達資金は自律走行式金型交換装置の開発、生産能...」（https://www.aperza.com/ja/s/news/?k&o=3&l=30・1回目）
+  - 「この記事の内容をまとめると… シリーズAラウンドで累計5億円の資金調達を完了 JPインベストメント地域・インパクト1号を引受先とする第三者割当増資を実施 調達資金は自律走行式金型交換装置の開発、生産能...」（https://www.aperza.com/ja/s/news/?k&o=4&l=30・1回目）
+  - 「三菱電機、Nozomi Networks買収でSerendie強化 2030年度売上1.1兆円目標」（https://www.aperza.com/ja/s/news/?k&o=5&l=30・1回目）
+  - 「この記事の内容をまとめると… Serendie関連事業の強化を目的とした買収 Nozomi NetworksのSaaS・クラウド・AIの取り込みによる質的強化 Serendie関連事業で2030年度に...」（https://www.aperza.com/ja/s/news/?k&o=5&l=30・1回目）
+  - 「三菱電機、Nozomi Networks買収でSerendie強化 2030年度売上1.1兆円目標」（https://www.aperza.com/ja/s/news/?k&o=6&l=30・1回目）
+  - 「この記事の内容をまとめると… Serendie関連事業の強化を目的とした買収 Nozomi NetworksのSaaS・クラウド・AIの取り込みによる質的強化 Serendie関連事業で2030年度に...」（https://www.aperza.com/ja/s/news/?k&o=6&l=30・1回目）
+  - 「【無料閲覧可】株式会社アペルザ / Apérza Catalogの資金調達推移・投資家情報 | FIRST CVC」（https://www.firstcvc.jp/company/aperza.co.jp・3回目）
+  - 「資金調達は最新の1回分を無料で公開しています」（https://www.firstcvc.jp/company/aperza.co.jp・3回目）
+- 検索結果の抜粋：
+  - 「サービス - 株式会社アペルザ — サービス - 株式会社アペルザ 株式会社アペルザ https://www.aperza.co.jp > service」（https://www.aperza.co.jp/service/・3回目）
+  - 「株式会社 アペルザ - FIRST CVC — 株式会社 アペルザ - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > aperza.co.jp」（https://www.firstcvc.jp/company/aperza.co.jp・3回目）
+  - 「アペルザ とイプロスの違いと活用法 製造業の媒体掲載を商談 ... — アペルザ とイプロスの違いと活用法 製造業の媒体掲載を商談 ... キャククル https://www.shopowner-support.net > manufacturing > ap...」（https://www.shopowner-support.net/attracting_customers/manufacturing/manufacturing-general/aperza-ipros-lead-media/・3回目）
+  - 「アペルザ の現在地とこれから－製造業の「マーケット ... - note — アペルザ の現在地とこれから－製造業の「マーケット ... - note note https://note.com > ビジネス > ビジネス全般」（https://note.com/aperza/n/nc57a617e676c・3回目）
+  - 「アペルザ | 事例 | kintone（キントーン） - サイボウズ — アペルザ | 事例 | kintone（キントーン） - サイボウズ サイボウズ株式会社 https://kintone-sol.cybozu.co.jp > cases > aperza」（https://kintone-sol.cybozu.co.jp/cases/aperza.html・3回目）
+  - 「アペルザ について - 株式会社アペルザ — アペルザ について - 株式会社アペルザ 株式会社アペルザ https://www.aperza.co.jp > about」（https://www.aperza.co.jp/about/・3回目）
+  - 「株式会社 アペルザ の全ての求人一覧 - HERP Career — 株式会社 アペルザ の全ての求人一覧 - HERP Career herp.careers https://herp.careers > aperzainc」（https://herp.careers/v1/aperzainc・3回目）
+  - 「業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 — 業界毎特集記事－株式会社 アペルザ 代表取締役社長 石原 誠 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/4779・3回目）
+  - 「株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE — 株式会社 アペルザ ｜成長ベンチャーに訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_aperza」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+  - 「業界毎特集記事－株式会社 アペルザ 代表取締役 社長 石原 誠 — 業界毎特集記事－株式会社 アペルザ 代表取締役 社長 石原 誠 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/4779・3回目）
+  - 「株式会社 アペルザ ｜成長 ベンチャー に訊く - CBRE — 株式会社 アペルザ ｜成長 ベンチャー に訊く - CBRE CBRE https://www.cbre.co.jp > office > trend > venture_aperza」（https://www.cbre.co.jp/properties/column/office/trend/venture_aperza・3回目）
+  - 「創業 6周年を機に新たなパーパスを策定し、ブランドを ... — 創業 6周年を機に新たなパーパスを策定し、ブランドを ... Apérza（アペルザ） https://www.aperza.com > Home > Press」（https://www.aperza.com/corp/20220602・3回目）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部11頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部11頁・検索4回）
+
+## イプロス
+- 公式URL：https://insurancepros.com/（search:yahoo_jp:Ipros）
+- 設立：2001年10月（https://engineer-shukatu.jp/company-87/・3回目）
+- 従業員数：123名（2025年4月時点）（https://engineer-shukatu.jp/company-87/・3回目）
+- 売上高：46.8億円（2024年度実績）（https://engineer-shukatu.jp/company-87/・3回目）
+- 誰から払われるか：
+  - 「イプロスは、閲覧会員数、出展企業数No.1※」（https://www.ipros.com/・3回目）
+  - 「情報を探すユーザーと、技術をPRしたい企業のマッチングプラットフォームで、製造業向けの「イプロスものづくり」だけでも、閲覧会員数は約198万人、出展企業数は約4.8万社」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「閲覧者は多くの製品・サービス・技術の中から分野別に情報を探すことができ、出展企業は業種や業界の垣根を超えて、幅広いユーザーに自社をPRできるプラットフォームです」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「出展企業はサンプルやカタログが登録でき、見込み客の情報をリアルタイムで入手できることから、認知拡大や新しい商談・引き合いの場として活用されています」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「BtoBマーケティングの展示会｜出展のメリットや費用を徹底解説」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「イプロスは、5万社超の掲載企業と140万人超のユーザーを繋ぐことで新たなビジネスや技術革新を創出する、国内最大級のWebプラットフォームです」（https://engineer-shukatu.jp/company-87/・3回目）
+- お金の形：
+  - 「Health Plan Cart」（https://insurancepros.com/・1回目）
+  - 「Individual & Family Plans」（https://insurancepros.com/・1回目）
+  - 「Medicare Advantage Plan Comparison Tool」（https://insurancepros.com/・1回目）
+  - 「Development Plan」（https://insurancepros.com/・1回目）
+  - 「INDIVIDUAL & FAMILY PLANS (EXCHANGE)」（https://insurancepros.com/・1回目）
+  - 「Special ACA Edition: The Big Beautiful Bill and How It Impacts Exchange Plans」（https://insurancepros.com/・1回目）
+  - 「Health Plan Cart」（https://insurancepros.com/about-us/・1回目）
+  - 「Individual & Family Plans」（https://insurancepros.com/about-us/・1回目）
+  - 「In 2023 we joined Alera Group, an independent national insurance and wealth services firm, offering comprehensive employee benefits, property and casualty insurance, retirement plan services and wealth services solutions to clients nationwide. This was a strategic move for iPros Insurance Professionals to facilitate our continued growth.」（https://insurancepros.com/about-us/・1回目）
+  - 「We set ourselves to a standard to provide superior administrative support, technology, training, and career development to our Broker partners. All our agents receive 100% of their street level commissions because we know the work you put in.」（https://insurancepros.com/about-us/・1回目）
+  - 「At our organization large investments have been made to provide elite tools to our agents. For example, agents can receive a proprietary Customer Relationship Management tool and a Medicare online enrollment tool to help beneficiaries shop, compare, and enroll into various plans.」（https://insurancepros.com/about-us/・1回目）
+  - 「Commissions Specialist」（https://insurancepros.com/about-us/・1回目）
+- 規模：
+  - 「イプロスは、閲覧会員数、出展企業数No.1※」（https://www.ipros.com/・3回目）
+  - 「イプロスはキーエンスグループが運営するBtoBマッチングプラットフォームで、製造業向けの「イプロスものづくり」だけでも閲覧会員数は約198万人にのぼります（2026年5月末時点）」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「イプロスとは｜会員数国内最大級のBtoBマッチングプラットフォーム」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「情報を探すユーザーと、技術をPRしたい企業のマッチングプラットフォームで、製造業向けの「イプロスものづくり」だけでも、閲覧会員数は約198万人、出展企業数は約4.8万社」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「閲覧会員数はイプロスものづくりだけで約198万人にもおよび、多くのリーチも見込めるため、登録だけでもしておくと良いでしょう」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「閲覧会員数が約198万人（イプロスものづくり）にのぼる国内最大級のプラットフォームであるため、掲載しておくだけで、一定のリーチが期待できます」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「閲覧会員数は約198万人（イプロスものづくり）にのぼり、掲載しておくだけでも一定のリーチが見込めるため、認知拡大には有効な手段です」（https://leadfactory.jp/posts/ipros/・3回目）
+- 創業期の始め方：
+  - 「Get Your Career In Healthcare Sales Started Today」（https://insurancepros.com/・1回目）
+  - 「「アートアクアリウム美術館」の立ち上げに新規事業責任者として参画」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「マーケティング・インサイドセールス責任者を務め、PHC株式会社ではAPACの海外BtoBマーケティング立ち上げに従事」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「2023年5月、株式会社LEAD FACTORY.を創業」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「アイデアをするっと出してくれたのが、もう一人の若手メンバーAでした」（https://www.wantedly.com/companies/company_Apto/post_articles/1066174・3回目）
+  - 「Aは山口より1年あとに新卒で採用され、最初から商品企画を希望した個性派」（https://www.wantedly.com/companies/company_Apto/post_articles/1066174・3回目）
+  - 「20代は山口ただ一人で、周りは歳の離れた先輩方に囲まれながら、「販促」のノウハウをぐんぐん吸収していきました」（https://www.wantedly.com/companies/company_Apto/post_articles/1066174・3回目）
+  - 「価値あるプロダクトと人々、そしてコミュニティを繋ぐ「出会いのきっかけ」を創出し、「最高の体験」へと昇華させることがミッションです」（https://www.green-japan.com/company/3603/interview・3回目）
+  - 「【第2創業期メンバー募集】AIを活用したイベントDXプロダクトと、展示会・イベントのプロデュースで、企業のイベントを事業成果につなげる」（https://www.green-japan.com/company/3603/interview・3回目）
+- 集客：
+  - 「Skip to content」（https://insurancepros.com/・1回目）
+  - 「We publish content weekly and monthly to help keep you updated on Industry News and Insights」（https://insurancepros.com/・1回目）
+  - 「Skip to content」（https://insurancepros.com/about-us/・1回目）
+  - 「Skip to content」（https://insurancepros.com/individual-family-plans/・1回目）
+  - 「BtoB向け情報検索サイト イプロス」（https://www.ipros.com/・3回目）
+  - 「国内最大級のBtoB向け情報検索サイト 『イプロス』」（https://www.ipros.com/・3回目）
+  - 「製造業向け情報検索サイト イプロスものづくり」（https://www.ipros.com/・3回目）
+  - 「ここでは、製造業向けとBtoB全般向けの2つのサイトの違い、メリットとデメリット、広告オプションの位置づけ、SNS上の口コミを順に見ていきます」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「展示会やWebサイト、ホワイトペーパーなど、ほかの施策との組み合わせ方は「」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「この記事を公開した2024年3月には、イプロスは「ものづくり」「都市まちづくり」「医薬食品技術」の3つのサイトに分かれていました」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「は、製造業向けの情報検索サイトです」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「メルマガ広告を配信できる」（https://leadfactory.jp/posts/ipros/・3回目）
+- 資金調達・売却：
+  - 「１億円（キーエンス100％出資）」（https://engineer-shukatu.jp/company-87/・3回目）
+  - 「株式会社イプロス設立（株式会社キーエンス100%出資）」（https://recruit.ipros.jp/overview/・3回目）
+- 検索結果の抜粋：
+  - 「BtoB向け情報検索サイト イプロス — BtoB向け情報検索サイト イプロス BtoB向け情報検索サイト イプロス https://www.ipros.com」（https://www.ipros.com/・3回目）
+  - 「イプロス の効果や 料金 体系やメリット・デメリットを徹底解説！ — イプロス の効果や 料金 体系やメリット・デメリットを徹底解説！ 株式会社リードファクトリー https://leadfactory.jp > ブログ」（https://leadfactory.jp/posts/ipros/・3回目）
+  - 「成功事例 - 株式会社イプロス — 成功事例 - 株式会社イプロス 株式会社イプロス https://marketing.ipros.jp > case」（https://marketing.ipros.jp/case/・3回目）
+  - 「イプロス の広告掲載 料金 ・メニューを徹底解説！無料 プラン と ... — イプロス の広告掲載 料金 ・メニューを徹底解説！無料 プラン と ... キャククル https://www.shopowner-support.net > ipros」（https://www.shopowner-support.net/attracting_customers/manufacturing/ipros/・3回目）
+  - 「【BtoBマーケティング担当者向け】 イプロス ものづくりとは ... — 【BtoBマーケティング担当者向け】 イプロス ものづくりとは ... 合同会社ユー・ラボ https://blog.u-labo.co.jp > ipros-competitors」（https://blog.u-labo.co.jp/ipros-competitors/・3回目）
+  - 「株式会社 イプロス 会社概要と採用情報 - エンジニア就活 — 株式会社 イプロス 会社概要と採用情報 - エンジニア就活 エンジニア就活 https://engineer-shukatu.jp > 採用情報一覧」（https://engineer-shukatu.jp/company-87/・3回目）
+  - 「IPROS RECRUIT｜株式会社 イプロス 採用サイト — IPROS RECRUIT｜株式会社 イプロス 採用サイト 製造業向け情報検索サイト イプロスものづくり https://recruit.ipros.jp > overview」（https://recruit.ipros.jp/overview/・3回目）
+  - 「業績データ - メーカー・企業と製品の一覧 - イプロス — 業績データ - メーカー・企業と製品の一覧 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 業績データ」（https://www.ipros.com/cg2/%E6%A5%AD%E7%B8%BE%E3%83%87%E3%83%BC%E3%82%BF/・3回目）
+  - 「イプロス 編3～ イプロス 誕生のための難関突破 | 株式会社アプト — イプロス 編3～ イプロス 誕生のための難関突破 | 株式会社アプト Wantedly https://www.wantedly.com > 株式会社アプト > ストーリー」（https://www.wantedly.com/companies/company_Apto/post_articles/1066174・3回目）
+  - 「株式会社 イプロス の社員 インタビュー | IT/Web業界の転職 ... — 株式会社 イプロス の社員 インタビュー | IT/Web業界の転職 ... 転職サイトGreen https://www.green-japan.com > company > interview」（https://www.green-japan.com/company/3603/interview・3回目）
+  - 「「 イプロス 」様における成功事例として弊社の インタビュー ... — 「 イプロス 」様における成功事例として弊社の インタビュー ... 株式会社森環境技術研究所 https://mori-kankyo.co.jp > news」（https://mori-kankyo.co.jp/news/184/・3回目）
+  - 「【メディア情報】 イプロスインタビュー - 株式会社エイチツー — 【メディア情報】 イプロスインタビュー - 株式会社エイチツー 株式会社エイチツー https://www.eichitwo.com > ...」（https://www.eichitwo.com/?p=4042・3回目）
+
+## キャディ
+- 公式URL：https://caddi.com（given）
+- 設立：2017年11月（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+- 設立：2017年11月9日（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+- 設立：2017年11月（https://note.com/lithe_poppy8924/n/nf4050e8351ac・3回目）
+- 従業員数：1000名以上（https://caddi.com/ja-jp/・1回目）
+- 従業員数：1000名以上（https://caddi.com/ja-jp/company/・1回目）
+- 従業員数：1000名以上（https://caddi.com/ja-jp/news/・1回目）
+- 誰から払われるか：
+  - 「CUSTOMERS」（https://caddi.com/ja-jp/・1回目）
+  - 「また西半球最大、2年に1度開催の製造技術展示会であるIMTS 2026にも出展いたします」（https://caddi.com/ja-jp/news/press/20260812/・1回目）
+  - 「IMTS 2026 出展について」（https://caddi.com/ja-jp/news/press/20260812/・1回目）
+  - 「キャディは、西半球最大、2年に1度開催の製造技術展示会「IMTS 2026（International Manufacturing Technology Show）」（2026年9月14日（月）〜19日（土）、米国シカゴ・McCormick Place）にも出展いたします」（https://caddi.com/ja-jp/news/press/20260812/・1回目）
+  - 「出展詳細は、IMTS公式サイトの出展社ページをご覧ください」（https://caddi.com/ja-jp/news/press/20260812/・1回目）
+  - 「今回取得した特許は、特殊金属加工部品の製造を加工会社へ委託したい発注者に、品質・価格・納期において最も適した加工会社の選定をするビジネスモデルおよび、それを可能にする独自開発の自動見積もりプログラムに関するものです」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「発注者からアップロードされた図面データを、キャディ独自のプログラムで解析して見積もりを自動算出」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「提携加工会社ごとの原価データベースをもとに最適な工場を選定し、相見積もりをせずに発注をかける仕組み」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「2017年11月より提供開始したサービスの利用社数は2,000社を超え、全国の提携加工会社数は約80社に達しました」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「今後もプログラムに関しては改善を続け、「CADDi」を利用する発注企業・提携加工会社双方にとって高い満足度を目指して機能開発を進めてまいります」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「）は、独自開発の原価計算アルゴリズムに則った自動見積もりシステムによって、発注者と品質・納期・価格が最も適合する加工会社とのマッチングを可能にする製造業の受発注プラットフォームです」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「AI startup CADDi, which helps manufacturers solve their 'too many parts' problem, gets $38 million in new funding | Fortune」（https://note.com/tic_app/n/n8d5eeefc3a48・3回目）
+- お金の形：
+  - 「「WOW Our Users!」をミッションに掲げ、検索・ポータル、eコマース、メッセンジャー、広告など、多様な領域において事業を展開しています」（https://caddi.com/ja-jp/news/press/20260826/・1回目）
+  - 「キャディが他のSaaS(クラウド上で月額課金で使うソフトウェア)企業と違うのは、「ソフトを売っている」というよりも「データが資産に変わる瞬間を売っている」点だと、僕は見ています」（https://note.com/lithe_poppy8924/n/nf4050e8351ac・3回目）
+  - 「noteプレミアム」（https://note.com/lithe_poppy8924/n/nf4050e8351ac・3回目）
+  - 「ユーザーはソフトウェアを購入・インストールする必要がなく、月額や年額のサブスクリプション料金を支払って利用する」（https://note.com/tic_app/n/n8d5eeefc3a48・3回目）
+  - 「noteプレミアム」（https://note.com/tic_app/n/n8d5eeefc3a48・3回目）
+- 規模：
+  - 「「WOW Our Users!」をミッションに掲げ、検索・ポータル、eコマース、メッセンジャー、広告など、多様な領域において事業を展開しています」（https://caddi.com/ja-jp/news/press/20260826/・1回目）
+  - 「ヤンマーエネルギーシステムは、エネルギーソリューションのスペックイン（顧客設備への自社製品の採用提案）業務において、対応件数の拡大と業務効率化を経営上の重要テーマとして掲げています」（https://caddi.com/ja-jp/news/press/20260820/・1回目）
+  - 「提案対応件数の拡大を図るうえで、過去の知見・ノウハウへ素早くアクセスできる環境の整備は急務の課題でした」（https://caddi.com/ja-jp/news/press/20260820/・1回目）
+  - 「今後は、関連ドキュメントのデータ拡充や業務フローへの組み込みを通じて、残業時間の削減や提案対応件数のさらなる拡大を図るとともに、支社間をまたいだ技術知見・ノウハウの共有実現を目指してまいります」（https://caddi.com/ja-jp/news/press/20260820/・1回目）
+  - 「さらに、CADDiの利用ユーザー数は導入当初の30名から」（https://caddi.com/ja-jp/news/press/20260729/・1回目）
+  - 「2024年4月のリリース以来、東大生ユーザー数は12,000人を突破！」（https://note.com/tic_app/n/n8d5eeefc3a48・3回目）
+- 創業期の始め方：
+  - 「FOUNDERS & LEADERSHIP」（https://caddi.com/ja-jp/company/・1回目）
+  - 「代表取締役CEO・共同創業者」（https://caddi.com/ja-jp/company/・1回目）
+  - 「2017年にキャディを創業」（https://caddi.com/ja-jp/company/・1回目）
+  - 「2017年にキャディ株式会社を加藤と共同創業」（https://caddi.com/ja-jp/company/・1回目）
+  - 「古河産機システムズ、製造業AIデータプラットフォームCADDiで設計・調達データの一元化を推進——創業150年超の技術継承をデータで支える」（https://caddi.com/ja-jp/news/・1回目）
+  - 「当初は「本当にこんな手作りでやっていて世界最先端の飛行機作れるんだろうか」（https://caddi.com/ja-jp/news/press/20260331/・1回目）
+  - 「藤野氏の講演は、一人のエンジニアの情熱がいかにして巨大な事業へと昇華し、世界の空を変えるイノベーションを生んだのかを示す、感動的な講演となりました」（https://caddi.com/ja-jp/news/press/20260331/・1回目）
+  - 「代表取締役CEO・共同創業者」（https://caddi.com/ja-jp/careers/・1回目）
+  - 「それは、キャディが創業以来、大切にしてきた姿勢です」（https://caddi.com/ja-jp/careers/・1回目）
+  - 「キャディは2017年、特注部品の受発注プラットフォームとして創業しました」（https://caddi.com/ja-jp/company/history/・1回目）
+  - 「最初の受注は、電車に使われる板金製品でした」（https://caddi.com/ja-jp/company/history/・1回目）
+  - 「創業時は「受発注プラットフォームCADDi」として始まり、2022年10月に複数プロダクト体制への移行に伴い「CADDi Manufacturing」へ刷新しました」（https://caddi.com/ja-jp/company/history/・1回目）
+- 集客：
+  - 「すべての記事」（https://caddi.com/ja-jp/news/・1回目）
+  - 「取材・メディアからのお問い合わせ」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「タダノは、国内拠点でのCADDi 活用の実績を踏まえ、データ検索工数の大幅な削減や技術伝承の基盤構築といった成果がみえてきたことから、国内外の主要拠点へ活用を拡大します」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「この成果として、部門間の情報共有が促進され、業務の検索性・再利用性が大きく向上しました」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「特に、担当者の知識に依存していた部品検索業務が従来の30分から5分へと大幅に短縮されるなど、明確な業務改善効果が確認されています」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「取材・メディアからのお問い合わせ」（https://caddi.com/ja-jp/news/press/20260324/・1回目）
+  - 「2024年の導入から、現場への定着と具体的な成果が生まれており、その取り組みと効果をご紹介します」（https://caddi.com/ja-jp/news/press/20260324/・1回目）
+  - 「その中で、コロナ禍における業務精査や展示会でのデジタルモノづくりの潮流など、複数の気づきが重なっていきました」（https://caddi.com/ja-jp/news/press/20260324/・1回目）
+  - 「以前のシステムでは検索に30秒以上を要していましたが、CADDi Drawerの導入によってベテラン社員・中堅層を問わず「使いやすい」という声が上がり、他部署の安価な調達事例への気づきなど新たな発見も生まれています」（https://caddi.com/ja-jp/news/press/20260324/・1回目）
+  - 「取材・メディアからのお問い合わせ」（https://caddi.com/ja-jp/news/press/20260527/・1回目）
+  - 「取材・メディアからのお問い合わせ」（https://caddi.com/ja-jp/news/press/20260331/・1回目）
+  - 「詳細はプロダクト紹介と2026年8月6日の発表をご覧ください」（https://caddi.com/ja-jp/company/history/・1回目）
+- 資金調達・売却：
+  - 「累計資金調達額」（https://caddi.com/ja-jp/company/・1回目）
+  - 「177億円の資金調達を実施し企業価値は1,820億円に」（https://caddi.com/ja-jp/news/・1回目）
+  - 「しかしその裏側で、買収先を含むグループ各社間で部品データや技術情報が散在し、知の『サイロ化』が深刻な課題となっていました」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「累計エクイティ資金調達額は257.3億円」（https://caddi.com/ja-jp/news/press/20260323/・1回目）
+  - 「累計エクイティ資金調達額は257.3億円」（https://caddi.com/ja-jp/news/press/20260324/・1回目）
+  - 「累計資金調達額は257.3億円」（https://caddi.com/ja-jp/news/press/20260527/・1回目）
+  - 「累計エクイティ資金調達額は257.3億円」（https://caddi.com/ja-jp/news/press/20260331/・1回目）
+  - 「累計資金調達額」（https://caddi.com/ja-jp/careers/・1回目）
+  - 「キャディ、177億円の資金調達を実施し企業価値は1,820億円に」（https://caddi.com/ja-jp/careers/・1回目）
+  - 「177億円の資金調達を実施し企業価値は1,820億円に｜CADDi」（https://caddi.com/ja-jp/news/press/series-d-funding/・1回目）
+  - 「177億円の資金調達を実施し企業価値は1,820億円に」（https://caddi.com/ja-jp/news/press/series-d-funding/・1回目）
+  - 「今回の資金調達に伴い、累計エクイティ調達額は363.1億円になり、当社の企業価値（バリュエーション）は1,820億円となります」（https://caddi.com/ja-jp/news/press/series-d-funding/・1回目）
+- 検索結果の抜粋：
+  - 「ビジネスモデル および自動見積もりプログラムにおいて特許を ... — ビジネスモデル および自動見積もりプログラムにおいて特許を ... CADDi https://caddi.com > ホーム > ニュース > プレスリリース」（https://caddi.com/ja-jp/news/press/20190131/・3回目）
+  - 「【無料閲覧可】 キャディ 株式会社 / CADDiの資金 ... - FIRST CVC — 【無料閲覧可】 キャディ 株式会社 / CADDiの資金 ... - FIRST CVC FIRST CVC https://www.firstcvc.jp > company > caddi」（https://www.firstcvc.jp/company/caddi.jp・3回目）
+  - 「日本のモノづくりをテクノロジーで変革する キャディ — 日本のモノづくりをテクノロジーで変革する キャディ PR TIMES https://prtimes.jp > その他」（https://prtimes.jp/main/html/rd/p/000000003.000039886.html・3回目）
+  - 「【直撃取材】 キャディ 、祖業を辞めても大型調達できるワケ — 【直撃取材】 キャディ 、祖業を辞めても大型調達できるワケ note https://note.com > ... > ビジネスリーダーインタビュー」（https://note.com/_funeo/n/n03a65d5f5abc・3回目）
+  - 「会社情報 - CADDi — 会社情報 - CADDi CADDi https://caddi.com > ja-jp > company」（https://caddi.com/ja-jp/company/・3回目）
+  - 「キャディ 株式会社 徹底解剖／累計257億円調達・2030年ARR1 ... — キャディ 株式会社 徹底解剖／累計257億円調達・2030年ARR1 ... note https://note.com > キャリア > キャリア戦略」（https://note.com/lithe_poppy8924/n/nf4050e8351ac・3回目）
+  - 「キャディ 、 創業 5周年を冠した特設サイト公開のお知らせ 製造 ... — キャディ 、 創業 5周年を冠した特設サイト公開のお知らせ 製造 ... CADDi https://caddi.com > ホーム > ニュース > プレスリリース」（https://caddi.com/ja-jp/news/press/20221111/・3回目）
+  - 「2023年 年頭のご挨拶 グローバルでサプライチェーン変革の ... — 2023年 年頭のご挨拶 グローバルでサプライチェーン変革の ... CADDi https://caddi.com > ホーム > ニュース > プレスリリース」（https://caddi.com/ja-jp/news/press/20230104/・3回目）
+  - 「業界毎特集記事－ キャディ 株式会社 代表取締役CEO 加藤 勇志郎 — 業界毎特集記事－ キャディ 株式会社 代表取締役CEO 加藤 勇志郎 社長名鑑 https://shachomeikan.jp > industry_article」（https://shachomeikan.jp/industry_article/2997・3回目）
+  - 「キャディ 加藤勇志郎の、「桁外れな目標」の立て方 - 野村證券 — キャディ 加藤勇志郎の、「桁外れな目標」の立て方 - 野村證券 野村證券 https://www.nomura.co.jp > wealthstyle > feature」（https://www.nomura.co.jp/wealthstyle/feature/0067/・3回目）
+  - 「キャディ 代表取締役 加藤勇志郎とC T O小橋昭文が選出 - CADDi — キャディ 代表取締役 加藤勇志郎とC T O小橋昭文が選出 - CADDi CADDi https://caddi.com > ホーム > ニュース > プレスリリース」（https://caddi.com/ja-jp/news/press/20200402/・3回目）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索4回）
+
+## ジグザグ
+- 公式URL：https://zigzag.co.jp（given）
+- 設立：2020年11月（https://zigzag.co.jp/・1回目）
+- 設立：2015年6月24日（https://www.nikkei.com/nkd/company/gaiyo/?scode=340A・3回目）
+- 従業員数：60 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=340A・3回目）
+- 誰から払われるか：
+  - 「当時、FacebookなどSNSの普及により情報のボーダーは低くなっていましたが、売り手側（ショップ側）には依然として大きなボトルネックがありました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「この理由を考えてたどり着いたのが、売り手側（ECサイト側）に言語・決済・物流というボトルネックが存在するため、海外に配送もできない・販売できないのだ、ということでした」（https://note.com/mic_official/n/n97adb0236733・3回目）
+  - 「ZigZag stands out by offering a streamlined approach to entrepreneurship workshops and classes. With just a few clicks to set up a free account, users are introduced to a world where the focus shifts to innovation and creativity.」（https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship・3回目）
+- お金の形：
+  - 「-真天地開闢集団-ジグザグ エポスカード｜年会費無料のクレジットカードはエポスカード」（https://www.eposcard.co.jp/gecard/zigzag/・3回目）
+  - 「それまでは広告代理店で営業やマーケティングに従事しており、エンジニアではございません」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当時、インターネット広告会社のオプトに在籍していた私は、インターネットがあれば世界中から商品を購入できるはずだと考えていました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「越境事業のため、現在は日本を拠点としてグローバル展開しておりますが、売上の95%が海外、5%が日本のECサイトからの課金となっております」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「この手数料収益が当社の海外売上になっています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「ショップに対しては、このサービスは売上手数料無料です」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「いくら売れても発生するコストは、初期費用3万円と月額5,000円のサービスでございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「つまり、収益の大半は海外カスタマーからの手数料収益となっているモデルでございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「ショップからすると、月額5,000円を支払えば、多言語カスタマーサポート、決済機能、配送まで全て対応できる、非常にローリスクな料金設定となっています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「Facebook広告を出稿すると、トラフィックが増えてオーダーが増加したというショップもございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当社の売上高は、この中からテイクレートとしての手数料部分の収益が当社の売上高でございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「先ほど申し上げたように、ショップからすると月額5,000円で丸ごと海外対応ができ、かつ既にやってきている海外カスタマーからのオーダーが増えていくモデルですので、ほぼリスクがない状態でございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+- 規模：
+  - 「取扱高（GMV）の詳細」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「取扱高GMVの詳細でございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「海外カスタマーからの決済総額がGMVに該当します」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「KPIとして取扱高GMVを分解していくと、ショップあたり売上高×ショップ数に分かれていきます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「GMVの積み上げ」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「これは取扱高GMVの積み上げグラフでございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「WorldShopping BIZを契約した年度ごとのショップの塊をGMVで表示しています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「海外カスタマーが当社に商品代金と手数料を支払った場合、例えば3万円の商品代金と5,000円の配送料の合計がGMV（取扱高）になります」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「全体で当社の手数料はGMVに対して約22%になります」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当社の特徴的な点は、Eコマース事業に関連するGMVでありながら、SaaSビジネスのようにショップが増えていけば、結果的にそこに存在する海外カスタマーのオーダーが入ってくることによって積み上がっていくということをご説明したかったグラフになっています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「結局GMVに対する取扱高になりますので、3PLだと配送だけになりますので、そこが違うかなと思います」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「Q. GMVに対するテイクレートが25%程度になると、日本人が25%高く買うことになり躊躇しないか？今後のテイクレートの予定は？」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+- 創業期の始め方：
+  - 「41歳でジグザグを創業いたしました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「ジグザグ創業前は、外資系物流会社で国際物流サービスに携わり、その経験を経て現在の事業を立ち上げました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「創業の原体験」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「創業のきっかけは、私自身が日本にいながら海外商品を購入できなかった体験にあります」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「創業時の資金調達苦労話」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「創業資金450万円からのスタート」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「さらに政策金融公庫から1,000万円、渋谷区の創業融資で1,000万円のデットファイナンスを受け、総額約3,800万円の資金でスタートいたしました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「これが創業時の、今では思い出したくないキャッシュアウト危機でした」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「このポジショニングを守るため、創業時から知財戦略を非常に重要視していました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「実は、創業から2024年Q3までは、リピートカスタマー数に対して何もしていませんでした」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当初の予想は20%と言っていましたが、そこから3%プラスになったところでございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「A. 創業時から投資いただいているVCさんなので、彼らもエグジットとしてはいずれは売却を考えているのではないかと予測しています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+- 集客：
+  - 「各種メディアの企画・制作」（https://zigzag.co.jp/・1回目）
+  - 「改めて自己紹介をさせていただきます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「それまでは広告代理店で営業やマーケティングに従事しており、エンジニアではございません」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当時、インターネット広告会社のオプトに在籍していた私は、インターネットがあれば世界中から商品を購入できるはずだと考えていました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「当社のサービスの価値を実感した忘れられないエピソードをご紹介します」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「Facebook広告を出稿すると、トラフィックが増えてオーダーが増加したというショップもございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「少し事例をご紹介いたします」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「そうした企業と提携することによって、そのカートを使っているショップの中で海外販売したいというニーズがある場合には、当社に自動的に紹介が来るような流れができています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「これによって、単純にタグを導入して終わりではなく、分析をし、多言語のSNS発信方法等を伝授し、WorldShopping BIZのクーポン機能を使って後押しをし、インバウンド対策をし、さらに海外広告出稿していく、という流れによって売上を伸ばす支援を現在しております」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「A. 主にECカート事業者様のご紹介によってショップとの契約が増えていく形になっています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「どのようなウェブサイトでも外国人のアクセスが存在しており、これは検索だけでなく、最近ではSNSといった非言語のサーチによる遷移も増えていますし、AI経由のリンクも増えているでしょう」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「つまり人件費、広告宣伝費、支払手数料（主に決済手数料）以外のものです」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+- 資金調達・売却：
+  - 「創業時の資金調達苦労話」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「グローバル事業を450万円で始めるのは厳しく、その後オプトの恩師である海老根会長などに相談し、エンジェル投資家から資金調達を行い、1,500万円を追加調達いたしました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「次の資金調達を模索していましたが、当時のVC環境は厳しく、5,000万円程度の調達は困難でした」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「入金があるはずもない通帳を記帳しながら、必死に資金調達活動を続けていた状況でした」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「こうした困難を乗り越えながら、その後順調にサービスが成長し、さらなる資金調達を実施いたしました」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「2020年以降はメンバーが集まり始め、現在では60名を超える規模となり、今年3月31日に上場した経緯でございます」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「Q. 筆頭株主のモバイルインターネットキャピタルの株式売却について」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「A. 創業時から投資いただいているVCさんなので、彼らもエグジットとしてはいずれは売却を考えているのではないかと予測しています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「ロックアップがかかっていますので、当社の上場から90日間は売却できません」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「ただし、上場時の株価の1.5倍を超えれば売れるという条件になっています」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「実際に大きく売却が確認できているのは90日経過後だと思いますので、6月30日以降の場中での売却や、ToSTNeT（東証立会外分売）での相対取引という形が動いていると思います」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「6月30日より前の売却は株価が1.5倍を超えているところでの売買になっております」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+- 検索結果の抜粋：
+  - 「オフィシャルファンクラブ「参拝者の集い“ベレボ”」価格改定 ... — オフィシャルファンクラブ「参拝者の集い“ベレボ”」価格改定 ... 真天地開闢集団-ジグザグ https://zigzag.asia > news」（https://zigzag.asia/news/20241230-1.html・3回目）
+  - 「10周年イヤー開幕の-真天地開闢集団- ジグザグ 会員 限定「特番 ... — 10周年イヤー開幕の-真天地開闢集団- ジグザグ 会員 限定「特番 ... Fanplus https://fanplus.co.jp > news > detail」（https://fanplus.co.jp/news/detail/715・3回目）
+  - 「-真天地開闢集団- ジグザグ エポス カード ｜年会費無料の ... — -真天地開闢集団- ジグザグ エポス カード ｜年会費無料の ... エポスカード https://www.eposcard.co.jp > gecard > zigzag」（https://www.eposcard.co.jp/gecard/zigzag/・3回目）
+  - 「【-真天地開闢集団- ジグザグ 】「参拝者の集い “べレボ”」 会員 ... — 【-真天地開闢集団- ジグザグ 】「参拝者の集い “べレボ”」 会員 ... Fan+Headline https://fanpla.jp > fanplus_news > detail」（https://fanpla.jp/fanplus_news/detail/2558・3回目）
+  - 「参拝者の集い "べレボ" - Plus member ID ヘルプ — 参拝者の集い "べレボ" - Plus member ID ヘルプ Plus member ID ヘルプ https://secure.plusmember.jp > zigzag > login」（https://secure.plusmember.jp/zigzag/1/login/・3回目）
+  - 「ジグザグ (340A) の企業概要・業績・財務・IR資料 — ジグザグ (340A) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業」（https://www.crex-data.com/company/340A・3回目）
+  - 「[書き起こし] ジグザグ (340A)IRセミナー&質疑応答 2025.7.23 — [書き起こし] ジグザグ (340A)IRセミナー&質疑応答 2025.7.23 note https://note.com > ... > その他人物インタビュー」（https://note.com/kabuberry_/n/nca0092731074・3回目）
+  - 「【 ジグザグ 】[340A]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 ジグザグ 】[340A]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=340A・3回目）
+  - 「【QAあり】 ジグザグ 、米国関税の逆風を受けつつも 売上 高は ... — 【QAあり】 ジグザグ 、米国関税の逆風を受けつつも 売上 高は ... ログミーFinance https://finance.logmi.jp > articles」（https://finance.logmi.jp/articles/382796・3回目）
+  - 「採用情報 | 株式会社 ジグザグ - zig-zag,Inc - 株式会社 ジグザグ — 採用情報 | 株式会社 ジグザグ - zig-zag,Inc - 株式会社 ジグザグ 株式会社ジグザグ - zig-zag,Inc https://www.zig-zag.co.jp > recruits」（https://www.zig-zag.co.jp/recruits/・3回目）
+  - 「株式会社 ジグザグ の働き方とストーリー - Wantedly — 株式会社 ジグザグ の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社ジグザグ」（https://www.wantedly.com/companies/zig-zag/stories・3回目）
+  - 「MIC× ジグザグ _前編：日本のECを世界へ - ZigZag が切り拓く ... — MIC× ジグザグ _前編：日本のECを世界へ - ZigZag が切り拓く ... note https://note.com > ... > ビジネスリーダーインタビュー」（https://note.com/mic_official/n/n97adb0236733・3回目）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## テクノポート
+- 公式URL：https://www.techno-port.co.jp（given）
+- 設立：1990年7月（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+- 従業員数：18名（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+- 従業員数：6～10人（https://onlystory.co.jp/stories/1065・3回目）
+- 従業員数：5人以下（https://onlystory.co.jp/stories/1065・3回目）
+- 売上高：売上高　286,196,080円（期間：2024年10月1日～2025年9月30日）（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+- 誰から払われるか：
+  - 「掲載企業様の声」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「これにより発注者側との接点もできて、実際のお打ち合わせの現場に同席することも増えてきました」（https://onlystory.co.jp/stories/1065・3回目）
+  - 「原因としては、受注者側の営業力不足、発注者側の依頼スキルの低下など、様々な要因がありますが、この非効率の解消に何らかのメスを入れられればと考えています」（https://onlystory.co.jp/stories/1065・3回目）
+- お金の形：
+  - 「サイト・広告運用」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「リスティング広告」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「海外リスティング広告」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「サイト・広告運用」（https://techport.co.jp/recruit・3回目）
+  - 「リスティング広告」（https://techport.co.jp/recruit・3回目）
+  - 「海外リスティング広告」（https://techport.co.jp/recruit・3回目）
+  - 「調査・戦略立案からサイト制作、SEO・AI検索対策、広告、コンテンツ制作、アクセス解析、改善提案まで一気通貫で担当します」（https://techport.co.jp/recruit・3回目）
+  - 「その後、Web広告代理店で運用型広告のコンサル営業を経て、テクノポートに入社」（https://techport.co.jp/recruit・3回目）
+  - 「戦略立案からSEO、広告運用、コンテンツ制作まで幅広く担当します」（https://techport.co.jp/recruit・3回目）
+  - 「SEO対策、Web広告、SNS活用など、」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「広告・出版/ソフトウェア・情報処理/コンサルティング」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「マッチング対象が有料会員のみに制限」（https://onlystory.co.jp/stories/1065・3回目）
+- 創業期の始め方：
+  - 「一人ひとりのオーナーシップを大切にし、自ら考え、判断し、仕事を前に進めることを尊重しています」（https://techport.co.jp/recruit・3回目）
+  - 「一人ひとりの」（https://techport.co.jp/recruit・3回目）
+  - 「テクノポートが目指しているのは、社員一人ひとりがオーナーシップを持ち、自ら考え、決断し、行動していくことができる会社です」（https://techport.co.jp/recruit・3回目）
+  - 「テクノポートを知ったきっかけと、入社の決め手を教えてください」（https://techport.co.jp/recruit・3回目）
+  - 「もともと製造業には興味があり、就活当初はメーカーへの就職を考えていました」（https://techport.co.jp/recruit・3回目）
+  - 「私自身も肩肘張らず話すことができ、一人ひとりに向き合ってもらえる会社だなと感じ入社を決めました」（https://techport.co.jp/recruit・3回目）
+  - 「そして問合せを行い、最初は求人をされていなかったので、一定期間副業で入らせて頂き、求人開始のタイミングでオファーを頂き入社を決意しました」（https://techport.co.jp/recruit・3回目）
+  - 「働き方や文化は自由すぎるくらい自由なので、最初は正直戸惑いました」（https://techport.co.jp/recruit・3回目）
+  - 「創業メンバーとして、テクノポートに入社したきっかけや背景について教えてください」（https://techport.co.jp/recruit・3回目）
+  - 「働き方の自由度が高い一方で、一人ひとりが向上心と責任感を持って仕事に取り組んでいる会社だと感じています」（https://techport.co.jp/recruit・3回目）
+  - 「きっかけは、友人からの紹介でした」（https://techport.co.jp/recruit・3回目）
+  - 「そんな話を友人としていたときに、ちょうど友人が代表の徳山さんと知り合い、紹介してもらったのが最初の接点です」（https://techport.co.jp/recruit・3回目）
+- 集客：
+  - 「「ビジネスモデル」のタグが付いた記事一覧 | テクノポート株式会社」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「導入事例記事」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「サイト・広告運用」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「AI&SEO対策」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「リスティング広告」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「海外AI&SEO対策」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「海外リスティング広告」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「技術系ライターの紹介」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「AI検索対策」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「オウンドメディア」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「メルマガ登録」（https://techport.co.jp/tag/%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab・3回目）
+  - 「導入事例記事」（https://techport.co.jp/recruit・3回目）
+- 資金調達・売却：
+  - 「数名規模の町工場からプライム上場企業まで、企業規模を問わず幅広いマーケティング支援を手がけている」（https://techport.co.jp/recruit・3回目）
+  - 「2025年10月、当社は東証プライム上場企業であるクレスコグループ（(株)クレスコ・ジェイキューブ）の一員となりました」（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+  - 「【上場企業グループと同レベルの環境で快適に働けます】」（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+  - 「弊社顧客は数名の町工場から一部上場のメーカーまで幅広くいらっしゃいます」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「大学卒業後、新卒でITベンチャー（JASDAQ上場企業）に就職」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「そんな折、仲良くさせていただいていた企業さまが、出資をご快諾してくださったことにも後押しされ、私は2010年に、起業することを決意したのです」（https://onlystory.co.jp/stories/1065・3回目）
+- 検索結果の抜粋：
+  - 「「 ビジネスモデル 」のタグが付いた記事一覧 — 「 ビジネスモデル 」のタグが付いた記事一覧 テクノポート株式会社 https://marketing.techport.co.jp > tag > ビジネスモデル」（https://marketing.techport.co.jp/tag/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB/・3回目）
+  - 「テクノポート 株式会社 - CheerCareer — テクノポート 株式会社 - CheerCareer チアキャリア（CheerCareer） https://cheercareer.jp > テクノポート株式会社」（https://cheercareer.jp/companies/4340/detail・3回目）
+  - 「採用情報 | テクノポート 株式会社 — 採用情報 | テクノポート 株式会社 テクノポート株式会社 https://techport.co.jp > recruit」（https://techport.co.jp/recruit・3回目）
+  - 「(株)アイエス テクノポート の新卒採用・会社概要 | マイナビ2027 — (株)アイエス テクノポート の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp292188 > outline」（https://job.mynavi.jp/27/pc/search/corp292188/outline.html・3回目）
+  - 「テクノポート 株式会社 - LinkedIn — テクノポート 株式会社 - LinkedIn LinkedIn https://jp.linkedin.com > company > techport-co-jp」（https://jp.linkedin.com/company/techport-co-jp・3回目）
+  - 「徳山 正康 - テクノポート 株式会社 - オンリーストーリー — 徳山 正康 - テクノポート 株式会社 - オンリーストーリー ONLYSTORY https://onlystory.co.jp > ITコンサル・SI業界」（https://onlystory.co.jp/stories/1065・3回目）
+  - 「テクノポート 株式会社 | 製造業マーケティング — テクノポート 株式会社 | 製造業マーケティング テクノポート株式会社 https://techport.co.jp」（https://techport.co.jp/・3回目）
+  - 「テクノポート は製造業の営業窓口、売れる仕組みを構築 - coki — テクノポート は製造業の営業窓口、売れる仕組みを構築 - coki coki.jp https://coki.jp > ステークホルダーVOICE > お客様」（https://coki.jp/stakeholder/user/9719/・3回目）
+- 規模：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+
+## ミスミ meviy
+- 公式URL：https://meviy.misumi-ec.com（given）
+- 設立：1963年（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+- 従業員数：1万1064名（連結、2025年3月現在）（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+- 従業員数：1〜20人（https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/・3回目）
+- 売上高：4019億8700万円（連結、2025年3月期）（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+- 誰から払われるか：
+  - 「複数の加工会社に個別で問い合わせる手間を削減できるほか、見積もりや出荷日などの」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「※マーケットプレイスとは、買い手と売り手がサービス上でマッチングして取引できるプラットフォームです」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「メビーや取引中の加工会社で手配できない加工も、メビーマーケットプレイスで製造パートナーから手配可能」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「マーケットプレイスとは、買い手と売り手がサービス上でマッチングして取引できるプラットフォームです」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「メビーマーケットプレイスでは、製造パートナーから手数料をいただいているため、発注者側からはサービス利用料をいただきません」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「このサービスが生まれた背景には、中小規模の町工場をはじめとする技術力の高い加工会社の多くが、3Dデータに対応していないという実状があった」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「MISUMI will continue to provide time value to our global customers in the IA (Industrial Automation) industry through expanding our services and contribute to enhancing their productivity.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「We will continue to develop meviy based on the needs of customers in each country and contribute to improving customers' productivity by accelerating global expansion.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「With meviy, customers simply upload a 3D CAD model of a mechanical component, the AI automatically provides an instant quote, and our digital manufacturing system enables an order to be shipped in as little as one day.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「meviy is a platform that eliminates perceived inefficiencies in parts procurement by reducing the time customers traditionally spend procuring mechanical components by more than 90%.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+- お金の形：
+  - 「メビーマーケットプレイスでは、製造パートナーから手数料をいただいているため、発注者側からはサービス利用料をいただきません」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「広告の費用対効果は目標の20倍を上回り、「日経クロストレンドBtoBマーケティング大賞2024」の「コンテンツ部門」で部門賞の栄冠に輝いた」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「メディア・広告」（https://diamond.jp/articles/-/266362・3回目）
+  - 「ダイヤモンド・プレミアムに登録」（https://diamond.jp/articles/-/266362・3回目）
+  - 「広告企画一覧」（https://diamond.jp/articles/-/266362・3回目）
+  - 「ダイヤモンド・プレミアムについて」（https://diamond.jp/articles/-/266362・3回目）
+  - 「meviy's global expansion began with its launch in Europe in December 2021. It set foot in North America*1, China*2, and Asia (South Korea)*3 in February 2024, and now provides services in five regions around the world. By the end of fiscal 2023, the overseas sales accounted for 15% of meviy’s revenue, with further increases planned.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「Software that allows you to design enclosures with the feel of a drawing」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「Order more, pay less — pricing across meviy’s manufacturing lines now works in your favour, and lead times just got faster.」（https://meviy-eu.com/・3回目）
+  - 「Upload your CAD file and receive detailed pricing within seconds」（https://meviy-eu.com/・3回目）
+- 規模：
+  - 「※2025年オンライン機械部品調達サービス国内ユーザー数シェア テクノ・システム・リサーチ調べ」（https://meviy.misumi-ec.com/ja-jp/・1回目）
+  - 「※2023年オンライン機械部品調達サービス国内ユーザー数シェア テクノ・システム・リサーチ調べ」（https://www.misumi.co.jp/news/press_260810・3回目）
+  - 「*Users of online machine parts procurement services in Japan in 2023, according to Techno Systems Research Co., Ltd.」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「Unlock free shipping for your web orders!」（https://meviy-eu.com/・3回目）
+  - 「“We, the design engineers at testedge GmbH & Co. KG, are big meviy fans and extremely satisfied users. This is mainly because meviy is very easy to use and its error messages expose design flaws right from the start. This makes meviy one of the best tools available …“」（https://meviy-eu.com/・3回目）
+- 創業期の始め方：
+  - 「電子機器やベアリングの卸売会社として1963年に創業したミスミグループは、1977年に機械部品の標準化を手掛け、カタログ販売を実現」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「その場合、設計者は個々の部品の紙図面を手作業で作成し、ファクスなどで見積もり取得や受発注を行わなければならない」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「氏は、ローンチ当初の状況を次のように振り返る」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「「当初はウェビナーで操作方法を周知していたのですが、次第に集客数が伸び悩み、これ以上コストをかけても費用対効果が見込めない状況でした」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「当初はマイクも照明もグリーンバックも特別な機材は使っていません」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「創業 ： 1963年」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「ミスミは、これからも一人ひとりの「時」を価値あるものへと変え、ともに持続的な成長を創造していきます」（https://www.misumi.co.jp/news/press_260810・3回目）
+  - 「2D図面なしで生産自動化設備を立ち上げられる理由」（https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/・3回目）
+  - 「2010年代後半には、デジタル技術を駆使し、設計データから部品調達が可能なオンラインサービス「meviy」を立ち上げた」（https://diamond.jp/articles/-/266362・3回目）
+  - 「事業責任者として国内事業の再構築・中国事業の成長加速を経て、ミスミグループ内の新規事業である「meviy」（メヴィー）の立ち上げに従事」（https://diamond.jp/articles/-/266362・3回目）
+  - 「インターネット黎明期から一貫して「デジタル」を活用した数多くの新事業の立ち上げ、事業責任者としての経歴・実績を持つ」（https://diamond.jp/articles/-/266362・3回目）
+  - 「1963年設立のミスミグループ（以下、ミスミ）は、機械部品の商社として創業以来、ものづくりの現場で必要な生産間接材を製造業界へ供給し続けてきた」（https://diamond.jp/articles/-/266362・3回目）
+- 集客：
+  - 「ミスミのデジタルサービスをまとめてご紹介」（https://meviy.misumi-ec.com/ja-jp/・1回目）
+  - 「のメビーが選ばれる理由を紹介!」（https://meviy.misumi-ec.com/ja-jp/・1回目）
+  - 「利用CAD別のメビー導入ガイドブックを紹介します」（https://meviy.misumi-ec.com/ja-jp/・1回目）
+  - 「顧客を理解し、最適なアプローチを導き出す | タナベコンサルティング｜メディアサイト「TCG REVIEW」」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「経営者の決断をサポートするメディア」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「メルマガ登録」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「お気に入り記事」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「社長・経営者・リーダーの皆さまの「決断」をサポートするメディアです」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「【企業事例】優れた経営戦略を実践する企業の成功ストーリーを紹介します」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「広告の費用対効果は目標の20倍を上回り、「日経クロストレンドBtoBマーケティング大賞2024」の「コンテンツ部門」で部門賞の栄冠に輝いた」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「未認知の人に向けたサービスの紹介だとしたらどうあるべきか、認知はしているが未購買の人の不安や疑問を解消するにはどうしたら良いのか、リピーター向けに新商材を訴求するとしたらどうしたら良いかなど、顧客の状況を具体的に描くことで、打つべき施策が自然と見えてきます」（大川氏）」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+  - 「同プログラムは、全社広報チームと連携したPR活動によって、多くのメディアから注目される一大イベントになりつつある」（https://review.tanabeconsulting.co.jp/modelcompanies/54047/・3回目）
+- 検索結果の抜粋：
+  - 「メビーマーケットプレイス| 複雑・大型部品も最短10分で ... — メビーマーケットプレイス| 複雑・大型部品も最短10分で ... marketplace.meviy.misumi-ec.com https://marketplace.meviy.misumi-ec.com > ja-jp」（https://marketplace.meviy.misumi-ec.com/ja-jp/・3回目）
+  - 「「 meviy 」納期選択サービスの価格・納期を一括ダウンロード ... — 「 meviy 」納期選択サービスの価格・納期を一括ダウンロード ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_260810」（https://www.misumi.co.jp/news/press_260810・3回目）
+  - 「わらしべ長者作戦でできた「 meviy 」、事業 モデル の進化で ... — わらしべ長者作戦でできた「 meviy 」、事業 モデル の進化で ... 日経クロステック https://xtech.nikkei.com > 変革者のアタマのナカ」（https://xtech.nikkei.com/atcl/nxt/column/18/02827/121700016/・3回目）
+  - 「【メビー史上最高額か？！】メビーで高額見積もり ... - YouTube — 【メビー史上最高額か？！】メビーで高額見積もり ... - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=VPFfSbFm3uc・3回目）
+  - 「1〜20人 アーカイブ - ミスミ meviy （メビー） — 1〜20人 アーカイブ - ミスミ meviy （メビー） meviy https://jp.meviy.misumi-ec.com > info > com_size」（https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/・3回目）
+  - 「"➡️ ミスミmeviy の 売上 推移。2026年3月期はmeviy219億円 ... — "➡️ ミスミmeviy の 売上 推移。2026年3月期はmeviy219億円 ... X https://x.com > @0808_rocky」（https://x.com/0808_rocky/status/2110712462924567009・3回目）
+  - 「ミスミ 過去最高 売上 に貢献した「 meviy 」の立役者が登壇決定 ... — ミスミ 過去最高 売上 に貢献した「 meviy 」の立役者が登壇決定 ... Agenda note (アジェンダノート) https://agenda-note.com > conference > detail」（https://agenda-note.com/conference/detail/id=7245・3回目）
+  - 「つながる、やり取り」時間を大幅削減、 meviy の新サービスとは — つながる、やり取り」時間を大幅削減、 meviy の新サービスとは コアコンセプト・テクノロジー（CCT） https://www.cct-inc.co.jp > インタビュー > DXインタビュー」（https://www.cct-inc.co.jp/koto-online/archives/612・3回目）
+  - 「[ meviy ] Now Quotes Inch Screws for North American Service ... — [ meviy ] Now Quotes Inch Screws for North American Service ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > pr...」（https://www.misumi.co.jp/english/news/press_250207・3回目）
+  - 「Order components from around the world with meviy . - Misumi — Order components from around the world with meviy . - Misumi meviy https://meviy.misumi-ec.com > world...」（https://meviy.misumi-ec.com/worldwide/en/・3回目）
+  - 「meviy EU: Online Manufacturing Platform for Custom Parts — meviy EU: Online Manufacturing Platform for Custom Parts meviy EU https://meviy-eu.com」（https://meviy-eu.com/・3回目）
+  - 「meviy transitions to Fictiv — meviy transitions to Fictiv Fictiv https://www.fictiv.com > meviy」（https://www.fictiv.com/meviy・3回目）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）
+
+## 町工場のミカタ
+- 公式URL：https://www.machikoba.jp（given）
+- お金の形：
+  - 「広告のご案内」（https://machi-mika.com/・3回目）
+  - 「noteプレミアム」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+- 規模：
+  - 「ここまでの機能は全部無料で、ユーザー数の制限もなく自由に使えるようにするつもりです」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+- 創業期の始め方：
+  - 「すいません、最初にちょっと僕のことをお話させてください」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+  - 「僕は最初に就職した会社が板金屋でした！分電盤の箱をつくる会社で、図面を元にCADで展開図書いてCAMのデータをフロッピーディスクで出してタレパンで抜いて、ベンダー（当時はブレーキって呼んでました）で曲げて溶接〜サンダーで削って仕上げて完成！みたいな仕事でした」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+  - 「で、最初ゴリゴリ作るつもりはなかったんです」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+- 集客：
+  - 「広告のご案内」（https://machi-mika.com/・3回目）
+  - 「最近ミカタノートという日報〜原価計算ができるシステムのご紹介をはじめました」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+  - 「メディアショップの物流センターの入出庫システム」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+  - 「図面データの登録、画像から類似図面の検索ができる」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+  - 「まだまだお話したいことがたくさんあるのですが、ミカタノートは「こんな感じの人が」「こんな流れで作ってて」「こんな機能があるんだよ」「無料だよ」ってお話したくてこの記事を書きました」（https://note.com/machi_mika/n/n96747e1ec9aa・3回目）
+- 検索結果の抜粋：
+  - 「町工場のミカタ — 町工場のミカタ 町工場のミカタ https://machi-mika.com」（https://machi-mika.com/・3回目）
+  - 「町工場のミカタ — 「町工場のミカタ」は町工場が運営している製造業向けメディアで、日本全国のものづくり企業のご紹介や、製造業向けのお得なお役立ち情報の発信、製造業に特化したイラスト・写真など無料素材を配布しています。」（https://machi-mika.com/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 誰から払われるか：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）
+- 資金調達・売却：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）

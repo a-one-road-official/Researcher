@@ -1,0 +1,986 @@
+{
+ "name": "クレディセゾン",
+ "aliases": [],
+ "context": "証券コード8253／その他金融業／プライム（内国株式）／2026.03期 売上高546,269百万円 営業利益率36.3%",
+ "researched_at": "2026-11-02T14:47:26.027275+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "会社設立",
+    "value": "1951年（昭和26年）5月1日",
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "ペイメント・リース・ファイナンス・不動産関連・グローバル",
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "3,446名 上記従業員のほかに、嘱託、パート・アルバイトおよび派遣社員を雇用しており、 その期中平均雇用人数は1,338名（1日7.5時間換算）。",
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "ターゲット顧客層",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "ターゲット顧客層において",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "01.国内・海外のターゲット顧客層において存在感を発揮している",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 顧客戦略と生産性向上を成し遂げる人材ポートフォリオの構築を目指す",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客戦略と生産性向上を成し遂げる人材開発",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の感動体験を創出する",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "マルチチャネルによるお客様対応の実現",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自社による最終顧客への直接貸付",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 支店の増設、営業代行業者活用による顧客拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 強力な顧客基盤を持つ非金融事業者との提携拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ クロスセル戦略による完全自社顧客化・顧客単価の向上",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "億単位の顧客基盤",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 顧客とのタッチポイント/ネットワーク拡大により、さらなるダイレクトレンディングの拡大を図る",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象顧客 現地ノンバンク Fintechプレーヤーがオリジネーションした個人/中小企業 個人 中小零細企業",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1顧客あたり",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "顧客申告・サードパーティなど多面的に情報を掛け合わせ",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ プロダクト・対象顧客に合わせた最適な与信手法によりリスク抑制を実現",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ マーケット動向とお客様のニーズに合わせた",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「豊富な顧客取引先基盤」",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「顧客との直接対話力」",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ バンク（スルガ）×ノンバンク（当社）のシームレスなプラットフォームを活用し、顧客のローンニーズを確実に取込む",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "両社の顧客基盤",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高単価・高稼動の顧客シェア拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 高単価・高稼動の顧客シェアを拡大し、収益性を向上させる",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■年100万以上の利用会員数",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お客様対応方針",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様対応方針",
+    "url": "https://corporate.saisoncard.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ポイント還元率を重視する利用者は還元率が下がるとすぐに離れてしまう",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客情報が流出し、築き上げた信頼が揺らぐなど、企業の存続を左右する経…",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "当社グループは、2030年に目指す姿として、「GLOBAL NEO FINANCE COMPANY ～金融をコアとしたグローバルな総合生活サービスグループ～」を掲げ、2027年3月期までの中期経営計画の達成に向けた取り組みを進めております",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "～金融をコアとしたグローバルな総合生活サービスグループ～",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービスをコア",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "総合生活サービスを",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "～ 金融をコアとしたグローバルな総合生活サービスグループ ～",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービスをコアとする",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総合生活サービスを展開している",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "金融サービス",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※アンダーサーブド層：経済的、地理的な理由やインフラなどの問題から、既存の金融サービスに",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "02.金融サービスをコアとする総合生活サービスを展開している",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "貸倒コスト増加影響はある一方、 既存主力販売店への営業活動強化",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 十分な金融サービスを受けられていない",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個人向けサービス事業者",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ リスクレベルに合わせた商品設計を実現",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 富裕層向け商品の取り扱い拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品の探索と深化",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ ビジネスパーソン・シニア・法人向けの商品拡充による債権残高の拡大を目指す",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービスのコラボレーション",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "両社の商品・サービスを組み合わせて、",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・外国籍のお客さま向け支援サービス",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＊2023年2月提供開始の中小企業・個人事業主向けローンサービス",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "対象のビジネスカードにおいて、まとまった資金を低金利でご融資するサービス",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "総合生活サービスグループ 「より豊かなくらし」の提供",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ toC/toB 幅広い金融サービス",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 商品開発、共同出店",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ペイメントサービスを提供",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "個人/法人の両分野で金融サービス協業を実現",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "特に新富裕層といわれる方々は、他では経験できない限定的なサービスをすごく好まれる",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "詐欺対策で国際電話利用サービスを希望制に 着信13億回超に急増 総務省が検討",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "産経新聞社法人サービス一覧",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "小売り・サービス",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "自分たちで業務効率化のソリューションを積極的に生み出す素地が整った上で、DXを加速させる段階に至り、この「CSAX（Credit Saison AI Transformation）戦略」を打ち出しました",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "単なるファイナンスカンパニーの領域に留まることなく、パートナーシップで創る「セゾン・パートナー経済圏」で、グローバルにシナジーを発揮してまいります",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップで創る「セゾン・パートナー経済圏」で",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社内API基盤の活用推進、クラウド活用によるコスト最適化 セゾン・パートナー経済圏の強化、最先端デジタル企業への投資",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "貸倒コスト増加影響はある一方、 既存主力販売店への営業活動強化",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 現地パートナーとの提携による独自の経済圏を構築、",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 様々なパートナーとの提携戦略により各国マーケットにフィットした発展を遂げ、独自の経済圏の確立を目指す",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ FY23はパートナーシップレンディング（Fintech提携貸付）における規制変更を受け",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "②パートナーシップレンディング ✓ 安定的な利益・収益性の確保として継続実施",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜提携パートナー数＞",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ホールセール パートナーシップ エンベデッドファイナンス ブランチレンディング",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー数",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップレンディングのデータ・ノウハウを活用し",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ WEB×リアル(提携・紹介)の推進",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "・ 47都道府県 2千超の店舗数",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2030年に目指す姿",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度を初年度とする「中期経営計画」（2025年3月期～2027年3月期）のもと、各事業の成長戦略と資本効率の向上を通じて企業価値の向上を図っております",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に目指す姿",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年10月",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年4月 スルガ銀行",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025年春",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年秋",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2007年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2006年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年3月期",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算",
+    "url": "https://corporate.saisoncard.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月12日（水）発表",
+    "url": "https://corporate.saisoncard.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月19日（金）開催",
+    "url": "https://corporate.saisoncard.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月1日現在",
+    "url": "https://corporate.saisoncard.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "1951年（昭和26年）5月1日",
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "pass": 3
+   },
+   {
+    "quote": "1992年4月、クレディセゾン入社",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日号",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月に人工知能（AI）で業務効率化を目指す経営戦略を発表しました",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "1969年北海道生まれ",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "2005年セゾンカード部長、12年営業企画部長などを経て13年取締役",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年1月～ 全7日間",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾンの水野克己社長は4日までに産経新聞の取材に応じ、キャッシュレス決済の進展で携帯電話会社なども巻き込み競争が激化する「ポイント経済圏」とは、距離を置くビジネスモデルを追求する考えを示した",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント還元率を競うビジネスモデルは無理がある",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル事業を第3の柱に据え、ビジネスモデルの転換を加速させる",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "✓ クロスセル戦略による完全自社顧客化・顧客単価の向上",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高単価・高稼動の顧客シェア拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 高単価・高稼動の顧客シェアを拡大し、収益性を向上させる",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ショッピング一客単価(年間平均)■カード会員構成比",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "単価上昇会員構成の変革 取扱高拡大",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「さらにキャッシュレス決済を普及させるために、加盟店への手数料を引き下げる動きが今後出てくるのではないか",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "【締切迫る！】秋の年額2カ月増量キャンペーン実施中",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "年額プランなら12カ月分の料金で",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "日経ビジネス、今なら2カ月分が実質無料！ 年額プランがお得に",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別概況",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別事業利益の推移計画",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*セグメント間取引含む",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ショッピング一客単価(年間平均)■カード会員構成比",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "✓ 両社ビジョンの実現に向け、お互いの強みやリソースを活かしたシナジー創出を目指す",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（強み/リソース）",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率約50％を誇り、国内製薬トップ級の時価総額に上り詰めた中外製薬",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クレディセゾン の目指す姿（中期経営計画） — クレディセゾン の目指す姿（中期経営計画） セゾンカード https://corporate.saisoncard.co.jp > business > management",
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画（FY24-26） - クレディセゾン — 中期経営計画（FY24-26） - クレディセゾン セゾンカード PDF https://corporate.saisoncard.co.jp > management > pdf",
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス | クレディセゾン 企業・IR情報 — ビジネス | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > business",
+    "url": "https://corporate.saisoncard.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾン グローバル事業：担当役員インタビュー — クレディセゾン グローバル事業：担当役員インタビュー セゾンカード https://corporate.saisoncard.co.jp > strategy > global",
+    "url": "https://corporate.saisoncard.co.jp/ir/integrated_report/2025/strategy/global/",
+    "pass": 3
+   },
+   {
+    "quote": "【8253】 クレディセゾン 徹底分析：市場はまだ気づいてい ... — 【8253】 クレディセゾン 徹底分析：市場はまだ気づいてい ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/hr793/n/n350154612cac",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 ｜IR情報 - クレディセゾン — 決算 関連 資料 ｜IR情報 - クレディセゾン セゾンカード https://corporate.saisoncard.co.jp > data",
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報 - クレディセゾン — IR・投資家情報 - クレディセゾン セゾンカード https://corporate.saisoncard.co.jp > ...",
+    "url": "https://corporate.saisoncard.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ｜IR情報 | クレディセゾン 企業・IR情報 — IRライブラリ｜IR情報 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > ir_library",
+    "url": "https://corporate.saisoncard.co.jp/ir/ir_library/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾン 企業・IR情報 — クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp",
+    "url": "https://corporate.saisoncard.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜IR情報 | クレディセゾン 企業・IR情報 — IRカレンダー｜IR情報 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > ir_calendar",
+    "url": "https://corporate.saisoncard.co.jp/ir/ir_calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | クレディセゾン 企業・IR情報 — 組織図 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > organization",
+    "url": "https://corporate.saisoncard.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | クレディセゾン 企業・IR情報 — 会社概要 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > about_cs",
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "pass": 3
+   },
+   {
+    "quote": "関係会社一覧 | クレディセゾン 企業・IR情報 — 関係会社一覧 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > group",
+    "url": "https://corporate.saisoncard.co.jp/company/group/",
+    "pass": 3
+   },
+   {
+    "quote": "統合レポート｜IR情報 - クレディセゾン — 統合レポート｜IR情報 - クレディセゾン セゾンカード https://corporate.saisoncard.co.jp > integrated_report",
+    "url": "https://corporate.saisoncard.co.jp/ir/integrated_report/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | クレディセゾン 企業・IR情報 — 役員一覧 | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > officer",
+    "url": "https://corporate.saisoncard.co.jp/company/officer/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾン の水野克己 社長 「既存のポイント経済圏には ... — クレディセゾン の水野克己 社長 「既存のポイント経済圏には ... 産経ニュース https://www.sankei.com > 経済 > 金融・財政",
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "pass": 3
+   },
+   {
+    "quote": "クレディセゾン 水野 社長 「ChatGPTやGeminiが経営陣の壁 ... — クレディセゾン 水野 社長 「ChatGPTやGeminiが経営陣の壁 ... 日経ビジネス電子版 https://business.nikkei.com > 編集長インタビュー",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | クレディセゾン 企業・IR情報 — トップメッセージ | クレディセゾン 企業・IR情報 セゾンカード https://corporate.saisoncard.co.jp > company > topmessage",
+    "url": "https://corporate.saisoncard.co.jp/company/topmessage/",
+    "pass": 3
+   },
+   {
+    "quote": "このままではカードが淘汰される時代が来る！ クレディ ... — このままではカードが淘汰される時代が来る！ クレディ ... 講談社Cステーション https://cstation.kodansha.co.jp > ... > クレディセゾン",
+    "url": "https://cstation.kodansha.co.jp/article/474",
+    "pass": 3
+   },
+   {
+    "quote": "水野克己 - クレディセゾン の歴代 社長 （2021年 - The社史 — 水野克己 - クレディセゾン の歴代 社長 （2021年 - The社史 The社史 https://the-shashi.com > クレディセゾンの歴史 > 歴代社長",
+    "url": "https://the-shashi.com/tse/8253/executives/ceo/mizuno-katsumi/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://corporate.saisoncard.co.jp/business/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://corporate.saisoncard.co.jp/ir/data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.saisoncard.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.saisoncard.co.jp/company/organization/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クレディセゾン",
+   "results": [
+    "https://www.saisoncard.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%82%BB%E3%82%BE%E3%83%B3",
+    "https://x.com/kaori_saison",
+    "https://play.google.com/store/apps/details?id=jp.co.saisoncard.android.saisonportal&hl=ja",
+    "https://www.instagram.com/saisoncard/",
+    "https://apps.apple.com/jp/app/%E3%82%BB%E3%82%BE%E3%83%B3portal-%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E7%AE%A1%E7%90%86/id896132217",
+    "https://ja.wikipedia.org/wiki/クレディセゾン"
+   ]
+  },
+  {
+   "query": "株式会社クレディセゾン",
+   "results": [
+    "https://www.saisoncard.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%82%BB%E3%82%BE%E3%83%B3",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8253",
+    "https://shikiho.toyokeizai.net/stocks/8253/corporate",
+    "https://x.com/kaori_saison"
+   ]
+  },
+  {
+   "query": "クレディセゾン 株式会社",
+   "results": [
+    "https://www.saisoncard.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%82%BB%E3%82%BE%E3%83%B3",
+    "https://x.com/kaori_saison",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=8253",
+    "https://shikiho.toyokeizai.net/stocks/8253/corporate",
+    "https://job.mynavi.jp/27/pc/search/corp641/outline.html",
+    "https://www.facebook.com/creditsaison/?locale=ja_JP",
+    "https://en-hyouban.com/company/00001211961/"
+   ]
+  },
+  {
+   "query": "クレディセゾン ビジネスモデル",
+   "results": [
+    "https://corporate.saisoncard.co.jp/business/management/",
+    "https://corporate.saisoncard.co.jp/img/business/management/pdf/medium-term_management_plan_202405.pdf",
+    "https://corporate.saisoncard.co.jp/business/",
+    "https://corporate.saisoncard.co.jp/ir/integrated_report/2025/strategy/global/",
+    "https://note.com/hr793/n/n350154612cac",
+    "https://corporate.saisoncard.co.jp/ir/integrated_report/2025/future_initiative/businessplan/",
+    "https://edinetdb.jp/company/E03041/midterm-plans/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%82%BB%E3%82%BE%E3%83%B3",
+    "https://business.saisoncard.co.jp/"
+   ]
+  },
+  {
+   "query": "クレディセゾン 決算説明資料",
+   "results": [
+    "https://corporate.saisoncard.co.jp/ir/data/",
+    "https://corporate.saisoncard.co.jp/ir/",
+    "https://corporate.saisoncard.co.jp/ir/ir_library/",
+    "https://corporate.saisoncard.co.jp/",
+    "https://corporate.saisoncard.co.jp/ir/ir_calendar/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8253"
+   ]
+  },
+  {
+   "query": "クレディセゾン 事業系統図",
+   "results": [
+    "https://corporate.saisoncard.co.jp/company/organization/",
+    "https://corporate.saisoncard.co.jp/company/about_cs/",
+    "https://corporate.saisoncard.co.jp/company/group/",
+    "https://corporate.saisoncard.co.jp/ir/integrated_report/",
+    "https://corporate.saisoncard.co.jp/company/officer/",
+    "https://corporate.saisoncard.co.jp/wr_html/nu-news/personnel20250930.html",
+    "https://corporate.saisoncard.co.jp/company/",
+    "https://corporate.saisoncard.co.jp/company/data/"
+   ]
+  },
+  {
+   "query": "クレディセゾン 社長 インタビュー",
+   "results": [
+    "https://www.sankei.com/article/20250704-VSBHBFXZLZLGTG7UIHYDYI34Q4/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00328/",
+    "https://corporate.saisoncard.co.jp/company/topmessage/",
+    "https://cstation.kodansha.co.jp/article/474",
+    "https://the-shashi.com/tse/8253/executives/ceo/mizuno-katsumi/",
+    "https://visionet.jp/big/rinno/",
+    "https://x.com/NIKKEI_CNBC/status/2057270478176452778",
+    "https://jobtalk.jp/companies/3198/answers/1301774"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

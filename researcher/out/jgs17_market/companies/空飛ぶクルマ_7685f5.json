@@ -1,0 +1,2038 @@
+{
+ "name": "空飛ぶクルマ",
+ "en": "eVTOL",
+ "aliases": [
+  "電動垂直離着陸機",
+  "UAM"
+ ],
+ "context": "6 航空・宇宙 ③空飛ぶクルマ",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:50:14.896001+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の空飛ぶクルマ市場規模は2026年に4億9,270万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）37.5%を記録すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "運航形態別の空飛ぶクルマ市場規模、2026〜2034年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の空飛ぶクルマ市場規模、2026〜2034年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測によると、2026年から2034年にかけて、米国の空飛ぶクルマ市場は大幅に成長する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの空飛ぶクルマ市場は、2026年から2034年までの予測期間に欧州市場で順調な成長を遂げる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルの空飛ぶクルマ市場は、2026年から2034年までの予測期間に力強い成長を遂げる見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "UAE の空飛ぶクルマ市場は、2026年から2034年にかけて著しい成長を遂げると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模、シェア、トレンド分析レポート：推進方式別（電動空飛ぶ車、ハイブリッド空飛ぶ車、従来型燃料空飛ぶ車）、運用モード別（有人空飛ぶ車、自律飛行空飛ぶ車、遠隔操作空飛ぶ車）、技術タイプ別（固定翼空飛ぶ車、回転翼空飛ぶ車、ティルトウィング/ティルトローター空飛ぶ車、その他）、座席数別（1人乗り空飛ぶ車、2人乗り空飛ぶ車、4人乗り空飛ぶ車、その他）、用途別（エアタクシーサービス、救急医療サービス、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の空飛ぶ車の市場規模は、2025年には42億4000万米ドルと評価され、2026年の64億2000万米ドルから2034年には1777億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、NASAのUAM市場調査では、米国における空港シャトルやエアタクシー事業の市場規模は5,000億米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、米国連邦航空局（FAA）が200件以上の都市型航空モビリティ試験プログラムを承認し、米国運輸省は先進的なeVTOL（電動垂直離着陸機）開発に3億ドル以上を投資しました",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "最近の報告によると、中国は2030年までに10万台以上のeVTOL（電動垂直離着陸機）を導入する計画で、都市型航空モビリティプロジェクトへの政府投資額は5億ドルを超えています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本はスマートシティ開発を支援するパイロットプログラムに約2億ドルを投じています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模は、2026年には64億2000万米ドルと評価され、2034年までに1777億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%です",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）51.45%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車故障回路制御装置市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模は2040年時点で全世界約1兆5千億ドルと試算されており 、世",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場は、2040年時点で全世界1兆5千億ドルに成長する",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "予算規模：134億円（事業規模：134億円）",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜①機体開発：74億円＞",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "＜②飛行試験、地上試験：60億円＞",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "米モルガンスタンレーの推計によると、2020年には73.7億ドルでしたが、そこから増加トレンドで2030年には約3200億ドル、2040年には約1兆5000億ドルに達すると予測しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "国別・地域別で最も大きい市場は中国で、2020年に24億ドル、2030年に約1500億ドル、2040年に4300億ドルに達すると予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "次いで大きいのは米国で、20年が20億ドル、30年が564億ドル、40年が約3300億ドルとなっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "同推計結果によると、2030年は10億ドルでしたが、2040年には160億ドル、2050年には900億ドルとなっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、輸送経路別で見ると、2050年でエアポートシャトルが450億ドル、都市間輸送が360億ドル、シティタクシーが90億ドルとなっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "同推計によると、2025年は数百億円程度ですが、2030年で約7000億円、2040年で約2.5兆円となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のフォーチュンビジネスインサイツによると、2021年の空飛ぶクルマ業界の市場規模は55百万ドルです",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて年平均58.1％で成長し、1兆5334億ドルへと市場が拡大すると推計されています",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社のマーケットリサーチフューチャーによると2035年の同業界の市場規模は315億ドルです",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、空飛ぶクルマのスタートアップが、累計19億ドルの資金を調達していることを考えると、これから市場規模が急拡大することは高い確度で期待できそうです",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月に総額96億円の資金調達（シリーズC）を行いました",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場2024～2031年、市場規模・企業動向・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場2024～2031年、市場規模・企業動向・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は、2025年までの「公開飛行を成功させられるか」という段階から、「継続して料金を払う旅客を安全に運べるか」という段階に移行した",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "総じて、日本の空飛ぶクルマ市場は2026年に大きな転換点を迎え、公開実証を行う段階から、実際に有料旅客サービスを成立させる段階へ移行している",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、機体製造市場というよりも、航空・不動産・エネルギー・IT・鉄道・保険・物流が融合する新しいモビリティ産業へ発展しつつあり、2025年の1,935万米ドルから2035年の4億6,563万米ドルへの拡大予測は、こうした周辺エコシステム全体の成長を反映したものと位置づけられる",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "世界の空飛ぶ自動車市場は、2024年に1億3,500万米ドルと推定され、2025年から2031年の予測期間中にCAGR106.6％で成長し、2031年までに207億7,500万米ドルに拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書では、2024年を基準年とし、2020年から2031年までの過去データと予測データに基づき、売上高（百万米ドル）単位での空飛ぶ自動車市場規模、推定・予測を提供します",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,950 換算",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,925 換算",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,900 換算",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ自動車の市場規模、シェア、および成長分析：製品別、容量別、地域別－2026年から2033年までの業界予測",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶバイクの世界市場規模、シェア、動向および成長分析レポート2026-2034",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場、2050年に180兆円超へ：「未来の乗り物」が当たり前に - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場、2050年に180兆円超へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2025年に608億円、2050年に180兆円超に成長するとみている",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "本調査では2025年の空飛ぶクルマ市場世界規模を608億円と予測している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "安定期と考えられる2050年ごろには、空飛ぶクルマ世界市場規模は180兆円を超える市場へ成長すると想定される",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省の2020年工業統計調査によると、2019年の日本国内の自動車産業の自動車製造品出荷額等は約60兆円だった",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "先端／注目半導体デバイス、2028年に55兆円台へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "先端／注目半導体デバイス（13品目）の世界市場は、2022年見込みの約40兆円に対し、2028年は55兆5373億円規模に達する見通しである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体市場、2035年には13兆4302億円規模に",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済が2022年4月に発表した次世代パワー半導体とSiパワー半導体の世界市場の調査によると、パワー半導体市場は自動車／電装分野にけん引され、2035年には2022年比5.0倍の13兆4302億円規模に達するという",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "車載電装システム、2035年に82兆3921億円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "車載電装システム市場は、2022年見込みの38兆4842億円に対し、2035年は82兆3921億円規模に達する",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の空飛ぶクルマ市場規模は2026年に4億9,270万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）37.5%を記録すると推定される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2026 – 2034 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場の規模は 2026 年に 4億9,270万米ドルに達し、2034 年まで年平均成長率（CAGR）37.5%で成長して、同年までに約 6.58 億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の空飛ぶ車の市場規模は、2025年には42億4000万米ドルと評価され、2026年の64億2000万米ドルから2034年には1777億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "こうした拡大に対応するため、連邦航空局（FAA）は、UAMを国家空域システムに統合するための計画を明記した「都市型航空モビリティ運用コンセプト2.0」を発表しました",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体は、同地域における年間成長率を約35%と予測しています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模は、2026年には64億2000万米ドルと評価され、2034年までに1777億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%です",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）51.45%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動車予測分析市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "の提供、②サプライヤーへの波及効果を含む国内空飛ぶクルマ産業の拡大の2点が得られる",
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて年平均58.1％で成長し、1兆5334億ドルへと市場が拡大すると推計されています",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年にかけて年平均43.68%での成長を見込みます",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、空飛ぶクルマのスタートアップが、累計19億ドルの資金を調達していることを考えると、これから市場規模が急拡大することは高い確度で期待できそうです",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "ある意味ドローンで空中移動に必要なハードとソフトの組み合わせはできているため、空飛ぶクルマの実現には、バッテリーの容量や持続性といった性能向上、躯体や電子機器といった素材のさらなる軽量化の2点がもとめられ、技術への投資とともに市場としては拡大するでしょう",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、機体製造市場というよりも、航空・不動産・エネルギー・IT・鉄道・保険・物流が融合する新しいモビリティ産業へ発展しつつあり、2025年の1,935万米ドルから2035年の4億6,563万米ドルへの拡大予測は、こうした周辺エコシステム全体の成長を反映したものと位置づけられる",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "世界の空飛ぶ自動車市場は、2024年に1億3,500万米ドルと推定され、2025年から2031年の予測期間中にCAGR106.6％で成長し、2031年までに207億7,500万米ドルに拡大すると予測されています",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年代には機体導入や新飛行ルート、バーティポートの設置がさらに進むことで引き続き安定した市場拡大を見込む",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年は前年比19％の伸びを予測している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "フライングカー産業は、2025年に1246.29百万米ドルから2035年までに46793.69百万米ドルに成長すると予測されており、2025年から2035年の予測期間中に43.7%の年平均成長率（CAGR）を示しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2025 - 2035）",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年までの予測CAGRが20.81%であることから、環境に優しい技術が消費者や投資家を惹きつける中心的な役割を果たすことが示唆されています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年までの予測CAGRが20.81%であることは、より多くの企業が市場に参入し、消費者の受け入れが進む中での急速な拡大の可能性を強調しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年までの予測CAGRが20.81%であることは、この新興市場における高いリターンの可能性を認識するステークホルダーによる堅実な投資環境を示唆しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車市場は、2025年から2035年の間に43.7%のCAGRで成長する見込みであり、技術の進展、都市化、規制の支援が推進要因となっています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中の空飛ぶ車市場の期待CAGRはどのくらいですか？",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2035年の予測期間中の空飛ぶ車市場の期待CAGRは43.7%です",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "日本の空飛ぶクルマ市場は、機体製造市場というよりも、航空・不動産・エネルギー・IT・鉄道・保険・物流が融合する新しいモビリティ産業へ発展しつつあり、2025年の1,935万米ドルから2035年の4億6,563万米ドルへの拡大予測は、こうした周辺エコシステム全体の成長を反映したものと位置づけられる",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (Highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 54.9%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The eVTOL aircraft market in MEA is anticipated to grow at a significant CAGR from 2026 to 2033, driven by strategic investments in technology and infrastructure aimed at revolutionizing urban mobility. The region's focus on enhancing its tourism sector and improving urban transport efficiency is a significant driver of the adoption of innovative solutions such as eVTOL aircraft.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 54.9% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global eVTOL aircraft market is expected to grow at a CAGR of 54.9% from 2026 to 2033, reaching USD 107.8 billion.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "“The eVTOL market size will reach USD 76.7 million in 2026 and offers robust growth opportunities for the market stakeholders. With the market expected to grow at a CAGR of 32.5%, the annual demand will hit the USD 3,958.0 million mark in 2040, driven by rising urban population and traffic con...",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "During the forecast period (2026-2040), the market is expected to grow at a",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 32.5%.",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "YoY Growth in 2026: 0.2%",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2040: 32.5%",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "7.1% growth in international traffic",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "The eVTOL market size was USD 76.6 million in 2025. The market is expected to grow from USD 76.7 million in 2026 to USD 3,958.0 million in 2040, witnessing a robust market growth (CAGR) of 32.5% during the forecast period (2026-2040).",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size, Share | CAGR of 36.8%",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, growing at a",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 36.8%",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2033)",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Global eVTOL Aircraft Market size is expected to be worth around USD 39.0 Billion By 2033, from USD 1.7 Billion in 2023, growing at a CAGR of 36.8% during the forecast period from 2024 to 2033.",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The global eVTOL aircraft market size was valued at USD 772 million with a volume of 355 units in 2024 and is estimated to grow at 31.4% CAGR from 2025 to 2034. The increasing urbanization giving rise to traffic congestion is the major driver for the market.",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 - 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market for eVTOL aircraft was valued at USD 772 million in 2024 and is expected to reach around USD 11.75 billion by 2034, growing at a 31.4% CAGR through 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global eVTOL aircraft market?",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "空飛ぶクルマ市場の規模とシェア、成長分析、2026〜2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場 サイズとシェア 2026 – 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には、有人操縦型が市場シェアの 65% 超を占め、2034年までに同セグメントの市場収益は 27億米ドルを超えると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "技術別の空飛ぶクルマ市場シェア、2026年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "電動セグメントは、2026年に3億米ドルを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、アジア太平洋地域は世界の空飛ぶクルマ市場で最大のシェアを占め、中国が地域売上高の 90% 超を占めて約 2億5,760万米ドルを生み出した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、2026年に空飛ぶクルマ市場の約35%を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、中国は空飛ぶクルマ市場でどの程度のシェアを占めましたか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の空飛ぶクルマ市場は、2026年に約90%のシェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車の市場規模、シェア、トレンド分析レポート：推進方式別（電動空飛ぶ車、ハイブリッド空飛ぶ車、従来型燃料空飛ぶ車）、運用モード別（有人空飛ぶ車、自律飛行空飛ぶ車、遠隔操作空飛ぶ車）、技術タイプ別（固定翼空飛ぶ車、回転翼空飛ぶ車、ティルトウィング/ティルトローター空飛ぶ車、その他）、座席数別（1人乗り空飛ぶ車、2人乗り空飛ぶ車、4人乗り空飛ぶ車、その他）、用途別（エアタクシーサービス、救急医療サービス、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）、予測、2026～2034年",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.6%の市場シェアを占め、空飛ぶ車市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "同様に、欧州航空安全機関（EASA）は、2030年までに9万人の雇用創出を見込んでおり、EUは42億ユーロ規模の世界UAM市場において31%のシェアを占めています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の規制当局は、2030年までに都市部における運用の60%をローター式eVTOLが占めると予測しています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2人乗りの空飛ぶ車セグメントが最大の市場シェアを占め、市場を席巻している",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "短距離（50マイル未満）セグメントが最大の市場シェアを占め、市場を席巻している",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府の公式統計によると、空飛ぶライドシェアリングは通勤時間を30%短縮し、交通渋滞を25%軽減すると見込まれている",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界団体は、ライドシェアリング用の電動垂直離着陸機（eVTOL）が都市型航空モビリティの新規導入の70%を占め、都市生活を大きく変革する経済的・環境的利益を世界的にもたらすと予測している",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の空飛ぶ車市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で38.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ各社の累計調達額を分子に、上述した業界全体の資金調達額を分母にして、資金調達累計額の市場シェアを計算し、ランキング化すると、2021年の1位はジョビーアビエーション、2位はリリウム、3位はベータとなります",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの資金調達累計額の市場シェア（2022年）",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの資金調達累計額の市場シェア（2022年） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの市場シェア（調達額ベース、2022年9月） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター開発会社のカオスマップと資金調達額ベースの市場シェアを分析しています",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "市場のセグメントを見ると、2025年には操縦士搭乗型eVTOL・空飛ぶクルマが76.8％、1,486万米ドルを占めている",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "一方、4～5人乗りは38.6％、747万米ドルを占め、複数旅客で運航コストを分担できるため、空港アクセスや都市間輸送で経済性を改善しやすい",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、関東が2025年の市場機会の39％、754万米ドルを占め最大である",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 空飛ぶ自動車：世界市場シェアとランキング、総販売台数および需要予測（2025年～2031年）",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ自動車：世界市場シェアとランキング、総販売台数および需要予測（2025年～2031年）",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "Flying Car - Global Market Share and Ranking, Overall Sales and Demand Forecast 2025-2031",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ自動車の市場規模、シェア、および成長分析：製品別、容量別、地域別－2026年から2033年までの業界予測",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶバイクの世界市場規模、シェア、動向および成長分析レポート2026-2034",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "米Uber Technologies が事業構想を発表した空のライドシェアサービス「Uber Air」が2025年前後に世界的に事業開始予定とされており、今後約2年で本格的な機体の開発や専用離着陸場（バーティポート）といった周辺設備の設置検討、整備、調整が進む見込みだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車市場規模、業界シェア、トレンド、報告書2035",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、フライングカー市場でのリーダーシップを維持する見込みで、2025年には450.0百万の大きなシェアを保持しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "Geographic Weighting: Shifted toward North American dominance (42% vs original 35%) reflecting FAA's leadership in UAM policy framework development",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "市場のセグメントを見ると、2025年には操縦士搭乗型eVTOL・空飛ぶクルマが76.8％、1,486万米ドルを占めている",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "一方、4～5人乗りは38.6％、747万米ドルを占め、複数旅客で運航コストを分担できるため、空港アクセスや都市間輸送で経済性を改善しやすい",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、関東が2025年の市場機会の39％、754万米ドルを占め最大である",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "By propulsion: The fully electric segment dominated the market, accounting for about 70.0% of revenue in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The piloted segment accounted for the highest revenue share in 2025, driven by increasing urbanization and the resulting demand for efficient intra-city transportation solutions. Technological advancements in",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The hardware segment accounted for the highest market share in 2025. Advancements in battery technology, propulsion systems, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "accounted for a significant share of revenue in 2025. In Saudi Arabia, the Saudi Vision plan emphasizes economic diversification through smart city projects, integrating eVTOL aircraft into the future of urban transportation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with an approximately 40.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The fully electric segment accounted for the largest revenue share of approximately 70.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The top two countries accounted for USD 71.2 million, representing more than 90% of the global eVTOL market in 2025.",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": ">90% market share",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 3 Companies’ Market Share in 2025",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": ">99% market share",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "“Analysis suggests that the Top 3 countries generate >90% of the annual sales for the eVTOLs. A few countries are the demand powerhouses and will drive the regional markets in big ways offering attractive business opportunities.”",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "dominated a 36.5% market share in 2023 and held",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "同社は、販売価格30万米ドルの電動空飛ぶクルマについて3,300台の受注見込みを得ており、空飛ぶクルマ市場への初期参入企業の一つであるにもかかわらず、消費者が高額な価格帯の商品に対しても手付金を支払う意欲を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ業界の主要企業は、AeroMobil、Airbus、PAL-V International、SkyDrive、UBER、Moller、Samson Sky である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ業界で事業を展開する主要企業は以下のとおりである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場の主要企業は、製品への投資や研究開発（R&D）に加え、資源の有効活用と製品の研究開発を促進するため、提携、共同事業、合併、買収などの戦略的な取り組みを積極的に進めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要企業は、製品開発におけるコスト効率を高めるために研究開発リソースを活用しており、市場固有の要件に迅速に対応し、技術の進化に適応することを目指している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業には、AeroMobil、Airbus、Archer Aviation、Boeing、Joby Aviation、Moller、PAL-V International、SkyDrive、Terrafugia、UBERなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "Joby AviationやArcher Aviationといった主要企業は150回以上の試験飛行を実施しており、この地域が革新的な輸送ソリューションを早期かつ積極的に導入していることを裏付けています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "総売上高、主要企業の市場シェアと順位に焦点を当てるとともに、地域・国別、タイプ別、用途別の分析を盛り込んでおります",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の調査は地域、国別や参入企業各社の動向、将来展望などを明らかにすることを目的としたものだ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "北米の競争環境は堅牢で、テラフージア、ジョビー・アビエーション、キティホークなどの主要プレイヤーが存在しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と競争の洞察",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "ジョビー・アビエーション（米国）、ボロコプター（ドイツ）、リリウム（ドイツ）などの主要プレイヤーが最前線に立ち、それぞれが市場ポジションを強化するための独自の戦略を採用しています",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶ車市場市場の主要企業には以下が含まれます",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のプロファイル",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "12.2 その他の主要企業",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market are Airbus S.E., Elbit Systems Ltd., and Guangzhou EHang Intelligent Technology Co. Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the eVTOL aircraft market:",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global eVTOL aircraft market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include AIRBUS, Bell Textron Inc., EHang, Embraer, BETA Technologies, LIFT Aircraft Inc., Israel Aerospace Industries, Volocopter GmbH, Joby Aero, Inc., Archer Aviation Inc., and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market Size, Share, Trend, Forecast, Competitive Landscape & Growth Opportunities: 2026-2040",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market Size, Share, Trend, Forecast, Competitive Landscape & Growth Opportunitie",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "“As per our analyst, the global eVTOL industry is evolving fast. While conducting the market analysis, and speaking with the leading players, it is quite clear that the next decade will be defined by the trends such as rising urban population and traffic congestion, expected entry into service (EIS) of upcoming eVTOL programs, and growing pre-orders and commercial commitments.”",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the eVTOL Market.",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Note: The above list is not an exhaustive list of the key players in the market. If your company is active in this market and would like to be considered for inclusion in future editions of this study, please contact us at",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Service portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "EHang, Joby Aviation, Inc., Archer Aviation, Autoflight, Eve Air Mobility, Xpeng AeroHT, Vertical Aerospace Ltd., Elroy Air, Beta Technologies, Volant Aerotech are the leading players in the eVTOL market.",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In the global eVTOL Aircraft Market in 2023, Airbus SE, EHang Holdings Ltd., and Elbit Systems Ltd. are prominent players, each contributing uniquely to the industry’s dynamics.",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the eVTOL Aircraft Market?",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the eVTOL aircraft industry?",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the industry include Joby Aviation, Archer Aviation Inc., EHang, Volocopter, Lilium, BETA Technologies, Vertical Aerospace, Wisk Aero, Supernal, LLC, Eve Air Mobility, Autoflight, and Overair, Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Urban Air Mobility Revolution: eVTOL Aircraft Market Size, Key Companies, Company Market Share, Vehicle Production Volume, Sales Performance, Export & Import Analysis, Technology Adoption, Competitive Positioning, and Demand Trends",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Application & Geographic Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the eVTOL aircraft market?",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the eVTOL aircraft market are Airbus SE, Bell Textron, Inc., EHang Holdings Ltd., Elbit Systems) Ltd., Embraer SA, Kitty Hawk, Joby Aviation, Beta Technologies, and others.",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the eVTOL Aircraft market?",
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Volocopter GmbH, Bell Textron Inc., Airbus S.A.S, Beta Technologies, Joby Aviation, Urban Aeronautics Ltd., Archer Avitation, Eve Holdings, and Textron Incare a few leading players in the eVTOL Aircraft market.",
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Report 2026: $41.8 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+    "url": "https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies: Airbus SE, Textron Inc, Embraer SA",
+    "url": "https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html",
+    "pass": 3
+   },
+   {
+    "quote": "Special Report: Surveying the eVTOL competitive landscape - The Air Current",
+    "url": "https://theaircurrent.com/industry-strategy/special-report-surveying-the-evtol-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Special Report: Surveying the eVTOL competitive landscape",
+    "url": "https://theaircurrent.com/industry-strategy/special-report-surveying-the-evtol-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled",
+    "url": "https://univdatos.com/reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Trends, Drivers, and Restraints; Revenue Estimation and Forecast; Segmentation Analysis; Demand and Supply Side Analysis; Competitive Landscape; Company Profiling",
+    "url": "https://univdatos.com/reports/evtol-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "最近の報告によると、中国は2030年までに10万台以上のeVTOL（電動垂直離着陸機）を導入する計画で、都市型航空モビリティプロジェクトへの政府投資額は5億ドルを超えています",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "またIPOをした会社の場合は、直近1年間の資本金及び資本準備金の増減と合計を直近の資金調達額と資金調達累計額とみなしております",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "マップ上の会社の累計調達額は、本ページの更新時点で約5337百万ドルとなっております",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ各社の累計調達額を分子に、上述した業界全体の資金調達額を分母にして、資金調達累計額の市場シェアを計算し、ランキング化すると、2021年の1位はジョビーアビエーション、2位はリリウム、3位はベータとなります",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの資金調達累計額の市場シェア（2022年）",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの資金調達累計額の市場シェア（2022年） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマの市場シェア（調達額ベース、2022年9月） 出所：Trancxn、会社情報より作成",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年9月に総額96億円の資金調達（シリーズC）を行いました",
+    "url": "https://deallab.info/flying-car/",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "Joby Aviation社は2020年にトヨタ自動車との提携を締結し、3.94億ドルの出資を受けたことを発表",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1183795.html",
+    "pass": 3
+   },
+   {
+    "quote": "• Coverage of manufacturers and technology holders representing 65-70% of disclosed funding and patent activity in 2024",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "pass": 3
+   },
+   {
+    "quote": "is expected to grow considerably from 2026 to 2033. China's commitment to reducing urban air pollution and its investment in innovative air mobility solutions are propelling the market forward.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The eVTOL aircraft market in MEA is anticipated to grow at a significant CAGR from 2026 to 2033, driven by strategic investments in technology and infrastructure aimed at revolutionizing urban mobility. The region's focus on enhancing its tourism sector and improving urban transport efficiency is a significant driver of the adoption of innovative solutions such as eVTOL aircraft.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "in additional funding from a group of strategic investors. This significant financial boost is intended to accelerate the production of their commercial eVTOL aircraft, which is slated for launch in 2024.",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Joby reported having approximately USD 2.3 billion in cash and short-term investments as of June 2026, while its competitor Archer reported having about USD 1.8 billion of liquidity at the first quarter of 2026. (Joby Aero, Inc.)",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed profiles of the 22 companies cover revenue, funding, cash position, R&D, aircraft programs, backlog, certification stage, manufacturing footprint, technology, partnerships, customers, and strategic developments.",
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "adoption enables supplementary revenue streams for existing aviation infrastructure operators, justifying public-private partnership investments valued at $2.1+ billion through 2026.",
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "The global eVTOL (Electric Vertical Take-Off and Landing) market was valued at USD 5.5 billion in 2023 and is expected to grow at a CAGR of 41.73% from 2024 to 2032. This rapid growth is driven by increasing urban air mobility demand, advancements in battery technology, and rising investments from key industry players.",
+    "url": "https://univdatos.com/reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q8: What are the key investment opportunities in the global eVTOL market, and which segments are expected to grow the fastest?",
+    "url": "https://univdatos.com/reports/evtol-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Stocks: Top Electric Aircraft Investments for 2026 | eVTOL.Travel",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Guide 2026",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "The urban air mobility market is projected to reach $1.5 trillion by 2040. From Joby Aviation and Archer Aviation to EHang and BETA Technologies, discover which publicly traded eVTOL companies offer the strongest investment potential in 2026 and beyond.",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "UK-based; Rolls-Royce motors; American Airlines investment; 1,400+ pre-orders",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Raised ~$600M in January 2026 via convertible notes + 52M shares at $11.35",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-revenue eVTOL companies burn $50M to $200M+ per quarter on R&D, testing, and manufacturing buildout. Companies must secure additional funding through equity dilution, debt, or partnerships before reaching profitability.",
+    "url": "https://evtol.travel/evtol-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "BETA reported approximately 188,000 square feet of final-assembly manufacturing space at its Vermont facility, demonstrating that commercialization requires material fixed-capital investment before fleet revenue scales.",
+    "url": "https://www.kenresearch.com/industry-reports/north-america-evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market 2026: Joby Dubai Launch and $6B Investment Boom",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "This comprehensive analysis examines the top 15 eVTOL manufacturers based on certification progress, funding secured, technical capabilities, and commercial partnerships. As the industry approaches critical certification milestones, clear leaders are emerging while newcomers continue to challenge established players with innovative designs and strategic advantages.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The eVTOL industry represents a fundamental shift in urban transportation, with market valuations climbing from $1.7 billion in 2023 to projected $39 billion by 2033. This explosive growth stems from converging factors: urban congestion, environmental regulations, battery technology advances, and substantial investment flows.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The eVTOL aircraft market is projected to grow at a CAGR of 27.6% during the forecast period. The market growth in North America and Europe can be attributed to upcoming reforms in the aviation sector. Investment activity has intensified dramatically, with major aerospace companies, automotive giants, and venture capital firms pouring billions into eVTOL development.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s S4 aircraft represents the most mature eVTOL design approaching certification, with over 1,000 test flights completed and FAA Type Inspection Authorization achieved in December 2024. Joby’s partnership with Toyota provides manufacturing expertise and $400 million in funding, while collaborations with Delta Air Lines and Uber position the company for immediate commercial deployment.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Recent funding challenges have been addressed through strategic partnerships and equity raises, while the $1 billion order from Azul Airlines validates market demand for regional eVTOL services. Lilium’s European base provides advantages in EASA certification and continental market development.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Recent funding secured in January 2025 addresses immediate capital needs, while ongoing certification efforts target mid-decade operational entry. The company’s focus on airline integration rather than ride-sharing creates differentiated market positioning.",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$600+ million through multiple funding rounds",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$500+ million including recent BNDES funding",
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "VC (+1-784)",
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-electric-vtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market 2026: Joby Dubai Launch and $6B Investment Boom",
+    "url": "https://www.privatecharterx.blog/evtol-market-2025-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Joby’s partnership with Toyota provides manufacturing expertise and $400 million in funding, while collaborations with Delta Air Lines and Uber position the company for immediate market access upon certification. Delta invested $60 million in Joby and committed to deploying eVTOL aircraft at major hub airports including New York JFK and Los Angeles LAX.",
+    "url": "https://www.privatecharterx.blog/evtol-market-2025-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Joby reported $1.2 billion in cash and short-term investments as of Q3 2025, providing runway through commercial operations launch without additional capital raises. The company projects break-even operations at 50-75 aircraft deployed across 2-3 metropolitan markets.",
+    "url": "https://www.privatecharterx.blog/evtol-market-2025-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial challenges emerged in 2024 when Lilium faced funding shortfalls, but the company secured $119 million in convertible notes and maintains discussions with European government entities regarding strategic investments. Germany’s Bavaria state government committed support for Lilium’s manufacturing facility near Munich.",
+    "url": "https://www.privatecharterx.blog/evtol-market-2025-analysis/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場 の 規模 とシェア、成長分析、2026〜2034年 — 空飛ぶクルマ市場 の 規模 とシェア、成長分析、2026〜2034年 Global Market Insights Inc. https://www.gminsights.com > flying-cars-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 — 空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 Global Market Insights Inc. https://www.gminsights.com > flying-cars-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の 空飛ぶクルマ市場 2024～2031年 - アットプレス — 日本の 空飛ぶクルマ市場 2024～2031年 - アットプレス アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "pass": 3
+   },
+   {
+    "quote": "空飛ぶクルマ市場 、2050年に180兆円超へ - EE Times Japan — 空飛ぶクルマ市場 、2050年に180兆円超へ - EE Times Japan EE Times Japan https://eetimes.itmedia.co.jp > articles > news156",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】 空飛ぶクルマ市場 の実現は 2025 年大阪・関西万博が ... — 【特集】 空飛ぶクルマ市場 の実現は 2025 年大阪・関西万博が ... ドローンジャーナル https://drone-journal.impress.co.jp > 特集 > エアモビリティ",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1183795.html",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size , Share & Trends Overview, 2031 — eVTOL Aircraft Market Size , Share & Trends Overview, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size , Growth Report, 2026-2033 — eVTOL Aircraft Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market Size , Share & Forecast 2040 — eVTOL Market Size , Share & Forecast 2040 Stratview Research https://www.stratviewresearch.com > ...",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size , Industry Share, Global Report, 2034 — eVTOL Aircraft Market Size , Industry Share, Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size , Share | CAGR of 36.8% — eVTOL Aircraft Market Size , Share | CAGR of 36.8% Market.us https://market.us > evtol-aircraft-market",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size, Share, & Growth Report, 2033 — eVTOL Aircraft Market Size, Share, & Growth Report, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Market Size, Share & Forecast 2040 — eVTOL Market Size, Share & Forecast 2040 Stratview Research https://www.stratviewresearch.com > ...",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Report 2026: $41.8 Bn Opportunities ... — eVTOL Aircraft Market Report 2026: $41.8 Bn Opportunities ... Yahoo Finance https://finance.yahoo.com > news > e...",
+    "url": "https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size, Share & Trends Overview, 2031 — eVTOL Aircraft Market Size, Share & Trends Overview, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "US eVTOL Aircraft Market (2031-2036) - MarketsandMarkets — US eVTOL Aircraft Market (2031-2036) - MarketsandMarkets MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/evtol-aircraft-market/US",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size, Industry Share, Global Report, 2034 — eVTOL Aircraft Market Size, Industry Share, Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size, Growth Report, 2026-2033 — eVTOL Aircraft Market Size, Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "eVTOL Aircraft Market Size & Share 2025 - 2034 — eVTOL Aircraft Market Size & Share 2025 - 2034 Global Market Insights Inc. https://www.gminsights.com > evtol-a...",
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 eVTOL stocks to invest in 2025 ! - YouTube — Top 5 eVTOL stocks to invest in 2025 ! - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Fag4k3X4Kuc",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "37.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "世界の空飛ぶクルマ市場規模は2026年に4億9,270万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）37.5%を記録すると推定される"
+   },
+   {
+    "value": "51.45",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "世界の空飛ぶ車の市場規模は、2025年には42億4000万米ドルと評価され、2026年の64億2000万米ドルから2034年には1777億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%となる見込みです"
+   },
+   {
+    "value": "37.45",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い"
+   },
+   {
+    "value": "106.6",
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "quote": "世界の空飛ぶ自動車市場は、2024年に1億3,500万米ドルと推定され、2025年から2031年の予測期間中にCAGR106.6％で成長し、2031年までに207億7,500万米ドルに拡大すると予測されています"
+   },
+   {
+    "value": "20.81",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "quote": "2025年から2035年までの予測CAGRが20.81%であることから、環境に優しい技術が消費者や投資家を惹きつける中心的な役割を果たすことが示唆されています"
+   },
+   {
+    "value": "43.7",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "quote": "2025年から2035年の予測期間中の空飛ぶ車市場の期待CAGRは43.7%です"
+   },
+   {
+    "value": "37.45",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "日本の空飛ぶクルマ市場は、2025年に1,935万米ドル規模で、2035年には4億6,563万米ドルへ拡大すると予測されており、年平均成長率（CAGR）は37.45％と非常に高い"
+   },
+   {
+    "value": "54.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "quote": "CAGR of 54.9% from 2026 to 2033"
+   },
+   {
+    "value": "32.5",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "quote": "“The eVTOL market size will reach USD 76.7 million in 2026 and offers robust growth opportunities for the market stakeholders. With the market expected to grow at a CAGR of 32.5%, the annual demand will hit the USD 3,958.0 million mark in 2040, driven by rising urban population and traffic con..."
+   },
+   {
+    "value": "36.8",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "quote": "eVTOL Aircraft Market Size, Share | CAGR of 36.8%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "65",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "2026年には、有人操縦型が市場シェアの 65% 超を占め、2034年までに同セグメントの市場収益は 27億米ドルを超えると予測されています"
+   },
+   {
+    "value": "66",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される"
+   },
+   {
+    "value": "33",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される"
+   },
+   {
+    "value": "90",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "2026年、アジア太平洋地域は世界の空飛ぶクルマ市場で最大のシェアを占め、中国が地域売上高の 90% 超を占めて約 2億5,760万米ドルを生み出した"
+   },
+   {
+    "value": "35",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "これらの企業は、2026年に空飛ぶクルマ市場の約35%を占めている"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "38.6",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "北米は2025年に38.6%の市場シェアを占め、空飛ぶ車市場を牽引しました"
+   },
+   {
+    "value": "31",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "同様に、欧州航空安全機関（EASA）は、2030年までに9万人の雇用創出を見込んでおり、EUは42億ユーロ規模の世界UAM市場において31%のシェアを占めています"
+   },
+   {
+    "value": "60",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "欧州の規制当局は、2030年までに都市部における運用の60%をローター式eVTOLが占めると予測しています"
+   },
+   {
+    "value": "30",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "政府の公式統計によると、空飛ぶライドシェアリングは通勤時間を30%短縮し、交通渋滞を25%軽減すると見込まれている"
+   },
+   {
+    "value": "25",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "政府の公式統計によると、空飛ぶライドシェアリングは通勤時間を30%短縮し、交通渋滞を25%軽減すると見込まれている"
+   },
+   {
+    "value": "70",
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "quote": "業界団体は、ライドシェアリング用の電動垂直離着陸機（eVTOL）が都市型航空モビリティの新規導入の70%を占め、都市生活を大きく変革する経済的・環境的利益を世界的にもたらすと予測している"
+   },
+   {
+    "value": "76.8",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい"
+   },
+   {
+    "value": "78.5",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい"
+   },
+   {
+    "value": "23.2",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される"
+   },
+   {
+    "value": "38.6",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "一方、4～5人乗りは38.6％、747万米ドルを占め、複数旅客で運航コストを分担できるため、空港アクセスや都市間輸送で経済性を改善しやすい"
+   },
+   {
+    "value": "39",
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "quote": "地域別では、関東が2025年の市場機会の39％、754万米ドルを占め最大である"
+   },
+   {
+    "value": "42",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "quote": "Geographic Weighting: Shifted toward North American dominance (42% vs original 35%) reflecting FAA's leadership in UAM policy framework development"
+   },
+   {
+    "value": "35",
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "quote": "Geographic Weighting: Shifted toward North American dominance (42% vs original 35%) reflecting FAA's leadership in UAM policy framework development"
+   },
+   {
+    "value": "76.8",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい"
+   },
+   {
+    "value": "78.5",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "2025年時点の市場構成では、操縦士が搭乗するeVTOL・空飛ぶクルマが市場の76.8％を占め、運航方式では有人操縦が78.5％と圧倒的に大きい"
+   },
+   {
+    "value": "23.2",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "残り23.2％は旅客ドローンや高度自律型コンセプトであるが、遠隔・自動運航制度が導入される2030年代以降にシェアが拡大すると予測される"
+   },
+   {
+    "value": "38.6",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "一方、4～5人乗りは38.6％、747万米ドルを占め、複数旅客で運航コストを分担できるため、空港アクセスや都市間輸送で経済性を改善しやすい"
+   },
+   {
+    "value": "39",
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "quote": "地域別では、関東が2025年の市場機会の39％、754万米ドルを占め最大である"
+   },
+   {
+    "value": "70.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "quote": "By propulsion: The fully electric segment dominated the market, accounting for about 70.0% of revenue in 2025."
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "quote": "North America dominated with an approximately 40.0% revenue share in 2025."
+   },
+   {
+    "value": "90",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "quote": "The top two countries accounted for USD 71.2 million, representing more than 90% of the global eVTOL market in 2025."
+   },
+   {
+    "value": "99",
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "quote": ">99% market share"
+   },
+   {
+    "value": "36.5",
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "quote": "dominated a 36.5% market share in 2023 and held"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/flying-cars-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/flying-car/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8049768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2020/assets/pdf/flying-car.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://shikiho.toyokeizai.net/gyoukai/industry/287/list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/special/1183795.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expo2025.or.jp/future-index/smart-mobility/advanced-air-mobility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9763025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/evtol-aircraft-market-28054110.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/evtol-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/evtol-aircraft-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ArcherAviation/comments/1u177e9/the_evtol_sector_may_have_been_the_biggest_hype/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://straitsresearch.com/report/evtol-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/geography/evtol-aircraft-market/US",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://theaircurrent.com/industry-strategy/special-report-surveying-the-evtol-competitive-landscape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://univdatos.com/reports/evtol-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evtol.travel/evtol-stocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/north-america-evtol-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privatecharterx.blog/evtol-manufacturers-ranking-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/blog/top-10-companies-in-electric-vtol-aircraft-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privatecharterx.blog/evtol-market-2025-analysis/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "空飛ぶクルマ 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378",
+    "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "https://straitsresearch.com/jp/report/flying-cars-market",
+    "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "https://www.cas.go.jp/jp/seisaku/chiikimirai2/sangyo-keikaku/pdf/gaiyo_shiryo11.pdf",
+    "https://www.atpress.ne.jp/news/4150742",
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000318649&page=ref_view",
+    "https://www.businessresearchinsights.com/jp/market-reports/flying-cars-market-125992"
+   ]
+  },
+  {
+   "query": "空飛ぶクルマ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378",
+    "https://www.gminsights.com/ja/industry-analysis/flying-cars-market",
+    "https://deallab.info/flying-car/",
+    "https://www.atpress.ne.jp/news/8049768",
+    "https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2020/assets/pdf/flying-car.pdf",
+    "https://straitsresearch.com/jp/report/flying-cars-market",
+    "https://shikiho.toyokeizai.net/gyoukai/industry/287/list",
+    "https://note.com/tatsuya_sabato/n/nb9f987ece79e",
+    "https://www.fortunebusinessinsights.com/jp/空飛ぶ自動車市場-105378"
+   ]
+  },
+  {
+   "query": "空飛ぶクルマ 市場 前年比 2025",
+   "results": [
+    "https://www.atpress.ne.jp/news/8049768",
+    "https://straitsresearch.com/jp/report/flying-cars-market",
+    "https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf",
+    "https://www.ohmae.ac.jp/mbaswitch/flyingcars",
+    "https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html",
+    "https://drone-journal.impress.co.jp/docs/special/1183795.html",
+    "https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359",
+    "https://www.youtube.com/watch?v=kMQgx1x9RC4",
+    "https://www.expo2025.or.jp/future-index/smart-mobility/advanced-air-mobility/",
+    "https://www.atpress.ne.jp/news/9763025"
+   ]
+  },
+  {
+   "query": "eVTOL market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/evtol-aircraft-market-28054110.html",
+    "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "https://market.us/report/evtol-aircraft-market/",
+    "https://www.gminsights.com/industry-analysis/advanced-air-mobility-market",
+    "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "https://www.eveairmobility.com/eve-air-mobility-twenty-year-market-outlook-highlights-growth-of-urban-air-mobility-globally/",
+    "https://www.gminsights.com/industry-analysis/evtol-aircraft-market"
+   ]
+  },
+  {
+   "query": "eVTOL market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "https://www.marketsandmarkets.com/Market-Reports/evtol-aircraft-market-28054110.html",
+    "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "https://market.us/report/evtol-aircraft-market/",
+    "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "https://www.precedenceresearch.com/evtol-aircraft-market",
+    "https://www.reddit.com/r/ArcherAviation/comments/1u177e9/the_evtol_sector_may_have_been_the_biggest_hype/",
+    "https://straitsresearch.com/report/evtol-aircraft-market"
+   ]
+  },
+  {
+   "query": "eVTOL market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp",
+    "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html",
+    "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "https://www.marketsandmarkets.com/Market-Reports/geography/evtol-aircraft-market/US",
+    "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "https://market.us/report/evtol-aircraft-market/",
+    "https://theaircurrent.com/industry-strategy/special-report-surveying-the-evtol-competitive-landscape/",
+    "https://univdatos.com/reports/evtol-market",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "eVTOL market key companies share 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/evtol-aircraft-market-28054110.html",
+    "https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market",
+    "https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report",
+    "https://www.gminsights.com/industry-analysis/evtol-aircraft-market",
+    "https://www.youtube.com/watch?v=Fag4k3X4Kuc",
+    "https://www.stratviewresearch.com/market-reports/evtol-market.html",
+    "https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298",
+    "https://evtol.travel/evtol-stocks",
+    "https://www.linkedin.com/pulse/evtol-market-key-industry-trends-strategic-insights-reshaping-sharma-wxqtc",
+    "https://www.kenresearch.com/industry-reports/north-america-evtol-aircraft-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

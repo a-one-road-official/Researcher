@@ -1,0 +1,2012 @@
+{
+ "name": "産業用ドローン",
+ "en": "commercial drone",
+ "aliases": [
+  "ドローン",
+  "無人航空機"
+ ],
+ "context": "6 航空・宇宙 ②無人航空機",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:48:28.545718+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ドローン市場規模・シェア・トレンド2034",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2034年にかけて、市場は年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界のドローン市場規模は",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCの推計によると、世界のドローン市場は2026年から2034年にかけて年",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】ドローンビジネス市場規模は2030年度に9544億円へ、土木・建築や点検用途での普及が顕著～『ドローンビジネス調査報告書2026』より - ドローンジャーナル",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンビジネス市場規模は2030年度に9544億円へ、土木・建築や点検用途での普及が顕著～『ドローンビジネス調査報告書2026』より",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の市場規模は13.8％増の4973億円、うちサービス市場が規模も伸びも大きい",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度のドローンビジネス市場規模は4973億円と推計され、前年度の4371億円から13.8%増加している",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度には5501億円（前年度比10.6%増）、2030年度には9544億円に達し、2025年度から2030年度にかけての年間平均成長率（CAGR）は13.9%と、引き続き高い成長率が続くと予測される",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "分野別では、サービス市場が前年度比18.1%増の2711億円で最大となり、機体市場は同8.2%増の1227億円、周辺サービス市場は同10.0%増の1036億円となっている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度の点検分野の市場規模は983億円でサービス市場の中で最も大きく、2030年度には約1.6倍の1614億円に達する見込みである",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、土木・建築分野は2025年度の427億円から2030年度には約2.8倍の1209億円に達して、点検に次ぐ市場になる見込みだ",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "連動して市場規模も大きく拡大し、運搬用途を含む「その他」の市場規模は2030年度には967億円まで拡大すると予測している",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度における市場規模も100億円に満たないと見られる",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模、シェア、成長、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律型、完全自律型）、ペイロード容量別（2kg以下、2kg～19kg、20kg～200kg、200kg超）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光発電）、用途別（消費者向け、商業用、軍事・防衛、政府・法執行機関向け、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のドローン市場規模は、2025年には427億3000万米ドルと評価され、2026年の487億1000万米ドルから2034年には1389億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2024年7月、米国国防総省は無人航空機（UAV）の研究開発に21億ドルを割り当て、国の防衛能力を強化した",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年8月、日本は物流に3億ドルを投資し、ドローン配送サービスや航空輸送の良好な基盤を築くと予想されている",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模は2026年には487億1000万米ドルと評価され、2034年までに1389億6000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%である",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）14%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機（UAV）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模は2025年に339億米ドルと評価され、2034年までには791億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "中国の民生用ドローン市場は、2025年までに2,000億元（約275億米ドル）を超える見込みで、農業用途が大きな割合を占めています",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "米国国防総省による2029年までの90億ドルのドローン投資計画、ノースロップ・グラマンによる同盟国向けRQ-4グローバルホーク維持管理契約3億8700万ドル、そしてインドの国内ドローン製造向けPLI制度は、防衛支出がいかに強力な市場アンカーとして機能し、産業エコシステムの開発、研究開発投資、軍事用途から商業用途への技術普及を支えているかを如実に示している",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、産業用ドローン市場は「実証実験」から「本格的な社会実装」のフェーズへと完全に移行しました",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度には約4,000億円規模を突破",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "クボタは世界1120ヵ国以上に事業進出を果たしており、2022年12月期には海外事業だけで売上高2兆円超えという実績も残しています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Skydioは2021年、「評価額10億ドル以上」「創業10年以内」「未上場」「テクノロジー企業」といった条件を満たしたユニコーン企業の1つとなったことで話題になりました",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "インプレス総合研究所が発表した「ドローンビジネス調査報告書2023」によると、2022年度の日本国内におけるドローンビジネスの市場規模は3,086億円と推測されており、2021年度より778億円増加したとの結果が報告されています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2023年度には3,828億円、2028年度には9,340億円にまで達する見込みがあるとも記述されています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模・予測レポート 2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場は2025年に182億米ドルと評価され、2026年には209億米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Defense News. “U.S. Navy Awards Boeing $562 Million Contract for First Production MQ-25A Stingray Tanker Drones.” thedefensenews.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場の市場規模は2025年に182億米ドルと推定され、2026年には209億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度には9,500億円超へ",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "インプレス総合研究所の調査によると、2025年度の日本国内のドローンビジネス市場規模は",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "4,973億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "と推計されており、2024年度の4,371億円から13.8％増加しました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "5,501億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "9,544億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "2,711億円",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機を2030年時点でサービス・ソフトウェアを含めて国内1兆円、グローバルで約8.1兆円規模に拡大",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアの国営石油会社であるサウジアラムコのVC・Wa‘edから、総額18.5億円の資金調達を実施したことを発表しました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "インプレス総合研究所は、国内のドローンビジネス市場が2030年度に9,544億円に達すると予測しており、経済産業省も国産ドローンの量産基盤づくりを進めています",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "1. ドローン市場は2025年までに428億ドルに成長する",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "最も重要な数字は428億ドル",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "これが2025年のドローン市場規模だ",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には225億ドルを生み出していたものが、2025年には13.8％のCAGR（Compound Annual Growth Rate）で成長し、ほぼ2倍の規模になると予想されている",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、商業用ドローン市場は、米国と中国の国内ドローン市場が独占、その収益は世界のドローン市場規模の3分の2以上を占めている",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の国内ドローンビジネス市場規模は前年比13％増の4371億円 ドローンショー市場が2倍に急拡大、運搬用途でも活用が進む 『ドローンビジネス調査報告書2025』3月28日発売 | インプレス総合研究所",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026年から2034年にかけて、市場は年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）9.89%",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026-2034年の市場成長率",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、FAAが制定した「パート107」規則やその他の米国政府の規制緩和法は、商用ドローンのミッション拡大を促進しています",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度には5501億円（前年度比10.6%増）、2030年度には9544億円に達し、2025年度から2030年度にかけての年間平均成長率（CAGR）は13.9%と、引き続き高い成長率が続くと予測される",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年度にかけてのCAGRは、機体市場が14.6%、周辺サービスが同14.1%と、いずれも二桁成長が続く見通しである",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "連動して市場規模も大きく拡大し、運搬用途を含む「その他」の市場規模は2030年度には967億円まで拡大すると予測している",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のドローン市場規模は、2025年には427億3000万米ドルと評価され、2026年の487億1000万米ドルから2034年には1389億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月時点で、連邦航空局（FAA）は5万機以上のドローンを正式に登録しており、物流やセキュリティ分野での用途が拡大している",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模は2026年には487億1000万米ドルと評価され、2034年までに1389億6000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%である",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までに成長率を示す",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）9.89%",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "5Gネットワークの世界的な展開は、ドローンの運用能力を根本的に拡大させています",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "北米、ヨーロッパ、アジア太平洋地域で5Gの普及が進むにつれ、商用ドローンの用途は今後も大幅に拡大していくでしょう",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "中国が世界のドローン製造を支配していること（DJIをはじめとする中国メーカーが世界のドローン輸出の70%以上を占めている）は、ハードウェア価格を継続的に引き下げながら性能を向上させることで、世界市場の拡大に大きく貢献してきた",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "特に、レベル4飛行の商用化が進めば、都市部での物流や監視、インフラ点検など新たな需要が一気に拡大するでしょう",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のドローンビジネスは海外に後れを取っている」と称されることもありますが、近年はレベル4飛行の解禁に伴い、産業・ホビーの分野において急速な普及拡大を果たしているのが現状です",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機を2030年時点でサービス・ソフトウェアを含めて国内1兆円、グローバルで約8.1兆円規模に拡大",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "5. ドローンの売上は2020年から2025年にかけて倍増する",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年には225億ドルを生み出していたものが、2025年には13.8％のCAGR（Compound Annual Growth Rate）で成長し、ほぼ2倍の規模になると予想されている",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の国内ドローンビジネス市場規模は前年比13％増の4371億円 ドローンショー市場が2倍に急拡大、運搬用途でも活用が進む 『ドローンビジネス調査報告書2025』3月28日発売 | インプレス総合研究所",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の国内ドローンビジネス市場規模は前年比13％増の4371億円 ドローンショー市場が2倍に急拡大、運搬用途でも活用が進む 『ドローンビジネス調査報告書2025』3月28日発売",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2025年度は4987億円に拡大する見込みです",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024年度～2030年度の年間平均成長率は15.2％で推移し、2030年度には1兆195億円に達するとインプレス総合研究所は予測しています",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "各市場ともに今後も拡大が見込まれており、2030年度には、サービス市場が5288億円（2024年度～2030年度の年間平均成長率14.9％）と最も成長し、機体市場が2746億円（同平均成長率15.9％）、周辺サービス市場が2161億円（同平均成長率14.8％）に達する見込みです",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "数百から数千のドローンを群制御して、機体のライトで夜空に文字や図形、アニメーションを描くドローンショーは、市場規模が前年比で約2倍と急速に拡大した分野です",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "また有人地帯（第三者上空）での目視外飛行（レベル4飛行）の解禁は、ドローンの機体やソリューションだけでなく、周辺ビジネスの拡大にも波及することが見込まれています",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "レベル4飛行を安全に実行するための気象情報サービスや運航管理システムなどの拡大も予想されています",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "大手インフラ保有企業でドローン点検がさらに進展、サービス化し他社へ提供も 送電網・鉄塔、基地局鉄塔、橋梁など多分野で導入拡大 『ドローンビジネス調査報告書2025【インフラ・設備点検編】』12月11日発売",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けた長期予測においても、市場は極めて高い水準で拡大を続ける見込みです",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の国内ドローンビジネス市場規模は4,371億円に達し、前年比約20%の力強い成長を維持しました",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度には約4,973億円規模に達し、続く2026年度は本格的な社会実装の普及期としてさらなる拡大が見込まれています",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの実績は、2026年以降の本格的なビジネス拡大に向けた極めて重要な土台を築いています",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "市場予測では、2030年に向けて年平均成長率（CAGR）が8%から14%程度の水準を維持し、数兆円規模の市場へと発展を遂げる見通しです",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降、ドローンは特定の産業用ツールから、世界経済を支える不可欠な社会インフラとしての地位を確立し、さらなる市場拡大が確実視されています",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けたドローン市場は、年間平均成長率が15%前後で推移する高い成長フェーズにあります",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、レベル4飛行のさらなる進展に伴い、物流やインフラ点検、防犯、防災といった多岐にわたる領域でドローン活用が拡大すると考えられます",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場は2020年代後半に入り、実証実験中心の段階から「社会実装・商用化の拡大期」へと本格的に移行した",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内市場規模は2025年度に4,973億円（前年比13.8％増）に達し、2030年度には9,544億円へ拡大する見通しである",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "EC市場の拡大、ドライバー不足、買い物弱者対策など社会的ニーズは強いが、有人地帯での目視外飛行に必要な機体認証のハードルや運用コストの高さが普及の壁となっており、2030年度の物流市場規模は100億円未満と予測され、他領域に比べて成長は緩やかである",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "測量・建設分野は点検に次ぐ成長領域で、2025年度4,973億円から2030年度には9,544億円へ約2.8倍に拡大する見込みである（インプレス、ドローンビジネス調査報告書2026より）",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けて、ドローン市場は「人手不足・インフラ老朽化・地域課題」を解決する基盤技術として、さらに拡大していくことが確実視されている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしこうした課題を考慮したうえでも、5年後には現在の4.6倍の市場拡大が見込まれているのは驚異的だ",
+    "url": "https://www.kokuyo-furniture.co.jp/solution/mana-biz/2021/02/20256500.php",
+    "pass": 3
+   },
+   {
+    "quote": "size is expected to reach USD 52.06 billion by 2033 and is projected to grow at a CAGR of 9.3% from 2026 to 2033, according to a new study conducted by Grand View Research, Inc. The growth is attributed to the rising demand for commercial drones across various verticals, such as media and entertainment, agriculture, logistics, security, law enforcement, and",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of product, the hybrid segment is projected to register the highest CAGR of over 12.0% from 2026 to 2033, owing to the advantages associated with these commercial drones.",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The delivery & logistics segment is expected to witness the fastest CAGR of 12.1% from 2026 to 2033 with the increasing adoption of drones for cargo, medicines, and food delivery.",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ICT industry specialist Gautam Mahajan estimates the Commercial Drone Market at USD 116.81 billion in 2026, with continued technology adoption expected to take the market to USD 1,755.97 billion by 2035 at a CAGR of 35.53%. Leading Commercial Drone market providers such as DJI, Voliro are expanding their capabilities across segments including Type, Weight, Mode of Operation, Application, End User.",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global commercial drone market size is calculated at USD 116.81 billion in 2026 to approximately USD 1,755.97 billion by 2035, expanding at a CAGR of 35.53% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. commercial drone market size was estimated at USD 33.60 billion in 2026 and is expected to be worth around USD 508.45 billion by 2035, at a CAGR of 35.63% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 2: What will be the CAGR of global commercial drone market?",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ドローン市場規模・シェア・トレンド2034",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、固定翼ドローンはドローン市場シェアの52.5%を占め、最大のセグメントとなりました",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートによると、2025年にはハードウェアが65.7%のシェアを占め、最大のセグメントとなりました",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートによると、2025年には25キログラム未満のカテゴリーが53.8%という最大の市場シェアを占めました",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートによると、2025年にはOEM（Original Equipment Manufacturers）が市場を牽引し、シェアは69.1%に達すると予測されています",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "同レポートによると、2025年には軍事・防衛分野が市場シェアの30.5%を占め、市場を牽引した",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界のドローン市場レポートによると、北米は48.4%のシェアを占め、市場を牽引するセグメントとなりました",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、米国は商業、軍事、レクリエーション分野におけるドローンの広範な活用により、ドローン市場で89.60%のシェアを占めた",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "この状況は米国におけるレクリエーション目的での利用も大幅に増加させており、報告によると、ドローン登録の30％を愛好家が占めています",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、ドローン市場の成長率を見ると、全輸出の70％以上が中国からであり、DJIをはじめとする企業群が世界の主要ドローンメーカーのリストを独占している",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "具体的なユースケースのアンケート結果の上位も「土木・建設（現場状況把握）」（24.6%）、「点検（設備外観）」（20.4%）、「土木・建設（測量）」（18.0%）が占めている",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模、シェア、成長、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律型、完全自律型）、ペイロード容量別（2kg以下、2kg～19kg、20kg～200kg、200kg超）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光発電）、用途別（消費者向け、商業用、軍事・防衛、政府・法執行機関向け、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に36.4%の市場シェアを占め、ドローン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に36.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ドローン市場の規模、シェア、成長、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測ドローン市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用ドローン市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機（UAV）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場：世界の業界動向、シェア、規模、成長、機会、予測（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "中国の民生用ドローン市場は、2025年までに2,000億元（約275億米ドル）を超える見込みで、農業用途が大きな割合を占めています",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "中国が世界のドローン製造を支配していること（DJIをはじめとする中国メーカーが世界のドローン輸出の70%以上を占めている）は、ハードウェア価格を継続的に引き下げながら性能を向上させることで、世界市場の拡大に大きく貢献してきた",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "固定翼機は、回転翼機に比べて優れた飛行時間、長距離カバー能力、高い巡航速度といった特長により、2025年には市場シェアの52.5%を占め、圧倒的なシェアを誇ると予測されている",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアは、2025年には65.7%のシェアを占め、市場を牽引するだろう",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、25キログラム未満のドローンが53.8％という最大の市場シェアを占めると予測されており、これは、空撮、小型荷物の配送、環境モニタリング、インフラ点検、農業用途など、軽量ドローンの幅広い商業的および消費者向け用途を反映している",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "車両メーカーや商用事業者が、ドローン用特殊部品や統合システムの品質保証、技術的な互換性、カスタマイズ、そして安定した供給をOEMチャネルに依存しているため、OEM（相手先ブランドによる製品製造）は2025年に69.1%のシェアで市場をリードするだろう",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛分野は、世界的な防衛近代化計画、巨額の政府調達予算、そして偵察、監視、国境警備、多領域戦術作戦においてドローンが提供する重要な運用価値を背景に、2025年には市場シェアの30.5%を占め、市場を牽引する存在となるだろう",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に48.4%の市場シェアを獲得し、市場をリードする見込みである",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "依然として中国の「DJI」が圧倒的なコストパフォーマンスと技術力で民間市場の70%近いシェアを維持していますが、米国（トランプ政権下）および日本（経済安全保障推進法）における公的機関・重要インフラ分野では、",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローンメーカーの市場シェアと勢力図（2026年最新）",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "シェア約70％",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "DJIが世界シェア約70％という圧倒的地位",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンメーカー21選！日本製やおすすめ機種、シェアとランキングも",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的シェアと知名度！DJIがドローンメーカーランキング1位",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月公表）とはなりますが、そのマーケットシェアはなんと76.1％",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "2位のIntel（現在ではドローン関連ビジネスを積極的に展開していない模様）のシェアは4.1％ですので、",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "2位以下を大きく引き離しての断トツ首位",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "2021年）においてさえ、DJIのシェアは54％と過半数を占めているとの結果となりました",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア3位の中国メーカー・Yuneecは、有人小型飛行機メーカーとしてスタートした企業で、現在はドローンについては空撮用に特化したメーカーです",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア4位にランクインするフランスのドローンメーカー・Parrotは、欧州最大手、1994年設立の老舗ドローンメーカーです",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア6位のAutel Roboticsは、世界最小クラスの折りたたみ式ドローンでありながら6K動画撮影が可能な「EVO II」シリーズが特に空撮用途向けとして注目を集めている米国メーカーです",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットシェア2位のIntelは、米国の超大手半導体メーカーです",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "世界の民生用ドローン市場における、シェア率のトップ3は以下の通りです",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ3といえどDJIのシェア率は70％台とほぼ独占状態にあり、シェア率4％台で2位となっているIntelと大きく差が開いています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "SONYは2021～2022年の国内電機業界において売上高・シェア率2位を獲得しており、日本の代表的な企業という認識が広く浸透しています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Yuneecは世界のドローン市場においてシェア率3位を達成した、空撮用ドローン特化のメーカーです",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でYuneec製ドローンやその名を目にする機会は多くありませんが、世界で3位のシェア率を誇るメーカーなだけに、海外では中国・アメリカを中心にDJIに引けを取らない知名度を得ています",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場シェア（用途別）、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃・戦闘用途は2025年の市場収益の28.0%を占め、2035年には237億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "本レポートは、ドローン市場の競争環境に関する包括的な分析を提供しており、以下の主要企業を含むすべての主要企業の詳細なプロファイルが掲載されています：",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のドローン市場における主要プレイヤー/企業は？",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のドローン市場における主要企業には、Delair、Draganfly Innovations Inc.、Parrot Drones SAS、Skydio, Inc、SZ DJI Technology Co., Ltd.、Terra Drone Corp.、The Boeing Company、Yuneecなどが挙げられる",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のドローン業界で事業を展開する主要企業：",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事用ドローン市場の主要企業には、IAI、Northrop Grumman、Thales Group、Elbit Systems、General Atomicsなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "・ドローン業界の主要企業や市場の将来性を知りたい方",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "関連サービスを提供するテラドローン、海外大手の日本法人DJI JAPAN、大手から参入するヤマハ発動機、クボタなど、参入企業は増加中",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Players in the Commercial Drone Market",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size, Key Companies, Technology Trends, Applications, Regional Analysis, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the commercial drone market?",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the commercial drone market are Yuneec Holding Ltd, Skydio, Inc., Parrot Group, Intel Corporation, Teal Drones, Ehang Holdings Limited, AeroVironment Inc., 3D Robotics, Inc.",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "This unique database highlights the world of electric aviation and the key players in the industry. It features over 300 companies that are working on solving the issue of sustainable aviation fuels in order to provide a more sustainable and ecologically friendly future for the industry.",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "“The Counter-Drone Report helped us to better understand the overall competitive landscape and the market dynamics. We value this information tremendously.“",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "“The Drone Delivery Report provides a great overview of the state of the drone delivery and it’s future potential. It’s helped us to understand the key players, technologies and markets for our business. Especially, the software stack section is really interesting! Not many people have defined it this clearly yet.”",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market are SZ DJI Technology Co Ltd and AeroVironment Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "High infrastructure and technology development costs may reduce flexibility against emerging drone startups.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape benchmarking",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the commercial drone market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Aeronavics Ltd.; AeroVironment Inc.; Autel Robotics; SZ DJI Technology Co Ltd; Draganfly Innovations Inc.; Guangzhou EHang Intelligent Technology Co. Ltd; Intel Corporation; Parrot Drones SAS; PrecisionHawk Inc.; YUNEEC International.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "This unique database highlights the world of electric aviation and the key players in the industry. It features over 300 companies that are working on solving the issue of sustainable aviation fuels in order to provide a more sustainable and ecologically friendly future for the industry.",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "“The Counter-Drone Report helped us to better understand the overall competitive landscape and the market dynamics. We value this information tremendously.“",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "“The Drone Delivery Report provides a great overview of the state of the drone delivery and it’s future potential. It’s helped us to understand the key players, technologies and markets for our business. Especially, the software stack section is really interesting! Not many people have defined it this clearly yet.”",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Drone Market is intensely competitive, with several key players driving innovation through strategic initiatives such as acquisitions, new product launches, and mergers.",
+    "url": "https://market.us/report/drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Drone Market",
+    "url": "https://market.us/report/drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "due to the presence of major players like DJI Technology Co., Ltd in the market, which allows the company to benefit from economies of scale, enabling it to offer drones at lower prices than its competitors in this price-sensitive market.",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the commercial drone market",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following: Service portfolio, geographical reach, regional presence, and strategic alliances.",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the market?",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "DJI Technology Co., Ltd, Yuneec International, Parrot Drone SAS, Skydio Inc., AeroVironment, Inc., Draganfly Innovations Inc., AgEagle Aerial Systems Inc., JOUAV Automation Tech Co., Ltd, Teal Drones, Inc., and EHang Holdings Limited are the key players in the market based on their dominance.",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Increased Investment in Drone Startups",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the US Commercial Drones Market include",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the US Smart Commercial Drone Market?",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include DJI, Parrot, Skydio, AeroVironment, Insitu, senseFly, 3D Robotics, Zipline, and Wing.",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Commercial Drones Market?",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/commercial-drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://market.us/report/commercial-drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": ": DJI Technology Co. Ltd, Parrot SA, AeroVironment Inc, PrecisionHawk, Yuneec International, and others are key players in the commercial drone market.",
+    "url": "https://market.us/report/commercial-drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial drone market is extremely competitive and consists of several key players that contribute to the development, manufacturing, and distribution of commercial drone systems and solutions. These companies offer a vast variety of drone platforms as well as software and services for various sectors and application.",
+    "url": "https://market.us/report/commercial-drone-market/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "商用 ドローン市場規模 、シェア、成長、予測、2032 年 — 商用 ドローン市場規模 、シェア、成長、予測、2032 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 商用ドローン...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%95%86%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102171",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模 ・シェア・トレンド2034 - IMARC Group — ドローン市場規模 ・シェア・トレンド2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Aerospace and Defense",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】 ドローン ビジネス 市場規模 は2030年度に9544億円へ — 【特集】 ドローン ビジネス 市場規模 は2030年度に9544億円へ ドローンジャーナル https://drone-journal.impress.co.jp > ... > 市場規模/データ",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場規模 、シェア、成長、機会、分析（2034年まで） — ドローン市場規模 、シェア、成長、機会、分析（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 無人システム",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場 、2034年までに791億米ドル 規模 へ拡大 — ドローン市場 、2034年までに791億米ドル 規模 へ拡大 Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場 の成長、 規模 ・トレンド統計、2031年 — ドローン市場 の成長、 規模 ・トレンド統計、2031年 Mordor Intelligence https://www.mordorintelligence.com > drones-market",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "産業用ドローン メーカーの最新比較｜国内外25社の強みと選び方 — 産業用ドローン メーカーの最新比較｜国内外25社の強みと選び方 factory-dx-center.com https://factory-dx-center.com > industrial-drone-manufact...",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン メーカー21選！日本製やおすすめ機種、 シェア と ... — ドローン メーカー21選！日本製やおすすめ機種、 シェア と ... ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "軍用 ドローン市場 規模・予測レポート 2026〜2035年 — 軍用 ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... — 【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... Geekly https://www.geekly.co.jp > column > drone-tech-company",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場 2020～ 2025 年。成否を知る5つのポイント — ドローン市場 2020～ 2025 年。成否を知る5つのポイント DRONE.jp https://drone.jp > news",
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の国内 ドローン ビジネス 市場 規模は 前年比 13％増の ... — 2024年度の国内 ドローン ビジネス 市場 規模は 前年比 13％増の ... インプレス総合研究所 https://research.impress.co.jp > topics > list > drone",
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】 ドローン市場 規模の最新情報-2026年以降の展望は — 【2026年版】 ドローン市場 規模の最新情報-2026年以降の展望は 秋葉原ドローンスクール https://akihabara-ds.com > column > detail",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場 の全体像と成長動向 - トレンド＆データ — ドローン市場 の全体像と成長動向 - トレンド＆データ 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0074",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン市場2025 年度には6500億円規模⁉ | コクヨのMANA-Biz — ドローン市場2025 年度には6500億円規模⁉ | コクヨのMANA-Biz KOKUYO https://www.kokuyo-furniture.co.jp > 2021/02 > 20256500",
+    "url": "https://www.kokuyo-furniture.co.jp/solution/mana-biz/2021/02/20256500.php",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market To Reach $52.06 Billion By 2033 — Commercial Drone Market To Reach $52.06 Billion By 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Companies, Size & Trends 2026 ... — Commercial Drone Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size , Share, Growth & Forecast, 2032 — Commercial Drone Market Size , Share, Growth & Forecast, 2032 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drones Market Analysis, Size , and Forecast 2026 ... — Commercial Drones Market Analysis, Size , and Forecast 2026 ... Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size & Share Report, 2026-2033 — Commercial Drone Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "The connected commercial drone market to reach US$ 37.3 ... — The connected commercial drone market to reach US$ 37.3 ... Berg Insight https://www.berginsight.com > the-co...",
+    "url": "https://www.berginsight.com/the-connected-commercial-drone-market-to-reach-us-373-billion-worldwide-by-2029",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size, Growth and Forecast | 2032 — Commercial Drone Market Size, Growth and Forecast | 2032 Stratview Research https://www.stratviewresearch.com > ...",
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drones Market Analysis, Size, and Forecast 2026 ... — Commercial Drones Market Analysis, Size, and Forecast 2026 ... Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drones Market Size, Share | CAGR of 29.9% — Commercial Drones Market Size, Share | CAGR of 29.9% Market.us https://market.us > report > commerci...",
+    "url": "https://market.us/report/commercial-drone-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size, Share, Growth & Forecast, 2032 — Commercial Drone Market Size, Share, Growth & Forecast, 2032 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Size, Share , Growth & Forecast, 2032 — Commercial Drone Market Size, Share , Growth & Forecast, 2032 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Drone Market Companies , Size & Trends 2026 ... — Commercial Drone Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ポストDJIとも目されており、Intel社が6,000万ドルを出資した企業であることでも知られています",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "「ポストDJI」と期待されている企業でもあり、Intelより6,000万ドルの出資を受けたことで話題になりました",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "pass": 3
+   },
+   {
+    "quote": "NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアの国営石油会社であるサウジアラムコのVC・Wa‘edから、総額18.5億円の資金調達を実施したことを発表しました",
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Investment Database 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial drone market hit a record USD 3.86 billion in investments in 2025. 77% of all investments flowed into dual-use drone companies, signaling a fundamental industry shift driven by geopolitical demand and military repositioning. This database provides high-detail insights on company funding, including:",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "1657 drone investments from 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": "Dual-use Drones Dominate Global Funding: Drone Investments Reached a Record High in 2025.",
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "pass": 3
+   },
+   {
+    "quote": ", asset tracking, and infrastructure maintenance, combined with rising investments in digitalization and Industry 4.0 initiatives, is accelerating market growth. The country’s focus on advanced engineering capabilities and integration of UAVs into industrial workflows is reinforcing Germany’s position as a key growth market.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Investment Database 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial drone market hit a record USD 3.86 billion in investments in 2025. 77% of all investments flowed into dual-use drone companies, signaling a fundamental industry shift driven by geopolitical demand and military repositioning. This database provides high-detail insights on company funding, including:",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "1657 drone investments from 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "Dual-use Drones Dominate Global Funding: Drone Investments Reached a Record High in 2025.",
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "pass": 3
+   },
+   {
+    "quote": "Zipline, a leading drone delivery company, secured $330 million in new funding to accelerate the expansion of its commercial drone delivery services across the United States.",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Skydio, a U.S.-based drone manufacturer, closed a $230 million Series E funding round to expand its domestic manufacturing capabilities and accelerate the deployment of autonomous drones for commercial and government clients.",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Dedrone, a U.S.-based airspace security company, raised $75 million in new funding to accelerate the deployment of its counter-drone solutions for commercial and critical infrastructure clients.",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "Shield AI, a U.S. drone technology company, raised $200 million in Series D funding to expand its autonomous drone solutions for commercial and",
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "pass": 3
+   },
+   {
+    "quote": "The emergence of hybrid vertical take-off and landing (VTOL) platforms, some using hydrogen fuel cell technology, extends mission durations by over 200% compared to battery-only systems, which is critical for heavy-lift cargo drones. Concurrently, the expansion of urban air mobility (UAM) is driving investment in vertiport infrastructure.",
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Drone Investment Database 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "pass": 3
+   },
+   {
+    "quote": "The commercial drone market hit a record USD 3.86 billion in investments in 2025. 77% of all investments flowed into dual-use drone companies, signaling a fundamental industry shift driven by geopolitical demand and military repositioning. This database provides high-detail insights on company funding, including:",
+    "url": "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "pass": 3
+   },
+   {
+    "quote": "1657 drone investments from 2015-2025",
+    "url": "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "pass": 3
+   },
+   {
+    "quote": "Dual-use Drones Dominate Global Funding: Drone Investments Reached a Record High in 2025.",
+    "url": "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "pass": 3
+   },
+   {
+    "quote": "Nearly 300 U.S.-based drone technology companies have raised approximately $2.5 billion in venture capital since 2022,",
+    "url": "https://www.scsp.ai/reports/2025-gaps-analysis/gaps-analysis/commercial-drones/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "9.89",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "（CAGR）9.89%"
+   },
+   {
+    "value": "13.9",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "quote": "2026年度には5501億円（前年度比10.6%増）、2030年度には9544億円に達し、2025年度から2030年度にかけての年間平均成長率（CAGR）は13.9%と、引き続き高い成長率が続くと予測される"
+   },
+   {
+    "value": "14.6",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "quote": "2030年度にかけてのCAGRは、機体市場が14.6%、周辺サービスが同14.1%と、いずれも二桁成長が続く見通しである"
+   },
+   {
+    "value": "14",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "quote": "世界のドローン市場規模は、2025年には427億3000万米ドルと評価され、2026年の487億1000万米ドルから2034年には1389億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%となる見込みです"
+   },
+   {
+    "value": "9.89",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録 | NEWSCAST"
+   },
+   {
+    "value": "12.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見通しである"
+   },
+   {
+    "value": "14.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される"
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "15.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される"
+   },
+   {
+    "value": "8",
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "quote": "市場予測では、2030年に向けて年平均成長率（CAGR）が8%から14%程度の水準を維持し、数兆円規模の市場へと発展を遂げる見通しです"
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "quote": "size is expected to reach USD 52.06 billion by 2033 and is projected to grow at a CAGR of 9.3% from 2026 to 2033, according to a new study conducted by Grand View Research, Inc. The growth is attributed to the rising demand for commercial drones across various verticals, such as media and entertainm"
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "quote": "In terms of product, the hybrid segment is projected to register the highest CAGR of over 12.0% from 2026 to 2033, owing to the advantages associated with these commercial drones."
+   },
+   {
+    "value": "12.1",
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "quote": "The delivery & logistics segment is expected to witness the fastest CAGR of 12.1% from 2026 to 2033 with the increasing adoption of drones for cargo, medicines, and food delivery."
+   },
+   {
+    "value": "35.53",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "quote": "ICT industry specialist Gautam Mahajan estimates the Commercial Drone Market at USD 116.81 billion in 2026, with continued technology adoption expected to take the market to USD 1,755.97 billion by 2035 at a CAGR of 35.53%. Leading Commercial Drone market providers such as DJI, Voliro are expanding "
+   },
+   {
+    "value": "35.63",
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "quote": "The U.S. commercial drone market size was estimated at USD 33.60 billion in 2026 and is expected to be worth around USD 508.45 billion by 2035, at a CAGR of 35.63% from 2026 to 2035."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "52.5",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "2025年、固定翼ドローンはドローン市場シェアの52.5%を占め、最大のセグメントとなりました"
+   },
+   {
+    "value": "65.7",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "同レポートによると、2025年にはハードウェアが65.7%のシェアを占め、最大のセグメントとなりました"
+   },
+   {
+    "value": "53.8",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "本レポートによると、2025年には25キログラム未満のカテゴリーが53.8%という最大の市場シェアを占めました"
+   },
+   {
+    "value": "69.1",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "同レポートによると、2025年にはOEM（Original Equipment Manufacturers）が市場を牽引し、シェアは69.1%に達すると予測されています"
+   },
+   {
+    "value": "30.5",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "同レポートによると、2025年には軍事・防衛分野が市場シェアの30.5%を占め、市場を牽引した"
+   },
+   {
+    "value": "48.4",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "2025年、世界のドローン市場レポートによると、北米は48.4%のシェアを占め、市場を牽引するセグメントとなりました"
+   },
+   {
+    "value": "89.60",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "2025年、米国は商業、軍事、レクリエーション分野におけるドローンの広範な活用により、ドローン市場で89.60%のシェアを占めた"
+   },
+   {
+    "value": "30",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "この状況は米国におけるレクリエーション目的での利用も大幅に増加させており、報告によると、ドローン登録の30％を愛好家が占めています"
+   },
+   {
+    "value": "70",
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "quote": "また、ドローン市場の成長率を見ると、全輸出の70％以上が中国からであり、DJIをはじめとする企業群が世界の主要ドローンメーカーのリストを独占している"
+   },
+   {
+    "value": "24.6",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "quote": "具体的なユースケースのアンケート結果の上位も「土木・建設（現場状況把握）」（24.6%）、「点検（設備外観）」（20.4%）、「土木・建設（測量）」（18.0%）が占めている"
+   },
+   {
+    "value": "20.4",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "quote": "具体的なユースケースのアンケート結果の上位も「土木・建設（現場状況把握）」（24.6%）、「点検（設備外観）」（20.4%）、「土木・建設（測量）」（18.0%）が占めている"
+   },
+   {
+    "value": "18.0",
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "quote": "具体的なユースケースのアンケート結果の上位も「土木・建設（現場状況把握）」（24.6%）、「点検（設備外観）」（20.4%）、「土木・建設（測量）」（18.0%）が占めている"
+   },
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "quote": "北米は2025年に36.4%の市場シェアを占め、ドローン市場を牽引しました"
+   },
+   {
+    "value": "70",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "中国が世界のドローン製造を支配していること（DJIをはじめとする中国メーカーが世界のドローン輸出の70%以上を占めている）は、ハードウェア価格を継続的に引き下げながら性能を向上させることで、世界市場の拡大に大きく貢献してきた"
+   },
+   {
+    "value": "52.5",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "固定翼機は、回転翼機に比べて優れた飛行時間、長距離カバー能力、高い巡航速度といった特長により、2025年には市場シェアの52.5%を占め、圧倒的なシェアを誇ると予測されている"
+   },
+   {
+    "value": "65.7",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "ハードウェアは、2025年には65.7%のシェアを占め、市場を牽引するだろう"
+   },
+   {
+    "value": "53.8",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "2025年には、25キログラム未満のドローンが53.8％という最大の市場シェアを占めると予測されており、これは、空撮、小型荷物の配送、環境モニタリング、インフラ点検、農業用途など、軽量ドローンの幅広い商業的および消費者向け用途を反映している"
+   },
+   {
+    "value": "69.1",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "車両メーカーや商用事業者が、ドローン用特殊部品や統合システムの品質保証、技術的な互換性、カスタマイズ、そして安定した供給をOEMチャネルに依存しているため、OEM（相手先ブランドによる製品製造）は2025年に69.1%のシェアで市場をリードするだろう"
+   },
+   {
+    "value": "30.5",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "軍事・防衛分野は、世界的な防衛近代化計画、巨額の政府調達予算、そして偵察、監視、国境警備、多領域戦術作戦においてドローンが提供する重要な運用価値を背景に、2025年には市場シェアの30.5%を占め、市場を牽引する存在となるだろう"
+   },
+   {
+    "value": "48.4",
+    "url": "https://newscast.jp/smart/news/6318744",
+    "quote": "北米は2025年に48.4%の市場シェアを獲得し、市場をリードする見込みである"
+   },
+   {
+    "value": "70",
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "quote": "依然として中国の「DJI」が圧倒的なコストパフォーマンスと技術力で民間市場の70%近いシェアを維持していますが、米国（トランプ政権下）および日本（経済安全保障推進法）における公的機関・重要インフラ分野では、"
+   },
+   {
+    "value": "76.1",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "quote": "2021年3月公表）とはなりますが、そのマーケットシェアはなんと76.1％"
+   },
+   {
+    "value": "4.1",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "quote": "2位のIntel（現在ではドローン関連ビジネスを積極的に展開していない模様）のシェアは4.1％ですので、"
+   },
+   {
+    "value": "54",
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "quote": "2021年）においてさえ、DJIのシェアは54％と過半数を占めているとの結果となりました"
+   },
+   {
+    "value": "70",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "quote": "トップ3といえどDJIのシェア率は70％台とほぼ独占状態にあり、シェア率4％台で2位となっているIntelと大きく差が開いています"
+   },
+   {
+    "value": "4",
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "quote": "トップ3といえどDJIのシェア率は70％台とほぼ独占状態にあり、シェア率4％台で2位となっているIntelと大きく差が開いています"
+   },
+   {
+    "value": "8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）"
+   },
+   {
+    "value": "22.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される"
+   },
+   {
+    "value": "9.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "17.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される"
+   },
+   {
+    "value": "42.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される"
+   },
+   {
+    "value": "28.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "攻撃・戦闘用途は2025年の市場収益の28.0%を占め、2035年には237億米ドルに達すると予測される"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "quote": "物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%95%86%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102171",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6318744",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-navigator.com/drone-manufacturer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone-school-navi.com/column/model-rent-share/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/2020062415254336597.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.impress.co.jp/topics/list/drone/710",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://akihabara-ds.com/column/detail/40/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kokuyo-furniture.co.jp/solution/mana-biz/2021/02/20256500.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/commercial-drone-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/unmanned-aerial-vehicles-uav-market-662.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.berginsight.com/the-connected-commercial-drone-market-to-reach-us-373-billion-worldwide-by-2029/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/drone-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uavcoach.com/dji-commercial-market-drop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/commercial-drone-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/357090459_The_global_drone_market_main_development_trends",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scsp.ai/reports/2025-gaps-analysis/gaps-analysis/commercial-drones/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/us-commercial-drone-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/drones/comments/1n36z53/what_are_the_most_relevant_commercial_drones_in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-commercial-drone-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "産業用ドローン 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E5%95%86%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102171",
+    "https://www.imarcgroup.com/report/ja/drones-market",
+    "https://drone-journal.impress.co.jp/docs/special/1188507.html",
+    "https://straitsresearch.com/jp/report/drone-market",
+    "https://newscast.jp/smart/news/6318744",
+    "https://www.mordorintelligence.com/ja/industry-reports/drones-market",
+    "https://jp.linkedin.com/pulse/%E9%9B%BB%E5%8B%95%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%BA%88%E6%B8%AC2026-2033%E5%B9%B4cagr-6%E9%96%8B%E7%99%BA%E8%B2%A9%E5%A3%B2%E5%8F%8E%E7%9B%8A%E7%94%A8%E9%80%94%E3%81%8A%E3%82%88%E3%81%B3%E7%94%9F%E7%94%A3%E3%82%B3%E3%82%B9%E3%83%88%E5%88%86%E6%9E%90-aaixf",
+    "https://www.researchnester.jp/industry-analysis/inspection-drones-market/107",
+    "https://www.atpress.ne.jp/news/6318744",
+    "https://www.gminsights.com/ja/industry-analysis/industrial-drones-market"
+   ]
+  },
+  {
+   "query": "産業用ドローン 市場 シェア 上位 企業",
+   "results": [
+    "https://factory-dx-center.com/industrial-drone-manufacturers/",
+    "https://drone-navigator.com/drone-manufacturer",
+    "https://drone-school-navi.com/column/model-rent-share/",
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://jp.linkedin.com/pulse/%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E4%BC%81%E6%A5%AD%E3%81%A8%E3%82%B7%E3%82%A7%E3%82%A2-kettle-kinetics-wruie",
+    "https://www.geekly.co.jp/column/cat-technology/drone-tech-company/",
+    "https://mazex.jp/blog/dronemaker.html",
+    "https://terra-drone.net/19356",
+    "https://specnews.jp/posts/wBNb_fvC",
+    "https://skylinkjapan.com/blog/industrial-drone-manufacturers-2026/"
+   ]
+  },
+  {
+   "query": "産業用ドローン 市場 前年比 2025",
+   "results": [
+    "https://drone.jp/news/2020062415254336597.html",
+    "https://research.impress.co.jp/topics/list/drone/710",
+    "https://akihabara-ds.com/column/detail/40/",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html",
+    "https://www.kokuyo-furniture.co.jp/solution/mana-biz/2021/02/20256500.php",
+    "https://www.gminsights.com/ja/industry-analysis/military-drone-market",
+    "https://www.futaba.co.jp/product/industrial_servo/new/3207",
+    "https://d-aerial.com/blog/post-yca4cd05off2yi",
+    "https://newscast.jp/smart/news/5262280",
+    "https://drone-journal.impress.co.jp/docs/special/1188507.html"
+   ]
+  },
+  {
+   "query": "commercial drone market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/press-release/commercial-drone-market",
+    "https://www.precedenceresearch.com/commercial-drone-market",
+    "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "https://www.marketsandmarkets.com/Market-Reports/unmanned-aerial-vehicles-uav-market-662.html",
+    "https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp",
+    "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "https://www.marketresearchfuture.com/reports/smart-commercial-drone-market-7988",
+    "https://www.unmannedairspace.info/uncategorized/drone-market-to-grow-by-usd28-5b-with-cagr-of-36-7-by-2025-new-technavio-report/",
+    "https://market.us/report/drone-market/"
+   ]
+  },
+  {
+   "query": "commercial drone market share top players percent",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "https://www.precedenceresearch.com/commercial-drone-market",
+    "https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61",
+    "https://www.berginsight.com/the-connected-commercial-drone-market-to-reach-us-373-billion-worldwide-by-2029",
+    "https://market.us/report/drone-market/",
+    "https://uavcoach.com/dji-commercial-market-drop/",
+    "https://www.linkedin.com/pulse/top-7-commercial-drone-market-share-company-falcon-brimnora-zlkdf",
+    "https://www.skyquestt.com/report/us-commercial-drone-market/companies",
+    "https://www.mordorintelligence.com/industry-reports/drones-market",
+    "https://straitsresearch.com/report/drone-market"
+   ]
+  },
+  {
+   "query": "commercial drone market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.stratviewresearch.com/market-reports/Commercial-Drone-Market.html",
+    "https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778",
+    "https://www.technavio.com/report/commercial-drones-market-industry-analysis",
+    "https://www.marketsandmarkets.com/Market-Reports/unmanned-aerial-vehicles-uav-market-662.html",
+    "https://market.us/report/commercial-drone-market/",
+    "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "https://www.precedenceresearch.com/commercial-drone-market",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-professional-consumer-drones-hxcue",
+    "https://www.researchgate.net/publication/357090459_The_global_drone_market_main_development_trends",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "commercial drone market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/commercial-drone-market-102171",
+    "https://droneii.com/?srsltid=AYCX9vI1ocSZpL_AeBrXZzJCPkn7fq8UkNicBbEIXgUG4pLj116HeRDY",
+    "https://market.us/report/drone-market/",
+    "https://www.precedenceresearch.com/commercial-drone-market",
+    "https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market",
+    "https://www.scsp.ai/reports/2025-gaps-analysis/gaps-analysis/commercial-drones/",
+    "https://www.facebook.com/fb-answers/drone-companies-market-share-2025-report/",
+    "https://www.skyquestt.com/report/us-commercial-drone-market/companies",
+    "https://www.reddit.com/r/drones/comments/1n36z53/what_are_the_most_relevant_commercial_drones_in/",
+    "https://www.kenresearch.com/industry-reports/global-commercial-drone-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

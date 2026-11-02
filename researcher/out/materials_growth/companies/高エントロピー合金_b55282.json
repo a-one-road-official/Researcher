@@ -1,0 +1,1971 @@
+{
+ "name": "高エントロピー合金",
+ "en": "high entropy alloy",
+ "aliases": [
+  "HEA",
+  "high-entropy alloys",
+  "ハイエントロピー合金"
+ ],
+ "context": "新合金",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:47:22.952281+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "共晶高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "共晶高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "世界の共晶高エントロピー合金市場規模は、2025年の574万米ドルから2032年には2,561万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.3%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "米国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "中国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第１２章には、共晶高エントロピー合金の世界市場の将来予測が地域別にレビューされており、2027年から2032年までのグローバル市場規模、アメリカ、APAC、ヨーロッパ、中東・アフリカ各国の予測、およびタイプ別とアプリケーション別の予測が収録されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵用高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵用高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素貯蔵高エントロピー合金市場規模は、2025年の2,152万米ドルから2032年には7,686万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）20.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "米国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "中国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界市場は2025年には、上位2社が市場シェアの約10%を占めると予測されています",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地域別および国別の過去の世界市場規模（2021-2026年の年間売上高と収益）、およびアメリカ大陸、APAC、ヨーロッパ、中東・アフリカにおける売上成長に関する履歴データが記載されている",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金市場規模, シェア & 2032 への予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.29 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.98 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.60 Billion",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の高エントロピー合金市場は、急速な工業化、研究開発投資の増加、自動車、エネルギー、エレクトロニクス分野での採用増加により、2025年から2032年の間に14.36%という最も高いCAGRで成長する見込みです",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "合金の種類に基づいて、高エントロピー合金市場は、3D遷移金属高エントロピー合金、耐火金属高エントロピー合金、軽金属高エントロピー合金、アルミニウム含有高エントロピー合金、貴金属高エントロピー合金、希土類元素含有高エントロピー合金などに分類されます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "球面の洞察とコンサルティングによって公表された研究報告によると、グローバル中型のエントロピー合金市場規模は、予測期間2026〜2035年の間に5.36パーセントのCAGRで2025ドル1.82億米ドルにUSD 1.08億から成長するために計画されている.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、世界中規模のエントロピー合金市場規模は、2025 年 USD 1.82 億米ドル 2035 億米ドル 2036 億米ドル、予想期間 2026～2035 年の間に 5.36 % の CAGR から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "中型のエントロピー合金の市場規模は、2025年にUSD 1.08億の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2026と2035の間の5.36パーセントのCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な中型のエントロピー合金の市場規模は2035年までにUSD 1.82億に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "耐火性高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "耐火性高エントロピー合金の世界市場（2026年～2032年）、市場規模（粉末、ロッド、プレート、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐火高エントロピー合金市場規模は、2025年の2,958万米ドルから2032年には1億米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）19.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "米国における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "中国における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金および高融点金属市場 | 市場規模 業界分析 予測 2034年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のハイエントロピー合金および耐火金属市場は、2026年に6,380万米ドル規模となり、予測期間中にCAGR 14.1％で成長し、2034年までに1億8,330万米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,150 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,250 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,350 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,500 換算",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、世界規模の高エントロピー合金粉末市場規模は、2025 万ドルから 2035 年までに 2035 億米ドル 2880.1 万ドルに成長する予定です.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、世界規模の高エントロピー合金粉末市場規模は、2025 万ドルから 2035 年までに 2035 億米ドル 2880.1 万ドルに成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル高エントロピー合金粉末市場規模、粉末タイプ(ガスアトマイゼーションHEAパウダー、プラズマアトマイゼーションHEAパウダー、および機械的合金HEAパウダー)、合金システム(鉄系、コバルト系、ニッケル系高エントロピー合金粉末)、粒子サイズ(ファイン、ミディアム、および粗粒粉末)、アプリケーション(3Dプリンティングおよび添加剤製造、熱スプレーおよび金属粉末、その他20〜20〜20、アジア、およびアジア、アジア、アジア、アジア、アジア、アジア、アジア、アジア、その他",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "高いEntropy の合金の粉の市場のサイズは 2025 の USD 702.8 百万の価値があると推定されました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の15.15%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "世界的な高Entropyの合金の粉の市場のサイズは2035年までにUSD 2880.1,000,000に達すると予想されます",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "ハニードレッシング市場規模, 研究報告 2035",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "当社の中エントロピー合金市場調査によると、市場規模は、2036年末までに20億米ドルを超えると推定されており、2024―2036年の予測期間中に約5％のCAGRが見られます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の中エントロピー市場は 2 番目に大きく、2036 年末までに約 28% のシェアを占めると推定されています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 中エントロピー市場規模は、2024―2036 年の予測期間中に 約5% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域の市場は、2036 年末までに最大の市場シェアを保持すると予測されており、将来的にはさらに多くのビジネス チャンスがもたらされます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野は、2036 年末までに最大の市場規模を獲得すると予想されており、大きな成長の機会が見られます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "ハイエントロピー物質の世界市場規模（2022年）は、米調査会社Business Research社によれば、5,470",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy:MEA）も市場を形成しており、米調査会社Research Nesterによると、MEAの市場規模は10億米ドル",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Size, Forecasts Report 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界の共晶高エントロピー合金市場規模は、2025年の574万米ドルから2032年には2,561万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.3%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "米国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "中国における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における共晶高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水素貯蔵高エントロピー合金市場規模は、2025年の2,152万米ドルから2032年には7,686万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）20.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "米国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "中国における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における水素貯蔵用高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "5.50％のCAGR",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の高エントロピー合金市場は、急速な工業化、研究開発投資の増加、自動車、エネルギー、エレクトロニクス分野での採用増加により、2025年から2032年の間に14.36%という最も高いCAGRで成長する見込みです",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "積層造形分野は、材料の無駄を最小限に抑えた軽量で複雑な形状の部品へのトレンドの高まりを背景に、2025年から2032年にかけて最も高いCAGRを達成すると予想されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "極限環境アプリケーション分野は、従来の合金では厳しい熱、機械、腐食条件下では不十分な宇宙、エネルギー、高温製造環境での需要に支えられ、2025年から2032年にかけて最も高いCAGRで成長すると予測されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の高エントロピー合金市場は、急速な工業化、研究開発投資の増加、そして自動車、エネルギー、エレクトロニクス分野における採用の増加に牽引され、2025年から2032年にかけて14.36%という最も高いCAGRで成長すると見込まれています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "球面の洞察とコンサルティングによって公表された研究報告によると、グローバル中型のエントロピー合金市場規模は、予測期間2026〜2035年の間に5.36パーセントのCAGRで2025ドル1.82億米ドルにUSD 1.08億から成長するために計画されている.",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Spherical Insights & Consulting が公表したリサーチレポートによると、世界中規模のエントロピー合金市場規模は、2025 年 USD 1.82 億米ドル 2035 億米ドル 2036 億米ドル、予想期間 2026～2035 年の間に 5.36 % の CAGR から成長する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2026と2035の間の5.36パーセントのCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "世界の耐火高エントロピー合金市場規模は、2025年の2,958万米ドルから2032年には1億米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）19.3%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "米国における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "中国における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "欧州における耐火高エントロピー合金市場は、2025年の百万米ドルから2032年には百万米ドルに増加すると予測されており、2026年から2032年までの年平均成長率（CAGR）は%です",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "Stratistics MRCによると、世界のハイエントロピー合金および耐火金属市場は、2026年に6,380万米ドル規模となり、予測期間中にCAGR 14.1％で成長し、2034年までに1億8,330万米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "国際エネルギー機関（IEA）によると、2023年の世界の電気自動車の販売台数は1,400万台近くに達し、前年比35％の増加となりました",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2026と2035の間の15.15%のCAGRで拡大する予定です",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "添加物の製造業の分野の高エントロピーの合金の粉の使用の拡大は市場に影響を与える重要な傾向の1つです",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "当社の中エントロピー合金市場調査によると、市場規模は、2036年末までに20億米ドルを超えると推定されており、2024―2036年の予測期間中に約5％のCAGRが見られます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 中エントロピー市場規模は、2024―2036 年の予測期間中に 約5% の CAGR に達すると予想されます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "万米ドルとし、2028年までに2億297万米ドルに拡大すると予測14している",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（2023年）、2036年には20億米ドルに拡大15すると予測している",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The high entropy alloy (HEA) market was valued at USD 1.29 billion in 2025, is projected to reach USD 1.38 billion in 2026, is expected to expand at a 7.4% CAGR (2026-2035), and is anticipated to reach USD 2.62 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "HEA semiconductor application revenues to outpace overall market CAGR through 2035 as fab volumes ramp across U.S. and Asian sites",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "AM remains the highest-CAGR HEA manufacturing method; qualification completions and cost reductions sustain above-market trajectory through 2035",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is projected to reach USD 505 million by 2035 and grow at a 5.8% CAGR (2026-2035). Its HEA opportunity is shaped by an established aerospace, industrial machinery, and energy base, but conventional superalloy supply chains and extended substitution cycles moderate the pace of adoption. Defense modernization and advanced energy-material programs provide targeted areas of incremental demand.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America generated USD 52 million, representing 4% of global revenue, in 2025 and is projected to grow at a 6.8% CAGR (2026-2035). Regional demand is emerging from aerospace, energy, and industrial applications rather than a broad local HEA manufacturing base. This favors specialist suppliers able to support project-led procurement and technical evaluation requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 2.62 billion by 2035, growing at a CAGR of 7.4% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 10.4%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 10.4% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in kilotons and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The high-entropy alloys market is expected to grow at a CAGR of 10.4% from 2026 to 2033 to reach USD 2.5 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Middle East & Africa is anticipated to register the fastest CAGR of 12.2% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.50%",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific high entropy alloy market is poised to grow at the fastest CAGR of 14.36% between 2025 and 2032, led by rapid industrialization, rising R&D investments, and increased adoption in automotive, energy, and electronics sectors",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Additive Manufacturing segment is expected to witness the fastest CAGR from 2025 to 2032, fueled by the growing trend toward lightweight, complex-shaped components with minimal material waste. This method also enables rapid prototyping and customization of high entropy alloys, especially in aerospace and biomedical applications.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Extreme Environment Applications segment is projected to grow at the fastest CAGR from 2025 to 2032, backed by demand in space, energy, and high-temperature manufacturing settings where traditional alloys fall short under extreme thermal, mechanical, and corrosive conditions.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global high entropy alloy market is to grow at a CAGR of 5.50% during the forecast period of 2025 to 2032.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.8%",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.8% (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD Million, CAGR (2024 – 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q2: What is the CAGR for the high entropy alloy market during the forecast period?",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "A2: The market is projected to grow at a CAGR of 7.8% between 2024 and 2030.",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Explore the High-Entropy Alloy Market's growth trajectory from 2025 to 2035, with insights on market size, CAGR, key drivers, and regional dominance.",
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The High-Entropy Alloy Market is expected to grow at a compound annual growth rate (CAGR) of 7.30% from 2026 to 2035, indicating robust market expansion.",
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The high entropy alloy market is projected to grow from USD 1.3 billion in 2025 to USD 2.6 billion by 2035, at a CAGR of 7.3%. 3D transition metal HEAs will dominate with a 26.7% market share, while casting & solidification will lead the manufacturing method segment with a 31.2% share.",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Forecast CAGR: 7.3%",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The high entropy alloy market is expected to grow at a 7.3% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "size is valued at USD 1.75 Billion in 2025 and is expected to reach USD 5.19 Billion by 2035 and grow at a CAGR of 11.46% over the forecast period 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Market size is USD 0.42 Billion in 2025 and is expected to reach USD 1.58 Billion by 2035, growing at a CAGR of 10.78% over the forecast period of 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "本レポートでは、共晶高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、急成長する世界の共晶高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業別のグローバル市場データが示されており、各企業の年間売上高、市場シェア、年間収益、販売価格、生産地域分布、製品情報、市場集中度分析（競争環境、CR3, CR5, CR10）、新製品、潜在的な新規参入者、およびM&A活動と戦略が詳述されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第１３章には、Heeger MaterialsからATT Advanced Elemental Materials Co., Ltd.までの主要企業10社の詳細な分析が含まれており、各企業の会社情報、製品ポートフォリオ、仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の動向が個別に記述されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、水素貯蔵用高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、加速する世界の水素貯蔵用高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別の世界市場データ、年間売上高と市場シェア、年間収益と市場シェア、販売価格、主要メーカーの生産地域分布、提供製品、市場集中度分析、新規参入企業、M&A活動と戦略に関する情報が含まれている",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業（Heeger Materials, Alloyed, Oerlikonなど）の詳細な分析が含まれており、各企業の会社情報、製品ポートフォリオと仕様、売上、収益、価格、粗利益（2021-2026年）、主要事業概要、および最新の動向が記載されている",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "世界の高エントロピー合金市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "この調査結果は非常に有益で、新市場参入の判断に役立ちました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、耐火高エントロピー合金のポートフォリオと能力、市場参入戦略、市場における地位、地理的展開に焦点を当て、世界有数の企業の戦略を分析し、加速する世界の耐火高エントロピー合金市場における各社の独自の立ち位置をより深く理解することを目的としています",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産・販売拠点、提供製品、市場集中度分析、新規参入企業、M&A活動および戦略についても分析されている",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "第１３章には、Heeger Materials、Alloyed、Oerlikonなどの主要企業について、企業情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、粗利益、主な事業概要、および最新動向が詳細に分析されている",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業（最大3社）のSWOT分析",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、事業展開地域、戦略的提携に基づく主要企業のベンチマーキング",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル、流通業者、および市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "中エントロピー合金 市場で支配的な主要企業はどれですか?",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy (HEA) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in High Entropy Alloy Market?",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in High Entropy Alloy Market include Sandvik AB, Oerlikon Group, American Elements, Plansee SE, Carpenter Technology.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market include Allegheny Technologies Incorporated, Carpenter Technology Corporation, Haynes International, Inc., and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in global high-entropy alloys market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the high-entropy alloys market are Allegheny Technologies Incorporated (ATI), Aperam S.A., Carpenter Technology Corporation, Haynes International, Inc., Hitachi Metals, Ltd., Oerlikon Management AG, Plansee SE, Sandvik AB, Special Metals Corporation, and VDM Metals Holding GmbH, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are major players in high entropy alloy market?",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies such as Jiangsu Willari New Material Technology Co., Ltd. (China), Beijing Zhongke Yannuo New Material (China), Beijing Yanbang New Material Technology Co., Ltd. (China), and QuesTek Innovations LLC (U.S.), are major players in high entropy alloy market.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Across the value chain, a range of stakeholders is mobilizing. OEMs, metal producers, defense contractors, and AM technology companies are entering the HEA space — either through partnerships or in-house development. Some startups are leveraging machine learning to optimize alloy combinations for specific performance goals, shortening what used to be multi-year discovery cycles.",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "is another key layer. Vacuum arc melting remains the baseline, but powder metallurgy and additive manufacturing are rising quickly. Additive manufacturing, in particular, allows engineers to experiment with novel compositions that would be hard to manufacture through casting or forging. This is creating a parallel ecosystem of AM-ready HEA powders, with startups and OEMs both entering the fray.",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape for high entropy alloys is still forming — but it’s already clear who’s leading the charge. While most of the commercial production remains limited, several material science firms, defense contractors, and advanced manufacturers are quietly building IP, infrastructure, and strategic partnerships to position themselves early.",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to benchmarking, larger players like Carpenter and ATI offer an edge in scale-up and process repeatability. Their ability to meet defense or aerospace procurement standards gives them a head start on industrial adoption. Meanwhile, startups and computational design firms are setting the pace in materials discovery and early-use validation.",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: Who are the major players in the high entropy alloy market?",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players by Revenue and Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Analysis",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape by Market Share",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Strategies Adopted by Key Players",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape & Key Global Player Profiling",
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of High Entropy Alloy Market",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Dollar sales, share, regional demand trends, competitive landscape, alloy performance in key industries, growth in aerospace, defense, automotive, and biomedical sectors, and material cost forecasts.",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "第６章には、アジア太平洋（APAC）地域における共晶高エントロピー合金の国別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、タイプ別、およびアプリケーション別の販売と収益データが収録されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：共晶高エントロピー合金の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第6章には、アジア太平洋地域（APAC）における地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）、製品タイプ別、用途別の売上と収益の履歴データ（2021-2026年）が詳細に分析されている",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：水素貯蔵用高エントロピー合金の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "日本冶金工業株式会社",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドは、強力な政府支援と産学連携の強化を背景に、高エントロピー合金の開発・生産の主要拠点として台頭しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本における高エントロピー合金市場の洞察",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の高エントロピー合金市場は、冶金学、小型化、先端材料工学における深い専門知識を背景に、勢いを増しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の積極的な高齢化対策も、その生体適合性と耐腐食性から、インプラントや手術器具などのバイオメディカル用途における高エントロピー合金の使用を後押ししています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、中国、日本、韓国などの国は材料科学に投資を続けてきました",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドなどの国は、製造能力を強化し、高性能合金の採用を促進することに注力しています",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "日本ヤキン工業株式会社",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日立製作所",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "第６章には、APAC地域における耐火性高エントロピー合金の地域別および国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の販売量と収益データ（2021-2026年）が、タイプ別およびアプリケーション別の分析とともに記載されている",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：耐火性高エントロピー合金の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドでは、先進金属材料に関する研究プログラムや生産能力の強化が進められています",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国、インドの先進的な製造、高性能材料の研究、および成長する添加物の製造業の利益の上昇からのこの地域は寄与します",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋 (日本、中国、インド、インドネシア、マレーシア、オーストラリア、その他のアジア太平洋)",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本の見通し",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本の中エントロピー合金市場は、自動車の生産が増加しています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車生産台数のデータによると、2022年12月時点で約8百万台でした",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本にはホンダ、日産、トヨタといった自動車部品の製造に貢献してきた大手企業がいくつか存在します",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、経済的なサプライチェーンの安全保障を推進するため、蓄電池生産に対する政府支援を最大22億米ドルに増額し、これにはトヨタやその他のメーカーへの追加補助金約10億米ドルが含まれます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本は米国に次いで電池製造支援を拡大することに好意的であります",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2022年3月にEVバッテリーの鉱物に関する合意に達したが、これは日本の自動車メーカーが新たな7,500米ドルのEV税控除を容易に利用できるようにするために重要であります",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本は優れた精密製造能力で知られています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "中エントロピー合金にはいくつかのユニークな特性があり、高性能の可能性があり、成長する日本の製造業と完全に一致します",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "2021年の日本の製造業全体の生産高は約10,000億米ドルで、2020年より15％以上増加しました",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は世界で3番目に大きく、国内最大の産業の1つです",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "JX Nippon Mining & Metals Corporation",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "JX Nippon Mining & Metals Corporationは、Osaka Alloying Works Co., Ltd.への出資比率を52.6%に引き上げ社ると発表",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の公的研究機関・産総研の公式ウェブマガジン",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240207.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Japan Corporate Number 7010005005425）. All rights reserved.",
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240207.html",
+    "pass": 3
+   },
+   {
+    "quote": "[S4] S4 ハイエントロピー合金の材料科学(XIII) | 日本金属学会2026年秋期(第179回)講演大会 | Confit",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属学会2026年秋期(第179回)講演大会",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "pass": 3
+   },
+   {
+    "quote": "日本鉄鋼協会・日本金属学会 第15回女性会員のつどいのご案内",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "pass": 3
+   },
+   {
+    "quote": "日本金属学会事務局",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "pass": 3
+   },
+   {
+    "quote": "©公益社団法人日本金属学会",
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "pass": 3
+   },
+   {
+    "quote": "されており、台湾、日本、中国などアジア勢がR&Dをけん引している",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "台湾をはじめ日本、中国などアジア勢がR&Dをけん引している",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が設立した高熵材料科技股份有限公司の他、日本、中国などアジア勢の他、欧米企業と研究機関が開発・",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハイエントロピー物質の研究では、東北大学と共に日本屈指の実績を持つ",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "したり、日本原子力研究開発機構と連携した耐火ハイエントロピー合金（RHEA）研究を実施している",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日立金属は、2017年にグローバル技術革新センターを設立、先端材料開発の一つにハイエントロピー",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "物質を上げ、積層造形用のハイエントロピー合金粉末HiPEACEを、日立製作所の研究開発グループ",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "電子材料向けタンタル粉末でも世界一の市場を持つJX金属は、TiTa、NbHfTiなどタンタル・ニオブ",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "今後もハイエントロピー物質や日本が主導するハイパーマテリアル18などの研究開発によって、レアメタル",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではハイパーマテリアルと呼び研究を促進",
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals Ltd.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "(e.g., Aperam S.A., Hitachi Metals, Ltd., Oerlikon Management AG, Plansee SE, VDM Metals Holding GmbH)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.; Canada; Mexico; Germany; France; UK.; Italy; China; India; Japan; South Korea; Brazil",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Allegheny Technologies Incorporated (ATI); Aperam S.A.; Carpenter Technology Corporation; Haynes International, Inc.; Hitachi Metals, Ltd.; Oerlikon Management AG; Plansee SE; Sandvik AB; Special Metals Corporation; VDM Metals Holding GmbH",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the high-entropy alloys market are Allegheny Technologies Incorporated (ATI), Aperam S.A., Carpenter Technology Corporation, Haynes International, Inc., Hitachi Metals, Ltd., Oerlikon Management AG, Plansee SE, Sandvik AB, Special Metals Corporation, and VDM Metals Holding GmbH, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan)",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan High Entropy Alloy Market Insight",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "UENO FOOD TECHNO INDUSTRY, LTD. (JAPAN)",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Germany, U.K., China, Japan, South Korea, India, Brazil, UAE",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "収益面では、世界最大の2社が2025年には約100%のシェアを占めると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第２章には、世界市場の全体像が提示されており、共晶高エントロピー合金のグローバル年間売上予測（2021-2032年）、地域別および国別の現状と将来分析、製品タイプ別（粉末、棒、板、その他）およびアプリケーション別（航空宇宙、自動車、医療機器、その他）の販売、収益、市場シェア、販売価格の詳細な分析が収録されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業別のグローバル市場データが示されており、各企業の年間売上高、市場シェア、年間収益、販売価格、生産地域分布、製品情報、市場集中度分析（競争環境、CR3, CR5, CR10）、新製品、潜在的な新規参入者、およびM&A活動と戦略が詳述されている",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界市場は2025年には、上位2社が市場シェアの約10%を占めると予測されています",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "第3章には、企業別の世界市場データ、年間売上高と市場シェア、年間収益と市場シェア、販売価格、主要メーカーの生産地域分布、提供製品、市場集中度分析、新規参入企業、M&A活動と戦略に関する情報が含まれている",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金市場規模, シェア & 2032 への予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の高エントロピー合金市場の規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、主に強力な研究開発投資、強力な産業基盤、航空宇宙、防衛、自動車分野における先進材料の早期導入により、2024年に43.61%という最大の収益シェアで高エントロピー合金市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D遷移金属高エントロピー合金セグメントは、バランスの取れた機械的特性、合成の容易さ、航空宇宙、自動車、電子機器などの複数の業界にわたる幅広い適用性により、2024年に34.6％という最大の収益シェアで市場を支配しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "3D遷移金属高エントロピー合金セグメントは、バランスの取れた機械的特性、合成の容易さ、そして航空宇宙、自動車、エレクトロニクスなど複数の産業における幅広い適用性により、2024年には34.6%という最大の収益シェアで市場を席巻しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造・凝固セグメントは、その広範な産業応用、拡張性、そしてバルク高エントロピー合金部品の製造における費用対効果の高さにより、2024年には38.9%という最大の市場シェアを獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "優れた機械的特性セグメントは、2024年には31.4%と最大の市場収益シェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "優れた強度対重量比と応力下における耐久性を理由に、産業界が高エントロピー合金への依存度を高めていることから、構造用途セグメントは2024年に36.7%の収益シェアで市場を牽引しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙・防衛分野は、高強度と軽量性を両立し、過酷な運用環境下でも性能安定性を備えた材料への切実なニーズにより、2024年には29.8%という最大の市場シェアを獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、北米における高エントロピー合金の売上高シェアは、防衛、宇宙、エネルギー分野における需要の増加に牽引され、米国市場が圧倒的なシェアを占めました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、製造業の活況、航空宇宙産業への野心の拡大、そして政府の支援政策により、2024年にはアジア太平洋地域の高エントロピー合金市場で最大のシェアを獲得しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "サイズ、シェア、合金タイプ(単相合金、多相合金)、アプリケーション別(航空宇宙、自動車、エネルギー、防衛、エレクトロニクス、その他)、ベースエレメント(バナジウム、クロム、アルミニウム、ニッケル、銅、その他)、エンドユーザー産業(製造、研究開発、その他)、地域別(北米、欧州、アジア太平洋、中南米、中東、アフリカ)、分析および予測2026-3520",
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "売上高において、世界最大の2社が2025年には約100%のシェアを占めると予測されています",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "また、タイプ別（粉末、棒、プレートなど）およびアプリケーション別（航空宇宙、3Dプリンティング、生物医学など）の市場セグメントにおける販売量、収益、価格、市場シェアも収録されている",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "第３章には、企業別の耐火性高エントロピー合金の販売量、収益、価格、市場シェア（2021-2026年）に関する詳細なデータが記載されている",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "中エントロピー合金市場調査、規模、シェアと予測 2036年",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "当社の中エントロピー合金市場調査によると、北米の市場シェアは、他のすべての地域の市場の中でも最大となり、2036年末までに約35%のシェアを占めると予測されています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の中エントロピー市場は 2 番目に大きく、2036 年末までに約 28% のシェアを占めると推定されています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "調査によると、耐熱性セグメントは、2036 年には約 60% の最大の市場シェアを獲得すると推定されています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙分野は、2036 年には約 30% という大きなシェアを獲得すると予想されています",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "回答: 北米地域の市場は、2036 年末までに最大の市場シェアを保持すると予測されており、将来的にはさらに多くのビジネス チャンスがもたらされます",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "細井：まだ定義が明確ではないところもありますが、5種類以上の元素が同程度の原子数の割合で含まれ、単体の元素が半分以上を占めない合金のことを「ハイエントロピー合金」と呼んでいます",
+    "url": "https://tanaka-preciousmetals.com/jp/guide/column/article43.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Eutectic HEAs are projected to reach USD 295 million by 2035, following a 12% market share in 2025. Their controlled multi-phase microstructures support a favorable strength-ductility balance for demanding cast and engineered-component applications. This positions the segment for use where conventional alloys require a trade-off between toughness and high-temperature capability.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy (HEA) Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy (HEA) Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The high entropy alloy (HEA) market share landscape remains fragmented, with the top five players collectively holding approximately 26% of the market in 2025. Fragmentation reflects the specialized nature of HEA procurement, where expertise in alloy formulation, powder processing, thin-film supply, or high-temperature component qualification can matter more than broad commodity-scale production.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the High Entropy Alloy Market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Single-phase high-entropy alloys segment led the market with the largest revenue share of 45.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use: Aerospace & defense segment led the market with the largest revenue share of 42.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & defense segment led the market with the largest revenue share of 42.2% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Single-phase high-entropy alloys segment led the market with the largest revenue share of 45.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America market dominated, with a revenue share of 37.8% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D Transition Metal high entropy alloys segment dominated the market with the largest revenue share of 34.6% in 2024, owing to their balanced mechanical properties, ease of synthesis, and wide applicability across multiple industries such as aerospace, automotive, and electronics",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Medical & healthcare, Research & Academia, and Others. The Aerospace & Defense segment held the largest market share of 29.8% in 2024, owing to the urgent need for materials that offer both high strength and lightweight properties, along with performance stability in extreme operational environments. Government investments and space missions further fuel this segment.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D Transition Metal high entropy alloys segment dominated the market with the largest revenue share of 34.6% in 2024, owing to their balanced mechanical properties, ease of synthesis, and wide applicability across multiple industries such as aerospace, automotive, and electronics.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Material Type and Application (2024 vs. 2030)",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global market concentration is moderate, with leading companies leveraging advanced technologies and strategic partnerships to maintain competitive positioning. Tier-1 players dominate through extensive R&D and a broad product portfolio, while regional leaders focus on niche applications and cost advantages.",
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "The high entropy alloy market is projected to grow from USD 1.3 billion in 2025 to USD 2.6 billion by 2035, at a CAGR of 7.3%. 3D transition metal HEAs will dominate with a 26.7% market share, while casting & solidification will lead the manufacturing method segment with a 31.2% share.",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Europe Country Market Share Analysis, 2025 & 2035",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "By Alloy Type: In 2025, Transition Metal HEAs dominated with 45% share; Refractory HEAs are the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "By Manufacturing Method: In 2025, Powder Metallurgy dominated with 40% share; Additive Manufacturing is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "By Application: In 2025, Structural Applications dominated with 50% share; Coatings & Surface Treatments is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "By End-Use Industry: In 2025, Aerospace & Defense dominated with 55% share; Energy & Power is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Asia Pacific High-Entropy Alloy (HEA) Market accounting for the highest regional revenue share of approximately 35% in 2025.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the High-Entropy Alloy (HEA) market in 2025.",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "pass": 3
+   },
+   {
+    "quote": "Among single-phase alloys, FCC (face-centered cubic) structures dominate at 58.8% (3,851 alloys), followed by BCC (body-centered cubic) at 29.2% (1,913 alloys), and HCP (hexagonal close-packe d) representing only 1.7% (114 alloys) (Fig.",
+    "url": "https://www.nature.com/articles/s41597-026-06930-z",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "共晶 高エントロピー合金 の世界 市場 （2026年～2032年 ... — 共晶 高エントロピー合金 の世界 市場 （2026年～2032年 ... アットプレス https://www.atpress.ne.jp > news",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の 市場規模 |業界分析レポート、2035 年 — 高エントロピー合金 の 市場規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "pass": 3
+   },
+   {
+    "quote": "水素貯蔵用 高エントロピー合金 の世界 市場 （2026年～2032年） — 水素貯蔵用 高エントロピー合金 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/7329451",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金市場規模 , シェア & 2032 への予測 — 高エントロピー合金市場規模 , シェア & 2032 への予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の 市場規模 、シェア、2034 年の予測 — 高エントロピー合金 の 市場規模 、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の 市場 規模 |業界分析レポート、2035 年 — 高エントロピー合金 の 市場 規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金市場 規模, シェア & 2032 への 予測 — 高エントロピー合金市場 規模, シェア & 2032 への 予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の 市場 規模、シェア、2034 年の 予測 — 高エントロピー合金 の 市場 規模、シェア、2034 年の 予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "pass": 3
+   },
+   {
+    "quote": "耐火性 高エントロピー合金 の世界 市場 （2026年～2032年） — 耐火性 高エントロピー合金 の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/6202500",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの 高エントロピー合金 および高融点金属 市場 の 予測 — 2034年までの 高エントロピー合金 および高融点金属 市場 の 予測 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の市場規模、シェア、2034 年の予測 — 高エントロピー合金 の市場規模、シェア、2034 年の予測 Fortune Business Insights https://www.fortunebusinessinsights.com > 高エントロピー...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 市場規模, シェア & 2032 への予測 — 高エントロピー合金 市場規模, シェア & 2032 への予測 Data Bridge Market Research https://www.databridgemarketresearch.com > reports > gl...",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "ミニ特集「ハイ エントロピー合金 の研究最前線」 - 日本金属学会 — ミニ特集「ハイ エントロピー合金 の研究最前線」 - 日本金属学会 日本金属学会 PDF https://www.jim.or.jp > journal > pdf3 > all-57-7",
+    "url": "https://www.jim.or.jp/journal/m/pdf3/57/07/all-57-7.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "高エントロピー合金 の市場規模 |業界分析レポート、2035 年 — 高エントロピー合金 の市場規模 |業界分析レポート、2035 年 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Size , Forecasts Report 2026-2035 — High Entropy Alloy Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > high-e...",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High - Entropy Alloys Market Size & Share Report, 2026-2033 — High - Entropy Alloys Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Size & Share | Industry Growth 2032 — High Entropy Alloy Market Size & Share | Industry Growth 2032 Data Bridge Market Research https://www.databridgemarketresearch.com > ...",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "High Entropy Alloy Market Size, Forecasts Report 2026-2035 — High Entropy Alloy Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > high-e...",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "JX Nippon Mining & Metals Corporationは、Osaka Alloying Works Co., Ltd.への出資比率を52.6%に引き上げ社ると発表",
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "pass": 3
+   },
+   {
+    "quote": "CHIPS Act has attracted nearly USD 450 billion in private semiconductor investments in the United States through August 2024",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "RHEA demand tracks hypersonic program funding cycles; procurement volume acceleration anticipated from mid-2027 as programs move from development to low-rate initial production",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "March 2025 - Breakthrough Victoria and Swinburne University of Technology invested in EntroMat.",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific high entropy alloy market is poised to grow at the fastest CAGR of 14.36% between 2025 and 2032, led by rapid industrialization, rising R&D investments, and increased adoption in automotive, energy, and electronics sectors",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": ", Medical & healthcare, Research & Academia, and Others. The Aerospace & Defense segment held the largest market share of 29.8% in 2024, owing to the urgent need for materials that offer both high strength and lightweight properties, along with performance stability in extreme operational environments. Government investments and space missions further fuel this segment.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the high entropy alloy market with the largest revenue share of 43.61% in 2024, primarily driven by robust R&D investments, a strong industrial base, and early adoption of advanced materials in aerospace, defense, and automotive sectors.",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "pass": 3
+   },
+   {
+    "quote": "Last September, Alloy raised a $100 million Series C, also led by Lightspeed, at a $1.35 billion valuation.",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015, Alloy has now raised just over $200 million.",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 Global Startup Funding Posts Strongest Quarter Since Q2 2022 With A Third Going To Massive OpenAI Deal",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "24.3",
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "quote": "世界の共晶高エントロピー合金市場規模は、2025年の574万米ドルから2032年には2,561万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）24.3%で成長すると見込まれています"
+   },
+   {
+    "value": "20.3",
+    "url": "https://newscast.jp/news/7329451",
+    "quote": "世界の水素貯蔵高エントロピー合金市場規模は、2025年の2,152万米ドルから2032年には7,686万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）20.3%で成長すると見込まれています"
+   },
+   {
+    "value": "19.3",
+    "url": "https://newscast.jp/news/6202500",
+    "quote": "世界の耐火高エントロピー合金市場規模は、2025年の2,958万米ドルから2032年には1億米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）19.3%で成長すると見込まれています"
+   },
+   {
+    "value": "14.1",
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "quote": "Stratistics MRCによると、世界のハイエントロピー合金および耐火金属市場は、2026年に6,380万米ドル規模となり、予測期間中にCAGR 14.1％で成長し、2034年までに1億8,330万米ドルに達すると見込まれています"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "quote": "The market is projected to reach USD 2.62 billion by 2035, growing at a CAGR of 7.4% from 2026 to 2035."
+   },
+   {
+    "value": "10.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "quote": "CAGR of 10.4% from 2026 to 2033"
+   },
+   {
+    "value": "12.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "quote": "The Middle East & Africa is anticipated to register the fastest CAGR of 12.2% over the forecast period."
+   },
+   {
+    "value": "5.50",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "quote": "CAGR of 5.50%"
+   },
+   {
+    "value": "14.36",
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "quote": "Asia-Pacific high entropy alloy market is poised to grow at the fastest CAGR of 14.36% between 2025 and 2032, led by rapid industrialization, rising R&D investments, and increased adoption in automotive, energy, and electronics sectors"
+   },
+   {
+    "value": "7.8",
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "quote": "CAGR of 7.8%"
+   },
+   {
+    "value": "7.30",
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "quote": "The High-Entropy Alloy Market is expected to grow at a compound annual growth rate (CAGR) of 7.30% from 2026 to 2035, indicating robust market expansion."
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "quote": "The high entropy alloy market is projected to grow from USD 1.3 billion in 2025 to USD 2.6 billion by 2035, at a CAGR of 7.3%. 3D transition metal HEAs will dominate with a 26.7% market share, while casting & solidification will lead the manufacturing method segment with a 31.2% share."
+   },
+   {
+    "value": "11.46",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "quote": "size is valued at USD 1.75 Billion in 2025 and is expected to reach USD 5.19 Billion by 2035 and grow at a CAGR of 11.46% over the forecast period 2026-2035."
+   },
+   {
+    "value": "10.78",
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "quote": "Market size is USD 0.42 Billion in 2025 and is expected to reach USD 1.58 Billion by 2035, growing at a CAGR of 10.78% over the forecast period of 2026-2035."
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "1.29",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "quote": "USD 1.29 Billion"
+   },
+   {
+    "value": "1.98",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "quote": "USD 1.98 Billion"
+   },
+   {
+    "value": "1.60",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "quote": "USD 1.60 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/9134537",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7329451",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6202500",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aist.go.jp/aist_j/magazine/20240207.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jim.or.jp/journal/m/pdf3/57/07/all-57-7.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tanaka-preciousmetals.com/jp/guide/column/article43.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/high-entropy-alloy-market-110243",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/391326012_High-Entropy_Alloy_Market_Analysis_Size_and_Growth_High-Entropy_Alloy_Market_Set_to_Reach_123_Billion_by_2031_Driven_by_Aerospace_Demand_and_Materials_Engineering_Breakthroughs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/High",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merriam-webster.com/dictionary/high",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41597-026-06930-z",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://glass.rutgers.edu/sites/default/files/uploads/Miracle-HEA-MRS-Bull2025.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "高エントロピー合金 市場規模 年平均成長率",
+   "results": [
+    "https://www.atpress.ne.jp/news/9134537",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "https://newscast.jp/news/7329451",
+    "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "https://www.sphericalinsights.com/jp/blogs/top-20-companies-in-global-medium-entropy-alloys-market-2026-2035-spherical-insights-analysis",
+    "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "https://www.zionmarketresearch.com/ja/report/metal-alloy-market",
+    "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "https://www.sdki.jp/reports/high-performance-alloys-market/61226",
+    "https://www.corvettecentral.com/show/schedule"
+   ]
+  },
+  {
+   "query": "高エントロピー合金 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "https://www.atpress.ne.jp/news/9134537",
+    "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "https://newscast.jp/news/6202500",
+    "https://www.gii.co.jp/report/smrc2144506-high-entropy-alloys-refractory-metals-market.html",
+    "https://www.sphericalinsights.com/jp/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://www.researchnester.jp/industry-analysis/medium-entropy-alloys-market/2798",
+    "https://www.engineering-eye.com/THERMOCALC/case/high-entropy.html",
+    "https://www.goodreads.com/series/79872-joey-pigza"
+   ]
+  },
+  {
+   "query": "高エントロピー合金 参入 企業 国内",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E9%AB%98%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4-116696",
+    "https://www.aist.go.jp/aist_j/magazine/20240207.html",
+    "https://www.databridgemarketresearch.com/jp/reports/global-high-entropy-alloy-market",
+    "https://www.jim.or.jp/journal/m/pdf3/57/07/all-57-7.pdf",
+    "https://www.businessresearchinsights.com/jp/market-reports/high-entropy-alloy-market-110243",
+    "https://tanaka-preciousmetals.com/jp/guide/column/article43.html",
+    "https://pub.confit.atlas.jp/ja/event/jimm2026fall/session/-1Zxk6gg",
+    "https://www.mitsui.com/mgssi/ja/report/detail/__icsFiles/afieldfile/2024/04/16/2024_abe.pdf",
+    "https://www.chemistry.or.jp/journal/ci25p297.pdf",
+    "https://en.wikipedia.org/wiki/Hello,_world"
+   ]
+  },
+  {
+   "query": "high entropy alloy market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "https://www.businessresearchinsights.com/market-reports/high-entropy-alloy-market-110243",
+    "https://www.researchgate.net/publication/391326012_High-Entropy_Alloy_Market_Analysis_Size_and_Growth_High-Entropy_Alloy_Market_Set_to_Reach_123_Billion_by_2031_Driven_by_Aerospace_Demand_and_Materials_Engineering_Breakthroughs",
+    "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "https://www.linkedin.com/pulse/high-entropy-alloy-market-size-outlook-zyrsf",
+    "https://dataintelo.com/report/global-high-entropy-alloy-market",
+    "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "https://growthmarketreports.com/report/high-entropy-alloy-market",
+    "https://en.wikipedia.org/wiki/High"
+   ]
+  },
+  {
+   "query": "high entropy alloy market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/high-entropy-alloy-market",
+    "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "https://www.linkedin.com/pulse/high-entropy-alloy-market-size-outlook-zyrsf",
+    "https://www.strategicmarketresearch.com/market-report/high-entropy-alloy-market",
+    "https://www.researchgate.net/publication/391326012_High-Entropy_Alloy_Market_Analysis_Size_and_Growth_High-Entropy_Alloy_Market_Set_to_Reach_123_Billion_by_2031_Driven_by_Aerospace_Demand_and_Materials_Engineering_Breakthroughs",
+    "https://www.strategicrevenueinsights.com/blogs/high-entropy-alloy-market",
+    "https://www.futuremarketinsights.com/reports/high-entropy-alloy-market",
+    "https://www.databridgemarketresearch.com/reports/global-high-entropy-alloy-market",
+    "https://www.businessresearchinsights.com/market-reports/high-entropy-alloy-market-110243",
+    "https://en.wikipedia.org/wiki/High"
+   ]
+  },
+  {
+   "query": "high entropy alloy startup funding 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/high-entropy-alloys-market-report",
+    "https://www.snsinsider.com/reports/high-entropy-alloy-market-9670",
+    "https://www.nature.com/articles/s41597-026-06930-z",
+    "https://www.researchgate.net/publication/391326012_High-Entropy_Alloy_Market_Analysis_Size_and_Growth_High-Entropy_Alloy_Market_Set_to_Reach_123_Billion_by_2031_Driven_by_Aerospace_Demand_and_Materials_Engineering_Breakthroughs",
+    "https://glass.rutgers.edu/sites/default/files/uploads/Miracle-HEA-MRS-Bull2025.pdf",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-high-entropy-alloy-powders-market-2026-2035-expert-view-by-spherical-insights",
+    "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "https://www.mdpi.com/2075-4701/16/6/577",
+    "https://www.alloy.com/about/press/alloy-raises-52-million-in-additional-funding-to-accelerate-growth-and-global-expansion",
+    "https://en.wikipedia.org/wiki/High"
+   ]
+  }
+ ],
+ "missing": {}
+}

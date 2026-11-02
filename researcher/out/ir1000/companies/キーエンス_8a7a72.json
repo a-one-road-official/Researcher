@@ -1,0 +1,1787 @@
+{
+ "name": "キーエンス",
+ "aliases": [],
+ "context": "証券コード6861／電気機器／プライム（内国株式）／2026.03期 売上高1,169,289百万円 営業利益率50.9%",
+ "researched_at": "2026-11-02T14:31:26.739870+00:00",
+ "official_url": "https://www.keyence.co.jp/",
+ "identified_by": "search:yahoo_jp:キーエンス",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "約+519億円、営業利益：約+384億円",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する最終的な判断は、利用者ご自身の判断と責任において行っていただきますようお願いいたします",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様向けの見積もり依頼はこちら（非該当商品のみ）",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商品を通じてお客様の課題を解決します",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の時間を大切にします",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちはお客様の時間を大切にし、効率化の推進をトータルコストの低減にお役に立ちます",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の代わりに商品を在庫します",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "万一に備えてお客様が必要以上に在庫を抱える必要はありません",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、国をまたいだ案件でも当社の営業担当同士で情報共有できるので、お客様の海外での装置製作をスムーズにサポートできます",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "発注した商品が到着に何日もかかってしまうなんてことは、海外では珍しいことではないですが、キーエンスではお客様における在庫負担の軽減と、緊急時の迅速な対応を目的とし、海外でも当日出荷体制を整えています",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様向けの見積もり依頼はこちら（非該当商品のみ）",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/alternativeMachineService/",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/alternativeMachineService/",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/products/controls/wireless-system/ws-1000/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様向けの見積もり依頼はこちら（非該当商品のみ）",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスは、当社が保有するお客様の個人情報を保護するため個人情報保護法を含め関係する法令・ガイドラインなどを遵守します",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "過去に名刺交換などをさせて頂いたお客様には、ワンクリックでWeb会員登録が完了するリンクを以下のメールアドレス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "pass": 1
+   },
+   {
+    "quote": "今まで世の中になかった、新しい価値を創造することに挑み、商品を通じてお客様の課題を解決します",
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のものづくりの現場で起きていることを正しく捉え、まだ顕在化していない課題まで見据えながら、商品を通じて大きな付加価値を生み出し続けることが、当社の責務であると考えております",
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "pass": 1
+   },
+   {
+    "quote": "商品を通じてお客様の課題を解決します",
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/about_this.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "当社は会社設立以来、世の中のありようを変えるような付加価値の高い革新的な商品を創造し、世界中のお客様の課題解決に貢献してまいりました",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスグループは、これからもお客様の課題に真摯に向き合い、あらゆる分野の変化を支え、進化を加速させていく存在であり続けます",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様の未来を見据え、その可能性を広げるソリューションを追求し続ける所存でありますので、当社への変わらぬご支援を賜りますようお願い申し上げます",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "商品・顧客・業界・地域のいずれにも依存しない経営も、永続性の観点から経営の安定性を高めるための1要素です",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスが商品企画や投資判断において、あらかじめ予算枠や上限を設けないのは、「会社を永続させる」という経営理念のもと、環境変化や技術革新、顧客課題の変化に対して、その時々で最も合理的な選択を積み重ねることこそが、長期的な付加価値の最大化、ひいては企業価値の最大化につながると考えているためです",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "生産性向上によって創出された利益は、顧客価値の向上をはじめ、社員や社会を含むステークホルダーへ還元されていきます",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりの現場で起きていることを正しく捉え、まだ顕在化していない課題まで見据えながら、顧客の課題解決に真に役立つ商品を開発する事により、当社の商品は自動車・半導体・液晶・電子デバイス・IT機器・情報通信・金属鉄鋼・食品・医薬品・物流など、あらゆる業界で提案できるアプリケーションを持ち、特定の業界や顧客の動向に左右されにくい事業環境を実現しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、グローバル市場で35万社を超えるお客様に当社商品をご採用いただいており、ものづくり現場のみならず幅広い領域で顧客の課題解決に貢献しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスには直販営業、ファブレス、全商品当日出荷といった、独自のビジネスモデルが多数ありますが、それら全ては商品の付加価値を顧客に最大限に享受していただくための手段として存在しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "この背景にあるのが、基礎研究を目的としない、顧客の課題解決に狙いを定めた超高効率なR&D体制です",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスは、その商品が有する付加価値を顧客に最大限に提供する事を目的に、代理店を介さない直販営業体制を世界各国で展開しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "商品特性を熟知したセールスエンジニアが、顧客の現場における最適なアプリケーションまで提案することで、課題解決による商品価値（＝顧客利益）を最大化しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "また、テリトリー制を採用することで、特定顧客への依存を構造的に排除し、幅広い業界・工程の一次情報を安定的に取得しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "これは単なる物流効率の追求ではなく、「顧客が必要な時にすぐ使える」「顧客の生産ラインを止めない」ことを最優先に考えた結果です",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "当日出荷体制により、顧客は在庫を最小限に抑えながら安定操業を実現でき、キーエンス商品が提供する付加価値をさらに大きなものとすることに寄与しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な商品が直販営業によってそのポテンシャルを最大限に発揮、顧客対応で得た一次情報が次の革新的な商品を生み、その商品を再び直販営業が市場に提供する",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる収益 545,300",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 545,300",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 735,399",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 735,399",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "「商品について」「機能の実現性」「価格・お見積もり」など、お気軽にお問い合わせください",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "輸出関連書類の発行サービス",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "修理・校正サービス",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "無料テスト機貸出しサービス",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でのサービス・サポート",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス・サポート",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術情報マガジン配信サービス",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "におすすめの商品",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品ラインナップ",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大型製品をひとりで測定",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "用途に合った商品をご提案",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報トップ",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "商品に関するお問い合わせや技術的なご質問を、",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "「商品以外」のお問い合わせはこちら",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品カテゴリ選択",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "※商品カテゴリをお選びください",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご検討中の商品に関するお問い合わせ",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご使用中の商品に関するお問い合わせ",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "実際に商品を見たい・試したい",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品の使い方・接続方法を知りたい",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用になったAIサービスを、すべて選んでください",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "Web会員専用のサービス",
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品の見積依頼や価格に関するご質問を受け付けております",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品カテゴリ選択",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "※商品カテゴリをお選びください",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望の商品・型式名",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品がお決まりでない場合は、当社で最適な商品を選定いたします",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "まだ商品を決められていません",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用になったAIサービスを、すべて選んでください",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "Web会員専用のサービス",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "海外のお客様向けの見積もり依頼はこちら（非該当商品のみ）",
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "テスト機貸出サービス | キーエンス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "テスト機貸出サービス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "無料で実際の商品をお試しいただけるサービスです",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品カテゴリ選択",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "※商品カテゴリをお選びください",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望の商品・型式名",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "商品がお決まりでない場合は、当社で最適な商品を選定いたします",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "まだ商品を決められていません",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用になったAIサービスを、すべて選んでください",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "Web会員専用のサービス",
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・サポート",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "商品型式の入力",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "お手元の商品がWeb修理受付可能かどうかをご確認ください",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "最大5商品まで同時にチェックが可能です",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "商品情報の入力",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "商品型式を入力しなおす",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "各商品のシリアルナンバーと数量を入力ください",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "型式に※が付いた商品について：インク溶剤を使用する商品を返送いただく際は、インクと溶剤を全て廃液した状態で返送いただけますようお願い申し上げます",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "Web修理受付サービストップに戻る",
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "修理/校正サービス | キーエンス",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "「商品について」「機能の実現性」「価格・お見積もり」など、お気軽にお問い合わせください",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "商品別ユーザーサポート",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "輸出関連書類の発行サービス",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "修理・校正サービス",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "無料テスト機貸出しサービス",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でのサービス・サポート",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス・サポート",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "データロガーの活用方法を紹介する「活用ガイド・お役立ちコラム」に新しい記事を追加",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接・プレス・射出成形・真空炉など、現場ごとの温度・圧力・電流の記録方法を紹介しています",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "基礎知識から事例までご紹介",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名・選解任の方針",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "直販営業による専門的で的確な提案",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスは「メーカー直販」、お客さまと直接つながっています",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でも「直販営業」",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "海外でも代理店を通さないので、模造品が届くといった心配がなく短納期で機器を調達していただけます",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キーエンスの会社、事業、働く環境に関する数字をご紹介します",
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名・選解任の方針",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "企画開発から直販まで、圧倒的な強みを生む独自の仕組みを解説しています",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名・選解任の方針",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "今後も事業拡大に向けた投資機会を積極的に追求するとともに、グローバルでの直販・サポート体制をはじめとしたビジネスモデルを進化させ、資本効率の更なる向上にも継続的に取り組み、社会から支持され続ける企業として企業価値の向上を図ってまいります",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名・選解任の方針",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名・選解任の方針",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスには直販営業、ファブレス、全商品当日出荷といった、独自のビジネスモデルが多数ありますが、それら全ては商品の付加価値を顧客に最大限に享受していただくための手段として存在しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル直販体制によって、もたらされる膨大な一次情報を起点に、顕在化していない潜在ニーズまで掘り下げ、単なるカスタム対応ではない、あらゆる業界で使える汎用商品へと企画を昇華させます",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスは、その商品が有する付加価値を顧客に最大限に提供する事を目的に、代理店を介さない直販営業体制を世界各国で展開しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "この情報が再び商品企画に還元されることで、さらに高付加価値な商品の開発に繋がり、それが直販営業の価値をさらに強化する、という好循環も生み出しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "商品×直販のサイクルが生む、再現性ある優位性",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "革新的な商品が直販営業によってそのポテンシャルを最大限に発揮、顧客対応で得た一次情報が次の革新的な商品を生み、その商品を再び直販営業が市場に提供する",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンス直販体制 6",
+    "url": "https://www.keyence.co.jp/Images/business-model_img_03_2289832.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "ファクトリー・オートメーション総合メーカーとして、全世界40万社以上の企業とお取引しているキーエンスのユニークなビジネスモデルについてご紹介します",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの特徴でもあり、世界初の商品を生み出す原動力となっているビジネスモデルが「グローバルダイレクトセールス」という直販システムです",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "通常のメーカーは企画・開発に特化し、販売は代理店や販社を通して行います",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、代理店や販社を通すことでお客様との距離が遠くなり、生の声が聞こえなくなってしまうというデメリットがありました",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでキーエンスは代理店や販社を通さず、専門知識を持ったキーエンスの営業担当者が生産現場に足を運び、課題やお悩みを直接お聞きし、隠れたニーズを見つけ、お客様の課題に合わせて最適なソリューションをご提案しています",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "この代理店を介さない直販システムこそ、お客様との信頼関係を築き、ユーザーに寄り添った商品開発を実現する最大の特徴です",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "全世界40万社以上の取引先に対して直販体制を整えているキーエンスでは、全世界で当日出荷を実現しています",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんにも紹介しましょう",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "｢子どもに言っても効果なし！｣意外なNGワード10 ｢伝説の家庭教師｣が\"奇跡の言い換え\"も紹介！",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "中古車販売店｢ガリバー｣のIDOMが業績下方修正の\"想定外\" 来期以降の出店ペ…",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "損害保険代理店の契約解除問題が大炎上､金融庁と国交省が連名で損保各社に異例の｢…",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "お金の話をするとパートナーが不機嫌になります",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み | キーエンス",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「急な発注だけど、在庫はあるか？」「今日、商品を発送して欲しい」キーエンスは、そんなお客さまのご要望にも対応いたします",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「商品を欲しい」と思ったときに、すぐにお届けできる在庫と体制を整えています",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の代わりに商品を在庫します",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "「欲しい」と思った時にすぐにお届けできる在庫量と出荷体制を整えています",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "万一に備えてお客様が必要以上に在庫を抱える必要はありません",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "発注した商品が到着に何日もかかってしまうなんてことは、海外では珍しいことではないですが、キーエンスではお客様における在庫負担の軽減と、緊急時の迅速な対応を目的とし、海外でも当日出荷体制を整えています",
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/products/controls/wireless-system/ws-1000/",
+    "pass": 1
+   },
+   {
+    "quote": "必要な時に必要な量だけ、在庫不要でトータルコストを削減",
+    "url": "https://www.keyence.co.jp/products/controls/wireless-system/ws-1000/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み",
+    "url": "https://www.keyence.co.jp/about_this.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "企画開発から直販まで、圧倒的な強みを生む独自の仕組みを解説しています",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強みを見る",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "強固な財務基盤の維持と、枠にとらわれない意思決定は、単に裁量を広げることではなく、永続性と生産性という明確な軸に基づき、最適解を選び続けるための合理的な手法であり、これがキーエンスの高収益と持続的成長を支えています",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み | キーエンス",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの強み・競争優位性",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスの付加価値の源泉、競争優位性の中核は「商品」です",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "単に価格やスペックの競争ではなく「その商品でしか実現できない課題解決」にこだわり、数多くの付加価値の高い商品を開発して、高収益を実現してきました",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "特定のニーズに迎合しない企画思想と、それを形にできる高い技術力が、高収益と長期的な競争力を支えています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "当日出荷体制により、顧客は在庫を最小限に抑えながら安定操業を実現でき、キーエンス商品が提供する付加価値をさらに大きなものとすることに寄与しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "この循環そのものが、容易に模倣されないキーエンスの競争優位の源泉です",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、キーエンス商品でしか実現できない検出・測定・アプリケーションが数多く生まれ、高収益なビジネスモデルを確立しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "売上総利益率 82.8% 83.1% 83.5% 85.0% 86.2% +1.2P +3.4P",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 50.3% 49.8% 53.6% 54.0% 56.9% +2.9P +6.6P",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "｢カリスマ社長は不要｣キーエンス元社長が語る訳 ｢驚異の高収益･高収入｣誇る企業のナゾ初公開 | キャリア・教育 | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "｢カリスマ社長は不要｣キーエンス元社長が語る訳 ｢驚異の高収益･高収入｣誇る企業のナゾ初公開",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "謎のベールに包まれてきた高収益企業「キーエンス」",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "強みの「即納」を実現する仕組みは？",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "【写真を見る】｢カリスマ社長は不要｣キーエンス元社長が語る訳 ｢驚異の高収益･高収入｣誇る企業のナゾ初公開(3枚)",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "謎のベールに包まれてきた高収益企業",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "日本屈指の高収益企業「キーエンス」",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月24日",
+    "url": "https://www.keyence.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算説明会資料",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期(中間期)決算短信〔日本基準〕(連結)",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "1974年に設立以来一貫して、「商品を通じて世の中にない付加価値を生み出し、社会に貢献すること」を存在意義として事業活動に取り組んでいます",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月20日現在",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年6月13日",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年10月29日",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年6月12日",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年11月20日を基準日とし、同日最終の株主名簿に記載または記録された株主の所有する普通株式を、1株に",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 第2四半期",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 連結業績 ＜上期＞",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 連結業績 ＜2Q＞",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 上期 2026年度 上期",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 上期 地域別（前年同期比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 2Q 2026年度 2Q",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 2Q 地域別（前年同期比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 2Q 地域別（構成比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 上期 2025年度 下期 2026年度 上期",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2023年度 2024年度 2025年度 2026年度 参考分割前基準",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年11月20日（金）を基準日として 1：5 の分割を実施",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 735,399 34.9 408,262 50.0 424,348 48.9 298,675 49.4",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期中間期 545,300 5.8 272,179 3.1 285,000 7.3 199,959 5.4",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 1,231.53 －",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期中間期 824.49 －",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期中間期 3,955,137 3,704,958 93.7",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 3,670,655 3,471,472 94.6",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月期 － 275.00 － 275.00 550.00",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 － 325.00",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期（予想） － 65.00 －",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期（予想）の1株当",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 29日",
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 11月 20日(金)を基準日とし、同日最終の株主名簿に記載または記録された株主の所有する",
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 10月 29日",
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年 9月 20日を基準日と",
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年10 月23 日",
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年、次世代リーダーのコミュ力養成を目的とした「",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強みを見る",
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "今後も事業拡大に向けた投資機会を積極的に追求するとともに、グローバルでの直販・サポート体制をはじめとしたビジネスモデルを進化させ、資本効率の更なる向上にも継続的に取り組み、社会から支持され続ける企業として企業価値の向上を図ってまいります",
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルの核となる商品は企画段階から汎用性を重視し、営業もテリトリー制とすることで、構造的に分散された収益基盤を構築しています",
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み | キーエンス",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルと強み",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンスには直販営業、ファブレス、全商品当日出荷といった、独自のビジネスモデルが多数ありますが、それら全ては商品の付加価値を顧客に最大限に享受していただくための手段として存在しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、キーエンス商品でしか実現できない検出・測定・アプリケーションが数多く生まれ、高収益なビジネスモデルを確立しています",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 1
+   },
+   {
+    "quote": "付加価値を支える独自のビジネスモデル",
+    "url": "https://www.keyence.co.jp/Images/business-model_img_01_2289830.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "キーエンスのビジネスモデル｜キーエンスソフトウェア株式会社",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスのビジネスモデル",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスのビジネスモデルについて",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス独自のビジネスモデルとは",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "ファクトリー・オートメーション総合メーカーとして、全世界40万社以上の企業とお取引しているキーエンスのユニークなビジネスモデルについてご紹介します",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンスの特徴でもあり、世界初の商品を生み出す原動力となっているビジネスモデルが「グローバルダイレクトセールス」という直販システムです",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルダイレクトセールスを実現するビジネスモデル",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "は、ドイツBeckhoff Automation GmbH によりライセンスされた特許取得済み技術であり登録商標です",
+    "url": "https://www.keyence.co.jp/about_this.jsp",
+    "pass": 1
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、電子応用機器の製造・販売を中心に事業活動を展開する単一セグメントであるため、記載を省",
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年度 2Q 地域別（構成比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※北中南米、アジア、欧州・その他の構成比は海外に占める構成比",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域別・業種別売上（構成比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外地域別・業種別売上（構成比）",
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル と強み | キーエンス — ビジネスモデル と強み | キーエンス キーエンス https://www.keyence.co.jp > investor > business-model",
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス の ビジネスモデル について — キーエンス の ビジネスモデル について キーエンスソフトウェア株式会社 https://www.keyence-soft.co.jp > group > businessmodel",
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "pass": 3
+   },
+   {
+    "quote": "特徴的な ビジネスモデル | 会社を知る| 新卒採用 - キーエンス — 特徴的な ビジネスモデル | 会社を知る| 新卒採用 - キーエンス keyence-jobs.jp https://www.keyence-jobs.jp > about > business",
+    "url": "https://www.keyence-jobs.jp/about/business/",
+    "pass": 3
+   },
+   {
+    "quote": "【第1回】 キーエンス の ビジネスモデル と競争優位の源泉 ... — 【第1回】 キーエンス の ビジネスモデル と競争優位の源泉 ... abitus.co.jp https://www.abitus.co.jp > アビタスコラム/MBA",
+    "url": "https://www.abitus.co.jp/column_voice/mba/column_voiceM106.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 キーエンス 」を ビジネスモデル キャンバスで紐解いてみた — 「 キーエンス 」を ビジネスモデル キャンバスで紐解いてみた パワー・インタラクティブ https://www.powerweb.co.jp > パワーブログ",
+    "url": "https://www.powerweb.co.jp/knowledge/columnlist/keyence-businessmodelcanvas/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信・ 説明 会 資料 | キーエンス — 決算 短信・ 説明 会 資料 | キーエンス キーエンス https://www.keyence.co.jp > investor > library > results",
+    "url": "https://www.keyence.co.jp/investor/library/results.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆様へ | キーエンス — 株主・投資家の皆様へ | キーエンス キーエンス https://www.keyence.co.jp > investor",
+    "url": "https://www.keyence.co.jp/investor/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ | キーエンス — IRライブラリ | キーエンス キーエンス https://www.keyence.co.jp > investor > library",
+    "url": "https://www.keyence.co.jp/investor/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | キーエンス — IRカレンダー | キーエンス キーエンス https://www.keyence.co.jp > investor > calender",
+    "url": "https://www.keyence.co.jp/investor/calender.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算 短信〔日本基準〕（連結） - KEYENCE — 2026年3月期 決算 短信〔日本基準〕（連結） - KEYENCE キーエンス PDF https://www.keyence.co.jp > pdf > EarningsRelease_...",
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202604_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | キーエンス — 会社情報 | キーエンス キーエンス https://www.keyence.co.jp > company",
+    "url": "https://www.keyence.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "有価証券報告書 - KEYENCE — 有価証券報告書 - KEYENCE キーエンス PDF https://www.keyence.co.jp > pdf > AnnualSecurities...",
+    "url": "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略 | キーエンス — 成長戦略 | キーエンス キーエンス https://www.keyence.co.jp > investor > strategy",
+    "url": "https://www.keyence.co.jp/investor/strategy.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス の営業の仕組み｜再現する3つの実践プロセスを ... — キーエンス の営業の仕組み｜再現する3つの実践プロセスを ... 株式会社GrandCentral https://service.grandcentral.jp > keyence-sales-system",
+    "url": "https://service.grandcentral.jp/column/keyence-sales-system",
+    "pass": 3
+   },
+   {
+    "quote": "｢カリスマ 社長 は不要｣ キーエンス 元 社長 が語る訳 ｢驚異の高 ... — ｢カリスマ 社長 は不要｣ キーエンス 元 社長 が語る訳 ｢驚異の高 ... 東洋経済オンライン https://toyokeizai.net > articles",
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 滝崎武光氏( キーエンス社長 )大企業の悪い ... — 編集長 インタビュー 滝崎武光氏( キーエンス社長 )大企業の悪い ... CiNii https://cir.nii.ac.jp > crid",
+    "url": "https://cir.nii.ac.jp/crid/1520290882041589120",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | 社員を知る| 新卒採用 | 株式会社 キーエンス — 社員 インタビュー | 社員を知る| 新卒採用 | 株式会社 キーエンス keyence-jobs.jp https://www.keyence-jobs.jp > people > interview",
+    "url": "https://www.keyence-jobs.jp/people/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "キーエンス の歴代 社長 - The社史 — キーエンス の歴代 社長 - The社史 The社史 https://the-shashi.com > キーエンスの歴史",
+    "url": "https://the-shashi.com/tse/6861/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "「株式会社 キーエンス 、営業利益率50％超えの秘密（ケース ... — 「株式会社 キーエンス 、営業利益率50％超えの秘密（ケース ... システムブレーン https://www.sbrain.co.jp > theme",
+    "url": "https://www.sbrain.co.jp/theme/T-76207.htm",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.keyence.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/repair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/support/repair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/support/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/calibration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/alternativeMachineService/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/products/controls/wireless-system/ws-1000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/askKeyence/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/priceInquiry/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/requestFreeTrial/?groupId=&typeId=&seriesId=&modelId=&ad_local=footer_inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/inquiry/repair?ad_local=footer_inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/company/#about-keyence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/about_this.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/iManagement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/president-message.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/investor/business-model/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.keyence.co.jp/pdf/HalfReport_202610_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/FinancialResults_202610_en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/EarningsRelease_202610_ja.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/ConsolidatedFinancialResultsForThe2ndQuarterEndedSeptember_20_2026(JP_GAAP).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261029_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/pdf/PressRelease_20261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keyence.co.jp/Images/business-model_img_01_2289830.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keyence.co.jp/Images/business-model_img_02_2289831.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keyence.co.jp/Images/business-model_img_03_2289832.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keyence.co.jp/Images/business-model_img_04_2289833.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keyence.co.jp/Images/business-model_img_05_2289834.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/724304?display=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1520290882041589120",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キーエンス",
+   "results": [
+    "https://www.keyence.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B9",
+    "https://www.keyence.com/",
+    "https://www.keyence-jobs.jp/",
+    "https://ja.wikipedia.org/wiki/キーエンス",
+    "https://en.wikipedia.org/wiki/Keyence",
+    "https://www.keyence.co.jp/company/",
+    "https://www.keyence-engineering.co.jp/group/products/",
+    "https://www.keyence.com/global.jsp",
+    "https://www.keyence.com.tw/"
+   ]
+  },
+  {
+   "query": "キーエンス ビジネスモデル",
+   "results": [
+    "https://www.keyence.co.jp/investor/business-model/",
+    "https://www.keyence-soft.co.jp/group/businessmodel/",
+    "https://www.keyence-jobs.jp/about/business/",
+    "https://www.abitus.co.jp/column_voice/mba/column_voiceM106.html",
+    "https://www.powerweb.co.jp/knowledge/columnlist/keyence-businessmodelcanvas/",
+    "https://www.keyence-engineering.co.jp/group/businessmodel/",
+    "https://mindmeister.jp/posts/bm-keyence",
+    "https://www.keyence.co.jp/investor/philosophy/",
+    "https://business.nikkei.com/atcl/gen/19/00081/050800812/"
+   ]
+  },
+  {
+   "query": "キーエンス 決算説明資料",
+   "results": [
+    "https://www.keyence.co.jp/investor/library/results.jsp",
+    "https://www.keyence.co.jp/investor/",
+    "https://www.keyence.co.jp/investor/library/",
+    "https://www.keyence.co.jp/investor/calender.jsp",
+    "https://www.keyence.co.jp/pdf/EarningsRelease_202604_ja.pdf",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6861",
+    "https://www.keyence.co.jp/investor/en/library/",
+    "https://edinetdb.jp/company/E01967/presentations/",
+    "https://treelazy.com/stock-jp/6861/conference",
+    "https://www.keyence.co.jp/pdf/FinancialResults_202604_ja.pdf"
+   ]
+  },
+  {
+   "query": "キーエンス 事業系統図",
+   "results": [
+    "https://www.keyence.co.jp/company/",
+    "https://www.keyence.co.jp/pdf/AnnualSecuritiesReport_202506_ja.pdf",
+    "https://www.keyence.co.jp/investor/strategy.jsp",
+    "https://service.grandcentral.jp/column/keyence-sales-system",
+    "https://sellwell.jp/column/marketing/keyence/",
+    "https://www.keyence.co.jp/company/profile.jsp",
+    "https://www.keyence-jobs.jp/about/numbers/",
+    "https://kitaishihon.com/company/6861/business",
+    "https://www.keyence.co.jp/investor/philosophy/",
+    "https://mindmeister.jp/posts/bm-keyence"
+   ]
+  },
+  {
+   "query": "キーエンス 社長 インタビュー",
+   "results": [
+    "https://toyokeizai.net/articles/-/724304?display=b",
+    "https://cir.nii.ac.jp/crid/1520290882041589120",
+    "https://www.keyence-jobs.jp/people/interview/",
+    "https://the-shashi.com/tse/6861/ceo/",
+    "https://www.sbrain.co.jp/theme/T-76207.htm",
+    "https://www.youtube.com/watch?v=AMrBI_PIMNg",
+    "https://jobtalk.jp/companies/2390/answers?question_codes=president",
+    "https://business.nikkei.com/atcl/gen/19/00428/021700008/",
+    "https://www.keyence.co.jp/company/president-message.jsp",
+    "https://business.nikkei.com/atcl/NBD/19/special/01031/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像13件／外部3頁・検索5回）"
+ }
+}

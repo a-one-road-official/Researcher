@@ -1,0 +1,514 @@
+{
+ "name": "Material ConneXion",
+ "aliases": [
+  "マテリアルコネクション"
+ ],
+ "context": "素材ライブラリ会員制（米）",
+ "researched_at": "2026-11-02T14:33:58.665175+00:00",
+ "official_url": "https://www.materialconnexion.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "お金の形": [
+   {
+    "quote": "ADVERTISING",
+    "url": "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer individual memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "We do not offer individual memberships, but individuals may take advantage of our corporate membership option.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer academic memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "現在の人気記事",
+    "url": "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "人気のお買いモノ記事",
+    "url": "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者さんから、ここで紹介したマテリアルが製品の一部に採用されたことを、直接お知らせいただけると嬉しかったですし、ふとしたタイミングで思い出していただき伺うこともありました",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "知財図鑑ではデジタルベースで大量の情報を検索できるのですが、デジタルな情報とフィジカルな素材をうまく接続できると面白くなりそうです",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイトなどで行われる、ビジネス系の展示会に足を運びます",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "展示会場では営業の方のみならず、素材を開発している方も参加しているので、開発の意図や特徴まで細かく、かつわかりやすく教えていただけるんです",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を読んでくださった方で、イベントに参加いただいたり、訪れたことのある方がいらっしゃたら、改めて感謝をお伝えしたいです",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のタグ",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・メディアです",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "あなたの会社の知財や特許情報を紹介し、新たなコラボレーションを生み出しましょう",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Content Type",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "www.materialconnexion.com/search",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to main content",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Content Type",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "EVP, Research",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "VP, Research",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Project Manager, Research & Sourcing",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "International Research Team",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "On-demand material content, created and curated by MCX researchers",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We perform a global search to find the right materials through:",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We share the results of our research – and why it’ll work for you.",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate Ears, a Logitech brand, was in search of materials to bring their new social speaker, the UE...",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Material ConneXion Tokyo、六本木移転オープン 企業リリース — Material ConneXion Tokyo、六本木移転オープン 企業リリース 日刊工業新聞 https://www.nikkan.co.jp > releases > view",
+    "url": "https://www.nikkan.co.jp/releases/view/57891",
+    "pass": 3
+   },
+   {
+    "quote": "7千点の素材ライブラリー「 マテリアルコネクション 」南青山 ... — 7千点の素材ライブラリー「 マテリアルコネクション 」南青山 ... fashionsnap.com https://www.fashionsnap.com > ニュース > ファッション",
+    "url": "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "pass": 3
+   },
+   {
+    "quote": "素材の「探す」と「つくる」を繋げる Material ConneXion ... — 素材の「探す」と「つくる」を繋げる Material ConneXion ... 知財図鑑 https://chizaizukan.com > pickup > interview",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion Tokyo 手に触れてこそ素材は想像力を ... — Material ConneXion Tokyo 手に触れてこそ素材は想像力を ... ameet.jp https://www.ameet.jp > feature",
+    "url": "https://www.ameet.jp/feature/551/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQs - Material ConneXion — FAQs - Material ConneXion Material ConneXion https://insights.materialconnexion.com > ...",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Material ConneXion — About Us - Material ConneXion Material ConneXion https://insights.materialconnexion.com > ...",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion — Material ConneXion Materially https://www.materially.eu > mcx-libra...",
+    "url": "https://www.materially.eu/en/mcx-library-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion – Financials, Industry Trends & Funding Inf… — Discover Material ConneXion's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/material-connexion",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "場所の立ち上げから携わっていた吉川久美子氏と、知財図鑑 代表の出村光世、知財図鑑 編集長の荒井亮の2人が語り合った",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "創業者のジョージ・ベイレリアンはイタリア家具を輸入し、インテリアの生地やカーテンなどを扱うショールームを運営していたのですが、お客さんには玩具やカバンを扱う人たちもマテリアルに興味を持ち来場したそうです",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "NISSHA株式会社にて樹脂成形品に転写する加飾フィルム事業部に所属し、家電や自動車メーカーのデザイン部門に対し、CMF デザインの提案を行う部署を立ち上げる",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "一人の頭の中にある発想を、まだ見ぬ価値へと育てていく",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "未来をバックキャストする知財ハンターのワークショップを通し、イノベーションのきっかけを",
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "pass": 3
+   },
+   {
+    "quote": "How a material substitution transformed a staple hair care product. Ever since the first person wanted to put...",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "誰から払われるか": [
+   {
+    "quote": "Suppliers",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "to schedule your visit. Academic members may use the automated booking form, available",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "We do not offer complimentary visits to non-members.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer individual memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "We do not offer individual memberships, but individuals may take advantage of our corporate membership option.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer academic memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion does not provide material samples. Members may request samples directly from the manufacturer by using the contact information found in the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Access to 10K+ material innovations from 7K+ global manufacturers through our Material Database",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re headquartered in New York, but members can access materials worldwide.",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Suppliers",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion is a membership organization. You must be a member to visit Material Library or use our services. If you are interested in learning more about membership, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "to schedule your visit. Academic members may use the automated booking form, available",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "We do not offer complimentary visits to non-members.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer individual memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion’s membership model is meant to accommodate companies both large and small. We offer companywide corporate memberships for organizations ranging from small start-ups to Fortune 500 corporations.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "We do not offer individual memberships, but individuals may take advantage of our corporate membership option.",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you offer academic memberships?",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Material ConneXion is proud to cater to academic organizations worldwide. To inquire about academic membership options, please fill out the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Material ConneXion does not provide material samples. Members may request samples directly from the manufacturer by using the contact information found in the",
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re headquartered in New York, but members can access materials worldwide.",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Artemide came to MCX looking to create an interactive light structure that allows users to customize the length,...",
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.materialconnexion.com",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/releases/view/57891",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tck/n/n95812964bcbb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/releases/view/57891",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zenkyo.or.jp/chosa/docs/vtool-casestudy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ameet.jp/feature/551/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-leader.jp/interview/promodelstudio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.materialconnexion.com/faqs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.materialconnexion.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Material ConneXion 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.nikkan.co.jp/releases/view/57891",
+    "https://note.com/tck/n/n95812964bcbb",
+    "https://www.fashionsnap.com/article/2013-10-13/material-connexion-tokyo/",
+    "https://www.jreast.co.jp/eco/pdf/pdf_2024/all.pdf",
+    "https://taxconnection.jp/zeirishi/",
+    "https://insights.materialconnexion.com/about-us/tokyo/",
+    "https://insights.materialconnexion.com/account/",
+    "https://www.reddit.com/r/materials/comments/l8281a/anyone_know_the_cost_of_a_material_connexion/",
+    "https://material-connect.com/",
+    "https://www.jstage.jst.go.jp/article/kinoushi/54/0/54_53/_pdf/-char/ja"
+   ]
+  },
+  {
+   "query": "Material ConneXion 売上 従業員 創業",
+   "results": [
+    "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "https://www.nikkan.co.jp/releases/view/57891",
+    "https://www.zenkyo.or.jp/chosa/docs/vtool-casestudy.pdf",
+    "https://batonz.jp/sell_cases/78465",
+    "https://www.meti.go.jp/shingikai/mono_info_service/materials_industry/pdf/002_04_00.pdf",
+    "https://www.resonac.com/sites/default/files/2023-03/pdf-sustainability-report-integratedreport-SDK_AR22J_single.pdf",
+    "https://www.dks-web.co.jp/pdf/ir/management-policy/strategy/smart2030.pdf",
+    "https://www.musashi.co.jp/assets/pdf/80th_year_history.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp215814/outline.html"
+   ]
+  },
+  {
+   "query": "Material ConneXion 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://chizaizukan.com/pickup/interview/6EGcbsOJQWOqfLNsa7pUG",
+    "https://www.ameet.jp/feature/551/",
+    "https://the-leader.jp/interview/promodelstudio/",
+    "https://www.meti.go.jp/policy/servicepolicy/edvationopenlab/interview-01/",
+    "https://www.jma.or.jp/khs/visit/interview/index.html",
+    "https://dentou-chousen.jp/company/1594/",
+    "https://www.jmtc.co.jp/webinar/interview/s-p-painters/",
+    "https://www.shinko-seisen.co.jp/identity/",
+    "https://insights.materialconnexion.com/about-us/",
+    "https://the-leader.jp/"
+   ]
+  },
+  {
+   "query": "Material ConneXion revenue members business model",
+   "results": [
+    "https://insights.materialconnexion.com/faqs/",
+    "https://growjo.com/company/Material",
+    "https://insights.materialconnexion.com/about-us/",
+    "https://www.materially.eu/en/mcx-library-insights/",
+    "https://compworth.com/company/material-connexion",
+    "https://growjo.com/company/Material_ConneXion",
+    "https://www.zoominfo.com/c/material-connexion-llc/75220979",
+    "https://pitchbook.com/profiles/company/86983-48",
+    "https://rocketreach.co/material-connexion-profile_b5c6d498f42e0cfc",
+    "https://pitchbook.com/profiles/company/1389595-69"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

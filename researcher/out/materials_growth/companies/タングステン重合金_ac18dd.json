@@ -1,0 +1,1917 @@
+{
+ "name": "タングステン重合金",
+ "en": "tungsten heavy alloy",
+ "aliases": [
+  "tungsten alloy",
+  "タングステン合金"
+ ],
+ "context": "防衛・放射線遮蔽",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:46:09.856972+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "タングステン市場規模・シェア・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン市場規模は2025年に73.5億米ドルと評価され、2026年には77.5億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界専門家との議論によると、世界のタングステン市場規模は2024年に69.8億米ドルに達し、2025年の基準年に向けて一貫した上昇基調を示した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンカーバイド製品の市場規模は2025年に47.8億米ドルとなり、2035年にはタングステン市場の売上高の66.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン市場規模：製品タイプ別、2025年および2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン加工製品の市場規模は2025年に8億8,256万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.76%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "切削・機械加工工具の市場規模は2025年に22.8億米ドルとなり、2035年にはタングステン市場の売上高の33.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米のタングステン市場は世界売上高の19.4%を占め、2035年には22.2億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国の2025年の市場規模は3億5,314万米ドルで、2035年までに欧州タングステン市場の売上高の20.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "フランスは2025年に欧州タングステン市場の売上高の18.0%を占め、市場規模は2035年までに4億8,627万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、タングステン重金属粉末の世界市場規模、市場動向、セグメント別予測（95%以上、95%、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地理的地域別の世界のタングステン重金属粉末の歴史的レビュー」には、2021年から2026年までの地理的地域別および国/地域別の世界のタングステン重金属粉末市場規模の歴史的データが網羅されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地理的地域別の世界のタングステン重金属粉末の予測レビュー」には、2027年から2032年までの世界のタングステン重金属粉末市場規模の地域別予測が提供されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模、シェア、トレンド分析レポート：製品別（タングステン金属、炭化タングステン、タングステン合金、タングステン粉末）、用途別（自動車、建設、エネルギー、電子機器、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン市場規模は2025年に51億米ドルと評価され、2026年の55億米ドルから2034年には100億3,000万米ドルへと成長し、予測期間（2026～2034年）における年平均成長率（CAGR）は7.8%に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米のタングステン市場は地域別で最大のシェア（35%）を占めました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "この取り組みは、国防備蓄を支援する最大20億ドル規模の契約と相まって、防衛、航空宇宙、その他の産業用途におけるサプライチェーンの強靭性や資材の調達可能性を向上させる可能性があります",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のタングステン市場は、予測期間中に年平均成長率（CAGR）5.5%で拡大し、地域別市場の中で最も高い成長率を示すと予測されています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のタングステン市場は、予測期間中に年平均成長率（CAGR）4.9%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "三菱マテリアル株式会社は2026年9月、ジャパン・ニュー・メタルズ秋田工場におけるタングステンリサイクル設備の増強に約80億円を投資すると発表しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模は、2026年には55億米ドルと評価され、2034年までに100億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は7.8%である",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン・チタン合金ターゲットの世界市場（2026年～2032年）、市場規模（純度3N、純度4N）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン・チタン合金ターゲットの世界市場（2026年～2032年）、市場規模（純度3N、純度4N）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、タングステン・チタン合金ターゲットの世界市場規模、市場動向、セグメント別予測（純度3N、純度4N）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン・チタン合金ターゲット市場規模は、2025年の3億8,100万米ドルから2032年には6億300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.9%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "米国のタングステンチタン合金ターゲット市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "中国のタングステン・チタン合金ターゲット市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のタングステン・チタン合金ターゲット市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地理的地域別の世界のタングステン・チタン合金ターゲット市場の歴史的レビュー」には、2021年から2026年までの地理的地域別および国/地域別の年間販売量と年間収益に基づいた、タングステン・チタン合金ターゲット市場規模の歴史的レビューが提供されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地理的地域別の世界のタングステン・チタン合金ターゲット市場予測レビュー」には、2027年から2032年までの地域別、国別（アメリカ、アジア太平洋、ヨーロッパ、中東・アフリカ）、タイプ別、および用途別の世界のタングステン・チタン合金ターゲット市場規模の年間販売量と年間収益の予測が示されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、タングステン重金属粉末の世界市場規模、市場動向、セグメント別予測（95%以上、95%、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地理的地域別の世界のタングステン重金属粉末の歴史的レビュー」には、2021年から2026年までの地理的地域別および国/地域別の世界のタングステン重金属粉末市場規模の歴史的データが網羅されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第12章「地理的地域別の世界のタングステン重金属粉末の予測レビュー」には、2027年から2032年までの世界のタングステン重金属粉末市場規模の地域別予測が提供されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "銅タングステン合金市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅タングステン合金市場は、2025年に10億1,000万米ドルと評価され、2026年には10億6,000万米ドルに成長し、CAGR6.90％で推移し、2032年までに16億1,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン重金属粉末の世界市場（2026年～2032年）、市場規模（95%以上、95%、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、タングステン重金属粉末の世界市場規模、市場動向、セグメント別予測（95%以上、95%、その他）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地理的地域別の世界のタングステン重金属粉末の歴史的レビュー」には、2021年から2026年までの地理的地域別および国/地域別の世界のタングステン重金属粉末市場規模の歴史的データが網羅されています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は4.86%で、2035年には118.8億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン加工製品の市場規模は2025年に8億8,256万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.76%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン鉱石・精鉱は2025年にタングステン市場の売上高の2.0%を占め、2026〜2035年に年平均成長率（CAGR）-2.11%で縮小すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "摩耗部品・耐摩耗部品は、2025年のタングステン市場売上高の13.0%を占め、2026〜2035年に年平均成長率（CAGR）4.92%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン市場規模は2025年に51億米ドルと評価され、2026年の55億米ドルから2034年には100億3,000万米ドルへと成長し、予測期間（2026～2034年）における年平均成長率（CAGR）は7.8%に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン合金セグメントは、予測期間中に年平均成長率（CAGR）4.7%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー分野は、特殊な電気部品、エネルギー関連機器、高温環境下での用途におけるタングステンの利用に牽引され、予測期間中に年平均成長率（CAGR）5%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国陸軍省は2026年9月14日、国内のタングステン製造強化、加工能力の拡大、および重要原材料の安定供給確保を目的として、Elmet Group（エルメット・グループ）に対し4億5,000万ドルの投資を行うと発表しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のタングステン市場は、予測期間中に年平均成長率（CAGR）5.5%で拡大し、地域別市場の中で最も高い成長率を示すと予測されています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、同施設の年間処理能力は2028年までに約5,000トンから7,000トンへと拡大する見込みです",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のタングステン市場は、予測期間中に年平均成長率（CAGR）4.9%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン・チタン合金ターゲット市場規模は、2025年の3億8,100万米ドルから2032年には6億300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.9%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "米国のタングステンチタン合金ターゲット市場は、2025年のUS$百万から2032年までにUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "中国のタングステン・チタン合金ターゲット市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のタングステン・チタン合金ターゲット市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "銅タングステン合金市場は、2025年に10億1,000万米ドルと評価され、2026年には10億6,000万米ドルに成長し、CAGR6.90％で推移し、2032年までに16億1,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.90%です",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタングステン市場は、2025年までに29億5,000万米ドルに達すると予測されており、2031年までの5.19％のCAGRで前進します",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "5.19% CAGR",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルなタングステン市場は、ReportPrimeが5.19％のCAGRの予測に基づいている一貫した勢いを得て、2025年の295億米ドルから2031年までに399億米ドルに収益を上げています",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "北米は4.80％のCAGRで前進すると予測されており、2025年の約0.65億米ドルから2031年までに約0.92億米ドルに拡大し、0.27億米ドルの絶対的な利益です",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパは4.10％のCAGRを予想しており、2025年の約5億3,000万米ドルから2031年までに0.68億米ドルに移行し、0.1億5,000万米ドルの増分売上を提供しています",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最速の登山の準備が整っており、2025年の11億2,000万米ドルから120億米ドルまでの収益を2031年までに拡大する5.90％のCAGRを登録し、0.48億米ドルを追加します",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "日本はより安定した軌道に乗っており、2025年の0.180億米ドルから0.22億米ドルまでの0.22億米ドルであり、0.0億4000万米ドルの隆起である3.00％のCAGRをチャート化しています",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンCas市場：5.4%の年平均成長率で50億ドルに達する原動力",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "光学PETフィルム市場：2026-2034年のCAGR動向",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "ポリエステルイミドエナメル市場：2034年まで6.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "サトウキビ製容器 2029 市場：2033年まで3.74%のCAGR成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウム箔複合フィルム市場は2033年まで年率4.6%成長",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸原料市場：2034年までに13%のCAGRを達成？",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロアルミナ粉末市場 2024-2034: 7億4,262万ドル、4.3% の CAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "トレーラ式ディスクハロー市場規模は235億ドル、4.8%のCAGR",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場は2023-2028年に19億5,371万米ドル、予測期間中のCAGRは7.11%で成長すると予測されます",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭化タングステンの市場規模は、2022年の167億8,000万米ドルから2030年までに297億米ドルに達し、予測期間（2023年～2030年）にCAGRで7.4%の成長が予測されています",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The tungsten market size was valued at USD 2.0 billion in 2025 and is projected to grow from USD 2.1 billion in 2026 to USD 2.8 billion by 2033, growing at a CAGR of 4.7% from 2026 to 2033. Asia Pacific dominated the market with the largest revenue share of 54.2% in 2025. The strong growth is largely driven by the critical use of tungsten in hard metals and tooling applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 4.7%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 4.7% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million, volume in kilotons, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on form, mill products accounted for largest revenue share of 43.1% in 2025, while tungsten carbide compound registered a CAGR of 4.9% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end use, automotive accounted for largest revenue share of 25.5% in 2025, while electronics registered a CAGR of 5.0% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The tungsten market is expected to grow at a compound annual growth rate of 4.7% from 2026 to 2033 to reach USD 2.8 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 6.2% | USD Billion",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global tungsten heavy alloys revenue in 2025 and is projected to expand at a CAGR of",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global market revenue in 2025, with Brazil, Saudi Arabia, and Israel representing the most notable demand centers; both sub-regions are expected to record accelerating CAGR figures of",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "採掘、APT精製、酸化物製造、超硬合金製品、特殊粉末にまたがる統合体制により、原材料の安定確保と、より付加価値の高い下流用途への参入を実現している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場の主要企業には、Xiamen Tungsten Co., Ltd.、Kennametal Inc.、Jiangxi Tungsten Industry Holding Group Co., Ltd.、Sandvik AB、China Minmetals Corporationが含まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、タングステン重金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なタングステン重金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」には、H.C. Starck Tungsten Powders、Buffalo Tungsten、Kennametal、Elmet Technologies、Atlantic Equipment Engineers、M&I Materials、Avis Metal Industries Ltd、Materion Advanced Materials Group、Oerlikon Metco、6K Additive、Mi-Tech Metals, Inc.、Powdermet Inc.、William Rowland、Innomet Powders、Hunan Outai Rare Metal Co., Ltd.、Shanghai Longjin Metal Materials Co., Ltd.といった主要企業の詳細な情報が記載されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場は、採掘企業、タングステン精鉱生産者、金属加工業者、超硬合金メーカー、特殊材料サプライヤーなどが参入しており、適度に集約された構造となっています",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Xiamen Tungsten Company（厦門鎢業）、China Minmetals Corporation（中国五鉱集団）、H.C. Starck、Guangdong Xianglu Tungsten Company（広東翔鷺鎢業）といった主要企業が、世界のタングステン市場シェアの約45～50%を占めていると推定されます",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場における主要企業はどこですか？",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、タングステン・チタン合金ターゲットのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界のタングステン・チタン合金ターゲット市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産地域分布、販売地域、提供する製品タイプ、市場集中度分析（競争状況、CR3、CR5、CR10集中度）、新製品と潜在的参入企業、市場のM&A活動と戦略についても言及されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要企業分析」には、Plansee SE、Nano Research Elements、ATT、Advanced Engineering Materials、SCI Engineered Materials、ALB Materials Inc、Edgetech Industries (ETI)、Kurt J. Lesker Company、Konfoong Materials International、Fonlink Photoelectric、Changsha Xinkang Advanced Materials、Tarfilm Hi-Tech、Vital Thin Film Materialsといった主要企業の詳細なプロファイルが網羅されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、タングステン重金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なタングステン重金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」には、H.C. Starck Tungsten Powders、Buffalo Tungsten、Kennametal、Elmet Technologies、Atlantic Equipment Engineers、M&I Materials、Avis Metal Industries Ltd、Materion Advanced Materials Group、Oerlikon Metco、6K Additive、Mi-Tech Metals, Inc.、Powdermet Inc.、William Rowland、Innomet Powders、Hunan Outai Rare Metal Co., Ltd.、Shanghai Longjin Metal Materials Co., Ltd.といった主要企業の詳細な情報が記載されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "銅タングステン合金市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、タングステン重金属粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なタングステン重金属粉末市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解するために、それらの戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、新製品や潜在的な新規参入企業、市場のM&A活動と戦略についても触れられています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要プレーヤー分析」には、H.C. Starck Tungsten Powders、Buffalo Tungsten、Kennametal、Elmet Technologies、Atlantic Equipment Engineers、M&I Materials、Avis Metal Industries Ltd、Materion Advanced Materials Group、Oerlikon Metco、6K Additive、Mi-Tech Metals, Inc.、Powdermet Inc.、William Rowland、Innomet Powders、Hunan Outai Rare Metal Co., Ltd.、Shanghai Longjin Metal Materials Co., Ltd.といった主要企業の詳細な情報が記載されています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン産業への参入は、資本集約的であり、技術的に要求が厳しいものです",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "企業が複数の業界で高まる要件を満たすために努力するにつれて、タングステン業界の主要企業間の競争は激化しています",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "この分野の主要企業としては、Xiamen Tungsten Co., Ltd.、Global Tungsten & Powders Corp.、H.C. Starck Tungsten GmbHなどが挙げられ、航空宇宙、防衛、エレクトロニクスといった産業からの厳しい品質要件を満たすため、高度な加工技術に多大な投資を行っています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： 工具および材料科学の主要企業であり、金属加工などで日本市場に先進的な超硬タングステンソリューションを提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "中国五鉱集団有限公司や廈門タングステン株式会社のような主要企業は、需要を満たすために研究開発と生産能力拡大を通じて戦略的に位置付けを行っています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンCas市場にはどのような参入障壁がありますか？",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンCas市場への参入障壁には、加工施設への多大な設備投資と原材料埋蔵量へのアクセスが含まれます",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players in the market include China Minmetals Corporation and Kennametal Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the tungsten market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The key players operating in the tungsten market are China Minmetals Corporation, Cleveland Tungsten, Inc., Almonty Industries Inc., TUNGSTEN WEST, Kennametal Inc., Sandvik AB, Element Six UK Ltd., Buffalo Tungsten Inc., BETEK GMBH & CO. KG, and EQ Resources Limited.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Plansee Group led the competitive landscape as the foremost global supplier of tungsten heavy alloy products",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. Who are the key players in the global tungsten heavy alloys market?",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic collaborations and partnerships among key players are fostering innovation and expanding market reach.",
+    "url": "https://www.strategicrevenueinsights.com/industry/tungsten-and-tungsten-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 15. Competitive Landscape",
+    "url": "https://www.strategicrevenueinsights.com/industry/tungsten-and-tungsten-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global tungsten market is moderately consolidated, with leading companies focusing on expanding production capacity, securing raw material sources, and adopting sustainable recycling technologies to strengthen competitiveness. Prominent players in the global tungsten market include",
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global, Regional and Country-Level Analysis, Segment-Level Analysis, Drivers, Restraints, Opportunities, Challenges; PESTLE Analysis; Porter’s Five Forces Analysis, Competitive Landscape, Analyst Overview of Investment Opportunities",
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "COMPETITIVE LANDSCAPE",
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "6. Who are the major players in the Tungsten Market?",
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Tungsten Heavy Alloys Market Competitive landscape",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the Tungsten Heavy Alloys market?",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include Global Tungsten & Powders Corp, H.C. Starck GmbH, Wolfmet, Plansee SE, Kobe Steel Ltd, Osram Sylvania, Kennametal Inc., Sandvik AB, Tungsten Mining NL, China Minmetals Corporation and others.",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "We begin by identifying the most relevant market participants from a universe of billions of companies. Through a systematic filtering process, we narrow this population to thousands of key players and finalize a focused list of the",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Builds market size from granular data—aggregating revenues of key companies, segment by segment.",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and Five Forces",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "日本は2025年にアジア太平洋地域のタングステン市場の売上高の15.0%を占め、市場規模は2035年までに9億8,686万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "H.C. Starck Tungsten Powders GmbHは、Masan High-Tech MaterialsからH.C. Starckを買収した後、Mitsubishi Materials Corporationのタングステン事業プラットフォームの一翼を担っている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi MaterialsはH.C. Starckの買収を完了し、W-Pro統合プログラムを開始した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials Corporation. \"Tungsten Business Overview.\" mmc.co.jp",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Masan High-Tech Materials. \"Masan High-Tech Materials Group and Mitsubishi Materials Corporation Group Signed Definitive Agreements.\" masanhightechmaterials.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な対象国/地域としては、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾が網羅されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：タングステン重金属粉末の世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月、三菱マテリアル株式会社は、ドイツにおけるH.C. Starck Tungsten社のスクラップ処理能力を年間5,000トンから7,000トンに引き上げる投資計画を発表し、リサイクルタングステンの供給体制強化を図りました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のタングステン市場",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "三菱マテリアル株式会社は2026年9月、ジャパン・ニュー・メタルズ秋田工場におけるタングステンリサイクル設備の増強に約80億円を投資すると発表しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan New Metals Co., Ltd. (Japan)",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Xiamen Tungsten Co., Ltd. (China) · China Minmetals Corporation (China) · Japan New Metals Co., Ltd. (Japan) · Wolfram Company JSC (Russia) · Specialty Metals Resources S.A. (Switzerland)",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場をリードする企業は、厦門タングステン公司、中国五鉱集団公司、日本新金属集団公司、ウルフラム社、スペシャリティ・メタルズ・リソーシズ社などである",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "第6章「アジア太平洋地域市場」には、2021年から2026年までのアジア太平洋地域における国/地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）のタングステン・チタン合金ターゲットの販売量と収益、タイプ別販売量、および用途別販売量が詳細に分析されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：タングステン・チタン合金ターゲットの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な対象国/地域としては、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾が網羅されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：タングステン重金属粉末の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "JX Nippon Mining & Metals Co., Ltd.",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries, Ltd.",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な対象国/地域としては、中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾が網羅されています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：タングステン重金属粉末の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "厦門タングステン||崇義張原タングステン||広東省翔路タングステン||グローバルタングステンとパウダー、中国タングステンとハイテク、JXTC||日本の新金属、江西八盛タングステン、中国モリブデン、甘州海川タングステン||ケナムメタル、A.L.M.T.株式会社、甘州亜泰タングステン、ウォルフラムカンパニー JSC、トレイバッハーインダストリー、H.C.スタルク、テグテック株式会社、ユーロタングステン (ユミコア)、バッファロータングステン",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "、日本、韓国、中国、米国とともに、価値の高いエンドゥ使用クラスターを形成します",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "Global Tungsten＆Powders、China Tungsten and Hightech、JXTC、Japan New Metals",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "JXTC||日本の新金属",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "日本はより安定した軌道に乗っており、2025年の0.180億米ドルから0.22億米ドルまでの0.22億米ドルであり、0.0億4000万米ドルの隆起である3.00％のCAGRをチャート化しています",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "日本の陶器の主要な団結は、3Dプリント部品のウルトラフィンWCパウダーへのエントリを加速します",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "Japan New Metals Co.、Ltd",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場の成長を牽引している主要な市場プレーヤーには、厦門タングステン||崇義張原タングステン||広東省翔路タングステン||グローバルタングステンとパウダー、中国タングステンとハイテク、JXTC||日本の新金属、江西八盛タングステン、中国モリブデン、甘州海川タングステン||ケナムメタル、A.L.M.T.株式会社、甘州亜泰タングステン、ウォルフラムカンパニー JSC、トレイバッハーインダストリー、H.C.スタルク、テグテック株式会社、ユーロタングステン (ユミコア)、バッファロータングステンなどがあります",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンCas市場 by 形態 (粉末, 顆粒, 棒, シート, その他), by 用途 (エレクトロニクス, 航空宇宙, 自動車, 鉱業, その他), by エンドユーザー産業 (電気・電子, 航空宇宙・防衛, 自動車, 産業, その他), by 北米 (米国, カナダ, メキシコ), by 南米 (ブラジル, アルゼンチン, 南米のその他の地域), by 欧州 (英国, ドイツ, フランス, イタリア, スペイン, ロシア, ベネルクス, 北欧諸国, 欧州のその他の地域), by 中東・アフリカ (トルコ, イスラエル, GCC諸国, 北アフリカ, 南アフリカ, 中東・アフリカのその他の地域), by アジア太平洋 (中国, インド, 日本, 韓国, ASEAN, オセアニア, アジア太平洋のその他の地域) Forecast 2026-2034",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "日本の新金属株式会社",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： 日本国内の電子機器および先進材料産業の厳しい要件に応える、高純度金属（タングステンを含む）の専門メーカーです",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： 世界的なエンジニアリンググループであり、高性能超硬工具や材料技術において日本市場にも強い存在感を示しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： 工具および材料科学の主要企業であり、金属加工などで日本市場に先進的な超硬タングステンソリューションを提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： 高性能タングステン材料および先進粉末に特化し、自動車、航空宇宙、医療技術分野向けに日本市場にも革新的なソリューションを提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： タングステンおよびモリブデン粉末製品の世界的なリーダーであり、先進セラミックス市場を含む様々な産業の日本の顧客向けに幅広い材料を提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "： タングステンやモリブデンを含む耐熱金属製品の主要メーカーであり、日本のハイテクアプリケーション向けに製品を提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "中国、インド、日本、韓国などの国々は、自動車生産、家電製品、再生可能エネルギープロジェクトの拡大によって需要が加速し、需要の最前線に立っています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "5.3. 日本",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の詳細分析",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンCas市場は、先進材料分野において世界的に重要な役割を担っており、その成長は日本市場にも色濃く反映されています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場が約50億米ドル（約7,750億円）と評価され、年平均成長率（CAGR）5.4%での成長が予測される中、日本はアジア太平洋地域の主要な牽引役の一つとして挙げられています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場は、高度な技術力を持つ製造業、特に自動車、エレクトロニクス、精密機械分野が堅牢であることに支えられています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "主要な企業としては、日本の新金属株式会社が国内市場で独自の地位を確立しており、電子機器や先進材料産業向けに高純度タングステンを含む特殊金属を提供しています",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "大型製品の紹介＜第35号 高密度タングステン合金『ヘビーアロイ』＜ニッタン技報｜日本タングステン株式会社",
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本タングステンへのお問い合わせはこちら",
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本タングステン株式会社(Nippon Tungsten Co.,Ltd)",
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "pass": 3
+   },
+   {
+    "quote": "英名 tungsten、「重い石」を意味するスウェーデン語に由来し、日本語名の「タングステン」もここから来ています",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン鉱石（灰重石、鉄マンガン重石）の産出は、中国が圧倒的な量を占めており、日本ではほとんど産出されないため、中国からの輸入に頼らざるを得ない状況です",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のタングステン採掘状況",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、岩手県世田米鉱山、清水沢鉱山、堂場鉱山、太子鉱山、女牛鉱山、京都府の鐘打鉱山、山口県の喜和田鉱山、玖珂鉱山、岡山県吉備鉱山などで、タングステン鉱石を産出していましたが、安価な中国産鉱石に押され、現在国内の採掘はほぼ停止しています",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "日本に鉛が輸入されたのは戦国時代のことで、当初は屋根瓦や弾丸、貨幣などに利用されていました",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "中国製、日本にて検品分包",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S., Canada, Mexico, Germany, UK, France, Italy, India, China, Japan, South Korea, Brazil",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": ") and strategic raw material stockpiling programs supported by government initiatives in the U.S., EU, and Japan.",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2.2 Japan",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "15.3.11 Japan New Metals Co., Ltd.",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "EU, US, Japan",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials Corporation",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "タングステン市場規模・シェア・予測レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Xiamen Tungsten Co., Ltd.は、2025年に12.0%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年には合計で47.0%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、中国は世界の鉱山生産に6万7,000トンを供給し、世界の一次生産量の80%超を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステンカーバイド製品の市場規模は2025年に47.8億米ドルとなり、2035年にはタングステン市場の売上高の66.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン合金・鋼材は2025年にタングステン市場の売上高の14.0%を占め、2035年には15.4億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン化学品は2025年にタングステン市場の売上高の7.0%を占め、2035年には8億3,191万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン鉱石・精鉱は2025年にタングステン市場の売上高の2.0%を占め、2026〜2035年に年平均成長率（CAGR）-2.11%で縮小すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "切削・機械加工工具の市場規模は2025年に22.8億米ドルとなり、2035年にはタングステン市場の売上高の33.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉱山・掘削機器は2025年にタングステン市場の売上高の23.0%を占め、2035年には26.1億米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "摩耗部品・耐摩耗部品は、2025年のタングステン市場売上高の13.0%を占め、2026〜2035年に年平均成長率（CAGR）4.92%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気・電子部品の売上高は2025年に10億3,000万米ドルに達し、2035年にはタングステン市場売上高の15.0%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "放射線遮蔽・カウンターウェイトは、2025年のタングステン市場売上高の9.0%を占め、2035年には9億5,075万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、タングステン重金属粉末のタイプ別（95%以上、95%、その他）のセグメント分析、および2021年から2026年までのタイプ別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格に関する詳細が示されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（産業用、軍事用）のセグメント分析、および2021年から2026年までの用途別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格も含まれています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別年間販売量とその市場シェア、年間収益とその市場シェア、販売価格に関する情報が示されています",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "タングステン市場規模、シェア、トレンド分析レポート：製品別（タングステン金属、炭化タングステン、タングステン合金、タングステン粉末）、用途別（自動車、建設、エネルギー、電子機器、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年時点では、北米が市場シェアの35%を占め、同市場を主導しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "製品別セグメントでは、炭化タングステンが2025年に42%のシェアを占め、市場を主導しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、自動車分野が2025年に27%のシェアを占め、市場を主導しました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、北米のタングステン市場は地域別で最大のシェア（35%）を占めました",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、政府が年間生産量の最大50%を調達するための独占交渉権を有することで、戦略的な供給の安全性が向上し、輸入への依存度が低減されると期待されます",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "Xiamen Tungsten Company（厦門鎢業）、China Minmetals Corporation（中国五鉱集団）、H.C. Starck、Guangdong Xianglu Tungsten Company（広東翔鷺鎢業）といった主要企業が、世界のタングステン市場シェアの約45～50%を占めていると推定されます",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のタングステン市場において、最大のシェアを占めた地域はどれですか？",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で35％のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "また、純度3Nと純度4Nのタイプ別に、2021年から2026年までの販売量市場シェア、収益と市場シェア、販売価格に関する詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "第3章「企業別グローバル市場」には、2021年から2026年までの企業別の世界のタングステン・チタン合金ターゲット年間販売量、販売量市場シェア、年間収益、収益市場シェア、および販売価格の詳細な分析が示されています",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "pass": 3
+   },
+   {
+    "quote": "また、タングステン重金属粉末のタイプ別（95%以上、95%、その他）のセグメント分析、および2021年から2026年までのタイプ別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格に関する詳細が示されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（産業用、軍事用）のセグメント分析、および2021年から2026年までの用途別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格も含まれています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別年間販売量とその市場シェア、年間収益とその市場シェア、販売価格に関する情報が示されています",
+    "url": "https://newscast.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析, 2025",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、タングステン重金属粉末のタイプ別（95%以上、95%、その他）のセグメント分析、および2021年から2026年までのタイプ別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格に関する詳細が示されています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、用途別（産業用、軍事用）のセグメント分析、および2021年から2026年までの用途別の世界のタングステン重金属粉末販売市場シェア、収益と市場シェア、販売価格も含まれています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別年間販売量とその市場シェア、年間収益とその市場シェア、販売価格に関する情報が示されています",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "pass": 3
+   },
+   {
+    "quote": "2025シェア",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "2031シェア",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "時代遅れの炭化物ツールの料金処理契約を活用し、リサイクルシェアを40％に増やします",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "- H.C. Starck Tungsten Powders（2023年5月、10億1.20）：リサイクル技術と欧州市場シェアを獲得します",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.1 タイプ別のグローバルタングステン販売市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "2.3.2 タイプ別のグローバルタングステン収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.1 用途別のグローバルタングステン販売市場シェア (2020-2025)",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "2.5.2 用途別のグローバルタングステン収益および市場シェア (2017-2025)",
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "pass": 3
+   },
+   {
+    "quote": "グルタミン酸市場規模、シェアおよび予測（2025-2035年）",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "当社の一次調査手法は、市場分析の礎石を形成し、総調査努力の約75%を占めます",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "二次調査は、当社の全体的な調査手法の約25%を占め、一次調査と市場ベンチマーキングのための包括的な基盤を提供します",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "pass": 3
+   },
+   {
+    "quote": "中国はタングステン鉱石の埋蔵量が極端に多く、世界の全産出量の約8割を占めています",
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "pass": 3
+   },
+   {
+    "quote": "The tungsten market size was valued at USD 2.0 billion in 2025 and is projected to grow from USD 2.1 billion in 2026 to USD 2.8 billion by 2033, growing at a CAGR of 4.7% from 2026 to 2033. Asia Pacific dominated the market with the largest revenue share of 54.2% in 2025. The strong growth is largely driven by the critical use of tungsten in hard metals and tooling applications.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By form: Mill products segment led the market with the largest revenue share of 43.1% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Automotive segment led the market with the largest revenue share of 25.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: China held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Detailed pricing assessment of tungsten products by form, purity, and region, including concentrate prices, ammonium paratungstate pricing, tungsten carbide costs, processing margins, energy expenses, logistics costs, and downstream value addition. Included historical price volatility analysis, supply-demand balance assessment, and long-term pricing outlook through 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on form, mill products accounted for largest revenue share of 43.1% in 2025, while tungsten carbide compound registered a CAGR of 4.9% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Based on end use, automotive accounted for largest revenue share of 25.5% in 2025, while electronics registered a CAGR of 5.0% over the forecast period.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "銅 タングステン合金市場 | 市場 規模 分析 予測 2026-2032年 ... — 銅 タングステン合金市場 | 市場 規模 分析 予測 2026-2032年 ... グローバルインフォメーション https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "pass": 3
+   },
+   {
+    "quote": "第35号 高密度 タングステン合金 『ヘビーアロイ』大型製品の ... — 第35号 高密度 タングステン合金 『ヘビーアロイ』大型製品の ... 日本タングステン株式会社 https://www.nittan.co.jp > tech > gihou > ogataseihin_019",
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "pass": 3
+   },
+   {
+    "quote": "United States Tungsten Alloy Market Analysis Report 2026-2033 — United States Tungsten Alloy Market Analysis Report 2026-2033 LinkedIn https://www.linkedin.com > pulse > u...",
+    "url": "https://www.linkedin.com/pulse/united-states-tungsten-alloy-market-analysis-report-2026-2033-muhte",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "In July 2026, H.C. Starck announced an approximately EUR 50 million investment to expand tungsten recycling capacity at its facility in Goslar, Germany. The project is expected to increase tungsten scrap-processing capacity from approximately 5,000 to 7,000 tonnes per year by 2028, strengthening the company's recycled-tungsten supply capabilities.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "respectively through 2034, underpinned by rising defense modernization investments and nascent industrial manufacturing expansion.",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "through 2034, supported by sustained semiconductor industry investment and EV market expansion across major economies. The broader advanced materials ecosystem, including the Nylon 6 and 66 market, underscores the diverse material science innovation landscape from which WHA applications continue to benefit.",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Wire, with 37.0% share (2025), retains its lead because no substitute matches tungsten's combination of tensile strength and melting point in electrical-discharge machining. Tube growth is the more interesting story — aerospace primes qualifying tungsten-alloy throat inserts for hypersonic programmes have raised order books sharply since 2024",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   },
+   {
+    "quote": "US Department of Defense (September 2023): Allocated Title III funding toward domestic",
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific is expected to be the fastest-growing region, capturing a market share of 38.5%. The China dominates the global Tungsten Heavy Alloys market with a 24.7% share, driven by R&D investment and strong industry infrastructure.",
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "4.86",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は4.86%で、2035年には118.8億米ドルに達すると予測される"
+   },
+   {
+    "value": "5.76",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "quote": "タングステン加工製品の市場規模は2025年に8億8,256万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.76%で拡大すると予測される"
+   },
+   {
+    "value": "2.11",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "quote": "タングステン鉱石・精鉱は2025年にタングステン市場の売上高の2.0%を占め、2026〜2035年に年平均成長率（CAGR）-2.11%で縮小すると予測される"
+   },
+   {
+    "value": "4.92",
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "quote": "摩耗部品・耐摩耗部品は、2025年のタングステン市場売上高の13.0%を占め、2026〜2035年に年平均成長率（CAGR）4.92%で成長すると予測される"
+   },
+   {
+    "value": "6.0",
+    "url": "https://newscast.jp/smart/news/3395748",
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています"
+   },
+   {
+    "value": "7.8",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "quote": "世界のタングステン市場規模は2025年に51億米ドルと評価され、2026年の55億米ドルから2034年には100億3,000万米ドルへと成長し、予測期間（2026～2034年）における年平均成長率（CAGR）は7.8%に達すると予測されています"
+   },
+   {
+    "value": "4.7",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "quote": "タングステン合金セグメントは、予測期間中に年平均成長率（CAGR）4.7%で成長すると見込まれています"
+   },
+   {
+    "value": "5",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "quote": "エネルギー分野は、特殊な電気部品、エネルギー関連機器、高温環境下での用途におけるタングステンの利用に牽引され、予測期間中に年平均成長率（CAGR）5%で成長すると見込まれています"
+   },
+   {
+    "value": "5.5",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "quote": "欧州のタングステン市場は、予測期間中に年平均成長率（CAGR）5.5%で拡大し、地域別市場の中で最も高い成長率を示すと予測されています"
+   },
+   {
+    "value": "4.9",
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "quote": "アジア太平洋地域のタングステン市場は、予測期間中に年平均成長率（CAGR）4.9%で成長すると見込まれています"
+   },
+   {
+    "value": "6.9",
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "quote": "世界のタングステン・チタン合金ターゲット市場規模は、2025年の3億8,100万米ドルから2032年には6億300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.9%で成長すると見込まれています"
+   },
+   {
+    "value": "6.0",
+    "url": "https://newscast.jp/news/3395748",
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています"
+   },
+   {
+    "value": "6.90",
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "quote": "銅タングステン合金市場は、2025年に10億1,000万米ドルと評価され、2026年には10億6,000万米ドルに成長し、CAGR6.90％で推移し、2032年までに16億1,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "6.0",
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "quote": "世界のタングステン重金属粉末市場規模は、2025年の2億4,200万米ドルから2032年には3億6,100万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.0％で成長すると見込まれています"
+   },
+   {
+    "value": "16.9",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "quote": "バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "quote": "土壌活性除草剤市場規模と2034年までのCAGR 5.6%"
+   },
+   {
+    "value": "7.11",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "quote": "タングステン市場は2023-2028年に19億5,371万米ドル、予測期間中のCAGRは7.11%で成長すると予測されます"
+   },
+   {
+    "value": "7.4",
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "quote": "世界の炭化タングステンの市場規模は、2022年の167億8,000万米ドルから2030年までに297億米ドルに達し、予測期間（2023年～2030年）にCAGRで7.4%の成長が予測されています"
+   },
+   {
+    "value": "4.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "quote": "The tungsten market size was valued at USD 2.0 billion in 2025 and is projected to grow from USD 2.1 billion in 2026 to USD 2.8 billion by 2033, growing at a CAGR of 4.7% from 2026 to 2033. Asia Pacific dominated the market with the largest revenue share of 54.2% in 2025. The strong growth is largel"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "quote": "Based on form, mill products accounted for largest revenue share of 43.1% in 2025, while tungsten carbide compound registered a CAGR of 4.9% over the forecast period."
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "quote": "Based on end use, automotive accounted for largest revenue share of 25.5% in 2025, while electronics registered a CAGR of 5.0% over the forecast period."
+   },
+   {
+    "value": "6.2",
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "quote": "CAGR: 6.2% | USD Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/tungsten-heavy-alloys-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newscast.jp/smart/news/3395748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/tungsten-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/8667085",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/3395748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3395748",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.everloy-cemented-carbide.com/column/1413/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/2626/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tohokinzoku.co.jp/business/tungsten-alloy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/tungsten-market-115884",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-high-density-tungsten-alloy-market-strategic-research-report?srsltid=AYCX9vI-z4l5js6dijcZRRoj15LVwCAY3d7AWZ4l1e31WzvFDeLy69Bg",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-high-density-tungsten-alloy-market-strategic-research-report?srsltid=AYCX9vLT42-_gB9uBeMd5iwIIrsAwJnJmnsUfaxqE2MB2fJhdiVZ8N8G",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellarmr.com/report/Tungsten-Market/2788",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strategicrevenueinsights.com/industry/tungsten-and-tungsten-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alloy.com/about/press/alloy-raises-52-million-in-additional-funding-to-accelerate-growth-and-global-expansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tectonicdefense.com/exclusive-foundation-alloy-raises-7-5m-for-advanced-metal-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markets.businessinsider.com/news/currencies/the-royalty-giants-pay-for-optionality-tungsten-just-showed-what-it-is-worth-1036589010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/foundation-alloy-lands-22m-to-scale-solid-state-metals/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タングステン重合金 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "https://www.wiseguyreports.com/ja/reports/tungsten-heavy-alloys-market",
+    "https://newscast.jp/smart/news/3395748",
+    "https://straitsresearch.com/jp/report/tungsten-market",
+    "https://www.atpress.ne.jp/news/8667085",
+    "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E5%90%88%E9%87%91-market-analysis-5iase",
+    "https://www.coherentmarketinsights.com/ja/%E7%82%AD%E5%8C%96%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://www.verifiedmarketreports.com/ja/product/tungsten-heavy-alloys-market/"
+   ]
+  },
+  {
+   "query": "タングステン重合金 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.wiseguyreports.com/ja/reports/tungsten-heavy-alloys-market",
+    "https://newscast.jp/news/3395748",
+    "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "https://www.gii.co.jp/report/ires1950155-copper-tungsten-alloys-market-by-application-end.html",
+    "https://www.atpress.ne.jp/news/3395748",
+    "https://www.reportprime.com/ja/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3-r219",
+    "https://www.datainsightsreports.com/ja/reports/tangusutencas-17652",
+    "https://www.marketresearch.co.jp/insights/tungsten-market-mordor/",
+    "https://straitsresearch.com/jp/report/tungsten-market"
+   ]
+  },
+  {
+   "query": "タングステン重合金 参入 企業 国内",
+   "results": [
+    "https://www.wiseguyreports.com/ja/reports/tungsten-heavy-alloys-market",
+    "https://www.nittan.co.jp/tech/gihou/ogataseihin_019.html",
+    "https://www.everloy-cemented-carbide.com/column/1413/",
+    "https://mono.ipros.com/cg1/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3/",
+    "https://www.gminsights.com/ja/industry-analysis/tungsten-market",
+    "https://metoree.com/categories/2626/",
+    "https://jp.linkedin.com/pulse/%E3%82%BF%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%86%E3%83%B3%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E5%8F%82%E5%85%A5%E4%BC%81%E6%A5%AD-stratimex-research-yi0le",
+    "https://www.tohokinzoku.co.jp/business/tungsten-alloy.html",
+    "http://www.tungsten-alloy.com/jp/tungsten-heavy-metals.html",
+    "https://mono.ipros.com/cg1/合金/タングステン/"
+   ]
+  },
+  {
+   "query": "tungsten heavy alloy market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "https://www.fortunebusinessinsights.com/tungsten-market-115884",
+    "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "https://www.marketresearchfuture.com/reports/tungsten-market-7050",
+    "https://www.marketresearchreports.com/reports/global-high-density-tungsten-alloy-market-strategic-research-report?srsltid=AYCX9vI-z4l5js6dijcZRRoj15LVwCAY3d7AWZ4l1e31WzvFDeLy69Bg",
+    "https://www.linkedin.com/pulse/thorough-overview-europe-tungsten-alloy-market-including-size-elqxe",
+    "https://www.maximizemarketresearch.com/market-report/global-tungsten-market/25066/",
+    "https://www.wiseguyreports.com/reports/tungsten-heavy-alloys-market",
+    "https://www.mordorintelligence.com/industry-reports/tungsten-market",
+    "https://www.verifiedmarketreports.com/product/tungsten-heavy-alloys-market/"
+   ]
+  },
+  {
+   "query": "tungsten heavy alloy market key players competitive landscape",
+   "results": [
+    "https://www.marketresearchreports.com/reports/global-high-density-tungsten-alloy-market-strategic-research-report?srsltid=AYCX9vLT42-_gB9uBeMd5iwIIrsAwJnJmnsUfaxqE2MB2fJhdiVZ8N8G",
+    "https://www.linkedin.com/pulse/united-states-tungsten-alloy-market-analysis-report-2026-2033-muhte",
+    "https://www.fortunebusinessinsights.com/tungsten-market-115884",
+    "https://www.grandviewresearch.com/industry-analysis/tungsten-market-report",
+    "https://dataintelo.com/report/global-tungsten-heavy-alloys-market",
+    "https://www.stellarmr.com/report/Tungsten-Market/2788",
+    "https://www.strategicrevenueinsights.com/industry/tungsten-and-tungsten-alloys-market",
+    "https://www.marketdataforecast.com/market-reports/tungsten-market",
+    "https://www.linkedin.com/pulse/global-high-density-tungsten-alloy-market-rqwuc",
+    "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market"
+   ]
+  },
+  {
+   "query": "tungsten heavy alloy startup funding 2025",
+   "results": [
+    "https://foundationalloy.com/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals/",
+    "https://www.alloy.com/about/press/alloy-raises-52-million-in-additional-funding-to-accelerate-growth-and-global-expansion",
+    "https://www.tectonicdefense.com/exclusive-foundation-alloy-raises-7-5m-for-advanced-metal-manufacturing/",
+    "https://markets.businessinsider.com/news/currencies/the-royalty-giants-pay-for-optionality-tungsten-just-showed-what-it-is-worth-1036589010",
+    "https://fundraiseinsider.com/blog/foundation-alloy-lands-22m-to-scale-solid-state-metals/",
+    "https://www.instagram.com/p/DZqCoftEcwF/",
+    "https://alloyenterprises.co/alloy-enterprises-raises-26m-to-unlock-aluminum-fabrication-at-scale/",
+    "https://technical.ly/entrepreneurship/gold-buyer-startup-alloy-philadelphia-success/",
+    "https://www.linkedin.com/posts/grishinrobotics_alloy-raises-45m-pre-seed-led-by-blackbird-activity-7376545523958419457-ylj9",
+    "https://www.futuremarketreport.com/industry-report/tungsten-heavy-alloys-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

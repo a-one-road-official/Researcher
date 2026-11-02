@@ -1,0 +1,1046 @@
+{
+ "name": "Xometry",
+ "aliases": [
+  "ゾメトリー"
+ ],
+ "context": "受発注マーケットプレイス（米）",
+ "researched_at": "2026-11-02T14:38:04.983212+00:00",
+ "official_url": "https://www.xometry.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "バイヤー（買い手）は、これまで私が「顧客」と言ってきた方々です",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "セラー（売り手）は、これまで私が「サプライヤーパートナー」と言ってきた方々です",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "当社のプラットフォーム上で買い手のために製品を製造することを当社が承認したか、当社の金融サービスや消耗品の購入など、当社のセラーサービスを利用した個人または企業",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンドとは要求に応じてサービスの提供を行うことを指し、マーケットプレイスとは売り手と買い手が自由に参加できる電子市場のことです",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "買い手は製造業の新興企業からFortune100企業のバイヤーに至るまで多岐にわたり、取引を行うバイヤーの数は43,000人以上です",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "また、売り手としても大規模な機械工場や職人が運営する中小企業など、様々な規模における5000以上もの企業が登録しています",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "AI駆動のマーケットプレイス機能を拡大し、企業の買い手と製造業のサプライヤーを接続することに焦点を当てています",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "企業がカスタム製造された部品を需要に応じて調達できるように、買い手と世界中のサプライヤーのネットワークを接続します",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "世界中の数千のサプライヤーと数万の買い手にわたるネットワークを持ち、Xometryはサプライチェーンをデジタル化し、大規模な分散型生産を可能にすることで、製造業の近代化に中心的な役割を果たしています",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometryは、AI駆動のワークフローを採用するために、サプライヤーと買い手との信頼をどのように築いてきましたか？",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤーと買い手は、Xometryに速度と透明性を求めています",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Books by members",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Members’ forum",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "What Are the Key Suppliers to Xometry?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "What customers actually buy",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Services for manufacturers that want to generate demand and improve their online presence.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of custom manufacturing and prototyping services; competes for engineering and product-development buyers seeking rapid fulfillment.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional regional machine shops and contract manufacturers",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Many buyers still source directly from local or incumbent suppliers rather than through a digital platform, so offline relationships remain a real substitute to Xometry’s model.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "For larger accounts, marketing likely works alongside enterprise sales through case studies, vertical messaging, account-based outreach, and relationship-building with procurement stakeholders. On the supplier-services side, marketing is effectively part of the product because manufacturers are buying customer acquisition and visibility.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketplace buyers",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s core marketplace buyers are engineers, product designers, operations teams, and procurement professionals that need custom parts. These customers can range from small businesses and startups to large enterprises. Public company materials indicate broad exposure across industrial end markets rather than dependence on a single vertical.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier-services customers",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Through Thomas, Xometry also serves industrial manufacturers and suppliers as paying customers. These companies buy digital marketing, discovery, and lead-generation services to reach industrial buyers.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The model is diversified across two customer sides: demand-side manufacturing buyers and supply-side industrial suppliers. That is strategically useful because it reduces dependence on a single monetization stream. The tradeoff is that Xometry must serve two different buying centers well: procurement and engineering on one side, marketing and business development on the other.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers can upload design files, receive quotes, and place orders digitally. This is the core of Xometry’s scalable acquisition and conversion model.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Repeat customers and more complex buyers often require human support, especially when Xometry is trying to expand share of wallet.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": ". Marketplace includes the custom-manufacturing transaction platform, supplier network operations, and buyer-facing software and sales. Supplier Services includes Thomas, Thomasnet, and related marketing and demand-generation offerings sold to industrial suppliers.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the clearest growth paths is deeper penetration into existing customers by moving from ad hoc orders to repeat procurement workflows.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "15. What Are the Key Suppliers to Xometry?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s most important suppliers are not raw-material vendors in the traditional sense. They are manufacturing partners that fulfill customer orders through the marketplace.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine shops:",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Secondary-process suppliers:",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand is more strategically important at Xometry than it might first appear. In custom manufacturing, software and execution drive the product experience, but Thomas gives the company a recognized industrial media and discovery brand that can attract both buyers and suppliers. That makes brand a meaningful commercial lever, not just a communications function.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform uses data to route jobs to suppliers based on capability, quality, timing, and economics.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "This market involves a long tail of small and local suppliers that, for example, large automotive manufacturers, aerospace manufacturers, and OEMs must manage, often dealing with hundreds or even thousands of smaller specialized suppliers.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "This created an opportunity for disruptor 2.0, Xometry, to enter the market. Xometry leverages a global network of over 55,000 active buyers and 3,400 active small-to-medium-sized manufacturers. With the strength of this network, Xometry’s breadth and depth of offerings greatly exceed that of Protolabs.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s brand is increasingly perceived as the low-cost, trusted one-stop-shop platform. While brand awareness is growing on the customer side, most U.S.-based suppliers are already familiar with Xometry, and a significant number of suppliers even use Xometry to absorb overflow work.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s management is highly strategic and aware of this problem. They continue to develop ways to integrate into both suppliers’ and customers’ workflows and ERP systems. We expect Xometry to continue to find ways to deepen integration into the operational processes of their partners, making switching less attractive.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Xometryは、2013年の創業から7年後の2020年に、年間売上が1億4,140万ドル（≒160億円）になるまで成長しました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にRandy Altshuler氏とLaurence Zuriff氏が共同創業しました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "その次に創業したのがCloudblueです",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Cloudblueのビジネスが、Xometry創業に影響を与えているように思います",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "共同創業者のZuriff氏は、ブラウン大学卒業後、ジョンズホプキンス大学で経済学修士号を取得",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にXometryを共同創業し、現在はCSO（Chief Strategic Officer）を担っています",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "を参考に、2013年の創業から、2021年の上場申請まで、資金調達ラウンドを追ってみました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "創業ラウンドで420万ドル（≒5億円）",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "創業者ノート",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "1つの重要な原則は、品質チェックを生産プロセスの最初の段階にシフトすることです",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "アントワーヌは、先見の明を持つリーダーであり、Unite.AIの創業パートナーです",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "複数の企業を立ち上げてきた起業家として、AIは電気と同じほど社会を大きく変えると考えており、革新的な技術や汎用人工知能（AGI）の可能性について熱く語ることがよくあります",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Markowitz、DrataのCEO兼共同創業者 — インタビューシリーズ",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s competitive set is unusual because it spans two markets: digital manufacturing marketplaces and industrial supplier discovery/marketing. Its strongest direct competition is in the first group, but Thomas broadens the peer set materially.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The company expanded from an early focus on digital quoting and rapid manufacturing into a broader manufacturing marketplace spanning multiple processes.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand is more strategically important at Xometry than it might first appear. In custom manufacturing, software and execution drive the product experience, but Thomas gives the company a recognized industrial media and discovery brand that can attract both buyers and suppliers. That makes brand a meaningful commercial lever, not just a communications function.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "First Name",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": ". To understand non-contract manufacturing, it’s helpful to first discuss",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Search",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を1つの投資テーマとするIDATEN Ventures としては、上場申請を機にご紹介すべきだと思いました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "今回の記事のようなIDATENブログの更新をタイムリーにお知りになりたい場合は、下記フォームからぜひ IDATEN Letters に登録をいただければ幸いです",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "将来面白いことになりそうなアメリカの成長企業を紹介します",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事は見つかりませんでした",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "ウクライナ戦争：西側メディアと中立的軍事ブロガー：2026年7月5日",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOカンファレンス",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアキット",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "ソーシャルメディア",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアキット & リンクツール",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip content",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Table of Contents",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Closer peer to the Thomas side of Xometry, competing in industrial search, audience monetization, and supplier marketing.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas and Thomasnet are central to this. They provide Xometry with an owned industrial audience, strong search visibility, and a content-and-discovery layer that can drive both supplier-services sales and marketplace awareness. That is a notable strategic advantage relative to pure marketplace competitors that must buy more of their traffic.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Thomas and Thomasnet add search, audience, and supplier data that can reinforce the broader platform.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Define governance, use-case prioritization, data requirements, and business-case tracking for the next wave of AI-enabled quoting, matching, and industrial search.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "(NAS:XMTR) Xometry: The Future Digital Manufacturing Leviathan - Pernas Research",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Research Vault",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "(Since Xometry is a controversial name—see Cupler Research’s short report",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Pernas Research internal estimates",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Actionable stock research for professional investors and RIAs",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Thematic Research",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Get research snippets — 100% free",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 — Pernas Research. All rights reserved.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "Xometry：製造業オンラインマーケットプレイスを展開する注目スタートアップがNasdaqに上場",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達ニュース",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "（ゾメトリー、と読みます）いう会社が、2021年6月にNasdaq上場申請をしました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "製造業を1つの投資テーマとするIDATEN Ventures としては、上場申請を機にご紹介すべきだと思いました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場申請に必要な書類",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Cloudblueは順調に成長し、2013年にIngram Microという会社が買収しています",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "資金調達と成長の軌跡",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "この章では、Xometryの資金調達と、成長の軌跡を追います",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "を参考に、2013年の創業から、2021年の上場申請まで、資金調達ラウンドを追ってみました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場前最後となったラウンドには、アメリカ金融機関大手のT Rowe Priceがリード投資家として入りました",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Nasdaq上場申請",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場によって、最大1億ドル（≒110億円）の調達を計画しています",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場開示書類には、繰り返し「",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場によって調達した資金を、営業・マーケティングに投入し、世界中にセラー・バイヤーのネットワークを拡大していくと書かれています",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパ・アジア・アフリカなど、北米地域のバイヤー・セラー・ネットワークが波及しづらい海外経済圏でシェアを伸ばすためには、その経済圏で存在感のあるマーケットプレイス運営会社を買収することが1つの選択肢になります",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "は、Xometryが時価総額最大15億ドル（≒1,700億円）規模で、IPOするのではないかと報じています",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "GVA TECHの上場目論見書を読み解く",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "上場市場：NASDAQ National Market System",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年5月に設立され、2021年6月にNASDAQに上場しました",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2013; expanded from rapid manufacturing quoting into a broader on-demand manufacturing marketplace; went public in 2021; acquired Thomas, including Thomasnet, in 2021.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "What Major Acquisitions Has Xometry Made?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Grow Supplier Services after the Thomas acquisition.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Online manufacturing platform focused on custom parts; particularly relevant for digitally acquired, self-serve demand similar to Xometry’s marketplace motion.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "For larger accounts, marketing likely works alongside enterprise sales through case studies, vertical messaging, account-based outreach, and relationship-building with procurement stakeholders. On the supplier-services side, marketing is effectively part of the product because manufacturers are buying customer acquisition and visibility.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers can upload design files, receive quotes, and place orders digitally. This is the core of Xometry’s scalable acquisition and conversion model.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "2021 Thomas acquisition:",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry acquired Thomas, including Thomasnet, in a deal valued at roughly $300 million, adding supplier-services revenue and a major industrial discovery platform.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The most important historical shift is that Xometry is no longer just a transaction marketplace. Since the Thomas acquisition, it has become a broader industrial platform spanning both sourcing and supplier demand generation.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s finance strategy appears geared toward funding growth while improving unit economics and moving toward more durable profitability. As a scaling industrial marketplace, the key financial questions are less about dividend policy and more about contribution economics, gross-margin progression, and operating leverage.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "21. What Major Acquisitions Has Xometry Made?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry has not built its strategy around frequent large acquisitions. The major strategic exception is the 2021 acquisition of",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "This was the defining acquisition in Xometry’s history. It expanded the company from a transaction marketplace into supplier services, industrial discovery, and digital marketing. It also gave Xometry an owned traffic and lead-generation asset that could strengthen both sides of the platform.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The Thomas deal matters not just because of revenue added, but because it changed Xometry’s strategic shape. Through FY2024, no other publicly visible acquisition appears to match Thomas in scale or importance. Xometry therefore still looks primarily like an internally built platform, with M&A used selectively to accelerate capability rather than to assemble a conglomerate.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Xometry Marketplace Accelerates Solutions for Complex ... — Xometry Marketplace Accelerates Solutions for Complex ... Xometry https://investors.xometry.com > xome...",
+    "url": "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry ：製造業オンラインマーケットプレイスを展開する ... — Xometry ：製造業オンラインマーケットプレイスを展開する ... IDATEN Ventures https://www.idaten.vc > post > xometry：製造業オンライ...",
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ (Frequently Asked Questions) - Xometry Europe — FAQ (Frequently Asked Questions) - Xometry Europe Xometry Europe https://xometry.eu > faq",
+    "url": "https://xometry.eu/en/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Cloud Manufacturing Market — Xometry Cloud Manufacturing Market Xometry Pro https://xometry.pro > articles > xomet...",
+    "url": "https://xometry.pro/en/articles/xometry-cloud-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "S-1 Teardown: Xometry - Bowery Capital — S-1 Teardown: Xometry - Bowery Capital Bowery Capital https://bowerycap.com > ... > Insights",
+    "url": "https://bowerycap.com/blog/insights/s-1-teardown-xometry",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ成長株:ゾーメトリー( Xometry ):製造業向けオン ... — アメリカ成長株:ゾーメトリー( Xometry ):製造業向けオン ... america-growth.com https://america-growth.com > ホーム > IT",
+    "url": "https://america-growth.com/wp/xmtr/",
+    "pass": 3
+   },
+   {
+    "quote": "About Xometry Asia — About Xometry Asia Xometry 择幂科技 https://xometry.asia > about-us",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry が3Dプリント受託プラットフォーム事業で 売上 を大幅 ... — Xometry が3Dプリント受託プラットフォーム事業で 売上 を大幅 ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "pass": 3
+   },
+   {
+    "quote": "ヴァイディ・ラガヴァン、 Xometry のチーフプロダクト ... — ヴァイディ・ラガヴァン、 Xometry のチーフプロダクト ... Unite.AI https://www.unite.ai > vaidy-raghavan-chief-product-tech...",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Strategy and Business Model - Umbrex — Xometry Strategy and Business Model - Umbrex Umbrex https://umbrex.com > xometry",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The First Manufacturing Partner to Reach $1 Million ... - Xometry — The First Manufacturing Partner to Reach $1 Million ... - Xometry Xometry https://www.xometry.com > resources",
+    "url": "https://www.xometry.com/resources/case-studies/the-first-manufacturing-partner-to-reach-1-million-in-xometry-revenue/",
+    "pass": 3
+   },
+   {
+    "quote": "(NAS:XMTR) Xometry : The Future Digital Manufacturing ... — (NAS:XMTR) Xometry : The Future Digital Manufacturing ... Pernas Research https://pernasresearch.com > xmtr-xo...",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Revenue 2020-2026 | XMTR - Macrotrends — Xometry Revenue 2020-2026 | XMTR - Macrotrends Macrotrends https://www.macrotrends.net > revenue",
+    "url": "https://www.macrotrends.net/stocks/charts/XMTR/xometry/revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry , Inc.: Transforming Custom Manufacturing Through ... — Xometry , Inc.: Transforming Custom Manufacturing Through ... Substack https://andrewjoliet.substack.com > x...",
+    "url": "https://andrewjoliet.substack.com/p/xometry-inc-transforming-custom-manufacturing",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "翻訳（プレミアム）",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "ライティングツール（プレミアム）",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "ライティング（プレミアム）",
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Resource Planning (ERP)",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "1c. How does Xometry plan to win?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "How pricing power works",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial supplier listings and discovery tools.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry mostly sells direct rather than through distributors. That matters strategically because direct channels let it keep the customer relationship, the demand data, and the pricing signals. It also means that sales productivity, onboarding, and customer success are important levers for growth and margin improvement.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry operates with an asset-light footprint. It does not depend on a network of company-owned factories, so its geographic reach comes from offices, digital infrastructure, and its supplier network rather than from owned production plants.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The operational complexities are substantial. Quote accuracy matters because underpricing hurts margin and overpricing hurts conversion. Supplier quality and on-time performance matter because Xometry owns the customer relationship. The platform also has to balance buyer demand and supplier capacity across many processes and geographies.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "2021 public listing:",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-driven estimation supports delivery commitments and operational planning.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Each transaction can improve the data set that underpins pricing and matching decisions.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Historical pricing, part geometry, supplier performance, and conversion data improve the quote engine and matching logic.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Build country-by-country market-entry priorities, channel models, and supplier-liquidity plans for Europe.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Diagnose where instant quotes lose conversion and identify changes in pricing logic, user experience, and sales follow-up.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Given the complexity, competitor instant quoting engines will often have manual review on standby. Xometry’s advanced machine learning modeling has given them a significant head start in providing the most accurate pricing in the industry. The below expanding gross margins is an indicator that Xometry is becoming more efficient at pricing.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry standard pricing: $277",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Protolabs standard pricing: $550",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv standard pricing: $636",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s unique positioning suggests it can evolve into a great business despite not fitting into traditional categories. The mischaracterization of Xometry’s business model as “not a marketplace” even though it enjoys network effects is a contributing factor to its mispricing.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry leads the industry in using AI and machine learning for pricing, leveraging the largest data sets to train its models. Soon, Xometry will be able to price from prints through imaging. The company has the tools and data to develop a quoting engine that is 10x better than competitors. Xometry’s partnership with Google’s AI platform is a significant step in this direction.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Books by members",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Members’ forum",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "What Are the Key Suppliers to Xometry?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s opportunity is not only to win more of the same orders, but also to handle a broader set of manufacturing processes, part types, and more complex production requirements.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Many buyers still source directly from local or incumbent suppliers rather than through a digital platform, so offline relationships remain a real substitute to Xometry’s model.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s marketing strategy appears to be digital-first and tightly linked to how engineers and procurement teams actually search for suppliers and parts. The company benefits from a self-serve funnel: if a buyer can get a quote online, digital acquisition economics matter a great deal.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Through Thomas, Xometry also serves industrial manufacturers and suppliers as paying customers. These companies buy digital marketing, discovery, and lead-generation services to reach industrial buyers.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The model is diversified across two customer sides: demand-side manufacturing buyers and supply-side industrial suppliers. That is strategically useful because it reduces dependence on a single monetization stream. The tradeoff is that Xometry must serve two different buying centers well: procurement and engineering on one side, marketing and business development on the other.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Buyers can upload design files, receive quotes, and place orders digitally. This is the core of Xometry’s scalable acquisition and conversion model.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": ". Marketplace includes the custom-manufacturing transaction platform, supplier network operations, and buyer-facing software and sales. Supplier Services includes Thomas, Thomasnet, and related marketing and demand-generation offerings sold to industrial suppliers.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s software evaluates the job and returns an instant or near-instant quote where possible; more complex orders may require additional review.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the clearest growth paths is deeper penetration into existing customers by moving from ad hoc orders to repeat procurement workflows.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "15. What Are the Key Suppliers to Xometry?",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s most important suppliers are not raw-material vendors in the traditional sense. They are manufacturing partners that fulfill customer orders through the marketplace.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Secondary-process suppliers:",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand is more strategically important at Xometry than it might first appear. In custom manufacturing, software and execution drive the product experience, but Thomas gives the company a recognized industrial media and discovery brand that can attract both buyers and suppliers. That makes brand a meaningful commercial lever, not just a communications function.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform uses data to route jobs to suppliers based on capability, quality, timing, and economics.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Working capital also matters. Because Xometry sits between buyers and suppliers, collection and payment timing can affect cash generation. That makes finance an important enabler of scale, not just a reporting function.",
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "This market involves a long tail of small and local suppliers that, for example, large automotive manufacturers, aerospace manufacturers, and OEMs must manage, often dealing with hundreds or even thousands of smaller specialized suppliers.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s brand is increasingly perceived as the low-cost, trusted one-stop-shop platform. While brand awareness is growing on the customer side, most U.S.-based suppliers are already familiar with Xometry, and a significant number of suppliers even use Xometry to absorb overflow work.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s management is highly strategic and aware of this problem. They continue to develop ways to integrate into both suppliers’ and customers’ workflows and ERP systems. We expect Xometry to continue to find ways to deepen integration into the operational processes of their partners, making switching less attractive.",
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.eu/en/faq/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://america-growth.com/wp/xmtr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/nexil/post_articles/503126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2en2TPZfd9c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://umbrex.com/resources/company-profiles/xometry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Xometry 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "https://xometry.eu/en/faq/",
+    "https://xometry.pro/en/articles/xometry-cloud-manufacturing/",
+    "https://bowerycap.com/blog/insights/s-1-teardown-xometry",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "https://www.rapiddirect.com/ja/blog/xometry-vs-fictiv/",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-xometry-partner-offer-instant-part-production-design-environment",
+    "https://lab.improve.co.jp/articles/20260915-xometry-instant-quotes"
+   ]
+  },
+  {
+   "query": "Xometry 売上 従業員 創業",
+   "results": [
+    "https://investors.xometry.com/news-releases/news-release-details/xometry-marketplace-accelerates-solutions-complex-manufacturing",
+    "https://www.idaten.vc/post/xometry%EF%BC%9A%E8%A3%BD%E9%80%A0%E6%A5%AD%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%82%92%E5%B1%95%E9%96%8B%E3%81%99%E3%82%8B%E6%B3%A8%E7%9B%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%8Cnasdaq%E3%81%AB%E4%B8%8A%E5%A0%B4",
+    "https://america-growth.com/wp/xmtr/",
+    "https://xometry.asia/en/about-us/",
+    "https://news.sharelab.jp/3dp-news/ir/service-bureau-xometry-220830/",
+    "https://xometry.eu/en/about-us/",
+    "https://www.globaldata.com/company-profile/xometry-inc/",
+    "https://note.com/kabuya66/n/n69461e1ad8c2",
+    "https://www.youtube.com/watch?v=GGeImMr-2NU",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ]
+  },
+  {
+   "query": "Xometry 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.unite.ai/ja/vaidy-raghavan-chief-product-technology-officer-xometry-interview-series/",
+    "https://www.wantedly.com/companies/nexil/post_articles/503126",
+    "https://www.youtube.com/watch?v=2en2TPZfd9c",
+    "https://www.cct-inc.co.jp/koto-online/archives/830",
+    "https://careerforum.net/ja/event/ldn/companylist_271/65/online_seminar/2152/",
+    "https://www.tokyo-sogyo-net.metro.tokyo.lg.jp/interview/",
+    "https://donzoko-ceo.com/category/kigyou/",
+    "https://www.youtube.com/watch?v=vS4whhT77-w",
+    "https://hirocom-media.com/articles/tag/1383",
+    "https://en.wikipedia.org/wiki/Xometry"
+   ]
+  },
+  {
+   "query": "Xometry revenue members business model",
+   "results": [
+    "https://umbrex.com/resources/company-profiles/xometry/",
+    "https://www.xometry.com/resources/case-studies/the-first-manufacturing-partner-to-reach-1-million-in-xometry-revenue/",
+    "https://pernasresearch.com/research-vault/xmtr-xometry-the-future-digital-manufacturing-leviathan/",
+    "https://www.macrotrends.net/stocks/charts/XMTR/xometry/revenue",
+    "https://andrewjoliet.substack.com/p/xometry-inc-transforming-custom-manufacturing",
+    "https://www.amtonline.org/article/xometry-innovative-manufacturing-marketplace-model",
+    "https://investors.xometry.com/static-files/4df59d5c-24b5-4528-b891-dd66f66724d9",
+    "https://www.digitalcommerce360.com/article/xometry-marketplace-sales-revenue/",
+    "https://finance.yahoo.com/markets/stocks/articles/xometry-inc-q1-2026-earnings-123000947.html",
+    "https://pitchgrade.com/companies/xometry-inc"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）"
+ }
+}

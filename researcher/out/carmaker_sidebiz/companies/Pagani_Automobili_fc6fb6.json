@@ -1,0 +1,2413 @@
+{
+ "name": "Pagani Automobili",
+ "aliases": [
+  "Pagani",
+  "パガーニ"
+ ],
+ "context": "ハイパーカー・カーボン（伊）",
+ "researched_at": "2026-11-02T14:35:27.244314+00:00",
+ "official_url": "https://www.pagani.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Horacio Pagani ( CEO & President )",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "label": "Number of employees",
+    "value": "242 (2026) [ 1 ]",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "For Horacio it is not enough to build every component of the car with the absolute best materials, and make them achieve perfection in their performances; they must also be works of art.",
+    "url": "https://www.pagani.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to the use of composite materials and state-of-the-art technology, the Utopia Roadster weighs in at only 1,280 kg (2,822 lb), just like the Utopia Coupé.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pirelli, an essential partner of Pagani Automobili from the prototyping and simulation phase with the aid of the most advanced AI technology, is supplying the Utopia Roadster with exclusive tires equipped with advanced sensor technology on the inside of the tread that become points of interaction between the car and the road surface. Thanks to the",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "For the unveiling, the Utopia Roadster will be presented in an exposed carbon finish in Habanero Red. This color transforms from a brownish red in the shade to a vivid bright red in the sunlight, setting off the unmistakable texture of the carbon fiber body.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "The new version shared with its sister coupe all the finishes and equipments, in order to represent a real alternative to the potential buyer. The adoption of new triaxial carbon fibre fabrics allowed to redesign the frame and to achieve a car as light as the coupe.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Questa creazione è un omaggio open-air al Dio del Vento. Bellezza pura in tutte le sue forme e superfici, la Huayra Roadster è una vettura quasi interamente a vista, con ogni componente, ogni parte meccanica visibile, orgogliosamente esposta.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "For more than forty years, Horacio Pagani has treated carbon fiber as a living fabric. In aviation, where every gram counts, this mastery translates directly into unparalleled efficiency and performance. We interpret the experience of flight as a meeting of art, performance, and engineering, guided by an uncompromising attention to detail.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "From the structure of the Iconic Collection furnishings, such as the Iconic Sofa and Iconic Bed, crafted using the same autoclave processes as the Hypercars, to the most intimate details like hand-finished stitching, every element tells a story of Italian artisanal excellence.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ": every component is inspected by the artisans of Pagani Officina and, where necessary, restored using original materials and techniques.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "This specific chassis, a unique example, represents a milestone: it is in fact the first one-off in the history of the Pagani Atelier. Built in 2000 at the customer’s request, it stands out thanks to its exclusive removable glass roof.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Unico represents the pinnacle of the Atelier’s tailor-made philosophy, far beyond simple customization. The Pagani Zonda Cervino is a complete reimagining of the Zonda based on an existing chassis, meticulously crafted to fulfill the specific dreams of a visionary collector.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ": beneath its flowing lines, the car has been upgraded with cutting-edge technology, including a newly developed suspension system with new dampers and top-tier mechanical components that bridge the gap between the Zonda’s analog soul and modern performance standards.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ": this project represents the pinnacle of the Pagani Unico department, a creative sanctuary where the customer becomes co-author and where an original chassis is used as a canvas for a complete technical and stylistic transformation, giving life to a vehicle that is utterly unique and impossible to replicate in either form or function.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The chassis features a central monocoque made of Carbo-Titanium HP62 G2 and Carbo-Triax HP62, with front and rear subframes in chrome-molybdenum steel.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The aerodynamic concept prioritizes efficiency and elegant forms, while driving dynamics are entrusted to active suspension, an electromechanical differential, and advanced control systems, ensuring",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", enabling real-time communication between the tires and the vehicle’s electronic systems, enhancing safety and adapting performance to road conditions. The model will be at the center of a dedicated in-depth presentation of this",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "relationship between analog driving and electronic systems.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ". The monocoque, made of",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "carbon fiber case",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "With a dry weight of just 1,250 kg and a monocoque made of Carbo-Titanium and Carbo-Triax HP52, the HP Barchetta combines lightness, rigidity, and safety. Independent double wishbone suspension, adjustable Öhlins dampers, and Brembo carbon-ceramic brakes complete an ensemble of pure technical excellence.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "With a dry weight of just 1,050 kg, a monocoque made of Carbo-Titanium HP62-G2 and Carbo-Triax HP62, Brembo CCM-R self-ventilated carbon-ceramic brake discs, and independent double wishbone with helical springs and electronically controlled active shock absorbers, the Huayra R offers an intensely engaging driving experience, all the way up to its 9,000-rpm red line.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "This Zonda is a rare gem, not only for the unique shade of its bodywork but also for the story it carries: the friendship between Horacio and its first owner, Benny Caiola. A discerning collector of supercars and Atelier Pagani’s very first customer in 1999, Caiola inspired the creation of chassis no. 057 and its bespoke color, “Bianco Benny.”",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The interior reflects Pagani’s signature sartorial mastery: from the Nardi steering wheel to the refined wooden trims, up to the dashboard inspired by the artistry of haute horlogerie. Weighing just 1,230 kg, the Zonda F showcases painstaking engineering and the use of advanced materials such as carbon fiber, aluminum alloys, titanium, and Inconel.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Four years of development, thousands of testing hours, and the Pagani team’s unwavering dedication have given birth to a car in which even the most hidden component is the ultimate synthesis of engineering, design, and technology.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The Carbo-Titanium and Carbo-Triax monocoque ensures rigidity and lightness. Active suspension, Pagani by Brembo carbon-ceramic brakes, and avional wheels with Pirelli Trofeo R tires deliver a precise, responsive, and harmonious driving experience.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The Huayra Codalunga Speedster inherits the stylistic codes of the coupé but reinterprets them decisively. It immediately stands out from any other open-top Pagani: even more streamlined, even purer. Starting with its structure, featuring an entirely new monocoque.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The steering wheel and gear knob recall the spirit of classic racing, reinterpreted through the Pagani lens: a carbon fiber frame, mahogany inserts, and aluminum rivets hammered and polished by hand. A contemporary tribute to the iconic Nardi steering wheels, where form, material, and artisan touch came together in perfect harmony. The cabin is designed to convey a sense of calm and poise.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "CHASSIS",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "For more than forty years, Horacio Pagani has treated carbon fiber as a living fabric. In aviation, where every gram counts, this mastery translates directly into unparalleled efficiency and performance. We interpret the experience of flight as a meeting of art, performance, and engineering, guided by an uncompromising attention to detail.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "From the structure of the Iconic Collection furnishings, such as the Iconic Sofa and Iconic Bed, crafted using the same autoclave processes as the Hypercars, to the most intimate details like hand-finished stitching, every element tells a story of Italian artisanal excellence.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": ": every component is inspected by the artisans of Pagani Officina and, where necessary, restored using original materials and techniques.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "This specific chassis, a unique example, represents a milestone: it is in fact the first one-off in the history of the Pagani Atelier. Built in 2000 at the customer’s request, it stands out thanks to its exclusive removable glass roof.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Unico represents the pinnacle of the Atelier’s tailor-made philosophy, far beyond simple customization. The Pagani Zonda Cervino is a complete reimagining of the Zonda based on an existing chassis, meticulously crafted to fulfill the specific dreams of a visionary collector.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ": beneath its flowing lines, the car has been upgraded with cutting-edge technology, including a newly developed suspension system with new dampers and top-tier mechanical components that bridge the gap between the Zonda’s analog soul and modern performance standards.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ": this project represents the pinnacle of the Pagani Unico department, a creative sanctuary where the customer becomes co-author and where an original chassis is used as a canvas for a complete technical and stylistic transformation, giving life to a vehicle that is utterly unique and impossible to replicate in either form or function.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "The chassis features a central monocoque made of Carbo-Titanium HP62 G2 and Carbo-Triax HP62, with front and rear subframes in chrome-molybdenum steel.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "The aerodynamic concept prioritizes efficiency and elegant forms, while driving dynamics are entrusted to active suspension, an electromechanical differential, and advanced control systems, ensuring",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", enabling real-time communication between the tires and the vehicle’s electronic systems, enhancing safety and adapting performance to road conditions. The model will be at the center of a dedicated in-depth presentation of this",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "relationship between analog driving and electronic systems.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ". The monocoque, made of",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "carbon fiber case",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.",
+    "url": "https://www.pagani.com/press/official-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "With a dry weight of just 1,250 kg and a monocoque made of Carbo-Titanium and Carbo-Triax HP52, the HP Barchetta combines lightness, rigidity, and safety. Independent double wishbone suspension, adjustable Öhlins dampers, and Brembo carbon-ceramic brakes complete an ensemble of pure technical excellence.",
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "With a dry weight of just 1,050 kg, a monocoque made of Carbo-Titanium HP62-G2 and Carbo-Triax HP62, Brembo CCM-R self-ventilated carbon-ceramic brake discs, and independent double wishbone with helical springs and electronically controlled active shock absorbers, the Huayra R offers an intensely engaging driving experience, all the way up to its 9,000-rpm red line.",
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "This Zonda is a rare gem, not only for the unique shade of its bodywork but also for the story it carries: the friendship between Horacio and its first owner, Benny Caiola. A discerning collector of supercars and Atelier Pagani’s very first customer in 1999, Caiola inspired the creation of chassis no. 057 and its bespoke color, “Bianco Benny.”",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "The interior reflects Pagani’s signature sartorial mastery: from the Nardi steering wheel to the refined wooden trims, up to the dashboard inspired by the artistry of haute horlogerie. Weighing just 1,230 kg, the Zonda F showcases painstaking engineering and the use of advanced materials such as carbon fiber, aluminum alloys, titanium, and Inconel.",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Four years of development, thousands of testing hours, and the Pagani team’s unwavering dedication have given birth to a car in which even the most hidden component is the ultimate synthesis of engineering, design, and technology.",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "L’armonia tra animo racing e purezza stilistica è sublimata dai componenti in alluminio ricavati dal pieno. Anodizzati nell’elegante finitura Glossy Titanium, agiscono come veri e propri gioielli incastonati nel design, richiamando con naturale eleganza i cerchi forgiati su misura in Titanio.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "ogni componente viene ispezionato dagli artefici di Pagani Officina e, dove necessario, restaurato utilizzando i materiali e le tecniche originali.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "sotto le sue linee sinuose, l’auto è stata aggiornata con tecnologia all’avanguardia, inclusi un sistema di sospensioni di nuova concezione con nuovi ammortizzatori e componenti meccaniche d’eccellenza che colmano il divario tra l’anima analogica della Zonda e i moderni standard di prestazione.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "che interpreta in modo unico l’eleganza fluida del modello, integrando i componenti che si ispirano alla Roadster BC grazie all’aerodinamica dedicata con splitter e diffusore posteriore, sviluppata per gestire efficacemente le prestazioni del Pagani V12 6.0 litri biturbo da 840 CV di potenza e 1.100 Nm di coppia. Il progetto unisce libertà espressiva e rigore ingegneristico,",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "ogni componente viene ispezionato dagli artefici di Pagani Officina e, dove necessario, restaurato utilizzando i materiali e le tecniche originali.",
+    "url": "https://www.pagani.com/it/press/pagani-automobili-sul-lago-di-como-la-pagani-zonda-c12s-7-0l-debutta-ufficialmente-al-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "sotto le sue linee sinuose, l’auto è stata aggiornata con tecnologia all’avanguardia, inclusi un sistema di sospensioni di nuova concezione con nuovi ammortizzatori e componenti meccaniche d’eccellenza che colmano il divario tra l’anima analogica della Zonda e i moderni standard di prestazione.",
+    "url": "https://www.pagani.com/it/press/pagani-automobili-sul-lago-di-como-la-pagani-zonda-c12s-7-0l-debutta-ufficialmente-al-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Ci sono voluti due anni di lavoro a stretto contatto con il cliente per arrivare alla definizione del concetto stilistico, un modello in scala 1:4 ed uno in scala 1:1. Quest’ultimo è stato utilizzato per le ultime discussioni con i clienti e per gli ultimi affinamenti prima di partire con la produzione dei componenti.",
+    "url": "https://www.pagani.com/it/press/pagani-huayra-codalunga-grandi-complicazioni-su-ruote/",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "That of Horacio Pagani is the great adventure of an art and engineering crusade. How did the myth of Pagani Automobili come to life, the brand for which cars the richest men in the world are willing to spend a crazy amount of money?",
+    "url": "https://www.pagani.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In collaboration with the British specialist firm Xtrac, Pagani has designed a transmission capable of handling the torque of the twin-turbo V12, while guaranteeing smooth and agreeable functioning in all conditions. Extremely compact and positioned transversely behind the engine, the seven-speed manual gearbox is connected to a light and adjustable triple-disc clutch.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pirelli, an essential partner of Pagani Automobili from the prototyping and simulation phase with the aid of the most advanced AI technology, is supplying the Utopia Roadster with exclusive tires equipped with advanced sensor technology on the inside of the tread that become points of interaction between the car and the road surface. Thanks to the",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "The interior, finished in Grecale and Huayra Signature leather, features a semi-matt anodized finish with fine workmanship on the dashboard, central tunnel, air vents, and aluminum parts of the gear lever. The exterior paint color is also found inside, on the central tunnel, the seat adjustment cover, and the carbon-fiber gearstick knob.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Fin dalla più tenera età, Horacio ebbe modo di ricavarsi un suo spazio intimo dove dedicarsi alla lettura di riviste d’auto per poi riprodurle in schizzi: proprio da una di queste, ebbe modo di conoscere la vita e le imprese dell’idolo incontrastato di tutti gli argentini, Juan Manuel Fangio, che all’epoca si era appena ritirato dalle competizioni.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "All’inizio del 1974, a 18 anni, Horacio Pagani si iscrisse all’indirizzo di Industrial Design presso la facoltà di Belle Arti dell’Università Nazionale di La Plata. Si stabilì in città, a 450 km da Casilda, presso una tipica residenza per studenti, con l’intenzione di trascorrere laggiù i successivi cinque anni della sua vita.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Il prototipo di roulotte con la quale la ditta individuale Horacio Pagani Design fece la sua prima apparizione sul mercato, in occasione dell’Esposizione Industriale e Commerciale di Casilda, fu battezzata l’Alpine.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio trascorreva la settimana presso la sua officina, alle prese con ordini speciali. Fra le sfide più impegnative alle quali dovette far fronte in quel periodo, vi fu la commessa per la costruzione di due esemplari di un prototipo richiesto dal Laboratorio stradale dell’Istituto di ricerca e sviluppo dell’Università Nazionale di Rosario.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The passionate relationship began many years before Horacio Pagani started working for the Modenese manufacturer. He was fascinated by Bertone design: he admired his work and felt a great harmony of style with the designer, father of the most fascinating Lamborghini of all time, the Miura and Countach.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The shape had to be sensual, the wheel arches should recall a woman’s bosoms, the rear bonnet the hips. Inside, the seats would be shaped like an inverted pyramid to wrap around the shoulders, giving a sense of power to the man, and protection to the woman.\"",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The new version shared with its sister coupe all the finishes and equipments, in order to represent a real alternative to the potential buyer. The adoption of new triaxial carbon fibre fabrics allowed to redesign the frame and to achieve a car as light as the coupe.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "La nuova versione condivideva con la sorella coupé tutte le finiture e gli allestimenti, in modo da rappresentare una concreta alternativa per il potenziale acquirente. L’adozione di nuovi tessuti triassali in carbonio permise di riprogettare il telaio, ottenendo una vettura tanto leggera quanto lo era il coupé.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Nel 2006 Pagani iniziò a progettare una vettura estrema, basata sulla Zonda F e destinata all’uso in pista. Dopo sei mesi di lavoro, e visto il successo commerciale che il progetto riscuoteva, Horacio Pagani decise di ripartire daccapo in totale libertà creativa.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "La serie delle versioni stradali della Zonda non sarebbe stata completa senza una versione Roadster della Zonda Cinque. Come ricorda il nome, anche la Roadster era destinata a una produzione limitata, così come per il coupé, a soli cinque esemplari esclusivi, più il prototipo.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortemente ispirata dal fascino intramontabile delle vetture di Le Mans e dei campionati del mondo Sport Prototipi degli anni ‘60 e ‘70, Huayra R è un’auto sviluppata senza implicazione di regole fatta eccezione per la sicurezza.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "A limited edition of just five vehicles, produced in close collaboration with clients. Beneath the elegant and sinuous shape lies state-of-the-art Pagani mechanical engineering. Approved for road use all over the world, the price of this new hypercar starts from € 7 million",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Imola Roadster, nuova creazione few-off della divisione Grandi Complicazioni. Il design mostra un carattere distintivo e le specifiche tecniche la rendono una vettura che non teme la pista, anche se gli otto esemplari prodotti saranno omologati per la guida stradale in tutto il mondo. È la vettura a cielo aperto più performante che il brand abbia mai creato.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Imola Roadster, the new limited edition from the Grandi Complicazioni division. Featuring a one-of-a-kind design and technical specification, this vehicle does not fear the track even if its eight specimens are homologated for road use throughout the world. It is the best-performing open-top the brand has ever created.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 7, 2026 – Pagani Automobili announces its participation in the prestigious Goodwood Festival of Speed 2026, renewing the encounter between engineering excellence, art, a...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "São Paulo, Brazil – Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Consumer Electronics Show in Las Vegas, Pagani Automobili unveils the results of an advanced research project in collaboration with STMicroelectronics and osdyne. The protagonist is the Pagani ...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani’s bond with Goodwood will come alive through an intense program of dynamic activities. The legendary hill will resonate with the brand’s unmistakable sound signature thanks to two expressions of the Pagani philosophy: the Huayra Codalunga Speedster, a tribute to elegant and refined speed, and the track-focused Huayra R equipped with the optional Tempesta package.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Rooted in the Leonardo da Vinci principle of merging Art and Science, Pagani Arte sculpts every detail, even those that might go unnoticed by others. Everything is curated with millimetric precision and deep empathy for the client’s dreams.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "“If you live with curiosity, passion, and a sense of beauty, excellence comes naturally. Our mission, so is the mission of a Designer, is to improve people’s lives, always seeking perfection in every single detail to find the balance between form and function, intellect and craftsmanship.”",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The exhibition also offers a look into the world of Branded Residences, with particular focus on the DaVinci Tower in Dubai and the new Pagani Residences in Miami. Here, technical materials born for the automotive industry are reimagined to shape unique living spaces.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is the lifestyle extension of Pagani Automobili. Through relentless technological research and the mastery of expert artisans in, fine metal, leather, wood, and marble, the brand creates tailor-made pieces that fuse function and beauty, offering clients the highest level of personalization and care.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "with two models that reinterpret the relationship between art and automotive engineering: the Utopia Coupé and the Zonda F Roadster.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "official Pagani merchandise",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", the area dedicated to the most exclusive supercars and the most iconic brands,",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "program, a creative laboratory where direct dialogue between the client and the Pagani Atelier gives life to masterpieces born from craftsmanship and cutting-edge engineering techniques, for a truly tailor-made experience.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "technology, developed in collaboration with Pirelli",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "relationship between analog driving and electronic systems.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", a celebration of total creative freedom, guided by a simple principle: maximum performance with maximum safety.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Consumer Electronics Show in Las Vegas, Pagani Automobili unveils the results of an advanced research project in collaboration with STMicroelectronics and osdyne. The protagonist is the Pagani Utopia, a rolling laboratory to define the technological platforms of the coming decade.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspired by the Leonardian principle that has guided the company since its foundation, Pagani Automobili is proud to present a new chapter in its history of technological innovation at CES 2026. Within the",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "In collaboration with",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", designed and hand-crafted in the Atelier at San Cesario sul Panaro. This detail symbolizes the perfect integration between computing power and the artisanal craftsmanship that distinguishes the brand.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "It has been brought to our attention that unfortunately this situation has been abused, and that certain legal entities and individuals have unlawfully used the Pagani name and brand in order to offer or sell",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Please be aware that we have not granted such parties the right to represent our brand, act as official dealers, offer Pagani vehicles for sale and provide after sales services.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "For extremely clarity, we reaffirm that only the official Pagani dealers, Pagani S.p.A. and Pagani Automobili America Inc. are authorized to sell Pagani products and provide after sales services for our vehicles. Your cooperation is essential to protect your interests, safeguard the integrity of the Pagani’s brand worldwide and prevent any possible confusion in the global marketplace.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The journey into the Pagani universe will begin on Friday, October 31, with participation in",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "La vettura di presentazione, svelata in occasione della Monterey Car Week, sarà equipaggiata con l’allestimento opzionale Sport Pack.",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pirelli, partner essenziale di Pagani Automobili fin dalla fase di prototipazione e simulazione con l’ausilio delle più avanzate tecniche di intelligenza artificiale, fornisce per l’Utopia Roadster degli esclusivi pneumatici dotati di sensoristica avanzata nella parte interna del battistrada perché diventino punti di dialogo con l’asfalto. Grazie al sistema",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani’s bond with Goodwood will come alive through an intense program of dynamic activities. The legendary hill will resonate with the brand’s unmistakable sound signature thanks to two expressions of the Pagani philosophy: the Huayra Codalunga Speedster, a tribute to elegant and refined speed, and the track-focused Huayra R equipped with the optional Tempesta package.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Rooted in the Leonardo da Vinci principle of merging Art and Science, Pagani Arte sculpts every detail, even those that might go unnoticed by others. Everything is curated with millimetric precision and deep empathy for the client’s dreams.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "“If you live with curiosity, passion, and a sense of beauty, excellence comes naturally. Our mission, so is the mission of a Designer, is to improve people’s lives, always seeking perfection in every single detail to find the balance between form and function, intellect and craftsmanship.”",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "The exhibition also offers a look into the world of Branded Residences, with particular focus on the DaVinci Tower in Dubai and the new Pagani Residences in Miami. Here, technical materials born for the automotive industry are reimagined to shape unique living spaces.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is the lifestyle extension of Pagani Automobili. Through relentless technological research and the mastery of expert artisans in, fine metal, leather, wood, and marble, the brand creates tailor-made pieces that fuse function and beauty, offering clients the highest level of personalization and care.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani VIP Experience",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Past and present melt into one: the experience of Horacio, the energy and passion of his team, the knowledge that makes every project of Pagani Automobili such an impossible dream and, at the same time, so close to reality.",
+    "url": "https://www.pagani.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The presentation car, unveiled during Monterey Car Week, will be fitted with the optional Sport Pack configuration.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "The Utopia Roadster presentation model and the Sport Pack",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "“Quando orienti la visionaria prua verso una stella e ti lasci trasportare sulle ali del sogno verso quella imponderabile meta, ansioso di perfezione e ribelle alla mediocrità, in te si innesca la misteriosa molla di un ideale.”",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "In early 1974, at age of 18, Horacio Pagani entered the course of Industrial Design at the Faculty of Fine Arts of the National University of La Plata. He settled in the city, 450 km away from Casilda, in a typical residence for students, with the intention of spending there the next five years of his life.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "All’inizio del 1974, a 18 anni, Horacio Pagani si iscrisse all’indirizzo di Industrial Design presso la facoltà di Belle Arti dell’Università Nazionale di La Plata. Si stabilì in città, a 450 km da Casilda, presso una tipica residenza per studenti, con l’intenzione di trascorrere laggiù i successivi cinque anni della sua vita.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The caravan prototype with which the individual company Horacio Pagani Design made its first appearance on the market, at the Industrial and Commercial Exhibition of Casilda, was named the Alpine.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Il prototipo di roulotte con la quale la ditta individuale Horacio Pagani Design fece la sua prima apparizione sul mercato, in occasione dell’Esposizione Industriale e Commerciale di Casilda, fu battezzata l’Alpine.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortemente ispirata dal fascino intramontabile delle vetture di Le Mans e dei campionati del mondo Sport Prototipi degli anni ‘60 e ‘70, Huayra R è un’auto sviluppata senza implicazione di regole fatta eccezione per la sicurezza.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Strongly inspired by the timeless appeal of the Le Mans and Sports-Prototype cars of the ’60s and ’70s, the Huayra R is an extreme, untamed car that bows to no rules except for safety.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte at the Catarina Aviation Show: Where ...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "São Paulo, Brazil – Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Consumer Electronics Show in Las Vegas, Pagani Automobili unveils the results of an advanced research project in collaboration with STMicroelectronics and osdyne. The protagonist is the Pagani ...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "“The configuration of this car stems from the encounter between aesthetic research and material innovation. Every design choice, from the materials to the finishes, has been studied to express an authentic synthesis of sportiness and elegance, where dynamism and refinement blend into a coherent and distinctive language.”",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte at the Catarina Aviation Show: Where Automotive Excellence Meets High-Altitude Design",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "For more than forty years, Horacio Pagani has treated carbon fiber as a living fabric. In aviation, where every gram counts, this mastery translates directly into unparalleled efficiency and performance. We interpret the experience of flight as a meeting of art, performance, and engineering, guided by an uncompromising attention to detail.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Catarina Aviation Show, Pagani Arte shares its remarkable journey in the sector from the innovative cabin ceilings of the Airbus ACJ319neo “Infinito,” designed to dissolve the boundaries between cabin and sky, to the ultra-luxurious interiors of Gulfstream G650ER aircraft.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Through our dedicated Special Projects Team, we conceive, design, and craft bespoke interiors for helicopters, private jets, and wide-body aircraft. We shape unique spaces born from a direct dialogue with each client, brought to life like a tailored suit crafted around their identity and unique way of traveling.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The exhibition also offers a look into the world of Branded Residences, with particular focus on the DaVinci Tower in Dubai and the new Pagani Residences in Miami. Here, technical materials born for the automotive industry are reimagined to shape unique living spaces.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "space for pure technical and artistic expression",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ": the tailor-made program dedicated to customers passionate about pure driving, which continues to transform motorsport into an artistic experience of the highest technical and personal level.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Consumer Electronics Show in Las Vegas, Pagani Automobili unveils the results of an advanced research project in collaboration with STMicroelectronics and osdyne. The protagonist is the Pagani Utopia, a rolling laboratory to define the technological platforms of the coming decade.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "exhibition space, the Modenese Atelier is displaying a pioneering study that looks toward the horizon of post-2030 automotive platforms.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is an electronic architecture that is lighter, more essential, and more responsive. It is a system that “tames complexity” to leave room for the pure emotion of driving.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The Quail, A Motorsports Gathering | Friday, August 15",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Track Hypercars will be among the most anticipated appearances at The Quail, A Motorsports Gathering, one of the cornerstone events of the Monterey Car Week. At noon, the engine of the",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Rolex Monterey Motorsports Reunion | Saturday, August 16",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "La vettura di presentazione, svelata in occasione della Monterey Car Week, sarà equipaggiata con l’allestimento opzionale Sport Pack.",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Omologata per la circolazione su strada in tutto il mondo, rispettando i più rigidi protocolli in materia di sicurezza ed emissioni, l’Utopia Roadster è pronta a raggiungere gli appassionati di auto sportive di ogni paese.",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "L’Utopia Roadster dell’unveiling e lo Sport Pack",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "“The configuration of this car stems from the encounter between aesthetic research and material innovation. Every design choice, from the materials to the finishes, has been studied to express an authentic synthesis of sportiness and elegance, where dynamism and refinement blend into a coherent and distinctive language.”",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte at the Catarina Aviation Show: Where Automotive Excellence Meets High-Altitude Design | Pagani",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte at the Catarina Aviation Show: Where Automotive Excellence Meets High-Altitude Design",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "For more than forty years, Horacio Pagani has treated carbon fiber as a living fabric. In aviation, where every gram counts, this mastery translates directly into unparalleled efficiency and performance. We interpret the experience of flight as a meeting of art, performance, and engineering, guided by an uncompromising attention to detail.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Catarina Aviation Show, Pagani Arte shares its remarkable journey in the sector from the innovative cabin ceilings of the Airbus ACJ319neo “Infinito,” designed to dissolve the boundaries between cabin and sky, to the ultra-luxurious interiors of Gulfstream G650ER aircraft.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Through our dedicated Special Projects Team, we conceive, design, and craft bespoke interiors for helicopters, private jets, and wide-body aircraft. We shape unique spaces born from a direct dialogue with each client, brought to life like a tailored suit crafted around their identity and unique way of traveling.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "The exhibition also offers a look into the world of Branded Residences, with particular focus on the DaVinci Tower in Dubai and the new Pagani Residences in Miami. Here, technical materials born for the automotive industry are reimagined to shape unique living spaces.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "space for pure technical and artistic expression",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ": the tailor-made program dedicated to customers passionate about pure driving, which continues to transform motorsport into an artistic experience of the highest technical and personal level.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Consumer Electronics Show in Las Vegas, Pagani Automobili unveils the results of an advanced research project in collaboration with STMicroelectronics and osdyne. The protagonist is the Pagani Utopia, a rolling laboratory to define the technological platforms of the coming decade.",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "exhibition space, the Modenese Atelier is displaying a pioneering study that looks toward the horizon of post-2030 automotive platforms.",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is an electronic architecture that is lighter, more essential, and more responsive. It is a system that “tames complexity” to leave room for the pure emotion of driving.",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte al Catarina Aviation Show: Dove l’E...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Paolo, Brasile – Pagani Arte è lieta di annunciare la propria partecipazione al Catarina Aviation Show, un palcoscenico prestigioso dove la precisione dell’ingegneria automobilistica incontra...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Al Consumer Electronics Show di Las Vegas, Pagani Automobili svela i risultati di un progetto",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "“La configurazione di questa vettura nasce dall’incontro tra ricerca estetica e innovazione dei materiali. Ogni scelta di design, dai materiali alle finiture, è stata studiata per esprimere un’autentica sintesi di sportività ed eleganza, dove dinamismo e raffinatezza si fondono in un linguaggio coerente e distintivo.”",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte al Catarina Aviation Show: Dove l’Eccellenza Automobilistica Incontra il Design d’Alta Quota",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Aviations",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "«Pagani Arte nasce da un bisogno creativo: esportare l’esperienza Pagani in nuovi campi del design. Stiamo creando connessioni autentiche dove i sensi prendono vita. Che si tratti di un jet privato o di una residenza, il nostro obiettivo è offrire un’esperienza immersiva che rifletta il DNA sartoriale di Pagani, preservando la nostra natura bespoke anche nei progetti su larga scala.»",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", l’esperienza tailor-made rivolta ai clienti appassionati di guida pura che continua a trasformare la guida sportiva in un’esperienza artistica di altissimo livello tecnico e personale.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", progettata per superare gli standard di sicurezza FIA LMPH, integra una cella carburante in Kevlar di derivazione motorsport e una struttura protettiva in composito con pareti in fibra di carbonio da 20 mm.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The Quail, A Motorsports Gathering | Venerdì 15 agosto",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Le Hypercar Pagani da pista saranno tra le presenze più attese a The Quail, A Motorsports Gathering, uno degli eventi simbolo della settimana californiana. Alle 12:00 PM, presso lo stand Pagani, l’accensione del motore della",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.",
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Life is a series of races. At the end of each it is good to look back and recognise the support of those who helped you along the way, because you can only win thanks to a good team. \"",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The series of road-going Zondas wouldn’t be complete without a Roadster version of the Zonda Cinque. As the name suggests, the Roadster was meant for a limited production of five exclusive pieces only, plus the prototype.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", the final example of a series that redefined the concept of the Hypercar. Also featured, the",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "and the client, inspired by 1960s race cars and the timeless shapes of Italian coachbuilding masters.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of the car beats the Pagani V12-R, a naturally aspirated 6-liter engine developed in collaboration with HWA AG, capable of delivering 850 hp and 750 Nm of torque. Weighing only 198 kg, this power unit embodies the thrill and unmistakable sound of the Formula 1 engines of the 1980s, combined with the precision and reliability of future-ready engineering.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", the final example of a series that redefined the concept of the Hypercar. Also featured, the",
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "and the client, inspired by 1960s race cars and the timeless shapes of Italian coachbuilding masters.",
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of the car beats the Pagani V12-R, a naturally aspirated 6-liter engine developed in collaboration with HWA AG, capable of delivering 850 hp and 750 Nm of torque. Weighing only 198 kg, this power unit embodies the thrill and unmistakable sound of the Formula 1 engines of the 1980s, combined with the precision and reliability of future-ready engineering.",
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Grazie all’impiego di oltre quaranta differenti formulazioni di materiali compositi, tra cui Carbo-Titanium HP62-G2 e Carbo-Triax HP62",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", progettata per superare gli standard di sicurezza FIA LMPH, integra una cella carburante in Kevlar di derivazione motorsport e una struttura protettiva in composito con pareti in fibra di carbonio da 20 mm.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Al cuore della vettura batte il Pagani V12-R, un propulsore aspirato da 6 litri sviluppato in collaborazione con HWA AG, capace di erogare 850 CV e 750 Nm di coppia massima. Con un peso di soli 198 kg, questo motore incarna il fascino e il suono inconfondibile dei propulsori da Formula 1 degli anni Ottanta, uniti alla precisione e all’affidabilità delle tecnologie del futuro.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "reserved for the aerospace industry, Formula 1, and Sport Prototype endurance cars. Today, thanks to",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "forty formulas of composite materials within the same Hypercar. These include Carbo-Titanium HP62-G2",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "series of exclusive components.",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Formula",
+    "url": "https://www.pagani.com/app/uploads/2025/10/Press-Release-Auto-e-Moto-dEpoca-2025-English.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Formula",
+    "url": "https://www.pagani.com/app/uploads/2025/09/Press-Release-Historic-Minardi-Day-2025-ENG-2808.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Huayra II Ultimo (final Pagani Huayra coupé featuring the optional pacchetto tempesta aero package along with a bespoke roof scoop and rear wing with a paint job inspired by Formula One driver Lewis Hamilton's F1 car)",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "AMD Ryzen™ 5000 3000XT 3000 Series Cooling",
+    "url": "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "pass": 3
+   },
+   {
+    "quote": "500-Series (550, 570, 590)",
+    "url": "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "pass": 3
+   },
+   {
+    "quote": "Formula Wheels and Handles",
+    "url": "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "Horacio used to spend the week at his workshop, dealing with special orders. Among the most difficult challenges that he had to face at that time, there was the contract for the construction of two units of a prototype commissioned by the Road Laboratory of the Institute of Research and Development of the National University of Rosario.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", an event that gathers the finest in automotive excellence and serves as a prelude to the main Concours exhibition. From there, exclusive experiences will follow — designed for clients, collectors, and partners — for a weekend celebrating art, passion, and beauty in motion.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.",
+    "url": "https://www.pagani.com/press/official-statement/",
+    "pass": 1
+   },
+   {
+    "quote": ", an event that gathers the finest in automotive excellence and serves as a prelude to the main Concours exhibition. From there, exclusive experiences will follow — designed for clients, collectors, and partners — for a weekend celebrating art, passion, and beauty in motion.",
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting and Advisory Firms",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "so they could extend the production of the carbon parts for the Evoluzione. They refused, saying that Ferrari did not have an autoclave, so Lamborghini didn't need to have one. Pagani borrowed the capital to buy his own autoclave late in 1987 and then, in 1991, he broke away from the company and founded his own consultancy called Modena Design which continues to make carbon fiber composites for",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Interrotta la collaborazione con Lamborghini, Pagani si dedicò alla progettazione di una nuova auto. Si era ormai convinto che le vetture da lui immaginate non rispecchiassero la Casa del Toro. Era tempo di pensare a un’automobile Pagani al 100%.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Imola Roadster, nuova creazione few-off della divisione Grandi Complicazioni. Il design mostra un carattere distintivo e le specifiche tecniche la rendono una vettura che non teme la pista, anche se gli otto esemplari prodotti saranno omologati per la guida stradale in tutto il mondo. È la vettura a cielo aperto più performante che il brand abbia mai creato.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Imola Roadster, the new limited edition from the Grandi Complicazioni division. Featuring a one-of-a-kind design and technical specification, this vehicle does not fear the track even if its eight specimens are homologated for road use throughout the world. It is the best-performing open-top the brand has ever created.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": ", a new few-off creation born from the creative sanctuary of the Grandi Complicazioni division and second of the three Huayra 70 made to celebrate Horacio Pagani 70",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Please be aware that we have not granted such parties the right to represent our brand, act as official dealers, offer Pagani vehicles for sale and provide after sales services.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "For extremely clarity, we reaffirm that only the official Pagani dealers, Pagani S.p.A. and Pagani Automobili America Inc. are authorized to sell Pagani products and provide after sales services for our vehicles. Your cooperation is essential to protect your interests, safeguard the integrity of the Pagani’s brand worldwide and prevent any possible confusion in the global marketplace.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Also featured is the Huayra Codalunga, conceived by Pagani’s Grandi Complicazioni division as a tribute to the timeless forms shaped by Italian coachbuilders and the racing cars of the 1960s. Limited to just five examples, it stems from the Huayra Coupé, its proportions elongated as though its silhouette had been sculpted by the wind.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Created by the Grandi Complicazioni division, the Huayra Codalunga Speedster is born from listening. Each car takes shape through a direct dialogue with the client, with no limits to vision or desire. A bespoke project, sculpted around a personal idea of beauty.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", a new few-off creation born from the creative sanctuary of the Grandi Complicazioni division and second of the three Huayra 70 made to celebrate Horacio Pagani 70",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Please be aware that we have not granted such parties the right to represent our brand, act as official dealers, offer Pagani vehicles for sale and provide after sales services.",
+    "url": "https://www.pagani.com/press/official-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "For extremely clarity, we reaffirm that only the official Pagani dealers, Pagani S.p.A. and Pagani Automobili America Inc. are authorized to sell Pagani products and provide after sales services for our vehicles. Your cooperation is essential to protect your interests, safeguard the integrity of the Pagani’s brand worldwide and prevent any possible confusion in the global marketplace.",
+    "url": "https://www.pagani.com/press/official-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Also featured is the Huayra Codalunga, conceived by Pagani’s Grandi Complicazioni division as a tribute to the timeless forms shaped by Italian coachbuilders and the racing cars of the 1960s. Limited to just five examples, it stems from the Huayra Coupé, its proportions elongated as though its silhouette had been sculpted by the wind.",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": ". Quest’ultima, svelata in anteprima mondiale, è la nuova fuoriserie nata dal genio della divisione Grandi Complicazioni e la seconda delle tre Huayra 70 create per celebrare il settantesimo compleanno di Horacio Pagani.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "La Zonda HP Barchetta rappresenta una delle espressioni più rare della divisione",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Realizzata dalla divisione Grandi Complicazioni, la Huayra Codalunga Speedster prende forma a partire dall’ascolto. Ogni esemplare nasce da un confronto diretto con il cliente, senza limiti di visione o desiderio. Un progetto su misura, scolpito intorno a un’idea personale di bellezza.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Creato dalla divisione dedicata ai progetti speciali:",
+    "url": "https://www.pagani.com/it/press/pagani-huayra-codalunga-grandi-complicazioni-su-ruote/",
+    "pass": 1
+   },
+   {
+    "quote": "la rinominata divisione Progetti Speciali, che si occupa di creare veicoli one-off e few-off.",
+    "url": "https://www.pagani.com/it/press/pagani-huayra-codalunga-grandi-complicazioni-su-ruote/",
+    "pass": 1
+   },
+   {
+    "quote": "“Attraverso l’intensa ricerca scientifica per sviluppare il Carbo-Triax HP62 ed il Carbo-Titanium HP62 G2 siamo giunti a risultati straordinari che ci hanno permesso di alleggerire sensibilmente la vettura. L’aumento del 450% del costo unitario non ha fermato Horacio dal ritenere che il Cliente meriti ancora di più.” – Francesco Perini, Head of Concept & Composite Design at Pagani Automobili.",
+    "url": "https://www.pagani.com/it/press/huayra-roadster-bc/",
+    "pass": 1
+   },
+   {
+    "quote": "Il gruppo volano-frizione è composto da una frizione tridisco, un differenziale a gestione elettronica ed un sistema di giunti tripoide di derivazione racing. Il sistema complessivo della trasmissione è più leggero del 35% rispetto ad un gruppo trasmissione a doppia frizione.",
+    "url": "https://www.pagani.com/it/press/huayra-roadster-bc/",
+    "pass": 1
+   },
+   {
+    "quote": ". Quest’ultima, svelata in anteprima mondiale, è la nuova fuoriserie nata dal genio della divisione Grandi Complicazioni e la seconda delle tre Huayra 70 create per celebrare il settantesimo compleanno di Horacio Pagani.",
+    "url": "https://www.pagani.com/it/press/pagani-automobili-al-goodwood-festival-of-speed-anteprima-mondiale-della-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "leather lightened by 20 percent, ensuring maximum support and enhancing the driving experience. The",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "division",
+    "url": "https://www.pagani.com/app/uploads/2026/07/Pagani-at-Goodwood-Festival-of-Speed-2026_Press-Release_English-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Brought to life by the Grandi Complicazioni division as a bespoke project, the exterior of the",
+    "url": "https://www.pagani.com/app/uploads/2026/07/Pagani-at-Goodwood-Festival-of-Speed-2026_Press-Release_English-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "division",
+    "url": "https://www.pagani.com/app/uploads/2025/10/Press-Release-Auto-e-Moto-dEpoca-2025-English.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "division",
+    "url": "https://www.pagani.com/app/uploads/2025/09/Press-Release-Historic-Minardi-Day-2025-ENG-2808.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "division. The car's design was inspired by jet fighters and the famous Sauber-Mercedes Silver Arrow Group C cars, and features several unique design elements, including its circular four pipe exhaust system.",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Weight distribution: 44% front 56% rear",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": ", thanks to the use of an all-new material called 'carbon-triax' in the car which Pagani claims is 50% lighter and 20% stronger than regular carbon fibre, giving the car a",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "and has an electro-hydraulic actuation system. Pagani has stuck with a single-clutch gearbox because it weighs 40% less than",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "which is 40% lighter than its coupé counterpart. The car was constructed by a material developed by Pagani called 'carbon triax', which is a combination of tri-axis",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), with Sales and Marketing growing fastest (up",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "+1.3% (+19)",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "1.3% YoY",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "0.1% YoY",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Southern Europe accounts for the largest share of Pagani Automobili's global workforce with approximately",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "% of Total",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "\"BC\" as the initials of Benny Caiola, the very first customer of Pagani Automobili and great friend of Horacio Pagani. In 2016 Horacio dedicated the Huayra BC to Benny, a dedication from the heart, to the one who had been impressed by the passion and technology unleashed by these cars from the very beginning.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Automobili is pleased to announce the awarding of the Honoris Causa Master Degree to its Founder and Chief Designer Horacio Pagani. After almost 20 years since the world debut of the iconic Zonda C12, the Atelier of San Cesario Sul Panaro is preparing to celebrate another key achievement gained by its Founder, the fruit of a long study and a great deal of teamwork.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, comments on this new creation and the return to Goodwood:",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, comments on Pagani’s approach:",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate Supercar Garage",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", Founder and Chief Designer of Pagani Automobili",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "and the attendance of Founder and Chief Designer,",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "This Zonda is a rare gem, not only for the unique shade of its bodywork but also for the story it carries: the friendship between Horacio and its first owner, Benny Caiola. A discerning collector of supercars and Atelier Pagani’s very first customer in 1999, Caiola inspired the creation of chassis no. 057 and its bespoke color, “Bianco Benny.”",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, comments on this new creation and the return to Goodwood:",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, comments on Pagani’s approach:",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate Supercar Garage",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", Founder and Chief Designer of Pagani Automobili",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "and the attendance of Founder and Chief Designer,",
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "This Zonda is a rare gem, not only for the unique shade of its bodywork but also for the story it carries: the friendship between Horacio and its first owner, Benny Caiola. A discerning collector of supercars and Atelier Pagani’s very first customer in 1999, Caiola inspired the creation of chassis no. 057 and its bespoke color, “Bianco Benny.”",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate Supercar Garage",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, Pagani Automobili.",
+    "url": "https://www.pagani.com/it/press/pagani-huayra-codalunga-grandi-complicazioni-su-ruote/",
+    "pass": 1
+   },
+   {
+    "quote": "Horacio Pagani, Founder & Chief Designer, comments on this new creation and the return to",
+    "url": "https://www.pagani.com/app/uploads/2026/07/Pagani-at-Goodwood-Festival-of-Speed-2026_Press-Release_English-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Founder",
+    "url": "https://www.pagani.com/app/uploads/2026/01/Pagani-SpA_CES-2026_Press-Release_English.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "components. Founded in 1992 by Argentine-Italian engineer and entrepreneur",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "'s composites department, founded Pagani Composite Research in 1988. This new company worked with Lamborghini on numerous projects, including the restyling of the",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": ". jaylenosgarage.com. 25 April 2012.",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"First customer Pagani Utopia delivered; calls Monaco its home\"",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 381 employees in 2023 to 474 in 2026",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 10th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Pagani Automobili's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by North America and Northern Europe.",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili employees by region",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili employees by department",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in North America receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Pagani Automobili's headcount grew",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, up from",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Pagani Automobili employees located?",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Pagani Automobili employees are based in Southern Europe (",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by North America and Northern Europe.",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Pagani Automobili founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili was founded in",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "; Founder, Chairman Chief Designer & CEO of",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": ". He is the Founder and Chairman of",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": "so they could extend the production of the carbon parts for the Evoluzione. They refused, saying that Ferrari did not have an autoclave, so Lamborghini didn't need to have one. Pagani borrowed the capital to buy his own autoclave late in 1987 and then, in 1991, he broke away from the company and founded his own consultancy called Modena Design which continues to make carbon fiber composites for",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili Modena was founded by Horacio Pagani in 1992.",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": "Italian founders of motor vehicle manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili is Founded",
+    "url": "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "pass": 3
+   },
+   {
+    "quote": "of hypercar enthusiasts. The latest model to carry forth the genius of its founder? The Pagani Utopia. It is as captivating as anything to ever wear the brand's insignia, and is a reminder why securing a new Pagani custom order or reservation is such a competitive, coveted feat.",
+    "url": "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Il lavoro richiese un anno e si calcolò che vi fossero investite qualcosa come cinquemila ore di lavoro. Il veicolo fu terminato e presentato nel corso di una cena che contò tra gli invitati oltre 300 persone, tra le quali erano presenti giornalisti della stampa specializzata della città di Rosario, impresari, tecnici e fanatici delle corse.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The Lamborghini years.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "The passionate relationship began many years before Horacio Pagani started working for the Modenese manufacturer. He was fascinated by Bertone design: he admired his work and felt a great harmony of style with the designer, father of the most fascinating Lamborghini of all time, the Miura and Countach.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Gli anni Lamborghini.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Il rapporto appassionato iniziò molti anni prima che Horacio Pagani lavorasse per la casa modenese. Era affascinato dai disegni di Bertone: nutriva una viva ammirazione e avvertiva una grande sintonia di stile nei confronti del grande designer, padre delle Lamborghini più affascinati di ogni tempo, la Miura e la Countach.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Interrotta la collaborazione con Lamborghini, Pagani si dedicò alla progettazione di una nuova auto. Si era ormai convinto che le vetture da lui immaginate non rispecchiassero la Casa del Toro. Era tempo di pensare a un’automobile Pagani al 100%.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Un anno dopo l’esaltante esordio della Zonda C12, la Pagani Automobili era in condizione di presentare la Zonda S, che sfoderava un poderoso motore sette litri. La vettura, oltre al propulsore potenziato, presentava una vasta serie di migliorie tecniche.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Questa creazione, haute couture dell’arte automobilistica, presenta una tecnologia di ultima generazione ed è alimentata da un motore a 12 cilindri sviluppato da Mercedes AMG esclusivamente per Pagani, che promette un suono ancora più distintivo.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "This creation, the haute couture of automotive art, boasts the latest generation technology and is powered by a 12-cylinder engine developed exclusively for Pagani by Mercedes AMG that promises an even more distinctive roar.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Automobili è lieta di celebrare il conferimento della Laurea Honoris Causa al suo Fondatore e Chief Designer Horacio Pagani. A quasi vent’anni dal debutto dell’ iconica Zonda C12, l’Atelier di San Cesario sul Panaro si appresta a",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Pagani Automobili is pleased to announce the awarding of the Honoris Causa Master Degree to its Founder and Chief Designer Horacio Pagani. After almost 20 years since the world debut of the iconic Zonda C12, the Atelier of San Cesario Sul Panaro is preparing to celebrate another key achievement gained by its Founder, the fruit of a long study and a great deal of teamwork.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Leggera, dinamica e performante, è progettata in continuità con la versione Coupé, pur presentando elementi che ne esaltano il carattere unico.",
+    "url": "https://www.pagani.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 7, 2026 – Pagani Automobili announces its participation in the prestigious Goodwood Festival of Speed 2026, renewing the encounter between engineering excellence, art, a...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro – For the first time in the history of the Pagani Atelier, the Pagani Zonda C12S 7.0L will take center stage on the prestigious lawn of the Concorso d’Eleganza Villa d’Est...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro (MO), 4th December 2025",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, October 27th 2025 – Pagani Automobili returns to the international sta...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, October 17, 2025 – Pagani Automobili announces its return to Auto e Moto d’Epoca, taking place in Bologna from October 23 to 26. In this prestigious setting, the Pagani sta...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, September 4th, 2025 – Pagani Automobili returns to the spotlight at the Historic Minardi Day, taking place on September 13-14 at the Enzo and Dino Ferrari International Circu...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 29, 2025 – Pagani Automobili returns to the Monterey Car Week with an unprecedented showcase. For the first time, more than two decades of track-only Hypercars will come...",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 7, 2026",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Catarina Aviation Show, Pagani Arte shares its remarkable journey in the sector from the innovative cabin ceilings of the Airbus ACJ319neo “Infinito,” designed to dissolve the boundaries between cabin and sky, to the ultra-luxurious interiors of Gulfstream G650ER aircraft.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "a dedicated book accompanies the car, certifying the restoration process with original drawings and technical data from the archives in San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", immersing themselves in the history, vision, and values that gave rise to the creations of the Atelier in San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro (MO) / Las Vegas – January 7, 2026",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", designed and hand-crafted in the Atelier at San Cesario sul Panaro. This detail symbolizes the perfect integration between computing power and the artisanal craftsmanship that distinguishes the brand.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro (MO), 4",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro,",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside, the tartan upholstery pays homage to Juan Manuel Fangio — the Argentine driver, dear friend and inspiration to Horacio Pagani, who transformed speed into a form of art. Beneath the hood beats the naturally aspirated Mercedes-AMG V12 engine, a symbol of power and mechanical harmony, capable of delivering extraordinary performance and an unmistakable sound signature.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, September 4th, 2025",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 29, 2025",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 8, 2025",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Beneath the hood beats a heart forged for performance: the 60° Pagani V12, a 5,980 cc twin-turbo engine developed exclusively with Mercedes-AMG. This powerhouse delivers 864 HP (635 kW) at 6,000 rpm and 1,100 Nm (811 lb-ft) of torque, available from just 2,800 rpm, ensuring strong, effortless acceleration.",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "60° Pagani V12, 5,980 cc, twin-turbo, developed with Mercedes-AMG",
+    "url": "https://www.pagani.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "Grazie all’uso di materiali compositi avanzati e di tecnologia all’avanguardia, l’Utopia Roadster pesa solo 1.280 kg, esattamente quanto la versione Coupé.",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "Per l’unveiling, l’Utopia Roadster sarà presentata in una finitura in carbonio a vista di colore Rosso Habanero. Questa tonalità si trasforma da un rosso bruno in ombra a un rosso vivido e brillante sotto la luce del sole, esaltando l’inconfondibile trama della fibra di carbonio.",
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, July 7, 2026",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "pass": 1
+   },
+   {
+    "quote": "At the Catarina Aviation Show, Pagani Arte shares its remarkable journey in the sector from the innovative cabin ceilings of the Airbus ACJ319neo “Infinito,” designed to dissolve the boundaries between cabin and sky, to the ultra-luxurious interiors of Gulfstream G650ER aircraft.",
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "a dedicated book accompanies the car, certifying the restoration process with original drawings and technical data from the archives in San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", immersing themselves in the history, vision, and values that gave rise to the creations of the Atelier in San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-ice-st-moritz-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro (MO) / Las Vegas – January 7, 2026",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", designed and hand-crafted in the Atelier at San Cesario sul Panaro. This detail symbolizes the perfect integration between computing power and the artisanal craftsmanship that distinguishes the brand.",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro (MO), 4",
+    "url": "https://www.pagani.com/press/official-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro",
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro,",
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside, the tartan upholstery pays homage to Juan Manuel Fangio — the Argentine driver, dear friend and inspiration to Horacio Pagani, who transformed speed into a form of art. Beneath the hood beats the naturally aspirated Mercedes-AMG V12 engine, a symbol of power and mechanical harmony, capable of delivering extraordinary performance and an unmistakable sound signature.",
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, September 4th, 2025",
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 7 luglio 2026 – Pagani Automobili torna al Goodwood Festival of Speed 2026, portando la sua inconfondibile sintesi di eccellenza ingegneristica e arte in uno dei contesti pi�...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro – Per la prima volta nella storia dell’Atelier Pagani, la Pagani Zonda C12S 7.0L sarà protagonista sui prestigiosi prati del Concorso d’Eleganza Villa d’Este, segnando ...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 27 ottobre 2025 – Pagani Automobili torna al centro della scena ...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 17 ottobre 2025 – Pagani Automobili annuncia il proprio ritorno ad Auto e Moto d’Epoca in programma a Bologna dal 23 al 26 ottobre. In questa cornice, lo stand Pagani ospi...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 4 settembre 2025 – Pagani Automobili torna protagonista all’Historic Minardi Day, il 13 e 14 settembre all’Autodromo Internazionale Enzo e Dino Ferrari di Imola, un palco...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 29 luglio 2025 – Pagani Automobili torna alla Monterey Car Week con un’esposizione senza precedenti. Per la prima volta, oltre due decenni di Pagani da pista saranno riunit...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 2 luglio 2025 – Dal 10 al 13 luglio, Pagani Automobili partecipa al Goodwood Festival of Speed 2025, uno degli appuntamenti più iconici del panorama motoristico internazion...",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro, 7 luglio 2026",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": "San Cesario sul Panaro",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": ": un libro dedicato accompagna l’auto, certificando il processo di restauro con disegni originali e dati tecnici provenienti dagli archivi di San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   },
+   {
+    "quote": ", per immergersi nella storia, nella visione e nei valori che hanno dato origine alle creazioni dell’Atelier di San Cesario sul Panaro.",
+    "url": "https://www.pagani.com/it/press/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "“In 10 anni di collaborazione, tra i traguardi che ci siamo posti insieme a Pirelli c’era sicuramente quello del feeling sul",
+    "url": "https://www.pagani.com/it/press/huayra-roadster-bc/",
+    "pass": 1
+   },
+   {
+    "quote": "depending on the season, the mood, the desire to feel enclosed and protected or in contact with the open",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "the feet pads incorporating the iconic four exhaust symbol. The range of accessories is further enriched by",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "improved speed and comfort so that the driver feels as comfortable on the road as he does on the",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "The feeling inside the Utopia Roadster is absolutely unique, even in the very special context of",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "prompted the company to open new dealerships in various countries, with an annual production that",
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "hyper cars",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Horacio Pagani's Latest Supercar, The 864-Horsepower Utopia — Horacio Pagani's Latest Supercar, The 864-Horsepower Utopia Forbes https://www.forbes.com > 2022/11/21",
+    "url": "https://www.forbes.com/sites/markewing/2022/11/21/seven-pillars-of-pagani-automobili-horacio-paganis-latest-supercar-the-864-horsepower-utopia/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili - Facebook — Pagani Automobili - Facebook Facebook https://www.facebook.com > PaganiAutomobili > posts",
+    "url": "https://www.facebook.com/PaganiAutomobili/posts/one-of-the-services-that-atelier-pagani-has-always-offered-its-customers-is-the-/6087608784599543/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili - Wikipedia — Pagani Automobili - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Paga...",
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the history of Pagani ! - Facebook — Exploring the history of Pagani ! - Facebook Facebook https://www.facebook.com > Shmee150 > posts > explori...",
+    "url": "https://www.facebook.com/Shmee150/posts/exploring-the-history-of-pagani/953498329476479/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili Number of Employees 2026 - Revelio Labs — Pagani Automobili Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili Information - RocketReach — Pagani Automobili Information - RocketReach RocketReach https://rocketreach.co > pagani-autom...",
+    "url": "https://rocketreach.co/pagani-automobili-profile_b58bd47ff67e28e6",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili : Revenue , Employees & Org Chart | Zeliq — Pagani Automobili : Revenue , Employees & Org Chart | Zeliq Zeliq https://www.zeliq.com > manufacturing",
+    "url": "https://www.zeliq.com/company/italy/manufacturing/motor-vehicle-manufacturing/pagani-automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Is Pagani a billionaire? - Reddit — Is Pagani a billionaire? - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Pagani/comments/1hub5o3/is_pagani_a_billionaire/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Sports Cars [2003 to 2022] ❤️ Pagani Automobili ... — Pagani Sports Cars [2003 to 2022] ❤️ Pagani Automobili ... Facebook https://www.facebook.com > techtimespage > posts > paga...",
+    "url": "https://www.facebook.com/techtimespage/posts/pagani-sports-cars-2003-to-2022-%EF%B8%8Fpagani-automobili-spa-commonly-referred-to-as-p/615269514642124/",
+    "pass": 3
+   },
+   {
+    "quote": "MODENA DESIGN: THE HISTORICAL PAGANI COMPANY ... — MODENA DESIGN: THE HISTORICAL PAGANI COMPANY ... Pagani https://www.pagani.com > press > mo...",
+    "url": "https://www.pagani.com/press/modena-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Why do some supercar brands, like Pagani , rely heavily on ... — Why do some supercar brands, like Pagani , rely heavily on ... Quora https://www.quora.com > Why-do-so...",
+    "url": "https://www.quora.com/Why-do-some-supercar-brands-like-Pagani-rely-heavily-on-parts-from-other-companies-even-if-theyre-high-end",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili at CES 2026: Art and Science in the future ... — Pagani Automobili at CES 2026: Art and Science in the future ... Pagani https://www.pagani.com > press > pag...",
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "This is not traditional automotive news. But it is very Pagani . — This is not traditional automotive news. But it is very Pagani . AutoNext.co https://www.autonext.co > news > pag...",
+    "url": "https://www.autonext.co/news/pagani-arte-brings-huayra-r-and-bespoke-aviation-design-to-brazil",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili | MEHITS — Pagani Automobili | MEHITS Mitsubishi Electric Hydronics & IT Cooling Systems https://www.melcohit.com > stories",
+    "url": "https://www.melcohit.com/en/stories/567/pagani-automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili extends its brand experience to the world ... — Pagani Automobili extends its brand experience to the world ... Pagani https://www.pagani.com > press > pag...",
+    "url": "https://www.pagani.com/press/pagani-automobili-extends-its-brand-experience-to-the-world-of-simracing-by-partnering-with-asetek/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani and Asetek Pen SimSports Licensing Deal — Pagani and Asetek Pen SimSports Licensing Deal Asetek https://www.asetek.com > press-releases",
+    "url": "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili - Facebook — Pagani Automobili - Facebook Facebook https://www.facebook.com > PaganiAutomobili > posts",
+    "url": "https://www.facebook.com/PaganiAutomobili/posts/pagani25anniversary-a-story-of-technology-innovation-and-people-a-continuous-sea/613023364186396/",
+    "pass": 3
+   },
+   {
+    "quote": "Pagani Automobili S.p.A.: Merging Art and Science — Pagani Automobili S.p.A.: Merging Art and Science Harvard Business School AI Institute https://aiinstitute.hbs.edu > submission",
+    "url": "https://aiinstitute.hbs.edu/platform-rctom/submission/pagani-automobili-s-p-a-merging-art-and-science/",
+    "pass": 3
+   },
+   {
+    "quote": "Bosch Engineering × Pagani - YouTube — Bosch Engineering × Pagani - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=f7zlmjmmRuY",
+    "pass": 3
+   },
+   {
+    "quote": "Horacio Pagani (auto executive) - Wikipedia — Horacio Pagani (auto executive) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Hora...",
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "pass": 3
+   },
+   {
+    "quote": "A Man & His Dream: The History of Pagani — A Man & His Dream: The History of Pagani Pagani of Beverly Hills https://www.paganibeverlyhills.com > ...",
+    "url": "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "pass": 3
+   },
+   {
+    "quote": "PAGANI AUTOMOBILI . 25 YEARS OF HEART, HANDS AND ... — PAGANI AUTOMOBILI . 25 YEARS OF HEART, HANDS AND ... Pagani https://www.pagani.com > press > pag...",
+    "url": "https://www.pagani.com/press/pagani-automobili-25-years-of-heart-hands-and-passion/",
+    "pass": 3
+   },
+   {
+    "quote": "Horacio Pagani, founder of Pagani Automobili , has always ... — Horacio Pagani, founder of Pagani Automobili , has always ... Instagram https://www.instagram.com > reel > DXmr-UkkzL5",
+    "url": "https://www.instagram.com/reel/DXmr-UkkzL5/",
+    "pass": 3
+   },
+   {
+    "quote": "It's not a bad gig: founder of Pagani Automobili S.p.A., maker ... — It's not a bad gig: founder of Pagani Automobili S.p.A., maker ... Facebook https://www.facebook.com > ... > MotorTrend > Videos",
+    "url": "https://www.facebook.com/motortrend/videos/mt-exclusive-horacio-pagani-on-the-evolution-of-his-latest-hypercar/529801994454352/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pagani.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/utopia-roadster/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/utopia-roadster/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-automobili-on-lake-como-the-pagani-zonda-c12s-7-0l-officially-debuts-at-the-concorso-deleganza-villa-deste-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-automobili-at-the-ice-st-moritz-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/official-statement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/las-vegas-concours-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/auto-e-moto-d-epoca-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/press/historic-minardi-day-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-arte-al-catarina-aviation-show-dove-leccellenza-automobilistica-incontra-il-design-dalta-quota/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-automobili-sul-lago-di-como-la-pagani-zonda-c12s-7-0l-debutta-ufficialmente-al-concorso-deleganza-villa-deste-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-automobili-ces-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-huayra-r/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-huayra-codalunga-grandi-complicazioni-su-ruote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/presentazione-mondiale-della-nuova-pagani-utopia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/huayra-roadster-bc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagani.com/it/press/pagani-automobili-al-goodwood-festival-of-speed-anteprima-mondiale-della-pagani-huayra-70-derecho/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pagani.com/app/uploads/2026/07/Pagani-at-Goodwood-Festival-of-Speed-2026_Press-Release_English-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pagani.com/app/uploads/2026/05/Pagani-at-Villa-dEste-2026_Press-Release_English-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pagani.com/app/uploads/2026/01/Pagani-SpA_CES-2026_Press-Release_English.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pagani.com/app/uploads/2025/10/Press-Release-Auto-e-Moto-dEpoca-2025-English.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pagani.com/app/uploads/2025/09/Press-Release-Historic-Minardi-Day-2025-ENG-2808.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.forbes.com/sites/markewing/2022/11/21/seven-pillars-of-pagani-automobili-horacio-paganis-latest-supercar-the-864-horsepower-utopia/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/PaganiAutomobili/posts/one-of-the-services-that-atelier-pagani-has-always-offered-its-customers-is-the-/6087608784599543/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/pagani-automobili-profile_b58bd47ff67e28e6",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/techtimespage/posts/pagani-sports-cars-2003-to-2022-%EF%B8%8Fpagani-automobili-spa-commonly-referred-to-as-p/615269514642124/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/TheTrillionaireLife/posts/precision-meets-power-where-automotive-artistry-stands-face-to-face-with-militar/1501610804656560/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.autonext.co/news/pagani-arte-brings-huayra-r-and-bespoke-aviation-design-to-brazil",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/PaganiAutomobili/posts/pagani25anniversary-a-story-of-technology-innovation-and-people-a-continuous-sea/613023364186396/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pagani Automobili engineering services clients other industries",
+   "results": [
+    "https://www.forbes.com/sites/markewing/2022/11/21/seven-pillars-of-pagani-automobili-horacio-paganis-latest-supercar-the-864-horsepower-utopia/",
+    "https://www.facebook.com/PaganiAutomobili/posts/one-of-the-services-that-atelier-pagani-has-always-offered-its-customers-is-the-/6087608784599543/",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "https://www.facebook.com/Shmee150/posts/exploring-the-history-of-pagani/953498329476479/",
+    "https://www.frontiere.polimi.it/en/detail/art-science-technology-unique-design-of-horacio-paganis-hypercars",
+    "https://www.quora.com/Why-do-some-supercar-brands-like-Pagani-rely-heavily-on-parts-from-other-companies-even-if-theyre-high-end",
+    "https://www.pagani.com/press/pagani-automobili-announces-the-honoris-causa-degree-in-vehicle-engineering-to-horacio-pagani/",
+    "https://rocketreach.co/pagani-automobili-profile_b58bd47ff67e28e6",
+    "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "https://gaukmotorbuzz.com/news/pagani-performance-in-2025--financials--sales--top-models--and-market-trends"
+   ]
+  },
+  {
+   "query": "Pagani Automobili revenue turnover employees",
+   "results": [
+    "https://www.reveliolabs.com/companies/pagani-automobili/employees",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "https://rocketreach.co/pagani-automobili-profile_b58bd47ff67e28e6",
+    "https://www.zeliq.com/company/italy/manufacturing/motor-vehicle-manufacturing/pagani-automobili",
+    "https://www.reddit.com/r/Pagani/comments/1hub5o3/is_pagani_a_billionaire/",
+    "https://craft.co/pagani-automobili",
+    "https://www.pagani.com/press/pagani-automobili-with-record-year/",
+    "https://www.owler.com/company/pagani",
+    "https://www.zoominfo.com/c/pagani/345619879",
+    "https://corpdigest.com/company/pagani/financials"
+   ]
+  },
+  {
+   "query": "Pagani Automobili supplies components to OEM",
+   "results": [
+    "https://www.facebook.com/techtimespage/posts/pagani-sports-cars-2003-to-2022-%EF%B8%8Fpagani-automobili-spa-commonly-referred-to-as-p/615269514642124/",
+    "https://www.pagani.com/press/modena-design/",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "https://www.instagram.com/reel/DFWOeBMyPxA/",
+    "https://www.quora.com/Why-do-some-supercar-brands-like-Pagani-rely-heavily-on-parts-from-other-companies-even-if-theyre-high-end",
+    "https://www.motorauthority.com/news/1144693_pagani-starts-offering-its-artistry-to-rivals-via-modena-design",
+    "https://www.aznomautomotive.com/en/portfolio/pagani-en/",
+    "https://www.facebook.com/PaganiAutomobili/videos/breathing-new-life-into-a-piece-of-history-means-looking-to-the-future-with-a-de/8437687732919553/",
+    "https://f1rstmotors.com/news/after-nearly-30-years-pagani-revitalises-modena-design-to-take-on-new-markets",
+    "https://supercars.parts/pagani/"
+   ]
+  },
+  {
+   "query": "Pagani Automobili aerospace defence non-automotive",
+   "results": [
+    "https://www.pagani.com/press/pagani-automobili-ces-2026/",
+    "https://www.facebook.com/TheTrillionaireLife/posts/precision-meets-power-where-automotive-artistry-stands-face-to-face-with-militar/1501610804656560/",
+    "https://www.autonext.co/news/pagani-arte-brings-huayra-r-and-bespoke-aviation-design-to-brazil",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "https://www.melcohit.com/en/stories/567/pagani-automobili",
+    "https://www.forbes.com/sites/markewing/2022/11/21/seven-pillars-of-pagani-automobili-horacio-paganis-latest-supercar-the-864-horsepower-utopia/",
+    "https://www.caranddriver.com/pagani",
+    "https://www.pagani.com/utopia-roadster/",
+    "https://f1rstmotors.com/news/after-nearly-30-years-pagani-revitalises-modena-design-to-take-on-new-markets",
+    "https://www.netcarshow.com/pagani/2025-utopia_roadster/"
+   ]
+  },
+  {
+   "query": "Pagani Automobili licensing technology partnership",
+   "results": [
+    "https://www.pagani.com/press/pagani-automobili-extends-its-brand-experience-to-the-world-of-simracing-by-partnering-with-asetek/",
+    "https://www.asetek.com/press-releases/5014/?srsltid=AYCX9vJXFh9IXUHFLHNbB3_iaCSyWh36w1nmJpjEDLjBFdH8FSPfcVZm",
+    "https://www.facebook.com/PaganiAutomobili/posts/pagani25anniversary-a-story-of-technology-innovation-and-people-a-continuous-sea/613023364186396/",
+    "https://aiinstitute.hbs.edu/platform-rctom/submission/pagani-automobili-s-p-a-merging-art-and-science/",
+    "https://www.youtube.com/watch?v=f7zlmjmmRuY",
+    "https://www.reddit.com/r/tdu3/comments/1f6som2/pagani_licensing/",
+    "https://www.prnewswire.com/news-releases/in-collaboration-with-pagani-automobili-spa-piloti-inc-announces-limited-edition-release-of-new-luxury-product-the-roadster-driving-boot-300784743.html",
+    "https://owncloud.com/customers/pagani-automobili/",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili",
+    "https://www.artgroup-spa.com/technical-partnership-between-pagani-and-art/"
+   ]
+  },
+  {
+   "query": "Pagani Automobili founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)",
+    "https://www.paganibeverlyhills.com/history-of-pagani.htm",
+    "https://www.pagani.com/press/pagani-automobili-25-years-of-heart-hands-and-passion/",
+    "https://www.instagram.com/reel/DXmr-UkkzL5/",
+    "https://www.facebook.com/motortrend/videos/mt-exclusive-horacio-pagani-on-the-evolution-of-his-latest-hypercar/529801994454352/",
+    "https://www.motorauthority.com/news/1076099_the-story-of-pagani-automobili-video",
+    "https://www.facebook.com/groups/1434046513351395/posts/8017746788314635/",
+    "https://luxcior.com/horacio-pagani/",
+    "https://www.carsup.io/en-gb/blog/horacio-pagani-du-carbone-ou-rien",
+    "https://en.wikipedia.org/wiki/Pagani_Automobili"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像6件／外部14頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像6件／外部14頁・検索6回）"
+ }
+}

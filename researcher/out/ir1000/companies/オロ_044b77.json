@@ -1,0 +1,1468 @@
+{
+ "name": "オロ",
+ "aliases": [],
+ "context": "証券コード3983／情報・通信業／プライム（内国株式）／2025.12期 売上高8,308百万円 営業利益率31.9%",
+ "researched_at": "2026-11-02T14:40:51.078720+00:00",
+ "official_url": "https://www.oro.com/",
+ "identified_by": "search:ddgs:google:オロ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1999年1月20日",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1999年（ 平成 11年）1月20日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体352名/連結621名(2026年6月30日現在)",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "242人 (2020年12月末日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "クラウドソリューション事業 クラウド ERP「ZAC」の開発・提供 クラウド PSA「Reforma PSA」の開発・提供 企業向けシステムソリューションの提供 企業向けITインフラソリューションの提供 ビジネスプロセスアウトソーシング　他 マーケティングコミュニケーション事業 企業のデジタル戦略策定および推進支援 各種マーケティングプロモーションの企画・実施・運用 海外向けプロモーション支援　他",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "クラウドサービス 、 デジタルトランスフォーメーション 事業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5,240百万円 (2020年12月末日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "自動請求・顧客管理・詳細な分析機能で事業運営を速く、正確に",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "マーケティング立案や顧客体験設計からクリエイティブ開発、データドリブンマーケティングまでワンストップで実現",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "オログループの経営理念は「社員全員が世界に誇れる物（組織・製品・サービス）を創造し、より多くの人々（同僚・家族・取引先・株主・社会）に対してより多くの「幸せ・喜び」を提供する企業となる",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会は、「オログループ活動指針」及び金融商品取引所が定める「コーポレートガバナンス・コード」の趣旨に賛同し、透明性が高く柔軟な組織とシステムを構築し、株主と当社の顧客に対する責任を果たします",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": ")を主要な取引先とする者(※1)又はその業務執行者(※2)",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2.当社グループの主要な取引先(※3)又はその業務執行者",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "※1「主要な取引先とする者」とは、直前3事業年度のいずれかにおいて、当社グループとの取引金額が、当該取引先の連結売上高の2%を超える者をいう",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "※3「主要な取引先」とは、直前3事業年度のいずれかにおいて、当社グループの当該取引先との取引金額が、当社グループの連結売上高の2%を超える者をいう",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらのソリューション導入だけでなく、企業のデジタルマーケティング支援も手がけることで、事業活動のオンライン化やブランディングを包括的にサポートし、顧客企業が成果を出しやすい環境を整備する点が大きな強みです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オロの主要活動は、自社開発のクラウドソリューションを継続的にアップデートする研究開発と、それを顧客企業に導入・運用するコンサルティングサービスの提供です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客企業に対しては、導入時のプロセス分析や要件定義だけでなく、実運用後のサポートに至るまでを一貫して行うことで、現場の声をフィードバックしながらソリューションを最適化していくのが特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これによってシステム導入とマーケティングの双方にわたるノウハウが蓄積され、顧客の業務効率だけでなく、成長戦略やブランディング施策にも貢献できる仕組みを確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、マーケティングコミュニケーション事業においてはクリエイティブディレクターやデジタルマーケターが連携し、顧客企業が求めるデザインやコンテンツを迅速かつ的確に制作しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客企業が海外展開を視野に入れる場合には、現地でのマーケティングやローカライズに精通したパートナー企業と協業することで、スピーディーに対応できる利点を持ちます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このような多面的なパートナーシップによって、オロは自社の強みである製品開発力とコンサルティング力をより効率的かつ広範に活用し、顧客企業が求める成果を最大化する環境を用意しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロでは主に自社営業チームによる直接的なアプローチと、オンラインプラットフォームを活用した認知拡大によって顧客との接点を作っています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、一部の市場では代理店契約や販売パートナーを介した導入支援も行い、潜在顧客へリーチするチャンネルを多層的に確保しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このようにオンラインオフライン双方のチャンネルを組み合わせることで、顧客が製品導入を検討する際の障壁を下げ、スムーズな意思決定を後押ししている点が特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロではコンサルティングを通じて顧客企業の経営課題や運用上の問題点を深く把握し、それに応じた最適なクラウドソリューションやマーケティング施策を提案しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、導入後の運用フェーズでは専任チームが定期的にヒアリングを行い、追加機能の提案や改善要望への対応を迅速に行うことで、顧客満足度を高める仕組みを築いています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みによって顧客企業からのリピート契約や追加サービスの導入が進み、長期的に安定した収益モデルを形成しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みにより、オロは顧客セグメントを拡大しながら、各業界の特性に合ったソリューションを提供している点が大きな特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス収益はサブスクリプションモデルが中心であり、顧客が継続的に利用するほど安定したストック収益源となります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "まず、クラウドERPやPSAを導入した企業に対しては、業務効率化やコスト削減による成功体験を通じて高い顧客満足度を提供します",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ここで蓄積された顧客データや運用上の課題は、マーケティングコミュニケーション事業側にも有用なインサイトを与え、デジタル施策やプロモーション戦略の最適化につながります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "逆にマーケティング施策の結果として新規顧客が拡大すれば、クラウドソリューションの導入需要も増加するため、両事業が互いに見込み顧客を送り込む好循環が生まれます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このフィードバックをうまく回していくことで、導入企業からの機能要望やマーケティングの新手法がさらに洗練され、次の製品改良や新規サービス拡充につながるのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロはクラウド製品とマーケティング支援を統合することで、顧客企業が抱える複雑な課題をワンストップで解決できる強みを有しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内でのシェア拡大だけでなく、海外展開を望む顧客企業に向けたサポートを拡充する余地も大きいです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、デジタルマーケティング領域は常に新技術が台頭してくるため、最新の手法を取り入れつつ顧客の成果最大化に貢献していくことが、今後の収益拡大とブランド力強化の大きなポイントとなりそうです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、自分の興味としては、数字を扱うようなポジションや、コンサルティング、営業といったお客様と直接向き合うフロントサイドの仕事にすごく惹かれていたんです",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "新卒で右も左も分からない状態から、ZACのような専門的なシステムをお客様にどう提案すべきか、ビジネスマンとしてのあるべき姿のようなものを肌で学べたのが一番大きかったですね",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、営業スキルはもちろん、お客様とのコミュニケーションの取り方、提案の仕方など、基礎の基礎を徹底的に教えていただきました",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクトで印象に残っているのは、あるお客様を担当した時の経験です",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "当時のチーム長と頻繁に、多い時は週に1回ほどお客様のもとに通って提案を重ねました",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "その過程で、お客様の課題を深く理解し、提案を詰めていく進め方を学べたのは、今の仕事にも繋がる貴重な経験だったと思っています",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "CS事業部の新規営業としてお客様と向き合う中で、営業はもちろんですが、就職活動の時から「色々なことをやってみたい」という思いが強くありました",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "CS事業部の新規営業として資料作成や提案、お客様とのやり取りを経験してきましたが、異動することで、例えばマーケティングの領域にも関わったり、これまで経験したことのない業務にチャレンジできるんじゃないかという期待が、当時の自分にとってすごく新鮮で魅力的でした",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業にはまだお客様がほとんどいない状態からのスタートだったので、ゼロからお客様を開拓していくという状況は、CS事業部の新規営業とはまた違った重圧を感じました",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、営業のスキルはもちろん重要ですが、マーケティングの知識があればより効果的な顧客開拓ができますし、カスタマーサクセスの経験があれば顧客視点に立った提案ができます",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "より多くのお客様にdxecoの価値を理解していただき、導入していただけるように日々活動しています",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "最近、優秀な営業メンバーがチームに加わってくれたので、営業の最前線は彼らに任せつつ、私がこれまでお客様の声を聞いてきた中で得た知識や課題感を、開発チームにしっかりと伝え、より価値あるプロダクト作りに貢献していきたいです",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "お客様と開発の橋渡しのような役割を担えるようになりたいと思っています",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトの完成度は高く、導入企業数は1000を超えている一方で解約率は0.3%前後と極めて低くなっており、社員全員が誇りを持って業務に取り組んでいます",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "卓越した発想力と最新の技術力をベースに、業務改善・経営効率化を支援するクラウドソリューションとデジタルを基軸に企業のマーケティング活動をワンストップで支援するマーケティングコミュニケーションに関するソリューションを提供しています",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "広告・IT・コンサルティング業などに豊富な導入実績を誇る、知的サービス業に特化したクラウドERP",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "知的サービス業向けのクラウドPSA",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションサービス事業者の販売管理を効率化",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "」SaaS管理サービス「dxeco」が新名称「applog（アップログ）」へ",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ITサービスマネジメントシステム（ITSMS）",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※業務システムZAC保守･運用・開発サービスにおいて",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような環境の中、我々は目先の短期的な視点で物事を判断せず、中長期の発展を見据えて、社会的に意義のある製品・サービスを提供し世界に通ずる会社を作り上げることによって、株主・投資家のみなさまのご期待にお応えしたいと思います",
+    "url": "https://www.oro.com/ja/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/highlight/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/treat/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/notice/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は受託開発を基軸としたビジネス展開後、2004年にウェブサイト構築、運用保守業務を、2006年にSaaS対応型のERPパッケージ「ZAC」の開発・販売を開始し、現在の主力の2事業につながっております",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、“Technology×Creative”をスローガンに、Web技術やクラウド技術を使って、企業の内側と外側を強くするサービスを展開しています",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "➀クラウドソリューション事業（企業の内側を強くする仕事）",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "主力製品である「ZAC」は中小・中堅企業を対象に、ソフトウェア、ITサービス、広告やWebなどの比較的新しい成長業種に特化したクラウド型の統合業務システムとなります",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製造・流通・小売・建設を対象にしたERPパッケージや、単一機能のクラウドソリューションが多い中、この領域に特化したクラウド型ERPとして強みがあります",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "➁マーケティングソリューション事業（企業の外側を強くする事業）",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "大企業向けにマーケティング戦略の立案から広告・PR戦略、プロモーション企画、CRM、マーケティング業務の運用サポートなどワンストップフルサービスで提供しています",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "高度で多様な人材の活躍の場を設けて創発を促進し、サービスの高付加価値化を実現します",
+    "url": "https://www.oro.com/ja/ir/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション事業",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けシステムソリューションの提供",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "企業向けITインフラソリューションの提供",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスで取り扱う個人情報に関して取得しています",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスで取り扱う情報資産に関して取得しています",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "オログループの経営理念は「社員全員が世界に誇れる物（組織・製品・サービス）を創造し、より多くの人々（同僚・家族・取引先・株主・社会）に対してより多くの「幸せ・喜び」を提供する企業となる",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役会は、「オログループ活動指針」及び金融商品取引所が定める「コーポレートガバナンス・コード」の趣旨に賛同し、透明性が高く柔軟な組織とシステムを構築し、株主と当社の顧客に対する責任を果たします",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、社外役員の独立性判断基準として、金融商品取引所の定める独立性基準を充たしていることに加え、以下の要件のいずれにも該当しない場合に独立性を有するものと判断します",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.oro.com/ja/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "日本の情報処理サービス業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オロは、企業の経営効率化とブランド価値向上をデジタルテクノロジーとクリエイティブの双方から支援する、情報通信・ソリューション企業です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、二大柱として、企業の経営資源を一元管理し業務効率化を推進する自社開発のクラウド型ERP（統合基幹業務システム）「ZAC（ザック）」を展開する「クラウドソリューション事業」と、企業のマーケティング戦略、Web戦略の立案からデジタル領域のクリエイティブ・システム構築、海外展開までをトータルで支援する「デジタルトランスフォーメーション（DX）事業」を確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "特に知的サービス業（IT・広告・コンサルティング業など）に特化したERPとしての高い専門性と、安定的なサブスクリプション型のストック収益モデルを大きな強みとしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期において売上高が成長した一方で利益が微減となった主な理由と背景としては、中核であるクラウドソリューション事業において「ZAC」の新規ライセンス契約や月額ストック収入が堅調に積み上がったものの、将来の持続的成長や認知度拡大に向けたマーケティング活動（広告宣伝費の投入）、および優秀なIT人材・コンサルタントの獲得に伴う人件費や採用・教育コストといった先行投資の負担が一時的に重なったことが挙げられます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "第1四半期で劇的なV字回復を果たした要因としては、これまでの投資効果が実を結び、主力の「ZAC」を中心としたクラウド型サービスの月額リカーリング（ストック）売上が極めて好調に拡大したこと、またDX事業における大口案件の受注増や生産性向上の取り組みが結実したことで、増収分がそのまま利益へと直結する筋肉質な収益構造の構築に成功したためです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オロが提供する価値は、企業の業務効率を高めるクラウドソリューションと、デジタル時代に対応したマーケティング戦略の両軸から成り立っています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、これらのソリューション導入だけでなく、企業のデジタルマーケティング支援も手がけることで、事業活動のオンライン化やブランディングを包括的にサポートし、顧客企業が成果を出しやすい環境を整備する点が大きな強みです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オロの主要活動は、自社開発のクラウドソリューションを継続的にアップデートする研究開発と、それを顧客企業に導入・運用するコンサルティングサービスの提供です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自社製品であるZACやReforma PSAは、クラウド環境で常に機能拡張やバグ修正を行うため、最新の業務要件にも対応しやすくなっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、顧客企業に対しては、導入時のプロセス分析や要件定義だけでなく、実運用後のサポートに至るまでを一貫して行うことで、現場の声をフィードバックしながらソリューションを最適化していくのが特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のクラウドソリューションは、外部製品のOEMではなくオロ自身が技術的に深く理解していることから、要望に応じて柔軟にシステムをカスタマイズできる強みを持ちます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロが提供するサービスは幅広い分野に及ぶため、必要に応じて技術提携先やマーケティング領域の協力会社と連携を深めながらプロジェクトを進めています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "例えばクラウドプラットフォームのインフラ面では大手クラウドサービス事業者を活用し、安定性とセキュリティを確保するとともに、最先端の機能を活用しやすい体制を築いています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このような多面的なパートナーシップによって、オロは自社の強みである製品開発力とコンサルティング力をより効率的かつ広範に活用し、顧客企業が求める成果を最大化する環境を用意しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には自社公式サイトやWebセミナー、ホワイトペーパーのダウンロード施策などを通じて、クラウドソリューションやマーケティング支援サービスの有用性を訴求しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスク事業者のための",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "サブスクリプションサービス事業者の販売管理を効率化",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "オロ、従業員持株会の奨励金を「100％」へ大幅引き上げ〜月額最大7万5,000円を会社が上乗せ",
+    "url": "https://www.oro.com/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "※業務システムZAC保守･運用・開発サービスにおいて",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当初は受託開発を基軸としたビジネス展開後、2004年にウェブサイト構築、運用保守業務を、2006年にSaaS対応型のERPパッケージ「ZAC」の開発・販売を開始し、現在の主力の2事業につながっております",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "特に知的サービス業（IT・広告・コンサルティング業など）に特化したERPとしての高い専門性と、安定的なサブスクリプション型のストック収益モデルを大きな強みとしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期において売上高が成長した一方で利益が微減となった主な理由と背景としては、中核であるクラウドソリューション事業において「ZAC」の新規ライセンス契約や月額ストック収入が堅調に積み上がったものの、将来の持続的成長や認知度拡大に向けたマーケティング活動（広告宣伝費の投入）、および優秀なIT人材・コンサルタントの獲得に伴う人件費や採用・教育コストといった先行投資の負担が一時的に重なったことが挙げられます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "第1四半期で劇的なV字回復を果たした要因としては、これまでの投資効果が実を結び、主力の「ZAC」を中心としたクラウド型サービスの月額リカーリング（ストック）売上が極めて好調に拡大したこと、またDX事業における大口案件の受注増や生産性向上の取り組みが結実したことで、増収分がそのまま利益へと直結する筋肉質な収益構造の構築に成功したためです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "収益の大きな柱となっているのはクラウド製品のライセンス収益と、導入コンサルティング費用です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス収益はサブスクリプションモデルが中心であり、顧客が継続的に利用するほど安定したストック収益源となります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%94%B0%E7%AF%A4",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトの完成度は高く、導入企業数は1000を超えている一方で解約率は0.3%前後と極めて低くなっており、社員全員が誇りを持って業務に取り組んでいます",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "マイクロソフト認定ゴールドパートナー取得",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サステナビリティについての考え方やその基となる経営理念とマテリアリティの関連性についてご紹介します",
+    "url": "https://www.oro.com/ja/ir/sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "(3)指名報酬委員会",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、2022年3月25日付で取締役会の任意の諮問機関として、委員の過半数を独立社外取締役とする指名報酬委員会を設置しております",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "指名報酬委員会は、取締役の指名、報酬等に対し経営から独立した立場で関与することで、決定プロセスの透明性・客観性を高め、経営の監視・監督機能を強化することを目的としております",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "取締役候補者の指名、後継者計画等及び取締役の報酬等の公正・妥当性について、指名報酬委員会における審議を経たうえで取締役会に答申され、決定されるプロセスとしております",
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "また、顧客企業が海外展開を視野に入れる場合には、現地でのマーケティングやローカライズに精通したパートナー企業と協業することで、スピーディーに対応できる利点を持ちます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このような多面的なパートナーシップによって、オロは自社の強みである製品開発力とコンサルティング力をより効率的かつ広範に活用し、顧客企業が求める成果を最大化する環境を用意しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、一部の市場では代理店契約や販売パートナーを介した導入支援も行い、潜在顧客へリーチするチャンネルを多層的に確保しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店やITサービス企業など、プロジェクトごとに人員管理・予算管理が必要な業態では、クラウドPSAのReforma PSAが大きな効果を発揮しやすいです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "MANAGEMENT TEAM マネージメントチーム 役員紹介",
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%94%B0%E7%AF%A4",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革｜株式会社オロ",
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月",
+    "url": "https://www.oro.com/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期",
+    "url": "https://www.oro.com/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月16日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第3四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第2四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月期 第1四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月13日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第3四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第2四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月期 第1四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第3四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年8月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第2四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月期 第1四半期決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年12月期 決算発表",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月14日",
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年（平成29年）3月24日に東京証券取引所マザーズに上場したのち、",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年（平成30年）3月26日に東京証券取引所第一部に市場変更、",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年（令和4年）4月1日に東京証券取引所プライム市場に移行し、現在に至ります",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "1999年1月20日",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年6月29日",
+    "url": "https://www.oro.com/ja/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月26日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "1999年（",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "1999年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2000年 - 株式会社オロに改組",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2006年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2012年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2013年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2014年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2016年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年 -",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2018年 - 東京証券取引所市場第一部へ市場変更",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2017年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "1999年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月期通期において売上高が成長した一方で利益が微減となった主な理由と背景としては、中核であるクラウドソリューション事業において「ZAC」の新規ライセンス契約や月額ストック収入が堅調に積み上がったものの、将来の持続的成長や認知度拡大に向けたマーケティング活動（広告宣伝費の投入）、および優秀なIT人材・コンサルタントの獲得に伴う人件費や採用・教育コストといった先行投資の負担が一時的に重なったことが挙げられます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "主な事業内容と強みを教えてください",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "製造・流通・小売・建設を対象にしたERPパッケージや、単一機能のクラウドソリューションが多い中、この領域に特化したクラウド型ERPとして強みがあります",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジーを活用したリアルタイムなPDCAや、データを元にしたデジタルマーケティングによるROIの改善に強みがあります",
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "特に知的サービス業（IT・広告・コンサルティング業など）に特化したERPとしての高い専門性と、安定的なサブスクリプション型のストック収益モデルを大きな強みとしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的にはクラウドERPのZACを活用することで、受注管理や在庫管理、会計処理といった複数の業務プロセスを一元化し、経営判断のスピードを加速させるメリットを提供します",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "また、これらのソリューション導入だけでなく、企業のデジタルマーケティング支援も手がけることで、事業活動のオンライン化やブランディングを包括的にサポートし、顧客企業が成果を出しやすい環境を整備する点が大きな強みです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発のクラウドソリューションは、外部製品のOEMではなくオロ自身が技術的に深く理解していることから、要望に応じて柔軟にシステムをカスタマイズできる強みを持ちます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このような多面的なパートナーシップによって、オロは自社の強みである製品開発力とコンサルティング力をより効率的かつ広範に活用し、顧客企業が求める成果を最大化する環境を用意しているのです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロが特に強みを発揮しているのは、プロジェクト型のビジネスを展開する中堅・大手企業です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、製造業や小売業など幅広い業種の企業向けには、ZACを中心としたERPソリューションの導入を提案し、在庫管理や受発注管理の効率化をサポートしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロはクラウド製品とマーケティング支援を統合することで、顧客企業が抱える複雑な課題をワンストップで解決できる強みを有しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルから読み解く成長戦略 株式会社オロの潜在力に迫る最新考察 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルから読み解く成長戦略 株式会社オロの潜在力に迫る最新考察",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "特に知的サービス業（IT・広告・コンサルティング業など）に特化したERPとしての高い専門性と、安定的なサブスクリプション型のストック収益モデルを大きな強みとしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "第1四半期で劇的なV字回復を果たした要因としては、これまでの投資効果が実を結び、主力の「ZAC」を中心としたクラウド型サービスの月額リカーリング（ストック）売上が極めて好調に拡大したこと、またDX事業における大口案件の受注増や生産性向上の取り組みが結実したことで、増収分がそのまま利益へと直結する筋肉質な収益構造の構築に成功したためです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "このようにエンジニアリングとマーケティング、クリエイティブの三位一体を実現できる組織構造こそが、オロのビジネスモデルを下支えしています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みによって顧客企業からのリピート契約や追加サービスの導入が進み、長期的に安定した収益モデルを形成しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "オロのビジネスモデルは、クラウドソリューション事業とマーケティングコミュニケーション事業の相乗効果によって自己強化ループが機能しやすい構造になっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、自社開発製品とコンサルティングを組み合わせたビジネスモデルであるため、エンジニアやコンサルタント、デザイナーなど多彩な職種が活躍できる環境があります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "BBDイニシアティブのビジネスモデルと成長戦略が生む魅力",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソフィアホールディングスの成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和システムエンジニアリングのビジネスモデルに迫る 伸び続ける成長戦略の秘密",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フォーサイドのビジネスモデルを徹底解説 今注目の成長戦略とは",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社スマートドライブのビジネスモデルを深堀り 成長戦略が明かす未来",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社トレードワークスのビジネスモデルと成長戦略を見据えた長期視点の企業研究",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "船舶塗料で世界をリードする成長戦略 中国塗料のビジネスモデルと最新動向を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "我々は、経営・管理会計領域のITソリューションを開発提供するクラウドソリューション事業部と、マーケティング領域でクライアント支援を行うマーケティングコミュニケーション事業部という2つの全く異なるビジネスモデルで創業以来26期連続で成長を続けています",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの取り組みにより、オロは顧客セグメントを拡大しながら、各業界の特性に合ったソリューションを提供している点が大きな特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "オロ (企業) - Wikipedia — 株式会社 オロ 【東証1部上場】テクノロジー×クリエイティブで未来を変える！ 多様な個性がシナジーを生み出し「挑戦」と「安定」を両立 Green オロ、クラウドで働き方改革支援好調中堅企業の素顔 日本経済新聞2019年5月30日",
+    "url": "https://ja.wikipedia.org/wiki/オロ_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルから読み解く成長戦略 株式会社オロの潜在力に迫る最新... — Jun 6, 2025 · オロはクラウド製品とマーケティング支援を統合することで、顧客企業が抱える複雑な課題をワンストップで解決できる強みを有しています。 この総合力は、AIやデータ分析技術の進化に伴ってさらに重要性を増していくと考えられます。",
+    "url": "https://consovation.com/ビジネスモデルから読み解く成長戦略-株式会社-2/",
+    "pass": 3
+   },
+   {
+    "quote": "創業来24年連続増収。超高収益ERP SaaS『オロ』の差別化戦略 | Tech G... — Oct 6, 2024 · SaaS企業のPlaybookとなっている典型的な成長モデルは、VCから調達した資金をプラットフォーム開発やセールス＆マーケに投資し、赤字を許容しつつリカーリング収益を積み上げていくものです。",
+    "url": "https://industrysafari.theletter.jp/posts/9bf12630-8397-11ef-96ed-23d8cac3709c",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オロ — AI時代のアプリ管理・投資判断プラットフォームへと進化 2026.08.03 オロ、従業員持株会の奨励金を「100％」へ大幅引き上げ〜月額最大7万5,000円を会社が上乗せ。 より多くの社員の資産形成と自己実現を強力に支援〜",
+    "url": "https://www.oro.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "PROFILE - 企業情報｜株式会社オロ — オロでは、従業員の継続的なスポーツの実施に向け、室内運動器具の設置や健康推進手当等の拡充、スポーツイベントの実施等を通して「健康にいきいきと働ける職場環境づくり」に取り組んでまいります。",
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "オロ (企業) - Wikipedia — 沿革 1999年 - 東京都 荒川区 に有限会社オロを設立 [8]。 2000年 - 株式会社オロに改組 [8]。 2006年 - 東京都 目黒区 目黒 に本社を移転 [8]。 2012年 - マレーシア にoRoMalaysiaSdn.Bhd.を設立 [8]。 2013年 - ベトナム にoRoVietnamCo.,Ltd.を設立。",
+    "url": "https://ja.wikipedia.org/wiki/オロ_(企業)",
+    "pass": 3
+   },
+   {
+    "quote": "オロ（3983）の事業内容、事業の状況や経営戦略、事業等のリスクにつ... — 本ページでは、有価証券報告書記載のオロの事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。 最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3983",
+    "pass": 3
+   },
+   {
+    "quote": "川田篤 - Wikipedia — 川田篤 川田 篤 （かわた あつし、 1973年 9月8日 - ）は、 日本 の 実業家。 株式会社 オロ 創業者・ 代表取締役 社長 、 ネットイヤーグループ 株式会社 取締役。",
+    "url": "https://ja.wikipedia.org/wiki/川田篤",
+    "pass": 3
+   },
+   {
+    "quote": "【社員インタビュー】チャンスを掴んでCS事業部の新規営業から新規事... — Apr 21, 2026 · オロでは変化を恐れずに挑戦する姿勢を応援する文化があります。 こんにちは、オロnote編集部です。 今回は、2021年に新卒入社し、現在は社長室の新規事業開発チームで活躍する渡邉さんにお話を伺いました。",
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "pass": 3
+   },
+   {
+    "quote": "オロMC営業最前線！リーダーの顔に迫る｜株式会社オロ — Apr 16, 2021 · こんにちは！ 社長室の大場です。 今回はマーケティングコミュニケーション事業部の営業リーダー2名にインタビューしました！ それぞれのグループで大手クライアントの営業マネジメントに携わり、採用活動においては選考官として求職者と接する2人。",
+    "url": "https://note.com/oro_official/n/need2f0845cc5",
+    "pass": 3
+   },
+   {
+    "quote": "広い視野でオロを支える。入社10年で8職種を経験した社長室の室長。｜... — Nov 8, 2019 · その広い視野はどう活かされていると思いますか？ いまは社長室の室長として、会社をより良くしていくための様々なプロジェクトに関わっています。 扱っているテーマは影響範囲が大きいものも多いので、色々な立場で考えることが求められます。",
+    "url": "https://note.com/oro_official/n/n25f7e419aaab",
+    "pass": 3
+   },
+   {
+    "quote": "役員紹介｜株式会社オロ — 株式会社オロの取締役・監査役をご紹介しています。 株式会社オロは“Technology × Creative”をスローガンにテクノロジー・オリエンテッド・カンパニーとして、最先端の技術分野に挑戦し、世界に誇れる組織づくりを目指しています。",
+    "url": "https://www.oro.com/ja/corporate/management/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oro.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/highlight/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/treat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/notice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/irnews/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/ir/management/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oro.com/ja/environment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.oro.com/ja/img/index/img-service_global_business.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%88%90%E9%95%B7%E6%88%A6%E7%95%A5-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AD_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%94%B0%E7%AF%A4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オロ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オロ",
+    "https://ja.wikipedia.org/wiki/オロ_(企業)",
+    "https://www.oro.com/ja/",
+    "https://www.oro.com/ja/corporate/profile/",
+    "https://ollo.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3983",
+    "https://omocoro.jp/"
+   ]
+  },
+  {
+   "query": "オロ ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オロ_(企業)",
+    "https://consovation.com/ビジネスモデルから読み解く成長戦略-株式会社-2/",
+    "https://industrysafari.theletter.jp/posts/9bf12630-8397-11ef-96ed-23d8cac3709c",
+    "https://www.oro.com/ja/",
+    "https://www.oro.com/ja/corporate/profile/",
+    "https://jobhakase.com/archives/21673",
+    "https://ollo.jp/"
+   ]
+  },
+  {
+   "query": "オロ 決算説明資料",
+   "results": []
+  },
+  {
+   "query": "オロ 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/オロ_(企業)",
+    "https://note.com/powerpoint_jp/n/n93ee16c72a92",
+    "https://www.oro.com/ja/corporate/profile/",
+    "https://www.oro.com/ja/",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=3983",
+    "https://kitaishihon.com/company/3983/business",
+    "https://consovation.com/ビジネスモデルから読み解く成長戦略-株式会社-2/"
+   ]
+  },
+  {
+   "query": "オロ 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/川田篤",
+    "https://www.wantedly.com/companies/oro/post_articles/1059550",
+    "https://note.com/oro_official/n/need2f0845cc5",
+    "https://note.com/oro_official/n/n25f7e419aaab",
+    "https://www.oro.com/ja/corporate/management/",
+    "https://www.president-vision.com/state-backnumber-action-view-id-1169/",
+    "https://japaneseinvestor.jp/jilist/company/129/"
+   ]
+  }
+ ],
+ "missing": {}
+}

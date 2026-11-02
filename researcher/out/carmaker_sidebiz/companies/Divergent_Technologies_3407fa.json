@@ -1,0 +1,1904 @@
+{
+ "name": "Divergent Technologies",
+ "aliases": [
+  "Divergent",
+  "DAPS",
+  "ダイバージェント"
+ ],
+ "context": "AM構造材を他社へ供給（米）",
+ "researched_at": "2026-11-02T14:51:59.320597+00:00",
+ "official_url": "https://www.divergent3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Erhartic credits Divergent colleagues and leaders, such as Matt Strasberg, Senior Director of Materials and Processes, and George Patino, Senior Program Manager, for guiding this initiative that has drawn input from every branch of the DoD, major defense contractors, and NASA.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". Today, Divergent has contracts with dozens of aerospace and defense customers. Over the next three years, Czinger expects about 70% of revenue from aerospace contracts and 30% from the automotive sector.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling from luxury and defense contracts to mass-market viability remains unproven.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Contract Vehicles",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Contracts",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contracts",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The Czinger 21c supercar is created in part by Divergent 3D printed parts.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin was an entrepreneur who changed jobs – and locations – frequently, which Lukas attributes, giving him a head start in life. At 14, he even spent a summer interning at an auto parts supplier in China (with supervision from the company’s owner).",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Various automotive parts after additive material “3D printing”",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent’s Torrance factory is a vertically integrated additive manufacturing facility. It utilizes proprietary software and hardware in a tech stack it developed at the cost of hundreds of millions of dollars and has more than 600 patents.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The Torrance factory contains a lab where it creates chemical formulas for its powdered aluminum alloys and other metals used in the printing process. Those alloys are then used in the company’s onsite 3D printers where the powder is melded together layer by layer with very little waste. Any unused powder goes back into the supply.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The parts are completed to any specifications. Finishing could include a dip in the on-site, fully automated anodizing bath, which treats the parts electrochemically to make them harder and more wear resistant. An array of robotic assembly arms assembles parts into the complete structure.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company employs about 500 people, including its sister company Czinger Vehicles. Their production street-legal hypercar, the 21C, set five track records in California last year while driving between the courses on public roads. The car heavily utilizes the parent company’s 3D printed parts, from suspension to the steering wheel.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Movandi Unveils MV6055 60GHz Transceiver With 5Gbps+ Speeds for Physical AI and Wireless Infrastructure",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies: Pioneering the Future of Additive Manufacturing - America Makes",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Casting & Forging Roadmap",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive In Steel",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies: Pioneering the Future of Additive Manufacturing",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "In the fast-moving world of additive manufacturing (AM),",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Located in Torrance, CA, the company’s success is driven by its groundbreaking Divergent Adaptive Production System (DAPS™) technology, an integrated platform that transforms traditional manufacturing. Beginning with design requirements and culminating in a fully assembled structure, DAPS™ eliminates silos and accelerates production.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "One of DAPS™ most powerful features is its graphics processing unit (GPU)-driven topology optimization engine. By analyzing essential parameters, keep-out zones, interface points, and load paths, the system generates optimal structures without repetitive engineering loops.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership has fostered industry-wide cooperation, enabled the rapid production of complex defense components, and reduced development cycles from years to weeks while strengthening the U.S. industrial base and supply chain resilience.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Movandi Unveils MV6055 60GHz Transceiver With 5Gbps+ Speeds for Physical AI and Wireless Infrastructure",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "VP, Additive Manufacturing Development",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "VP Structures",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "$160M Drives 3D Printed Hypercar Startup Divergent in Series C Round",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies seeks to make the vehicle manufacturing process ... additive manufacturing (AM), colloquially known as 3D printing.",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent's 3D-printed supercar, the Blade prototype, looks very much like",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Creates Domestic Supply Chain for Manufacturing its Own Printers « Fabbaloo",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Creates Domestic Supply Chain for Manufacturing its Own Printers",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "supply chain",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "“Why a Defense Startup Built a U.S. Supply Chain for Its 3-D Printer,”",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "spotlights Divergent Technologies — a California-based additive manufacturing company that is attempting something extraordinary: building not only 3D printed products but also its own onshore supply chain for the machines that make them.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "For years, additive manufacturing has struggled to break free from its image as a prototyping tool. Divergent’s trajectory — and the attention it’s getting from",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "— is proof that things are shifting. By betting heavily on U.S.-based suppliers, Divergent is positioning 3D printing as a backbone for national manufacturing security, not just a niche tool for lightweight brackets or show cars.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "That choice isn’t cheap. According to Young’s reporting, domestic parts can run 25–30% more expensive than Chinese equivalents. But Divergent sees the premium as worthwhile when balanced against tariff risk, shipping delays, and geopolitical uncertainty. The idea is simple: better to own a stable supply chain than to gamble on volatile imports.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "The article also notes how difficult it is to find U.S. suppliers with the precision and scale required. Divergent often signs long-term agreements or helps vendors upgrade capacity. In some cases — like laser subsystems — the domestic supplier pool is so thin that Divergent relies on just one qualified source.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond its own cars, Divergent supplies advanced structural parts to high-end brands including McLaren,",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ", and Bugatti. McLaren, for instance, is using Divergent-printed suspension components on new performance models. These collaborations prove that Divergent’s adaptive production system can meet the standards of world-class automakers.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, Divergent has partnered with General Atomics Aeronautical Systems (",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ") to apply its workflow to unmanned aircraft systems. It has also teamed with Raytheon to speed naval hardware production, while supplying parts and design support to primes like",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "The Czinger family’s role is central to the Divergent story. Kevin Czinger, Lukas’s father, has a long history in automotive ventures and is known for his vision of AI-assisted, 3D printed vehicles. Together, Kevin and Lukas launched Czinger Vehicles and built the 21C supercar as a proof point. We have previously written on",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "about the Czingers’ ventures, tariffs, and the role of additive in reshaping manufacturing — themes that resonate directly with Divergent’s current strategy.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "By linking the Czingers’ automotive experimentation with Divergent’s broader industrial vision, we can see a through-line: using additive manufacturing not for showpieces, but as a foundation for how industries — and even national defense — might operate in the future.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "For additive manufacturing, Divergent represents both promise and risk.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Expansion beyond niche markets into mainstream automotive and defense supply chains.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "A credible case for additive as a national security tool.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.-based supply chains are expensive and fragile, especially when supplier pools are thin.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "coverage underscores that Divergent is no longer just a curiosity in the additive world. It’s being treated as a serious industrial player, one whose model could influence how manufacturing evolves over the next decade.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "is a milestone. It shows that additive manufacturing is entering the mainstream conversation about industrial policy, defense readiness, and economic competitiveness. Divergent’s decision to onshore its supply chain may seem risky, but it’s also visionary: it treats 3D printing not just as a tool, but as the seed of a new industrial framework.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "to additive’s growth potential. With the Czingers at the helm, a billion dollars in funding, and the",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "GA-ASI Partners with Divergent Technologies, Inc. | General Atomics Aeronautical Systems Inc.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "General Atomics Aeronautical Systems Inc.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GA-ASI and Divergent have already completed two projects leading to a fully integrated small (< 500 lbs.) UAS aerostructure, leveraging model-based, Artificial Intelligence (AI)-driven, and topology optimized designs. The integrated metal structure was 3D printed, which led to the reduction of the part count integration by over 95% while meeting weight targets.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "General Atomics Aeronautical Systems, Inc. (GA-ASI), an affiliate of General Atomics, is a leading designer and manufacturer of proven, reliable Remotely Piloted Aircraft (RPA) systems, radars, and electro-optic and related mission systems, including the Predator",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Avenger, Lynx, Predator SeaGuardian and SkyGuardian are registered trademarks of General Atomics Aeronautical Systems, Inc.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Cybersecurity",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Information",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Tools",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier Quality",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Systems Integration, LLC (GA-SI)",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Supply Chain/Logistics",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Recipes",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Drip Index: Event Guides",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Clippers",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "• Trip Ideas",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Subscription",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Group Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Gift Subscription Terms",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Got a Tip?",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“I was really interested in understanding what made a great company. Why is it investable and how is it valued? The best VC investors are kind of contrarians. They’re seeing something earlier, different than others, and they’re putting money behind their idea. And if they do it right, their money multiplies many times over,” said Czinger.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“My father had this idea late enough in life where we got to start on similar timelines. He was young enough and I was just barely old enough. We went from Series A to Series E together. He took the lead on the first three rounds and then I was in a leadership role for later rounds,” said Czinger.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent’s Torrance factory is a vertically integrated additive manufacturing facility. It utilizes proprietary software and hardware in a tech stack it developed at the cost of hundreds of millions of dollars and has more than 600 patents.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The parts are completed to any specifications. Finishing could include a dip in the on-site, fully automated anodizing bath, which treats the parts electrochemically to make them harder and more wear resistant. An array of robotic assembly arms assembles parts into the complete structure.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital and Guy Oseary’s Sound Ventures Form $1 Billion Strategic Investment Partnership",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Learn about opportunities for reaching business leaders across Southern California through leadership awards, forums, magazines and panels.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Jennifer Lawrence Launches Haircare Brand mes° With Arcaea, the Biology-First Beauty Company",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Beauty’s Selena Gomez and Demi Lovato Campaign Bets on Friendship, Not Just Star Power",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Meredith Marks Expands From Jewelry Into Caviar to Build a Luxury Lifestyle Brand",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Membership",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "a catalyst for change rather than a mere participant, leveraging collaboration",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent’s print rooms host proprietary 3D printers designed and built in partnership with SLM Solutions. The LPBF printers use lasers to vertically deposit materials onto an exchangeable build plate. The printers run at a higher deposition rate than traditional commercial printers. Photo Credit: Divergent",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership has fostered industry-wide cooperation, enabled the rapid production of complex defense components, and reduced development cycles from years to weeks while strengthening the U.S. industrial base and supply chain resilience.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“America Makes serves as a hub for companies committed to advancing AM, fostering collaboration and accelerating innovation across the industry,” says Erhartic. “This partnership has been instrumental in the development of the DAPS™ platform.”",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Participating members can claim a $500 @Program Cost Share credit once the Spotlight is published.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Recipes",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Drip Index: Event Guides",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Lifestyle",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Clippers",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "• Trip Ideas",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Subscription",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Group Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Gift Subscription Terms",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Got a Tip?",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": ", chief executive of Divergent, in an interview with LA Times Studios. “We design algorithms, source codes, develop 3D printers and build our own robotic fixtureless assembly process. There’s over 600 patents on this business, with hundreds of millions that went into the platform.”",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The company originally started building parts for automotive brands that include Aston Martin, Bugatti and McLaren. In 2022, it expanded into aerospace and defense with initial work for",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital and Guy Oseary’s Sound Ventures Form $1 Billion Strategic Investment Partnership",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Learn about opportunities for reaching business leaders across Southern California through leadership awards, forums, magazines and panels.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Jennifer Lawrence Launches Haircare Brand mes° With Arcaea, the Biology-First Beauty Company",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Beauty’s Selena Gomez and Demi Lovato Campaign Bets on Friendship, Not Just Star Power",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Meredith Marks Expands From Jewelry Into Caviar to Build a Luxury Lifestyle Brand",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent will also be able to expand its hypercar 3D printing operations and meet the demand from automotive original equipment manufacturers (OEMs) for the...",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Tips",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "That choice isn’t cheap. According to Young’s reporting, domestic parts can run 25–30% more expensive than Chinese equivalents. But Divergent sees the premium as worthwhile when balanced against tariff risk, shipping delays, and geopolitical uncertainty. The idea is simple: better to own a stable supply chain than to gamble on volatile imports.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond its own cars, Divergent supplies advanced structural parts to high-end brands including McLaren,",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ", and Bugatti. McLaren, for instance, is using Divergent-printed suspension components on new performance models. These collaborations prove that Divergent’s adaptive production system can meet the standards of world-class automakers.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "This integrated approach sets Divergent apart. Most automotive and aerospace firms remain equipment agnostic, sourcing machines from whichever OEM fits the job. Divergent is building the machines, the parts, the software, and the manufacturing plants. That level of control is unusual — and costly — but it may also prove necessary for the scale of manufacturing independence they envision.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Boston Micro Fabrication Secures Patent for Dual-Resolution Micro 3D Printing Technology",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "We are a participant in affiliate advertising programs designed to provide a means for us to earn fees by linking to affiliated sit",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Patent Proposes Larger Extruder Wheels for Faster FFF Printing",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "This innovative approach to design and manufacturing leads to highly integrated weight and performance-optimized designs that are naturally, but not exclusively, leveraging AM technologies at a substantially lower airframe recurring cost, while providing a rapid tool-less iterative design approach for multiple platform variants.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Palantir and Divergent Form Partnership to Revolutionize On-Demand Advanced Manufacturing",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "High School Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "• Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "a decade of technological development has the 500-person strong company primed to scale its platform that utilizes 3D printing for automotive and aerospace parts.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D printers can switch between different products through software changes and do not need hardware modifications, alternating between auto parts and aerospace parts without any downtime and operating 24 hours a day. Divergent introduced more than 200 new aerospace and defense parts during the first half of 2025, which brought its total to more than 600 unique parts across industries.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“The challenge has been making sure that the part can be certified for aerospace-grade certification. Certification is a long, complicated process. That’s why technology adoption has been slow,” he added.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "These companies and others are focused on scaling operations quickly to meet the manufacturing needs of the defense, automotive and other hard tech industries. For Divergent, that means replicating its Torrance factory and placing several dozen into operation around the world over the next decade so they can continue to hold the majority of the market.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Defense and Space Tech",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Goods",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Save Up to 50% With a Squarespace Promo Code",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Base",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world impact from hypercars to defense",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership has fostered industry-wide cooperation, enabled the rapid production of complex defense components, and reduced development cycles from years to weeks while strengthening the U.S. industrial base and supply chain resilience.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Erhartic credits Divergent colleagues and leaders, such as Matt Strasberg, Senior Director of Materials and Processes, and George Patino, Senior Program Manager, for guiding this initiative that has drawn input from every branch of the DoD, major defense contractors, and NASA.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "High School Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "• Sports",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "“This round was driven by our expansion into aerospace and defense. We have built a platform for automotive, aerospace, space and defense,” said",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The company originally started building parts for automotive brands that include Aston Martin, Bugatti and McLaren. In 2022, it expanded into aerospace and defense with initial work for",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": ". Today, Divergent has contracts with dozens of aerospace and defense customers. Over the next three years, Czinger expects about 70% of revenue from aerospace contracts and 30% from the automotive sector.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "“There is not another company in the world that has the technology that we have, because we have a digitally driven factory. We can switch from auto parts to aerospace parts with software. We might have a number of factories but can change sectors by scheduling jobs into those factories,” Czinger said.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Save Up to 50% With a Squarespace Promo Code",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Proposed billionaire tax could impact California sports teams",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The grocery and robotics firm also 3D prints some 300 parts for its warehouse fleet using HP's Multi Jet Fusion technology. Divergent 3D has...",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Relativity Space's room-filling 3D printer — dubbed Stargate, ....",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "“Why a Defense Startup Built a U.S. Supply Chain for Its 3-D Printer,”",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "captures well is the scale of Divergent’s ambition: it doesn’t just want to sell parts or printers. It wants to be a new kind of industrial backbone, capable of serving both commercial clients and the U.S. defense establishment.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, Divergent has partnered with General Atomics Aeronautical Systems (",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ". The defense angle is more than a revenue stream — it’s integral to Divergent’s positioning as a national manufacturing asset.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "This integrated approach sets Divergent apart. Most automotive and aerospace firms remain equipment agnostic, sourcing machines from whichever OEM fits the job. Divergent is building the machines, the parts, the software, and the manufacturing plants. That level of control is unusual — and costly — but it may also prove necessary for the scale of manufacturing independence they envision.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "By linking the Czingers’ automotive experimentation with Divergent’s broader industrial vision, we can see a through-line: using additive manufacturing not for showpieces, but as a foundation for how industries — and even national defense — might operate in the future.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Full-stack integration of software, AI, robotics, and printing.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Expansion beyond niche markets into mainstream automotive and defense supply chains.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling from luxury and defense contracts to mass-market viability remains unproven.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "coverage underscores that Divergent is no longer just a curiosity in the additive world. It’s being treated as a serious industrial player, one whose model could influence how manufacturing evolves over the next decade.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "is a milestone. It shows that additive manufacturing is entering the mainstream conversation about industrial policy, defense readiness, and economic competitiveness. Divergent’s decision to onshore its supply chain may seem risky, but it’s also visionary: it treats 3D printing not just as a tool, but as the seed of a new industrial framework.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Charles Goulding and Ari Willick discuss three ways Rockwell Automation is applying its industrial automation expertise to the 3D printing industry.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Certain old industrial 3D printers can remain usable even when their manufacturers stop supporting them.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Korea-Kraze: How K-Style Has Become a Cultural and Industrial Phenomenon",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Charles R. Goulding and Preeti Sulibhavi discuss how South Korea’s fierce competitiveness and economic strength are fueling a new era of cultural prestige and industrial dominance worldwide.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Auto & Transportation",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, Defense",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Airlines & Aviation",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Railroads and Intermodal Transportation",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Transportation, Trucking & Railroad",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Trucking and Road Transportation",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Auto & Transportation Overview",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "View All Auto & Transportation",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Technology",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Electronics",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Screening Series",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "in a Series E round at a $2.3 billion valuation. The round was led by Rochefort Asset Management and consists of $250 million in equity capital and $40-million in debt capital. To date, the company has raised more than $1 billion.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“My father had this idea late enough in life where we got to start on similar timelines. He was young enough and I was just barely old enough. We went from Series A to Series E together. He took the lead on the first three rounds and then I was in a leadership role for later rounds,” said Czinger.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The Torrance factory contains a lab where it creates chemical formulas for its powdered aluminum alloys and other metals used in the printing process. Those alloys are then used in the company’s onsite 3D printers where the powder is melded together layer by layer with very little waste. Any unused powder goes back into the supply.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Closes $290M Series E at $2.3B Valuation - Los Angeles Times",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Screening Series",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Torrance Firm Divergent Closes $290 Million Series E Round at $2.3-Billion Valuation to Scale Digital Manufacturing Platform",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": ", a Torrance-based manufacturer, closed a $290 million Series E financing that raised a total of $290 million at a $2.3-billion valuation. The round was led by",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "$160M Drives 3D Printed Hypercar Startup Divergent in Series C Round",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies closes $160 million series C funding",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "RPA series and the Lynx",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Gambit Series",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies closes $160 million series C funding",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding.md",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Announces $290 Million Series E to Scale Digital Manufacturing Platform and Meet Growing US Defense Production Demand",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Divergent Technologies, Inc. (\"Divergent\") today announced the closing of its Series E financing raising a total of",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Subscription",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Group Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Gift Subscription Terms",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Subscription",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Group Subscriptions",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Gift Subscription Terms",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "We are a participant in affiliate advertising programs designed to provide a means for us to earn fees by linking to affiliated sit",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Could the answer to filament feeding problems be bigger wheels?",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "This innovative approach to design and manufacturing leads to highly integrated weight and performance-optimized designs that are naturally, but not exclusively, leveraging AM technologies at a substantially lower airframe recurring cost, while providing a rapid tool-less iterative design approach for multiple platform variants.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Me a Coffee",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "with a majority going to the hard tech sector, according to data from PitchBook.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "These companies and others are focused on scaling operations quickly to meet the manufacturing needs of the defense, automotive and other hard tech industries. For Divergent, that means replicating its Torrance factory and placing several dozen into operation around the world over the next decade so they can continue to hold the majority of the market.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Score a Nike Promo Code: Best Ways to Save 10% in September 2026",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Save Up to 50% With a Squarespace Promo Code",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Get 76% Off! Save With These NordVPN Coupon Codes in September 2026",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s expansion into unmanned vehicles, commonly known as drones, has led to significant revenue growth, with year-to-date revenue up five times compared with 2024. The company has 450 employees, mainly in Southern California. That includes its wholly owned subsidiary,",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": ". Today, Divergent has contracts with dozens of aerospace and defense customers. Over the next three years, Czinger expects about 70% of revenue from aerospace contracts and 30% from the automotive sector.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Score a Nike Promo Code: Best Ways to Save 10% in September 2026",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Save Up to 50% With a Squarespace Promo Code",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Get 76% Off! Save With These NordVPN Coupon Codes in September 2026",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent 3D: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Young’s article explains why Divergent is making this pivot. The company’s CEO, Lukas Czinger, acknowledges that 3D printers are its biggest bottleneck. If Divergent remained dependent on outside vendors — many of them overseas — its growth and reliability would always be at risk. So the company began designing and building its own printers, with the majority of parts sourced domestically.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "That choice isn’t cheap. According to Young’s reporting, domestic parts can run 25–30% more expensive than Chinese equivalents. But Divergent sees the premium as worthwhile when balanced against tariff risk, shipping delays, and geopolitical uncertainty. The idea is simple: better to own a stable supply chain than to gamble on volatile imports.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ". The defense angle is more than a revenue stream — it’s integral to Divergent’s positioning as a national manufacturing asset.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "GA-ASI and Divergent have already completed two projects leading to a fully integrated small (< 500 lbs.) UAS aerostructure, leveraging model-based, Artificial Intelligence (AI)-driven, and topology optimized designs. The integrated metal structure was 3D printed, which led to the reduction of the part count integration by over 95% while meeting weight targets.",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Reports",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "With lead inventor, founder and CEO Kevin Czinger, Divergent has a team of more than 180 engineers and scientists across four technology divisions: Structures, Software (HPC, GD and AI), Additive Manufacturing (Hardware, Software and Materials) and Automation (Software, Optics and Robotics).",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "SoftGripping lowers cost by 50% by…",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Reports",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "venture funding last year,",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "raised $290 million",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "in a Series E round at a $2.3 billion valuation. The round was led by Rochefort Asset Management and consists of $250 million in equity capital and $40-million in debt capital. To date, the company has raised more than $1 billion.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by Lukas Czinger’s father, Kevin Czinger, who is still involved with the company and serves as its executive chairman. During its startup era, Lukas Czinger was one of the first employees at the company and is credited as a co-founder.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“I was really interested in understanding what made a great company. Why is it investable and how is it valued? The best VC investors are kind of contrarians. They’re seeing something earlier, different than others, and they’re putting money behind their idea. And if they do it right, their money multiplies many times over,” said Czinger.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "He had a full-time role at an investment bank post-college, but quit to take a “big bet” on his father’s fledgling startup Divergent. His diverse background helped the company in its financing efforts as he was able to explain both technical aspects and the unit economics.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "“My father had this idea late enough in life where we got to start on similar timelines. He was young enough and I was just barely old enough. We went from Series A to Series E together. He took the lead on the first three rounds and then I was in a leadership role for later rounds,” said Czinger.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "5513.001-4 Thermal Aging Baselining Phase 2 – Fatigue Evaluation of Thermally Aged AM Parts",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Closes $290M Series E at $2.3B Valuation - Los Angeles Times",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Torrance Firm Divergent Closes $290 Million Series E Round at $2.3-Billion Valuation to Scale Digital Manufacturing Platform",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": ", a Torrance-based manufacturer, closed a $290 million Series E financing that raised a total of $290 million at a $2.3-billion valuation. The round was led by",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "and consisted of $250 million in equity capital and $40 million in debt capital. To date, the company has raised more than $1 billion.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s expansion into unmanned vehicles, commonly known as drones, has led to significant revenue growth, with year-to-date revenue up five times compared with 2024. The company has 450 employees, mainly in Southern California. That includes its wholly owned subsidiary,",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "INVESTMENTS & FUNDING",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s total funding is",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s current valuation is",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "$160M Drives 3D Printed Hypercar Startup Divergent in Series C Round",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies closes $160 million series C funding",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "It’s rare for a 3D printing startup to land in the",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "“Why a Defense Startup Built a U.S. Supply Chain for Its 3-D Printer,”",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent is closely tied to Czinger Vehicles, the hypercar company founded by Lukas and his father, Kevin Czinger. The company’s 21C supercar, famously designed with AI and built using 3D printing, demonstrates Divergent’s end-to-end digital production model. Fabbaloo has previously covered Divergent’s automotive work in this feature.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "is a milestone. It shows that additive manufacturing is entering the mainstream conversation about industrial policy, defense readiness, and economic competitiveness. Divergent’s decision to onshore its supply chain may seem risky, but it’s also visionary: it treats 3D printing not just as a tool, but as the seed of a new industrial framework.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "to additive’s growth potential. With the Czingers at the helm, a billion dollars in funding, and the",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Charles Goulding is the Founder and President of R&D Tax Savers, a New York-based firm dedicated to providing clients with quality R&D tax credits available to them. 3D printing carries business implications for companies working in the industry, for which R&D tax credits may be applicable.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Once again we take a look at the valuations of the major 3D printing companies over the past week.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D print community has spoken: Sovol’s M1D Kickstarter campaign has raised an incredible amount of money.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "RPA series and the Lynx",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies closes $160 million series C funding",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding.md",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Money & Funding",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "With lead inventor, founder and CEO Kevin Czinger, Divergent has a team of more than 180 engineers and scientists across four technology divisions: Structures, Software (HPC, GD and AI), Additive Manufacturing (Hardware, Software and Materials) and Automation (Software, Optics and Robotics).",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "In previous funding rounds, Divergent Technologies raised roughly $200 million from investors including Horizons Ventures and Altran Technologies, bringing the total so far to well over $300 million.",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "valuation. The round was led by Rochefort Asset Management and consists of",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2014, Divergent is the creator of the Divergent Adaptive Production System (DAPS™), the world's first end-to-end digital manufacturing platform enabling rapid design, additive manufacturing, and automated assembly. The new capital will scale manufacturing capacity for the business and fund the development of new capabilities for upcoming product families.",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Divergent was founded to transform the built world with a software-defined manufacturing platform,\" said",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Chief Executive Officer and Co-Founder of Divergent. \"This funding enables us to scale DAPS for aerospace and defense, expand our world-class team, and strengthen America's industrial base with a truly next-generation system.\"",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Erhartic credits Divergent colleagues and leaders, such as Matt Strasberg, Senior Director of Materials and Processes, and George Patino, Senior Program Manager, for guiding this initiative that has drawn input from every branch of the DoD, major defense contractors, and NASA.",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The company originally started building parts for automotive brands that include Aston Martin, Bugatti and McLaren. In 2022, it expanded into aerospace and defense with initial work for",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond its own cars, Divergent supplies advanced structural parts to high-end brands including McLaren,",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-AMG",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": ", and Bugatti. McLaren, for instance, is using Divergent-printed suspension components on new performance models. These collaborations prove that Divergent’s adaptive production system can meet the standards of world-class automakers.",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "Lockheed",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "General Atomics Europe GmbH (GA-Europe)",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "General Atomics Synopta GmbH",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Slovakia",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Slovakia",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Divergent Technologies : Scaling Factory-as-a- Service — Divergent Technologies : Scaling Factory-as-a- Service Los Angeles Times https://www.latimes.com > story > div...",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies : Pioneering the Future of Additive ... — Divergent Technologies : Pioneering the Future of Additive ... America Makes https://www.americamakes.us > diver...",
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent - LinkedIn — Divergent - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/divergenttechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "AM Service Engineer @ Divergent Technologies | Simplify Jobs — AM Service Engineer @ Divergent Technologies | Simplify Jobs Simplify https://simplify.jobs > Additive-Manufacturing-Service-E...",
+    "url": "https://simplify.jobs/p/d0e82ad4-bdb6-4959-bdaf-abf06ca364b8/Additive-Manufacturing-Service-Engineer",
+    "pass": 3
+   },
+   {
+    "quote": "DIVERGENT TECHNOLOGIES , INC. ANNOUNCES ... — DIVERGENT TECHNOLOGIES , INC. ANNOUNCES ... PR Newswire https://www.prnewswire.com > diverg...",
+    "url": "https://www.prnewswire.com/news-releases/divergent-technologies-inc-announces-acquisition-of-all-software-and-intellectual-property-from-sigma-additive-solutions-inc-301956078.html",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Closes $290M Series E at $2.3B Valuation - LA Times — Divergent Closes $290M Series E at $2.3B Valuation - LA Times Los Angeles Times https://www.latimes.com > story > div...",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent 3D: Revenue , Competitors, Alternatives - Growjo — Divergent 3D: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Divergent_3D",
+    "url": "https://growjo.com/company/Divergent_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent - Overview, News & Similar companies - ZoomInfo — Divergent - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > diverge...",
+    "url": "https://www.zoominfo.com/c/divergent-technologies-inc/372252628",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent's Competitors, Revenue , Number of Employees ... — Divergent's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > divergent3d",
+    "url": "https://www.owler.com/company/divergent3d",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent3D — founder & CEO Lukas Czinger · $2.3B — Divergent3D — founder & CEO Lukas Czinger · $2.3B Silicon Valley Investclub https://siliconvalleyinvestclub.com > ...",
+    "url": "https://siliconvalleyinvestclub.com/ja/companies/divergent/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Creates Domestic Supply Chain for Manufacturing ... — Divergent Creates Domestic Supply Chain for Manufacturing ... Fabbaloo https://www.fabbaloo.com > News",
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "pass": 3
+   },
+   {
+    "quote": "The company, Divergent , is built on 3D printer technology that ... — The company, Divergent , is built on 3D printer technology that ... Facebook https://www.facebook.com > longbeachpost > posts > the-...",
+    "url": "https://www.facebook.com/longbeachpost/posts/the-company-divergent-is-built-on-3d-printer-technology-that-can-churn-out-parts/1662878065844288/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies is one of the most interesting stories ... — Divergent Technologies is one of the most interesting stories ... LinkedIn https://www.linkedin.com > posts > ca...",
+    "url": "https://www.linkedin.com/posts/calebtownsend_divergent-technologies-is-one-of-the-most-activity-7402354279451308032-EGr3",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies : Scaling Factory-as-a-Service — Divergent Technologies : Scaling Factory-as-a-Service Los Angeles Times https://www.latimes.com > story > div...",
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Announces $290 Million Series E to Scale Digital ... — Divergent Announces $290 Million Series E to Scale Digital ... PR Newswire https://www.prnewswire.com > diverg...",
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "pass": 3
+   },
+   {
+    "quote": "GA-ASI partners with Divergent Technologies on UAS — GA-ASI partners with Divergent Technologies on UAS VoxelMatters https://www.voxelmatters.com > ga-as...",
+    "url": "https://www.voxelmatters.com/ga-asi-partners-with-divergent-technologies-on-uas/",
+    "pass": 3
+   },
+   {
+    "quote": "GA-ASI Partners with Divergent Technologies , Inc. — GA-ASI Partners with Divergent Technologies , Inc. General Atomics Aeronautical Systems (GA-ASI) https://www.ga-asi.com > ga-asi-partn...",
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Palantir and Divergent Form Partnership to Revolutionize On ... — Palantir and Divergent Form Partnership to Revolutionize On ... PR Newswire https://www.prnewswire.com > palant...",
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent 3D: Funding, Team & Investors - Startup Intros — Divergent 3D: Funding, Team & Investors - Startup Intros Startup Intros https://startupintros.com > divergent-3d",
+    "url": "https://startupintros.com/orgs/divergent-3d",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies closes $160 million series C funding — Divergent Technologies closes $160 million series C funding VoxelMatters https://www.voxelmatters.com > diver...",
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Technologies , an advanced manufacturing startup ... — Divergent Technologies , an advanced manufacturing startup ... Instagram https://www.instagram.com > DOrhy...",
+    "url": "https://www.instagram.com/p/DOrhyBFEVwG/",
+    "pass": 3
+   },
+   {
+    "quote": "Divergent Valuation, Funding & Investors - Multiples.vc — Divergent Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/divergent",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.divergent3d.com",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/divergenttechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Divergent_3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/divergent-technologies-inc/372252628",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/longbeachpost/posts/the-company-divergent-is-built-on-3d-printer-technology-that-can-churn-out-parts/1662878065844288/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/divergenttechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DOrhyBFEVwG/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Divergent Technologies engineering services clients other industries",
+   "results": [
+    "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "https://www.linkedin.com/company/divergenttechnologies",
+    "https://simplify.jobs/p/d0e82ad4-bdb6-4959-bdaf-abf06ca364b8/Additive-Manufacturing-Service-Engineer",
+    "https://www.prnewswire.com/news-releases/divergent-technologies-inc-announces-acquisition-of-all-software-and-intellectual-property-from-sigma-additive-solutions-inc-301956078.html",
+    "https://www.teamingpro.com/company/divergent-technologies-inc",
+    "https://startupintros.com/orgs/divergent-3d",
+    "https://sossecinc.com/company/divergent-technologies-inc/",
+    "https://www.divergent.us/",
+    "https://www.linkedin.com/company/divergent-technologies-ltd"
+   ]
+  },
+  {
+   "query": "Divergent Technologies revenue turnover employees",
+   "results": [
+    "https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation",
+    "https://growjo.com/company/Divergent_3D",
+    "https://www.zoominfo.com/c/divergent-technologies-inc/372252628",
+    "https://www.owler.com/company/divergent3d",
+    "https://siliconvalleyinvestclub.com/ja/companies/divergent/",
+    "https://startupintros.com/orgs/divergent-3d",
+    "https://www.linkedin.com/company/divergenttechnologies",
+    "https://equityzen.com/company/divergent3d/",
+    "https://3dprint.com/320760/divergent-raises-290-million-beyond-the-numbers/",
+    "https://incfact.com/company/divergenttechnologies-torrance-ca/"
+   ]
+  },
+  {
+   "query": "Divergent Technologies supplies components to OEM",
+   "results": [
+    "https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers",
+    "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "https://www.facebook.com/longbeachpost/posts/the-company-divergent-is-built-on-3d-printer-technology-that-can-churn-out-parts/1662878065844288/",
+    "https://www.wsj.com/articles/why-a-defense-startup-built-a-u-s-supply-chain-for-its-3-d-printer-c69a01e0",
+    "https://www.linkedin.com/posts/calebtownsend_divergent-technologies-is-one-of-the-most-activity-7402354279451308032-EGr3",
+    "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "https://manufacturo.com/resources/case-studies/advancing-manufacturing-innovation-with-divergent/",
+    "https://startupintros.com/orgs/divergent-3d",
+    "https://www.repairerdrivennews.com/2019/11/20/divergent-slm-near-series-production-of-3d-printed-auto-safety-suspension-parts/",
+    "https://www.divergent.us/"
+   ]
+  },
+  {
+   "query": "Divergent Technologies aerospace defence non-automotive",
+   "results": [
+    "https://www.linkedin.com/company/divergenttechnologies",
+    "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "https://www.voxelmatters.com/ga-asi-partners-with-divergent-technologies-on-uas/",
+    "https://finance.yahoo.com/quote/DITD.PVT/profile/",
+    "https://www.facebook.com/Divergent.Technologies.us/",
+    "https://www.facebook.com/latimesstudiosbusiness/videos/one-factory-any-productdivergent-3d-is-revolutionizing-the-industry-using-advanc/824942963939482/",
+    "https://www.metal-am.com/divergent-technologies-qualified-for-us-army-ground-vehicle-parts-production/",
+    "https://www.divergent.us/"
+   ]
+  },
+  {
+   "query": "Divergent Technologies licensing technology partnership",
+   "results": [
+    "https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc",
+    "https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html",
+    "https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/",
+    "https://startupintros.com/orgs/divergent-3d",
+    "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "https://www.instagram.com/p/DOrhyBFEVwG/",
+    "https://www.manufacturingusa.com/news/america-makes-member-divergent-technologies-pioneering-future-additive-manufacturing",
+    "https://www.additivemanufacturing.media/news/divergent-technologies-acquires-sigma-additive-solutions-software-intellectual-property-",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://www.l3harris.com/newsroom/press-release/2026/10/l3harris-and-divergent-sign-teaming-agreement-increase-production"
+   ]
+  },
+  {
+   "query": "Divergent Technologies founder early days first customer funding",
+   "results": [
+    "https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/",
+    "https://www.instagram.com/p/DOrhyBFEVwG/",
+    "https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html",
+    "https://multiples.vc/private-comps/divergent",
+    "https://www.linkedin.com/in/kevin-czinger-8a4468",
+    "https://www.builtinla.com/articles/divergent-raises-290-million-series-e-20250917",
+    "https://startupintros.com/orgs/divergent-3d",
+    "https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service",
+    "https://www.facebook.com/siliconvalleyinvestclub/videos/divergent-technologies-raises-290-million-at-a-23-billion-valuation/1487050822749906/",
+    "https://grokipedia.com/page/Divergent_Technologies"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

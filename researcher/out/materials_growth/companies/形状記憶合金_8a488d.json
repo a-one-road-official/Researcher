@@ -1,0 +1,2074 @@
+{
+ "name": "形状記憶合金",
+ "en": "shape memory alloy",
+ "aliases": [
+  "nitinol",
+  "NiTi",
+  "ニチノール"
+ ],
+ "context": "機能合金",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:50:32.466992+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "形状記憶合金市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金（SMA）市場規模は2025年に17億米ドルと評価され、2026年には18億8,000万米ドルに達すると見込まれている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（SMA）市場ではNiTi／ニチノールが主導的な地位を占め、2025年の市場規模は14億4,000万米ドルとなり、2035年には41億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（SMA）市場規模：合金タイプ別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅系SMAは2025年に10.0%のシェアを占め、2035年には4億8,300万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄系SMAは2025年に5,100万米ドルの市場規模となり、2035年には3.0%のシェアを占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のSMAは2025年に2.0%のシェアを占め、2035年には9,600万米ドルの市場規模に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "線材は2025年に8億8,100万米ドルの市場規模となり、2035年には25億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "板材・帯材は2025年に18.0%のシェアを占め、2035年には8億6,900万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "チューブは2025年に2億300万米ドルの市場規模となり、2035年には5億8,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、形状記憶合金（スーパーエラスティック）ワイヤーの世界市場規模、市場動向、セグメント別予測（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）、関連企業の情報などが盛り込まれています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模予測、地域別（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）および国別の予測、さらにタイプ別および用途別のグローバル予測が詳細に記載されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（スーパーエラスティック）ワイヤーの世界市場（2026年～2032年）、市場規模（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "本資料には、形状記憶合金（スーパーエラスティック）ワイヤーの世界市場規模、市場動向、セグメント別予測（直径>0.025～0.05ミリメートル、直径>0.05～0.25ミリメートル、直径>0.25～0.35ミリメートル、直径>0.35～1.00ミリメートル）、関連企業の情報などが盛り込まれています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までのグローバル市場規模予測、地域別（南北アメリカ、APAC、ヨーロッパ、中東・アフリカ）および国別の予測、さらにタイプ別および用途別のグローバル予測が詳細に記載されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "水性ポリウレタン離型剤の世界市場（2026年～2032年）、市場規模（シリコーン油系、ワックス系、脂肪酸系、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率が7%以上になると予測されている | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率��が7%以上になると予測されている",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月1日にREPORT OCEANが紹介した新レポートによると形状記憶合金の世界市場規模は2020年に80億ドル以上",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場規模は、2020年に80億ドルを超えました",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率（CAGR）7%以上で成長すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "第5章. 形状記憶合金の市場規模とトレンド分析、タイプ別",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "5.2. 市場規模と予測、2017年～2027年(US$ Mn)",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6章. 形状記憶合金の市場規模とトレンド分析、エンドユーザー別",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. 市場規模と予測、2017年～2027年(US$ Mn)",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章. 形状記憶合金の市場規模とトレンド分析、地域別/国別",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. 市場規模と予測、2017年～2027年(US$ Mn)",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章. 北米の形状記憶合金の市場規模とトレンド分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "第9章. 欧州の形状記憶合金の市場規模と動向分析",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータ市場に関する当社の調査レポートによると、市場は予測期間2026―2035年に約13%のCAGRで成長すると見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "将来的には、市場規模は765億米ドルに達すると見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は225億米ドルでしました",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータに関する当社の市場調査によると、アジア太平洋地域の市場は予測期間中に約36%成長すると予想されており、また、急速な工業化、民生用電子機器の堅調な需要、自動車の革新、医療アプリケーションの拡大により、今後数年間は有望な成長機会を示すと見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の形状記憶合金アクチュエータ市場は、36%を超えるトップシェアを獲得し、世界市場で支配的な地位を維持すると予想されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金アクチュエータ市場は、予測期間中に複利年間成長率13%で成長し、2035年には765億米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2026年の形状記憶合金アクチュエータ市場は適度なペースで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、世界の形状記憶合金アクチュエータ市場規模は225億米ドルの収益を獲得しました",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は11％と予測され、2035年には48億3,000万米ドルに達する見通しである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "神経血管、電気生理、構造的心疾患、末梢血管、整形外科の各医療機器市場を背景に、医療用ニチノール需要は18%の年平均成長率（CAGR）で拡大 [1]",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は2035年まで圧倒的な売上シェアを維持し、OEMによる安定した調達が11.0%の年平均成長率（CAGR）の軌道を後押し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "供給側の能力拡大が数量の伸びを支え、新たなOEM認定サイクルにより、2027〜2030年にかけて売上の伸びが加速する見込み",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "LMEニッケル価格は2025年に平均15,160米ドル/tとなり、インドネシアでの生産拡大が続くなか、過去10年間で最低水準を記録した [3]",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的な事象や日本からの供給引き締まりにより、予測年平均成長率（CAGR）11.0%の成長が抑制される可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "米国の形状記憶合金超弾性ワイヤー市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年にかけて年平均成長率（CAGR）XX％で成長すると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "中国の形状記憶合金超弾性ワイヤー市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "ヨーロッパの形状記憶合金超弾性ワイヤー市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率が7%以上になると予測されている | Report Oceanのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率��が7%以上になると予測されている",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率（CAGR）7%以上で成長すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19は、世界的にほぼすべての国で感染が拡大しており、世界保健機関（WHO）は公衆衛生上の緊急事態であると発表しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率が7%以上になると予測されている",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータ市場に関する当社の調査レポートによると、市場は予測期間2026―2035年に約13%のCAGRで成長すると見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータに関する当社の市場調査によると、アジア太平洋地域の市場は予測期間中に約36%成長すると予想されており、また、急速な工業化、民生用電子機器の堅調な需要、自動車の革新、医療アプリケーションの拡大により、今後数年間は有望な成長機会を示すと見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "2026―2035年までのCAGR",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "また、予測期間を通じて複利年間成長率（CAGR）11.5%で成長し、最も急速な成長が見込まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "日本の形状記憶合金アクチュエータは、予測期間を通じて複利年間成長率（CAGR）10.7%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月、Yichouからの技術アップデートでは、医療、航空宇宙、民生技術における精密な動作を可能にする形状‑記憶合金としてのニチノールのアプリケーション拡大を強調しました",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています",
+    "url": "https://newscast.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 7.77%",
+    "url": "https://newscast.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.77%です",
+    "url": "https://newscast.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 7.77%",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは7.77%です",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "世界の形状記憶合金市場は2026年に132億米ドル規模となり、予測期間中にCAGR 10.7％で成長し、2034年までに298億米ドルに達すると見込まれています",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は2025年から2035年まで年平均成長率（CAGR）11.2%で拡大し、2035年末までに4,190億米ドルを超えると予測されています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率11.2%で拡大し、2035年末には419億米ドルを超えると予想されている",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "The global shape memory alloys (SMA) market was valued at USD 1.7 billion in 2025, is expected to grow to USD 1.88 billion in 2026, and is projected to expand at an 11% CAGR (2026–2035), reaching USD 4.83 billion by 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Nitinol demand growing at 18% CAGR, driven by neurovascular, electrophysiology, structural heart, peripheral vascular, and orthopedic device markets [1]",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Medical segment sustains commanding revenue share through 2035; sustained OEM offtake reinforces 11.0% CAGR trajectory",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Geopolitical events or Japanese supply tightening could moderate growth in the 11.0% forecast CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive generated USD 170 million in 2025 and is expected to expand at an 11.5% CAGR (2026–2035). Thermal-management valves, active grille systems, and battery-related mechanisms offer a credible use case where SMA components can reduce kinematic complexity, although adoption remains contingent on cost competitiveness and automotive-grade reliability.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other applications, including robotics, haptics, and wearables, are projected to generate USD 241 million by 2035 and expand at a 17.2% CAGR (2026–2035). These uses are still emerging, but they present a differentiated demand avenue for soft, lightweight, and discreet actuation where conventional motors or solenoids impose design compromises.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Japan generated USD 119 million in 2025 and is expected to expand at a 6.7% CAGR (2026–2035). Its relatively mature demand profile is supported by precision wire processing, medical use, and consumer-electronics applications, where established supplier relationships and product quality remain more influential than rapid volume expansion.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "India generated USD 35 million in 2025 and is expected to grow at a 17.8% CAGR (2026–2035). Healthcare infrastructure development and increasing access to minimally invasive procedures are creating stronger medical demand, while the domestic material-processing base is expected to develop more gradually than end-market consumption.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa generated USD 50 million in 2025 and is expected to expand at an 11.4% CAGR (2026–2035). Demand is centered on imported medical devices and materials, with healthcare capacity investment in Gulf markets creating a stronger base for interventional cardiology, endoscopy, and related specialist procedures.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 4.83 billion by 2035, growing at a CAGR of 11% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2027-2036",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "size was valued at USD 20.2 billion in 2026 and is projected to exceed USD 62.74 billion by the end of 2036, expanding at over 12.0% CAGR during the forecast period, i.e., 2027-2036. In 2027, the industry size of shape memory alloys is estimated at USD 22.62 billion.",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "12.0% CAGR (2027-2036)",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "The global shape memory alloys market size exceeded USD 20.2 billion in 2026 and is set to expand at a CAGR of over 12.0%, surpassing USD 62.74 billion revenue by 2036.",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "The shape memory alloys market in China is expected to reach a projected revenue of US$ 5,842.3 million by 2033. A compound annual growth rate of 11.81% is expected of China shape memory alloys market from 2026 to 2033.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "The China market is expected to grow at a CAGR of 11.81% from 2026 to 2033.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "11.81% (CAGR from 2026 to 2033)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Shape Memory Alloys Market Size was estimated at 16.08 USD Billion in 2024. The Shape Memory Alloys industry is projected to grow from 18.33 USD Billion in 2025 to 68.08 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 14.02% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "The Shape Memory Alloys Market is projected to grow at a 14.02% CAGR from 2025 to 2035, driven by advancements in aerospace, automotive, and medical applications.",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Shape Memory Alloys Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Shape Memory Alloys Market during the forecast period 2025 - 2035 is 14.02%.",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "The global shape memory alloys market is expanding rapidly as demand rises across biomedical, automotive, aerospace and defense, consumer electronics, and industrial applications. According to the report, the market is projected to exceed USD 31.97 billion by 2031, registering an 11.23% CAGR during 2026-31.",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 11.7%",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "高い認定障壁により新規参入が制限され、新たなSMA機器設計の商業化が遅れる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "材料仕様、工程バリデーション、機器レベルのエビデンス要件が迅速な参入を制限する一方、検証済みの生産プロセスを確立した既存企業を保護する側面もある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野のプログラムは持続的な高付加価値の基盤となる一方、航空宇宙および自動車分野の参入経路は、市場の重心を直ちに変えるというより、戦略的な選択肢を広げる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "一方、規制要件は引き続き、サプライヤーや販売業者の市場参入経路に影響を及ぼしている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "高度な医療に対応する病院ネットワークが直接的な臨床需要を支えており、流通拠点としての役割により、より広域な地域に医療機器の材料や部品を供給する際の参入・再輸出拠点としての重要性も高まっている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場の主要企業には、Resonetics、Fort Wayne Metals、ATI Inc.、Xi'an Saite Metal Materials Development Co. Ltd.、Furukawa Electricなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、記憶合金超弾性ワイヤーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の記憶合金超弾性ワイヤー市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、市場の競争状況分析、市場集中度（CR3、CR5、CR10）が2024年から2026年の期間で分析されており、新規参入企業、市場のM&A活動、および戦略についても記述されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、記憶合金超弾性ワイヤーのポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、主要グローバル企業の戦略を分析し、加速する世界の記憶合金超弾性ワイヤー市場における各企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、市場の競争状況分析、市場集中度（CR3、CR5、CR10）が2024年から2026年の期間で分析されており、新規参入企業、市場のM&A活動、および戦略についても記述されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、世界の形状記憶合金アクチュエータ市場の成長において重要な役割を果たしている主要企業には、Johnson Matthey、SAES Getters、Fort Wayne Metals、Dynalloy Inc.、Memry Corporation などが含まれます",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "本市場調査レポートには、これらの主要企業の詳細な競合分析、企業概要、最近の傾向、主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業においては、専門的な製造設備や品質管理システムに多額の設備投資が必要となるため、参入障壁に直面する可能性があります",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業（最大3社）のSWOT分析",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品ポートフォリオ、地理的展開、および戦略的提携に基づく主要企業のベンチマーク",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "新規参入業者の脅威",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場シェア分析",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "チャネル、流通業者、および市場参入戦略の評価",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場の主要企業",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys (SMA) Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in shape memory alloys market?",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in shape memory alloys market include Resonetics, Fort Wayne Metals, ATI Inc., Xi'an Saite Metal Materials Development Co. Ltd., Furukawa Electric.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "Here is a list of key players operating in the global shape memory alloys market:",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "Get a glimpse of competitive landscape analysis",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players dominating the shape memory alloys market?",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the market are Dynalloy Inc., G.RAU GmbH & Co. KG, Memry Corporation, Nitinol Devices & Components, Inc., Seabird Metal Materials Co., Ltd., and others.",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Shape Memory Alloys Market include",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the Shape Memory Alloys Market?",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players in the market include Johnson Matthey, SAES Getters, and Fort Wayne Metals, among others.",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Recent Developments",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "12. Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "12.2. Business Strategies Adopted by Key Players",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "12.3. Key Players Market Share Insights and Analysis, 2025",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "12.4. Key Players Market Positioning Matrix",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following are the key players in the shape memory alloy market:",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape analysis, Market share analysis",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: Product portfolio, geographical reach, regional presence, and strategic alliances",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the shape memory alloys market?",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Specialty Alloys & Components, Dynalloy Inc., Fort Wayne Metals, Furukawa Electric Co., Ltd., Johnson Matthey Plc, and Metalwerks Pmd, Inc. are the leading players in the shape memory alloys market.",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Shape Memory Alloys Market Size, Share, Trends, Competitive Landscape, and Forecast - 2033 | Market to Reach $31.1 Billion as Healthcare, Aerospace, and EV Demand Accelerates",
+    "url": "https://finance.yahoo.com/healthcare/articles/global-shape-memory-alloys-market-133400702.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Shape Memory Alloys Market Insights, Competitive Landscape, and Market Forecast - 2033\"",
+    "url": "https://finance.yahoo.com/healthcare/articles/global-shape-memory-alloys-market-133400702.html",
+    "pass": 3
+   },
+   {
+    "quote": "Leading market participants are investing in research, strategic partnerships, manufacturing capacity, and geographic expansion. Key companies include:",
+    "url": "https://finance.yahoo.com/healthcare/articles/global-shape-memory-alloys-market-133400702.html",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the shape memory alloys market include ATI, Baoji Seabird Metal Material Co., Ltd., Dynalloy, Inc., Fort Wayne Metals Research, Furukawa Electric Co., Ltd., Johnson Matthey, Mishra Dhatu Nigam Limited (MIDHANI), Nippon Seisen Co., Ltd., Nippon Steel Corporation, SAES Group, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "米国はチタンスポンジの約80%を日本から輸入しており、国内にはチタンスポンジの生産能力がない [4]",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的な事象や日本からの供給引き締まりにより、予測年平均成長率（CAGR）11.0%の成長が抑制される可能性がある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本は2025年に1億1,900万米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）6.7%で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要な形状記憶合金超弾性ワイヤーメーカーには、古河電気工業、新日本製鉄、蘭州海明科利新材料、中国機械金属江蘇、北京時代比連などが含まれます",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の売上および収益、タイプ別の売上、および用途別の売上が分析されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工、日本製鉄、蘭州西明科技新材料、中国機械金属江蘇、北京時代必聯、深センNitiDriveTech、西安星克、上海帝一科技、西安知和、PEIERTECHなどの各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の開発状況が網羅的に記述されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：形状記憶合金（スーパーエラスティック）ワイヤーの世界市場2026年～2032年",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "世界の主要な形状記憶合金超弾性ワイヤーメーカーには、古河電気工業、新日本製鉄、蘭州海明科利新材料、中国機械金属江蘇、北京時代比連などが含まれます",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾など）の売上および収益、タイプ別の売上、および用途別の売上が分析されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工、日本製鉄、蘭州西明科技新材料、中国機械金属江蘇、北京時代必聯、深センNitiDriveTech、西安星克、上海帝一科技、西安知和、PEIERTECHなどの各企業について、会社情報、製品ポートフォリオと仕様、2021年から2026年までの売上、収益、価格、粗利益、主要事業概要、および最新の開発状況が網羅的に記述されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：形状記憶合金（スーパーエラスティック）ワイヤーの世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて日本語レポートが入手可能",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "これを踏まえ、日本の先端材料とロボット工学分野は、集中的な調達リスクに直面しています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "日本銀行の短観調査報告書と経済産業省の評価によると、企業はサプライチェーンと輸出管理の不確実性に懸念を抱きつつ、設備投資を慎重に増加させています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "これは、最近の政府の市場見通しによれば、政策と供給対応が加速されない限り、日本の自動車と医療アプリケーション向けSMAアクチュエータの生産拡大能力を制約する可能性がある重要な要因です",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現地プレーヤーにとって、形状記憶合金アクチュエータ市場の収益創出ポケットは何ですか?",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータは、国内の統合バリューチェーンを通じて日本の市場プレーヤーに新たな可能性を示していますが、同時に、日本税関と経済産業省が発表する公式貿易統計は、公表データの中でこの特定の製品タイプを分けておらず、そのため出荷量や貿易フローの定量化が限られています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "Furukawa Electric Groupは、アクチュエータ部品として使用できる形状記憶合金と超弾性合金の両方を日本製で製造しています（同社製品ページ）（Furukawa Electric product page）",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "2025年まで実施される金属と合金技術振興機構（METI）の先端材料プログラムに基づく政策支援は、日本の競争力のある材料製造能力の強化に向けられています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "政府筋からのSMAアクチュエータに関する具体的な「市場見通し」数値は公表されていないものの、日本の先端材料エコシステムと企業の生産活動は、高精度電子機器と産業機器分野から国内収益源が生まれることを明確に示唆しています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域では、産業オートメーションが急速に進展しており、中国、韓国、日本などの国々がロボット導入と稼働在庫の増加において世界をリードしています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "日本の形状記憶合金アクチュエータは、予測期間を通じて複利年間成長率（CAGR）10.7%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車メーカーは、ハイブリッド車や電気自動車の技術、そして先進運転支援システムのパイオニアです",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータは、アダプティブセーフティシステム、熱管理、軽量モーションコンポーネントなどに広く使用されており、自動車の電動化は日本におけるアクチュエータ需要の主要な牽引役となっています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "、デンマーク）、アイルランド、スイス、オーストリア、ポーランド、トルコ、ロシア、その他のヨーロッパ）、ポーランド、トルコ、ロシア、その他のヨーロッパ）、アジア太平洋（中国、インド、日本、韓国、シンガポール、インドネシア、マレーシア）",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、市場展望によると、日本の形状記憶合金アクチュエータ市場における上位5社は、Furukawa Electric Co., Ltd.、Nippon Steel Corporation、Tokyo Titanium Co., Ltd.、Daido Steel Co., Ltd.、Seiko Instruments Inc. などです",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://newscast.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルインフォメーションは360iResearch (360iリサーチ)の日本における正規代理店です",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国などの国々は、形状記憶合金の主要な消費分野である電子機器や自動車部品の主要生産国です",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mitsubishi Materials Corporation",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、ATI、宝鶏シーバード金属材料有限公司、Dynalloy社、フォートウェインメタルズ社、古河電工などがこの市場の主要プレーヤーとされています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "日本における形状記憶合金市場の概要",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "日本は精密工学、ロボティクス、スマート製造の世界的な拠点であり、形状記憶合金市場の有力な消費国です",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本メーカーによる高品質かつ革新的な製品開発の継続的な取り組みが市場拡大を後押ししています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "また、電子機器および自動車産業の強固な基盤も、日本市場の成長を加速させています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "古河電工、新日鐵住金、日泉金属、丸保発条工業、大同特殊鋼、淡路マテリアルなどが日本の主要な市場プレーヤーです",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋（中国、日本、インド、韓国、インドネシア、マレーシア、オーストラリア、ニュージーランド、その他）",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "インド、中国、日本、韓国などでは、防衛や研究開発投資が活発で、SMAの需要を押し上げています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "中国の製造能力と日本の精密工学により、この地域は世界市場への大きな貢献をしています",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "古河電気工業株式会社",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄株式会社",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "10.3.2. 日本",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "11.2.9. 日本製鉄株式会社（Nippon Steel Corporation）",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンター浸漬冷却液市場",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "日本の商業用アミノ酸市場",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "サエス・ゲッターズ・エス・ピー・エー 日本支店",
+    "url": "https://mono.ipros.com/cg3/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91/",
+    "pass": 3
+   },
+   {
+    "quote": "Medtec Japan （メドテックジャパン）",
+    "url": "https://www.kanematsu.co.jp/business/steel_materials_plant/specialty_steel_foreign_trade/shape_memory_alloy",
+    "pass": 3
+   },
+   {
+    "quote": "この頃、日本の大塚（筑波大学名誉教授、本会正会員）と筆者は形状記憶効果の発現機構を解明して形状記憶合金の具備すべき条件を明確にしたので、Ti-Ni合金以外に銅合金などの多くの形状記憶合金も見い出されるようになった",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本においても、下記するような二つの民間組織（一つは半官）が結成され、やがてそれらが統合する形で「形状記憶合金協会」が設立されて、形状記憶合金の基礎および応用に関して活発な調査・研究活動が実施され、多大の成果が得られてきた",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "それらは、JIS H7001、JIS H7101、JIS H7003、JIS H7004、JIS H7005、JIS H7006として、日本工業標準調査委員会の審議を経てJIS規格化された",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "1983年、通産省の産業活性化技術研究開発補助制度にもとずいて補助金を受け、形状記憶合金の製造企業6社（アイウエオ順：住友特殊金属、大同特殊鋼、東北金属工業、同和鉱業、古河電気工業、三菱金属）が「形状記憶合金技術研究組合」を結成して、形状記憶合金の研究開発を推進した",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "「形状記憶合金技術研究組合」は1986年まで通産省の補助事業のもとで、その後は1993年まで独自に、上述のような形状記憶合金の製造技術と材料および用途の開発に関して活動を続けて多くの成果を挙げるとともに、日本における形状記憶合金技術の基礎を構築した",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、国内は勿論のこと世界的規模で高まった形状記憶合金の材料および応用利用法の開発意欲を維持するためには、官製でなくても何らかの研究グループを存続あるいは新設する必要があるという関係者の希望もあって、従来の「形状記憶合金部会」と「形状記憶合金技術研究組合」との協力関係を踏まえた上で、「形状記憶合金技術研究組合」の活動を維持発展させるべく、（アイウエオ順で）加藤発條（現パイオラックス、パイオラックスメディカルデバイス）、相互発條、大同特殊鋼、トーキン、古河電気工業、三菱マテリアルの6社の形状記憶合金関連の研究者が発起人になって、新ためて1993年10月に「形状記憶合金協会」を設立することにした",
+    "url": "http://www.asma-jp.com/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 | チタン合金・形状記憶合金 | 製品情報 | 大同特殊鋼",
+    "url": "https://www.daido.co.jp/products/titanium/memory/",
+    "pass": 3
+   },
+   {
+    "quote": "数字で見る大同特殊鋼",
+    "url": "https://www.daido.co.jp/products/titanium/memory/",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼技報",
+    "url": "https://www.daido.co.jp/products/titanium/memory/",
+    "pass": 3
+   },
+   {
+    "quote": "The United States imports approximately 80% of its titanium sponge from Japan, with no domestic titanium sponge production capacity [4]",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "形状記憶合金市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Resoneticsは2025年に10.1%を超える市場シェアを獲得し、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年に合計27%の市場シェアを占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は2035年まで圧倒的な売上シェアを維持し、OEMによる安定した調達が11.0%の年平均成長率（CAGR）の軌道を後押し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（SMA）市場ではNiTi／ニチノールが主導的な地位を占め、2025年の市場規模は14億4,000万米ドルとなり、2035年には41億1,000万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅系SMAは2025年に10.0%のシェアを占め、2035年には4億8,300万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "鉄系SMAは2025年に5,100万米ドルの市場規模となり、2035年には3.0%のシェアを占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "その他のSMAは2025年に2.0%のシェアを占め、2035年には9,600万米ドルの市場規模に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "板材・帯材は2025年に18.0%のシェアを占め、2035年には8億6,900万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "棒材・バー材は2025年に8.0%のシェアを占め、2035年には3億8,600万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "ばね・成形アクチュエーターは2025年に1億1,900万米ドルの市場規模となり、2035年には7.0%のシェアを占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "粉末は2025年に3.0%のシェアを占め、2035年には1億4,500万米ドルの市場規模になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金（SMA）市場シェア：用途別、2025年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛分野は2025年に18.0%のシェアを占め、2035年には7億7,300万米ドルを生み出すと予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "また、ワイヤーの直径に基づくタイプ別（0.025-0.05mm、0.05-0.25mm、0.25-0.35mm、0.35-1.00mm）のセグメント分析、および医療、交通・通信、建設業、産業機械などの用途別のセグメント分析が詳細に記述されており、それぞれのタイプ別および用途別の売上、市場シェア、収益、販売価格が2021年から2026年のデータに基づいて示されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの企業別の年間売上、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界の上位2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "また、ワイヤーの直径に基づくタイプ別（0.025-0.05mm、0.05-0.25mm、0.25-0.35mm、0.35-1.00mm）のセグメント分析、および医療、交通・通信、建設業、産業機械などの用途別のセグメント分析が詳細に記述されており、それぞれのタイプ別および用途別の売上、市場シェア、収益、販売価格が2021年から2026年のデータに基づいて示されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの企業別の年間売上、売上市場シェア、年間収益、収益市場シェア、および販売価格が網羅されています",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、2020年にアジア太平洋地域の市場が最大のシェアを占めました",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "4.2. 企業の市場シェア分析（金額％）、2020年",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金アクチュエータ市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― エンドユーザー産業別、製品タイプ別、材料タイプ別、作動モード別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、バイオメディカルとヘルスケア機器分野が市場を牽引しており、予測期間中に世界市場シェアの42%を占めると予想されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "SMAワイヤとスプリング（リニア）は、予測期間中に世界市場シェアの58%を獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の形状記憶合金アクチュエータ市場は、36%を超えるトップシェアを獲得し、世界市場で支配的な地位を維持すると予想されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "ガソリン直噴市場 調査レポート、規模とシェア、成長機会、及び傾向洞察分析―車両タイプ別、構成部品別、エンジンタイプ別、噴射アーキテクチャ別、エンジン構成別、パワートレイン統合別、噴射戦略別、販売チャネル別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用アンプ市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析―アンプクラス別、車両タイプ別、販売チャネル別、チャネル構成別、及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2035 年にはアジア太平洋地域が形状記憶合金アクチュエータ市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の市場規模、シェア、動向および予測：合金タイプ別、最終用途産業別、機能タイプ別、用途別、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場規模、シェア、動向及び成長分析レポート2026-2034年",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金の世界市場：市場規模・シェア・動向分析 (製品別・最終用途別・地域別)、セグメント別予測 (2025年～2030年)",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場規模、シェア、製造業者、分析および成長予測 2034",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "11.1. 市場シェア分析",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Copper-based SMA accounted for a 10.0% share in 2025 and is forecast to generate USD 483 million by 2035. These systems retain relevance where industrial actuation, damping, or structural applications can accept a narrower performance envelope in exchange for a more accessible cost profile and less demanding processing route than NiTi.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Rod/bar accounted for an 8.0% share in 2025 and is projected to generate USD 386 million by 2035. These forms address applications requiring greater load-bearing cross-section, including couplings and actuator elements, and benefit from aerospace and industrial programs where traceability and fatigue performance are central to material selection.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys (SMA) Market Share, by Application, 2025",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial applications accounted for a 9.0% share in 2025 and are projected to generate USD 386 million by 2035. Demand spans pipeline couplings, HVAC controls, damping systems, and precision triggers, with copper-based and iron-based alternatives often gaining relevance where the full performance profile of NiTi is not economically necessary.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys (SMA) Market Share, by Region, 2025 & 2035",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. generated USD 580 million in 2025 and is expected to reach USD 1.65 billion by 2035. Its market position is underpinned by a concentrated medical-grade Nitinol production base, a deep OEM ecosystem, and aerospace development activity that together reinforce demand for traceable, qualified material and downstream conversion services.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe accounted for a 22.0% share in 2025 and is forecast to reach USD 1.06 billion by 2035. The region combines precision manufacturing capability with a mature medical-device base, while aerospace and industrial automation programs support a more diversified mix of material and component requirements.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "held a 4.8% share in 2025. Its strategic role is concentrated at the melt stage, where upstream metallurgical capability underpins downstream medical-grade conversion. This position makes capacity planning and customer-aligned investment central to its competitive relevance.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently holds the largest share of the shape memory alloys market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which type segment will capture the significant market share for the shape memory alloys market by 2036?",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of the type segment, the Nitinol (Ni-Ti) is anticipated to garner the largest market share of 64.8% by 2036 and display lucrative growth opportunities during 2027-2036.",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "The market in the Asia Pacific is projected to hold the largest market share of 34.6% by the end of 2036 and provide more business opportunities in the future.",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of revenue, China accounted for 14.0% of the global shape memory alloys market in 2025.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "Nickel-Titanium (Nitinol) was the largest segment with a revenue share of 101.39% in 2025.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "6.2. Market Share by Region",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.2. Market Share by Country",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "8.2. Market Share by Country",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "9.2. Market Share by Country",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "10.2. Market Share by Country",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "11.2. Market Share by Country",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "12.3. Key Players Market Share Insights and Analysis, 2025",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "30.3% market share",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific holds an estimated 30.3% share of the global market and remains the fastest-growing regional segment. China plays a central role in Nitinol manufacturing capacity and supply chain expansion, supported by industrial modernization initiatives. Japan contributes through aerospace and advanced materials research programs led by the Japan Aerospace Exploration Agency.",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Nickel-titanium (nitinol) segment dominated the market, with a revenue share of 88.5% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "形状記憶合金市場規模 ・予測レポート（2026〜2035年） — 形状記憶合金市場規模 ・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 Market Sizeは、2026年から2033年までの年間 ... — 形状記憶合金 Market Sizeは、2026年から2033年までの年間 ... LinkedIn https://jp.linkedin.com > pulse > 形状記憶合金-market-siz...",
+    "url": "https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91-market-size%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E9%96%93%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C88%E3%81%A8%E6%8E%A8%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E6%8E%A2%E7%B4%A2-fiodf",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 の世界 市場 は、2021年から2027年の予測期間中 — 形状記憶合金 の世界 市場 は、2021年から2027年の予測期間中 PR TIMES https://prtimes.jp > 調査レポート",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場 規模・ 予測 レポート（2026〜2035年） — 形状記憶合金市場 規模・ 予測 レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場 | 市場 規模 業界分析 予測 2034年 【 市場 調査 ... — 形状記憶合金市場 | 市場 規模 業界分析 予測 2034年 【 市場 調査 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > マテリアル/化学品 > 金属",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 の 市場 規模、シェア |成長レポート [2034] — 形状記憶合金 の 市場 規模、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > メモリ合金市場...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金市場 における戦略の調整：2026年から2033年 ... — 形状記憶合金市場 における戦略の調整：2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > 形状記憶合金市場にお...",
+    "url": "https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%A6%E7%95%A5%E3%81%AE%E8%AA%BF%E6%95%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8746%E3%81%AE%E4%BA%88-7513698836369039360-4sqve",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 市場規模・予測レポート（2026〜2035年） — 形状記憶合金 市場規模・予測レポート（2026〜2035年） Global Market Insights Inc. https://www.gminsights.com > shape-memory-alloys-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 ワイヤ メーカー8社 注目ランキング【2026年】 — 形状記憶合金 ワイヤ メーカー8社 注目ランキング【2026年】 Metoree https://metoree.com > 金属材料",
+    "url": "https://metoree.com/categories/9801/",
+    "pass": 3
+   },
+   {
+    "quote": "形状記憶合金 の市場規模、シェア |成長レポート [2034] — 形状記憶合金 の市場規模、シェア |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > メモリ合金市場...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size , Forecasts Report 2026-2035 — Shape Memory Alloys Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > shape-...",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "China Shape Memory Alloys Market Outlook, 2033 — China Shape Memory Alloys Market Outlook, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size , Share, Trends | Report, 2035 — Shape Memory Alloys Market Size , Share, Trends | Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size & Growth Analysis, 2033 — Shape Memory Alloys Market Size & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size, Forecasts Report 2026-2035 — Shape Memory Alloys Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > shape-...",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size, Share | Growth Report [2034] — Shape Memory Alloys Market Size, Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/shape-memory-alloys-market-112322",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size, Growth, Trends, 2028 — Shape Memory Alloys Market Size, Growth, Trends, 2028 Stratview Research https://www.stratviewresearch.com > s...",
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size Report, 2025 -2030 — Shape Memory Alloys Market Size Report, 2025 -2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "Shape Memory Alloys Market Size, Share & 2031 Growth ... — Shape Memory Alloys Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/shape-memory-alloys-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "たとえば、2022年1月には、アイルランド・ダブリンのスタートアップ「Exergyn」が排出削減を目的とした熱管理技術のために3,500万ドルの資金調達を行いました",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa generated USD 50 million in 2025 and is expected to expand at an 11.4% CAGR (2026–2035). Demand is centered on imported medical devices and materials, with healthcare capacity investment in Gulf markets creating a stronger base for interventional cardiology, endoscopy, and related specialist procedures.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "held a 4.8% share in 2025. Its strategic role is concentrated at the melt stage, where upstream metallurgical capability underpins downstream medical-grade conversion. This position makes capacity planning and customer-aligned investment central to its competitive relevance.",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "pass": 3
+   },
+   {
+    "quote": "30% of our revenue is generated working with investment firms and helping them identify viable opportunity areas.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024, Confluent and ATI announced an investment exceeding USD 50 million to more than triple ATI's medical Nitinol melt capacity.",
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "pass": 3
+   },
+   {
+    "quote": "Demographic trends further strengthen this opportunity. According to projections from the United Nations, the global population aged 60 and above is expected to expand substantially by 2050, increasing demand for orthopedic implants and assistive devices. In parallel, research funding from the National Institutes of Health continues to accelerate innovation in advanced biomaterials.",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads the market with a 37.5% share, supported by advanced U.S. innovation, regulatory frameworks, and biomedical research funding.",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Last September, Alloy raised a $100 million Series C, also led by Lightspeed, at a $1.35 billion valuation.",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015, Alloy has now raised just over $200 million.",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC’s Record Funding Year",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Q1 Global Startup Funding Posts Strongest Quarter Since Q2 2022 With A Third Going To Massive OpenAI Deal",
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Funding: Q4 2025",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "More and bigger funding rounds for AI chips and AI for making chips; 75 companies raise $3 billion.",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$100.0M in Series B investment",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": ", plus seed and Series A rounds totaling $40.0M led by",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$40.0M in strategic funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "INR 384.0M (~$4.3M) in Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$475.0M in seed funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$275.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$220.0M in Series C funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$125.0M in funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "over $100.0M in Series A and seed financing",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   },
+   {
+    "quote": "$46.0M in seed and Series A funding",
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "11",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は11％と予測され、2035年には48億3,000万米ドルに達する見通しである"
+   },
+   {
+    "value": "11.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "quote": "地政学的な事象や日本からの供給引き締まりにより、予測年平均成長率（CAGR）11.0%の成長が抑制される可能性がある"
+   },
+   {
+    "value": "5.6",
+    "url": "https://newscast.jp/smart/news/5211789",
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています"
+   },
+   {
+    "value": "5.6",
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "quote": "世界の形状記憶合金超弾性ワイヤー市場規模は、2025年の2億5,500万米ドルから2032年には3億7,100万米ドルに成長すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）5.6%で成長すると見込まれています"
+   },
+   {
+    "value": "7",
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "quote": "形状記憶合金の世界市場は、2021年から2027年の予測期間中、年平均成長率が7%以上になると予測されている | Report Oceanのプレスリリース"
+   },
+   {
+    "value": "11.5",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "quote": "また、予測期間を通じて複利年間成長率（CAGR）11.5%で成長し、最も急速な成長が見込まれています"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "quote": "日本の形状記憶合金アクチュエータは、予測期間を通じて複利年間成長率（CAGR）10.7%で成長すると予測されています"
+   },
+   {
+    "value": "7.77",
+    "url": "https://newscast.jp/news/6468699",
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "7.77",
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "quote": "形状記憶合金市場は、2025年に149億4,000万米ドルと評価され、2026年には160億3,000万米ドルに成長し、CAGR 7.77％で推移し、2032年までに252億3,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "quote": "世界の形状記憶合金市場は2026年に132億米ドル規模となり、予測期間中にCAGR 10.7％で成長し、2034年までに298億米ドルに達すると見込まれています"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "quote": "この市場は2025年から2035年まで年平均成長率（CAGR）11.2%で拡大し、2035年末までに4,190億米ドルを超えると予測されています"
+   },
+   {
+    "value": "11",
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "quote": "The market is projected to reach USD 4.83 billion by 2035, growing at a CAGR of 11% from 2026 to 2035."
+   },
+   {
+    "value": "12.0",
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "quote": "The global shape memory alloys market size exceeded USD 20.2 billion in 2026 and is set to expand at a CAGR of over 12.0%, surpassing USD 62.74 billion revenue by 2036."
+   },
+   {
+    "value": "11.81",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "quote": "The shape memory alloys market in China is expected to reach a projected revenue of US$ 5,842.3 million by 2033. A compound annual growth rate of 11.81% is expected of China shape memory alloys market from 2026 to 2033."
+   },
+   {
+    "value": "14.02",
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "quote": "As per Market Research Future analysis, the Shape Memory Alloys Market Size was estimated at 16.08 USD Billion in 2024. The Shape Memory Alloys industry is projected to grow from 18.33 USD Billion in 2025 to 68.08 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 14.02% during "
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "quote": "CAGR of 11.7%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/5211789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/5211789",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6468699",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6468699",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9801/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kanematsu.co.jp/business/steel_materials_plant/specialty_steel_foreign_trade/shape_memory_alloy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.asma-jp.com/about/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daido.co.jp/products/titanium/memory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/shape-memory-alloys-market-112322",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/healthcare/articles/global-shape-memory-alloys-market-133400702.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/shape-memory-alloy-market-83856907.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/shape-memory-alloys-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alloy.com/about/press/alloy-raises-52-million-in-additional-funding-to-accelerate-growth-and-global-expansion",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "形状記憶合金 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "https://newscast.jp/smart/news/5211789",
+    "https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91-market-size%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E5%B9%B4%E9%96%93%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C88%E3%81%A8%E6%8E%A8%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%9D%E3%81%97%E3%81%A6%E6%8E%A2%E7%B4%A2-fiodf",
+    "https://www.atpress.ne.jp/news/5211789",
+    "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "https://www.sdki.jp/reports/shape-memory-alloy-actuators-market/590642003",
+    "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "https://www.mordorintelligence.com/ja/industry-reports/shape-memory-alloys-market"
+   ]
+  },
+  {
+   "query": "形状記憶合金 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "https://newscast.jp/news/6468699",
+    "https://www.atpress.ne.jp/news/6468699",
+    "https://www.gii.co.jp/report/smrc2021661-shape-memory-alloys-market-forecasts-global.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%88%A6%E7%95%A5%E3%81%AE%E8%AA%BF%E6%95%B42026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%8746%E3%81%AE%E4%BA%88-7513698836369039360-4sqve",
+    "https://www.surveyreports.jp/industry-analysis/shape-memory-alloys-market/1037878",
+    "https://prtimes.jp/main/html/rd/p/000003021.000067400.html",
+    "https://newscast.jp/news/7473194",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "形状記憶合金 参入 企業 国内",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/shape-memory-alloys-market",
+    "https://mono.ipros.com/cg3/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91/",
+    "https://metoree.com/categories/9801/",
+    "https://www.kanematsu.co.jp/business/steel_materials_plant/specialty_steel_foreign_trade/shape_memory_alloy",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%A1%E3%83%A2%E3%83%AA%E5%90%88%E9%87%91%E5%B8%82%E5%A0%B4%E3%82%92%E5%BD%A2%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%99-112322",
+    "https://jp.linkedin.com/pulse/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E3%81%AE%E5%9C%B0%E5%9F%9F%E5%88%A5%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%A8%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-equity-edges-rolpe",
+    "http://www.asma-jp.com/about/history.html",
+    "https://www.facebook.com/p/%E5%BD%A2%E7%8A%B6%E8%A8%98%E6%86%B6%E5%90%88%E9%87%91%E5%8D%94%E4%BC%9A-ASMA-100078320524510/",
+    "https://www.daido.co.jp/products/titanium/memory/",
+    "http://www.asma-jp.com/about/link.html"
+   ]
+  },
+  {
+   "query": "shape memory alloy market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "https://www.grandviewresearch.com/horizon/outlook/shape-memory-alloys-market/china",
+    "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100100612.html",
+    "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "https://www.fortunebusinessinsights.com/shape-memory-alloys-market-112322",
+    "https://www.factmr.com/report/shape-memory-alloys-market",
+    "https://www.linkedin.com/pulse/shape-memory-alloys-market-size-striking-cagr-54-from-2026-e96sf",
+    "https://www.verifiedmarketreports.com/product/shape-memory-alloys-market/"
+   ]
+  },
+  {
+   "query": "shape memory alloy market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/shape-memory-alloys-market",
+    "https://www.fortunebusinessinsights.com/shape-memory-alloys-market-112322",
+    "https://www.researchnester.com/reports/shape-memory-alloys-market/5145",
+    "https://www.persistencemarketresearch.com/market-research/shape-memory-alloys-market.asp",
+    "https://www.stratviewresearch.com/market-reports/shape-memory-alloys-market.html",
+    "https://finance.yahoo.com/healthcare/articles/global-shape-memory-alloys-market-133400702.html",
+    "https://www.marketsandmarkets.com/Market-Reports/shape-memory-alloy-market-83856907.html",
+    "https://www.linkedin.com/pulse/shape-memory-alloys-consumption-market-industry-outlook-r5klc/",
+    "https://www.marketresearchfuture.com/reports/shape-memory-alloys-market-5997",
+    "https://www.mordorintelligence.com/industry-reports/shape-memory-alloys-market"
+   ]
+  },
+  {
+   "query": "shape memory alloy startup funding 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/shape-memory-alloys-market",
+    "https://www.mordorintelligence.com/industry-reports/shape-memory-alloys-market",
+    "https://www.fortunebusinessinsights.com/shape-memory-alloys-market-112322",
+    "https://news.crunchbase.com/fintech-ecommerce/unicorn-cybersecurity-identity/",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://www.alloy.com/about/press/alloy-raises-52-million-in-additional-funding-to-accelerate-growth-and-global-expansion",
+    "https://foundationalloy.com/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals/",
+    "https://uk.finance.yahoo.com/news/global-shape-memory-alloys-market-100000106.html",
+    "https://www.alleywatch.com/2025/05/us-startup-funding-top-largest-april-2025-vc/",
+    "https://www.emergenresearch.com/industry-report/shape-memory-alloy-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

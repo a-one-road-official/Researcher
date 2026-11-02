@@ -1,0 +1,1966 @@
+{
+ "name": "金属ガラス（アモルファス合金）",
+ "en": "amorphous metal",
+ "aliases": [
+  "metallic glass",
+  "bulk metallic glass",
+  "amorphous alloy",
+  "アモルファス金属"
+ ],
+ "context": "新合金",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:30:16.101317+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "金属ガラス市場規模、動向・予測（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場は2025年に10億8,000万米ドルと評価され、2026年には11億7,000万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場は、商業的に性質の異なる2つの需要の流れによって形成されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場規模：材料組成別、2025年および2035年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の金属ガラス市場は2025年に1億8,400万米ドルを生み出し、年平均成長率（CAGR）7.7%で成長すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "の2025年の市場規模は5,200万米ドルで、2026〜2035年の年平均成長率（CAGR）は7.1%と予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2035年までに5,600万米ドルに達すると予測され、2025年の欧州市場売上高に占める割合は18.1%であった",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年の欧州市場売上高の14.8%を占め、市場規模は2035年までに4,300万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の金属ガラス市場は、2025年に6億7,600万米ドルを生み出し、2035年には世界市場売上高の63.1%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2025年に3億3,700万米ドルで、2035年にはアジア太平洋市場売上高の52.8%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に19億2,100万米ドルに達する世界のアモルファス金属の市場規模 | MARKETYSERS GLOBAL CONSULTING LLPのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に19億2,100万米ドルに達する世界のアモルファス金属��の市場規模",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニューヨーク、2022年02月07日 – MARKETYSERS GLOBAL CONSULTING LLP のグループ会社である Emergen Researchは Emergen Researchの最新の分析によると、世界のアモルファス金属の市場規模は2020年に9億8,540万米ドルに達し、予測期間中に安定した収益CAGRを記録すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアモルファス金属市場は予測期間にわたって8.8％のCAGRを記録すると予想され、収益は2020年の9億8,540万米ドルから2028年には19億2,100万米ドルに増加すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に19億2,100万米ドルに達する世界のアモルファス金属の市場規模",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "微粒化アモルファス合金粉末の世界市場（2026年～2032年）、市場規模（水噴霧、空気噴霧）・分析レポートを発表 | NEWSCAST",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "微粒化アモルファス合金粉末の世界市場（2026年～2032年）、市場規模（水噴霧、空気噴霧）・分析レポートを発表",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "世界の噴霧成形アモルファス合金粉末市場規模は、2025年の3,717万米ドルから2032年には7,648万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.5%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの期間における地理的地域別および国/地域別の年間販売額と年間収益の歴史的市場規模データが含まれています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "2027年から2032年までの期間における地域別の世界市場規模予測（販売額と年間収益）が含まれています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大 | QY Research株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「バルク金属ガラス―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、バルク金属ガラスの世界市場は、2025年に668百万米ドルと推定され、2026年には753百万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "抵抗溶接用電極の世界市場規模：2026年は499百万米ドルに達する見込み",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年） | 記事 | ブログ",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年）",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アモルファス鋼市場は、2026年から2033年にかけて年平均成長率（CAGR）8.5%で成長すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2026年には18億米ドルと推定され、予測期間終了の2033年には32億5000万米ドルに達すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアモルファス合金市場規模、成長傾向、予測 2026 ～ 2034 年",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模 (2024)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.16 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 0.3 Billion",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "2033年までに32億ドル、",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "急速凝固技術の出現により 1960 年代後半に始まったアモルファス合金市場は、ニッチな研究プロジェクトから商業的に実行可能な産業に発展しました",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "今後 5 年間、アモルファス合金市場は、エネルギー、エレクトロニクス、輸送部門での需要の増加により、着実に拡大する態勢が整っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "銅系アモルファス合金市場 | 市場規模 分析 予測 2026-2032年 【市場調査レポート】",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅ベースの非晶質合金市場は、2025年に21億3,000万米ドルと評価され、2026年には22億5,000万米ドルに成長し、CAGR 6.40％で推移し、2032年までに33億米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,939 換算",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,959 換算",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アモルファス金属の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アモルファス金属の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるアモルファス金属市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、アモルファス金属の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "）によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アモルファス金属の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アモルファス金属の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第6章では、アジア太平洋地域におけるアモルファス金属市場規模と各種用途を、販売量と収益を中心に分析します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第12章では、アモルファス金属の世界市場規模を地域と製品タイプ別の売上高、収益、その他の関連指標で予測します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年の売り上げは、日本円でいうと3兆8315億円",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年】3Dプリンターの値段はいくら？1万円〜1億円まで価格帯別に徹底解説",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.0 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2.0 Bn",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Amorphous Metal Cores Market Size and Share Forecast Outlook 2025 to 2035",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）8.1%で成長し、2035年には23億5,000万米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2035年までに3億8,300万米ドルに達し、年平均成長率（CAGR）10.5%で拡大すると予測される（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2035年までに6億4,800万米ドルに達し、2026〜2035年の年平均成長率（CAGR）は10.5%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年に6,500万米ドルを生み出し、2026〜2035年の年平均成長率（CAGR）は6.6%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2035年までに2億2,900万米ドルに達し、年平均成長率（CAGR）18.2%（2026〜2035年）で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "ニューヨーク、2022年02月07日 – MARKETYSERS GLOBAL CONSULTING LLP のグループ会社である Emergen Researchは Emergen Researchの最新の分析によると、世界のアモルファス金属の市場規模は2020年に9億8,540万米ドルに達し、予測期間中に安定した収益CAGRを記録すると予想されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のアモルファス金属市場は予測期間にわたって8.8％のCAGRを記録すると予想され、収益は2020年の9億8,540万米ドルから2028年には19億2,100万米ドルに増加すると予測されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の噴霧成形アモルファス合金粉末市場規模は、2025年の3,717万米ドルから2032年には7,648万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.5%で成長すると見込まれています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大 | QY Research株式会社のプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）14.2%で推移し、2032年には1668百万米ドルに拡大すると見込まれています",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "回転ステアリングツール市場の最新予測：2026年に447百万米ドル規模、成長率4.9%の見通し",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "世界のタンパク質および抗体精製用磁気ビーズ市場動向、年平均成長率6.7%で拡大継続2026-2032",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "アモルファス鋼市場は、2026年から2033年にかけて年平均成長率（CAGR）8.5%で成長すると予測されています",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "銅ベースの非晶質合金市場は、2025年に21億3,000万米ドルと評価され、2026年には22億5,000万米ドルに成長し、CAGR 6.40％で推移し、2032年までに33億米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは6.40%です",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アモルファス金属の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "）によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第4章では、アモルファス金属の世界市場規模を、主要地域における数量、収益、成長率の観点から分析します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Amorphous Metal Cores Market is estimated to be valued at USD 1.0 billion in 2025 and is projected to reach USD 2.0 billion by 2035, registering a compound annual growth rate (CAGR) of 7.5% over the forecast period.",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast CAGR (2025 to 2035)",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.5% from 2025 to 2035",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD Million/ Billion and CAGR from 2025 to 2035",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "The amorphous metal cores market is expected to grow at a 7.5% CAGR between 2025 and 2035.",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026–34",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "10.80% CAGR:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2034)",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Platinum Group Metal Market is valued at USD 45.00 Billion in 2025 and is projected to reach USD 86.28 Billion by 2034, expanding at a CAGR of 7.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Metal Powder Market is valued at USD 5.80 Billion in 2025 and is projected to reach USD 20.09 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Precious Metal Recovery Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 26.05 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Scrap Metal Market is valued at USD 520.00 Billion in 2025 and is projected to reach USD 841.93 Billion by 2034, expanding at a CAGR of 5.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Precious Metal Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 22.60 Billion by 2034, expanding at a CAGR of 6.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Amorphous Metal Market was valued at USD 1.80 Bn in 2025 and is projected to reach USD 4.53 Bn by 2034, growing at a CAGR of 10.80% over the 2026–2034 forecast period.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Amorphous Metal Cores Market Size was estimated at 2.939 USD Billion in 2024. The Amorphous Metal Cores industry is projected to grow from USD 3.19 Billion in 2025 to USD 7.226 Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8.52% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "The Amorphous Metal Cores Market is projected to grow at an 8.52% CAGR from 2025 to 2035, driven by advancements in energy efficiency and demand for",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Amorphous Metal Cores Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Amorphous Metal Cores Market during the forecast period 2025 - 2035 is 8.52%.",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Amorphous Alloy Band Market Size is projected to Grow from USD 92.6 Billion in 2024 to USD 301.9 Billion by 2035, at a CAGR of 11.45% during the forecast period 2025–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The market size is projected to expand at a compound annual growth rate (CAGR) of 11.45% between 2025 and 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033 at CAGR of",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, representing a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 7.3%% | USD Billion",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2033)",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Growth Journey of the Amorphous Metal Market – Uncovering a 9.8%% CAGR through 2026 to 2033 · Apiary",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "The Growth Journey of the Amorphous Metal Market – Uncovering a 9.8%% CAGR through 2026 to 2033",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "金属ガラス市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場の主要企業には、Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporationなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "✓ 競争環境と市場への参入・撤退の見通し",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場レポートに含まれるいくつかの主要企業は、日立金属株式会社、マテリオン株式会社、青島雲呂先端材料技術株式会社、中国アモルファステクノロジー株式会社、Zhaojing Incorporated、Shijiazhuang Shenke Metal Products Co.株式会社、Federal Steel Supply、Inc.、Advanced Metal Technology、Inc",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、世界的な主要企業の戦略を分析し、特にアトマイズドアモルファス合金粉末のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、加速する世界のアトマイズドアモルファス合金粉末市場におけるこれらの企業の独自の立場をより深く理解できるようにしています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、競争状況分析、市場集中度（CR3、CR5、CR10比率）分析（2024年から2026年）、新製品と潜在的な新規参入企業、および市場のM&A活動と戦略についても言及されています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "第13章には、主要企業の詳細な分析が収録されています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業と今後の競争ポイント",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年） | 記事 | ブログ",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "非晶質鋼市場規模：世界の主要企業に関する独自調査（2026～2033年）",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入企業は、高度な製品の開発、性能向上、変化する業界ニーズへの対応を目的として、研究開発への投資を強化しています",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "🚀 非晶質鋼市場の主要企業",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "これらの複雑さは、先行投資と運用コストの増加につながり、小規模企業の参入を妨げ、広範な採用を制限する可能性があります",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "ナノ結晶合金や先進的な複合材料などの代替材料の参入は、市場シェアに脅威をもたらします",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "磁性部品と先端合金を専門とする主要企業である VACUUMSCHMELZE は、広範な研究開発を活用して産業用および家庭用電子機器向けにカスタマイズされたソリューションを開発し、ニッチでありながら影響力のある存在を維持しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、日立は独自の磁性合金配合と真空処理技術に重点を置いているため、高い参入障壁が生じています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "市場参入戦略",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、特定の溶融紡糸構成、ガスアトマイズ法、高エネルギー機械合金化技術などの独自プロセスノウハウ、およびOEMの認証取得期間を短縮するパイロットラインへの重点投資によって差別化を図っています",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "銅系アモルファス合金市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Amorphous Metal Cores Market:",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "How is the Competitive Landscape in the Amorphous Metal Cores Market?",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends, Pricing Analysis",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players:",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "industry trends, competitive landscape, regional outlook, and future growth opportunities. The study",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Platinum Group Metal Market is valued at USD 45.00 Billion in 2025 and is projected to reach USD 86.28 Billion by 2034, expanding at a CAGR of 7.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Metal Powder Market is valued at USD 5.80 Billion in 2025 and is projected to reach USD 20.09 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Precious Metal Recovery Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 26.05 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Scrap Metal Market is valued at USD 520.00 Billion in 2025 and is projected to reach USD 841.93 Billion by 2034, expanding at a CAGR of 5.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Precious Metal Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 22.60 Billion by 2034, expanding at a CAGR of 6.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape, including key market participants, company size,",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape, market share & company revenue mapping",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Amorphous Metal Cores Market include",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the Amorphous Metal Cores Market?",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Amorphous Metal Cores Market include Hitachi Metals, Magnetics, Advanced Technology, Amorphous Technologies, Metglas, VACUUMSCHMELZE, Korea Electric Power Corporation, and Ferroxcube.",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "The amorphous metal market is characterized by a competitive landscape featuring several key players, each contributing to market growth through innovative technologies and diverse applications.",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Mapping of the Competitive Landscape",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Industry Players and Competitive Landscape",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "View More Key Players",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in Metallic Glasses Market: Liquidmetal Technologies Inc., Amorphology Inc., Antai Technology Co., Ltd., EPSON ATMIX Corporation, Exmet AB, Glassimetal Technology, Heraeus Holding, Hitachi Metals Ltd., Materion Corporation, PrometalTech, PX Group SA, Qingdao Yunlu Advanced Materials Technology Co., Ltd., RS Alloys, Usha Amorphous Metals Limited",
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Metallic Glasses Market",
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "pass": 3
+   },
+   {
+    "quote": "INNOVATE WITH SEB - PARTNERSHIPS WITH START-UPS",
+    "url": "https://www.groupeseb.com/en/news/vulkam-raises-eu34m-build-its-first-amorphous-metals-production-plant-revolution-metallurgy",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporation",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nikkei Asia. \"EV Motor Alloy from Japan's Proterial Trims Power Use by 5%.\" asia.nikkei.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の変圧器製造とアモルファスリボンの消費が地域市場の規模を支える一方、日本は精密材料に関する専門性を発揮し、韓国とインドでは電子機器と送電網拡張による需要が加わる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "TDK Corporation",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場の主要企業には、Proterial, Ltd.、Advanced Technology & Materials Co., Ltd. (AT&M)、Qingdao Yunlu Advanced Materials Technology Co., Ltd.、Zhejiang Zhaojing Electrical Technology Co., Ltd.、TDK Corporationなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル市場レポートに含まれるいくつかの主要企業は、日立金属株式会社、マテリオン株式会社、青島雲呂先端材料技術株式会社、中国アモルファステクノロジー株式会社、Zhaojing Incorporated、Shijiazhuang Shenke Metal Products Co.株式会社、Federal Steel Supply、Inc.、Advanced Metal Technology、Inc",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）の微粒化アモルファス合金粉末の販売額と収益が示されています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：微粒化アモルファス合金粉末の世界市場2026年～2032年",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "日本住所：〒104-0061 東京都中央区銀座6-13-16 銀座Wallビル UCF5階",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）／0081-5058936232（グローバル）",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail：japan@qyresearch.com",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米（米国、カナダ、メキシコ）欧州（ドイツ、英国、フランス、イタリア）アジア太平洋（中国、日本、インド、韓国）ラテンアメリカ（ブラジル、アルゼンチン）中東およびアフリカ（MEA）（アラブ首長国連邦、サウジアラビア、南アフリカ）アフリカ)",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "16-8, Higashi 1-chome, Shibuya-ku, Tokyo 150-0011, Japan",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "HitachiMetalsLtd,Advanced Technology & Materials,QingdaoYunlu New Energy Technology,READE,METGLAS,VAC",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "North America (U.S, Canada, Mexico), Europe (Germany, United Kingdom, France), Asia-Pacific (China, Japan, South Korea, India), Middle-East (Saudi Arabia, UAE, Kuwait, Qatar).",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "中国、日本、韓国などの国々は、政府の支援政策、大規模な製造拠点、再生可能エネルギーの統合への注力から恩恵を受けています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "プレミアムサプライヤーとしての地位を確立している日立金属は、エネルギー効率の高い変圧器とエレクトロニクスに重点を置き、高性能アモルファス磁性材料の分野をリードしています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦チタニウムは、生物医学および電子用途向けの特殊アモルファス合金に焦点を当て、材料の純度と生体適合性を重視し、高価値分野でニッチ市場を開拓しています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "大同特殊鋼は、多様なポートフォリオを持ち、技術的リーダーシップを維持することを目指して、製品イノベーション、特に電力および産業用途向けの磁性材料に多額の投資を行っています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、日立は独自の磁性合金配合と真空処理技術に重点を置いているため、高い参入障壁が生じています",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "HitachiMetalsLtd",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "市場の大手プレーヤーは、hitachimetalsltd、高度なテクノロジー＆マテリアル、Qingdaoyunlu New Energy Technology、Reade、Metglas、VACです",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi Metals, Ltd.",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "次いでAdvanced Technology、Proterial（旧日立金属）、Jiangsu Guoneng Alloy Technology、Zhao Jing Science and Technologyなどが続き、各社が異なる分野で差別化を進めている",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "日本勢であるProterialは、精密薄帯製造技術と長年の磁性材料開発ノウハウを強みに、高周波応答性と低損失特性を両立した高性能アモルファス合金を展開している",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場においても、環境規制やエネルギー効率化要求の高まりを背景に、アモルファス金属は高付加価値産業の基盤技術としての地位を確立しつつある",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "日本語公式サイト：",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "2031年7.1億米ドル規模--高機能素材へ転換するアモルファス金属の産業的価値 - CNET Japan - CNET Japan",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to CNET Japan",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "次いでAdvanced Technology、Proterial（旧日立金属）、Jiangsu Guoneng Alloy Technology、Zhao Jing Science and Technologyなどが続き、各社が異なる分野で差別化を進めている",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "日本勢であるProterialは、精密薄帯製造技術と長年の磁性材料開発ノウハウを強みに、高周波応答性と低損失特性を両立した高性能アモルファス合金を展開している",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場においても、環境規制やエネルギー効率化要求の高まりを背景に、アモルファス金属は高付加価値産業の基盤技術としての地位を確立しつつある",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語公式サイト：",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "御社のプレスリリース・イベント情報を登録するには、ZDNET Japan企業情報センターサービスへのお申し込みをいただく必要がございます",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan 注目ヘッドライン",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "メルカリが「2四半期連続のMAU減少」を恐れない理由--日本事業責任者が語る【インタビュー】",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan is operated by 4X Corp under license from Ziff Davis.",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター関連分野では、日本最大級の会員数を誇る",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "日本発祥の超高性能材料、アモルファス金属",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年の売り上げは、日本円でいうと3兆8315億円",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "東京の護国寺に日本の本社があります",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "その後1970年代から、本格的に日本の東北大学などでも研究されてきました",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "日本がこの研究にかなり絡んでおり、日本発祥の材料とも言えますが、最近は日本ではあまり耳にしなくなってしまいました",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年の3月に日本でも発売された、ゼンハイザー社製のIE600というイヤホンに、我々のアモルファス合金を採用していただいています",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "実際にヨーロッパや中国、アメリカなどでは既にアモルファス合金をかなり使用していただいていますので、日本でも今後ぜひ使用していただきたいです",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "実はアモルファス合金は日本発祥の材料であると言ってもいいものです",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "実際日本でも、ご興味を持ってくださるお客様が結構出てきていますので、もしご興味がありましたらぜひ我々の方にお問い合わせをいただければと思います",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "日本AM協会が進める「日本で3Dプリンターが普及しない問題」への打開策",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は海外に比べて製造業の3Dプリンター活用が遅れていると評されることが多い",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "オンラインカンファレンス”JAMM9″参加レポート－コニカミノルタ／Conflux Technology／日本積層造形",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japan 2025主催者に聞く！3Dプリンター展示会来場のポイントとは？",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "ShareLabは日本の業務用3Dプリンタ―およびAM（アディティブ・マニュファクチャリング）に関するあらゆる情報が集まるポータルサイトです",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "Hitachi, Ltd., Metglas, Inc, Advanced Technology & Materials Co., Ltd., Zhaojing Incorporated, China Amorphous Technology Co., Ltd, ENPAY, Mangal Electrical Industries Pvt. Ltd., Usha Amorphous Metals Ltd., Ti-Electronic, Hill Technical Sales Corp.",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America (USA, Canada); Latin America (Mexico, Brazil); North America (USA, Canada); Latin America (Mexico, Brazil); Western Europe (Germany, Italy, France, UK, Spain); Eastern Europe (Poland, Russia); Asia Pacific (China, India, ASEAN, Australia & New Zealand); Japan; Middle East and Africa (GCC Countries, S. Africa, Northern Africa)",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "金属ガラス市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "であり、2025年の市場シェアは合計で",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "Feリボン需要は2035年まで市場で最大の数量を占めるセグメントであり続ける",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に7億4,700万米ドルを生み出し、2035年には市場の64.3%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は2025年に市場の5.0%を占め、2035年までに1億5,400万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年に市場シェア6.0%を占め、2035年には1億4,600万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年に5億9,600万米ドルを生み出し、2035年には市場の47.1%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年の市場収益の10.5%を占め、2035年までに3億3,900万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年に市場シェア5.0%を占め、2035年までに1億1,200万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年に7億2,600万米ドルを生み出し、2035年には市場の58.7%を占めると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "は、2025年の市場収益の14.5%を占め、2035年までに3億7,800万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品タイプ別（水アトマイズ、ガスアトマイズ）、酸素含有量別（<1000ppm、1000-1200ppm、>1200ppm）、粒度別（<25μm、≥25μm）、および用途別（磁性粉末コア、アモルファスコーティング、その他）に、それぞれの販売額、市場シェア、収益、および販売価格（2021年から2026年）の詳細な分析が収録されています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、2021年から2026年までの企業別の微粒化アモルファス合金粉末の年間販売額とその市場シェア、年間収益とその市場シェア、販売価格が示されています",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「バルク金属ガラス―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、バルク金属ガラスの世界市場は、2025年に668百万米ドルと推定され、2026年には753百万米ドルに達すると予測されています",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバルク金属ガラス市場では、アジア太平洋地域が最大の市場となっており、約60％のシェアを占めている",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "次いで北米が約19％、欧州が約16％の市場シェアを有している",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "製品タイプ別では、非晶質合金リボンが最大セグメントであり、市場シェアは約71％を占めている",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "用途別では、産業製造分野が最大の応用領域であり、約52％のシェアを占めている",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "上位5社で世界市場シェアの約72％を占めており、市場集中度は比較的高い",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Research発行のレポート「バルク金属ガラス―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に基づき、市場動向および競合分析の概要を解説します",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア分析, 2025",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のアモルファス金属市場におけるトップ5企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ3企業は売上の観点から約83.0%の市場シェアを持っていた",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アモルファス金属の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "pass": 3
+   },
+   {
+    "quote": "図. 世界のアモルファス金属市場におけるトップ5企業のランキングと市場シェア（2024年の調査データに基づく；最新のデータは、当社の最新調査データに基づいている）",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界のトップ3企業は売上の観点から約83.0%の市場シェアを持っていた",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第2章では、アモルファス金属の世界市場規模を詳細に調査し、製品の分類と用途の規模、販売量、収益、価格、市場シェア、その他の主要指標を含まれています",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "第3章では、アモルファス金属の世界市場における主要な競争動向に焦点を当て、主要企業の売上高、収益、市場シェア、価格戦略、製品タイプと地域分布、産業の集中度、新規参入、M&A、生産能力拡大などを紹介します",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "pass": 3
+   },
+   {
+    "quote": "参画企業以外にも広く参加の門戸を開いている同コンソーシアムの技術セミナーだが、シェアラボ編集部では、2022年8月26日に開催された技術セミナーに参加した",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "シェアラボ編集部では、「3Dプリンター活用の普及が進まない壁とは何か",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the Amorphous Metal Market in 2025, with a market share of 40.80% of overall global revenue.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, the iron-based amorphous metal segment dominated the Amorphous Metal Market in 2025, driven by established commercial market presence, proven product reliability, and widespread operational adoption.",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "15-company market share analysis",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "2025 market share by company",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America is the largest market for amorphous metal cores, holding approximately 40% of the global market share. The region's growth is driven by increasing demand for energy-efficient",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "of global market share in 2025. Hitachi Metals Ltd., headquartered in Tokyo, Japan, maintains the dominant market position with estimated revenues exceeding",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": ", while other international competitors including Daido Steel, Usha Amorphous Metals, and emerging players comprise the remaining market share through 2025.",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "1. Hitachi Metals: A leader in the market, Hitachi Metals has focused on advancing manufacturing processes for amorphous metals, resulting in high-performance products utilized in electrical applications which have bolstered their market share.",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "The global amorphous metal market is experiencing varied growth dynamics across different regions. In North America, particularly in the United States, the demand for amorphous metals is driven by advancements in electronics and energy-efficient applications, contributing approximately 28% to the global market share. Canada is also participating positively due to its renewable energy initiatives.",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "In Europe, Germany and France lead the charge, with Germany holding a notable share of around 35% of the region's market, fueled by its strong automotive and machinery sectors. The . and Italy are also emerging players, primarily driven by their industrial applications.",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific region, especially China and Japan, is anticipated to dominate the market with a projected share of 40%, thanks to rapid industrialization and innovative tech industries. India, Indonesia, and Malaysia are also significant, focusing on electrical applications and renewable energy.",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Regionally, Asia-Pacific dominates the market with approximately 45% share, led by China, Japan, and South Korea, where substantial investments in electrical infrastructure and manufacturing capabilities have created strong demand. North America follows with roughly 30% market share, with particular strength in aerospace and medical applications.",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "Metallic Glasses Market Europe Country Market Share Analysis, 2025 & 2035",
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share Analysis, 2024",
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "International Energy Agency. \"World Energy Investment 2025.\" iea.org",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, requiring substantial investments in power conversion and distribution infrastructure. Solar photovoltaic inverters and",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regionally, Asia-Pacific dominates the market with approximately 45% share, led by China, Japan, and South Korea, where substantial investments in electrical infrastructure and manufacturing capabilities have created strong demand. North America follows with roughly 30% market share, with particular strength in aerospace and medical applications.",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "02 Investment strategies in amorphous metals markets",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in manufacturing innovation represents another critical strategy, with several companies developing improved production techniques such as suction casting and spark plasma sintering that promise to reduce costs and increase production volumes. These innovations could potentially reduce manufacturing costs by 30-40% within the next five years.",
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "pass": 3
+   },
+   {
+    "quote": "The funds raised will be used to finance the operational launch in 2025 of Vulkam's first plant, located in Isère, and dedicated to the production of its new metals for industry, Vulkalloys®, with unprecedented mechanical performance designed to",
+    "url": "https://www.groupeseb.com/en/news/vulkam-raises-eu34m-build-its-first-amorphous-metals-production-plant-revolution-metallurgy",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "金属ガラス市場 の 規模 ・シェア・予測レポート（2034年） — 金属ガラス市場 の 規模 ・シェア・予測レポート（2034年） Global Market Insights Inc. https://www.gminsights.com > ... > 化学・材料 > 特殊ガラス",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "2028年に19億2100万米ドルに達する世界の アモルファス金属 ... — 2028年に19億2100万米ドルに達する世界の アモルファス金属 ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "pass": 3
+   },
+   {
+    "quote": "微粒化 アモルファス合金 粉末の世界 市場 （2026年～2032年） — 微粒化 アモルファス合金 粉末の世界 市場 （2026年～2032年） Newscast.jp https://newscast.jp > news",
+    "url": "https://newscast.jp/news/7306611",
+    "pass": 3
+   },
+   {
+    "quote": "アモルファス合金 ストリップ 市場 の12.7％の 年平均成長率 ... — アモルファス合金 ストリップ 市場 の12.7％の 年平均成長率 ... LinkedIn https://jp.linkedin.com > pulse > アモルファス合金ストリッ...",
+    "url": "https://jp.linkedin.com/pulse/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E5%90%88%E9%87%91%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AE127%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%88%90%E9%95%B7%E5%86%85%E8%A8%B3-rhetoricreachx-mbuie",
+    "pass": 3
+   },
+   {
+    "quote": "バルク 金属ガラス市場規模 レポート2026：753百万米ドル到達 ... — バルク 金属ガラス市場規模 レポート2026：753百万米ドル到達 ... ドリームニュース https://www.dreamnews.jp > press",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "pass": 3
+   },
+   {
+    "quote": "金属ガラス市場 の規模・シェア・ 予測 レポート（2034年） — 金属ガラス市場 の規模・シェア・ 予測 レポート（2034年） Global Market Insights Inc. https://www.gminsights.com > ... > 化学・材料 > 特殊ガラス",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "pass": 3
+   },
+   {
+    "quote": "銅系 アモルファス合金市場 | 市場 規模 分析 予測 2026-2032年 ... — 銅系 アモルファス合金市場 | 市場 規模 分析 予測 2026-2032年 ... グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > ... > 電力インフラ > 変圧器",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "pass": 3
+   },
+   {
+    "quote": "アモルファス合金 とAMの可能性 | 業務用3Dプリンターの ... — アモルファス合金 とAMの可能性 | 業務用3Dプリンターの ... ShareLab NEWS https://news.sharelab.jp > コラム",
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "pass": 3
+   },
+   {
+    "quote": "アモルファス金属 メーカー8社 注目ランキング【2026年】 — アモルファス金属 メーカー8社 注目ランキング【2026年】 Metoree https://metoree.com > 金属材料",
+    "url": "https://metoree.com/categories/6014/",
+    "pass": 3
+   },
+   {
+    "quote": "Amorphous Metal Market Analysis 2025 to 2034 — Amorphous Metal Market Analysis 2025 to 2034 TrendX Insights https://trendxinsights.com > amorpho...",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "pass": 3
+   },
+   {
+    "quote": "World's Top 10 Companies in Amorphous Alloy Band Market — World's Top 10 Companies in Amorphous Alloy Band Market Spherical Insights https://www.sphericalinsights.com > ...",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Amorphous Metal Market Size , Share & Forecast Report 2025 ... — Amorphous Metal Market Size , Share & Forecast Report 2025 ... Dataintelo https://dataintelo.com > report > amor...",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Growth Journey of the Amorphous Metal Market ... — The Growth Journey of the Amorphous Metal Market ... Apiary.io https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io",
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "8.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）8.1%で成長し、2035年には23億5,000万米ドルに達する見込みである"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "quote": "は、2035年までに3億8,300万米ドルに達し、年平均成長率（CAGR）10.5%で拡大すると予測される（2026〜2035年）"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "quote": "は、2025年に6,500万米ドルを生み出し、2026〜2035年の年平均成長率（CAGR）は6.6%になると予測される"
+   },
+   {
+    "value": "18.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "quote": "は2035年までに2億2,900万米ドルに達し、年平均成長率（CAGR）18.2%（2026〜2035年）で拡大すると予測される"
+   },
+   {
+    "value": "10.5",
+    "url": "https://newscast.jp/news/7306611",
+    "quote": "世界の噴霧成形アモルファス合金粉末市場規模は、2025年の3,717万米ドルから2032年には7,648万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）10.5%で成長すると見込まれています"
+   },
+   {
+    "value": "14.2",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "quote": "バルク金属ガラス市場規模レポート2026：753百万米ドル到達予測、年平均成長率14.2%で拡大 | QY Research株式会社のプレスリリース"
+   },
+   {
+    "value": "12.8",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "quote": "自動車用CAEソフトウェア市場規模レポート2026：151百万米ドル到達予測、年平均成長率12.8%で拡大"
+   },
+   {
+    "value": "6.7",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "quote": "世界のタンパク質および抗体精製用磁気ビーズ市場動向、年平均成長率6.7%で拡大継続2026-2032"
+   },
+   {
+    "value": "5.7",
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "quote": "【最新予測】半導体プラスチックトレイ市場規模、2026年に502百万米ドルへ｜年平均成長率5.7%で推移予測"
+   },
+   {
+    "value": "8.5",
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "quote": "アモルファス鋼市場は、2026年から2033年にかけて年平均成長率（CAGR）8.5%で成長すると予測されています"
+   },
+   {
+    "value": "6.40",
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "quote": "銅ベースの非晶質合金市場は、2025年に21億3,000万米ドルと評価され、2026年には22億5,000万米ドルに成長し、CAGR 6.40％で推移し、2032年までに33億米ドルに達すると予測されています"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている"
+   },
+   {
+    "value": "10.1",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "電気デサルター＆脱水機マーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 10.1%の高成長"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "レーザーガス供給サービス市場調査：規模・状況・調べ方・算出方法、年平均成長率（CAGR）4.9%の安定成長"
+   },
+   {
+    "value": "57.2",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "無人運転配車サービスマーケットリサーチ：調査方法＋業界分析＋売上規模、CAGR 57.2%の超高成長"
+   },
+   {
+    "value": "0.19",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "2026電子制御スロットルボディ市場規模マップ：シェア・動向・フレームワーク、CAGR 0.19%の成熟市場"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "quote": "衛星リモートセンシングサービスマーケットリサーチ：調査方法＋業界分析＋売上規模、年平均成長率（CAGR）10.7%の高成長"
+   },
+   {
+    "value": "7.3",
+    "url": "https://japan.cnet.com/release/31135854/",
+    "quote": "）によると、2025年から2031年の予測期間中のCAGRが7.3%で、2031年までにグローバルアモルファス金属市場規模は7.1億米ドルに達すると予測されている"
+   },
+   {
+    "value": "7.5",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "quote": "The Amorphous Metal Cores Market is estimated to be valued at USD 1.0 billion in 2025 and is projected to reach USD 2.0 billion by 2035, registering a compound annual growth rate (CAGR) of 7.5% over the forecast period."
+   },
+   {
+    "value": "7.50",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Platinum Group Metal Market is valued at USD 45.00 Billion in 2025 and is projected to reach USD 86.28 Billion by 2034, expanding at a CAGR of 7.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "14.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Metal Powder Market is valued at USD 5.80 Billion in 2025 and is projected to reach USD 20.09 Billion by 2034, expanding at a CAGR of 14.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "8.50",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Precious Metal Recovery Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 26.05 Billion by 2034, expanding at a CAGR of 8.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "5.50",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Scrap Metal Market is valued at USD 520.00 Billion in 2025 and is projected to reach USD 841.93 Billion by 2034, expanding at a CAGR of 5.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "6.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Precious Metal Market is valued at USD 12.50 Billion in 2025 and is projected to reach USD 22.60 Billion by 2034, expanding at a CAGR of 6.80% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers."
+   },
+   {
+    "value": "10.80",
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "quote": "The Amorphous Metal Market was valued at USD 1.80 Bn in 2025 and is projected to reach USD 4.53 Bn by 2034, growing at a CAGR of 10.80% over the 2026–2034 forecast period."
+   },
+   {
+    "value": "8.52",
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "quote": "As per Market Research Future analysis, the Amorphous Metal Cores Market Size was estimated at 2.939 USD Billion in 2024. The Amorphous Metal Cores industry is projected to grow from USD 3.19 Billion in 2025 to USD 7.226 Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 8.52% durin"
+   },
+   {
+    "value": "11.45",
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Amorphous Alloy Band Market Size is projected to Grow from USD 92.6 Billion in 2024 to USD 301.9 Billion by 2035, at a CAGR of 11.45% during the forecast period 2025–2035."
+   },
+   {
+    "value": "7.3",
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "quote": "CAGR: 7.3%% | USD Billion"
+   }
+  ],
+  "市場規模USD": [
+   {
+    "value": "0.16",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "quote": "USD 0.16 Billion"
+   },
+   {
+    "value": "0.3",
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "quote": "USD 0.3 Billion"
+   },
+   {
+    "value": "1.0",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "quote": "USD 1.0 Bn"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "quote": "USD 2.0 Bn"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/7306611",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000356136",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000337227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/release/31135854/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/amorphous-steels-market-100419",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heraeus.com/ja/news-and-stories/metallic-glass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mech.kanagawa-u.ac.jp/lab/terajima_lab/research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bmg-japan.co.jp/bmg/q-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/6014/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/amorphous-metal-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-amorphous-alloy-components-market-strategic-research-report?srsltid=AYCX9vLA1DxGxsNc7Xip1X6cLiYP_-SjafFNn-SoPi1tjoTytUbCF2zp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.futurebridge.com/wp-content/uploads/2021/08/1590763759_CS-Amorphous-Metals-Opportunity-in-Electric-Vehicles.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.groupeseb.com/en/news/vulkam-raises-eu34m-build-its-first-amorphous-metals-production-plant-revolution-metallurgy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/148312-metal-from-airlifts-usman-gul-raises-4-5m-seed-for-ai-fundraising-tools/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://semiengineering.com/startup-funding-q4-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.so/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属ガラス（アモルファス合金） 市場規模 年平均成長率",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "https://newscast.jp/news/7306611",
+    "https://jp.linkedin.com/pulse/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9%E5%90%88%E9%87%91%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%97%E5%B8%82%E5%A0%B4%E3%81%AE127%E3%81%AE%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%88%90%E9%95%B7%E7%8E%87cagr%E3%81%8C%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B2033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%88%90%E9%95%B7%E5%86%85%E8%A8%B3-rhetoricreachx-mbuie",
+    "https://www.dreamnews.jp/press/0000356136",
+    "https://mrctechforum.inkrich.com/posts/%E9%9D%9E%E6%99%B6%E8%B3%AA%E9%8B%BC%E5%B8%82%E5%A0%B4",
+    "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "https://www.atpress.ne.jp/news/633706",
+    "https://www.businessresearchinsights.com/jp/market-reports/cobalt-based-amorphous-metal-ribbons-market-108578",
+    "https://www.fundamentalbusinessinsights.com/ja/industry-report/metallic-glasses-market-22468"
+   ]
+  },
+  {
+   "query": "金属ガラス（アモルファス合金） 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000120.000082259.html",
+    "https://www.verifiedmarketreports.com/ja/product/amorphous-alloys-market-size-and-forecast/",
+    "https://www.gminsights.com/ja/industry-analysis/metallic-glass-market",
+    "https://www.gii.co.jp/report/ires1926543-copper-based-amorphous-alloy-market-by-form.html",
+    "https://www.dreamnews.jp/press/0000337227",
+    "https://japan.cnet.com/release/31135854/",
+    "https://www.businessresearchinsights.com/jp/market-reports/amorphous-steels-market-100419",
+    "https://www.atpress.ne.jp/news/6128246",
+    "https://www.mech.kanagawa-u.ac.jp/lab/terajima_lab/research.html"
+   ]
+  },
+  {
+   "query": "金属ガラス（アモルファス合金） 参入 企業 国内",
+   "results": [
+    "https://www.heraeus.com/ja/news-and-stories/metallic-glass/",
+    "https://news.sharelab.jp/column/amorphous-hereus220826/",
+    "https://www.mech.kanagawa-u.ac.jp/lab/terajima_lab/research.html",
+    "https://www.bmg-japan.co.jp/bmg/q-a/",
+    "https://metoree.com/categories/6014/",
+    "https://www.appropedia.org/Amorphous_Metal_Alloys/ja",
+    "https://monoist.itmedia.co.jp/mn/articles/2205/24/news065.html",
+    "https://www.proterial.com/products/soft_magnetism/metglas.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/200806alps/",
+    "https://ja.wikipedia.org/wiki/金属ガラス"
+   ]
+  },
+  {
+   "query": "amorphous metal market size CAGR 2025",
+   "results": [
+    "https://www.futuremarketinsights.com/reports/amorphous-metal-cores-market",
+    "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "https://www.linkedin.com/pulse/key-trends-driving-growth-amorphous-metal-market-b7c9e",
+    "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "https://www.sphericalinsights.com/blogs/world-s-top-10-companies-in-amorphous-alloy-band-market-2025-industry-intelligence-report-by-spherical-insights-2024-2035",
+    "https://dataintelo.com/report/amorphous-metal-market",
+    "https://www.grandviewresearch.com/industry-analysis/metallic-glass-market-report",
+    "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "https://www.factmr.com/report/metallic-glass-market",
+    "https://www.strategymrc.com/report/amorphous-metal-market"
+   ]
+  },
+  {
+   "query": "amorphous metal market key players competitive landscape",
+   "results": [
+    "https://www.linkedin.com/pulse/navigating-amorphous-metal-market-key-players-strategic-insights-igtce",
+    "https://amorphousmetalmarketsharemarkettrendsandforecastsfrom2026t.docs.apiary.io/",
+    "https://www.marketresearchfuture.com/reports/amorphous-metal-cores-market-31134",
+    "https://www.marketresearchreports.com/reports/global-amorphous-alloy-components-market-strategic-research-report?srsltid=AYCX9vLA1DxGxsNc7Xip1X6cLiYP_-SjafFNn-SoPi1tjoTytUbCF2zp",
+    "https://eureka.patsnap.com/report-amorphous-metals-analyzing-market-trends-and-industry-adoption",
+    "https://trendxinsights.com/syndicated-market-research-reports/amorphous-metal-market/",
+    "https://www.futuremarketinsights.com/reports/metallic-glasses-market",
+    "https://dataintelo.com/report/amorphous-metal-market",
+    "https://www.futurebridge.com/wp-content/uploads/2021/08/1590763759_CS-Amorphous-Metals-Opportunity-in-Electric-Vehicles.pdf",
+    "https://www.businessresearchinsights.com/market-reports/amorphous-metal-market-128951"
+   ]
+  },
+  {
+   "query": "amorphous metal startup funding 2025",
+   "results": [
+    "https://www.groupeseb.com/en/news/vulkam-raises-eu34m-build-its-first-amorphous-metals-production-plant-revolution-metallurgy",
+    "https://www.linkedin.com/posts/taylorlowe11_ai-startup-metal-raises-5-million-to-transform-activity-7371184098087714816-0d_0",
+    "https://dealroom.co/news/148312-metal-from-airlifts-usman-gul-raises-4-5m-seed-for-ai-fundraising-tools/",
+    "https://semiengineering.com/startup-funding-q4-2025/",
+    "https://foundationalloy.com/foundation-alloy-raises-funding-to-reinvent-u-s-manufacturing-with-new-american-made-metals/",
+    "https://www.metal.so/",
+    "https://news.crunchbase.com/venture/funding-startups-recycle-batteries-mining-scarce-materials/",
+    "https://venturebeat.com/technology/a-i-startup-metal-raises-usd5-million-to-transform-private-equity-deal",
+    "https://www.geekwire.com/2025/washington-energy-startup-lands-doe-funding-for-researching-liquid-metal-walls-in-fusion-generators/",
+    "https://dataintelo.com/report/amorphous-metal-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

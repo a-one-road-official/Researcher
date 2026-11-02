@@ -1,0 +1,1425 @@
+{
+ "name": "ドーン",
+ "aliases": [],
+ "context": "証券コード2303／情報・通信業／スタンダード（内国株式）／2026.05期 売上高1,735百万円 営業利益率37.8%",
+ "researched_at": "2026-11-02T14:35:57.494358+00:00",
+ "official_url": "https://www.dawn-corp.co.jp/",
+ "identified_by": "search:yahoo_jp:ドーン",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・「安心・安全」をテーマにした各種クラウドサービス(SaaS)の開発・提供 ・地理情報システム又は地理情報に関連づけたシステム(アプリケーションソフトウェア）の開発・保守 ・地理情報システム構築用ソフトウェアのライセンス販売",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1991年6月",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "利用者を持続的に増やし利用頻度を高める",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先と加盟団体",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先と加盟団体",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その原動力は、創業期の原点であるGIS事業で培った独自技術・ノウハウや知見を拠り所としつつ、次のステージを目指し続けるフロンティア精神、そしてユーザーや社会の新しい課題と真剣に向き合う社員の情熱が源泉となっています",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先と加盟団体",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先と加盟団体",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "推奨環境以外でのご利用や、推奨環境下でもお客様のwebブラウザの設定によっては、ご利用できないもしくは正しく表示されない場合がございます",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "サイト内では、Googleから提供されるCookieを使用して利用者の情報を収集いたしますが、個人を特定する情報は取得していません",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "主要取引先と加盟団体",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "公共機関をはじめとした顧客が求めるのは信頼性が高いサポート体制であり、フェイス・トゥ・フェイスでの関係構築が欠かせないからです",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係は、導入後の長期的なサポートとアップデートが中心です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、自治体や官公庁、電力などのインフラ企業です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで継続課金モデルを取り入れることで、顧客にとっても導入しやすく、同社としては継続的な収益を得られる仕組みが構築されています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクラウドサービスの拡充によって顧客満足度が高まり、新規契約や継続利用が増えることで安定的な収益基盤が作られました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "主に、警察・消防・自治体防災・社会インフラ保全等の官公庁等の業務に係る各種情報を地理情報に関連づけて配信するクラウドサービス（インターネット回線を通じてソフトウエアを配信し、ユーザーの利用に供するサービス）を行っております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスは、主なユーザーである官公庁から直接受注する形態が多く、その場合は、一般競争入札を経ることが一般的であります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、オンプレミス環境（情報システムの利用に必要となるサーバー等の機器をユーザーの管理下に設置する従来型の運用形態）でのシステム開発・保守も行っており、取り扱う情報や業務の性質上クラウド環境で運用する形態に適さないもの（例えば警察業務に関するシステム等）について、ユーザーが定める仕様に基づいて開発する案件等がございます",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、SI初期開発案件の納品においては、顧客の要望により、デジタル地図やハードウエア等の仕入れ販売を併せて行うケースがあります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスと同様、ユーザーである官公庁や電力事業者から直接受注する形態が多く、官公庁から受注する場合は、一般競争入札を経ることが一般的であります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社と各顧客との契約は、顧客（大手企業や官公庁等）の決算期が集中する３月末にかけて売上計上される案件が多いため、第３又は第４四半期会計期間に売上計上が偏重する傾向があります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、自社製の地理情報システム構築用ソフトウエア（「GeoBase」「GeoBase.NET」）を、エンドユーザーの仕様にあわせたアプリケーションとして開発する企業に対し、ライセンス販売を行っております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売先であるソフトウエア開発事業者・総合電機メーカー・測量又は建設土木に関するコンサルタント及び電力等のインフラ関連事業者（以下、「SI事業者等」という",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "）が当社製品をもとに地理情報システムを開発し、地方自治体等の官公庁及び電力・通信事業者等のインフラ系事業者といったユーザーに提供することに対し、当社がロイヤリティを受け取る契約形態をとっております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の「GeoBase」及び「GeoBase.NET」は、地理情報システムを構築するためのソフトウエアであり、単体のソフトウエアとして地理情報システムの機能を有するものではなく、当該製品を組み込み、エンドユーザーの用途に必要な機能や仕様に応じたアプリケーションを開発するための部品を組み合わせたもの（アプリケーションを構成する関数の集合体）であり、一般にエンジンとも呼ばれる基幹部分の機能が含まれております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "「NET119緊急通報システム」・「Live119（映像通報システム）」・「Live-X（映像通話システム)」・「DMaCS（災害情報共有サービス）」のほか、行政・警察向けスマートフォンアプリ等の顧客獲得が順調に進み、既存契約の継続に加えて、新規顧客の獲得により契約数が積み上がったため、907,383千円（前事業年度比10.0％増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客からの継続的な受注やデジタル地図等の納品のほか、ライセンス販売にて消防防災を中心に新規・更新受注が増加したため、売上高は149,647千円（前事業年度比51.9％増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "技術面では、生成AIの急速な進化など、技術革新のスピードは一層加速しており、これらを活用した新たなビジネス機会の創出が期待される一方、顧客ニーズの高度化・多様化への対応が求められています",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "安定した顧客基盤とストック収入",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のメイン顧客は官公庁です",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の主な顧客層である官公庁は、業務のDX化を進めておりますが、一部でクラウド型のシステムの利用を開始している一方、従来のオンプレミス",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん顧客に合わせてカスタマイズすることも可能ですが、基本的なシステムが共通しているためメンテナンスも容易です",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "このように、比較的安価で顧客のニーズが多く反映されたサービスを提供することで高い継続率を保っています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "その課題に対して、当社の持つ技術とアイデアを用いて顧客と共同で実証実験を行ってきました",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "また、防災や防犯に関するサービス以外にも、企業向けの業務効率や生産性、顧客満足度の向上につながる映像通話システム「Live-X」を展開しています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "また、IoT関連企業等を中心に業務提携を行うことで新たなサービスの開発や新しい取引先の開拓に繋がると考えております",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、提携事業者とお客様との間の契約締結に関し、代理、斡旋、仲介等の形態を問わず、一切関与しないものとします",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトの利用に関連して、利用者と提携事業者や第三者間で発生した紛争やトラブルについては、当事者間で解決を図るものとし、当社はこれに関して一切の責任を負わないものとします",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "高品質な住民サービスを実現",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アプリを活用したサービスをワンストップで提供",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "初動期における災害対策本部の意思決定を支援するサービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スムーズな災害対応をクラウド型サービスにより支援します",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームページアクセスログサービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品・サービスは社会の「安心・安全」を支えるシステムを提供する企業という役割を担っており、",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DMaCS 災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "mailio メッセージ配信サービス",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "DMaCS 災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "mailio メッセージ配信サービス",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーンは近年、独自のクラウドソリューションにより、警察・消防・自治体防災・社会インフラ保全といったシーンのDXを実現し、安心安全な社会を推進する重要な役割を担っています",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "DMaCS 災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "mailio メッセージ配信サービス",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "・「安心・安全」をテーマにした各種クラウドサービス(SaaS)の開発・提供",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "防災DX官民共創協議会に参加（「DMaCS（災害情報共有サービス）」及び防災アプリが「防災DXサービスカタログ」に掲載）",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "内閣府による「戦略的イノベーション創造プログラム（SIP）第 2 期―自動運転（システムとサービスの拡張）―」への採択",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "「DMaCS（災害情報共有サービス）」提供開始",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "自治体の庁内業務に対応したクラウド型の地図配信サービス事業「まちかどPro」提供開始",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型の地図配信サービス「まちかど案内まちづくり地図」提供開始",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "DMaCS 災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "mailio メッセージ配信サービス",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "Google アナリティクス サービス利用規約（外部リンク）",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "DMaCS 災害情報共有サービス",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "mailio メッセージ配信サービス",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーン（以下「当社」 ）は、当社製品を通じた Spatial-IT による「安",
+    "url": "https://www.dawn-corp.co.jp/wp-content/uploads/2018/08/policy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "聴覚や言語に障害のある方がスマートフォンなどから音声なしで緊急通報できる「NET119緊急通報システム」や、現場の映像を消防指令センターとリアルタイムに共有する「Live119」といった社会の安全を支えるクラウドサービスを展開しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績結果をもたらした要因としては、前年同期にあった大型案件（初期開発売上）の反動減があったものの、それを大きく上回る形で、ストック型収益である主力のクラウドサービス利用料が着実に積み上がったことや、消防防災分野を中心とした新規および更新のライセンス販売・受注が堅調に推移したことが売上高を力強く牽引しました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "この技術により自治体や電力会社などが持つデータと地図情報を組み合わせ、災害のリスクを最小限に抑えるサービスを提供しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "これを自治体や官公庁向けのクラウドサービスとして提供し、導入からアフターサポートまで一括で対応しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにNET119緊急通報システムやLive119など、新たな技術を取り入れたサービス開発にも積極的です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "公共サービスの現場と連携してソリューションを企画することで、実用的かつ信頼度の高いシステムを共同で作り上げています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため長期的な協力関係を築きながらサービスを拡充してきました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁や自治体への導入は主に営業担当が説明会や提案を行い、クラウドサービスの場合にはウェブ上で各種問い合わせにも対応しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "主に災害対応やインフラ監視などのサービスが求められるため、公共性の高い分野で活用されています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "収益は主にGeoBaseのライセンス販売やカスタマイズ開発、さらにクラウドサービスの利用料から得ています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクラウド形式のサービスはサブスクリプションモデルのため、長期にわたって安定的な収益を確保できます",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクラウドサービスの拡充によって顧客満足度が高まり、新規契約や継続利用が増えることで安定的な収益基盤が作られました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、さらなる新サービスの開発や多様な災害対策ソリューションの提供が可能になり、地理情報システムの先端技術を磨き続ける好循環が成立しているのです",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "未来展望と注目ポイントとしては、災害対策サービスや緊急通報システムの分野がさらに拡大することで、同社の成長が見込まれています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでドーンが持つGIS技術とクラウドサービスの融合によって、より高度な災害対策システムを提供できれば、一層のシェア拡大につながる可能性があります",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "また、蓄積したデータを活用した新しいサービス開発への期待も高まっており、今後の成長戦略ではAIやビッグデータ技術との連携も鍵になるでしょう",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績トヨクモ株式会社【全体の業績】トヨクモ株式会社は、ビジネス向けのクラウドサービスを専門に開発および提供し、企業の業務効率化を強力に推進する急成長中のIT企業です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス・土石製品",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "証券・商品先物取引業",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "【GISソフト開発】地理情報配信サービスなどにも事業展開",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "「特殊詐欺AI判定サービス」リリースのお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": ")の受託開発といった創業期からの事業品目を継続するとともに、中核となる領域を、地理情報に関連づけた各種クラウドサービス（SaaS)の開発・提供にシフトし、「安心・安全」をテーマに警察・消防・自治体防災・社会インフラ保全等に関する業務の高度化を実現する独自のクラウドソリューションを展開しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は情報サービス事業の単一セグメントであります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "① クラウドサービス（SaaS)の提供について",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "主に、警察・消防・自治体防災・社会インフラ保全等の官公庁等の業務に係る各種情報を地理情報に関連づけて配信するクラウドサービス（インターネット回線を通じてソフトウエアを配信し、ユーザーの利用に供するサービス）を行っております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "＜主な自社サービス＞",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス名称",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "FNN系NST新潟総合テレビで当社開発の「にいがたポリス」を利用した奏功事例が紹介されました",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ドーンのパートナーには、中央省庁や地方自治体、電力会社など多くの公共機関やインフラ企業が含まれます",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革 | 会社情報 | 株式会社ドーン | 地理情報システム(GIS）",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年6月",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要・沿革",
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月20日時点での株価は2,270円なので、配当利回りは約0.97％です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日（月）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "2027年５月期第１四半期決算短信〔日本基準〕(非連結)",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2010年４月よりサービスを開始した「緊急通報システムWeb119」の広域対応版",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年７月よりLive119サービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年４月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2017年４月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2005年10月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2009年５月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年３月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2016年４月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2018年７月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年１月よりサービス開始",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "「第一部 企業情報 第１ 企業の概況 ２ 沿革」に記載のとおり、1994年から開始している地理情報システム構築用ソフトウエアのライセンス販売及び当該ソフトウエアを用いた受託開発については、長年にわたり当社の主力となる事業でしたが、近年、従来の構築型やパッケージ型のシステムからクラウドサービスへと利用形態が変化しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年６月１日",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年５月31日",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "ドーンの沿革",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "1991年に前代表が兵庫県神戸市で当社を創業しました",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "・地理情報システム又は地理情報に関連づけたシステム(アプリケーションソフトウェア）の開発・保守",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "・地理情報システム構築用ソフトウェアのライセンス販売",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "官公庁や自治体、インフラ企業から絶大な信頼を得ている高度な地図処理技術と、安定的なストック収益（クラウド利用料）をもたらす独自のビジネスモデルが同社の最大の強みであり、自治体のDX（Gov-Tech）や防災力強化が推進される市場において極めて強固なポジションを確立しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "この業績結果をもたらした要因としては、前年同期にあった大型案件（初期開発売上）の反動減があったものの、それを大きく上回る形で、ストック型収益である主力のクラウドサービス利用料が着実に積み上がったことや、消防防災分野を中心とした新規および更新のライセンス販売・受注が堅調に推移したことが売上高を力強く牽引しました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "利益面に関しては、人件費などの販管費増加があったものの、収益性の極めて高いクラウド利用料の売上比率が向上したことでマージンが改善し、直近3ヵ月（12月～2月期）の営業利益率が46.4％に達するなど本業の収益力が大きく向上しました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "収益は主にGeoBaseのライセンス販売やカスタマイズ開発、さらにクラウドサービスの利用料から得ています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "特にクラウド形式のサービスはサブスクリプションモデルのため、長期にわたって安定的な収益を確保できます",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで継続課金モデルを取り入れることで、顧客にとっても導入しやすく、同社としては継続的な収益を得られる仕組みが構築されています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、地理情報システム構築用ソフトウエアのライセンス販売、地理情報システムに係るアプリケーションソフトウエア（以下、「アプリケーション」という",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスの売上は、サービス開始前に環境を構築する請負の対価（初期構築費）とサービス提供期間中に継続的に受領する月額利用料により構成されます",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "② SI（初期・保守）について",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "地理情報に関連する各種システムの受託開発・保守を行っております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、当社の地理情報システム構築用ソフトウエア（「GeoBase(ジオベース)」「GeoBase.NET」）を用いた受託開発・保守案件としては、電力事業者の設備管理用のシステムを中心に継続的に受注しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、オンプレミス環境（情報システムの利用に必要となるサーバー等の機器をユーザーの管理下に設置する従来型の運用形態）でのシステム開発・保守も行っており、取り扱う情報や業務の性質上クラウド環境で運用する形態に適さないもの（例えば警察業務に関するシステム等）について、ユーザーが定める仕様に基づいて開発する案件等がございます",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "＜SI（初期・保守）に係る営業形態＞",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "SI（初期・保守）の売上は、サービス開始前に環境を構築する請負の対価（初期開発費）とサービス提供期間中に継続的に受領する対価（運用保守費）により構成されます",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "③ 地理情報システム構築用ソフトウエアのライセンス販売について",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "＜ライセンス販売の営業形態について＞",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、自社製の地理情報システム構築用ソフトウエア（「GeoBase」「GeoBase.NET」）を、エンドユーザーの仕様にあわせたアプリケーションとして開発する企業に対し、ライセンス販売を行っております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "「第一部 企業情報 第１ 企業の概況 ２ 沿革」に記載のとおり、1994年から開始している地理情報システム構築用ソフトウエアのライセンス販売及び当該ソフトウエアを用いた受託開発については、長年にわたり当社の主力となる事業でしたが、近年、従来の構築型やパッケージ型のシステムからクラウドサービスへと利用形態が変化しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社も2005年からクラウドサービスの提供を開始し、主に地方自治体の防犯や防災分野で利用するクラウドサービスの提供に注力しており、クラウド利用料、クラウド初期構築に関する売上が着々と増加し、品目別の売上構成が変化しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "以上の結果、当事業年度の売上高につきましては、ストック型売上であるクラウド利用料の順調な増加に加え、ライセンス販売において消防防災を中心に新規・更新受注があるなど増加要因があった一方で、前事業年度に大型のSI初期開発売上があった反動等が減少要因となり、1,734,668千円（前事業年度比5.3％増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド利用料",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他保守（ライセンス、商品）",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "その他初期（ライセンス、商品）",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "a) クラウド利用料",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "c) SI（初期・保守）",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "地理情報システムの受託開発・保守に関して堅調に推移したものの、前期の一部大型案件の反動があったことにより、売上高は305,015千円（前事業年度比25.9％減）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "d) その他（初期・保守）",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "既存顧客からの継続的な受注やデジタル地図等の納品のほか、ライセンス販売にて消防防災を中心に新規・更新受注が増加したため、売上高は149,647千円（前事業年度比51.9％増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "（ア）ストック型売上",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度の売上高につきましては、ストック型売上であるクラウド利用料の順調な増加に加え、ライセンス販売において消防防災を中心に新規・更新受注があるなど増加要因があった一方で、前事業年度に大型のSI初期開発売上があった反動等が減少要因となり、1,734,668千円（前事業年度比5.3％増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "a）クラウド利用料",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "主にクラウド事業と受託開発事業の2つを行い、総売上の半分以上をクラウド利用料が占めています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "月額使用料を頂くストック型のビジネスで、そのクラウド事業の売上の約4割が「NET119 緊急通報システム」によるものです",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "そして受託開発事業では、官公庁や企業から依頼を受けてクラウドサービスの構築や地理情報システムに係るアプリケーションソフトウェアの開発・保守業務をしています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業以外では、ライセンス販売やパッケージ商品の販売等も行っています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "安定した顧客基盤とストック収入",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "このような継続性の高いビジネスを展開し、コンスタントにストック収入を得ることができています",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "・本サイトに掲載される他社の商品に関する情報に関しては、最大限の注意を払っておりますが、金利、手数料、その他商品情報の完全な正確性や信頼性を保証するものではありません",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "株式会社ドーンのビジネスモデルを読み解く魅力と成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ドーンのビジネスモデルを読み解く魅力と成長戦略",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "官公庁や自治体、インフラ企業から絶大な信頼を得ている高度な地図処理技術と、安定的なストック収益（クラウド利用料）をもたらす独自のビジネスモデルが同社の最大の強みであり、自治体のDX（Gov-Tech）や防災力強化が推進される市場において極めて強固なポジションを確立しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略が魅力のトヨクモが挑むビジネスモデルと今後の展望を徹底解説",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "東映アニメーションの魅力 ビジネスモデルで読む成長戦略",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "SNSマーケティングで成長戦略を加速する株式会社ホットリンクのビジネスモデルを徹底解説",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "ゲンダイエージェンシー株式会社のビジネスモデルで見える成長戦略",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "チェンジホールディングスのビジネスモデルと成長戦略を紐解く 最新IR資料から見る加速するデジタル化の可能性",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社オートサーバーのビジネスモデルがスゴい 成長戦略と魅力に迫る",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社学情の成長戦略を探るビジネスモデルの魅力",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "CSSホールディングスの魅力とビジネスモデルが光る最新IR情報",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "利益面に関しては、人件費などの販管費増加があったものの、収益性の極めて高いクラウド利用料の売上比率が向上したことでマージンが改善し、直近3ヵ月（12月～2月期）の営業利益率が46.4％に達するなど本業の収益力が大きく向上しました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の顧客セグメントは、自治体や官公庁、電力などのインフラ企業です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は情報サービス事業の単一セグメントであります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "④ 品目別の売上構成の推移について",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社も2005年からクラウドサービスの提供を開始し、主に地方自治体の防犯や防災分野で利用するクラウドサービスの提供に注力しており、クラウド利用料、クラウド初期構築に関する売上が着々と増加し、品目別の売上構成が変化しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "＜各事業年度の売上高を100％とした場合の品目別の売上構成＞",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、当社は情報サービス事業の単一セグメントであるため、セグメント別の記載を省略しております",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、情報サービス事業の単一セグメントであるため、セグメント別の記載を行っておりません",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "官公庁や自治体、インフラ企業から絶大な信頼を得ている高度な地図処理技術と、安定的なストック収益（クラウド利用料）をもたらす独自のビジネスモデルが同社の最大の強みであり、自治体のDX（Gov-Tech）や防災力強化が推進される市場において極めて強固なポジションを確立しています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "利益面に関しては、人件費などの販管費増加があったものの、収益性の極めて高いクラウド利用料の売上比率が向上したことでマージンが改善し、直近3ヵ月（12月～2月期）の営業利益率が46.4％に達するなど本業の収益力が大きく向上しました",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "防災や救急通報など緊急性の高い場面で情報を迅速に可視化できる技術が強みになっています",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要と最近の業績株式会社ホットリンク【全体の業績】株式会社ホットリンクは、エックスやインスタグラムといったソーシャルメディアを活用したマーケティング支援を主軸に、ソーシャルビッグデータの分析・活用に強みを持つ企業です",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "また、株式会社tiwakiとの資本業務提携につきまして、防犯事業を中心に、各社の強みを活かしたシナジーの創出に向け、関係各所との調整、及び実証実験に取り組んでおります",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益は、売上高の増加及び売上原価の減少が販売費及び一般管理費の増加を上回ったことに伴い、営業利益率が2.9ポイント増加し、655,128千円（前事業年度比80,991千円増）となりました",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 ドーン の ビジネスモデル を読み解く魅力と成長戦略 — 株式会社 ドーン の ビジネスモデル を読み解く魅力と成長戦略 チームマイクの企業分析 https://consovation.com > 運輸･情報通信業 > 情報・通信業",
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 | 株式会社 ドーン | 地理情報システム(GIS） — 会社概要・沿革 | 株式会社 ドーン | 地理情報システム(GIS） 株式会社ドーン https://www.dawn-corp.co.jp > company > outline",
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "代表挨拶 - ドーン株式会社 - DAWN Inc. — 代表挨拶 - ドーン株式会社 - DAWN Inc. ドーン株式会社 https://dawn.co.jp > message > ceo",
+    "url": "https://dawn.co.jp/message/ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の皆様へ | 株式会社 ドーン | 地理情報システム(GIS） — 投資家の皆様へ | 株式会社 ドーン | 地理情報システム(GIS） 株式会社ドーン https://www.dawn-corp.co.jp > ...",
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ドーン 】[2303]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ドーン 】[2303]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "pass": 3
+   },
+   {
+    "quote": "ドーン （2303）の 決算 発表 資料 一覧 - IRBANK — ドーン （2303）の 決算 発表 資料 一覧 - IRBANK IRBANK https://irbank.net > 情報・通信業 > ドーン",
+    "url": "https://irbank.net/E05289/reports",
+    "pass": 3
+   },
+   {
+    "quote": "[ ドーン 2303.T] 2026年5月期 決算 短信〔日本基準〕(非連結) — [ ドーン 2303.T] 2026年5月期 決算 短信〔日本基準〕(非連結) BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120260707588870",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260707588870",
+    "pass": 3
+   },
+   {
+    "quote": "ドーン 【2303】の最新 決算 発表、業績修正 - 株探 — ドーン 【2303】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > ドーン (2303) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=2303",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ドーン | 地理情報システム(GIS） — 株式会社 ドーン | 地理情報システム(GIS） 株式会社ドーン https://www.dawn-corp.co.jp",
+    "url": "https://www.dawn-corp.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ドーン 【2303】の 事業 内容 - キタイシホン — ドーン 【2303】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/2303/business",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ドーン の会社情報 - M&Aクラウド — 株式会社 ドーン の会社情報 - M&Aクラウド M&Aクラウド https://macloud.jp > companies",
+    "url": "https://macloud.jp/companies/5382",
+    "pass": 3
+   },
+   {
+    "quote": "ドーン 財団とは | ドーン 財団 — ドーン 財団とは | ドーン 財団 ドーン財団 https://www.dawn-ogef.jp > dawnzdn",
+    "url": "https://www.dawn-ogef.jp/dawnzdn",
+    "pass": 3
+   },
+   {
+    "quote": "大阪府立男女共同参画・青少年センター（ ドーン センター ... — 大阪府立男女共同参画・青少年センター（ ドーン センター ... 大阪府立男女共同参画・青少年センター https://www.dawncenter.jp",
+    "url": "https://www.dawncenter.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【2303】株式会社 ドーン 事業概要と成長戦略に関する ... — 【2303】株式会社 ドーン 事業概要と成長戦略に関する ... invest-n.jp https://invest-n.jp > ...",
+    "url": "https://invest-n.jp/ir/26652/",
+    "pass": 3
+   },
+   {
+    "quote": "ドーン 、 社長 に宮崎正伸（みやざき・まさのぶ）氏 — ドーン 、 社長 に宮崎正伸（みやざき・まさのぶ）氏 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/89312",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dawn-corp.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dawn-corp.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dawn-corp.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dawn-corp.co.jp/about-sitepolicy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dawn-corp.co.jp/company/about-message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.dawn-corp.co.jp/wp-content/uploads/2018/08/policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/2303/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invest-n.jp/ir/26652/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ドーン",
+   "results": [
+    "https://www.dawn-corp.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%B3",
+    "https://macloud.jp/companies/5382",
+    "https://dawn.co.jp/company/",
+    "https://www.instagram.com/dawn_singer/",
+    "https://ja.wikipedia.org/wiki/ドーン",
+    "https://dictionary.reverso.net/japanese-english/ドーン",
+    "https://finance.yahoo.co.jp/quote/2303.T",
+    "https://toha4.fromation.co.jp/archives/23309",
+    "https://www.youtube.com/watch?v=qVhFg9deXRc"
+   ]
+  },
+  {
+   "query": "ドーン ビジネスモデル",
+   "results": [
+    "https://consovation.com/%E5%9C%B0%E7%90%86%E6%83%85%E5%A0%B1%E6%8A%80%E8%A1%93%E3%81%A7%E6%9C%AA%E6%9D%A5%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%83%89%E3%83%BC%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE/",
+    "https://www.dawn-corp.co.jp/company/outline/",
+    "https://dawn.co.jp/message/ceo/",
+    "https://www.mlit.go.jp/seisakutokatsu/freight/seisakutokatsu_freight_tk1_000191.html",
+    "https://www.mirait-one.com/miraiz/newsflash/article070.html",
+    "https://drone-navigator.com/drone-business-model",
+    "https://research.impress.co.jp/report/list/drone/502419",
+    "https://www.youtube.com/watch?v=hAuZG92V4-c",
+    "https://www.mbpjapan.net/archives/678",
+    "https://consovation.com/地理情報技術で未来を切り開くドーン株式会社の/"
+   ]
+  },
+  {
+   "query": "ドーン 決算説明資料",
+   "results": [
+    "https://www.dawn-corp.co.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2303",
+    "https://irbank.net/E05289/reports",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260707588870",
+    "https://kabutan.jp/stock/finance?code=2303",
+    "https://kitaishihon.com/company/2303/ir-library",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260707588905/",
+    "https://scouter.monex.co.jp/report/disclose/2303",
+    "https://edinetdb.jp/company/E05289/presentations/",
+    "https://irbank.net/2303/ir"
+   ]
+  },
+  {
+   "query": "ドーン 事業系統図",
+   "results": [
+    "https://www.dawn-corp.co.jp/",
+    "https://kitaishihon.com/company/2303/business",
+    "https://macloud.jp/companies/5382",
+    "https://www.dawn-ogef.jp/dawnzdn",
+    "https://www.dawncenter.jp/",
+    "https://note.com/excelconsul_t/n/n30dfac114c02",
+    "https://www.dawncenter-utility.jp/about/floorguide/",
+    "https://www.exeo.co.jp/news/6567.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%B3_(%E4%BC%81%E6%A5%AD)",
+    "https://zukaikeizai.com/kaisha/2303/"
+   ]
+  },
+  {
+   "query": "ドーン 社長 インタビュー",
+   "results": [
+    "https://invest-n.jp/ir/26652/",
+    "https://www.dawn-corp.co.jp/company/outline/",
+    "https://www.nikkan.co.jp/articles/view/89312",
+    "https://www.kabutecho.com/interview/%E5%96%B6%E6%A5%AD%E5%88%A9%E7%9B%8A%E7%8E%8735%EF%BC%85%E3%81%AE%E8%87%AA%E6%B2%BB%E4%BD%93%E5%90%91%E3%81%91%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E9%96%8B%E7%99%BA%E4%BC%9A%E7%A4%BE-%E9%95%B7/",
+    "https://idea-intl.com/exhibits/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E7%A4%BE%E7%A4%BE%E9%95%B7%EF%BC%9A%E3%83%89%E3%83%BC%E3%83%B3%E6%B0%8F%E3%81%B8/",
+    "https://news.kobekeizai.jp/blog-entry-17187.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%B3_(%E4%BC%81%E6%A5%AD)",
+    "https://macloud.jp/companies/5382",
+    "https://www.dawn-corp.co.jp/company/about-message/",
+    "https://ja.wikipedia.org/wiki/宮崎正伸"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部4頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部4頁・検索5回）"
+ }
+}

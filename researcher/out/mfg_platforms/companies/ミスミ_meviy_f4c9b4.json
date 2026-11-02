@@ -1,0 +1,639 @@
+{
+ "name": "ミスミ meviy",
+ "aliases": [
+  "meviy",
+  "メビー"
+ ],
+ "context": "部品の即時見積・調達",
+ "researched_at": "2026-11-02T14:55:50.597527+00:00",
+ "official_url": "https://meviy.misumi-ec.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1963年",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "4019億8700万円（連結、2025年3月期）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "1万1064名（連結、2025年3月現在）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "label": "従業員規模",
+    "value": "1〜20人",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "規模": [
+   {
+    "quote": "※2025年オンライン機械部品調達サービス国内ユーザー数シェア テクノ・システム・リサーチ調べ",
+    "url": "https://meviy.misumi-ec.com/ja-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※2023年オンライン機械部品調達サービス国内ユーザー数シェア テクノ・システム・リサーチ調べ",
+    "url": "https://www.misumi.co.jp/news/press_260810",
+    "pass": 3
+   },
+   {
+    "quote": "*Users of online machine parts procurement services in Japan in 2023, according to Techno Systems Research Co., Ltd.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock free shipping for your web orders!",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We, the design engineers at testedge GmbH & Co. KG, are big meviy fans and extremely satisfied users. This is mainly because meviy is very easy to use and its error messages expose design flaws right from the start. This makes meviy one of the best tools available …“",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "ミスミのデジタルサービスをまとめてご紹介",
+    "url": "https://meviy.misumi-ec.com/ja-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "のメビーが選ばれる理由を紹介!",
+    "url": "https://meviy.misumi-ec.com/ja-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "利用CAD別のメビー導入ガイドブックを紹介します",
+    "url": "https://meviy.misumi-ec.com/ja-jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客を理解し、最適なアプローチを導き出す | タナベコンサルティング｜メディアサイト「TCG REVIEW」",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "経営者の決断をサポートするメディア",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "お気に入り記事",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "社長・経営者・リーダーの皆さまの「決断」をサポートするメディアです",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "【企業事例】優れた経営戦略を実践する企業の成功ストーリーを紹介します",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "広告の費用対効果は目標の20倍を上回り、「日経クロストレンドBtoBマーケティング大賞2024」の「コンテンツ部門」で部門賞の栄冠に輝いた",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "未認知の人に向けたサービスの紹介だとしたらどうあるべきか、認知はしているが未購買の人の不安や疑問を解消するにはどうしたら良いのか、リピーター向けに新商材を訴求するとしたらどうしたら良いかなど、顧客の状況を具体的に描くことで、打つべき施策が自然と見えてきます」（大川氏）",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "同プログラムは、全社広報チームと連携したPR活動によって、多くのメディアから注目される一大イベントになりつつある",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "編集部オススメ記事",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "外部メディア寄稿一覧",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://www.misumi.co.jp/news/press_260810",
+    "pass": 3
+   },
+   {
+    "quote": "meviy が選ばれる理由をご紹介します",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "他の連載記事はこちら",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア掲載",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "メディアの方向け",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "メビーの使い方記事",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・広告",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "記事をクリップ",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "に続き、後編では、そのイノベーション実現の裏側と、meviyによってもたらされた製造業のDXの詳細を紹介する",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの会員限定記事",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "最新記事一覧",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "広告企画一覧",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド・メディアラボ",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "道廣さんのインタビュー記事",
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "pass": 3
+   },
+   {
+    "quote": "同じタグの記事",
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり太郎！自己紹介！生まれはトヨタのお膝元です",
+    "url": "https://www.youtube.com/watch?v=1bbJSGZh8Gg",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミに新卒入社した社員２名にインタビューを行い、ミスミの魅力をご紹介しております！",
+    "url": "https://www.youtube.com/watch?v=1bbJSGZh8Gg",
+    "pass": 3
+   },
+   {
+    "quote": "サイバーセキュリティー職業紹介 2025｜ユニアデックス",
+    "url": "https://www.youtube.com/watch?v=1bbJSGZh8Gg",
+    "pass": 3
+   },
+   {
+    "quote": "*Users of online machine parts procurement services in Japan in 2023, according to Techno Systems Research Co., Ltd.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   }
+  ],
+  "誰から払われるか": [
+   {
+    "quote": "複数の加工会社に個別で問い合わせる手間を削減できるほか、見積もりや出荷日などの",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "※マーケットプレイスとは、買い手と売り手がサービス上でマッチングして取引できるプラットフォームです",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "メビーや取引中の加工会社で手配できない加工も、メビーマーケットプレイスで製造パートナーから手配可能",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マーケットプレイスとは、買い手と売り手がサービス上でマッチングして取引できるプラットフォームです",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "メビーマーケットプレイスでは、製造パートナーから手数料をいただいているため、発注者側からはサービス利用料をいただきません",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "このサービスが生まれた背景には、中小規模の町工場をはじめとする技術力の高い加工会社の多くが、3Dデータに対応していないという実状があった",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "MISUMI will continue to provide time value to our global customers in the IA (Industrial Automation) industry through expanding our services and contribute to enhancing their productivity.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "We will continue to develop meviy based on the needs of customers in each country and contribute to improving customers' productivity by accelerating global expansion.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "With meviy, customers simply upload a 3D CAD model of a mechanical component, the AI automatically provides an instant quote, and our digital manufacturing system enables an order to be shipped in as little as one day.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "meviy is a platform that eliminates perceived inefficiencies in parts procurement by reducing the time customers traditionally spend procuring mechanical components by more than 90%.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "メビーマーケットプレイスでは、製造パートナーから手数料をいただいているため、発注者側からはサービス利用料をいただきません",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "広告の費用対効果は目標の20倍を上回り、「日経クロストレンドBtoBマーケティング大賞2024」の「コンテンツ部門」で部門賞の栄冠に輝いた",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "メディア・広告",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド・プレミアムに登録",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "広告企画一覧",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "ダイヤモンド・プレミアムについて",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "meviy's global expansion began with its launch in Europe in December 2021. It set foot in North America*1, China*2, and Asia (South Korea)*3 in February 2024, and now provides services in five regions around the world. By the end of fiscal 2023, the overseas sales accounted for 15% of meviy’s revenue, with further increases planned.",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "Software that allows you to design enclosures with the feel of a drawing",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "Order more, pay less — pricing across meviy’s manufacturing lines now works in your favour, and lead times just got faster.",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your CAD file and receive detailed pricing within seconds",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "電子機器やベアリングの卸売会社として1963年に創業したミスミグループは、1977年に機械部品の標準化を手掛け、カタログ販売を実現",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "その場合、設計者は個々の部品の紙図面を手作業で作成し、ファクスなどで見積もり取得や受発注を行わなければならない",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "氏は、ローンチ当初の状況を次のように振り返る",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "「当初はウェビナーで操作方法を周知していたのですが、次第に集客数が伸び悩み、これ以上コストをかけても費用対効果が見込めない状況でした",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "当初はマイクも照明もグリーンバックも特別な機材は使っていません",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "創業 ： 1963年",
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミは、これからも一人ひとりの「時」を価値あるものへと変え、ともに持続的な成長を創造していきます",
+    "url": "https://www.misumi.co.jp/news/press_260810",
+    "pass": 3
+   },
+   {
+    "quote": "2D図面なしで生産自動化設備を立ち上げられる理由",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代後半には、デジタル技術を駆使し、設計データから部品調達が可能なオンラインサービス「meviy」を立ち上げた",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "事業責任者として国内事業の再構築・中国事業の成長加速を経て、ミスミグループ内の新規事業である「meviy」（メヴィー）の立ち上げに従事",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット黎明期から一貫して「デジタル」を活用した数多くの新事業の立ち上げ、事業責任者としての経歴・実績を持つ",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "1963年設立のミスミグループ（以下、ミスミ）は、機械部品の商社として創業以来、ものづくりの現場で必要な生産間接材を製造業界へ供給し続けてきた",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの立ち上げから現在に至るまで、meviyの成長を担ってきた吉田氏は「meviyはミスミだけでなく、製造業全体のDXを目的としている」と語る",
+    "url": "https://diamond.jp/articles/-/266362",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後、国内大手通信企業、その後外資系大手ソフトウェア企業に籍を置き、インターネット黎明期からデジタルを活用した新規事業の立ち上げ・事業責任者を経験してきました",
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "pass": 3
+   },
+   {
+    "quote": "ー最初になぜmeviyが誕生したのかを教えてください！",
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミは1963年に金型の専門商社として創業しました",
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "pass": 3
+   },
+   {
+    "quote": "Ideal for testing our service before placing your first order.",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get started with meviy",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "メビーマーケットプレイス| 複雑・大型部品も最短10分で ... — メビーマーケットプレイス| 複雑・大型部品も最短10分で ... marketplace.meviy.misumi-ec.com https://marketplace.meviy.misumi-ec.com > ja-jp",
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「 meviy 」納期選択サービスの価格・納期を一括ダウンロード ... — 「 meviy 」納期選択サービスの価格・納期を一括ダウンロード ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_260810",
+    "url": "https://www.misumi.co.jp/news/press_260810",
+    "pass": 3
+   },
+   {
+    "quote": "わらしべ長者作戦でできた「 meviy 」、事業 モデル の進化で ... — わらしべ長者作戦でできた「 meviy 」、事業 モデル の進化で ... 日経クロステック https://xtech.nikkei.com > 変革者のアタマのナカ",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02827/121700016/",
+    "pass": 3
+   },
+   {
+    "quote": "【メビー史上最高額か？！】メビーで高額見積もり ... - YouTube — 【メビー史上最高額か？！】メビーで高額見積もり ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=VPFfSbFm3uc",
+    "pass": 3
+   },
+   {
+    "quote": "1〜20人 アーカイブ - ミスミ meviy （メビー） — 1〜20人 アーカイブ - ミスミ meviy （メビー） meviy https://jp.meviy.misumi-ec.com > info > com_size",
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "pass": 3
+   },
+   {
+    "quote": "\"➡️ ミスミmeviy の 売上 推移。2026年3月期はmeviy219億円 ... — \"➡️ ミスミmeviy の 売上 推移。2026年3月期はmeviy219億円 ... X https://x.com > @0808_rocky",
+    "url": "https://x.com/0808_rocky/status/2110712462924567009",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ 過去最高 売上 に貢献した「 meviy 」の立役者が登壇決定 ... — ミスミ 過去最高 売上 に貢献した「 meviy 」の立役者が登壇決定 ... Agenda note (アジェンダノート) https://agenda-note.com > conference > detail",
+    "url": "https://agenda-note.com/conference/detail/id=7245",
+    "pass": 3
+   },
+   {
+    "quote": "つながる、やり取り」時間を大幅削減、 meviy の新サービスとは — つながる、やり取り」時間を大幅削減、 meviy の新サービスとは コアコンセプト・テクノロジー（CCT） https://www.cct-inc.co.jp > インタビュー > DXインタビュー",
+    "url": "https://www.cct-inc.co.jp/koto-online/archives/612",
+    "pass": 3
+   },
+   {
+    "quote": "[ meviy ] Now Quotes Inch Screws for North American Service ... — [ meviy ] Now Quotes Inch Screws for North American Service ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > pr...",
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "pass": 3
+   },
+   {
+    "quote": "Order components from around the world with meviy . - Misumi — Order components from around the world with meviy . - Misumi meviy https://meviy.misumi-ec.com > world...",
+    "url": "https://meviy.misumi-ec.com/worldwide/en/",
+    "pass": 3
+   },
+   {
+    "quote": "meviy EU: Online Manufacturing Platform for Custom Parts — meviy EU: Online Manufacturing Platform for Custom Parts meviy EU https://meviy-eu.com",
+    "url": "https://meviy-eu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "meviy transitions to Fictiv — meviy transitions to Fictiv Fictiv https://www.fictiv.com > meviy",
+    "url": "https://www.fictiv.com/meviy",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing meviy , A Fast & Affordable Solution for Custom ... — Introducing meviy , A Fast & Affordable Solution for Custom ... Misumi USA https://us.misumi-ec.com > media > I...",
+    "url": "https://us.misumi-ec.com/press-releases/media/Introducing-meviy-A-Fast-Affordable-Solution-for-Custom-Part-Procurement.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://meviy.misumi-ec.com/ja-jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_260810",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/sites/default/files/2025-12/MISUMI_Integrated_Report_2025_Japansese_all.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/266362",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/corp/recruit/career/interview004.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1bbJSGZh8Gg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.misumi.co.jp/english/news/press_250207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meviy-eu.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミスミ meviy 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://marketplace.meviy.misumi-ec.com/ja-jp/",
+    "https://review.tanabeconsulting.co.jp/modelcompanies/54047/",
+    "https://www.misumi.co.jp/news/press_260810",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/02827/121700016/",
+    "https://www.youtube.com/watch?v=VPFfSbFm3uc",
+    "https://jp-2dx.meviy.misumi-ec.com/meviy-guide/ja/customer_manual/2dx_faq/3267/",
+    "https://www.cct-inc.co.jp/koto-online/archives/612",
+    "https://note.com/yagusan/n/n53c16f9ef883",
+    "https://ken-it.world/supporters/2020/06/faq-misumi-meviy.html",
+    "https://ja.wikipedia.org/wiki/Meviy"
+   ]
+  },
+  {
+   "query": "ミスミ meviy 売上 従業員 創業",
+   "results": [
+    "https://jp.meviy.misumi-ec.com/info/ja/com_size/1to20/",
+    "https://www.misumi.co.jp/sites/default/files/2025-12/MISUMI_Integrated_Report_2025_Japansese_all.pdf",
+    "https://diamond.jp/articles/-/266362",
+    "https://x.com/0808_rocky/status/2110712462924567009",
+    "https://agenda-note.com/conference/detail/id=7245",
+    "https://unistyleinc.com/columns/1071",
+    "https://hrmos.co/pages/misumi/jobs/01-ID-26-02-30-M",
+    "https://techblitz.com/event-report/misumi/",
+    "https://the-shashi.com/tse/9962/",
+    "https://ja.wikipedia.org/wiki/Meviy"
+   ]
+  },
+  {
+   "query": "ミスミ meviy 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.misumi.co.jp/corp/recruit/career/interview004.html",
+    "https://www.wantedly.com/companies/misumi/post_articles/232495",
+    "https://www.youtube.com/watch?v=1bbJSGZh8Gg",
+    "https://www.cct-inc.co.jp/koto-online/archives/612",
+    "https://unistyleinc.com/columns/1071",
+    "https://www.jac-recruitment.jp/company/misumi/interview01/",
+    "https://techblitz.com/event-report/misumi/",
+    "https://jp.meviy.misumi-ec.com/info/ja/category/news/page/9/",
+    "https://business.nikkei.com/atcl/seminar/20/00045/092700018/",
+    "https://ja.wikipedia.org/wiki/Meviy"
+   ]
+  },
+  {
+   "query": "ミスミ meviy revenue members business model",
+   "results": [
+    "https://www.misumi.co.jp/english/news/press_250207",
+    "https://meviy.misumi-ec.com/worldwide/en/",
+    "https://meviy-eu.com/",
+    "https://www.fictiv.com/meviy",
+    "https://us.misumi-ec.com/press-releases/media/Introducing-meviy-A-Fast-Affordable-Solution-for-Custom-Part-Procurement.html",
+    "https://meviy-usa.com/",
+    "https://www.youtube.com/watch?v=pQ9e_YqYR1U",
+    "https://www.autodesk.com/design-make/articles/misumi",
+    "https://us.misumi-ec.com/press-releases/media/notice-regarding-the-aquisition-of-fictiv.html",
+    "https://www.suruga-g.co.jp/en/business/meviy.html"
+   ]
+  }
+ ],
+ "missing": {
+  "資金調達・売却": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部11頁・検索4回）"
+ }
+}

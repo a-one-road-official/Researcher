@@ -1,0 +1,917 @@
+{
+ "name": "アドバンテスト",
+ "aliases": [],
+ "context": "証券コード6857／電気機器／プライム（内国株式）／2026.03期 売上高1,128,610百万円 営業利益率44.2%",
+ "researched_at": "2026-11-02T14:32:57.788959+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1954年(昭和29年) 12月",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（臨時従業員含まず）",
+    "value": "7,241人（国内2,209人、海外5,032人。2026年3月31日時点）",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "アドバンテストの顧客サポートは、顧客課題の根源を理解することから始まります",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "世界各地の半導体産業の集積地にサポート拠点を構え、顧客の要請にタイムリーに対応します",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "エンゲージメント：長年の実績が築き上げた顧客との絆",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の技術力やグローバルサポート力は顧客から高い評価をいただいています",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "米国TechInsights社による半導体製造装置メーカー顧客満足度調査において、ラージサプライヤー部門の総合ランキングで7年連続第1位に、「Top 10 Customer Service」には38年連続で選ばれています",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "実績と重ね顧客からの高い信頼を得ることで、顧客の次世代製品向けてテストソリューション開発において早い段階から共同で取り組み、必要なテストソリューションをタイムリーに開発・提供することが可能になります",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "また、その優れた顧客基盤と製品ポートフォリオが差別化になっているようです",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "【訂正前】 顧客価値提 【訂正後】 顧客価値提供",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマー・サービス",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング＆ソリューション・サービス",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "アップタイム・サービス",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス・ウェブ・ポータル",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング・ソリューション",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "量産立ち上げサービス",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "量産工場向けソリューション",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス契約",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストは、半導体テストソリューションのグローバル・リーディングカンパニーです",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーション：業界No.1のソリューション・ポートフォリオ",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "また、テストシステムに加え、テストする半導体を搬送しテスト結果に応じてソーティングするハンドラ、テストシステムと半導体を高精度に接続するソケットやインタフェースボード、システムレベル・テストシステム、シリコン検証向けシステム、AIを活用したテストデータのリアルタイム解析プラットフォームなど、半導体テストのトータルソリューションをワンストップかつターンキーで提供しています",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "技術やバリューチェーンの複雑化が進む半導体ビジネスで勝ち続けるために、アドバンテストは部門や組織を横断したグローバルチームで、多角的な知見から正しいソリューションを見出します",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "また、テスタ市場の変動に対して安定した製品供給を可能にするサプライチェーンの強化にも努めています",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "実績と重ね顧客からの高い信頼を得ることで、顧客の次世代製品向けてテストソリューション開発において早い段階から共同で取り組み、必要なテストソリューションをタイムリーに開発・提供することが可能になります",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "欠陥チップをそのまま出すと製品が壊れたり事故につながるので、出荷前に必ずチェックする必要があります",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "2.サービス他",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "また、その優れた顧客基盤と製品ポートフォリオが差別化になっているようです",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマー・サービス",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング＆ソリューション・サービス",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "アップタイム・サービス",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス・ウェブ・ポータル",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング・ソリューション",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "量産立ち上げサービス",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "量産工場向けソリューション",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス契約",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマー・サービス",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング＆ソリューション・サービス",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "アップタイム・サービス",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス・ウェブ・ポータル",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング・ソリューション",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "量産立ち上げサービス",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "量産工場向けソリューション",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス契約",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "IRメール配信サービス",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "製品への取り組み",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・ソリューション",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアソリューション",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマー・サービス",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティング＆ソリューション・サービス",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アップタイム・サービス",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス・ウェブ・ポータル",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリング・ソリューション",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "量産立ち上げサービス",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "量産工場向けソリューション",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマ・サービス契約",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も様々な切り口でサービスを開始予定です",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経の記事利用サービスについて",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "の主力の半導体検査装置（テスター）の受注が急増している",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "動画で紹介！「半導体」",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー様およびパートナー企業様へ",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー様およびパートナー企業様へ",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要なお客さまとのパートナーシップをさらに拡大し、より深いレベルでの協業を通じて、バリューチェーン全体の自動化を可能にする最良のソリューション開発を進めています",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの複合的な課題を乗り越え、将来のニーズに応えていくためには、業界全体のパートナーと連携することが不可欠です",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストは、お客さまやパートナーの皆さまとともに、これらの課題を機会へと変え、業界の未来を形づくっていくことに尽力してまいります",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   },
+   {
+    "quote": "サプライヤー様およびパートナー企業様へ",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンス認証",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "の2点が挙げられ、その結果、検査装置の販売個数が増えているはもちろん、単価も高くなっています",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "：装置の設置・保守、試験フロー設計、そして中古装置の買取・再販やリサイクルを行う事業",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス認証",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス認証",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス認証",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス認証",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "アドバンテストの強み｜企業情報｜株式会社アドバンテスト",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストの強み",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "売上総利益率及び営業利益率",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストの強み",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストの強み",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストの強み",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益、営業利益率の推移",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテストの強み",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "これは、収益性の高いSoCテスタの売上構成比が上昇しているからだと考えられます",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "【参考】 新報告セグメントに基づく2023年3月期（FY2022）～2025年3月期（FY2024）の売上高およびセグメント利益（損失）",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月2日更新：比較可能性の向上のため、新たな報告セグメントに基づくFY2022～FY2024の売上高ならびにセグメント利益（損失）を追加開示しております",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年9月9日 18:39",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "2026 年 3 月期（2025 年度）第 1 四半期決算説明会 質疑応答要旨",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月29日",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度決算説明会",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月27日",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月28日",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月28日",
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第2四半期(中間期)決算短信〔IFRS〕(連結)",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "2031年満期ユーロ円建転換社債型新株予約権付社債の 転換価額の調整に関するお知らせ",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期 決算説明会",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "1954年(昭和29年) 12月",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日時点）",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月26日 2:00",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アドバンテスト の強み｜企業情報 - Advantest — アドバンテスト の強み｜企業情報 - Advantest ADVANTEST CORPORATION https://www.advantest.com > トップ > 企業情報",
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテスト の事業内容と急成長の要因についてわかり ... — アドバンテスト の事業内容と急成長の要因についてわかり ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "pass": 3
+   },
+   {
+    "quote": "中長期経営方針｜企業情報｜株式会社 アドバンテスト — 中長期経営方針｜企業情報｜株式会社 アドバンテスト ADVANTEST CORPORATION https://www.advantest.com > トップ > 企業情報",
+    "url": "https://www.advantest.com/ja/about/management-policy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アドバンテスト インベスターズガイド - Advantest — 株式会社 アドバンテスト インベスターズガイド - Advantest ADVANTEST CORPORATION PDF https://www.advantest.com > investors-guide",
+    "url": "https://www.advantest.com/document/ja/investors/ir-library/investors-guide/Investors_Guide_2607J.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "投資家の皆様へ | 株式会社 アドバンテスト - Advantest — 投資家の皆様へ | 株式会社 アドバンテスト - Advantest ADVANTEST CORPORATION https://www.advantest.com > investors",
+    "url": "https://www.advantest.com/ja/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アドバンテスト 】[6857]IR情報 中期経営計画や 決算 短信 — 【 アドバンテスト 】[6857]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6857",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報｜株式会社 アドバンテスト - Advantest — 会社概要｜企業情報｜株式会社 アドバンテスト - Advantest ADVANTEST CORPORATION https://www.advantest.com > トップ > 企業情報",
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテスト 【6857】の 事業 内容 - キタイシホン — アドバンテスト 【6857】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6857/business",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンテスト社長 「経営目標を前倒し達成へ」 推論AIで検査 ... — アドバンテスト社長 「経営目標を前倒し達成へ」 推論AIで検査 ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Group CEOメッセージ｜企業情報｜株式会社 アドバンテスト — Group CEOメッセージ｜企業情報｜株式会社 アドバンテスト ADVANTEST CORPORATION https://www.advantest.com > トップ > 企業情報",
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体の進化はこれから加速する アドバンテスト 津久井 ... — AI半導体の進化はこれから加速する アドバンテスト 津久井 ... 株探 https://kabutan.jp > 市場ニュース",
+    "url": "https://kabutan.jp/news/marketnews/?b=n202606090338",
+    "pass": 3
+   },
+   {
+    "quote": "取締役・執行役員｜企業情報｜株式会社 アドバンテスト — 取締役・執行役員｜企業情報｜株式会社 アドバンテスト ADVANTEST CORPORATION https://www.advantest.com > トップ > 企業情報",
+    "url": "https://www.advantest.com/ja/about/management/",
+    "pass": 3
+   },
+   {
+    "quote": "（株） アドバンテスト 代表取締役 社長 Group COO 津久井幸一氏 — （株） アドバンテスト 代表取締役 社長 Group COO 津久井幸一氏 産業タイムズ社 https://www.sangyo-times.jp > article",
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=14042",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.advantest.com/ja/about/why-advantest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/irukabu/n/n4191e87d47f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantest.com/ja/investors/ir-library/result/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantest.com/ja/investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantest.com/document/ja/investors/ir-library/annual/J_all_IAR2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.advantest.com/ja/about/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantest.com/ja/about/ceo-message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アドバンテスト",
+   "results": [
+    "https://www.advantest.com/ja/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88",
+    "https://www.advantest.com/en/",
+    "https://www2.advantest.com/external/careers/",
+    "https://www.nikkei.com/nkd/company/?scode=6857"
+   ]
+  },
+  {
+   "query": "株式会社アドバンテスト",
+   "results": [
+    "https://www.advantest.com/ja/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88",
+    "https://www2.advantest.com/external/careers/",
+    "https://www.advantest.com/en/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6857",
+    "https://ja.wikipedia.org/wiki/アドバンテスト",
+    "https://en.wikipedia.org/wiki/Advantest",
+    "https://www.advantest.com/ja/about/overview/",
+    "https://www2.advantest.com/external/careers/recruit/",
+    "https://www.atengineer.com/pr/advantest/company"
+   ]
+  },
+  {
+   "query": "アドバンテスト 株式会社",
+   "results": [
+    "https://www.advantest.com/ja/about/overview/",
+    "https://www.advantest.com/ja/",
+    "https://www.advantest.com/ja/about/career-jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88",
+    "https://www.advantest.com/ja/about/offices/",
+    "https://www.advantest.com/ja/news/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6857",
+    "https://www.seaj.or.jp/semi/recruit/working-life/18.html",
+    "https://jp.linkedin.com/company/advantest",
+    "https://ja.wikipedia.org/wiki/アドバンテスト"
+   ]
+  },
+  {
+   "query": "アドバンテスト ビジネスモデル",
+   "results": [
+    "https://www.advantest.com/ja/about/why-advantest/",
+    "https://note.com/irukabu/n/n4191e87d47f0",
+    "https://www.advantest.com/ja/about/management-policy/",
+    "https://www.advantest.com/document/ja/investors/ir-library/annual/J_all_IAR2024.pdf",
+    "https://www.advantest.com/document/ja/investors/ir-library/investors-guide/Investors_Guide_2607J.pdf",
+    "https://www.crex-data.com/company/6857",
+    "https://www.youtube.com/watch?v=0THCTQqrqJ0",
+    "https://www.advantest.com/document/ja/investors/ir-library/annual/J_all_IAR2025.pdf",
+    "https://www.advantest.com/document/ja/investors/ir-library/investors-guide/Investors_Guide_2604J.pdf",
+    "https://note.com/kabuya66/n/n8341aa03841c"
+   ]
+  },
+  {
+   "query": "アドバンテスト 決算説明資料",
+   "results": [
+    "https://www.advantest.com/ja/investors/ir-library/result/",
+    "https://www.advantest.com/ja/investors/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6857",
+    "https://www.advantest.com/ja/investors/ir-library/briefing/",
+    "https://www.advantest.com/ja/news/2026/a81o6o0000000heh-att/J_FR_FY2025_FN.pdf",
+    "https://www.advantest.com/ja/investors/ir-library/annual/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261028557653/",
+    "https://ufocatch.com/document/TD2026102800188",
+    "https://irbank.net/6857/ir",
+    "https://edinetdb.jp/company/E01950/presentations/"
+   ]
+  },
+  {
+   "query": "アドバンテスト 事業系統図",
+   "results": [
+    "https://www.advantest.com/document/ja/investors/ir-library/annual/J_all_IAR2023.pdf",
+    "https://www.advantest.com/ja/about/overview/",
+    "https://kitaishihon.com/company/6857/business",
+    "https://www.advantest.com/document/ja/investors/ir-library/report/IR_SecuritiesReport_82nd_jp.pdf",
+    "https://www.advantest.com/document/ja/investors/ir-library/annual/J_all_IAR2026.pdf",
+    "https://www.advantest.com/ja/about/governance/corporate-governance/governance/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250704/20250527567664.pdf",
+    "https://www.advantest.com/document/ja/investors/ir-library/report/IR_FinancialReport_62th_jp.pdf",
+    "https://www.advantest.com/ja/",
+    "https://vizora.meequs.com/ja/company/advantest"
+   ]
+  },
+  {
+   "query": "アドバンテスト 社長 インタビュー",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOUC0636F0W6A800C2000000/",
+    "https://www.advantest.com/ja/about/ceo-message/",
+    "https://kabutan.jp/news/marketnews/?b=n202606090338",
+    "https://www.advantest.com/ja/about/management/",
+    "https://www.sangyo-times.jp/article.aspx?ID=14042",
+    "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E8%8A%B3%E6%98%8E",
+    "https://the-shashi.com/tse/6857/ceo/",
+    "https://toyokeizai.net/articles/-/923305?display=b",
+    "https://ja.wikipedia.org/wiki/吉田芳明",
+    "https://x.com/ir_with/status/2070295983141871710"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索7回）"
+ }
+}

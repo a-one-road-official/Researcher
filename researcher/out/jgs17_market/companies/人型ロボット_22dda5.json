@@ -1,0 +1,2093 @@
+{
+ "name": "人型ロボット",
+ "en": "humanoid robot",
+ "aliases": [
+  "ヒューマノイド",
+  "フィジカルAI"
+ ],
+ "context": "1 AI・半導体 ①フィジカルAI",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:30:06.973003+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ヒューマノイドロボット市場規模・予測レポート（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, By Product, 2022– 2035 (USD Billion)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米の市場規模は 2025年に18億860万米ドルに達し、2035年には年平均成長率（CAGR）約39.2%で493億3,960万米ドルに達すると予測されており、地域別で最も高い成長率となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のヒューマノイドロボット市場規模、2022〜2035年（10億米ドル単位）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の市場規模は 2025年に14億440万米ドルに達し、2035年には年平均成長率約36.5%で315億9,230万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は最大の地域市場であり、2025年の市場規模は43億1,500万米ドルで、世界全体の売上高の約54.5%を占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中南米の市場規模は 2025年に1億1,600万米ドルに達し、2035年には年平均成長率約29.3%で15億1,640万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ市場は 2025 年に 2億7,140万米ドルと評価され、年平均成長率（CAGR）約25.6%で拡大し、2035年には 27億7,710万米ドルに達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場は驚異的な34.62%の成長",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルなヒューマノイドロボット市場は、2023年の14.9億米ドルから2033年には約291.2億米ドルに成長し、2024年から2033年までの年平均成長率（CAGR）は34.62％に達すると予測されています",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場は2033年に291.2億米ドルに成長（CAGR 34.62％）",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場規模、シェア、傾向とメーカーレポート洞察と将来予測調査 2037年",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場に関する当社の調査レポートによると、市場は予測期間中に約 37% の CAGR で成長し、2037 年までに約 1170億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025年のヒューマノイドロボット市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "世界の ヒューマノイドロボット市場規模は、2025―2037 年間に 37% の CAGR で成長し、2037 年までに1170億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025 年の ヒューマノイドロボット市場規模は緩やかなペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年に、世界の ヒューマノイドロボット市場は30億米ドルの収益を獲得しました",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場規模、主要シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場規模、シェア、トレンド分析レポート：タイプ別（二足歩行ヒューマノイドロボット、車輪型ヒューマノイドロボット、その他）、コンポーネント別（ハードウェア、ソフトウェア）、用途別（教育・研究、ヘルスケア・医療支援、エンターテイメント・ゲーム、パーソナルアシスタンス・コンパニオンシップ、産業・製造、その他（軍事、宇宙））、エンドユーザー別（医療機関、研究機関、製造会社、エンターテイメント企業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場規模は、2025年には47億米ドルと評価され、2026年の60億9000万米ドルから2034年には481億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行型ヒューマノイドロボットは、2025年には世界市場の58.4%を占め、市場規模は17億7000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、2025年には世界のヒューマノイドロボット市場において71.6%のシェアを占め、市場規模は21億7000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究分野は、2025年に世界市場において24.8%のシェアを占め、7億5000万米ドルの市場規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "研究機関は、2025年時点で世界のヒューマノイドロボット市場において25.9%のシェアを占め、市場規模は7億8,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、日本の市場規模は2億3000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2025年に5億2000万米ドル規模となり、選定されたアジア太平洋諸国の中で最大の貢献度を示した",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "業績面でも同年の売上高は392億円で、前年比435％に達するなど急成長しており、26年内の上場も控える",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "キオクシア中間決算「過去最高」連呼 純利益2.2兆円、初の配当実施 AI需要で「成長さらに加速」",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は15億5,000万元（約356億5,000万円、1元＝約23円）に達した",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場調査サイトの中商情報網はこのほど、2025年の市場規模予測を含む多数のロボット産業市場統計を発表しました",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "まずセンサーやAIを搭載していて自律した動作が一定程度可能な自立型ロボットの世界市場規模からみていくと、2025年は前年比25.6%増の3,488億元（約7.7兆円）と見積もられています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて中国国内のロボット市場を見ていくと、2025年における市場規模は産業用ロボット（主に工場などの産業分野で製品の組立や溶接など「自動化・代行」を目的とした、高速・高精度なロボット）が前年比15.5%増の656億元（約1.5兆円）、サービスロボット（人間と同じ空間で清掃、配送などの「支援・業務補助」を行う安全性の高いロボット）が同15.2%増の850億元（約1.9兆円）と予想されています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか特殊目的ロボット（宇宙探査、災害救助、手術、特定の産業作業など、極限環境や限定された高精度なタスクを遂行するために設計・特化したロボット）の2025年における市場規模は、前年比16.8%増の299億元（約6,600億円）と見積もられています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "まず世界市場規模で見ていくと、2025年は前年比147.4%増の63.39億元（約1,400億円）と見込まれています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて中国国内を見ていくと、世界に先駆け人型ロボットの開発生産が進んでいたこともあってか、2025年の市場規模は前年比91.2%増の23.98億元（約530億円）と、成長率は非常に高いものの世界市場に比べ下回っています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的に2030年に市場規模は254.04億元（約5,600億円）になると予想されており、この通りであれば今後5年間で中国の人型ロボット市場は現状から約10倍にまで拡大する見込みとなります",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルヒューマノイドロボット市場は、2025年から2035年にかけてCAGR 83.5％の高成長が見込まれる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界ヒューマノイドロボット市場規模は、メーカー出荷台数ベースで前年比647.9％の16,580台であったものと推計する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は、参入企業が少なく、研究・試験導入が中心であり、84台にとどまる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "​2035年の世界市場規模（メーカー出荷台数ベース）は7,180,000台まで成長を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの市場規模は？2030年・2050年予測と各国の動向 - トレンド＆データ | 未来図（ミライズ）",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボットの市場規模は？2030年・2050年予測と各国の動向",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "MarketsandMarketsの調査によると、世界のヒューマノイドロボット市場規模は、2025年時点で約29.2億ドル（約4,300億円）とされている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は年平均39.2%で成長し、2030年には152.6億ドル（約2兆2,500億円）へ拡大すると予測されている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、McKinsey & Companyが2025年に公表したレポートによると、ヒューマノイドを含む多用途ロボット市場は2030年から本格的に成長し、2040年までには約3,700億ドル規模へ拡大する可能性があると分析されている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年にモルガン・スタンレーが公表した調査では、2050年までにヒューマノイド市場は自動車産業の2倍規模になる可能性があると報告された",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は5兆ドルに達する見込みで、2050年までに10億台以上のヒューマノイドが稼働している可能性があるという",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は、関連企業への民間投資額が20億ドルを超える見通しとなった",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、国家主導で大規模な政策を実施し、ヒューマノイドロボットに約200億ドル以上を割り当てている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000台を作れることと、その1,000台が顧客の生産性を上げることは別の問題だと、市場は判断している",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "同社は香港上場を準備しており、目標評価額はHK$400億から500億、日本円でおよそ8,000億円から1兆円の水準である",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "中国送電最大手の国家電網が、総額68億元、日本円でおよそ1,600億円規模の調達案件を公表している",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、市場の売上高ベースの年平均成長率（CAGR）約37.6%が、あらゆる最終市場への同時進出ではなく、商用化の段階的な進展によって支えられていると推定しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルなヒューマノイドロボット市場は、2023年の14.9億米ドルから2033年には約291.2億米ドルに成長し、2024年から2033年までの年平均成長率（CAGR）は34.62％に達すると予測されています",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場は2033年に291.2億米ドルに成長（CAGR 34.62％）",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場に関する当社の調査レポートによると、市場は予測期間中に約 37% の CAGR で成長し、2037 年までに約 1170億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "世界の ヒューマノイドロボット市場規模は、2025―2037 年間に 37% の CAGR で成長し、2037 年までに1170億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場規模、主要シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場規模は、2025年には47億米ドルと評価され、2026年の60億9000万米ドルから2034年には481億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月、同社は人型ロボットの製造とニューラバースAIエコシステムの拡大のための資金を確保した",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月、同社はアポロ人型ロボットの生産、配備、および訓練インフラの規模拡大のために資金を調達した",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "業績面でも同年の売上高は392億円で、前年比435％に達するなど急成長しており、26年内の上場も控える",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、中国の人型ロボットは前年比94％増産の予測、政策主導で量産・商用化が加速(中国) | ビジネス短信 ―ジェトロの海外ニュース - ジェトロ",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、中国の人型ロボットは前年比94％増産の予測、政策主導で量産・商用化が加速",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査会社トレンドフォース（集邦諮詢）は4月9日、2026年の中国における人型ロボットの生産台数が前年比94％増加するとの予測を発表した",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "まずセンサーやAIを搭載していて自律した動作が一定程度可能な自立型ロボットの世界市場規模からみていくと、2025年は前年比25.6%増の3,488億元（約7.7兆円）と見積もられています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "成長率は2024年の同33%増を下回ったものの、依然として高い成長率をキープしています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて中国国内のロボット市場を見ていくと、2025年における市場規模は産業用ロボット（主に工場などの産業分野で製品の組立や溶接など「自動化・代行」を目的とした、高速・高精度なロボット）が前年比15.5%増の656億元（約1.5兆円）、サービスロボット（人間と同じ空間で清掃、配送などの「支援・業務補助」を行う安全性の高いロボット）が同15.2%増の850億元（約1.9兆円）と予想されています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "成長率は2024年から産業用ロボットが同5ポイント上昇、サービスロボットが同7.8ポイント下落と明暗が分かれたものの、ともに二桁長の成長率を維持しています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年はどちらも成長率がさらに伸びると分析されており、他のメディアの間でもこうした前向きな見方が支配的です",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "このほか特殊目的ロボット（宇宙探査、災害救助、手術、特定の産業作業など、極限環境や限定された高精度なタスクを遂行するために設計・特化したロボット）の2025年における市場規模は、前年比16.8%増の299億元（約6,600億円）と見積もられています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の中国ロボット市場を振り返るとすれば、最も上がってくるテーマとしては人型ロボットの応用拡大に尽きるでしょう",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "まず世界市場規模で見ていくと、2025年は前年比147.4%増の63.39億元（約1,400億円）と見込まれています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "また今後の成長率に関しては、2026年こそ同135.5%増と同水準の成長が期待されてはいるものの、それ以降はやや鈍化していき、2028年以降は同50%前後の成長に落ち着くと予想されています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "続いて中国国内を見ていくと、世界に先駆け人型ロボットの開発生産が進んでいたこともあってか、2025年の市場規模は前年比91.2%増の23.98億元（約530億円）と、成長率は非常に高いものの世界市場に比べ下回っています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "以降の成長率に関しては、2026年は前年比76.2%増にまで鈍化し、それ以降も世界市場と同様に50%前後で推移すると見込まれています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "最終的に2030年に市場規模は254.04億元（約5,600億円）になると予想されており、この通りであれば今後5年間で中国の人型ロボット市場は現状から約10倍にまで拡大する見込みとなります",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の世界ヒューマノイドロボット出荷台数を約718万台に拡大予測～高齢化に伴う労働力不足や作業負担の軽減、効率化といった課題解決に向け、AI・ロボティクス技術の進展を背景に、ヒューマノイドロボットの導入・活用が各分野で加速～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルヒューマノイドロボット市場は、2025年から2035年にかけてCAGR 83.5％の高成長が見込まれる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の世界ヒューマノイドロボット市場規模は、メーカー出荷台数ベースで前年比647.9％の16,580台であったものと推計する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "政府主導の産業育成政策を背景に参入企業は200社以上に達し、大規模プロジェクトの推進が市場拡大をけん引している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "一方、欧州および米州はそれぞれ7.4％、5.9％にとどまるものの、いずれも前年比300％超の伸長を示しており、研究段階から実証・現場適用段階への移行が進展している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "​2026年には、メーカー出荷台数ベースで前年比492.7％の81,690台になるものと見込まれる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla、Figure AI、1X Technologiesなどによる量産開始に加え、中国企業の海外展開や米国家庭用市場の立ち上がり、韓国企業の参入増加が市場拡大に寄与するとみられる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "今後は年平均39.2%で成長し、2030年には152.6億ドル（約2兆2,500億円）へ拡大すると予測されている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、McKinsey & Companyが2025年に公表したレポートによると、ヒューマノイドを含む多用途ロボット市場は2030年から本格的に成長し、2040年までには約3,700億ドル規模へ拡大する可能性があると分析されている",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の売上高は17億800万元で前年比335%増",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "すでに香港に上場している優必選（UBTECH）の直近3年平均が37%程度であることと比べると、差の大きさがわかる",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、同社のフルサイズ人型ロボットの売上は8億2060万元、前年比2,203.7%増となった",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて2030年の出荷を44万6,000台、2025年から2030年の年平均成長率を106%と見ている",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 38.2%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The software segment is expected to register the fastest CAGR of over 45.0% from 2026 to 2033. This growth is attributed to rapid advancements in artificial intelligence,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 38.2% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, volume in thousand units, and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global humanoid robot market is expected to grow at a compound annual growth rate of 38.2% from 2026 to 2033 to reach USD 40.5 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Today, humanoid robots are essentially non-existent across enterprise and consumer spaces. However, adoption is ramping up and ABI Research forecasts the humanoid market to be valued at US$6.5 billion by the end of the decade, growing at a Compound Annual Growth Rate (CAGR) of 138% between 2024 and 2030.",
+    "url": "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "The market will begin to heat up in 2027, when 115,000 humanoid robots are expected to be shipped worldwide. Innovations in bipedal design, such as Tesla's Optimus robot, will drive adoption for this advanced technology. Annual shipments will jump significantly year-over-year throughout the rest of the decade and reach 195,000 units at the end of the forecast window.",
+    "url": "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "and is expected to reach USD 251.40 Billion by 2035 and grow at a CAGR of 48.36% over the forecast period 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Humanoid Robot Market is projected to grow from USD 1.41 billion in 2025 to USD 73.03 billion by 2035, at a CAGR of 50.32%. Growth is driven by rising adoption of AI and robotics, industrial automation, healthcare applications, service robots, research investments, and technological developments in various industries.",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 48.36% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share | CAGR of 34.62%",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, growing at a",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ヒューマノイドロボット市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "UBTech Robotics Corp Ltd.が2025年に14%超の市場シェアを占め、市場をリードした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、訪問者支援、配送、経路案内、定型的なサービス対応などのユースケースに支えられ、サービス・ホスピタリティ分野が市場収益の約17.4%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "関節の性能が移動性、可搬重量、エネルギー消費、安全性に直接影響するため、2025年の部品収益ではアクチュエーターが約57.8%を占める",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "上半身型ヒューマノイドロボットは 2025年の売上高の約29.5%を占め、年平均成長率（CAGR）約31.7%で拡大すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュエーターは、2025年の部品関連売上高の約57.8%を占め、年平均成長率（CAGR）約36.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のヒューマノイドロボット市場の部品別売上高シェア（%）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "センサーは、2025年の部品関連売上高の約42.2%を占め、年平均成長率（CAGR）約39.2%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、ホスピタリティ分野が約17.4%のシェアで用途別売上高をリードし、年平均成長率（CAGR）約37.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍事・防衛分野は、2025年の売上高の約16.7%を占め、年平均成長率（CAGR）約37.7%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野は 2025 年の売上高の約 15.9%を占め、年平均成長率（CAGR）約 37.4%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、アジア太平洋（APAC）地域が市場の54％以上を占め、8億米ドルの収益を上げて市場をリードしています",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にアジア太平洋地域が54％超の市場シェアを保持",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年にアジア太平洋地域は54％以上の市場シェアでヒューマノイドロボット市場をリードしました",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "Before You Buy Amazon Basics: How the Top 5 Best-Selling AA Batteries on Amazon Really Compare",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場規模、シェア、傾向とメーカーレポート洞察と将来予測調査 2037年",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―モーションタイプ別、コンポーネント別、アプリケーション 別、および地域別―世界予測2025―2037 年",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、パーソナルアシスタンスおよび介護のサブセグメントは、最大の市場シェア約 29% を保持すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "これらのうち、車輪駆動セグメントは、それが提供する効率的なモビリティにより、2037 年末までに最大 約67% というより大きな市場シェアを保持するはずです",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は、研究センターとロボット産業の重要な存在などのいくつかの要因の結果、ヒューマノイドロボット市場で最大の市場シェアを約 33% 保持すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "この地域は、地元企業による画期的なロボット開発により、予測期間中に最大 約29% の市場シェアを保持するはずです",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "RFシンセサイザIC市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロコントローラソケット市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― 製品タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年には、北米地域がヒューマノイドロボット市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場規模、主要シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場規模、シェア、トレンド分析レポート：タイプ別（二足歩行ヒューマノイドロボット、車輪型ヒューマノイドロボット、その他）、コンポーネント別（ハードウェア、ソフトウェア）、用途別（教育・研究、ヘルスケア・医療支援、エンターテイメント・ゲーム、パーソナルアシスタンス・コンパニオンシップ、産業・製造、その他（軍事、宇宙））、エンドユーザー別（医療機関、研究機関、製造会社、エンターテイメント企業、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、ヒューマノイドロボット市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行ヒューマノイドロボット分野は、2025年に58.4%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "二足歩行型ヒューマノイドロボットは、2025年には世界市場の58.4%を占め、市場規模は17億7000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は2025年に71.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野は、2025年には世界のヒューマノイドロボット市場において71.6%のシェアを占め、市場規模は21億7000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究分野が2025年に市場シェア24.8%を占め、市場を牽引する見込み",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "教育・研究分野は、2025年に世界市場において24.8%のシェアを占め、7億5000万米ドルの市場規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "研究機関セグメントは2025年に25.9%のシェアを占め、市場を牽引するだろう",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "研究機関は、2025年時点で世界のヒューマノイドロボット市場において25.9%のシェアを占め、市場規模は7億8,000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のヒューマノイドロボット市場は世界市場の22.1%を占め、2025年には6億7000万米ドルに達すると予測されており、予測期間中に46.5%という最も速い年平均成長率（CAGR）を記録すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略” 日本市場をどう開拓？ - ITmedia AI＋",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略” 日本市場をどう開拓？",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "25年時点で、二足歩行できる人型ロボットの世界市場シェア約4割を握り、首位に立つとうたう",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "pass": 3
+   },
+   {
+    "quote": "工業情報化部系業界紙の中国電子報が発表した「2025年人型ロボット市場研究レポート」によると、2025年の中国における人型ロボット年間出荷台数は約1万4,400台に達し、全世界の総出荷量の84.7％を占めた",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業内訳をみると、宇樹科技（ユニツリー・ロボティクス）が年間5,500台超を出荷し、出荷量とシェア（32.4％）で世界トップとなった",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、智元創新（AGIBOT）が4,000台超を出荷し、シェアは23.5％だった",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただ世界市場シェアで言えば中国は37.8%を占める計算ととなり、この分野における超大国であるという事実は揺らぎようがないでしょう",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "以上の原価構成比率について中商情報網は、減速機、サーボシステム、コントローラーの中核部品3種の合計比率が70%超を占めています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、台数ベースで中国が84.8％を占め、市場を主導している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のヒューマノイド出荷は5,500台超で、目論見書には台数シェア32.4%で世界首位と記載されている",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "グループ売上に占める比率は41.1%",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "Unitreeは目論見書で5,500台超・シェア32.4%として世界首位を主張し、Omdiaは5,168台のAgiBotが全競合をリードしたとしている",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "By component: Hardware segment accounted for the largest revenue share of 79.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By motion type: Biped segment dominated the market with a revenue share of 71.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Manufacturing segment led the market with a share of 31.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The North America humanoid robot market dominated with a share of 43.4% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The hardware segment accounted for the largest market share of over 79.4% in 2025, driven by the increasing demand for advanced sensors, actuators, robotic mobility systems, AI processors, and high-performance power management components.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "ヒューマノイドロボット市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場の主要企業には、UBTech Robotics Corp Ltd.、Unitree Robotics、Agility Robotics, Inc.、Fourier Intelligence Co., Ltd.、SoftBank Robotics Group Corp.などが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の分析",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は技術革新に注力し、ロボットの知能、機動性、人間らしい対話能力を強化しています",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヒューマノイドロボット市場の成長に重要な役割を果たす主要な主要企業には、Engineered Arts Limited、 Apptronik, Inc.、Boston Dynamics, Inc.、 Agility Robotics, Inc.、 Macco Tecnología para el ocio, S.L.、などが含まれます",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界のヒューマノイドロボット市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "Engineered Arts Limited、Apptronik, Inc.、 Boston Dynamics, Inc.,、Agility Robotics, Inc.、 Macco Tecnología para el ocio, S.L.、などは、世界の ヒューマノイドロボット市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki Heavy Industries、 Ltd., Kawada Robotics Corporation、R.T. Co., Ltd.、Nihon Binary Co., Ltd.、Seiko Epson Corporation、などは、ヒューマノイドロボット市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "pass": 3
+   },
+   {
+    "quote": "業界の主要企業としては、Agility Robotics、Apptronik、Boston Dynamics、Figure AI、Hanson Robotics、PAL Robotics、Robotis、SoftBank Robotics、Tesla、UBTECH Robotics、Unitree Roboticsなどが挙げられる",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "以上の主要企業に加え、人型ロボットの原価構成比率についてもデータが提供されています",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、ヒューマノイドロボット世界市場を調査し、主要国の関連政策や支援制度、参入企業動向、アプリケーション別市場動向、主要技術トレンド、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "中国を中心とした新規参入企業の増加と、米国企業による商品化・量産化の進展が、成長の主因である",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "政府主導の産業育成政策を背景に参入企業は200社以上に達し、大規模プロジェクトの推進が市場拡大をけん引している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場は、参入企業が少なく、研究・試験導入が中心であり、84台にとどまる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "主要国における政策支援の強化に伴う参入企業や実証導入の増加は、実環境での作業実現性を向上させ、活用用途の拡大を促進する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "米国の主要プレイヤーがモデルをクローズドか部分公開にとどめているのに対し、中国勢はモデルとデータセットを開放している",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "pass": 3
+   },
+   {
+    "quote": "The humanoid robot market is moderately concentrated, with a mix of established robotics companies, diversified technology giants, and emerging startups actively competing for technological leadership and commercialization. The market is characterized by a high degree of innovation, driven by rapid advancements in AI, machine learning,",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the market are SoftBank Robotics and UBTECH Robotics Inc.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "High operational costs can reduce profitability amid increasing competition from emerging robotics startups.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, volume forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzed leading humanoid robot manufacturers, robotics startups, AI technology providers, and system integrators. Assessed product portfolios, performance capabilities, pricing models, deployment strategies, partnership ecosystems, funding activities, and commercialization progress across global markets.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the humanoid robot market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players in the humanoid robot market are Tesla, Inc., Agility Robotics, LLC, Hanson Robotics Limited, Engineered Arts Limited, Honda Motor Co., Ltd., KAWADA Robotics Corporation, SoftBank Robotics Group Corp., UBTECH Robotics Inc., Figure AI, Toshiba Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Humanoid Robot Market?",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Boston Dynamics, Honda Robotics, SoftBank Robotics, UBTECH Robotics, and Agility Robotics, among others.",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other key players",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Softbank Robotics, PAL Robotics, Boston Dynamics, Agility Robotics, UBTECH Robotics, Tesla, HYULIM Robot Co., Ltd., Hanson Robotics Ltd., Engineered Arts Ltd., Honda Motor, KAWADA Robotics Corp., Sanbot Co., ROBOTIS Co. Ltd., Toshiba Corp., Other key players",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the leading players in the Humanoid Robot Market?",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players are as follows:",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in humanoid robot market?",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in humanoid robot market include UBTech Robotics Corp Ltd., Unitree Robotics, Agility Robotics, Inc., Fourier Intelligence Co., Ltd., SoftBank Robotics Group Corp..",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Distribution by Type of Humanoid Robot (Household Humanoid Robots and Industrial Humanoid Robots), Type of Component (Hardware and Software), Type of Hardware (Actuators, Control Systems, Sensors and Other Systems), Type of Motion (Biped and Wheel Driven), End Use Industry, Geographical Regions, and Leading Players – Trends and Forecasts 2026-2040",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of Humanoid Robot Market",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Analysis, Technology Trend, Competitive Landscape and Opportunities 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Competitive Landscape — Who is Winning, Who is at Risk, and Why",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "The humanoid competitive landscape is a three-tier war being fought simultaneously across AI software, precision hardware, and full-system integration. The company that wins all three tiers — or controls the interface between them — captures disproportionate long-term value. As of 2025, no single player has achieved this. Tesla is closest.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Heatmap",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "AI/software layer; capital allocation to startups",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Humanoid Startups: The Unlisted Universe",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Q4. Who are key players in humanoid robot market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the humanoid robot market include Tesla, Boston Dynamics, Figure AI, Agility Robotics, UBTech, Unitree Robotics, NVIDIA, Samsung Electronics, Hyundai, and XPeng.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Humanoid Robot Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "NEURA Robotics は 2026年6月10日、最大14億米ドルのシリーズC資金調達ラウンドを発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月に発表したシリーズCの資金調達は、ハードウェア、ソフトウェア、トレーニングのエコシステム拡大に対する投資家からの大きな支援を示している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月10日：NEURA Robotics は、認知ロボティクスプラットフォームと商用エコシステムの拡大を支援するため、最大 140億米ドルのシリーズC資金調達ラウンドを発表した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年2月、Apptronikはヒューマノイドロボット「Apollo」の開発と展開を加速させるため、シリーズAラウンドで3億5000万米ドルの資金調達を行った",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイドロボット市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月、同社はAIハードウェアおよびロボット技術の発展のために資金調達を行った",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年は、関連企業への民間投資額が20億ドルを超える見通しとなった",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ロボット向け汎用AI基盤モデルを開発する米国のSkild AIは、2026年にNVIDIAやJeff Bezos氏などから約14億ドル（約2,100億円）もの資金調達を実施した",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. Humanoid Robot Market is projected to grow from USD 1.41 billion in 2025 to USD 73.03 billion by 2035, at a CAGR of 50.32%. Growth is driven by rising adoption of AI and robotics, industrial automation, healthcare applications, service robots, research investments, and technological developments in various industries.",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Germany had a 25.0% share of the Europe’s Humanoid Robot Market in 2025 because of the high levels of manufacturing, industrial automation and the automobile sector. Increasing shortage of labor, productivity needs and investments in intelligent robotics have encouraged companies to adopt humanoid robots in their manufacturing processes.",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "June 10, 2026: NEURA Robotics announced a Series C funding round of up to USD 1.4 billion to support expansion of its cognitive-robotics platform and commercial ecosystem.",
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia-Pacific region holds leadership in humanoid robotics by capturing 73.48% share within the current humanoid market. This dominance is linked to heavy investments by robotics giants in Japan, China, and South Korea, combined with government-backed AI initiatives, and rapid technology adoption across service and industrial domains.",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "February 2026: Apptronik secured a USD 520 million Series A extension backed by Google, Mercedes-Benz, B Capital, and Qatar Investment Authority to scale production and commercialization of its Apollo humanoid robot platform for manufacturing and logistics applications.",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Investment Analysis, Technology Trend, Competitive Landscape and Opportunities 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robots are the only scalable interface to a $60 trillion global labor market — because the world was already built for the human form factor. NVIDIA CEO Jensen Huang stated it plainly: \"The easiest robot to adapt into the world is the humanoid robot because we built the world for us.\" That observation is the entire investment thesis.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "EU AI Act; €2B Horizon Europe robotics funding",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "750K+ robots; invested in Agility Robotics (Digit)",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg reported a $600 million funding round at a $5.6 billion valuation in November 2025, led by CapitalG. Later funding trackers report a Series C in 2026.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "Apptronik announced more than $935 million in Series A funding in February 2026, with Google among its investors and Google DeepMind collaborating on robot intelligence.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominates the humanoid robot market with the largest revenue share of 52.7% in 2024, driven by a mature robotics industry, significant R&D investments, and widespread adoption in healthcare and manufacturing",
+    "url": "https://www.databridgemarketresearch.com/reports/global-humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Forecast 2035: Rising Investments Driving Commercial Adoption",
+    "url": "https://www.marketsandmarketsblog.com/us-humanoid-robot-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "pass": 3
+   },
+   {
+    "quote": "The American answer is capital: selected US startups command the largest disclosed private valuations in the sector. Figure reached a $39 billion private valuation on more than $1 billion of new funding in September 2025, Apptronik raised $520 million in February 2026 at a",
+    "url": "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, in February 2025, Apptronik raised USD 350 million in Series A funding to accelerate the development and deployment of its Apollo humanoid robot. The round was led by B Capital and Capital Factory, with participation from Google and other investors.",
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Humanoid Robot Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "In June 2026, the company secured funding to expand humanoid robot manufacturing and the Neuraverse AI ecosystem.",
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, the company raised capital to advance embodied AI hardware and robotics technologies.",
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company raised funding to scale Apollo humanoid robot production, deployments, and training infrastructure.",
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ヒューマノイド ロボット市場 サイズとシェア 2026-2035 — ヒューマノイド ロボット市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > humanoid-robot-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場規模 、シェア、成長レポート[2034年] — 人型ロボット市場規模 、シェア、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット市場 は驚異的な34.62%の成長 — ヒューマノイド ロボット市場 は驚異的な34.62%の成長 Market.us Scoop https://scoop.market.us > ヒューマノイドロボット市場ニュー...",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場規模 、主要シェア、成長率、2034年 — 人型ロボット市場規模 、主要シェア、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場 規模、 シェア 、成長レポート[2034年] — 人型ロボット市場 規模、 シェア 、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場 規模、主要 シェア 、成長率、2034年 — 人型ロボット市場 規模、主要 シェア 、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット メーカー15社 - Metoree — ヒューマノイド ロボット メーカー15社 - Metoree Metoree https://metoree.com > ロボット",
+    "url": "https://metoree.com/categories/9681/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、中国の 人型ロボット は 前年比 94％増産の予測、政策 ... — 2026年、中国の 人型ロボット は 前年比 94％増産の予測、政策 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/04",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット 世界 市場 に関する調査を実施（2026 ... — ヒューマノイド ロボット 世界 市場 に関する調査を実施（2026 ... yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "pass": 3
+   },
+   {
+    "quote": "ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... — ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0068",
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "pass": 3
+   },
+   {
+    "quote": "人型ロボット市場 規模、主要シェア、成長率、2034年 — 人型ロボット市場 規模、主要シェア、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size , Share, & Growth Report [2034] — Humanoid Robot Market Size , Share, & Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size , Share & Growth Report, 2033 — Humanoid Robot Market Size , Share & Growth Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Expected to Reach $5 Trillion by 2050 — Humanoid Robot Market Expected to Reach $5 Trillion by 2050 Morgan Stanley https://www.morganstanley.com > hu...",
+    "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size , 2024 to 2030 - ABI Research — Humanoid Robot Market Size , 2024 to 2030 - ABI Research ABI Research https://www.abiresearch.com > huma...",
+    "url": "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size , Share & Growth, 2026-2035 — Humanoid Robot Market Size , Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Shipments Jump 432%, China Has ... - Forbes — Humanoid Robot Shipments Jump 432%, China Has ... - Forbes Forbes https://www.forbes.com > 2026/09/30",
+    "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/30/humanoid-robot-shipments-jump-432-china-has-95-market-share/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size , Share | CAGR of 34.62% — Humanoid Robot Market Size , Share | CAGR of 34.62% Market.us https://market.us > report > humanoid...",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The $9 trillion opportunity in humanoid robotics | RBCCM — The $9 trillion opportunity in humanoid robotics | RBCCM RBC Capital Markets https://www.rbccm.com > 2026/03 > t...",
+    "url": "https://www.rbccm.com/en/insights/2026/03/the-9-trillion-opportunity-in-humanoid-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share, & Growth Report [2034] — Humanoid Robot Market Size, Share, & Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share & Growth Report, 2033 — Humanoid Robot Market Size, Share & Growth Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share & Trends Report, 2040 — Humanoid Robot Market Size, Share & Trends Report, 2040 Roots Analysis https://www.rootsanalysis.com > hum...",
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share & Growth, 2026-2035 — Humanoid Robot Market Size, Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size, Share , & Growth Report [2034] — Humanoid Robot Market Size, Share , & Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Companies , Size & Trends 2026-2035 — Humanoid Robot Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/humanoid-robot-market",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robot Market Size: $3B Today to $5T by 2050 - Blog — Humanoid Robot Market Size: $3B Today to $5T by 2050 - Blog RoboZaps https://blog.robozaps.com > market-si...",
+    "url": "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+    "pass": 3
+   },
+   {
+    "quote": "Global Humanoid Robots Market Size, Share & Forecast 2026 ... — Global Humanoid Robots Market Size, Share & Forecast 2026 ... Ken Research https://www.kenresearch.com > globa...",
+    "url": "https://www.kenresearch.com/industry-reports/global-humanoid-robots-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "37.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです"
+   },
+   {
+    "value": "43.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります"
+   },
+   {
+    "value": "43.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています"
+   },
+   {
+    "value": "34.62",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "quote": "グローバルなヒューマノイドロボット市場は、2023年の14.9億米ドルから2033年には約291.2億米ドルに成長し、2024年から2033年までの年平均成長率（CAGR）は34.62％に達すると予測されています"
+   },
+   {
+    "value": "29.5",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "世界のヒューマノイドロボット市場規模は、2025年には47億米ドルと評価され、2026年の60億9000万米ドルから2034年には481億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです"
+   },
+   {
+    "value": "44.2",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています"
+   },
+   {
+    "value": "83.5",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "quote": "グローバルヒューマノイドロボット市場は、2025年から2035年にかけてCAGR 83.5％の高成長が見込まれる"
+   },
+   {
+    "value": "106",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "quote": "あわせて2030年の出荷を44万6,000台、2025年から2030年の年平均成長率を106%と見ている"
+   },
+   {
+    "value": "45.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "The software segment is expected to register the fastest CAGR of over 45.0% from 2026 to 2033. This growth is attributed to rapid advancements in artificial intelligence,"
+   },
+   {
+    "value": "38.2",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "CAGR of 38.2% from 2026 to 2033"
+   },
+   {
+    "value": "138",
+    "url": "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "quote": "Today, humanoid robots are essentially non-existent across enterprise and consumer spaces. However, adoption is ramping up and ABI Research forecasts the humanoid market to be valued at US$6.5 billion by the end of the decade, growing at a Compound Annual Growth Rate (CAGR) of 138% between 2024 and "
+   },
+   {
+    "value": "48.36",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "quote": "and is expected to reach USD 251.40 Billion by 2035 and grow at a CAGR of 48.36% over the forecast period 2026-2035."
+   },
+   {
+    "value": "50.32",
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "quote": "The U.S. Humanoid Robot Market is projected to grow from USD 1.41 billion in 2025 to USD 73.03 billion by 2035, at a CAGR of 50.32%. Growth is driven by rising adoption of AI and robotics, industrial automation, healthcare applications, service robots, research investments, and technological develop"
+   },
+   {
+    "value": "34.62",
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "quote": "Humanoid Robot Market Size, Share | CAGR of 34.62%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "14",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "UBTech Robotics Corp Ltd.が2025年に14%超の市場シェアを占め、市場をリードした"
+   },
+   {
+    "value": "17.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "2025年には、訪問者支援、配送、経路案内、定型的なサービス対応などのユースケースに支えられ、サービス・ホスピタリティ分野が市場収益の約17.4%を占めた"
+   },
+   {
+    "value": "57.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "関節の性能が移動性、可搬重量、エネルギー消費、安全性に直接影響するため、2025年の部品収益ではアクチュエーターが約57.8%を占める"
+   },
+   {
+    "value": "30.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています"
+   },
+   {
+    "value": "43.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています"
+   },
+   {
+    "value": "29.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "上半身型ヒューマノイドロボットは 2025年の売上高の約29.5%を占め、年平均成長率（CAGR）約31.7%で拡大すると予想されています"
+   },
+   {
+    "value": "31.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "上半身型ヒューマノイドロボットは 2025年の売上高の約29.5%を占め、年平均成長率（CAGR）約31.7%で拡大すると予想されています"
+   },
+   {
+    "value": "40.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています"
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています"
+   },
+   {
+    "value": "36.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "アクチュエーターは、2025年の部品関連売上高の約57.8%を占め、年平均成長率（CAGR）約36.3%で成長すると予測されています"
+   },
+   {
+    "value": "42.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "センサーは、2025年の部品関連売上高の約42.2%を占め、年平均成長率（CAGR）約39.2%で成長すると予測されています"
+   },
+   {
+    "value": "39.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "センサーは、2025年の部品関連売上高の約42.2%を占め、年平均成長率（CAGR）約39.2%で成長すると予測されています"
+   },
+   {
+    "value": "37.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "2025年には、ホスピタリティ分野が約17.4%のシェアで用途別売上高をリードし、年平均成長率（CAGR）約37.5%で成長すると予測されています"
+   },
+   {
+    "value": "16.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "軍事・防衛分野は、2025年の売上高の約16.7%を占め、年平均成長率（CAGR）約37.7%で成長すると予測されています"
+   },
+   {
+    "value": "37.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "軍事・防衛分野は、2025年の売上高の約16.7%を占め、年平均成長率（CAGR）約37.7%で成長すると予測されています"
+   },
+   {
+    "value": "15.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "医療分野は 2025 年の売上高の約 15.9%を占め、年平均成長率（CAGR）約 37.4%で成長すると予測される"
+   },
+   {
+    "value": "37.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "quote": "医療分野は 2025 年の売上高の約 15.9%を占め、年平均成長率（CAGR）約 37.4%で成長すると予測される"
+   },
+   {
+    "value": "54",
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "quote": "2023年には、アジア太平洋（APAC）地域が市場の54％以上を占め、8億米ドルの収益を上げて市場をリードしています"
+   },
+   {
+    "value": "29",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "quote": "このうち、パーソナルアシスタンスおよび介護のサブセグメントは、最大の市場シェア約 29% を保持すると予想されています"
+   },
+   {
+    "value": "67",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "quote": "これらのうち、車輪駆動セグメントは、それが提供する効率的なモビリティにより、2037 年末までに最大 約67% というより大きな市場シェアを保持するはずです"
+   },
+   {
+    "value": "33",
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "quote": "北米地域は、研究センターとロボット産業の重要な存在などのいくつかの要因の結果、ヒューマノイドロボット市場で最大の市場シェアを約 33% 保持すると予想されています"
+   },
+   {
+    "value": "42.5",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、ヒューマノイドロボット市場を牽引しました"
+   },
+   {
+    "value": "58.4",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "二足歩行ヒューマノイドロボット分野は、2025年に58.4%のシェアを占め、市場を席巻するだろう"
+   },
+   {
+    "value": "71.6",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "ハードウェア分野は2025年に71.6%のシェアを占め、市場を席巻した"
+   },
+   {
+    "value": "24.8",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "教育・研究分野が2025年に市場シェア24.8%を占め、市場を牽引する見込み"
+   },
+   {
+    "value": "25.9",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "研究機関セグメントは2025年に25.9%のシェアを占め、市場を牽引するだろう"
+   },
+   {
+    "value": "38.5",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています"
+   },
+   {
+    "value": "44.2",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "アジア太平洋地域のヒューマノイドロボット市場は、世界市場の38.5%を占め、2025年には11億7,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は44.2%と見込まれています"
+   },
+   {
+    "value": "22.1",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "欧州のヒューマノイドロボット市場は世界市場の22.1%を占め、2025年には6億7000万米ドルに達すると予測されており、予測期間中に46.5%という最も速い年平均成長率（CAGR）を記録すると見込まれています"
+   },
+   {
+    "value": "46.5",
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "quote": "欧州のヒューマノイドロボット市場は世界市場の22.1%を占め、2025年には6億7000万米ドルに達すると予測されており、予測期間中に46.5%という最も速い年平均成長率（CAGR）を記録すると見込まれています"
+   },
+   {
+    "value": "84.7",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "quote": "工業情報化部系業界紙の中国電子報が発表した「2025年人型ロボット市場研究レポート」によると、2025年の中国における人型ロボット年間出荷台数は約1万4,400台に達し、全世界の総出荷量の84.7％を占めた"
+   },
+   {
+    "value": "32.4",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "quote": "企業内訳をみると、宇樹科技（ユニツリー・ロボティクス）が年間5,500台超を出荷し、出荷量とシェア（32.4％）で世界トップとなった"
+   },
+   {
+    "value": "23.5",
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "quote": "また、智元創新（AGIBOT）が4,000台超を出荷し、シェアは23.5％だった"
+   },
+   {
+    "value": "37.8",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "ただ世界市場シェアで言えば中国は37.8%を占める計算ととなり、この分野における超大国であるという事実は揺らぎようがないでしょう"
+   },
+   {
+    "value": "36",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます"
+   },
+   {
+    "value": "24",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます"
+   },
+   {
+    "value": "22",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます"
+   },
+   {
+    "value": "12",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます"
+   },
+   {
+    "value": "6",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "それによると、人型ロボットの原価に占める割合では「減速機」が36%と最も大きく、次いで「サーボシステム」（24%）、「ロボット本体」（22%）、「コントローラー」（12%）、「その他」（6%）という順番で続きます"
+   },
+   {
+    "value": "70",
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "quote": "以上の原価構成比率について中商情報網は、減速機、サーボシステム、コントローラーの中核部品3種の合計比率が70%超を占めています"
+   },
+   {
+    "value": "84.8",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "quote": "地域別では、台数ベースで中国が84.8％を占め、市場を主導している"
+   },
+   {
+    "value": "32.4",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "quote": "2025年のヒューマノイド出荷は5,500台超で、目論見書には台数シェア32.4%で世界首位と記載されている"
+   },
+   {
+    "value": "41.1",
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "quote": "グループ売上に占める比率は41.1%"
+   },
+   {
+    "value": "79.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "By component: Hardware segment accounted for the largest revenue share of 79.4% in 2025."
+   },
+   {
+    "value": "71.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "By motion type: Biped segment dominated the market with a revenue share of 71.6% in 2025."
+   },
+   {
+    "value": "31.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "By application: Manufacturing segment led the market with a share of 31.9% in 2025."
+   },
+   {
+    "value": "43.4",
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "quote": "The North America humanoid robot market dominated with a share of 43.4% in 2025."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4/6234189",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/categories/9681/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slideshare.net/slideshow/21-pdf-0917/286304818",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/all_zero/n/nf802b0141ff6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/johnkoetsier/2026/09/30/humanoid-robot-shipments-jump-432-china-has-95-market-share/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://market.us/report/humanoid-robot-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rbccm.com/en/insights/2026/03/the-9-trillion-opportunity-in-humanoid-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/blog/humanoid-robots-market-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/reports/global-humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarketsblog.com/us-humanoid-robot-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-humanoid-robots-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/humanoid-robot-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://interactanalysis.com/insight/humanoid-robot-production-surges/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "人型ロボット 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market",
+    "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/",
+    "https://www.sdki.jp/reports/global-humanoid-robot-market/58626",
+    "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "https://www.gminsights.com/ja/industry-analysis/robot-market",
+    "https://jp.linkedin.com/pulse/%E9%AB%98%E5%BA%A6%E3%81%AA%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%81%AE%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E8%A6%8F%E6%A8%A1%E3%81%A8%E7%AF%84%E5%9B%B2%E5%88%86%E6%9E%902026-2033%E4%BC%81%E6%A5%AD%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A8%E4%BA%88%E6%B8%ACcagr-108-lorwe",
+    "https://www.researchnester.jp/industry-analysis/humanoid-robot-market/4982",
+    "https://www.mordorintelligence.com/ja/industry-reports/articulated-robot-market",
+    "https://www.fortunebusinessinsights.com/jp/人型ロボット市場-110188"
+   ]
+  },
+  {
+   "query": "人型ロボット 市場 シェア 上位 企業",
+   "results": [
+    "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/",
+    "https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188",
+    "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "https://baike.baidu.com/ja/item/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4/6234189",
+    "https://metoree.com/categories/9681/",
+    "https://www.youtube.com/watch?v=8dX16oW83xM",
+    "https://www.nikken-totalsourcing.jp/business/tsunagu/column/1178/",
+    "https://www.slideshare.net/slideshow/21-pdf-0917/286304818",
+    "https://forbesjapan.com/articles/detail/105959",
+    "https://www.fortunebusinessinsights.com/jp/人型ロボット市場-110188"
+   ]
+  },
+  {
+   "query": "人型ロボット 市場 前年比 2025",
+   "results": [
+    "https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html",
+    "https://robo.japanstep.jp/learn/2026/03/1789/",
+    "https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE",
+    "https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html",
+    "https://straitsresearch.com/jp/report/humanoid-robot-market",
+    "https://note.com/all_zero/n/nf802b0141ff6",
+    "https://www.mri.co.jp/knowledge/column/20260113.html",
+    "https://baike.baidu.com/ja/item/2025%E5%B9%B4%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8/2641188",
+    "https://www.fortunebusinessinsights.com/jp/日本の人型ロボット市場-114994",
+    "https://www.coherentmarketinsights.com/ja/ヒューマノイドロボット市場"
+   ]
+  },
+  {
+   "query": "humanoid robot market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+    "https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook",
+    "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+    "https://www.bccresearch.com/market-research/instrumentation-and-sensors/humanoid-robot-market.html?srsltid=AYCX9vJIUpfIxFe3ERsfdAlhWebI0mMQLl5wg5jje5roou7gEZC2VP1O",
+    "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+    "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "https://dataintelo.com/report/humanoid-robot-market"
+   ]
+  },
+  {
+   "query": "humanoid robot market share top players percent",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "https://www.forbes.com/sites/johnkoetsier/2026/09/30/humanoid-robot-shipments-jump-432-china-has-95-market-share/",
+    "https://market.us/report/humanoid-robot-market/",
+    "https://www.gminsights.com/industry-analysis/humanoid-robot-market",
+    "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+    "https://www.rootsanalysis.com/humanoid-robot-market",
+    "https://axis-intelligence.com/humanoid-robot-statistics/"
+   ]
+  },
+  {
+   "query": "humanoid robot market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.rbccm.com/en/insights/2026/03/the-9-trillion-opportunity-in-humanoid-robotics",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/",
+    "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "https://www.abiresearch.com/blog/humanoid-robots-market-outlook",
+    "https://www.rootsanalysis.com/humanoid-robot-market",
+    "https://www.linkedin.com/pulse/navigating-competitive-landscape-humanoid-robot-joint-motor-vgc3e",
+    "https://www.databridgemarketresearch.com/reports/global-humanoid-robot-market",
+    "https://www.marketsandmarketsblog.com/us-humanoid-robot-market-analysis-technology-advancements-and-competitive-landscape.html",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "humanoid robot market key companies share 2025",
+   "results": [
+    "https://www.snsinsider.com/reports/humanoid-robot-market-1616",
+    "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+    "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+    "https://www.precedenceresearch.com/humanoid-robot-market",
+    "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+    "https://www.kenresearch.com/industry-reports/global-humanoid-robots-market",
+    "https://straitsresearch.com/report/humanoid-robot-market",
+    "https://interactanalysis.com/insight/humanoid-robot-production-surges/",
+    "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+    "https://business20channel.tv/humanoid-robots-market-size-share-forecast-statistics-country-company-2025-2030-8-december-2025"
+   ]
+  }
+ ],
+ "missing": {}
+}

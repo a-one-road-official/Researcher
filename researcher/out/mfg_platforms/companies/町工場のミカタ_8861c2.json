@@ -1,0 +1,225 @@
+{
+ "name": "町工場のミカタ",
+ "aliases": [],
+ "context": "町工場ポータル",
+ "researched_at": "2026-11-02T14:34:42.494957+00:00",
+ "official_url": "https://www.machikoba.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "お金の形": [
+   {
+    "quote": "広告のご案内",
+    "url": "https://machi-mika.com/",
+    "pass": 3
+   },
+   {
+    "quote": "noteプレミアム",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "広告のご案内",
+    "url": "https://machi-mika.com/",
+    "pass": 3
+   },
+   {
+    "quote": "最近ミカタノートという日報〜原価計算ができるシステムのご紹介をはじめました",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   },
+   {
+    "quote": "メディアショップの物流センターの入出庫システム",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   },
+   {
+    "quote": "図面データの登録、画像から類似図面の検索ができる",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   },
+   {
+    "quote": "まだまだお話したいことがたくさんあるのですが、ミカタノートは「こんな感じの人が」「こんな流れで作ってて」「こんな機能があるんだよ」「無料だよ」ってお話したくてこの記事を書きました",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "ここまでの機能は全部無料で、ユーザー数の制限もなく自由に使えるようにするつもりです",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "すいません、最初にちょっと僕のことをお話させてください",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   },
+   {
+    "quote": "僕は最初に就職した会社が板金屋でした！分電盤の箱をつくる会社で、図面を元にCADで展開図書いてCAMのデータをフロッピーディスクで出してタレパンで抜いて、ベンダー（当時はブレーキって呼んでました）で曲げて溶接〜サンダーで削って仕上げて完成！みたいな仕事でした",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   },
+   {
+    "quote": "で、最初ゴリゴリ作るつもりはなかったんです",
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "町工場のミカタ — 町工場のミカタ 町工場のミカタ https://machi-mika.com",
+    "url": "https://machi-mika.com/",
+    "pass": 3
+   },
+   {
+    "quote": "町工場のミカタ — 「町工場のミカタ」は町工場が運営している製造業向けメディアで、日本全国のものづくり企業のご紹介や、製造業向けのお得なお役立ち情報の発信、製造業に特化したイラスト・写真など無料素材を配布しています。",
+    "url": "https://machi-mika.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.machikoba.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://machi-mika.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyazaki.lg.jp/sentangijutsu/shigoto/shokogyo/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp259082/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.yayoi-kk.co.jp/14959/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-cci.or.jp/keiei-mikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sasakicoating.com/2019/02/25/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%9F%BA%E7%9B%A4%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93%E8%80%85%E3%80%82%E9%BB%8E%E6%98%8E%E6%9C%9F%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%82%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.yayoi-kk.co.jp/23709/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4ncJOyxytlM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/ext_images/events/ticad9/pdf/event_stage_guide.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://machi-mika.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takuya3012/n/n63c7b15a7df1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "町工場のミカタ 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://machi-mika.com/",
+    "https://note.com/machi_mika/n/n96747e1ec9aa",
+    "https://www.pref.miyazaki.lg.jp/sentangijutsu/shigoto/shokogyo/index.html",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/PDF/chusho/00Hakusyo_zentai.pdf",
+    "https://j-net21.smrj.go.jp/special/100oku/20250722.html",
+    "https://www.daigasgroup.com/sustainability/topic/",
+    "https://corporate.cb-asahi.co.jp/ir/library/2025-06-23%20%E3%81%82%E3%81%95%E3%81%B2%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882025.pdf",
+    "https://www.soumu.go.jp/main_content/000964461.pdf",
+    "https://machi-mika.com/about/"
+   ]
+  },
+  {
+   "query": "町工場のミカタ 売上 従業員 創業",
+   "results": [
+    "https://job.mynavi.jp/27/pc/search/corp259082/outline.html",
+    "https://media.yayoi-kk.co.jp/14959/",
+    "https://www.tokyo-cci.or.jp/keiei-mikata/",
+    "https://www.tamagoya.co.jp/magazine/15344/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/jireir.pdf",
+    "https://www.orix.co.jp/grp/move_on/entry/2024/12/18/100000",
+    "https://www.chukiken.or.jp/recognition/award_2024/",
+    "https://taikokinzoku.co.jp/recruit/about",
+    "https://x.com/hiro_panketing/status/2076184610703122561",
+    "https://president.jp/articles/-/20449"
+   ]
+  },
+  {
+   "query": "町工場のミカタ 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://sasakicoating.com/2019/02/25/%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%9F%BA%E7%9B%A4%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93%E8%80%85%E3%80%82%E9%BB%8E%E6%98%8E%E6%9C%9F%E3%81%AA%E3%82%89%E3%81%A7%E3%81%AF%E3%81%AE%E3%82%A8/",
+    "https://media.yayoi-kk.co.jp/23709/",
+    "https://www.youtube.com/watch?v=4ncJOyxytlM",
+    "https://prtimes.jp/main/html/rd/p/000000001.000081569.html",
+    "https://www.rt-kamata.com/_files/ugd/7ea357_cdd2b6c17ed846f6826b0ae9e2ef2a6e.pdf?index=true",
+    "https://sold-out.co.jp/magazine/works/20200527",
+    "https://note.com/atotsugi_memo/n/n91917d46d1bc",
+    "https://note.com/mirai_genba715/n/ne5fc0e9137be",
+    "https://shafu-mag.com/posts/tsubaki-60years/",
+    "https://smbiz.asahi.com/article/13356047"
+   ]
+  },
+  {
+   "query": "町工場のミカタ revenue members business model",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/events/ticad9/pdf/event_stage_guide.pdf",
+    "https://machi-mika.com/",
+    "https://note.com/takuya3012/n/n63c7b15a7df1",
+    "https://note.com/chiteki/n/n9151c0a4e8ce",
+    "https://www.future-procurement.com/insight/industry_sme-manufacturing-reality.html",
+    "https://marketingzemi.jp/trend/103/",
+    "https://monozukuri-career.com/column/job-type/gyoshu/machi-kojo/",
+    "https://monoist.itmedia.co.jp/mn/articles/2312/06/news001.html"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "誰から払われるか": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

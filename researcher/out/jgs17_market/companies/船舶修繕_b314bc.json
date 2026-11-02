@@ -1,0 +1,1744 @@
+{
+ "name": "船舶修繕",
+ "en": "ship repair",
+ "aliases": [
+  "船舶修理",
+  "ドック"
+ ],
+ "context": "8 造船 ②船舶修繕",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:52:14.261856+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "船舶修理・メンテナンスサービスの世界市場は2030年までに420億米ドルに達する見込み",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に367億米ドルと推定される船舶修理・メンテナンスサービスの世界市場は、2024年から2030年にかけてCAGR 2.3%で成長し、2030年には420億米ドルに達すると予測されます",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は97億米ドル、中国はCAGR2.1%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "米国の船舶修理・メンテナンスサービス市場は、2024年に97億米ドルと推定されます",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに68億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは2.1%です",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場規模、市場シェア（2034年）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の修理・保守サービス市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.88%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州海軍艦艇・水上戦闘艦艇市場規模予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の海軍艦艇および水上戦闘艦艇市場規模、2034年までの市場シェア",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶修理市場規模・シェア・需要分析2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶修理市場規模、シェア、動向および予測船舶タイプ別、用途別、エンドユーザー別、地域別2026～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の船舶修理市場規模は、2025年に",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "（1）市場規模と成長予測",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "2021～2025年の実績データを基に、2026～2032年までの船舶メンテナンスと修理市場規模推移およびCAGRを提示し、事業拡大や投資判断に必要な定量情報を提供します",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：船舶メンテナンスと修理市場の定義、調査範囲、世界および日本市場規模、売上高、成長機会と課題の整理",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第5章：船舶メンテナンスと修理の製品タイプ別市場規模、CAGR分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：船舶メンテナンスと修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：国別船舶メンテナンスと修理市場規模および成長性の詳細分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "（1）市場規模と成長予測",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "2021～2025年の実績データを基に、2026～2032年までの船舶修理市場規模推移およびCAGRを提示し、事業拡大や投資判断に必要な定量情報を提供します",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：船舶修理市場の定義、調査範囲、世界および日本市場規模、販売量、売上高、平均価格、成長機会と課題の整理",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：船舶修理の製品タイプ別市場規模、販売量、平均価格、CAGR分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：船舶修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別船舶修理市場規模および成長性の詳細分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスの世界市場は、2023年には2億5,420万米ドルと推定され、予測期間2024-2030年のCAGRは7.4%で、2030年には4億2,120万米ドルに再調整されると予測されている",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の修理とメンテナンスサービスの北米市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスのアジア太平洋市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスのヨーロッパ市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスの市場規模、推計、予測は、2023年を基準年として、2019年から2030年までの期間の履歴データと予測データを売上高（百万ドル）で提供します",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：報告書のスコープ、世界の総市場規模を紹介します",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：様々な市場セグメントをタイプ別に分析し、各市場セグメントの市場規模や発展の可能性を網羅し、読者が様々な市場セグメントにおけるブルーオーシャン市場を見つけるのに役立ちます",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：アプリケーション別の様々な市場セグメントの分析を提供し、各市場セグメントの市場規模と発展可能性をカバーし、読者が異なる川下市場のブルーオーシャン市場を見つけるのに役立ちます",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.2 Global Ship Repair and Maintenance Services Market Size Forecast",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.1.4 Hanjin Heavy Industries Ship Repair and Maintenance Services Revenue (US$ Million) & (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.2.4 Hyundai Mipo Dockyard Co. Ship Repair and Maintenance Services Revenue (US$ Million) & (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.3.4 China Shipbuilding Industry Corporation (CSIC) Ship Repair and Maintenance Services Revenue (US$ Million) & (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.4.4 Damen Shipyards Group Ship Repair and Maintenance Services Revenue (US$ Million) & (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "7.5.4 Cochin Shipyard Limited Ship Repair and Maintenance Services Revenue (US$ Million) & (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶修理市場規模2025-2031：競合状況、需要分析、成長予測 - QY Research株式会社",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶修理市場規模2025-2031：競合状況、需要分析、成長予測",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における船舶修理の世界市場規模は、 百万米ドルと予測され、2025年から",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：船舶修理市場の製品概要、市場規模、売上予測を提供し、主要な市場促進要因、機会、課題を分析します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第5章：船舶修理市場の成長動向、地域別の売上を紹介し、市場規模と発展の将来の予測を行います",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "船舶通信および航行機器の世界市場規模：最新トレンド、成長要因、今後動向2025-2031",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用エポキシプライマーの世界市場規模：全体売上と需要分析予測2025～2031",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用慣性航法装置の世界市場規模：全体売上と需要分析予測2025～2031",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフリージングルーム市場規模2025-20…",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "USD3,200 ⇒換算￥502,400",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "USD4,400 ⇒換算￥690,800",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船・修繕市場の市場規模（2024年）",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2024年に367億米ドルと推定される船舶修理・メンテナンスサービスの世界市場は、2024年から2030年にかけてCAGR 2.3%で成長し、2030年には420億米ドルに達すると予測されます",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで分析したセグメントの1つであるコンテナ船の修理・メンテナンスサービスは、CAGR 2.6%を記録し、分析期間終了までに157億米ドルに達すると予想されます",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "旅客船修理・メンテナンスサービス分野の成長率は、分析期間中CAGR 2.0%と推定されます",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は97億米ドル、中国はCAGR2.1%で成長予測",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに68億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは2.1%です",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.2%と1.7%と予測されています",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では、ドイツがCAGR 1.8%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場の規模は、2026年には400億6000万米ドルと評価され、2034年までに586億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%です",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の修理・保守サービス市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.88%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "海難救助サービス市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、2026年から2034年の期間に年平均成長率",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）8.70%で",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率 2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "2021～2025年の実績データを基に、2026～2032年までの船舶メンテナンスと修理市場規模推移およびCAGRを提示し、事業拡大や投資判断に必要な定量情報を提供します",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第5章：船舶メンテナンスと修理の製品タイプ別市場規模、CAGR分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：船舶メンテナンスと修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：地域別船舶メンテナンスと修理市場データ（売上、CAGR）分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "船舶室内装飾用コーティング生地市場環境分析2026：競争状況、需要拡大、供給動向を評価",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "クレーンの修理・メンテナンスサービス市場分析情報2026：1010百万米ドル規模と年平均成長率6.4…",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "2021～2025年の実績データを基に、2026～2032年までの船舶修理市場規模推移およびCAGRを提示し、事業拡大や投資判断に必要な定量情報を提供します",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域別船舶修理の生産量、市場シェア、成長率および将来予測（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：船舶修理の製品タイプ別市場規模、販売量、平均価格、CAGR分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：船舶修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別船舶修理市場データ（販売量、売上、価格、CAGR）分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスの世界市場は、2023年には2億5,420万米ドルと推定され、予測期間2024-2030年のCAGRは7.4%で、2030年には4億2,120万米ドルに再調整されると予測されている",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶の修理とメンテナンスサービスの北米市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスのアジア太平洋市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスのヨーロッパ市場は、2023年に100万ドルと評価され、2024年から2030年の予測期間中に％のCAGRで、2030年までに100万ドルに達するだろう",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global market for Ship Repair and Maintenance Services was estimated to be worth US$ 25420 million in 2023 and is forecast to a readjusted size of US$ 42120 million by 2030 with a CAGR of 7.4% during the forecast period 2024-2030",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "North American market for Ship Repair and Maintenance Services was valued at $ million in 2023 and will reach $ million by 2030, at a CAGR of % during the forecast period of 2024 through 2030.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific market for Ship Repair and Maintenance Services was valued at $ million in 2023 and will reach $ million by 2030, at a CAGR of % during the forecast period of 2024 through 2030.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Europe market for Ship Repair and Maintenance Services was valued at $ million in 2023 and will reach $ million by 2030, at a CAGR of % during the forecast period of 2024 through 2030.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかしながら、業界は2020年から2024年にかけて年平均成長率（CAGR）が-15.49%と大幅に減少し、2023年から2024年にかけては-46.46%と急激な成長率の低下が見込まれています",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2025年の2,970億5,000万米ドルから、2026年には3,143億2,000万米ドルへと、CAGR5.8％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には4,057億8,000万米ドルに達し、CAGRは6.6%となる見込みです",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、スイスに本部を置く国連の常設政府間機関である国連貿易開発会議（UNCTAD）によると、2024年の海上貿易の伸び率は、トンマイルベースで2023年の4.2％から2024年には5.1％へと上昇し、成長率は21.4％上昇しました",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、海上貿易の総量は、2023年の5,047海里から2024年には5,186海里へと拡大し、約2.8％の増加となりました",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年の世界の造船・修繕市場規模は1,678億8,960万米ドルであり、2025年までCAGR7.00％超で成長しました",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2025年3月、ルクセンブルクに拠点を置く欧州連合（EU）の公式統計機関である欧州委員会は、2023年から2024年にかけて、EUの貨物貿易黒字が大幅に増加し、340億ユーロ（400億6,000万米ドル）から1,470億ユーロ（1,732億米ドル）に拡大したと報告しました",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までCAGR7.00％超で成長しています",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Ship Repair and Maintenance Services Market was valued at USD 39.40 Billion in 2025 and is expected to reach USD 66.44 Billion by 2035, growing at a CAGR of 5.36% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "The United States Ship Repair and Maintenance Services Market was valued at USD 9.38 Billion in 2025 and is expected to reach USD 16.02 Billion by 2035, growing at a CAGR of 5.50% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "By Service Type, the Hull Part Repairs segment held the largest share in 2025, while the Dockage segment is the fastest growing, with a CAGR of approximately 7.70%.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.36% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR of the Ship Repair and Maintenance Services Market from 2026 to 2035?",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "The Ship Repair and Maintenance Services Market is expected to grow at a CAGR of 5.36% from 2026 to 2035.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033)",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Market size was valued at $ 32.1 Billion in 2025 & is estimated to reach $ 60.6 Billion by 2033, exhibiting a CAGR of 9.1% from 2026-2033",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Expected to reach $46.70 Bn in 2033 at 4.7% CAGR",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4.7% CAGR",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4.17% CAGR",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Market was valued at USD 39.3 Billion in 2024 and is projected to reach USD 46.7 Billion by 2032, growing at a CAGR of 4.7% during the forecast period 2026 to 2032.",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 17.2% · 2023 → 2027",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market was valued at USD 38.65 billion in the year 2025. The size of this market is expected to increase to USD 58.89 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.2%.",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global ship repair services market size was valued at USD 38.82 billion in 2025 and is projected to grow from USD 40.33 billion in 2026 to USD 58.50 billion by 2034, registering a CAGR of 4.80% during the forecast period (2026–2034). North America dominated the ship repair services market with a market share of 25.50% in 2025.",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The retrofit & conversion services segment is expected to grow at a CAGR of 6.40% during the forecast period, driven by increasing environmental compliance requirements, growing adoption of alternative marine fuels, and rising demand for vessel energy-efficiency upgrades.",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The naval vessels segment is expected to grow at a CAGR of 6.20% during the forecast period, driven by increasing naval fleet modernization, vessel life-extension programs, and rising requirements for fleet readiness. Growing demand for specialized propulsion, electronics, structural, and systems maintenance is supporting repair activity across naval fleets.",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "pass": 3
+   },
+   {
+    "quote": "遠UVCエキシマランプ業界動向分析：成長要因、抑制要因、将来見通し2026-2032",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "In the year 2025, the Middle East and Africa were consistent with their adoption of ship repair and maintenance services due to the expansion of maritime trade facilities and the increase in investments in the offshore energy industry, especially among the Gulf nations. The United Arab Emirates was responsible for 27.90% of revenues earned in this region.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America expanded at a comparable pace, led by Brazil at roughly 37.40% of regional revenue, where growing offshore energy and commercial shipping activity continued to support category growth. Mexico and Argentina followed a similar trajectory as regional maritime infrastructure investment expanded further through the remainder of the forecast period.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "2025: Cochin Shipyard continued strengthening its naval vessel repair capabilities, supported by strategic investment from the Indian Navy aimed at expanding domestic defense shipbuilding and maintenance infrastructure.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Ship Repair Services Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, the Government of India approved an initial corpus for the Maritime Investment Fund to support shipyards, ship repair facilities, and related maritime infrastructure.",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Navy Times: Navy FY2026 budget and ship maintenance funding",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "The US Navy's FY2026 base budget request allocates USD 16.2 billion to ship maintenance, with further modernization money split between the base budget and reconciliation funding. Part of that work is done in public naval shipyards and part is contracted to private yards such as BAE Systems, NASSCO and Huntington Ingalls. Naval ships are the fastest growing vessel type at 6.1% a year.",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "船舶修理・保守サービス市場規模、市場シェア（2034年）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場の規模、シェア、トレンド分析レポート：船舶タイプ別（貨物船、タンカー、コンテナ船、旅客船・フェリー、オフショア船、軍艦、漁船、その他）、サービス提供場所別（陸上、海上）、用途別（一般サービス、ドック、エンジン部品、電気工事、補助サービス、その他）、エンドユーザー別（政府・防衛、商業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に31.2%の市場シェアを占め、船舶修理・保守サービス市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で31.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶市場規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "海難救助サービス市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "海港サービス市場の規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の海軍艦艇および水上戦闘艦艇市場規模、2034年までの市場シェア",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "水路測量機器市場の規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶修理市場規模・シェア・需要分析2034",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶修理市場規模、シェア、動向および予測船舶タイプ別、用途別、エンドユーザー別、地域別2026～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本空気圧道具市場タイプ、用途、エンドユーザー、地域別の規模、シェア、動向および予測2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の油圧・空気圧およびアクチュエータ市場サイズ、シェア、動向、およびタイプ、機能、コンポーネント、エンドユース産業、地域別の予測、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本パイプおよび継手市場サイズ、シェア、動向、およびタイプ、技術、用途、バーティカル、地域別の予測、2026-2034年",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶メンテナンスと修理業界レポート：世界シェア、市場トレンド、会社ランキング2026 - yhresearch’s blog",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "船舶メンテナンスと修理業界レポート：世界シェア、市場トレンド、会社ランキング2026",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月20日、YH Research株式会社（東京都）は、「グローバル船舶メンテナンスと修理のトップ会社の市場シェアおよびランキング 2026」を発行しました",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界船舶メンテナンスと修理市場における主要企業のシェア、売上、ランキング分析（2021～2026年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：船舶メンテナンスと修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理業界の上位メーカーランキング2026：市場シェアと売上推移の分析レポート - yhrnewsの日記",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理業界の上位メーカーランキング2026：市場シェアと売上推移の分析レポート",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月13日、YH Research株式会社（本社：東京都中央区）は、「グローバル船舶修理のトップ会社の市場シェアおよびランキング 2026」を発行しました",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界船舶修理市場における主要企業のシェア、売上、価格、ランキング分析（2021～2026年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域別船舶修理の生産量、市場シェア、成長率および将来予測（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：船舶修理の用途別市場規模、売上、シェア、成長率分析（2021～2032年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶廃熱回収システム業界レポート：世界シェア、市場トレンド、会社ランキング2026",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用空調ソリューション業界の上位メーカーランキング2026：市場シェアと売上推移の分析レポート",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービス - 世界市場シェアとランキング、全体売上高と需要予測 2024-2030/QYResearch/調査レポート|市場調査レポートの依頼・購入",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービス - 世界市場シェアとランキング、全体売上高と需要予測 2024-2030",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services - Global Market Share and Ranking, Overall Sales and Demand Forecast 2024-2030",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には、世界の大手5社が売上高で約 %のシェアを占めている",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：船舶修理・メンテナンスサービスメーカーの競争環境、収益市場シェア、最新の開発計画、合併・買収情報などを詳細に分析します",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.6.1 Ship Repair and Maintenance Services Market Concentration Rate (2019-2024)",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 2: Detailed analysis of Ship Repair and Maintenance Services manufacturers competitive landscape, revenue market share, latest development plan, merger, and acquisition information, etc.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "EMSおよびODM - 世界の市場シェアとランキング、2026-2032年の総売上高および需要予測",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "）は、「船舶修理―グローバル市場シェアとランキング、全体の売上と需要予測、2025～2031」の調査資料を発行しました",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：船舶修理の主要企業（トップ5社、トップ10社）の競合状況を分析し、売上、製造拠点、製品、市場シェアを包括的に解析します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：製品別の市場動向を分析し、船舶修理市場の売上、市場シェアを提示します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：用途別に船舶修理市場の売上、市場シェアなどを分析します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用冷凍倉庫システム市場調査2025-2031：シェア、産業分析、最新動向、成長機会",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船・修繕市場：国別輸入出荷量（上位5カ国）および競合状況（HHI）2024年時点で、日本の造船・修繕セクターは輸入が集中しているものの、パナマ、中国、英国、シンガポール、ケイマン諸島といった主要輸出国は引き続き重要な役割を果たしています",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "3.5 日本の造船・修繕市場 収益と数量シェア、タイプ別、2021年および2031年（予測）",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "3.6 日本の造船・修繕市場 収益と数量シェア、船種別、2019年および2026年（予測）",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "3.7 日本の造船・修繕市場 収益と数量シェア、タイプ別アプリケーション、2019年および2026年（予測）",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "10.1 日本造船・修繕市場収益シェア（企業別、2024年）",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "船舶建造および修理市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶建造および修理市場：競合情勢と市場シェア、2024年",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船と修理市場 | 市場規模 業界シェア 市場分析 成長性 2035年",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年時点で、市場の上位10社の競合企業が市場全体の22.09%を占めています",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Building And Repairing Market Competitive Landscape And & Market Share 2024",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Container Ships segment was the most dominant one in terms of the market share of vessel type, accounting for about 40.00% in 2025. The significance of these vessels in the logistics industry and the size of the fleet compared to other vessel types made container ships occupy the leading position in the vessel type segmentation during the entire forecast period.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "North America held a substantial share of the global Ship Repair and Maintenance Services Market in 2025, driven by the presence of major shipyards and expanding regional maritime trade across the region. Naval modernization programs and regulatory compliance requirements continued reinforcing sustained demand for both commercial and defense vessel repair services throughout the year.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Germany accounted for roughly 27.30% of regional revenue, supported by its concentration of shipyard operators and advanced maritime engineering capability. Norway, the Netherlands, and Italy contributed significant additional regional demand through their own established",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Which region held the largest share of the Ship Repair and Maintenance Services Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific held the largest share of the Ship Repair and Maintenance Services Market in 2025, while Europe was the fastest-growing region.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "*This data will be provided for Top 3 market players*",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads with ~41% market share driven by dense shipyard capacity and heavy route traffic",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, implying steady demand that is distributed across multiple service pathways rather than concentrated in one dominant transaction model. Segmentation provides the structural lens to interpret how value is created, where spending concentrates during maintenance cycles, and how competitive positioning differs by vessel category and service scope.",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "コチン造船所やヒンドゥスタン造船所といった主要企業は、船体修理、エンジンオーバーホール、軍艦保守などの能力を強化している",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、すべての主要企業の詳細なプロフィールが提供されています",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーのポジショニングや市場集中度を明確化するとともに、コスト構造、地域別の需給動向を網羅しています",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "世界船舶メンテナンスと修理市場における主要企業の売上高、市場シェア、ランキングを比較分析し、各社の競争優位性と戦略方向を明確化します",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界船舶メンテナンスと修理市場における主要企業のシェア、売上、ランキング分析（2021～2026年）",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：主要企業プロフィール、製品ポートフォリオ、財務指標、成長戦略分析",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用エンジンオイル業界の主要企業調査2026：競合分析、事業戦略、競争優位性",
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーのポジショニングや市場集中度を明確化するとともに、生産体制、コスト構造、地域別の需給動向を網羅しています",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "世界船舶修理市場における主要企業の売上高、平均価格、市場シェア、ランキングを比較分析し、各社の競争優位性と戦略方向を明確化します",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界船舶修理市場における主要企業のシェア、売上、価格、ランキング分析（2021～2026年）",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：主要企業プロフィール、製品ポートフォリオ、財務指標、成長戦略分析",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・メンテナンスサービスの世界の主要企業には、韓進重工業、現代美浦造船所、中国造船工業集団公司（CSIC）、Damen Shipyards Group、Cochin Shipyard Limited、Swissco Holdings Limited、Egyptian Ship Repair & Building Company、Desan Shipyard、Sembcorp Marine Ltdなどが含まれる",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートは、船舶修理・メンテナンスサービスの世界市場を包括的に紹介することを目的としており、地域別・国別、タイプ別、用途別の船舶修理・メンテナンスサービスの分析とともに、総売上高、主要企業の市場シェア、ランキングに焦点を当てています",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：主要企業のプロファイルを提供し、製品収益、売上総利益率、製品紹介、最近の開発など、市場の主要企業の基本的な状況を詳細に紹介します",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.3 Key Companies Ship Repair and Maintenance Services Manufacturing Base Distribution and Headquarters",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.4 Key Companies Ship Repair and Maintenance Services Product Offered",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.5 Key Companies Time to Begin Mass Production of Ship Repair and Maintenance Services",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "This report aims to provide a comprehensive presentation of the global market for Ship Repair and Maintenance Services, focusing on the total sales revenue, key companies market share and ranking, together with an analysis of Ship Repair and Maintenance Services by region & country, by Type, and by Application.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 2: Detailed analysis of Ship Repair and Maintenance Services manufacturers competitive landscape, revenue market share, latest development plan, merger, and acquisition information, etc.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 7: Provides profiles of key players, introducing the basic situation of the main companies in the market in detail, including product revenue, gross margin, product introduction, recent development, etc.",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "pass": 3
+   },
+   {
+    "quote": "本報告書では、船舶修理市場に関する包括的な情報を提供し、市場シェアや主要企業のランキングを中心に、売上、収益などの詳細なデータを分析しています",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理市場の主要企業には、上記で挙げた企業が含まれ、それぞれのの戦略、競争力、及び市場でのポジションについて詳しく分析しています",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：船舶修理の主要企業（トップ5社、トップ10社）の競合状況を分析し、売上、製造拠点、製品、市場シェアを包括的に解析します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：船舶修理市場の主要企業の売上、粗利益率、製品説明、最近の開発情報を含めた事業内容を詳述します",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "セリウム・銅のスパッタリングターゲット世界市場レポート：主要企業、ランキング、成長予測2026-2032",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルアルミニウム・マンガン・スパッタリング・ターゲット市場情報レポート：主要企業、シェア、業界トレンドを掲載",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ship Building and Repairing Market 2025-2031 : By Type (Ship Building, Ship Repairing ), By Vessel Types (Oil And Chemical Tankers, Container Ships, Gas Carriers, Offshore Vessels, Passenger Ships And Ferries), By Applications (General Services, Dockage, Hull Part, Engine Parts, Electric Works, Auxiliary Services) And Competitive Landscape",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "日本造船・修繕主要企業の市場シェア",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "10 Japan Ship Building and Repairing Market - Competitive Landscape",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "船舶・ボートの建造・修理市場で事業を展開する主要企業は、海事分野における自給自足の強化といった先進的な取り組みを重視しています",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "船舶・ボートの建造・修理市場で事業を展開する主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船・修繕市場の主要企業は、業務効率、生産精度、およびライフサイクルコストの最適化を図るため、インダストリー4.0とインテリジェント・マニュファクチャリングをますます重視しています",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "造船・修繕市場における主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Building And Repairing Market Competitive Landscape And & Market Share 2024",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market Key Players",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The most notable trend to watch is the rise of regional repair hubs in Southeast Asia, driven by increasing vessel traffic, lower costs, and strategic investments in port infrastructure. Over the next three years, these hubs are poised to challenge traditional centers, offering a compelling combination of cost efficiency and technological capability, reshaping regional competitive landscapes.",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Market Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key players in the Ship Repair and Maintenance Market?",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage spans 4 types, 3 applications, 5 regions, and key players across 240+ pages",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair And Maintenance Market Competitive Landscape",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Heavy Industries’ role in the competitive landscape of the",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the top players operating in the Ship Repair and Maintenance Market?",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Major Players in the Ship Repair and Maintenance Market are Damen Shipyards Group, Hyundai Heavy Industries Co. Ltd., China Shipbuilding Industry Corporation (CSIC), Sembcorp Marine Ltd., Keppel Offshore & Marine Ltd., Singapore Technologies Engineering Ltd (ST Engineering), Dubai Drydocks World, Tsuneishi Shipbuilding Co. Ltd., BAE Systems plc, and Fincantieri S.p.A.",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape & market mapping",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market dominated by 1 - 5 major players",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair And Maintenance Services Market Competitive Landscape Analysis",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "to strengthen their positions. Leading players pursue",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in Ship Repair and Maintenance Services Market include:",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "船舶 修理・保守サービス 市場規模 、シェア、2034年 — 船舶 修理・保守サービス 市場規模 、シェア、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > 船舶修理・保...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理・保守サービス 市場規模 、市場シェア（2034年） — 船舶 修理・保守サービス 市場規模 、市場シェア（2034年） Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports — 船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports WiseGuy Reports https://www.wiseguyreports.com > reports > ship-repairin...",
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本 船舶 修理 市場規模 ・シェア・需要分析2034 - IMARC Group — 日本 船舶 修理 市場規模 ・シェア・需要分析2034 - IMARC Group IMARC Group https://www.imarcgroup.com > japan-ship-repairing-market",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理業界の上位メーカーランキング2026：市場シェアと売上推移の... — Mar 13, 2026 · 本レポートは、船舶修理市場の全体像を体系的に整理し、製品特性、用途構造、競争環境を多面的に分析したものです。 主要プレイヤーのポジショニングや市場集中度を明確化するとともに、生産体制、コスト構造、地域別の需給動向を網羅しています。",
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場規模、シェア、2034年 — Oct 5, 2026 · 船舶の修理およびメンテナンス サービスには、予定されたメンテナンスと予定外のメンテナンスが含まれます。 これらは船舶運航の不可欠な部分を構成し、エンジン、電気システム、推進などの重要な船舶要素に重点を置いています。",
+    "url": "https://www.fortunebusinessinsights.com/jp/船舶修理・保守サービス市場-105801",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理・保守サービス市場規模、市場シェア（2034年） — Aug 24, 2026 · 世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです。",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶修理およびメンテナンスサービス市場規模、シェアおよび傾向分析... — Sep 24, 2026 · 海洋活動と世界貿易の両方が継続的に拡大しているため、信頼できる船舶メンテナンスサービスに対する需要が高まっています。 定期的な乾ドックサービスと緊急修理の両方が市場をサポートするために運営されています。",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/ship-repair-and-maintenance-services-market-122711",
+    "pass": 3
+   },
+   {
+    "quote": "世界の船舶修理市場規模2025-2031：競合状況、需要分析、成長予測 - Q... — Sep 18, 2025 · 本報告書では、船舶修理市場に関する包括的な情報を提供し、市場シェアや主要企業のランキングを中心に、売上、収益などの詳細なデータを分析しています。 2020年から2031年までの船舶修理の市場規模は、売上に基づいて推定および予測されています。",
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "pass": 3
+   },
+   {
+    "quote": "日本の造船・船舶修理市場2025年-2031年：タイプ別（造船、船舶修理）... — 2021年から2031年までの日本造船・修繕市場における収益と数量の推移と予測（付帯サービス別） 日本造船・修繕輸出入貿易統計 タイプ別市場機会評価 船舶種別市場機会評価 用途別市場機会評価 日本造船・修繕主要企業の市場シェア",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "pass": 3
+   },
+   {
+    "quote": "日本船舶修理市場規模・シェア・需要分析2034 — Oct 19, 2026 · 日本の船舶修理市場規模は2025年に25億3,780万米ドルと評価され、2026年から2034年の間に8.70%のCAGRで成長し、53億7,770万米ドルに達すると予想されています。",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market Size Report, 2035 — Jul 23, 2026 · The Ship Repair and Maintenance Services Market was valued at USD 39.40 Billion in 2025 and is expected to reach USD 66.44 Billion by 2035, at a CAGR of 5.36%.",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair And Maintenance Market Size, Share & Forecast — Apr 23, 2026 · Ship Repair and Maintenance Market size was valued at $ 32.1 Billion in 2025 & is estimated to reach $ 60.6 Billion by 2033, exhibiting a CAGR of 9.1% from 2026-2033",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Market Report: Size, Growth ... — In 2025, the Ship Repair And Maintenance Market is valued at $39.30 Bn, with a forecast to reach $46.70 Bn by 2033. Across the forecast horizon, the market’s projected 4.7% CAGR signals steady expansion rather than a sharp inflection.",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair And Maintenance Services Market Size & Share ... — Ship Repair and Maintenance Services Market was valued at USD 38.65 billion in the year 2025. The size of this market is expected to increase to USD 58.89 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.2%.",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair Services Market Size, Share, 2034 — Sep 4, 2026 · The global ship repair services market size was valued at USD 38.82 billion in 2025 and is projected to grow from USD 40.33 billion in 2026 to USD 58.50 billion by 2034, registering a CAGR of 4.80% during the forecast period (2026–2034).",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market Size, Share ... — Feb 19, 2021 · The global ship repair and maintenance services market was worth $41.0 billion in 2025 and reaches $64.7 billion by 2034, growing at a CAGR of 5.2%. The value covers contracted dry docking, overhaul, routine maintenance and emergency repair of ocean-going commercial and naval vessels.",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Service Market Size, Share, 2034 — 6 days ago · North America dominated the ship repair and maintenance service market with a market share of 31.2% in 2025. A major driver of the global market is the aging global fleet, with many vessels over 15–20 years old requiring frequent repairs to maintain operational efficiency and safety.",
+    "url": "https://straitsresearch.com/report/ship-repair-and-maintenance-service-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Services Market Size, Share ...Ship Repairing Market Outlook 2025-2034: Market Share, and ...Ship Repair and Maintenance Market Size, Share & Forecast ...Global Ship Repairing Market 2024–2034 | Size, Share, Trends ...Ship Repair And Maintenance Market Size, Share & ForecastShip Repair Services Market Size, Share, 2034 — Feb 19, 2021 · The ship repair and maintenance se",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repairing Market Outlook 2025-2034: Market Share, and ...Ship Repair and Maintenance Market Size, Share & Forecast ...Global Ship Repairing Market 2024–2034 | Size, Share, Trends ...Ship Repair And Maintenance Market Size, Share & ForecastShip Repair Services Market Size, Share, 2034 — By 2025 and beyond, the ship repairing market is expected to grow steadily, driven by decarbonization mandat",
+    "url": "https://www.researchandmarkets.com/reports/6093079/ship-repairing-market-outlook-market-share",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair and Maintenance Market Size, Share & Forecast ... — The Asia Pacific region dominates the global ship repair and maintenance market with $75.6 billion in market value during 2025, representing 42.1% of worldwide revenue share and growing at approximately 5.1% CAGR through 2034.",
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Ship Repairing Market 2024–2034 | Size, Share, Trends ... — As shipping companies increasingly focus on cost control, uptime, and regulatory readiness, the ship repairing market is set for sustained long-term growth with expanding value-added services and integration of digital technologies.",
+    "url": "https://oganalysis.com/industry-reports/ship-repairing-market",
+    "pass": 3
+   },
+   {
+    "quote": "Ship Repair And Maintenance Market Size, Share & Forecast — Apr 23, 2026 · The Ship Repair and Maintenance Market encompasses the comprehensive services dedicated to the upkeep, repair, and modernization of maritime vessels across commercial, military, and leisure sectors.",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "2.3",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "2024年に367億米ドルと推定される船舶修理・メンテナンスサービスの世界市場は、2024年から2030年にかけてCAGR 2.3%で成長し、2030年には420億米ドルに達すると予測されます"
+   },
+   {
+    "value": "2.6",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "本レポートで分析したセグメントの1つであるコンテナ船の修理・メンテナンスサービスは、CAGR 2.6%を記録し、分析期間終了までに157億米ドルに達すると予想されます"
+   },
+   {
+    "value": "2.0",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "旅客船修理・メンテナンスサービス分野の成長率は、分析期間中CAGR 2.0%と推定されます"
+   },
+   {
+    "value": "2.1",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "米国市場は97億米ドル、中国はCAGR2.1%で成長予測"
+   },
+   {
+    "value": "2.2",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.2%と1.7%と予測されています"
+   },
+   {
+    "value": "1.8",
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "quote": "欧州では、ドイツがCAGR 1.8%で成長すると予測されています"
+   },
+   {
+    "value": "4.88",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "quote": "世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです"
+   },
+   {
+    "value": "8.70",
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "quote": "（CAGR）8.70%で"
+   },
+   {
+    "value": "7.4",
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "quote": "船舶修理・メンテナンスサービスの世界市場は、2023年には2億5,420万米ドルと推定され、予測期間2024-2030年のCAGRは7.4%で、2030年には4億2,120万米ドルに再調整されると予測されている"
+   },
+   {
+    "value": "15.49",
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "quote": "しかしながら、業界は2020年から2024年にかけて年平均成長率（CAGR）が-15.49%と大幅に減少し、2023年から2024年にかけては-46.46%と急激な成長率の低下が見込まれています"
+   },
+   {
+    "value": "5.8",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "quote": "同市場は、2025年の2,970億5,000万米ドルから、2026年には3,143億2,000万米ドルへと、CAGR5.8％で成長すると見込まれています"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "quote": "2030年には4,057億8,000万米ドルに達し、CAGRは6.6%となる見込みです"
+   },
+   {
+    "value": "7.00",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "quote": "2020年の世界の造船・修繕市場規模は1,678億8,960万米ドルであり、2025年までCAGR7.00％超で成長しました"
+   },
+   {
+    "value": "5.36",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "quote": "The Ship Repair and Maintenance Services Market was valued at USD 39.40 Billion in 2025 and is expected to reach USD 66.44 Billion by 2035, growing at a CAGR of 5.36% from 2026 to 2035."
+   },
+   {
+    "value": "5.50",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "quote": "The United States Ship Repair and Maintenance Services Market was valued at USD 9.38 Billion in 2025 and is expected to reach USD 16.02 Billion by 2035, growing at a CAGR of 5.50% from 2026 to 2035."
+   },
+   {
+    "value": "7.70",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "quote": "By Service Type, the Hull Part Repairs segment held the largest share in 2025, while the Dockage segment is the fastest growing, with a CAGR of approximately 7.70%."
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "quote": "Ship Repair and Maintenance Market size was valued at $ 32.1 Billion in 2025 & is estimated to reach $ 60.6 Billion by 2033, exhibiting a CAGR of 9.1% from 2026-2033"
+   },
+   {
+    "value": "4.7",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "quote": "Ship Repair and Maintenance Market was valued at USD 39.3 Billion in 2024 and is projected to reach USD 46.7 Billion by 2032, growing at a CAGR of 4.7% during the forecast period 2026 to 2032."
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "quote": "CAGR 17.2% · 2023 → 2027"
+   },
+   {
+    "value": "6.2",
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "quote": "Ship Repair and Maintenance Services Market was valued at USD 38.65 billion in the year 2025. The size of this market is expected to increase to USD 58.89 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.2%."
+   },
+   {
+    "value": "4.80",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "quote": "The global ship repair services market size was valued at USD 38.82 billion in 2025 and is projected to grow from USD 40.33 billion in 2026 to USD 58.50 billion by 2034, registering a CAGR of 4.80% during the forecast period (2026–2034). North America dominated the ship repair services market with a"
+   },
+   {
+    "value": "6.40",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "quote": "The retrofit & conversion services segment is expected to grow at a CAGR of 6.40% during the forecast period, driven by increasing environmental compliance requirements, growing adoption of alternative marine fuels, and rising demand for vessel energy-efficiency upgrades."
+   },
+   {
+    "value": "6.20",
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "quote": "The naval vessels segment is expected to grow at a CAGR of 6.20% during the forecast period, driven by increasing naval fleet modernization, vessel life-extension programs, and rising requirements for fleet readiness. Growing demand for specialized propulsion, electronics, structural, and systems ma"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "31.2",
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "quote": "北米は、2025年に31.2%の市場シェアを占め、船舶修理・保守サービス市場を牽引しました"
+   },
+   {
+    "value": "22.09",
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "quote": "2024年時点で、市場の上位10社の競合企業が市場全体の22.09%を占めています"
+   },
+   {
+    "value": "40.00",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "quote": "The Container Ships segment was the most dominant one in terms of the market share of vessel type, accounting for about 40.00% in 2025. The significance of these vessels in the logistics industry and the size of the fleet compared to other vessel types made container ships occupy the leading positio"
+   },
+   {
+    "value": "27.30",
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "quote": "Germany accounted for roughly 27.30% of regional revenue, supported by its concentration of shipyard operators and advanced maritime engineering capability. Norway, the Netherlands, and Italy contributed significant additional regional demand through their own established"
+   },
+   {
+    "value": "41",
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "quote": "Asia Pacific leads with ~41% market share driven by dense shipyard capacity and heavy route traffic"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.atpress.ne.jp/news/1231164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/ship-repair-and-maintenance-services-market-122711",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalresearch.jp/jp/jpw25g11004",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yhresearch.co.jp/reports/1154361/ship-repair-and-maintenance-services",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/ship-repair-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/ship-repair-and-maintenance-service-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6093079/ship-repairing-market-outlook-market-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/global-ship-repair-and-maintenance-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oganalysis.com/industry-reports/ship-repairing-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "船舶修繕 市場規模 CAGR",
+   "results": [
+    "https://www.atpress.ne.jp/news/1231164",
+    "https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801",
+    "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market",
+    "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "https://jp.linkedin.com/pulse/2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%9C%9F%E9%96%93%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6149%E3%81%AEcagr%E3%81%8C%E4%BA%88%E6%B8%AC%E3%81%95%E3%82%8C%E3%82%8B%E8%88%B9%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E4%BF%AE%E7%90%86%E6%94%B9%E9%80%A0%E5%B8%82%E5%A0%B4-7496159571850362882-fmkne",
+    "https://www.marketreportsworld.com/jp/market-reports/ship-repair-and-maintenance-market-14719279",
+    "https://digital-supporter.net/mirai-ai/17invest/senpaku-shuuzen.html",
+    "https://washcloth568.inkrich.com/posts/boat-and-ship-mro-654592-mvxjjh2f",
+    "https://www.fortunebusinessinsights.com/jp/船舶修理・保守サービス市場-105801"
+   ]
+  },
+  {
+   "query": "船舶修繕 市場 シェア 上位 企業",
+   "results": [
+    "https://yhresearch.hateblo.jp/entry/2026/09/20/124910",
+    "https://yhrnews.hateblo.jp/entry/2026/03/13/172751",
+    "https://www.fortunebusinessinsights.com/jp/船舶修理・保守サービス市場-105801",
+    "https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html",
+    "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/ship-repair-and-maintenance-services-market-122711",
+    "https://straitsresearch.com/jp/report/ship-repair-services-market"
+   ]
+  },
+  {
+   "query": "船舶修繕 市場 前年比 2025",
+   "results": [
+    "https://qyresearch.hateblo.jp/entry/2025/09/18/151018",
+    "https://www.globalresearch.jp/jp/jpw25g11004",
+    "https://www.imarcgroup.com/report/ja/japan-ship-repairing-market",
+    "https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market",
+    "https://www.gii.co.jp/report/tbrc2000135-ship-boat-building-repairing-global-market-report.html",
+    "https://www.yhresearch.co.jp/reports/1154361/ship-repair-and-maintenance-services",
+    "https://www.gii.co.jp/report/tbrc2057506-ship-building-repairing-global-market.html"
+   ]
+  },
+  {
+   "query": "ship repair market size CAGR 2025",
+   "results": [
+    "https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679",
+    "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/",
+    "https://www.reanin.com/reports/ship-repair-and-maintenance-services-market",
+    "https://straitsresearch.com/report/ship-repair-services-market",
+    "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "https://dataintelo.com/report/global-ship-repairing-market"
+   ]
+  },
+  {
+   "query": "ship repair market share top players percent",
+   "results": []
+  },
+  {
+   "query": "ship repair market competitive landscape fragmented OR consolidated",
+   "results": []
+  },
+  {
+   "query": "ship repair market key companies share 2025",
+   "results": [
+    "https://straitsresearch.com/report/ship-repair-and-maintenance-service-market",
+    "https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market",
+    "https://www.researchandmarkets.com/reports/6093079/ship-repairing-market-outlook-market-share",
+    "https://dataintelo.com/report/global-ship-repair-and-maintenance-market",
+    "https://oganalysis.com/industry-reports/ship-repairing-market",
+    "https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/",
+    "https://straitsresearch.com/report/ship-repair-services-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

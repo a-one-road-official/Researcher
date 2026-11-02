@@ -1,0 +1,1583 @@
+{
+ "name": "衛星直接通信",
+ "en": "direct to device satellite",
+ "aliases": [
+  "D2D",
+  "衛星ダイレクト通信",
+  "NTN"
+ ],
+ "context": "3 情報通信 ③次世代ワイヤレス",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:45:20.098780+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は2025年15億米ドルから2035年244億米ドルへ、通信インフラ再編を映す高成長市場に",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は、2025年の15億米ドルから2035年には244億米ドルに達すると予測されており、2026年から2035年の予測期間に年平均成長率（CAGR）37.4％で成長する見通しです",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模だけで見れば10年間で約16倍へ拡大する計算となり、従来の専用衛星端末を中心とした限定的な衛星通信市場から、一般スマートフォン、IoT機器、企業ネットワーク、災害対応システムまでを含む新たな通信インフラ市場へと変化していることが最大の特徴です",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は、2025年に15億米ドルの規模となり、2035年までに244億米ドルに達すると予測されています",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "周波数・標準化・通信品質が成長速度を左右、D2D市場は技術競争から制度と運用品質の競争へ",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は2026年、楽天グループがAST SpaceMobileと進める衛星通信ネットワーク構想に最大1,480億円規模の支援を行う方針と報じられており、海外衛星コンステレーションへの依存を抑えながら国内の衛星通信能力を強化する動きが具体化しています",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "Direct to Satellite 市場規模、シェア、予測、2025 ～ 2032 年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "世界のダイレクト衛星市場規模と予測 – 2025 年から 2032 年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "世界の衛星直通市場は、2025 年に",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "非Tモバイル加入者の場合:USD 20 /月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "50 GBの計画:USD 374/month",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "1TBプラン:USD 1,486/月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "5TBプラン:USD 7,433/ヶ月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "超過費用: 計画上の移動式優先度データのためのUSD 3.19/GB",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "50 GB:USD 250 /月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "500 GB:USD 650 /月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "1TB:USD 1,150/月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2TB:USD 2,150/月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "5TB:USD 5,150 /月",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の国内衛星通信サービス市場規模は634億9,000万円の見込み",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の国内衛星通信サービス市場規模は576億7,000万円であった",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の国内衛星通信サービス市場規模は634億9,000万円を見込む",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "今後、国内において低軌道コンステレーション（LEO）による衛星通信サービスが計画されていることから、市場は拡大基調で推移し、2030年の国内衛星通信サービス市場規模は1,333億3,000万円を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Satellite-To-Phone Cellular Market, By Service, By Standards, By Satellite Network Architecture, By Orbit, By Use Case, By Country, and By Region -Global Industry Analysis, Market Size, Market Share & Forecast from 2026-2033",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,250 換算",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,560 換算",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,650 換算",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "90度アングルクランプの市場規模、シェア、および成長分析：クランプタイプ別、材料別、用途別、エンドユーザー別、ョー最大幅別、地域別 - 2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線周波数部品市場規模、シェア、および成長分析：製品別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device Satellite Connectivity Market Size, Forecast 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Satellite Connectivity Market Size & Share 2026-2035",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Satellite Connectivity Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global direct-to-device satellite connectivity market was valued at USD 637.1 million in 2025. The market is expected to grow from USD 965 million in 2026 to USD 4.3 billion in 2031 & USD 15.5 billion in 2035, at a CAGR of 36.1% during the forecast period according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 637.1 Million",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 965 Million",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Forecast Market Size",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "$ 15.5 Billion",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Direct-to-Device (D2D) Satellite Connectivity Market Size, By Service Type, 2022– 2035 (USD Million)",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government and defense generated USD 190.63 million in 2025, accounting for 29.9% of the market, and are projected to reach USD 2.01 billion by 2035 at a CAGR of 24.87%. The comparatively lower growth rate reflects the existing use of satellite communications in public-sector and defense operations, as well as the longer procurement, security, and qualification cycles associated with these buyers.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Authority for testing with AT&T and Verizon.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Direct-to-Device (D2D) Satellite Connectivity Market Size, 2022 – 2035, (USD Million)",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The direct-to-device (d2d) satellite connectivity market size was estimated at USD 637.1 million in 2025 and is expected to reach USD 965 million in 2026.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4.28 Bn",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 15.09 Bn",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America direct-to-satellite market size is estimated at USD 1.75 billion in 2026 and is projected to reach approximately USD 6.26 billion by 2035, with a 15.13% CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. direct-to-satellite market size is calculated at USD 1.35 billion in 2026 and is expected to reach nearly USD 4.85 billion in 2035, accelerating at a strong CAGR of 15.28% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The direct-to-satellite market size is expected to increase from USD 4.28 billion in 2026 to USD 15.09 billion by 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,400",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,800",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,200",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,700",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,200",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 2,400",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,500",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合 | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "直接衛星通信市場は、2025年の15億米ドルから2035年には244億米ドルに達すると予測されており、2026年から2035年の予測期間に年平均成長率（CAGR）37.4％で成長する見通しです",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模だけで見れば10年間で約16倍へ拡大する計算となり、従来の専用衛星端末を中心とした限定的な衛星通信市場から、一般スマートフォン、IoT機器、企業ネットワーク、災害対応システムまでを含む新たな通信インフラ市場へと変化していることが最大の特徴です",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "これは、衛星を利用したセルラー通信の商用化や低軌道（LEO）衛星コンステレーションの拡大を背景に、2026年から2035年までの予測期間において、年平均成長率（CAGR）37.4％という堅調な伸びを示すと見込まれています",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "• 【2026年】市場の焦点はサービス地域と用途の拡大へ移行しています",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "年間平均成長率（CAGR）は 14.5%",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "Starlinkは、LTEペイロード(2024–2025)で特殊な衛星を起動することにより、ダイレクト・ツー・セル機能を拡大するためにR&D支出を増加させました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "T-MobileとSpaceX(Starlink)のパートナーシップ(2022〜2025)は、T-MobileのPCSスペクトラムを使用して、Starlinkのダイレクトツーセルサービスを定期的にKで有効化し、音声とデータサービスに対するメッセージングと拡大のためのライブベータになりました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "彼は、Fortune 500 企業や新興企業にサービスを提供し、幅広い事業拡大や市場参入戦略でクライアントを支援してきました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "衛星市場へのグローバル直接のCAGRは、2025年から2032年にかけて14.5%になるように計画されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "今後、国内において低軌道コンステレーション（LEO）による衛星通信サービスが計画されていることから、市場は拡大基調で推移し、2030年の国内衛星通信サービス市場規模は1,333億3,000万円を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "2024年版 NTN・衛星通信市場総覧 ～宇宙・成層圏通信網で拡大・発展する5G通信～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "pass": 3
+   },
+   {
+    "quote": "衛星から携帯電話への直接通信（Direct Satellite-To-Phone Cellular）市場の規模は、2025年に29億8,070万米ドルと評価され、2026年から2033年にかけてCAGR27.4％で拡大すると見込まれています",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "アクティブ導波管式周波数倍増器市場：世界市場予測、2026年～2032年",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "The global direct-to-device satellite connectivity market was valued at USD 637.1 million in 2025. The market is expected to grow from USD 965 million in 2026 to USD 4.3 billion in 2031 & USD 15.5 billion in 2035, at a CAGR of 36.1% during the forecast period according to the latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026–2035)",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government and defense generated USD 190.63 million in 2025, accounting for 29.9% of the market, and are projected to reach USD 2.01 billion by 2035 at a CAGR of 24.87%. The comparatively lower growth rate reflects the existing use of satellite communications in public-sector and defense operations, as well as the longer procurement, security, and qualification cycles associated with these buyers.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Authority for testing with AT&T and Verizon.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to reach USD 15.5 billion by 2035, growing at a CAGR of 36.1% from 2026 to 2035.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is projected to grow at the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, the direct broadband/internet access segment is projected to grow at the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type of satellite, the low earth orbit segment is projected to grow at the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component, the network management systems segment is projected to grow at the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end user industry, the telecommunications segment is projected to grow at the fastest CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America direct-to-satellite market size is estimated at USD 1.75 billion in 2026 and is projected to reach approximately USD 6.26 billion by 2035, with a 15.13% CAGR from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. direct-to-satellite market size is calculated at USD 1.35 billion in 2026 and is expected to reach nearly USD 4.85 billion in 2035, accelerating at a strong CAGR of 15.28% between 2026 and 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The direct-to-satellite market is expected to grow at a compound annual growth rate (CAGR) of around 15.03% from 2026 to 2035.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026 – 2033",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2033, exhibiting a compound annual growth rate",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2033 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CAGR of the global direct to satellite market is projected to be 14.7% from 2026 to 2033.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 22.80%",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 22.80% from 2026 to 2033",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is the CAGR in this Direct-to-Device (D2D) Market?",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "The CAGR of the Direct-to-Device (D2D) Market is 22.80%.",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.2.1. North America Direct-to-Device (D2D) Market, By Service Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.3.1. North America Direct-to-Device (D2D) Market, By Customer Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.4.1. North America Direct-to-Device (D2D) Market, By Frequency Band, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5.1. North America Direct-to-Device (D2D) Market, By Orbit Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.8.1. Europe Direct-to-Device (D2D) Market, By Service Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.9.1. North America Direct-to-Device (D2D) Market, By Customer Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.10.1. Europe Direct-to-Device (D2D) Market, By Frequency Band, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.11.1. Europe Direct-to-Device (D2D) Market, By Orbit Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.14.1. Asia Pacific Direct-to-Device (D2D) Market, By Service Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.15.1. Asia Pacific Direct-to-Device (D2D) Market, By Customer Type, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.16.1. Asia Pacific Direct-to-Device (D2D) Market, By Frequency Band, Revenue (USD Billion), (2021 -2033), CAGR (%) (2026-2033)",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Cell Market Size, Share | CAGR of 52.3%",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024, growing at a CAGR of",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2025-2034)",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "report predicted that the space industry is currently growing at 9% per year",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "billion in 2023 and is projected to grow at a compound annual rate of 12.8% from 2024",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Direct to Satellite Market Size, Share | CAGR of 14.5%..",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at CAGR of",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, growing at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2034.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2034, outpacing consumer market growth of",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "北アメリカは、2025年に世界の市場で最大のシェアを占めました",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "低軌道（LEO）セグメントは、2025年に市場を独占しました",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "Direct to Satellite 市場規模、シェア、予測、2025 ～ 2032 年",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "サテライトマーケットへのダイレクト 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "ダイレクト・ツー・デバイス・セグメントは、2025年に最大36.2%のシェアを保有する予定です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に26.5%の予想されるシェアを保持し、衛星市場への直接的な成長を示しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの面で, 直接ツーデバイスは、市場での収益シェアを支配する推定されます 2025.",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct Satellite-To-Phone Cellular Market, By Service, By Standards, By Satellite Network Architecture, By Orbit, By Use Case, By Country, and By Region -Global Industry Analysis, Market Size, Market Share & Forecast from 2026-2033",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "衛星から携帯電話への直接通信市場シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "RFコンポーネント：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "90度アングルクランプの市場規模、シェア、および成長分析：クランプタイプ別、材料別、用途別、エンドユーザー別、ョー最大幅別、地域別 - 2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "無線周波数部品市場規模、シェア、および成長分析：製品別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 players in this market include",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Authority for testing with AT&T and Verizon.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Satellite Connectivity Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominates the direct-to-device (d2d) satellite connectivity market?",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific currently holds the largest share of the direct-to-device (d2d) satellite connectivity market in 2025.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounted for the largest market share of 41% in 2026.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By service type, the direct-to-home broadcasting segment held the largest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type of satellite, the geostationary earth orbit segment held the largest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component, the satellite transponders segment held the largest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end user industry, the media & entertainment segment held the largest market share in 2026.",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": ", a leading space technology solution company, SES, and Abra Group collaboratively launched fast and reliable multi-orbit inflight connectivity services on its 100 aircraft, aiming to strengthen the position of SES as a leader in satellite-powered broadband inflight service provider in the Americas.(Source:",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2026, and projected to dominate the market.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The direct-to-device segment is projected to hold the largest share of 37.2% in 2026, because of rising demand for seamless, ubiquitous connectivity, especially in remote and underserved locations. By allowing satellites to connect directly with smartphones,",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of service, the direct-to-device is estimated to dominate the market revenue share in 2026.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "12.2. Company Market Share Analysis",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue but a loss per share of ($0.18). The company continues building the first and only space-based cellular broadband network accessible directly by standard smartphones. Market confidence is challenged by recent stock downgrades and insider sales.",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Insight 1: The market is becoming more fragmented",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "1. The market is becoming more fragmented",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Market share of top 7 SNOs expected to drop in the coming years.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": ", with the share of the top 7 expected to fall through the rest of the decade. At the same time, dozens of smaller companies are entering the market, including US-based",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Share of satellites launched by orbit between 2011 and 2022.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "), to reassess their connectivity strategies to meet new demands, generate new revenue streams, and maintain their market leadership. In response, 2 strategies have emerged: multi-orbit and hybrid.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "The collective revenue of those who have adopted or are planning to adopt multi-orbit strategies comprised 50% share of the satellite IoT connectivity market in 2024.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "D2D will scale faster where obligations are consistent across borders. Regulators and industry would benefit from more harmonised approaches that preserve legitimate law enforcement needs while avoiding fragmented requirements that raise costs and slow rollouts.",
+    "url": "https://iicintermedia.org/vol-54-issue-1/d2d-building-the-future-of-connectivity-one-device-at-a-time/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 3: Global Satellite Internet Market Share, by Frequency Band Type, 2023 ...........5",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2030. According to Fortune Business Insights, satellites in the C-band account for the largest",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "share of market revenue (Figure 3).",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Figure 3: Global Satellite Internet Market Share, by Frequency Band Type, 2023",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Smartphones dominate with 45.7% due to mass consumer device base and operator integration.",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device dominates with 49.9% due to smartphone integration driving operator commercial launches.",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "North America Dominates the Direct to Satellite Market with a Market Share of 38.90%, Valued at USD 1.2 Billion",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "market share by 2034 as software platform value expands relative to device-level hardware.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share through 2034, representing",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share by 2034, representing the largest and fastest-growing device category.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "Smartphones dominate direct-to-device satellite communications due to their ubiquity, consumer familiarity, and the massive installed base enabling rapid feature adoption. In 2025, smartphones represented",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "market share by 2034 as absolute revenue expands but growth moderates relative to other application categories.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "そのため市場参入企業に求められるのは衛星技術だけではなく、通信キャリアとの提携、端末互換性、周波数利用権、サービス設計を一体化するエコシステム戦略です",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Satellite Connectivity Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in direct-to-device (d2d) satellite connectivity market?",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in direct-to-device (d2d) satellite connectivity market include Globalstar, Iridium Communications, Skylo Technologies, SpaceX, AST SpaceMobile.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Major Players in the Global Direct-to-Satellite Market?",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players in the direct-to-satellite market include SpaceX, AST SpaceMobile, Lynk Global, Globstar, Iridium Communications, Skylo Technologies, ASTROCAST, Sateliot, Omnispace, Viasat, Fleet Space Technologies, HEAD Aerospace Group, Ligado Networks, Lacuna Space, Telesat, and Amazon (Project Kuiper).",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Insights",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Which are the major players operating in the global direct to satellite market?",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus Defence & Space, Amazon, AST SpaceMobile, Viasat, Boeing, Eutelsat OneWeb, EchoStar, Intelsat, Lockheed Martin Space, Lynk Global, Maxar Technologies, Northrop Grumman, SES, SpaceX, and Thales Alenia Space are the major players.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Direct-to-Device (D2D) Market?",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "12. Direct-to-Device (D2D) Market: Competitive Landscape",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "Industry. My work focuses on analyzing emerging market trends, technological advancements, competitive landscapes, and industry developments to deliver accurate, data-driven insights. I am passionate about transforming complex market information into clear, actionable content that helps businesses, professionals, and decision-makers stay informed and make confident strategic decisions.",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on Market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite IoT competitive landscape: 5 notable insights",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite IoT Competitive Landscape: Market numbers and market shares",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape: SNO market shares by revenue",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape: SNO market shares by connection",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape: Satellite IoT module market shares",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "by making satellite launches and services more affordable and opening the door for new satellite network operators (SNOs) to compete with long-established providers, shaking up the satellite IoT competitive landscape.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Along with market numbers, trends, and in-depth analyses of use cases and case studies, the report dedicates significant attention to the satellite IoT competitive landscape, providing an analysis of SNOs by market share, technology, orbit types, and more.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "A 235-page report detailing the satellite IoT market, including market sizing with breakdowns & forecast, competitive landscape, key use cases, case studies, vendor profiles, trends, and more.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Here are 5 notable insights about the current satellite IoT competitive landscape.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "in launch services and operations. Major players in launch services include",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include SpaceX (Starlink), AST SpaceMobile, Iridium Communications, Globalstar, Inmarsat, OneWeb, Thales Group, and Qualcomm, all investing in innovation, partnerships, and integrated solutions.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "SESは、Lynk GlobalのD2DコンステレーションでシリーズBの資金調達を行い、Lynk Globalの機能を強化する統合サービスのスイートを提供します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国航空宇宙学会（AIAA）によると、2026年には、世界中の宇宙事業への総投資額が470億米ドルを超えました",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "pass": 3
+   },
+   {
+    "quote": "GSMA, GSMA Foundry and ESA Announce Access to New Funding for AI, NTN, D2D and 6G. gsma.com",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "SES and Lynk strategic partnership, March 2025: SES announced an investment and partnership with Lynk to pursue D2D services within a broader multi-orbit connectivity strategy.",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "and Lynk Global announced a strategic partnership to address the high-growth direct-to-device (D2D) segment. As part of the agreement, SES will provide Series B funding for Lynk Global’s D2D constellation and provide a suite of integrated services that will enhance Lynk Global’s capabilities.",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "pass": 3
+   },
+   {
+    "quote": "D2D needs a sustainable business model. In most cases, mobile operators are not building satellite networks themselves; they are partnering with satellite providers that can supply the infrastructure, spectrum, or both. The harder commercial question is how to package, price, and monetize D2D in a way that encourages adoption while supporting the investment required to expand service.",
+    "url": "https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "for instance, In August 2025, Apple Inc. announced a US investment commitment of",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Standards like 3GPP NTN, along with governments promoting satellite connectivity with policy updates and investment, are lowering market-entry barriers for new satellite IoT operators and giving legacy operators new market opportunities. Both should look at the current landscape and trends, assess their current offerings and strategies, and adjust accordingly to remain competitive.",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Picture this: your smartphone connecting directly to satellite networks in low Earth orbit. Commercial investment in Direct-to-Device (D2D) satellite communications has burgeoned over the past year, with a range of business mergers, new investments and partnerships pursuing innovative business models for D2D services.",
+    "url": "https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/",
+    "pass": 3
+   },
+   {
+    "quote": "number of space objects has also raised broader concerns about space sustainability (Insight 3)",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "returns on investment in agriculture may prove relatively lower. Image 7 illustrates how the",
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile operators recognize this shift and are accelerating commercial commitments. In February 2024, Skylo Technologies raised",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in an oversubscribed funding round to scale its direct-to-device satellite service worldwide — an early signal that investor confidence in commercial D2S viability was outpacing earlier skepticism about unit economics.",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "LEO constellation investment removes the technical barriers that previously confined satellite connectivity to specialized hardware. Operators can now launch D2S services on standard consumer smartphones, dramatically expanding the addressable subscriber base. In December",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in total venture capital and strategic equity investments since 2020, signaling sustained industry confidence and resource commitment through the forecast period.",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Direct-to-Device (D2D) Market Report 2025 -2030 [237 Pages ... — Direct-to-Device (D2D) Market Report 2025 -2030 [237 Pages ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Satellite Connectivity Market Size — Direct-to-Device (D2D) Satellite Connectivity Market Size Global Market Insights Inc. https://www.gminsights.com > direct-t...",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Companies List of Direct-to-Device (D2D) Industry — Top Companies List of Direct-to-Device (D2D) Industry MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/satellite-direct-to-device-d2d-companies.asp",
+    "pass": 3
+   },
+   {
+    "quote": "Direct To Device Satellite Connectivity Market Size, Share [2034] — Direct To Device Satellite Connectivity Market Size, Share [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device (D2D) Market Size, Share & Trends - 2033 — Direct-to-Device (D2D) Market Size, Share & Trends - 2033 Transpire Insight https://www.transpireinsight.com > di...",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "pass": 3
+   },
+   {
+    "quote": "Direct-to-Device Satellite : How D2D Is Reshaping Mobile ... — Direct-to-Device Satellite : How D2D Is Reshaping Mobile ... ookla.com https://www.ookla.com > articles",
+    "url": "https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity",
+    "pass": 3
+   },
+   {
+    "quote": "Heating Up Competition for D2D Satellite to Smartphone ... — Heating Up Competition for D2D Satellite to Smartphone ... Lexington Institute https://lexingtoninstitute.org > heating...",
+    "url": "https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "37.4",
+    "url": "https://newscast.jp/smart/news/4123946",
+    "quote": "直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合 | NEWSCAST"
+   },
+   {
+    "value": "14.5",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "quote": "年間平均成長率（CAGR）は 14.5%"
+   },
+   {
+    "value": "27.4",
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "quote": "衛星から携帯電話への直接通信（Direct Satellite-To-Phone Cellular）市場の規模は、2025年に29億8,070万米ドルと評価され、2026年から2033年にかけてCAGR27.4％で拡大すると見込まれています"
+   },
+   {
+    "value": "36.1",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "quote": "The global direct-to-device satellite connectivity market was valued at USD 637.1 million in 2025. The market is expected to grow from USD 965 million in 2026 to USD 4.3 billion in 2031 & USD 15.5 billion in 2035, at a CAGR of 36.1% during the forecast period according to the latest report published"
+   },
+   {
+    "value": "24.87",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "quote": "Government and defense generated USD 190.63 million in 2025, accounting for 29.9% of the market, and are projected to reach USD 2.01 billion by 2035 at a CAGR of 24.87%. The comparatively lower growth rate reflects the existing use of satellite communications in public-sector and defense operations,"
+   },
+   {
+    "value": "33.19",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Au"
+   },
+   {
+    "value": "15.28",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "quote": "The U.S. direct-to-satellite market size is calculated at USD 1.35 billion in 2026 and is expected to reach nearly USD 4.85 billion in 2035, accelerating at a strong CAGR of 15.28% between 2026 and 2035."
+   },
+   {
+    "value": "15.03",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "quote": "The direct-to-satellite market is expected to grow at a compound annual growth rate (CAGR) of around 15.03% from 2026 to 2035."
+   },
+   {
+    "value": "22.80",
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "quote": "CAGR of 22.80% from 2026 to 2033"
+   },
+   {
+    "value": "52.3",
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "quote": "Direct-to-Cell Market Size, Share | CAGR of 52.3%"
+   },
+   {
+    "value": "14.5",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "quote": "Direct to Satellite Market Size, Share | CAGR of 14.5%.."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.2",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "quote": "ダイレクト・ツー・デバイス・セグメントは、2025年に最大36.2%のシェアを保有する予定です"
+   },
+   {
+    "value": "26.5",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "quote": "アジア太平洋地域は、2025年に26.5%の予想されるシェアを保持し、衛星市場への直接的な成長を示しています"
+   },
+   {
+    "value": "83.9",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Au"
+   },
+   {
+    "value": "33.19",
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "quote": "The U.S. market accounted for USD 202.65 million in 2025, or 83.9% of North American revenue, and is projected to reach USD 3.97 billion by 2035 at a CAGR of 33.19%. T-Mobile and SpaceX have commercialized carrier-linked direct-to-cell service, while AST SpaceMobile received FCC Special Temporary Au"
+   },
+   {
+    "value": "41",
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "quote": "North America accounted for the largest market share of 41% in 2026."
+   },
+   {
+    "value": "37.2",
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "quote": "The direct-to-device segment is projected to hold the largest share of 37.2% in 2026, because of rising demand for seamless, ubiquitous connectivity, especially in remote and underserved locations. By allowing satellites to connect directly with smartphones,"
+   },
+   {
+    "value": "50",
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "quote": "The collective revenue of those who have adopted or are planning to adopt multi-orbit strategies comprised 50% share of the satellite IoT connectivity market in 2024."
+   },
+   {
+    "value": "45.7",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "quote": "Smartphones dominate with 45.7% due to mass consumer device base and operator integration."
+   },
+   {
+    "value": "49.9",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "quote": "Direct-to-Device dominates with 49.9% due to smartphone integration driving operator commercial launches."
+   },
+   {
+    "value": "38.90",
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "quote": "North America Dominates the Direct to Satellite Market with a Market Share of 38.90%, Valued at USD 1.2 Billion"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/satellite-communication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/satellite-communication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/4123946",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E9%80%9A%E4%BF%A1%EF%BC%88satcom%EF%BC%89%E5%B8%82%E5%A0%B4-102679",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/satellite-operator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-communication-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/news/6142071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/satcom-market/114806",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/4373298",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%81%8B%E3%82%89%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%B8%82%E5%A0%B4%E3%81%B8%E3%81%AE%E7%9B%B4%E6%8E%A5%E6%8E%A5%E7%B6%9A-115878",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://go.orixrentec.jp/rentecinsight/it/article-767",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/pdf/n2120000.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/direct-to-device-satellite-connectivity-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/ResearchInsight/satellite-direct-to-device-d2d-companies.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/direct-to-cell-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iicintermedia.org/vol-54-issue-1/d2d-building-the-future-of-connectivity-one-device-at-a-time/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/direct-satellite-to-phone-cellular-market-115878",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/satellite-communication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/direct-to-satellite-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/direct-to-device-satellite-communications-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "衛星直接通信 市場規模 CAGR",
+   "results": [
+    "https://www.gminsights.com/ja/industry-analysis/satellite-communication-market",
+    "https://straitsresearch.com/jp/report/satellite-communication-market",
+    "https://newscast.jp/smart/news/4123946",
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E9%80%9A%E4%BF%A1%EF%BC%88satcom%EF%BC%89%E5%B8%82%E5%A0%B4-102679",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "https://www.sphericalinsights.com/jp/reports/japan-satellite-communication-market",
+    "https://jp.linkedin.com/pulse/%E8%A1%9B%E6%98%9F%E9%80%9A%E4%BF%A1-market-analysis-share-size-value-growing-83-cagr-2026-cqm8e",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-communication-market",
+    "https://www.gminsights.com/ja/industry-analysis/satellite-ground-station-sgs-market",
+    "https://www.reportocean.co.jp/industry-reports/direct-to-cell-satellite-market"
+   ]
+  },
+  {
+   "query": "衛星直接通信 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/satellite-operator/",
+    "https://www.gminsights.com/ja/industry-analysis/satellite-communication-market",
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E9%80%9A%E4%BF%A1%EF%BC%88satcom%EF%BC%89%E5%B8%82%E5%A0%B4-102679",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-communication-market",
+    "https://newscast.jp/news/6142071",
+    "https://www.sdki.jp/reports/satcom-market/114806",
+    "https://www.atpress.ne.jp/news/4373298",
+    "https://pando.life/article/4759288",
+    "https://sumahoband.com/entry/satellite-mobile-market/",
+    "https://www.deallab.info/satellite-operator/"
+   ]
+  },
+  {
+   "query": "衛星直接通信 市場 前年比 2025",
+   "results": [
+    "https://newscast.jp/smart/news/4123946",
+    "https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1",
+    "https://straitsresearch.com/jp/report/satellite-communication-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/global-satellite-communication-market",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88",
+    "https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%81%8B%E3%82%89%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%B8%82%E5%A0%B4%E3%81%B8%E3%81%AE%E7%9B%B4%E6%8E%A5%E6%8E%A5%E7%B6%9A-115878",
+    "https://go.orixrentec.jp/rentecinsight/it/article-767",
+    "https://deallab.info/satellite-operator/",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/pdf/n2120000.pdf",
+    "https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html"
+   ]
+  },
+  {
+   "query": "direct to device satellite market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html",
+    "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "https://www.mordorintelligence.com/industry-reports/direct-to-device-satellite-connectivity-market",
+    "https://www.precedenceresearch.com/direct-to-satellite-market",
+    "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-communication-market",
+    "https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206",
+    "https://www.openpr.com/news/4672531/direct-to-device-satellite-market-to-reach-usd-25-97-billion",
+    "https://www.linkedin.com/posts/trendxinsights_satellited2d-directtodevice-nonterrestrialnetworks-activity-7422635926637654016-a5f-"
+   ]
+  },
+  {
+   "query": "direct to device satellite market share top players percent",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/direct-to-device-satellite-connectivity-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/satellite-direct-to-device-d2d-companies.asp",
+    "https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206",
+    "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity",
+    "https://market.us/report/direct-to-cell-market/",
+    "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "https://teal.io/blog/the-rise-of-satellite-direct-to-cellular-d2c-and-direct-to-device-d2d-connectivity",
+    "https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html"
+   ]
+  },
+  {
+   "query": "direct to device satellite market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/direct-to-device-satellite-connectivity-market",
+    "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "https://iot-analytics.com/satellite-iot-competitive-landscape/",
+    "https://dataintelo.com/report/direct-to-device-satellite-market",
+    "https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206",
+    "https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/",
+    "https://market.us/report/direct-to-cell-market/",
+    "https://iicintermedia.org/vol-54-issue-1/d2d-building-the-future-of-connectivity-one-device-at-a-time/",
+    "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "https://www.consolidated.com/support/billing-support"
+   ]
+  },
+  {
+   "query": "direct to device satellite market key companies share 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html",
+    "https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market",
+    "https://www.mordorintelligence.com/industry-reports/direct-to-device-satellite-connectivity-market",
+    "https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market",
+    "https://www.fortunebusinessinsights.com/direct-satellite-to-phone-cellular-market-115878",
+    "https://www.transpireinsight.com/report/direct-to-device-d2d-market",
+    "https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf",
+    "https://www.linkedin.com/posts/trendxinsights_satellited2d-directtodevice-nonterrestrialnetworks-activity-7422635926637654016-a5f-",
+    "https://www.grandviewresearch.com/industry-analysis/satellite-communication-market",
+    "https://www.marketsandmarkets.com/ResearchInsight/satellite-direct-to-device-d2d-companies.asp"
+   ]
+  }
+ ],
+ "missing": {}
+}

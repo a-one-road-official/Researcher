@@ -1,0 +1,609 @@
+{
+ "name": "Craftcloud",
+ "aliases": [
+  "All3DP"
+ ],
+ "context": "3Dプリント比較・メディア（独）",
+ "researched_at": "2026-11-02T14:30:55.924192+00:00",
+ "official_url": "https://craftcloud3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Craftcloud connects you to top-tier manufacturers around the world, offering a",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Craftcloud connects customers to a global network of over 150 professional manufacturing partners, ensuring a seamless transition from digital design to physical part. Every partner undergoes a rigorous vetting process to verify their industrial capabilities, equipment standards, and technical expertise.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting Manufacturers and Customers – Locally and Globally",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With partners on every inhabitable continent, we’ve built our manufacturing network to cater to customers from all over the world.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What Our Customers Say",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our mission for Craftcloud is to bring best value for money to our customers, paired with highest ease of use.”",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting printing partners and customers locally and globally",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our global growth is driven by international talent and satisfied customers",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are committed to providing best-in-class customer support from the moment you upload a design to the moment it’s placed on your doorstep. We’ve made successful deliveries to over 68 countries with satisfied customers everywhere from the United States to New Zealand.",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "We often identify not only with a company, a brand, or a product itself but also with the people behind it. And that’s a good thing, after all, it’s the people behind it who determine whether a company is successful or not, whether a brand gains recognition, and whether a product offers its customers added value or turns out to be a load of hot air.",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud Tops 3D Printing Market with an “Excellent” Trustpilot Rating from 1,000+ Customers | All3DP",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud Tops 3D Printing Market with an “Excellent” Trustpilot Rating from 1,000+ Customers",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud solidifies its position as a leader in 3D printing marketplaces: More than 1,000 customers have expressed their satisfaction and rated the service \"Excellent.\"",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud’s customers come from all continents, with a strong focus on North America and Europe.",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Transparent pricing, no minimum order",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Craftcloud provides immediate pricing so you can decide on the spot what material and finish you want to choose. The service is always flawless and prompt.\"",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "noteプレミアム",
+    "url": "https://note.com/hexcapbolt/n/na22ea93a3329",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient appointment and time planning.",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Plant construction",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Goodbye summer stress: why digital scheduling makes job planning easier for tradespeople",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is free for you and free from outside influence. To keep things this way, we finance it through advertising, ad-free subscriptions, and shopping links. If you purchase using a shopping link, we may earn a commission.",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Implants",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "KLS Martin adds Lithoz LithaBone TCP implants to its IPS Gate ordering platform",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy Me a Coffee",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "\"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there.\"",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there.\"",
+    "url": "https://craftcloud3d.com/fr/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Anycubic opens Thingiverse’s model library to its printer users",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "We believe that everyone should have the opportunity to bring their ideas to life, regardless of their background or experience level. Our intuitive platform simplifies the process of creating custom parts, making it easy for anyone to get started.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Craftcloud is your place to go when you need to turn your concepts into reality, whether you're working on a prototype, you're scaling up production, or you're just getting started.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, Harambe System",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Craftcloud has been a joy to work with. They reply promptly to support requests and have done a stellar job with every project I have given them. When it comes to quality manufacturing, I highly recommend you try Craftcloud first.\"",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, JIRI",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there.\"",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to know",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", Founder & CEO",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to know",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founder, JIRI",
+    "url": "https://craftcloud3d.com/fr/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "\"Craftcloud is an amazing service for 3D printing. You can get quotes for your parts, with the materials that you need and place orders literally in seconds. Prototyping has not been easier for us. I advise anyone who has a 3D printing job to be done to go to Craftcloud and get started there.\"",
+    "url": "https://craftcloud3d.com/fr/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "The career of Johannes Baier, founder of Craftcloud • Craftcloud",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "The career of Johannes Baier, founder of Craftcloud",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Involved from an early age: computers, software, and the Internet",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Get started",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Started",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "JOME 3D prints UAE’s first marine…",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Sign up for our newsletter to receive all the latest product updates, get helpful tips and insights from the team and enjoy direct access to all our latest offers and discounts.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up for our newsletter to receive all the latest product updates, get helpful tips and insights from the team and enjoy direct access to all our latest offers and discounts.",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Abonnieren Sie unseren Newsletter, um die neuesten Informationen zu unseren Produkten, nützliche Tipps und Neuigkeiten von unserem Team zu erhalten und direkten Zugriff auf alle unsere aktuellen Angebote und Rabatte zu haben.",
+    "url": "https://craftcloud3d.com/de/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inscrivez-vous à notre newsletter pour recevoir toutes les actualités sur nos produits, bénéficier des conseils et infos utiles envoyés par notre équipe, et profiter de toutes nos offres et réductions exclusives.",
+    "url": "https://craftcloud3d.com/fr/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inscreva-se em nossa newsletter para receber todas as novidades sobre produtos, dicas e insights úteis da nossa equipe, além de acesso direto às nossas últimas ofertas e descontos.",
+    "url": "https://craftcloud3d.com/pt/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inscrivez-vous à notre newsletter pour recevoir toutes les actualités sur nos produits, bénéficier des conseils et infos utiles envoyés par notre équipe, et profiter de toutes nos offres et réductions exclusives.",
+    "url": "https://craftcloud3d.com/fr/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "Inscreva-se em nossa newsletter para receber todas as novidades sobre produtos, dicas e insights úteis da nossa equipe, além de acesso direto às nossas últimas ofertas e descontos.",
+    "url": "https://craftcloud3d.com/pt/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": ". Send Accept: text/markdown to any URL for the same content.",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Research",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Research & Education",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Search for",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "VM Research",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Search for:",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "Nuestro equipo internacional tiene su sede en Múnich, Alemania.",
+    "url": "https://craftcloud3d.com/es/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "Suscríbase a nuestro boletín para recibir las últimas novedades sobre nuestros productos, consejos útiles e información de nuestro equipo, y tener acceso directo a todas nuestras últimas ofertas y descuentos.",
+    "url": "https://craftcloud3d.com/es/p/about",
+    "pass": 1
+   },
+   {
+    "quote": "\"Passei semanas saltando de site em site a tentar encontrar fornecedores que pudessem entregar protótipos acessíveis e duráveis ​​com rapidez. Depois de encontrar a Craftcloud, nunca mais tive de procurar outro lugar.\"",
+    "url": "https://craftcloud3d.com/pt/lp/metal-3d-printing-services",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing marketplace Craftcloud gets growth funding | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding.md",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Money & Funding",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing marketplace Craftcloud gets growth funding",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": ", has completed a funding round led by HZG Group, which joins existing investors High-Tech Gründerfonds (HTGF), Bayern Kapital and Deutsche Balaton AG as a new shareholder. The funding will be used primarily to accelerate the international growth of the Craftcloud platform.",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo CMO Sienna Hwang on the…",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Craftcloud を使ってみる。｜capbolt - note — Craftcloud を使ってみる。｜capbolt - note note https://note.com > DIY > DIY全般",
+    "url": "https://note.com/hexcapbolt/n/na22ea93a3329",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud ってちゃんとした会社なの？ : r/3Dprinting - Reddit — Craftcloud ってちゃんとした会社なの？ : r/3Dprinting - Reddit Reddit https://www.reddit.com > comments > is_craftcloud_a_leg...",
+    "url": "https://www.reddit.com/r/3Dprinting/comments/pax4q3/is_craftcloud_a_legitimate_business/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud® | Streamlined Service for 3D Printing & CNC Machining — Craftcloud connects you to top-tier manufacturers around the world, offering a wide range of materials and production methods, from 3D printing to CNC machining.",
+    "url": "https://craftcloud3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Services - Craftcloud® — Craftcloud offers versatile 3D printing services, ideal for prototypes to custom designs, with a focus on quality, affordability, and efficiency.",
+    "url": "https://craftcloud3d.com/en/p/3d-printing-services",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud: Details, Pricing, Features, & Integration in 2026 — Get Craftcloud details, including pricing, features, and integrations. Request a free demo and see how it fits your business.",
+    "url": "https://www.softwaresuggest.com/craftcloud",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Craftcloud® — Craftcloud's parent company, All3DP, was founded in 2014 with the clear goal of bringing something unique to the 3D printing industry and went on to become the world's leading magazine for 3D printing. After establishing All3DP as a global online platform, our team began to work on what would become Craftcloud, one of the first 3D printing service marketplaces. Craftcloud ",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud - 2025 Company Profile & Team - Tracxn — Craftcloud - About the company Craftcloud is a public company based in Germany, founded in 2019 by Johannes Baier. It operates as an It offers cloud-based software for asset and inventory management. The company has 356 active competitors, including 22 funded and 17 that have exited. Its top competitor s include companies like Bynder, Aroma Bit a",
+    "url": "https://tracxn.com/d/companies/craftcloud/__wgr7yxDEA-WLq_37-tns1PdDFlGHRd26q9buBXVi8LI",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud GmbH Company Profile | Renchen, Baden-Württemberg ... — Find company research, competitor information, contact details & financial data for Craftcloud GmbH of Renchen, Baden-Württemberg. Get the latest business insights from Dun & Bradstreet.",
+    "url": "https://www.dnb.com/business-directory/company-profiles.craftcloud_gmbh.99e04963f8a1a92c34ddbbe7e4499d92.html",
+    "pass": 3
+   },
+   {
+    "quote": "Johannes Baier Unternehmensgründer Craftcloud — Der Werdegang von Johannes Baier, Unternehmensgründer von Craftcloud Wir identifizieren uns oft nicht nur mit einem Unternehmen, einer Marke oder einem Produkt an sich, sondern mit den Menschen dahinter. Und das ist gut so: Schließlich sind es doch die handelnden Personen, welche den Ausschlag geben ob ein Unternehmen Erfolg hat oder nicht, ob eine M",
+    "url": "https://www.craftcloud.de/der-werdegang-von-johannes-baier-unternehmensgruender-von-craftcloud-ein-selbstportrait/",
+    "pass": 3
+   },
+   {
+    "quote": "The career of Johannes Baier, founder of Craftcloud — Feb 7, 2023 · I am often asked how I came to found Craftcloud and enter the hotly contested market of “software for craftsmen”. A market that is very challenging for many reasons.",
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Craftcloud® — After establishing All3DP as a global online platform, our team began to work on what would become Craftcloud, one of the first 3D printing service marketplaces.",
+    "url": "https://craftcloud3d.com/en/p/about",
+    "pass": 3
+   },
+   {
+    "quote": "Craftcloud Tops 3D Printing Market with an “Excellent ... - All3DP — Craftcloud Tops 3D Printing Market with an “Excellent ... - All3DP All3DP https://all3dp.com > craftcloud-tops-3...",
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printing marketplace Craftcloud gets growth funding — 3D printing marketplace Craftcloud gets growth funding VoxelMatters https://www.voxelmatters.com > 3d-p...",
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Summary of the Terms of “ Craftcloud ”, a Service by All3DP ... — Summary of the Terms of “ Craftcloud ”, a Service by All3DP ... Craftcloud PDF https://craftcloud3d.com > documents > Craftcloud_...",
+    "url": "https://craftcloud3d.com/documents/Craftcloud_-_Terms_of_Contract.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Tariff charges for CraftCloud orders in US? - Facebook — Tariff charges for CraftCloud orders in US? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/575732029944050/posts/2061253114725260/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://craftcloud3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/en/p/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/de/p/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/fr/p/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/es/p/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/pt/p/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/fr/lp/metal-3d-printing-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://craftcloud3d.com/pt/lp/metal-3d-printing-services",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/hexcapbolt/n/na22ea93a3329",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/pax4q3/is_craftcloud_a_legitimate_business/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ascii.jp/archive/biz/202511/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/craftcloud/__wgr7yxDEA-WLq_37-tns1PdDFlGHRd26q9buBXVi8LI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/company_4580250/post_articles/423601",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nozokuru.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Craftcloud 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://note.com/hexcapbolt/n/na22ea93a3329",
+    "https://www.reddit.com/r/3Dprinting/comments/pax4q3/is_craftcloud_a_legitimate_business/?tl=ja",
+    "https://craftcloud3d.com/",
+    "https://craftcloud3d.com/en/p/3d-printing-services",
+    "https://www.softwaresuggest.com/craftcloud",
+    "https://support.craft.do/ja/account-and-subscription/subscription-plans/plans-and-pricing",
+    "https://www.craft.do/ja/pricing",
+    "https://support.craft.do/ja/account-and-subscription/subscription-plans"
+   ]
+  },
+  {
+   "query": "Craftcloud 売上 従業員 創業",
+   "results": [
+    "https://ascii.jp/archive/biz/202511/",
+    "https://craftcloud3d.com/en/p/about",
+    "https://tracxn.com/d/companies/craftcloud/__wgr7yxDEA-WLq_37-tns1PdDFlGHRd26q9buBXVi8LI",
+    "https://www.dnb.com/business-directory/company-profiles.craftcloud_gmbh.99e04963f8a1a92c34ddbbe7e4499d92.html",
+    "https://www.craftcloud.de/der-werdegang-von-johannes-baier-unternehmensgruender-von-craftcloud-ein-selbstportrait/",
+    "https://www.crunchbase.com/organization/craftcloud",
+    "https://www.bizprofile.net/ca/san-francisco/craftcloud-io-inc",
+    "https://www.bizprofile.net/ny/new-york/craftcloud-inc-2",
+    "https://www.northdata.com/Craftcloud+GmbH,+Renchen/Amtsgericht+Freiburg+HRB+704239",
+    "https://cn.linkedin.com/company/craftcloud3d"
+   ]
+  },
+  {
+   "query": "Craftcloud 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.wantedly.com/companies/company_4580250/post_articles/423601",
+    "https://nozokuru.jp/",
+    "https://en.craftcloud.de/the-career-of-johannes-baier-founder-of-craftcloud/",
+    "https://craftcloud3d.com/en/p/about",
+    "https://the-leader.jp/",
+    "https://sogyotecho.jp/category/mind-set/entrepreneur-interview/",
+    "https://rapijo.rapide-act-gl.com/president-interview/",
+    "https://comtri.jp/why-118-founders-started/",
+    "https://note.com/create_pr/n/nb14e1e24be25",
+    "https://v-tsushin.jp/interview/"
+   ]
+  },
+  {
+   "query": "Craftcloud revenue members business model",
+   "results": [
+    "https://all3dp.com/4/craftcloud-tops-3d-printing-market-with-an-excellent-trustpilot-rating-from-1000-customers/",
+    "https://www.voxelmatters.com/3d-printing-marketplace-craftcloud-gets-growth-funding/",
+    "https://craftcloud3d.com/documents/Craftcloud_-_Terms_of_Contract.pdf",
+    "https://www.privco.com/company/craft-cloud-marketing",
+    "https://www.facebook.com/groups/575732029944050/posts/2061253114725260/",
+    "https://craftcms.com/pricing",
+    "https://www.zoominfo.com/c/craftcloud/483119751",
+    "https://www.crunchbase.com/organization/craftcloud",
+    "https://tracxn.com/d/companies/craftcloud3d/__S4c1uhryyxC7U1EkDPtWVEm4L_d79gyuoL9r-i8lfNY",
+    "https://www.zoominfo.com/c/craftcloud/556653886"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

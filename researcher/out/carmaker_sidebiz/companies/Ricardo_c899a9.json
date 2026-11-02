@@ -1,0 +1,2321 @@
+{
+ "name": "Ricardo",
+ "aliases": [
+  "Ricardo plc",
+  "リカルド"
+ ],
+ "context": "エンジニアリング・コンサル（英）",
+ "researched_at": "2026-11-02T14:40:14.842981+00:00",
+ "official_url": "https://www.ricardo.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Jason Oms O'Donnell ( CEO )",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Ricardo | Leading automotive and energy engineering and manufacturing consultancy",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering services - Consultancy and Product Development | Ricardo",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With over 600 engineers globally, Ricardo's team of cross-sector and multi-platform experts and specialists help our clients to design and develop the next generation of propulsion system, energy and industrial systems.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "From engineering consultancy and advisory services to support initial concept exploration and development, to production engineering solutions to ready programmes for manufacture, our expertise supports projects of every scale, whatever stage of develop they are at.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "By managing the entire process in-house, we maintain rigorous quality standards, accelerate development timelines, and provide the expert oversight to help our clients to realise their development goals.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo offers a wide range of mechanical development, component and systems engineering services and solutions to customers across a broad range of markets and industries.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Strategy and Advisory - Consultancy Services | Ricardo",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo provides complete turnkey solutions for power electronics, from high voltage battery management systems and DC-DC converters to high power traction inverters and chargers. Using advanced development tools and a holistic approach to system optimisation, we support the full development journey–from concept through to production.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Mechanical engineering services - Design and Development | Ricardo",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With a global footprint, Ricardo offers a wide range of mechanical development, component and systems engineering services and solutions to clients across a broad range of markets and industries.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Our extensive in-house manufacturing, product development, and validation capability all combine to support our clients’ prototype development programmes.",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Using our unique capability in prototype build, we create function technology demonstrators in condensed timeframes. This enabled accelerated product development for our clients.",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into Ricardo’s expertise in complete vehicle engineering from powertrain to transmission. Our holistic understanding of the complete vehicle system enables us to deliver optimal functionality and attributes performance to our clients.",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers and facilities can deliver and support powertrains of the future. We have capability in hydrogen, electrification and alternative fuels enabling us to support our clients in developing the next generation of clean mobility.",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Special vehicle programmes require the strictest levels of confidentiality. Our clients can trust Ricardo to develop their prototypes under the strictest confidentiality",
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/test-and-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Our control and calibration services ensure that our clients meet the attributes that they are targeting on the transition to new forms of propulsion systems and technologies. We can lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "We use digital engineering capability to complete calibration before hardware is available, saving our clients time and money during the product development and testing process.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "We provide turnkey delivery or off-the-shelf solutions to our clients, delivering a service which is bespoke to their requirements, timescales, and budgets.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Our advanced engineering programme understanding combined with state-of-the art virtual methodology enables rapid capability demonstration, reducing cost and speeding up delivery time for our clients.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver turnkey programme delivery which combines calibration expertise with issue resolution capabilities (8D).",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "We offer a flexible approach to control and calibration that is truly bespoke to the requirements of our clients, from turnkey delivery to off-the-shelf solutions.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/automotive-software",
+    "pass": 1
+   },
+   {
+    "quote": "Our clients from across our global consultancy include OEMs in automotive, rail and aerospace. We’ve worked with some of the world’s largest vehicle manufacturers on specific embedded software projects and continue to provide support and assistance. Get in touch for more information.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/automotive-software",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/automotive-benchmarking",
+    "pass": 1
+   },
+   {
+    "quote": "As the automotive industry evolves across electrified powertrains, transmissions and internal combustion engines, it is becoming more imperative for OEMs to stay ahead. Ricardo’s benchmarking service helps customers to accelerate growth and gain strategic advantage.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/automotive-benchmarking",
+    "pass": 1
+   },
+   {
+    "quote": "Industrialisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/automotive-benchmarking",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/systems-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo designs and develops complete systems integration programmes. Our experts manage the challenges and deliver solutions to facilitate seamless integration of components and systems for clients across the automotive and industrial sectors.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/systems-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo provide a vehicle vehicle adaption service which taps into our full-service engineering capability to deliver commercially available wheeled vehicles tailored to meet the specific requirements of our clients.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo receives a 385million USD contract to deliver additional ABS-ESC retrofit kits to US Army",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into Ricardo’s expertise in complete vehicle engineering from powertrain to transmission. Our holistic understanding of the complete vehicle system enables us to deliver optimal functionality and attributes performance to our clients",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "With over 25 years of developing solutions for the defence market, we have excellent knowledge of end user mobility roles and requirements, ensuring that our clients can be assured of solutions delivered to meet their exacting standards.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers and facilities can deliver and support powertrains of the future. We have capability in hydrogen, electrification and alternative fuels enabling us to support our clients in developing the next generation of clean mobility.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Special vehicle programmes require the strictest levels of confidentiality. Our clients can trust Ricardo to develop their programmes under the strictest confidentiality. Our UK based operations are on the List X secure site register.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/attribute-development",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo experts practice attribute-led engineering for clients throughout the product development lifecycle, adding value and creating a strong link between users, systems, and components. Structured Computer Aided Engineering processes, virtual validation, and model-based development help reduce time and cost.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/attribute-development",
+    "pass": 1
+   },
+   {
+    "quote": "Our specialist capabilities are focussed on providing attribute development for clients across the automotive and industrial sector. We support analysis and the integration of solutions in areas that include:",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/attribute-development",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/safety-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems Engineering Services | Automotive and Energy | Ricardo",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence - consulting, engineering and manufacturing services | Ricardo",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Industralisation consultancy",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo is a trusted technical partner to the defence sector, delivering end-to-end propulsion system solutions for mission-critical programmes worldwide. We support prime contractors, vehicle design authorities, tiered suppliers and government organisations in developing advanced technical solutions for complex applications",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Operating under AS9100D certification and with a wealth of cross-sector expertise, we provide our clients with solutions to develop future-ready technologies and improve supply chain resilience.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "Systems and attributes",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integration",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain management",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacture",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting and spares supply",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery module​",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For over 100 years, we’ve been pushing the boundaries to their limits. Experts in complex propulsion, driveline and energy systems, we deliver the ideas and innovation that transform the way the world moves.",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo joins forces with Ford and General Dynamics Land Systems-UK",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It's green light for next wave of battery technology in high performance vehicles",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Systems and attributes",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integration",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain management",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacture",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting and spares supply",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery module​",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With over 600 engineers globally, Ricardo's team of cross-sector and multi-platform experts and specialists help our clients to design and develop the next generation of propulsion system, energy and industrial systems.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With over a century of experience in the development of ground-breaking technical innovations, Ricardo's team of world-class engineers design and integrate innovative, technology‑agnostic propulsion and energy systems that drive efficiency and innovate performance.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery technology for electric vehicles",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo offers a wide range of mechanical development, component and systems engineering services and solutions to customers across a broad range of markets and industries.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Holistic systems engineering to improve vehicle performance and user experience. Includes: calibration, functional safety, thermal management, noise, vibration and harness assessments.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo provide a comprehensive prototyping service for functional demonstrators, from full vehicle builds to components and sub-assemblies to support product development.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "In-house test and validation services for internal combustion, hybrid, electric and hydrogen powertrains. Backed by world-class facilities and a expert team to support product development, homologation and certification.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems and attributes",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integration",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain management",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacture",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting and spares supply",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery module​",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Systems and attributes",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integration",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain management",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacture",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting and spares supply",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery module​",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "We can also provide recommendations on sourcing strategy in terms of when components should be built and when they should be bought, carry out top-down and bottom-up should-cost modelling, and offer insights on supply-chain reliability and resilience.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Control and electronics - Intelligent systems for your complex platforms",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Systems and attributes",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Systems integration",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Systems engineering",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain management",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Component manufacture",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Kitting and spares supply",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery module​",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo designs and develops intelligent systems that enable customers to operate complex platforms more efficiently, reliably and with greater control.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent systems supporting smarter mobility",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo operates globally across automotive–including light mobility and motorsport–as well as maritime, off-highway and energy and industrial sectors, bringing a cross-sector perspective to the development of advanced control systems. We help customers accelerate innovation and time to market whilst enhancing performance and efficiency across complex platforms.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "We design, develop and integrate advanced control and electronics systems for mobile and stationary propulsion, driveline, energy and thermal applications, enabling smarter, more efficient platforms. Hardware agnostic, we can deliver as both standalone or fully integrated solutions.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Immersion cooled battery technology for electric vehicles",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo’s vehicle supervisor control software seamlessly integrates and optimises all vehicle systems, which is crucial to maximise efficiency, performance and safety.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo's experience across propulsion and energy systems means we can integrate a wide range of technologies. Bringing together complex components, software and controls, Ricardo takes a whole-system approach to integration. Using simulation and real-world validation, we identify and resolve challenges early, reducing risk and time to market.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "The latest thought leadership from our experts.",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Development of a high power density multi stack fuel cell system for passenger ships",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Experts at your fingertips",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Our expertise spans multiple sectors, including automotive (on-highway and off-highway), power generation, aerospace, marine, and defence, enabling us to support clients with complex engineering challenges across diverse applications.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.",
+    "url": "https://www.ricardo.com/services/engineering/test-and-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and tier one suppliers.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Our control and calibration services ensure that our clients meet the attributes that they are targeting on the transition to new forms of propulsion systems and technologies. We can lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Discover why original equipment manufacturers (OEMs) and suppliers use our modular transmission control software and solutions when testing new configurations.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/automotive-software",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo has developed the Connected Battery Management System (BMS) significantly to benefit original equipment manufacturers (OEMs) and fleet operators by allowing them to manage battery health across all their vehicles.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/automotive-software",
+    "pass": 1
+   },
+   {
+    "quote": "by having full control of your software platform, allowing you to manage future development and use across multiple programmes without having to rely on external suppliers, redevelop software for each new project nor have to pay additional licensing fees.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": ", enabling seamless extensions and upgrades without compromising functionality, while easily adapting to multiple vehicle types through simple calibration adjustments.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo engineers use bespoke virtual validation processes. including CAD and CAE, to implement 3D versions of products that can be tested and approved. Analysis supports clients to virtually prove their design concepts, through the simulation of multiple environments.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/attribute-development",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo’s cross-discipline expertise in Noise, Vibration and Harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo’s cross-discipline expertise in noise, vibration and harshness (NVH), powertrain technologies and integration ensures future vehicles will meet customer demands. Our state-of-the-art simulation and test facilities support a more efficient route to market.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "pass": 1
+   },
+   {
+    "quote": "The live authentic sound linked directly to the xEV powertrain to deliver an interior driver experience in line with brand expectation, whilst ensuring exterior pedestrian safety requirements are met. The system integrates multiple authentic sound layers to build a sound signature that signals the cars operating status.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "pass": 1
+   },
+   {
+    "quote": "in multiple sectors including marine, static power, light",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/safety-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "As electric vehicle battery operating temperature is known to have a critical influence on a wide range of performance aspects, including electrochemical behaviour, charge acceptance, power availability, trip efficiency, and safety and reliability, as well as affecting overall life-cycle costs.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo announces new CEO and reveals refreshed brand",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "As the regulatory landscape of the aerospace sector continue to evolve, Ricardo's experts draw on our multi-disciplinary expertise to support our clients in developing the next generation of aerospace propulsion and driveline systems.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "With capability across all engineering disciplines, from systems engineering to hardware and software development, our team enable the exploration and development of new propulsion system technologies, including electrification, hydrogen ICE, fuel cell, and lower carbon fuel.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-disciplined team provide technical expertise across the full propulsion system architecture, providing support for the development of traditional ICE, electric and hybrid systems, fuel cell, hydrogen ICE, and alternative fuel platforms. With capability across the full product lifecycle, from concept through to production and in-service support.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible manufacturing solutions and close client collaboration ensure tailored, efficient assembly operations at Ricardo facilities or customer-selected locations.",
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo PLC - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Engine Patents",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Engine Patents Limited",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "patented",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": ", it was quickly adopted to power buses serving London, as well as long distance coaches and lorries. This type of engine, branded as",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Alfa Romeo Tipo 162",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo's experience was drawn on for multiple initiatives during the",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "During 1970, the company was rebranded as",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "The company also continued to be an active participant in the",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "in collaboration with",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "At around the same time, the company working in collaboration with",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Following the completion of the acquisition, it was rebranded as Ricardo-AEA. While Ricardo took on the environmental business and many of the staff, integrating them into its own operations, the large pension liability built up from when AEA Technology was much larger and unsupportable by the smaller residual company, was transferred to the UK Government's",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2015, Ricardo-AEA was rebranded as Ricardo Energy & Environment.",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"Alpha Romeo Tipo 162\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Gott, Philip G. (1991).",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ricardo-AEA rebrands as Ricardo Energy & Environment\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Triple Eight Racing",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Unipart",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Dealerships",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Driver & Vehicle Licensing Agency",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Ricardo_PLC&oldid=1368098014",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Short description matches Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. — Software & Engineering Services, Van Buren Township, Michigan | LightSource",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Van Buren Township, Michigan",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. is the US arm of Ricardo, a propulsion and vehicle engineering firm, based at the Detroit Technical Center in Van Buren Township, Michigan. Established in 1989 and a member of WSP Global since 2025, it provides engineering design, test and validation, and niche manufacturing across combustion, hybrid, electric, and hydrogen powertrains for automotive OEMs and suppliers.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Investing $24.1 million and adding at least 114 jobs at its Van Buren Township site for a new engine manufacturing line, announced 2026.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ownership and history",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. was established in 1989 and has operated in Southeast Michigan for more than 35 years. It is the US subsidiary of Ricardo, an engineering firm founded in 1915 by Sir Harry Ricardo as Engine Patents Limited and long headquartered in Shoreham-by-Sea, England. That heritage, more than a century of combustion and propulsion engineering, is central to how the company positions itself.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Ricardo | Leading automotive and energy engineering and manufacturing consultancy",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For over 100 years, we’ve been pushing the boundaries to their limits. Experts in complex propulsion, driveline and energy systems, we deliver the ideas and innovation that transform the way the world moves.",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With over 600 engineers globally, Ricardo's team of cross-sector and multi-platform experts and specialists help our clients to design and develop the next generation of propulsion system, energy and industrial systems.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "With over a century of experience in the development of ground-breaking technical innovations, Ricardo's team of world-class engineers design and integrate innovative, technology‑agnostic propulsion and energy systems that drive efficiency and innovate performance.",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting the decarbonisation of the heat, power and transport for the public sector",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Our experts are supported by over 150 in-house specialists in automotive, commercial vehicles, defence, motorsports, motorcycle, and off-highway vehicles in global markets. Our multi-domain expertise means that are the trusted partner of many of the industry leading organisations across the globe.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo operates globally across automotive–including light mobility and motorsport–as well as maritime, off-highway and energy and industrial sectors, bringing a cross-sector perspective to the development of advanced control systems. We help customers accelerate innovation and time to market whilst enhancing performance and efficiency across complex platforms.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "We design, develop and integrate advanced control and electronics systems for mobile and stationary propulsion, driveline, energy and thermal applications, enabling smarter, more efficient platforms. Hardware agnostic, we can deliver as both standalone or fully integrated solutions.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo's experience across propulsion and energy systems means we can integrate a wide range of technologies. Bringing together complex components, software and controls, Ricardo takes a whole-system approach to integration. Using simulation and real-world validation, we identify and resolve challenges early, reducing risk and time to market.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and defence",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Energy and industrial",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial and off highway",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Defence",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial energy systems",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Our expertise spans multiple sectors, including automotive (on-highway and off-highway), power generation, aerospace, marine, and defence, enabling us to support clients with complex engineering challenges across diverse applications.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "How automotive digital engineering techniques are improving efficiency and performance and reducing risk, cost and time to market for energy transition solutions",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Ricardo joins forces with Ford and General Dynamics Land Systems-UK",
+    "url": "https://www.ricardo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "ragmatic",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile according to the project needs.​",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "Pragmatic Agile Systems",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "pass": 1
+   },
+   {
+    "quote": "The RAS-R system provides electronic augmentation of internal combustion or electric power unit sound quality using live streaming authentic sound sources, rich in genuine information content.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "pass": 1
+   },
+   {
+    "quote": "ragmatic",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Pragmatic and Agile ​",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers have experience of delivering proof of concept and technology demonstrator projects where the project output is designed to inform the future system design and requirements. In this case a more pragmatic and agile approach is deployed. Our core Ricardo processes are still utilised but tailored accordingly​.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Key segments within the Aerospace and defence market.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo demonstrates militarized version of Ford Ranger 2019",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo congratulates McLaren on the reveal of the new W1 supercar",
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "pass": 1
+   },
+   {
+    "quote": ", in which he invited his audience to \"accompany me inside the cylinder of a diesel engine\", passionately describing the process of diesel combustion, in great detail.",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Shortly thereafter, Ferrari commissioned Ricardo to develop an automatic version of the",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "In the early 21st century, the company undertook work to improve the BMW K1200 series",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "BMW Motorrad",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren Automotive",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren M838T",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": ") as well as producing engines for McLaren Automotive. As a result of diversification efforts, the company was also actively engaged in consultancy on both technical and environmental matters, software development and niche manufacturing.",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Opel Rekord 2100D: GM's future diesel",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ferrari 456 M GTA\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "ferrarichat.com",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"The McLaren M838T: Building the world's \"greenest\" supercar engine\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Aveling-Barford",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Bedford",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Hallford",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ford World Rally Team",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes AMG High Performance Powertrains",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes AMG",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Oxford plant",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "McLaren Technology Centre",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan UK",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota UK",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Tickford",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. employs an estimated 250 to 499 people at its Michigan operation, with a US revenue band of roughly $20 to $50 million; the company does not publish audited standalone figures. It is part of Ricardo's global engineering group of more than 1,000 team members, itself a member of WSP Global with about 75,000 employees worldwide.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "This is why the Vehicle Control System is integral to EVs: it's where software, sensors and actuators come together to define how a vehicle moves, feels and responds.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "by having full control of your software platform, allowing you to manage future development and use across multiple programmes without having to rely on external suppliers, redevelop software for each new project nor have to pay additional licensing fees.",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "With capabilities spanning the full product lifecycle, from clean-sheet design to maintenance, repair and overhaul (MRO), our defence sector experts draw on our cross-sector capability to deliver programmes that prioritise reliability, availability, performance and cost-efficiency.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance, Repair and Overhaul (MRO)",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Our assembly capability can deliver niche volume powertrain and driveline programmes of any size, from single prototype builds through to semi-automated production lines outputting thousands of units annually.",
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "pass": 1
+   },
+   {
+    "quote": "600 feet (180",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"Annual Results 2023/24\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Reports, Policies & Studies",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "Minimise costs by 50%",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce time to market by 40%",
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "pass": 1
+   },
+   {
+    "quote": "Experience a major boost in power and faster charging times with our groundbreaking immersion cooled battery solutions, providing up to 48% more peak power and 40% faster peak charge rate.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management",
+    "pass": 1
+   },
+   {
+    "quote": "At Ricardo, our immersion cooled battery technology is being utilized in a variety of applications, including passenger vehicles, aircraft, and commercial vehicles, to name just a few. Our cutting-edge battery packs have been demonstrated to significantly reduce peak charging rate by 40% while also delivering a remarkable 48% increase in peak power density.",
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Key segments within the Aerospace and defence market.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": ": it was claimed that this engine could improve fuel economy by up to 25%.",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "turnover",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "-1.5% (-80)",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "1.5% YoY",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "1.7% YoY",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Northern Europe accounts for the largest share of Ricardo's global workforce with approximately",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "% of Total",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. employs an estimated 250 to 499 people at its Michigan operation, with a US revenue band of roughly $20 to $50 million; the company does not publish audited standalone figures. It is part of Ricardo's global engineering group of more than 1,000 team members, itself a member of WSP Global with about 75,000 employees worldwide.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.",
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver targeted optimisation and cost-reduction programmes for existing product ranges, alongside the evaluation and development of innovative, next-generation concepts.",
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.",
+    "url": "https://www.ricardo.com/services/engineering/test-and-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Since our founder’s pioneering work developing the Ricardo engine to improve range, reliability and reducing smoke emissions for the Mark V tank used by the British Army in World War One, we have been at the forefront of providing end-to-end propulsion system solutions to the defence sector.",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "is a British firm that provides automotive parts and engineering, environmental and strategic consultancy services. Founded by",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 3,460 employees in 2023 to 3,309 in 2026",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 9th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Ricardo's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by East Asia and North America.",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo employees by region",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo employees by department",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in Pacific Islands receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Ricardo's headcount shrank",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, down from",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Ricardo employees located?",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Ricardo employees are based in Northern Europe (",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by East Asia and North America.",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Ricardo founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo was founded in",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Established in Southeast Michigan since 1989 (parent Ricardo founded 1915); a member of WSP Global since October 2025.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. was established in 1989 and has operated in Southeast Michigan for more than 35 years. It is the US subsidiary of Ricardo, an engineering firm founded in 1915 by Sir Harry Ricardo as Engine Patents Limited and long headquartered in Shoreham-by-Sea, England. That heritage, more than a century of combustion and propulsion engineering, is central to how the company positions itself.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. is the US subsidiary of Ricardo, which became a member of WSP Global when the Canadian professional-services firm's acquisition of the group completed in October 2025. Ricardo was founded in 1915 in England and was listed on the London Stock Exchange before the WSP deal.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo, Inc. employs an estimated 250 to 499 people at its Michigan operation, with a US revenue band of roughly $20 to $50 million; the company does not publish audited standalone figures. It is part of Ricardo's global engineering group of more than 1,000 team members, itself a member of WSP Global with about 75,000 employees worldwide.",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "WSP Global completed its acquisition of Ricardo; the US operation now brands as a member of WSP, a professional-services firm with about 75,000 employees worldwide (company statement).",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Founders Helping Founders with Mohit Lad and Ricardo Oliveira of ThousandEyes - Decibel",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for our news and insights from our founders.",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Founders Helping Founders with Mohit Lad and Ricardo Oliveira of ThousandEyes",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "[04:28] How co-founders Ricardo and Mohit met each other at UCLA",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "[1:06:42] Mohit and Ricardo share advice to their younger selves (and new first time founders)",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "When we were at UCLA, Ricardo had the startup bug in him. I thought I’d go work in a startup and get to know networking. But Ricardo kept bugging me, and I kept telling him that the startup life wasn’t for me. But when I got laid off, it was a life-changing moment. I called him from the parking lot and said “Let’s do this.”",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "At the time, we were also still trying to get our green cards. We didn't have any funding yet, but were trying to figure out how we could start our business. And we were still in Los Angeles, which is not the best-known place to start an enterprise tech company. So there were lots of unknowns.",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Every startup dreams of closing their first customer. What was it like to secure your first one?",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Many startups are currently trying to find product-market fit in a challenging environment. What advice do you have for them?",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring a team is critically important in the early days. What advice do you have for new founders?",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Join our community of founders and friends.",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Investment & Funding",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   },
+   {
+    "quote": "Seed Funds",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   },
+   {
+    "quote": "Funding Programs",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   },
+   {
+    "quote": "The MyTEDCO portal is your centralized hub to apply for funding and seamlessly manage your venture's engagement with Maryland's innovation ecosystem.",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Developing a Formula E transmission solution for DS Performance",
+    "url": "https://www.ricardo.com/services/production",
+    "pass": 1
+   },
+   {
+    "quote": "Our niche volume series production assembly lines offer our clients a high-quality, process-controlled solution for their products.",
+    "url": "https://www.ricardo.com/services/production",
+    "pass": 1
+   },
+   {
+    "quote": "Our niche volume series production assembly lines offer our clients a high-quality, process-controlled solution for their products.",
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "pass": 1
+   },
+   {
+    "quote": "Ricardo supports demanding engine assembly programmes where quality, reliability and performance are critical. Our skilled teams deliver niche volume builds across ICE, hydrogen and alternative engines, from prototypes to series production.",
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "pass": 1
+   },
+   {
+    "quote": "Opel Rekord Series D",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "In the early 21st century, the company undertook work to improve the BMW K1200 series",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "\"Chemical incident series: eBook\"",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Top Gear (TV series)",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "[12:40] Mohit and Ricardo discuss the series of challenging circumstances that led to the founding of ThousandEyes",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Engineering services - Consultancy and Product Development — Engineering services - Consultancy and Product Development ricardo.com https://www.ricardo.com > engineering",
+    "url": "https://www.ricardo.com/services/engineering",
+    "pass": 3
+   },
+   {
+    "quote": "WSP acquires Ricardo , a strategic & engineering consultancy — WSP acquires Ricardo , a strategic & engineering consultancy wsp.com https://www.wsp.com > en-us > news",
+    "url": "https://www.wsp.com/en-us/news/2025/wsp-to-acquire-ricardo-a-global-strategic-and-engineering-consultancy-firm",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo PLC - Wikipedia — Ricardo PLC - Wikipedia Wikipedia https://en.wikipedia.org > Ricardo_PLC",
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo plc Company Profile - Overview - GlobalData — Ricardo plc Company Profile - Overview - GlobalData Global Data https://www.globaldata.com > ricardo...",
+    "url": "https://www.globaldata.com/company-profile/ricardo-plc/",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo - Manufacturing Today — Ricardo - Manufacturing Today Manufacturing Today https://manufacturing-today.com > ric...",
+    "url": "https://manufacturing-today.com/news/ricardo-3/",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo - Overview, News & Similar companies | ZoomInfo.com — Ricardo - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ricardo-...",
+    "url": "https://www.zoominfo.com/c/ricardo-plc/32800987",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo plc | Annual Report and Accounts 2023/24 — Ricardo plc | Annual Report and Accounts 2023/24 ricardo.com PDF https://www.ricardo.com > media > annual-report",
+    "url": "https://www.ricardo.com/media/5drkbm52/annual-report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Number of Employees 2026 - Revelio Labs — Ricardo Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > ricardo",
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo : Revenue , Competitors, Alternatives - Growjo — Ricardo : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Ricardo",
+    "url": "https://growjo.com/company/Ricardo",
+    "pass": 3
+   },
+   {
+    "quote": "Kitting and spare parts service - Ricardo — Kitting and spare parts service - Ricardo ricardo.com https://www.ricardo.com > production",
+    "url": "https://www.ricardo.com/services/production/through-life-support/kitting-and-spares-supply",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo , Inc. - Engineering Services - LightSource — Ricardo , Inc. - Engineering Services - LightSource LightSource https://lightsource.ai > ricardo-inc",
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo plc | OEM Off-Highway — Ricardo plc | OEM Off-Highway OEM Off-Highway https://www.oemoffhighway.com > ri...",
+    "url": "https://www.oemoffhighway.com/engineering-manufacturing/engine-components/company/10056030/ricardo-plc",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Performance Products - EME Outlook Magazine — Ricardo Performance Products - EME Outlook Magazine EME Outlook Magazine https://www.emeoutlookmag.com > 2...",
+    "url": "https://www.emeoutlookmag.com/company-profiles/239-ricardo-performance-products",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and defence - Ricardo — Aerospace and defence - Ricardo ricardo.com https://www.ricardo.com > markets",
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Supplies Aerospace Components for 20 Years — Ricardo Supplies Aerospace Components for 20 Years LinkedIn https://www.linkedin.com > posts > ri...",
+    "url": "https://www.linkedin.com/posts/ricardo_as9100d-iso9001-aerospace-activity-7462441937967443969-HXa7",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo launches new team in Southern California and ... — Ricardo launches new team in Southern California and ... ricardo.com https://www.ricardo.com > ricardo-la...",
+    "url": "https://www.ricardo.com/news-and-insights/press-releases/2020/ricardo-launches-new-team-in-southern-california-and-partners-with-achates-power",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Rodrigues | Ex-Electronic Arts, Warner Bros, Nokia — Ricardo Rodrigues | Ex-Electronic Arts, Warner Bros, Nokia LinkedIn https://www.linkedin.com > ricardoro...",
+    "url": "https://www.linkedin.com/in/ricardorodrigues",
+    "pass": 3
+   },
+   {
+    "quote": "Qualcomm, Ricardo sign license agreement - Reuters — Qualcomm, Ricardo sign license agreement - Reuters Reuters https://www.reuters.com > article > qu...",
+    "url": "https://www.reuters.com/article/qualcomm-ricardo-sign-license-agreement-idUSASC08JDJ/",
+    "pass": 3
+   },
+   {
+    "quote": "Founders Helping Founders with Mohit Lad and Ricardo ... — Founders Helping Founders with Mohit Lad and Ricardo ... Decibel VC https://www.decibel.vc > articles > fo...",
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo A. Alvarado - TEDCO — Ricardo A. Alvarado - TEDCO TEDCO https://www.tedcomd.com > staff > ri...",
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Pero of SellersFunding: How To Create A Fantastic ... — Ricardo Pero of SellersFunding: How To Create A Fantastic ... Medium https://medium.com > ricardo-pero-of...",
+    "url": "https://medium.com/authority-magazine/ricardo-pero-of-sellersfunding-how-to-create-a-fantastic-retail-experience-that-keeps-bringing-3eadb5900b6b",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Pascual - Founder & CEO at Startup Summit - LinkedIn — Ricardo Pascual - Founder & CEO at Startup Summit - LinkedIn LinkedIn https://uk.linkedin.com > ricardopasc...",
+    "url": "https://uk.linkedin.com/in/ricardopascual84",
+    "pass": 3
+   },
+   {
+    "quote": "Ricardo Jimenez - Full GYES Interview - YouTube — Ricardo Jimenez - Full GYES Interview - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=bCOgJpQ74-w",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ricardo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services?service=engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/advisory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/prototyping-and-technology-demonstrators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/test-and-validation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/automotive-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/automotive-benchmarking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/systems-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/mechanical-engineering/vehicle-adaptation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/attribute-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/safety-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/markets/aerospace-and-defence/defence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricardo.com/services/production/assembly",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.wsp.com/en-us/news/2025/wsp-to-acquire-ricardo-a-global-strategic-and-engineering-consultancy-firm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/ricardo-plc/32800987",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/ricardo/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/ricardo-3/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ricardo_as9100d-iso9001-aerospace-activity-7462441937967443969-HXa7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ricardorodrigues",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.anl.gov/partnerships/technology-licensing-agreements",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medium.com/authority-magazine/ricardo-pero-of-sellersfunding-how-to-create-a-fantastic-retail-experience-that-keeps-bringing-3eadb5900b6b",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ricardo engineering services clients other industries",
+   "results": [
+    "https://www.ricardo.com/services/engineering",
+    "https://www.wsp.com/en-us/news/2025/wsp-to-acquire-ricardo-a-global-strategic-and-engineering-consultancy-firm",
+    "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "https://www.globaldata.com/company-profile/ricardo-plc/",
+    "https://manufacturing-today.com/news/ricardo-3/",
+    "https://uk.linkedin.com/company/ricardo",
+    "https://www.encyclopedia.com/books/politics-and-business-magazines/ricardo-plc",
+    "https://www.sabic.com/en/campaigns/talking-chemistry/ricardo-engineering",
+    "https://www.adsgroup.org.uk/members/ricardo-uk-ltd-1/",
+    "https://www.ricardo.com/"
+   ]
+  },
+  {
+   "query": "Ricardo revenue turnover employees",
+   "results": [
+    "https://www.zoominfo.com/c/ricardo-plc/32800987",
+    "https://www.ricardo.com/media/5drkbm52/annual-report.pdf",
+    "https://www.reveliolabs.com/companies/ricardo/employees",
+    "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "https://growjo.com/company/Ricardo",
+    "https://www.londonstockexchange.com/en/news/article/interim-results/16925445",
+    "https://www.glassdoor.com/Overview/Working-at-Ricardo-EI_IE10221.11,18.htm",
+    "https://www.sciencegroup.com/letter-to-ricardo-shareholders/",
+    "https://www.owler.com/company/ricardo",
+    "https://www.ricardo.com/media/jupg1fcz/report-for-the-year-ended-30-june-2023-fy-2022-23.pdf"
+   ]
+  },
+  {
+   "query": "Ricardo supplies components to OEM",
+   "results": [
+    "https://www.ricardo.com/services/production/through-life-support/kitting-and-spares-supply",
+    "https://manufacturing-today.com/news/ricardo-3/",
+    "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "https://www.oemoffhighway.com/engineering-manufacturing/engine-components/company/10056030/ricardo-plc",
+    "https://www.emeoutlookmag.com/company-profiles/239-ricardo-performance-products",
+    "https://forums.bmwmoa.org/threads/the-ricardo-company.69372/",
+    "https://www.linkedin.com/posts/ricardo_did-you-know-ricardo-has-in-house-manufacturing-activity-7356332515244007427-es4-",
+    "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "https://www.themanufacturer.com/articles/ricardo-supply-chain-excellence-to-sustainability/",
+    "https://www.ricardo.com/services/production/manufacturing"
+   ]
+  },
+  {
+   "query": "Ricardo aerospace defence non-automotive",
+   "results": [
+    "https://www.ricardo.com/markets/aerospace-and-defence",
+    "https://www.linkedin.com/posts/ricardo_as9100d-iso9001-aerospace-activity-7462441937967443969-HXa7",
+    "https://en.wikipedia.org/wiki/Ricardo_PLC",
+    "https://manufacturing-today.com/news/ricardo-3/",
+    "https://lightsource.ai/m/suppliers/ricardo-inc",
+    "https://www.ricardo.com/",
+    "https://www.facebook.com/RicardoNorthAm/",
+    "https://www.army-technology.com/contractors/manufacture/ricardo-plc/",
+    "https://www.gardnerweb.com/news/ricardo-partners-to-bring-aerospace-composites-to-autos",
+    "https://www.ricardo.com/markets/aerospace-and-defence/defence"
+   ]
+  },
+  {
+   "query": "Ricardo licensing technology partnership",
+   "results": [
+    "https://www.ricardo.com/news-and-insights/press-releases/2020/ricardo-launches-new-team-in-southern-california-and-partners-with-achates-power",
+    "https://www.linkedin.com/in/ricardorodrigues",
+    "https://www.anl.gov/partnerships/technology-licensing-agreements",
+    "https://www.reuters.com/article/qualcomm-ricardo-sign-license-agreement-idUSASC08JDJ/",
+    "https://www.procopio.com/services-and-sectors/licensing-and-technology-transactions",
+    "https://www.womblebonddickinson.com/us/people/ricardo-joseph",
+    "https://www.broadinstitute.org/strategic-alliances-and-partnering",
+    "https://abreuadvogados.com/en/pessoas/ricardo-henriques/",
+    "https://metida.com/essentials-of-technology-licensing/",
+    "https://www.ricardo.com/technology"
+   ]
+  },
+  {
+   "query": "Ricardo founder early days first customer funding",
+   "results": [
+    "https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes",
+    "https://www.tedcomd.com/about-tedco/staff/ricardo-alvarado",
+    "https://medium.com/authority-magazine/ricardo-pero-of-sellersfunding-how-to-create-a-fantastic-retail-experience-that-keeps-bringing-3eadb5900b6b",
+    "https://uk.linkedin.com/in/ricardopascual84",
+    "https://www.youtube.com/watch?v=bCOgJpQ74-w",
+    "https://www.sramanamitra.com/2022/08/29/building-a-global-hardcore-financial-technology-company-from-brazil-ricardo-josua-ceo-of-pismo-part-1/",
+    "https://www.econlib.org/library/Enc/bios/Ricardo.html",
+    "https://ricardoalvarado.co/",
+    "https://www.linkedin.com/posts/tekever_tekever-ceo-on-bloomberg-building-a-global-activity-7508491515149582337-syNa",
+    "https://en.wikipedia.org/wiki/Ricardo_PLC"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）"
+ }
+}

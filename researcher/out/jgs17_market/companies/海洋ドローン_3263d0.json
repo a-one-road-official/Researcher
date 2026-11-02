@@ -1,0 +1,1828 @@
+{
+ "name": "海洋ドローン",
+ "en": "unmanned underwater vehicle",
+ "aliases": [
+  "AUV",
+  "USV",
+  "水中ドローン"
+ ],
+ "context": "7 海洋 ①海洋ドローン",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:52:55.705787+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "水中ドローン市場規模・統計レポート、2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Reuters. “Australia to spend $1.1 billion on Anduril undersea drone fleet.” reuters.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Underwater Drones Market Size, by Vehicle Type, 2025 & 2035 (USD Million)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気推進の市場規模は2025年に24億6,000万米ドルとなり、2035年には市場収益の67.0%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッド推進システムの市場規模は、2025年の基準年シェア15.0%から、2035年には17億3,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・安全保障分野の市場規模は2025年に17億2,000万米ドルとなり、2035年には45.0%のシェアを占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "商業探査は2025年に25.0%のシェアを占め、2035年には市場規模が27億8,000万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ検査分野の市場規模は2025年に7億3,800万米ドルとなり、2026〜2035年に年平均成長率（CAGR）10.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "浅海用車両の市場規模は2025年に12億3,000万米ドルとなり、2035年には27.0%のシェアを占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン市場規模、動向、予測、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルオーシャンドローン市場規模と予測 - 2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米ドル 50,000 - USD 250,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米ドル 250,000 - USD 500,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "USD 500,000 - 米ドル 1,000,000+",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米ドル 50,000 - USD 150,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "USD 150,000 - USD 500,000 +",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "USD 3,000 - 米ドル 15,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "米ドル 15,000 – USD 50,000",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "USD 500,000以下",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "〜USD 20万",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中ドローン市場規模、2033年までの予測レポート",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中ドローン市場規模は2033年までに98億ドルを",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2023:",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン（海洋無人機）とは｜官民投資ロードマップの目標・投資額1.2兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで1.2兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで9.4兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン（海洋無人機）は欧米を中心に石油・ガス開発や安全保障の分野で産業化が先行し、世界のAUV・USV等の市場は40-50億ドルです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、世界市場で３割のシェア獲得（10年後、40-50億ドル程度の試算）と、高付加価値モデルとしての海外展開です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで9.4兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額1.2兆円・経済波及効果9.4兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "※10年後、40-50億ドル程度（一定の仮定の下での試算値）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は年平均8-15%の成長が見込まれる一方、産業化は途上で覇権国は存在しないため、日本にも国際競争力を獲得するチャンスがあります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAUV、USV等の海洋無人機の市場は40-50億ドル※1",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界の海洋無人機の市場は年平均8-15%の成長※1が見込まれている一方、産業化は途上で覇権国は存在しないことから、高付加価値サービスにより国際競争力の獲得が可能",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローンは欧米を中心に石油・ガス開発や安全保障分野で産業化が先行し、世界のAUV・USV等の市場は40-50億ドルです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は年平均8-15%の成長が見込まれる一方、産業化は途上で覇権国は存在せず、高付加価値サービスで国際競争力を獲得できるとされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第8章 市場における世界の総潜在市場規模（TAM）",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模、シェア、成長分析：タイプ別、推進システム別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローンの市場規模、シェア、動向および予測：タイプ、製品タイプ、推進システム、用途、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中ドローン市場規模は、2025年には71億2614万米ドルと評価され、2026年の79億7415万米ドルから2034年には196億312万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の市場は、マイクロ、小型・中型、軽作業用、大型作業用の4つのセグメントに分けられます",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は12.2%で、市場規模は39億3,000万米ドルに達すると推定されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機（UAV）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋ドローン市場2026年：市場規模・トレンド・予測",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "最新調査によると、世界の海洋ドローン市場規模は2025年のxxx百万ドルから2026年にはxxx百万ドルになると推定され、今後5年間の年平均成長率はxx%と予想されます",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "– グローバルな水中ドローン市場規模: 2,950.80百万USD",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "– 北米: 1,200.00百万USD",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "– ヨーロッパ: 800.00百万USD",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "– アジア太平洋: 750.00百万USD",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "HUVは、2025年の基準年シェア5.0%から拡大し、2035年には4億6,300万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヘビーワーククラスの車両は、2035年に30億1,000万米ドルに達し、2026〜2035年に年平均成長率9.4%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "機械式および油圧式の推進方式は、2025年の市場の25.0%を占め、2026〜2035年に年平均成長率（CAGR）7.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "インフラ検査分野の市場規模は2025年に7億3,800万米ドルとなり、2026〜2035年に年平均成長率（CAGR）10.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "深海級ビークルは、2035年までに市場収益の26.0%を占め、2026〜2035年の年平均成長率（CAGR）は11.4%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "超深海型プラットフォームは2025年に10.0%のシェアを占め、2026〜2035年に13.8%のCAGRで成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までに、化合物の年間成長率を示す",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "16.1%のCAGR",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "30.21%のシェアを誇るアジア太平洋地域は、海上経済の拡大、オフショアインフラプロジェクトの増加、スマートオーシャンテクノロジーの推進に向けた戦略的な政府の取り組みにより、海上ドローン市場における最速成長を期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "彼は、Fortune 500 企業や新興企業にサービスを提供し、幅広い事業拡大や市場参入戦略でクライアントを支援してきました",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)9.65%で成長し、2023年の39億米ドルから2033年には98億米ドルに成長すると予想されています",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間のCAGR 2023-2033 :",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は年平均8-15%の成長が見込まれる一方、産業化は途上で覇権国は存在しないため、日本にも国際競争力を獲得するチャンスがあります",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界の海洋無人機の市場は年平均8-15%の成長※1が見込まれている一方、産業化は途上で覇権国は存在しないことから、高付加価値サービスにより国際競争力の獲得が可能",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場は年平均8-15%の成長が見込まれる一方、産業化は途上で覇権国は存在せず、高付加価値サービスで国際競争力を獲得できるとされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の53億3,000万米ドルから、2026年には58億9,000万米ドルへと、CAGR10.5％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年には、CAGR9.7％で85億3,000万米ドルに達すると予測されています",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "第7章 世界の戦略分析フレームワーク、現在の市場規模、市場比較および成長率分析",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中ドローン市場規模は、2025年には71億2614万米ドルと評価され、2026年の79億7415万米ドルから2034年には196億312万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔操作型無人潜水機（ROV）は、予測期間中に年平均成長率（CAGR）9.6%で成長し、市場を牽引すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気システムは、予測期間中に年平均成長率（CAGR）12.3%で成長し、市場を牽引すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "防衛・セキュリティ分野は、予測期間中に年平均成長率（CAGR）12.2%で成長し、最大のセグメントになると予想されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "軽作業用セグメントは、予測期間中に年平均成長率（CAGR）11.9%で成長し、市場を牽引すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中の年平均成長率（CAGR）は12.2%で、市場規模は39億3,000万米ドルに達すると推定されています",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模は、2026年には79億7415万米ドルと評価され、2034年までに196億312万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.9%です",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "最新調査によると、世界の海洋ドローン市場規模は2025年のxxx百万ドルから2026年にはxxx百万ドルになると推定され、今後5年間の年平均成長率はxx%と予想されます",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "– 水中ドローン市場成長率及び予測: 年平均成長率（CAGR）7.8%（2023年から2028年）",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "表：国/地域別の水中海洋ドローンの販売CAGR（2020年、2025年、2032年）",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2022年に発表されたある調査によると、海洋調査でのドローン利用は前年比で40%増加している",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2025年度は4987 億円に拡大する見込みです",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、2024 年度～2030 年度の年間平均成長率は15.2 ％で推移し、2030年",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "前年度比25 ％増の29 億円に拡大し、2025 年度には62",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR ）4.7% を示すと予測されている",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模とYY成長率、2025-2032",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2032年、化合物の年間成長率を展示",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "(CAGR)の 16.3%未満",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "消費者向け水中ドローンの市場は、2022年以来、年間約35%拡大し、PowerVisionやChasing Innovationなどの企業が欧州市場で大きな売上高を報告しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "化合物の年間成長率(CAGR)は、堅牢な需要と市場拡大を反映し、8.3%と17.9%から2033の間で計画されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2025〜2032 CAGR:",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル水中ドローン市場における主要な機会の1つは、オフショア・ウィンド・ファームなどの有利な再生可能エネルギー分野への拡大です",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 14.50%",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2026 to 2035:",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to grow at a CAGR of 14.50% between 2026 and 2035.",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Unmanned underwater vehicle market size will be USD 3891.5 million in 2025: Revenue, Volume, Market Size, Share, CAGR, Growth Trends, Competitor Analysis, Historic Data, and Forecast to 2034",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Rising capital expenditure is expected to boost sales to USD 11496.37 million by 2033, with a Compound Annual Growth Rate (CAGR) of 14.50% from 2025 to 2033. Download a free sample with data verified by Sneha Singh",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025–2033",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicles Market Analysis from 2022 to 2034 Containing Market Size, Share along with its CAGR, Forecast and Trends",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "According to Cognitive Market Research, the global Unmanned underwater vehicle market size will be USD 3891.5 million in 2025. It will expand at a compound annual growth rate (CAGR) of 14.50% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America held the major market share for more than 40% of the global revenue with a market size of USD 1439.86 million in 2025 and will grow at a compound annual growth rate (CAGR) of 12.3% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "APAC held a market share of around 23% of the global revenue with a market size of USD 933.96 million in 2025 and will grow at a compound annual growth rate (CAGR) of 16.5% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "South America has a market share of more than 5% of the global revenue with a market size of USD 147.88 million in 2025 and will grow at a compound annual growth rate (CAGR) of 13.5% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East had a market share of around 2% of the global revenue and was estimated at a market size of USD 155.66 million in 2025 and will grow at a compound annual growth rate (CAGR) of 13.8% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "水中ドローン市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Kongsberg Maritimeは2025年に4%を超える市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は合計で、2025年に16.6%の市場シェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の調査対象企業について公表された機体売上高を分析した結果、上位19社の2025年の売上高合計は、市場全体の約47%を占めたと推定されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "FY2027-FY2028まで米海軍（DoN）によるUUV向け予算配分が維持されれば、防衛・安全保障セグメントは2035年の予測期間末に市場シェア45%に達します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場のROVセグメントは、2025年に22億5,000万米ドルを生み出し、2035年には50.0%のシェアを占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "HUVは、2025年の基準年シェア5.0%から拡大し、2035年には4億6,300万米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ライトワーククラスの車両は、2025年に売上高の35.0%を占め、2035年には33.0%のシェアを維持すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "電気推進の市場規模は2025年に24億6,000万米ドルとなり、2035年には市場収益の67.0%を占めると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Underwater Drones Market Share, by Propulsion Type, 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "オーシャンドローン市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "無人水中車両(UUV)セグメントは、2025年に71.3%の推定シェアを保持する市場をリードします",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "無人水中車(UUV)は、2025年に71.3%の投影されたシェアを持ち、地球規模の海洋ドローン市場を占めています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "遠隔操作車(ROV)は、2025年の世界の海洋の無人機の市場シェアの64.1%の推定シェアを握ります、それらはリアルタイムの人間制御および監督を含んでいて、複雑な水中ミッションの間に正確さそして適応性を保障します",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年に35.32%を投影したシェアを持ち、先進技術インフラ、大幅な政府支援、多数の大手海洋技術企業の存在を背景に、世界的な海洋ドローン市場を指しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "30.21%のシェアを誇るアジア太平洋地域は、海上経済の拡大、オフショアインフラプロジェクトの増加、スマートオーシャンテクノロジーの推進に向けた戦略的な政府の取り組みにより、海上ドローン市場における最速成長を期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームタイプでは、無人水中車両(UUV)セグメントは、2025年に市場収益シェアを支配すると推定されています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中ドローン市場の規模、シェア、COVID-19の影響分析、タイプ別(遠隔操作車両(ROV)、自律型水中車両(AUV)、ハイブリッド車両)、製品タイプ別(マイクロ、小型および中型、軽量作業クラス、重量作業クラス、その他)、推進システム別(電気システム、機械システム、ハイブリッドシステム)、アプリケーション別(防衛およびセキュリティ、科学研究、商業探査、その他)、地域別(北米、ヨーロッパ、アジア太平洋、ラテンアメリカ、中東、アフリカ)、分析および予測2023年～2033年",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "規模、シェア、COVID-19の",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン（海洋無人機）とは｜「群」運用と海洋データのパッケージで世界市場3割のシェアへ",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資ロードマップは、機体だけでなく「群」での運用や海洋データの活用まで含めたパッケージで、世界市場で３割のシェアを獲得する目標を掲げました",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場で３割のシェア獲得",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、世界市場で３割のシェア獲得（10年後、40-50億ドル程度の試算）と、高付加価値モデルとしての海外展開です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標 ― 世界市場で３割のシェア獲得",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界市場で３割※のシェア獲得",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "目標は、世界市場で３割のシェア獲得と、高付加価値モデルとしての海外展開です",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン（海洋無人機）の世界市場で３割のシェア獲得を目指します（10年後、40-50億ドル程度",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "・安全保障や石油・ガス開発のみならず、洋上風力や海面養殖、洋上設備の保守管理、環境保全など、利用範囲は海洋に関わる広範な分野に広がっており、新たな産業として大きな成長が期待されるところ、世界市場で３割※2のシェア獲得を目指す",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "のシェア（10年後、",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローンの世界市場で３割のシェア獲得（10年後、40-50億ドル程度の試算）を目指します",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "「国の官民投資ロードマップは、海洋ドローン（海洋無人機）で世界市場の３割のシェア獲得を目指し、実証フィールドの確保や公共調達による初期需要確保（アンカーテナンシー）を進めるとしている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界市場で３割のシェア獲得を目指します（10年後、40-50億ドル程度",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場 | 市場規模 業界シェア 市場分析 成長性 2026年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場：競合情勢と市場シェア、2024年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模、シェア、成長分析：タイプ別、推進システム別、用途別、地域別－業界予測2026-2033年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローンの市場規模、シェア、動向および予測：タイプ、製品タイプ、推進システム、用途、地域別、2026年～2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場- 世界産業規模、シェア、動向、機会、および予測（タイプ別、用途別、推進システム別、地域別、競合別）、2020-2030年",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模、シェア、トレンド分析レポート：タイプ別（遠隔操作型水中ビークル（ROV）、自律型水中ビークル（AUV）、ハイブリッドビークル）、用途別（防衛・セキュリティ、科学研究、商業探査、その他）、推進システム別（電気システム、機械システム、ハイブリッドシステム）、製品タイプ別（マイクロ、小型・中型、軽量作業クラス、重量作業クラス）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に36.4%の市場シェアを占め、水中ドローン市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "小型ドローン市場の規模、シェア、成長、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "地球観測ドローン市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "商用ドローン市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "無人航空機（UAV）市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業別売上及び市場シェア（～2025年）",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のシングルチップマイクロコンピューター市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：4ビット、8ビット、16ビット、32ビット、その他、用途別：インテリジェント計装、インテリ …",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "11. 世界の主要ブランド：各企業の価格、販売、収益、粗利益、市場シェア 2020-2025年",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "表：各企業の会社概要、販売、収益（$）、価格、粗利益、世界市場シェア（2019-2024年）",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "年に37.67% の市場シェアでUSV市場を支配した",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "タイプに従って、 遠隔操作のカテゴリーは、2025年に水中ドローン市場向けに61.2%の最大のシェアを想定しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "アプリケーションによると、防衛とセキュリティセグメントは、2025年に水中ドローン市場の35.5%のシェアを保持することを期待しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "地域によると、北アメリカは2025年までに水中ドローン市場成長のための45.80%の最大の市場シェアを保持しています",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "水中ドローン市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の主要企業には、Kongsberg Maritime、Teledyne Technologies、General Dynamics Mission Systems、L3Harris Technologies、HII Mission Technologiesなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "香港スベルク・グルッペンASA、テレデューン・テクノロジーズ株式会社、サブ・アブ、ジェネラル・ダイナミクス・ミッション・システム、L3ハリス・テクノロジーズ、ロッキード・マーティン・コーポレーション、ECAグループ、HIIは主要プレイヤーです",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋ドローン市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料に含まれる主要企業は、The Oceanscience Group、YUNZHOU TECH、Deep Ocean Engineering、…などがあり、各企業の海洋ドローン販売状況、製品・事業概要、市場シェアなどを掲載しています",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の医師・看護師用スケジュールシステム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：Webベース、クラウド、SaaS、オンプレミス、モバイルインストール、用途別 …",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の農業機械用ディーゼルエンジン市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：単気筒エンジン、多気筒エンジン、用途別：農業用車両、作物加工機械、その他）、主要地 …",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAGグラス市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：化学エッチング、スプレー、コーティング、用途別：家電、自動車、家電、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料に含まれる主要企業は、Sch …",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のシングルチップマイクロコンピューター市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：4ビット、8ビット、16ビット、32ビット、その他、用途別：インテリジェント計装、インテリ …",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の有害昆虫防除市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：化学薬品、物理、生物学、その他、用途別：商業・工業、住宅、畜産、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "10.2 日本における主要企業のパフォーマンス 2020-2025年",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場ポジション",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 主要企業概要、市場データおよび業績",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle (UUV) Market: By Type; By Application: Commercial Exploration, Defence, Scientific Research, Others; By Payload; By Propulsion System; By Product Type; Regional Analysis; Market Dynamics: SWOT Analysis, Porter’s Five Forces Analysis; Competitive Landscape; 2026-2035",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "*Please note that this is only a partial list; the complete list of key players is available in the full report. Additionally, the list of key players can be customized to better suit your needs.*",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "Presents an in-depth competitive landscape profiling, covering leading domestic and international UUV manufacturers, their strategies, and market positioning.",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the global unmanned vehicle (UUV) market?",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "The key players in the market include Oceaneering International Inc., General Dynamics Mission Systems, Inc., TechnipFMC plc, Boston Engineering Corporation, BaltRobotics Sp.z.o.o., Saab AB, and other prominent companies.",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the Unmanned underwater vehicle Market",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Segment Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "South America Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Africa Unmanned Underwater Vehicles Market Analysis by Key Players",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Disruption & Strategic Shifts",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicles (UUV) Market Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Unmanned Underwater Vehicles (UUV) market is moderately fragmented, with many large and medium-sized players accounting for majority of market revenue. Major players are deploying various strategies, entering into mergers & acquisitions, strategic agreements & contracts, developing, testing, and introducing more effective unmanned underwater vehicles.",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some major players included in the global Unmanned Underwater Vehicles (UUV) market report are:",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 11. Competitive Landscape",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicles (UUV) Market Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the Key players in the Unmanned Underwater Vehicles (UUV) Market?",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading Players in the market are Kongsberg, Teledyne Marine, Lockheed Martin, Saab, L3T, Subsea 7, Atlas Elektronik, ISE, Eca Group, Gabri S.R.L.",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled",
+    "url": "https://growthmarketreports.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Market Concentration",
+    "url": "https://growthmarketreports.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "How is the competitive landscape changing across major regions?",
+    "url": "https://finance.yahoo.com/technology/articles/unmanned-sea-systems-global-market-144700615.html?fr=sycsrp_catchall",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "海洋ドローン（海洋無人機）とは｜官民投資ロードマップの目標・投資額1.2兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで9.4兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額1.2兆円・経済波及効果9.4兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、投資による経済波及効果は2040年度までで9.4兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック製滅菌トレイの世界市場2025：種類別（ポリプロピレン（PP）滅菌トレイ、ポリエチレンテレフタレート（PET）滅菌トレイ、ポリ塩化ビニル（PVC）滅菌トレイ、その他）、用途別分析",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.govconwire.com/2022/07/leidos-wins-potential-358m-contract-to-develop-navys-medium-uuv-platform/",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.2.1. Rising investment of businesses in the oil and gas industry",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "水中 ドローン市場規模 ・統計レポート、2026〜2035年 — 水中 ドローン市場規模 ・統計レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > underwater-drones-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン市場規模 、動向、予測、2025-2032 — 海洋ドローン市場規模 、動向、予測、2025-2032 Coherent Market Insights https://www.coherentmarketinsights.com > オーシャンドロ...",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "pass": 3
+   },
+   {
+    "quote": "世界の水中 ドローン市場規模 、2033年までの予測レポート — 世界の水中 ドローン市場規模 、2033年までの予測レポート Spherical Insights https://www.sphericalinsights.com > reports > underwater-...",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン （海洋無人機）とは｜官民投資ロードマップの ... — 海洋ドローン （海洋無人機）とは｜官民投資ロードマップの ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (7) 海洋",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場 | 市場規模 業界シェア 市場分析 成長性 2026年 — Mar 19, 2026 · 水中ドローン市場の各社は、高度な海洋探査やリアルタイムのデータ収集に対する需要の高まりに応えるため、ワイヤレスストリーミング機能を備えた水中ドローンなどの技術革新に注力しています。",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模、シェア、成長率、予測（2034年まで） — Aug 24, 2026 · 水中ドローンの市場規模は、2026年の79億7415万ドルから2034年には196億312万ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.9%となる見込みです。",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋ドローン市場2026年 ：Marine Drone — ※当レポートは英文です。 日本語版はありません。 ※下記記載のレポート概要・目次・セグメント項目・企業名などは最新情報ではない可能性がありますので、ご購入の前にサンプルを依頼してご確認ください。 レポート概要",
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模・統計レポート、2026〜2035年 — 主要企業： 本市場の上位5社は、 Kongsberg Maritime、Teledyne Technologies、General Dynamics Mission Systems、L3Harris Technologies、HII Mission Technologies です。 これらの企業は合計で、2025年に16.6%の市場シェアを占めました。",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン - メーカー・企業11社の製品一覧とランキング | イプロ... — 5 days ago · 水中ドローンのメーカーや取扱い企業、製品情報、参考価格をまとめています。 技術資料のダウンロードも可能です。 イプロスでは水中ドローンのBtoB向けの情報を多数掲載。",
+    "url": "https://www.ipros.com/cg2/水中ドローン/",
+    "pass": 3
+   },
+   {
+    "quote": "水中海洋ドローンの世界および日本市場調査レポート - PW Consulting ... — 水中海洋ドローンの世界および日本市場調査レポート 2025-12-28 admin New Technology 研究の鍵データ – グローバルな水中ドローン市場規模: 2,950.80百万USD – 地域別の市場規模: – 北米: 1,200.00百万USD – ヨーロッパ: 800.00百万USD – アジア太平洋: 750.00百万USD",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "海洋ドローン市場規模、動向、予測、2025-2032 — Mar 17, 2026 · また、海洋探査への投資を増加させ、持続可能な海洋慣行に重点を置き、イノベーションを推進しています。 リアルタイムの海洋分析データと、水中検査および資源マッピングにおける商業機会の拡大の必要性が高まっています。",
+    "url": "https://www.coherentmarketinsights.com/ja/オーシャンドローン市場",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模とYY成長率、2025-2032 — Mar 31, 2026 · 水中ドローン市場は、防衛、セキュリティ、監視などの用途の領域を増加させることによって、重要な成長を目撃しています。 国間の地政的な緊張によるセキュリティ上の懸念は、海上保安に費やす防衛の増加につながりました。",
+    "url": "https://www.coherentmarketinsights.com/ja/水中ドローン市場",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場規模・統計レポート、2026〜2035年 — 水中ドローン市場規模 水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています。",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中ドローン市場の規模、シェア、成長率、予測（2034年まで） — Aug 24, 2026 · 世界の水中ドローン市場規模は、2025年には71億2614万米ドルと評価され、2026年の79億7415万米ドルから2034年には196億312万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです。",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle Market Size & Share Analysis ... — Sep 11, 2026 · Unmanned Underwater Vehicle Market Analysis by Mordor Intelligence The unmanned underwater vehicle market size reached USD 4.01 billion in 2025 and is projected to advance to USD 5.58 billion by 2030, reflecting a 6.83% CAGR. Rising naval modernization budgets, expanding offshore wind build-outs, and heightened concern f",
+    "url": "https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle (UUV) Market Outlook | 2035 — Sep 9, 2026 · The global unmanned underwater vehicle (UUV) market size was valued at USD 5.85 Billion in 2025. The industry is expected to grow at a CAGR of 14.50% during the forecast period of 2026-2035 to reach a value of USD 22.66 Billion by 2035.",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Unmanned underwater vehicle market size will be ... — According to Cognitive Market Research, the global Unmanned underwater vehicle market size will be USD 3891.5 million in 2025. It will expand at a compound annual growth rate (CAGR) of 14.50% from 2025 to 2033.",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicles (UUV) Market Size, Share ... — Jul 24, 2026 · The global Unmanned Underwater Vehicles (UUV) market size was USD 5.86 Billion in 2025 and is expected to register a revenue CAGR of 14.2% during the forecast period.",
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Unmanned Underwater Vehicles (UUV) Market Size, Growth ... — May 20, 2026 · Unmanned Underwater Vehicles (UUV) Market size was valued at $ 4.96 Billion in 2025 & is estimated to reach $ 14.34 Billion by 2033, exhibiting a CAGR of 14.2% from 2026-2033",
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle (UUV) Market Size, Share ... — Oct 1, 2025 · The global unmanned underwater vehicle market reached $4.6 billion in 2025 and reaches $10.0 billion by 2033 at a CAGR of 10.2%, adding $5.4 billion of annual revenue",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle Market Size & Share Analysis ... — Sep 11, 2026 · The Unmanned Underwater Vehicle Market is expected to reach USD 4.01 billion in 2025 and grow at a CAGR of 6.83% to reach USD 5.58 billion by 2030. Kongsberg Gruppen ASA, Teledyne Technologies Incorporated, Saab AB, Oceaneering International, Inc. and Fugro N.V. are the major companies operating in this market.",
+    "url": "https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle Market 2026: Size, Share & Companies — 5 days ago · The unmanned underwater vehicle market, measured as new AUV, ROV, hybrid and glider systems sold at manufacturer price, was worth USD 3.36 billion in 2025 and reaches USD 7.67 billion by 2034, a CAGR of 9.6%.",
+    "url": "https://growthmarketreports.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicles [UUVs] Market Share 2034Unmanned Underwater Vehicle (UUV) Market Outlook | 2035Unmanned Underwater Vehicle (UUV) Market Size, Share ...Unmanned Sea Systems Global Market Report 2026 | BAE Systems ...Unmanned Marine Vehicles Market Size, Share, Forecast, 2034 — Unmanned Underwater Vehicles Demand Has Risen Due to Russia-Ukraine War The conflict between Russia and Ukrain",
+    "url": "https://www.fortunebusinessinsights.com/unmanned-underwater-vehicles-uuv-market-102527",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle (UUV) Market Outlook | 2035 — Sep 9, 2026 · Key Insight: Sensors account for the largest share in the global Unmanned Underwater Vehicle (UUV) market, providing essential support for navigation, environmental monitoring, and threat detection.",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Underwater Vehicle (UUV) Market Size, Share ... — Oct 1, 2025 · The unmanned underwater vehicle market reached $4.6 billion in 2025 and grows at a 10.2% CAGR to $10.0 billion by 2033, led by defense AUV and XLUUV demand.",
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "pass": 3
+   },
+   {
+    "quote": "Unmanned Sea Systems Global Market Report 2026 | BAE Systems ... — 5 days ago · The report analyzes the global unmanned sea systems market by value in U.S. dollars. Market segmentation includes unmanned underwater vehicles and unmanned surface vehicles, as well as autonomous ...",
+    "url": "https://finance.yahoo.com/technology/articles/unmanned-sea-systems-global-market-144700615.html?fr=sycsrp_catchall",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています"
+   },
+   {
+    "value": "9.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "ヘビーワーククラスの車両は、2035年に30億1,000万米ドルに達し、2026〜2035年に年平均成長率9.4%で成長すると予測されています"
+   },
+   {
+    "value": "7.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "機械式および油圧式の推進方式は、2025年の市場の25.0%を占め、2026〜2035年に年平均成長率（CAGR）7.3%で成長すると予測されています"
+   },
+   {
+    "value": "10.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "インフラ検査分野の市場規模は2025年に7億3,800万米ドルとなり、2026〜2035年に年平均成長率（CAGR）10.3%で成長すると予測されています"
+   },
+   {
+    "value": "11.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "深海級ビークルは、2035年までに市場収益の26.0%を占め、2026〜2035年の年平均成長率（CAGR）は11.4%になると予測される"
+   },
+   {
+    "value": "9.65",
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "quote": "規模は、予測期間中に年平均成長率(CAGR)9.65%で成長し、2023年の39億米ドルから2033年には98億米ドルに成長すると予想されています"
+   },
+   {
+    "value": "10.5",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "quote": "2025年の53億3,000万米ドルから、2026年には58億9,000万米ドルへと、CAGR10.5％で成長すると見込まれています"
+   },
+   {
+    "value": "9.7",
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "quote": "2030年には、CAGR9.7％で85億3,000万米ドルに達すると予測されています"
+   },
+   {
+    "value": "11.9",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "quote": "世界の水中ドローン市場規模は、2025年には71億2614万米ドルと評価され、2026年の79億7415万米ドルから2034年には196億312万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです"
+   },
+   {
+    "value": "9.6",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "quote": "遠隔操作型無人潜水機（ROV）は、予測期間中に年平均成長率（CAGR）9.6%で成長し、市場を牽引すると予想されています"
+   },
+   {
+    "value": "12.3",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "quote": "電気システムは、予測期間中に年平均成長率（CAGR）12.3%で成長し、市場を牽引すると予想されています"
+   },
+   {
+    "value": "12.2",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "quote": "防衛・セキュリティ分野は、予測期間中に年平均成長率（CAGR）12.2%で成長し、最大のセグメントになると予想されています"
+   },
+   {
+    "value": "7.8",
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "quote": "– 水中ドローン市場成長率及び予測: 年平均成長率（CAGR）7.8%（2023年から2028年）"
+   },
+   {
+    "value": "4.7",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "quote": "CAGR ）4.7% を示すと予測されている"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "(CAGR)の 16.3%未満"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "化合物の年間成長率(CAGR)は、堅牢な需要と市場拡大を反映し、8.3%と17.9%から2033の間で計画されています"
+   },
+   {
+    "value": "14.50",
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "quote": "CAGR of 14.50%"
+   },
+   {
+    "value": "14.50",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "quote": "Rising capital expenditure is expected to boost sales to USD 11496.37 million by 2033, with a Compound Annual Growth Rate (CAGR) of 14.50% from 2025 to 2033. Download a free sample with data verified by Sneha Singh"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "quote": "North America held the major market share for more than 40% of the global revenue with a market size of USD 1439.86 million in 2025 and will grow at a compound annual growth rate (CAGR) of 12.3% from 2025 to 2033."
+   },
+   {
+    "value": "16.5",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "quote": "APAC held a market share of around 23% of the global revenue with a market size of USD 933.96 million in 2025 and will grow at a compound annual growth rate (CAGR) of 16.5% from 2025 to 2033."
+   },
+   {
+    "value": "13.5",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "quote": "South America has a market share of more than 5% of the global revenue with a market size of USD 147.88 million in 2025 and will grow at a compound annual growth rate (CAGR) of 13.5% from 2025 to 2033."
+   },
+   {
+    "value": "13.8",
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "quote": "Middle East had a market share of around 2% of the global revenue and was estimated at a market size of USD 155.66 million in 2025 and will grow at a compound annual growth rate (CAGR) of 13.8% from 2025 to 2033."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "Kongsberg Maritimeは2025年に4%を超える市場シェアを獲得し、市場をリードしました"
+   },
+   {
+    "value": "16.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "これらの企業は合計で、2025年に16.6%の市場シェアを占めました"
+   },
+   {
+    "value": "47",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "水中ドローン市場の調査対象企業について公表された機体売上高を分析した結果、上位19社の2025年の売上高合計は、市場全体の約47%を占めたと推定されます"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "FY2027-FY2028まで米海軍（DoN）によるUUV向け予算配分が維持されれば、防衛・安全保障セグメントは2035年の予測期間末に市場シェア45%に達します"
+   },
+   {
+    "value": "50.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "水中ドローン市場のROVセグメントは、2025年に22億5,000万米ドルを生み出し、2035年には50.0%のシェアを占めると予測されています"
+   },
+   {
+    "value": "40.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています"
+   },
+   {
+    "value": "12.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています"
+   },
+   {
+    "value": "5.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "HUVは、2025年の基準年シェア5.0%から拡大し、2035年には4億6,300万米ドルに達すると予測されています"
+   },
+   {
+    "value": "10.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています"
+   },
+   {
+    "value": "14.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています"
+   },
+   {
+    "value": "35.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "ライトワーククラスの車両は、2025年に売上高の35.0%を占め、2035年には33.0%のシェアを維持すると予測されています"
+   },
+   {
+    "value": "33.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "ライトワーククラスの車両は、2025年に売上高の35.0%を占め、2035年には33.0%のシェアを維持すると予測されています"
+   },
+   {
+    "value": "67.0",
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "quote": "電気推進の市場規模は2025年に24億6,000万米ドルとなり、2035年には市場収益の67.0%を占めると予測されています"
+   },
+   {
+    "value": "71.3",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "無人水中車両(UUV)セグメントは、2025年に71.3%の推定シェアを保持する市場をリードします"
+   },
+   {
+    "value": "64.1",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "遠隔操作車(ROV)は、2025年の世界の海洋の無人機の市場シェアの64.1%の推定シェアを握ります、それらはリアルタイムの人間制御および監督を含んでいて、複雑な水中ミッションの間に正確さそして適応性を保障します"
+   },
+   {
+    "value": "35.32",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "北米は、2025年に35.32%を投影したシェアを持ち、先進技術インフラ、大幅な政府支援、多数の大手海洋技術企業の存在を背景に、世界的な海洋ドローン市場を指しています"
+   },
+   {
+    "value": "30.21",
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "30.21%のシェアを誇るアジア太平洋地域は、海上経済の拡大、オフショアインフラプロジェクトの増加、スマートオーシャンテクノロジーの推進に向けた戦略的な政府の取り組みにより、海上ドローン市場における最速成長を期待しています"
+   },
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "quote": "北米は2025年に36.4%の市場シェアを占め、水中ドローン市場を牽引しました"
+   },
+   {
+    "value": "37.67",
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "quote": "年に37.67% の市場シェアでUSV市場を支配した"
+   },
+   {
+    "value": "61.2",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "タイプに従って、 遠隔操作のカテゴリーは、2025年に水中ドローン市場向けに61.2%の最大のシェアを想定しています"
+   },
+   {
+    "value": "35.5",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "アプリケーションによると、防衛とセキュリティセグメントは、2025年に水中ドローン市場の35.5%のシェアを保持することを期待しています"
+   },
+   {
+    "value": "45.80",
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "quote": "地域によると、北アメリカは2025年までに水中ドローン市場成長のための45.80%の最大の市場シェアを保持しています"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%BE%8B%E5%9E%8B%E6%B5%B7%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-116376",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenablog.jp/entry/2026/03/06/145857",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/cg2/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_%E3%80%90%E8%B3%87%E6%96%992-1%E3%80%91%E4%B8%80%E8%88%AC%E7%A4%BE%E5%9B%A3%E6%B3%95%E4%BA%BA%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%8D%94%E4%BC%9A%E7%99%BA%E8%A1%A8%E8%B3%87%E6%96%99.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/ja/%E6%B0%B4%E4%B8%AD%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ubs.com/global/en/investor-relations/complementary-financial-information/disclosure-legal-entities/ubs-ag-consolidated.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/unmanned-underwater-vehicle-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/unmanned-underwater-vehicles-uuv-market-102527",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/technology/articles/unmanned-sea-systems-global-market-144700615.html?fr=sycsrp_catchall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/unmanned-marine-vehicles-market-117835",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海洋ドローン 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%BE%8B%E5%9E%8B%E6%B5%B7%E4%B8%8A%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-116376",
+    "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4",
+    "https://jp.linkedin.com/pulse/%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B-%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3-%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E4%BA%88%E6%B8%ACcagr-82%E3%81%AE%E5%B8%82%E5%A0%B4%E4%BA%88%E6%B8%AC-cumuluscatchx-2ypje",
+    "https://www.sphericalinsights.com/jp/reports/underwater-drones-market",
+    "https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html",
+    "https://straitsresearch.com/jp/report/drone-market",
+    "https://www.sdki.jp/reports/global-underwater-drone-market/111684",
+    "https://www.atpress.ne.jp/news/3080086",
+    "https://www.futuremarketreport.com/ja/industry-report/underwater-ocean-drone-market/"
+   ]
+  },
+  {
+   "query": "海洋ドローン 市場 シェア 上位 企業",
+   "results": [
+    "https://yhrnews.hatenablog.jp/entry/2026/03/06/145857",
+    "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html",
+    "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/",
+    "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "https://www.ipros.com/cg2/水中ドローン/",
+    "https://www.businessresearchinsights.com/jp/market-reports/maritime-drone-market-122310&"
+   ]
+  },
+  {
+   "query": "海洋ドローン 市場 前年比 2025",
+   "results": [
+    "https://jp.pmarketresearch.com/underwater-ocean-drone-jp/",
+    "https://www.mlit.go.jp/sogoseisaku/SeaMobilityPF/pdf/conference9/07_【資料2-1】一般社団法人日本水上ドローン協会発表資料.pdf",
+    "https://www.coherentmarketinsights.com/ja/オーシャンドローン市場",
+    "https://www.coherentmarketinsights.com/ja/水中ドローン市場",
+    "https://www.gminsights.com/ja/industry-analysis/underwater-drones-market",
+    "https://straitsresearch.com/jp/report/underwater-drones-market",
+    "https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html"
+   ]
+  },
+  {
+   "query": "unmanned underwater vehicle market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market",
+    "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report",
+    "https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market",
+    "https://www.verifiedmarketreports.com/product/unmanned-underwater-vehicles-uuv-market-size-and-forecast/",
+    "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "https://www.statifacts.com/outlook/unmanned-underwater-vehicle-uuv-market"
+   ]
+  },
+  {
+   "query": "unmanned underwater vehicle market share top players percent",
+   "results": []
+  },
+  {
+   "query": "unmanned underwater vehicle market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://consolidatednd.com/",
+    "https://nebnet.net/",
+    "https://www.ubs.com/global/en/investor-relations/complementary-financial-information/disclosure-legal-entities/ubs-ag-consolidated.html",
+    "https://www.consolidatedsupply.com/",
+    "https://consolidated.nyc/",
+    "https://www.consolidated.com/support/view-or-pay-my-bill"
+   ]
+  },
+  {
+   "query": "unmanned underwater vehicle market key companies share 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market",
+    "https://growthmarketreports.com/report/unmanned-underwater-vehicle-market",
+    "https://www.fortunebusinessinsights.com/unmanned-underwater-vehicles-uuv-market-102527",
+    "https://www.expertmarketresearch.com/reports/unmanned-underwater-vehicle-uuv-market",
+    "https://dataintelo.com/report/unmanned-underwater-vehicle-market",
+    "https://finance.yahoo.com/technology/articles/unmanned-sea-systems-global-market-144700615.html?fr=sycsrp_catchall",
+    "https://www.fortunebusinessinsights.com/unmanned-marine-vehicles-market-117835"
+   ]
+  }
+ ],
+ "missing": {}
+}

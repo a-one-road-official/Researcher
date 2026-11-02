@@ -1,0 +1,1653 @@
+{
+ "name": "Sourcengine",
+ "aliases": [],
+ "context": "電子部品調達マーケットプレイス",
+ "researched_at": "2026-11-02T14:41:30.985990+00:00",
+ "official_url": "https://www.sourcengine.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Electronic Components Marketplace for Professional Buyers and Engineers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceable or Vetted Suppliers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Featured Manufacturers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See All Manufacturers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine is an e-commerce marketplace for professional buyers in the electronic components industry. Our components, from over 3,500 suppliers, are traceable and can be purchased in one easy transaction.",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": ", we built a platform that enables our customers to issue one purchase order (PO) for an entire bill of materials (BOM). Sourcengine offers a suite of digital tools that provide the data, workflows, and visibility to organizations for efficient supply chain management.",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "By partnering with Sourceability, a known logistics, supply, and fulfillment expert, customers can safely order from our e-commerce marketplace and know their orders will arrive in the timeliest of manners.",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Our Quality team members implement a 3-tier incoming Inspection process based on the IDEA‌-1010B standard as well as other stringent industry quality standards. These strict standards ensure the highest quality and complete material conformance.",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us/compliance-certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/compliance-certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine collaborates with the best and brightest companies in their respective fields of expertise to provide our customers and suppliers with the tools and user experiences to drive growth for their businesses.",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sourceability is a global technology company and hybrid distributor of electronic components. With 20 locations in 13 countries, the Sourceability team is the logistics backbone of Sourcengine. The global team at Sourceability ensures that Sourcengine customers have an experienced sourcing and support team behind every order placed on Sourcengine.",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Plans New Restrictions on AI and Quectel Update Concerns Suppliers - January 24th, 2025",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This was evident in the immediate stock market drops for the newly listed companies the following day. Likewise, this creates additional challenges for buyers who procure products from the listed companies. Quectel is one such example.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Due to its competitive pricing and technological advancements, Quectel, a supplier with a 35% market share, is likely to be involved in the trade war more often, especially given its focus on semiconductors. This disruption could lead to more significant component unavailability, compliance issues, and delayed manufacturing for its customers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "All of this could impact a company’s reputation further, causing additional damage after what was already incurred by simply being included on the list for customers that cannot risk the disruption to their supply chain, especially those that are trying to take advantage of the market turnaround after the glut of years prior.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", NSTC members and NAPMP-funded researchers will have access to 300-mm research, prototyping, and packaging capabilities. Furthermore, co-locating the NSTC research and development prototyping in the same facility as NAPMP’s packaging abilities will provide the U.S. domestic semiconductor ecosystem with a powerful way to conduct collaborative research efficiently.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These actions aim to help the federal government, one of the world’s largest buyers, better organize its demand for domestic semiconductors so that agencies can mitigate risks arising from undue dependence on foreign manufacturing. This will also help support efforts to bolster supply chain resiliency, which has fallen by the wayside for several decades.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Restrictions Hit Semiconductor Equipment Manufacturers",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "CNBC states that the new restriction package includes curbs on China-bound shipments of high-bandwidth memory (HBM), a component critical in the production of AI applications, thanks to its impressive capabilities. The restrictions also curb 24 additional chipmaking tools, three software tools, and new export rules on chipmaking equipment manufacturers in countries such as Singapore and Malaysia.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These restrictions will likely hurt sales for major U.S. chipmaking equipment manufacturers Lam Research, KLA, and Applied Materials, which have previously criticized such moves as more harmful than helpful. Advanced lithography manufacturer ASML will also likely feel the effects of this new crackdown.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. lawmakers say Swaysure Technology Co., Qingdao SiEn, and Shenzhen Pensun Technology Co. all work with China’s Huawei Technologies. Unless they receive a special license, they will be added to the entity list that bars U.S. suppliers from shipping to them. CNBC states that companies seeking licenses to ship to firms on the entity list are typically denied.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The explosive growth of AI is leading customers to want even better performances. HBM manufacturers are considering new modifications to increase processing data speeds and reliability. The article states that three HBM manufacturers,",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This would put the U.S. back where it started: depending on foreign manufacturers for chip supplies. Depending on President-elect Trump's policies, these supplies could also become far more expensive.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff Ferry, Chief Economist at the Coalition for a Prosperous America, estimated that tariffs could “create roughly 100,000 jobs at US chip manufacturers and their suppliers.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, semiconductor manufacturers in the U.S. are racing to finalize funding agreements under the CHIPS Act. This is due to comments from President-elect Trump, which may put the future of the CHIPS Act at risk.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "familiar with the matter, which confirmed that TSMC told Chinese customers “It would no longer manufacture AI chips at advanced process nodes of 7 nanometers or smaller.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The Financial Times article added, \"Future supplies of advanced AI chips by TSMC to Chinese customers would be subject to an approval process likely to involve Washington.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Through this funding, the U.S. is solidifying previously laid groundwork that went into producing chips domestically while decreasing reliance on foreign suppliers. Since the U.S. has outsourced most of its semiconductor production over the last decade, preexisting avenues within the U.S. domestic market have eroded, requiring fine-tuning.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This technology has already been qualified and applied in Infineon’s Integrated Smart Power Stages (DC-DC converter), which first customers are already being sent. It will be interesting to see how Infineon’s new technology further improves the AI applications that it powers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic component excess continues to challenge numerous sectors, with memory suppliers seeing procurement professionals use excess stock to fill any backlogs that develop. There was hope that demand might rebound in the latter half of the year in preparation for seasonal sales. However, that hope has diminished in recent weeks as indicators from the Chinese market prove otherwise.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TrendForce notes that “PC SSDs and UFS will see more cautious procurement strategies from buyers, as weaker-than-expected sales of end products drive buyers to adopt a conservative approach.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TrendForce attributes the coming quarter's poor performance to inflation and limited practical use cases for AI. This has “hindered any significant upgrade cycles despite manufacturers actively introducing AI-powered PCs.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Concurrently, several major manufacturers have returned to full capacity utilization during 3Q, primarily due to process upgrades. This has caused a modest rise in overall capacity, which, while a move toward stabilization, is not enough to support price increases, with the sluggish consumer market showing no signs of improvement lately.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "EETimes Asia reports that “the widening gap between spot market prices, channel prices, and OEM contract prices has further restricted suppliers’ ability to raise prices.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Certifications + memberships",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine is an e-commerce marketplace that provides professional component buyers with news updates, technical data, and robust online transaction capabilities. It utilizes Sourceability’s infrastructure to process, fulfill, and invoice parts orders made from around the world. Because the company maintains 20 locations in 13 countries, Sourcengine has a worldwide reach.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Whether customers are breaking into emerging markets or expanding their territory, Sourcengine can help. With Sourceability as a logistics provider, it has access to a global supply chain network and hundreds of skilled staffers. The marketplace’s dedicated buyers, inspectors, and warehouse teams work diligently to ensure users can purchase active, hard-to-find, and EOL parts on demand.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, Sourceability maintains warehouses in Hong Kong, Singapore, Germany, and the United States. Thanks to its global footprint, the company can ship products to its customers’ manufacturing facilities, regardless of location. Accordingly, firms that make purchases through Sourcengine can gain the key strategic advantage over rivals that depend on antiquated supply chains.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Sourceability can also represent its customers and vendors during the customs examination, assessment, and payment of duty process. Moreover, it can facilitate the delivery of fully documented cargo from customs after clearance to streamline its customer’s procurement operations.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "As a worldwide electronic components industry leader, it is proud to offer strategic stocking options to best support its customers around the globe. It cultivated relationships with several",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "leading global manufacturers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traceable or Vetted Suppliers",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine is an e-commerce marketplace for professional buyers in the electronic components industry. Our components, from over 3,500 suppliers, are traceable and can be purchased in one easy transaction.",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": ", to provide worldwide fulfillment of orders in a timely manner. With 20 locations around the globe and in 13 countries, there is no place that Sourcengine cannot deliver to.",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "By partnering with Sourceability, a known logistics, supply, and fulfillment expert, customers can safely order from our e-commerce marketplace and know their orders will arrive in the timeliest of manners.",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Number of orders",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Our Quality team members implement a 3-tier incoming Inspection process based on the IDEA‌-1010B standard as well as other stringent industry quality standards. These strict standards ensure the highest quality and complete material conformance.",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/compliance-certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine collaborates with the best and brightest companies in their respective fields of expertise to provide our customers and suppliers with the tools and user experiences to drive growth for their businesses.",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Plans New Restrictions on AI and Quectel Update Concerns Suppliers - January 24th, 2025",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", NSTC members and NAPMP-funded researchers will have access to 300-mm research, prototyping, and packaging capabilities. Furthermore, co-locating the NSTC research and development prototyping in the same facility as NAPMP’s packaging abilities will provide the U.S. domestic semiconductor ecosystem with a powerful way to conduct collaborative research efficiently.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. lawmakers say Swaysure Technology Co., Qingdao SiEn, and Shenzhen Pensun Technology Co. all work with China’s Huawei Technologies. Unless they receive a special license, they will be added to the entity list that bars U.S. suppliers from shipping to them. CNBC states that companies seeking licenses to ship to firms on the entity list are typically denied.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff Ferry, Chief Economist at the Coalition for a Prosperous America, estimated that tariffs could “create roughly 100,000 jobs at US chip manufacturers and their suppliers.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Through this funding, the U.S. is solidifying previously laid groundwork that went into producing chips domestically while decreasing reliance on foreign suppliers. Since the U.S. has outsourced most of its semiconductor production over the last decade, preexisting avenues within the U.S. domestic market have eroded, requiring fine-tuning.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic component excess continues to challenge numerous sectors, with memory suppliers seeing procurement professionals use excess stock to fill any backlogs that develop. There was hope that demand might rebound in the latter half of the year in preparation for seasonal sales. However, that hope has diminished in recent weeks as indicators from the Chinese market prove otherwise.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "EETimes Asia reports that “the widening gap between spot market prices, channel prices, and OEM contract prices has further restricted suppliers’ ability to raise prices.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise SSDs remain the black sheep in the foreseeable future due to their profitability, seeing higher demand from all, if not most, other products. This has caused some suppliers to increase bit shipments and pursue orders. However, this method will constrain price growth, warns EETimes. This is why the price increase over Q4 will be a small 5% rather than dramatic.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TrendForce also reported that the spot market for NAND Flash “was sluggish in transactions as buyers had not raised their willingness to stock amidst the National Day holiday in China. Several suppliers are selling their products at lower unit prices this week as sales pressure continues to envelop their entire market, which has yet to alleviate the overall status.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Recently, ASML warned of a “slower recovery in the semiconductor market,” cutting its outlook for 2025 due to orders falling short of the previous forecast in Q3. Christopher Fouquet, ASML’s Chief Executive Officer, said customer cautiousness triggers a more gradual recovery in all areas outside AI. Challenges impacting Samsung and Intel have likely contributed to ASML’s results.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Artificial intelligence has been the reigning king of technology for nearly two years. AI-enabled smartphones and laptops are now making their debut, with analysts predicting they will quickly become a little under half of all market orders in just a few years. Due to AI’s popularity, demand for semiconductors has been growing, putting the",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The Bain & Company report notes that spending on data centers and the chips that power them will only increase year-on-year by 36% in 2024 due to AI and accelerated computing. Should data center demand for current-generation GPUs double by 2026, suppliers must increase output by 30% or more.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Fall is in full swing, but some industry experts are warning others that a “DRAM Winter” might hit the semiconductor supply chain early. Over the last year, DRAM has seen its fair share of ups and downs as artificial intelligence (AI) demand pushed orders into the stratosphere. New developments within DRAM may have set the market up for a fall from which it might never recover.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Over the last year, AI has been the primary driver of high-bandwidth memory (HBM) demand. Several major memory suppliers have prioritized increasing production capacity for this specific DRAM component over the last year. They plan to further increase capacity within 4Q24 and 1Q25 as AI-enabled devices begin trickling into the market.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Many industry players have become concerned with CXMT’s aggressive DRAM production capacity expansion, which aims to potentially challenge the big three memory suppliers: Samsung Electronics,",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Morgan Stanley also cited recent reports that pre-orders for Apple’s iPhone 16-series were down 13% compared to its predecessor, highlighting the sluggish performance of PC and smartphone markets over the last year.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "automotive clients fuel orders",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ". The most notable among these companies is TSMC, which has delayed its mass production schedule for its second Arizona plant by two years. TSMC’s local suppliers have postponed their factory by two years, citing tough competition in attracting local talent and cultural differences in work schedules.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "sectors, respectively, and orders have surged thanks to their favorable uses in AI.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "As AI continues to boom, Yageo believes that more opportunities will emerge with customizable orders for specific product requirements. This will be especially true for those who need high temperature and high-current tolerance, which is common for AI applications. Their heavy computational demands on data centers push for greater energy use and, by extension, cooling systems.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", the main suppliers of memory to China, use American technology to create these necessary chips, this could significantly impact Chinese businesses.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", another major supplier of HBM, has been banned within the country for use in critical infrastructure. This ban has been seen as mostly retaliatory for previous U.S. restrictions rather than Micron’s products presenting risk to users.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for memory chips, including high-bandwidth memory (HBM), DDR5, and server solid-state drives (SSDs) will continue to grow through the latter half of 2024. Artificial intelligence will be the primary contributor to the surge in orders, as it has been for the better part of 2024 as data-sensitive applications require robust components to withstand their computational requirements.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The report continued, “Demand for a small extent of inventory replenishment remains possible for 3Q24 when sales performance from the spot market is expected to improve from that of 2Q24. Overall, spot prices would first maintain equilibrium while awaiting for the final development of suppliers’ contract prices and the market status for 3Q24.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Certifications + memberships",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Sourcengine is an e-commerce marketplace that provides professional component buyers with news updates, technical data, and robust online transaction capabilities. It utilizes Sourceability’s infrastructure to process, fulfill, and invoice parts orders made from around the world. Because the company maintains 20 locations in 13 countries, Sourcengine has a worldwide reach.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Whether customers are breaking into emerging markets or expanding their territory, Sourcengine can help. With Sourceability as a logistics provider, it has access to a global supply chain network and hundreds of skilled staffers. The marketplace’s dedicated buyers, inspectors, and warehouse teams work diligently to ensure users can purchase active, hard-to-find, and EOL parts on demand.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Sourceability makes the entire import/export experience as straightforward as possible. That’s why its founders created Sourcengine and developed it into the industry’s leading electronic components e-commerce marketplace. With it, buyers can take advantage of easy-to-use online tools to browse, purchase, ship, and track their parts orders.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-cadence",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-calcuquote",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "pass": 1
+   },
+   {
+    "quote": "Along with its 3,500+ suppliers, Sourcengine’s API also gives buyers access to the best market data in the industry. Pricing, lead times, global inventory, and MPQs are all on display alongside extensive data for 1+ billion components. In addition, data sheets, life cycle, compliance, and alternates information are at one’s fingertips when using the Sourcengine platform.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "is a global e-commerce marketplace for electronic components where customers can check over 1 billion component offers and buy from 3,500+ traceable suppliers in one easy transaction. Procurement specialists can shop without ever having to leave our website. We eliminate the need to browse multiple websites to shop for the components you need.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s Why Diversifying Your Electronic Component Suppliers is More Important Than Ever",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications + memberships",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "3,500+ suppliers",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Browse millions of active offers from over 3,500 world-class electronic components suppliers",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "All items sold on our marketplace come from thoroughly vetted or traceable suppliers.",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "See product availability from over 3,500 suppliers in the electronic components industry and shop all in one place. We have broken down regional boundaries to ensure you get the best prices and lead times to meet your needs, all in one trusted transaction.",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Pay your way – checkouts can be completed with credit cards or bank transfers, and registered users can easily apply for credit terms to make completing your purchase a breeze",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our monthly newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/compliance-certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Divyansh Kaushik, an AI Expert at Beacon Global Strategies, says that the cap translates to roughly 50,000 H100 Nvidia GPUs. \"Fifty thousand H100s is an enormous amount of power - enough to fuel cutting-edge research, run entire AI companies, or support the most demanding AI applications on the planet.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "New research reveals that the growing use of data centers could impact the available electricity consumers rely on around them, leading to rapid electronic degradation or, worse, electrical fires. As the industry looks for a solution, the U.S. is taking the next step in achieving its goals of a one-stop shop for its domestic semiconductor ecosystem.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "With the proliferation of AI, the growing power requirements could distort the normal flow of electricity for millions of people. In an analysis by Bloomberg, research shows that this growing problem of power distortion could threaten billions in damage to home appliances and aging power equipment, especially in high-volume areas such as “data center alley” in Northern Virginia.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The Semiconductor Industry Association (SIA) has congratulated the U.S. and Arizona on their latest significant commitment to improving domestic semiconductor manufacturing capabilities. A new CHIPS for America research and development facility for semiconductor prototyping and advanced packaging will be constructed in Arizona, marking the next important step in achieving U.S. chip ambitions.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The National Semiconductor Technology Center (NSTC) will operate this new R&D facility, while the National Advanced Packaging Manufacturing Program (NAPMP) will control advanced packaging research. Under the combined leadership of the NSTC and NAPMP, this state-of-the-art facility will help inspire innovation in the next generation of technology.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", NSTC members and NAPMP-funded researchers will have access to 300-mm research, prototyping, and packaging capabilities. Furthermore, co-locating the NSTC research and development prototyping in the same facility as NAPMP’s packaging abilities will provide the U.S. domestic semiconductor ecosystem with a powerful way to conduct collaborative research efficiently.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These restrictions will likely hurt sales for major U.S. chipmaking equipment manufacturers Lam Research, KLA, and Applied Materials, which have previously criticized such moves as more harmful than helpful. Advanced lithography manufacturer ASML will also likely feel the effects of this new crackdown.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "CheePing Lee, Technical Director of Advanced Packaging at Lam Research, said AI has allowed for a new era of innovation in HBM. These breakthroughs are likely to have more significant impacts on the overall",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "New York Chosen for Semiconductor Research Hub and Infineon Pushes Technical Boundaries - November 15th, 2024",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "To secure its competitiveness as a country and expand its knowledge in advanced semiconductor manufacturing, the United States has recently announced its decision to award a portion of the CHIPS Act’s funding for semiconductor research and development to a New York facility.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "New York Selected for $825 Million Chip Research Facility",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Now, federal officials have selected another New York location, specifically the Albany NanoTech complex, to become the national headquarters for research into extreme ultraviolet lithography (EUV). This advanced chip-making equipment is imperative for producing ultra-small, advanced semiconductors primarily used in artificial intelligence (AI) applications and consumer electronics.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", The Albany NanoTech Complex will receive up to $825 million in funding as part of a broader federal effort. This funding will be devoted to continued research into EUV lithography technologies so that the United States can remain globally competitive.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Senator Chuck Schumer told the Associated Press, “When you do the high-end research, which will be done here, and you can make the most advanced chips in the world, it makes sure that our military has the edge. It makes sure our economy and our companies have the cutting edge, as well.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TrendForce research revealed that “some module houses are keen to lower their inventory levels, thus pushing spot prices to go down further. The supply-demand dynamics of the spot market remains unchanged, and a rebound is unlikely before the year’s end.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Chips Receive Environmental Exemptions and Research Warns of AI Shortage - October 18th, 2024",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "According to Scott Bickley, research practice lead at Info-Tech Research Group, “the advanced semiconductor supply chain is the most fragile on the planet. Over 5,000 vendors must work in perfect harmony to produce the most advanced chips.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Generative AI has become one of the leading technologies in the artificial intelligence boom. Generative AI is an algorithm that uses deep learning to generate new content through text, image, audio, music, or video. It accomplishes its task by “analyzing large amounts of data to learn patterns and then use that information to predict what would come next in a sequence.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "According to DIGITIMES Research",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "In TrendForce’s article on the situation, the market research firm elaborates that Murata has been on the pulse with recent market trends. Early in 2024, Murata reported that a recovery in component shipments for the smartphone market and increased capacity utilization for MLCC plants would come later in the year.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "According to IDC research,",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "senior research director with IDC's Worldwide Tracker team",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "One of the expected growth drivers contributing to demand recovery is AI smartphones, which will debut later this year. Will Wong, senior research manager for Client Devices at IDC Asia/Pacific, explains.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Counterpoint Research co-founder Neil Shah told Reuters and PTI that a",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“It seems macro and geopolitical factors played a bigger role than fundamentals,” Kang Jin-hyeok, an analyst at Shinhan Securities in Seoul, South Korea,",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Newsletter | Sourceability",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Search for components",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Join Sourceability’s Newsletter",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our monthly newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/our-partners-cadence",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/our-partners-calcuquote",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers can now streamline searches by using one platform instead of needlessly sending RFQ after RFQ, and then waiting days to weeks on end for replies. Sourcengine eliminates that wait time, assesses your lead time, and keeps you on track with your project. Simply upload your Bill of Materials (BOM) and receive near instantaneous quotes.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our monthly newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Newsletter",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "ソーシャルメディア",
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "pass": 3
+   },
+   {
+    "quote": "All Content Copyright © 2022, Sourceability",
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "pass": 3
+   },
+   {
+    "quote": "icon/search-log",
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Research",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Search Supply Chain 24/7",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to Newsletters",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Free newsletters",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Download this research-based report examining the current adoption of artificial intelligence in warehouse operations, its primary applications, and the opportunities companies see for future implementation.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Content",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "News & Content",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Search.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Search",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcengine™ features a global e-commerce marketplace, powerful e-procurement tools, ERP integration, and a sophisticated, intuitive search, that makes B2B buying and selling easy.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "The Funding Gap in Green Technology: A Barrier to Progress",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The gap in green technology funding has been a major roadblock in reaching sustainability goals, but maybe we can learn how to overcome these challenges by following examples set forth by the semiconductor industry.",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ". State broadcaster CCTV announced the inquiry, which has the potential to have profound implications for global technology and trade. CCTV reported that Nvidia is accused of violating commitments tied to its 2020 acquisition of Mellanox Technologies.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "That said, China’s spotlight on Nvidia is not the first. Other global regulators have scrutinized it since its meteoric rise as a chip powerhouse. Multiple jurisdictions cleared the 2020 acquisition of Mellanox Technologies before it took place, but it came with several conditions. Chinese regulators allege that Nvidia breached these commitments, which triggered the probe.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These Chinese chipmakers have been rapidly climbing barriers despite U.S. sanctions. From 2018 to 2019, SMIC successfully developed a 7nm process technology that resembles TSMC’s first-generation 7nm process. SMIC has also made significant progress in talent acquisition, which has led to concerns in the South Korean chip industry regarding talent poaching.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The semiconductor industry is preparing for the end of 2024. As it does, organizations are putting the final touches on their 2025 market strategies, with artificial intelligence (AI) taking the focus. Many semiconductor organizations are attempting to rapidly secure funding or propose alternative solutions now that the United States presidential election has ended.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Without the CHIPS Act, this agreement with TSMC, and other chipmakers, might have taken years to secure. Even now, companies are still deciding whether to commit to these large projects should government subsidies not be received Should the CHIPS Act be repealed and the funding removed, semiconductor companies might consider scaling back their projects or stopping them entirely.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Meanwhile, semiconductor manufacturers in the U.S. are racing to finalize funding agreements under the CHIPS Act. This is due to comments from President-elect Trump, which may put the future of the CHIPS Act at risk.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Chip Makers Race to Secure Funding from CHIPS Act",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Despite recent hiccups, TSMC and GlobalFoundries have reportedly finalized the binding funding agreements under the CHIPS Act. GlobalWafers, another chipmaker that had been awarded funding, expressed optimism that the CHIPS Act would continue under the new administration.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "To secure its competitiveness as a country and expand its knowledge in advanced semiconductor manufacturing, the United States has recently announced its decision to award a portion of the CHIPS Act’s funding for semiconductor research and development to a New York facility.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": ", The Albany NanoTech Complex will receive up to $825 million in funding as part of a broader federal effort. This funding will be devoted to continued research into EUV lithography technologies so that the United States can remain globally competitive.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Through this funding, the U.S. is solidifying previously laid groundwork that went into producing chips domestically while decreasing reliance on foreign suppliers. Since the U.S. has outsourced most of its semiconductor production over the last decade, preexisting avenues within the U.S. domestic market have eroded, requiring fine-tuning.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This is fantastic news after a series of delays due to slow CHIPS funding delivery and differences in work culture, pushed back the factory’s operational schedule by one year. The company has now successfully overcome these challenges and attained production yields on par with those in its home country.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TrendForce also reported that the spot market for NAND Flash “was sluggish in transactions as buyers had not raised their willingness to stock amidst the National Day holiday in China. Several suppliers are selling their products at lower unit prices this week as sales pressure continues to envelop their entire market, which has yet to alleviate the overall status.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Furthermore, proponents argue that this legislation would allow for the expedition of many chip manufacturing facilities that have already been delayed while waiting for CHIPS Act funding to be awarded. Speeding up this process would help strengthen the U.S. economy in a shorter time by decreasing the nation’s dependency on other countries for chip access.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Since generative AI emerged, big and small tech companies, including Microsoft, Google, and Amazon, have acquired graphics processing units (GPUs) whenever possible.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Intel has been struggling to fulfill its plans for Ohio due to poor market conditions and the long delay in doling out CHIPS funding by the government. Intel has been experiencing an ongoing sales slump that was more significant than anticipated, so much so that its board is considering splitting off its manufacturing division or scaling back global factory plans.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "A significant change in Intel’s strategy could complicate its quest for government funding, which the company desperately needs.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Intel can only receive CHIPS funding if it meets critical milestones and significant due diligence, which applies to all CHIPS recipients. According to people familiar with the matter, Bloomberg states that Intel “has grown frustrated with what it sees as the government dragging its feet and has urged officials to release funding faster.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Intel is still being given a chance to make good on its efforts to receive funding. The Pentagon recently awarded Intel $3.5 billion to make chips for defense and intelligence. Its future success currently hangs on the recovery of the semiconductor market, like many other chipmakers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Industry sources have also cited the slow approval process for CHIPS Act funding and unclear rules for the Inflation Reduction Act (IRA) as another pain point for investment projects.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "from the CHIPS and Science Act. Micron plans to use this funding to build a $15 billion factory in Boise, Idaho, the first U.S. memory chip plant in 20 years. As the last U.S. supplier of DRAM, Micron’s position is critical within its domestic semiconductor ecosystem and more significant memory market.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "a U.S. developer and manufacturer of wide-bandgap semiconductors focusing on silicon carbide and gallium nitride materials, is planning to delay its $3 billion plant in Germany. The plant, which would have been constructed in Saarland to focus on chips used in EVs, has not been scrapped, but Wolfspeed is seeking new funding.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Intel has also delayed its plant plans within Magdeburg, primarily due to an immediate geographical problem involving rich topsoil that must be redistributed to farmers rather than experiencing a funding issue like Wolfspeed.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Aside from its latest AI products, Broadcom’s software arm recently acquired VMWare, “which cements its position in virtualization and mainframe software, complementing security software.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“Over the years, semiconductor companies like Intel have relied on community college students to fill a large portion of technician jobs at [factories], but the emphasis on technician training waned over the years as companies invested more in science, technology, engineering, and math (STEM) education and research funding for bachelor, master and Ph.D. programs,” Intel wrote in a",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The Funding Gap in Green Technology: A Barrier to Progress",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "The gap in green technology funding has been a major roadblock in reaching sustainability goals, but maybe we can learn how to overcome these challenges by following examples set forth by the semiconductor industry.",
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "In mid-January, the Netherlands government announced its plan to modify its national export control measures for advanced semiconductor manufacturing equipment exports. This recent decision is part of a trend of countries subjecting similar technologies, primarily semiconductors, to national authorization requirements.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Plans New Restrictions on AI and Quectel Update Concerns Suppliers - January 24th, 2025",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Divyansh Kaushik, an AI Expert at Beacon Global Strategies, says that the cap translates to roughly 50,000 H100 Nvidia GPUs. \"Fifty thousand H100s is an enormous amount of power - enough to fuel cutting-edge research, run entire AI companies, or support the most demanding AI applications on the planet.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Tencent and CATL's Hong Kong-listed shares fell the Tuesday after the announcement, with both companies calling the move “a mistake.” Quectel has strongly denied these allegations and plans to challenge the DoD’s ruling.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Due to its competitive pricing and technological advancements, Quectel, a supplier with a 35% market share, is likely to be involved in the trade war more often, especially given its focus on semiconductors. This disruption could lead to more significant component unavailability, compliance issues, and delayed manufacturing for its customers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "New Restrictions and Aggressive Pricing Hit Semiconductor Industry - December 13th, 2024",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These restrictions will likely hurt sales for major U.S. chipmaking equipment manufacturers Lam Research, KLA, and Applied Materials, which have previously criticized such moves as more harmful than helpful. Advanced lithography manufacturer ASML will also likely feel the effects of this new crackdown.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "After discussions with Japan and the Netherlands, the two countries agreed to work with the U.S., allowing them to be exempt from enforcing the FDPR. Countries like Malaysia, Singapore, Israel, Taiwan, and South Korea will be subject to the rule. However, the U.S. states it plans to exempt countries from enforcement of the FDPR should they place similar controls.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "China Memory Sector Strikes with New Pricing Strategy",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Indong Kim, Vice President and Head of DRAM Product Planning at Samsung Semiconductor, discussed new HBM developments resulting from their capabilities within AI applications.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Fenn later elaborated that part of the solution is to increase the use of natural gas within data centers so that the industry can continue to pursue sustainability goals. It is a short-term solution that can reliably fuel much of the power demand without problems, like Meta's recent plans to build a nuclear-powered data center before compliance trouble and rare bees derailed those them.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“You have to make them spend money in the United States, and those plants will open up. They’ll fund them. We don’t have to put up 10 cents,” Trump said.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "On the other hand, some business leaders and chipmakers are keeping their plans the same despite recent comments. Company management believes that “Trump would have limited authority to unilaterally upend [the Chips Act], especially if companies reach agreements with the Biden Administration before the end of the year.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "TSMC’s prior commitments, including its Arizona plants and further investments within the United States, have remained unchanged. Meanwhile, Intel has expressed optimism, like GlobalWafers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Since the announcement of the CHIPS Act, the United States has been slowly divvying up government funds to construct new fabrication plants. One of these new facilities is the Arizona TSMC location. After a few false starts due to the small U.S. talent pool, it is finally moving in the right direction. Even better, the Arizona facility is performing more efficiently than comparable fabs.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Despite ending faster than expected, the 3-day port strike has contributed to delays that will take at least three weeks to resolve. The semiconductor industry may not feel the severity of these effects, however, as excess inventory continues to keep consumer demand flat.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "pricing platform Xeneta said",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Another wave of inventory reduction is continuing amongst some module houses, with sales pressures continuing to impact the market’s pricing trends. The ongoing challenges within the memory market indicate that a greater trend is affecting the semiconductor industry.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "To increase semiconductor manufacturing capacity sooner rather than later, the Biden Administration passed a law allowing some semiconductor plants to bypass environmental reviews that could have postponed construction for years.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“The whole plan behind this legislation was to ensure that the CHIPS and Science Act had the maximum impact on our economy and national security.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "According to Scott Bickley, research practice lead at Info-Tech Research Group, “the advanced semiconductor supply chain is the most fragile on the planet. Over 5,000 vendors must work in perfect harmony to produce the most advanced chips.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Over the last year, AI has been the primary driver of high-bandwidth memory (HBM) demand. Several major memory suppliers have prioritized increasing production capacity for this specific DRAM component over the last year. They plan to further increase capacity within 4Q24 and 1Q25 as AI-enabled devices begin trickling into the market.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "In a report by DigiTimes, “The company's output grew from 120,000 wafers per month at the end of 2023 to 160,000 in the first quarter of 2024 and is projected to reach 200,000 by year-end, representing 11% of global DRAM production.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Nomura Securities predicts that “if CXMT expands its DRAM production capacity as planned, it will account for 15% of the global DRAM market. In terms of production volume alone, it would become the world's fourth-largest DRAM manufacturer after Micron.” This significantly contributes to the market’s oversupply and further drives down the average selling price (ASP).",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "that while DRAM prices have been weak, the overall ASP is expected to rise in 2025–as the market begins to recover. Wu added that pricing across different products may vary, but the increasing penetration of HBM should help stabilize the DRAM market over 2025.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Certifications + memberships",
+    "url": "https://sourceability.com/newsletter",
+    "pass": 1
+   },
+   {
+    "quote": "Through an API, CalcuQuote and Sourcengine are able to show buyers live data on pricing, stock levels, product specifications, and much more. Buyers can now compare the best pricing and delivery from all sellers for a desired part in one place.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-calcuquote",
+    "pass": 1
+   },
+   {
+    "quote": "Along with its 3,500+ suppliers, Sourcengine’s API also gives buyers access to the best market data in the industry. Pricing, lead times, global inventory, and MPQs are all on display alongside extensive data for 1+ billion components. In addition, data sheets, life cycle, compliance, and alternates information are at one’s fingertips when using the Sourcengine platform.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Ward Transport modernized its cost intelligence to improve pricing decisions, network analysis, scalability, and organizational decision-making.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Honeywell Aerospace Plans $500 Million Factory on Its Tempe Campus",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Procurement Leaders See AI Skills as Essential, but Few Feel Ready",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Honeywell Aerospace will invest $500 million in a 300,000-square-foot plant in Tempe, Ariz., set to open in late 2028 and add about 600 jobs.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Resource Planning",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Sales & Operations Planning",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcengine uses its robust market intelligence resources to create a thorough lead time report every quarter and features up-to-date availability information on a wide range of electronic components made by a slew of chipmakers including pricing and turnaround time forecasts through March 2022.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Leading chipmaking executives and insiders believe the electronic components supply chain will grapple with lead time delays, availability issues, and pricing fluctuations throughout the coming year and into 2023.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Foxconn Purchases $91M Chip Plant to Further Apple’s Electric Vehicle Plans",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Certifications + memberships",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "The electronic components e-commerce marketplace has access to over 1 billion part listings,",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "including pricing supplier availability,",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "\"How effective the rule ends up being in the next 10 to 15 years is now up to the incoming team,\" said National Security Official Meghan Harris during the first Trump administration. \"They are well aware that ensuring a dominant domestic industry is a core element of competition with China.\"",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Bob Marshall, CEO at Whisker Labs Inc., told Bloomberg that harmonics are typically the proverbial canary in the coal mine for a power grid, reflecting early stress and problems. Whisker Labs tracks the real-time use of residential sectors across the country, and the collected data has shown a strong connection between data center proximity and worsening harmonics.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to 2025! The semiconductor industry is entering another year full of opportunities and challenges. As the sector kicks back into gear after a well-deserved break, many organizations have started to prepare for the continuation of the AI boom and the probability of new tariffs implemented by the changing U.S. administration alongside China’s critical mineral ban.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "to decide. However, it can be determined that should the investigation conclude that there were unfair trade practices, President-elect Trump could implement further tariffs, given his hard stance on China’s trade policies and “America First” approach.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "rose to nearly 10% and 4%, respectively. SK Hynix has been on a roll recently as one of the leading players in the high-bandwidth memory (HBM) market, which has seen exponential demand thanks to its favorable use in AI applications.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "That said, China’s spotlight on Nvidia is not the first. Other global regulators have scrutinized it since its meteoric rise as a chip powerhouse. Multiple jurisdictions cleared the 2020 acquisition of Mellanox Technologies before it took place, but it came with several conditions. Chinese regulators allege that Nvidia breached these commitments, which triggered the probe.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "After the announcement of the ban, shares belonging to rare metal producers started flying with Perpetua Resources skyrocketing 270% over the timeframe. Depending on the length of the ban, raw metal producers could see high shares as prices continue to rise.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“And for the first time,” CNBC notes, “the U.S. will add two companies that invest in chips to the entity list. Chinese private equity firm Wise Road Capital and tech firm Wingtech Technology Co. will be added.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "for the first time in 3Q24. Others, including CXMT and JHICC, have been significantly lowering their DDR4 prices, making their products almost 50% cheaper than equivalent products by SK Hynix and Samsung Electronics. This has been an ongoing strategy by at least CXMT for the last few months.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "These Chinese chipmakers have been rapidly climbing barriers despite U.S. sanctions. From 2018 to 2019, SMIC successfully developed a 7nm process technology that resembles TSMC’s first-generation 7nm process. SMIC has also made significant progress in talent acquisition, which has led to concerns in the South Korean chip industry regarding talent poaching.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Morgan Stanley forecasts that “CXMT’s DRAM market share will exceed 10% for the first time in 2024.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“This is an exciting time. With AI so hot, HBM is everything. The various memory makers are racing against time to be the first to produce next-generation HBM.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Nat Sahlstrom, Tract's Chief Energy Officer, told CNBC that data centers are now at a scale “where they have started tapping out against the existing utility infrastructure.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The U.S. Department of Commerce recently announced that it had finalized its $6.6 government subsidy for TSMC’s Arizona semiconductor facilities. This binding contract is the first major award to be completed since the preliminary agreement was announced in April.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This would put the U.S. back where it started: depending on foreign manufacturers for chip supplies. Depending on President-elect Trump's policies, these supplies could also become far more expensive.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s kind of hard to say right now, but my guess is that some early effects will be negative,” said Robert Maire, president of Semiconductor Advisors, of the incoming Trump administration. “The incoming administration loves tariffs and thinks they are the answers to all trade imbalances…They used tariffs to enforce and cajole policy.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s early. We really can’t speculate on what might change there,” said Applied Materials Chief Financial Officer Brice Hill. “So, we’ll have to wait for more input on that one.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This is especially true considering the recent election results in the United States. President-elect Trump introduced the initial restrictions to China within his first term, which kick-started the rising trade war. There is a possibility that there will be an increase in tariffs, as well as penalties, during his tenure.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Infineon recently pioneered the world’s first",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "“Additionally,” Infineon added, “technical and production-related challenges like wafer bow and wafer separation have a major impact on the backend assembly processes ensuring the stability and first-class robustness of the wafers.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "This technology has already been qualified and applied in Infineon’s Integrated Smart Power Stages (DC-DC converter), which first customers are already being sent. It will be interesting to see how Infineon’s new technology further improves the AI applications that it powers.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Bloomberg also notes that while TSMC President Rick Cassidy has no comment regarding its yield, CEO C.C. Wei said that the first “Arizona fab has already begun engineering wafer production of 4nm chips and that results were highly satisfactory, with a very good yield.”",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "The strike risked massive shortages in everything from bananas to auto parts and cost the U.S. economy $5 billion a day. While the strike ended early,",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Artificial intelligence has been the reigning king of technology for nearly two years. AI-enabled smartphones and laptops are now making their debut, with analysts predicting they will quickly become a little under half of all market orders in just a few years. Due to AI’s popularity, demand for semiconductors has been growing, putting the",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Fall is in full swing, but some industry experts are warning others that a “DRAM Winter” might hit the semiconductor supply chain early. Over the last year, DRAM has seen its fair share of ups and downs as artificial intelligence (AI) demand pushed orders into the stratosphere. New developments within DRAM may have set the market up for a fall from which it might never recover.",
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "pass": 1
+   },
+   {
+    "quote": "Sourceability makes the entire import/export experience as straightforward as possible. That’s why its founders created Sourcengine and developed it into the industry’s leading electronic components e-commerce marketplace. With it, buyers can take advantage of easy-to-use online tools to browse, purchase, ship, and track their parts orders.",
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "pass": 1
+   },
+   {
+    "quote": "Gartner: Nearly Half of Supply Chains Cut Staff Because of AI",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Nearly Half of U.S. AI Shoppers Have Returned a Recommended Product",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Although Foxconn’s bread and butter are fabricating electronic devices, founder Terry Gou believes its future is making battery-powered automobiles, and its close relationship with Apple could make it a big player in the future automotive industry.",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Get started today",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sourcengine : Electronic Component Distributor & Online ... — Sourcengine : Electronic Component Distributor & Online ... Sourcengine https://www.sourcengine.com",
+    "url": "https://www.sourcengine.com/?srsltid=AYCX9vIkGlGsgnyRBK-P_8LWhBRuGlBl_FrGcfnJ0PvJBqmKcLAnaLYs",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcengine — Sourcengine Webflow https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io",
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Ecomm Marketplace for Electronic Components — Global Ecomm Marketplace for Electronic Components Sourcengine https://www.sourcengine.com > about...",
+    "url": "https://www.sourcengine.com/about-us?srsltid=AYCX9vKxubOoK7S1XDBULQ9B4gWWBCtB-0sxv76NXtPvSime4MjecTnf",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcengine : Electronic Component Distributor & Online ... — Sourcengine : Electronic Component Distributor & Online ... Sourcengine https://www.sourcengine.com",
+    "url": "https://www.sourcengine.com/?srsltid=AYCX9vLvfK6lYkKvnhP-zuPdI12JlbeTxI3cVcvKqgXsw2ydiPGoMkf-",
+    "pass": 3
+   },
+   {
+    "quote": "Sourcengine Company Profile - - Supply Chain 24/7 — Sourcengine Company Profile - - Supply Chain 24/7 Supply Chain 24/7 https://www.supplychain247.com > s...",
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Components E-Commerce Marketplace — Electronic Components E-Commerce Marketplace Sourceability https://sourceability.com > sourcengine",
+    "url": "https://sourceability.com/sourcengine",
+    "pass": 3
+   },
+   {
+    "quote": "Global Ecomm Marketplace for Electronic Components — Global Ecomm Marketplace for Electronic Components Sourcengine https://www.sourcengine.com > about...",
+    "url": "https://www.sourcengine.com/about-us?srsltid=AYCX9vLg-ZfMf9hRwKW9hUG0GnSnF2hLjrLGmyY_gJ866br7a7MzBgBA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sourcengine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog-categories/industry-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/global-fulfillment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/procurement-quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/compliance-certifications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/our-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceability.com/newsletter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/our-partners-sourceability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/our-partners-cadence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/our-partners-calcuquote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/about-us/our-partners-orbweaver",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog/semiconductor-industry-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sourcengine.com/blog-categories/industry-news?dd8eaac2_page=1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KjtxLW0RZJI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newspicks.com/news/16395744/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1Mouyt2taWs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://donzoko-ceo.com/category/kigyou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=PBnegBqhzUY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.supplychain247.com/company/sourcengine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceability.com/sourcengine",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sourcengine 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.sourcengine.com/?srsltid=AYCX9vIkGlGsgnyRBK-P_8LWhBRuGlBl_FrGcfnJ0PvJBqmKcLAnaLYs",
+    "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "https://www.sourcengine.com/about-us?srsltid=AYCX9vKxubOoK7S1XDBULQ9B4gWWBCtB-0sxv76NXtPvSime4MjecTnf",
+    "https://www.zuora.com/jp?p=327811",
+    "https://www.sce.com/ja/node/215291?ecid=ppc~bing~bsc~mkt~res~21826",
+    "https://resources.rework.com/ja/libraries/ecommerce-growth/ecommerce-business-models",
+    "https://www.glocom.ac.jp/wp-content/uploads/2020/09/20200901shiryo.pdf",
+    "https://www.strategyand.pwc.com/jp/ja/publications/report/pricing-framework-for-genai.html",
+    "https://stripe.com/jp/resources/more/subscription-business-models-101-types-of-models-how-they-work-and-how-to-choose-one",
+    "https://www.sourcengine.com/"
+   ]
+  },
+  {
+   "query": "Sourcengine 売上 従業員 創業",
+   "results": [
+    "https://sourcengine-v4-5-db150be1c5b25cd0a578cd.webflow.io/",
+    "https://www.youtube.com/watch?v=KjtxLW0RZJI",
+    "https://newspicks.com/news/16395744/body/",
+    "https://www.fortunebusinessinsights.com/dataSVG?slug=-107431&report_id=107431&locale=jp",
+    "https://simplywall.st/ja/stocks/us/software/nasdaq-brze/braze/news/19d18aa96f47ef95",
+    "https://analogueinsight.com/ja/investors/",
+    "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20251227204415955456310&postId=1645318318",
+    "https://finance.biggo.jp/podcast/bf1b83bcc68ff528",
+    "https://markezine.jp/article/detail/77377",
+    "https://jp.linkedin.com/company/sourcengine"
+   ]
+  },
+  {
+   "query": "Sourcengine 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.youtube.com/watch?v=1Mouyt2taWs",
+    "https://donzoko-ceo.com/category/kigyou/",
+    "https://www.youtube.com/watch?v=PBnegBqhzUY",
+    "https://v-tsushin.jp/interview/interview03/page/2/",
+    "https://hirocom-media.com/articles/tag/1383",
+    "https://note.com/enxross/n/n4e138304622d",
+    "https://youtu.be/RC72jgfMOTE?si=dMkfTgdBOCApnU5F",
+    "https://jobs.microcms.co.jp/161659cde3ea80de8c54d217ed65e9b4",
+    "https://www.youtube.com/watch?v=-jiUuS2eWq0",
+    "https://nozokuru.jp/"
+   ]
+  },
+  {
+   "query": "Sourcengine revenue members business model",
+   "results": [
+    "https://www.sourcengine.com/?srsltid=AYCX9vLvfK6lYkKvnhP-zuPdI12JlbeTxI3cVcvKqgXsw2ydiPGoMkf-",
+    "https://www.supplychain247.com/company/sourcengine",
+    "https://sourceability.com/sourcengine",
+    "https://www.sourcengine.com/about-us?srsltid=AYCX9vLg-ZfMf9hRwKW9hUG0GnSnF2hLjrLGmyY_gJ866br7a7MzBgBA",
+    "https://www.prnewswire.com/news-releases/sourceability-reaches-1-billion-in-sales-achieving-companys-highest-revenue-yet-301750367.html",
+    "https://www.youtube.com/watch?v=vJn9voTTdjU",
+    "https://evertiq.com/design/54402",
+    "https://www.altexsoft.com/blog/revenue-model-types/",
+    "https://datalynq.com/post/how-real-time-market-intelligence-is-used-to-determine-component-risk"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

@@ -1,0 +1,3255 @@
+# 戦略17分野 小区分の市場の伸びと上位シェア（事実のみ・35品目）
+
+数字は引用元の文そのまま。調査会社ごとに範囲・期間が違う。順位づけ・解釈はしていない。
+
+## 人型ロボット（humanoid robot）
+- 文脈：1 AI・半導体 ①フィジカルAI
+- 市場規模：
+  - 「ヒューマノイドロボット市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「Humanoid Robot Market Size, By Product, 2022– 2035 (USD Billion)」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「北米の市場規模は 2025年に18億860万米ドルに達し、2035年には年平均成長率（CAGR）約39.2%で493億3,960万米ドルに達すると予測されており、地域別で最も高い成長率となっています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「米国のヒューマノイドロボット市場規模、2022〜2035年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「欧州の市場規模は 2025年に14億440万米ドルに達し、2035年には年平均成長率約36.5%で315億9,230万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「アジア太平洋地域は最大の地域市場であり、2025年の市場規模は43億1,500万米ドルで、世界全体の売上高の約54.5%を占めました」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「中南米の市場規模は 2025年に1億1,600万米ドルに達し、2035年には年平均成長率約29.3%で15億1,640万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「中東・アフリカ市場は 2025 年に 2億7,140万米ドルと評価され、年平均成長率（CAGR）約25.6%で拡大し、2035年には 27億7,710万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「ヒューマノイドロボット市場は驚異的な34.62%の成長」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「グローバルなヒューマノイドロボット市場は、2023年の14.9億米ドルから2033年には約291.2億米ドルに成長し、2024年から2033年までの年平均成長率（CAGR）は34.62％に達すると予測されています」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「ヒューマノイドロボット市場は2033年に291.2億米ドルに成長（CAGR 34.62％）」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+- 成長率：
+  - 「世界のヒューマノイドロボット市場は、2025年に79億米ドルの規模に達し、2026年の109億米ドルから2035年までに1,927億米ドルへ拡大すると推定されており、2026年から2035年にかけての年平均成長率（CAGR）は37.6%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「年平均成長率（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「世界の出荷台数は2025年に約2,052,926台に達し、2035年まで年平均成長率（CAGR）約43.2%で拡大すると予測されており、売上高の成長率を上回ります」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「当社は、市場の売上高ベースの年平均成長率（CAGR）約37.6%が、あらゆる最終市場への同時進出ではなく、商用化の段階的な進展によって支えられていると推定しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「より速い約43.2%の出荷台数ベースの年平均成長率（CAGR）は、市場拡大がプレミアム価格だけでなく、生産における学習効果と調達モデルによって決まる傾向が強まることを示唆しています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「グローバルなヒューマノイドロボット市場は、2023年の14.9億米ドルから2033年には約291.2億米ドルに成長し、2024年から2033年までの年平均成長率（CAGR）は34.62％に達すると予測されています」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「ヒューマノイドロボット市場は2033年に291.2億米ドルに成長（CAGR 34.62％）」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「ヒューマノイドロボット市場に関する当社の調査レポートによると、市場は予測期間中に約 37% の CAGR で成長し、2037 年までに約 1170億米ドルの価値に達すると予想されています」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「世界の ヒューマノイドロボット市場規模は、2025―2037 年間に 37% の CAGR で成長し、2037 年までに1170億米ドルを獲得すると予測されています」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「人型ロボット市場規模、主要シェア、成長率、2034年」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「世界のヒューマノイドロボット市場規模は、2025年には47億米ドルと評価され、2026年の60億9000万米ドルから2034年には481億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「欧州の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「2026年6月、同社は人型ロボットの製造とニューラバースAIエコシステムの拡大のための資金を確保した」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+- 上位シェア：
+  - 「ヒューマノイドロボット市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「UBTech Robotics Corp Ltd.が2025年に14%超の市場シェアを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「本市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年には、訪問者支援、配送、経路案内、定型的なサービス対応などのユースケースに支えられ、サービス・ホスピタリティ分野が市場収益の約17.4%を占めた」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「関節の性能が移動性、可搬重量、エネルギー消費、安全性に直接影響するため、2025年の部品収益ではアクチュエーターが約57.8%を占める」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「二足歩行型ヒューマノイドロボットは 2025年の売上高の約30.0%を占め、年平均成長率（CAGR）約43.9%で成長すると予測されており、製品カテゴリーのなかで最も高い成長率となっています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「上半身型ヒューマノイドロボットは 2025年の売上高の約29.5%を占め、年平均成長率（CAGR）約31.7%で拡大すると予想されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「車輪型ヒューマノイドロボットは、2025年に約40.6%で最大の製品シェアを占め、年平均成長率（CAGR）約35.0%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「アクチュエーターは、2025年の部品関連売上高の約57.8%を占め、年平均成長率（CAGR）約36.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年のヒューマノイドロボット市場の部品別売上高シェア（%）」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「センサーは、2025年の部品関連売上高の約42.2%を占め、年平均成長率（CAGR）約39.2%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2025年には、ホスピタリティ分野が約17.4%のシェアで用途別売上高をリードし、年平均成長率（CAGR）約37.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「軍事・防衛分野は、2025年の売上高の約16.7%を占め、年平均成長率（CAGR）約37.7%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「医療分野は 2025 年の売上高の約 15.9%を占め、年平均成長率（CAGR）約 37.4%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2023年には、アジア太平洋（APAC）地域が市場の54％以上を占め、8億米ドルの収益を上げて市場をリードしています」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+- 主要企業：
+  - 「ヒューマノイドロボット市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「ヒューマノイドロボット市場の主要企業には、UBTech Robotics Corp Ltd.、Unitree Robotics、Agility Robotics, Inc.、Fourier Intelligence Co., Ltd.、SoftBank Robotics Group Corp.などが含まれます」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「主要企業の分析」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「主要企業は技術革新に注力し、ロボットの知能、機動性、人間らしい対話能力を強化しています」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「世界のヒューマノイドロボット市場の成長に重要な役割を果たす主要な主要企業には、Engineered Arts Limited、 Apptronik, Inc.、Boston Dynamics, Inc.、 Agility Robotics, Inc.、 Macco Tecnología para el ocio, S.L.、などが含まれます」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「この調査には、世界のヒューマノイドロボット市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「Engineered Arts Limited、Apptronik, Inc.、 Boston Dynamics, Inc.,、Agility Robotics, Inc.、 Macco Tecnología para el ocio, S.L.、などは、世界の ヒューマノイドロボット市場で機能する主要企業の一部です」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「Kawasaki Heavy Industries、 Ltd., Kawada Robotics Corporation、R.T. Co., Ltd.、Nihon Binary Co., Ltd.、Seiko Epson Corporation、などは、ヒューマノイドロボット市場の日本の分野で機能している主要企業の一部です」（https://www.sdki.jp/reports/global-humanoid-robot-market/58626）
+  - 「業界の主要企業としては、Agility Robotics、Apptronik、Boston Dynamics、Figure AI、Hanson Robotics、PAL Robotics、Robotis、SoftBank Robotics、Tesla、UBTECH Robotics、Unitree Roboticsなどが挙げられる」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「以上の主要企業に加え、人型ロボットの原価構成比率についてもデータが提供されています」（https://robo.japanstep.jp/learn/2026/03/1789/）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、ヒューマノイドロボット世界市場を調査し、主要国の関連政策や支援制度、参入企業動向、アプリケーション別市場動向、主要技術トレンド、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE）
+  - 「中国を中心とした新規参入企業の増加と、米国企業による商品化・量産化の進展が、成長の主因である」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE）
+  - 「政府主導の産業育成政策を背景に参入企業は200社以上に達し、大規模プロジェクトの推進が市場拡大をけん引している」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE）
+  - 「日本市場は、参入企業が少なく、研究・試験導入が中心であり、84台にとどまる」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE）
+- 投資：
+  - 「NEURA Robotics は 2026年6月10日、最大14億米ドルのシリーズC資金調達ラウンドを発表しました」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年6月に発表したシリーズCの資金調達は、ハードウェア、ソフトウェア、トレーニングのエコシステム拡大に対する投資家からの大きな支援を示している」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「2026年6月10日：NEURA Robotics は、認知ロボティクスプラットフォームと商用エコシステムの拡大を支援するため、最大 140億米ドルのシリーズC資金調達ラウンドを発表した」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「例えば、2025年2月、Apptronikはヒューマノイドロボット「Apollo」の開発と展開を加速させるため、シリーズAラウンドで3億5000万米ドルの資金調達を行った」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「ヒューマノイドロボット市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「2026年5月、同社はAIハードウェアおよびロボット技術の発展のために資金調達を行った」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「2025年は、関連企業への民間投資額が20億ドルを超える見通しとなった」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+  - 「例えば、ロボット向け汎用AI基盤モデルを開発する米国のSkild AIは、2026年にNVIDIAやJeff Bezos氏などから約14億ドル（約2,100億円）もの資金調達を実施した」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+  - 「The U.S. Humanoid Robot Market is projected to grow from USD 1.41 billion in 2025 to USD 73.03 billion by 2035, at a CAGR of 50.32%. Growth is driven by rising adoption of AI and robotics, industrial automation, healthcare applications, service robots, research investments, and technological developments in various industries.」（https://www.snsinsider.com/reports/humanoid-robot-market-1616）
+  - 「Germany had a 25.0% share of the Europe’s Humanoid Robot Market in 2025 because of the high levels of manufacturing, industrial automation and the automobile sector. Increasing shortage of labor, productivity needs and investments in intelligent robotics have encouraged companies to adopt humanoid robots in their manufacturing processes.」（https://www.snsinsider.com/reports/humanoid-robot-market-1616）
+  - 「June 10, 2026: NEURA Robotics announced a Series C funding round of up to USD 1.4 billion to support expansion of its cognitive-robotics platform and commercial ecosystem.」（https://www.gminsights.com/industry-analysis/humanoid-robot-market）
+  - 「The Asia-Pacific region holds leadership in humanoid robotics by capturing 73.48% share within the current humanoid market. This dominance is linked to heavy investments by robotics giants in Japan, China, and South Korea, combined with government-backed AI initiatives, and rapid technology adoption across service and industrial domains.」（https://www.rootsanalysis.com/humanoid-robot-market）
+  - 「February 2026: Apptronik secured a USD 520 million Series A extension backed by Google, Mercedes-Benz, B Capital, and Qatar Investment Authority to scale production and commercialization of its Apollo humanoid robot platform for manufacturing and logistics applications.」（https://www.rootsanalysis.com/humanoid-robot-market）
+  - 「Investment Analysis, Technology Trend, Competitive Landscape and Opportunities 2034」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+  - 「Humanoid robots are the only scalable interface to a $60 trillion global labor market — because the world was already built for the human form factor. NVIDIA CEO Jensen Huang stated it plainly: "The easiest robot to adapt into the world is the humanoid robot because we built the world for us." That observation is the entire investment thesis.」（https://www.maximizemarketresearch.com/market-report/global-humanoid-robot-market/10567/）
+- 検索結果の抜粋：
+  - 「ヒューマノイド ロボット市場 サイズとシェア 2026-2035 — ヒューマノイド ロボット市場 サイズとシェア 2026-2035 Global Market Insights Inc. https://www.gminsights.com > humanoid-robot-market」（https://www.gminsights.com/ja/industry-analysis/humanoid-robot-market）
+  - 「人型ロボット市場規模 、シェア、成長レポート[2034年] — 人型ロボット市場規模 、シェア、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...」（https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188）
+  - 「ヒューマノイド ロボット市場 は驚異的な34.62%の成長 — ヒューマノイド ロボット市場 は驚異的な34.62%の成長 Market.us Scoop https://scoop.market.us > ヒューマノイドロボット市場ニュー...」（https://scoop.market.us/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「人型ロボット市場規模 、主要シェア、成長率、2034年 — 人型ロボット市場規模 、主要シェア、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「人型ロボット市場 規模、 シェア 、成長レポート[2034年] — 人型ロボット市場 規模、 シェア 、成長レポート[2034年] Fortune Business Insights https://www.fortunebusinessinsights.com > 人型ロボット市...」（https://www.fortunebusinessinsights.com/jp/%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4-110188）
+  - 「人型ロボット市場 規模、主要 シェア 、成長率、2034年 — 人型ロボット市場 規模、主要 シェア 、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「ヒューマノイド ロボット メーカー15社 - Metoree — ヒューマノイド ロボット メーカー15社 - Metoree Metoree https://metoree.com > ロボット」（https://metoree.com/categories/9681/）
+  - 「2026年、中国の 人型ロボット は 前年比 94％増産の予測、政策 ... — 2026年、中国の 人型ロボット は 前年比 94％増産の予測、政策 ... ジェトロ（日本貿易振興機構） https://www.jetro.go.jp > biznews > 2026/04」（https://www.jetro.go.jp/biznews/2026/04/9005e98b1b8c5d05.html）
+  - 「ヒューマノイド ロボット 世界 市場 に関する調査を実施（2026 ... — ヒューマノイド ロボット 世界 市場 に関する調査を実施（2026 ... yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4111?srsltid=AYCX9vLBpwADS3TpVS8F9fgvMjOSfMfpl5GjnUm6hKYMkD6jamR5uHPE）
+  - 「ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... — ヒューマノイド ロボット の 市場 規模は？2030年・2050年予測 ... 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0068」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0068.html）
+  - 「人型ロボット市場 規模、主要シェア、成長率、2034年 — 人型ロボット市場 規模、主要シェア、成長率、2034年 Straits Research https://straitsresearch.com > 情報技術 > テクノロジー」（https://straitsresearch.com/jp/report/humanoid-robot-market）
+  - 「Humanoid Robot Market Size , Share, & Growth Report [2034] — Humanoid Robot Market Size , Share, & Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/humanoid-robots-market-110188）
+  - 「Humanoid Robot Market Size , Share & Growth Report, 2033 — Humanoid Robot Market Size , Share & Growth Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report）
+  - 「Humanoid Robot Market Expected to Reach $5 Trillion by 2050 — Humanoid Robot Market Expected to Reach $5 Trillion by 2050 Morgan Stanley https://www.morganstanley.com > hu...」（https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050）
+  - 「Humanoid Robot Market Size , 2024 to 2030 - ABI Research — Humanoid Robot Market Size , 2024 to 2030 - ABI Research ABI Research https://www.abiresearch.com > huma...」（https://www.abiresearch.com/news-resources/chart-data/humanoid-robot-market-size-outlook）
+
+## エッジAIチップ（edge AI chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 市場規模：
+  - 「世界のエッジ人工知能チップ市場規模は 2024年に 30億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）24.8%で拡大すると推定される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「デバイス内エッジAIチップセグメントの市場規模は、2024年に18億米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「家電セグメントは、2024年に市場をリードし、市場規模は 10億米ドルに達しました」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「米国のエッジ人工知能チップ市場規模、2021〜2034年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「米国のエッジ人工知能チップ市場は、2034年までに 46億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「ドイツのエッジ人工知能チップ市場は、2034年までに 24.6%の年平均成長率（CAGR）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「中国のエッジ人工知能チップ市場は、2034年までに 22億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「インドのエッジ人工知能チップ市場は、2034年までに 30%の年平均成長率（CAGR）で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「日本のエッジ人工知能チップ市場は、2034年までに 28.9%の年平均成長率（CAGR）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「日本エッジAI市場は、 CAGR約24.38%で急拡大 2035年ら1,567億米ドル」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本エッジAI市場規模シェア、競争環境、トレンド分析レポート、構成要素別、導入形態別、エンドユーザー別 ：2026年から2035年までの機会分析および業界予測」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本エッジAI市場は、産業オートメーション、人口動態の変化、半導体の革新、次世代接続インフラによる強力な長期的な拡大を背景に、2035年までに約1,567億米ドルに達すると予測されています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「その結果、特に地理的に分散した生産拠点全体でAIを活用した品質管理、予知保全、またはロボットによる自動化を標準化しようとする場合、拡張にかかる費用は急速に5億円を超える可能性があります」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+- 成長率：
+  - 「世界のエッジ人工知能チップ市場規模は 2024年に 30億米ドルに達し、2025年から2034年にかけて年平均成長率（CAGR）24.8%で拡大すると推定される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「年平均成長率（CAGR、2025〜2034年）」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「ドイツのエッジ人工知能チップ市場は、2034年までに 24.6%の年平均成長率（CAGR）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「日本エッジAI市場は、 CAGR約24.38%で急拡大 2035年ら1,567億米ドル」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「均成長率（CAGR）が 24.38％で」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本エッジAI市場は、産業オートメーション、人口動態の変化、半導体の革新、次世代接続インフラによる強力な長期的な拡大を背景に、2035年までに約1,567億米ドルに達すると予測されています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本全土における5Gネットワークの急速な拡大は、ハードウェア需要の主要な推進要因となっています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「5Gインフラが拡大するにつれ、企業は、通信環境とIT環境の間でデータをシームレスに処理と伝送できる、高度なエッジサーバー、AIアクセラレータ、およびネットワーク統合型ハードウェアを必要としています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本エッジAI市場におけるヘルスケア分野は、予測期間中に28.6％という最も高い年平均成長率（CAGR）を記録すると予測されています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「市場規模は、インテリジェント・エッジ対応医療技術の導入加速を反映し、2025年度（FY25）の14億1,400万米ドルから、2035年度（FY35）には約179億8,500万米ドルへと大幅に拡大すると予想されます」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「日本における5Gインフラの拡大は、超低遅延通信と高速データ転送を可能にすることで、エッジAIの機能を大幅に強化しています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「2025年にはUS$ millionから、2031年にはUS$ millionへと成長し、2025年から2031年にかけて年平均成長率（CAGR）で%の成長が見込まれています」（https://www.atpress.ne.jp/news/1035453）
+  - 「広範な市場背景として、2021年に26.2%という力強い成長を遂げた世界の半導体市場は、WSTSによって2022年には単一桁成長へと下方修正され、市場規模は前年比4.4%増の5,800億米ドルとなりました」（https://www.atpress.ne.jp/news/1035453）
+  - 「市場規模は、2026年の 58億米ドルから 2034年には 204億米ドルに拡大し、2025年から2034年までの予測期間中に年平均成長率（CAGR）16.8%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「年平均成長率（CAGR、2025〜2034年）」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+- 上位シェア：
+  - 「エッジAIチップ市場の規模とシェアに関するレポート、2034年」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAIチップ市場 サイズとシェア 2025 - 2034」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジ人工知能チップ市場のシェア、チップタイプ別、2024年」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「ASIC（特定用途向け集積回路）AIチップセグメントは、2024年に41.72%の市場シェアを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「GPU（グラフィックス処理ユニット）AIチップセグメントは、2024年に 28.76% の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「自動車・輸送セグメントは、2024年に市場シェアの 21.25% を占めました」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「日本エッジAI市場規模シェア、競争環境、トレンド分析レポート、構成要素別、導入形態別、エンドユーザー別 ：2026年から2035年までの機会分析および業界予測」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「構成要素別では、ハードウェア分野が市場成長の最大のシェアを占め、総収益の約58%を占めると見込まれています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「導入モデル別では、オンプレミス型エッジセグメントが主導的な地位を維持し、総収益の約47％を占めると予測されています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「エンドユーザー別では、スマート産業と製造セグメントが最大の貢献要因となり、市場全体の収益の約30％を占めると見込まれています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「ハードウェア分野は、日本エッジAI市場を牽引すると予測されており、2025年には総収益シェアの約58％を占めると見込まれています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「現在、日本エッジAI市場において、オンプレミス型エッジインフラストラクチャが主要な導入モデルとなっており、総売上高の約47%を占めています」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+- 主要企業：
+  - 「Intel、NVIDIA、Qualcommなどの米国の主要企業は、セキュリティシステム、自動運転車、スマートファクトリー向けのエッジコンピューティング用最先端AIチップを開発しています」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「NVIDIA、Qualcomm、Intel、Apple、MediaTekはエッジ人工知能チップ業界の主要企業であり、合わせて市場シェアの約55%を占めている」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジ人工知能チップ市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAIチップの主要企業である NVIDIA は、」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAIチップ業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「市場の主要企業には、Advanced Micro Devices, Inc.、Apple、Arm Limited、BrainChip, Inc.、Broadcom Inc.、Intel Corporation、Lattice Semiconductor、Marvell、MediaTek Inc.、Mythic、NVIDIA Corporation が含まれます」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「主要企業のリスト：」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「さらに、主要メーカーのエッジAIチップ生産地域分布、販売地域、提供製品、市場集中度分析、新製品と潜在的参入企業、市場のM&A活動と戦略についても記載されています」（https://www.atpress.ne.jp/news/1035453）
+  - 「主要企業によるモバイル」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「強固な知的財産ポートフォリオとOEMおよびODMとの提携により、Qualcommは分散型インテリジェンスを実現する主要企業としての地位を確立している」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「エッジAIハードウェア市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「エッジAIハードウェア市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「エッジAIハードウェア市場の主要企業には、NVIDIA Corporation、Google（Alphabet Inc.）、Intel Corporation、Huawei Technologies Co., Ltd.、Apple Inc.、Qualcomm Incorporated、Samsung Electronics Co., Ltd.などが含まれます」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/edge-ai-hardware-market）
+- 投資：
+  - 「標準的なエンタープライズ向けエッジAIのパイロットプロジェクトの場合、初期投資額は通常、1拠点あたり3,000万～5,000万円程度となります」（https://www.reportocean.co.jp/industry-reports/japan-edge-ai-market）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/1035453）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9440001）
+  - 「Market fundamentals remain optimistic owing to continued focus on low- latency computing and smart-edge computing applications, the increasing number of investments in areas such as 5G networks,」（https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market）
+  - 「, Netra semi (India) raised Rs 107 crore in Series A funding to develop SoCs for edge AI applications in IoT, surveillance, industrial robotics, smart retail, and automation.(Source:」（https://www.precedenceresearch.com/edge-artificial-intelligence-chips-market）
+  - 「Its Dammam data center, built with Aramco Digital, sits behind a $1.5 billion Saudi investment commitment announced in February 2025.」（https://aimultiple.com/ai-chip-makers）
+  - 「On August 17, 2026, Groq LLC announced a $350 million Series A at a $3.5 billion valuation, led by Disruptive with planned participation from NVIDIA. The release calls the June and August rounds $1 billion of recent funding, while stating that the Series A remains subject to customary closing conditions.」（https://aimultiple.com/ai-chip-makers）
+  - 「Cerebras has traded on Nasdaq under the ticker CBRS since May 14, 2026, after an IPO that raised about $6.38 billion in gross proceeds.」（https://aimultiple.com/ai-chip-makers）
+  - 「In its August 12 Q2 results, Cerebras raised its FY2026 core revenue forecast to $880-890 million.」（https://aimultiple.com/ai-chip-makers）
+  - 「Total funding is about $850 million.」（https://aimultiple.com/ai-chip-makers）
+  - 「Tenstorrent offers a fully open-source software stack. The company raised $700 million in December 2024.」（https://aimultiple.com/ai-chip-makers）
+  - 「Etched emerged from stealth on June 30, 2026 with first-pass A0 silicon back from TSMC’s N4P process, more than $1 billion in signed customer contracts and $800 million raised.」（https://aimultiple.com/ai-chip-makers）
+  - 「Extropic raised a $14 million round in late 2023 to use thermodynamics for computing. Its hardware page lists three parts. X0 is a silicon prototype from Q1 2025, and XTR-0 is a development platform shipped in limited numbers to selected researchers in Q3 2025. Both were unveiled on October 29, 2025. Z1, the first production-scale chip, is listed as early access in 2026.」（https://aimultiple.com/ai-chip-makers）
+  - 「Mythic raised an oversubscribed $125 million round led by DCVC on December 17, 2025.」（https://aimultiple.com/ai-chip-makers）
+  - 「Speedata raised $44 million in a Series B round in June 2025, led by Walden Catalyst Ventures, 83North, and others, bringing its total funding to $114 million.」（https://aimultiple.com/ai-chip-makers）
+- 検索結果の抜粋：
+  - 「エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 — エッジAIチップ市場 の 規模 とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAIチップ市場 の規模と シェア に関するレポート、2034年 — エッジAIチップ市場 の規模と シェア に関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「エッジAI 半導体 市場 規模、 シェア |予報 [2034] — エッジAI 半導体 市場 規模、 シェア |予報 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > エッジai半導体...」（https://www.fortunebusinessinsights.com/jp/%E3%82%A8%E3%83%83%E3%82%B8ai%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%B8%82%E5%A0%B4-117383）
+  - 「エッジAIチップ市場 の規模とシェアに関するレポート、2034年 — エッジAIチップ市場 の規模とシェアに関するレポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > edge-ar...」（https://www.gminsights.com/ja/industry-analysis/edge-artificial-intelligence-chips-market）
+  - 「超 エッジAIチップ セットの世界 市場 （2026年～2032年） — 超 エッジAIチップ セットの世界 市場 （2026年～2032年） アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/9440001）
+
+## 生成AI半導体（AI accelerator chip）
+- 文脈：1 AI・半導体 ②中核半導体
+- 市場規模：
+  - 「世界の半導体設計向け生成AI市場は、2023年の15億1,160万米ドルから2033年には240億9,270万米ドルに成長し、2024年から2033年までの年間平均成長率（CAGR）は31.9％に達すると予測されています」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「生成AIによる半導体設計市場は2033年に240億9,270万米ドルに成長（CAGR 31.9％）」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「ハードウェアにおける人工知能（AI）市場は、テクノロジー業界における最も急速な資本拡大サイクルの一つに突入しており、市場規模は2025年の341億米ドルから2035年には2,585億米ドルへと急増し、2026年から2035年の予測期間において年平均成長率（CAGR）22.43%を記録すると予測されています」（https://newscast.jp/news/6381573）
+  - 「• ハードウェアにおける人工知能（AI）市場は急成長を遂げており、2025年には341億米ドルに達すると予測されています」（https://newscast.jp/news/6381573）
+  - 「医療、金融、防衛、通信、産業オートメーション分野におけるAI導入が進む中、AIハードウェア市場は2035年に向けて最も戦略的重要性の高いテクノロジー投資分野の一つへ進化しています」（https://newscast.jp/news/6381573）
+  - 「ハードウェアにおける人工知能（AI）市場は、2025年の341億米ドルから2035年には2585億米ドルへ拡大し、CAGR22.43％という高成長が見込まれています」（https://newscast.jp/news/6381573）
+  - 「弊社の半導体におけるAIの市場調査レポートによると、市場は予測期間2026ー2035年において複利年間成長率（CAGR）13.4%で成長すると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「2035年には、市場規模は2,329億米ドルに達すると見込まれています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「しかし、弊社の調査アナリストによると、基準年の市場規模は564億米ドルでしました」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「日本の半導体におけるAIの市場は、2026ー2035年の予測期間中に複利年間成長率（CAGR）13.9%の成長が見込まれています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「北米における半導体におけるAIの市場の市場調査と分析によると、この地域の市場は予測期間を通じて第2位の地位を維持すると予測されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「アジア太平洋地域の半導体におけるAIの市場は、世界の半導体におけるAIの市場で35%以上の圧倒的な市場シェアを獲得し、主導的な地位を確保すると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「世界の半導体におけるAIの市場規模は、予測期間中に複利年間成長率13.4%で成長し、2035年には2,329億米ドルに達すると予測されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「さらに、弊社の調査レポートによると、2025年の半導体におけるAIの市場規模は適度なペースで成長すると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「主要半導体メーカーで構成される世界半導体市場統計、WSTSは、2026年の世界半導体市場が前年比89.9％増の1兆5,112億ドルに達するとの見通しを発表しました」（https://tonarism.co.jp/media/media_detail.php?b_id=249）
+- 成長率：
+  - 「世界の半導体設計向け生成AI市場は、2023年の15億1,160万米ドルから2033年には240億9,270万米ドルに成長し、2024年から2033年までの年間平均成長率（CAGR）は31.9％に達すると予測されています」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「生成AIによる半導体設計市場は2033年に240億9,270万米ドルに成長（CAGR 31.9％）」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「ハードウェアにおける人工知能（AI）市場、2035年までに2585億米ドル規模へ拡大｜次世代半導体革新を背景にCAGR 22.43％で急成長 | NEWSCAST」（https://newscast.jp/news/6381573）
+  - 「ハードウェアにおける人工知能（AI）市場、2035年までに2585億米ドル規模へ拡大｜次世代半導体革新を背景にCAGR 22.43％で急成長」（https://newscast.jp/news/6381573）
+  - 「ハードウェアにおける人工知能（AI）市場は、テクノロジー業界における最も急速な資本拡大サイクルの一つに突入しており、市場規模は2025年の341億米ドルから2035年には2,585億米ドルへと急増し、2026年から2035年の予測期間において年平均成長率（CAGR）22.43%を記録すると予測されています」（https://newscast.jp/news/6381573）
+  - 「ハードウェアにおける人工知能（AI）市場は、2025年の341億米ドルから2035年には2585億米ドルへ拡大し、CAGR22.43％という高成長が見込まれています」（https://newscast.jp/news/6381573）
+  - 「市場が2585億米ドル規模へ拡大する中で、勝つ企業は「高性能な部品」を売る企業ではなく、「業界課題を解決するAIインフラ」を提供する企業です」（https://newscast.jp/news/6381573）
+  - 「弊社の半導体におけるAIの市場調査レポートによると、市場は予測期間2026ー2035年において複利年間成長率（CAGR）13.4%で成長すると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「CAGR（2026ー2035年）」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「日本の半導体におけるAIの市場は、2026ー2035年の予測期間中に複利年間成長率（CAGR）13.9%の成長が見込まれています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「弊社の市場調査によると、世界のIoT接続デバイスの数は2025年に200億台に達し、昨年よりも高い成長率を示すと予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「2026ー2035年までのCAGR」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「アジア太平洋地域は、予測期間を通じて14.2%のCAGRで成長し、最も急速に成長する地域になると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「世界半導体市場が2026年に1兆ドル突破へ AI需要とメモリー急拡大が成長を牽引」（https://tonarism.co.jp/media/media_detail.php?b_id=249）
+  - 「主要半導体メーカーで構成される世界半導体市場統計、WSTSは、2026年の世界半導体市場が前年比89.9％増の1兆5,112億ドルに達するとの見通しを発表しました」（https://tonarism.co.jp/media/media_detail.php?b_id=249）
+- 上位シェア：
+  - 「Before You Buy Amazon Basics: How the Top 5 Best-Selling AA Batteries on Amazon Really Compare」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「半導体におけるAIの市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 提供別、技術別、アプリケーション別、エンドユーザー別、及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「AI半導体のハードウェアセグメントにおける主要なサブセグメントである人工知能向けに最適化されたチップは、2035年までに市場全体の55%以上を占めると予測されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「民生用電子機器は、2035年には38%以上の市場シェアを獲得し、半導体におけるAIエンドユーザーセグメントを牽引すると予想されます」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「アジア太平洋地域の半導体におけるAIの市場は、世界の半導体におけるAIの市場で35%以上の圧倒的な市場シェアを獲得し、主導的な地位を確保すると予想されています」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「半導体におけるAIの市場におけるメーカーシェアを独占する世界トップ10社は以下のとおりです:」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「日本の半導体におけるAIの市場におけるメーカーシェアを独占するトップ10社は以下のとおりです:」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「RFシンセサイザIC市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「マイクロコントローラソケット市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― 製品タイプ別、アプリケーション別、最終用途産業別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「生成AI市場の規模、シェア、成長、分析、レポート、2034年」（https://straitsresearch.com/jp/report/generative-ai-market）
+  - 「生成型AI市場の規模、シェア、トレンド分析レポート：コンポーネント別（ソフトウェア、サービス）、技術別（敵対的生成ネットワーク、トランスフォーマー、変分オートエンコーダー、拡散ネットワーク）、エンドユーザー別（メディア＆エンターテイメント、BFSI、IT＆通信、ヘルスケア、自動車＆運輸、その他）、アプリケーション別（コンピュータビジョン、自然言語処理、コンテンツ生成、チャットボット＆インテリジェント仮想アシスタント、予測分析、その他）、モデル別（大規模言語モデル、画像＆動画生成モデル、マルチモーダル生成モデル、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東＆アフリカ、ラテンアメリカ）、予測、2026～2034年」（https://straitsresearch.com/jp/report/generative-ai-market）
+  - 「北米は、2025年に40.2%の市場シェアを占め、生成型AI市場を牽引しました」（https://straitsresearch.com/jp/report/generative-ai-market）
+  - 「北米は2025年に40.2%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/generative-ai-market）
+  - 「機械学習市場の規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/generative-ai-market）
+  - 「倉庫管理におけるAI市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/generative-ai-market）
+- 主要企業：
+  - 「主要企業の分析」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「主要企業は生成学習アルゴリズムの性能向上とスケーラビリティ強化に注力」（https://scoop.market.us/%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%AD%E8%A8%88%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%94%9F%E6%88%90ai%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「• 北アメリカは、強固な技術インフラ、AIの研究開発への多額の投資、そしてAI対応ハードウェアソリューションのイノベーションを牽引する主要企業の存在により、市場をリードしています」（https://newscast.jp/news/6381573）
+  - 「主要企業のリスト：」（https://newscast.jp/news/6381573）
+  - 「NVIDIA、AMD、Intel、Graphcore、Tenstorrentなどは、世界の半導体におけるAIの市場で活動する主要企業の一部であります」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「弊社の調査レポートによると、Renesas Electronics、Socionext、Denso、Hitachi、Toshibaなどが、半導体におけるAIの市場において日本国内で活動する主要企業の一部です」（https://www.sdki.jp/reports/ai-in-semiconductors-market/590641820）
+  - 「NVIDIA、TSMC、Samsung、SK hynix、キオクシアなどの主要企業だけでなく、材料、装置、部品、基板、電源、冷却、商社まで、半導体サプライチェーン全体に大きな影響が広がるでしょう」（https://tonarism.co.jp/media/media_detail.php?b_id=249）
+  - 「グローバルAI半導体市場の競争と主要プレイヤー」（https://orutedia.com/ai-semiconductor-manufacturer/）
+  - 「AI時代を牽引する高帯域幅メモリ（HBM）の分野で業界をリードしており、NVIDIAなどの主要企業へ製品を供給しています」（https://deallab.info/semiconductor/）
+  - 「日立製作所、三菱電機、富士電機、明電舎と並び、国内重電メーカーの主要企業の一角を占めます」（https://deallab.info/semiconductor/）
+  - 「The following key companies have been profiled for this study on the」（https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report）
+  - 「In June 2024, Google LLC launched an AI-first, equity-free accelerator in Australia as part of its $1 billion Digital Future Initiative. This program aims to support seed and Series A startups in AI and machine learning. It will help Australian entrepreneurs utilize AI technologies by providing mentorship, technical support, and access to Google's global networks.」（https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report）
+  - 「Revenue forecast, company ranking, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report）
+  - 「Competitive landscape benchmarking」（https://www.grandviewresearch.com/industry-analysis/ai-accelerator-market-report）
+- 投資：
+  - 「2021年には、米国の燃料電池メーカーのプラグパワーに出資をし、水素プラントへの進出をしています」（https://deallab.info/semiconductor/）
+  - 「この工場は、日本政府の支援を受けて建設され、約1兆2900億円の投資額で20万平方メートル以上の敷地面積を持ち、半導体供給における強靭さを日本と世界にさらに強化することを目指しています」（https://deallab.info/semiconductor/）
+  - 「経済安全保障法の制定、半導体戦略への1.72兆円政府支援、Rapidusへの8社出資」（https://s.gbase.ai/insight/semiconductor-ranking-2025/）
+  - 「A：日本は経済安全保障法の制定、半導体戦略への1.72兆円の政府支援、Rapidusへの8社出資、TSMC熊本工場の誘致、ローム×東芝のパワー半導体連合形成など、政府主導の産業政策で半導体復興を進めています」（https://s.gbase.ai/insight/semiconductor-ranking-2025/）
+  - 「Scientific and HPC applications are projected to increase from $9,775.5 million in 2026 to $49,827.8 million in 2035 at a 19.8% CAGR. Demand is supported by research computing, simulation, and public-sector supercomputing, but purchasing follows funding cycles and longer procurement schedules than commercial cloud infrastructure.」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
+  - 「Elsewhere in the region, data-center expansion, manufacturing programs, and national AI strategies support demand. Japan and India have identified semiconductors and AI as areas of bilateral investment cooperation under a 10 trillion yen private-investment target. South Korea's AI-chip and HBM investment program reinforces its role in the AI memory and semiconductor supply chain.」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
+  - 「South Korea AI-chip investment program, 2025」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
+  - 「The Asia Pacific AI accelerator chips market will likely witness the highest regional CAGR between 2026 and 2035, owing to the efforts made by China towards the creation of indigenous AI silicon, Japan's investment in its semiconductors industry, South Korea's dominance in memory chip technology, and the growth of the AI start-up market in India. The rise in」（https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899）
+  - 「This is where market share meets chip economics. NVIDIA's 85-88% gross margins dwarf AMD's 65-68% and Intel's 58% — funding its R&D pipeline, securing TSMC capacity, and creating pricing flexibility competitors cannot match. See how these chips compare on」（https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026）
+  - 「from Google, AWS, Microsoft, Meta — collectively $50B+ investment, reducing hyperscaler GPU purchases」（https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026）
+  - 「In September 2025, Nvidia announced a substantial investment in OpenAI, a move aimed at deepening the collaboration between the world-leading AI chip designer and a premier AI research and deployment company.」（https://www.technavio.com/report/artificial-intelligence-chips-market-industry-analysis）
+  - 「AWS can continue to enhance its status as a preferred cloud provider by collaborating with and integrating leading models, which also helps advance AWS’ AI hardware initiatives. A notable recent example is AWS’ $2.75 billion follow on investment in Anthropic, an AI startup renowned for its foundational model and Claude chatbot.」（https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html）
+  - 「The consensus among tech leaders and investors seems clear: investing in AI is essential for long term product and financial success. As an example of this sentiment, in 2023, global private investment activity in AI more than doubled YoY while deal activity slumped across all sectors.」（https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html）
+  - 「17. CNBC. (2024, March 27). Amazon spends $2.75 billion on AI startup Anthropic in its largest venture investment yet.」（https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html）
+  - 「23. Intel. (2024, March 20). US Chips Act Funding for Intel.」（https://globalxetfs.co.jp/en/research/four-companies-reshaping-the-artificial-intelligence-landscape/index.html）
+- 検索結果の抜粋：
+  - 「AI Accelerator Chips Market Size & Share 2026-2035 — AI Accelerator Chips Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > ai-acce...」（https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market）
+  - 「AI Accelerator Chips Market to cross USD 1 Trillion by 2035 — AI Accelerator Chips Market to cross USD 1 Trillion by 2035 Microwave Journal https://www.microwavejournal.com > ...」（https://www.microwavejournal.com/articles/46321-ai-accelerator-chips-market-to-cross-usd-1-trillion-by-2035）
+  - 「AI Accelerator Chips Market Size, Share & Growth, 2026-2035 — AI Accelerator Chips Market Size, Share & Growth, 2026-2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/ai-accelerator-chips-market-6899）
+  - 「NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators — NVIDIA AI GPU Market Share 2026: ~80% of AI Accelerators Silicon Analysts https://siliconanalysts.com > Analysis」（https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026）
+  - 「AI Accelerator Chips Market Size, Share , Growth, 2034 — AI Accelerator Chips Market Size, Share , Growth, 2034 Straits Research https://straitsresearch.com > report > a...」（https://straitsresearch.com/report/ai-accelerator-chips-market）
+
+## データベース管理システム（database management system）
+- 文脈：2 デジタル・サイバー ①データプラットフォーム
+- 市場規模：
+  - 「世界のデータベース管理システム（DBMS）市場規模、セグメント、2034年までの予測」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「世界のデータベース管理システム（DBMS）市場規模、シェア、トレンド、成長、および2034年までの予測」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「2024年の市場規模」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「世界のデータベース管理システム（DBMS）市場規模は、2024年には約」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「当社のリサーチアナリストによる分析によると、世界のデータベース管理システム（DBMS）市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約10.8%で成長すると予測されています」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「収益面では、世界のデータベース管理システム（DBMS）市場規模は2024年に約890億米ドルと評価され、2034年までに2481億9000万米ドルに達すると予測されている」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「すべての区分は現在および将来の動向に基づいて分析されており、市場規模は2025年から2034年まで予測されています」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「2022年度のDWH用DBMS市場は前年度比29.0％増を予測」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「SaaS型DWH用DBMS市場のCAGR（2021～2026年度）は26.2%と高く、2026年度には700億円に迫る見込み」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「本市場を提供形態別に分類して見ると、2021年度のSaaS市場の売上金額は215億円、前年度比32.7%増と高い伸びとなりました」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「CAGR（2021～2026年度）では、パッケージ市場はマイナス4.3%と市場が縮小するのに対し、SaaS市場は26.2%と高く、2026年度には700億円規模に迫ると予測しています」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「図．DWH用DBMS市場規模推移および予測：提供形態別（2020～2026年度予測）」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「データベースソフトの市場規模・シェア動向【2026年版】 | ITトレンド」（https://it-trend.jp/database/article/89-10822）
+  - 「データベースソフトの市場規模・シェア動向【2026年版】」（https://it-trend.jp/database/article/89-10822）
+  - 「国内のローコード／ノーコード開発市場は2024年度に994億円」（https://it-trend.jp/database/article/89-10822）
+- 成長率：
+  - 「でしたが、 2025年から2034年までの年平均成長率」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「当社のリサーチアナリストによる分析によると、世界のデータベース管理システム（DBMS）市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約10.8%で成長すると予測されています」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「2025年10月、大手eコマース企業であるアマゾンは、2024年に南アフリカでウェブサイトAmazon.co.zaを開設し、グローバル展開を拡大すると発表した」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「2024年には、大企業セグメントで最も高い成長率が観測されました」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「10.8％のCAGR」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「2025年から2034年までの期間におけるデータベース管理システム（DBMS）市場の年平均成長率（CAGR）はどのくらいになるでしょうか？」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「データベース管理システム（DBMS）市場の年平均成長率（CAGR）は、2025年から2034年の間に約10.8%になると予測されている」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「SaaS型DWH用DBMS市場のCAGR（2021～2026年度）は26.2%と高く、2026年度には700億円に迫る見込み」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「CAGR（2021～2026年度）では、パッケージ市場はマイナス4.3%と市場が縮小するのに対し、SaaS市場は26.2%と高く、2026年度には700億円規模に迫ると予測しています」（https://www.itr.co.jp/topics/pr-20230209-1）
+  - 「2024〜2029年度のCAGR（年平均成長率）は12.9％と予測されています」（https://it-trend.jp/database/article/89-10822）
+  - 「2026～2032年の年平均成長率（CAGR）：17.2%」（https://www.atpress.ne.jp/news/3472062）
+  - 「世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032」（https://www.atpress.ne.jp/news/3472062）
+  - 「無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032」（https://www.atpress.ne.jp/news/3472062）
+  - 「世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032」（https://www.atpress.ne.jp/news/3472062）
+  - 「自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測」（https://www.atpress.ne.jp/news/3472062）
+- 上位シェア：
+  - 「世界のデータベース管理システム（DBMS）市場規模、シェア、トレンド、成長、および2034年までの予測」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「企業規模別セグメンテーションに基づくと、2024年には大企業が最大の市場シェアを示すと予測された」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「データベースソフトの市場規模・シェア動向【2026年版】 | ITトレンド」（https://it-trend.jp/database/article/89-10822）
+  - 「データベースソフトの市場規模・シェア動向【2026年版】」（https://it-trend.jp/database/article/89-10822）
+  - 「【総合シェアTOP５】レビュー × ランキングで見る人気製品」（https://it-trend.jp/database/article/89-10822）
+  - 「まずは、レビュー件数のシェアと資料請求ランキングから、2026年の人気製品を紹介します」（https://it-trend.jp/database/article/89-10822）
+  - 「レビュー件数のシェアでHotBiz8が73％」（https://it-trend.jp/database/article/89-10822）
+  - 「次のグラフは、レビュー件数のシェアTOP３です」（https://it-trend.jp/database/article/89-10822）
+  - 「その下の表の総合順位は、レビューシェアと資料請求ランキングの順位の平均で並べています（TOP５外は６位として計算）」（https://it-trend.jp/database/article/89-10822）
+  - 「※「レビューシェア」は、2026年10月までにITトレンドへ投稿されたレビュー15件に占める割合です」（https://it-trend.jp/database/article/89-10822）
+  - 「データベースソフトでは、楽々Webデータベースがレビューシェア2位・ランキング3位と、両方で上位に入りました」（https://it-trend.jp/database/article/89-10822）
+  - 「JUST.DBも、レビューシェア3位・ランキング2位です」（https://it-trend.jp/database/article/89-10822）
+  - 「一方、レビューシェア1位のHotBiz8はランキング6位でした」（https://it-trend.jp/database/article/89-10822）
+  - 「ここでは、ITトレンドの資料請求ランキング（2024年間〜2026年上半期の4回分）、上位製品のタイプ、レビューとの関係から、市場の動きを整理します」（https://it-trend.jp/database/article/89-10822）
+  - 「2026年6月24日、QYResearch株式会社（所在地：東京都中央区）は、「リレーショナルデータベースソフトウェア―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に関する最新の調査レポートを発表しました」（https://www.atpress.ne.jp/news/3472062）
+- 主要企業：
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「データベース管理システム（DBMS）市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market）
+  - 「・主要企業の売上ランキング、市場シェア、競争ポジション」（https://www.atpress.ne.jp/news/3472062）
+  - 「第2章 競争環境と主要企業ランキング（2021～2026年）」（https://www.atpress.ne.jp/news/3472062）
+  - 「市場の主要企業には次のような企業が含まれます:」（https://www.imarcgroup.com/report/ja/database-management-system-market）
+  - 「競争環境は、利害関係者がその競争環境を理解することを可能にし、市場における主要企業の現在の地位についての洞察を提供する」（https://www.imarcgroup.com/report/ja/database-management-system-market）
+  - 「世界のデータベース管理システム市場の成長に重要な役割を果たす主要な主要企業には、Huawei Technologies Co. Ltd.、Cockroach Labs.、Oracle Corporation、Microsoft Corporation、IBM Corporation、などが含まれます」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「さらに、日本のデータベース管理システム市場のトップ5プレーヤーは、Plaid Inc.、Base Connect Inc.、Startups Inc.、Climb Factory DB.、Startup, Inc.、などです」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「この調査には、世界のデータベース管理システム市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「Startups Inc.」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「Huawei Technologies Co. Ltd.、Cockroach Labs.、Oracle Corporation、Microsoft Corporation、IBM Corporation、などは、世界の データベース管理システム市場で機能する主要企業の一部です」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「Plaid Inc.、Base Connect Inc.、Startups Inc.、Climb Factory DB.、Startup, Inc.、などは、データベース管理システム市場の日本の分野で機能している主要企業の一部です」（https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/database-management-system-market-1972）
+  - 「Major Players」（https://www.marketresearchfuture.com/reports/database-management-system-market-1972）
+  - 「Key Players and Competitive Insights」（https://www.marketresearchfuture.com/reports/database-management-system-market-1972）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/3472062）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9448974）
+  - 「30% of our revenue is generated working with investment firms and helping them identify viable opportunity areas.」（https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states）
+  - 「Per hyperscaler capital expenditure disclosures in 2025 annual filings, combined cloud infrastructure investment exceeded」（https://market.us/report/global-database-management-system-market/）
+  - 「Additionally, the rise of smart city initiatives and Industry 4.0 is prompting businesses to adopt advanced DBMS for efficient data handling. The region's strong focus on technological advancements, coupled with increased cloud infrastructure investments, is further propelling domestic market growth.」（https://www.kingsresearch.com/database-management-system-market-1114）
+  - 「of the market in 2025, with Brazil and Mexico emerging as primary growth hubs driven by digitization of banking and financial services, expanding e-commerce ecosystems, and increasing cloud infrastructure investment by regional telecom providers and hyperscalers. The region is expected to record a CAGR of」（https://dataintelo.com/report/data-base-management-systems-market）
+  - 「in aggregate funding during 2024-2025.」（https://dataintelo.com/report/data-base-management-systems-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/data-base-management-systems-market）
+- 検索結果の抜粋：
+  - 「データベース管理システム ( Dbms ) 市場 規模と予測 [2026-2035] — データベース管理システム ( Dbms ) 市場 規模と予測 [2026-2035] Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術」（https://www.businessresearchinsights.com/jp/market-reports/database-management-system-dbms-market-102368）
+  - 「DBMS市場 規模、シェア、業界動向、2033年予測 — DBMS市場 規模、シェア、業界動向、2033年予測 IMARC Group https://www.imarcgroup.com > Technology & Media」（https://www.imarcgroup.com/report/ja/database-management-system-market）
+  - 「15 Companies in Database Management System ( DBMS ... — 15 Companies in Database Management System ( DBMS ... Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035）
+  - 「Database Management System Market Report, 2024-2030 — Database Management System Market Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market）
+  - 「Top 10 DBMS Market share by company - LinkedIn — Top 10 DBMS Market share by company - LinkedIn LinkedIn https://www.linkedin.com > pulse > to...」（https://www.linkedin.com/pulse/top-10-dbms-market-share-company-datanique-global-luvjf/）
+  - 「Database Management System Market Size | CAGR of 11.7% — Database Management System Market Size | CAGR of 11.7% Market.us https://market.us > report > global-dat...」（https://market.us/report/global-database-management-system-market/）
+  - 「US Database Management System Market Sector Growth | 2035 — US Database Management System Market Sector Growth | 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929）
+  - 「Database Management System Market Size & Trends 2034 — Database Management System Market Size & Trends 2034 The Insight Partners https://www.theinsightpartners.com > ...」（https://www.theinsightpartners.com/reports/database-management-system-market）
+  - 「Database Management System Market - Forecasts from 2025 ... — Database Management System Market - Forecasts from 2025 ... Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk）
+
+## 自治体DX（government cloud）
+- 文脈：2 デジタル・サイバー ②自治体AX/DX基盤
+- 市場規模：
+  - 「矢野経済研究所などのデータをもとに構成された資料によれば、市場規模は2021年度の7,275億円から右肩上がりで成長を続け、2025年度には9,660億円（対前年度比117.7%）というピークを迎える予測となっています」（https://www.ohmae.ac.jp/mbaswitch/municipality-dx/）
+  - 「翌2026年度には8,840億円（同91.5%）へと縮小し、その後も2028年度の7,980億円まで減少傾向が続くと見込まれています」（https://www.ohmae.ac.jp/mbaswitch/municipality-dx/）
+  - 「市場規模のデータは、2025年度をピークとした投資の集中と、その後の反動減という政策主導型市場の構造を示しています」（https://www.ohmae.ac.jp/mbaswitch/municipality-dx/）
+  - 「で 8380 億ドルの消費者余剰が生み出されていると推計されている」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「デジタルサービス （有料・無料を問わず） から生まれる日本の消費者余剰を年間161 兆円（2016 年）と試」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「平均値 908.7 億円、中央値 333 億円、最大値 19,000 億円、最小値 6.8 億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「100億円以下」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「100億円～300億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「300億円～500億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「500億円～1000億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「1000億円～5000億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「5000億円以上」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「5000万円～1億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「1億円～5億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「5億円～10億円」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+- 成長率：
+  - 「ら 2011 年に Facebook や YouTube、Twitter、Craigslist などのインターネット上のサービスによって年平均」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「ルの拡大・創出、 新サービス市場の創出効果を算出することも必要であろう （図１④）」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「サービスの拡大」 と 「地域の社会課題解決」 につなげていく、 という政策の流れである12」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「2023年度に関しては、ほぼ横ばいの推移予測ですが、前年比で1.8％増の7,733億7,000万円になると見込まれています」（https://labid.jp/article/kidw4q1l）
+  - 「2023年度は地方税共通納税システムの税目拡大や、物価上昇に伴う給付金対応が新たに生じ、基幹ベンダーを中心に前年並み、あるいはそれを上回る売上が見込まれています」（https://labid.jp/article/kidw4q1l）
+  - 「「自治体」2020年度409億円でしたが2030年度には4900億円と12倍に拡大することが予想されています」（https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market）
+  - 「その翌年の2023年度（7445億円）から上昇トレンドとなり、2025年度には9177億円と1兆円近くにまで拡大することが予想されています」（https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market）
+  - 「こうしてみると、自治体DX市場は2025年度までは成長が見込まれ、自治体のDX投資という観点では2030年ごろまで急拡大することが見込まれます」（https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market）
+  - 「CAGR of 12.94%」（https://www.imarcgroup.com/government-cloud-market）
+  - 「The Market Size is Expected to Grow at a CAGR of around 13.04% from 2026 to 2035」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「Forecast Period CAGR 2026-2035 :」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「The hybrid cloud segment dominated the market in 2025, approximately 47%, and is projected to grow at a substantial CAGR during the forecast period.」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「The Software as a Service segment accounted for the largest share in 2025, approximately 47%, and is anticipated to grow at a significant CAGR during the forecast period.」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「The security & compliance segment accounted for the highest market revenue in 2025, approximately 33%, and is anticipated to grow at a significant CAGR during the forecast period.」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「CAGR (2026-2035)」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+- 上位シェア：
+  - 「DX推進が遅れている理由（n=111）では、上位が「予算制約」（約68.3%）、「IT等の専門人材不足」（63.4%）で、まず“投入できる資源”がボトルネックになっています」（https://www.ohmae.ac.jp/mbaswitch/municipality-dx/）
+  - 「エコノミー促進室「シェア・ニッポン 100～未来につなぐ地域の活力～」では地方において自治体や民間」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「自治体で全体の約半数を占めているが、最大値 2.96%まである程度の分布が見られる（図」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「しては、例えばオープンデータを活用したビジネスモデルや 29、地域におけるシェアリン」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「2. 市場シェア（都道府県／市区町村）（17）」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「2. 市場シェア（21）」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「2. 市場シェア（27）」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「2. 市場シェア（38）」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「4. 市場シェア（65）」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「2. 市場シェア（都道府県／市区町村）（21）」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「2. 市場シェア（25）」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「2. 市場シェア（33）」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「2. 市場シェア（37）」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「4. 市場シェア（64）」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「North America currently dominates the market, holding a market share of over 34.7% in 2025.」（https://www.imarcgroup.com/government-cloud-market）
+- 主要企業：
+  - 「こうした影響を受け、モビリティ、金融、ヘルスケアなどの産業界からの異業種参入が進んでおり、新たな参入企業が増えている」（https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt）
+  - 「さらに、生成AIなどの技術を活用した提案が活発化しており、既存ベンダーは業務ノウハウを強みに、これらの新規参入企業との連携や役割分担が求められる」（https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt）
+  - 「3章 主要参入企業の調査個票」（https://pr.mono.ipros.com/yano/product/detail/2000357795/）
+  - 「Competitive Landscape:」（https://www.imarcgroup.com/government-cloud-market）
+  - 「The report provides a comprehensive analysis of the competitive landscape in the government cloud market with detailed profiles of all major companies, including:」（https://www.imarcgroup.com/government-cloud-market）
+  - 「Competitive landscape allows stakeholders to understand their competitive environment and provides an insight into the current positions of key players in the market.」（https://www.imarcgroup.com/government-cloud-market）
+  - 「Some of the major players in the government cloud market include Amazon Web Services Inc., CGI Inc., Cisco Systems Inc., Dell Technologies Inc., Google LLC (Alphabet Inc.), Hewlett Packard Enterprise Development LP, International Business Machines Corporation, Microsoft Corporation, NetApp Inc., Oracle Corporation, Salesforce.com Inc., Verizon Communications Inc., VMware Inc, etc.」（https://www.imarcgroup.com/government-cloud-market）
+  - 「Startups」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「List of Key Companies」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「Key Players」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+  - 「Companies Profiled」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+  - 「Government Cloud Market Competitive Landscape」（https://straitsresearch.com/report/government-cloud-market）
+  - 「Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends」（https://straitsresearch.com/report/government-cloud-market）
+  - 「His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.」（https://straitsresearch.com/report/government-cloud-market）
+  - 「Competitive Landscape」（https://straitsresearch.com/report/government-cloud-market）
+- 投資：
+  - 「に対して「DX にかける年間予算規模」 「過去５年間にかけたICT 投資額」 「自治体のDX」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「また「年間予算規模」 「DXにかける年間予算規模」 「過去５年間にかけたICT 投資額」15」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「けた ICT 投資額」が 0.493*、「自治体の DX に関わる部署の人員」が 0.675**であり総じて」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「15 「過去５年間にかけた ICT 投資額」をデータとしたのは自治体の ICT 資本を算出してその効果を推計」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「図５ 過去５年間にかけた ICT 投資額別自治体数」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「「DX にかける年間予算規模」 、 「過去５年間にかけたICT 投資額」との相関は高いが、 「DX」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「算規模」 「過去５年間にかけたICT 投資額」「DX 部署人数」の平均値を算出した（表 3 参」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「5年間ICT投資額」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「※人口５千万以上１万人未満の自治体では５年間 ICT 投資額の回答データがないために平均値は算出で」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「自治体が DX にかける年間投資額の平均値３億 9371 万円に対して、DX 重視事項の効果」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「を金額換算した平均値は３億 96 万円 （年間投資額に対する比率は0.76） であり （自治体が」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「2020年度で投資額が最も大きい分野は「交通／運輸」で2780億円となっており、2030年度には1.27兆円（4.6倍）になると予想されています」（https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market）
+  - 「European demand for jurisdictionally controlled cloud has triggered large provider commitments, including AWS's EUR 7.8 billion investment in a Germany-based sovereign cloud through 2040. The European Commission's December 2023 approval of IPCEI-CIS cleared up to EUR 1.2 billion in state aid for next-generation European cloud and」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+  - 「. Saudi Arabia's cloud regulatory framework underpins hyperscaler investments such as AWS's announced USD 5.3 billion Saudi region」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+  - 「. The UAE's sovereign AI push gained momentum when Microsoft invested USD 1.5 billion in Abu Dhabi-based G42 in April 2024. South Africa's 2024 National Data and Cloud Policy promotes shared government infrastructure」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+- 検索結果の抜粋：
+  - 「自治体DX に関する調査を実施（2026年） — 自治体DX に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vI76SLhuAdlTZiwERA6_P4ZNg4u4ZmLfwtSMY_uIz5mL86x1zsX）
+  - 「電子政府・電子 自治体 DX と経済効果 - 経済社会総合研究所 — 電子政府・電子 自治体 DX と経済効果 - 経済社会総合研究所 経済社会総合研究所 PDF https://www.esri.cao.go.jp > archive > bun > bun209」（https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf）
+  - 「自治体DX に関する調査を実施（2026年） - Yano ICT — 自治体DX に関する調査を実施（2026年） - Yano ICT Yano ICT https://www.yanoict.com > summary > show」（https://www.yanoict.com/summary/show/id/809）
+  - 「自治体システム標準化および 自治体DX の動向調査 2026年版 — 自治体システム標準化および 自治体DX の動向調査 2026年版 富士キメラ総研 https://www.fcr.co.jp > report」（https://www.fcr.co.jp/report/254q06.htm）
+  - 「自治体DX に関する調査を実施（2026年） — 自治体DX に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vJzDERp49WLNutNj4Pg1AlBhzcCzpjDzYipAQGYf5tBfRYGe3pm）
+  - 「自治体システム標準化および 自治体DX の動向調査 2025 年版 — 自治体システム標準化および 自治体DX の動向調査 2025 年版 富士キメラ総研 https://www.fcr.co.jp > report」（https://www.fcr.co.jp/report/244q10.htm）
+  - 「Government Cloud Market Size , Share, Trends Report 2034 — Government Cloud Market Size , Share, Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...」（https://www.imarcgroup.com/government-cloud-market）
+  - 「Government Cloud Market Report 2026-2035 | Size and ... — Government Cloud Market Report 2026-2035 | Size and ... Spherical Insights https://www.sphericalinsights.com > g...」（https://www.sphericalinsights.com/reports/government-cloud-market）
+  - 「Government Cloud Market Size , Growth Drivers 2035 — Government Cloud Market Size , Growth Drivers 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/government-cloud-market-28200）
+  - 「Government Cloud Market Size , Share, Growth, Forecast, 2034 — Government Cloud Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...」（https://straitsresearch.com/report/government-cloud-market）
+  - 「Government Cloud Market Size, Share & 2030 Growth Trends ... — Government Cloud Market Size, Share & 2030 Growth Trends ... Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/government-cloud-market）
+  - 「Government Cloud Market Size, Share | CAGR of 15.4% — Government Cloud Market Size, Share | CAGR of 15.4% Market.us https://market.us > report > governme...」（https://market.us/report/government-cloud-market/）
+  - 「Government Cloud Market Size, Share , Trends Report 2034 — Government Cloud Market Size, Share , Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...」（https://www.imarcgroup.com/government-cloud-market）
+  - 「Government Cloud Market Size, Share, Growth, Forecast, 2034 — Government Cloud Market Size, Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...」（https://straitsresearch.com/report/government-cloud-market）
+  - 「Government Cloud Market Size, Share, Trends Report 2034 — Government Cloud Market Size, Share, Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...」（https://www.imarcgroup.com/government-cloud-market）
+
+## サイバーセキュリティ（cybersecurity）
+- 文脈：2 デジタル・サイバー ③サイバーセキュリティ
+- 市場規模：
+  - 「世界のサイバーセキュリティ市場規模、シェア、価値、分析（2034年まで）」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「2024年の市場規模」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「世界のサイバーセキュリティ市場規模は、2024年には約」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「当社のリサーチアナリストによる分析によると、世界のサイバーセキュリティ市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約7.8%で成長すると推定されています」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「収益面では、世界のサイバーセキュリティ市場規模は2024年に約1,888億7,000万米ドルと評価され、2034年までに4,019億1,000万米ドルに達すると予測されている」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「北米のサイバーセキュリティ市場は2028年までに飛躍的に拡大する見込み」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「ある調査によると、世界のサイバーセキュリティ市場規模は2024年には約1888億7000万米ドルに達し、2034年までに4019億1000万米ドルに達すると予測されている」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「サイバーセキュリティ市場規模・予測レポート（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「サイバーセキュリティ市場は2025年に1,890億米ドルと評価され、2026年には2,154億6,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「当社アナリストによるボトムアップ方式の市場推計の突合分析では、サイバーセキュリティ市場は2024年に1,606億米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「IoT Analytics. "Number of Connected IoT Devices Growing 14% to 21.1 Billion." iot-analytics.com」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「サイバーセキュリティ市場規模：提供形態別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+- 成長率：
+  - 「でしたが、2025年から2034年までの年平均成長率」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「当社のリサーチアナリストによる分析によると、世界のサイバーセキュリティ市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約7.8%で成長すると推定されています」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「7.8％のCAGR」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「北米のサイバーセキュリティ市場は2028年までに飛躍的に拡大する見込み」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「2025年から2034年までのサイバーセキュリティ市場の年平均成長率（CAGR）はどのくらいになるでしょうか？」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「世界のサイバーセキュリティ市場は、予測期間中に年平均成長率（CAGR）7.8%で成長すると予想されている」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「さらに、年平均成長率（CAGR）11.49%で拡大し、2035年には5,735億6,000万米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「NIS2は対象事業体に求めるリスク管理、インシデント報告、サプライチェーンセキュリティの要件を拡大し、重要インフラやデジタルサービス全体での調達を後押ししている」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「サービスは2025年に850.5億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）10.93%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「ネットワークセキュリティは2025年に415.8億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）9.03%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「セキュリティ分析・運用の2025年のシェアは8%で、2026〜2035年の年平均成長率（CAGR）は12.96%と予想される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「中小企業の市場規模は2025年に661.5億米ドルとなり、2026〜2035年に年平均成長率（CAGR）12.52%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「医療分野は2035年までに688.3億米ドルに達し、2026〜2035年に年平均成長率（CAGR）13.77%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+- 上位シェア：
+  - 「サイバーセキュリティ市場の規模、シェア、トレンド、予測（2034年まで）」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「世界のサイバーセキュリティ市場規模、シェア、価値、分析（2034年まで）」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「サイバーセキュリティ市場 - セキュリティタイプ別（ネットワークセキュリティ、クラウドセキュリティ、ワイヤレスセキュリティ、その他）、ソリューション別（IDおよびアクセス管理（IAM）、暗号化、リスクおよびコンプライアンス管理、データ損失防止、ウイルス対策およびマルウェア対策、ファイアウォール、その他）、業種別（航空宇宙、政府、金融サービス、通信、ヘルスケア、その他）：グローバル産業展望、包括的分析、規模、シェア、成長、セグメント、トレンド、予測、2025年～2034年」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「中でも、ネットワークセキュリティは世界のサイバーセキュリティ市場の主要なセグメントであり、2015年には市場全体の40%以上のシェアを占めました」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「サイバーセキュリティ市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「Microsoftは2025年に15.87%を超える市場シェアを獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「この市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「で、2025年に合計27.88%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「ソフトウェアは2035年までに2,695.7億米ドルに達すると予測され、2025年には市場シェアの40%を占めた」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「ハードウェアは2025年に市場シェアの15%を占め、2035年には10%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「エンドポイントセキュリティは2025年に340.2億米ドルを生み出し、2035年には市場シェアの16%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「クラウドセキュリティは2035年までに1,147.1億米ドルに達すると予測され、2025年には市場シェアの15%を占めた」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「アイデンティティ・アクセス管理は2025年に市場シェアの13%を占め、2026〜2035年に年平均成長率（CAGR）12.41%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「アプリケーションセキュリティは2035年までに573.6億米ドルに達すると予測され、2025年には市場シェアの10%を占めた」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「データセキュリティの市場規模は2025年に189.0億米ドルとなり、2035年までに10%のシェアを維持すると予想される」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+- 主要企業：
+  - 「加えて、主要企業は、産業機能の保護とサイバーテロ対策のための堅牢なセキュリティソリューションの導入に注力しています」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「サイバーセキュリティ市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「世界のサイバーセキュリティ市場における主要企業には、VMware Inc、Oracle Corporation、Dell Inc、Unifyed、Astera Software、ServiceNow Inc、CDW LLC、Cisco Systems Inc、Blackboard Inc、Verizonなどが挙げられる」（https://www.zionmarketresearch.com/ja/report/cyber-security-market）
+  - 「サイバーセキュリティ市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「サイバーセキュリティ市場の主要企業には、Microsoft、Palo Alto Networks、Fortinet、CrowdStrike、Check Point Softwareなどがある」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「主要企業のリスト：」（https://www.atpress.ne.jp/news/6889744）
+  - 「新規参入企業にとっては、広範な製品群を短期間でそろえるよりも、特定の業界や用途における明確な課題を起点に、専門性と実績を積み上げる戦略が考えられます」（https://www.atpress.ne.jp/news/6889744）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953）
+  - 「Companies Profiled」（https://www.marketresearchfuture.com/ja/reports/cyber-security-market-953）
+  - 「AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「AIが予測するサイバーセキュリティ業界 ｜2030年市場規模推移と主要企業ランキング 読み込まれました」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「調査では国内外あわせて約200社が参入しており、とりわけクラウド型セキュリティサービス分野への新規参入が活発化している点が注目されます」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、国内のサイバーセキュリティ市場を調査し、参入企業やユーザー企業の動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/6889744）
+  - 「サイバーセキュリティ業界 スタートアップ資金調達状況 2020年以降の累計102億円 直近では堅調に回復」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「サイバーセキュリティ業界 資金調達金額ランキング TRUSTDOCKが28億円でトップ」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「日本のサイバーセキュリティ業界において、資金調達の累計金額で最も注目を集めているのが株式会社TRUSTDOCK（28億円）です」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「eKYC（本人確認サービス）分野のパイオニアとして、2023年5月にはグロービス・キャピタル・パートナーズ、みずほキャピタルをはじめとする投資家から総額15億円の資金調達を実施し、業界の成長を牽引しています」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「このようなサイバーセキュリティ関連スタートアップの活発な資金調達の背景には、経済産業省が2025年3月に策定した「サイバーセキュリティ産業振興戦略」において、10年以内に国内企業の売上高を約0.9兆円から約3兆円超に増やすという目標を掲げるなど、政策的な後押しがあります」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「野村ホールディングス等から「累計18億円」の資金調達をしています」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「or more people during 2024. These risks are accelerating healthcare investment in identity protection, encryption, cloud security, and secure medical networks.」（https://market.us/report/cyber-security-market/）
+  - 「In May 2024, Wiz, a cloud and AI security company, announced the procurement of total USD 1 billion in a funding round led by Andreessen Horowitz, Lightspeed Venture Partners, and Thrive Capital.」（https://www.rootsanalysis.com/cyber-security-market）
+  - 「They're excellent, but you still need defense in depth, hardened systems, and security awareness training. The 2024 outage incident also raised questions about single-vendor dependency.」（https://atlantsecurity.com/blog/top-cybersecurity-companies）
+  - 「Pricing, team depth and fit for 15 vCISO providers, from $3,000 to $15,000 a month.」（https://atlantsecurity.com/blog/top-cybersecurity-companies）
+  - 「, anchored by the world's largest enterprise security spending base, U.S. Executive Order 14028 zero-trust mandates, CISA managing 200,000+ annual incidents, and the highest concentration of cybersecurity vendors and investment globally.」（https://www.persistencemarketresearch.com/market-research/cyber-security-market.asp）
+  - 「Investment banking firm Cowan & Company stated in their January 9, 2009 research note,」（https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market）
+  - 「Beyond technological shifts like cloud and mobile, the evolving regulatory landscape played a significant role in driving security spending. From 2004, when the Sarbanes-Oxley Act made cybersecurity a board-level mandate, new regulations related to data privacy and breach notification in various jurisdictions and vertical industries required enhanced security measures, fueling further investment.」（https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market）
+  - 「For 2025, cybersecurity remains a critical area of increasing investment. Forrester predicts continued growth in spending on cybersecurity solutions. Gartner also underscores the high priority of cybersecurity, forecasting a 15% rise in global spending for 2025. IDC anticipates an 11.8% growth in European security spending and a 12.2% increase worldwide.」（https://www.techoperators.com/insights/investing-in-trust-the-enduring-growth-of-the-global-cybersecurity-market）
+- 検索結果の抜粋：
+  - 「サイバーセキュリティ市場規模 統計、2032年の成長予測 — サイバーセキュリティ市場規模 統計、2032年の成長予測 Global Market Insights Inc. https://www.gminsights.com > cybersecurity-market」（https://www.gminsights.com/ja/industry-analysis/cybersecurity-market）
+  - 「US サイバーセキュリティ市場 調査：2026年から2033年 ... — US サイバーセキュリティ市場 調査：2026年から2033年 ... LinkedIn https://jp.linkedin.com > pulse > usサイバーセキュリティ市...」（https://jp.linkedin.com/pulse/us%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B8%82%E5%A0%B4%E8%AA%BF%E6%9F%BB2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6124%E3%81%AEcagr%E3%81%A7%E6%88%90%E9%95%B7%E3%82%92%E7%89%BD%E5%BC%95%E3%81%99-7521864546513408000-verpe）
+  - 「第10節 サイバーセキュリティ の動向 - 総務省 — 第10節 サイバーセキュリティ の動向 - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd21a100.html）
+  - 「サイバーセキュリティ市場 規模、 シェア 、業界トレンド - 2032年 — サイバーセキュリティ市場 規模、 シェア 、業界トレンド - 2032年 Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/cyber-security-market）
+  - 「AIが予測する サイバーセキュリティ 業界 ｜2030年 市場 規模 ... — AIが予測する サイバーセキュリティ 業界 ｜2030年 市場 規模 ... xenoBrain https://service.xenobrain.jp > market-size > cybersecurity」（https://service.xenobrain.jp/forecastresults/market-size/cybersecurity）
+  - 「第10節 サイバーセキュリティ の動向 - 総務省 — 第10節 サイバーセキュリティ の動向 - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd21a100.html）
+  - 「サイバーセキュリティ市場 に関する調査を実施（2026年） — サイバーセキュリティ市場 に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/4130?srsltid=AYCX9vKRRBKVCemQsilGMj4dIlNzvpwpyWDRh96By_j86xsVAj83WZuN）
+  - 「2025 年度の国内情報 セキュリティ市場 を2兆円規模と予測 — 2025 年度の国内情報 セキュリティ市場 を2兆円規模と予測 ニュートン・コンサルティング株式会社 https://www.newton-consulting.co.jp > itilnavi > flash」（https://www.newton-consulting.co.jp/itilnavi/flash/id=8553）
+  - 「日本の サイバーセキュリティ市場 規模・シェア・予測 2034年 — 日本の サイバーセキュリティ市場 規模・シェア・予測 2034年 IMARC Group https://www.imarcgroup.com > Technology & Media」（https://www.imarcgroup.com/report/ja/japan-cybersecurity-market）
+  - 「Cybersecurity Market Size , Share & Forecast Report, 2034 — Cybersecurity Market Size , Share & Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/cyber-security-market-101165）
+  - 「Cybersecurity Market Size And Share Report, 2026-2033 — Cybersecurity Market Size And Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/cyber-security-market）
+  - 「Cybersecurity Market Size , Share | Industry Report, 2035 — Cybersecurity Market Size , Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/cyber-security-market-953）
+  - 「Cybersecurity Market Size , Share & Industry Trends - 2032 — Cybersecurity Market Size , Share & Industry Trends - 2032 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/cyber-security-market）
+  - 「Cyber Security Market Size , Share, Trends | CAGR of 13.0% — Cyber Security Market Size , Share, Trends | CAGR of 13.0% Market.us https://market.us > report > cyber-sec...」（https://market.us/report/cyber-security-market/）
+  - 「Grid Cybersecurity Market Companies, Size & Trends 2026 ... — Grid Cybersecurity Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/grid-cybersecurity-market）
+
+## クラウドインフラ（cloud infrastructure services）
+- 文脈：2 デジタル・サイバー ④クラウド・データセンター
+- 市場規模：
+  - 「世界のパブリッククラウドサービスの売上高は2025年に9,803億ドル（前年比22.4％増）まで増加すると見込まれている」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「図表Ⅱ-1-8-3 世界のパブリッククラウドサービス市場規模（売上高）の推移及び予測」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「は、高い成長率を遂げ、2025年は4兆4,930億円（前年比20.3％増）となった（」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「図表Ⅱ-1-8-5 日本のパブリッククラウドサービス市場規模（売上高）の推移及び予測」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「クラウドインフラ サービス市場規模 , 予測 – 2032」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「グローバルクラウドインフラストラクチャサービス市場規模の洞察は2032に予測」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「2022年、グローバルクラウドインフラサービス市場規模はUSD 113.5億で評価されました」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「市場規模は2022年から2032年にかけて17.8%のCAGRで成長しています」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「世界的なクラウドインフラサービス市場は、2032年までのUSD 587.9億ドルに達する見込み」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「予測期間2022〜2032年の間に17.8%のCAGRでUSD 587.9億ドルに達すると予想されます」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「の市場規模 2022:」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「USD 113.5億円」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「USD 587.9億円」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「パブリッククラウド市場規模・シェア｜成長分析 [2035]」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+- 成長率：
+  - 「世界のパブリッククラウドサービスの売上高は2025年に9,803億ドル（前年比22.4％増）まで増加すると見込まれている」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「は、高い成長率を遂げ、2025年は4兆4,930億円（前年比20.3％増）となった（」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「市場規模は2022年から2032年にかけて17.8%のCAGRで成長しています」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「予測期間2022〜2032年の間に17.8%のCAGRでUSD 587.9億ドルに達すると予想されます」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「予測期間のCAGR 2022-2032 :」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「CAGR (2026-2035)」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「パブリッククラウド市場は2025年に推定0.78兆米ドルに達し、2026年の0.91兆米ドルから2035年までに3.51兆米ドルに成長すると予測されており、予測期間中に16.2%のCAGRを記録します」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「アジア太平洋地域は、インドのデジタル インディア プログラムと中国の産業クラウドの義務化により、予測 CAGR 19.4% で最も急成長している地域となっています」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「Platform-as-a-Service (PaaS) は、マネージド AI/ML ツールチェーンとローコード プラットフォームに対する開発者の需要に後押しされて、2035 年まで 20.4% の CAGR で拡大すると予測されています」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「中小企業は最も急速に成長しているセグメントであり、従量課金制の価格設定により、CAGR は 19.4% と予測されています」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「アジア太平洋地域は、2026 年から 2035 年の間に 19.4% という最も高い地域 CAGR を記録すると予測されています」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「19.4% の CAGR (2026 ～ 2035 年)」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「14.8% CAGR」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「15.6% CAGR」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+- 上位シェア：
+  - 「への支出額のシェアは引き続きAmazon、Microsoft、Googleの順に大きく、2025年第3四半期時点でAmazonはおよそ29％、Microsoftは20％、Googleは13％となっている」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「近年はMicrosoftとGoogleのシェアが拡大傾向であるが、市場は依然として、大手3社のクラウドサービスが大きなシェアを有している（」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「図表Ⅱ-1-8-4 世界のクラウドインフラサービス市場のシェアの推移」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「予測期間の27.4%を超える最大の収益分配のために占めるITおよび電気通信セグメント」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「これらの中で、ITと電気通信セグメントは、予測期間にわたって27.4%の最大の収益シェアで市場を支配しています」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「北米は、予測期間にわたって43.7%以上の市場シェアで市場を支配しています」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「パブリッククラウド市場規模・シェア｜成長分析 [2035]」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「パブリッククラウド市場調査レポート サービスモデル別（IAAS、SAAS、PAAS）、組織規模別（中小企業および大企業）、業界別（IT・通信、製造、BFSI、小売、ヘルスケア、政府、航空宇宙・防衛、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東・アフリカ、南米） – 業界の規模、シェアおよび2035年までの予測」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「北米は、ハイパースケーラーの本社と世界で最も深いエンタープライズ ソフトウェア エコシステムに支えられ、2025 年のパブリック クラウド市場の約 41% を占めました」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「欧州は約 25% で 2 番目に大きなシェアを占めており、GDPR に基づくデータ ローカリゼーション要件により、ソブリン クラウド サービスのプレミアム ティアが形成されています」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「大企業は 2025 年のパブリック クラウド市場シェアの約 62% を占め、エンタープライズ ライセンス契約に基づいてワークロードが統合されました」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「北米は、2025 年のパブリック クラウド市場で最大のシェアを維持し、米国がリードしました」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「現在、フォーチュン 500 企業の 65% 以上を占めるネットゼロコミットメントを持つ企業は、再生可能エネルギーの購入契約を締結している地域に電力を供給しているプロバイダーから優先的に調達することになります」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「~41% のシェア (2025 年)」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「~25% シェア (2025 年)」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+- 主要企業：
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「主要プレイヤーの動向と競争環境」（https://deha.co.jp/magazine/cloud-2026/）
+  - 「当データベースでは、市場の垣根が低くなりハイブリッド化が進む状況を踏まえ、これらIaaS・PaaS・SaaSの各領域を牽引する主要企業（計10社）を抽出し、総合的なクラウド市場におけるシェアを分析しています」（https://deallab.info/cloud/）
+  - 「── 現状、将来展望、主要プレイヤー、そして企業の選択戦略まで」（https://note.com/hiradairaheipei/n/n4c06403148e5）
+  - 「Cloud Services Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「Competitive Landscape」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「, AI, and online payments drives the growth of authentication. Many sectors, including healthcare, retail, IT, and banking, demand the market. Many key companies are investing in cloud services and cloud-based solutions like TATA. These applications and demand drive the growth in the country.」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「Question 3: Who are the major players operating in the cloud services market?」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「The major players operating in the cloud services market are Alibaba Group Holding Limited, Amazon Web Services, Inc, Cisco Systems, Inc, Dell, Technologies Inc, Google Llc, Hewlett Packard Enterprise Development Lp, International Business Machines Corporation, Microsoft Corporation, Oracle Corporation, Rackspace Hosting, Inc, RyohinKeikaku Co. Ltd., and Isagenix International LLC.」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「Key players operating in the cloud computing industry include Amazon Web Services (AWS); Microsoft Azure; Google Cloud Platform (GCP); Oracle Cloud; Salesforce, Inc.; and Alibaba Cloud. Competition is increasingly centered on expanding cloud infrastructure capabilities, strengthening AI and」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「The following key companies have been profiled for this study of the」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「Revenue forecast, company ranking, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「Who are the key players in the cloud computing market?」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+- 投資：
+  - 「(2025 年 1 月): 2025 会計年度のデータセンター設備投資額 800 億ドルを発表」（https://www.marketresearchfuture.com/ja/reports/public-cloud-market-2291）
+  - 「Cloud trends are influencing enterprises' investment plans, digital business decision-making processes, and vendor and technology choices. Corporations' key concerns are data security and privacy, since information storage, usage, and transfer must be digitally safeguarded. As per surveys, around 60% of business-sensitive data on hard drives is held unsafely.」（https://www.precedenceresearch.com/cloud-services-market）
+  - 「reported that cloud infrastructure revenue increased 121% year over year to USD 7.4 billion in the first quarter of fiscal 2027. The company also added 850 MW of data center capacity during the quarter, highlighting continued infrastructure investment to support AI and cloud workloads.」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「announced that its global infrastructure had expanded to 105 availability zones across 32 regions, following additional data center investments in Japan, Malaysia, France, and Mexico. The expansion strengthens the provider's ability to deliver scalable cloud and AI infrastructure while addressing regional data privacy and sovereignty requirements.」（https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry）
+  - 「In July 2026, Amazon raised its projected 2026 capital expenditure to approximately USD 220 billion, up 10% from its previous plan, as AWS sales increased 37% year over year to USD 42.2 billion during the second quarter. The investment increase reflects continued requirements for AI computing and cloud infrastructure capacity.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「The disaster recovery and backup as a service segment is projected to register the fastest growth at a CAGR of 18.9% during the forecast period. Growing concerns over cyber threats, business continuity, regulatory compliance, and increasing investments in resilient cloud-based disaster recovery solutions are expected to accelerate segment growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「The large enterprise segment dominated the global cloud infrastructure service market with a 65.8% share in 2025. The segment's growth is driven by substantial investments in cloud modernization, large-scale digital transformation initiatives, adoption of AI and analytics platforms, and increasing demand for scalable, secure, and high-performance cloud infrastructure across global operations.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「The U.S. market was valued at USD 56.98 billion in 2025, making it the largest contributor in North America. Increasing investments in hyperscale cloud infrastructure, growing adoption of AI-powered cloud platforms, rising enterprise digital transformation initiatives, and strong demand for infrastructure-as-a-service (IaaS) solutions continue to strengthen market growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「Canada's market reached USD 9.30 billion in 2025. Expanding cloud adoption among enterprises, increasing investments in regional data centers, rising demand for secure cloud storage, and growing implementation of hybrid cloud solutions continue to support steady market expansion.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「The UK market was valued at USD 8.54 billion in 2025. Rising enterprise migration to cloud platforms, increasing demand for managed cloud services, expanding investments in data center infrastructure, and growing adoption of AI-enabled cloud solutions continue to support market growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「Germany's market accounted for USD 12.59 billion in 2025. Strong industrial digitalization, increasing deployment of hybrid cloud environments, growing investments in secure cloud infrastructure, and rising adoption of Industry 4.0 technologies continue to support market expansion.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「Japan's market generated USD 8.90 billion in 2025. Increasing enterprise cloud migration, growing investments in digital infrastructure, rising adoption of AI and IoT applications, and expanding demand for secure cloud services continue to support market growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「The UAE market was valued at USD 1.62 billion in 2025. Government-led digital transformation initiatives, increasing investments in smart city projects, expanding cloud data center infrastructure, and rising adoption of public and hybrid cloud services continue to drive market growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「Africa's market reached approximately USD 5.76 billion in 2025. Growing investments in digital infrastructure, increasing cloud adoption among enterprises, expanding internet connectivity, and rising demand for affordable cloud computing solutions continue to create long-term growth opportunities across the region.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+  - 「Brazil's market was valued at USD 3.92 billion in 2025, making it the largest contributor in Latin America. Rising cloud adoption across banking, retail, manufacturing, and healthcare sectors, increasing investments in hyperscale data centers, and growing demand for cloud-based infrastructure services continue to strengthen market growth.」（https://straitsresearch.com/report/cloud-infrastructure-service-market）
+- 検索結果の抜粋：
+  - 「令和8年版 情報通信白書｜ クラウド サービス - 総務省 — 令和8年版 情報通信白書｜ クラウド サービス - 総務省 総務省 https://www.soumu.go.jp > whitepaper > html」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/html/nd218200.html）
+  - 「クラウドインフラ サービス 市場規模 , 予測 – 2032 — クラウドインフラ サービス 市場規模 , 予測 – 2032 Spherical Insights https://www.sphericalinsights.com > reports > cloud-infras...」（https://www.sphericalinsights.com/jp/reports/cloud-infrastructure-services-market）
+  - 「クラウド サービス 市場 の動向、シェア、予測、2026 ～ 2033 年 — クラウド サービス 市場 の動向、シェア、予測、2026 ～ 2033 年 Coherent Market Insights https://www.coherentmarketinsights.com > クラウドサービ...」（https://www.coherentmarketinsights.com/ja/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4）
+  - 「総務省｜令和7年版 情報通信白書｜ クラウド サービス — 総務省｜令和7年版 情報通信白書｜ クラウド サービス 総務省 https://www.soumu.go.jp > whitepaper > html」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218200.html）
+  - 「クラウドインフラ の シェア 、AWSが28％、Azureは21％で ... — クラウドインフラ の シェア 、AWSが28％、Azureは21％で ... Publickey https://www.publickey1.jp > blog」（https://www.publickey1.jp/blog/26/aws28azure213520261synergy_research.html）
+  - 「クラウドインフラ のシェア、AWSがトップを維持するも28 — クラウドインフラ のシェア、AWSがトップを維持するも28 Publickey https://www.publickey1.jp > blog > aws28azuregoogle_cl...」（https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html）
+  - 「Cloud Infrastructure Services Market Size & Share 2031 — Cloud Infrastructure Services Market Size & Share 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/cloud-infrastructure-services-market）
+  - 「Cloud Infrastructure Services Market Size & Forecast 2026 ... — Cloud Infrastructure Services Market Size & Forecast 2026 ... Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/cloud-infrastructure-services-market-109529）
+
+## データセンター（data center）
+- 文脈：2 デジタル・サイバー ④クラウド・データセンター
+- 市場規模：
+  - 「データセンターサービス市場規模、シェア&成長レポート、2034年」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「世界のデータセンターサービス市場は、2024年に248億米ドルと推定されました」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の287億米ドルから2034年には1,025億米ドルに成長し、年平均成長率(CAGR)は15.2%になる見込みです」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「2024年市場規模」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「2025年市場規模」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「2034年予測市場規模」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンターサービス市場規模、サービス別、2022年 - 2034年 (10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「米国データセンターサービス市場規模、2022年-2034年(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンター市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「世界のデータセンター市場規模は、2025年には3,968億8,000万米ドルと評価され、2026年の4,363億3,000万米ドルから2034年には9,312億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%となる見込みです」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「北米のデータセンター市場は、ハイパースケールクラウドキャンパスの集中、高度な光ファイバー接続、そして確立されたコロケーションエコシステムによって、2025年には地域別シェア40.20%と最大規模を占める見込みです」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「米国データセンター市場は、クラウド、AI、高性能コンピューティングワークロードをサポートするハイパースケールキャンパスの継続的な拡張に牽引され、2025年には1,342億2,000万米ドル規模に達すると予測されています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「カナダのデータセンター市場は、豊富な再生可能エネルギー資源、冷却要件を軽減する良好な気候条件、そして災害復旧インフラへの需要の高まりに支えられ、2025年には154億1000万米ドル規模に達すると予測されています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「アジア太平洋地域のデータセンター市場は、予測期間中に年平均成長率（CAGR）13.10%で成長すると予想されており、地域別では最速の成長率を示しています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「中国のデータセンター市場は、2025年には528億4000万米ドル規模に達すると予測されており、これは中国の「東部データ西部コンピューティング」構想に基づく国家コンピューティングハブの大規模開発に支えられている」（https://straitsresearch.com/jp/report/data-center-market）
+- 成長率：
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の287億米ドルから2034年には1,025億米ドルに成長し、年平均成長率(CAGR)は15.2%になる見込みです」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「CAGR(2025年~2034年)」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「5GおよびIoT駆動型インフラストラクチャーの導入拡大」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「2025年、MicrosoftはインドでAI対応データセンターを拡大するために30億米ドルを投資し、マレーシア、シンガポール、インドネシアは戦略的投資を通じて世界的な運用者を引き付け続けています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「コンサルティングサービスセグメントは、ハイブリッドクラウド、AI、およびエッジ展開の複雑さの高まりにより、17%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「小規模データセンターセグメントは、エッジコンピューティング、IoT、および5Gアプリケーションが推進力となり、最高のCAGR 17%で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「IT・通信セグメントは、クラウド採用の増加、5Gの拡大、AI駆動型ワークロードにより、世界的にスケーラブルで安全かつ高性能なデータセンターインフラストラクチャを必要としており、約36%のシェアで市場を支配すると予想されます」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「5Gの拡大、高速接続、AI・ML基盤タスクにおけるニーズが、堅牢なデータセンターサービスソリューションの活用ペースを加速させています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「ヘルスケアセグメントは、診療記録のデジタル化の高まり、AI診断、遠隔医療の成長により、約18.6%の最も顕著なCAGRを示すと予想されます」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンター市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「世界のデータセンター市場規模は、2025年には3,968億8,000万米ドルと評価され、2026年の4,363億3,000万米ドルから2034年には9,312億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%となる見込みです」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「5G、IoT、リアルタイムアプリケーションの普及拡大に伴い、データセンター事業者、コロケーションプロバイダー、インフラ開発者にとって、エンドユーザーに近い場所にエッジ施設を設置する機会が生まれています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「クラウドサービスプロバイダーによる投資の増加、AIコンピューティングインフラストラクチャの急速な展開、大規模データ処理能力に対する需要の高まりにより、当該セグメントは予測期間中に年平均成長率（CAGR）12.54%で成長すると予想されます」（https://straitsresearch.com/jp/report/data-center-market）
+- 上位シェア：
+  - 「データセンターサービス市場規模、シェア&成長レポート、2034年」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンターサービス市場 サイズとシェア 2025 - 2034」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「2024年、世界中の企業は約70 GWのクリーンエネルギー電力購入契約を締結し、その中でデータセンターが最大のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンターサービス市場シェア、データセンター規模別、2024年」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「IT・通信セグメントは、クラウド採用の増加、5Gの拡大、AI駆動型ワークロードにより、世界的にスケーラブルで安全かつ高性能なデータセンターインフラストラクチャを必要としており、約36%のシェアで市場を支配すると予想されます」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「北米は2024年に37%の市場シェアでグローバルデータセンターサービス市場を支配しました」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「米国は2024年に北米市場の約85%のシェアで市場を支配し、77億米ドルの収益を生み出しました」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「欧州は2024年にデータセンターサービス業界の約28%を占めており、ドイツの強力なデジタル経済、クラウドおよびコロケーションサービスに対する高い需要、および主要なハイパースケール事業者の存在により、CAGR15%超で成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「ラテンアメリカは世界データセンターサービス市場の約3%を占め、約16%のCAGRで着実に成長しています」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「中東およびアフリカ(MEA)は合わせて2024年のデータセンターサービス産業の約2%のシェアを占めており、デジタルインフラストラクチャへの投資の急増、再生可能エネルギープロジェクト、クラウド展開とエネルギー効率の高い運用を促進する政府の取り組みにより、着実な成長を遂げている」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンター市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「データセンター市場の規模、シェア、トレンド分析レポート：タイプ別（ハイパースケールデータセンター、コロケーションデータセンター、エンタープライズデータセンター、エッジデータセンター）、インフラストラクチャ別（ITインフラストラクチャ、電気インフラストラクチャ、機械インフラストラクチャ、一般建設）、エンドユーザー別（クラウドサービスプロバイダー、BFSI、ITおよび通信、政府および防衛、ヘルスケア、小売およびEコマース、製造、メディアおよびエンターテイメント、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/data-center-market）
+- 主要企業：
+  - 「アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/datacenter-services-market）
+  - 「データセンター市場は競争が激しく、主要企業はハイパースケール施設、コロケーションサービス、クラウド接続、データセキュリティ、エネルギー効率、地理的拡大に注力しています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「Iron Mountain Incorporatedは、Iron Mountain Data Centersを通じてデータセンター市場における主要企業であり、コロケーション、ハイパースケール、エンタープライズ、相互接続サービスを提供しています」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「市場構造、主要企業のポジショニング、成功のための主要戦略、競合ダッシュボード、企業評価象限などを含む、徹底的な競合分析を提供します」（https://newscast.jp/smart/news/1246972）
+  - 「さらに、日本のデータセンターネットワーク業界における主要企業すべての詳細な企業プロファイルも掲載しています」（https://newscast.jp/smart/news/1246972）
+  - 「主要プレイヤー：」（https://newscast.jp/smart/news/1246972）
+  - 「ブラジルのコロケーション市場は急速に成長しており、Equinix、Ascenty(Digital Realty)、Scala Data Centers、Odataなどの主要プレイヤーが積極的に拡大しています」（https://www.gminsights.com/ja/industry-analysis/data-center-server-market）
+  - 「データセンターサーバー業界で事業を展開する主要企業には以下が含まれる:」（https://www.gminsights.com/ja/industry-analysis/data-center-server-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/data-center-server-market）
+  - 「コンテナ型データセンターでは、各種設備のハードウェアとIT技術に関するソフトウェア関連の総合的なIT知識が求められるため、対応可能な技術者が限られており、近年の参入企業は、市場の黎明期から事業を継続している企業の技術支援を受けている場合が多いと指摘している」（https://cloud.watch.impress.co.jp/docs/news/2107655.html）
+  - 「AIデータセンター市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/ai-data-center-market）
+  - 「AIデータセンター市場の主要企業には、Amazon AWS、Microsoft Azure、Google Cloud、Supermicro、Dell Technologiesなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/ai-data-center-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/ai-data-center-market）
+  - 「Key players operating in the data center industry are Dell Technologies, Vertiv, ABB, Schneider Electric, and Broadcom. The companies are focusing on various strategic initiatives, including new product development, partnerships & collaborations, and agreements to gain a competitive advantage over their rivals.」（https://www.grandviewresearch.com/industry-analysis/data-center-market-report）
+- 投資：
+  - 「データセンター市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「2024年の世界のデータセンター設備投資額は4,550億米ドルに達し、その半分超を上位10社のハイパースケーラーが占めました」（https://www.gminsights.com/ja/industry-analysis/ai-data-center-market）
+  - 「前述のCushman & Wakefieldが発行したレポートでは、AWS、マイクロソフト、グーグル、メタの4社による2024年の投資額は、前年比58％増の2,440億ドルに達したと報告されている」（https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html）
+  - 「これに対し、コロケーション事業者など従来のデータセンター事業者は、機関投資家からの資金調達やM＆Aを通して、既存市場内もしくは新規市場での事業拡大を進めている（図表Ⅱ－38）」（https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html）
+  - 「オーストラリア最大の年金基金「オーストラリアン・スーパー」から15億ドルの資金調達」（https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html）
+  - 「デジタルブリッジとシルバーレイク（米国の投資会社）が主導するエクイティ投資（株式による資金調達）で64億ドルの資金調達」（https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html）
+  - 「本計画では、3社が共同で5,000億ドル規模の出資を行い、全米にデータセンターを中心としたAIインフラを構築する」（https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html）
+  - 「$3 trillion investment required for 100 GW of new supply by 2030」（https://www.jll.com/en-us/insights/market-outlook/data-center-outlook）
+  - 「The sector is experiencing an infrastructure investment supercycle requiring up to $3 trillion by 2030.」（https://www.jll.com/en-us/insights/market-outlook/data-center-outlook）
+  - 「The figures above do not include the $1 to $2 trillion that tenants will spend to fit out their space with GPUs and networking infrastructure, meaning that total data center expenditures over the next five years could approach $3 trillion. Taken all together, it is safe to say that we are in the midst of an infrastructure investment supercycle.」（https://www.jll.com/en-us/insights/market-outlook/data-center-outlook）
+  - 「Data Center Investments: 2026 Outlook and Market Opportunities」（https://www.jll.com/en-us/insights/market-outlook/data-center-outlook）
+  - 「In November 2025, Amazon announced a US$50 billion investment in data centers to power US government AI efforts. This investment removes long-standing technology barriers that had constrained government capabilities and further positions America to lead in the global AI era.」（https://www.precedenceresearch.com/data-center-market）
+  - 「Zoho launched its first data center in Dubai and Abu Dhabi, marking a key step in regional expansion. This AED 100 million investment supports over 100 cloud-based solutions, reinforcing Zoho's commitment to local customers and partners. (Source:」（https://www.precedenceresearch.com/data-center-market）
+  - 「Oracle announced the investment of above US$6.5 billion」（https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html）
+  - 「announced the launch of 3 data centers in Malaysia by mid-year, with an investment of up to」（https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html）
+- 検索結果の抜粋：
+  - 「データセンター市場規模 、シェアおよび予測レポート、2034 年 — データセンター市場規模 、シェアおよび予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...」（https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851）
+  - 「データセンター市場規模 、シェア、成長率（2034年） — データセンター市場規模 、シェア、成長率（2034年） Straits Research https://straitsresearch.com > 情報技術 > データセンター」（https://straitsresearch.com/jp/report/data-center-market）
+  - 「データセンター コロケーション 市場規模 ・トレンド 2031年 ... — データセンター コロケーション 市場規模 ・トレンド 2031年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/data-center-colocation-market）
+  - 「データセンター市場 規模、 シェア および予測レポート、2034 年 — データセンター市場 規模、 シェア および予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...」（https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851）
+  - 「データセンター 業界の動向やランキングなどを分析 — データセンター 業界の動向やランキングなどを分析 業界動向サーチ https://gyokai-search.com > 3-data-center」（https://gyokai-search.com/3-data-center.html）
+  - 「データセンター サーバー 市場 サイズと シェア 2025 - 2034 — データセンター サーバー 市場 サイズと シェア 2025 - 2034 Global Market Insights Inc. https://www.gminsights.com > data-center-server-market」（https://www.gminsights.com/ja/industry-analysis/data-center-server-market）
+  - 「世界 シェア No.3を誇る、NTT DATAの データセンター 戦略 — 世界 シェア No.3を誇る、NTT DATAの データセンター 戦略 NTT Data https://www.nttdata.com > trends > data-insight」（https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/）
+  - 「データセンター市場 規模、シェアおよび予測レポート、2034 年 — データセンター市場 規模、シェアおよび予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...」（https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851）
+  - 「2025 年の国内 データセンター サービス 市場 は4兆7231億円 — 2025 年の国内 データセンター サービス 市場 は4兆7231億円 クラウド Watch https://cloud.watch.impress.co.jp > docs > news」（https://cloud.watch.impress.co.jp/docs/news/2107655.html）
+  - 「第 8節 データセンター市場 及びクラウドサービス 市場 の動向 — 第 8節 データセンター市場 及びクラウドサービス 市場 の動向 総務省 PDF https://www.soumu.go.jp > whitepaper > pdf」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf）
+  - 「AI データセンター市場 規模・予測レポート、2026〜2035年 — AI データセンター市場 規模・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > ai-data-center-market」（https://www.gminsights.com/ja/industry-analysis/ai-data-center-market）
+  - 「Data Center Market Size , Share & Growth Report, 2026-2033 — Data Center Market Size , Share & Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/data-center-market-report）
+  - 「2026 Market Outlook for Global Data Centers | JLL Research — 2026 Market Outlook for Global Data Centers | JLL Research JLL https://www.jll.com > market-outlook」（https://www.jll.com/en-us/insights/market-outlook/data-center-outlook）
+  - 「Data Center Market Companies, Size & Trends 2026-2035 — Data Center Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/data-center-market）
+  - 「Data Center Market Size Hits USD 1,008.65 Billion by 2034 — Data Center Market Size Hits USD 1,008.65 Billion by 2034 Yahoo Finance https://finance.yahoo.com > news > d...」（https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html）
+
+## 電子カルテ（electronic health record）
+- 文脈：2 デジタル・サイバー ⑤医療DX基盤
+- 市場規模：
+  - 「電子カルテ市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約4%のCAGRで成長すると予想されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「将来の年には、市場は約500億米ドルの価値に達する見込みです」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「しかし、当社の調査アナリストによると、基準年の市場規模は約350億米ドルと記録されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「電子カルテに関する当社の市場調査によると、北米の市場は予測期間中に約 35% の主要市場シェアを維持すると予想されますが、アジア太平洋地域の市場は、主に最近の拡張活動、製品承認、製品発売、パートナーシップ、買収の結果として、今後数年間で有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「これら 2 つのセグメントのうち、電子カルテ市場はクラウドベースセグメントが支配的となり、2037 年までに市場シェアが約 60% を超えると予想されます」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「アジア太平洋地域の電子カルテ市場は、政府の支援策と医療IT投資により、シェア33%超で第2位の市場になると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「北米の電子カルテ市場は、技術の進歩とEMRシステムへのAIの統合により、35%以上のシェアで市場をリードすると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「世界の電子カルテ市場規模は、2025―2037年間に 4% の CAGR で成長し、2037年までに 500億米ドルを獲得すると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「さらに、当社の調査レポートによると、2025 年の電子カルテ市場規模は適度なペースで成長すると予想されます」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「電子カルテ市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「世界の電子カルテ市場規模は、2025年には343億6000万米ドルと評価され、2026年の365億2000万米ドルから2034年には595億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.3%となる見込みです」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「米国市場は2025年には約123億3000万米ドル規模に達し、北米最大の市場となる見込みです」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+- 成長率：
+  - 「電子カルテ市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約4%のCAGRで成長すると予想されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「SDKI Analytics のアナリストによる市場見通しによると、コスト削減にクラウド コンピューティングを使用している医療企業の 90% で、IT コストが平均して年間最大 20% 削減され、セグメントと市場の拡大が大幅に促進されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「世界の電子カルテ市場規模は、2025―2037年間に 4% の CAGR で成長し、2037年までに 500億米ドルを獲得すると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「電子カルテ市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「世界の電子カルテ市場規模は、2025年には343億6000万米ドルと評価され、2026年の365億2000万米ドルから2034年には595億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.3%となる見込みです」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「アジア太平洋地域の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「ソフトウェア分野は、デジタルヘルスケアソリューションの普及拡大と効率的な患者データ管理へのニーズの高まりを背景に、2025年には世界の電子カルテ市場において54.6%のシェアを占め、市場を牽引しました」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「電子カルテ市場において、専門分野別セグメントは年平均成長率（CAGR）8.69%で最も速い成長を記録すると予測されている」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「専門分野別セグメントは、2026年から2034年にかけて年平均成長率（CAGR）8.69%で電子カルテ市場において最も急速な成長を遂げると予測されています」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「電子カルテ市場において、外来診療分野は年平均成長率（CAGR）8.87%で最も速い成長を遂げると予測されている」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「外来医療分野は、外来医療サービス、日帰り手術、地域医療への移行の加速を背景に、2026年から2034年にかけて年平均成長率（CAGR）8.87%で電子カルテ市場において最も急速な成長を遂げると予測されています」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「外来電子カルテ市場は、2032年までにCAGR8.35％で123億3,000万米ドル規模に拡大すると予測されています」（https://newscast.jp/smart/news/1893477）
+  - 「CAGR（%） 8.35%」（https://newscast.jp/smart/news/1893477）
+  - 「CAGRは8.35%です」（https://newscast.jp/smart/news/1893477）
+- 上位シェア：
+  - 「電子カルテ市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―コンポーネント別、エンドユーザー別、アプリケーション別、タイプ別、配信モード別、および地域別―世界市場の見通しと予測2025―2037年」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「電子カルテに関する当社の市場調査によると、北米の市場は予測期間中に約 35% の主要市場シェアを維持すると予想されますが、アジア太平洋地域の市場は、主に最近の拡張活動、製品承認、製品発売、パートナーシップ、買収の結果として、今後数年間で有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「によると、紙の記録が分散しているため医療情報が適切に伝達されていないことが、診断ミスの 15% 以上を占めており、世界中のさまざまな医療提供者が電子カルテを導入するようになりました」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「これらのセグメントのうち、心臓病学セグメントは市場で重要な位置を占めており、2037年までに市場全体の収益の約40％を占めると予想されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「当社の市場見通しによると、心血管疾患は米国の医療費の3,700億米ドル以上を占めており、EMRが治療間のデータアクセスと調整を合理化することで管理できる高いコストとデータ量を反映しています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「これら 2 つのセグメントのうち、電子カルテ市場はクラウドベースセグメントが支配的となり、2037 年までに市場シェアが約 60% を超えると予想されます」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「アジア太平洋地域の電子カルテ市場は、政府の支援策と医療IT投資により、シェア33%超で第2位の市場になると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「北米の電子カルテ市場は、技術の進歩とEMRシステムへのAIの統合により、35%以上のシェアで市場をリードすると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「心血管健康サプリメント市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― 成分タイプ別、健康への訴求点別、形態別、流通チャネル別、消費者層別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「L-アラニル-L-グルタミン市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、グラード別、フォーム別及び地域別―世界市場の見通しと予測 2026－2035年」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「当社の調査レポートによると、2025年には北米地域が電子カルテ市場で最大のシェアを獲得すると予測されています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「電子カルテ市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「電子カルテ市場の規模、シェア、トレンド分析レポート：コンポーネント別（ソフトウェア、サービス、ハードウェア）、アプリケーション別（汎用アプリケーション、専門分野別）、配信モード別（クラウドベース）、エンドユーザー別（病院・クリニック、診断センター、外来診療、研究機関）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「北米は、2025年の市場シェア41.25%で電子カルテ市場を牽引しました」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「北米市場シェア（2025年）」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+- 主要企業：
+  - 「世界の電子カルテ市場の成長に重要な役割を果たす主要な主要企業には、」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「この調査には、世界の電子カルテ市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「当社の調査レポートによると、GE HealthCare、Veradigm LLC、Epic Systems Corporation、eClinicalWorks、Greenway Health, LLCなどは、世界の電子カルテ市場で機能する主要企業の一部です」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「当社の調査レポートによると、Fujitsu Limited、NEC Corporation、Hitachi, Ltd.、PHC Holdings Corporation、NIHON KOHDEN CORPORATIONなどは、電子カルテ市場の日本の分野で機能している主要企業の一部です」（https://www.sdki.jp/reports/electronic-medical-records-market/114421）
+  - 「この市場における主要企業は、Cerner Corporation、Epic Systems Corporation、Allscripts Healthcare Solutions, Inc.、MEDITECHです」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「対象となる主要企業」（https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market）
+  - 「本レポートで取り上げられている主要プレイヤーは以下のとおりです」（https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market）
+  - 「電子カルテ市場の成長を活用している主要企業はどれですか？」（https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market）
+  - 「本レポートで取り上げられている主要企業には、Quest Diagnostics、Cerner Corporation、3M Company、Kofax Limited、Toshiba Medical Systems Corp、Epic Systems、Hyland Software、GE Healthcare、WRS Health、Siemens Medical Solutions、McKesson Corporation、Henry Schein, Inc.、Allscripts Healthcare Solutions, Incなどが含まれます」（https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market）
+  - 「主要企業のポジショニングは、以下のように整理できます」（https://note.com/365medical_tokyo/n/n564f7fddfbdd）
+  - 「株式会社矢野経済研究所（代表取締役社長：水越 孝）は、国内の医療情報システム市場を調査し、セグメント別の市場動向、参入企業動向、将来展望を明らかにした」（https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd）
+  - 「Electronic Health Record (EHR) - Market Insights, Competitive Landscape, and Market Forecast - 2034」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「Key Companies in Electronic Health Records Market」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「The competitive landscape is led by the following active players:」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「Electronic Health Records Market Competitive Landscape」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+- 投資：
+  - 「continued integration and platform investment under Thoma Bravo ownership following its USD 1.8 billion acquisition, expanding its ambulatory and specialty EHR offerings. Strategic significance: Reflects continued private-equity-driven consolidation and platform reinvestment in the mid-tier ambulatory EHR segment.」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「reported that nearly a third of sampled Oracle Health customers indicated the vendor was no longer part of their long-term plans, according to KLAS Research, prompting continued investment in its new AI-enabled EHR platform. Strategic significance: Highlights the competitive pressure driving Oracle Health's platform rebuild and underscores the stakes of its 2026 acute-care rollout.」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「USD 39.3 million+ raised」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「9. Electronic Health Records Market Startup Funding and Investment Trends」（https://www.delveinsight.com/report-store/electronic-health-record-ehr-market）
+  - 「By end-user, the hospitals segment registered its dominance over the global market in 2025. The segment’s growth is attributed to the increasing number of patients in hospitals, favorable infrastructure, and suitable capital investments. The need to streamline the complex healthcare process also drives the segment.」（https://www.towardshealthcare.com/insights/electronic-health-records-market-size）
+  - 「in a funding round in 2023. This funding will be used to expand its platform capabilities and support primary care practices in delivering high-quality patient care.」（https://media.market.us/ehr-industry-statistics/）
+  - 「: In early 2024, Kareo, a cloud-based EHR and practice management platform, raised」（https://media.market.us/ehr-industry-statistics/）
+  - 「- Technology companies, venture capital investors and healthcare organisations are continuously funding EHR innovation. The healthtech Venture funding in the U.S. and Europe reached US $7.9 billion in 2025.」（https://www.precedenceresearch.com/electronic-health-records-market）
+  - 「, the American Hospital Association and West Health Institute's initiative will enhance digital health technologies through EHR optimization, virtual care expansion, and AI integration, supported by a $12 million investment. (Source:」（https://www.precedenceresearch.com/electronic-health-records-market）
+- 検索結果の抜粋：
+  - 「電子カルテ市場規模 、シェア、成長率、分析（2034年まで） — 電子カルテ市場規模 、シェア、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 健康管理 > 医療IT」（https://straitsresearch.com/jp/report/electronic-medical-record-market）
+  - 「外来 電子カルテ市場 ―2026年～2032年の世界 市場 予測 — 外来 電子カルテ市場 ―2026年～2032年の世界 市場 予測 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/1893477）
+  - 「電子カルテ市場規模 レポート、市場シェア、2032年 — 電子カルテ市場規模 レポート、市場シェア、2032年 Zion Market Research https://www.zionmarketresearch.com > report > global-ele...」（https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market）
+  - 「日本の医療DX最前線： 電子カルテ （EHR） 市場 を激変させる5 ... — 日本の医療DX最前線： 電子カルテ （EHR） 市場 を激変させる5 ... note https://note.com > 科学・テクノロジー > AI・機械学習」（https://note.com/365medical_tokyo/n/n564f7fddfbdd）
+  - 「【2026年最新】 電子カルテシェア ・ランキングを紹介！事例 ... — 【2026年最新】 電子カルテシェア ・ランキングを紹介！事例 ... PHC Holdings Corporation https://www.phchd.com > ... > 医療テック」（https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking）
+  - 「【2026】 電子カルテ の シェア ランキング｜おすすめメーカー ... — 【2026】 電子カルテ の シェア ランキング｜おすすめメーカー ... 2ndLabo https://2ndlabo.com > article」（https://2ndlabo.com/article/369/）
+  - 「【2026年度版】クリニック向け 電子カルテ 購入 シェア ... — 【2026年度版】クリニック向け 電子カルテ 購入 シェア ... m3.com 開業・経営 https://clinic.m3.com > cliniclab > trends」（https://clinic.m3.com/cliniclab/trends/169.htm）
+  - 「【規模別】病院向け 電子カルテ メーカー・システム17選 — 【規模別】病院向け 電子カルテ メーカー・システム17選 medimo.ai https://medimo.ai > column > emr-hospital」（https://medimo.ai/column/emr-hospital）
+  - 「【2026年最新版】 電子カルテ の普及率と今後の動向を解説 — 【2026年最新版】 電子カルテ の普及率と今後の動向を解説 PHC Holdings Corporation https://www.phchd.com > ... > 医療テック」（https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate）
+  - 「医療情報システム 市場 に関する調査を実施（ 2025 年） — 医療情報システム 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd）
+  - 「【 2025 年】 電子カルテ の最新普及率はどのくらい？ — 【 2025 年】 電子カルテ の最新普及率はどのくらい？ クラウド型電子カルテCLIUS https://clius.jp > ... > 電子カルテ・ICT」（https://clius.jp/mag/2021/12/13/adoption-rate-for-ehrs/）
+  - 「【 2025 年版】クリニック向け 電子カルテ 購入シェアランキング — 【 2025 年版】クリニック向け 電子カルテ 購入シェアランキング m3.com 開業・経営 https://clinic.m3.com > cliniclab > trends > 6.htm」（https://clinic.m3.com/cliniclab/trends/6.htm）
+  - 「Electronic Health Records ( EHR ) Market Trends for 2026 — Electronic Health Records ( EHR ) Market Trends for 2026 Towards Healthcare https://www.towardshealthcare.com > ...」（https://www.towardshealthcare.com/insights/electronic-health-records-market-size）
+  - 「Electronic Health Records Market Size Report, 2026-2033 — Electronic Health Records Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market）
+  - 「Electronic Health Records Market Size & Trends 2035 — Electronic Health Records Market Size & Trends 2035 Roots Analysis https://www.rootsanalysis.com > reports」（https://www.rootsanalysis.com/reports/electronic-health-records-market.html）
+
+## ロボタクシー（robotaxi）
+- 文脈：2 デジタル・サイバー ⑥自動運転
+- 市場規模：
+  - 「米国ロボタクシー市場規模・予測レポート：2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国ロボタクシー市場は2025年に2億2,380万米ドルと評価され、2026年には3億5,211万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「業界専門家との議論によると、米国ロボタクシー市場は2024年、商業運行を本格的に開始した初年度に、8,420万米ドルの初の商業収益を生み出した」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国のロボタクシー市場は、商用面ではレベル4の自動運転を中心に構成されており、2025年の稼働中のレベル4ロボタクシーは3,304台、2035年には258,776台に達すると予測される」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国ロボタクシー市場規模：自動運転レベル別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「Nebius Group. "Avride Secures Strategic Investment and Other Commitments of Up to $375 Million, Backed by Uber and Nebius." nebius.com」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国のロボタクシー市場規模は2025年に2億2,380万米ドルと推定され、2026年には3億5,211万米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「市場規模は2035年までに190.9億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）55.8%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「4. 市場規模の推計」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST」（https://newscast.jp/smart/news/7333447）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）」（https://newscast.jp/smart/news/7333447）
+  - 「日本のロボタクシー市場規模は2025年に1億3750万米ドルに達しました」（https://newscast.jp/smart/news/7333447）
+- 成長率：
+  - 「2026〜2035年の年平均成長率（CAGR）は55.8%と予測され、2035年には190.9億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「ハードウェアの継続的なコスト低下により、予測期間中盤までに自動運転車の設備投資額が大幅に圧縮され、車両群運営事業者の車両1台当たりの採算性が改善し、導入台数の拡大が後押しされると予想される」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「より広いODDの認証取得により、事業者は1台当たりのサービス提供エリアを拡大でき、導入済み車両群全体の稼働率と車両1台当たりの収益ポテンシャルが向上する」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「車両1台当たりの設備投資額が高く、車両群の拡大採算性を制約」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「今後、市場規模は2034年までに122億2870万米ドルに達すると予想されており、2026年から2034年までの年平均成長率（CAGR）は64.65%となる見込みです」（https://newscast.jp/smart/news/7333447）
+  - 「市場成長率：64.65%（2026年～2034年）」（https://newscast.jp/smart/news/7333447）
+  - 「業界リーダー各社は、日本の主要都市圏における商用ロボタクシーサービスの展開を加速させるため、レベル4自動運転車の車両台数拡大とスマートシティのモビリティインフラに関するパートナーシップへの大規模投資を発表した」（https://newscast.jp/smart/news/7333447）
+  - 「同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）97.65%を記録すると見込まれている」（https://www.theinsightpartners.com/ja/reports/robotaxi-market）
+  - 「世界の年間平均成長率（2026年～2034年）」（https://www.theinsightpartners.com/ja/reports/robotaxi-market）
+  - 「ロボタクシー市場規模は 2023 年に 4 億 8,880 万米ドルに達し、2024 年から 2032 年にかけて年平均成長率（CAGR）75%超で拡大すると予測されている」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「年平均成長率（2024〜2032年）」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「貨物輸送セグメントは、2024年から2032年にかけて年平均成長率（CAGR）が85%を超える最も急速に成長するセグメントです」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「予測期間 2024 - 2032 CAGR」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「2024年6月、Waymoはサンフランシスコ全域で Waymo One のロボタクシーサービスを試験段階から拡大し、誰でも同社のアプリを通じて自動運転車を配車できるようにしました」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+- 上位シェア：
+  - 「米国ロボタクシー市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「Waymoは2025年に市場シェア88%超を獲得し、首位に立った」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「本市場の上位5社には」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「乗用セダン・SUVの改造プラットフォームは、2025年に2億2,102万米ドルの売上高を生み、市場全体の売上高の98.8%を占めた」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2035年には171.0億米ドルに達し、市場全体の売上高に占める割合は89.6%になると予測される」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「専用設計のロボタクシーポッドは、2025年に稼働中の車両が56台で、商用車両群全体の1.7%を占めた」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「自動運転シャトルおよび小型バスのシェアサービスは、2035年までに9億4,019万米ドルの売上高を生み出し、市場全体の売上高の4.9%を占めると予測されており、稼働車両数は13,205台に達する見込みである」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2025年 米国ロボタクシー市場シェア（導入モデル別）」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「OEM運営車両は2025年に1億7,600万米ドルの売上高を生み出し、市場全体の売上高の78.6%を占めた」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2035年には140億2,000万米ドルに達し、市場シェアは73.5%になると予測されている」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「OEM・プラットフォーム事業者のハイブリッド共同運行では、2025年に737台の車両が稼働し、商用車両全体の22.3%を占めた」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「サードパーティープラットフォーム運営車両は、2035年までに9億54万米ドルの売上高を生み出し、市場シェアの4.7%を占めると予測されており、稼働車両数は13,210台に達する見込みである」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「オンデマンド配車では、2035年までに239,825台の車両が稼働し、車両総数の92.7%を占めると予測されている」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST」（https://newscast.jp/smart/news/7333447）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）」（https://newscast.jp/smart/news/7333447）
+- 主要企業：
+  - 「OEMとの提携は、製造との統合やプラットフォーム開発の共同化を通じてこの負担を軽減できるが、新規参入企業には、長期化する承認プロセスや段階的な車両導入に対応できる十分な資本が依然として必要である」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「この取引により、プラットフォームと統合された新規参入企業の案件パイプラインが強化され、初期の商業規模拡大の場として米国南部の競争上の重要性が高まる」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国のロボタクシー市場における主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「米国のロボタクシー市場の主要企業には、Waymo、Tesla、Zooxなどがある」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST」（https://newscast.jp/smart/news/7333447）
+  - 「日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）」（https://newscast.jp/smart/news/7333447）
+  - 「さらに、このレポートでは、主要企業すべての詳細なプロファイルも掲載しています」（https://newscast.jp/smart/news/7333447）
+  - 「日本のロボタクシー市場で事業を展開する主要企業には、以下のような企業が含まれる」（https://newscast.jp/smart/news/7333447）
+  - 「さらに、主要企業の現在の市場状況に関する重要な統計情報に加え、市場のトレンドや新たな機会に関する洞察も提供しています」（https://www.theinsightpartners.com/ja/reports/robotaxi-market）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/robotaxi-market）
+  - 「ロボタクシー業界で事業を展開する主要企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「ロボタクシー業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「競合情勢-市場の競合情勢の詳細、推定市場シェア、主要企業の企業プロファイルを掲載しています」（https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html）
+- 投資：
+  - 「ハードウェアの継続的なコスト低下により、予測期間中盤までに自動運転車の設備投資額が大幅に圧縮され、車両群運営事業者の車両1台当たりの採算性が改善し、導入台数の拡大が後押しされると予想される」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「車両1台当たりの設備投資額が高く、車両群の拡大採算性を制約」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「Nebius Group. "Avride Secures Strategic Investment and Other Commitments of Up to $375 Million, Backed by Uber and Nebius." nebius.com」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「ARK Investment Managementが2023年1月に発表した「BIG IDEAS 2023」によると、自動運転タクシーの収入は2027年に4兆ドル（約590兆円）、2030年には9兆ドル（約1,300兆円）に達する可能性があるとしている」（https://jidounten-lab.com/u_48902）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/6286034）
+  - 「In September 2024, Honda announced an investment in SiLC Technologies to advance FMCW lidar and AI-based machine vision for safer and more reliable autonomous vehicles.」（https://www.precedenceresearch.com/robotaxi-market）
+  - 「In July 2024, Waymo secured a USD 5 billion investment from Alphabet, accelerating its lead in the self-driving taxi industry.」（https://www.precedenceresearch.com/robotaxi-market）
+  - 「Europe was an important contributor to the worldwide Robotaxi Market in 2025, driven by increased investments towards urban mobility solutions and changing regulations towards operation of self-driving vehicles. Increasing awareness about the need for eco-friendly and」（https://www.snsinsider.com/reports/robotaxi-market-3934）
+  - 「The UAE led the Middle East & Africa market with a 24.60% regional share in 2025, supported by significant smart city and autonomous mobility infrastructure investment. Brazil represented 21.60% of the Latin American market in 2025, driven by expanding urban mobility interest, with Mexico also contributing to regional growth.」（https://www.snsinsider.com/reports/robotaxi-market-3934）
+  - 「The robotaxi market is experiencing rapid growth, supported by significant investments and regulatory approvals. In November 2024, China’s Pony.ai raised」（https://market.us/report/robotaxi-market/）
+  - 「In March 2026, Uber announced an investment to support the deployment of autonomous Rivian Robo taxis across multiple cities.」（https://straitsresearch.com/report/robo-taxi-market）
+  - 「In February 2026, the company raised funding to expand its Robo taxi operations globally, increase fleet deployment, and enter new international markets.」（https://straitsresearch.com/report/robo-taxi-market）
+  - 「In February 2026, the company secured funding to accelerate the commercial deployment of its AI-powered autonomy platform and support Robo taxi expansion initiatives.」（https://straitsresearch.com/report/robo-taxi-market）
+  - 「In January 2026, the company raised capital, including strategic funding from Uber, to expand its AI-based autonomous driving platform into the Robo taxi segment.」（https://straitsresearch.com/report/robo-taxi-market）
+  - 「Key Investment and Funding Activities in Robotaxi Market, 2025–2026」（https://straitsresearch.com/report/robotaxi-market）
+- 検索結果の抜粋：
+  - 「ロボタクシー市場規模 、シェア |業界レポート [2026-2034] — ロボタクシー市場規模 、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661）
+  - 「米国 ロボタクシー市場規模 ・予測レポート：2026〜2035年 — 米国 ロボタクシー市場規模 ・予測レポート：2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > us-robotaxi-market」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「ロボタクシー 市場： 市場規模 ・成長と2034年までの予測 — ロボタクシー 市場： 市場規模 ・成長と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > ... > 自動車・輸送」（https://www.theinsightpartners.com/ja/reports/robotaxi-market）
+  - 「自動運転 タクシー の世界 市場 、2030年に15兆円 規模 ！年65 ... — 自動運転 タクシー の世界 市場 、2030年に15兆円 規模 ！年65 ... 自動運転ラボ https://jidounten-lab.com > 国内ニュース」（https://jidounten-lab.com/u_45835）
+  - 「ロボタクシー市場 規模、 シェア |業界レポート [2026-2034] — ロボタクシー市場 規模、 シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661）
+  - 「ロボタクシー市場 の規模と シェア 、2024〜2032年の成長予測 — ロボタクシー市場 の規模と シェア 、2024〜2032年の成長予測 Global Market Insights Inc. https://www.gminsights.com > robotaxi-market」（https://www.gminsights.com/ja/industry-analysis/robotaxi-market）
+  - 「ロボタクシー市場 規模と シェア 2035 — ロボタクシー市場 規模と シェア 2035 Business Research Insights https://www.businessresearchinsights.com > market-reports」（https://www.businessresearchinsights.com/jp/market-reports/robo-taxi-market-118800）
+  - 「ロボタクシー の世界 市場 ：2034年までの機会と戦略 — ロボタクシー の世界 市場 ：2034年までの機会と戦略 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > report > tbrc1754829-robo-taxis-g...」（https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html）
+  - 「2035年に ロボタクシー 200万台超か 車両コスト70%削減で ... — 2035年に ロボタクシー 200万台超か 車両コスト70%削減で ... 自動運転ラボ https://jidounten-lab.com > 海外ニュース」（https://jidounten-lab.com/u_68579）
+  - 「米国 ロボタクシー市場 規模・予測レポート：2026〜2035年 — 米国 ロボタクシー市場 規模・予測レポート：2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > us-robotaxi-market」（https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market）
+  - 「2025 年の ロボタクシー ：Zooxとテスラがそろって出場 - Reddit — 2025 年の ロボタクシー ：Zooxとテスラがそろって出場 - Reddit Reddit https://www.reddit.com > investing > comments > robotax...」（https://www.reddit.com/r/investing/comments/1po1zza/robotaxis_in_2025_waymo_plots_global_expansion_as/?tl=ja）
+  - 「ロボタクシー市場 規模、シェア |業界レポート [2026-2034] — ロボタクシー市場 規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661）
+  - 「ロボタクシー 2社が事業の黒字化を達成。次は海外の大都市が ... — ロボタクシー 2社が事業の黒字化を達成。次は海外の大都市が ... 中華IT最新事情 https://tamakino.hatenablog.com > entry > 2026/05/27」（https://tamakino.hatenablog.com/entry/2026/05/27/080000）
+  - 「Robotaxi Market Size , Share | Industry Report [2026-2034] — Robotaxi Market Size , Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/robo-taxi-market-103661）
+  - 「Robotaxi Market Size , Share & Trends Report, 2026-2033 — Robotaxi Market Size , Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report）
+
+## 自動運転トラック（autonomous truck）
+- 文脈：2 デジタル・サイバー ⑥自動運転
+- 市場規模：
+  - 「自動運転トラック市場規模、成長予測2025-2034年」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「世界の自律走行トラック市場規模は、2024年に3,569億米ドルと評価され、2025年から2034年の間に年平均成長率(CAGR)16.2%を記録すると推定されています」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「2024年市場規模」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「3,569億ドル」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「2034年予測市場規模」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「1兆5,000億ドル」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「自律走行トラック市場規模、クラス別、2022年–2034年、(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「クラスに基づき、市場はクラス4、クラス5、クラス6、クラス7、およびクラス8に分類されます」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「中国の自律走行トラック市場規模、2022年-2034年、(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「中国の自律走行トラック市場は、2024年に収益シェアの70%を占めました」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「市場規模で 2024」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「市場規模で 2034」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「富士経済：2035年に自動運転シャトルの国内市場は322億円に」（https://jidounten-lab.com/u_33437）
+  - 「総合技研：国内ADAS市場は2030年に2,464億円規模に」（https://jidounten-lab.com/u_33437）
+  - 「Kenneth Research：世界の自動運転市場、2024年までに約2兆1,200億円規模に」（https://jidounten-lab.com/u_33437）
+- 成長率：
+  - 「世界の自律走行トラック市場規模は、2024年に3,569億米ドルと評価され、2025年から2034年の間に年平均成長率(CAGR)16.2%を記録すると推定されています」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「CAGR(2025年〜2034年)」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「予測期間 2025 to 2034 CAGR」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「貨物輸送部門は、電子商取引の世界的な拡大と、より迅速な配送に対するニーズの高まりを背景に、2024年には市場シェアの30％を占めるようになった」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「自動運転トラックの市場規模は2024年に3,569億米ドルに達し、輸送インフラへの多額の投資と政府による支援的な規制に牽引され、2025年から2034年にかけて年平均成長率（CAGR）16.2%で成長すると予測されている」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「サービスは一定水準に達し、2020年代半ばからは拡大フェーズに突入している」（https://jidounten-lab.com/u_33437）
+  - 「IMARC：世界の自動運転車市場は2026年まで約28％のCAGRで拡大」（https://jidounten-lab.com/u_33437）
+  - 「IMARC：世界のADAS市場は2026年まで約13％のCAGRで成長」（https://jidounten-lab.com/u_33437）
+  - 「Technavio：2029年までCAGR 22.4％で成長」（https://jidounten-lab.com/u_33437）
+  - 「Fortune Business Insights：2034年に市場規模は32兆円へ拡大」（https://jidounten-lab.com/u_33437）
+  - 「Stratistics MRC：2032年までCAGR74.2％で市場が成長」（https://jidounten-lab.com/u_33437）
+  - 「、公共交通、物流などで試験的利用が始まっており、2023～2024年頃からの本格的な実用期間を経て2025年以降に拡大すると見ている」（https://jidounten-lab.com/u_33437）
+  - 「米調査会社のGrand View Researchが2020年3月までに発表した自動運転車の世界市場調査によると、2021年から2030年にかけCAGR63.1％で推移し、市場規模は2030年までに420万台に達すると予測している」（https://jidounten-lab.com/u_33437）
+  - 「米調査会社のKenneth Researchが2020年7月に発表した調査レポート「グローバル自動運転車市場における5G：世界的な需要の分析及び機会展望2027年」によると、世界の自動運転市場は2016年から2024年までにCAGR25.7％を記録し、2024年までに200億ドル（約2兆1,200億円）規模に達すると予測している」（https://jidounten-lab.com/u_33437）
+  - 「市場調査会社のIMARCが2021年11月に発表した世界の自動運転車市場に関する調査によると、同市場は2021年から2026年の間に約28％のCAGRで拡大すると予測している」（https://jidounten-lab.com/u_33437）
+- 上位シェア：
+  - 「# 自律走行トラック市場 サイズとシェア 2025 to 2034」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「2024年には、クラス8セグメントが40%超の市場シェアを保持し、2034年までに6,000億米ドルを超えると予想されています」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「自律走行トラック市場シェア、用途別、2024年」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「貨物輸送セグメントは2024年に約30%の市場シェアを保持しました」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「中国の自律走行トラック市場は、2024年に収益シェアの70%を占めました」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「自律走行トラック企業市場シェア、2024年」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「Daimler および AB Volvo は、自律走行トラック業界において約15%の市場シェアを保有している」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「貨物輸送部門は、電子商取引の世界的な拡大と、より迅速な配送に対するニーズの高まりを背景に、2024年には市場シェアの30％を占めるようになった」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「中国は2024年の市場収益の70％を占め、強力な政府主導の取り組みと有利な規制枠組みに支えられている」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「レベル4は、カーシェアや」（https://jidounten-lab.com/u_33437）
+  - 「▼自動運転バス市場規模、シェア、トレンド 2026～2035年｜Precedence Research」（https://jidounten-lab.com/u_33437）
+  - 「2024年には、欧州が55.49％のシェアで世界市場をけん引したという」（https://jidounten-lab.com/u_33437）
+  - 「アジア太平洋地域は2025年に45.46%の市場シェアでロボタクシー市場をけん引した」（https://jidounten-lab.com/u_33437）
+- 主要企業：
+  - 「自律走行トラック業界で事業を展開する主要企業には以下が含まれる:」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「や欧州での展開が拡大し、政府支援や技術革新、サービスの多様化によって市場が拡大し、車両の量産化などにより参入企業の収益力向上が期待されるとしている」（https://jidounten-lab.com/u_33437）
+  - 「主要企業は、自動運転ソフトウェア、AI搭載の知覚システム、センサーフュージョン技術、安全性検証、物流企業やOEMとの戦略的パートナーシップにおける技術革新を通じて競争している」（https://straitsresearch.com/jp/report/autonomous-truck-market）
+  - 「自動運転トラック市場の主要企業」（https://newscast.jp/smart/news/3189195）
+  - 「• その他主要企業」（https://newscast.jp/smart/news/3189195）
+  - 「自動運転長距離トラック輸送市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market）
+  - 「自動運転長距離トラック輸送市場の主要企業には、Applied Intuition、Continental、Daimler Truck（Torc Robotics）、Einride、TRATONなどが含まれ、これらの企業は2025年に合計で46.5%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/autonomous-long-haul-trucking-market）
+  - 「• 本レポートは、自動運転トラック市場全体およびそのサブセグメントにおける収益規模の推定値に関する情報を提供し、市場のリーダー企業や新規参入企業を支援します」（https://www.dreamnews.jp/press/0000357782）
+  - 「スクールバスブランド「IC Bus」で高い存在感を持ち、北米の中・大型トラック市場でも長年主要プレイヤーとして位置づけられてきました」（https://deallab.info/truck/）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/autonomous-truck-market）
+  - 「ボルボグループ、ダイムラートラック、スコーニア、マントラック、バス、イヴェコなど主要企業は、自動車用トラック技術の開発、供給能力の拡大、物流、小売、製造業界からの需要の拡大を支援しています」（https://www.sphericalinsights.com/jp/reports/autonomous-truck-market）
+  - 「FAW、Foton、Plus、Pony.ai、およびヒュンダイのような主要企業は、効率的な貨物、鉱山および産業輸送のための成長の要求を支える生産およびパートナーシップを拡大しています」（https://www.sphericalinsights.com/jp/reports/autonomous-truck-market）
+  - 「オーロラ・イノベーション、コディアック・ロボティクス、ガティク、ダイムラー・トラック、トーク・ロボティクスを含む主要企業は、自動運転車の開発を拡充し、供給を強化し、貨物輸送需要の拡大を図っています」（https://www.sphericalinsights.com/jp/reports/autonomous-truck-market）
+- 投資：
+  - 「自動運転トラック市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/autonomous-truck-market）
+  - 「2025年6月、Applied Intuitionは、自動車および商用車向けAI搭載車両インテリジェンス、自動運転ソフトウェア、シミュレーションプラットフォームの拡張を目的として、6億米ドルのシリーズF資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/autonomous-truck-market）
+  - 「2025年6月、WaabiはシリーズB資金調達ラウンドで2億米ドルを調達し、生成型AIベースの自動運転トラック技術の商業化を加速させ、世界のトラックメーカーとの提携を拡大した」（https://straitsresearch.com/jp/report/autonomous-truck-market）
+  - 「2019年に自動運転トラック開発を手掛ける米Torc Roboticsに出資・子会社化し、クラス 8 トラックのFreightliner eCascadiaの自動運転化を推進している」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「その後、2024年5月にはいすゞがGatikに対し、3,000万ドル（約47億円）を出資することに合意したことが発表された」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「同年8月には、NIPPON EXPRESSホールディングスもGatikへの出資を発表している」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「ベンチャーラウンドでは、ソフトバンクグループが10億ドル（約1,500億円）を出資したことで話題となった」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「2025年3月には、資金調達シードラウンドで東京大学協創プラットフォーム、PKSHAアルゴリズム2号ファンド、AIS CAPITALなどを引受先とした第三者割当増資で3億円を調達したと発表した」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「Gatikとは2021年にいすゞの北米法人がレベル4トラックの開発で提携を交わしており、今回新たに3,000万ドルを出資し、パートナーシップをより強固なものとした」（https://jidounten-lab.com/u_autonomous-truck-matome）
+  - 「The government has provided significant investments in autonomous vehicle research, along with incentives for companies developing self-driving technology. Additionally, China is investing in smart infrastructure, such as 5G networks and smart roads, to support the safe operation of autonomous trucks.」（https://www.gminsights.com/industry-analysis/autonomous-truck-market）
+  - 「The market size of autonomous truck reached USD 356.9 billion in 2024 and is set to grow at a CAGR of 16.2% from 2025 to 2034, driven by significant investments in transportation infrastructure and supportive government regulations.」（https://www.gminsights.com/industry-analysis/autonomous-truck-market）
+  - 「Asia Pacific's contribution to date in this industry can be visible with the regional dominance in the industrial and mining sectors. The 5G integration idea of China brought smart highways in modern frame. The e-commerce industry's investment and interest in automated last-mile and middle-mile delivery solutions has bolstered the logistics and e-commerce innovation.」（https://www.precedenceresearch.com/autonomous-trucks-market）
+  - 「In July 2025, ORIX Corporation announced an investment in RoboTruck Inc., a company focused on autonomous vehicle technologies for logistics, to collaborate on the development and deployment of autonomous driving solutions within the logistics sector. This partnership aims to accelerate innovation in automated freight transportation and enhance operational efficiency across logistics networks.」（https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report）
+  - 「Daimler Truck launched Daimler Truck Defence as a global brand to expand its military mobility solutions. The company plans mid-three-digit million-euro investments, portfolio expansion, and enhanced capabilities. Daimler Truck aims to achieve €1 billion in defence revenue by 2028 while strengthening manufacturing, partnerships, and employment at its Worth site.」（https://www.sphericalinsights.com/reports/autonomous-truck-market）
+  - 「Economic challenges include high development costs, infrastructure investment, and uncertain returns. Autonomous truck technology can require millions of dollars in R&D spending, while deployment costs may delay adoption despite potential long-term savings of 10–20% in logistics operations.」（https://www.sphericalinsights.com/reports/autonomous-truck-market）
+- 検索結果の抜粋：
+  - 「自動運転トラック市場規模 、成長予測2025-2034年 — 自動運転トラック市場規模 、成長予測2025-2034年 Global Market Insights Inc. https://www.gminsights.com > autonomous-truck-market」（https://www.gminsights.com/ja/industry-analysis/autonomous-truck-market）
+  - 「自動運転トラック の 市場規模 、成長 |グローバルレポート [2034] — 自動運転トラック の 市場規模 、成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590）
+  - 「自動運転トラック の 市場 規模、成長 |グローバルレポート [2034] — 自動運転トラック の 市場 規模、成長 |グローバルレポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%82%E5%A0%B4-103590）
+  - 「「 自動運転トラック市場 規模、 シェア 、動向、2035年までの ... — 「 自動運転トラック市場 規模、 シェア 、動向、2035年までの ... ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000357782）
+  - 「Autonomous Truck Market Size , Growth Forecasts 2025 -2034 — Autonomous Truck Market Size , Growth Forecasts 2025 -2034 Global Market Insights Inc. https://www.gminsights.com > autono...」（https://www.gminsights.com/industry-analysis/autonomous-truck-market）
+  - 「Autonomous Truck Market Size , Growth | Global Report [2034] — Autonomous Truck Market Size , Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/autonomous-truck-market-103590）
+  - 「Autonomous Trucks Market Companies, Size & Trends 2026 ... — Autonomous Trucks Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/autonomous-trucks-market）
+  - 「Autonomous Truck Market Size & Share Report, 2026-2033 — Autonomous Truck Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/autonomous-truck-market-report）
+  - 「Autonomous Trucks Market Size, Share, Growth Report 2035 — Autonomous Trucks Market Size, Share, Growth Report 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/autonomous-trucks-market-6126）
+  - 「Autonomous Trucks Market Size, Trends & Forecast to 2033 — Autonomous Trucks Market Size, Trends & Forecast to 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/autonomous-trucks-market.asp）
+  - 「Autonomous Truck Market Size, Growth | Global Report [2034] — Autonomous Truck Market Size, Growth | Global Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/autonomous-truck-market-103590）
+  - 「Autonomous Truck Market Size, Share & Trends Analysis, 2032 — Autonomous Truck Market Size, Share & Trends Analysis, 2032 P&S Intelligence https://www.psmarketresearch.com > ...」（https://www.psmarketresearch.com/market-analysis/autonomous-truck-market-report）
+  - 「Autonomous Trucks Market Companies , Size & Trends 2026 ... — Autonomous Trucks Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/autonomous-trucks-market）
+  - 「The State of Autonomous Trucking in 2025 : A Recap of 2024 — The State of Autonomous Trucking in 2025 : A Recap of 2024 NACFE https://nacfe.org > the-state-of-autono...」（https://nacfe.org/autonomous-trucking/the-state-of-autonomous-trucking-in-2025-a-recap-of-2024/）
+
+## 光伝送装置（optical transport network equipment）
+- 文脈：3 情報通信 ①オール光ネットワーク
+- 市場規模：
+  - 「分析であり、市場規模・シェア・成長、2032年までの予測、主要システムベンダー、そしてキャリア長距離・メトロ・ハイパースケーラー向けデータセンター間接続（DCI）の各レイヤーにわたる需要を扱う」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「市場規模 2025」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「128億ドル」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「210-250億ドル」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「市場規模（2025）」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「約128億ドル」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「約210-250億ドル」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「2025年に約128億ドル」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「2032年に210-250億ドルの帯」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「市場は2024年に在庫調整で約13%縮小し、2025年に約10%回復した」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「コンセンサスは約128億ドルの基盤に対し約8.6%成長と読み、そこで止まる」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「光伝送装置市場は今後5年間でCAGR 2%で成長 | e.x.press」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「> 光伝送装置市場は今後5年間でCAGR 2%で成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「光伝送装置市場は今後5年間でCAGR 2%で成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「--Dell’Oro Groupが新たに発表した予測レポートによると、光伝送市場は、顧客が過剰在庫を消化するために購入を一時停止した2024年の減少により、今後5年間で平均2%成長すると予測されている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+- 成長率：
+  - 「CAGR 2025-2032」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「独自指標 · ▲DCIで2025年以降再拡大 · 🔒確定値はレポート内」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「CAGR（2025-2032）」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「へCAGR約8.6%」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「キャリア層のベンダー利益率は2023年以降圧縮、DCI層は2025年に再拡大した」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「横ばいのキャリア事業と年約40%成長のDCI事業は成長率を共有しない」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「キャリア層は長距離価格の浸食とともに2023年以降圧縮し、DCI層はクラウド需要が供給を上回った2025年に再拡大した」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「キャリアは圧縮、DCIは2025年以降再拡大」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「400ZR/800ZR/1.6Tが装置あたり容量を拡大」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「光伝送装置市場は今後5年間でCAGR 2%で成長 | e.x.press」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「> 光伝送装置市場は今後5年間でCAGR 2%で成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「光伝送装置市場は今後5年間でCAGR 2%で成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「CAGR (2025 - 2035)」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「OTN業界は、2025年に208.6億米ドルから2035年までに427.3億米ドルに成長すると予測されており、2025年から2035年の予測期間中に7.43％の年平均成長率（CAGR）を示しています」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「CAGR（2025 - 2035）」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+- 上位シェア：
+  - 「分析であり、市場規模・シェア・成長、2032年までの予測、主要システムベンダー、そしてキャリア長距離・メトロ・ハイパースケーラー向けデータセンター間接続（DCI）の各レイヤーにわたる需要を扱う」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「高集中、上位3社が主導 ·」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「CR3 xx% · HHI x,xxx」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「ファーウェイが売上の約3分の1で首位、シエナとインフィネラ統合後のノキアが各約5分の1」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「競争構造 · HHI＋CR3/CR5/CR10」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「上位3ベンダー、」（https://www.reportprime.com/ja/%E6%B3%A2%E9%95%B7%E5%88%86%E5%89%B2%E5%A4%9A%E9%87%8DWDM%E5%85%89%E4%BC%9D%E9%80%81%E8%A3%85%E7%BD%AE-r4352）
+  - 「光伝送ネットワーク市場規模、シェア | レポート - 2035」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「その他のカテゴリーにはさまざまなニッチサービスが含まれ、全体のセグメントに寄与していますが、上位2つの影響には及びません」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「図3：2022年地域別光トランスポートネットワーク（OTN）市場シェア（米ドル十億）」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「上記の図表／データは、YHResearchの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」から引用されている」（https://www.dreamnews.jp/press/0000363835）
+  - 「YHResearch調査チームの最新レポート「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」によると、2025年の20300百万米ドルから2032年には26740百万米ドルに成長し、2026年から2032年の間にCAGRは4.0%になると予測されている」（https://www.dreamnews.jp/press/0000363835）
+  - 「本記事は、YH Researchが発行したレポート 「グローバル光伝送ネットワーク（OTN）機器のトップ会社の市場シェアおよびランキング 2026」 を紹介しています」（https://www.dreamnews.jp/press/0000363835）
+  - 「（マクロセル）のシェア（出荷額）は、首位がHuawei（31.0％） 、2位がEricsson（26.6％） 、3位が」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf）
+  - 「では、2023年時点で世界の33％のシェアを占めると見込まれており、Beyond 5Gに向けた潜在的な」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf）
+  - 「図表Ⅱ-1-5-4 世界の電子部品市場（売上高）のシェア（2023 年）」（https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2150000.pdf）
+- 主要企業：
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「光トランスポートネットワーク市場（OTN）の主要企業には、ファーウェイテクノロジーズ（中国）、ZTEコーポレーション（中国）、シスコシステムズ（米国）、ノキア（エスポー）、シエナコーポレーション（米国）などがあり、研究開発プロセスに投資することで市場需要を高めようとしています」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「光伝送ネットワーク市場市場の主要企業には以下が含まれます」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「プロファイルされた主要企業」（https://www.marketresearchfuture.com/ja/reports/optical-transport-network-market-1591）
+  - 「主要企業はどこですか？」（https://www.gii.co.jp/report/moi2122196-optical-transport-network-market-share-analysis.html）
+  - 「Competitive Landscape」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「Competitive landscape」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「Who are the major players in the Optical Transport Network Equipment Market?」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「14. Competitive Landscape」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「15.1 Companies profiled」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「Who are the key players in this market report?」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「Top Key Players:」（https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market）
+  - 「All key players are prominent leaders in the optical transport network equipment market future trends as they are likely to boost the strategies and innovate ideas to expand the optical transport network equipment market size.」（https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market）
+- 投資：
+  - 「of the total revenue in 2025, making it the largest component category in the market. This dominance is attributed to rising investments in core and metro infrastructure where high-capacity optical transport platforms enable robust backbone connectivity.」（https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market）
+- 検索結果の抜粋：
+  - 「光伝送装置市場 は今後5年間で CAGR 2%で成長 | e.x.press — 光伝送装置市場 は今後5年間で CAGR 2%で成長 | e.x.press Laser Focus World Japan https://ex-press.jp > lfwj > lfwj-news > lfwj-biz-market」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/64086/）
+  - 「高市戦略17分野、光通信 装置 で世界 シェア 倍増へ 「ガラケー ... — 高市戦略17分野、光通信 装置 で世界 シェア 倍増へ 「ガラケー ... 日本経済新聞 https://www.nikkei.com > article」（https://www.nikkei.com/article/DGXZQOUA0325F0T00C26A8000000/）
+  - 「プレスリリース：『2026 光通信関連 市場 総調査』まとまる ... — プレスリリース：『2026 光通信関連 市場 総調査』まとまる ... 富士キメラ総研 https://www.fcr.co.jp > ...」（https://www.fcr.co.jp/pr/26005.htm）
+  - 「2025 年光通信関連 市場 ，56.4%増の15兆 ... - Optronics ONLINE — 2025 年光通信関連 市場 ，56.4%増の15兆 ... - Optronics ONLINE optronics-media.com https://optronics-media.com > news」（https://optronics-media.com/news/20191126/61457/）
+  - 「Optical Transport Network Equipment Market Size 2026-2030 — Optical Transport Network Equipment Market Size 2026-2030 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/optical-transport-network-equipment-market-industry-analysis）
+  - 「Optical transport network equipment Market - 2035 — Optical transport network equipment Market - 2035 Future Market Insights https://www.futuremarketinsights.com > ...」（https://www.futuremarketinsights.com/reports/optical-transport-network-equipment-market）
+
+## 海底ケーブル（submarine cable）
+- 文脈：3 情報通信 ②海底ケーブル
+- 市場規模：
+  - 「海底ケーブルシステム市場規模とシェア、2034年予測」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「世界の海底ケーブルシステム市場規模は、2024年に153億米ドルと評価され、2025年から2034年にかけて10%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「2024年市場規模」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「2034年予測市場規模」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場規模、コンポーネント別、2022年~2034年(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場は、2022年、2023年、2024年にそれぞれ133億米ドル、142億米ドル、153億米ドルと評価されました」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「例えば、EUの2大太陽光市場は、2024年に60GW以上の新規太陽光発電設備を追加すると予想されており、同地域における太陽光発電容量の前例のない増加を記録します」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「米国の海底ケーブルシステム市場は、2022年、2023年、2024年にそれぞれ28億米ドル、29億米ドル、31億米ドルと評価されました」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「市場規模で 2024」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「市場規模で 2034」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場は、2024年には153億米ドルの規模であり、2034年までに約411億米ドルに達すると予測されており、2034年までの年平均成長率は10%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「世界の海底ケーブル市場規模は、2025年には316億5000万米ドルと評価され、2026年の334億5000万米ドルから2034年には521億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.7%となる見込みです」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）5.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「電力ケーブル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「太陽光発電ケーブル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+- 成長率：
+  - 「世界の海底ケーブルシステム市場規模は、2024年に153億米ドルと評価され、2025年から2034年にかけて10%のCAGRで成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「年平均成長率(2025年〜2034年)」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「IEAによれば、電力部門における再生可能エネルギーのシェアは、2023年の30%から2030年には46%に拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「ドライプラント製品セグメントは、2024年に51億米ドルに達しており、市場ユーティリティの拡大に後押ししています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場において、ケーブル設置サービスセグメントは2034年まで8.5%を超えるCAGRで成長すると予測されており、今後数年間でさらに成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「予測期間 2025 – 2034 CAGR」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場は、2024年には153億米ドルの規模であり、2034年までに約411億米ドルに達すると予測されており、2034年までの年平均成長率は10%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブル市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「世界の海底ケーブル市場規模は、2025年には316億5000万米ドルと評価され、2026年の334億5000万米ドルから2034年には521億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.7%となる見込みです」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「33kVを超える定格の高電圧ケーブルは、特に拡大を続ける洋上風力発電分野において、効率的な送配電に不可欠です」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場の規模は、2026年には334億5000万米ドルと評価され、2034年までに521億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は5.7%です」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）5.7%で成長すると予測されている」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「電力ケーブル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「太陽光発電ケーブル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「中電圧ケーブル市場の規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/submarine-cables-market）
+- 上位シェア：
+  - 「海底ケーブルシステム市場規模とシェア、2034年予測」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場 サイズとシェア 2025 – 2034」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「IEAによれば、電力部門における再生可能エネルギーのシェアは、2023年の30%から2030年には46%に拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム市場シェア、オファリング別、2024年」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「ASN、NEC、Nexans、Global Marine Systemsを含む上位4社が、世界市場の40%以上を占めています」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブル市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場の規模、シェア、トレンド分析レポート：用途別（海底電力ケーブル、海底通信ケーブル）、電圧別（中電圧、高電圧、超高電圧）、エンドユーザー別（洋上風力発電、国間・島嶼間接続、洋上石油・ガス）、構成要素別（乾式プラント製品、湿式プラント製品）、提供サービス別（設置・試運転、アップグレード、メンテナンス）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「欧州は2025年に35.2%の市場シェアを占め、海底ケーブル市場を牽引しました」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「国際エネルギー機関（IEA）とアジア風力エネルギー協会によると、同地域は2040年までに世界の電力需要増加分の60%以上を占めると予想されており、大規模な海底ケーブルインフラの整備が不可欠となっています」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「TeleGeographyによると、2021年にはアジア太平洋地域が世界の国際インターネット帯域幅需要の約40%を占めました」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「2025年の海底ケーブル市場において、最大のシェアを占める地域はどこだったでしょうか？」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「2025年には、ヨーロッパが市場を席巻し、35.2%のシェアを占めた」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「電力ケーブル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/submarine-cables-market）
+- 主要企業：
+  - 「電線・ケーブル業界で事業を展開している主要企業は次のとおりです」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブルシステム業界の主要企業には、アルカテル・ルーセント・サブマリン・ネットワークス（ASN）、コーニング、富士通、グローバル・マリン・システムズ、ガルフ・ブリッジ・インターナショナル（GBI）、ヘントン・マリン・ケーブル・システムズ、NEC、ネクサンス、オレンジ・マリン、プリズミアン、シーコムなどがある」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「この市場における主要企業は、アルカテル・ルーセント、TEサブコム、NEC、フェイスブック、グーグルである」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「詳細に分析された主要企業」（https://www.theinsightpartners.com/ja/reports/subsea-cable-market）
+  - 「サブマリンケーブル業界における主要企業」（https://www.coherentmarketinsights.com/ja/%E6%B5%B7%E5%BA%95%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「Tier 2 — 主要プレイヤー（通信・電力ケーブル大手）」（https://s.gbase.ai/insight/submarine-cable-ranking-2025/）
+  - 「主要企業詳細プロフィール」（https://s.gbase.ai/insight/submarine-cable-ranking-2025/）
+  - 「2024年にグローバル市場を支配した主要企業には、アルカテル・ルーセント、TEサブコム、NECコーポレーションが含まれます」（https://www.globalresearch.co.jp/submarine-cables-market/）
+  - 「さらに、主要企業は未開拓市場での販売網拡大を目的とした戦略的な買収や地域企業との提携に注力しています」（https://www.globalresearch.co.jp/submarine-cables-market/）
+  - 「図58 主要企業分類」（https://www.globalresearch.co.jp/submarine-cables-market/）
+  - 「図60 主要企業市場シェア分析（2024年）」（https://www.globalresearch.co.jp/submarine-cables-market/）
+  - 「The key players that dominated the global submarine cable industry include Alcatel-Lucent, TE SubCom, and NEC Corporation. The other small and mid-size submarine cable providers focus on smaller projects in various regions. Many submarine cable suppliers are also involved in offshore oil and gas projects, undersea electrical cables, and other marine infrastructure projects across the globe.」（https://www.grandviewresearch.com/industry-analysis/submarine-cables-market）
+  - 「Further, the leading players are also focusing on strategic acquisitions and collaborations with regional players to expand their channel reach in untapped markets. For instance, in April 2023, Nexans acquired Reka Cables, a Finnish cable manufacturer. The combined business aimed to provide safe and high-quality cables to Nordic customers and beyond through this acquisition.」（https://www.grandviewresearch.com/industry-analysis/submarine-cables-market）
+  - 「The following key companies have been profiled for this study on the」（https://www.grandviewresearch.com/industry-analysis/submarine-cables-market）
+- 投資：
+  - 「2024年における米国政府による投資額は4000億米ドルを超えました」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「さらに、米英間の大西洋横断ケーブル容量の約75％が、ハイパースケーラー出資の新たな大容量ケーブル2本に集中しているとの」（https://instituteofgeoeconomics.org/research/2026031101/）
+  - 「Asia Pacific accounts for a 40% share in 2025, driven by massive investments in offshore wind projects, rapid industrialization, and expanding inter-country connectivity in countries such as China and Japan.」（https://www.persistencemarketresearch.com/market-research/subsea-cables-market.asp）
+  - 「The global submarine cable systems market generated an estimated revenue of USD 27.5 billion in 2024, which is expected to witness a CAGR of 8.2% during 2025–2032, to reach USD 50.8 billion by 2032. This can be ascribed to the rising investments in offshore wind farms, growing data traffic, and increasing investments by OTT providers to meet demand.」（https://www.psmarketresearch.com/market-analysis/submarine-cable-systems-market-report）
+  - 「Offshore wind power generation emerges as the dominant sector, claiming 45.6% of the market, driven by the global shift towards sustainable energy sources and increasing investments in offshore wind farms.」（https://market.us/report/submarine-cables-market/）
+  - 「Asia Pacific dominates the market with a 38.5% market share, driven by increasing investments in submarine cable projects to meet the region’s growing connectivity needs.」（https://market.us/report/submarine-cables-market/）
+  - 「The Asia Pacific (APAC) region holds a dominant position in the Submarine Cables Market, accounting for 38.5% of the global share. This leadership stems from several key factors, including the region’s rapid technological advancements, burgeoning internet user base, and significant investments in digital infrastructure.」（https://market.us/report/submarine-cables-market/）
+  - 「segment would have the highest share of the market in 2025. The growing need for HVDC submarine power cables and the rising investments into offshore wind power generation facilities drive market growth for high voltage cables. The HVDC power system now enables electricity transfer from high-capacity and high-power sources to the mainland through its advanced development.」（https://www.custommarketinsights.com/report/submarine-cable-market/）
+  - 「For instance, in July 2025, Seoul based company, Taihan Cable & Solution, announced an investment of USD 308 million into the development of a submarine cable plant dedicated to 640 kV class HVDC and 400 kV class HVAC lines. This large-scale investment is aimed at meeting rising global and domestic demand for submarine cables and growth of the offshore wind power market.」（https://www.gminsights.com/industry-analysis/hvdc-cables-market）
+  - 「The U.S. dominated the HVDC cables market in North America with around 95% share in 2024 and generated USD 3.5 billion in revenue. Increasing investments for expansion of the electrical networks and implementation of renewables integrated grids and shaping the business dynamics in North America.」（https://www.gminsights.com/industry-analysis/hvdc-cables-market）
+  - 「For instance, the Champlain Hudson Power Express project in the U.S. to be operational by 2026, covers the installation of 400 kV HVDC cable, spanning across 600 km under lake. In July 2022, NKT was selected to supply the cable by an investment of over USD 1.4 billion which in turn will facilitate the transmission of sustainable hydropower from Canada to New York City.」（https://www.gminsights.com/industry-analysis/hvdc-cables-market）
+  - 「NKT A/S strengthens its leadership with over USD 1 billion investments in long-length HVDC cable production and installation capabilities for offshore wind and interconnectors.」（https://www.gminsights.com/industry-analysis/hvdc-cables-market）
+- 検索結果の抜粋：
+  - 「海底ケーブル システム 市場規模 とシェア、2034年予測 — 海底ケーブル システム 市場規模 とシェア、2034年予測 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > submari...」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「海底ケーブル システム 市場規模 ・シェア |成長 [2034] — 海底ケーブル システム 市場規模 ・シェア |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 力」（https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E5%BA%95%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-102670）
+  - 「海底ケーブル市場 の 規模 、シェア、成長率、予測（2034年 ... — 海底ケーブル市場 の 規模 、シェア、成長率、予測（2034年 ... Straits Research https://straitsresearch.com > ... > 電線・ケーブル」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場 ｜ CAGR 9.9%の成長予測 2034年 — 海底ケーブル市場 ｜ CAGR 9.9%の成長予測 2034年 The Insight Partners https://www.theinsightpartners.com > subsea-cable-market」（https://www.theinsightpartners.com/ja/reports/subsea-cable-market）
+  - 「世界の 海底ケーブル市場 と地政学リスク：2026年以降の調査 ... — 世界の 海底ケーブル市場 と地政学リスク：2026年以降の調査 ... オルタナティブ・ブログ https://blogs.itmedia.co.jp > business20 > 2026/05」（https://blogs.itmedia.co.jp/business20/2026/05/2026_3.html）
+  - 「NEC社長、 海底ケーブルシェア 40%も M&A4000億円余力 — NEC社長、 海底ケーブルシェア 40%も M&A4000億円余力 日本経済新聞 https://www.nikkei.com > ビジネス > 情報通信・ネット」（https://www.nikkei.com/article/DGXZQOUC114YV0R10C25A6000000/）
+  - 「海底ケーブル システム 市場 規模と シェア 、2034年予測 — 海底ケーブル システム 市場 規模と シェア 、2034年予測 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > submari...」（https://www.gminsights.com/ja/industry-analysis/submarine-cable-systems-market）
+  - 「〈 海底ケーブル 覇権〉世界3強に食い込むNECが狙う｢ シェア ... — 〈 海底ケーブル 覇権〉世界3強に食い込むNECが狙う｢ シェア ... 東洋経済オンライン https://toyokeizai.net > articles」（https://toyokeizai.net/articles/-/941884?display=b）
+  - 「海底ケーブル市場 の規模、シェア、成長率、予測（2034年 ... — 海底ケーブル市場 の規模、シェア、成長率、予測（2034年 ... Straits Research https://straitsresearch.com > ... > 電線・ケーブル」（https://straitsresearch.com/jp/report/submarine-cables-market）
+  - 「海底ケーブル市場 規模と 前年比 成長率、2026～2033年 — 海底ケーブル市場 規模と 前年比 成長率、2026～2033年 Coherent Market Insights https://www.coherentmarketinsights.com > 海底ケーブル...」（https://www.coherentmarketinsights.com/ja/%E6%B5%B7%E5%BA%95%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「海底ケーブル 企業ランキング 2025 - 戦略分析レポート — 海底ケーブル 企業ランキング 2025 - 戦略分析レポート GBaseGTM https://s.gbase.ai > insight > submarine-cable-ranking-2025」（https://s.gbase.ai/insight/submarine-cable-ranking-2025/）
+  - 「Submarine Cables Market Size & Share Report, 2026-2033 — Submarine Cables Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/submarine-cables-market）
+  - 「Submarine Cables Market Size, Share , Trends & Growth, 2034 — Submarine Cables Market Size, Share , Trends & Growth, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/submarine-cables-market-116370）
+  - 「US Submarine Cable Systems Market (2025-2030) — US Submarine Cable Systems Market (2025-2030) MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/geography/submarine-cable-system-market/us）
+  - 「Submarine Cable Market Size, Share | Trends Report [2033] — Submarine Cable Market Size, Share | Trends Report [2033] SkyQuest https://www.skyquestt.com > report」（https://www.skyquestt.com/report/submarine-cable-market）
+
+## 衛星直接通信（direct to device satellite）
+- 文脈：3 情報通信 ③次世代ワイヤレス
+- 市場規模：
+  - 「直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合 | NEWSCAST」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は2025年15億米ドルから2035年244億米ドルへ、通信インフラ再編を映す高成長市場に」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は、2025年の15億米ドルから2035年には244億米ドルに達すると予測されており、2026年から2035年の予測期間に年平均成長率（CAGR）37.4％で成長する見通しです」（https://newscast.jp/smart/news/4123946）
+  - 「市場規模だけで見れば10年間で約16倍へ拡大する計算となり、従来の専用衛星端末を中心とした限定的な衛星通信市場から、一般スマートフォン、IoT機器、企業ネットワーク、災害対応システムまでを含む新たな通信インフラ市場へと変化していることが最大の特徴です」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は、2025年に15億米ドルの規模となり、2035年までに244億米ドルに達すると予測されています」（https://newscast.jp/smart/news/4123946）
+  - 「周波数・標準化・通信品質が成長速度を左右、D2D市場は技術競争から制度と運用品質の競争へ」（https://newscast.jp/smart/news/4123946）
+  - 「日本政府は2026年、楽天グループがAST SpaceMobileと進める衛星通信ネットワーク構想に最大1,480億円規模の支援を行う方針と報じられており、海外衛星コンステレーションへの依存を抑えながら国内の衛星通信能力を強化する動きが具体化しています」（https://newscast.jp/smart/news/4123946）
+  - 「Direct to Satellite 市場規模、シェア、予測、2025 ～ 2032 年」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「世界のダイレクト衛星市場規模と予測 – 2025 年から 2032 年」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「世界の衛星直通市場は、2025 年に」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「非Tモバイル加入者の場合:USD 20 /月」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「50 GBの計画:USD 374/month」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「1TBプラン:USD 1,486/月」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「5TBプラン:USD 7,433/ヶ月」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+- 成長率：
+  - 「直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合 | NEWSCAST」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は2035年244億米ドル規模へ、CAGR 37.4％を支えるスマートフォン直接接続と5G・NTN統合」（https://newscast.jp/smart/news/4123946）
+  - 「直接衛星通信市場は、2025年の15億米ドルから2035年には244億米ドルに達すると予測されており、2026年から2035年の予測期間に年平均成長率（CAGR）37.4％で成長する見通しです」（https://newscast.jp/smart/news/4123946）
+  - 「市場規模だけで見れば10年間で約16倍へ拡大する計算となり、従来の専用衛星端末を中心とした限定的な衛星通信市場から、一般スマートフォン、IoT機器、企業ネットワーク、災害対応システムまでを含む新たな通信インフラ市場へと変化していることが最大の特徴です」（https://newscast.jp/smart/news/4123946）
+  - 「これは、衛星を利用したセルラー通信の商用化や低軌道（LEO）衛星コンステレーションの拡大を背景に、2026年から2035年までの予測期間において、年平均成長率（CAGR）37.4％という堅調な伸びを示すと見込まれています」（https://newscast.jp/smart/news/4123946）
+  - 「• 【2026年】市場の焦点はサービス地域と用途の拡大へ移行しています」（https://newscast.jp/smart/news/4123946）
+  - 「年間平均成長率（CAGR）は 14.5%」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「Starlinkは、LTEペイロード(2024–2025)で特殊な衛星を起動することにより、ダイレクト・ツー・セル機能を拡大するためにR&D支出を増加させました」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「予測期間 2025〜2032 CAGR:」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「T-MobileとSpaceX(Starlink)のパートナーシップ(2022〜2025)は、T-MobileのPCSスペクトラムを使用して、Starlinkのダイレクトツーセルサービスを定期的にKで有効化し、音声とデータサービスに対するメッセージングと拡大のためのライブベータになりました」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「彼は、Fortune 500 企業や新興企業にサービスを提供し、幅広い事業拡大や市場参入戦略でクライアントを支援してきました」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「衛星市場へのグローバル直接のCAGRは、2025年から2032年にかけて14.5%になるように計画されています」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「今後、国内において低軌道コンステレーション（LEO）による衛星通信サービスが計画されていることから、市場は拡大基調で推移し、2030年の国内衛星通信サービス市場規模は1,333億3,000万円を予測する」（https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1）
+  - 「2024年版 NTN・衛星通信市場総覧 ～宇宙・成層圏通信網で拡大・発展する5G通信～」（https://www.yano.co.jp/press-release/show/press_id/3611?srsltid=AYCX9vIHTSTqCQuBkPcOyfFjhE1v8O0fPWHqfBwOBnNIQrtvnDNH_pg1）
+  - 「衛星から携帯電話への直接通信（Direct Satellite-To-Phone Cellular）市場の規模は、2025年に29億8,070万米ドルと評価され、2026年から2033年にかけてCAGR27.4％で拡大すると見込まれています」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+- 上位シェア：
+  - 「北アメリカは、2025年に世界の市場で最大のシェアを占めました」（https://newscast.jp/smart/news/4123946）
+  - 「低軌道（LEO）セグメントは、2025年に市場を独占しました」（https://newscast.jp/smart/news/4123946）
+  - 「Direct to Satellite 市場規模、シェア、予測、2025 ～ 2032 年」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「サテライトマーケットへのダイレクト 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「ダイレクト・ツー・デバイス・セグメントは、2025年に最大36.2%のシェアを保有する予定です」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「アジア太平洋地域は、2025年に26.5%の予想されるシェアを保持し、衛星市場への直接的な成長を示しています」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「サービスの面で, 直接ツーデバイスは、市場での収益シェアを支配する推定されます 2025.」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「市場調査レポート: 衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「衛星から携帯電話への直接通信市場：サービス別、規格別、衛星ネットワークアーキテクチャ別、軌道別、使用事例別、国別、地域別―2026年から2033年までの世界の業界分析、市場規模、市場シェアおよび予測」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「Direct Satellite-To-Phone Cellular Market, By Service, By Standards, By Satellite Network Architecture, By Orbit, By Use Case, By Country, and By Region -Global Industry Analysis, Market Size, Market Share & Forecast from 2026-2033」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「衛星から携帯電話への直接通信市場シェア分析、2025年」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「RFコンポーネント：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「90度アングルクランプの市場規模、シェア、および成長分析：クランプタイプ別、材料別、用途別、エンドユーザー別、ョー最大幅別、地域別 - 2026年～2033年の業界予測」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「無線周波数部品市場規模、シェア、および成長分析：製品別、用途別、地域別－業界予測2026-2033年」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「market share in 2025.」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+- 主要企業：
+  - 「主要企業のリスト：」（https://newscast.jp/smart/news/4123946）
+  - 「そのため市場参入企業に求められるのは衛星技術だけではなく、通信キャリアとの提携、端末互換性、周波数利用権、サービス設計を一体化するエコシステム戦略です」（https://newscast.jp/smart/news/4123946）
+  - 「Key Players」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Leading Players:」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Direct-to-Device (D2D) Satellite Connectivity Market Share & Competitive Landscape」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Who are the major players in direct-to-device (d2d) satellite connectivity market?」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Some of the major players in direct-to-device (d2d) satellite connectivity market include Globalstar, Iridium Communications, Skylo Technologies, SpaceX, AST SpaceMobile.」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Who are the Major Players in the Global Direct-to-Satellite Market?」（https://www.precedenceresearch.com/direct-to-satellite-market）
+  - 「The major players in the direct-to-satellite market include SpaceX, AST SpaceMobile, Lynk Global, Globstar, Iridium Communications, Skylo Technologies, ASTROCAST, Sateliot, Omnispace, Viasat, Fleet Space Technologies, HEAD Aerospace Group, Ligado Networks, Lacuna Space, Telesat, and Amazon (Project Kuiper).」（https://www.precedenceresearch.com/direct-to-satellite-market）
+  - 「Competitive Landscape」（https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market）
+  - 「Key Players Insights」（https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market）
+  - 「Which are the major players operating in the global direct to satellite market?」（https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market）
+  - 「Airbus Defence & Space, Amazon, AST SpaceMobile, Viasat, Boeing, Eutelsat OneWeb, EchoStar, Intelsat, Lockheed Martin Space, Lynk Global, Maxar Technologies, Northrop Grumman, SES, SpaceX, and Thales Alenia Space are the major players.」（https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market）
+  - 「Revenue forecast, competitive landscape, growth factors, and trends」（https://www.transpireinsight.com/report/direct-to-device-d2d-market）
+  - 「Who are the major players in the Direct-to-Device (D2D) Market?」（https://www.transpireinsight.com/report/direct-to-device-d2d-market）
+- 投資：
+  - 「SESは、Lynk GlobalのD2DコンステレーションでシリーズBの資金調達を行い、Lynk Globalの機能を強化する統合サービスのスイートを提供します」（https://www.coherentmarketinsights.com/ja/%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88）
+  - 「例えば、米国航空宇宙学会（AIAA）によると、2026年には、世界中の宇宙事業への総投資額が470億米ドルを超えました」（https://www.gii.co.jp/report/anvi2092655-direct-satellite-phone-cellular-market-by-service.html）
+  - 「GSMA, GSMA Foundry and ESA Announce Access to New Funding for AI, NTN, D2D and 6G. gsma.com」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「SES and Lynk strategic partnership, March 2025: SES announced an investment and partnership with Lynk to pursue D2D services within a broader multi-orbit connectivity strategy.」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「and Lynk Global announced a strategic partnership to address the high-growth direct-to-device (D2D) segment. As part of the agreement, SES will provide Series B funding for Lynk Global’s D2D constellation and provide a suite of integrated services that will enhance Lynk Global’s capabilities.」（https://www.coherentmarketinsights.com/industry-reports/direct-to-satellite-market）
+  - 「D2D needs a sustainable business model. In most cases, mobile operators are not building satellite networks themselves; they are partnering with satellite providers that can supply the infrastructure, spectrum, or both. The harder commercial question is how to package, price, and monetize D2D in a way that encourages adoption while supporting the investment required to expand service.」（https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity）
+  - 「for instance, In August 2025, Apple Inc. announced a US investment commitment of」（https://market.us/report/direct-to-cell-market/）
+  - 「Standards like 3GPP NTN, along with governments promoting satellite connectivity with policy updates and investment, are lowering market-entry barriers for new satellite IoT operators and giving legacy operators new market opportunities. Both should look at the current landscape and trends, assess their current offerings and strategies, and adjust accordingly to remain competitive.」（https://iot-analytics.com/satellite-iot-competitive-landscape/）
+  - 「Picture this: your smartphone connecting directly to satellite networks in low Earth orbit. Commercial investment in Direct-to-Device (D2D) satellite communications has burgeoned over the past year, with a range of business mergers, new investments and partnerships pursuing innovative business models for D2D services.」（https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/）
+  - 「number of space objects has also raised broader concerns about space sustainability (Insight 3)」（https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf）
+  - 「returns on investment in agriculture may prove relatively lower. Image 7 illustrates how the」（https://www.broadbandcommission.org/wp-content/uploads/2025/08/The-State-of-Satellite-Broadband-.pdf）
+  - 「Mobile operators recognize this shift and are accelerating commercial commitments. In February 2024, Skylo Technologies raised」（https://market.us/report/direct-to-satellite-market/）
+  - 「in an oversubscribed funding round to scale its direct-to-device satellite service worldwide — an early signal that investor confidence in commercial D2S viability was outpacing earlier skepticism about unit economics.」（https://market.us/report/direct-to-satellite-market/）
+  - 「LEO constellation investment removes the technical barriers that previously confined satellite connectivity to specialized hardware. Operators can now launch D2S services on standard consumer smartphones, dramatically expanding the addressable subscriber base. In December」（https://market.us/report/direct-to-satellite-market/）
+  - 「in total venture capital and strategic equity investments since 2020, signaling sustained industry confidence and resource commitment through the forecast period.」（https://dataintelo.com/report/direct-to-device-satellite-communications-market）
+- 検索結果の抜粋：
+  - 「Direct-to-Device (D2D) Market Report 2025 -2030 [237 Pages ... — Direct-to-Device (D2D) Market Report 2025 -2030 [237 Pages ... MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/satellite-direct-to-device-d2d-market-176759878.html）
+  - 「Direct-to-Device (D2D) Satellite Connectivity Market Size — Direct-to-Device (D2D) Satellite Connectivity Market Size Global Market Insights Inc. https://www.gminsights.com > direct-t...」（https://www.gminsights.com/industry-analysis/direct-to-device-d2d-satellite-connectivity-market）
+  - 「Top Companies List of Direct-to-Device (D2D) Industry — Top Companies List of Direct-to-Device (D2D) Industry MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/ResearchInsight/satellite-direct-to-device-d2d-companies.asp）
+  - 「Direct To Device Satellite Connectivity Market Size, Share [2034] — Direct To Device Satellite Connectivity Market Size, Share [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/direct-to-device-satellite-connectivity-market-118206）
+  - 「Direct-to-Device (D2D) Market Size, Share & Trends - 2033 — Direct-to-Device (D2D) Market Size, Share & Trends - 2033 Transpire Insight https://www.transpireinsight.com > di...」（https://www.transpireinsight.com/report/direct-to-device-d2d-market）
+  - 「Direct-to-Device Satellite : How D2D Is Reshaping Mobile ... — Direct-to-Device Satellite : How D2D Is Reshaping Mobile ... ookla.com https://www.ookla.com > articles」（https://www.ookla.com/articles/d2d-is-reshaping-mobile-connectivity）
+  - 「Heating Up Competition for D2D Satellite to Smartphone ... — Heating Up Competition for D2D Satellite to Smartphone ... Lexington Institute https://lexingtoninstitute.org > heating...」（https://lexingtoninstitute.org/heating-up-competition-for-d2d-satellite-to-smartphone-benefits-americas-space-economy/）
+
+## 量子コンピュータ（quantum computing）
+- 文脈：4 量子 ①量子コンピューティング
+- 市場規模：
+  - 「世界の量子コンピューティング市場規模は、2025年には15億2000万米ドルと評価され、2026年の19億7000万米ドルから2034年には155億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「ハードウェア分野は、2025年に世界の量子コンピューティング市場を席巻し、55.7%のシェアを占め、市場規模は8億5000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「クラウド導入は、2025年には世界の量子コンピューティング市場を席巻し、61.8%のシェアを獲得、市場規模は9億4000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「防衛分野は、2025年に世界の量子コンピューティング市場において23.4%のシェアを占め、市場規模は3億6000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「米国市場は2025年に5億4000万米ドルの規模となり、北米最大の市場となる見込みです」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「カナダの市場規模は2025年には7億米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「2025年におけるドイツ市場規模は1億1000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「英国市場は2025年に0.09億米ドルの規模に達すると予測されている」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「アジア太平洋地域の量子コンピューティング市場は、2025年には世界市場の23.1%を占め、市場規模は3億5,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は34.1%と見込まれています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「量子コンピューティング市場規模、CAGR 32.14%成長 | e.x.press」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+- 成長率：
+  - 「量子コンピューティング市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「世界の量子コンピューティング市場規模は、2025年には15億2000万米ドルと評価され、2026年の19億7000万米ドルから2034年には155億7000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は29.5%となる見込みです」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「欧州の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「量子コンピューティング市場規模、CAGR 32.14%成長 | e.x.press」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+  - 「> 量子コンピューティング市場規模、CAGR 32.14%成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+  - 「量子コンピューティング市場規模、CAGR 32.14%成長」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+  - 「--Zion Market Researchのレポートによると、世界の量子コンピューティング市場規模は2024年に約10億6000万米ドルと評価され、2025～2034年にかけてCAGR約32.14%で拡大し、2034年末までに約171億5000万米ドルに達すると予測されている」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+  - 「CAGR 2026-2035」（https://www.researchnester.com/ja/reports/quantum-computing-market/4910）
+  - 「予測期間（2026年から2035年）では、約23.1%の年平均成長率（CAGR）で成長が見込まれます」（https://www.researchnester.com/ja/reports/quantum-computing-market/4910）
+  - 「量子コンピューティング市場規模は2025年には12億米ドルを超え、2035年までに95億5,000万米ドルに達すると予測されており、予測期間である2026年から2035年の間に約23.1%のCAGRで成長する見込みです」（https://www.researchnester.com/ja/reports/quantum-computing-market/4910）
+  - 「IonQ、FIUに「Superion 256」を納入へ 2027年後半、オンプレミス量子機の販売拡大」（https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/）
+  - 「さらに、米国商務省はCHIPSおよび科学法による約100億ドルの研究開発枠に量子技術を含め、支援を拡大させたことを発表しています」（https://www.matsui.co.jp/money-satellite/column/beginner/stock/cl-quantum-computer.html）
+- 上位シェア：
+  - 「量子コンピューティング市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「量子コンピューティング市場の規模、シェア、トレンド分析レポート：タイプ別（ソフトウェア、ハードウェア）、アプリケーション別（機械学習、最適化、生物医学シミュレーション、金融サービス、電子材料探索、その他（交通最適化、天気予報、その他））、展開形態別（オンプレミス、クラウド）、業種別（防衛、ヘルスケア・製薬、化学、銀行・金融、エネルギー・電力、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「北米は2025年に41.6%の市場シェアを占め、量子コンピューティング市場を牽引しました」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「北米市場シェア（2025年）」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「ハードウェア分野は2025年に市場シェアの55.7%を占め、市場を席巻した」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「ハードウェア分野は、2025年に世界の量子コンピューティング市場を席巻し、55.7%のシェアを占め、市場規模は8億5000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「機械学習分野は2025年に市場シェア24.8%を占め、市場を席巻するだろう」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「機械学習分野は、2025年には世界の量子コンピューティング市場において24.8%のシェアを占め、3億8000万米ドルの規模に達すると予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「クラウド分野は2025年に61.8%のシェアを占め、市場を席巻するだろう」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「クラウド導入は、2025年には世界の量子コンピューティング市場を席巻し、61.8%のシェアを獲得、市場規模は9億4000万米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「防衛分野は2025年に市場シェア23.4%を占め、市場を席巻した」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「防衛分野は、2025年に世界の量子コンピューティング市場において23.4%のシェアを占め、市場規模は3億6000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「北米の量子コンピューティング市場は、世界市場の41.6%を占め、2025年には6億3,000万米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は32.2%と見込まれています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「欧州の量子コンピューティング市場は、世界市場の27.4%を占め、2025年には4億2000万米ドルに達し、予測期間中の年平均成長率（CAGR）は35.8%と予測されています」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「・世界市場は、2021年にハードウェアセグメントで最も高い成長を記録し、セグメント収益の62%以上を占めた」（https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/70558/）
+- 主要企業：
+  - 「業界の主要企業としては、Cambridge Quantum Computing Ltd.、Nokia Bell Labs、Toshiba Corporation、D-Wave Systems Inc.、IonQ, Inc.、QxBranch Inc.、Rigetti & Co, Inc.、Alibaba Group Holding Limited、QuantumCTek Co., Ltd.、Anhui Qasky Quantum Technology Co. Ltd.、Huawei Technologies Co., Ltd.、Baidu, Inc.、Qubitekk Inc.などが挙げられます」（https://straitsresearch.com/jp/report/quantum-computing-market）
+  - 「主要企業動向と競争戦略」（https://www.atpress.ne.jp/news/4334062）
+  - 「量子コンピュータ市場における主要企業として、IBM、D-Wave、IonQ、Quantinuum、Infleqtion、Quandela、Origin Quantum、CIQTEK、QuantumCTek、QUDOOR Technologiesなどが挙げられます」（https://www.atpress.ne.jp/news/4334062）
+  - 「本レポートは、特許戦略、技術モダリティ（方式）、および市場投入戦略（「現在価値」対「未来価値」）に基づき、主要プレイヤーを以下の」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「つの戦略グループに属する主要企業の戦略、ロードマップ、アライアンス、および」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「と同じ「イオントラップ」方式 の主要プレイヤーですが、その戦略は」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「で主要プレイヤーです」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「主要企業別 競合ポジショニング比較表（マトリクス）」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「月時点）の特許データベース分析、および主要企業の」（https://www.techno-producer.com/ai-report/quantum-computing_key-players-applications/）
+  - 「技術的詳細、動作原理、主要企業、SWOT分析、ベンチマーク評価、特有の材料要件」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「主要企業50社以上の概要（設立年、達成した量子ビット数（および予測数）の過去実績も記載）」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「How is quantum computing benchmarked? What is the current and future status of the key players and competing quantum computing technologies?」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「Explanation of the differences between the main competing quantum computer technologies. Each covers: technical details, operating principles, key companies, SWOT analysis, benchmarking, and specific material requirements. Technologies include superconducting, photonic, silicon-spin, neutral atom, and trapped ion platforms, plus a section on alternatives including annealers and diamond defects.」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「Overview of 50+ key companies with historical data on the year founded, qubit number achieved (and projected).」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「Comparing progress in logical qubit number scalability between key players/qubit modalities」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+- 投資：
+  - 「ただ、13位にとどめた最大の理由は、調達額に見合う売上がまだ見えないことだ」（https://quantumindex.jp/top-29-quantum-companies-ranking-summer-2026/）
+  - 「デロイトトーマツグループ（東京・千代田）が調査した量子コンピューティング・スタートアップの調達額ランキング（2025年1月時点）を見ると、量子ハードウエアを開発する北米のスタートアップが上位を占めていることが分かる」（https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/）
+  - 「日本国内トップの調達額を誇るQunaSys（キュナシス、東京・文京）は世界38位の2400万米ドル（約36億円）だった」（https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/）
+  - 「日本国内2位で早稲田大学発の米Nanofiber Quantum Technologies（ナノファイバー・クアンタム・テクノロジーズ、NanoQT）は、米国へ本社機能を移すことで経営や資金調達を優位に進めている」（https://xtech.nikkei.com/atcl/nxt/column/18/03160/041100004/）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/4334062）
+  - 「⚫ （SU投資額）2025年の量子SUへの投資額は2.0兆円、」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf）
+  - 「投資額の内、90％以上が量子コンピュー」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf）
+  - 「• 2025年までの累計政府投資額は約2.3兆円規模 ※(日本の約5倍、」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf）
+  - 「令和8年6月24日 日本成長戦略会議提出資料「戦略１７分野における「主要な製品・技術等」の官民投資ロードマップ（案）」より」（https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/pdf/014_04_02.pdf）
+  - 「PsiQuantum benefiting from over $1B in investment to build quantum computing data centers in Australia and the US (1)」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「PsiQuantum benefiting from over $1B in investment to build quantum computing data centers in Australia and the US (2)」（https://www.idtechex.com/ja/research-report/quantum-computing-market-2025/1053）
+  - 「: The Union government furthered its efforts to build a quantum computing and quantum communication, sensing, and materials ecosystem, including quantum projects, with an investment of â‚¹6,003.65 crore under the National Quantum Mission (NQM).」（https://www.precedenceresearch.com/quantum-computing-market）
+  - 「In May 2026, IBM, GlobalFoundries, D-Wave Quantum, Rigetti Computing, and other quantum firms. The U.S. government announced a USD 2 billion investment in nine quantum computing companies under the CHIPS and Science Act. The initiative includes funding for quantum chip manufacturing, hardware development, and domestic quantum infrastructure to strengthen U.S. leadership in quantum technologies.」（https://www.precedenceresearch.com/quantum-computing-market）
+  - 「In May 2026, IBM announced plans to invest more than USD 10 billion in quantum computing over the next five years to develop a large-scale fault-tolerant quantum computer by 2029. The investment will support quantum hardware development, manufacturing expansion, research, and ecosystem partnerships.」（https://www.precedenceresearch.com/quantum-computing-market）
+  - 「Asia Pacific is the fastest-growing region in the Quantum Computing Market, projected to expand at a CAGR of 25.6% during the forecast period, driven by increasing government investments in quantum research, growing adoption of advanced computing technologies, and expanding quantum initiatives across China, Japan, South Korea, India, and Australia」（https://www.grandviewresearch.com/industry-analysis/quantum-computing-market）
+- 検索結果の抜粋：
+  - 「量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 — 量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社」（https://www.atpress.ne.jp/news/4334062）
+  - 「量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 — 量子コンピュータ市場 分析レポート：2026年164百万米ドル規模 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/4334062）
+  - 「Quantum Computing Market Companies, Size & Trends 2026 ... — Quantum Computing Market Companies, Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/quantum-computing-market）
+  - 「Quantum Computing Market Size & Share Report, 2026-2033 — Quantum Computing Market Size & Share Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/quantum-computing-market）
+  - 「Quantum Computing Market Size & Share 2026-2035 — Quantum Computing Market Size & Share 2026-2035 Global Market Insights Inc. https://www.gminsights.com > quanta...」（https://www.gminsights.com/industry-analysis/quantam-computing-market）
+  - 「Quantum Computing Market Size , Share, Growth, Report, 2034 — Quantum Computing Market Size , Share, Growth, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/quantum-computing-market-104855）
+  - 「Quantum Computing Market Size , Share | CAGR of 37.0% — Quantum Computing Market Size , Share | CAGR of 37.0% Market.us https://market.us > report > quantum-...」（https://market.us/report/quantum-computing-market/）
+  - 「Quantum Computing Market Size , Share, Growth , Report, 2034 — Quantum Computing Market Size , Share, Growth , Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/quantum-computing-market-104855）
+  - 「Quantum Computing Market Size , Share | Industry Report, 2035 — Quantum Computing Market Size , Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/quantum-computing-market-2583）
+  - 「Quantum Computing Market Size, Share, Growth, Report, 2034 — Quantum Computing Market Size, Share, Growth, Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/quantum-computing-market-104855）
+  - 「Quantum Computing Market Size, Share | Industry Report, 2035 — Quantum Computing Market Size, Share | Industry Report, 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/quantum-computing-market-2583）
+  - 「Quantum Computing Market Size & Growth Analysis, 2033 — Quantum Computing Market Size & Growth Analysis, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/quantum-computing-market.asp）
+  - 「Quantum Computing Market Size, Share & Growth Report 2035 — Quantum Computing Market Size, Share & Growth Report 2035 SNS Insider https://www.snsinsider.com > reports」（https://www.snsinsider.com/reports/quantum-computing-market-2740）
+  - 「Quantum Computing Market Companies , Size & Trends 2026 ... — Quantum Computing Market Companies , Size & Trends 2026 ... Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/quantum-computing-market）
+  - 「Quantum Computing Companies in 2026 (76 Major Players) — Quantum Computing Companies in 2026 (76 Major Players) The Quantum Insider https://thequantuminsider.com > top-...」（https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies/）
+
+## 量子暗号通信（quantum key distribution）
+- 文脈：4 量子 ②量子通信
+- 市場規模：
+  - 「量子暗号市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、タイプ別（量子鍵配送（QKD）、量子乱数生成（QRNG）、その他）、サービス別（サポートおよび保守、導入および統合、コンサルティング）、セキュリティタイプ別（データベース暗号化、アプリケーションセキュリティ、ネットワークセキュリティ）、業界別（BFSI、クラウドおよびデータセンター、政府、エネルギーおよび公益事業、ヘルスケア、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「世界の量子暗号市場規模は、2025年には7億7000万米ドルと評価され、2026年の9億8000万米ドルから2034年には66億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.05%となる見込みです」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「欧州の量子暗号市場は、同市場において2番目に大きなシェアを占めています」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子暗号市場規模は、2026年には9億8000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）27.05%で成長し、2034年には66億4000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子暗号市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.05%で成長すると予測されている」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「大規模言語モデル（LLM）市場規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「企業向けLLM市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「ARクラウド市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「市場は、2025年の 11億米ドルから 2034年には 105億米ドルに拡大し、年平均成長率（CAGR）28.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「2024年の市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「COVID-19パンデミックの期間中、量子通信市場は研究開発（R&D）の初期段階にあり、商業導入は非常に少なく、プロジェクトの大半は政府の支援を受けていました」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+- 成長率：
+  - 「量子暗号市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「世界の量子暗号市場規模は、2025年には7億7000万米ドルと評価され、2026年の9億8000万米ドルから2034年には66億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.05%となる見込みです」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子鍵配送（QKD）分野は、様々な分野での利用拡大により、2023年に市場を席巻しました」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「欧州は予測期間中に年平均成長率（CAGR）19.7%で成長すると予測されています」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子暗号市場規模は、2026年には9億8000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）27.05%で成長し、2034年には66億4000万米ドルに達すると予測されている」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子暗号市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.05%で成長すると予測されている」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「市場は、2025年の 11億米ドルから 2034年には 105億米ドルに拡大し、年平均成長率（CAGR）28.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「年平均成長率（2025〜2034年）」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「サービスセグメントは、企業や政府がQKDネットワークの構築、従来型システムとのハイブリッド統合、通信環境の安全な維持に関する専門的な支援を必要としていることから、29%のCAGRで成長しています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「この傾向は2022年頃に現れ始め、2024〜2025年にピークを迎え、組織がパイロットプロジェクトから2030年までに本格導入へ移行するなかで、現在も拡大を続けています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ハイブリッドネットワークセグメントは年平均成長率（CAGR） 33% で成長しています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+- 上位シェア：
+  - 「量子暗号市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子暗号市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、タイプ別（量子鍵配送（QKD）、量子乱数生成（QRNG）、その他）、サービス別（サポートおよび保守、導入および統合、コンサルティング）、セキュリティタイプ別（データベース暗号化、アプリケーションセキュリティ、ネットワークセキュリティ）、業界別（BFSI、クラウドおよびデータセンター、政府、エネルギーおよび公益事業、ヘルスケア、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「アジア太平洋地域は、2025年に36.4%の市場シェアを占め、量子暗号市場を牽引しました」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「欧州の量子暗号市場は、同市場において2番目に大きなシェアを占めています」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「アジア太平洋地域は2025年に36.4%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「大規模言語モデル（LLM）市場規模、シェア、成長率、分析、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「企業向けLLM市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「睡眠時歯ぎしり市場の規模、シェア、成長率、予測（2034年）」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「ARクラウド市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/quantum-cryptography-market）
+  - 「量子通信市場 サイズとシェア 2025 - 2034」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ネットワーク別の量子通信市場シェア、2024年」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+- 主要企業：
+  - 「イスラエルは、大規模なサイバーセキュリティエコシステム、充実した研究エコシステム、量子技術への政府投資の増加を背景に、中東の量子通信市場における主要企業として急速に台頭している」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「量子通信市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「量子通信業界で事業を展開する主要企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「量子通信業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「主要企業には、Aliro Quantum、Arqit Quantum、ID Quantique、KETS Quantum Security、MagiQ Technologies、QuantumCTek、Qubitekk、Quintessence Labs、Thales、Toshibaなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「ID Quantique (IDQ)、QuintessenceLabs、CryptoNext Security、QuSecure, Inc.、PQShield Ltd.などが、世界の量子暗号市場で活動する主要企業です」（https://www.sdki.jp/reports/quantum-cryptography-market/109002）
+  - 「当社の調査レポートによると、量子暗号市場において日本国内で活動している主要企業としては、Toshiba Corporation、NEC Corporation、Mitsubishi Electric Corporation、Quantum ICT Laboratory Inc.、NTT Corporationなどが挙げられます」（https://www.sdki.jp/reports/quantum-cryptography-market/109002）
+  - 「これにより資金調達力と市場展開力で他社をリードし、競合他社が参入しにくい国家規模プロジェクトにも深く関与できる立場を確立しています」（https://www.arts-crafts.co.jp/post-29975/）
+  - 「世界の量子暗号市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market）
+  - 「また、主要メーカーの量子暗号カードの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析、競争状況、CR3、CR5、CR10といった集中度指標（2024年から2026年）、新製品や潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています」（https://www.atpress.ne.jp/news/3091605）
+  - 「Some of the key companies in the market include InfiniQuant, KETS Quantum Security Ltd, Kloch Inc., LuxQuanta Technologies S.L., and others. Organizations focus on increasing their customer base to gain a competitive edge in the industry. Therefore, key players are taking several strategic initiatives, such as mergers and acquisitions, and partnerships with other major companies.」（https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report）
+  - 「Revenue forecast, company ranking, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report）
+  - 「Key companies profiled」（https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report）
+- 投資：
+  - 「大企業セグメントは、2025年から2032年にかけての最も速いCAGRを目撃する予定で、国家安全保障アプリケーションによって推進される主要なドライバであり、量子保護コミュニケーションが着実に成長する公共部門の資金調達が期待されています」（https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market）
+  - 「中国は、2025年にアジア・パシフィック地域において最大の市場シェアを占め、その大規模な建設部門、政府支援スマートシティ・イニシアチブ、NVC照明やOple Lightingなどの大手国内メーカーの存在を指しています」（https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market）
+  - 「2023年12月、BengaluruベースのQNu Labsは、プレシリーズA1の資金調達ラウンドで6億ドルを保証しました」（https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/3091605）
+  - 「North America dominated the quantum key distribution market with a share of 36.8% in 2024. This is attributed to strong government support, early adoption of quantum technologies, and significant cybersecurity investments.」（https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report）
+  - 「In May 2026, the U.S. Department of Commerce announced $2.013 billion in proposed CHIPS and Science Act incentives for nine quantum companies. The funding supports two domestic quantum foundries and seven quantum computing companies, aiming to strengthen U.S. manufacturing, solve key engineering challenges, create jobs, and maintain global leadership in quantum technology.」（https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「The market growth is driven by the need for secure communication across vital sectors and the development of quantum-based encryption technologies. This growth is fueled by advancements in quantum technologies and significant investments in quantum research. The 2023 quantum technology monitor reveals that」（https://www.researchnester.com/reports/quantum-key-distribution-market/5812）
+  - 「could add up to USD 2 trillion in value by 2037 across industries like automotive, chemicals, financial services, and life science. 2022 saw USD3 billion invested in quantum tech startups, spanning computing, communications, and sensing.」（https://www.researchnester.com/reports/quantum-key-distribution-market/5812）
+  - 「North America quantum key distribution (qkd) market will secure over 42% share, driven by the strong presence of key players, substantial quantum technology R&D investments, and a robust cybersecurity landscape, forecast period 2026–2035.」（https://www.researchnester.com/reports/quantum-key-distribution-market/5812）
+  - 「Asia Pacific market will account for 22% share, fueled by significant quantum R&D investments, tech-driven companies leveraging quantum technologies, and rapid advancements in quantum computing, forecast period 2026–2035.」（https://www.researchnester.com/reports/quantum-key-distribution-market/5812）
+  - 「The suite includes a data deliverable; sizing the market and providing key forecast data across 60 plus countries in 8 key regions, including regions of major investment, namely West Europe and Far East & China. Data is also spilt by several different industry segments in the quantum key distribution market, including government and defence, finance, telecommunications, and other sectors.」（https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/）
+  - 「, widespread commercial adoption of space-based QKD is unlikely before 2035, with government and defense sectors continuing to dominate investment throughout the next decade.」（https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/）
+  - 「April-June 2026 - Growing investment in secure quantum communication infrastructure」（https://www.datamintelligence.com/research-report/quantum-cryptography-market）
+  - 「. Simultaneously, the U.S. Quantum Computing Cybersecurity Preparedness Act and the EU's EuroQCI initiative have injected roughly USD 1.2 billion in combined public funding into quantum-safe cryptography migration programs」（https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836）
+  - 「National Quantum Strategy CAD 360M funding」（https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836）
+- 検索結果の抜粋：
+  - 「量子通信市場 の 規模 ・統計レポート、2034年 — 量子通信市場 の 規模 ・統計レポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > quantu...」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「量子通信 市場 の進化と14.6%の CAGR ：2026年から2033年に ... — 量子通信 市場 の進化と14.6%の CAGR ：2026年から2033年に ... LinkedIn https://jp.linkedin.com > pulse > 量子通信-市場の進化と1...」（https://jp.linkedin.com/pulse/%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1-%E5%B8%82%E5%A0%B4%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%A8146%E3%81%AEcagr2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E6%B3%A8%E7%9B%AE%E3%81%99%E3%81%B9%E3%81%8D%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-gambit-guide-8dnbe）
+  - 「量子通信市場 の規模、 シェア 、成長率、分析（2034年まで） — 量子通信市場 の規模、 シェア 、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 情報技術 > 通信」（https://straitsresearch.com/jp/report/quantum-communication-market）
+  - 「量子通信市場 の規模・統計レポート、2034年 — 量子通信市場 の規模・統計レポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > quantu...」（https://www.gminsights.com/ja/industry-analysis/quantum-communications-market）
+  - 「成長している 量子暗号通信 とは？新興・成長 市場 において躍動 ... — 成長している 量子暗号通信 とは？新興・成長 市場 において躍動 ... アーツアンドクラフツ株式会社 - https://www.arts-crafts.co.jp > post-29975」（https://www.arts-crafts.co.jp/post-29975/）
+  - 「2035年までの 量子通信市場 規模、 シェア 、業界の成長 — 2035年までの 量子通信市場 規模、 シェア 、業界の成長 Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術」（https://www.businessresearchinsights.com/jp/market-reports/quantum-communication-market-113933）
+  - 「量子通信市場 の規模、シェア、成長率、分析（2034年まで） — 量子通信市場 の規模、シェア、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 情報技術 > 通信」（https://straitsresearch.com/jp/report/quantum-communication-market）
+  - 「【調査レポート】 量子通信市場 の規模と展望、 2025 年〜2033年 — 【調査レポート】 量子通信市場 の規模と展望、 2025 年〜2033年 (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > quantum-co...」（https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/）
+  - 「Quantum Key Distribution Market Size | Industry Report 2030 — Quantum Key Distribution Market Size | Industry Report 2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report）
+  - 「Quantum Key Distribution Market Report 2024-2030, by ... — Quantum Key Distribution Market Report 2024-2030, by ... MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html）
+  - 「Top 20 Companies in Global Quantum Key Distribution Market — Top 20 Companies in Global Quantum Key Distribution Market Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035）
+  - 「Quantum Key Distribution (QKD) Market Size | CAGR of 30% — Quantum Key Distribution (QKD) Market Size | CAGR of 30% Market.us https://market.us > report > quantum-...」（https://market.us/report/quantum-key-distribution-qkd-market/）
+  - 「Quantum Key Distribution Market Size , Share & 2031 Growth ... — Quantum Key Distribution Market Size , Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market）
+  - 「Quantum Key Distribution Market worth $2.63 billion by 2030 — Quantum Key Distribution Market worth $2.63 billion by 2030 PR Newswire https://www.prnewswire.com > quant...」（https://www.prnewswire.com/news-releases/quantum-key-distribution-market-worth-2-63-billion-by-2030--exclusive-report-by-marketsandmarkets-302369744.html）
+  - 「Quantum Key Distribution Market Size & Growth Report, 2034 — Quantum Key Distribution Market Size & Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470）
+
+## 量子センサ（quantum sensing）
+- 文脈：4 量子 ③量子センシング
+- 市場規模：
+  - 「世界の量子センサー市場は、2025年に市場規模 4億1,460万米ドル、数量 190,491.3台となりました」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「市場規模は 2026年の 4億7,880万米ドルから 2031年には 9億8,940万米ドル、2035年には 13億米ドルに拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「Quantum Sensors Market, By Product Type, 2022-2035 (USD Million)」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「航空宇宙・防衛市場は、2035年までに 4億1,295万米ドルに達すると予測されます」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「米国は量子センサー市場をリードし、2025 年の市場規模は 2,150 万米ドルに達した」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「英国の量子センサー市場は、2035 年までに 7,972 万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「量子センサー市場規模、シェア、トレンド分析レポート：製品別（原子時計、磁気センサー、PAR量子センサー）、用途別（軍事・防衛、自動車）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「世界の量子センサー市場規模は、2025年には7億3000万米ドルと評価され、2026年の8億3000万米ドルから2034年には22億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.24%となる見込みです」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+- 成長率：
+  - 「市場規模は 2026年の 4億7,880万米ドルから 2031年には 9億8,940万米ドル、2035年には 13億米ドルに拡大すると予測されています」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「数量は 621,993.3台に達し、2026〜2035年の予測期間における年平均成長率（CAGR）は 11.7%、金額ベースの年平均成長率は 12.2%となる見込みです」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「年平均成長率（CAGR、2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子イメージングセグメントは、2026年〜2035年の予測期間中に 16.9% の年平均成長率（CAGR）で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「捕捉イオンセグメントは、2026年〜2035年の予測期間中に 11.9% の年平均成長率（CAGR）で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「ヘルスケアセグメントは、2026年〜2035年の予測期間中に 11.3% の年平均成長率（CAGR）で成長すると予測されます」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「カナダは、商用導入の拡大と研究イニシアチブを背景に、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）7.8%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「世界の量子センサー市場規模は、2025年には7億3000万米ドルと評価され、2026年の8億3000万米ドルから2034年には22億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は13.24%となる見込みです」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「アジア太平洋地域の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「磁気センサーは、年平均成長率（CAGR）13.9%で最も速い成長を記録すると予測されている」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「量子センサー市場において、磁気センサー分野は予測期間中に年平均成長率（CAGR）13.9%で最も速い成長を遂げると予測されており、防衛、航法、医療、科学研究、産業用途における高感度磁場測定の需要増加がその原動力となっている」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+  - 「同地域は予測期間中に年平均成長率（CAGR）12.4%で成長すると見込まれています」（https://straitsresearch.com/jp/report/quantum-sensors-market）
+- 上位シェア：
+  - 「量子センサー市場の規模・シェアおよび業界レポート（2035年）」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー市場 サイズとシェア 2026 - 2035」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「ID Quantique（IDQ）が 2025年に 33.1% 超の市場シェアを占め、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「本市場の上位 5 社には、」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「が含まれ、これらの企業が占める市場シェアは 2025年に 62.9% に達しました」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「2025年、北米は量子センサー市場の 35.5%のシェアを占めました」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「Quantum Sensors Market Share, By Platform, 2025」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「中性原子セグメントは、2025年に 30.5% の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「北米の量子センサー市場は 2025 年に 35.5% の市場シェアを占め、2026 年から 2035 年の予測期間中に年平均成長率（CAGR）11.9%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「欧州は 2025 年に世界の量子センサー市場の 28.5%を占めた」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「アジア太平洋地域は、2025 年に世界の量子センサー市場で 24.5%のシェアを占め、予測期間中の年平均成長率（CAGR）が 13.8%となる最も急速に成長する地域である」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「ラテンアメリカの量子センサー市場は、2025年に5.8%のシェアを占め、予測期間中に 7.8%のCAGRで成長すると見込まれる」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「中東・アフリカ（MEA）の量子センサー市場は、2025年に5.7%のシェアを占め、2026〜2035年の予測期間中に 10.8%のCAGRで成長すると見込まれる」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「サウジアラビアは、2025年に47.4%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「UAEは、2025年に市場で20.1%のシェアを占めた」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+- 主要企業：
+  - 「市場の主要企業は、ID Quantique（IDQ）、AOSense, Inc.、Muquans（μQuans）、M Squared Lasers Ltd.、Qnamiである」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー業界で事業を展開する主要企業は、以下のとおりである」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「量子センサー市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「業界の主要企業には、ID Quantique（IDQ）、AOSense Inc.、Muquans（μQuans）、M Squared Lasers Ltd.、Qnamiが含まれます」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market）
+  - 「主要企業リスト」（https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273）
+  - 「ADVA社、AdSense社、Biospherical Instruments Inc.社、GWR Instruments Inc.社、Microchip社、Microsemi Corp.社が世界の量子センサ市場の主要企業です」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「オックスフォード・インストゥルメンツ(英国)、Muquans SAS(フランス)、ID Quantique(スイス)、M Squared Lasers Limited(スコットランド)などは、欧州の量子センサ市場で活躍する主要企業です」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「量子センサー市場の主要企業」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「量子センサー市場の主要企業は以下の通り：」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「量子センサ市場の主要プレイヤーは？」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「量子センサ市場の主要企業には、ADVA、AdSense、Biospherical Instruments Inc.、GWR Instruments Inc.、Microchip、Microsemi Corp.などがあります」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+- 投資：
+  - 「量子技術開発セクターは世界的に著しい成長を遂げており、2022年には投資額が300億米ドルを超えると予想されています」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「2022年、アメリカのヘルスケア産業への投資額は4.1％増加し、4兆5,000億円に達しました」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「ヨーロッパは、大規模な資金調達プログラムと戦略的取り組みの実施を通じて量子センサーの研究と商業化が加速したことにより、予測期間中に35.5％のシェアで量子センサー業界をリードすると予想されています」（https://www.researchnester.jp/industry-analysis/quantum-sensor-market/5943）
+  - 「In 2025, North America accounted for 35.5% share of the quantum sensors market. Strong government support as well as the presence of leading technology companies such as IBM and Google, considerable venture capital investment, and a well-developed talent pipeline from top universities explain the region’s market dominance.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「Germany is anticipated to grow at a 11.4% CAGR during the forecast period 2026 - 2035. Germany is strengthening its position in the European quantum sensor market through heavy investments in R&D infrastructure, public-private collaborations, and industrial integration.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「Saudi Arabia accounted for an 47.4% market share in 2025. Saudi Arabia is advancing in the market through growing investments in defense, energy, and national infrastructure. The Saudi government supports adoption of high-precision sensing technologies through innovation programs.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「The UAE accounted for a share of 20.1% in the market in 2025. The UAE has become one of the strongest adopters of quantum sensors due to the Country's Innovation Strategy, the investment in aerospace, security, and smart infrastructure.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「Supportive government initiatives, public-private partnerships, and increased R&D funding may contribute 15–17% growth, accelerating pilot projects, infrastructure development, and enterprise adoption of quantum sensors.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「North America accounted for 35.5% of the global market in 2025. Regional market leadership is driven by strong government funding, advanced R&D infrastructure, and the presence of leading quantum technology companies.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「The U.S. market was valued at USD 21.50 million in 2025. Market growth is supported by significant public and private investments, defense programs, and strong research ecosystem development.」（https://www.gminsights.com/industry-analysis/quantum-sensors-market）
+  - 「The quantum sensor market is rapidly advancing, fueled by growing demand for ultra-precise measurement tools across navigation, healthcare, and defense sectors. With innovations in quantum mechanics and strong government investments, the market is set to grow at a CAGR of 25.70% from 2025 to 2034, reaching over USD 1.3 billion by 2034.」（https://www.precedenceresearch.com/quantum-sensor-market）
+  - 「In India, the National Quantum Mission (2023–2031) has received funding of INR 6,003.65 crore, supporting quantum sensing and metrology through thematic hubs and research groups to drive innovation and national capabilities.」（https://www.psmarketresearch.com/market-analysis/quantum-sensors-market）
+  - 「In November 2023, QuantumDiamonds GmbH raised USD 7.6 million in seed funding to advance nitrogen-vacancy diamond quantum sensors for nano-scale magnetic field imaging, with applications spanning from medical diagnostics to materials characterization.」（https://www.psmarketresearch.com/market-analysis/quantum-sensors-market）
+  - 「North America was the leader in the Quantum Sensors Market with a 41.7% share of revenues in 2025, driven by classified defense procurement and a robust SBIR/STTR funding pipeline. The Asia-Pacific region is the fastest-expanding region with a projected CAGR of 12.6% through 2035, due to the National Laboratory for Quantum Information Sciences in China and Moonshot R&D Program in Japan」（https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273）
+  - 「(February 2026): Secured a USD 100 Million Series C funding round led by strategic defense investors, earmarked for scaling production of its Tiqker portable atomic clock platform for military and telecom customers」（https://www.marketresearchfuture.com/reports/quantum-sensors-market-5273）
+- 検索結果の抜粋：
+  - 「量子センサー市場規模 、シェア |業界レポート [2034] — 量子センサー市場規模 、シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...」（https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331）
+  - 「量子センサー市場 の 規模 ・シェアおよび業界レポート（2035 ... — 量子センサー市場 の 規模 ・シェアおよび業界レポート（2035 ... Global Market Insights Inc. https://www.gminsights.com > quantum-sensors-market」（https://www.gminsights.com/ja/industry-analysis/quantum-sensors-market）
+  - 「米国 量子センサー市場規模 、2033への予測 - Spherical Insights — 米国 量子センサー市場規模 、2033への予測 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > reports > united-states...」（https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market）
+  - 「量子センサー市場 (2026 – 2035) - Market Research Future — 量子センサー市場 (2026 – 2035) - Market Research Future Market Research Future https://www.marketresearchfuture.com > reports > quantu...」（https://www.marketresearchfuture.com/ja/reports/quantum-sensors-market-5273）
+  - 「量子センサー市場 規模、 シェア |業界レポート [2034] — 量子センサー市場 規模、 シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...」（https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331）
+  - 「量子センサー の 市場 規模、 シェア 、成長、メーカー 2035年 — 量子センサー の 市場 規模、 シェア 、成長、メーカー 2035年 kdmarketinsights.jp https://www.kdmarketinsights.jp > レポート」（https://www.kdmarketinsights.jp/report-analysis/quantum-sensors-market/325）
+  - 「米国 量子センサー市場 規模、2033への予測 - Spherical Insights — 米国 量子センサー市場 規模、2033への予測 - Spherical Insights Spherical Insights https://www.sphericalinsights.com > reports > united-states...」（https://www.sphericalinsights.com/jp/reports/united-states-quantum-sensors-market）
+  - 「量子センサー市場 動向, 株式と予測, 2025-2032 — 量子センサー市場 動向, 株式と予測, 2025-2032 Coherent Market Insights https://www.coherentmarketinsights.com > 量子センサー...」（https://www.coherentmarketinsights.com/ja/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4）
+  - 「量子センサー市場 規模、シェア |業界レポート [2034] — 量子センサー市場 規模、シェア |業界レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 量子センサー...」（https://www.fortunebusinessinsights.com/jp/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4-110331）
+  - 「量子センサー市場 は14.4%の成長を記録 - Market.us Scoop — 量子センサー市場 は14.4%の成長を記録 - Market.us Scoop Market.us Scoop https://scoop.market.us > 量子センサー市場ニュース」（https://scoop.market.us/%E9%87%8F%E5%AD%90%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E5%B8%82%E5%A0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/）
+  - 「量子センサー市場 インテリジェンスレポート2035：売上高予測 — 量子センサー市場 インテリジェンスレポート2035：売上高予測 ドリームニュース https://www.dreamnews.jp > press」（https://www.dreamnews.jp/press/0000355969）
+  - 「量子センサー市場 2025 -2045年：技術、トレンド、有力企業 — 量子センサー市場 2025 -2045年：技術、トレンド、有力企業 IDTechEx https://www.idtechex.com > quantum-sensors-market-2025」（https://www.idtechex.com/ja/research-report/quantum-sensors-market-2025/1063）
+  - 「2026 Market Forecast: Quantum Sensing | QED-C — 2026 Market Forecast: Quantum Sensing | QED-C Quantum Economic Development Consortium https://quantumconsortium.org > 202...」（https://quantumconsortium.org/publication/2026-market-forecast-quantum-sensing/）
+  - 「2025 Market Forecast: Quantum Sensing | QED-C — 2025 Market Forecast: Quantum Sensing | QED-C Quantum Economic Development Consortium https://quantumconsortium.org > 202...」（https://quantumconsortium.org/publication/2025-market-forecast-quantum-sensing/）
+  - 「Top Quantum Sensing Companies in 2026 — Top Quantum Sensing Companies in 2026 The Quantum Insider https://thequantuminsider.com > over...」（https://thequantuminsider.com/2026/04/10/overview-15-plus-key-quantum-companies-2026/）
+
+## 軍用ドローン（military drone）
+- 文脈：5 防衛 ①小型無人航空機
+- 市場規模：
+  - 「軍用ドローン市場規模・予測レポート 2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローン市場は2025年に182億米ドルと評価され、2026年には209億米ドルに達すると予測されている」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2035年の市場規模予測」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場規模：プラットフォームタイプ別、2025年・2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「徘徊型弾薬の市場規模は2025年に2億3,300万米ドルで、2035年までに24.9億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「The Defense News. “U.S. Navy Awards Boeing $562 Million Contract for First Production MQ-25A Stingray Tanker Drones.” thedefensenews.com」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローン市場の市場規模は2025年に182億米ドルと推定され、2026年には209億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本の軍用ドローン市場は、2037年まで安定した成長が見込まれています」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+  - 「2024年の日本の軍用ドローン市場規模は1,608億米ドルでした」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+  - 「世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「小型ドローン市場は、低コスト、迅速な生産、大量展開への適性といった利点を背景に、予測期間中に12%の成長率で拡大すると見込まれています」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「ペイロード150kg未満のドローン市場は、軽量で低コスト、かつ容易に展開可能なドローンへの需要の高まりを背景に、予測期間中に年平均成長率（CAGR）12%で成長すると見込まれています」（https://straitsresearch.com/jp/report/military-drone-market）
+- 成長率：
+  - 「2026年から2035年にかけて年平均成長率（CAGR）12.9%で拡大し、2035年には623億米ドルに達する見通しである」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2027会計年度までDoDのUAS予算が持続的に拡大すれば、北米市場の売上高は予測期間の早い段階で高い年平均成長率（CAGR）を示す」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「自律システムの導入によりプラットフォーム当たりの実質ASPが上昇し、2035年まで売上高のCAGRが販売台数のCAGRを上回る」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2026年8月のBISによる航続時間のしきい値規則を含む輸出管理の自由化措置により、対象市場は段階的に拡大するものの、2026〜2030年の予測期間内に競争力の差が解消されることはない」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「MALEプラットフォームは2035年までに193億3,000万米ドルに達し、2026〜2035年に年平均成長率（CAGR）14.3%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「電子戦は2025年に14.6億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）15.5%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「13.2%のCAGR」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+  - 「軍用ドローン市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「世界の軍用ドローン市場規模は、2025年には242億5000万米ドルと評価され、2026年の269億7000万米ドルから2034年には630億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.2%となる見込みです」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「アジア太平洋地域は、予測期間中に年平均成長率（CAGR）13.40%で成長すると予想されている」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「用途別に見ると、配送分野は予測期間中に年平均成長率（CAGR）10%を記録すると推定される」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「速度別に見ると、超音速セグメントは予測期間中に年平均成長率（CAGR）11%で成長すると予測されている」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「推進方式別に見ると、バッテリー駆動ドローン分野は予測期間中に年平均成長率（CAGR）12.40%で成長すると予想されている」（https://straitsresearch.com/jp/report/military-drone-market）
+- 上位シェア：
+  - 「軍用ドローン市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「この市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「2018年以降、世界の武装軍用ドローン移転に占める米国の割合はわずか8%にとどまっている（CNAS Drone Proliferation Dataset）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「HALEプラットフォームは2025年に56億6,000万米ドルの売上を生み、2035年までに市場収益の22.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「TUAV/MUAVプラットフォームは2025年に56.2億米ドルを生み出し、2035年には市場収益の30.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「SUASプラットフォームの2025年の市場シェアは9.0%で、2026〜2035年の年平均成長率（CAGR）は17.3%と予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「ISR/偵察は2025年に100.3億米ドルを生み出し、2035年には市場収益の42.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場シェア（用途別）、2025年」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「攻撃・戦闘用途は2025年の市場収益の28.0%を占め、2035年には237億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「物流・輸送は、2025年に市場売上高の5.0%を占め、2035年には37.4億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「通信中継は2025年に7億2,900万米ドルの売上高を生み、2035年には市場売上高の4.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「地域別軍事用ドローン市場シェア（2025年・2035年）」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「北米は2025年に軍事用ドローン市場の売上高の38.2%を占め、2035年には233.8億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「日本の軍用ドローン市場調査、規模、シェア、傾向、予測2037年」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+  - 「ロシアの軍事負担（GDPに占める軍事費の割合）は2023年に5.9%となり、軍事費は政府支出全体の16%を占めました」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+- 主要企業：
+  - 「軍用ドローン市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローン市場の主要企業には、IAI、Northrop Grumman、Thales Group、Elbit Systems、General Atomicsなどがある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「競争優位を維持し、市場シェアを拡大​​するため、世界の軍用ドローン業界の主要企業は最先端技術に注力しています」（https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93）
+  - 「北米：UAV研究開発への大規模投資と主要企業の存在が市場支配力を牽引」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「軍用ドローン市場の分析では、主要な市場動向、世界および地域的な枠組み、主要企業、規制、および最近の市場動向を網羅しています」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「軍用ドローン市場における市場集中度、ヒートマップ分析、主要企業、および最近の動向を網羅した業界概況と競争分析」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「ゼネラルアトミック・エアロシステム株式会社、ノースロップ・グルムマン株式会社、ロックヒード・マーティン株式会社、ボーイング、エアロビロンメント株式会社、テクトロンシステムズ株式会社、イスラエルエアロスペース・インダストリーズ株式会社、タレスグループ、BAEシステムズ、SAABグループ、ベイカール、トルコ航空産業(タイ)、ZALAエアログループ、シールドAIは主要プレイヤーです」（https://www.coherentmarketinsights.com/ja/%E8%BB%8D%E4%BA%8B%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「世界の軍用ドローン市場市場の主要企業はどこですか？」（https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market）
+  - 「市場の主要企業には、」（https://www.databridgemarketresearch.com/jp/reports/global-military-drones-market）
+  - 「世界の防衛用ドローン市場の成長に重要な役割を果たす主要な主要企業には、DroneShield Limited、Dedrone Holdings, Inc.、HENSOLDT AG、ORELIA GROUP、Advanced Protection Systems S.A.などが含まれます」（https://www.sdki.jp/reports/defense-drone-market/116417）
+  - 「この調査には、世界の防衛用ドローン市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/defense-drone-market/116417）
+  - 「本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析によるセグメント、ベンダー情勢が含まれています」（https://www.atpress.ne.jp/news/7108434）
+  - 「Teal Drones、Shield AI、ザ・ボーイング・カンパニー、DJI、タレス・グループ、AeroVironment Inc、ノースロップ・グラマン、エルビット・システムズなどは、日本の軍事用ドローン市場における主要企業の一部です」（https://www.surveyreports.jp/industry-analysis/japan-military-drone-market/1038276）
+- 投資：
+  - 「NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「米国は世界の無人航空機（UAV）研究開発費の80%以上、調達額の55%以上を占めており、比類のない供給力とイノベーション能力を反映している」（https://straitsresearch.com/jp/report/military-drone-market）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/7108434）
+  - 「NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int」（https://www.gminsights.com/industry-analysis/military-drone-market）
+  - 「Programs that front-load certification investment and secure multi-nation type acceptance early maintain schedule advantage; those that do not face structural delivery delays that redistribute revenue across the 2026-2032 window」（https://www.gminsights.com/industry-analysis/military-drone-market）
+  - 「The U.S. Department of State approved a USD 131 million Foreign Military Sale to India for the Indo-Pacific Maritime Domain Awareness program through the DSCA. Investments in maritime domain awareness increase demand for long-endurance surveillance drones equipped with advanced ISR payloads for persistent maritime monitoring.」（https://www.marknteladvisors.com/research-library/military-drone-market.html）
+  - 「In 2025, 22 NATO Allies are expected to spend at least 2% of GDP on defense, compared with only three Allies in 2014.Higher defense spending across NATO members is accelerating investments in ISR platforms, combat UAVs, and autonomous military technologies.」（https://www.marknteladvisors.com/research-library/military-drone-market.html）
+  - 「Rising investments from major players such as the U.S. DoD's Replicator initiative, NATO modernization programs, and partnerships between defense contractors and tech firms are accelerating R&D in stealth, 5G-enabled real-time communication, and counter-drone defenses.」（https://www.grandviewresearch.com/industry-analysis/military-drone-market-report）
+  - 「The intelligence, surveillance, and reconnaissance (ISR) dominated the market in 2025, driven by rising defense investments in real-time battlefield awareness, miniaturized high-resolution sensors, and AI-enhanced」（https://www.grandviewresearch.com/industry-analysis/military-drone-market-report）
+  - 「The Fully Autonomous segment is the fastest-growing technology tier, driven by U.S. DoD's Replicator Initiative, DARPA's swarm programs, and analogous PLA investments enabling AI-guided mass drone deployment through 2033.」（https://www.persistencemarketresearch.com/market-research/military-drone-market.asp）
+  - 「Expanding drone roles in military logistics, cargo resupply, and AI-enabled swarm operations represent high-growth revenue streams, underpinned by U.S. Army ExLF and NATO multi-domain operations doctrine investments through 2033.」（https://www.persistencemarketresearch.com/market-research/military-drone-market.asp）
+  - 「U.K. government announced a military drone investment exceeding GBP 5 billion over four years on June 29, 2026, as part of its defense investment plan. The program includes project NYX, targeting up to 24 autonomous armed drones by 2030.」（https://straitsresearch.com/report/military-drone-market）
+  - 「£350 million investment」（https://www.maximizemarketresearch.com/market-report/military-drone-technology-market/201122/）
+  - 「3.3.1 Dependence on government budgets and reconciliation funding」（https://www.emergenresearch.com/industry-report/military-drones-market）
+- 検索結果の抜粋：
+  - 「軍用ドローン市場規模 ・予測レポート 2026〜2035年 — 軍用ドローン市場規模 ・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] — 軍用ドローン市場規模 、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 — 軍用ドローン 市場： 市場規模 ・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「軍用ドローン市場 規模・予測レポート 2026〜2035年 — 軍用ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] — 軍用ドローン市場 規模、 シェア 、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 — 軍用ドローン市場 ： 市場 規模・需要と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > military-drone-market」（https://www.theinsightpartners.com/ja/reports/military-drone-market）
+  - 「軍用ドローン の世界 市場 2025 ～2029年 - アットプレス — 軍用ドローン の世界 市場 2025 ～2029年 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/7108434）
+  - 「軍用ドローン市場 規模、シェア、動向 |成長レポート [2034] — 軍用ドローン市場 規模、シェア、動向 |成長レポート [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 軍用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E8%BB%8D%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102181）
+  - 「Military Drones Market Size , Forecasts Report 2026-2035 — Military Drones Market Size , Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > militar...」（https://www.gminsights.com/industry-analysis/military-drone-market）
+  - 「Military Drones Market Companies, Size & Trends 2026-2035 — Military Drones Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...」（https://www.precedenceresearch.com/military-drones-market）
+  - 「Military Drone Market Analysis, Size , and Forecast 2026-2030 — Military Drone Market Analysis, Size , and Forecast 2026-2030 Technavio https://www.technavio.com > report」（https://www.technavio.com/report/military-drone-market-analysis）
+  - 「Military Drone Market Size , Share, Trends, Growth Report, 2034 — Military Drone Market Size , Share, Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/military-drone-market-102181）
+  - 「Military Drones Market Size, Forecasts Report 2026-2035 — Military Drones Market Size, Forecasts Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > militar...」（https://www.gminsights.com/industry-analysis/military-drone-market）
+  - 「Military Drone Market Trends, Size & Forecast to 2032 — Military Drone Market Trends, Size & Forecast to 2032 Markntel Advisor https://www.marknteladvisors.com > ...」（https://www.marknteladvisors.com/research-library/military-drone-market.html）
+  - 「Military Drone Market Size, Share , Trends, Growth Report, 2034 — Military Drone Market Size, Share , Trends, Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/military-drone-market-102181）
+
+## 防衛装備品（defense equipment）
+- 文脈：5 防衛 ③デュアルユース
+- 市場規模：
+  - 「世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「イスラエルの軍事産業は2023年も好調で、2022年の輸出額は125億ドルに達し、前年比20%増となった」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「財務省はまた、ハマスとの戦いが続くため、イスラエルは来年、国防費を少なくとも300億シェケル（83億ドル）増やす必要があるかもしれないと述べている」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.4%で成長すると予測されている」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「砲弾市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「係留式飛行船システム市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「日本防衛市場は、2025年の360億米ドルから2035年には594億8000万米ドルに達すると予測されており、2026年から2035年の予測期間にかけて年平均成長率（CAGR）5.2％で拡大すると見込まれています」（https://www.dreamnews.jp/press/0000356483）
+  - 「日本産業用除湿機市場は2035年に35億米ドル規模へ拡大｜CAGR 5.05％、省エネ型除湿技術・スマート湿度制御・産業施設の品質管理強化が新たな成長機会を創出」（https://www.dreamnews.jp/press/0000356483）
+  - 「固定翼VTOL UAV市場は2035年に71億6,000万米ドルへ｜CAGR 19.7％で成長、滑走路不要の運用性能・長時間飛行・自律航行技術が軍事偵察、国境監視、商用ドローン市場の成長機会を創出」（https://www.dreamnews.jp/press/0000356483）
+  - 「繊維リサイクル市場は2035年に165億8000万米ドル規模へ｜CAGR 6.6％、繊維廃棄物の再資源化・循環型経済への移行が生み出す成長機会と技術革新」（https://www.dreamnews.jp/press/0000356483）
+  - 「2023 年度から 2027 年度までの 5 年間における防衛力整備の金額は 43 兆円程度と、過去最大」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+  - 「43兆円程度（前計画の約1.5倍）」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+  - 「2. 国内防衛産業の市場規模および企業収益の動向」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+  - 「（1）国内防衛産業の市場規模」（https://www.smtb.jp/-/media/tb/personal/useful/report-economy/pdf/173_3.pdf）
+- 成長率：
+  - 「防衛装備品市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「世界の防衛装備品市場規模は、2025年には5,637億2,000万米ドルと評価され、2026年の5,885億2,000万米ドルから2034年には8,305億5,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%となる見込みです」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「アジア太平洋地域は、予測期間中に年平均成長率（CAGR）4.8%を示すと予想されています」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「イスラエルの軍事産業は2023年も好調で、2022年の輸出額は125億ドルに達し、前年比20%増となった」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場の規模は、2026年には5,885億2,000万米ドルと評価され、2034年までに8,305億5,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.4%である」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.4%で成長すると予測されている」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「砲弾市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「銃器および付属品市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「日本防衛市場予測2035：CAGR 5.2％で持続成長、2035年に594億8000万米ドル規模へ拡大―防衛装備近代化、AI・サイバー防衛、無人システム、防衛産業イノベーションが市場成長を牽引 | Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社のプレスリリース」（https://www.dreamnews.jp/press/0000356483）
+  - 「日本防衛市場予測2035：CAGR 5.2％で持続成長、2035年に594億8000万米ドル規模へ拡大―防衛装備近代化、AI・サイバー防衛、無人システム、防衛産業イノベーションが市場成長を牽引」（https://www.dreamnews.jp/press/0000356483）
+  - 「と予測され、2026年から2035年の予測期間における年平均成長」（https://www.dreamnews.jp/press/0000356483）
+  - 「率（CAGR）は5.2％」（https://www.dreamnews.jp/press/0000356483）
+  - 「特にF-35戦闘機の配備拡大や「グローバル・コンバット・エア・プログラム（GCAP）」への投資は、AI統合型ネットワーク、センサー統合、ステルス性能強化を通じ、航空防衛の高度化を促進しています」（https://www.dreamnews.jp/press/0000356483）
+- 上位シェア：
+  - 「防衛装備品市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場の規模、シェア、トレンド分析レポート：製品タイプ別（高機動車両、小火器・ライフル、重火器・ミサイル、無人車両、通信システム、海軍艦隊、航空機・航空エンジン、潜水艦、訓練・シミュレーション）、用途別（空軍、海軍、陸軍、研究開発イニシアチブ）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「北米は、2025年の市場シェア38.4%で防衛装備品市場を牽引しました」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「北米の防衛装備品産業のシェアは、予測期間中に年平均成長率（CAGR）4.2%で成長すると推定されています」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「2023年現在、イスラエルには150以上の防衛関連企業が活動しており、世界の武器輸出の2.3%を占めている」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「北米は2025年時点で38.4%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「砲弾市場規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「銃器および付属品市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「巡航ミサイル市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「係留式飛行船システム市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「先進ミサイル防衛システム市場の規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「地上配備型スマート兵器市場の規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「日本防衛市場では、防空プラットフォームが依然として最大のセグメントを占め、2025年には防衛費総額の約34％を占める見込みです」（https://www.dreamnews.jp/press/0000356483）
+  - 「防衛市場の構成要素別では、ハードウェアが依然として最大のシェアを占め、2025年には市場総額の約42％に相当すると予測されています」（https://www.dreamnews.jp/press/0000356483）
+  - 「技術別では、レーダー、センシング、通信技術が防衛投資の中心であり、2025年の技術支出総額の約22％を占める見込みです」（https://www.dreamnews.jp/press/0000356483）
+- 主要企業：
+  - 「業界の主要企業は、次世代兵器システムの開発に向けて研究開発に多額の投資を行っており、これらのシステムは世界中の政府機関や軍事組織から高い需要があります」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「この市場で事業を展開する主要企業には、設計・製造からライフサイクルサポート、近代化プログラムまでエンドツーエンドのソリューションを提供するグローバル防衛請負業者や造船会社が含まれます」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「主要企業は、推進システムの技術革新のための研究開発に巨額の投資を行うことで、航空機の性能向上を図っています」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「主要企業のリスト：」（https://www.dreamnews.jp/press/0000356483）
+  - 「この政策的追い風は、新規参入企業や既存の防衛サプライヤーにとって、大規模な市場機会を創出します」（https://www.dreamnews.jp/press/0000356483）
+  - 「Kawasaki Heavy Industries, Ltd., Mitsubishi Heavy Industries, Ltd., ShinMaywa Industries, Ltd., The Japan Steel Works, Ltd.が日本防衛市場で事業を展開している主要企業です」（https://www.marketresearch.co.jp/insights/defense-market-mordor/）
+  - 「さらに、このレポートでは、主要企業すべての詳細なプロファイルも掲載しています」（https://newscast.jp/news/1461688）
+  - 「Competitive Landscape」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「Key Players」（https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market）
+  - 「The market is severely consolidated as a few major players hold large shares.」（https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market）
+  - 「Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.」（https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market）
+  - 「Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights」（https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market）
+  - 「70. Defense Market Competitive Landscape and Company Profiles」（https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ）
+  - 「70.1. Defense Market Competitive Landscape and Market Share 2024」（https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ）
+- 投資：
+  - 「防衛費全体の予算の動向を鑑みると、2023年以降の防衛装備品の調達額が、大幅に上昇することが予想されます」（https://www.ohmae.ac.jp/mbaswitch/domestic-defense/）
+  - 「2022年度の全調達額（1.72兆円）に占めるシェアを見ると、三菱重工が21.2％を占めており、以降川崎重工9.8％、日本電気（5.5％）、三菱電機（4.4％）と続きます」（https://www.ohmae.ac.jp/mbaswitch/domestic-defense/）
+  - 「投資先を決定する上での柱の一つとするVC4社を招聘し、当該4社からスタートアップ企業の選定時の着眼点や投資等の基準のほか、」（https://www.mod.go.jp/j/policy/agenda/meeting/drastic-reinforcement/pdf/siryo03_02.pdf）
+  - 「The research and development initiatives segment is likely to grow at a CAGR of 7.4% during the forecast period, fueled by investments in advanced defense technologies, next-generation equipment, and improvements in military capabilities.」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「U.S. Department of Defense's FY 2026 budget request allocates substantial funding to strategic weapons and major platforms, including USD 11.48 billion for Columbia-class submarines and USD 10.293 billion for the B-21 bomber program. These planned expenditures could support defense equipment procurement, advanced manufacturing, and modernization across the domestic defense supply chain.」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「U.K. government's defence investment Plan is backed by GBP 298 billion in investment over four years, with priorities including military readiness, equipment modernization, domestic industry, and european security. This planned investment could support procurement contracts, equipment development, and manufacturing opportunities for british defence suppliers.」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「69. Defense Market Regulatory and Investment Landscape」（https://www.researchandmarkets.com/reports/5939633/defense-market-report?srsltid=AYCX9vKstHTeBV_om2CL9-t1J0-RknQg-k-THuRDG4IE4dvrQJxPfSpQ）
+  - 「69. Land Based Defense Equipment Market Regulatory and Investment Landscape」（https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr）
+  - 「69. Land Based Defense Equipment Market Regulatory and Investment Landscape」（https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX）
+  - 「Renewed strategic focus and targeted technology investments could be essential to maintaining a competitive edge in 2026」（https://www.deloitte.com/us/en/insights/industry/aerospace-defense/aerospace-and-defense-industry-outlook.html）
+  - 「69. Land Based Defense Equipment Market Regulatory and Investment Landscape」（https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJB515E7wf0s5AaGWueIn-S5byfVccFZzzXIqxdbDKHQ95WSWMn）
+- 検索結果の抜粋：
+  - 「防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の 規模 、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） — 防衛装備品市場 の規模、 シェア 、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「防衛装備品市場 の規模、シェア、成長率、予測（2034年まで） — 防衛装備品市場 の規模、シェア、成長率、予測（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 防衛」（https://straitsresearch.com/jp/report/defence-equipment-market）
+  - 「Defense Equipment Market Size , Share, Growth, Forecast, 2034 — Defense Equipment Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「U.S. Defense Equipment Market Outlook & Forecast to, 2032 — U.S. Defense Equipment Market Outlook & Forecast to, 2032 P&S Intelligence https://www.psmarketresearch.com > ...」（https://www.psmarketresearch.com/market-analysis/us-defense-equipment-market）
+  - 「Defense Equipment Market Size , Share, Growth , Forecast, 2034 — Defense Equipment Market Size , Share, Growth , Forecast, 2034 Straits Research https://straitsresearch.com > report > d...」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「Land based Defense Equipment Market Size & Forecast to 2030 — Land based Defense Equipment Market Size & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vIFARJngtktmD-gvg2O6r8jl0GIxL2HYX_tH-w72XWmimCFAYqr）
+  - 「Defense Equipment Market Size, Share, Growth, Forecast, 2034 — Defense Equipment Market Size, Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...」（https://straitsresearch.com/report/defence-equipment-market）
+  - 「Land based Defense Equipment Market Size & Forecast to 2030 — Land based Defense Equipment Market Size & Forecast to 2030 Research and Markets https://www.researchandmarkets.com > ...」（https://www.researchandmarkets.com/report/land-based-defense-equipment?srsltid=AYCX9vJEpwqjkbzseV1JA9e38JH_z1XIWAiSYNuFfvYJ_XUHieBWMfgX）
+  - 「Defense Equipment Market Size, Share , Growth, Forecast, 2034 — Defense Equipment Market Size, Share , Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > d...」（https://straitsresearch.com/report/defence-equipment-market）
+
+## 民間航空機（commercial aircraft）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 市場規模：
+  - 「2023年に1,316億米ドルと推定される民間航空機の世界市場は、2023年から2030年にかけてCAGR 3.8%で成長し、2030年には1,707億米ドルに達すると予測されます」（https://japan.cnet.com/release/31054272/）
+  - 「米国市場は356億米ドルと推定、中国はCAGR6.4%で成長予測」（https://japan.cnet.com/release/31054272/）
+  - 「米国の民間航空機市場は2023年に356億米ドルと推定されます」（https://japan.cnet.com/release/31054272/）
+  - 「世界第2位の経済大国である中国は、2030年までに349億米ドルの市場規模に達すると予測され、分析期間2023-2030年のCAGRは6.4%です」（https://japan.cnet.com/release/31054272/）
+  - 「民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み | Report Oceanのプレスリリース」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「2022年03月26日にREPORTOCEANが発行した新しいレポートによると、-民間航空機市場は、2022-2030年の予測期間において4.24%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「2021年の世界の民間航空機市場規模は1,336億4,000万米ドルでした」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「世界の民間航空機市場規模は、2022年から2030年までの予測期間において年平均成長率（CAGR）4.24％で成長し、2030年には1947億6000万米ドルに達すると予測されます」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「民間航空機の市場規模 2020年」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「 航空宇宙工業の生産額をみると、日本は約1.8兆円で、米国の約10分の１、英・仏・独等の約３分の１である（図表8)」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 製造品出荷額等：1.9兆円」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 製造品出荷額等：54.6兆円」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「2. 自動車より市場は小規」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「世界市場は約130兆円規模に達する」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+- 成長率：
+  - 「2023年に1,316億米ドルと推定される民間航空機の世界市場は、2023年から2030年にかけてCAGR 3.8%で成長し、2030年には1,707億米ドルに達すると予測されます」（https://japan.cnet.com/release/31054272/）
+  - 「本レポートで分析したセグメントの1つであるナローボディ航空機は、CAGR 3.9%を記録し、分析期間終了時には932億米ドルに達すると予測されます」（https://japan.cnet.com/release/31054272/）
+  - 「ワイドボディ航空機セグメントの成長率は、分析期間でCAGR 3.4％と推定されます」（https://japan.cnet.com/release/31054272/）
+  - 「米国市場は356億米ドルと推定、中国はCAGR6.4%で成長予測」（https://japan.cnet.com/release/31054272/）
+  - 「世界第2位の経済大国である中国は、2030年までに349億米ドルの市場規模に達すると予測され、分析期間2023-2030年のCAGRは6.4%です」（https://japan.cnet.com/release/31054272/）
+  - 「その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.0%と3.1%と予測されています」（https://japan.cnet.com/release/31054272/）
+  - 「欧州では、ドイツがCAGR 2.5%で成長すると予測されています」（https://japan.cnet.com/release/31054272/）
+  - 「民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み | Report Oceanのプレスリリース」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「民間航空機市場は2030年まで年平均成長率4.24％で成長する見込み」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「2022年03月26日にREPORTOCEANが発行した新しいレポートによると、-民間航空機市場は、2022-2030年の予測期間において4.24%以上の健全な成長率が見込まれています」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「世界の民間航空機市場規模は、2022年から2030年までの予測期間において年平均成長率（CAGR）4.24％で成長し、2030年には1947億6000万米ドルに達すると予測されます」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「年間、年率約５％での成長が見込まれている」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「（年平均4.6％の伸び率）、貨物需要は2.2倍（同4.1％/年）と大きく伸長する見込みである（図表1，図表2）」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 世界の民間航空機市場は、今後20年間、年率約５％での成長が見込まれており、世界の航空機の総納入機数」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「民航分野に受注は拡大し、JISQ9100や、Nadcap認」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+- 上位シェア：
+  - 「別のジェット旅客機生産台数予測は、A320neoとＢ737MAX等の細胴機の需要が全体の約７割を占める」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 また、売上上位20社が100社総売上の77％を占める寡占市場である（図表」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 売上が上位の日本企業はごく一部である（図表15）」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「【図表14.世界の航空機トップ100に対するトップ20のシェア】」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 世界の受注機数シェアは、ボーイング（米）とエアバス（仏）２社で全体の９割を占める」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「のメーカー別シェア】（2016年）」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 エンジン市場は、GEが世界市場の約３割のシェアを占める」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 日本では、国内主要３社の世界シェアはあわせて約6％」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「【図表19.主要エンジンメーカーの売上シェア】」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「の３社が約７割のシェア」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「を分子に、また後述する業界の市場規模を分母にして、2025年の旅客機・航空機・リージョナルジェット業界の市場シェアを簡易に試算しますと、1位はエアバス、2位はボーイング、3位はゼネラルダイナミクスとなります」（https://deallab.info/aircraft/）
+  - 「旅客機・航空機・リージョナルジェット業界の市場シェア(2025年) ©2026 Deallab」（https://deallab.info/aircraft/）
+  - 「旅客機・航空機・リージョナルジェットの世界市場シェアと業界ランキング(2025年) ©2026 Deallab」（https://deallab.info/aircraft/）
+  - 「2025年も、欧州のエアバス（Airbus）が首位を堅持しています」（https://deallab.info/aircraft/）
+  - 「主力の単通路機A320neoファミリーはバックログ（受注残）が過去最高を記録しており、ボーイング737とのシェア争いで圧倒的な優位性を築いています」（https://deallab.info/aircraft/）
+- 主要企業：
+  - 「世界の民間航空機市場における主な企業は以下の通りです:」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「ポイント２．航空機産業の主要プレイヤーとサプライチェーンの特徴は？…………………P .12」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 民間航空機製造に関わる世界の主要プレイヤーやグローバルサプライチェーンについ」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「注釈*）1：主要企業の売上高合計（2012年）Airline Businessより、2：主要航空企業の燃料支出合計（推計）（2012年）IATAより、3,4,5：主要企業の売上高合計」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「（2010年）現代航空論より、6：主要企業の保有機材価値（2013年現在）、Airline Businessより、7:主要企業の売上高合計（2012年）Airline Businessより」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「ポイント２．航空機産業の主要プレイヤーとサプライチェーンの特徴は？」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 航空機産業の主要プレイヤーは、完成機メーカーのボーイング（売上第一位）やエ」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「主要プレイヤー」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 民間航空機産業は、構成部位別にみると、機体・エンジン・装備品に大別され、構成部位別に主要プレイヤーが異なっているが、」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「．民間航空機製造に関わる主要プレイヤー」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「【図表16.航空機産業のメーカー俯瞰図】※下線は主な企業、赤字は国内メーカー」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「航空機産業の主要プレイヤーと」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「民間航空機製造に関する主要プレイヤー」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「 航空機産業の主要プレイヤーは、欧米企業が中心であるが、競争が激化し、合併・買収等によって上位企業」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+  - 「うかを明確に決めて、自社が参入する時期を設定する」（https://www.kanto.meti.go.jp/seisaku/kouku_uchu/data/doko_timing.pdf）
+- 投資：
+  - 「(then CEO of Boeing) accused Airbus of abusing a 1992 bilateral EU-US agreement regarding large civil aircraft support from governments. Airbus is given reimbursable launch investment (RLI, called "launch aid" by the US) from European governments with the money being paid back with interest, plus indefinite royalties if the aircraft is a commercial success.」（https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing）
+  - 「, and in particular the form of R&D contracts that benefit Boeing; as well as funding from US states such as Washington, Kansas, and Illinois, for the development and launch of Boeing aircraft, in particular, the 787.」（https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/global-commercial-aircraft-market）
+- 検索結果の抜粋：
+  - 「民間航空機市場規模 （2026年～2033年）：レポートには年間 ... — 民間航空機市場規模 （2026年～2033年）：レポートには年間 ... LinkedIn https://jp.linkedin.com > pulse > 民間航空機市場規模202...」（https://jp.linkedin.com/pulse/%E6%B0%91%E9%96%93%E8%88%AA%E7%A9%BA%E6%A9%9F%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A12026%E5%B9%B42033%E5%B9%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AB%E3%81%AF%E5%B9%B4%E9%96%93cagr-136%E3%81%A7%E3%81%AE%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AE%E6%88%90%E9%95%B7%E3%81%8C%E3%81%99%E3%81%B9%E3%81%A6%E5%90%AB%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-xenovantab-vkxie）
+  - 「民間航空機市場 は2030年まで年平均成長率4.24％で成長する ... — 民間航空機市場 は2030年まで年平均成長率4.24％で成長する ... PR TIMES https://prtimes.jp > 調査レポート」（https://prtimes.jp/main/html/rd/p/000005818.000067400.html）
+  - 「ボーイング、今後20年間の 民間航空機 の新造機需要を約4万 ... — ボーイング、今後20年間の 民間航空機 の新造機需要を約4万 ... ボーイング ジャパン https://www.boeing.jp > プレスリリース」（https://www.boeing.jp/press-releases/2025/boeing-20-year-forecast）
+  - 「2025 年度 民間航空機 部門の受注数・納入数を発表 エアバス — 2025 年度 民間航空機 部門の受注数・納入数を発表 エアバス 観光経済新聞 https://www.kankokeizai.com > トラベル」（https://www.kankokeizai.com/2601252100kks/）
+  - 「Commercial Aircraft Market Share & Size Overview, 2031 — Commercial Aircraft Market Share & Size Overview, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/commercial-aircraft-market）
+  - 「Commercial Aircraft Market Size , Share | Growth Report [2034] — Commercial Aircraft Market Size , Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356）
+  - 「Global Commercial Aircraft Market Size , Share 2025 -2034 — Global Commercial Aircraft Market Size , Share 2025 -2034 Custom Market Insights https://www.custommarketinsights.com > ...」（https://www.custommarketinsights.com/report/commercial-aircraft-market/）
+  - 「Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 — Commercial Aircraft Market Size & YoY Growth Rate, 2026-2033 Coherent Market Insights https://www.coherentmarketinsights.com > market-insight」（https://www.coherentmarketinsights.com/market-insight/commercial-aircraft-market-5304）
+  - 「Commercial Aircraft Market Size, Share | Growth Report [2034] — Commercial Aircraft Market Size, Share | Growth Report [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/commercial-aircraft-market-115356）
+  - 「Commercial Aircraft Market Forecast 2026 - 2033 — Commercial Aircraft Market Forecast 2026 - 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/commercial-aircraft-market.asp）
+  - 「Global Commercial Aircraft Market Size, Share 2025 -2034 — Global Commercial Aircraft Market Size, Share 2025 -2034 Custom Market Insights https://www.custommarketinsights.com > ...」（https://www.custommarketinsights.com/report/commercial-aircraft-market/）
+
+## 航空機エンジン（aircraft engine）
+- 文脈：6 航空・宇宙 ①民間航空機
+- 市場規模：
+  - 「航空機エンジン市場規模、シェア、業界レポート、2035年」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「世界の航空機エンジン市場は、2025年に867億米ドルと評価されました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2026年の927億米ドルから2031年には1,382億米ドル、2035年には2,033億米ドルへと、予測期間中にCAGR 9.1%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「2025年市場規模」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「2026年市場規模」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「2035年予測市場規模」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「タイプ別航空機エンジン市場規模、2022-2035年(10億米ドル)」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「民間航空機セグメントは、61%以上の市場シェアを占め、2025年には496億米ドルの市場規模となりました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約8.1%のCAGRで成長すると予想されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「将来の年には、市場は約1,104億米ドルの価値に達する見込みです」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「しかし、当社の調査アナリストによると、基準年の市場規模は約762億米ドルと記録されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「航空機エンジンに関する当社の市場見通しによると、北米の市場は予測期間中に約 33% の主要市場シェアを維持すると予想されますが、欧州の市場は主に航空宇宙産業への投資の増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「世界の航空機エンジン市場規模は、2025―2037年間に 8.1% の CAGR で成長し、2037年までに 1,104億米ドルを獲得すると予測されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「さらに、当社の調査レポートによると、2025 年の航空機エンジン市場規模は適度なペースで成長すると予想されます」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「当社の調査レポートによると、2024 年の世界の航空機エンジン市場は 762億米ドルの収益を獲得しました」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+- 成長率：
+  - 「Global Market Insights Inc.が発行した最新レポートによると、市場は2026年の927億米ドルから2031年には1,382億米ドル、2035年には2,033億米ドルへと、予測期間中にCAGR 9.1%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「CAGR(2026年~2035年)」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「ターボシャフトセグメントは2035年までに9,2%を超えるCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「ハイブリッドセグメントは、予測期間中に8.7%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「例えば、FAA航空宇宙予測によると、米国の航空会社の旅客搭乗者数は2045年まで着実に成長すると予測されており、航空会社の運航拡大に伴い、新型エンジンおよび整備サービスに対する持続的な需要が見込まれています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「軍用航空機セグメントは、予測期間中に11.2%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「FAA航空宇宙予測FY2025-2045によると、商業航空会社の運航は年間約1.9%で成長すると予測されており、米国の航空会社の旅客輸送量は長期的に拡大し、エンジンの稼働率と交換サイクルの増加につながります」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「アジア太平洋市場は、分析期間中に9.3%のCAGRで成長すると予想されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約8.1%のCAGRで成長すると予想されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「当社の調査レポートによると、2023年の世界の航空旅客需要は、前年比で37.3%以上増加し、前年の旅客需要は約65.4%増加しました」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「世界の航空機エンジン市場規模は、2025―2037年間に 8.1% の CAGR で成長し、2037年までに 1,104億米ドルを獲得すると予測されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「市場規模は2023年から2033年にかけて5.68%のCAGRで成長しています」（https://www.sphericalinsights.com/jp/reports/aircraft-engine-market）
+  - 「予測期間2023〜2033年の間に5.68%のCAGRで、グローバル航空機エンジン市場規模は2033年までUSD 114.2億ドルに達する見込みです」（https://www.sphericalinsights.com/jp/reports/aircraft-engine-market）
+  - 「予測期間のCAGR 2023 - 2033 :」（https://www.sphericalinsights.com/jp/reports/aircraft-engine-market）
+  - 「2032年にかけて年平均7.77%で成長し、規模は2,798億ドルへと拡大することを見込んでいます」（https://deallab.info/aircraft-engine/）
+- 上位シェア：
+  - 「航空機エンジン市場規模、シェア、業界レポート、2035年」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場 サイズとシェア 2026 - 2035」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「この市場の上位5社には」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「技術別航空機エンジン市場シェア、2025年」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「従来型セグメントは2025年に61,7%の市場シェアを保持しました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「民間航空機セグメントは、61%以上の市場シェアを占め、2025年には496億米ドルの市場規模となりました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「北米は、2025年に43.4%の市場シェアで世界市場を支配しました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「欧州市場は2025年に193億米ドルを占め、予測期間中に有望な成長を示すと予想されています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「Rolls-Royce、Pratt & Whitney (RTX)、MTU Aero Engines AG、およびIHI Corporationなどの企業は、市場シェアの39.9%を占めており、燃費効率、信頼性、および排出(民間、軍用、および地域)の主要課題に対処するために研究開発(R&D)の強化を推進しています」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「Rolls-Royceは、先進的なターボファンおよびターボシャフトエンジン、広範なグローバルサービスネットワーク、民間および軍用航空機OEMとの強固なパートナーシップにより、2025年に市場の14.3%を占めました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「Pratt & Whitney (RTX)は、次世代ギアードターボファンエンジン、燃料効率への注力、主要航空機メーカーとの戦略的パートナーシップにより、2025年に市場の11.7%を占めました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「IHI Corporationは、ビジネス、地域、および防衛航空機向けのターボファンおよびターボシャフトエンジンに注力し、市場の5.6%を占めました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「航空機エンジン市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―タイプ別、技術別、コンポーネント別、エンドユーザー別、および地域別―世界市場の見通しと予測2025―2037年」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「航空機エンジンに関する当社の市場見通しによると、北米の市場は予測期間中に約 33% の主要市場シェアを維持すると予想されますが、欧州の市場は主に航空宇宙産業への投資の増加の結果として、今後数年間で有望な成長機会を示す態勢が整っています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「これらのうち、商用セグメントは予測期間中に約55％の最大の市場シェアを占めると予想されています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+- 主要企業：
+  - 「これらの主要企業は、エンジン開発および認証の迅速化、商業化努力の改善、およびグローバルサービスネットワークの範囲拡大のために、パートナーシップ、合弁事業、合併、および買収などの複数の手段で関係を構築しました」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「データセンターネットワーク市場の主要企業には、シスコ、デル、ヒューレット・パッカード・エンタープライズ（HPE）、ファーウェイ・テクノロジーズ、ジュニパーネットワークスなどが挙げられる」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「精密ギアボックス機械市場の主要企業には、Nabtesco Corporation、SEW-Eurodrive GmbH & Co. KG、Wittenstein SE、Harmonic Drive SE、住友重機械工業株式会社などが挙げられる」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「世界の航空機エンジン市場の成長に重要な役割を果たす主要な主要企業には、GE Aviation、Safran S.A.、Textron Inc.、Rolls-Royce Holdings Plc.、CFM International SAなどが含まれます」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「この調査には、世界の航空機エンジン市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「当社の調査レポートによると、GE Aviation、Safran S.A.、Textron Inc.、Rolls-Royce Holdings Plc.、CFM International SAなどは、世界の航空機エンジン市場で機能する主要企業の一部です」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「当社の調査レポートによると、Mitsubishi Corporation、IHI Corporation、Kawasaki Heavy Industries, Ltd.、Honda Aircraft Company、Nippon Steel Corporationなどは、航空機エンジン市場の日本の分野で機能している主要企業の一部です」（https://www.sdki.jp/reports/aircraft-engines-market/108286）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/aircraft-engine-market）
+  - 「航空機エンジン市場シェアの主な企業リスト：」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「最後に、この分析では、航空機エンジン市場における主要企業とその競争上の地位を概説しています」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「その他の主要企業としては、CFM International SA、Safran SA、Rolls Royce Holdings PLCがあります」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「商用ドローン市場規模、シェア、成長、主要企業、2032年までの需要分析」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「ワイヤレスインフラ市場の規模、シェア、新たなトレンドと需要、主要企業の洞察（2032年まで）」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「航空機エンジン業界の主要企業：」（https://www.imarcgroup.com/report/ja/aircraft-engine-market）
+- 投資：
+  - 「In October 2024, Safran Aircraft Engines in Paris, France, kicked off a USD 1 billion investment plan to expand and modernize its global maintenance, repair, and overhaul (MRO) network. The aim is to integrate with the expanding fleet of LEAP engine worldwide with composite materials.」（https://www.gminsights.com/industry-analysis/aircraft-engine-market）
+  - 「The market is expected to reach USD 203.3 billion by 2035, growing at a CAGR of 9.1% due to fleet modernization, expanding aftermarket services, and defense aviation investments.」（https://www.gminsights.com/industry-analysis/aircraft-engine-market）
+  - 「GE Aerospace has announced an investment of USD 11 million to upgrade its aircraft engine repair facility in Singapore into a state-of-the-art “smart factory.” This transformation aims to revolutionize engine repair processes and enhance workforce skill development, ensuring the facility is equipped to support emerging technologies and future demands in the aerospace sector.」（https://www.persistencemarketresearch.com/market-research/aircraft-engines-market.asp）
+  - 「is estimated to record a notable CAGR from 2024 to 2030, propelled by the expansion of civil aviation and defense sectors. Initiatives such as "Make in India" encourage local manufacturing of aircraft components, including engines. Increasing air connectivity and investments in airport infrastructure further stimulate demand for new engines and maintenance services.」（https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report）
+  - 「is estimated to grow at the highest CAGR from 2024 to 2030. The market thrives on its renowned engine manufacturers, developing high-thrust engines and innovative propulsion systems. Strategic partnerships with global aerospace leaders and investments in research and development drive advancements in engine performance and reliability.」（https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report）
+  - 「accounted for a considerable revenue share in 2023, which is further fueled by substantial investments in the defense and commercial aviation sectors. The country's Vision 2030 initiative emphasizes local manufacturing and technology transfer, driving partnerships with global engine manufacturers to develop and maintain advanced engines for military and civilian aircraft.」（https://www.grandviewresearch.com/industry-analysis/aircraft-engine-market-report）
+  - 「Ivchenko Progress D-18」（https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers）
+  - 「freighters, although the Ivchenko Progress D-36/Ivchenko Progress」（https://en.wikipedia.org/wiki/List_of_turbofan_manufacturers）
+  - 「Key Investment and Funding Activities in Aircraft Engine Market, 2025–2026」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「GE Aerospace announced an additional USD 1 billion investment across US manufacturing sites and suppliers to accelerate aircraft engine deliveries, increase LEAP engine production, strengthen defense engine manufacturing, and expand aerospace production capacity.」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「Pratt & Whitney announced a USD 200 million investment in its Columbus, Georgia operations to expand manufacturing capabilities supporting commercial aircraft engines, geared turbofan engines, and military propulsion programs.」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「Tata Advanced Systems and Safran Aircraft Engines established a new aerospace manufacturing facility in India with an investment of approximately USD 51 million to produce rotating components for CFM LEAP aircraft engines.」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「GE Aerospace announced a USD 1 billion investment across its US manufacturing facilities and supplier network to increase aircraft engine production capacity, strengthen LEAP engine manufacturing, expand defense engine programs, and support advanced aerospace technologies.」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「The unmanned aerial vehicles segment is projected to grow at a CAGR of 5.4% during the forecast period due to increasing deployment across military surveillance, border security, logistics, and commercial inspection applications. Defense organizations are expanding investments in long-endurance unmanned aerial systems equipped with lightweight propulsion technologies.」（https://straitsresearch.com/report/aircraft-engine-market）
+  - 「In October 2024, Safran announced an investment plan of more than €1 billion for the development of its global maintenance, repair and overhaul (MRO) network to support the growing fleet of LEAP engines around the world.」（https://www.nextmsc.com/blogs/leading-players-in-the-aircraft-engine-market-powering-the-skies-in-2024-2025）
+- 検索結果の抜粋：
+  - 「航空機エンジン市場規模 、シェア、動向 |成長 [2034] — 航空機エンジン市場規模 、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「航空機エンジン市場規模 、シェア、業界レポート、2035年 — 航空機エンジン市場規模 、シェア、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「グローバル 航空機エンジン市場 動向 | 分析2033 — グローバル 航空機エンジン市場 動向 | 分析2033 Spherical Insights https://www.sphericalinsights.com > aircraft-engine-market」（https://www.sphericalinsights.com/jp/reports/aircraft-engine-market）
+  - 「航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） — 航空機エンジン市場 の 規模 、シェア、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market）
+  - 「航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] — 航空機エンジン市場 規模、 シェア 、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「航空機エンジン市場 規模、 シェア 、業界レポート、2035年 — 航空機エンジン市場 規模、 シェア 、業界レポート、2035年 Global Market Insights Inc. https://www.gminsights.com > aircraft-engine-market」（https://www.gminsights.com/ja/industry-analysis/aircraft-engine-market）
+  - 「2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... — 2032 年までの完全な SWOT 分析による 航空機エンジン市場 ... inkrich https://aerospaceanddefense.inkrich.com > posts」（https://aerospaceanddefense.inkrich.com/posts/26/）
+  - 「航空機エンジン市場 の規模、 シェア 、業界動向（2031年まで） — 航空機エンジン市場 の規模、 シェア 、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market）
+  - 「航空機エンジン市場 規模、シェア、動向 |成長 [2034] — 航空機エンジン市場 規模、シェア、動向 |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 航空」（https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E8%88%AA%E7%A9%BA%E6%A9%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E5%B8%82%E5%A0%B4-101766）
+  - 「航空機エンジン市場 の規模、シェア、業界動向（2031年まで） — 航空機エンジン市場 の規模、シェア、業界動向（2031年まで） Mordor Intelligence https://www.mordorintelligence.com > industry-reports」（https://www.mordorintelligence.com/ja/industry-reports/aircraft-engines-market）
+  - 「航空機エンジン市場 規模、シェア、予測 | 業界分析 [2033] — 航空機エンジン市場 規模、シェア、予測 | 業界分析 [2033] IMARC Group https://www.imarcgroup.com > Aerospace and Defense」（https://www.imarcgroup.com/report/ja/aircraft-engine-market）
+  - 「Aircraft Engine Market Size , Share & Industry Report, 2035 — Aircraft Engine Market Size , Share & Industry Report, 2035 Global Market Insights Inc. https://www.gminsights.com > aircraft...」（https://www.gminsights.com/industry-analysis/aircraft-engine-market）
+  - 「Aircraft Engines Market Size , Share, Trends & Growth, 2035 — Aircraft Engines Market Size , Share, Trends & Growth, 2035 MarketsandMarkets https://www.marketsandmarkets.com > ...」（https://www.marketsandmarkets.com/Market-Reports/aircraft-engine-market-14300744.html）
+  - 「Aircraft Engine Market Size , Share, Trends | Growth [2034] — Aircraft Engine Market Size , Share, Trends | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/industry-reports/aircraft-engine-market-101766）
+  - 「Aircraft Engine Market - Industry Analysis Forecast 2034 — Aircraft Engine Market - Industry Analysis Forecast 2034 Stellar Market Research https://www.stellarmr.com > report」（https://www.stellarmr.com/report/Aircraft-Engine-Market/444）
+
+## 産業用ドローン（commercial drone）
+- 文脈：6 航空・宇宙 ②無人航空機
+- 市場規模：
+  - 「ドローン市場規模・シェア・トレンド2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2026年から2034年にかけて、市場は年平均成長率」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年の市場規模」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年の世界のドローン市場規模は」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「IMARCの推計によると、世界のドローン市場は2026年から2034年にかけて年」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「【特集】ドローンビジネス市場規模は2030年度に9544億円へ、土木・建築や点検用途での普及が顕著～『ドローンビジネス調査報告書2026』より - ドローンジャーナル」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「ドローンビジネス市場規模は2030年度に9544億円へ、土木・建築や点検用途での普及が顕著～『ドローンビジネス調査報告書2026』より」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「2025年度の市場規模は13.8％増の4973億円、うちサービス市場が規模も伸びも大きい」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「2025年度のドローンビジネス市場規模は4973億円と推計され、前年度の4371億円から13.8%増加している」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「2026年度には5501億円（前年度比10.6%増）、2030年度には9544億円に達し、2025年度から2030年度にかけての年間平均成長率（CAGR）は13.9%と、引き続き高い成長率が続くと予測される」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「分野別では、サービス市場が前年度比18.1%増の2711億円で最大となり、機体市場は同8.2%増の1227億円、周辺サービス市場は同10.0%増の1036億円となっている」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「2025年度の点検分野の市場規模は983億円でサービス市場の中で最も大きく、2030年度には約1.6倍の1614億円に達する見込みである」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「また、土木・建築分野は2025年度の427億円から2030年度には約2.8倍の1209億円に達して、点検に次ぐ市場になる見込みだ」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「連動して市場規模も大きく拡大し、運搬用途を含む「その他」の市場規模は2030年度には967億円まで拡大すると予測している」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+- 成長率：
+  - 「2026年から2034年にかけて、市場は年平均成長率」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「（CAGR）9.89%」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2026-2034年の市場成長率」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「例えば、FAAが制定した「パート107」規則やその他の米国政府の規制緩和法は、商用ドローンのミッション拡大を促進しています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2026年度には5501億円（前年度比10.6%増）、2030年度には9544億円に達し、2025年度から2030年度にかけての年間平均成長率（CAGR）は13.9%と、引き続き高い成長率が続くと予測される」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「2030年度にかけてのCAGRは、機体市場が14.6%、周辺サービスが同14.1%と、いずれも二桁成長が続く見通しである」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「連動して市場規模も大きく拡大し、運搬用途を含む「その他」の市場規模は2030年度には967億円まで拡大すると予測している」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「世界のドローン市場規模は、2025年には427億3000万米ドルと評価され、2026年の487億1000万米ドルから2034年には1389億6000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%となる見込みです」（https://straitsresearch.com/jp/report/drone-market）
+  - 「2024年5月時点で、連邦航空局（FAA）は5万機以上のドローンを正式に登録しており、物流やセキュリティ分野での用途が拡大している」（https://straitsresearch.com/jp/report/drone-market）
+  - 「ドローン市場規模は2026年には487億1000万米ドルと評価され、2034年までに1389億6000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は14%である」（https://straitsresearch.com/jp/report/drone-market）
+  - 「ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録 | NEWSCAST」（https://newscast.jp/smart/news/6318744）
+  - 「ドローン市場、2034年までに791億米ドル規模へ拡大 | 年平均成長率（CAGR）9.89%を記録」（https://newscast.jp/smart/news/6318744）
+  - 「2034年までに成長率を示す」（https://newscast.jp/smart/news/6318744）
+  - 「年平均成長率（CAGR）9.89%」（https://newscast.jp/smart/news/6318744）
+  - 「5Gネットワークの世界的な展開は、ドローンの運用能力を根本的に拡大させています」（https://newscast.jp/smart/news/6318744）
+- 上位シェア：
+  - 「ドローン市場規模・シェア・トレンド2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「ドローンの市場規模、シェア、動向、予測 タイプ、コンポーネント、ペイロード、販売地点、最終用途産業、地域別 2026-2034」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年、固定翼ドローンはドローン市場シェアの52.5%を占め、最大のセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年にはハードウェアが65.7%のシェアを占め、最大のセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「本レポートによると、2025年には25キログラム未満のカテゴリーが53.8%という最大の市場シェアを占めました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年にはOEM（Original Equipment Manufacturers）が市場を牽引し、シェアは69.1%に達すると予測されています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「同レポートによると、2025年には軍事・防衛分野が市場シェアの30.5%を占め、市場を牽引した」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年、世界のドローン市場レポートによると、北米は48.4%のシェアを占め、市場を牽引するセグメントとなりました」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「2025年、米国は商業、軍事、レクリエーション分野におけるドローンの広範な活用により、ドローン市場で89.60%のシェアを占めた」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「この状況は米国におけるレクリエーション目的での利用も大幅に増加させており、報告によると、ドローン登録の30％を愛好家が占めています」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「また、ドローン市場の成長率を見ると、全輸出の70％以上が中国からであり、DJIをはじめとする企業群が世界の主要ドローンメーカーのリストを独占している」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「具体的なユースケースのアンケート結果の上位も「土木・建設（現場状況把握）」（24.6%）、「点検（設備外観）」（20.4%）、「土木・建設（測量）」（18.0%）が占めている」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「ドローン市場規模、シェア、成長、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/drone-market）
+  - 「ドローン市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、製品別（固定翼、マルチローター、シングルローター、その他）、技術別（遠隔操作、半自律型、完全自律型）、ペイロード容量別（2kg以下、2kg～19kg、20kg～200kg、200kg超）、電源別（バッテリー駆動、ガソリン駆動、水素燃料電池、太陽光発電）、用途別（消費者向け、商業用、軍事・防衛、政府・法執行機関向け、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/drone-market）
+  - 「北米は2025年に36.4%の市場シェアを占め、ドローン市場を牽引しました」（https://straitsresearch.com/jp/report/drone-market）
+- 主要企業：
+  - 「本レポートは、ドローン市場の競争環境に関する包括的な分析を提供しており、以下の主要企業を含むすべての主要企業の詳細なプロファイルが掲載されています：」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「世界のドローン市場における主要プレイヤー/企業は？」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「世界のドローン市場における主要企業には、Delair、Draganfly Innovations Inc.、Parrot Drones SAS、Skydio, Inc、SZ DJI Technology Co., Ltd.、Terra Drone Corp.、The Boeing Company、Yuneecなどが挙げられる」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「世界のドローン業界で事業を展開する主要企業：」（https://newscast.jp/smart/news/6318744）
+  - 「軍用ドローン市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「軍事用ドローン市場の主要企業には、IAI、Northrop Grumman、Thales Group、Elbit Systems、General Atomicsなどがある」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「・ドローン業界の主要企業や市場の将来性を知りたい方」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
+  - 「関連サービスを提供するテラドローン、海外大手の日本法人DJI JAPAN、大手から参入するヤマハ発動機、クボタなど、参入企業は増加中」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
+  - 「List of Key Players in the Commercial Drone Market」（https://www.grandviewresearch.com/press-release/commercial-drone-market）
+  - 「Commercial Drone Market Size, Key Companies, Technology Trends, Applications, Regional Analysis, and Demand Forecast」（https://www.precedenceresearch.com/commercial-drone-market）
+  - 「Other Major Key Players」（https://www.precedenceresearch.com/commercial-drone-market）
+  - 「Question 3: Who are the prominent players operating in the commercial drone market?」（https://www.precedenceresearch.com/commercial-drone-market）
+  - 「The major players operating in the commercial drone market are Yuneec Holding Ltd, Skydio, Inc., Parrot Group, Intel Corporation, Teal Drones, Ehang Holdings Limited, AeroVironment Inc., 3D Robotics, Inc.」（https://www.precedenceresearch.com/commercial-drone-market）
+  - 「This unique database highlights the world of electric aviation and the key players in the industry. It features over 300 companies that are working on solving the issue of sustainable aviation fuels in order to provide a more sustainable and ecologically friendly future for the industry.」（https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp）
+- 投資：
+  - 「ポストDJIとも目されており、Intel社が6,000万ドルを出資した企業であることでも知られています」（https://drone-navigator.com/drone-manufacturer）
+  - 「「ポストDJI」と期待されている企業でもあり、Intelより6,000万ドルの出資を受けたことで話題になりました」（https://drone-school-navi.com/column/model-rent-share/）
+  - 「NATO Public Diplomacy Division. “NATO Defence Expenditure and Investment 2025-2026.” nato.int」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「サウジアラビアの国営石油会社であるサウジアラムコのVC・Wa‘edから、総額18.5億円の資金調達を実施したことを発表しました」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
+  - 「Drone Investment Database 2015-2025」（https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp）
+  - 「The commercial drone market hit a record USD 3.86 billion in investments in 2025. 77% of all investments flowed into dual-use drone companies, signaling a fundamental industry shift driven by geopolitical demand and military repositioning. This database provides high-detail insights on company funding, including:」（https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp）
+  - 「1657 drone investments from 2015-2025」（https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp）
+  - 「Dual-use Drones Dominate Global Funding: Drone Investments Reached a Record High in 2025.」（https://droneii.com/?srsltid=AYCX9vKyWf9ufSWBkxdy1_TiOVgogNR2YMPr6YkkNxi9cC3ZYi3eOWYp）
+  - 「, asset tracking, and infrastructure maintenance, combined with rising investments in digitalization and Industry 4.0 initiatives, is accelerating market growth. The country’s focus on advanced engineering capabilities and integration of UAVs into industrial workflows is reinforcing Germany’s position as a key growth market.」（https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market）
+  - 「Drone Investment Database 2015-2025」（https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61）
+  - 「The commercial drone market hit a record USD 3.86 billion in investments in 2025. 77% of all investments flowed into dual-use drone companies, signaling a fundamental industry shift driven by geopolitical demand and military repositioning. This database provides high-detail insights on company funding, including:」（https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61）
+  - 「1657 drone investments from 2015-2025」（https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61）
+  - 「Dual-use Drones Dominate Global Funding: Drone Investments Reached a Record High in 2025.」（https://droneii.com/?srsltid=AYCX9vIODg0z9z1JzdrizcPr40ZE0t_49QCUEZhHHP3CDvP7tfLD4A61）
+  - 「Zipline, a leading drone delivery company, secured $330 million in new funding to accelerate the expansion of its commercial drone delivery services across the United States.」（https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778）
+  - 「Skydio, a U.S.-based drone manufacturer, closed a $230 million Series E funding round to expand its domestic manufacturing capabilities and accelerate the deployment of autonomous drones for commercial and government clients.」（https://www.marketresearchfuture.com/reports/us-commercial-drones-market-21778）
+- 検索結果の抜粋：
+  - 「商用 ドローン市場規模 、シェア、成長、予測、2032 年 — 商用 ドローン市場規模 、シェア、成長、予測、2032 年 Fortune Business Insights https://www.fortunebusinessinsights.com > 商用ドローン...」（https://www.fortunebusinessinsights.com/jp/%E5%95%86%E7%94%A8%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4-102171）
+  - 「ドローン市場規模 ・シェア・トレンド2034 - IMARC Group — ドローン市場規模 ・シェア・トレンド2034 - IMARC Group IMARC Group https://www.imarcgroup.com > Aerospace and Defense」（https://www.imarcgroup.com/report/ja/drones-market）
+  - 「【特集】 ドローン ビジネス 市場規模 は2030年度に9544億円へ — 【特集】 ドローン ビジネス 市場規模 は2030年度に9544億円へ ドローンジャーナル https://drone-journal.impress.co.jp > ... > 市場規模/データ」（https://drone-journal.impress.co.jp/docs/special/1188507.html）
+  - 「ドローン市場規模 、シェア、成長、機会、分析（2034年まで） — ドローン市場規模 、シェア、成長、機会、分析（2034年まで） Straits Research https://straitsresearch.com > 航空宇宙・防衛 > 無人システム」（https://straitsresearch.com/jp/report/drone-market）
+  - 「ドローン市場 、2034年までに791億米ドル 規模 へ拡大 — ドローン市場 、2034年までに791億米ドル 規模 へ拡大 Newscast.jp https://newscast.jp > smart > news」（https://newscast.jp/smart/news/6318744）
+  - 「ドローン市場 の成長、 規模 ・トレンド統計、2031年 — ドローン市場 の成長、 規模 ・トレンド統計、2031年 Mordor Intelligence https://www.mordorintelligence.com > drones-market」（https://www.mordorintelligence.com/ja/industry-reports/drones-market）
+  - 「産業用ドローン メーカーの最新比較｜国内外25社の強みと選び方 — 産業用ドローン メーカーの最新比較｜国内外25社の強みと選び方 factory-dx-center.com https://factory-dx-center.com > industrial-drone-manufact...」（https://factory-dx-center.com/industrial-drone-manufacturers/）
+  - 「ドローン メーカー21選！日本製やおすすめ機種、 シェア と ... — ドローン メーカー21選！日本製やおすすめ機種、 シェア と ... ドローンナビゲーター https://drone-navigator.com > ドローンの基礎知識」（https://drone-navigator.com/drone-manufacturer）
+  - 「軍用 ドローン市場 規模・予測レポート 2026〜2035年 — 軍用 ドローン市場 規模・予測レポート 2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > military-drone-market」（https://www.gminsights.com/ja/industry-analysis/military-drone-market）
+  - 「【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... — 【2026最新】 ドローン 会社・メーカー17選｜有名 企業 や ... Geekly https://www.geekly.co.jp > column > drone-tech-company」（https://www.geekly.co.jp/column/cat-technology/drone-tech-company/）
+  - 「ドローン市場 2020～ 2025 年。成否を知る5つのポイント — ドローン市場 2020～ 2025 年。成否を知る5つのポイント DRONE.jp https://drone.jp > news」（https://drone.jp/news/2020062415254336597.html）
+  - 「2024年度の国内 ドローン ビジネス 市場 規模は 前年比 13％増の ... — 2024年度の国内 ドローン ビジネス 市場 規模は 前年比 13％増の ... インプレス総合研究所 https://research.impress.co.jp > topics > list > drone」（https://research.impress.co.jp/topics/list/drone/710）
+  - 「【2026年版】 ドローン市場 規模の最新情報-2026年以降の展望は — 【2026年版】 ドローン市場 規模の最新情報-2026年以降の展望は 秋葉原ドローンスクール https://akihabara-ds.com > column > detail」（https://akihabara-ds.com/column/detail/40/）
+  - 「ドローン市場 の全体像と成長動向 - トレンド＆データ — ドローン市場 の全体像と成長動向 - トレンド＆データ 株式会社ミライト・ワン https://www.mirait-one.com > whatsnew > trend-data_0074」（https://www.mirait-one.com/miraiz/whatsnew/trend-data_0074.html）
+  - 「ドローン市場2025 年度には6500億円規模⁉ | コクヨのMANA-Biz — ドローン市場2025 年度には6500億円規模⁉ | コクヨのMANA-Biz KOKUYO https://www.kokuyo-furniture.co.jp > 2021/02 > 20256500」（https://www.kokuyo-furniture.co.jp/solution/mana-biz/2021/02/20256500.php）
+
+## 空飛ぶクルマ（eVTOL）
+- 文脈：6 航空・宇宙 ③空飛ぶクルマ
+- 市場規模：
+  - 「世界の空飛ぶクルマ市場規模は2026年に4億9,270万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）37.5%を記録すると推定される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2034年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「運航形態別の空飛ぶクルマ市場規模、2026〜2034年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「中国の空飛ぶクルマ市場規模、2026〜2034年（百万米ドル）」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「予測によると、2026年から2034年にかけて、米国の空飛ぶクルマ市場は大幅に成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「ドイツの空飛ぶクルマ市場は、2026年から2034年までの予測期間に欧州市場で順調な成長を遂げる見込みである」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「ブラジルの空飛ぶクルマ市場は、2026年から2034年までの予測期間に力強い成長を遂げる見込みである」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「UAE の空飛ぶクルマ市場は、2026年から2034年にかけて著しい成長を遂げると予測される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「空飛ぶ車の市場規模、シェア、トレンド分析レポート：推進方式別（電動空飛ぶ車、ハイブリッド空飛ぶ車、従来型燃料空飛ぶ車）、運用モード別（有人空飛ぶ車、自律飛行空飛ぶ車、遠隔操作空飛ぶ車）、技術タイプ別（固定翼空飛ぶ車、回転翼空飛ぶ車、ティルトウィング/ティルトローター空飛ぶ車、その他）、座席数別（1人乗り空飛ぶ車、2人乗り空飛ぶ車、4人乗り空飛ぶ車、その他）、用途別（エアタクシーサービス、救急医療サービス、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）、予測、2026～2034年」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「世界の空飛ぶ車の市場規模は、2025年には42億4000万米ドルと評価され、2026年の64億2000万米ドルから2034年には1777億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%となる見込みです」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「例えば、NASAのUAM市場調査では、米国における空港シャトルやエアタクシー事業の市場規模は5,000億米ドルに達すると予測されています」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「2023年には、米国連邦航空局（FAA）が200件以上の都市型航空モビリティ試験プログラムを承認し、米国運輸省は先進的なeVTOL（電動垂直離着陸機）開発に3億ドル以上を投資しました」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「最近の報告によると、中国は2030年までに10万台以上のeVTOL（電動垂直離着陸機）を導入する計画で、都市型航空モビリティプロジェクトへの政府投資額は5億ドルを超えています」（https://straitsresearch.com/jp/report/flying-cars-market）
+- 成長率：
+  - 「世界の空飛ぶクルマ市場規模は2026年に4億9,270万米ドルに達し、2026年から2034年にかけて年平均成長率（CAGR）37.5%を記録すると推定される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「年平均成長率（CAGR、2026〜2034年）」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「予測期間 2026 – 2034 CAGR」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ市場の規模は 2026 年に 4億9,270万米ドルに達し、2034 年まで年平均成長率（CAGR）37.5%で成長して、同年までに約 6.58 億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「世界の空飛ぶ車の市場規模は、2025年には42億4000万米ドルと評価され、2026年の64億2000万米ドルから2034年には1777億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%となる見込みです」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「こうした拡大に対応するため、連邦航空局（FAA）は、UAMを国家空域システムに統合するための計画を明記した「都市型航空モビリティ運用コンセプト2.0」を発表しました」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「業界団体は、同地域における年間成長率を約35%と予測しています」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「空飛ぶ車の市場規模は、2026年には64億2000万米ドルと評価され、2034年までに1777億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は51.45%です」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「空飛ぶ車の市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）51.45%で成長すると予測されている」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「自動車予測分析市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「の提供、②サプライヤーへの波及効果を含む国内空飛ぶクルマ産業の拡大の2点が得られる」（https://www.meti.go.jp/information/publicoffer/kobo/2023/downloadfiles/k230714001_9.pdf）
+  - 「2040年にかけて年平均58.1％で成長し、1兆5334億ドルへと市場が拡大すると推計されています」（https://deallab.info/flying-car/）
+- 上位シェア：
+  - 「空飛ぶクルマ市場の規模とシェア、成長分析、2026〜2034年」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ市場 サイズとシェア 2026 – 2034」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年には、有人操縦型が市場シェアの 65% 超を占め、2034年までに同セグメントの市場収益は 27億米ドルを超えると予測されています」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「技術別の空飛ぶクルマ市場シェア、2026年」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年には VTOL セグメントが 66% の市場シェアを占め、サービスセグメントは予測期間中に約 40% の年平均成長率（CAGR）で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「電動セグメントは、2026年に3億米ドルを占め、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「旅客輸送セグメントは2026年に60%の市場シェアを占め、サービスセグメントは予測期間中に約33%の年平均成長率（CAGR）で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年、アジア太平洋地域は世界の空飛ぶクルマ市場で最大のシェアを占め、中国が地域売上高の 90% 超を占めて約 2億5,760万米ドルを生み出した」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「これらの企業は、2026年に空飛ぶクルマ市場の約35%を占めている」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「2026年、中国は空飛ぶクルマ市場でどの程度のシェアを占めましたか？」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「中国の空飛ぶクルマ市場は、2026年に約90%のシェアを占めた」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶ車の市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「空飛ぶ車の市場規模、シェア、トレンド分析レポート：推進方式別（電動空飛ぶ車、ハイブリッド空飛ぶ車、従来型燃料空飛ぶ車）、運用モード別（有人空飛ぶ車、自律飛行空飛ぶ車、遠隔操作空飛ぶ車）、技術タイプ別（固定翼空飛ぶ車、回転翼空飛ぶ車、ティルトウィング/ティルトローター空飛ぶ車、その他）、座席数別（1人乗り空飛ぶ車、2人乗り空飛ぶ車、4人乗り空飛ぶ車、その他）、用途別（エアタクシーサービス、救急医療サービス、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）、予測、2026～2034年」（https://straitsresearch.com/jp/report/flying-cars-market）
+- 主要企業：
+  - 「同社は、販売価格30万米ドルの電動空飛ぶクルマについて3,300台の受注見込みを得ており、空飛ぶクルマ市場への初期参入企業の一つであるにもかかわらず、消費者が高額な価格帯の商品に対しても手付金を支払う意欲を示している」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ業界の主要企業は、AeroMobil、Airbus、PAL-V International、SkyDrive、UBER、Moller、Samson Sky である」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ業界で事業を展開する主要企業は以下のとおりである」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ市場の主要企業は、製品への投資や研究開発（R&D）に加え、資源の有効活用と製品の研究開発を促進するため、提携、共同事業、合併、買収などの戦略的な取り組みを積極的に進めている」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「世界の主要企業は、製品開発におけるコスト効率を高めるために研究開発リソースを活用しており、市場固有の要件に迅速に対応し、技術の進化に適応することを目指している」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「業界の主要企業には、AeroMobil、Airbus、Archer Aviation、Boeing、Joby Aviation、Moller、PAL-V International、SkyDrive、Terrafugia、UBERなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「Joby AviationやArcher Aviationといった主要企業は150回以上の試験飛行を実施しており、この地域が革新的な輸送ソリューションを早期かつ積極的に導入していることを裏付けています」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「12.2 その他の主要企業」（https://www.atpress.ne.jp/news/8049768）
+  - 「総売上高、主要企業の市場シェアと順位に焦点を当てるとともに、地域・国別、タイプ別、用途別の分析を盛り込んでおります」（https://www.gii.co.jp/report/qyr1862499-flying-car-global-market-share-ranking-overall.html）
+  - 「今回の調査は地域、国別や参入企業各社の動向、将来展望などを明らかにすることを目的としたものだ」（https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html）
+  - 「Key Players」（https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359）
+  - 「北米の競争環境は堅牢で、テラフージア、ジョビー・アビエーション、キティホークなどの主要プレイヤーが存在しています」（https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359）
+  - 「主要企業と競争の洞察」（https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359）
+- 投資：
+  - 「最近の報告によると、中国は2030年までに10万台以上のeVTOL（電動垂直離着陸機）を導入する計画で、都市型航空モビリティプロジェクトへの政府投資額は5億ドルを超えています」（https://straitsresearch.com/jp/report/flying-cars-market）
+  - 「またIPOをした会社の場合は、直近1年間の資本金及び資本準備金の増減と合計を直近の資金調達額と資金調達累計額とみなしております」（https://deallab.info/flying-car/）
+  - 「マップ上の会社の累計調達額は、本ページの更新時点で約5337百万ドルとなっております」（https://deallab.info/flying-car/）
+  - 「空飛ぶクルマ各社の累計調達額を分子に、上述した業界全体の資金調達額を分母にして、資金調達累計額の市場シェアを計算し、ランキング化すると、2021年の1位はジョビーアビエーション、2位はリリウム、3位はベータとなります」（https://deallab.info/flying-car/）
+  - 「空飛ぶクルマの資金調達累計額の市場シェア（2022年）」（https://deallab.info/flying-car/）
+  - 「空飛ぶクルマの資金調達累計額の市場シェア（2022年） 出所：Trancxn、会社情報より作成」（https://deallab.info/flying-car/）
+  - 「空飛ぶクルマの市場シェア（調達額ベース、2022年9月） 出所：Trancxn、会社情報より作成」（https://deallab.info/flying-car/）
+  - 「2022年9月に総額96億円の資金調達（シリーズC）を行いました」（https://deallab.info/flying-car/）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/8049768）
+  - 「Joby Aviation社は2020年にトヨタ自動車との提携を締結し、3.94億ドルの出資を受けたことを発表」（https://drone-journal.impress.co.jp/docs/special/1183795.html）
+  - 「• Coverage of manufacturers and technology holders representing 65-70% of disclosed funding and patent activity in 2024」（https://www.marketresearchfuture.com/ja/reports/flying-cars-market-7359）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/9763025）
+  - 「is expected to grow considerably from 2026 to 2033. China's commitment to reducing urban air pollution and its investment in innovative air mobility solutions are propelling the market forward.」（https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report）
+  - 「The eVTOL aircraft market in MEA is anticipated to grow at a significant CAGR from 2026 to 2033, driven by strategic investments in technology and infrastructure aimed at revolutionizing urban mobility. The region's focus on enhancing its tourism sector and improving urban transport efficiency is a significant driver of the adoption of innovative solutions such as eVTOL aircraft.」（https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report）
+  - 「in additional funding from a group of strategic investors. This significant financial boost is intended to accelerate the production of their commercial eVTOL aircraft, which is slated for launch in 2024.」（https://market.us/report/evtol-aircraft-market/）
+- 検索結果の抜粋：
+  - 「空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場規模 、シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378）
+  - 「空飛ぶクルマ市場 の 規模 とシェア、成長分析、2026〜2034年 — 空飛ぶクルマ市場 の 規模 とシェア、成長分析、2026〜2034年 Global Market Insights Inc. https://www.gminsights.com > flying-cars-market」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 — 空飛ぶクルマ の 市場 規模、 シェア |業界レポート、2040 年 Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流」（https://www.fortunebusinessinsights.com/jp/%E7%A9%BA%E9%A3%9B%E3%81%B6%E8%87%AA%E5%8B%95%E8%BB%8A%E5%B8%82%E5%A0%B4-105378）
+  - 「空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 — 空飛ぶクルマ市場 の規模と シェア 、成長分析、2026〜2034年 Global Market Insights Inc. https://www.gminsights.com > flying-cars-market」（https://www.gminsights.com/ja/industry-analysis/flying-cars-market）
+  - 「日本の 空飛ぶクルマ市場 2024～2031年 - アットプレス — 日本の 空飛ぶクルマ市場 2024～2031年 - アットプレス アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/8049768）
+  - 「空飛ぶクルマ市場 、2050年に180兆円超へ - EE Times Japan — 空飛ぶクルマ市場 、2050年に180兆円超へ - EE Times Japan EE Times Japan https://eetimes.itmedia.co.jp > articles > news156」（https://eetimes.itmedia.co.jp/ee/articles/2305/17/news156.html）
+  - 「【特集】 空飛ぶクルマ市場 の実現は 2025 年大阪・関西万博が ... — 【特集】 空飛ぶクルマ市場 の実現は 2025 年大阪・関西万博が ... ドローンジャーナル https://drone-journal.impress.co.jp > 特集 > エアモビリティ」（https://drone-journal.impress.co.jp/docs/special/1183795.html）
+  - 「eVTOL Aircraft Market Size , Share & Trends Overview, 2031 — eVTOL Aircraft Market Size , Share & Trends Overview, 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/evtol-aircraft-market）
+  - 「eVTOL Aircraft Market Size , Growth Report, 2026-2033 — eVTOL Aircraft Market Size , Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/evtol-aircraft-market-report）
+  - 「eVTOL Market Size , Share & Forecast 2040 — eVTOL Market Size , Share & Forecast 2040 Stratview Research https://www.stratviewresearch.com > ...」（https://www.stratviewresearch.com/market-reports/evtol-market.html）
+  - 「eVTOL Aircraft Market Size , Industry Share, Global Report, 2034 — eVTOL Aircraft Market Size , Industry Share, Global Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/evtol-aircraft-market-106298）
+  - 「eVTOL Aircraft Market Size , Share | CAGR of 36.8% — eVTOL Aircraft Market Size , Share | CAGR of 36.8% Market.us https://market.us > evtol-aircraft-market」（https://market.us/report/evtol-aircraft-market/）
+  - 「eVTOL Aircraft Market Size, Share, & Growth Report, 2033 — eVTOL Aircraft Market Size, Share, & Growth Report, 2033 Persistence Market Research https://www.persistencemarketresearch.com > ...」（https://www.persistencemarketresearch.com/market-research/evtol-aircraft-market.asp）
+  - 「eVTOL Market Size, Share & Forecast 2040 — eVTOL Market Size, Share & Forecast 2040 Stratview Research https://www.stratviewresearch.com > ...」（https://www.stratviewresearch.com/market-reports/evtol-market.html）
+  - 「eVTOL Aircraft Market Report 2026: $41.8 Bn Opportunities ... — eVTOL Aircraft Market Report 2026: $41.8 Bn Opportunities ... Yahoo Finance https://finance.yahoo.com > news > e...」（https://finance.yahoo.com/news/evtol-aircraft-market-report-2026-153200058.html）
+
+## 人工衛星（satellite manufacturing）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 市場規模：
+  - 「世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「グローバル宇宙経済市場規模、バリューチェーン部門別、2022〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「下流活動の市場規模は2025年に2,181億米ドルとなり、2035年には4,421億米ドルに達すると予測され、CAGR 7.5%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「衛星通信の市場規模は 2025年に1,684億米ドルに達し、年平均成長率（CAGR）6.5%で成長して 2035年には3,109億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「地球観測・リモートセンシングの市場規模は、2025年の952億米ドルから、年平均成長率（CAGR）8.1%で成長し、2035年には2,036億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「GNSSによる航法・測位の市場規模は、2025年の828億米ドルから、年平均成長率（CAGR）7.5%で成長し、2035年には1,678億米ドルに拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙探査・科学の市場規模は、2025年の520億米ドルから、年平均成長率（CAGR）6.8%で成長し、2035年には988億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「その他の用途の市場規模は、年平均成長率（CAGR）5.8%で成長し、408億米ドルから707億米ドルに拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「政府・防衛の市場規模は 2025年に1,974億米ドルに達し、年平均成長率（CAGR）5.7%で成長して 2035年には3,390億米ドルに達すると見込まれる」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+- 成長率：
+  - 「世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「市場の年平均成長率約 7.0%を下支え」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「政府は2030年代早期の倍増（約8兆円）を目指している」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「円)(CAGR7%/年)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR7%/年で成長するとした場合、$27.74billion(約3.6兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➡衛星以外も含むRemote sensing service市場成長率として約15%の推定値あり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➡観測以外も含む衛星データ利用市場成長率として約20%の推定値あり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 上位シェア：
+  - 「宇宙経済市場の規模、シェア、動向、分析、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「この市場の上位5社には、」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Chart: Global Space Ecomony Market Share, By Application, 2025 (%)」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2025年現在、北米は宇宙経済市場で最大のシェアを占めている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「⚫ 商業衛星の打上市場におけるシェアはこの10年間で大きく変化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ スターリンクとワンウェブの打上数が2020年から激増し、昨年は全体の7割以上を占めた」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「消費者向けソリューション、カーナビ等の自動車・道路分野が全体の９割以上を占めて」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「ンが65%を占める」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➢ 自動車・道路関係が26％を占める」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 主要企業：
+  - 「これらのプログラムは、商業参入企業が自社プラットフォームで継続的なサービス収益を確保する前に依存することの多い、専門的な生産能力と適格性確認要件を維持している」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「新規参入企業の資金調達を制約」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「AmazonのProject Kuiperの進捗は、十分な資本を有する新規参入企業であっても、サービス規模での経済性が実現する前に、衛星、打ち上げ体制、ネットワークインフラ、顧客への販売・提供体制を並行して整備しなければならないことを示している」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場の主要企業には、Lockheed Martin、Airbus、Boeing、SpaceXなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「業界の主要企業には、SpaceX、Planet Labs、Rocket Lab、Blue Canyon Technologies、Surrey Satellite Technology Limited (SSTL)、Lockheed Martin Corporation、Northrop Grumman Corporation、Tyvak Nano-Satellite Systems、The Boeing Companyなどが挙げられる」（https://straitsresearch.com/jp/report/satellite-manufacturing-market）
+  - 「以下、宇宙ビジネス業界マップと合わせてそれぞれの分野の概要と参入企業、関連記事を紹介します」（https://sorabatake.jp/216/）
+  - 「通信衛星コンステレーションビジネスとは~参入企業、市場規模、課題と展望~」（https://sorabatake.jp/216/）
+  - 「小型衛星業界は競争が激しく、市場の主要企業は市場での成長を促進するため、協業やパートナーシップなどの戦略を採用しています」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「小型衛星市場の主要企業 5 社は、SpaceX、Planet Labs Inc.、Airbus SE、Lockheed Martin Corporation、Northrop Grumman Corporation です」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「小型衛星市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「小型衛星業界の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「業界の主要企業には、SpaceX、Planet Labs Inc.、Airbus SE、Lockheed Martin Corporation、Northrop Grumman Corporationなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+- 投資：
+  - 「日本の月面探査ベンチャーispaceが101.5億円の資金調達に成功」（https://sorabatake.jp/216/）
+  - 「The UK Space Strategy commits more than USD 10.1 billion through 2030 (£7.8 billion), including dedicated investment in satellite communications and LEO connectivity programs」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「Amazon's Kennedy Space Center satellite processing facility required nearly USD 140 million in capital investment to establish the throughput needed to support a single constellation's launch cadence」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「Broadband mega-constellation manufacturing is projected to reach USD 13.85 billion by 2035 and represented 57.0% of the LEO satellite manufacturing market in 2025. Its scale sustains investment in standardized buses, automated integration, and supplier capacity, although replenishment and upgrade demand will increasingly matter alongside initial fleet deployment.」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「Europe is projected to reach USD 4.82 billion by 2035 and grow at a 10.4% CAGR (2026–2035). Sovereign communications priorities, defense-space investment, and industrial-policy objectives are strengthening regional manufacturing capability and supporting demand for digital satellite platforms.」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「Asia Pacific accounted for 19.0% of global LEO satellite manufacturing revenue in 2025 and is anticipated to grow at an 11.8% CAGR (2026–2035). State-backed constellations, private-sector expansion, and rising domestic supply-chain investment are positioning the region as the principal source of incremental manufacturing capacity.」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「Saudi Arabia is projected to grow at a 10.0% CAGR (2026–2035) and represent 37.5% of Middle East & Africa revenue by 2035. Industrialization initiatives, co-production arrangements, and investment in space-sector infrastructure are strengthening its position within the regional manufacturing landscape.」（https://www.gminsights.com/industry-analysis/leo-satellite-market）
+  - 「2.2. Public Investment in Space ........................................................................................... 3」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「2.3. Private Investment in Space ......................................................................................... 9」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「Chapter 2 presents key trends and figures for 2023, covering public and private investment」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「insights on the space sector in 2024, covering anticipated public investment, trends in」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「11% Europe’s share of global space private investment 16%」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「2.2. Public Investment in Space」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「public space funding intensity . A s presented in Figure 6, the share for Europe (EU27,」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+  - 「2.3. Private Investment in Space」（https://space-economy.esa.int/documents/b61btvmeaf6Tz2osXPu712bL0dwO3uqdOrFAwNTQ.pdf）
+- 検索結果の抜粋：
+  - 「小型 衛星市場 の規模とシェア： 2025 〜2034年予測レポート — 小型 衛星市場 の規模とシェア： 2025 〜2034年予測レポート Global Market Insights Inc. https://www.gminsights.com > small-satellite-market」（https://www.gminsights.com/ja/industry-analysis/small-satellite-market）
+  - 「Satellite Manufacturing Market Size & Growth to 2031 — Satellite Manufacturing Market Size & Growth to 2031 Mordor Intelligence https://www.mordorintelligence.com > ...」（https://www.mordorintelligence.com/industry-reports/global-satellite-manufacturing-market）
+  - 「Satellite Manufacturing Market Size & Industry Report, 2034 — Satellite Manufacturing Market Size & Industry Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...」（https://www.fortunebusinessinsights.com/satellite-manufacturing-market-117262）
+  - 「Satellite Manufacturing Market Size & Share Report, 2033 — Satellite Manufacturing Market Size & Share Report, 2033 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-manufacturing-market-report）
+  - 「Satellite Manufacturing Market Size, Share | CAGR of 13.9%. — Satellite Manufacturing Market Size, Share | CAGR of 13.9%. Market.us https://market.us > report > satellite-m...」（https://market.us/report/satellite-manufacturing-market/）
+  - 「Top 50 Companies in Satellite Manufacturing Market Statistics ... — Top 50 Companies in Satellite Manufacturing Market Statistics ... Spherical Insights https://www.sphericalinsights.com > t...」（https://www.sphericalinsights.com/blogs/top-50-companies-in-satellite-manufacturing-market-statistics-report-till-2035）
+
+## 衛星データ（satellite data services）
+- 文脈：6 航空・宇宙 ⑤人工衛星・サービス
+- 市場規模：
+  - 「世界の衛星データサービス市場は 2025 年に 129億5,000万米ドルと評価され、2026年から2032年にかけて年平均成長率（CAGR）は 19.55% を超えると推定されています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場規模、サービス別、2022〜2032年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「北米の衛星データサービス市場規模、2022〜2032年（10億米ドル単位）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「市場規模で 2025」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「市場規模で 2035」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場の2025年の市場規模はどの程度ですか？」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2025年の市場規模は129.5億米ドルに達し、民間および政府用途における地理空間インテリジェンスの導入拡大を背景に、予測期間中は年平均成長率（CAGR）19.55%で成長すると見込まれます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「世界の衛星データサービス市場規模は、2025年には142億米ドルと評価され、2026年の181億3000万米ドルから2034年には1282億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は27.7%となる見込みです」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「2025年の市場規模」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「2026年の市場規模」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「2034年予測市場規模」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「衛星画像分野は、2025年には世界の衛星データサービス市場において最大のシェア（62.7%）を占め、市場規模は89億米ドルに達し、年平均成長率（CAGR）は17.94%と予測されている」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「Kuバンドセグメントは、2025年には世界の衛星データサービス市場において最大のシェア（21.7%）を占め、市場規模は30億8,000万米ドルに達すると予測されており、年平均成長率（CAGR）は19.62%と見込まれています」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+- 成長率：
+  - 「世界の衛星データサービス市場は 2025 年に 129億5,000万米ドルと評価され、2026年から2032年にかけて年平均成長率（CAGR）は 19.55% を超えると推定されています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「予測期間 2026-2035 CAGR」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「2025年の市場規模は129.5億米ドルに達し、民間および政府用途における地理空間インテリジェンスの導入拡大を背景に、予測期間中は年平均成長率（CAGR）19.55%で成長すると見込まれます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「世界市場は、衛星画像技術の進歩、AI主導のデータ分析、低軌道（LEO）衛星コンステレーションの拡大により、2032年までに450億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「地球低軌道（LEO）衛星は、低遅延、高速データ伝送、小型衛星コンステレーションの配備拡大を背景に、2025年に約29.39%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「世界の衛星データサービス市場規模は、2025年には142億米ドルと評価され、2026年の181億3000万米ドルから2034年には1282億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は27.7%となる見込みです」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「市場CAGR（2026年～2034年）」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「欧州の年平均成長率（2026年～2034年）」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「例えば、2025年6月、ESAはコペルニクス計画に新たに6社の商用衛星データプロバイダーが加わることを発表し、同計画の商用データプロバイダーネットワークは25社に拡大しました」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「衛星画像分野は、2025年には世界の衛星データサービス市場において最大のシェア（62.7%）を占め、市場規模は89億米ドルに達し、年平均成長率（CAGR）は17.94%と予測されている」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「Kuバンドセグメントは、2025年には世界の衛星データサービス市場において最大のシェア（21.7%）を占め、市場規模は30億8,000万米ドルに達すると予測されており、年平均成長率（CAGR）は19.62%と見込まれています」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「政府は2030年代早期の倍増（約8兆円）を目指している」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「円)(CAGR7%/年)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 上位シェア：
+  - 「衛星データサービス市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星別衛星データサービス市場の売上高シェア、2023年」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「低軌道（LEO）セグメントは、2025 年に約 29.39% の市場シェアを占めて首位となり、予測期間中も高い成長を記録すると見込まれています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「北米は、2025 年に 31.89% 超のシェアを占め、世界の衛星データサービス市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「Maxar Technologies と AIRBUS は、世界市場で 11% 超の売上高シェアを占めています」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「地球低軌道（LEO）衛星は、低遅延、高速データ伝送、小型衛星コンステレーションの配備拡大を背景に、2025年に約29.39%の市場シェアを占めた」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「北米は2025年に市場シェア31.89%超を占めた」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「衛星データサービス市場の規模、シェア、トレンド分析レポート：サービスタイプ別（衛星画像、地理空間分析）、周波数帯別（Lバンド、Cバンド、Xバンド、Kaバンド、Kuバンド、その他）、用途別（リモートセンシング、気象予報、ナビゲーション＆測位、信号監視、地球観測、その他）、産業分野別（防衛・セキュリティ、エンジニアリング・インフラ、海事、運輸・物流、農業・林業、エネルギー・電力、環境、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「北米は、2025年に38.6%の市場シェアを占め、衛星データサービス市場を牽引しました」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「北米市場シェア（2025年）」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「2025年の市場シェア」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「衛星画像は2025年に62.7%のシェアを獲得し、市場を席巻した」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+- 主要企業：
+  - 「衛星データサービス市場の主要企業」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「市場で事業を展開する主要企業は以下のとおりです」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データサービス業界で事業を展開する主要企業には、AIRBUS、Maxar Technologies、Planet Labs PBC、ICEYE、L3Harris Technologies、Northrop Grumman、Trimble Inc.、Descartes Labs、Earth-i、Geospatial Insightなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「Planet Labsは、この市場における新興の主要企業です」（https://straitsresearch.com/jp/report/satellite-data-services-market）
+  - 「主要企業のリスト：」（https://www.atpress.ne.jp/news/4397350）
+  - 「衛星データサービス業界の主要企業：」（https://www.imarcgroup.com/report/ja/satellite-data-service-market）
+  - 「同市場では、主要企業が市場での地位を強化するため、さまざまな戦略的取り組みに積極的に取り組んでいる」（https://www.imarcgroup.com/report/ja/satellite-data-service-market）
+  - 「すべての主要企業の詳細なプロフィールも提供している」（https://www.imarcgroup.com/report/ja/satellite-data-service-market）
+  - 「市場の主要企業には以下のようなものがある：」（https://www.imarcgroup.com/report/ja/satellite-data-service-market）
+  - 「競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供する」（https://www.imarcgroup.com/report/ja/satellite-data-service-market）
+  - 「また、各政府・参入企業の動向や宇宙関連のビジネスロードマップに関して整理しました」（https://www.fkg-report.jp/market-trends/2025/2140.html）
+  - 「なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、『2025年版 宇宙ビジネス市場の将来展望』をご購入の上、ご覧いただければ幸いです」（https://www.fkg-report.jp/market-trends/2025/2140.html）
+  - 「Key Players」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/4397350）
+  - 「イギリスが衛星通信に関する16件のプロジェクトに1,300万ポンドを出資【宇宙ビジネスニュース】」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「2026年2月3日、気象テック企業Tomorrow.ioは、AIネイティブの気象衛星コンステレーション「DeepSky」の展開に向け、総額1億7,500万ドルの資金調達を実施したと発表しました」（https://sorabatake.jp/utilizing-space/infrastructure/）
+  - 「In September 2023, Accenture made a strategic investment in Open Cosmos, a space technology company specializing in satellite design, manufacturing, and integration. This collaboration aims to democratize access to satellite data, enabling businesses to leverage space-based insights to address terrestrial challenges, particularly those related to sustainability.」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
+  - 「North America held over 31.89% share of the market in 2025. Growth is driven by strong government investments, public–private partnerships, and advanced satellite infrastructure across the region.」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
+  - 「: In late 2024, the Indian Government announced a devoted venture capital fund of approximately $119 million to explore domestic space startups」（https://www.precedenceresearch.com/satellite-data-services-market）
+  - 「Solidium, a Finnish state-owned investment company, invested €15 million in ICEYE, a Finnish Synthetic Aperture Radar (SAR) satellite imaging company. This investment was a follow-up to a convertible debt agreement from earlier in the year.」（https://market.us/report/satellite-data-service-market/）
+  - 「Asia Pacific market accounted for 22.8% of the global satellite data services market, valued at USD 3.24 billion in 2025. The market is expanding due to increasing investments in space infrastructure, rising demand for satellite imagery, growing applications in agriculture and disaster management, and expanding adoption of」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「China market accounted for the largest share of the Asia Pacific market in 2025. Growth is supported by expanding satellite infrastructure, increasing investments in Earth observation capabilities, rising demand for geospatial intelligence, and growing use of satellite data across agriculture, environmental monitoring, and urban planning.」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「The Middle East & Africa market represented 6.5% of the global satellite data services market, totaling USD 0.92 billion in 2025. Rising investments in satellite infrastructure, increasing demand for Earth observation, expanding applications in agriculture and environmental monitoring, and growing adoption of geospatial intelligence are supporting regional market growth.」（https://straitsresearch.com/report/satellite-data-services-market）
+  - 「in 2026. Rapid economic development and growing demand for satellite-based monitoring and connectivity solutions from emerging industries are driving the market in Asia Pacific. Countries like China and India are making heavy investments in their national space programs to boost satellite launches and indigenous capacity.」（https://www.coherentmarketinsights.com/industry-reports/satellite-data-services-market）
+  - 「CAGR through 2034, driven by geopolitical tensions, increasing government investment in border security technologies, and the transition toward intelligence preparation of the operating environment methodologies incorporating open-source geospatial intelligence.」（https://dataintelo.com/report/global-satellite-data-services-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/global-satellite-data-services-market）
+  - 「applications expand into soil moisture assimilation for water resource management, weather nowcasting, and ionospheric monitoring supporting 5G and 6G infrastructure optimization. Nighttime lights data gains commercial traction for real-time economic activity monitoring, with hedge funds and investment firms allocating $4.2 billion to geospatial data platforms by 2026.」（https://dataintelo.com/report/satellite-data-market）
+  - 「annual per-acre pricing. SpaceKnow monitors economic activity across 400+ cities globally, providing investment decision support for hedge funds managing」（https://dataintelo.com/report/satellite-data-market）
+- 検索結果の抜粋：
+  - 「衛星データ サービス 市場規模 、シェア |成長 [2026-2034] — 衛星データ サービス 市場規模 、シェア |成長 [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
+  - 「衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 — 衛星データ サービス 市場 の 規模 ・動向レポート、2026〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「CAGR 11.52％で拡大する地球観測・リモートセンシング需要 — CAGR 11.52％で拡大する地球観測・リモートセンシング需要 アットプレス https://www.atpress.ne.jp > news」（https://www.atpress.ne.jp/news/4397350）
+  - 「衛星データ サービス 市場 の規模・動向レポート、2026〜2032年 — 衛星データ サービス 市場 の規模・動向レポート、2026〜2032年 Global Market Insights Inc. https://www.gminsights.com > ... > 通信」（https://www.gminsights.com/ja/industry-analysis/satellite-data-services-market）
+  - 「衛星データ 活用サービス 市場 に関する調査を実施（ 2025 年） — 衛星データ 活用サービス 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id」（https://www.yano.co.jp/press-release/show/press_id/3824?srsltid=AYCX9vKemwwMuheMzeIg4oDrOe56mKxsqL9yJXXKSw6GY_35B1MsS3J8）
+  - 「衛星データ サービス 市場 規模、シェア |成長 [2026-2034] — 衛星データ サービス 市場 規模、シェア |成長 [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 宇宙技術」（https://www.fortunebusinessinsights.com/jp/%E8%A1%9B%E6%98%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-108359）
+  - 「衛星データ 活用サービス 市場 に関する調査を実施（ 2025 年） — 衛星データ 活用サービス 市場 に関する調査を実施（ 2025 年） Yano ICT https://www.yanoict.com > summary > show」（https://www.yanoict.com/summary/show/id/774）
+  - 「Satellite Data Services Market Size & Trends Report, 2026-2032 — Satellite Data Services Market Size & Trends Report, 2026-2032 Global Market Insights Inc. https://www.gminsights.com > satellit...」（https://www.gminsights.com/industry-analysis/satellite-data-services-market）
+  - 「Satellite Data Services Market Size Report, 2025 -2030 — Satellite Data Services Market Size Report, 2025 -2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Satellite Data Services Market worth $20.9 billion by 2028 — Satellite Data Services Market worth $20.9 billion by 2028 PR Newswire https://www.prnewswire.com > satellit...」（https://www.prnewswire.com/news-releases/satellite-data-services-market-worth-20-9-billion-by-2028---exclusive-report-by-marketsandmarkets-302061658.html）
+  - 「Satellite Data Services Market Analysis, Trends | 2035 — Satellite Data Services Market Analysis, Trends | 2035 Market Research Future https://www.marketresearchfuture.com > ...」（https://www.marketresearchfuture.com/reports/satellite-data-services-market-8562）
+  - 「Satellite Data Services Market Worth Over $86 Billion by 2034 — Satellite Data Services Market Worth Over $86 Billion by 2034 Yahoo Finance https://finance.yahoo.com > news > sa...」（https://finance.yahoo.com/news/satellite-data-services-market-worth-132200523.html）
+  - 「Satellite Data Services Market Size Report, 2025-2030 — Satellite Data Services Market Size Report, 2025-2030 Grand View Research https://www.grandviewresearch.com > ...」（https://www.grandviewresearch.com/industry-analysis/satellite-data-services-market）
+  - 「Satellite Data Services Market Size , Share & Forecast 2032 — Satellite Data Services Market Size , Share & Forecast 2032 Stratview Research https://www.stratviewresearch.com > s...」（https://www.stratviewresearch.com/market-reports/satellite-data-services-market.html）
+  - 「Satellite Data Services Market (2025-2034) — Satellite Data Services Market (2025-2034) Allied Market Research https://www.alliedmarketresearch.com > ...」（https://www.alliedmarketresearch.com/satellite-data-services-market-A06428）
+
+## 宇宙ステーション（commercial space station）
+- 文脈：6 航空・宇宙 ⑥月面・低軌道
+- 市場規模：
+  - 「世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「グローバル宇宙経済市場規模、バリューチェーン部門別、2022〜2035年（10億米ドル）」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「下流活動の市場規模は2025年に2,181億米ドルとなり、2035年には4,421億米ドルに達すると予測され、CAGR 7.5%で成長する見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「衛星通信の市場規模は 2025年に1,684億米ドルに達し、年平均成長率（CAGR）6.5%で成長して 2035年には3,109億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「地球観測・リモートセンシングの市場規模は、2025年の952億米ドルから、年平均成長率（CAGR）8.1%で成長し、2035年には2,036億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「GNSSによる航法・測位の市場規模は、2025年の828億米ドルから、年平均成長率（CAGR）7.5%で成長し、2035年には1,678億米ドルに拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙探査・科学の市場規模は、2025年の520億米ドルから、年平均成長率（CAGR）6.8%で成長し、2035年には988億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「その他の用途の市場規模は、年平均成長率（CAGR）5.8%で成長し、408億米ドルから707億米ドルに拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「政府・防衛の市場規模は 2025年に1,974億米ドルに達し、年平均成長率（CAGR）5.7%で成長して 2035年には3,390億米ドルに達すると見込まれる」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+- 成長率：
+  - 「世界の宇宙経済市場は 2025 年に 4,391 億米ドルに達し、2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大すると予測されている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2026 年から 2035 年にかけての年平均成長率（CAGR）は約 7% と見込まれる」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「当社の市場推計では、市場規模は 2026 年の 4,624 億米ドルから 2035 年までに 8,518 億米ドルへ拡大する見通しである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「市場の年平均成長率約 7.0%を下支え」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上流活動の市場規模は2025年に1,372億米ドルに達し、2035年までに2,249億米ドルに拡大すると予測され、年平均成長率（CAGR）は5.2%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「中流活動の市場規模は、2025年の838億米ドルから2035年には1,848億米ドルへ拡大すると予測され、CAGRは8.4%となる見込みである」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「政府は2030年代早期の倍増（約8兆円）を目指している」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「円)(CAGR7%/年)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR7%/年で成長するとした場合、$27.74billion(約3.6兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR15%/年で成長するとした場合、$49.6billion(約6.4兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➡衛星以外も含むRemote sensing service市場成長率として約15%の推定値あり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「・CAGR20%/年で成長するとした場合、$72.8billion(約9.5兆円)」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➡観測以外も含む衛星データ利用市場成長率として約20%の推定値あり」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ GNSS機器及び付加価値サービスの収益は年平均成長率8％で、2033年には」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 上位シェア：
+  - 「宇宙経済市場の規模、シェア、動向、分析、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Boeing は2025年に 3.7%を超える市場シェアを占め、首位となった」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「この市場の上位5社には、」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Space Foundation は、2024 年の世界の宇宙経済規模を 6,130 億米ドルと推定し、商業活動が全体の 78% を占めたとしている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「Chart: Global Space Ecomony Market Share, By Application, 2025 (%)」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「上位4社は2025年に市場の推定10.9%を占め、残りの89.1%は、機器プロバイダー、運用事業者、公共部門の請負企業、データ企業、専門サービス企業から成る幅広い企業群に分散していました」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「2025年現在、北米は宇宙経済市場で最大のシェアを占めている」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「⚫ 商業衛星の打上市場におけるシェアはこの10年間で大きく変化」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「⚫ スターリンクとワンウェブの打上数が2020年から激増し、昨年は全体の7割以上を占めた」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「消費者向けソリューション、カーナビ等の自動車・道路分野が全体の９割以上を占めて」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「ンが65%を占める」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+  - 「➢ 自動車・道路関係が26％を占める」（https://www.meti.go.jp/shingikai/sankoshin/seizo_sangyo/space_industry/pdf/001_05_00.pdf）
+- 主要企業：
+  - 「これらのプログラムは、商業参入企業が自社プラットフォームで継続的なサービス収益を確保する前に依存することの多い、専門的な生産能力と適格性確認要件を維持している」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「新規参入企業の資金調達を制約」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「AmazonのProject Kuiperの進捗は、十分な資本を有する新規参入企業であっても、サービス規模での経済性が実現する前に、衛星、打ち上げ体制、ネットワークインフラ、顧客への販売・提供体制を並行して整備しなければならないことを示している」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「宇宙経済市場の主要企業には、Lockheed Martin、Airbus、Boeing、SpaceXなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/space-economy-market）
+  - 「さらに、従来の航空宇宙企業と新規参入企業との戦略的パートナーシップが、宇宙ミッションの効率化とコスト削減を促進している」（https://straitsresearch.com/jp/report/space-logistics-market）
+  - 「宇宙ビジネスとは？世界市場6,264億ドル・主要企業・参入方法をまとめて解説」（https://xn--29sob207cg49a.com/business/space-market-size-data-2026/）
+  - 「本記事では、世界をリードする主要企業の動向を軸に、宇宙産業の最新勢力図を詳しく解説します」（https://space-with.com/industry/global-space-industry-ranking）
+  - 「宇宙開発企業の売上高ランキングで、国内上位に位置する主な企業は以下の通りです」（https://space-with.com/industry/global-space-industry-ranking）
+  - 「宇宙産業における主な企業カテゴリと収益構造は、以下の3タイプに整理できます」（https://space-with.com/industry/global-space-company-ranking）
+  - 「主要企業のSWOT分析（3社まで）」（https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html）
+  - 「製品ポートフォリオ、地理的プレゼンス、戦略的提携に基づく主要企業のベンチマーキング」（https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html）
+  - 「6．主な参入企業動向/アライアンス動向」（https://www.fuji-keizai.co.jp/report/detail.html?code=112409809）
+  - 「1）ビジネスマップ・商流 2）主要企業動向一覧」（https://www.fuji-keizai.co.jp/report/detail.html?code=112409809）
+- 投資：
+  - 「例えば、2024年1月、イタリアの宇宙輸送会社D-Orbitは、シリーズC資金調達ラウンドで1億ユーロ（1億1000万米ドル）を確保しました」（https://straitsresearch.com/jp/report/space-logistics-market）
+  - 「出所： The Goldman Sachs Group, Inc.「Space: The Next Investment Frontier」（2017年4月）」（https://www.soumu.go.jp/main_content/000603731.pdf）
+  - 「出所： Morgan Stanley.「Space: Investment Implications of the Final Frontire」（2017年10月）」（https://www.soumu.go.jp/main_content/000603731.pdf）
+  - 「宇宙スタートアップ資金調達まとめ2026 — 上海垣信19億ドル・Stoke 10億ドル・ICEYE 10億ユーロ」（https://xn--29sob207cg49a.com/business/space-market-size-data-2026/）
+  - 「In January 2024: Axiom Space secured a $200M investment to expand its commercial space station modules.」（https://www.futuredatastats.com/commercial-space-station-market）
+  - 「In August 2024: Lockheed Martin invested $150M in commercial space station tech for future NASA collaborations.」（https://www.futuredatastats.com/commercial-space-station-market）
+  - 「for its human spaceflight program through 2035. Japan and South Korea are increasing their investments in orbital manufacturing and research platforms as well, collectively adding to the region's demand for commercial orbital services.」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「by 2034, as competition between Axiom Space, Orbital Reef, and Starlab creates pricing pressure that gradually broadens the customer base. Sovereign space tourism programs, where governments purchase seats to send their national astronauts as a prestige investment, added an additional layer of demand particularly from Middle Eastern and Southeast Asian nations in 2024-2025.」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「annually in manufacturing-related station revenue by 2028. Earth observation from crewed and semi-crewed orbital platforms also benefits from the large aperture, stability, and flexible pointing capabilities not available on uncrewed satellites, driving additional module demand from geospatial intelligence companies. Related investments in」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「CLD program funding that de-risks private investment, and the dramatic decline in launch costs enabled by SpaceX's reusable Falcon 9 and the forthcoming Starship vehicle. In 2025, LEO accounted for」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「active commercial station development programs across North America, Europe, and Asia Pacific. The convergence of microgravity research demand, space tourism uptake, and sovereign infrastructure investments positions LEO as the dominant orbital zone through at least the late 2030s, with the market projected to grow from」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「The global commercial space station market was valued at approximately $4.8 billion in 2025. It is projected to grow at a CAGR of 18.8% from 2026 to 2034, reaching an estimated $22.6 billion by 2034. This growth is primarily driven by NASA's CLD program, the impending ISS retirement, space tourism expansion, and increasing private sector investment in orbital infrastructure.」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「10.5 Investment Scenario」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「NASA Commercial LEO Destinations program funding commercial replacements for the ISS (Phase 2 awards still pending in 2026)」（https://spacenexus.us/sectors/commercial-space-stations）
+  - 「in 2024, witnessing robust expansion on the back of private sector investments and advancements in space technologies. The market is projected to grow at a」（https://dataintelo.com/report/commercial-space-station-market）
+- 検索結果の抜粋：
+  - 「宇宙ステーション市場 | 市場規模 業界分析 予測 2032年 【市場調査レ... — Nov 1, 2025 · Stratistics MRCの調査によると、世界の宇宙ステーション市場は2025年に37億米ドル規模と予測され、予測期間中にCAGR15.8％で成長し、2032年までに103億米ドルに達すると見込まれています。」（https://www.gii.co.jp/report/smrc1871918-space-stations-market-forecasts-global-analysis-by.html）
+  - 「2025年版 宇宙ビジネス市場の将来展望 ｜ 調査レポート ｜ 富士経済グ... — Sep 10, 2025 · 2023年に設立されたJAXA宇宙戦略基金（10年で1兆円）により、新規参入を検討する民間企業が急増しています。 宇宙ビジネスは、衛星データサービスから人工衛星、月面建設機械、宇宙旅行まで幅広く、求められる技術も多様です。」（https://www.fuji-keizai.co.jp/report/detail.html?code=112409809）
+  - 「Commercial Space Station Market Size to Hit USD 30.57 Billion ... — The Commercial Space Station Market is valued at USD 3.20 Billion in 2025 and is projected to reach USD 30.57 Billion by 2034, expanding at a CAGR of 28.50% during the forecast period. Explore in-depth analysis, key players, market trends, and growth drivers.」（https://trendxinsights.com/syndicated-market-research-reports/commercial-space-station-market/）
+  - 「Commercial Space Station Market Size, Share and Growth 2034 — The global commercial space station market size was valued at USD 820.1 million in 2025. The market is projected to grow from USD 1,049.6 million in 2026 to USD 6,408.6 million by 2034, exhibiting a CAGR of 25.4% during the forecast period.」（https://www.fortunebusinessinsights.com/commercial-space-station-market-119554）
+  - 「Commercial Space Station Market Size & Industry Growth 2030 — The global Commercial Space Station Market size was valued at USD 4.5 billion in 2025 and is expected to reach USD 16.4 billion by 2033, expanding at a CAGR of 35% during the forecast period 2025-2033」（https://www.futuredatastats.com/commercial-space-station-market）
+  - 「Commercial Space Station Market Research Report 2034Commercial Space Stations Companies & Market Data: Space ...Commercial Space Station Market Report 2026Commercial Space Station Market Size, Share, Report 2026 — May 17, 2026 · The commercial space station market was valued at $4.8 billion in 2025 and is projected to reach $22.6 billion by 2034, growing at a CAGR of 18.8%. Market size: $5.4B (202」（https://marketintelo.com/report/commercial-space-station-market）
+  - 「Commercial Space Stations Companies & Market Data: Space ... — Market size: $5.4B (2025), growing at +19.5% CAGR. 5 companies tracked on SpaceNexus.」（https://spacenexus.us/sectors/commercial-space-stations）
+  - 「Commercial Space Station Market Report 2026 — The commercial space station market size has grown rapidly in recent years. It will grow from $5.95 billion in 2025 to $6.96 billion in 2026 at a compound annual growth rate (CAGR) of 17.1%.」（https://www.researchandmarkets.com/reports/6226079/commercial-space-station-market-report）
+  - 「Commercial Space Station Market Size, Share, Report 2026 — The commercial space station market is projected to reach $12.93 billion by 2030 at a 16.7% CAGR, driven by space tourism, LEO habitats, and in-space manufacturing demand.」（https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report）
+  - 「Commercial Space Station Market Research Report 2033 — Regionally, North America continues to dominate the commercial space station market, accounting for the largest share of global revenue in 2024.」（https://growthmarketreports.com/report/commercial-space-station-market）
+  - 「Commercial Space Station Market Size & Industry Growth 2030 — North America leads the Commercial Space Station Market with strong government backing and a thriving private space sector. Companies in the U.S. receive support through funding programs and launch infrastructure, which accelerates development and deployment.」（https://www.futuredatastats.com/commercial-space-station-market）
+  - 「Commercial Space Station Global Market Opportunities and ... — The top opportunities in the commercial space station market segmented by orbit will arise in the low earth orbit segment, which will gain $3.24 billion of global annual sales by 2030.」（https://www.researchandmarkets.com/reports/6256896/commercial-space-station-global-market）
+  - 「Commercial Space Stations Companies & Market Data: Space ... — Commercial space stations represent the next generation of human-occupied orbital platforms, designed to replace the ISS when it is deorbited around 2030. NASA is supporting multiple commercial providers through the Commercial LEO Destinations (CLD) program.」（https://spacenexus.us/sectors/commercial-space-stations）
+  - 「Commercial Space Station Market Size, Share, Report 2026 — Major companies operating in the commercial space station market are focusing on developing advanced habitation technologies, such as human-centric interior design and novel life support systems, to enhance crew comfort, well-being, and scientific productivity in microgravity.」（https://www.thebusinessresearchcompany.com/report/commercial-space-station-market-report）
+  - 「Commercial Space Station Market Research Report 2034Commercial Space Station Market Size & Industry Growth 2030Commercial Space Station Market Size, Share and Growth 2034Commercial Space Companies — Industry Directory - Orbital Radar — May 17, 2026 · North America dominates the commercial space station market with a 52.4% revenue share in 2025, equivalent to approximately $2.5 billion. This domina」（https://marketintelo.com/report/commercial-space-station-market）
+
+## 海洋ドローン（unmanned underwater vehicle）
+- 文脈：7 海洋 ①海洋ドローン
+- 市場規模：
+  - 「水中ドローン市場規模・統計レポート、2026〜2035年」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「2025年の市場規模」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「2026年の市場規模」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「2035年の予測市場規模」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「Reuters. “Australia to spend $1.1 billion on Anduril undersea drone fleet.” reuters.com」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「Underwater Drones Market Size, by Vehicle Type, 2025 & 2035 (USD Million)」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「電気推進の市場規模は2025年に24億6,000万米ドルとなり、2035年には市場収益の67.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「ハイブリッド推進システムの市場規模は、2025年の基準年シェア15.0%から、2035年には17億3,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「防衛・安全保障分野の市場規模は2025年に17億2,000万米ドルとなり、2035年には45.0%のシェアを占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「商業探査は2025年に25.0%のシェアを占め、2035年には市場規模が27億8,000万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「インフラ検査分野の市場規模は2025年に7億3,800万米ドルとなり、2026〜2035年に年平均成長率（CAGR）10.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「浅海用車両の市場規模は2025年に12億3,000万米ドルとなり、2035年には27.0%のシェアを占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「海洋ドローン市場規模、動向、予測、2025-2032」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「グローバルオーシャンドローン市場規模と予測 - 2025-2032」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+- 成長率：
+  - 「水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「HUVは、2025年の基準年シェア5.0%から拡大し、2035年には4億6,300万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「ヘビーワーククラスの車両は、2035年に30億1,000万米ドルに達し、2026〜2035年に年平均成長率9.4%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「機械式および油圧式の推進方式は、2025年の市場の25.0%を占め、2026〜2035年に年平均成長率（CAGR）7.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「インフラ検査分野の市場規模は2025年に7億3,800万米ドルとなり、2026〜2035年に年平均成長率（CAGR）10.3%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「深海級ビークルは、2035年までに市場収益の26.0%を占め、2026〜2035年の年平均成長率（CAGR）は11.4%になると予測される」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「超深海型プラットフォームは2025年に10.0%のシェアを占め、2026〜2035年に13.8%のCAGRで成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「2032年までに、化合物の年間成長率を示す」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「16.1%のCAGR」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「30.21%のシェアを誇るアジア太平洋地域は、海上経済の拡大、オフショアインフラプロジェクトの増加、スマートオーシャンテクノロジーの推進に向けた戦略的な政府の取り組みにより、海上ドローン市場における最速成長を期待しています」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「予測期間 2025〜2032 CAGR:」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「彼は、Fortune 500 企業や新興企業にサービスを提供し、幅広い事業拡大や市場参入戦略でクライアントを支援してきました」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+- 上位シェア：
+  - 「水中ドローン市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「Kongsberg Maritimeは2025年に4%を超える市場シェアを獲得し、市場をリードしました」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「本市場の上位5社は、」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「これらの企業は合計で、2025年に16.6%の市場シェアを占めました」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン市場の調査対象企業について公表された機体売上高を分析した結果、上位19社の2025年の売上高合計は、市場全体の約47%を占めたと推定されます」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「FY2027-FY2028まで米海軍（DoN）によるUUV向け予算配分が維持されれば、防衛・安全保障セグメントは2035年の予測期間末に市場シェア45%に達します」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン市場のROVセグメントは、2025年に22億5,000万米ドルを生み出し、2035年には50.0%のシェアを占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「AUVは2025年に市場の40.0%を占め、2026〜2035年に年平均成長率（CAGR）12.5%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「HUVは、2025年の基準年シェア5.0%から拡大し、2035年には4億6,300万米ドルに達すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「マイクロクラスの車両は、2025年に売上高の10.0%を占め、2026〜2035年に年平均成長率14.8%で成長すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「ライトワーククラスの車両は、2025年に売上高の35.0%を占め、2035年には33.0%のシェアを維持すると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「電気推進の市場規模は2025年に24億6,000万米ドルとなり、2035年には市場収益の67.0%を占めると予測されています」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「Underwater Drones Market Share, by Propulsion Type, 2025」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「オーシャンドローン市場 規模とシェアの分析 - 成長傾向と予測 (2026-2033) 分析」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「無人水中車両(UUV)セグメントは、2025年に71.3%の推定シェアを保持する市場をリードします」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+- 主要企業：
+  - 「水中ドローン市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン市場の主要企業には、Kongsberg Maritime、Teledyne Technologies、General Dynamics Mission Systems、L3Harris Technologies、HII Mission Technologiesなどが含まれます」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「香港スベルク・グルッペンASA、テレデューン・テクノロジーズ株式会社、サブ・アブ、ジェネラル・ダイナミクス・ミッション・システム、L3ハリス・テクノロジーズ、ロッキード・マーティン・コーポレーション、ECAグループ、HIIは主要プレイヤーです」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「Startups」（https://www.sphericalinsights.com/jp/reports/underwater-drones-market）
+  - 「水中ドローン市場の主要企業はどこですか？」（https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html）
+  - 「世界の海洋ドローン市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模、主要地域別市場規模、流通チャネル分析などの情報を掲載しています」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「当資料に含まれる主要企業は、The Oceanscience Group、YUNZHOU TECH、Deep Ocean Engineering、…などがあり、各企業の海洋ドローン販売状況、製品・事業概要、市場シェアなどを掲載しています」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「主要企業の動向」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「世界の医師・看護師用スケジュールシステム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：Webベース、クラウド、SaaS、オンプレミス、モバイルインストール、用途別 …」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「世界の農業機械用ディーゼルエンジン市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：単気筒エンジン、多気筒エンジン、用途別：農業用車両、作物加工機械、その他）、主要地 …」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「世界のAGグラス市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：化学エッチング、スプレー、コーティング、用途別：家電、自動車、家電、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「当資料に含まれる主要企業は、Sch …」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「世界のシングルチップマイクロコンピューター市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：4ビット、8ビット、16ビット、32ビット、その他、用途別：インテリジェント計装、インテリ …」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「世界の有害昆虫防除市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：化学薬品、物理、生物学、その他、用途別：商業・工業、住宅、畜産、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+- 投資：
+  - 「海洋ドローン（海洋無人機）とは｜官民投資ロードマップの目標・投資額1.2兆円・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html）
+  - 「官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで9.4兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html）
+  - 「官民投資の具体像 ― 投資額1.2兆円・経済波及効果9.4兆円」（https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html）
+  - 「官民投資額は2040年度までで1.2兆円、投資による経済波及効果は2040年度までで9.4兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html）
+  - 「プラスチック製滅菌トレイの世界市場2025：種類別（ポリプロピレン（PP）滅菌トレイ、ポリエチレンテレフタレート（PET）滅菌トレイ、ポリ塩化ビニル（PVC）滅菌トレイ、その他）、用途別分析」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「https://www.govconwire.com/2022/07/leidos-wins-potential-358m-contract-to-develop-navys-medium-uuv-platform/」（https://www.cognitivemarketresearch.com/unmanned-underwater-vehicles-market-report）
+  - 「4.2.2.1. Rising investment of businesses in the oil and gas industry」（https://www.emergenresearch.com/industry-report/unmanned-underwater-vehicles-market）
+  - 「11.5 Investment Scenario」（https://dataintelo.com/report/unmanned-underwater-vehicle-market）
+- 検索結果の抜粋：
+  - 「水中 ドローン市場規模 ・統計レポート、2026〜2035年 — 水中 ドローン市場規模 ・統計レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > underwater-drones-market」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「海洋ドローン市場規模 、動向、予測、2025-2032 — 海洋ドローン市場規模 、動向、予測、2025-2032 Coherent Market Insights https://www.coherentmarketinsights.com > オーシャンドロ...」（https://www.coherentmarketinsights.com/ja/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E5%B8%82%E5%A0%B4）
+  - 「世界の水中 ドローン市場規模 、2033年までの予測レポート — 世界の水中 ドローン市場規模 、2033年までの予測レポート Spherical Insights https://www.sphericalinsights.com > reports > underwater-...」（https://www.sphericalinsights.com/jp/reports/underwater-drones-market）
+  - 「海洋ドローン （海洋無人機）とは｜官民投資ロードマップの ... — 海洋ドローン （海洋無人機）とは｜官民投資ロードマップの ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (7) 海洋」（https://digital-supporter.net/mirai-ai/17invest/kaiyou-drone.html）
+  - 「水中ドローン市場 | 市場規模 業界シェア 市場分析 成長性 2026年 — Mar 19, 2026 · 水中ドローン市場の各社は、高度な海洋探査やリアルタイムのデータ収集に対する需要の高まりに応えるため、ワイヤレスストリーミング機能を備えた水中ドローンなどの技術革新に注力しています。」（https://www.gii.co.jp/report/tbrc1992512-underwater-drone-global-market-report.html）
+  - 「水中ドローン市場の規模、シェア、成長率、予測（2034年まで） — Aug 24, 2026 · 水中ドローンの市場規模は、2026年の79億7415万ドルから2034年には196億312万ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.9%となる見込みです。」（https://straitsresearch.com/jp/report/underwater-drones-market）
+  - 「世界の海洋ドローン市場2026年 ：Marine Drone — ※当レポートは英文です。 日本語版はありません。 ※下記記載のレポート概要・目次・セグメント項目・企業名などは最新情報ではない可能性がありますので、ご購入の前にサンプルを依頼してご確認ください。 レポート概要」（https://www.marketresearchcenter.jp/global-marine-drone-market-report-mrc-od-75509/）
+  - 「水中ドローン市場規模・統計レポート、2026〜2035年 — 主要企業： 本市場の上位5社は、 Kongsberg Maritime、Teledyne Technologies、General Dynamics Mission Systems、L3Harris Technologies、HII Mission Technologies です。 これらの企業は合計で、2025年に16.6%の市場シェアを占めました。」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン - メーカー・企業11社の製品一覧とランキング | イプロ... — 5 days ago · 水中ドローンのメーカーや取扱い企業、製品情報、参考価格をまとめています。 技術資料のダウンロードも可能です。 イプロスでは水中ドローンのBtoB向けの情報を多数掲載。」（https://www.ipros.com/cg2/水中ドローン/）
+  - 「水中海洋ドローンの世界および日本市場調査レポート - PW Consulting ... — 水中海洋ドローンの世界および日本市場調査レポート 2025-12-28 admin New Technology 研究の鍵データ – グローバルな水中ドローン市場規模: 2,950.80百万USD – 地域別の市場規模: – 北米: 1,200.00百万USD – ヨーロッパ: 800.00百万USD – アジア太平洋: 750.00百万USD」（https://jp.pmarketresearch.com/underwater-ocean-drone-jp/）
+  - 「海洋ドローン市場規模、動向、予測、2025-2032 — Mar 17, 2026 · また、海洋探査への投資を増加させ、持続可能な海洋慣行に重点を置き、イノベーションを推進しています。 リアルタイムの海洋分析データと、水中検査および資源マッピングにおける商業機会の拡大の必要性が高まっています。」（https://www.coherentmarketinsights.com/ja/オーシャンドローン市場）
+  - 「水中ドローン市場規模とYY成長率、2025-2032 — Mar 31, 2026 · 水中ドローン市場は、防衛、セキュリティ、監視などの用途の領域を増加させることによって、重要な成長を目撃しています。 国間の地政的な緊張によるセキュリティ上の懸念は、海上保安に費やす防衛の増加につながりました。」（https://www.coherentmarketinsights.com/ja/水中ドローン市場）
+  - 「水中ドローン市場規模・統計レポート、2026〜2035年 — 水中ドローン市場規模 水中ドローン市場は2025年に41億米ドルと評価され、2026年には46.6億米ドルに達し、2026〜2035年に年平均成長率（CAGR）10.9%で成長して、2035年までに115.8億米ドルに達すると予測されています。」（https://www.gminsights.com/ja/industry-analysis/underwater-drones-market）
+  - 「水中ドローン市場の規模、シェア、成長率、予測（2034年まで） — Aug 24, 2026 · 世界の水中ドローン市場規模は、2025年には71億2614万米ドルと評価され、2026年の79億7415万米ドルから2034年には196億312万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は11.9%となる見込みです。」（https://straitsresearch.com/jp/report/underwater-drones-market）
+  - 「Unmanned Underwater Vehicle Market Size & Share Analysis ... — Sep 11, 2026 · Unmanned Underwater Vehicle Market Analysis by Mordor Intelligence The unmanned underwater vehicle market size reached USD 4.01 billion in 2025 and is projected to advance to USD 5.58 billion by 2030, reflecting a 6.83% CAGR. Rising naval modernization budgets, expanding offshore wind build-outs, and heightened concern f」（https://www.mordorintelligence.com/industry-reports/unmanned-underwater-vehicle-market）
+
+## 海洋状況把握（maritime domain awareness）
+- 文脈：7 海洋 ②MDA
+- 市場規模：
+  - 「海洋観測システム市場：市場規模と2030年までの予測」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「海洋監視システム市場規模は、2022年の14億8,000万米ドルから2030年には21億9,000万米ドルに達すると予測されています」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「市場は2022年から2030年にかけて5.0%のCAGRを記録すると予想されています」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「の市場規模 2022」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「US$ 1.48 Billion」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「市場規模別 2030」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「US$ 2.19 Billion」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場規模、シェア、トレンド分析レポート：タイプ別（GPS海洋津波計、多機能観測ブイ、観測監視システム、波浪・潮汐センサー、その他）、用途別（オフショア、オンショア、深海計測機器）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「世界の海洋観測システム市場規模は、2025年には12億8,000万米ドルと評価され、2026年の13億5,000万米ドルから2034年には20億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.3%となる見込みです」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）5.3%で成長すると予測されている」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「水中通信システム市場規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「FPSO市場規模、シェア、成長、機会、分析、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「船舶用発電機市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋状況把握（MDA）とは｜官民投資ロードマップの目標・投資額1.2兆円・「海しる」・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+- 成長率：
+  - 「市場は2022年から2030年にかけて5.0%のCAGRを記録すると予想されています」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「世界的なCAGR (2022 - 2030)」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「世界の海洋観測システム市場規模は、2025年には12億8,000万米ドルと評価され、2026年の13億5,000万米ドルから2034年には20億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.3%となる見込みです」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「2025年には、NOAA（米国海洋大気庁）が海洋気象予測の精度向上を目指し、AIを活用した海洋予測ツールの利用を拡大しました」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「アジア太平洋地域は、予測期間中に年平均成長率（CAGR）5.7%を示すと予想されています」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポートされています」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「勝ち筋は、情報収集手段の高度化、「海しる」の機能強化、民間による情報利用の拡大、国際連携の4つです」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「・世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポート※1されている」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「224億ドル程度（成長率8.1％）」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「海洋状況把握システムの世界市場規模は、今後5年間でxx％の年率で成長すると予測されています」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「（５）主要生産地域：世界の海洋監視データ収集システムの主要生産地域の生産量、生産能力、前年比成長率を分析し、企業が世界の供給状況を把握するための重要な情報を提供します」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+  - 「第4章：主要生産地域の生産量、市場シェア、予測を紹介し、年平均成長率（CAGR）で各地域の成長可能性を評価し、海洋監視データ収集システム市場の地域別発展動向を把握します」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+  - 「第6章：海洋監視データ収集システム市場を製品別に分析し、各製品タイプの売上、販売量、平均価格、年平均成長率（CAGR）の推移を示すとともに、今後の市場動向を予測します」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+  - 「第7章：海洋監視データ収集システム市場を用途別に分析し、用途別の販売量、平均価格、売上、市場シェア、成長率を分析します」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+- 上位シェア：
+  - 「海洋監視システム市場の規模と予測（2020年 - 2030年）、世界および地域のシェア、傾向、成長機会分析レポートの対象範囲：タイプ（センサー、水中通信システム、ブイ観測監視システム）、アプリケーション（陸上および沖合）、および地理別」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「水中通信システムセグメントは、2022年に大きな市場シェアを占めました」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「陸上セグメントは、2022年に大きな市場シェアを占めました」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場規模、市場シェア、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場規模、シェア、トレンド分析レポート：タイプ別（GPS海洋津波計、多機能観測ブイ、観測監視システム、波浪・潮汐センサー、その他）、用途別（オフショア、オンショア、深海計測機器）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「北米は、2025年の市場シェア32%で海洋観測システム市場を牽引しました」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「2025年の海洋観測システム市場において、最大のシェアを占める地域はどこでしょうか？」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「北米は2025年時点で32％のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「船舶用プロペラ市場の規模、シェア、成長率、予測（2034年まで）」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「水中通信システム市場規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「船舶解体市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「陸上電源市場の規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「FPSO市場規模、シェア、成長、機会、分析、2034年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「企業別売上及び市場シェア（～2025年）」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+- 主要企業：
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market）
+  - 「海洋モニタリングシステム市場のエコシステムにおける主要企業は、高度なセンサーポートフォリオ、グローバルな展開ネットワーク、オフショアモニタリングの専門知識、政府機関、研究機関、オフショアエネルギー事業者との長期契約を通じて競争しています」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋観測システム市場における主要企業はどこでしょうか？」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「この市場の主要企業は、Global Ocean Security Technologies、Hitachi Zosen Corporation、Ocean Scientific International Ltd、Sea6 Energy Pvt. Ltd.、Seatools B.V. です」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「当レポートに含まれる主要企業は、Lockheed Martin Corporation、BAE Systems PLC、Leonardo S.p.A、…などがあり、各企業の海洋状況把握システム販売量、売上、価格、市場シェアなどを分析しました」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「主要企業の動向」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界のバッテリー試験・製造装置市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：電極用スラリー混合装置、コーティング・プレス装置、スライド装置、巻線・スタッキング装 …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界の折りたたみ式自転車市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：電気、非電気、用途別：演習、交通ツール、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「当資料に含まれる主要企業は、 …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界のNd-Fe-B永久磁石材料市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：焼結Nd-Fe-B、結合Nd-Fe-B、射出Nd-Fe-B、用途別：電子、計器、機械・装 …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界の液体二酸化炭素用貯蔵タンク市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：固定式貯蔵タンク、移動式貯蔵タンク、用途別：エネルギー＆電力、化学、冶金、その他）、主要地 …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界の振動監視・診断システム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：オフライン振動監視・診断システム、オンライン振動監視・診断システム、用途別：機械製 …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界の巻尺テープ市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：ポケットテープ、測量テープ、用途別：木工、建設、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「当資料に含まれる主要企業は、Stanley …」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「具体的には、売上、販売量、平均価格、年平均成長率などの市場規模の分析に加え、主要企業の市場シェアやランキングも評価しています」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+- 投資：
+  - 「海洋観測システム市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market）
+  - 「海洋状況把握（MDA）とは｜官民投資ロードマップの目標・投資額1.2兆円・「海しる」・政策をやさしく解説｜官民投資ロードマップをやさしく読む」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで8.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「官民投資の具体像 ― 投資額1.2兆円・経済波及効果8.7兆円」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「官民投資額は2040年度までで1.2兆円、投資による経済波及効果は2040年度までで8.7兆円と想定されています」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「are emerging as promising markets, together accounting for approximately 15.5% of global revenue in 2025. These regions are benefiting from increasing investments in port security and coastal surveillance infrastructure, growing awareness of maritime economic losses from piracy and illegal fishing, and international development funding directed at strengthening maritime governance frameworks.」（https://growthmarketreports.com/report/maritime-domain-awareness-market）
+  - 「10.5 Investment Scenario」（https://growthmarketreports.com/report/maritime-domain-awareness-market）
+  - 「10.5 Investment Scenario」（https://marketintelo.com/report/maritime-domain-awareness-market）
+  - 「11.5 Investment Scenario」（https://dataintelo.com/report/maritime-domain-awareness-eo-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/maritime-domain-awareness-ai-market）
+  - 「RF satellites detect radio signals that ships emit and calculate where each signal came from. Because the position does not depend on what the ship reports, RF data exposes vessels that go dark or spoof AIS. HawkEye 360 reported revenue of USD 117.7 million in 2025, and Unseenlabs raised EUR 85 million in February 2024 for a constellation built for maritime surveillance.」（https://dataintelo.com/report/maritime-domain-awareness-ai-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/maritime-domain-awareness-market）
+  - 「The market was valued at approximately $4.5 billion in 2024, driven by rising maritime security investments worldwide.」（https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/）
+  - 「10.5 Investment Scenario」（https://growthmarketreports.com/report/maritime-domain-awareness-ai-market）
+  - 「10.5 Investment Scenario」（https://marketintelo.com/report/maritime-domain-awareness-ai-market）
+- 検索結果の抜粋：
+  - 「海洋状況把握 （MDA）とは｜「海しる」の強化で我が国MDA ... — 海洋状況把握 （MDA）とは｜「海しる」の強化で我が国MDA ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (7) 海洋」（https://digital-supporter.net/mirai-ai/17invest/mda.html）
+  - 「【産業調査レポート】海洋状況把握システムの世界市場2026年 ： 指揮... — 海洋状況把握システムの世界市場2026年：種類別・用途別・地域別予測 • 英文タイトル： Global Maritime Situational Awareness System Market 2026」（https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/）
+  - 「世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後... — Jan 27, 2026 · 当レポートでは、2021年から2032年にかけての海洋監視データ収集システム市場に関する詳細なデータを提供します。 具体的には、売上、販売量、平均価格、年平均成長率などの市場規模の分析に加え、主要企業の市場シェアやランキングも評価しています。」（https://yhrnews.hatenadiary.com/entry/2026/01/27/154456）
+  - 「海洋監視データ収集システム業界の上位メーカーランキング2025：市場... — （2）主要企業の情報：世界の海洋監視データ収集システム市場における主要企業の売上、価格、シェア、ランキングについて詳細に分析し、競争環境と企業の立ち位置を理解するための指針を提供します。 （2020～2025）」（https://simblo.net/u/M5kjeC/post/617168）
+  - 「Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research」（https://growthmarketreports.com/report/maritime-domain-awareness-market）
+  - 「Maritime Domain Awareness Market Research Report 2034 — Jun 11, 2026 · The global maritime domain awareness market, valued at $4.2 billion in 2025, is projected to reach $7.1 billion by 2034, growing at 6.8% CAGR, reflecting the increasing criticality of comprehensive maritime monitoring capabilities for national security and commercial operations.」（https://marketintelo.com/report/maritime-domain-awareness-market）
+  - 「Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research Report 2034 — The Maritime Domain-Awareness EO market was valued at $8.4 billion in 2025 and is projected to reach 」（https://dataintelo.com/report/maritime-domain-awareness-eo-market）
+  - 「Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research Report 2034 — Sep 30, 2025 · The maritime domain awareness AI market was worth USD 617.1 million in 2025 and grows at a 12.0% CAGR to USD 1,711.3 million by 2034, led by softwar」（https://dataintelo.com/report/maritime-domain-awareness-ai-market）
+  - 「Maritime Domain Awareness Solution Market Sector Growth 2035 — The Maritime Domain Awareness Solution Market was valued at USD 3.84 Billion in 2025 and is projected to grow to USD 6.5 Billion by 2035, at a CAGR of 5.4%.」（https://www.wiseguyreports.com/reports/maritime-domain-awareness-solution-market）
+  - 「Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime domain awareness solution Worldwide Market ReportsMaritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Platforms MarketMaritime Domain Awareness Solution - Global Market Share and ... — Europe holds a significant share of the Maritime Domai」（https://growthmarketreports.com/report/maritime-domain-awareness-market）
+  - 「Maritime Domain Awareness Market Research Report 2034 — Jun 11, 2026 · Asia Pacific dominates the maritime domain awareness market with 34.2% market share, valued at $1.44 billion in 2025, followed by North America with 28.3% and Europe with 21.2%.」（https://marketintelo.com/report/maritime-domain-awareness-market）
+  - 「Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Platforms MarketMaritime Domain Awareness Solution - Global Market Share and ... — Sep 30, 2025 · Maritime security and surveillance is the largest application at 30.0%, and sanctions, compliance and risk screening grows fastest at 15.8% as the EU list of shadow fleet vessels reached 557 in October 2025. The Ma」（https://dataintelo.com/report/maritime-domain-awareness-ai-market）
+  - 「Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market 」（https://growthmarketreports.com/report/maritime-domain-awareness-market）
+  - 「Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market Sector Growth 2035 — Sep 30, 2025 · Companies covered in the Maritime Domain Awareness AI Market report The competit」（https://dataintelo.com/report/maritime-domain-awareness-ai-market）
+  - 「Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market Sector Growth 2035 — Asia Pacific is the dominant region in the global Maritime Domain-Awareness EO market, commanding $2.91 billion and a revenue share of 34.7% in 2025, propell」（https://dataintelo.com/report/maritime-domain-awareness-eo-market）
+
+## 次世代船舶（alternative fuel vessels）
+- 文脈：8 造船 ①次世代船舶
+- 市場規模：
+  - 「⚫ 令和7年度補正予算で1,200億円を措置」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「「官民投資１兆円」のフレーム」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 「造船業再生ロードマップ」に基づき、2035年までに官民で１兆円規模の投資実現を目指す」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官:3,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民:2,800億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「【造船業再生基金：成果目標の達成状況を見て検討し、10年間で合計3,500億円規模を目指す】」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（民:3,500億円規模）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「1,200億円」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「120億円：～2030」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「約410億円の内数：2025～2030 （官民約270億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「150億円※１：～2026」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「生産設備整備支援 約960億円※２：2025～2029」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（官民約2,510億円）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年には1億851万米ドルへ拡大すると予測されており、2026年から2035年の予測期間における年平均成長率（CAGR）は1.67％となる見込みです」（https://newscast.jp/smart/news/6526035）
+  - 「2035年に向けて日本クルーズ船建造市場は量的拡大より高付加価値化が成長機会を左右する」（https://newscast.jp/smart/news/6526035）
+- 成長率：
+  - 「⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「10％のコスト削減建造能力倍増」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本クルーズ船建造市場、2035年に1億851万米ドルへ拡大｜CAGR 1.67％、クルーズ需要拡大と次世代船舶投資が市場成長を後押し | NEWSCAST」（https://newscast.jp/smart/news/6526035）
+  - 「日本クルーズ船建造市場、2035年に1億851万米ドルへ拡大｜CAGR 1.67％、クルーズ需要拡大と次世代船舶投資が市場成長を後押し」（https://newscast.jp/smart/news/6526035）
+  - 「日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年には1億851万米ドルへ拡大すると予測されており、2026年から2035年の予測期間における年平均成長率（CAGR）は1.67％となる見込みです」（https://newscast.jp/smart/news/6526035）
+  - 「2035年に向けて日本クルーズ船建造市場は量的拡大より高付加価値化が成長機会を左右する」（https://newscast.jp/smart/news/6526035）
+  - 「日本クルーズ船建造市場は、2025年の9,195万米ドルから2035年の1億851万米ドルへ拡大し、CAGR1.67％で推移すると予測されています」（https://newscast.jp/smart/news/6526035）
+  - 「特に日本政府が2035年を視野に造船能力の倍増を掲げる中、造船企業には単純な建造量の拡大だけでなく、次世代船舶、環境対応、デジタル製造、高度な船内設備統合といった領域で競争力を高めることが求められます」（https://newscast.jp/smart/news/6526035）
+  - 「日本政府も造船業の再生において2035年の建造能力確保を掲げており、今後は単なる建造量の拡大だけでなく、生産性・技術力・次世代船舶への対応力を含む競争力が問われる局面になるとみられます」（https://newscast.jp/smart/news/6526035）
+  - 「日本のクルーズ市場では、国土交通省が市場の多様化・高度化や個人旅行需要に対応したサービス拡大を課題として掲げており、2025年の日本人クルーズ人口も前年比約8％増の24.3万人となっています」（https://newscast.jp/smart/news/6526035）
+  - 「• 今後、新造船需要の回復局面で2030年代の需要は倍増すると見込まれる一方、人材確保は困難な状況」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「• なお、二酸化炭素回収・貯留(CCS)の世界的な拡大に伴い、LCO2輸送船の造船市場規模は、2030年までに計」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「1.1兆円程度、2040年までに計3.2兆円程度※に拡大すると見込まれている」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+- 上位シェア：
+  - 「⚫ 船価の約7割を材料費（鋼材、舶用機器等）が占める」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 中国は、2024年の世界の建造量のうち約50％を建造しており、今後もシェアは拡大すると見込まれる」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「⚫ 世界的な発注の低迷の中、2020年にかけて日本の受注量・シェアが減少」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「日本のシェアは15-16%で推移してい」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「約１～２割）を占める状態に」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「（シェア10％）」（https://wwwtb.mlit.go.jp/tohoku/content/000366415.pdf）
+  - 「報道発表資料：2030年における次世代船舶受注量の世界トップシェアを目指します<br>～「船舶産業の変革実現のための検討会」報告書のとりまとめ～ - 国土交通省」（https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html）
+  - 「2030年における次世代船舶受注量の世界トップシェアを目指します」（https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html）
+  - 「「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なＧＸ、ＤＸ、人材確保等に係る取組、ロードマップ、今後の実施体制をとりまとめました」（https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html）
+  - 「2030 年における次世代船舶受注量の世界トップシェアを目指します」（https://www.mlit.go.jp/report/press/content/001754728.pdf）
+  - 「酸化炭素(LCO2)輸送船を含めた次世代船舶について、2030年に我が国が受注量のトップシェアを確保すること」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+  - 「(5.5％)を占め、2050年のカーボンニュートラル実現に向けては、水素・アンモニア」（https://www.mlit.go.jp/maritime/content/001895998.pdf）
+- 主要企業：
+  - 「主要企業のリスト：」（https://newscast.jp/smart/news/6526035）
+- 検索結果の抜粋：
+  - 「造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... — 造船｜ 次世代船舶 ・船舶修繕・LNG運搬船（日本成長戦略 ... 日本DX地域創生応援団 https://digital-supporter.net > mirai-ai > seichou17 > zousen」（https://digital-supporter.net/mirai-ai/seichou17/zousen.html）
+  - 「2030年における次世代船舶受注量の世界トップシェアを目指します — 「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なGX、DX、人材確保等に係る取組、ロードマップ、今後の実施体制をとりまとめました。」（https://www.mlit.go.jp/report/press/kaiji05_hh_000281.html）
+  - 「船舶市場規模、シェア、業界分析、船種別（コンテナ船、旅客船、ばら...船舶推進システム業界の世界市場シェアと市場規模 | deallab2030 年における次世代船舶受注量の世界トップシェアを目指します海運業界の市場シェアの分析 | deallab船舶の世界市場（2025-2033）：市場規模、シェア、動向分析日本の造船会社の世界ランキング 政府が現状・課題と再生の道筋を整理... — 無料サンプルをリクエストするこのレポートの詳細については、こちらをご覧ください。 従来型推進システムからハイブリッド推進システムへの移行が顕著なトレンド 巨大な船舶は大量の燃料を消費するため、地球温暖化の一因となります。しかし、多くの海運会社にとって燃料は主なコスト要因です。したがって、エネルギー効率の向上が海運業界のイノベーションの主な推進力となります。ハイブリッド推進システムの効率性と費用対効果により、」（https://www.fortunebusinessinsights.com/jp/船舶市場-102699）
+  - 「2030 年における次世代船舶受注量の世界トップシェアを目指します — 「船舶産業の変革実現のための検討会」において、2030年に目指すべき船舶産業の目標として、次世代船舶の受注量におけるトップシェアを確保することを定めるとともに、船舶産業の変革に必要なGX、DX、人材確保等に係る取組、ロードマップ、今後の実施 ...」（https://www.mlit.go.jp/report/press/content/001754728.pdf）
+  - 「船舶市場規模、成長率 | 2034 年の業界予測船舶の世界市場（2025-2033）：市場規模、シェア、動向分析船舶市場規模、シェア、成長率（2034年まで）2025年6月20日 海事局船舶産業課 - 国土交通省船舶産業の変革ロードマップに基づく 取組の進捗状況について — 無料サンプルをリクエストするこのレポートの詳細については、こちらをご覧ください。 従来型推進システムからハイブリッド推進システムへの移行が顕著なトレンド 巨大な船舶は大量の燃料を消費するため、地球温暖化の一因となります。しかし、多くの海運会社にとって燃料は主なコスト要因です。したがって、エネルギー効率の向上が海運業界のイノベーションの主な推進力となります。ハイブリッド推進システムの効率性と費用対効果により、燃料ベースの従来型推進システムから環境に優しいハイブリッド推進システムへの切り替えが進んでいます。多くの船舶運航者」（https://www.fortunebusinessinsights.com/jp/船舶市場-102699）
+  - 「2025年6月20日 海事局船舶産業課 - 国土交通省 — 我が国は、2030年に目指すベき船舶産業の目標として「我が国海事産業が次世代船舶の受注量におけるトップシェアを確保」を設定した。 実現に向けた道筋が示された。その実現に向けて、水素やアンモニアなどの新たな貨物の船舶による輸送需要」（https://www.mlit.go.jp/report/press/content/001895516.pdf）
+  - 「Alternative Fuel Market Size, Share & Forecast Report 2025 to ...Alternative Fuel Market Size, Share & Trends | Industry ...Sustainable Marine Fuels Market Companies, Size & Trends 2026 ...Sustainable Marine Fuels Market Size, Share & Growth, 2034LR:2025 Alternative Fuel Vessel Application Trends and Market ...Alternative Fuels Market Size And Share Report, 2026-2033Alternative-Fueled Vessel Order」（https://dataintelo.com/report/alternative-fuel-market）
+  - 「LR:2025 Alternative Fuel Vessel Application Trends and Market ... — Lloyd’s Register (LR) points out that global new ship orders are slowing, but demand for alternative fuel vessels continues to grow. According to statistics, although the growth rate of global new ship orders in 2025 has slowed compared to 2024, the order volume for alternative fuel vessels still maintains a relatively significant」（https://www.worldports.org/lr2025-alternative-fuel-vessel-application-trends-and-market-outlook/）
+- 投資：記載なし（読んだ33頁・検索7回）
+
+## 船舶修繕（ship repair）
+- 文脈：8 造船 ②船舶修繕
+- 市場規模：
+  - 「船舶修理・メンテナンスサービスの世界市場は2030年までに420億米ドルに達する見込み」（https://www.atpress.ne.jp/news/1231164）
+  - 「2024年に367億米ドルと推定される船舶修理・メンテナンスサービスの世界市場は、2024年から2030年にかけてCAGR 2.3%で成長し、2030年には420億米ドルに達すると予測されます」（https://www.atpress.ne.jp/news/1231164）
+  - 「米国市場は97億米ドル、中国はCAGR2.1%で成長予測」（https://www.atpress.ne.jp/news/1231164）
+  - 「米国の船舶修理・メンテナンスサービス市場は、2024年に97億米ドルと推定されます」（https://www.atpress.ne.jp/news/1231164）
+  - 「世界第2位の経済大国である中国は、2030年までに68億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは2.1%です」（https://www.atpress.ne.jp/news/1231164）
+  - 「食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「船舶修理・保守サービス市場規模、市場シェア（2034年）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶の修理・保守サービス市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.88%で成長すると予測されている」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+- 成長率：
+  - 「2024年に367億米ドルと推定される船舶修理・メンテナンスサービスの世界市場は、2024年から2030年にかけてCAGR 2.3%で成長し、2030年には420億米ドルに達すると予測されます」（https://www.atpress.ne.jp/news/1231164）
+  - 「本レポートで分析したセグメントの1つであるコンテナ船の修理・メンテナンスサービスは、CAGR 2.6%を記録し、分析期間終了までに157億米ドルに達すると予想されます」（https://www.atpress.ne.jp/news/1231164）
+  - 「旅客船修理・メンテナンスサービス分野の成長率は、分析期間中CAGR 2.0%と推定されます」（https://www.atpress.ne.jp/news/1231164）
+  - 「米国市場は97億米ドル、中国はCAGR2.1%で成長予測」（https://www.atpress.ne.jp/news/1231164）
+  - 「世界第2位の経済大国である中国は、2030年までに68億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは2.1%です」（https://www.atpress.ne.jp/news/1231164）
+  - 「その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ2.2%と1.7%と予測されています」（https://www.atpress.ne.jp/news/1231164）
+  - 「欧州では、ドイツがCAGR 1.8%で成長すると予測されています」（https://www.atpress.ne.jp/news/1231164）
+  - 「世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶修理・保守サービス市場の規模は、2026年には400億6000万米ドルと評価され、2034年までに586億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%です」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶の修理・保守サービス市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）4.88%で成長すると予測されている」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「海難救助サービス市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「に達し、2026年から2034年の期間に年平均成長率」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「（CAGR）8.70%で」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「市場成長率 2026-2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+- 上位シェア：
+  - 「船舶修理・保守サービス市場規模、市場シェア（2034年）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶修理・保守サービス市場の規模、シェア、トレンド分析レポート：船舶タイプ別（貨物船、タンカー、コンテナ船、旅客船・フェリー、オフショア船、軍艦、漁船、その他）、サービス提供場所別（陸上、海上）、用途別（一般サービス、ドック、エンジン部品、電気工事、補助サービス、その他）、エンドユーザー別（政府・防衛、商業）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「北米は、2025年に31.2%の市場シェアを占め、船舶修理・保守サービス市場を牽引しました」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「北米は2025年時点で31.2%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶市場規模、シェア、成長率（2034年まで）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「海難救助サービス市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「海港サービス市場の規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「アジア太平洋地域の海軍艦艇および水上戦闘艦艇市場規模、2034年までの市場シェア」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「水路測量機器市場の規模、シェア、成長率、2034年」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「日本船舶修理市場規模・シェア・需要分析2034」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「日本船舶修理市場規模、シェア、動向および予測船舶タイプ別、用途別、エンドユーザー別、地域別2026～2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「日本空気圧道具市場タイプ、用途、エンドユーザー、地域別の規模、シェア、動向および予測2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「日本の携帯用電動工具市場 製品別、用途別、地域別の市場規模、シェア、動向および予測 2026年～2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「日本の油圧・空気圧およびアクチュエータ市場サイズ、シェア、動向、およびタイプ、機能、コンポーネント、エンドユース産業、地域別の予測、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「日本パイプおよび継手市場サイズ、シェア、動向、およびタイプ、技術、用途、バーティカル、地域別の予測、2026-2034年」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+- 主要企業：
+  - 「コチン造船所やヒンドゥスタン造船所といった主要企業は、船体修理、エンジンオーバーホール、軍艦保守などの能力を強化している」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「市場構造、主要企業のポジショニング、トップ勝ち抜き戦略、競合ダッシュボード、企業評価象限などの競合分析がレポート内で取り上げられています」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「また、すべての主要企業の詳細なプロフィールが提供されています」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「競争環境は、利害関係者が競争環境を理解することを可能にし、市場における主要企業の現在のポジションについての洞察を提供します」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「主要プレイヤーのポジショニングや市場集中度を明確化するとともに、コスト構造、地域別の需給動向を網羅しています」（https://yhresearch.hateblo.jp/entry/2026/09/20/124910）
+  - 「世界船舶メンテナンスと修理市場における主要企業の売上高、市場シェア、ランキングを比較分析し、各社の競争優位性と戦略方向を明確化します」（https://yhresearch.hateblo.jp/entry/2026/09/20/124910）
+  - 「第2章：世界船舶メンテナンスと修理市場における主要企業のシェア、売上、ランキング分析（2021～2026年）」（https://yhresearch.hateblo.jp/entry/2026/09/20/124910）
+  - 「第9章：主要企業プロフィール、製品ポートフォリオ、財務指標、成長戦略分析」（https://yhresearch.hateblo.jp/entry/2026/09/20/124910）
+  - 「船舶用エンジンオイル業界の主要企業調査2026：競合分析、事業戦略、競争優位性」（https://yhresearch.hateblo.jp/entry/2026/09/20/124910）
+  - 「主要プレイヤーのポジショニングや市場集中度を明確化するとともに、生産体制、コスト構造、地域別の需給動向を網羅しています」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「世界船舶修理市場における主要企業の売上高、平均価格、市場シェア、ランキングを比較分析し、各社の競争優位性と戦略方向を明確化します」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「第2章：世界船舶修理市場における主要企業のシェア、売上、価格、ランキング分析（2021～2026年）」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「第10章：主要企業プロフィール、製品ポートフォリオ、財務指標、成長戦略分析」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「船舶修理・メンテナンスサービスの世界の主要企業には、韓進重工業、現代美浦造船所、中国造船工業集団公司（CSIC）、Damen Shipyards Group、Cochin Shipyard Limited、Swissco Holdings Limited、Egyptian Ship Repair & Building Company、Desan Shipyard、Sembcorp Marine Ltdなどが含まれる」（https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html）
+  - 「本レポートは、船舶修理・メンテナンスサービスの世界市場を包括的に紹介することを目的としており、地域別・国別、タイプ別、用途別の船舶修理・メンテナンスサービスの分析とともに、総売上高、主要企業の市場シェア、ランキングに焦点を当てています」（https://www.dri.co.jp/auto/report/qyr/240216-ship-repair-and-maintenance-services-.html）
+- 投資：
+  - 「ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表」（https://www.atpress.ne.jp/news/1231164）
+  - 「遠UVCエキシマランプ業界動向分析：成長要因、抑制要因、将来見通し2026-2032」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「In the year 2025, the Middle East and Africa were consistent with their adoption of ship repair and maintenance services due to the expansion of maritime trade facilities and the increase in investments in the offshore energy industry, especially among the Gulf nations. The United Arab Emirates was responsible for 27.90% of revenues earned in this region.」（https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679）
+  - 「Latin America expanded at a comparable pace, led by Brazil at roughly 37.40% of regional revenue, where growing offshore energy and commercial shipping activity continued to support category growth. Mexico and Argentina followed a similar trajectory as regional maritime infrastructure investment expanded further through the remainder of the forecast period.」（https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679）
+  - 「2025: Cochin Shipyard continued strengthening its naval vessel repair capabilities, supported by strategic investment from the Indian Navy aimed at expanding domestic defense shipbuilding and maintenance infrastructure.」（https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679）
+  - 「Key Investment and Funding Activities in Ship Repair Services Market, 2025–2026」（https://straitsresearch.com/report/ship-repair-services-market）
+  - 「In September 2025, the Government of India approved an initial corpus for the Maritime Investment Fund to support shipyards, ship repair facilities, and related maritime infrastructure.」（https://straitsresearch.com/report/ship-repair-services-market）
+  - 「Navy Times: Navy FY2026 budget and ship maintenance funding」（https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market）
+  - 「The US Navy's FY2026 base budget request allocates USD 16.2 billion to ship maintenance, with further modernization money split between the base budget and reconciliation funding. Part of that work is done in public naval shipyards and part is contracted to private yards such as BAE Systems, NASSCO and Huntington Ingalls. Naval ships are the fastest growing vessel type at 6.1% a year.」（https://dataintelo.com/report/global-ship-repair-and-maintenance-services-market）
+  - 「9.5 Investment Scenario」（https://dataintelo.com/report/global-ship-repair-and-maintenance-market）
+- 検索結果の抜粋：
+  - 「船舶 修理・保守サービス 市場規模 、シェア、2034年 — 船舶 修理・保守サービス 市場規模 、シェア、2034年 Fortune Business Insights https://www.fortunebusinessinsights.com > 船舶修理・保...」（https://www.fortunebusinessinsights.com/jp/%E8%88%B9%E8%88%B6%E4%BF%AE%E7%90%86%E3%83%BB%E4%BF%9D%E5%AE%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%B8%82%E5%A0%B4-105801）
+  - 「船舶 修理・保守サービス 市場規模 、市場シェア（2034年） — 船舶 修理・保守サービス 市場規模 、市場シェア（2034年） Straits Research https://straitsresearch.com > ... > 海軍・海洋・港湾技術」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports — 船舶 修理および改造 市場 調査レポート 2032 - WiseGuyReports WiseGuy Reports https://www.wiseguyreports.com > reports > ship-repairin...」（https://www.wiseguyreports.com/ja/reports/ship-repairing-and-conversion-market）
+  - 「日本 船舶 修理 市場規模 ・シェア・需要分析2034 - IMARC Group — 日本 船舶 修理 市場規模 ・シェア・需要分析2034 - IMARC Group IMARC Group https://www.imarcgroup.com > japan-ship-repairing-market」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「船舶修理業界の上位メーカーランキング2026：市場シェアと売上推移の... — Mar 13, 2026 · 本レポートは、船舶修理市場の全体像を体系的に整理し、製品特性、用途構造、競争環境を多面的に分析したものです。 主要プレイヤーのポジショニングや市場集中度を明確化するとともに、生産体制、コスト構造、地域別の需給動向を網羅しています。」（https://yhrnews.hateblo.jp/entry/2026/03/13/172751）
+  - 「船舶修理・保守サービス市場規模、シェア、2034年 — Oct 5, 2026 · 船舶の修理およびメンテナンス サービスには、予定されたメンテナンスと予定外のメンテナンスが含まれます。 これらは船舶運航の不可欠な部分を構成し、エンジン、電気システム、推進などの重要な船舶要素に重点を置いています。」（https://www.fortunebusinessinsights.com/jp/船舶修理・保守サービス市場-105801）
+  - 「船舶修理・保守サービス市場規模、市場シェア（2034年） — Aug 24, 2026 · 世界の船舶修理・保守サービス市場規模は、2025年には382億米ドルと評価され、2026年の400億6000万米ドルから2034年には586億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は4.88%となる見込みです。」（https://straitsresearch.com/jp/report/ship-repair-and-maintenance-service-market）
+  - 「船舶修理およびメンテナンスサービス市場規模、シェアおよび傾向分析... — Sep 24, 2026 · 海洋活動と世界貿易の両方が継続的に拡大しているため、信頼できる船舶メンテナンスサービスに対する需要が高まっています。 定期的な乾ドックサービスと緊急修理の両方が市場をサポートするために運営されています。」（https://www.businessresearchinsights.com/jp/market-reports/ship-repair-and-maintenance-services-market-122711）
+  - 「世界の船舶修理市場規模2025-2031：競合状況、需要分析、成長予測 - Q... — Sep 18, 2025 · 本報告書では、船舶修理市場に関する包括的な情報を提供し、市場シェアや主要企業のランキングを中心に、売上、収益などの詳細なデータを分析しています。 2020年から2031年までの船舶修理の市場規模は、売上に基づいて推定および予測されています。」（https://qyresearch.hateblo.jp/entry/2025/09/18/151018）
+  - 「日本の造船・船舶修理市場2025年-2031年：タイプ別（造船、船舶修理）... — 2021年から2031年までの日本造船・修繕市場における収益と数量の推移と予測（付帯サービス別） 日本造船・修繕輸出入貿易統計 タイプ別市場機会評価 船舶種別市場機会評価 用途別市場機会評価 日本造船・修繕主要企業の市場シェア」（https://www.globalresearch.jp/jp/jpw25g11004）
+  - 「日本船舶修理市場規模・シェア・需要分析2034 — Oct 19, 2026 · 日本の船舶修理市場規模は2025年に25億3,780万米ドルと評価され、2026年から2034年の間に8.70%のCAGRで成長し、53億7,770万米ドルに達すると予想されています。」（https://www.imarcgroup.com/report/ja/japan-ship-repairing-market）
+  - 「Ship Repair and Maintenance Services Market Size Report, 2035 — Jul 23, 2026 · The Ship Repair and Maintenance Services Market was valued at USD 39.40 Billion in 2025 and is expected to reach USD 66.44 Billion by 2035, at a CAGR of 5.36%.」（https://www.snsinsider.com/reports/ship-repair-and-maintenance-services-market-8679）
+  - 「Ship Repair And Maintenance Market Size, Share & Forecast — Apr 23, 2026 · Ship Repair and Maintenance Market size was valued at $ 32.1 Billion in 2025 & is estimated to reach $ 60.6 Billion by 2033, exhibiting a CAGR of 9.1% from 2026-2033」（https://www.verifiedmarketreports.com/product/ship-repair-and-maintenance-market/）
+  - 「Ship Repair and Maintenance Market Report: Size, Growth ... — In 2025, the Ship Repair And Maintenance Market is valued at $39.30 Bn, with a forecast to reach $46.70 Bn by 2033. Across the forecast horizon, the market’s projected 4.7% CAGR signals steady expansion rather than a sharp inflection.」（https://www.verifiedmarketresearch.com/product/ship-repair-and-maintenance-market/）
+  - 「Ship Repair And Maintenance Services Market Size & Share ... — Ship Repair and Maintenance Services Market was valued at USD 38.65 billion in the year 2025. The size of this market is expected to increase to USD 58.89 billion by the year 2032, while growing at a Compounded Annual Growth Rate (CAGR) of 6.2%.」（https://www.reanin.com/reports/ship-repair-and-maintenance-services-market）
+
+## LNG運搬船（LNG carrier）
+- 文脈：8 造船 ③LNG運搬船
+- 市場規模：
+  - 「市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG Carriers Market Size, Share, and Growth Analysis, By Propulsion Type (Steam Turbines, Dual Fuel Diesel Engine/Tri-Fuel Diesel Engine (DFDE/TFDE)), By Containment System, By Carrier Size, By Application, By Region - Industry Forecast 2026-2033」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模は、2024年に1,400億5,000万米ドルと評価され、2025年の1,486億米ドルから2033年までに2,386億3,000万米ドルへ成長する見込みです」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：推進タイプ別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：貯蔵システム別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：運搬船サイズ別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：用途別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「USD 5,300 換算」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船市場は、2025年から2030年にかけて56億1,040万米ドル成長し、予測期間中のCAGRは6.4％になると予測されています」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「本レポートでは、世界のLNG運搬船市場について、包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダーを対象としたベンダー分析を提供しています」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「第4章 市場規模」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「市場規模、2025年」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「第5章 市場規模実績」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+- 成長率：
+  - 「予測期間（2026年～2033年）におけるCAGRは6.1％と予測されています」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「CAGRは6.1%です」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：推進タイプ別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：貯蔵システム別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：運搬船サイズ別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模：用途別& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船の市場規模& CAGR（2026-2033）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「収益の前年比比較（2023-2025年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLNG運搬船市場は、2025年から2030年にかけて56億1,040万米ドル成長し、予測期間中のCAGRは6.4％になると予測されています」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「2026年の前年比」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「CAGR 2026-2035」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「予測期間（2026年から2035年）中、年平均成長率（CAGR）6.4%で成長が見込まれます」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「北米の液化天然ガス（LNG）輸出取引能力は、2023年から2028年の間に倍増し、2023年の114億立方フィート/日（Bcf/d）から2028年には244億立方フィート/日に達すると予想されています（現在の操業と将来のプロジェクトを考慮）」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「この前年比8%増（10億立方フィート/日相当）は、新規液化プロジェクトの稼働開始に直接起因しています」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「世界の市場規模は2025年には163億米ドルを超え、2035年までに6.4%を超えるCAGRで成長し、302億米ドルの収益に達すると予想されています」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+- 上位シェア：
+  - 「市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「上位5社の比較」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「企業の市場シェア分析（2025年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG運搬船の市場規模、シェア、および成長分析：推進タイプ別、貯蔵システム別、運搬船サイズ別、用途別、地域別 - 業界予測（2026年～2033年）」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「世界のLGCおよびVLGC液化石油ガス（LPG）船市場規模、シェア、動向および成長分析レポート2026-2034年」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「LNG運搬船市場- 世界の産業規模、シェア、動向、機会、および予測：貯蔵タイプ別、貯蔵容量別、推進方式別、エンドユーザー産業別、地域別および競合状況、2021-2031年」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「LNG船市場規模・シェア、成長分析2035年」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「LNG船市場規模とシェア、船型別（小型船（≤40,000m³）、中型船（~40,000-150,000m³）、大型/Q Max船（>150,000m³）}、封じ込めシステム、用途、推進タイプ - SWOT分析、競争戦略的洞察、地域動向2026-2035」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「2035年までに34.6％のシェアを獲得」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「新しいLNG輸出会社であるゴールデンパスLNGとプラークミンズLNGフェーズ2（中規模トレイン18基を含む）の稼働開始時期は、これらの施設が2025～2026年の国内のLNG輸出能力の19％を占めるため、予測に直接影響を与える可能性があります」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「メンブレンセグメントは、2035年までの予測期間中にLNG船市場で最大のシェア55.3%を獲得すると予測されています」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「デュアル燃料推進セグメントは、2035年までにLNG船市場シェアの40%を占め、大幅な成長を遂げると予想されています」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+- 主要企業：
+  - 「主要企業はどこですか？」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「主要企業の市場ポジショニング（2025年）」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「主要企業の企業プロファイル」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「主要企業プロファイル」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「本レポートには、主要企業の分析に加え、包括的な市場規模データ、地域別分析を伴うセグメント別分析、およびベンダー情勢が盛り込まれています」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「LNG 船市場で活動している主要企業の一部を以下に示します」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「市場リーダーと主要企業の概要」（https://www.theinsightpartners.com/ja/reports/lng-carrier-market）
+  - 「LNG運搬船市場における主要企業はどこですか？」（https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html）
+  - 「市場シェア分析（主要企業の市場順位・シェア）」（https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html）
+  - 「BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがLNG船市場の主要企業です」（https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004）
+  - 「LNG船市場の主要プレイヤーには、BW Group、Dynagas Ltd.、Flex LNG Ltd.、GasLog Ltd.、Gaztransport and Technigaz SA、Golar LNG Ltd.などがいます」（https://www.surveyreports.jp/industry-analysis/lng-carrier-market/1038004）
+  - 「LNG運搬船市場における主要企業はどこですか？」（https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html）
+  - 「Some of the key players operating in the global LNG carriers market include Hanwha Group and Kawasaki Heavy Industries, Ltd., among others.」（https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report）
+  - 「The following key companies have been profiled for this study on the」（https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report）
+  - 「Revenue forecast, competitive landscape, growth factors, and trends」（https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report）
+- 投資：
+  - 「現在、推進システムへの投資額のうち約150億米ドルが、早期償却のリスクにさらされています」（https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html）
+  - 「in total infrastructure investment during 2024-2025, with corresponding carrier procurement commitments exceeding」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「for large-scale carriers during peak demand in 2025, providing profitable returns on vessel investments when utilization exceeds」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「in 2025, with total investment value exceeding」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/global-lng-carriers-market）
+  - 「Contract structures are separating into two distinct pools: 15-to-20-year producer-backed charters funding newbuilds at fixed returns, and a volatile residual spot pool where rates swing by an order of magnitude within a single year」（https://www.marketresearchfuture.com/reports/lng-carriers-market-22896）
+  - 「The LNG Carriers market size was valued at USD 23.9 Billion in 2025. This valuation reflects the significant global investment in specialized vessels for transporting liquefied natural gas, driven by increasing energy demand and expanding international trade routes for natural gas resources.」（https://www.datamarketanalysis.com/reports/lng-carriers-market-size-forecast）
+- 検索結果の抜粋：
+  - 「LNG運搬船市場規模・シェア分析レポート2031年 — Mordor IntelligenceによるLNG運搬船市場分析 LNG運搬船市場規模は、2025年の154億7,000万米ドル、2026年の166億2,000万米ドルから2031年までに231億9,000万米ドルに拡大し、2026年から2031年の間に6.89%のCAGRを記録する見込みである。」（https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market）
+  - 「市場調査レポート: LNG運搬船の市場規模、シェア、および成長分析：推... — Dec 22, 2025 · 世界のLNG運搬船の市場規模は、2024年に1,400億5,000万米ドルと評価され、2025年の1,486億米ドルから2033年までに2,386億3,000万米ドルへ成長する見込みです。 予測期間（2026年～2033年）におけるCAGRは6.1％と予測されています。」（https://www.gii.co.jp/report/sky1897854-lng-carriers-market-size-share-growth-analysis-by.html）
+  - 「LNG運搬船の世界市場 2026年～2030年 - GII — Jun 29, 2026 · 本レポートでは、世界のLNG運搬船市場について、包括的な分析、市場規模と予測、動向、成長要因、課題に加え、約25社のベンダーを対象としたベンダー分析を提供しています。」（https://www.gii.co.jp/report/infi2074732-global-lng-carriers-market.html）
+  - 「LNG船市場規模、レポート、2035年までの動向 — Sep 24, 2026 · 世界の LNG 船市場は 2026 年に 160 億 8000 万米ドルと評価され、2035 年までに 259 億 2000 万米ドルに達し、CAGR 5.45% で成長すると予測されています。」（https://www.businessresearchinsights.com/jp/market-reports/lng-carrier-market-113765）
+  - 「LNG船市場規模・シェア、成長分析2035年 — Oct 3, 2025 · LNG船市場規模は2025年に163億米ドルと推定され、2035年末までに302億米ドルを超えると予想されています。 予測期間（2026年から2035年）中は年平均成長率（CAGR）6.4%で成長が見込まれます。」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「LNG船市場規模、業界シェア、2034年までの予測 — Sep 21, 2026 · 世界の LNG 船市場規模は 2026 年に 180 億 4000 万米ドルと評価され、2026 年から 2034 年にかけて 7.99% の CAGR で成長し、2034 年までに 333 億 7000 万米ドルに達すると予測されています。」（https://www.fortunebusinessinsights.com/jp/lngキャリア市場-109927）
+  - 「LNG船市場規模・シェア、成長分析2035年 — Oct 3, 2025 · アジア太平洋地域は、LNG輸入量の増加、支援政策、そして従来のエネルギー源から脱炭素化が進んだエネルギー源への移行を背景に、2035年末までに34.6%のシェアを占めると見込まれています。」（https://www.researchnester.com/ja/reports/lng-carrier-market/3825）
+  - 「LNGキャリア市場：市場規模・シェアと2034年までの予測 — Apr 24, 2026 · 本レポートは、タイプ、貯蔵容量、地域といった詳細な市場区分に基づき、LNG運搬船市場の概要を提供することを目的としています。 世界のLNG運搬船市場は、予測期間中に高い成長が見込まれています。」（https://www.theinsightpartners.com/ja/reports/lng-carrier-market）
+  - 「LNG運搬船市場 | 業界シェア 市場規模 成長性 2026 - 2031年 — Jun 11, 2026 · 北米と中東は、それぞれ15％と10％のシェアを占める輸出拠点となっています。 米国の液化量は2024年に9,800万トンに増加し、メキシコ湾からアジアへの航路において、年間18～22隻のLNG運搬船の需要を牽引しています。」（https://www.gii.co.jp/report/moi2072464-lng-carriers-market-share-analysis-industry-trends.html）
+  - 「LNG運搬船市場規模・シェア分析レポート2031年 — Samsung Heavy Industries、Hyundai Heavy Industries Group、Daewoo Shipbuilding & Marine Engineering、Qatar Gas Transport Co.（Nakilat）、Mitsui O.S.K. Linesが、この市場で事業を展開する主要企業です。」（https://www.mordorintelligence.com/ja/industry-reports/lng-carriers-market）
+  - 「グローバルLNG船のトップ会社の市場シェアおよびランキング 2025--YH ... — Jul 10, 2025 · このレポートはのグローバルLNG船の現状と今後の動向を調査および分析し、製品別、アプリケーション別、会社別、地域別と国別のLNG船の市場規模を把握するのに役立つ。」（https://www.yhresearch.co.jp/reports/1078122/lng-carrier）
+  - 「市場調査レポート: LNG運搬船市場- 世界の産業規模、シェア、動向、機... — Jan 19, 2026 · 世界のLNG運搬船市場は、2025年の111億8,000万米ドルから2031年までに160億6,000万米ドルへ拡大し、CAGR 6.22％を記録すると予測されています。」（https://www.gii.co.jp/report/tsci1914612-lng-carrier-market-global-industry-size-share.html）
+  - 「造船分野における「LNG運搬船」の投資促進策の方向性 — 我が国造船所においてLNG運搬船は2019年を最後に建造実績無し。 元々は我が国が強みを持つモス型が主流であったが、近年はメンブレン型が世界の主流となり、韓国造船所が建造の大宗を占めるものの、足元では中国造船所が建造実績を伸ばしている。」（https://www.mlit.go.jp/maritime/content/002015885.pdf）
+  - 「全球及中国LNG船舶行业深度调研报告（2025 VH6） — 商业模式上，长期租约占比下降，现货市场波动性增强，2025年即期运费均值较2023年上涨62%。 技术创新聚焦低碳化，氨燃料预留设计和碳捕捉系统成为新船标配，全球首艘零碳LNG运输船进入试航阶段。」（https://m.gepresearch.com/80/view-808324-1.html）
+  - 「LNG Carriers Market Size, Share And Growth Report, 2033 — LNG carriers market size was valued at $15.8 billion in 2025 and is projected to grow from $18.4 billion in 2026 to $23.3 billion by 2033, at a CAGR of 3.4%」（https://www.grandviewresearch.com/industry-analysis/lng-carriers-market-report）
+
+## 永久磁石（permanent magnet）
+- 文脈：9 マテリアル ①永久磁石
+- 市場規模：
+  - 「永久磁石市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「中国の永久磁石市場は、希土類鉱業、精製、高性能磁石製造における中国の圧倒的な地位を背景に、2025年には178億2000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「インドの永久磁石市場は、電気自動車製造、再生可能エネルギー設備の設置、産業オートメーションの急速な成長に牽引され、2025年には14億3000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「日本の永久磁石市場は、高性能磁性材料、精密製造、先進的な自動車技術における日本のリーダーシップに支えられ、2025年には22億4000万米ドル規模に達すると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「北米の永久磁石市場は、予測期間中に年平均成長率（CAGR）9.12%で成長すると予想されており、地域市場の中で最も急速に成長する市場となる見込みです」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「米国の永久磁石市場は、電気自動車製造の拡大、風力発電プロジェクトの導入拡大、国内の希土類加工インフラへの投資増加を背景に、2025年には27億1000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「カナダの永久磁石市場は、重要鉱物資源開発の拡大、クリーンエネルギー投資の増加、電動輸送への需要の高まりに支えられ、2025年には4億8000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）8.34%で成長すると予測されている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「永久磁石の世界市場：市場規模・シェア・動向分析（材料別・用途別・地域別）、セグメント別予測（2026年～2033年）」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「Permanent Magnets Market Size, Share & Trends Analysis Report By Material (Ferrite, NdFeB, Alnico, SmCo), By Application (Automotive, Consumer Goods & Electronics, Medical, Aerospace & Defense), By Region, And Segment Forecasts, 2026 - 2033」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「USD 5,950 換算」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+- 成長率：
+  - 「永久磁石市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「2026年3月、ニロン・マグネティックス社は、希土類元素を含まない永久磁石の生産を大幅に拡大するため、米国に最大18億米ドルを投じて大規模生産施設を建設する計画を発表した」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「2026年1月、ノベオン・マグネティックスは、米国における希土類永久磁石の製造能力を拡大し、自動車、産業、防衛用途向けの国内サプライチェーンを強化するために、2億1500万米ドルを調達した」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「この期間、太陽光発電の成長は2倍以上となり、モジュールコストの低さと効率的な許認可手続きに後押しされ、世界の再生可能電力容量の拡大の80％近くを占める見込みです」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「CAGRは6.8%です」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「永久磁石市場に関する当社の調査レポートによると、市場は予測期間中に約9%のCAGRで成長し、2035年までに約1680億米ドルに達すると予想されています」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
+  - 「他のすべての再生可能電力技術の中で、太陽光発電 (PV) に次ぐ 2 番目に高い成長率です」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
+  - 「永久磁石の世界市場規模は、2024年に460億米ドルとなり、年平均成長率9.4%で1,162億米ドルの成長が見込まれています」（https://www.mktsdata.com/permanent-magnet/）
+  - 「自動車用セグメントは、2024年の市場シェア49.94%を占め、より幅広い消費者層への普及を目指し、年平均成長率9.5%と高い成長が見込まれています」（https://www.mktsdata.com/permanent-magnet/）
+  - 「導電性プラスチックコンパウンドの世界市場規模は2034年までにCAGR 9.0％で拡大する見通し」（https://www.mktsdata.com/permanent-magnet/）
+  - 「バイオプロセスバリデーションのグローバル市場規模は2021年に2,246億8,730万ドル、2034年までにCAGR 11.20％で拡大する見通し」（https://www.mktsdata.com/permanent-magnet/）
+  - 「光学イメージングの世界市場は、収益ベースで2022年に15億ドル規模と推定され、2022年から2027年にかけてCAGR13.5％で成長する見通しです」（https://www.mktsdata.com/permanent-magnet/）
+  - 「インラインカメラ検査システムのグローバル市場規模は2025年に16億6000万ドル、2030年までにCAGR 8.3％で拡大する見通し」（https://www.mktsdata.com/permanent-magnet/）
+- 上位シェア：
+  - 「永久磁石市場規模、シェア、成長率（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場の規模、シェア、トレンド分析レポート：タイプ別（ネオジム鉄ホウ素（NdFeB）、サマリウムコバルト（SmCo）、フェライト、アルニコ）、材料別（希土類磁石、結合磁性材料、フェライト磁石、ネオジム（NdFeB）、サマリウムコバルト（SmCo）、フェライト（セラミック））、エンドユーザー別（自動車、再生可能エネルギー、産業、家電、航空宇宙・防衛、医療、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域は、2025年に74.68%の市場シェアを占め、永久磁石市場を牽引しました」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「ネオジム鉄ホウ素（NdFeB）セグメントは、その優れた磁気強度、高いエネルギー密度、および小型アプリケーションにおける優れた性能により、2025年には67.8%のシェアを占めました」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「希土類磁石分野は、その優れた磁力、コンパクトなサイズ、そして電気自動車、風力タービン、産業オートメーション、家電製品などにおける幅広い用途により、2025年には73.5%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「自動車分野は、永久磁石同期モーターを使用する電気自動車およびハイブリッド車の生産増加により、2025年には34.7%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域の永久磁石市場は、2025年には地域別シェア74.68%を占め、最大の成長を遂げると予測されています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「国際エネルギー機関（IEA）によると、中国は世界の希土類鉱業の約70％、希土類処理能力の約90％を占めており、永久磁石生産におけるリーダーシップを確固たるものにしている」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「2025年の永久磁石市場において、最大のシェアを占めた地域はどれですか？」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「アジア太平洋地域は2025年に74.68%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「光触媒市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「銀ナノワイヤー市場規模、シェア、成長率、分析（2034年）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「金ナノ粒子市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「グラフェン市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「複合材電柱市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+- 主要企業：
+  - 「主要企業は、高性能磁石の開発、垂直統合された希土類サプライチェーン、精密な製造能力、および研究開発への継続的な投資を通じて競争しています」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場における主要企業はどこですか？」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場に参入している主要企業はどこですか？」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「最近の動向と影響分析：主要市場参入企業別」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「世界の永久磁石市場の成長に重要な役割を果たす主要な主要企業には、Adams Magnetic Products, LLC、Arnold Magnetic Technologies Corporation、Stanford Magnets (Oceania International LLC)、Permanent Magnets Ltd、VACUUMSCHMELZE GmbH & Co， KGなどが含まれます」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
+  - 「この調査には、世界の永久磁石市場分析レポートの詳細な競争分析、企業概要、最近の傾向、およびこれらの主要企業の主要な市場戦略が含まれています」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
+  - 「主要企業・市場シェア」（https://www.mktsdata.com/permanent-magnet/）
+  - 「永久磁石市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「永久磁石市場の主な企業には、Shin-Etsu Chemical Co., Ltd.、Proterial Ltd.、TDK Corporation、Zhong Ke San Huan、JL MAG Rare-Earth Co., Ltd.が挙げられる」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/permanent-magnet-market）
+  - 「主要企業と市場洞察」（https://www.globalresearch.co.jp/permanent-magnets-market/）
+  - 「産業調査および成長報告書には、市場の競争状況の詳細な分析と、以下のような主要企業の情報を含んでいます」（https://www.globalresearch.co.jp/permanent-magnets-market/）
+  - 「永久磁石の世界市場：主要企業の市場シェア2026年」（https://www.globalresearch.co.jp/permanent-magnets-market/）
+  - 「• 永久磁石市場の主要企業は誰であり、成長のためにどのような戦略を採用しているのでしょうか？」（https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/）
+  - 「永久磁石市場の主要企業は、競争力を維持するために、イノベーション、サプライチェーンの多様化、および戦略的提携を重視しています」（https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/）
+- 投資：
+  - 「永久磁石市場における主要な投資および資金調達活動、2026年」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「ポリ塩化ビニル（PVC）の世界市場2025年-2032年：硬質、軟質」（https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/）
+  - 「Polyvinyl Chloride (PVC) Market by Product Type, End-Users, and Geography : Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2025-2032」（https://www.marketresearch.co.jp/permanent-magnet-market-product-type-mrc-pmr-rtc0843/）
+  - 「a year from a small base. Niron Magnetics secured USD 300 million of funding for a rare-earth-free iron nitride plant in Minnesota that targets 1,500 t a year by 2027.」（https://dataintelo.com/report/permanent-magnets-market）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/permanent-magnets-market）
+  - 「Ferrite remains the main rare-earth-free magnet and is used wherever size matters less than cost. Iron nitride is the newest option: Niron Magnetics raised USD 300 million for a Minnesota plant targeting 1,500 t a year by 2027. Producers are also cutting heavy rare earths, as in Proterial's heavy-rare-earth-free Neo magnet. Other magnet types grow at 7.3% a year.」（https://dataintelo.com/report/permanent-magnets-market）
+  - 「Key Investment and Funding Activities in the Permanent Magnet Market, 2026」（https://straitsresearch.com/report/permanent-magnet-market）
+  - 「In January 2026, Noveon Magnetics raised USD 215 million to expand its U.S. rare earth permanent magnet manufacturing capacity and strengthen domestic supply chains for automotive, industrial, and defense applications.」（https://straitsresearch.com/report/permanent-magnet-market）
+  - 「The rare earth magnets segment accounted for a share of 73.5% in 2025 due to their superior magnetic strength, compact size, and extensive use in electric vehicles, wind turbines, industrial automation, and consumer electronics. Rising investments in electrification and renewable energy continue to strengthen the demand for rare earth-based permanent magnets across high-performance applications.」（https://straitsresearch.com/report/permanent-magnet-market）
+  - 「The automotive segment accounted for a share of 34.7% in 2025 due to the increasing production of electric and hybrid vehicles utilizing permanent magnet synchronous motors. Rising investments in vehicle electrification and stringent fuel efficiency regulations continue to drive demand for high-performance permanent magnets across the automotive industry.」（https://straitsresearch.com/report/permanent-magnet-market）
+  - 「Partnered with High Street Capital in 2023 to expand its production capabilities and innovation in magnetic solutions. Invested in advanced technology to meet rising demands in renewable energy and electric vehicle markets.」（https://www.expertmarketresearch.com/reports/permanent-magnets-market）
+  - 「Question 3: Which region dominates the permanent magnet market and where are the strongest investment opportunities?」（https://www.towardschemandmaterials.com/insights/permanent-magnet-market）
+  - 「Asia Pacific leads the market with a 65% revenue share in 2025 due to its strong rare-earth supply chain and manufacturing base, while North America and Europe are emerging investment hubs driven by supply chain diversification and electrification initiatives.」（https://www.towardschemandmaterials.com/insights/permanent-magnet-market）
+  - 「Furthermore, industrial automation and the proliferation of robotics utilize permanent magnets extensively in servo motors and actuators. The trend toward smart factories and Industry 4.0 is accelerating investment in automated systems, thereby supporting sustained market growth for these critical materials.」（https://www.intelmarketresearch.com/permanent-magnet-material-market-11023）
+  - 「The UAE represented 17.6% of Middle East & Africa demand in 2025 and is projected to grow at an approximately 22.7% CAGR (2026–2035). Clean-energy investment and advanced-manufacturing development support the country's above-average outlook. Its role as a regional technology and logistics hub may also strengthen demand for industrial automation and equipment components.」（https://www.gminsights.com/industry-analysis/permanent-magnet-market）
+- 検索結果の抜粋：
+  - 「永久磁石市場規模、シェア、成長率（2034年） — Sep 3, 2026 · 世界の永久磁石市場規模は、2025年には318億4000万米ドルと評価され、2026年の342億1000万米ドルから2034年には649億2000万米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は8.34%となる見込みです。」（https://straitsresearch.com/jp/report/permanent-magnet-market）
+  - 「永久磁石市場規模、シェア、トレンド、成長 2034 年 — Oct 12, 2026 · 世界の永久磁石市場規模は、2025 年の 320 億 7000 万ドルから、2034 年までに 8.30% の CAGR で 659 億 4000 万ドルに成長すると予測されています。」（https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776）
+  - 「永久磁石市場規模・産業レポート 2031 — 世界の永久磁石市場規模は2026年に54.91 ビリオン 米ドルと評価されており、2031年までに74.11 ビリオン 米ドルに達すると予測され、CAGR 6.18%で成長する見込みです。」（https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market）
+  - 「永久磁石市場規模・動向 | 2035 年の予測 — Jul 25, 2026 · 世界の永久磁石市場規模は、2035年の260億6,000万米ドルから2025年までに133億4,000万米ドルに達し、7%のCAGRで成長すると予測されています。」（https://www.businessresearchinsights.com/jp/market-reports/permanent-magnets-market-121109）
+  - 「永久磁石市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで — Feb 25, 2026 · 世界の永久磁石の市場規模は、2025年に259億米ドルと推計され、2033年までに474億米ドルに達すると予測されており、2026年から2033年にかけてCAGR 6.8%で成長すると見込まれています。」（https://www.gii.co.jp/report/grvi1986609-permanent-magnets-market-size-share-trends.html）
+  - 「永久磁石市場 | 市場規模 業界シェア 市場分析 成長性 2026年 — Jan 28, 2026 · 自動車用途への需要拡大が、今後数年間の永久磁石市場の成長を牽引すると予想されます。 永久磁石は持続的な磁場を生成する材料であり、電動モーター、発電機、センサー、アクチュエーターに広く使用されています。」（https://www.gii.co.jp/report/tbrc1928036-permanent-magnet-global-market-report.html）
+  - 「永久磁石市場規模・産業レポート 2031 — エンドユーザー産業別では、自動車が2025年に38.29%の収益シェアでトップとなり、医療画像や外科用ロボティクスを含むその他のエンドユーザー産業セグメントは2031年にかけて年平均成長率8.54%で成長する見込みです。」（https://www.mordorintelligence.com/ja/industry-reports/permanent-magnet-market）
+  - 「永久磁石市場規模、シェア、トレンド、成長 2034 年 — Oct 12, 2026 · 永久磁石には、合金磁石、フェライト磁石、ボンド磁石などが含まれる。 これらは、電気モーター、発電機、センサー、磁気ロック システムなど、幅広い産業用および民生用アプリケーションに不可欠です。」（https://www.fortunebusinessinsights.com/jp/永久磁石市場-102776）
+  - 「世界の永久磁石市場規模（2025～2034年）：製品別（フェライト、ネオ... — Aug 10, 2022 · 永久磁石市場シェア 永久磁石業界の上位5社には、日立金属株式会社、江門Magsource新材料有限公司、VACUUMSCHMELZE（VAC）、Arnold Magnetic Technologiesが含まれ、電子、自動車、再生可能エネルギー産業だけでなく、市場で強力な市場シェアを維持することを可能に ...」（https://www.mktsdata.com/permanent-magnet/）
+  - 「世界の永久磁石業界全体規模、国内外シェア、主要企業ランキング2024-... — Jun 28, 2024 · QYResearchが発行した最新市場調査レポート「永久磁石―グローバル市場シェアとランキング、全体の売上と需要予測、2024～2030」によると、永久磁石の世界市場規模は2030年までに220.6億米ドルに達し、予測期間中の年平均成長率は7.8%になると予測されています。」（https://www.qyresearch.co.jp/news/4821/permanent-magnets）
+  - 「世界の永久磁石市場,調査、規模、シェア、傾向、メーカーレポート洞察... — 永久磁石市場規模は、2025年の市場価値約750億米ドルから2035年までに約1680億米ドル達すると予想されています。 また、市場の成長は2026― 2035年の予測期間中に約9%のCAGRで成長すると推定されています。」（https://www.sdki.jp/reports/permanent-magnet-market/61820）
+  - 「【調査レポート】 永久磁石の世界市場（2025-2029）：セルキャストア... — 再生可能エネルギー分野では、特にネオジム（NdFeB）磁石などの永久磁石の使用が風力発電において不可欠です。 世界的な再生可能エネルギー源へのシフトが市場の成長を促進しています。」（https://www.globalresearch.co.jp/permanent-magnets-market/）
+  - 「世界の永久磁石市場規模（2025～2034年）：製品別（フェライト、ネオ... — Aug 10, 2022 · 日立金属は、ネオジム磁石よりも約80％安価なフェライト系磁石の生産に注力。 これらの酸化鉄フェライト磁石は、ほとんどの材料が容易に入手可能であったため、NEOMAXスーパー磁石よりもはるかに安価でした。」（https://www.mktsdata.com/permanent-magnet/）
+  - 「【市場調査レポート】 世界の永久磁石市場（2025年～2029年）：製品別... — 市場は、風力エネルギー、再生可能エネルギー、電動工具、電気モーター、先進エネルギー貯蔵システム、電気自動車、ロボット工学、ラップトップなど、さまざまな分野での需要の高まりにより、著しい成長を遂げています。」（https://www.marketreport.jp/permanent-magnets-market）
+  - 「Permanent Magnet Market Report 2025-2030 [250 Pages & 350 ... — Apr 29, 2026 · The global permanent magnet market size was valued at USD 58.87 billion in 2025 and is projected to reach USD 88.51 billion by 2030, growing at 8.5% cagr from 2025 to 2030.」（https://www.marketsandmarkets.com/Market-Reports/permanent-magnet-market-806.html）
+
+## グリーンスチール（green steel）
+- 文脈：9 マテリアル ②グリーン鉄
+- 市場規模：
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「世界のグリーン鋼市場は、2025年には628億4000万米ドルと評価され、2026年の714億6000万米ドルから2034年には1999億米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は13.72%です」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「アジア太平洋地域のグリーン鋼市場は、2025年には地域別で最大の36.84%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「中国のグリーン鋼市場は、世界最大の鉄鋼生産国としての地位と、低炭素製鉄への移行加速を背景に、2025年には143億7000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「インドのグリーン鉄鋼市場は、鉄鋼生産能力の拡大と持続可能な製造業への投資増加を背景に、2025年には39億7000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「日本のグリーン鉄鋼市場は、先進的な製鉄技術による重工業の脱炭素化への取り組みを背景に、2025年には34億3000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「北米のグリーン鋼市場は、予測期間中に年平均成長率（CAGR）16.42%で成長すると予想されており、地域別では最も速い成長率を示すと見込まれています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「米国のグリーン鋼市場は、産業の脱炭素化への取り組みの強化と、自動車およびインフラ部門による低炭素鋼の調達増加を背景に、2025年には115億7000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「カナダのグリーン鉄鋼市場は、豊富なクリーン電力資源と低排出鉄鋼生産への投資拡大に支えられ、2025年には20億5000万米ドル規模に達すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「グリーン鋼市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）13.72%で成長すると予測されている」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析（日本、中国、アジアなど）」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析(Green Steel Market Size, Share & Trends Analysis Report By Production Technology (EAF, Hydrogen-based DR), By End-use (Construction, Automotive), By Region, And Segment Forecasts, 2025 - 2030)]について」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+- 成長率：
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「世界のグリーン鋼市場は、2025年には628億4000万米ドルと評価され、2026年の714億6000万米ドルから2034年には1999億米ドルに成長すると予測されており、予測期間（2026年～2034年）における年平均成長率（CAGR）は13.72%です」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「2025年7月、ボストン・メタル社は、溶融酸化物電解プラットフォームの継続的な規模拡大と、マサチューセッツ州における排出ガスゼロの鉄鋼生産のための多不活性陽極工業用電解槽の稼働を支援するため、転換社債による投資を確保した」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「（H-DRI）セグメントは、鉄鉱石還元工程から化石燃料を完全に排除しようとする世界的な積極的な取り組みに後押しされ、予測期間中に年平均成長率（CAGR）15.65%で成長すると予想されています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「グリーン水素分野は、冶金用石炭に代わるゼロエミッション削減剤としての重要な役割を担っていることから、予測期間中に年平均成長率（CAGR）16.12%で成長すると予想されています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「The global green steel market size was estimated at USD 718.30 billion in 2024 and is projected to grow at a CAGR of 6.0% from 2025 to 2030.This growth is significantly driven by the increasing demand for sustainable manufacturing practices and the reduction of carbon footprints in the steel industry.」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「→Grand View Research社はグリーンスチールの世界市場が2025年～2030年に年平均6.0%成長すると展望しています」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「2032年までに、化合物の年間成長率を示す」（https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「60.4%のCAGR」（https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「例えば、2025年2月、日産自動車株式会社 低COの使用拡大を決定」（https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「予測期間 2025〜2032 CAGR:」（https://www.coherentmarketinsights.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%83%81%E3%83%BC%E3%83%AB%E5%B8%82%E5%A0%B4）
+  - 「Green Steel Market Size, Share | CAGR of 24.0%」（https://market.us/report/green-steel-market/）
+  - 「CAGR, 2025 - 2035」（https://market.us/report/green-steel-market/）
+- 上位シェア：
+  - 「グリーン鋼市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「グリーン鋼市場の規模、シェア、トレンド分析レポート：生産技術別（電気アーク炉（EAF）、水素直接還元鉄（H-DRI）、二酸化炭素回収・貯留（CCS）統合）、エネルギー源別（グリーン水素、再生可能電力）、エンドユーザー別（自動車、建設、機械・設備、再生可能エネルギーインフラ）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「アジア太平洋地域は、2025年に36.84%の市場シェアを占め、グリーン鋼市場を牽引しました」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「電気アーク炉（EAF）セグメントは、その高い効率性、鉄スクラップの広範な利用、再生可能エネルギーによる直接給電が可能であることから、2025年には市場シェアの51.48%を占めると予測されています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「自動車分野は、厳しい排出削減目標と、自動車業界による積極的なカーボンニュートラルな車両ライフサイクルの追求に支えられ、2025年には44.25%のシェアを占める見込みです」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「アジア太平洋地域のグリーン鋼市場は、2025年には地域別で最大の36.84%のシェアを占めると予測されています」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「2025年のグリーン鋼市場において、どの地域が最大のシェアを占めるでしょうか？」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「アジア太平洋地域は2025年に36.84%のシェアを占め、市場を席巻した」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「ニッケル市場規模、シェア、成長率、機会、分析（2034年まで）」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「鋼製屋根材市場の規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「ベントナイト粘土市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「アルミニウム粉末市場の規模、シェア、成長率、分析（2034年まで）」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「鉄筋市場規模、シェア、成長率、分析、レポート、2034年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「ジルコニウム管市場規模、シェア、成長率、分析、レポート（2034年まで）」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動向分析（日本、中国、アジアなど）」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+- 主要企業：
+  - 「既存企業は、広範なグローバル事業展開、脱炭素化への巨額の設備投資、主要企業パートナーとの長期オフテイク契約を通じて競争力を維持している」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「7.1. 主要市場参入企業別の最新動向と影響分析」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「心臓アブレーションの世界市場：主要企業の市場シェア2026年」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「7.1. 主要市場参入企業別の最新動向と影響分析」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「Chapter 7. Competitive Landscape」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「・世界のグリーンスチール市場における主要プレイヤーは？」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「→「ArcelorMittal、China BaoWu Steel Group Corporation Limited、Emirates Steel Arkan、Nippon Steel Corporation、Nucor Corporation、Outokumpu、Salzgitter AG、SSAB、Tata Steel、thyssenkrupp AG、voestalpine AGなど ...」をグリーンスチール市場のグローバル主要プレイヤーとして判断しています」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「※上記FAQの市場規模、市場予測、成長率、主要企業に関する情報は本レポートの概要を作成した時点での情報であり、最終レポートの情報と少し異なる場合があります」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「Key Players Analysis」（https://market.us/report/green-steel-market/）
+  - 「The Major Players In The Industry」（https://market.us/report/green-steel-market/）
+  - 「Other Key Players」（https://market.us/report/green-steel-market/）
+  - 「Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments」（https://market.us/report/green-steel-market/）
+  - 「Competitive Landscape」（https://market.us/report/green-steel-market/）
+  - 「ArcelorMittal, Nucor Corporation, Nippon Steel Corporation, POSCO, JFE Steel Corporation, JSW Steel, H2 Green Steel, Liberty Steel Group, HBIS Group, Boston Metal, Emirates Steel Arkan, Tenaris, Tata Steel, Salzgitter AG, Thyssenkrupp Steel, Other Key Players」（https://market.us/report/green-steel-market/）
+  - 「Some of the key players operating in the market include ArcelorMittal, SSAB, and ThyssenKrupp AG.」（https://www.grandviewresearch.com/industry-analysis/green-steel-market-report）
+- 投資：
+  - 「グリーン鉄鋼市場における主要な投資および資金調達活動、2025年～2026年」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「2026年6月、ステグラ社は、スウェーデンのボーデンに建設中の大規模なグリーン製鉄所の建設を完了させるため、ウォレンバーグ・インベストメンツが主導する大規模な資金調達ラウンドを完了した」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「2025年4月、グリーン製鉄スタートアップ企業のElectraは、低品位鉄鉱石を高純度鉄に精製する低温電気化学プロセスの商業化を加速させるため、シリーズB資金調達ラウンドを実施した」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「2025年3月、GravitHyは、フランスのフォス＝シュル＝メールに建設予定の年間200万トンの直接還元鉄製鉄所の設計および許認可手続きを進めるため、マルセガリアやリオ・ティントなどの戦略的投資家からの支援を受けたシリーズA資金調達ラウンドを発表した」（https://straitsresearch.com/jp/report/green-steel-market）
+  - 「According to the International Energy Agency (IEA, 2025), the steel industry is expected to require significant investment in low-emissions production technologies through 2050 as global steel demand continues to grow, with industry forecasts projecting」（https://market.us/report/green-steel-market/）
+  - 「DIW Berlin’s study on investment costs for green steel finds that FOAK H₂-DRI projects systematically run 20–35% above initial feasibility-stage CapEx estimates, driven by three compounding cost vectors: electrolyzer system lead times of」（https://market.us/report/green-steel-market/）
+  - 「In January 2024, ArcelorMittal launched the XCarb Program, which focuses on achieving carbon-neutral steel production by leveraging innovative technologies and increasing the use of renewable energy sources. The initiative includes investments in hydrogen-based steelmaking and partnerships with key industry stakeholders to advance sustainable steel production.」（https://www.grandviewresearch.com/industry-analysis/green-steel-market-report）
+  - 「Global Investment Flow for Green Steel Market 2026」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「In January 2026, Tata Steel signed a formal Letter of Intent and Memorandum of Understanding with the Government of Jharkhand at the World Economic Forum in Davos to deploy ₹11,100 crore ($1.22 billion) in advanced green steel technologies. The investments mark a major milestone in transitioning Indias heavy industry away from traditional fossil-reliant blast furnaces.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「In April 2026, the Swedish green steel startup Stegra (formerly H2 Green Steel) secured a massive €1.4 billion ($1.7 billion) equity investment from an investor consortium led by the prominent Wallenberg family. This major capital injection provides a critical financial lifeline to complete the construction of its flagship, hydrogen-based greenfield steel plant in northern Sweden.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「For instance, in December 2025, ArcelorMittal France launched its €500 million ($545 million) electrical steel production unit at its industrial plant in Mardyck, near Dunkirk. Representing the companys largest capital investment in Europe over the last decade, the advanced complex has successfully rolled its first commercial coils.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「For instance, in October 2025, Stahl-Holding-Saar (SHS) secured €1.7 billion ($1.85 billion) in funding to officially launch its massive green hydrogen steelmaking initiative, the Power4Steel project, in Saarland.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「For instance, in February 2026, the German Federal Ministry for Economic Affairs and Energy (BMWK) confirmed €322 million in additional state funding for Salzgitter AG’s primary green steel transformation program, the SALCOS (Salzgitter Low CO₂-Steelmaking) project.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「In October 2025, Swedish green steel firm Stegra announced a new €975 million ($1.1 billion) funding round, aiming to finish building what will be the world’s first large-scale green steel plant. Situated in Boden, northern Sweden, the plant will use renewable hydrogen to substitute coal in steel manufacturing, a sector thats particularly challenging to decarbonize.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+  - 「Asia Pacific dominates the global green steel market with a 44% market share, supported by large-scale steel production, government policies, renewable energy investments, and hydrogen-based steelmaking initiatives.」（https://www.towardschemandmaterials.com/insights/green-steel-market）
+- 検索結果の抜粋：
+  - 「グリーンスチール市場規模、シェア、成長 | 2034 年の予測レポート — Oct 12, 2026 · 世界のグリーンスチール市場規模は、予測期間中のCAGR 55.6%で、2026年の774億6000万ドルから2034年までに1,290億8000万ドルに成長すると予測されています。」（https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711）
+  - 「グリーンスチール市場規模・シェアおよび2031年成長トレンドレポート — Oct 5, 2026 · グリーンスチール市場は2026年に14.13 ビリオン 米ドル規模となり、CAGRが47.78%で成長し、2031年までに99.58 ビリオン 米ドルに達する見込みです。 ArcelorMittal、SSAB、Stegra、Salzgitter AG、thyssenkrupp Steel Europeがこの市場で事業を展開する主要企業です。」（https://www.mordorintelligence.com/ja/industry-reports/green-steel-market）
+  - 「グリーンスチール市場 2026-2035 |規模、シェア、予測 — Sep 21, 2026 · グリーンスチール市場は、2026年の2,332億8,000万米ドルから2035年までに4,665億6,000万米ドルまで、8%のCAGRで増加すると予測されています。」（https://www.businessresearchinsights.com/jp/market-reports/green-steel-market-119950）
+  - 「2035 年のグリーンスチール市場規模と動向 — Sep 5, 2026 · グリーンスチール市場レポートの概要 世界のグリーンスチール市場規模は、2025年に65億4,224万米ドルと評価され、2026年の10億3,804万米ドルから2035年までに40億7,9189万米ドルに成長すると予測されており、予測期間中に58.02%のCAGRを示します。」（https://www.globalmarketstatistics.com/jp/market-reports/green-steel-market-11638）
+  - 「グリーンスチール市場 | 市場規模 業界分析 予測 2034年 【市場調査レ... — Apr 6, 2026 · Stratistics MRCによると、世界のグリーンスチール市場は2026年に98億米ドル規模となり、予測期間中にCAGR 16.3％で成長し、2034年までに329億米ドルに達すると見込まれています。」（https://www.gii.co.jp/report/smrc2007926-green-steel-market-forecasts-global-analysis-by.html）
+  - 「グリーンスチールの世界市場（2025年~2030年）：市場規模、シェア、動... — レポートの概要 グリーンスチールの市場規模と動向 世界のグリーンスチール市場規模は、2024年に7,183億米ドルと推定され、2025年から2030年にかけて年平均成長率6.0%で成長すると予測されています。」（https://www.globalresearch.jp/green-steel-market-size-share-grv25jan024）
+  - 「世界のグリーンスチール市場（2025-2030）：生産技術別（EAF、水素ベ... — The global green steel market size was estimated at USD 718.30 billion in 2024 and is projected to grow at a CAGR of 6.0% from 2025 to 2030.This growth is significantly driven by the increasing demand for sustainable manufacturing practices and the reduction of carbon footprints in the steel industry.」（https://www.globalresearch.co.jp/green-steel-market-size-share-grv25jan024/）
+  - 「グリーンスチール市場規模、シェア、成長 | 2034 年の予測レポート — Oct 12, 2026 · 北米が優勢だった グリーンスチール市場 2025 年には市場シェアが 28% になると予想されます。 基本的に、化石燃料を一切使用せずに製造される鉄鋼はグリーンスチールと呼ばれます。」（https://www.fortunebusinessinsights.com/jp/グリーンスチール市場-108711）
+  - 「グリーンスチール市場規模と成長、予測 [2025-2034] — Aug 28, 2026 · 世界のグリーンスチール市場規模は、2025 年に 239 億 5,000 万米ドルと推定され、2034 年までに 708 億 1,000 万米ドルに拡大し、CAGR 11.45% で成長すると予想されています。」（https://www.marketreportsworld.com/jp/market-reports/green-steel-market-14714449）
+  - 「グリーンスチール市場の動向 |競争市場分析 2035 | WiseGuyReports — 主要な市場動向に関する洞察 世界のグリーンスチール市場は、環境規制が強化され、持続可能な製品への需要が増加するにつれて、2025から2035まで15.5%のCAGRで急速に成長すると予測されています。」（https://www.wiseguyreports.com/ja/reports/green-steel-market）
+  - 「緑の鋼鉄市場のサイズ、共有及び機会 2025-2032 — Mar 30, 2026 · 大手鋼の消費産業は、低炭素鋼の品種の強い好みを表明し、自社製品のカーボンフットプリントを下げています。 持続可能性は重要な差別化要因となり、建設、自動車、製造部門のグリーン鋼種に対する市場需要は長期的に大きく成長する見込みです。」（https://www.coherentmarketinsights.com/ja/グリーンスチール市場）
+  - 「Green Steel Market Size, Share | CAGR of 24.0% — Green Steel Market size is expected to be worth around USD 2378.3 Billion by 2035 from USD 276.9 Billion in 2025, at a CAGR of 24.0%」（https://market.us/report/green-steel-market/）
+  - 「Green Steel Market Size, Share, Growth | Forecast Report, 2034Green Steel Market Size, Share & Growth Report, 2026-2033Green Steel Market Size, Share & 2031 Growth Trends ReportGlobal Green Steel Market Size, Industry Share & Forecast ...Green Steel Market Size, Share, Growth and Forecast, 2025-2035Green Steel Market Size, Share & Trends | Industry Report 2035 — Oct 12, 2026 · The global green ste」（https://www.fortunebusinessinsights.com/green-steel-market-108711）
+  - 「Green Steel Market Size, Share & Growth Report, 2026-2033 — The global green steel market size was valued at USD 573.0 billion in 2025 and is projected to grow from USD 604.3 billion in 2026 to USD 1,312.0 billion by 2033, at a CAGR of 11.7% from 2026 to 2033. Asia Pacific dominated the green steel market with the largest revenue share of 40.9% in 2025.」（https://www.grandviewresearch.com/industry-analysis/green-steel-market-report）
+  - 「Green Steel Market Size, Share & 2031 Growth Trends Report — Oct 5, 2026 · The Green Steel Market size was valued at USD 9.56 billion in 2025 and is estimated to grow from USD 14.13 billion in 2026 to reach USD 99.58 billion by 2031, at a CAGR of 47.78% during the forecast period (2026-2031).」（https://www.mordorintelligence.com/industry-reports/green-steel-market）
+
+## 低炭素アルミ（low carbon aluminum）
+- 文脈：9 マテリアル ④低炭素金属部素材
+- 市場規模：
+  - 「世界のグリーン低炭素アルミニウム市場規模、成長ポテンシャル、地域別動向（2026-2032） - yhresearchのブログ」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「世界のグリーン低炭素アルミニウム市場規模、成長ポテンシャル、地域別動向（2026-2032）」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「グリーン低炭素アルミニウムの世界市場は、製品、用途、主要企業、地域の4つの視点から多層的に分析され、各セグメントの成長ポテンシャルや競争環境を明確に把握できます」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「1．市場規模と成長トレンドの把握」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「市場規模、成長予測（2026～」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「第8章：地域別市場規模と比較分析」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「世界の低炭素グラファイト市場規模、成長ポテンシャル、地域別動向（2025-2031）」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「高帯域幅メモリ（HBM）テスト装置市場規模の成長推移2026：2032年361百万米ドル到達を予測」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「世界の低炭素アルミニウム市場は、2025年の904億5,000万米ドルから2031年までに1,175億2,000万米ドルへ拡大し、CAGR4.46％を記録すると予測されています」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「市場規模：2025年」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「市場規模：2031年」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「USD 4,500 換算」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「USD 5,500 換算」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「USD 8,000 換算」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「グルタミン酸市場規模、シェアおよび予測（2025-2035年）」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+- 成長率：
+  - 「世界と日本のアルミニウム市場分析：規模、成長率、企業ランキング2026」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「世界の低炭素アルミニウム市場は、2025年の904億5,000万米ドルから2031年までに1,175億2,000万米ドルへ拡大し、CAGR4.46％を記録すると予測されています」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「CAGR：2026年～2031年」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「Novelisは2024年7月、プレスリリース『Novelis、英国における使用済み飲料缶リサイクル能力を倍増』において、年間85キロトンのリサイクル能力拡大に向け9,000万米ドルを投資すると発表しました」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「CAGRは4.46%です」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「低炭アルミニウム市場：2034年までにCAGR 9%の分析」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「光学PETフィルム市場：2026-2034年のCAGR動向」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「ポリエステルイミドエナメル市場：2034年まで6.8%のCAGR」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「メタルパッケージ食品缶市場は2034年までに7.3%のCAGRで成長」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「サトウキビ製容器 2029 市場：2033年まで3.74%のCAGR成長」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「バイオプロセスバッグ市場は2034年までに175億ドルに達し、CAGRは16.9%」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「アルミニウム箔複合フィルム市場は2033年まで年率4.6%成長」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「ヒアルロン酸原料市場：2034年までに13%のCAGRを達成？」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「土壌活性除草剤市場規模と2034年までのCAGR 5.6%」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「フォー・ループ FIBC 市場は 2034 年までに 3.6% の CAGR で 26 億ドルに達する」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+- 上位シェア：
+  - 「グローバルグリーン低炭素アルミニウムのトップ会社の市場シェアおよびランキング 2026」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「第2章：世界主要企業の市場シェアと競争分析」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「グローバル航空用アルミニウム合金市場分析：シェア、トレンド、成長機会2026」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「市場調査レポート: 低炭素アルミニウム市場-世界の産業規模、シェア、動向、機会、予測：製品別、エンドユーザー別、地域別＆競合、2021年～2031年」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「低炭素アルミニウム市場-世界の産業規模、シェア、動向、機会、予測：製品別、エンドユーザー別、地域別＆競合、2021年～2031年」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「国際アルミニウム協会（IAI）の2024年データによれば、「一次アルミニウム精錬に消費される世界の電力のうち、水力発電および再生可能エネルギー源が占める割合はわずか39％」でした」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「グルタミン酸市場規模、シェアおよび予測（2025-2035年）」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「当社の一次調査は、市場分析の礎をなし、研究全体の約75%を占めます」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「一次調査を補完するものとして、二次調査は当社の方法論の約25%を占めます」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「北米 低炭アルミニウム市場 製品タイプ別の収益シェア (%) 2026年 & 2034年」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「北米 低炭アルミニウム市場 用途別の収益シェア (%) 2026年 & 2034年」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「グリーン低炭素アルミニウム―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」（https://qyresearch.hatenadiary.com/entry/2025/12/10/153015）
+  - 「半導体グレードのアルミニウムトリメチルの世界市場シェア2025」（https://qyresearch.hatenadiary.com/entry/2025/12/10/153015）
+  - 「世界純チタンメガネフレーム市場の主要企業調査：売上、メーカーランキング、シェア分析2026-2032」（https://qyresearch.hatenadiary.com/entry/2025/12/10/153015）
+  - 「アルミニウムの脱炭素化業界データベース：世界シェア、市場トレンド、会社ランキング2026 - yhresearch’s diary」（https://yhresearch.hatenadiary.com/entry/2026/04/17/122623）
+- 主要企業：
+  - 「までの展望を整理し、市場規模、成長率、主要企業の動向を多角的に分析しています」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「主要プレイヤーの市場シェアやランキングを示すとともに、競争環境や技術革新、製品開発、参入機会、リスクも考察します」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「グリーン低炭素アルミニウムの世界市場は、製品、用途、主要企業、地域の4つの視点から多層的に分析され、各セグメントの成長ポテンシャルや競争環境を明確に把握できます」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「3. 主要企業別分析：UC Rusal (EN+ Group)、 Novelis (Hindalco)、 Norsk Hydro、」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「主要プレイヤーのグリーン低炭素アルミニウム事業戦略、競争優位性、売上シェアを比較・評価します」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「２．主要企業の競争力評価」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「第2章：世界主要企業の市場シェアと競争分析」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「第3章：日本市場の主要企業分析」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「日本グリーン低炭素アルミニウム市場の主要企業の売上、販売数量、平均価格、市場シェア、ランキングを解析します」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「硫酸アルミニウムカリウムの世界市場：成長トレンドと主要プレイヤーの競争戦略2025-2031」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「低炭素建築材料の世界市場：成長トレンドと主要プレイヤーの競争戦略2025-2031」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「クリプトン85業界の主要企業調査2026：競…」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「主要企業はどこですか？」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「低炭アルミニウム市場でイノベーションを牽引する主要企業は誰ですか？」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「主要企業には、リオ・ティント、アルコア・コーポレーション、ノルスク・ハイドロ ASA、ルサル、中国宏橋集団有限公司が含まれます」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+- 投資：
+  - 「PVCツイストフィルム市場は2034年までに4.9%のCAGRで13.5億ドルに達する見込み」（https://www.datainsightsreports.com/ja/reports/aruminiumu-39017）
+  - 「10.5 Investment Scenario」（https://dataintelo.com/report/low-carbon-aluminum-market）
+- 検索結果の抜粋：
+  - 「グリーン低炭素アルミニウム市場シェアと成長傾向 | CAGR 10.6% — Aug 6, 2026 · グリーン低炭素アルミニウム市場の概要 世界のグリーン低炭素アルミニウム市場規模は、2026年の7,742,641万米ドルから2027年には85,633.61万米ドルに成長し、2035年までに193,641.57万米ドルに達すると予測されており、予測期間中に10.6%のCAGRで拡大します。」（https://www.industryresearch.biz/jp/market-reports/green-low-carbon-aluminium-market-116946）
+  - 「世界のグリーン低炭素アルミニウム市場規模、成長ポテンシャル、地域... — Dec 23, 2025 · （2021～2032）第8章：地域別市場規模と比較分析北米、欧州、アジア太平洋、南米、中東・アフリカの地域別グリーン低炭素アルミニウム売上、販売量、市場シェア、CAGRを詳細に示し、地域別戦略策定の参考情報を提供します。」（https://yhresearch.hatenablog.jp/entry/2025/12/23/171855）
+  - 「市場調査レポート: 低炭素アルミニウム市場-世界の産業規模、シェア、... — Jan 19, 2026 · 世界の低炭素アルミニウム市場は、2025年の904億5,000万米ドルから2031年までに1,175億2,000万米ドルへ拡大し、CAGR4.46％を記録すると予測されています。 低炭素アルミニウムとは、主にエネルギー集約的な製錬工程において水力 ...」（https://www.gii.co.jp/report/tsci1961080-low-carbon-aluminum-market-global-industry-size.html）
+  - 「低炭素アルミニウム市場規模：今後数年間のCAGRは8.55% — QYResearchの最新調査レポートによると、低炭素アルミニウムの世界市場規模は2030年までに1170億米ドルに達し、今後数年間で年平均成長率8.55％で成長すると予測されています。」（https://www.qyresearch.co.jp/news/3724/customized）
+  - 「【調査レポート】 グリーン低炭素アルミニウムの世界市場2023-2029：... — The global Green Low Carbon Aluminum market size is projected to grow from US$ million in 2022 to US$ million in 2029; it is expected to grow at a CAGR of % from 2023 to 2029. United States market for Green Low Carbon Aluminum is estimated to increase from US$ million in 2022 to US$ million by 2029, at a CAGR of % from 2023 through 2029. China market for 」（https://www.globalresearch.co.jp/global-green-low-carbon-aluminum-lp23ot1453/）
+  - 「グローバルグリーン低炭素アルミニウムのトップ会社の市場シェアおよ... — YH Researchによるとのグローバルグリーン低炭素アルミニウムの市場は2025年の81720百万米ドルから2032年には 百万米ドルに成長し、2026年から2032年の間にCAGRは %になると予測されている。 このレポートはのグローバルグリーン低炭素アルミニウムの現状と今後の動向を調査および分析し、製品別 ...」（https://www.yhresearch.co.jp/reports/1256810/green-low-carbon-aluminium）
+  - 「グリーン低炭素アルミニウム市場の競合調査：主要メーカー、ランキン... — Dec 10, 2025 · グリーン低炭素アルミニウム市場の競合調査：主要メーカー、ランキング、成長要因2026-2032 2025年の米国関税枠組みの 潜在的 な変化は、世界市場に大きな変動リスクをもたらします。本レポートは、グリーン低炭素アルミニウムの越境産業フットプリント、資本配分パターン、地域経済の相互 ...」（https://qyresearch.hatenadiary.com/entry/2025/12/10/153015）
+  - 「低炭素アルミニウムの世界市場レポート：成長、市場規模、競合状況、... — Feb 8, 2024 · グリーン低炭素アルミニウム市場の概要 QYResearchが発行した最新市場調査レポート「グリーン低炭素アルミニウム―グローバル市場シェアとランキング、全体の売上と需要予測、2024～2030」によると、グリーン低炭素アルミニウムの世界市場規模は、2023年の64,102.20百万米ドルから2029年には117,031. ...」（https://qyresearch1.hatenablog.com/entry/2024/02/08/123911）
+  - 「グリーン低炭素アルミニウムの世界産業シェア、最新進展、将来動向レ... — Oct 12, 2024 · QYResearch調査チームの最新レポート「グリーン低炭素アルミニウム―グローバル市場シェアとランキング、全体の売上と需要予測、2024～2030」によると、2024年から2030年の予測期間中のCAGRが10.6%で、2030年までにグローバルグリーン低炭素アルミニウム市場規模 ...」（https://www.qyresearch.co.jp/news/6352/green-low-carbon-aluminium）
+  - 「グリーン低炭素アルミニウムの世界産業シェア、最新進展、将来動向レ... — Oct 12, 2024 · QYResearch調査チームの最新レポート「グリーン低炭素アルミニウム―グローバル市場シェアとランキング、全体の売上と需要予測、2024～2030」によると、2024年から2030年の予測期間中のCAGRが10.6%で、2030年までにグローバルグリーン低炭素アルミニウム市場規模 ...」（https://www.qyresearch.co.jp/news/6352/about-us）
+  - 「世界の低炭素アルミニウム市場規模、シェア、トレンド、および予測：... — Feb 13, 2026 · 世界の低炭素アルミニウム市場は、2024年に1,930万トンと評価され、2033年までに2,771万トンに達すると予測されており、2025年から2033年にかけて年平均成長率(CAGR)3.70%で成長する見込みです。現在、北米が市場を牽引しています。 この成長は、製錬における再生可能エネルギーの統合拡大、循環 ...」（https://www.globalresearch.jp/data/low-carbon-aluminium-market-imarc/）
+  - 「Low Carbon Aluminum Market Size, Share & Forecast Report 2025 ...Low-Carbon Aluminum Market Size, Share & Trends | Industry ...Global Low-carbon Aluminum Market Size, Growth Trends ...Low-Carbon Aluminum Market Research Report 2034Low-Carbon Aluminium Market Size Share, Forecast By 2034Low Carbon Aluminum Market Competitive Landscape Report 2035Low-Carbon Aluminum Market Projected to Scale to $53.」（https://dataintelo.com/report/low-carbon-aluminum-market）
+  - 「Low Carbon Aluminum Market Competitive Landscape Report 2035 — Low Carbon Aluminum Market Overview: The Low Carbon Aluminum Market Size was valued at 4,500 USD Million in 2024. The Low Carbon Aluminum Market is expected to grow from 4,900 USD Million in 2025 to 10.5 USD Billion by 2035. The Low Carbon Aluminum Market CAGR (growth rate) is expected to be around 7.9% during the forecast period (2026」（https://www.wiseguyreports.com/reports/low-carbon-aluminum-market）
+  - 「Low Carbon Aluminum Market Size, Share & Forecast Report 2025 ...Top 10 Companies in the Low-Carbon Aluminum Industry (2026 ...Low-Carbon Aluminum Market Size, Share & Trends | Industry ...Global Low-carbon Aluminum Market Size, Growth Trends ...Low-Carbon Aluminium Market Size Share, Forecast By 2034Low-Carbon Aluminum Market Research Report 2034Top 10 low-carbon primary aluminum producers — The 」（https://dataintelo.com/report/low-carbon-aluminum-market）
+
+## レアメタルリサイクル（e-waste precious metal recovery）
+- 文脈：9 マテリアル ⑤製錬・分離精製・リサイクル
+- 市場規模：
+  - 「世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「市場規模 (2025)」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「1.2 billion USD」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「2.5 billion USD」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「たとえば、世界のコバルト市場は、供給懸念により2018年から2020年にかけて50％以上の価格高騰を経験し、国の経済に直接影響を与えました」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「北米のレアメタルリサイクル市場は、2024年に42億ドルと評価され、2026年から203年の間に約8.2%のCAGRを反映して、2025年の45億ドルから2033年までに81億ドルに拡大すると予測されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「米国のレアメタルリサイクル市場は、2024年に28億米ドルと評価され、2026年から203年の間に約8.1%のCAGRで、2025年の30億米ドルから2033年までに54億米ドルに成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「アジア太平洋地域のレアメタルリサイクル市場は、2024年に67億ドルと評価され、2025年の72億ドルから2033年までに124億ドルに成長すると予測されており、2026年から203年のCAGRは約8.3%である」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「日本のレアメタルリサイクル市場は2024年に14億米ドルと評価され、2025年の15億米ドルから2033年までに27億米ドルに、約8.2%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「中国のレアメタルリサイクル市場は、2024年に39億米ドルと評価され、2025年の42億米ドルから2033年までに71億米ドルに、約8.0%のCAGRで成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「韓国のレアメタルリサイクル市場は、2024年に11億米ドルと評価され、2025年の12億米ドルから2033年までに20億米ドルに、約8.1%のCAGRで成長すると予想されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「ヨーロッパのレアメタルリサイクル市場は、2024年に32億米ドルと評価され、約8.1%のCAGRを反映して、2025年の34億米ドルから2033年までに58億米ドルに成長すると予測されています」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象範囲」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「Spherical Insights & Consultingが発表した調査レポートによると、世界のレアメタルリサイクルサービス市場規模は、2024年の21億米ドルから2035年には78億米ドルに成長すると予測されており、2025年から2035年の予測期間における年平均成長率（CAGR）は12.67%です」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「サービスの市場規模は、2024年には21億米ドルに達すると推定されている」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+- 成長率：
+  - 「CAGR (2026-2034)」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「たとえば、EVのバッテリー市場だけでも2030年まで20%を超えるCAGRで成長すると予測されており、リチウム、コバルト、ニッケルの需要が大幅に増加します」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「Spherical Insights & Consultingが発表した調査レポートによると、世界のレアメタルリサイクルサービス市場規模は、2024年の21億米ドルから2035年には78億米ドルに成長すると予測されており、2025年から2035年の予測期間における年平均成長率（CAGR）は12.67%です」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「市場規模は2025年から2035年の間に年平均成長率（CAGR）12.67%で拡大すると予測される」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「4．都市鉱山事業の拡大」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「2034年にかけて年平均12.3%で成長し、規模は411億ドルへと拡大することを見込んでいます」（https://deallab.info/rare-earth/）
+  - 「レアアース採掘業界の世界市場規模の年平均成長率見込み(2025年) ©2026 Dealla」（https://deallab.info/rare-earth/）
+  - 「2023年 カナダ レア アース は、ブラジルのロンドニア州にある Bom Futuro 尾鉱の所有権を拡大する権利を取得」（https://deallab.info/rare-earth/）
+  - 「2026〜2035年の年平均成長率（CAGR）5.4%で成長し、2035年には2,264.4億米ドルに達する見込みである」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「年平均成長率（CAGR）（2026〜2035年）」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「スクラップ価格が基準年平均から±15%変動した場合、予測の推移に重大なばらつきが生じる」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「米国通商拡大法232条に基づく鉄鋼・アルミニウム製品の輸入関税は、2025年6月4日付で従価税率25%から50%に引き上げられた」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「貴金属リサイクルの売上高は2025年に67億3,000万米ドルとなり、2026〜2035年に年平均成長率（CAGR）5.2%で拡大すると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「湿式製錬処理は2025年に67.3億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）11.7%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「電気・電子分野は2025年に201.9億米ドルを生み出し、2026〜2035年に年平均成長率（CAGR）8.4%で成長すると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+- 上位シェア：
+  - 「世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測2026～2034年」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「*このデータは上位3社の市場プレーヤーについて提供されます*」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「衛星市場におけるナノテクノロジーの世界的応用における上位 15 社」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「を分子に、また後述する業界の市場規模を分母にして、2025年のレアアース採掘業界の市場シェアを簡易に試算しますと、1位は中国北方稀土集団、2位は中国稀土集団資源科技、3位はライナスコーポレーションとなります」（https://deallab.info/rare-earth/）
+  - 「レアアース採掘業界の市場シェア(2025年) ©2026 Deallab」（https://deallab.info/rare-earth/）
+  - 「レアアース採掘の世界市場シェアと業界ランキング(2025年) ©2026 Deallab」（https://deallab.info/rare-earth/）
+  - 「自社鉱山を運営する純粋な「採掘・上流分離事業」に定義を絞り、2025年のグローバル市場シェアを見ると、世界最大級の埋蔵量を誇る白雲鄂博（バイアンオボ）鉱床の採掘権を事実上独占している「中国北方稀土集団」が、圧倒的な1位となっています」（https://deallab.info/rare-earth/）
+  - 「世界最大級の埋蔵量を誇る白雲鄂博（バイアンオボ）鉱床の採掘権を事実上独占しており、2025年も中国政府から国内最大枠の生産クォータ（生産枠）を割り当てられています」（https://deallab.info/rare-earth/）
+  - 「リサイクル金属市場 サイズとシェア 2026-2035」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「Nucor Corporationが2025年に17.5%を超える市場シェアを獲得し、市場をリードした」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「この市場の上位5社は」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「鉄系スクラップは2025年に再生金属市場の60.0%を占め、2035年には1,222億8,000万米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「非鉄系再生金属の売上高は2025年に471億1,000万米ドルとなり、2035年には市場収益の41.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「新規スクラップおよび産業スクラップは2025年に498.0億米ドルを生み出し、2035年には市場収益の33.0%を占めると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「老廃・廃棄スクラップは2025年に市場収益の59.0%を占め、2035年には1,449.2億米ドルに達すると予測される」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+- 主要企業：
+  - 「本レポートは、世界のレアメタルリサイクルサービス市場で事業を展開する主要企業を詳細に分析しています」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「世界の自動車用窓外側シーリングシステム市場における主要企業トップ25」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「2035年までのゲームコントローラー市場における主要企業トップ25：市場レポート」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「再生金属市場の主要企業はどこですか？」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「リサイクル金属市場の主要企業には、Nucor Corporation、Steel Dynamics Inc.、Radius Recycling、Sims Limited、Novelisなどが含まれる」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います」（https://www.gminsights.com/ja/industry-analysis/recycled-metal-market）
+  - 「［3］ サプライチェーンと主要企業」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［7］ 主要企業動向」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［4］ 主要企業動向」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+- 投資：
+  - 「https://www.sphericalinsights.jp/blogs/top-15-companies-in-global-application-of-nanotechnology-in-the-satellite-2025-market-intelligence-and-investment-trends-2024-2035」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「2. 企業・商社・金融・投資会社・VCなどに新規事業機会（リサイクル、代替磁石等）を提示」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「18 レアアース／レアメタルに関する資金調達・インセンティブ動向」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［4］ G20鉱業インフラ基金活用に関する資金調達・インセンティブ動向と留意点・最新動向」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［5］ 欧州投資銀行（EIB）の出資指針見直し」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［7］ ジェトロ推奨資金調達パッケージ」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［1］ インフラ基金による鉱山開発出資」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+  - 「［5］ 民間ファンドによる希少金属スタートアップへの出資」（https://www.gii.co.jp/report/ing1772574-jv-rare-earths-rare-metals-edition.html）
+- 検索結果の抜粋：
+  - 「世界のレアメタルリサイクル市場規模、シェア、成長傾向および予測202... — May 22, 2026 · レアメタルリサイクル市場規模は2025年に12億ドルと評価され、2034年までに25億ドルに達すると推定されており、2026年から2034年にかけて9.5％のCAGRを示しています。」（https://www.verifiedmarketreports.com/ja/product/rare-metals-recycling-market/）
+  - 「レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象... — 世界のレアメタル・リサイクル・サービス市場の規模は、2025年から2035年の予測期間において年平均成長率（CAGR）12.67%で推移し、2024年の21億米ドルから2035年には78億米ドルへと拡大すると予測されています。」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）
+  - 「レアメタルリサイクル市場分析と2032年予測 | WiseGuyReports — これらの傾向は、レアメタルリサイクル市場の将来を形成し、長期的な成長に貢献すると予想されます。 出典: 一次調査、二次調査、WGR データベースおよびアナリストのレビュー」（https://www.wiseguyreports.com/ja/reports/rare-metals-recycling-market）
+  - 「レアメタルリサイクルサービス市場規模、2035年の予測 — グローバルレアメタルリサイクルサービス市場規模は、2024年のUSD 2.1億ドルから2035年までのUSD 7.8億米ドルに成長すると予想され、12.67%のCAGRで、主要企業がドーワホールディングス株式会社です.」（https://www.sphericalinsights.com/jp/reports/rare-metal-recycling-services-market）
+  - 「レアメタルリサイクルサービス市場：主要65社の市場規模・需要・対象... — リサイクル技術の進歩、促進的な法律、そして循環型経済の概念への注目の高まりが、リサイクルの普及を加速させています。 複雑な回収技術といった課題はあるものの、資源効率と持続可能性を促進するこの市場は、世界の産業の未来にとって不可欠です。」（https://www.sphericalinsights.jp/blogs/top-65-rare-metal-recycling-services-companies-in-the-globe-2025-statistical-view-by-spherical-insights-and-consulting）

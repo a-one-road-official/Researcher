@@ -1,0 +1,1785 @@
+{
+ "name": "海洋状況把握",
+ "en": "maritime domain awareness",
+ "aliases": [
+  "MDA",
+  "海洋監視"
+ ],
+ "context": "7 海洋 ②MDA",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:53:37.442572+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "海洋観測システム市場：市場規模と2030年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋監視システム市場規模は、2022年の14億8,000万米ドルから2030年には21億9,000万米ドルに達すると予測されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2022年から2030年にかけて5.0%のCAGRを記録すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模 2022",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 1.48 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模別 2030",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "US$ 2.19 Billion",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場規模、シェア、トレンド分析レポート：タイプ別（GPS海洋津波計、多機能観測ブイ、観測監視システム、波浪・潮汐センサー、その他）、用途別（オフショア、オンショア、深海計測機器）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋観測システム市場規模は、2025年には12億8,000万米ドルと評価され、2026年の13億5,000万米ドルから2034年には20億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）5.3%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中通信システム市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "FPSO市場規模、シェア、成長、機会、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用発電機市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋状況把握（MDA）とは｜官民投資ロードマップの目標・投資額1.2兆円・「海しる」・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで1.2兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで8.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポートされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで8.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額1.2兆円・経済波及効果8.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポート※1されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "224億ドル程度（成長率8.1％）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、投資による経済波及効果は2040年度までで8.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで1.2兆円と想定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年度までで8.7兆円と想定",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新の調査によると、海洋状況把握システムの世界市場規模は、2025年のxxx百万ドルから2026年にはxxx百万ドルとなり、2025年から2026年の間にxx％の変化があると推定されています",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "海洋状況把握システムの世界市場規模は、今後5年間でxx％の年率で成長すると予測されています",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "海洋状況把握システム市場は、種類別には、指揮・統制、レーダー、光電子、ソナーに、用途別には、航空、軍事プロジェクトに区分してグローバルと主要地域における2021年～2031年の市場規模を調査・予測しました",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後の見通し2026 - yhrnews’s diary",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後の見通し2026",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "YH Researchによるとのグローバル海洋監視データ収集システムの市場は2025年の 百万米ドルから",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（１）市場規模の分析：本レポートは、過去のデータ（2021～2025年）と予測データ（2026～",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "世界のガス昏倒システム市場規模：シェア、価格変動、今後の見通し2026",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（１）市場規模の総合分析：世界の海洋監視データ収集システム市場の成長動向と規模を過去データ（2020～2025年）と予測データ（2026～2031年）に基づいて提供しており、企業は市場の方向性と規模を把握し、今後の戦略立案に役立てることができます",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第1章：海洋監視データ収集システムの製品定義、現在の市場規模と将来予測、世界市場および中国市場における販売量、売上高、平均価格に焦点を当て、成長の可能性と主要な課題について詳細に考察しています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヤヌスキナーゼ（JAK）阻害剤市場規模は、2024年に215億米ドルと推定され、2037年末までに2,096億米ドルを超え、2025―2037年の予測期間中に20.9％のCAGRで成長すると予想されています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "日本の植物性タンパク質市場規模は、2024年に231億米ドルと推定され、2037年末までに1,343億米ドルを超え、2025―2037年の予測期間中に15.3%のCAGRで成長すると予想されています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Information Market Size, Share, and Growth Analysis, By Component, By Solution Type, By Deployment Mode, By Application, By End User, By Region - Industry Forecast 2026-2033",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,300 換算",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,200 換算",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 7,100 換算",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Size & Share | USD 46.3 Bn by 2034",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Size, Share & Growth Analysis, 2026-2034",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Maritime Domain Awareness market was valued at USD 24.5 Billion in 2025 and is projected to reach USD 46.3 Billion by 2034, a CAGR of 7.4%.",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market size (2025)",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 24.5 Billion",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 46.3 Billion",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 24.5 billion in 2025",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 46.3 billion by 2034",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8.9 billion in 2025",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "region is the fastest-growing market for Maritime Domain Awareness, with a 2025 market size of approximately",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6.7 billion",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "holds a significant share of the Maritime Domain Awareness market, with a 2025 market size of approximately",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "$4.2 billion",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "$7.1 billion",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2025)",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size: 2019: USD Billion 2.8, 2022: USD Billion 3.4, 2025: USD Billion 4.2, 2026: USD Billion 4.5, 2028: USD Billion 5.2, 2031: USD Billion 6.2, 2034: USD Billion 7.1. CAGR: 6.8%",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.44 billion",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.20 billion",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "$1.02 billion",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "市場は2022年から2030年にかけて5.0%のCAGRを記録すると予想されています",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なCAGR (2022 - 2030)",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋観測システム市場規模は、2025年には12億8,000万米ドルと評価され、2026年の13億5,000万米ドルから2034年には20億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、NOAA（米国海洋大気庁）が海洋気象予測の精度向上を目指し、AIを活用した海洋予測ツールの利用を拡大しました",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）5.7%を示すと予想されています",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポートされています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "勝ち筋は、情報収集手段の高度化、「海しる」の機能強化、民間による情報利用の拡大、国際連携の4つです",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "・世界のMDA関連の市場規模は224億ドル程度（成長率8.1％）とレポート※1されている",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "224億ドル程度（成長率8.1％）",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "海洋状況把握システムの世界市場規模は、今後5年間でxx％の年率で成長すると予測されています",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "（５）主要生産地域：世界の海洋監視データ収集システムの主要生産地域の生産量、生産能力、前年比成長率を分析し、企業が世界の供給状況を把握するための重要な情報を提供します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域の生産量、市場シェア、予測を紹介し、年平均成長率（CAGR）で各地域の成長可能性を評価し、海洋監視データ収集システム市場の地域別発展動向を把握します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：海洋監視データ収集システム市場を製品別に分析し、各製品タイプの売上、販売量、平均価格、年平均成長率（CAGR）の推移を示すとともに、今後の市場動向を予測します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：海洋監視データ収集システム市場を用途別に分析し、用途別の販売量、平均価格、売上、市場シェア、成長率を分析します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：世界の海洋監視データ収集システム市場の地域別売上、販売量、市場シェア、平均価格、CAGRを掲載されています",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤクリーニングシステムの調査レポート2026：市場成長率、規模、主要企業比較",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（５）主要生産地域：世界の海洋監視データ収集システム市場における主要生産地域の生産能力や生産量、前年比成長率を詳しく把握することで、企業は世界全体の生産分布を理解し、最適な生産計画や効率的なサプライチェーン管理に活かすことができます",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域の生産量、市場シェア、予測を紹介し、各地域の成長ポテンシャルをCAGRを通じて分析し、海洋監視データ収集システム市場の発展を予測します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第6章：製品別の売上、販売量、平均価格、CAGRを分析し、市場動向を予測します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別の販売量、平均価格、売上、シェア、およびCAGRを分析します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別の販売量、平均価格、売上、シェアおよびCAGRを調査します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、シェアおよびCAGRを紹介します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "世界のヤヌスキナーゼ（JAK）阻害剤市場規模は、2024年に215億米ドルと推定され、2037年末までに2,096億米ドルを超え、2025―2037年の予測期間中に20.9％のCAGRで成長すると予想されています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "日本の植物性タンパク質市場規模は、2024年に231億米ドルと推定され、2037年末までに1,343億米ドルを超え、2025―2037年の予測期間中に15.3%のCAGRで成長すると予想されています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海事情報市場の規模は、2024年に28億2,000万米ドルと評価され、2025年の30億6,000万米ドルから2033年までに59億2,000万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR8.58％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは8.58%です",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "売上高の前年比比較（2023年-2025年）",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Maritime Domain Awareness market was valued at USD 24.5 Billion in 2025 and is projected to reach USD 46.3 Billion by 2034, a CAGR of 7.4%.",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 7.4%",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": ", representing 27.5% of global revenue, and a projected CAGR of",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at CAGR of",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, representing a steady compound annual growth rate (CAGR) of",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size: 2019: USD Billion 2.8, 2022: USD Billion 3.4, 2025: USD Billion 4.2, 2026: USD Billion 4.5, 2028: USD Billion 5.2, 2031: USD Billion 6.2, 2034: USD Billion 7.1. CAGR: 6.8%",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR through 2034, reflecting sustained demand from commercial and military operators.",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, expanding at a compound annual growth rate (CAGR) of",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2034)",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 8.3% | USD Billion",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "maritime surveillance upgrade plan in early 2025. The region is projected to grow at a CAGR of",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025 and growing at over",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "new frigates, corvettes, OPVs, and patrol boats across the top 20 naval powers, each representing an EO sensor procurement opportunity, and upgrading or refit programs for hundreds more legacy vessels create additional addressable market potential. Unmanned Systems are the fastest-growing platform segment, projected to expand at a CAGR of",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025 | CAGR 10.8%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025 | CAGR 12.4%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025 | CAGR 11.6%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific is the dominant region, holding a 34.7% revenue share valued at approximately $2.91 billion in 2025. The region's leadership reflects vigorous naval expansion programs in China, India, Japan, South Korea, and Australia, with the region projected to grow at a CAGR of 9.1% through 2034, the highest of any geographic segment.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Maritime Domain-Awareness EO market was valued at $8.4 billion in 2025. It is projected to reach $17.2 billion by 2034, expanding at a compound annual growth rate (CAGR) of 8.3% over the 2026-2034 forecast period, driven by naval modernization programs, rising geopolitical tensions at sea, and advancements in AI-powered EO sensor analytics.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2034",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR each; SIPRI reports European military spending up 14 percent to USD 864 billion in 2025.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, growing at a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "of 2025 revenue, and also the fastest growing at a",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2034",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 8.1%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global maritime domain awareness (MDA) market reached USD 22.4 billion in 2024 and is expected to grow at a CAGR of 8.1%, reaching USD 44.6 billion by 2033.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "The type segment contributed the largest share to the Maritime Domain Awareness Solution Market in 2023; this segment is projected to grow at the highest CAGR from 2025 to 2032.",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "The report efficiently evaluates the current market size and provides an industry forecast. The market was valued at US$ xxx million in 2025, and is expected to grow at a CAGR of xx% during the period 2025–2032.",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 11.2% (2026–2033).",
+    "url": "https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "海洋監視システム市場の規模と予測（2020年 - 2030年）、世界および地域のシェア、傾向、成長機会分析レポートの対象範囲：タイプ（センサー、水中通信システム、ブイ観測監視システム）、アプリケーション（陸上および沖合）、および地理別",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中通信システムセグメントは、2022年に大きな市場シェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "陸上セグメントは、2022年に大きな市場シェアを占めました",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場規模、シェア、トレンド分析レポート：タイプ別（GPS海洋津波計、多機能観測ブイ、観測監視システム、波浪・潮汐センサー、その他）、用途別（オフショア、オンショア、深海計測機器）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア32%で海洋観測システム市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の海洋観測システム市場において、最大のシェアを占める地域はどこでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で32％のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶用プロペラ市場の規模、シェア、成長率、予測（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "水中通信システム市場規模、シェア、成長率、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "船舶解体市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "陸上電源市場の規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "FPSO市場規模、シェア、成長、機会、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業別売上及び市場シェア（～2025年）",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後の見通し2026 - yhrnews’s diary",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後の見通し2026",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "）は、調査レポート「グローバル海洋監視データ収集システムのトップ会社の市場シェアおよびランキング 2026」を発行しました",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（２）主要企業の詳細分析：世界の海洋監視データ収集システム市場で主要企業の売上、価格、シェア、ランキングに関するデータを提供し、企業が競争戦略立案に役立ちます",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（３）日本市場のトレンド分析：日本の海洋監視データ収集システム市場に関する具体的なデータを分析し、主要企業の売上、価格、市場シェア、ランキングなどの情報を提供し、効果的な市場参入戦略を立てることができます",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：海洋監視データ収集システムの世界市場での主要企業の市場シェア、ランキング、売上、販売量を評価し、各企業の市場戦略と今後の発展方向について詳しく分析します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：海洋監視データ収集システムの日本市場での主要企業に焦点を当て、売上、販売量、平均価格、市場シェア、業界ランキングを評価します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域の生産量、市場シェア、予測を紹介し、年平均成長率（CAGR）で各地域の成長可能性を評価し、海洋監視データ収集システム市場の地域別発展動向を把握します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：海洋監視データ収集システム市場を用途別に分析し、用途別の販売量、平均価格、売上、市場シェア、成長率を分析します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：世界の海洋監視データ収集システム市場の地域別売上、販売量、市場シェア、平均価格、CAGRを掲載されています",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：販売量、売上高、平均価格、市場シェア、今後数年間の予測などの主要数値を取り上げ、各国の海洋監視データ収集システム市場を詳細に分析します（2021～2032）",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "世界のガス昏倒システム市場規模：シェア、価格変動、今後の見通し2026",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "海洋監視データ収集システム業界の上位メーカーランキング2025：市場シェアと売上推移の分析レポート | M5kjeCのブログ",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "海洋監視データ収集システム業界の上位メーカーランキング2025：市場シェアと売上推移の分析レポート",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月7日に、YH Research株式会社（本社：東京都中央区）は、調査レポート「グローバル海洋監視データ収集システムのトップ会社の市場シェアおよびランキング 2025」を発行しました",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "（２）主要企業の情報：世界の海洋監視データ収集システム市場における主要企業の売上、価格、シェア、ランキングについて詳細に分析し、競争環境と企業の立ち位置を理解するための指針を提供します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "（３）中国市場の動向：中国海洋監視データ収集システム市場に焦点を当て、主要企業の売上、価格、市場シェア、ランキングなどの詳細データを提供し、企業が効果的な市場戦略を策定するのに役立ちます",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界の海洋監視データ収集システム市場における主要企業の市場シェア、ランキング、売上、販売量、平均価格を評価し、各社の市場集中度と拡張戦略を分析します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国の海洋監視データ収集システム市場における主要企業の市場シェア、ランキング、販売量、売上高、平均価格を評価します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第4章：主要生産地域の生産量、市場シェア、予測を紹介し、各地域の成長ポテンシャルをCAGRを通じて分析し、海洋監視データ収集システム市場の発展を予測します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第7章：用途別の販売量、平均価格、売上、シェア、およびCAGRを分析します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第8章：地域別の販売量、平均価格、売上、シェアおよびCAGRを調査します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第9章：国別の販売量、平均価格、売上、シェアおよびCAGRを紹介します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "市場調査レポート: 海事情報市場の規模、シェア、および成長分析：コンポーネント別、ソリューションタイプ別、導入形態別、用途別、エンドユーザー別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "海事情報市場の規模、シェア、および成長分析：コンポーネント別、ソリューションタイプ別、導入形態別、用途別、エンドユーザー別、地域別―2026年～2033年の業界予測",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "上位5社の比較",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業シェア分析、2025年",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "海事情報：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "holds a significant share of the Maritime Domain Awareness market, with a 2025 market size of approximately",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "16.2 Global Maritime Domain Awareness Market: Market Share Analysis, 2023",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "72.4% Market Share",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "27.6% Market Share",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2024 (SIPRI data), and the maritime surveillance segment continues to capture an increasing share of this expenditure, with EO and infrared systems favored for their precision identification capabilities compared to radar-only solutions.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025, encompassing the thousands of shore-based maritime surveillance towers, lighthouse-mounted camera systems, and integrated coastal surveillance networks that form the backbone of national maritime domain awareness in coastal nations worldwide. India's Coastal Surveillance Network (CSN), Indonesia's Vessel Monitoring System, and the EU's EUROSUR",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025 | CAGR 10.8%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share 2025 | CAGR 12.4%",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite AIS supply consolidated in 2025: Kpler closed its purchase of Spire's maritime business in April and S&P Global completed its ORBCOMM AIS acquisition on 10 November.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "counts only the AI-enabled share of coastal and shipborne surveillance radar, EO/IR and camera systems, AIS and RF receivers and base stations, and unmanned and autonomous sensor platforms. Terma says one SCANTER radar can cover up to 98,000 square kilometers. Camera and thermal sensors come from the",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋モニタリングシステム市場のエコシステムにおける主要企業は、高度なセンサーポートフォリオ、グローバルな展開ネットワーク、オフショアモニタリングの専門知識、政府機関、研究機関、オフショアエネルギー事業者との長期契約を通じて競争しています",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋観測システム市場における主要企業はどこでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の主要企業は、Global Ocean Security Technologies、Hitachi Zosen Corporation、Ocean Scientific International Ltd、Sea6 Energy Pvt. Ltd.、Seatools B.V. です",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートに含まれる主要企業は、Lockheed Martin Corporation、BAE Systems PLC、Leonardo S.p.A、…などがあり、各企業の海洋状況把握システム販売量、売上、価格、市場シェアなどを分析しました",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のバッテリー試験・製造装置市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：電極用スラリー混合装置、コーティング・プレス装置、スライド装置、巻線・スタッキング装 …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の折りたたみ式自転車市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：電気、非電気、用途別：演習、交通ツール、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料に含まれる主要企業は、 …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のNd-Fe-B永久磁石材料市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：焼結Nd-Fe-B、結合Nd-Fe-B、射出Nd-Fe-B、用途別：電子、計器、機械・装 …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の液体二酸化炭素用貯蔵タンク市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：固定式貯蔵タンク、移動式貯蔵タンク、用途別：エネルギー＆電力、化学、冶金、その他）、主要地 …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の振動監視・診断システム市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：オフライン振動監視・診断システム、オンライン振動監視・診断システム、用途別：機械製 …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の巻尺テープ市場概要、主要企業の動向（売上、販売価格、市場シェア）、セグメント別市場規模（種類別：ポケットテープ、測量テープ、用途別：木工、建設、その他）、主要地域別市場規模、流通チャネル分析などの情報を掲載しています",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "当資料に含まれる主要企業は、Stanley …",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、売上、販売量、平均価格、年平均成長率などの市場規模の分析に加え、主要企業の市場シェアやランキングも評価しています",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上、市場シェア、競争力などを分析し、海洋監視データ収集システム市場における各社のポジションと戦略を評価します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（２）主要企業の詳細分析：世界の海洋監視データ収集システム市場で主要企業の売上、価格、シェア、ランキングに関するデータを提供し、企業が競争戦略立案に役立ちます",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "（３）日本市場のトレンド分析：日本の海洋監視データ収集システム市場に関する具体的なデータを分析し、主要企業の売上、価格、市場シェア、ランキングなどの情報を提供し、効果的な市場参入戦略を立てることができます",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：海洋監視データ収集システムの世界市場での主要企業の市場シェア、ランキング、売上、販売量を評価し、各企業の市場戦略と今後の発展方向について詳しく分析します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：海洋監視データ収集システムの日本市場での主要企業に焦点を当て、売上、販売量、平均価格、市場シェア、業界ランキングを評価します",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "タイヤクリーニングシステムの調査レポート2026：市場成長率、規模、主要企業比較",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "当レポートでは、海洋監視データ収集システム市場における製品や用途の概要を提供するとともに、主要企業や市場競争環境についての詳細な分析を行っています",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "（２）主要企業の情報：世界の海洋監視データ収集システム市場における主要企業の売上、価格、シェア、ランキングについて詳細に分析し、競争環境と企業の立ち位置を理解するための指針を提供します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "（３）中国市場の動向：中国海洋監視データ収集システム市場に焦点を当て、主要企業の売上、価格、市場シェア、ランキングなどの詳細データを提供し、企業が効果的な市場戦略を策定するのに役立ちます",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第2章：世界の海洋監視データ収集システム市場における主要企業の市場シェア、ランキング、売上、販売量、平均価格を評価し、各社の市場集中度と拡張戦略を分析します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第3章：中国の海洋監視データ収集システム市場における主要企業の市場シェア、ランキング、販売量、売上高、平均価格を評価します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "第10章：海洋監視データ収集システム市場における主要企業の基本情報、製品仕様、最新の開発状況を示し、売上、販売量、粗利益率などの指標を基に企業戦略と競争力を評価します",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海事情報市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の市場ポジショニング、2025年",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の全企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業プロファイル",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled based on Your",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Competitive Landscape",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled based on Your",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "led competitive landscape",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Raytheon Technologies led competitive landscape with broad sensor and integration portfolios",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who Are the Key Players in the Maritime Domain-Awareness EO Market?",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. Which companies are the leading players in the Maritime Domain-Awareness EO market?",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Competitive Landscape 2025-2034",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include Raytheon Technologies Corporation, Thales Group, Saab AB, BAE Systems plc, Lockheed Martin Corporation, Northrop Grumman Corporation, Elbit Systems Ltd., Kongsberg Gruppen ASA, Leonardo S.p.A., and Furuno Electric Co., Ltd.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled in the Maritime Domain Awareness Solution Market report include:",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "The Maritime Domain Awareness Solution Market research report gives a thorough analysis of the current status of the Maritime Domain Awareness Solution Market's major players.",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "This report incorporates the analysis of factors that augments the market growth. Report presents competitive landscape of the global market. This also provides the scope of different segments and applications that can potentially influence the market in the future. The analysis is based on current market trends and historic growth data. It includes",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "detailed market segmentation, regional analysis, and competitive landscape of the industry.",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "海洋観測システム市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "海洋状況把握（MDA）とは｜官民投資ロードマップの目標・投資額1.2兆円・「海しる」・政策をやさしく解説｜官民投資ロードマップをやさしく読む",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、経済波及効果は2040年度までで8.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資の具体像 ― 投資額1.2兆円・経済波及効果8.7兆円",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "官民投資額は2040年度までで1.2兆円、投資による経済波及効果は2040年度までで8.7兆円と想定されています",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "are emerging as promising markets, together accounting for approximately 15.5% of global revenue in 2025. These regions are benefiting from increasing investments in port security and coastal surveillance infrastructure, growing awareness of maritime economic losses from piracy and illegal fishing, and international development funding directed at strengthening maritime governance frameworks.",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "9.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "RF satellites detect radio signals that ships emit and calculate where each signal came from. Because the position does not depend on what the ship reports, RF data exposes vessels that go dark or spoof AIS. HawkEye 360 reported revenue of USD 117.7 million in 2025, and Unseenlabs raised EUR 85 million in February 2024 for a constellation built for maritime surveillance.",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market was valued at approximately $4.5 billion in 2024, driven by rising maritime security investments worldwide.",
+    "url": "https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海洋状況把握 （MDA）とは｜「海しる」の強化で我が国MDA ... — 海洋状況把握 （MDA）とは｜「海しる」の強化で我が国MDA ... 日本DX地域創生応援団 https://digital-supporter.net > ... > (7) 海洋",
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "pass": 3
+   },
+   {
+    "quote": "【産業調査レポート】海洋状況把握システムの世界市場2026年 ： 指揮... — 海洋状況把握システムの世界市場2026年：種類別・用途別・地域別予測 • 英文タイトル： Global Maritime Situational Awareness System Market 2026",
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の海洋監視データ収集システム市場規模：シェア、価格変動、今後... — Jan 27, 2026 · 当レポートでは、2021年から2032年にかけての海洋監視データ収集システム市場に関する詳細なデータを提供します。 具体的には、売上、販売量、平均価格、年平均成長率などの市場規模の分析に加え、主要企業の市場シェアやランキングも評価しています。",
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "pass": 3
+   },
+   {
+    "quote": "海洋監視データ収集システム業界の上位メーカーランキング2025：市場... — （2）主要企業の情報：世界の海洋監視データ収集システム市場における主要企業の売上、価格、シェア、ランキングについて詳細に分析し、競争環境と企業の立ち位置を理解するための指針を提供します。 （2020～2025）",
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Research Report 2034 — Jun 11, 2026 · The global maritime domain awareness market, valued at $4.2 billion in 2025, is projected to reach $7.1 billion by 2034, growing at 6.8% CAGR, reflecting the increasing criticality of comprehensive maritime monitoring capabilities for national security and commercial operations.",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research Report 2034 — The Maritime Domain-Awareness EO market was valued at $8.4 billion in 2025 and is projected to reach ",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Solution Market Sector Growth 2035Maritime Domain-Awareness EO Market Research Report 2033Maritime Domain Awareness AI Market Research Report 2034 — Sep 30, 2025 · The maritime domain awareness AI market was worth USD 617.1 million in 2025 and grows at a 12.0% CAGR to USD 1,711.3 million by 2034, led by softwar",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Solution Market Sector Growth 2035 — The Maritime Domain Awareness Solution Market was valued at USD 3.84 Billion in 2025 and is projected to grow to USD 6.5 Billion by 2035, at a CAGR of 5.4%.",
+    "url": "https://www.wiseguyreports.com/reports/maritime-domain-awareness-solution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime domain awareness solution Worldwide Market ReportsMaritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Platforms MarketMaritime Domain Awareness Solution - Global Market Share and ... — Europe holds a significant share of the Maritime Domai",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Research Report 2034 — Jun 11, 2026 · Asia Pacific dominates the maritime domain awareness market with 34.2% market share, valued at $1.44 billion in 2025, followed by North America with 28.3% and Europe with 21.2%.",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain Awareness Platforms MarketMaritime Domain Awareness Solution - Global Market Share and ... — Sep 30, 2025 · Maritime security and surveillance is the largest application at 30.0%, and sanctions, compliance and risk screening grows fastest at 15.8% as the EU list of shadow fleet vessels reached 557 in October 2025. The Ma",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness Market Size & Share | USD 46.3 Bn ...Maritime Domain Awareness Market Research Report 2034Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market ",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Size, Share & Forecast ...Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market Sector Growth 2035 — Sep 30, 2025 · Companies covered in the Maritime Domain Awareness AI Market report The competit",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain-Awareness EO Market Size, Share & Forecast ...Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market Sector Growth 2035 — Asia Pacific is the dominant region in the global Maritime Domain-Awareness EO market, commanding $2.91 billion and a revenue share of 34.7% in 2025, propell",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Size | USD 7.09 Bn by 2033Maritime Domain Awareness AI Market Research Report 2034Maritime Domain Awareness Solution Market Sector Growth 2035 — One of the principal growth factors for the Maritime Domain Awareness AI market is the rising incidence of maritime threats, including piracy, smuggling, illegal fishing, and territorial disputes. Jun 11, 2026 · The Mar",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   },
+   {
+    "quote": "Maritime Domain Awareness AI Market Research Report 2034 — Jun 11, 2026 · The Maritime Domain Awareness AI market, valued at $3.8 billion in 2025, is projected to expand to $9.4 billion by 2034, reflecting a compound annual growth rate (CAGR) of 12.4% throughout the forecast period.",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-ai-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "5.3",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "quote": "世界の海洋観測システム市場規模は、2025年には12億8,000万米ドルと評価され、2026年の13億5,000万米ドルから2034年には20億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は5.3%となる見込みです"
+   },
+   {
+    "value": "5.5",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "quote": "北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています"
+   },
+   {
+    "value": "5.7",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "quote": "アジア太平洋地域は、予測期間中に年平均成長率（CAGR）5.7%を示すと予想されています"
+   },
+   {
+    "value": "8.58",
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "quote": "世界の海事情報市場の規模は、2024年に28億2,000万米ドルと評価され、2025年の30億6,000万米ドルから2033年までに59億2,000万米ドルへと拡大し、予測期間（2026年～2033年）においてCAGR8.58％で成長すると見込まれています"
+   },
+   {
+    "value": "7.4",
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "quote": "The Maritime Domain Awareness market was valued at USD 24.5 Billion in 2025 and is projected to reach USD 46.3 Billion by 2034, a CAGR of 7.4%."
+   },
+   {
+    "value": "6.8",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Size: 2019: USD Billion 2.8, 2022: USD Billion 3.4, 2025: USD Billion 4.2, 2026: USD Billion 4.5, 2028: USD Billion 5.2, 2031: USD Billion 6.2, 2034: USD Billion 7.1. CAGR: 6.8%"
+   },
+   {
+    "value": "8.3",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "CAGR: 8.3% | USD Billion"
+   },
+   {
+    "value": "10.8",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Market Share 2025 | CAGR 10.8%"
+   },
+   {
+    "value": "12.4",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Market Share 2025 | CAGR 12.4%"
+   },
+   {
+    "value": "11.6",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Market Share 2025 | CAGR 11.6%"
+   },
+   {
+    "value": "9.1",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Asia Pacific is the dominant region, holding a 34.7% revenue share valued at approximately $2.91 billion in 2025. The region's leadership reflects vigorous naval expansion programs in China, India, Japan, South Korea, and Australia, with the region projected to grow at a CAGR of 9.1% through 2034, t"
+   },
+   {
+    "value": "8.1",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "quote": "CAGR of 8.1%"
+   },
+   {
+    "value": "11.2",
+    "url": "https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/",
+    "quote": "CAGR of 11.2% (2026–2033)."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "32",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "quote": "北米は、2025年の市場シェア32%で海洋観測システム市場を牽引しました"
+   },
+   {
+    "value": "5.5",
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "quote": "北米は世界の海洋監視システム市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）5.5%で成長すると見込まれています"
+   },
+   {
+    "value": "34.2",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%"
+   },
+   {
+    "value": "28.3",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%"
+   },
+   {
+    "value": "21.2",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%"
+   },
+   {
+    "value": "8.6",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%"
+   },
+   {
+    "value": "7.7",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Regional Market Share: Asia Pacific: 34.2%, North America: 28.3%, Europe: 21.2%, Latin America: 8.6%, Middle East & Africa: 7.7%"
+   },
+   {
+    "value": "28.5",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%"
+   },
+   {
+    "value": "24.3",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%"
+   },
+   {
+    "value": "19.8",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%"
+   },
+   {
+    "value": "16.5",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%"
+   },
+   {
+    "value": "10.9",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "Market Share by Segment: Vessel Tracking: 28.5%, Port and Harbor Management: 24.3%, Coastal Surveillance: 19.8%, Maritime Security: 16.5%, Others: 10.9%"
+   },
+   {
+    "value": "72.4",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "72.4% Market Share"
+   },
+   {
+    "value": "27.6",
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "quote": "27.6% Market Share"
+   },
+   {
+    "value": "10.8",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Market Share 2025 | CAGR 10.8%"
+   },
+   {
+    "value": "12.4",
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "quote": "Market Share 2025 | CAGR 12.4%"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E4%B8%8A%E7%8A%B6%E6%B3%81%E8%AA%8D%E8%AD%98%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-119054",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/dai24/02shiryou1-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenablog.com/entry/2026/03/30/172849",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pando.life/article/4628559",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://simblo.net/u/M5kjeC/post/617168",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chinairn.com/news/20250529/175503188.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/ires1809830-marine-survey-services-market-by-type-data-type.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E4%B8%8A%E7%8A%B6%E6%B3%81%E8%AA%8D%E8%AD%98%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-119054",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dapper_murre2989/n/n999a7190097d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/reports/maritime-domain-awareness-solution-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qyresearch.com/reports/3923010/maritime-domain-awareness-solution",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.consolidated.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.catnmsplan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.consolidatedsupply.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cooperconsolidated.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmarketreports.com/report/maritime-domain-awareness-ai-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketintelo.com/report/maritime-domain-awareness-ai-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "海洋状況把握 市場規模 CAGR",
+   "results": [
+    "https://www.theinsightpartners.com/ja/reports/oceanographic-monitoring-system-market",
+    "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%B5%B7%E4%B8%8A%E7%8A%B6%E6%B3%81%E8%AA%8D%E8%AD%98%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-119054",
+    "https://digital-supporter.net/mirai-ai/17invest/mda.html",
+    "https://www.cas.go.jp/jp/seisakukaigi/kaiyou/dai24/02shiryou1-2.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/marine-energy-market",
+    "https://www.atpress.ne.jp/news/2521128",
+    "https://newscast.jp/smart/news/3806262",
+    "https://www8.cao.go.jp/ocean/policies/mda/mda.html",
+    "https://www.fortunebusinessinsights.com/jp/海上状況認識システム市場-119054"
+   ]
+  },
+  {
+   "query": "海洋状況把握 市場 シェア 上位 企業",
+   "results": [
+    "https://www.mrcenter.jp/global-maritime-situational-awareness-system-market-report-mrc-se-17687/",
+    "https://yhrnews.hatenablog.com/entry/2026/03/30/172849",
+    "https://yhrnews.hatenadiary.com/entry/2026/01/27/154456",
+    "https://pando.life/article/4628559",
+    "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "https://simblo.net/u/M5kjeC/post/617168",
+    "https://www.fortunebusinessinsights.com/jp/海上状況認識システム市場-119054"
+   ]
+  },
+  {
+   "query": "海洋状況把握 市場 前年比 2025",
+   "results": [
+    "https://www.chinairn.com/news/20250529/175503188.shtml",
+    "https://straitsresearch.com/jp/report/oceanographic-monitoring-system-market",
+    "https://www.gii.co.jp/report/ires1809830-marine-survey-services-market-by-type-data-type.html",
+    "https://www.fortunebusinessinsights.com/jp/海上状況認識システム市場-119054",
+    "https://www.gii.co.jp/report/sky2035719-maritime-information-market-size-share-growth.html",
+    "https://note.com/dapper_murre2989/n/n999a7190097d",
+    "https://www.rioe.or.jp/research/market-structure/"
+   ]
+  },
+  {
+   "query": "maritime domain awareness market size CAGR 2025",
+   "results": [
+    "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "https://www.wiseguyreports.com/reports/maritime-domain-awareness-solution-market",
+    "https://growthmarketreports.com/report/maritime-domain-awareness-eo-market",
+    "https://marketintelo.com/report/maritime-domain-awareness-ai-market"
+   ]
+  },
+  {
+   "query": "maritime domain awareness market share top players percent",
+   "results": [
+    "https://dataintelo.com/report/maritime-domain-awareness-market",
+    "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "https://www.worldwidemarketreports.com/market-insights/maritime-domain-awareness-solution-market-1027811",
+    "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "https://datiqueinsightsmarket.blog/maritime-domain-awareness-platforms-market/",
+    "https://www.qyresearch.com/reports/3923010/maritime-domain-awareness-solution"
+   ]
+  },
+  {
+   "query": "maritime domain awareness market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.consolidated.com/",
+    "https://www.catnmsplan.com/",
+    "https://www.consolidatedsupply.com/",
+    "https://consolidatednd.com/",
+    "https://www.cooperconsolidated.com/",
+    "https://consolidated.nyc/",
+    "https://cgbgrain.com/"
+   ]
+  },
+  {
+   "query": "maritime domain awareness market key companies share 2025",
+   "results": [
+    "https://growthmarketreports.com/report/maritime-domain-awareness-market",
+    "https://marketintelo.com/report/maritime-domain-awareness-market",
+    "https://dataintelo.com/report/maritime-domain-awareness-ai-market",
+    "https://dataintelo.com/report/maritime-domain-awareness-eo-market",
+    "https://growthmarketreports.com/report/maritime-domain-awareness-ai-market",
+    "https://marketintelo.com/report/maritime-domain-awareness-ai-market",
+    "https://www.wiseguyreports.com/reports/maritime-domain-awareness-solution-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

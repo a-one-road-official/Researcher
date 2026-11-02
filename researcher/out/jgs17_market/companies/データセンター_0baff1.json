@@ -1,0 +1,1978 @@
+{
+ "name": "データセンター",
+ "en": "data center",
+ "aliases": [
+  "データセンター建設",
+  "DC"
+ ],
+ "context": "2 デジタル・サイバー ④クラウド・データセンター",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:34:35.451341+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "データセンターサービス市場規模、シェア&成長レポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンターサービス市場は、2024年に248億米ドルと推定されました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の287億米ドルから2034年には1,025億米ドルに成長し、年平均成長率(CAGR)は15.2%になる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサービス市場規模、サービス別、2022年 - 2034年 (10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国データセンターサービス市場規模、2022年-2034年(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンター市場規模は、2025年には3,968億8,000万米ドルと評価され、2026年の4,363億3,000万米ドルから2034年には9,312億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のデータセンター市場は、ハイパースケールクラウドキャンパスの集中、高度な光ファイバー接続、そして確立されたコロケーションエコシステムによって、2025年には地域別シェア40.20%と最大規模を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国データセンター市場は、クラウド、AI、高性能コンピューティングワークロードをサポートするハイパースケールキャンパスの継続的な拡張に牽引され、2025年には1,342億2,000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのデータセンター市場は、豊富な再生可能エネルギー資源、冷却要件を軽減する良好な気候条件、そして災害復旧インフラへの需要の高まりに支えられ、2025年には154億1000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域のデータセンター市場は、予測期間中に年平均成長率（CAGR）13.10%で成長すると予想されており、地域別では最速の成長率を示しています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国のデータセンター市場は、2025年には528億4000万米ドル規模に達すると予測されており、これは中国の「東部データ西部コンピューティング」構想に基づく国家コンピューティングハブの大規模開発に支えられている",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "インドのデータセンター市場は、ムンバイ、チェンナイ、ハイデラバード、プネーなどの都市におけるハイパースケールクラウドプロバイダーやコロケーション事業者の投資増加を背景に、2025年には148億6000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンター市場は、金融機関、通信事業者、製造業などからの高可用性インフラに対する需要の高まりに支えられ、2025年には185億7000万米ドル規模に達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場規模は、2026年には4,363億3,000万米ドルと評価され、2034年までに9,312億4,000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%です",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）11.7%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンターネットワーク市場規模は2025年に2,500億米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "今後、同市場は2034年までに6,300億米ドルに達すると予想されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.83%となる見込みです",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本のデータセンターネットワーク市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のデータセンターネットワーク市場規模は2025年に2,500億米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のデータセンター・コロケーション業界の市場シェアを簡易に試算しますと、1位はエクイニクス、2位はデジタル・リアリティ、3位は中国電信股份有限公司となります",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "当データベースでは、2025年のデータセンター・コロケーション業界の市場規模を3,867億ドルとしております",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "調査会社プレシデンスリサーチによると、2025年の同業界の市場規模は3,867億ドルです",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均11.06%で成長し、規模は11,037億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "3,867億ドル",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "4,302億ドル",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "11,037億ドル",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター・コロケーション業界の市場規模の成長率見込み(2025年）©2026 Deallab",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター・コロケーション業界の市場規模の成長予想 ©2026 Deallab",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業である携帯電話基地局タワーの貸出に加え、2021年に米データセンター大手のCoreSite（コアサイト）を約101億ドルで買収",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサーバー市場規模、シェア・分析レポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、世界のデータセンターサーバー市場は2024年に1,148億米ドルと評価され、2025年の1,175億米ドルから2034年には2,624億米ドルへと拡大し、2025年から2034年にかけて年平均成長率8.4%で成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "1,148億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "1,175億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "2,624億ドル",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国データセンターサーバー市場規模、2022年~2034年(10億米ドル)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの普及を含めたデジタル技術の急速な進化とともに、データセンターの需要は高まりを見せ、グローバルでの市場規模は2028年には約20兆円を超えると見込まれている",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DATAはこの変化を見据え、データセンター事業を次世代の成長を担う事業の柱として位置づけて、2023年度から2027年度に向けて1.5兆円以上の投資を計画している",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルのデータセンター市場は、2020年から2028年にかけて年間平均13.5％で成長すると予測されている成長領域です",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "この8年間で市場規模は2020年の508億ドルから2028年の1368億ドル、日本円だと約20兆円へと拡大し、約2.5倍以上の規模になると見込まれています",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "「データセンターの需要の急拡大に伴い、2023年度から2027年度で1.5兆円以上の事業への積極的な投資を計画しております",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の国内データセンターサービス市場は4兆7231億円、IaaS／PaaSが全体をけん引～富士キメラ総研調査 - クラウド Watch",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の国内データセンターサービス市場は4兆7231億円、IaaS／PaaSが全体をけん引～富士キメラ総研調査",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のデータセンターサービス市場規模は4兆7231億円で、2030年には6兆8189億円に成長すると予測している",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内データセンターサービス市場については、生成AIの急速な普及、企業のクラウド移行やDX化の進展を背景に確実に成長を続け、2026年には5兆円超、2030年には7兆円近い規模になると予測している",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "注目市場としてはコンテナ型データセンターを挙げており、コンテナ型データセンターの市場規模については、2025年見込みが347億円（2024年比3.7倍）、2030年には755億円（2024年比8.1倍）に達すると予測している",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の国内データセンターサービス市場規模は4兆180億円、AI需要を受けGPUサーバー／液冷関連製品市場も増加～富士キメラ総研調査",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンター市場（売上高）は、2024年に4,161億ドルと見込まれ、2029年には6,241",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンターサービスの市場規模（売上高）は、2023年に2兆7,361億円であり、2028年",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "に5兆812億円に達すると見込まれる（ 図表Ⅱ-1-8-2）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-1 世界のデータセンター市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-2 日本のデータセンターサービス市場規模（売上高）の推移及び予測",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に7,733億ドル（前年比22.4%増）まで増",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（10億ドル）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の287億米ドルから2034年には1,025億米ドルに成長し、年平均成長率(CAGR)は15.2%になる見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2025年~2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "5GおよびIoT駆動型インフラストラクチャーの導入拡大",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、MicrosoftはインドでAI対応データセンターを拡大するために30億米ドルを投資し、マレーシア、シンガポール、インドネシアは戦略的投資を通じて世界的な運用者を引き付け続けています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービスセグメントは、ハイブリッドクラウド、AI、およびエッジ展開の複雑さの高まりにより、17%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "小規模データセンターセグメントは、エッジコンピューティング、IoT、および5Gアプリケーションが推進力となり、最高のCAGR 17%で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信セグメントは、クラウド採用の増加、5Gの拡大、AI駆動型ワークロードにより、世界的にスケーラブルで安全かつ高性能なデータセンターインフラストラクチャを必要としており、約36%のシェアで市場を支配すると予想されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "5Gの拡大、高速接続、AI・ML基盤タスクにおけるニーズが、堅牢なデータセンターサービスソリューションの活用ペースを加速させています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "ヘルスケアセグメントは、診療記録のデジタル化の高まり、AI診断、遠隔医療の成長により、約18.6%の最も顕著なCAGRを示すと予想されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータセンター市場規模は、2025年には3,968億8,000万米ドルと評価され、2026年の4,363億3,000万米ドルから2034年には9,312億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "5G、IoT、リアルタイムアプリケーションの普及拡大に伴い、データセンター事業者、コロケーションプロバイダー、インフラ開発者にとって、エンドユーザーに近い場所にエッジ施設を設置する機会が生まれています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドサービスプロバイダーによる投資の増加、AIコンピューティングインフラストラクチャの急速な展開、大規模データ処理能力に対する需要の高まりにより、当該セグメントは予測期間中に年平均成長率（CAGR）12.54%で成長すると予想されます",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "コロケーションデータセンター分野は、多額の設備投資を必要とせずに拡張性とコスト効率に優れたインフラストラクチャを求める企業からの需要の高まりにより、予測期間中に年平均成長率（CAGR）約11.02%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンター・ネットワーキング市場、2034年まで年平均成長率（CAGR）10.83%で拡大する見通し | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデータセンター・ネットワーキング市場、2034年まで年平均成長率（CAGR）10.83%で拡大する見通し",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "今後、同市場は2034年までに6,300億米ドルに達すると予想されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は10.83%となる見込みです",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率：10.83%（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2035年にかけて年平均11.06%で成長し、規模は11,037億ドルへと拡大することを見込んでいます",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター・コロケーション業界の市場規模の成長率見込み(2025年）©2026 Deallab",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年までの平均成長率は12％の見込み クラウドへのシフトも",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "13年から2020年までは、インタネットやスマホの普及に加えて、ECやクラウド、SaaS（クラウド上で動くソフトウェア）の使用拡大などを背景に順調に増加してきました",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年のデータセンターの年間平均成長率は12.8％と、高い成長率を維持する",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、世界のデータセンターサーバー市場は2024年に1,148億米ドルと評価され、2025年の1,175億米ドルから2034年には2,624億米ドルへと拡大し、2025年から2034年にかけて年平均成長率8.4%で成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2025年~2034年)",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、エッジコンピューティングは、5G 展開、IoT の成長、および通信、製造、小売、運輸を含む業界全体にわたるリアルタイム分析により、急速に拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラックサーバーセグメントは2024年に56%を占めて市場を支配し、2025年から2034年まで年平均成長率8.8%で成長すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイパースケールデータセンターセグメントは2024年に約41%のシェアで市場を支配し、2025年から2034年の間に年平均成長率9.1%で成長すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "第5世代移動通信システムの採用が増加するにつれて、通信事業者はコアとエッジの両方の計算フットプリントを拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Web Servicesは、世界最大のクラウド地域であるバージニア州におけるハイパースケールデータセンターの拠点を拡大するために350億米ドルの投資を発表しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツのデータセンターサーバー市場は、2025年から2034年の間に年平均成長率10%で大幅に成長する見込みです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "この8年間で市場規模は2020年の508億ドルから2028年の1368億ドル、日本円だと約20兆円へと拡大し、約2.5倍以上の規模になると見込まれています",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "「データセンターの需要の急拡大に伴い、2023年度から2027年度で1.5兆円以上の事業への積極的な投資を計画しております",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代は仮想化技術の発展に伴って、クラウド事業者向けのデータセンター需要が急拡大しました",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサービスの分類のうち「ホスティング（基本）」は、クラウドサービスの普及により新規案件などは減少していたが、生成AI需要の急増によるGPUサーバーの利用ニーズの高まりを受け、2025年は前年比2桁増を見込んでいる",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "GPUサーバーの専有環境へのニーズが強く、クラウドサービス形態だけでなく、従来のホスティング形態での利用増につながっており、2020年代後半は前年比10％以上の成長が続くと予測している",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に7,733億ドル（前年比22.4%増）まで増",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "は、高い成長率を遂げ、2024年は4兆1,423億円（前年",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3,800億ドルまで拡大すると予測されている（ 図表Ⅱ-1-8-6）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のエッジコンピューティングの市場規模（支出額）は、2025年に前年比12.9％増の1.9兆円に",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なると推計され、2028年には2.6兆円まで拡大すると予測されている（ 図表Ⅱ-1-8-7）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（出典）IDC「国内市場におけるエッジコンピューティングへの支出額は、2025年に前年比12.9％増の1兆9千億円となり、",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAIデータセンター市場は2025年に1,360億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）13.5%で拡大し、2035年には5,560億米ドルに達すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR、2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "GPU世代の進化に伴い、ラック当たりの計算密度が高まるなか、ハードウェアや電力インフラの調達が市場平均を上回る成長率を2027年まで支えます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業のAI導入が業種ごとに広がるなか、ハイパースケーラー主導の需要により、予測期間の中盤まで市場は13%以上のCAGRを維持します",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターのタイプ構成は多様化しており、ハイパースケール、コロケーション、ハイブリッドの各タイプが、業種ごとにAIアプリケーションの活用が深まるなか、2035年まで拡大する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2025年に846億米ドルに達し、2035年には3,242億6,000万米ドルに拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2025年に289億米ドルと推定され、2025〜2035年に年平均成長率（CAGR）15.6%で拡大すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2035年に893億5,000万米ドルに達すると予測され、2025〜2035年に年平均成長率（CAGR）13.2%で拡大すると見込まれる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "導入の市場規模は2024年に136億1,000万米ドルに達し、2025〜2035年に年平均成長率（CAGR）15.6%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2025年に301億1,000万米ドルであり、2025〜2035年に年平均成長率（CAGR）11.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2035年に871億8,000万米ドルに達し、2025〜2035年に年平均成長率（CAGR）13.7%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "の市場規模は2024年に40億9,000万米ドルに達し、2025〜2035年に年平均成長率（CAGR）8.5%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年に2361.8億ドルだった支出額は、2024年には3291.3億ドルへと大きく増加し、前年比で約39.4％という高い成長率を示しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/global-data-center/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2026年以降はAI側の需要が急拡大し、2030年にはAIデータセンターの消費電力は156GWに達すると予測されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/global-data-center/",
+    "pass": 3
+   },
+   {
+    "quote": "世界のIT支出は生成AI対応で前年比約1割増",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "米調査会社のガートナーは、2025年の世界のIT（情報技術）支出が前年比9.8％増の5兆6,178億ドルに達すると予測している",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "データセンターサービス市場規模、シェア&成長レポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサービス市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年、世界中の企業は約70 GWのクリーンエネルギー電力購入契約を締結し、その中でデータセンターが最大のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサービス市場シェア、データセンター規模別、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "IT・通信セグメントは、クラウド採用の増加、5Gの拡大、AI駆動型ワークロードにより、世界的にスケーラブルで安全かつ高性能なデータセンターインフラストラクチャを必要としており、約36%のシェアで市場を支配すると予想されます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2024年に37%の市場シェアでグローバルデータセンターサービス市場を支配しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は2024年に北米市場の約85%のシェアで市場を支配し、77億米ドルの収益を生み出しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は2024年にデータセンターサービス業界の約28%を占めており、ドイツの強力なデジタル経済、クラウドおよびコロケーションサービスに対する高い需要、および主要なハイパースケール事業者の存在により、CAGR15%超で成長すると予想されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは世界データセンターサービス市場の約3%を占め、約16%のCAGRで着実に成長しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東およびアフリカ(MEA)は合わせて2024年のデータセンターサービス産業の約2%のシェアを占めており、デジタルインフラストラクチャへの投資の急増、再生可能エネルギープロジェクト、クラウド展開とエネルギー効率の高い運用を促進する政府の取り組みにより、着実な成長を遂げている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場の規模、シェア、トレンド分析レポート：タイプ別（ハイパースケールデータセンター、コロケーションデータセンター、エンタープライズデータセンター、エッジデータセンター）、インフラストラクチャ別（ITインフラストラクチャ、電気インフラストラクチャ、機械インフラストラクチャ、一般建設）、エンドユーザー別（クラウドサービスプロバイダー、BFSI、ITおよび通信、政府および防衛、ヘルスケア、小売およびEコマース、製造、メディアおよびエンターテイメント、その他）、地域別（北米、ヨーロッパ、アジア太平洋、中東およびアフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に38.6%の市場シェアを占め、データセンター市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年、データセンター市場において、インフラストラクチャ別ではITインフラストラクチャ分野が47.85%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別に見ると、大企業は2025年時点で68.42%のシェアを占めると予測されています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "エンドユーザー別に見ると、クラウドサービスプロバイダー部門は、パブリッククラウドプラットフォームの継続的な拡大、企業におけるクラウド導入の増加、ハイパースケールデータセンターインフラへの投資増加により、2025年には39.74%のシェアを占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米のデータセンター市場は、ハイパースケールクラウドキャンパスの集中、高度な光ファイバー接続、そして確立されたコロケーションエコシステムによって、2025年には地域別シェア40.20%と最大規模を占める見込みです",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国エネルギー省によると、データセンターは米国の総電力消費量の約4.4%を占めており、これはこの地域の広範なデジタルインフラの存在感を反映しています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に40.2%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターコンサルティング市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "持続可能なデータセンター市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "エッジインフラストラクチャ市場の規模、シェア、成長、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター封じ込め市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター向け精密空調市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本のデータセンターネットワーク市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のデータセンターネットワーク市場規模は2025年に2,500億米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "を分子に、また後述する業界の市場規模を分母にして、2025年のデータセンター・コロケーション業界の市場シェアを簡易に試算しますと、1位はエクイニクス、2位はデジタル・リアリティ、3位は中国電信股份有限公司となります",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター・コロケーション業界の世界市場シェアと業界ランキング（2025年） ©2026 Deallab",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター・コロケーション業界の世界市場シェア(2025年) ©2026 Deallab",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "当業界1位の米エクイニクス（Equinix, Inc.）は、世界中に展開する広範なデータセンターと強固な相互接続（インターコネクション）拠点という強みを活かし、首位を堅持しています",
+    "url": "https://deallab.info/datacenter/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター業界 ランキング&シェア（2021-2022年）",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021-2022年のデータセンター業界の売上高ランキングを見ますと、首位は",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021-2022年は、データセンター上位5社中1社が増収、3社が横ばい、1社が減収となりました",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター業界 売上高&シェアランキング（2021年-2022年）",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター業界の動向や現状、ランキング、シェア等のコンテンツ(2021-2022年)は上記企業の有価証券報告書または公開資料に基づき掲載しております",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサーバー市場規模、シェア・分析レポート、2034年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサーバー市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラックサーバーセグメントは2024年に56%を占めて市場を支配し、2025年から2034年まで年平均成長率8.8%で成長すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター別のデータセンターサーバー市場シェア、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイパースケールデータセンターセグメントは2024年に約41%のシェアで市場を支配し、2025年から2034年の間に年平均成長率9.1%で成長すると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラテンアメリカは2024年にデータセンターサーバー産業の4.5パーセントのシェアを占め、2.7パーセントという顕著な年平均成長率を示しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場における上位7社は、Dell Technologies、HPE、Inspur Power Systems、Lenovo、Huawei、Supermicro、Cisco Systemsです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "これらの企業は、2024年に市場シェアの約50パーセントを保有しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア17.2%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.3を誇る、NTT DATAのデータセンター戦略 | DATA INSIGHT | NTTデータ - NTT DATA",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "世界シェアNo.3を誇る、NTT DATAのデータセンター戦略",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "また、データセンター市場において世界シェア3位を占めるNTT現況の解説や、先進的冷却技術を検証する「Data Center Trial Field」の取り組みなど、国内外におけるデータセンター事業のホットトピックスを紹介する",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "「NTT DATAにおけるデータセンター事業はグローバルシェアを約6％有しており、シェア14％のEquinix（エクイニクス）、シェア9％のDigital Realty（デジタル・リアルティ）に続いて世界第3位となっています",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "（図2参照）また、国内においてはNTTデータ単体で首位に位置づけられています",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "また、NTT DATAは2040年までにNet-Zero実現を目指す「NTT DATA NET-ZERO Vision 2040」を策定しており、その中で自社の排出量の約7割を占めるデータセンター事業についてはエネルギーの効率化、省エネルギー、再生可能エネルギーの導入を推進しています",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "主要なデータセンター事業者やユーザー企業の拠点が多い関東が60％以上を占めている",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "として、大手3社のクラウドサービスが大きなシェアを有している（ 図表Ⅱ-1-8-4）",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図表Ⅱ-1-8-4 世界のクラウドインフラサービス市場のシェアの推移",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon AWSは、2025年に33.09%を超える市場シェアを獲得し、市場をリードしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の上位5社は、",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界のデータセンター設備投資額は4,550億米ドルに達し、その半分超を上位10社のハイパースケーラーが占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global AI Data Center Market Share, by Data Center Type, 2025",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場は競争が激しく、主要企業はハイパースケール施設、コロケーションサービス、クラウド接続、データセキュリティ、エネルギー効率、地理的拡大に注力しています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Iron Mountain Incorporatedは、Iron Mountain Data Centersを通じてデータセンター市場における主要企業であり、コロケーション、ハイパースケール、エンタープライズ、相互接続サービスを提供しています",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場構造、主要企業のポジショニング、成功のための主要戦略、競合ダッシュボード、企業評価象限などを含む、徹底的な競合分析を提供します",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本のデータセンターネットワーク業界における主要企業すべての詳細な企業プロファイルも掲載しています",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤー：",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルのコロケーション市場は急速に成長しており、Equinix、Ascenty(Digital Realty)、Scala Data Centers、Odataなどの主要プレイヤーが積極的に拡大しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンターサーバー業界で事業を展開する主要企業には以下が含まれる:",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "コンテナ型データセンターでは、各種設備のハードウェアとIT技術に関するソフトウェア関連の総合的なIT知識が求められるため、対応可能な技術者が限られており、近年の参入企業は、市場の黎明期から事業を継続している企業の技術支援を受けている場合が多いと指摘している",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター市場の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター市場の主要企業には、Amazon AWS、Microsoft Azure、Google Cloud、Supermicro、Dell Technologiesなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players operating in the data center industry are Dell Technologies, Vertiv, ABB, Schneider Electric, and Broadcom. The companies are focusing on various strategic initiatives, including new product development, partnerships & collaborations, and agreements to gain a competitive advantage over their rivals.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company share, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in data center market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the data center market include Alibaba Cloud, Amazon Web Services, Inc., AT&T Intellectual Property, Lumen Technologies (CenturyLink), China Telecom Americas, Inc., CoreSite, CyrusOne, Digital Realty, Equinix, Inc., Google Cloud, IBM Corporation, Microsoft, NTT Communications Corporation, Oracle, Tencent Cloud",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size, Key Companies, Company Market Share, User Adoption, Technology Deployment, Revenue Growth, Competitive Positioning, and Demand Forecast",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Other Major Key Players",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the data center market?",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the data center market are Equinix, Inc., Digital Realty Trust, Inc., NTT Ltd., Global Switch Ltd., CyrusOne Inc., Interxion: A Digital Realty Company, China Telecom Corporation Limited, China Unicom (Hong Kong) Limited, AT&T Inc., Amazon Web Services, Inc. (AWS), Microsoft Corporation, Google LLC, IBM Corporation, Oracle Corporation, Cisco Systems, Inc., and Others.",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "concentrates almost entirely on AI compute. That specialization has established the company as a preferred partner for enterprises and startups seeking dedicated AI infrastructure.",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Startups",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "function as the core digital infrastructure supporting such technologies by processing intensive workloads and storing vast amounts of data. This rising demand has nurtured a competitive and high-stake data center market, with a range of key players expanding their already extensive portfolios across the globe. The market leaders operate within two core business models. Operators such as",
+    "url": "https://www.statista.com/topics/12853/data-center-market-leaders/?srsltid=AYCX9vKyg45AfiVi8qECpoGcZ5RD7Nx3NhaEasH-QJYwNk3I4-mdd9aL",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Colocation Market Share & Competitive Landscape",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in data center colocation market?",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in data center colocation market include Equinix, Digital Realty, NTT Global Data Centers, CyrusOne, Iron Mountain Data Centers.",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global data center market is booming thanks to AI growth and digital transformation, creating a highly competitive landscape where new facilities are now 72% pre-leased before construction even begins.",
+    "url": "https://www.jll.com/en-us/guides/strategic-expansion-in-a-competitive-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the AI Data Center Market?",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape shortlist",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "CHAPTER 9 - Competitive Landscape",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Overview",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides detailed cross-comparison of key players across 10 performance parameters to identify competitive strengths and weaknesses.",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "データセンター市場における主要な投資および資金調達活動、2025年～2026年",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の世界のデータセンター設備投資額は4,550億米ドルに達し、その半分超を上位10社のハイパースケーラーが占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "前述のCushman & Wakefieldが発行したレポートでは、AWS、マイクロソフト、グーグル、メタの4社による2024年の投資額は、前年比58％増の2,440億ドルに達したと報告されている",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、コロケーション事業者など従来のデータセンター事業者は、機関投資家からの資金調達やM＆Aを通して、既存市場内もしくは新規市場での事業拡大を進めている（図表Ⅱ－38）",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "オーストラリア最大の年金基金「オーストラリアン・スーパー」から15億ドルの資金調達",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルブリッジとシルバーレイク（米国の投資会社）が主導するエクイティ投資（株式による資金調達）で64億ドルの資金調達",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "本計画では、3社が共同で5,000億ドル規模の出資を行い、全米にデータセンターを中心としたAIインフラを構築する",
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "pass": 3
+   },
+   {
+    "quote": "$3 trillion investment required for 100 GW of new supply by 2030",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "The sector is experiencing an infrastructure investment supercycle requiring up to $3 trillion by 2030.",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "The figures above do not include the $1 to $2 trillion that tenants will spend to fit out their space with GPUs and networking infrastructure, meaning that total data center expenditures over the next five years could approach $3 trillion. Taken all together, it is safe to say that we are in the midst of an infrastructure investment supercycle.",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Investments: 2026 Outlook and Market Opportunities",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Amazon announced a US$50 billion investment in data centers to power US government AI efforts. This investment removes long-standing technology barriers that had constrained government capabilities and further positions America to lead in the global AI era.",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zoho launched its first data center in Dubai and Abu Dhabi, marking a key step in regional expansion. This AED 100 million investment supports over 100 cloud-based solutions, reinforcing Zoho's commitment to local customers and partners. (Source:",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle announced the investment of above US$6.5 billion",
+    "url": "https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html",
+    "pass": 3
+   },
+   {
+    "quote": "announced the launch of 3 data centers in Malaysia by mid-year, with an investment of up to",
+    "url": "https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI data center investment in Texas through 2027, a US$9 billion investment in Virginia for 2026, and capacity expansion into the South/Midwest.",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "With US$10 billion in investment through 2027,",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "US$9.2 billion equity investment",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "In 2H 2025, Flexential raised",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA invested US$2 billion into CoreWeave Class A common stock",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "and new campuses planned in Montana and Indiana. The company is also progressing toward its 2029 net-zero goal through investments in liquid cooling and carbon-free energy.",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Mexico is projected to generate USD 3.5 billion by 2035 and expand at a 14.9% CAGR (2026–2035). Demand is supported by regional digitalization, proximity to U.S. infrastructure markets, and investment associated with industrial and supply-chain modernization. Mexico City and emerging data center corridors offer different cost, connectivity, and power-access profiles for developers and customers.",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE generated USD 1.2 billion in 2025 and is projected to expand at a 16.8% CAGR (2026–2035). Dubai and Abu Dhabi serve as regional anchors for financial, technology, and cloud infrastructure activity. Sovereign investment, international provider interest, and an emphasis on digital-economy development support demand for resilient, high-specification colocation capacity.",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "Vantage Data Centers / Business Wire. “Vantage Data Centers Secures $1.6B Investment in APAC Platform from GIC and ADIA.” nasdaq.com",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2025, Brookfield Infrastructure Partners and Data4 revealed a joint investment of over $20.7 billion to develop AI-specific infrastructure across France over the next five years, focusing on energy-efficient designs.",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2025, Microsoft disclosed a $1.5 billion investment aimed at establishing sovereign-cloud zones in Thailand to serve the country's finance and public-sector clients with localized AI infrastructure.",
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "With more than 155,000 professionals in over 100 countries, CBRE is the global leader in commercial real estate services and investment and a premier provider of critical infrastructure services.",
+    "url": "https://www.cbre.com/insights/reports/global-data-center-trends-2025",
+    "pass": 3
+   },
+   {
+    "quote": "Join 50,000+ energy professionals who stay ahead of market shifts, policy changes, and investment trends.",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "Equinix is one of the largest data center companies in the United States. The company headquartered in Redwood City, California, Equinix operates as a real estate investment trust (REIT). In May 2025, Equinix opened its first International Business Exchange (IBX)",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "with an investment of USD 69 million in Chennai. This facility was inaugurated by Tamil Nadu Chief Minister MK Stalin which is designed to support high-performance AI workloads and is interconnected with global networks. Back in August 2025, Equinix announced multiple agreements to utilize 1 GW advanced nuclear power for its data centers including Oklo, Radiant clear and Bloom Energy.",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "They were acquired by a consortium that includes Digital Bridge Holdings, LLC, a leading global communications infrastructure company; the Public Sector Pension Investment Board (PSP Investments); and TIAA Investments. In 2024, Digitalbridge and Silver Lake's joint venture invested approximately",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1.6 billion investment to scale its Asia-Pacific operations",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": ": Vantage entered the Asia Pacific and African Market, acquiring Agile Data Centers and PCCW DC, and developing an 80MW campus in Johannesburg, South Africa. The PCCW DC acquisition added 100MW of capacity in Hong Kong and Kuala Lumpur. Additionally, they have secured a USD 1.6bn investment to expand their Asia-Pacific (APAC) data center network.",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "On September 16, 2026, Vantage Data Centers secured a USD 2 billion financing facility to support early-stage development across its North American data center platform. The committed capital will help accelerate project development and capacity delivery. The company had previously announced a USD 2 billion investment in a",
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "pass": 3
+   },
+   {
+    "quote": "Global data center investment reached approximately USD 500 billion in 2024 (global), expanding the addressable profit pool for equipment vendors, developers, operators and infrastructure financiers.",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Approximately 16% of significant outages cost more than USD 1 million, increasing the economic value of redundancy, predictive maintenance and cyber-resilience investments.",
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "データセンター市場規模 、シェアおよび予測レポート、2034 年 — データセンター市場規模 、シェアおよび予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場規模 、シェア、成長率（2034年） — データセンター市場規模 、シェア、成長率（2034年） Straits Research https://straitsresearch.com > 情報技術 > データセンター",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター コロケーション 市場規模 ・トレンド 2031年 ... — データセンター コロケーション 市場規模 ・トレンド 2031年 ... Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場 規模、 シェア および予測レポート、2034 年 — データセンター市場 規模、 シェア および予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター 業界の動向やランキングなどを分析 — データセンター 業界の動向やランキングなどを分析 業界動向サーチ https://gyokai-search.com > 3-data-center",
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター サーバー 市場 サイズと シェア 2025 - 2034 — データセンター サーバー 市場 サイズと シェア 2025 - 2034 Global Market Insights Inc. https://www.gminsights.com > data-center-server-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界 シェア No.3を誇る、NTT DATAの データセンター 戦略 — 世界 シェア No.3を誇る、NTT DATAの データセンター 戦略 NTT Data https://www.nttdata.com > trends > data-insight",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "pass": 3
+   },
+   {
+    "quote": "データセンター市場 規模、シェアおよび予測レポート、2034 年 — データセンター市場 規模、シェアおよび予測レポート、2034 年 Fortune Business Insights https://www.fortunebusinessinsights.com > データセンタ...",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の国内 データセンター サービス 市場 は4兆7231億円 — 2025 年の国内 データセンター サービス 市場 は4兆7231億円 クラウド Watch https://cloud.watch.impress.co.jp > docs > news",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "pass": 3
+   },
+   {
+    "quote": "第 8節 データセンター市場 及びクラウドサービス 市場 の動向 — 第 8節 データセンター市場 及びクラウドサービス 市場 の動向 総務省 PDF https://www.soumu.go.jp > whitepaper > pdf",
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "AI データセンター市場 規模・予測レポート、2026〜2035年 — AI データセンター市場 規模・予測レポート、2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > ai-data-center-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size , Share & Growth Report, 2026-2033 — Data Center Market Size , Share & Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Market Outlook for Global Data Centers | JLL Research — 2026 Market Outlook for Global Data Centers | JLL Research JLL https://www.jll.com > market-outlook",
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Companies, Size & Trends 2026-2035 — Data Center Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size Hits USD 1,008.65 Billion by 2034 — Data Center Market Size Hits USD 1,008.65 Billion by 2034 Yahoo Finance https://finance.yahoo.com > news > d...",
+    "url": "https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html",
+    "pass": 3
+   },
+   {
+    "quote": "North America Data Center Market Size , Share & 2031 Growth ... — North America Data Center Market Size , Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/north-america-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size , Share & Forecast Report, 2034 — Data Center Market Size , Share & Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "pass": 3
+   },
+   {
+    "quote": "Top 25 Largest Data Center Companies in the U.S. by Active ... — Top 25 Largest Data Center Companies in the U.S. by Active ... ABI Research https://www.abiresearch.com > blog",
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Colocation Market Size, Share Report 2026-2035 — Data Center Colocation Market Size, Share Report 2026-2035 Global Market Insights Inc. https://www.gminsights.com > data-ce...",
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "pass": 3
+   },
+   {
+    "quote": "US Data Center Market Outlook, Trends & Size Analysis 2031 — US Data Center Market Outlook, Trends & Size Analysis 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size, Share & Forecast Report, 2034 — Data Center Market Size, Share & Forecast Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Companies , Size & Trends 2026-2035 — Data Center Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "pass": 3
+   },
+   {
+    "quote": "Data Center Market Size, Share & Growth Report, 2026-2033 — Data Center Market Size, Share & Growth Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Global Data Center Trends 2025 | CBRE — Global Data Center Trends 2025 | CBRE CBRE https://www.cbre.com > global-data-center-trends-2025",
+    "url": "https://www.cbre.com/insights/reports/global-data-center-trends-2025",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "15.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、市場は2025年の287億米ドルから2034年には1,025億米ドルに成長し、年平均成長率(CAGR)は15.2%になる見込みです"
+   },
+   {
+    "value": "17",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "小規模データセンターセグメントは、エッジコンピューティング、IoT、および5Gアプリケーションが推進力となり、最高のCAGR 17%で成長すると予想されています"
+   },
+   {
+    "value": "11.7",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "世界のデータセンター市場規模は、2025年には3,968億8,000万米ドルと評価され、2026年の4,363億3,000万米ドルから2034年には9,312億4,000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は11.7%となる見込みです"
+   },
+   {
+    "value": "12.54",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "クラウドサービスプロバイダーによる投資の増加、AIコンピューティングインフラストラクチャの急速な展開、大規模データ処理能力に対する需要の高まりにより、当該セグメントは予測期間中に年平均成長率（CAGR）12.54%で成長すると予想されます"
+   },
+   {
+    "value": "11.02",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "コロケーションデータセンター分野は、多額の設備投資を必要とせずに拡張性とコスト効率に優れたインフラストラクチャを求める企業からの需要の高まりにより、予測期間中に年平均成長率（CAGR）約11.02%で成長すると予想されています"
+   },
+   {
+    "value": "10.83",
+    "url": "https://newscast.jp/smart/news/1246972",
+    "quote": "日本のデータセンター・ネットワーキング市場、2034年まで年平均成長率（CAGR）10.83%で拡大する見通し | NEWSCAST"
+   },
+   {
+    "value": "8.4",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "Global Market Insights Inc.が発行した最新レポートによると、世界のデータセンターサーバー市場は2024年に1,148億米ドルと評価され、2025年の1,175億米ドルから2034年には2,624億米ドルへと拡大し、2025年から2034年にかけて年平均成長率8.4%で成長する見込みです"
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ラックサーバーセグメントは2024年に56%を占めて市場を支配し、2025年から2034年まで年平均成長率8.8%で成長すると予想される"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ハイパースケールデータセンターセグメントは2024年に約41%のシェアで市場を支配し、2025年から2034年の間に年平均成長率9.1%で成長すると予想される"
+   },
+   {
+    "value": "10",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ドイツのデータセンターサーバー市場は、2025年から2034年の間に年平均成長率10%で大幅に成長する見込みです"
+   },
+   {
+    "value": "13.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "世界のAIデータセンター市場は2025年に1,360億米ドルと評価され、2026年から2035年にかけて年平均成長率（CAGR）13.5%で拡大し、2035年には5,560億米ドルに達すると予測されています"
+   },
+   {
+    "value": "15.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "の市場規模は2025年に289億米ドルと推定され、2025〜2035年に年平均成長率（CAGR）15.6%で拡大すると見込まれる"
+   },
+   {
+    "value": "13.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "の市場規模は2035年に893億5,000万米ドルに達すると予測され、2025〜2035年に年平均成長率（CAGR）13.2%で拡大すると見込まれる"
+   },
+   {
+    "value": "11.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "の市場規模は2025年に301億1,000万米ドルであり、2025〜2035年に年平均成長率（CAGR）11.8%で成長すると予測される"
+   },
+   {
+    "value": "13.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "の市場規模は2035年に871億8,000万米ドルに達し、2025〜2035年に年平均成長率（CAGR）13.7%で成長すると予測される"
+   },
+   {
+    "value": "8.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "の市場規模は2024年に40億9,000万米ドルに達し、2025〜2035年に年平均成長率（CAGR）8.5%で成長すると予測される"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "38",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています"
+   },
+   {
+    "value": "15",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "設置・統合サービスセグメントは2024年に約38%を占めて市場を支配し、2034年まで15%を超えるCAGRで成長すると予想されています"
+   },
+   {
+    "value": "45",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています"
+   },
+   {
+    "value": "15.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "大規模データセンターセグメントは、2024年に約45%のシェアを占めて市場を支配しており、このセグメントは2025年から2034年にかけて15.3%を超えるCAGRで成長すると予想されています"
+   },
+   {
+    "value": "36",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "IT・通信セグメントは、クラウド採用の増加、5Gの拡大、AI駆動型ワークロードにより、世界的にスケーラブルで安全かつ高性能なデータセンターインフラストラクチャを必要としており、約36%のシェアで市場を支配すると予想されます"
+   },
+   {
+    "value": "37",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "北米は2024年に37%の市場シェアでグローバルデータセンターサービス市場を支配しました"
+   },
+   {
+    "value": "85",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "米国は2024年に北米市場の約85%のシェアで市場を支配し、77億米ドルの収益を生み出しました"
+   },
+   {
+    "value": "28",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "欧州は2024年にデータセンターサービス業界の約28%を占めており、ドイツの強力なデジタル経済、クラウドおよびコロケーションサービスに対する高い需要、および主要なハイパースケール事業者の存在により、CAGR15%超で成長すると予想されています"
+   },
+   {
+    "value": "31",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です"
+   },
+   {
+    "value": "17",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "アジア太平洋地域は、2024年の世界データセンターサービス市場の31%以上を占め、大規模なデジタルエコシステム、デジタルインフラに対する政府の強力な支援、およびAlibaba Cloud、Tencent Cloud、Huawei Cloudなどの主要企業により、約17%のCAGRで最も急成長している地域です"
+   },
+   {
+    "value": "3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "ラテンアメリカは世界データセンターサービス市場の約3%を占め、約16%のCAGRで着実に成長しています"
+   },
+   {
+    "value": "16",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "ラテンアメリカは世界データセンターサービス市場の約3%を占め、約16%のCAGRで着実に成長しています"
+   },
+   {
+    "value": "2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "quote": "中東およびアフリカ(MEA)は合わせて2024年のデータセンターサービス産業の約2%のシェアを占めており、デジタルインフラストラクチャへの投資の急増、再生可能エネルギープロジェクト、クラウド展開とエネルギー効率の高い運用を促進する政府の取り組みにより、着実な成長を遂げている"
+   },
+   {
+    "value": "38.6",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "北米は2025年に38.6%の市場シェアを占め、データセンター市場を牽引しました"
+   },
+   {
+    "value": "47.85",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "2025年、データセンター市場において、インフラストラクチャ別ではITインフラストラクチャ分野が47.85%のシェアを占める見込みです"
+   },
+   {
+    "value": "68.42",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "企業規模別に見ると、大企業は2025年時点で68.42%のシェアを占めると予測されています"
+   },
+   {
+    "value": "39.74",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "エンドユーザー別に見ると、クラウドサービスプロバイダー部門は、パブリッククラウドプラットフォームの継続的な拡大、企業におけるクラウド導入の増加、ハイパースケールデータセンターインフラへの投資増加により、2025年には39.74%のシェアを占める見込みです"
+   },
+   {
+    "value": "40.20",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "北米のデータセンター市場は、ハイパースケールクラウドキャンパスの集中、高度な光ファイバー接続、そして確立されたコロケーションエコシステムによって、2025年には地域別シェア40.20%と最大規模を占める見込みです"
+   },
+   {
+    "value": "4.4",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "米国エネルギー省によると、データセンターは米国の総電力消費量の約4.4%を占めており、これはこの地域の広範なデジタルインフラの存在感を反映しています"
+   },
+   {
+    "value": "40.2",
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "quote": "北米は2025年に40.2%のシェアを占め、市場を席巻した"
+   },
+   {
+    "value": "56",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ラックサーバーセグメントは2024年に56%を占めて市場を支配し、2025年から2034年まで年平均成長率8.8%で成長すると予想される"
+   },
+   {
+    "value": "8.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ラックサーバーセグメントは2024年に56%を占めて市場を支配し、2025年から2034年まで年平均成長率8.8%で成長すると予想される"
+   },
+   {
+    "value": "41",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ハイパースケールデータセンターセグメントは2024年に約41%のシェアで市場を支配し、2025年から2034年の間に年平均成長率9.1%で成長すると予想される"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "ハイパースケールデータセンターセグメントは2024年に約41%のシェアで市場を支配し、2025年から2034年の間に年平均成長率9.1%で成長すると予想される"
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "quote": "市場シェア17.2%"
+   },
+   {
+    "value": "6",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "quote": "「NTT DATAにおけるデータセンター事業はグローバルシェアを約6％有しており、シェア14％のEquinix（エクイニクス）、シェア9％のDigital Realty（デジタル・リアルティ）に続いて世界第3位となっています"
+   },
+   {
+    "value": "14",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "quote": "「NTT DATAにおけるデータセンター事業はグローバルシェアを約6％有しており、シェア14％のEquinix（エクイニクス）、シェア9％のDigital Realty（デジタル・リアルティ）に続いて世界第3位となっています"
+   },
+   {
+    "value": "9",
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "quote": "「NTT DATAにおけるデータセンター事業はグローバルシェアを約6％有しており、シェア14％のEquinix（エクイニクス）、シェア9％のDigital Realty（デジタル・リアルティ）に続いて世界第3位となっています"
+   },
+   {
+    "value": "60",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "quote": "主要なデータセンター事業者やユーザー企業の拠点が多い関東が60％以上を占めている"
+   },
+   {
+    "value": "33.09",
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "quote": "Amazon AWSは、2025年に33.09%を超える市場シェアを獲得し、市場をリードしました"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/data-center-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1246972",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/data-center-colocation-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://deallab.info/datacenter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gyokai-search.com/3-data-center.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/economic-growth/data-centre-gold-rush-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/global-data-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/ai-data-center-market-267395404.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/data-center-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://datacentremagazine.com/articles/top-10-data-centre-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/topics/12853/data-center-market-leaders/?srsltid=AYCX9vKyg45AfiVi8qECpoGcZ5RD7Nx3NhaEasH-QJYwNk3I4-mdd9aL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/civilengineering/comments/1pm0st0/which_companies_are_leading_the_data_center_boom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/colocation-market-1252.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-data-center-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/en-us/guides/strategic-expansion-in-a-competitive-data-center-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbre.com/insights/reports/global-data-center-trends-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/data-center-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kenresearch.com/industry-reports/global-data-center-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "データセンター 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "https://www.gminsights.com/ja/industry-analysis/datacenter-services-market",
+    "https://straitsresearch.com/jp/report/data-center-market",
+    "https://jp.linkedin.com/pulse/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E5%BB%BA%E8%A8%AD%E3%81%A8%E9%81%8B%E7%94%A8%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E6%8B%A1%E5%A4%A7%E4%BA%88%E6%B8%AC2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E6%88%90%E9%95%B7%E7%8E%8713%E3%81%AEcagr-fund-flows-cebqe",
+    "https://newscast.jp/smart/news/1246972",
+    "https://www.mordorintelligence.com/ja/industry-reports/data-center-colocation-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218100.html",
+    "https://www.sphericalinsights.com/jp/blogs/top-25-companies-in-global-data-center-interconnect-market-2026-2035-expert-view-by-spherical-insights-analysis",
+    "https://www.dcmarketinsights.com/ja/report/japan-data-center-market-ja",
+    "https://www.fortunebusinessinsights.com/jp/日本のデータセンター市場-114993"
+   ]
+  },
+  {
+   "query": "データセンター 市場 シェア 上位 企業",
+   "results": [
+    "https://deallab.info/datacenter/",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "https://gyokai-search.com/3-data-center.html",
+    "https://www.gminsights.com/ja/industry-analysis/data-center-server-market",
+    "https://www.nttdata.com/jp/ja/trends/data-insight/2025/0430/",
+    "https://jp.weforum.org/stories/economic-growth/data-centre-gold-rush-ai",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd218100.html",
+    "https://www.mordorintelligence.com/ja/industry-reports/data-center-market",
+    "https://jp.linkedin.com/pulse/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E5%B8%82%E5%A0%B4%E3%82%B7%E3%82%A7%E3%82%A2%E4%B8%8A%E4%BD%8D%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-petrosignal-metrics-fkdfe",
+    "https://www.verifiedmarketreports.com/ja/blog/top-10-data-center-companies/"
+   ]
+  },
+  {
+   "query": "データセンター 市場 前年比 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4-109851",
+    "https://cloud.watch.impress.co.jp/docs/news/2107655.html",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/pdf/n2180000.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/ai-data-center-market",
+    "https://www.ohmae.ac.jp/mbaswitch/global-data-center/",
+    "https://jp.weforum.org/stories/economic-growth/data-centre-gold-rush-ai",
+    "https://www.jetro.go.jp/world/gtir/2025/ch2/sec2/sub5.html",
+    "https://di-lab.biz/blog/2025%E5%B9%B4%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B%E2%80%95%E5%A4%9A%E6%A7%98%E3%81%AA%E3%83%97/",
+    "https://straitsresearch.com/jp/report/data-center-market",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r08/pdf/n2180000.pdf"
+   ]
+  },
+  {
+   "query": "data center market size CAGR 2025",
+   "results": [
+    "https://www.marketsandmarkets.com/Market-Reports/ai-data-center-market-267395404.html",
+    "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+    "https://www.precedenceresearch.com/data-center-market",
+    "https://finance.yahoo.com/news/data-center-market-size-hits-103000410.html",
+    "https://www.mordorintelligence.com/industry-reports/north-america-data-center-market",
+    "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "https://www.imarcgroup.com/data-center-market",
+    "https://www.researchgate.net/publication/390760149_Data_Center_Market_Size_and_Growth_Forecasts_2025",
+    "https://www.mordorintelligence.com/industry-reports/data-center-market"
+   ]
+  },
+  {
+   "query": "data center market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "https://www.precedenceresearch.com/data-center-market",
+    "https://datacentremagazine.com/articles/top-10-data-centre-companies",
+    "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "https://www.statista.com/topics/12853/data-center-market-leaders/?srsltid=AYCX9vKyg45AfiVi8qECpoGcZ5RD7Nx3NhaEasH-QJYwNk3I4-mdd9aL",
+    "https://www.reddit.com/r/civilengineering/comments/1pm0st0/which_companies_are_leading_the_data_center_boom/",
+    "https://www.psmarketresearch.com/market-analysis/data-center-market",
+    "https://www.persistencemarketresearch.com/market-research/datacenters-market.asp",
+    "https://www.coresite.com/blog/top-10-u-s-data-center-markets-and-why-they-are-hot",
+    "https://www.statista.com/topics/12853/data-center-market-leaders/"
+   ]
+  },
+  {
+   "query": "data center market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.precedenceresearch.com/data-center-market",
+    "https://www.gminsights.com/industry-analysis/data-center-colocation-market",
+    "https://www.marketsandmarkets.com/Market-Reports/colocation-market-1252.html",
+    "https://www.mordorintelligence.com/industry-reports/united-states-data-center-market",
+    "https://www.jll.com/en-us/guides/strategic-expansion-in-a-competitive-data-center-market",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-data-centre-colocation-market-gxf1e",
+    "https://www.technavio.com/report/ai-data-center-market-industry-analysis",
+    "https://www.globaldatacenterhub.com/p/data-center-consolidation-strategic",
+    "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "data center market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/data-center-market-109851",
+    "https://www.precedenceresearch.com/data-center-market",
+    "https://www.cushmanwakefield.com/en/insights/global-data-center-market-comparison",
+    "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+    "https://www.grandviewresearch.com/industry-analysis/data-center-market-report",
+    "https://www.cbre.com/insights/reports/global-data-center-trends-2025",
+    "https://www.blackridgeresearch.com/blog/top-data-center-companies-in-usa-united-states?srsltid=AYCX9vLPb7HnmtfIn7te1EpH1yRvRRcIGU366pEitlj0qA0pj_FTqhEs",
+    "https://www.mordorintelligence.com/industry-reports/data-center-market",
+    "https://www.reddit.com/r/civilengineering/comments/1pm0st0/which_companies_are_leading_the_data_center_boom/",
+    "https://www.kenresearch.com/industry-reports/global-data-center-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

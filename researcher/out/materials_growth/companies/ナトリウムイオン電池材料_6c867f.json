@@ -1,0 +1,1674 @@
+{
+ "name": "ナトリウムイオン電池材料",
+ "en": "sodium-ion battery materials",
+ "aliases": [
+  "sodium ion cathode",
+  "hard carbon",
+  "ナトリウムイオン電池"
+ ],
+ "context": "電池材料",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:56:14.192150+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナトリウムイオン電池市場規模は、2025年には4億7000万米ドルと評価され、2026年の5億5000万米ドルから2034年には18億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.42%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の市場規模は、2026年には5億5000万米ドルと評価され、2034年までに18億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.42%です",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.42%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "移動式エネルギー貯蔵システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーセパレーターコーティング市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "正極活物質リサイクル市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムビス（FSI）電解質塩市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ナトリウムイオン電池用正極材料の世界市場は、2025年に156百万米ドルと推定され、2026年には232百万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場規模およびシェアレポート 2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場調査レポート – 最新動向、成長機会、市場規模およびシェア予測分析 – 2026年～2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場に関する調査レポートによると、同市場は2026年から2036年の期間に年平均成長率（CAGR）11.2%で成長し、2036年末までに6,590万米ドルの市場規模に達すると予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "2025年には、市場規模は2,490万米ドルと評価されました",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "2036年の日本ナトリウムイオン電池市場の市場規模はどのくらいになると予想されますか？",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナトリウムイオン電池市場は、2036年末までに6,590万米ドルの収益に達すると予想されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナトリウムイオン電池市場は、2024年に2,490万米ドルの収益と評価されました",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の市場規模、シェアおよび動向分析レポート：技術別、最終用途別、地域別、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sodium-Ion Battery Market Size, Share & Trends Analysis Report By Technology (Sodium Sulfur, Sodium Salt, Sodium Air), By End-use (Consumer Electronics, Automotive, Industrial, Energy Storage), By Region, And Segment Forecasts, 2026 - 2033",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 5,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,950 換算",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.SiBの市場規模推移・予測 3",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）地域別市場規模予測 3",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2）正極活物質別市場規模予測 5",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "1）SiB用途別市場規模予測 7",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の世界市場を1兆7,566億円(2025年比39.9倍)と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年の世界市場を1兆7,566億円(2025年比39.9倍)と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降リチウムの資源価格が高騰し、電池メーカーを中心にSiBの実用化や普及に向けた動きが活発化している中、市場は前年比約3.1倍の1,347億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後もESS(定置用蓄電池)向けやモビリティ用の始動用・補機用電池向けを中心に、2040年の市場は1.7兆円を超えると予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の外資系製薬企業48社の日本における医療用医薬品売上高は844億円(2025年度比107.7%)の見込",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "●全固体電池 8兆7,065億円(299.2倍)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "●ナトリウムイオン二次電池 1兆3,473億円(4,491.0倍)",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "現状、市場は約99%を酸化物系、1%を高分子系が占め、硫化物系はわずかである",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "xEV向けを中心に酸化物系が増加しているため、2024年の市場は前年比4.0倍の1,158億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "また、既存LiBと比べて重量あたりのエネルギー密度が高まることや、量産化に向けた生産体制の強化などによって、xEVだけでなくドローンや医療機器、AGV、ESS、IoTセンサーデバイス・バックアップ電源など採用が広がるとみられ、2045年の市場は2023年比299.2倍の8兆7,065億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は1,143億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2030年以降は、疑似固体電池から酸化物系全固体電池の開発・量産化にシフトし、xEV向けの有力次世代電池として採用が進むことから、2045年は2023年比104.4倍の2兆8,820億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "産業用車両やESSでも実用化されており、2024年の市場は15億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代は、LiBを下回るコストと層状酸化物系やポリアニオン化合物系を使用した正極材料による性能向上を実現することで、鉛蓄電池やLFP採用LiBの代替が期待され、順調に市場は拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー密度200Wh/kg以上かつ鉛蓄電池並みのコストを達成し、産業用車両や一部三元系採用LiBとの代替も始まるとみられ、2045年の市場は2023年比4,491.0倍が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "既存LiBの製造プロセスから大きな変更なく生産できるため、一部で代替が進んでおり、2024年は1,218億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用多陰イオン系正極材料の世界市場（2026年～2032年）、市場規模（リン酸鉄ナトリウム（NFPP）、硫酸鉄ナトリウム（NFS）、リン酸バナジウムナトリウム（NVP）、その他）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用多陰イオン系正極材料の世界市場（2026年～2032年）、市場規模（リン酸鉄ナトリウム（NFPP）、硫酸鉄ナトリウム（NFS）、リン酸バナジウムナトリウム（NVP）、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナトリウムイオン電池用多陰イオン系正極材料市場規模は、2025年の1億3,500万米ドルから2032年には2億3,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.6％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "米国のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年の数百万米ドルから2032年までに数百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定される",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "中国のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "第4章「地域別のナトリウムイオン電池用多陰イオン系正極材料世界市場の歴史的レビュー」には、2021年から2026年までの地域別および国/地域別の世界市場規模に関する歴史的データが網羅されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナトリウムイオン電池市場規模は、2025年には4億7000万米ドルと評価され、2026年の5億5000万米ドルから2034年には18億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.42%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域は2番目に大きく、予測期間中に年平均成長率（CAGR）9.6%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の市場規模は、2026年には5億5000万米ドルと評価され、2034年までに18億5000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は16.42%です",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）16.42%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測 | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用正極材料市場規模は2026年232百万米ドル、成長率26.5%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）26.5%で推移し、2032年には950百万米ドルに拡大すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "特に2025年以降、中国・欧州を中心にナトリウムイオン電池の商用化ラインが拡大し、定置型蓄電システム（ESS）や低コストEV用途での採用が進展している",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場に関する調査レポートによると、同市場は2026年から2036年の期間に年平均成長率（CAGR）11.2%で成長し、2036年末までに6,590万米ドルの市場規模に達すると予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2033年にかけては、CAGR 11.6％で成長すると見込まれています",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは11.6%です",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "10.SiBの市場拡大に向けた課題・将来展望 34",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2026年以降リチウムの資源価格が高騰し、電池メーカーを中心にSiBの実用化や普及に向けた動きが活発化している中、市場は前年比約3.1倍の1,347億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "乗用車などモビリティ向けは、中国での始動用・補機用電池の普及などで2026年以降市場が拡大していくと予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "xEV向けを中心に酸化物系が増加しているため、2024年の市場は前年比4.0倍の1,158億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半から、xEV向けで硫化物系の採用が本格化し、市場拡大に貢献すると予想される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代は、LiBを下回るコストと層状酸化物系やポリアニオン化合物系を使用した正極材料による性能向上を実現することで、鉛蓄電池やLFP採用LiBの代替が期待され、順調に市場は拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半に、xEV向けとして特に注目されている硫化物系全固体電池を採用した車両の発売が予想され、2030年に向けて普及が加速することから、以降は硫化物系全固体電池が市場拡大をけん引するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナトリウムイオン電池用多陰イオン系正極材料市場規模は、2025年の1億3,500万米ドルから2032年には2億3,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.6％で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "米国のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年の数百万米ドルから2032年までに数百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定される",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "中国のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "欧州のナトリウムイオン電池用多陰イオン性正極材料市場は、2025年のXX百万米ドルから2032年にはXX百万米ドルへと拡大し、2026年から2032年までのCAGRはXX％になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）35.7%で成長",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までのコンセンサスCAGRは",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ（29.1% CAGR）とフランス（26.6% CAGR）が主要市場になると予想される",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "The global sodium ion battery material market was valued at USD 2.1 billion in 2024. The market is expected to grow from USD 2.7 billion in 2025 to USD 28.8 billion in 2034, at a CAGR of 30%, according to latest report published by Global Market Insights Inc.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025–2034)",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on battery technology type, the market is segmented into ambient-temperature (NAIBS), high-temperature molten batteries, and solid-state sodium batteries (SSSBS). Ambient-temperature (NAIBS) dominated the market with an approximate market share of 77.4% in 2024 and is expected to grow with a CAGR of 29.4% by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on capacity size, the solid-state battery electrolyte market is segmented into small-scale systems (100 kw), medium-scale systems (100 kw - 10 mw), large-scale systems (10 mw - 100 mw), and extra-large-scale systems (>100 mw). Medium-scale systems (100 kw - 10 mw) held the largest market share of 40.5% in 2024 and is expected to grow at a CAGR of 30.5% during 2025-2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Extra-large systems are emerging and are projected to grow at 32.5% CAGR in regions with aggressive storage goals for renewable firming and transmission deferral. Small-scale systems remain on an upward trajectory for residential storage and decentralized rural electrification, supported by sodium-ion safety and low-temperature performance.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on application, the market is segmented into grid-scale energy storage, commercial & industrial energy storage, residential energy storage, electric vehicle applications, and defense & military applications. Grid-scale energy storage segment dominated the market with an approximate market share of 54.1% in 2024 and is expected to grow with the CAGR of 29.2% by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia pacific sodium ion battery material market is anticipated to grow at a CAGR of 30.6% during the analysis timeframe.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2025 - 2034 CAGR",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global market is projected to reach USD 28.8 billion by 2034, growing at a CAGR of 30%. Expansion is fueled by critical-mineral independence, lower production costs, and superior cold-climate performance.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electric utilities & IPPs are projected to grow at a 30.4% CAGR through 2034. Adoption is rising due to long-duration storage needs, extreme-temperature durability, and the shift toward renewable-integrated grids.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "By material type, cathode materials led demand in 2025, while anode materials climbs fastest, at a 22.0% CAGR through 2026-2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By end-use, renewable energy & utilities/energy storage systems led demand in 2025, while industrial is set to grow at a 19.6% CAGR during 2026-2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By geography, Asia-Pacific held 73% share in 2025, while Europe expands fastest, at a 24.4% CAGR through 2026-2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is set to expand faster than any other region, with revenue climbing at a 24.4% CAGR during 2026-2032. European cell makers are building local sodium-ion capacity specifically to reduce exposure to Asian lithium-ion supply chains, and national governments are backing that shift with direct funding for domestic material and cell production rather than leaving it to private capital alone.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "It is on track to reach USD 117.0 million in 2026 and USD 334.7 million by 2032, a 19.2% CAGR during 2026-2032.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is the fastest-growing region, with its 2026-2032 CAGR reaching 24.4% as materials producers in Germany and the U.K. scale up local sodium-ion cathode and cell lines to cut reliance on Asian supply chains.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "この市場における主要企業は、Faradion、AGM Batteries Limited、NEI Corporation、Natron Energy、Haldor Topsoe A/Sである",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "豊富な調査ネットワークと最新データを活用することで、企業の経営戦略策定、新規事業開発、市場参入判断を支援し、実践的かつ信頼性の高いインサイトを提供しています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場の成長を牽引する主要企業には、以下が含まれます：",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場に参入している主要企業はどこですか？",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要市場参入企業の最近の動向",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のナトリウムイオン電池競合インテリジェンス、2026年 - 主要企業の戦略的分析、技術動向、製造、イノベーション、および競合情勢",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年以降、参入メーカーが増加している",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "次世代電池参入事業者",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池用多陰イオン性正極材料の世界的な主要企業には、IBU-tec、江蘇Zoolnasm Energy Technology、Qina New Energy Technology、浙江Sodium Innovation Energy、GEM Co., Ltd.などが含まれます",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "また、本レポートでは、ナトリウムイオン電池用多陰イオン性正極材料のポートフォリオと能力、市場参入戦略、市場での位置づけ、および地理的展開に焦点を当て、世界的なナトリウムイオン電池用多陰イオン性正極材料市場の加速する動向の中で、主要グローバル企業の独自の立場をより深く理解できるよう、各社の戦略を分析しています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの生産拠点分布、販売地域、提供する製品タイプ、市場集中度（CR3、CR5、CR10）の分析（2024年～2026年）、競争状況分析、新製品情報、潜在的な新規参入企業、市場のM&A活動と戦略に関する情報も含まれています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "第13章「主要企業の分析」には、IBU-tec、Jiangsu Zoolnasm Energy Technology、Qina New Energy Technology、Zhejiang Sodium Innovation Energy、GEM Co., Ltd.、Zhongkehai Sodium Technology、Jia Na Energy Technologyなどの主要企業について、企業情報、製品ポートフォリオと仕様、2021年から2026年までの販売量、収益、価格、売上総利益、主な事業概要、最新の動向といった詳細な分析が個別に記載されています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "BYDやCATLが参入",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "商品開発部の田邉明寛氏は「開発をスタートさせた22年は中国内でもメーカーが限定的だったが、次第に参入企業が増え、現在は価格競争が始まっている」と語る",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "5.1. 国内の現状と主要プレイヤー",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "といった中国企業が、層状酸化物やポリアニオン系材料の主要プレイヤーである",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "表2：世界のナトリウムイオン電池バリューチェーンにおける主要プレイヤー",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Players:",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players operating in the solid-state battery electrolyte market include:",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive advantage for the sodium-ions market, is due to cost leadership, being mineral-independent, and highly adaptable to existing lithium-ion manufacturing lines. Leading players in the space, like CATL, BYD, Natron and HiNa, are also benefitting from more mature supply chains, rapidly-scale capacity at GWh levels, and different chemistries such as Prussian Blue and layered oxides.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the sodium-ion battery materials market?",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players include CATL, BYD, HiNa Battery, NGK Insulators, Reliance (Faradion), Altris, Natron Energy, Tiamat Energy, and Xiamen Tob New Technology. These companies are advancing cathode chemistries, hard-carbon anodes, and large-scale production capacity.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sodium-Ion Battery Materials Market Size & Share Analysis - Trends, Drivers, Competitive Landscape, and Forecasts (2025 - 2032)",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Sodium-Ion Battery Materials Market Competitive Landscape",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Leading companies across industries trust us to deliver data-driven insights and innovative solutions for their most critical decisions. From data-driven strategies to actionable insights, we empower the decision-makers who shape industries and define the future. From Fortune 500 companies to innovative startups, we are proud to partner with organisations that drive progress in their industries.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Our insights into the minutest levels of the markets, including the latest trends and competitive landscape, give you all the answers you need to take your business to new heights",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "pass": 3
+   },
+   {
+    "quote": "sponsored by Google for Startups",
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "pass": 3
+   },
+   {
+    "quote": "While most battery startups chase lithium, a new Seattle company is betting on an abundant alternative: sodium.",
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "pass": 3
+   },
+   {
+    "quote": "GeekWire Startups",
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "排出量削減目標を掲げる中で、ナトリウムイオン電池の需要は発電部門と輸送部門で増加すると予想され、特にインド、中国、そして日本、韓国、インドネシア、マレーシアといった東南アジア諸国でその傾向が顕著になるでしょう",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Chemical Co.LTD.",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧米・中国・日本の材料メーカーが競合する中で、技術力に加え、量産対応力・品質安定性・国際規格適合力が競争優位性を左右している",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch株式会社は、2017年に日本・東京で設立された市場調査・コンサルティング会社です",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本の住所：〒104-0061東京都中央区銀座 6-13-16 銀座 Wall ビル UCF５階",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "TEL：050-5893-6232（日本）；0081-5058936232（グローバル）",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "japan@qyresearch.com",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場規模およびシェアレポート 2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場調査レポート – 最新動向、成長機会、市場規模およびシェア予測分析 – 2026年～2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "KDMIアナリストの成長分析によると、日本のナトリウムイオン電池市場の売上高は2036年までに6,590万米ドルに達すると予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "japan-sodium-ion-battery-market",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシ株式会社、パナソニック株式会社、株式会社東芝、住友電気工業株式会社、ファラディオン・リミテッド、Contemporary Amperex Technology Co., Limited（CATL）",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナトリウムイオン電池市場の規模はどのくらいですか？",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場に関する調査レポートによると、同市場は2026年から2036年の期間に年平均成長率（CAGR）11.2%で成長し、2036年末までに6,590万米ドルの市場規模に達すると予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "・日本ナトリウムイオン電池市場の成長は、強力な政府支援によって牽引されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "・KDMIアナリストの成長分析では、エネルギー密度の低さが日本ナトリウムイオン電池市場の制約要因であると予測されています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本のナトリウムイオン電池市場は、急速なデジタル化、自動化、スマート技術の採用拡大により大きな成長を遂げています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本がカーボンニュートラルな未来へと移行する中で、エネルギー効率の高いデバイスの役割はますます重要になっています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本は地政学的および経済的安全保障を強化するため、2030年までに国内の電池生産能力を約24ギガワット時（GWh）まで増加させる目標を設定しています",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "ファラディオン・リミテッド、ナトロン・エナジー社、アンブリ社、リライアンス・ニュー・エナジー・ソーラー社などが、日本のナトリウムイオン電池市場における主要な企業の一部です",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場：レポート範囲",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場の主要トレンド／成長要因",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場を中心に実用化・量産化の動きが活発化する一方で、電池材料サプライチェーンの見直し、資源・材料調達リスクを低減する選択肢として、SiBの開発を強化する動きも各国でみられており、今後は中国市場のみならず、北米、欧州、日本、その他アジア市場においても、SiBの量産化に取り組む企業事例が拡大していく可能性があります",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "中国以外の地域の市場は現状小さいですが、日本や北米、欧州などで資源・材料調達リスクの回避を目的に開発プロジェクトが進んでおり、特に欧州で積極的な動きがみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、ESS用途や民生用途での普及が期待されます",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の外資系製薬企業48社の日本における医療用医薬品売上高は844億円(2025年度比107.7%)の見込",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470）は、酸化物系疑似固体電池やナトリウムイオン二次電池の実用化、日本自動車メーカーによる硫化物系全固体電池の量産化に向けた取り組み、エネルギー密度向上によるドローンなどへの採用の期待から注目が集まる次世代電池の世界市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半からは、日本、韓国、欧州メーカーにおいて一部のxEV向けを対象に、大型の量産が始まり需要が本格化するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "第6章「APAC」には、2021年から2026年までのAPAC地域におけるナトリウムイオン電池用多陰イオン系正極材料の地域別（中国、日本、韓国、東南アジア、インド、オーストラリア、中国台湾）販売量と収益、タイプ別販売量、用途別販売量の詳細なデータが提供されます",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語タイトル：ナトリウムイオン電池用多陰イオン系正極材料の世界市場2026年～2032年",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池、中国が量産で先行 日本勢は静観 - 日経GX",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池、中国が量産で先行 日本勢は静観",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本の大半の電池メーカーは静観の姿勢を貫く",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "日電硝がサンプル出荷、住友電工は開発中止",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "こうした海外の潮流とは裏腹に、日本の電池メーカーでは目立った動きは見られない",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子がナトリウムイオン電池を全固体化した「全固体ナトリウムイオン電池」の小型セルをサンプル出荷する程度だ",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "住友電気工業は10年代に製品化を目指していたが、その後開発を中止した",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "1つは日本の電池開発が伝統的に価格面より性能面を重視してきたことだ",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池は廉価電池の系譜に属し、日本企業の関心からはやや外れている",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "住友電工がナトリウムイオン電池の事業化を困難と判断した理由もここにある",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "日本人研究者がいち早く着目",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "日本は今でこそ存在感が薄いが、ナトリウムイオン電池を実用水準に高めた立役者は日本人だ",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "実用化の目標は20年代後半で、日本企業が大容量の全固体リチウムイオン電池の実用化を目指す時期と同じだ",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の大量生産で得た収益やユーザーを活用し、日本企業よりも市場で優位に立ち回る可能性がある",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "グリーン水素製造装置の希少金属 JX金属が8割削減に道",
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "pass": 3
+   },
+   {
+    "quote": "幕張メッセ/Makuhari Messe, Japan",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の情報収集に「BATTERY JAPAN 二次電池展」の活用を",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "二次電池・バッテリーに関する情報が集まる「BATTERY JAPAN 二次電池展」",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "BATTERY JAPAN ～二次電池展～ 次回会期は2026年11月18日（水）～20日（金）！詳細はこちら",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本貿易振興機構「湖南立方新能源科技など、新しいEV用ナトリウムイオン電池を発表」",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】日本電気硝子株式会社",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子株式会社は、液晶ディスプレイや特殊ガラス製品の製造などを手掛ける企業です",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年2月に、日本電気硝子株式会社は、全固体ナトリウムイオン電池のサンプル出荷を開始※2しました",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子株式会社「オール酸化物全固体ナトリウム（Na）イオン二次電池」",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子株式会社「全固体ナトリウムイオン二次電池のサンプル出荷を開始」",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】戸田工業株式会社と鳥取大学",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池を含め、二次電池の情報収集をしたい方は「BATTERY JAPAN（バッテリージャパン） 二次電池展」にぜひご来場ください",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "ナトリウムイオン電池市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場の規模、シェア、トレンド分析レポート：タイプ別（ナトリウム硫黄電池、ナトリウム塩電池（ゼブラ電池）、ナトリウム酸素電池（ナトリウム空気電池））、技術別（水系、非水系）、用途別（エネルギー貯蔵およびグリッド統合、電気自動車（EV）、住宅用エネルギー貯蔵、緊急バックアップおよびUPS、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.5%の市場シェアを占め、ナトリウムイオン電池市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年のナトリウムイオン電池市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "移動式エネルギー貯蔵システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーセパレーターコーティング市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "正極活物質リサイクル市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムビス（FSI）電解質塩市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "QYResearch調査チームの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」によると、ナトリウムイオン電池用正極材料の世界市場は、2025年に156百万米ドルと推定され、2026年には232百万米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "上記の図表／データは、QYResearchの最新レポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」から引用されています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、QY Researchが発行したレポート「ナトリウムイオン電池用正極材料―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」 を紹介しています",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場規模およびシェアレポート 2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "日本ナトリウムイオン電池市場調査レポート – 最新動向、成長機会、市場規模およびシェア予測分析 – 2026年～2036年",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場 | 市場規模 シェア 動向分析 予測 2026～2033年まで",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池の市場規模、シェアおよび動向分析レポート：技術別、最終用途別、地域別、セグメント別予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の市場シェアおよびポジショニング分析（2025年）",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状、市場は約99%を酸化物系、1%を高分子系が占め、硫化物系はわずかである",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "疑似固体電池の開発・実用化が進展しており、現状では市場の9割強を占める",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "売上高ベースでは、2025年に世界トップ2社が市場シェアの約％を占めました",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "また、ナトリウムイオン電池用多陰イオン系正極材料をタイプ別（リン酸鉄ナトリウム(NFPP)、硫酸鉄ナトリウム(NFS)、リン酸バナジウムナトリウム(NVP)、その他）に分類し、2021年から2026年までの販売量、収益、販売価格の市場シェアを分析しています",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "2021年から2026年までの企業別年間販売量、販売市場シェア、年間収益、収益市場シェア、販売価格データが提供されます",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "pass": 3
+   },
+   {
+    "quote": "国内でのEV市場の成長もあり、CATLは世界の生産能力で50％のシェア※を誇っています（2020年）",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年上半期には60%の市場シェア",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は世界最大の市場であり、世界収益の40%以上を占めている",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "market share in 2024.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on battery technology type, the market is segmented into ambient-temperature (NAIBS), high-temperature molten batteries, and solid-state sodium batteries (SSSBS). Ambient-temperature (NAIBS) dominated the market with an approximate market share of 77.4% in 2024 and is expected to grow with a CAGR of 29.4% by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on capacity size, the solid-state battery electrolyte market is segmented into small-scale systems (100 kw), medium-scale systems (100 kw - 10 mw), large-scale systems (10 mw - 100 mw), and extra-large-scale systems (>100 mw). Medium-scale systems (100 kw - 10 mw) held the largest market share of 40.5% in 2024 and is expected to grow at a CAGR of 30.5% during 2025-2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Based on application, the market is segmented into grid-scale energy storage, commercial & industrial energy storage, residential energy storage, electric vehicle applications, and defense & military applications. Grid-scale energy storage segment dominated the market with an approximate market share of 54.1% in 2024 and is expected to grow with the CAGR of 29.2% by 2034.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America sodium ion battery material industry is growing rapidly on the global level with a market share of 21.3% in 2024.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Latin America sodium ion battery material accounted for 6.2% market share in 2024 and is anticipated to show highest growth over the forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Middle East & Africa sodium ion battery material accounted for 4.2% market share in 2024 and is anticipated to show lucrative growth over the forecast period.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "23% Market Share",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "Collective Market Share of 65.2% in 2024",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America held 21.3% share of the global sodium-ion battery materials industry in 2024. Growth is supported by expanding grid-scale storage projects, IRA-driven manufacturing incentives, and rising demand for lithium-alternative chemistries.",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ナトリウムイオン電池 用正極 材料市場規模 は2026年232百万 ... — ナトリウムイオン電池 用正極 材料市場規模 は2026年232百万 ... アットプレス https://www.atpress.ne.jp > ... > QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池市場 の 規模 、統計および展望 2031 — ナトリウムイオン電池市場 の 規模 、統計および展望 2031 Mordor Intelligence https://www.mordorintelligence.com > industry-reports",
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/sodium-ion-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池材料市場規模 ・シェア | 成長 [2034] — ナトリウムイオン電池材料市場規模 ・シェア | 成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492",
+    "pass": 3
+   },
+   {
+    "quote": "2026 ナトリウムイオン電池 関連技術・ 市場 の全貌 - 富士経済 — 2026 ナトリウムイオン電池 関連技術・ 市場 の全貌 - 富士経済 富士経済グループ https://www.fuji-keizai.co.jp > report > detail",
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池 (SiB)の 市場 を調査。2040年の世界 市場 ... — ナトリウムイオン電池 (SiB)の 市場 を調査。2040年の世界 市場 ... fkg-report.jp https://www.fkg-report.jp > market-trends",
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池 とは？注目される理由やメリット ... — ナトリウムイオン電池 とは？注目される理由やメリット ... スマートエネルギーWeek https://www.wsew.jp > hub > ja-jp > blog > article_95",
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池 メーカー3社 注目ランキング【2026年】 — ナトリウムイオン電池 メーカー3社 注目ランキング【2026年】 Metoree https://metoree.com > 電源",
+    "url": "https://metoree.com/categories/11264/",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池材料 市場規模・シェア |成長 [2034] — ナトリウムイオン電池材料 市場規模・シェア |成長 [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > 家庭 > 先端材料",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492",
+    "pass": 3
+   },
+   {
+    "quote": "ナトリウムイオン電池 レポート2025 技術、市場、そして日本 ... — ナトリウムイオン電池 レポート2025 技術、市場、そして日本 ... エネがえる https://www.enegaeru.com > 家庭用蓄電池",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "pass": 3
+   },
+   {
+    "quote": "Sodium - Ion Battery Materials Market Size , Share | Growth [2034] — Sodium - Ion Battery Materials Market Size , Share | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492",
+    "pass": 3
+   },
+   {
+    "quote": "Sodium - Ion Battery Materials Market Size, Share | Growth [2034] — Sodium - Ion Battery Materials Market Size, Share | Growth [2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "Europe is set to expand faster than any other region, with revenue climbing at a 24.4% CAGR during 2026-2032. European cell makers are building local sodium-ion capacity specifically to reduce exposure to Asian lithium-ion supply chains, and national governments are backing that shift with direct funding for domestic material and cell production rather than leaving it to private capital alone.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2025, EVE Energy Co. Ltd. broke ground on a sodium-ion battery production campus in Huizhou, China, backed by a RMB 1 billion (about USD 140 million) investment and targeting 2 GWh of annual capacity. The campus consolidates EVE's sodium-ion research, pilot production, and manufacturing in one site aimed at data-center and energy-storage customers.",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Bell led product management and customer programs at Group14, which is manufacturing next generation silicon anode materials and has raised more than $1 billion from investors. He also held research and management roles at battery materials companies including Ionic Materials.",
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "pass": 3
+   },
+   {
+    "quote": "Bedrock Materials has raised $9.0M across 1 funding round.",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "1 funding round",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Bedrock Materials has raised $9.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Bedrock Materials has raised $9.0M across 1 funding round. Most recently, it raised $9.0M Seed in May 2024.",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "$9.0M raised",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": ": Achieved seed funding, R&D headquarters setup, and precursor production within a year, backed by hardtech incubator mHUB.[4][5]",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "sodiumbatteryhub.com/2024/05/22/bedrock-materials-secures-9m-seed-funding",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/bedrock-materials-secures-9-million-seed-funding-establishes-rd-headquarters-in-chicago-302147240.html",
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "16.42",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "quote": "世界のナトリウムイオン電池市場規模は、2025年には4億7000万米ドルと評価され、2026年の5億5000万米ドルから2034年には18億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は16.42%となる見込みです"
+   },
+   {
+    "value": "9.6",
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "quote": "北米地域は2番目に大きく、予測期間中に年平均成長率（CAGR）9.6%で成長すると予想されています"
+   },
+   {
+    "value": "26.5",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "quote": "その後、2026年から2032年にかけて年平均成長率（CAGR）26.5%で推移し、2032年には950百万米ドルに拡大すると見込まれています"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "11.2",
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "quote": "日本ナトリウムイオン電池市場に関する調査レポートによると、同市場は2026年から2036年の期間に年平均成長率（CAGR）11.2%で成長し、2036年末までに6,590万米ドルの市場規模に達すると予測されています"
+   },
+   {
+    "value": "11.6",
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "quote": "2026年から2033年にかけては、CAGR 11.6％で成長すると見込まれています"
+   },
+   {
+    "value": "6.6",
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "quote": "世界のナトリウムイオン電池用多陰イオン系正極材料市場規模は、2025年の1億3,500万米ドルから2032年には2億3,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）6.6％で成長すると見込まれています"
+   },
+   {
+    "value": "35.7",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "quote": "年平均成長率（CAGR）35.7%で成長"
+   },
+   {
+    "value": "26.6",
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "quote": "ドイツ（29.1% CAGR）とフランス（26.6% CAGR）が主要市場になると予想される"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "quote": "The global sodium ion battery material market was valued at USD 2.1 billion in 2024. The market is expected to grow from USD 2.7 billion in 2025 to USD 28.8 billion in 2034, at a CAGR of 30%, according to latest report published by Global Market Insights Inc."
+   },
+   {
+    "value": "29.4",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "quote": "Based on battery technology type, the market is segmented into ambient-temperature (NAIBS), high-temperature molten batteries, and solid-state sodium batteries (SSSBS). Ambient-temperature (NAIBS) dominated the market with an approximate market share of 77.4% in 2024 and is expected to grow with a C"
+   },
+   {
+    "value": "30.5",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "quote": "Based on capacity size, the solid-state battery electrolyte market is segmented into small-scale systems (100 kw), medium-scale systems (100 kw - 10 mw), large-scale systems (10 mw - 100 mw), and extra-large-scale systems (>100 mw). Medium-scale systems (100 kw - 10 mw) held the largest market share"
+   },
+   {
+    "value": "29.2",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "quote": "Based on application, the market is segmented into grid-scale energy storage, commercial & industrial energy storage, residential energy storage, electric vehicle applications, and defense & military applications. Grid-scale energy storage segment dominated the market with an approximate market shar"
+   },
+   {
+    "value": "30.6",
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "quote": "The Asia pacific sodium ion battery material market is anticipated to grow at a CAGR of 30.6% during the analysis timeframe."
+   },
+   {
+    "value": "24.4",
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "quote": "Europe is the fastest-growing region, with its 2026-2032 CAGR reaching 24.4% as materials producers in Germany and the U.K. scale up local sodium-ion cathode and cell lines to cut reliance on Asian supply chains."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1593319",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/sodium-ion-battery-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solarjournal.jp/news/58017/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/1737752",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/11264/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/battery-material-market-1518",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/sodium-ion-battery-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/automotive-sodium-ion-battery-market-119865963.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/sodium-ion-battery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/sodium-ion-battery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insightaceanalytic.com/report/sodium-ion-battery-market/3577",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772571525000452",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://news.stanford.edu/stories/2025/01/sodium-ion-batteries-need-breakthroughs-to-compete",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.batterypoweronline.com/news/follow-the-money-battery-funding-rounds-for-new-anodes-sodium-ion-chemistry-recycling-more/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.energyconnects.com/news/renewables/2026/october/gm-leads-108-million-funding-round-for-sodium-ion-battery-startup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/bedrock-materials",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナトリウムイオン電池材料 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/sodium-ion-battery-market",
+    "https://www.atpress.ne.jp/news/1593319",
+    "https://www.kdmarketinsights.jp/report-analysis/japan-sodium-ion-battery-market/897",
+    "https://www.mordorintelligence.com/ja/industry-reports/sodium-ion-battery-market",
+    "https://www.gii.co.jp/report/grvi1986616-sodium-ion-battery-market-size-share-trends.html",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492",
+    "https://simblo.net/u/BHiVQd/post/1034245",
+    "https://jp.linkedin.com/pulse/%E9%9B%BB%E6%B0%97%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E5%B8%82%E5%A0%B4%E5%88%86%E6%9E%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E4%BA%88%E6%B8%AC%E6%9C%9F%E9%96%9320262033%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B72%E3%81%AE%E6%88%90%E9%95%B7%E8%A6%8B%E8%BE%BC%E3%81%BF%E3%81%A8cagr-7519544795170713600-m5fue",
+    "https://newscast.jp/smart/news/2990575",
+    "https://en.wikipedia.org/wiki/Microsoft"
+   ]
+  },
+  {
+   "query": "ナトリウムイオン電池材料 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=112605935&la=ja",
+    "https://www.fkg-report.jp/market-trends/2026/3438.html",
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25005&la=ja",
+    "https://solarjournal.jp/news/58017/",
+    "https://www.atpress.ne.jp/news/1737752",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=162402906&la=ja",
+    "https://www.cmcbooks.co.jp/products/detail.php?product_id=116054",
+    "https://eetimes.itmedia.co.jp/ee/articles/2501/20/news054.html",
+    "https://pr.mono.ipros.com/yano/product/detail/2000337318/",
+    "https://www.euro-millions.com/results"
+   ]
+  },
+  {
+   "query": "ナトリウムイオン電池材料 参入 企業 国内",
+   "results": [
+    "https://www.nikkei.com/prime/gx/article/DGXZQOSG16C8W0W5A610C2000000",
+    "https://www.wsew.jp/hub/ja-jp/blog/article_95.html",
+    "https://www.youtube.com/watch?v=lGA5A4IM0AI",
+    "https://metoree.com/categories/11264/",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%8A%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%82%A4%E3%82%AA%E3%83%B3%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-117492",
+    "https://www.enegaeru.com/sodium-ionbatteryreport2025",
+    "https://www.integral-japan.net/?p=37417",
+    "https://www.neg.co.jp/products/na-ion-secondary-battery/index.html",
+    "https://patentscouter.com/entry/newbattery1",
+    "https://www.marca.com/"
+   ]
+  },
+  {
+   "query": "sodium-ion battery materials market size CAGR 2025",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492",
+    "https://www.marketresearchfuture.com/reports/battery-material-market-1518",
+    "https://www.grandviewresearch.com/industry-analysis/sodium-ion-battery-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/automotive-sodium-ion-battery-market-119865963.html",
+    "https://www.rootsanalysis.com/sodium-ion-battery-market",
+    "https://www.linkedin.com/pulse/exploring-sodium-ion-battery-materials-electric-jx2ue",
+    "https://www.sciencedirect.com/science/article/pii/S2352152X2504575X",
+    "https://uk.finance.yahoo.com/news/global-sodium-ion-battery-market-143200332.html",
+    "https://en.wikipedia.org/wiki/Sodium"
+   ]
+  },
+  {
+   "query": "sodium-ion battery materials market key players competitive landscape",
+   "results": [
+    "https://www.gminsights.com/industry-analysis/sodium-ion-battery-material-market",
+    "https://www.fortunebusinessinsights.com/sodium-ion-battery-materials-market-117492",
+    "https://www.rootsanalysis.com/sodium-ion-battery-market",
+    "https://www.linkedin.com/pulse/sodium-ion-battery-materials-market-growth-forecast-ezzgf",
+    "https://www.stratviewresearch.com/market-reports/sodium-ion-battery-market.html",
+    "https://www.psmarketresearch.com/market-analysis/sodium-ion-battery-materials-market-report",
+    "https://www.insightaceanalytic.com/report/sodium-ion-battery-market/3577",
+    "https://www.sciencedirect.com/science/article/pii/S2772571525000452",
+    "https://www.researchnester.com/reports/sodium-ion-battery-market/6419",
+    "https://en.wikipedia.org/wiki/Sodium"
+   ]
+  },
+  {
+   "query": "sodium-ion battery materials startup funding 2025",
+   "results": [
+    "https://news.stanford.edu/stories/2025/01/sodium-ion-batteries-need-breakthroughs-to-compete",
+    "https://www.batterypoweronline.com/news/follow-the-money-battery-funding-rounds-for-new-anodes-sodium-ion-chemistry-recycling-more/",
+    "https://www.geekwire.com/2025/seattle-startup-bets-on-sodium-batteries-as-cheaper-safer-alternative-to-lithium/",
+    "https://www.energyconnects.com/news/renewables/2026/october/gm-leads-108-million-funding-round-for-sodium-ion-battery-startup/",
+    "https://startupintros.com/orgs/bedrock-materials",
+    "https://www.colorado.edu/venturepartners/startup-portfolio/mana-battery-inc",
+    "https://newmarketpitch.com/blogs/news/energy-storage-funding-deals",
+    "https://volta.foundation/assessing-the-promise-and-potential-of-sodium-ion-batteries-in-2026/",
+    "https://www.idtechex.com/en/research-report/sodium-ion-batteries-2025-2035-technology-players-markets-and-forecasts/1082",
+    "https://en.wikipedia.org/wiki/Sodium"
+   ]
+  }
+ ],
+ "missing": {}
+}

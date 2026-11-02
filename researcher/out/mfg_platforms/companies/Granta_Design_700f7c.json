@@ -1,0 +1,562 @@
+{
+ "name": "Granta Design",
+ "aliases": [
+  "Ansys Granta",
+  "GRANTA"
+ ],
+ "context": "素材データ",
+ "researched_at": "2026-11-02T14:59:36.503025+00:00",
+ "official_url": "https://www.ansys.com/products/materials",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "We expect that our solution will be of interest not only to the aerospace industry, where the application of composite materials is mainstream, but also to customers in many other industries.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "EikoSim aims at being the missing link between test and simulation in solid mechanics, by promoting a software suite that helps our customers put together all of their test and simulation data, to make educated simulation choices and shorten development times.",
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "With 25 years of materials expertise, Granta MI Enterprise brings customers a complete materials data management solution. Empower your enterprise, protect your Material Intelligence and enable digital transformation.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "A multilingual virtual assistant for commercial customers, AnsysGPT delivers 24/7 answers on products, physics, and engineering topics—securely and reliably.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Customers",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Our Consortia are major on-going collaborations that provide members with formal input to Granta development and other benefits.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "It was founded in 2002 by materials-oriented corporations and government agencies and is now in Phase IV, delivering proven benefits to members, including:",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Consortium members are manufacturing organizations and related agencies. These members are able to apply the existing software technology and information resources and to guide development of future technology towards their most critical needs. The two key focus areas are:",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Granta participates in the Composites Innovation Cluster, which aims to develop the UK Composites Supply Chain as part of the Advanced Manufacturing Supply Chain Initiative (AMSCI). It brings together academics, suppliers, technology providers and the National Composites Centre, supporting projects such as DATACOMP.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "A partnership with Chemwatch to enable users with easy access to difficult to find substances data.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Granta has had a long-standing partnership with the SIMULIA brand of Dassault Systemes, ensuring that accurate, traceable materials data is provided to users of the Abaqus/CAE system.",
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "pass": 3
+   },
+   {
+    "quote": "Workflow tools ensure the smooth capture, processing and approval of data, information and expertise, and enable users to fully integrate their materials expertise into their business practice. Bring Material Intelligence enterprise-wide with full integration across CAD, CAE and PLM systems.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "How can users achieve the full potential of Additive Manufacturing (AM)? With the Ansys® Granta MI™ AM solution, engineers capture and analyze the right information from their AM projects so solutions get to market faster.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Users of the Ansys Granta MI™ Restricted Substances module can access Chemwatch’s 70+ million Safety Data Sheets (SDS). This integrated solution provides access to product composition information that is essential for compliance with global regulations and chemicals risk management in manufacturing enterprises.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys® Granta MI™ enables users to save time and cost in simulation (CAE) with fast access to the materials data that analysts need, from directly within leading CAE software.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "As part of their journey towards digital materials management, Baker Hughes adopted Granta MI Enterprise to migrate all material data to a single, digital source of material data for all users.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Our Consortia are major on-going collaborations that provide members with formal input to Granta development and other benefits.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "It was founded in 2002 by materials-oriented corporations and government agencies and is now in Phase IV, delivering proven benefits to members, including:",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Consortium members are manufacturing organizations and related agencies. These members are able to apply the existing software technology and information resources and to guide development of future technology towards their most critical needs. The two key focus areas are:",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Granta participates in the Composites Innovation Cluster, which aims to develop the UK Composites Supply Chain as part of the Advanced Manufacturing Supply Chain Initiative (AMSCI). It brings together academics, suppliers, technology providers and the National Composites Centre, supporting projects such as DATACOMP.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Get Started",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Predict material properties from first principles",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Design Engineers can reduce design iterations by making better materials decisions early in the conceptual phase.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Consider compliance early in design, where change costs least and delivers the biggest impact.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "The sustainability add-on for Ansys Granta MI offers a rich toolset and the data to support sustainability experts, materials experts, and designers in their engineering efforts to reduce product environmental footprint early in the design phase.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "An overview of the GRANTA Selector software from Granta Design. GRANTA Selector is a PC application that enables materials experts and product development teams to find and apply materials property data. You can make better decisions in early-stage design or re-design, reduce time-to-market, and increase confidence during development.",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Started",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "The sustainability add-on for Ansys Granta MI offers a rich toolset and the data to support sustainability experts, materials experts, and designers in their engineering efforts to reduce product environmental footprint early in the design phase.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Started",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Started",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Skip to Main Content",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Researchers",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Search for Jobs",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Search",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).",
+    "url": "https://ansys.synopsys.com/products/materials",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to Main Content",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Researchers",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Jobs",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Materials Searching",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "It's vital to Ansys that all users, including those with disabilities, can access our products. As such, we endeavor to follow accessibility requirements based on the US Access Board (Section 508), Web Content Accessibility Guidelines (WCAG), and the current format of the Voluntary Product Accessibility Template (VPAT® ).",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Research and Innovation action (RIA)",
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "In-line and Real-time Nano-characterization technologies for the high yield manufacturing of Flexible Organic Electronics",
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "This project has received funding from the European Union's HORIZON 2020 research and innovation programme under Grant Agreement No 862442.",
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to Main Content",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Researchers",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Search for Jobs",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "AC2T Research GMBH (Coordinator), ATOS Spain SA, Bundesanstalt Fuer Materialforschung und Pruefung, Fundacion Tekniker, Granta Design Ltd, Lulea Tekniska Universitet, Moventas Wind OY, Toyota Motor Europe NV, Teknologian Tutkimuskeskus VTT OY, Trygonal Iberia SL",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": ": Fraunhofer-IPT, Fundacion Tekniker, Granta Design, Universidade Do Minho, Asociacion Insituto Biodonastia, Fundacio Institut Catala De Nanociencia I Nanotecnologia, Propagroup, Universidad De Alicante, SO.F.TER. SPA, Naturality Research & Development",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": ": Sigmatex, Axillium Research, Caparo Advanced Composites, Cranfield University, Engenuity, Expert Tooling & Automation, Granta Design, Group Rhodes, LMAT, Surface Generation, Tilsatec",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": ": Aristotle University of Thessaloniki (Coordinator), Nanotechnology Lab LTFN, National Physical Laboratory UK, University of Surrey, Organic Electronic Technologies OET, Centro Ricerche Fiat, University of Ioannina, Centre National de la Recerche Scientifique CNRS, Granta, Fluxim, Hellenic Organic and Printed Electronics Association HOPE-A, AIXTRON",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": ": Panepistimio Ioanninon, Karlsruher Institut Fuer Technologie, University Of Surrey, Aristotelio Panepistimio Thessalonikis, Ceske Vysoke Uceni Technicke V Praze, Fluxim Ag, Tinnit Technologies Gmbh, Ansys Granta, Esteco Spa, Organic Electronic Technologies Pc Ike, Apeva Se",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "This project has received funding from the Clean Sky 2 Joint Undertaking under the European Union's Horizon 2020 research and innovation programme under grant agreement No 715775.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "This project has received funding from the European Union's HORIZON 2020 research and innovation programme under Grant Agreement No 862442.",
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Funding:",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Funding",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "This project has received funding from the Clean Sky 2 Joint Undertaking under the European Union's Horizon 2020 research and innovation programme under grant agreement No 715775.",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GRANTA DESIGN | Dassault Systèmes — GRANTA DESIGN | Dassault Systèmes Dassault Systèmes https://www.3ds.com > Partners",
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys Granta MI Enterprise | Material Data Management ... — Ansys Granta MI Enterprise | Material Data Management ... Ansys https://ansys.synopsys.com > granta-mi",
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "pass": 3
+   },
+   {
+    "quote": "Granta Design Ltd - RealNano — Granta Design Ltd - RealNano RealNano http://www.realnano-project.eu > 88-...",
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Granta MI - MatDaCs — Granta MI - MatDaCs 国立研究開発法人物質・材料研究機構 https://mat-dacs.dxmt.nims.go.jp > list",
+    "url": "https://mat-dacs.dxmt.nims.go.jp/list/1768",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 - Ansys Granta Selector - 株式会社 IDAJ — 製品情報 - Ansys Granta Selector - 株式会社 IDAJ 株式会社 IDAJ https://www.idaj.co.jp > 製品情報",
+    "url": "https://www.idaj.co.jp/product/ansys-granta-selector/",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing GRANTA MI - YouTube — Introducing GRANTA MI - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4pz7WpZ7JiM",
+    "pass": 3
+   },
+   {
+    "quote": "Granta Design - Composites in Manufacturing — Granta Design - Composites in Manufacturing Composites in Manufacturing https://www.composites.media > grant...",
+    "url": "https://www.composites.media/company/granta-design",
+    "pass": 3
+   },
+   {
+    "quote": "Ansys GRANTA Collaborations and Partnerships - Synopsys — Ansys GRANTA Collaborations and Partnerships - Synopsys Synopsys https://ansys.synopsys.com > materials",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Granta Design and CASTEP case studies — Granta Design and CASTEP case studies Cambridge Enterprise https://www.enterprise.cam.ac.uk > gr...",
+    "url": "https://www.enterprise.cam.ac.uk/case-studies/granta-design-and-castep-supporting-materials-software-pioneers-for-25-years/",
+    "pass": 3
+   },
+   {
+    "quote": "Granta Design - ResCom Consortium Partner — Granta Design - ResCom Consortium Partner ResCoM project https://www.rescoms.eu > granta",
+    "url": "https://www.rescoms.eu/consortium/partners/granta.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Active Collaborative Project funded by The European Commission, H2020 CleanSky2",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "Active Collaborative Project funded by European Commission",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "FormPlanet",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": ": European Commission, H2020",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   },
+   {
+    "quote": "European Commission, H2020",
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ansys.synopsys.com/products/materials",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/materials/granta-mi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4pz7WpZ7JiM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/linnas-design/post_articles/509492",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dimension-note.jp/articles/interview/7094/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=C73bp0e1odo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://winningbydesign.com/revenue-architecture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Granta Design 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "https://ansys.synopsys.com/products/materials/granta-mi",
+    "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "https://mat-dacs.dxmt.nims.go.jp/list/1768",
+    "https://www.idaj.co.jp/product/ansys-granta-selector/",
+    "https://www.cadit.com/products/ansys-granta-mi",
+    "https://www.amazon.co.jp/Granta-Modern-Common-Magazine-Writing/dp/0140145796",
+    "https://sevendex.com/post/2806/",
+    "https://otsumu.co.jp/knowledge/cases/mtch-freemium.html",
+    "https://compworth.com/company/granta-design"
+   ]
+  },
+  {
+   "query": "Granta Design 売上 従業員 創業",
+   "results": [
+    "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "http://www.realnano-project.eu/index.php/partners/88-granta-design-ltd",
+    "https://www.youtube.com/watch?v=4pz7WpZ7JiM",
+    "https://www.composites.media/company/granta-design",
+    "https://job.mynavi.jp/27/pc/search/corp227452/outline.html",
+    "https://goodpatch.com/blog/startup-designer",
+    "https://prtimes.com/story/detail/dxO4wauwPyr",
+    "https://aboutgrand.com/ja/",
+    "https://www.jpo.go.jp/resources/report/sonota/document/kokusai_kenrika/h29_03.pdf",
+    "https://rocketreach.co/granta-design-limited-profile_b5c715adf42e0d28"
+   ]
+  },
+  {
+   "query": "Granta Design 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.wantedly.com/companies/linnas-design/post_articles/509492",
+    "https://dimension-note.jp/articles/interview/7094/",
+    "https://www.youtube.com/watch?v=C73bp0e1odo",
+    "https://vook.vc/n/1996",
+    "https://goodpatch.com/blog/startup-designer",
+    "https://www.gardedesignmagazine.com/president-interview-trajectory-and-future-innovations/",
+    "https://www.youtube.com/watch?v=Yu3Cv9U9CiE",
+    "https://www.axismag.jp/posts/2017/08/79451.html",
+    "https://thebridge.jp/2012/06/interview_nakaharahironori",
+    "http://www.grantadesign.com/"
+   ]
+  },
+  {
+   "query": "Granta Design revenue members business model",
+   "results": [
+    "https://winningbydesign.com/revenue-architecture/",
+    "https://www.3ds.com/partners/partner-details/200000000040219_GRANTA_DESIGN_LTD",
+    "https://ansys.synopsys.com/products/materials/granta-collaborations",
+    "https://www.enterprise.cam.ac.uk/case-studies/granta-design-and-castep-supporting-materials-software-pioneers-for-25-years/",
+    "https://www.rescoms.eu/consortium/partners/granta.html",
+    "https://www.youtube.com/watch?v=WP2JkbUNp0k",
+    "https://impact.ref.ac.uk/casestudies/CaseStudy.aspx?Id=14096",
+    "https://www.swfinstitute.org/profile/5e39a616fcbe7e8ca72838e4",
+    "https://richardmbanfield.medium.com/designing-revenue-32e649869e40",
+    "https://en.wikipedia.org/wiki/Nonprofit_organization"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

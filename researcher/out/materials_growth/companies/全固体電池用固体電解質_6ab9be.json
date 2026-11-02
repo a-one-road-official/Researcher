@@ -1,0 +1,2004 @@
+{
+ "name": "全固体電池用固体電解質",
+ "en": "solid electrolyte",
+ "aliases": [
+  "sulfide solid electrolyte",
+  "oxide solid electrolyte",
+  "固体電解質"
+ ],
+ "context": "電池材料",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:48:56.851231+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界の固体電池市場規模は、2025年には27億8000万米ドルと評価され、2026年の37億9000万米ドルから2034年には454億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は年平均成長率（CAGR）35.6%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）36.4%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "移動式エネルギー貯蔵システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーセパレーターコーティング市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "正極活物質リサイクル市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムビス（FSI）電解質塩市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の世界市場規模、2026年222百万米ドルへ拡大 | Global info Research Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の世界市場規模、2026年222百万米ドルへ拡大",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "Global Info Researchの分析によれば、グローバル全固体電池市場は2026年時点で約895百万米ドル規模と推定される",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模と今後5年予測：EV高性能化が商用化を牽引",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "Global Info Researchの最新レポートによると、2026年から2032年の予測期間において、市場規模は約895百万米ドルから39,760百万米ドルへ拡大する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2027年時点で約375百万米ドル、世界の約44.75%を占める一方、2032年には10,375百万米ドル、約26.10%となる見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "投資評価や内部稟議では、2032年に向けた市場規模だけでなく、用途別・地域別の成長差と競争軸の変化を併せて整理することが、経営判断に資する",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "トラックスケールの世界市場規模、2026年854百万米ドルへ拡大",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸製品市場規模、2026年に10039百万米ドル拡大確実",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "■硫化物系固体電解質の世界市場 7,553億円（164.2倍）",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "■酸化物系固体電解質の世界市場 4,022億円（8.0倍）",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "硫化物系全固体電池はEV向けとして注目度が高いが本格的な実用化には至っておらず、使用される硫化物系固体電解質もサンプルや試験用出荷が中心であるため市場は小さく、2025年は91億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "これによりEVを中心に硫化物系全固体電池の採用が増加し、硫化物系固体電解質の需要も高まるため、2045年の市場は2024年比164.2倍の7,553億円が予測される",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "中国メーカーにおいて疑似固体電池向けに量産が始まっているため、2025年の市場は634億円が見込まれる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "～全固体電池世界市場は2040年で最大4.4兆円規模までの市場拡大を予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までは硫化物系全固体電池市場を上回る市場規模を予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "なお、市場規模（出荷金額ベース）は1米ドル＝155円の換算で算出している",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "2045年における全固体電池市場を8兆7,065億円、ナトリウムイオン二次電池市場を1兆3,473億円と推計 | 富士経済グループ 市場調査レポートサイト",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2045年における全固体電池市場を8兆7,065億円、ナトリウムイオン二次電池市場を1兆3,473億円と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "既存LiBの製造プロセスから大きな変更なく生産できるため、一部で代替が進んでおり、2024年は1,218億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状、市場は約99%を酸化物系、1%を高分子系が占め、硫化物系はわずかです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "xEV向けを中心に酸化物系が増加しているため、2024年の市場は前年比4.0倍の1,158億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、既存LiBと比べて重量あたりのエネルギー密度が高まることや、量産化に向けた生産体制の強化などによって、xEVだけでなくドローンや医療機器、AGV、ESS、IoTセンサーデバイス・バックアップ電源など採用が広がるとみられ、2045年の市場は2023年比299.2倍の8兆7,065億円が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は1,143億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年以降は、疑似固体電池から酸化物系全固体電池の開発・量産化にシフトし、xEV向けの有力次世代電池として採用が進むことから、2045年は2023年比104.4倍の2兆8,820億円が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用車両やESSでも実用化されており、2024年の市場は15億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代は、LiBを下回るコストと層状酸化物系やポリアニオン化合物系を使用した正極材料による性能向上を実現することで、鉛蓄電池やLFP採用LiBの代替が期待され、順調に市場は拡大するとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー密度200Wh/kg以上かつ鉛蓄電池並みのコストを達成し、産業用車両や一部三元系採用LiBとの代替も始まるとみられ、2045年の市場は2023年比4,491.0倍が予測されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の国内市場を1兆7,944億円（2023年比1.9%増）と推計",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池向けの固体電解質市場、2030年以降に急加速か：酸化物系は4022億円規模に拡大 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "酸化物系は4022億円規模に拡大",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、2045年の世界市場は硫化物系固体電解質が7553億円、酸化物系固体電解質が4022億円の規模に達すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "このため、硫化物系固体電解質もサンプルや試験用の出荷にとどまっており、2025年の市場規模は91億円と小さい",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたことから、2045年には硫化物系固体電解質の市場規模が、7553億円に達すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、酸化物系全固体電解質は、中国メーカーが疑似固体電池向けに量産を始めており、2025年は634億円の市場規模を見込む",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年以降も、疑似固体電池の普及率向上や性能改善によって、酸化物系全固体電解質市場は拡大",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2045年には4022億円の市場規模になると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目しているがSiCウエハー市場で、2024年の1436億円に対し、2035年は6195億円と約4.3倍に拡大すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済はパワー半導体の世界市場を調査、2035年には7兆7710億円規模に達すると発表した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に比べ2.3倍の市場規模となる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は電気自動車（EV）の需要鈍化などで在庫を抱えたが、長期的には電動車の普及拡大などにより、パワー半導体市場は大きく伸びると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代電池市場が2045年に10兆2472億円規模へ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "これによると、全固体電池を中心に次世代電池の世界市場規模は、2024年見込みの1218億円に対し、2045年は10兆2472億円規模に達すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "上限1,205億円（全固体電池関係は内数）",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池市場は2030年に向けて急速な拡大が見込まれています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "ホンダは栃木県さくら市に約430億円を投資し、生産技術を検証する施設を建設中で、2025年1月の稼働を予定しています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "富士経済の調査によると、2045年の世界市場は8兆7065億円",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の市場は酸化物系が約99％、高分子系が1％を占め、硫化物系はわずかとなっています",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は1,158億円と、前年比4.0倍の伸びとされています",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "「全固体電池市場、2045年には世界で8兆円超に」",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "290億円を投資し、千葉事業所に自動車約1万台分相当となる100トン規模の製造ラインを立ち上げ、自動車メーカーや電池メーカーに供給する計画です",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、LG Energy Solutionと共同で約6100億円を投じて米国に工場を建設し、25年の量産開始を計画しています",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   },
+   {
+    "quote": "日米で最大7300億円を投資し、2024～26年の生産開始を予定しています",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "全固体電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の固体電池市場規模は、2025年には27億8000万米ドルと評価され、2026年の37億9000万米ドルから2034年には454億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "このセグメントは、年平均成長率（CAGR）36.5%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "この市場は年平均成長率（CAGR）35.6%で成長すると予想されています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池市場の規模は、2026年には37億9000万米ドルと評価され、2034年までに454億3000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%です",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）36.4%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー添加剤市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の世界市場規模、2026年222百万米ドルへ拡大 | Global info Research Co.,Ltdのプレスリリース",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の世界市場規模、2026年222百万米ドルへ拡大",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "2026年から2032年までの年平均成長率は88.2%と予測されている",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "Global Info Researchの最新レポートによると、2026年から2032年の予測期間において、市場規模は約895百万米ドルから39,760百万米ドルへ拡大する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "2027年時点ではまだ限定的な規模にとどまるが、2032年には23,459百万米ドル、全体の約59%に拡大すると予測される",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "世界トランポリン市場展望2026：CAGR7.9%で2032年343百万米ドル規模",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "トラックスケールの世界市場規模、2026年854百万米ドルへ拡大",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "ヒアルロン酸製品市場規模、2026年に10039百万米ドル拡大確実",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 62.7%",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 37.5%",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 39.98%",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Solid-State Battery Market worth $1.77 Billion by 2031, at a CAGR of 37.5% - Barchart.com, 11月",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.barchart.com/story/news/36033376/solid-state-battery-market-worth-1-77-billion-by-2031-at-a-cagr-of-37-5",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "このことから、2020年代後半から市場が急拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "2030年以降は、疑似固体電池の普及や全固体電池の市場化に加え、疑似固体電池の固体電解質比率の向上による性能改善に伴って市場が拡大するとみられる",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "～全固体電池世界市場は2040年で最大4.4兆円規模までの市場拡大を予測～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "本調査では硫化物系全固体電池市場予測において「成長率高めのAggressive予測」「成長率低めのConservative予測」の２つのシナリオに基づく予測を行った",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半に、xEV向けとして特に注目されている硫化物系全固体電池を採用した車両の発売が予想され、2030年に向けて普及が加速することから、以降は硫化物系全固体電池が市場拡大をけん引するとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "xEV向けを中心に酸化物系が増加しているため、2024年の市場は前年比4.0倍の1,158億円が見込まれます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半から、xEV向けで硫化物系の採用が本格化し、市場拡大に貢献すると予想されます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代は、LiBを下回るコストと層状酸化物系やポリアニオン化合物系を使用した正極材料による性能向上を実現することで、鉛蓄電池やLFP採用LiBの代替が期待され、順調に市場は拡大するとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池向けの固体電解質市場、2030年以降に急加速か：酸化物系は4022億円規模に拡大 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "酸化物系は4022億円規模に拡大",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車メーカーや電池メーカーは2027〜2030年にもEV向け硫化物系全固体電池の量産を始める計画であり、これを機に硫化物系固体電解質の市場も拡大する見通しである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年以降も、疑似固体電池の普及率向上や性能改善によって、酸化物系全固体電解質市場は拡大",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に注目しているがSiCウエハー市場で、2024年の1436億円に対し、2035年は6195億円と約4.3倍に拡大すると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "パワー半導体市場、25年後半に在庫が正常化 26年から成長拡大",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年は電気自動車（EV）の需要鈍化などで在庫を抱えたが、長期的には電動車の普及拡大などにより、パワー半導体市場は大きく伸びると予測した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "2040年にかけて急拡大",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池市場は2030年に向けて急速な拡大が見込まれています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "各社とも2025年から2030年にかけての市場拡大を見据え、量産技術の確立とコスト削減に注力しており、自動車用途以外にもIoT機器や医療機器など多様な分野での活用が期待されています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "2023年比で約299倍に拡大する見込みです(図2)",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模は1,158億円と、前年比4.0倍の伸びとされています",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "size is valued at USD 216.85 Million in 2025 and is expected to reach USD 1558.19 Million by 2035 and grow at a CAGR of 21.91% over the forecast period 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Market size is USD 47.36 Million in 2025 and is expected to reach USD 284.37 Million by 2035, growing at a CAGR of 14.95% over the forecast period of 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 21.91% From 2026 to 2035",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "The Solid-State Electrolyte market is expected to grow at a CAGR of 21.91% during 2026-2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "According to an analysis by Spherical Insights & Consulting, The Global Solid Electrolyte Market Was Valued At Around USD 34.62 Million In 2025 And Is Expected To Reach USD 152.82 Million By 2034, Growing At A CAGR Of 16.01% During The Forecast Period Of 2026–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The market is projected to register a CAGR of 16.01% during the forecast period from 2026 to 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: North America (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 31.8%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 31.8% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global solid state battery market is expected to grow at a compound annual growth rate of 31.8% from 2026 to 2033 to reach USD 15.7 billion by 2033.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Battery Electrolyte Market Size was estimated at 26.02 USD Billion in 2024. The Battery Electrolyte industry is projected to grow from 28.08 USD Billion in 2025 to 60.01 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.89% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "The Battery Electrolyte Market is poised for growth at 7.89% CAGR from 2025 to 2035, driven by advancements in electric vehicles, renewable energy storage, and consumer electronics.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the Battery Electrolyte Market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the Battery Electrolyte Market during the forecast period 2025 - 2035 is 7.89%.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "The global solid electrolyte market is gaining significant momentum as demand rises for safer, longer-lasting and higher-performance energy storage technologies. The market is projected to increase from USD 250 billion in 2026 to USD 954.9 billion by 2033, representing a compound annual growth rate of 21.10% during the forecast period.",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2036):",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "この市場における主要企業は、ロバート・ボッシュ、トヨタ自動車、ソリッド・パワー、エクセレーション・ソリッドステート、ブライト・ボルトである",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業ランキングと市場シェア：完成車・電池・材料が並走",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "現時点では、単一企業による寡占というよりも、既存の動力電池大手、自動車メーカー、新興技術企業がそれぞれ異なる強みを持って参入する梯隊型の競争構造である",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の動向",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとって、全固体電池市場の分析は、単なる電池技術の把握にとどまらず、新事業評価、海外市場参入、技術提携先の選定に直結する",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "材料、製造装置、検査装置、車載部品、商社機能を持つ企業は、どの用途・地域で量産投資が先行するかを把握することで、供給網上の参入余地を検討しやすくなる",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "トレーディングカードグローバル市場予測2026-2032：業界再編の兆候を捉える 主要企業シェア・新規参入リスク分析",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで分析する「主要な戦略グループ」の分類と主要プレイヤー",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "基準に基づき、主要プレイヤーを以下の",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "多くが化学、石油、ガラス、セラミックといった異業種の既存技術を応用して参入しています",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "という、主要プレイヤーの中で最も野心的なロードマップを公表しています",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の戦略ポジショニング比較表（マトリクス）",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "主要プレイヤーは、そのビジネスモデルとターゲット市場に基づき、",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、全固体電池の世界市場を調査し、種類別動向（硫化物系全固体電池、酸化物系全固体電池、高分子系全固体電池、半固体電池）、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「2025 次世代電池関連技術・市場の全貌」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年以降、参入メーカーが増加しています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "次世代電池参入事業者",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外企業も固体電解質の開発に参入しており、例えば以下の動きが知られています",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "中国では新興企業の全固体電池開発への参入が急増",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術革新の根幹には、材料科学の進展があり、自動車メーカーや電池メーカーのみならず、化学・半導体・セラミックス企業も開発に参入",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、2000年代に遅れて参入してきた中韓勢メーカーの積極的な投資と開発スピードに圧倒され、現在では立場が一変しています",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   },
+   {
+    "quote": "Increased R&D and Pilot Production: Major battery manufacturers and startups are scaling pilot lines and testing commercialization pathways.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key players operating in the global market include QuantumScape Corporation and Solid Power, among others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the solid state battery market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "SSome of the key players operating in the global solid state battery market include BrightVolt Solid-State Batteries; Hitachi Zosen Corporation; Ilika Ltd.; Ion Storage Systems; Panasonic Energy Co., Ltd.; QuantumScape Corporation; Samsung SDI Co., Ltd.; Solid Power; STMicroelectronics; Toyota Motor Corporation, and others.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "The Battery Electrolyte Market is currently characterized by a dynamic competitive landscape, driven by increasing demand for advanced energy storage solutions and the ongoing transition towards electric vehicles (EVs). Key players such as LG Chem (KR),",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Battery Electrolyte Market include",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the Battery Electrolyte Market?",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the Battery Electrolyte Market include LG Chem, BASF, Mitsubishi Chemical, and Samsung SDI.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "\"Solid Electrolyte Market Insights, Competitive Landscape, and Market Forecast - 2033\"",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "pass": 3
+   },
+   {
+    "quote": "Business Opportunities and Competitive Landscape",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "pass": 3
+   },
+   {
+    "quote": "The solid electrolyte market presents opportunities for established battery producers, automotive companies, material suppliers and technology startups. Strategic partnerships, joint ventures and research collaborations are becoming increasingly important as companies seek to shorten development timelines and establish scalable manufacturing processes.",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies include QuantumScape Corporation, Toyota Motor Corporation, Solid Power Inc., Samsung SDI Co. Ltd., LG Energy Solution Ltd., Ilika plc, Murata Manufacturing Co. Ltd., Hitachi Zosen Corporation, Panasonic Holdings Corp., and Narada Power.",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Research institutions and battery startups leading solid-state material development initiatives across Value (USD Million)ed Kingdom",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape of the Solid-State Battery Materials Market",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Solid-State Battery Materials Market",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "China has the clearest geographical advantage in the sample. Chinese startups accounted for 72% of financings, and Asia-Pacific represented more than 95% of disclosed investment in each of the final three quarters. US and European financing became much less visible after Q4 2025.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Technology preferences have been highly dependent on individual transactions. Hybrid solid-state batteries dominated Q1 investment through QingTao, all-solid-state cells led Q3 through INX, and sulfide electrolyte startups experienced a brief burst of deal activity in early 2026 without extending it into Q3.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Are solid-state battery startups raising smaller rounds these days?",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Are more solid-state battery startups getting funded every quarter?",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "The number of solid-state battery startups raising money has stayed almost flat since Q4 2025, despite dramatic changes in the amount invested.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Funding continues to reach a relatively small group of startups, with unusually large allocations to companies that investors believe can move toward manufacturing.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Are investors still funding new solid-state battery startups?",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "New solid-state battery startups are still receiving funding, but most recorded financings go to companies that have already raised money before.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Are sulfide electrolyte startups becoming the next solid-state battery funding hotspot?",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Sulfide electrolyte startups attracted a noticeable burst of investor activity in early 2026, but the category's momentum disappeared from the Q3 deal count.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": ", we look at what broke startups before you, so you don't repeat it.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   }
+  ],
+  "日本企業": [
+   {
+    "quote": "中国、日本、韓国といった主要経済国が市場をリードしており、トヨタ、サムスンSDI、CATLなどの企業が全固体電池技術に多額の投資を行っています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Email: japan@qyresearch.com；",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "Email: japan@qyresearch.com",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月、豊田市で、Toyota and Sumitomo Metal Miningは全固体電池向け正極材料の量産化に向けた協業を発表した",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への示唆",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業にとって、全固体電池市場の分析は、単なる電池技術の把握にとどまらず、新事業評価、海外市場参入、技術提携先の選定に直結する",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト：",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "日本半導体フォトレジスト市場：EUVリソグラフィ、先端材料、次世代半導...",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "、マクセル、村田製作所）",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気硝子",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "TDK 12",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "されており、単なる一企業の戦略を超え、日本のバッテリーサプライチェーンを強化する国策としての側面も持ちます",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "と同様、トヨタやパナソニックといった日本の「セルメーカー」への素材供給（水平分業）を目指す戦略が明確です",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "量産・検査装置」を世界で初めて開発・標準化した企業（例：日本の製造装置メーカー）になる可能性があります",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "技術課題と日本の勝ち筋",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.tdk.com/ja/tdknext/solution/cera_charge/index.html",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "年に量産開始 日本勢に先駆けて市場投入",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "総合マーケティングビジネスの株式会社富士経済（東京都中央区日本橋 社長 菊地 弘幸 03-3241-3470）は、本格的な実用化が期待される全固体電池や、全固体電池が普及するまでの過渡期に実用する半固体電池・疑似固体電池の性能の鍵を握る固体電解質の世界市場を調査した",
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富士経済は、酸化物系疑似固体電池やナトリウムイオン二次電池の実用化、日本自動車メーカーによる硫化物系全固体電池の量産化に向けた取り組み、エネルギー密度向上によるドローンなどへの採用の期待から注目が集まる次世代電池の世界市場を調査しました",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "2020年代後半からは、日本、韓国、欧州メーカーにおいて一部のxEV向けを対象に、大型の量産が始まり需要が本格化するとみられます",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池向けの固体電解質市場、2030年以降に急加速か：酸化物系は4022億円規模に拡大 - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "電源設計（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "SEMICON Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションは日本を救うのか",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "村田製、MLCCに1兆円投資 AIは「創業以来最大のチャンス」",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japanについて",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 日本でも、全固体リチウムイオン電池・固体電解質・硫化リチウムの製造プレイヤーが生産規模の拡大を図っている ところ",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 日本勢が市場を獲得して、全固体リチウムイオン電池の産業競争力を確保するためには、①キーマテリアルとなる固体電解質の生産規",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を日本として保持しつつ、迅速かつ大規模に全固体電池のサプライチェーンを拡大することで、市場を獲得することが重要ではないか",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "住友金属鉱山 正極材 高容量・低コストの全固体電池を実現する正極材料の開発",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 2020年に一般社団法人日本自動車研究所（JARI）の標準化委員会の中に「全固体電池SWG」が発足し、自動車や",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本が主導して、全固体リチウムイオン電池の性能や信頼性、",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "⚫ 具体的には、液系リチウムイオン電池を念頭に置いた標準のIEC62660（セル性能・安全性評価手法）に関して、日本がWGの審",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "として、日本から提案している液系リチウムイオン電池",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本を含む中国以外の市場でも",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "１．日本電池産業の未来 国が目指す姿、蓄電池産業戦略",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "７．日本電池トップと語る 日本の電池産業をリードするトップの企業戦略",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【講義名】 電池工学概論 ～日本の電池産業の未来を考える～",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の開発は日本企業がリードしており、トヨタと出光興産の共同開発が話題になっています（",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "固体電解質の開発では日本企業がリードしており、先述のトヨタ・出光の他にパナソニック、富士フイルム、住友化学などが開発を進めています",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "を用いて日本の特許出願上位5社を分析",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "チャートには「日本における出願件数の上位5社」を示しており、",
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "pass": 3
+   },
+   {
+    "quote": "注目の全固体電池メーカー・企業一覧【日本・世界】",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "日本の全固体電池メーカー｜トヨタ・日立など",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "日本勢も対抗して研究開発を加速させています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "住友化学や太陽誘電も、硫化物系や酸化物系材料の改良を進め、用途に応じた材料性能の最適化を図っています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "株式市場で注目の日本企業｜上場企業の一例紹介",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場では、複数の上場企業が全固体電池開発で注目を集めています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "TDKは小型全固体電池の製造技術に強みを持ち、IoTセンサー向けの超小型電池で市場シェアを拡大中です",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "住友化学は、国立大学法人京都大学、国立大学法人鳥取大学と共同開発した柔軟性のある新素材により、圧力を加えずに高容量の固体型電池を安定作動させることに成功しました",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "カナデビア株式会社（旧 日立造船）は、全固体リチウムイオン電池の研究開発に取り組んでおり、今後の幅広い展開が期待されています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "日本では2023年、経済産業省主導で「蓄電池の国際競争力強化に向けた研究会」が発足し、全固体電池を含む次世代電池の技術開発やサプライチェーン強化、国際標準化に向けた戦略が検討されています",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "この点において、日本は素材開発力と産学官連携に強みを持ち、エコシステム全体の整備が着実に進んでいます",
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池とは いつ実用化？関連する企業と役割を合わせて解説 | 知る-コラム | Money Canvas（マネーキャンバス） 三菱ＵＦＪ銀行",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "硫化物系については、2020年代後半から日本や韓国、欧州メーカーでEV向け等の量産が始まり、需要が本格化する見込みです",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の部材として、現在リチウム系固体電解質の開発が進んでいますが、日本国内では大量確保が容易でないなどの課題が挙げられます(図3)",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "全固体電池市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "固体電池市場の規模、シェア、トレンド分析レポート：タイプ別（薄膜電池、バルク電池）、容量別（20mAh未満、20mAh～500mAh、500mAh超）、カテゴリー別（単セル電池、多セル電池）、用途別（民生用・携帯用電子機器、電気自動車、エネルギーハーベスティング、ウェアラブル機器・医療機器、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に42.6%の市場シェアを占め、固体電池市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "20mAh～500mAhの容量セグメントは、世界の固体電池市場で最大のシェアを占めています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "500mAh以上のセグメントは、電気自動車市場における固体電池の使用増加により、2021年に19.6%の市場シェアを獲得しました",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "ウェアラブル機器および医療機器は、市場シェア第2位を占めています",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の全固体電池市場において、最大のシェアを占める地域はどこだったでしょうか？",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に42.6%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "移動式エネルギー貯蔵システム市場規模、市場シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリーセパレーターコーティング市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "正極活物質リサイクル市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "電池グレード硫酸マンガン市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "リチウムビス（FSI）電解質塩市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "2027年時点では新エネルギー車用途が市場の大半を占め、2032年には35,781百万米ドル、全体の約90%を構成する見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "中国市場は2027年時点で約375百万米ドル、世界の約44.75%を占める一方、2032年には10,375百万米ドル、約26.10%となる見通しである",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "トレーディングカードグローバル市場予測2026-2032：業界再編の兆候を捉える 主要企業シェア・新規参入リスク分析",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "pass": 3
+   },
+   {
+    "quote": "CATL（寧徳時代）の知財戦略：221億元の研究開発と5万件超特許で支える電池首位の技術基盤",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本記事以外にも、より詳細な市場構造、市場シェア、参入企業動向などをお知りになりたい方は、「2025 次世代電池関連技術・市場の全貌」をご購入の上、ご覧いただければ幸いです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "現状、市場は約99%を酸化物系、1%を高分子系が占め、硫化物系はわずかです",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "疑似固体電池の開発・実用化が進展しており、現状では市場の9割強を占めています",
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "pass": 3
+   },
+   {
+    "quote": "約３割を占める",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "足下では酸化物系が大宗を占めるが、2040年頃には硫化物系の割合が増加する見通し",
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在の市場は酸化物系が約99％、高分子系が1％を占め、硫化物系はわずかとなっています",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "全固体電池の材料について2022年の主要輸出国を見ると、炭酸リチウムは世界の輸出量の74％をチリが占め、水酸化リチウムは中国が69％を占めています",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の輸入相手国を見ると、炭酸リチウムはチリが56％を占め、水酸化リチウムにいたっては86％が中国からとなっています(図5)",
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年1～9月の世界のEV向けバッテリー市場でのシェアは下記のような数字と順位になっています",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本メーカーは4位に入り健闘していますが、パナソニック1社のみであり、上位は中韓勢が占めている状況です",
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "pass": 3
+   },
+   {
+    "quote": "By Material Type: In 2025, sulfide-based solid electrolytes dominated with 55% share; polymer-based electrolytes are the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "By Battery Type: In 2025, lithium-based solid-state batteries dominated with 60% share; sodium-based solid-state batteries are the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "By Application: In 2025, electric vehicles dominated with 50% share; energy storage systems are the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "By End-User Industry: In 2025, automotive dominated with 45% share; energy & utilities is the fastest-growing segment during 2026–2035.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the Solid-State Electrolyte market in 2025.",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "pass": 3
+   },
+   {
+    "quote": "By battery type: Thin film batteries held the largest market share of over 89.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "By capacity: 20mAh-500mAh segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "The thin film batteries held the highest market share of over 89.0% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated with a revenue share of 54.0% in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "The 20 mAh - 500 mAh capacity segment dominates the market, while below 20 mAh capacity is the fastest-growing segment.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "The consumer & portable electronics segment held the highest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "pass": 3
+   },
+   {
+    "quote": "Solid State Battery Materials Market Europe Country Market Share Analysis, 2026 & 2036 | Source: Fact.MR",
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "pass": 3
+   },
+   {
+    "quote": "The apparent boom in Q1 2026 was overwhelmingly a QingTao story. Its approximately $275 million Series H accounted for 81.3% of quarterly investment, despite deal count remaining unchanged at six.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "The Q3 recovery was similarly concentrated. INX Technology raised more than $100 million, representing approximately 90% of disclosed capital. Excluding rounds above $50 million, quarterly investment actually fell 75% from Q2.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Funding continues to favor companies with established financing histories. Follow-on investments represented 80% of all transactions, while first financings accounted for just five rounds. The biggest checks went to developers pursuing manufacturing expansion, commercialization or public-market readiness.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "China has the clearest geographical advantage in the sample. Chinese startups accounted for 72% of financings, and Asia-Pacific represented more than 95% of disclosed investment in each of the final three quarters. US and European financing became much less visible after Q4 2025.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Technology preferences have been highly dependent on individual transactions. Hybrid solid-state batteries dominated Q1 investment through QingTao, all-solid-state cells led Q3 through INX, and sulfide electrolyte startups experienced a brief burst of deal activity in early 2026 without extending it into Q3.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Those swings mainly came from a few large rounds. QingTao accounted for 81% of Q1 2026 investment, while INX Technology represented approximately 90% of Q3's disclosed total.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Investment rose 149% from Q2 to at least $111.2 million. However, one Series B financing of more than $100 million accounted for approximately 90% of that total.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Q1's $338.3 million total depended heavily on one developer, while Q3's $111.2 million floor was similarly concentrated. The number of companies receiving capital changed very little even when quarterly investment doubled or tripled.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Later-stage transactions subsequently accounted for 20% of Q2 deals and 16.7% in Q3, although unknown stages complicate both quarters.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "QingTao's Series H dominated Q1, while Hylicreate's approximately $29 million round accounted for most of Q2's hybrid funding.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese companies accounted for 18 of the 25 transactions, representing 72% of the total.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific represented every deal in Q1 2026, 80% of Q2 transactions and 83% of Q3 activity. Its share of disclosed capital exceeded 95% in both Q2 and Q3, after accounting for all of Q1's investment.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "The concentration has a clear industrial dimension. QingTao's large private financing was followed by an IPO filing, while INX secured funding for a 3 GWh manufacturing expansion. Talent New Energy was also raising money to advance battery commercialization and production.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Record venture funding in 2026 has been increasingly concentrated in massive AI rounds, while seed- and early-stage deal counts are on the decline...",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Funding is heavily concentrated. QuantumScape, Solid Power, SES AI, and ProLogium account for approximately 70.6% of the identified capital, although SES AI belongs to the broader lithium-metal battery category rather than the strictly all-solid-state segment.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Public markets have played an enormous role in this concentration. QuantumScape raised approximately $392.7 million in net proceeds through at-the-market share sales during 2024 and 2025, while Solid Power secured another $130 million through a registered direct offering in January 2026.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "According to QuantumScape's 2025 Form 10-K, the company generated approximately $128.5 million in net proceeds through at-the-market share sales in 2024 and another $264.2 million in 2025. That's $392.7 million across two years, equivalent to about 18% of its reported cumulative identifiable equity funding.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "QuantumScape raised approximately $264.2 million net through at-the-market share sales in 2025. Those proceeds accumulated across transactions rather than through a single venture round.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Lithium-metal battery technologies dominate the largest funding positions in our dataset, with QuantumScape alone accounting for at least $2.18 billion.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "By 2030, the strongest solid-state battery companies may have commercial products and important automotive customers. That would be a major achievement even if conventional lithium-ion batteries still dominate global vehicle production.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "全固体電池 向けの 固体電解質市場 、2030年以降に急加速か — 全固体電池 向けの 固体電解質市場 、2030年以降に急加速か EE Times Japan https://eetimes.itmedia.co.jp > articles > news037",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "pass": 3
+   },
+   {
+    "quote": "固体電解質 - メーカー・ 企業 6社の業務用製品ランキング — 固体電解質 - メーカー・ 企業 6社の業務用製品ランキング 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 固体電解質",
+    "url": "https://mono.ipros.com/cg2/%E5%9B%BA%E4%BD%93%E9%9B%BB%E8%A7%A3%E8%B3%AA/",
+    "pass": 3
+   },
+   {
+    "quote": "Solid Electrolyte Market Segments & Size 2031 — Solid Electrolyte Market Segments & Size 2031 Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/solid-electrolyte-market",
+    "pass": 3
+   },
+   {
+    "quote": "Global Solid Electrolyte Market to Surge at 69.7% CAGR ... — Global Solid Electrolyte Market to Surge at 69.7% CAGR ... PR Newswire https://www.prnewswire.com > global...",
+    "url": "https://www.prnewswire.com/news-releases/global-solid-electrolyte-market-to-surge-at-69-7-cagr-driven-by-ev-adoption-and-solid-state-batteries--valuates-reports-302644836.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "3M announced a $100 million investment to build a new research and development facility in the US focused on innovative battery electrolyte solutions for electric vehicles and energy storage.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Q2 2025: CATL Announces $200 Million Investment in Battery Electrolyte Market Production Expansion",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "CATL revealed a $200 million investment to expand its battery electrolyte production capacity, responding to increased demand from global electric vehicle manufacturers.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Q3 2025: Sionic Energy Raises $50 Million Series B Funding to Scale Battery Electrolyte Market Technology",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "Sionic Energy secured $50 million in Series B funding to accelerate the development and commercialization of its advanced battery electrolyte technology for electric vehicles.",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "pass": 3
+   },
+   {
+    "quote": "With electric mobility, consumer electronics and renewable energy storage continuing to expand, the global solid electrolyte market is positioned for sustained growth through 2033. Ongoing innovation, manufacturing investment and cross-industry collaboration will remain central to the commercial adoption of solid-state battery technologies.",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "pass": 3
+   },
+   {
+    "quote": "Solid-state battery startup funding did not show sustained quarter-by-quarter growth between Q3 2025 and Q3 2026. Deal volume stabilized at five or six financings per quarter, while investment totals swung dramatically because of a handful of exceptionally large rounds.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Across five quarters, we tracked 25 financings involving 24 companies, worth at least $696 million. Quarterly funding climbed from $30.2 million in Q3 2025 to $338.3 million in Q1 2026, collapsed to $44.7 million in Q2, then recovered to at least $111.2 million in Q3.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "The apparent boom in Q1 2026 was overwhelmingly a QingTao story. Its approximately $275 million Series H accounted for 81.3% of quarterly investment, despite deal count remaining unchanged at six.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "The Q3 recovery was similarly concentrated. INX Technology raised more than $100 million, representing approximately 90% of disclosed capital. Excluding rounds above $50 million, quarterly investment actually fell 75% from Q2.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Funding continues to favor companies with established financing histories. Follow-on investments represented 80% of all transactions, while first financings accounted for just five rounds. The biggest checks went to developers pursuing manufacturing expansion, commercialization or public-market readiness.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "China has the clearest geographical advantage in the sample. Chinese startups accounted for 72% of financings, and Asia-Pacific represented more than 95% of disclosed investment in each of the final three quarters. US and European financing became much less visible after Q4 2025.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Technology preferences have been highly dependent on individual transactions. Hybrid solid-state batteries dominated Q1 investment through QingTao, all-solid-state cells led Q3 through INX, and sulfide electrolyte startups experienced a brief burst of deal activity in early 2026 without extending it into Q3.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "pass": 3
+   },
+   {
+    "quote": "Seventeen US and European solid-state battery startups have raised a combined $4.2 billion in funding, but they're at wildly different stages of commercial readiness.",
+    "url": "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "pass": 3
+   },
+   {
+    "quote": ", a spin-out from TNO's Holst Centre in the Netherlands, raised €15 million in February 2024 to scale its 3D solid-state battery architecture. The technology uses billions of micropillars coated with battery materials to create high surface area and short ion transport distances, enabling ultra-fast charging. The approach is clever but unproven at automotive scale.",
+    "url": "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "The Toyota-Idemitsu Kosan partnership announced in June 2025 represents the most significant sulfide supply chain development. Idemitsu's ¥21.3 billion ($142 million) investment will build dedicated lithium sulfide production capacity with Toyota as anchor customer for the 2027-2028 commercial launch. This vertical integration gives Toyota supply security that merchant-market purchasers will lack.",
+    "url": "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "Solid Ionics (Korea) operates a lithium sulfide production facility with patents on sulfide precursor synthesis. Samyang Corporation invested 5.9 billion won in the company, which is building a 1,200-ton Ulsan plant targeted for 2027 operation, creating a Korean supply alternative to Japanese dominance.",
+    "url": "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "pass": 3
+   },
+   {
+    "quote": "Venture investors are charged up about how to power this generation—and the next one—of electric vehicles. Venture funding for EV battery-related technology surged last year, and 2022 seems ready to pick up where it left off.",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2021, EV battery startups—both hardware and software companies—raised more than $3.6 billion, according to Crunchbase data. Even subtracting the more than $3 billion raised by Chinese battery cell manufacturing giant",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": ", the remaining total is nearly triple the $174.7 million raised in 2020, according to Crunchbase.",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "raised a $130 million Series B led by the",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "that Ford is planning additional investments of up to $20 billion into electric vehicles over the next five to 10 years.",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "His 3-year-old company has raised more than $15 million in venture funding to date and he is amazed by the interest the space is seeing, but also believes more ideas are needed.",
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "QuantumScape is the most-funded solid-state battery startup in our ranking, with at least $2.18 billion in cumulative identifiable equity financing. It has raised almost four times as much as Solid Power, its nearest competitor, and accounts for approximately 40% of the $5.44 billion reconstructed across 18 companies with quantified funding totals.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Funding is heavily concentrated. QuantumScape, Solid Power, SES AI, and ProLogium account for approximately 70.6% of the identified capital, although SES AI belongs to the broader lithium-metal battery category rather than the strictly all-solid-state segment.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Public markets have played an enormous role in this concentration. QuantumScape raised approximately $392.7 million in net proceeds through at-the-market share sales during 2024 and 2025, while Solid Power secured another $130 million through a registered direct offering in January 2026.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "Automakers are doing much of the strategic investing. Volkswagen backs QuantumScape, BMW and Ford have supported Solid Power, Mercedes-Benz and Stellantis have invested in Factorial, and LG Energy Solution led Sion Power's $75 million Series A.",
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "quote": "世界の固体電池市場規模は、2025年には27億8000万米ドルと評価され、2026年の37億9000万米ドルから2034年には454億3000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は36.4%となる見込みです"
+   },
+   {
+    "value": "36.5",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "quote": "このセグメントは、年平均成長率（CAGR）36.5%で成長すると予測されています"
+   },
+   {
+    "value": "35.6",
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "quote": "この市場は年平均成長率（CAGR）35.6%で成長すると予想されています"
+   },
+   {
+    "value": "88.2",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "quote": "2026年から2032年までの年平均成長率は88.2%と予測されている"
+   },
+   {
+    "value": "7.9",
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "quote": "世界トランポリン市場展望2026：CAGR7.9%で2032年343百万米ドル規模"
+   },
+   {
+    "value": "62.7",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "quote": "CAGR 62.7%"
+   },
+   {
+    "value": "37.5",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "quote": "CAGR 37.5%"
+   },
+   {
+    "value": "39.98",
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "quote": "CAGR 39.98%"
+   },
+   {
+    "value": "21.91",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "quote": "size is valued at USD 216.85 Million in 2025 and is expected to reach USD 1558.19 Million by 2035 and grow at a CAGR of 21.91% over the forecast period 2026-2035."
+   },
+   {
+    "value": "14.95",
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "quote": "Market size is USD 47.36 Million in 2025 and is expected to reach USD 284.37 Million by 2035, growing at a CAGR of 14.95% over the forecast period of 2026-2035."
+   },
+   {
+    "value": "16.01",
+    "url": "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "quote": "According to an analysis by Spherical Insights & Consulting, The Global Solid Electrolyte Market Was Valued At Around USD 34.62 Million In 2025 And Is Expected To Reach USD 152.82 Million By 2034, Growing At A CAGR Of 16.01% During The Forecast Period Of 2026–2035."
+   },
+   {
+    "value": "31.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "quote": "CAGR of 31.8% from 2026 to 2033"
+   },
+   {
+    "value": "7.89",
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "quote": "As per Market Research Future analysis, the Battery Electrolyte Market Size was estimated at 26.02 USD Billion in 2024. The Battery Electrolyte industry is projected to grow from 28.08 USD Billion in 2025 to 60.01 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.89% during t"
+   },
+   {
+    "value": "21.10",
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "quote": "The global solid electrolyte market is gaining significant momentum as demand rises for safer, longer-lasting and higher-performance energy storage technologies. The market is projected to increase from USD 250 billion in 2026 to USD 954.9 billion by 2033, representing a compound annual growth rate "
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-116332",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dreamnews.jp/press/0000362379",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wiseguyreports.com/ja/reports/oxide-based-solid-state-battery-market",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/categories/8284/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-next.jp/knowledge/technology/1208.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/solid-electrolyte-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/industry-reports/battery-electrolyte-market-100986",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchreports.com/reports/global-solid-state-electrolyte-sse-market-strategic-research-report?srsltid=AYCX9vKvNyG3XS2-4MnmBmiBP_B0rlA80S4px-jUwGO-TvfQ1Suw1mTC",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exactitudeconsultancy.com/reports/38515/solid-electrolyte-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://peterson.ventureradar.com/funding/%22solid-state%20battery%22",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "全固体電池用固体電解質 市場規模 年平均成長率",
+   "results": [
+    "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "https://www.fortunebusinessinsights.com/jp/%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-116332",
+    "https://www.dreamnews.jp/press/0000362379",
+    "https://www.wiseguyreports.com/ja/reports/oxide-based-solid-state-battery-market",
+    "https://www.techno-producer.com/ai-report/all-solid-state-battery-key-players-applications/",
+    "https://www.reportocean.co.jp/industry-reports/solid-state-battery-market",
+    "https://karthikwwz.gorillawiki.jp/entry/6233e66ed26cc9203cebf0a85ebd51b3",
+    "https://jp.linkedin.com/pulse/%E9%9B%BB%E6%B0%97%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0-%E5%B8%82%E5%A0%B4%E8%A6%8B%E9%80%9A%E3%81%97%E5%AE%8C%E5%85%A8%E7%94%A3%E6%A5%AD%E5%88%86%E6%9E%902026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4-lumivera-research-studio-yttve",
+    "https://www.gminsights.com/ja/industry-analysis/solid-state-battery-electrolyte-market",
+    "https://straitsresearch.com/jp/report/solid-state-battery-electrolyte-market"
+   ]
+  },
+  {
+   "query": "全固体電池用固体電解質 市場 予測 富士経済 OR 矢野経済 OR シーエムシー",
+   "results": [
+    "https://www.fuji-keizai.co.jp/press/detail.html?cid=25060&la=ja",
+    "https://www.yano.co.jp/press-release/show/press_id/4039?srsltid=AYCX9vIKm5H1ZBwfgntsk92EXWOSJcekSnOorwqKoMkjBhouCAB_E9mc",
+    "https://www.fkg-report.jp/market-trends/2025/2274.html",
+    "https://eetimes.itmedia.co.jp/ee/articles/2506/19/news037.html",
+    "https://www.fortunebusinessinsights.com/jp/%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0%E6%9D%90%E6%96%99%E5%B8%82%E5%A0%B4-116332",
+    "https://straitsresearch.com/jp/report/solid-state-battery-market",
+    "https://www.meti.go.jp/policy/mono_info_service/joho/conference/battery_strategy2/shiryo3-3.pdf",
+    "https://www.gminsights.com/ja/industry-analysis/solid-state-battery-electrolyte-market",
+    "https://x.com/FkgKoho/status/1938462295400845473",
+    "https://fkg-report.jp/"
+   ]
+  },
+  {
+   "query": "全固体電池用固体電解質 参入 企業 国内",
+   "results": [
+    "https://metoree.com/categories/8284/",
+    "https://www.techno-producer.com/column/solid-state-electrolyte/",
+    "https://giraffe-co.jp/monoty/column/science/archives/932",
+    "https://moneycanvas.bk.mufg.jp/know/column/9PBBFbyea6Wzrfl/",
+    "https://www.m-next.jp/knowledge/technology/1208.html",
+    "https://mono.ipros.com/cg2/%E5%9B%BA%E4%BD%93%E9%9B%BB%E8%A7%A3%E8%B3%AA/",
+    "https://www.nedo.go.jp/content/800029509.pdf",
+    "https://blog.kudopatent.com/wordpress/?p=1104",
+    "https://www.evorix.jp/blog/%E5%85%A8%E5%9B%BA%E4%BD%93%E9%9B%BB%E6%B1%A0-%E7%89%B9%E8%A8%B1%E5%87%BA%E9%A1%98-%E3%83%88%E3%83%A8%E3%82%BF-%E6%97%A5%E7%94%A3-%E7%9F%A5%E8%B2%A1%E6%88%A6%E4%BA%89",
+    "https://nagasawa-associates.com/insights/global-macro/notes/japan-ssb-tech-by-stage"
+   ]
+  },
+  {
+   "query": "solid electrolyte market size CAGR 2025",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/solid-electrolyte-market",
+    "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "https://www.fortunebusinessinsights.com/industry-reports/battery-electrolyte-market-100986",
+    "https://www.sphericalinsights.com/blogs/solid-electrolyte-market-global-share-market-size-revenue-report-2026-2035",
+    "https://www.grandviewresearch.com/industry-analysis/solid-state-battery-market",
+    "https://www.prnewswire.com/news-releases/global-solid-electrolyte-market-to-surge-at-69-7-cagr-driven-by-ev-adoption-and-solid-state-batteries--valuates-reports-302644836.html",
+    "https://www.precedenceresearch.com/battery-electrolyte-market",
+    "https://www.marketresearchfuture.com/reports/solid-state-battery-market-8484",
+    "https://www.linkedin.com/pulse/outlook-solid-electrolyte-market-2026-2033-competitive-insights-kq4he",
+    "https://dataintelo.com/report/global-solid-electrolyte-market"
+   ]
+  },
+  {
+   "query": "solid electrolyte market key players competitive landscape",
+   "results": [
+    "https://www.mordorintelligence.com/industry-reports/solid-electrolyte-market",
+    "https://www.fortunebusinessinsights.com/industry-reports/battery-electrolyte-market-100986",
+    "https://www.snsinsider.com/reports/solid-state-electrolyte-market-9673",
+    "https://www.marketresearchreports.com/reports/global-solid-state-electrolyte-sse-market-strategic-research-report?srsltid=AYCX9vKvNyG3XS2-4MnmBmiBP_B0rlA80S4px-jUwGO-TvfQ1Suw1mTC",
+    "https://www.linkedin.com/pulse/competitive-landscape-analysis-solid-state-batteries-electric-nirsf",
+    "https://www.marketresearchfuture.com/reports/battery-electrolyte-market-23146",
+    "https://uk.finance.yahoo.com/news/global-solid-electrolytes-market-outlook-081900173.html",
+    "https://www.factmr.com/report/solid-state-battery-materials-market",
+    "https://exactitudeconsultancy.com/reports/38515/solid-electrolyte-market",
+    "https://www.researchandmarkets.com/reports/6233371/solid-electrolyte-market-insights-competitive"
+   ]
+  },
+  {
+   "query": "solid electrolyte startup funding 2025",
+   "results": [
+    "https://newmarketpitch.com/blogs/news/solid-state-battery-funding-deals",
+    "https://cypris.ai/insights/solid-state-battery-electrolyte-materials-startups-suppliers-and-patent-landscape",
+    "https://news.crunchbase.com/transportation/ev-battery-startups-vc-funding/",
+    "https://newmarketpitch.com/blogs/news/solid-state-battery-top-startups-fundraising",
+    "https://peterson.ventureradar.com/funding/%22solid-state%20battery%22",
+    "https://tracxn.com/d/trending-business-models/startups-in-battery-electrolytes/__f7aE-s3R6DO0e0_XzNiz6M6hCSPOv6wWMXlbQalQl0c/companies",
+    "https://www.greencarreports.com/news/1095858_samsung-leads-funding-round-for-seeo-solid-state-battery-startup",
+    "https://www.youtube.com/watch?v=8KTc8n229no",
+    "https://seedtable.com/best-solid-state-battery-startups",
+    "https://www.ventureradar.com/funding/Solid+state+electrolytes"
+   ]
+  }
+ ],
+ "missing": {}
+}

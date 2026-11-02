@@ -1,0 +1,1756 @@
+{
+ "name": "トヨクモ",
+ "aliases": [],
+ "context": "証券コード4058／情報・通信業／グロース（内国株式）／2025.12期 売上高4,858百万円 営業利益率33.1%",
+ "researched_at": "2026-11-02T14:54:17.190729+00:00",
+ "official_url": "https://www.toyokumo.co.jp/",
+ "identified_by": "search:yahoo_jp:トヨクモ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2010年8月",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2010年8月",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "クラウドサービスの開発/提供、新サービスの開発と運用",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ベンチャー事業　新サービスの開発と運用　投資事業　未公開企業への投資",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "7億6122万6000円 （2019年12月期） [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨクモ、7番目のkintone連携サービス『トヨクモ AIカメラ』を提供開始",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トヨクモ『安否確認サービス2』 「ITreview Grid Award 2026 Fall」で26期連続「Leader」を受賞",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ナレッジやノウハウを一元管理できるサービス",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスの開発/提供、新サービスの開発と運用",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "スマホ向け合成写真サービス「DrCrop」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「DrCrop」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「安否確認サービス」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンで行なう「営業報告サービス」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「フォームクリエイター」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン対応の「面接支援サービス」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "従業員スマートフォンを管理する「BYODサービス」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "Android端末を業務専用機にする「専用端末化サービス」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "Cloudサービスのアカウント管理を行なう「Cloudum」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「プリントクリエイター」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「BYODサービス」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「Cloudum」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「kViewer」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「kBackup」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「営業報告サービス」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「デジタルサイネージ」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「専用端末化サービス」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「面接支援サービス」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「タイムスタンプ」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「フォームブリッジ」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「kMailer」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「データコレクト」をリリース",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「フォームクリエイター」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "サイボウズkintone連携サービス「タイムスタンプ」のサービス提供を終了",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "ITの専門的な知識の有無に関係なく、 誰もが簡単に効率化できるシンプルなサービスを提供する",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、クラウドを使ったテクノロジーとアイデアで、すべての人を非効率な仕事から解放する、そんな製品をつくり続けます",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "情報サービスをとおして、",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "トヨクモは、ビジネス向けのクラウドサービスを提供するサービス企業です",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "「安否確認サービス」や「サイボウズkintoneに連携するサービス」、「スケジューラー」の提供を行なっております",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "ブームになるようなサービスの提供を目指すのではなく、企業文化となるようなサービスの提供にチャレンジし続けます",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "また、従来に無いサービス着眼点、簡単な操作、シンプルな機能と分かりやすいユーザーインターフェイスで、 日常的にパソコンやスマートフォンを活用していないIT初心者の方にとっても、安心して利用できるサービスを提供し、 企業における情報化の第一歩を支援したいと考えております",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "何でもできるが複雑で分かりにくいサービスではなく、 シンプルで誰でも使えるサービスを提供したいと考えています",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "シンプルで軽快かつ、信頼のおけるサービスを提供し続けるために、できる全てのことを突き詰めて行動してまいります",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、すべての人が情報を活用し、より豊かな社会生活ができるように、 誰でも利用できるクラウドサービスをより広く提供していきたいと考えています",
+    "url": "https://www.toyokumo.co.jp/aboutus/origin",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/aboutus/origin",
+    "pass": 1
+   },
+   {
+    "quote": "世の中のたくさんの人がトヨクモ製品を知ってくれること",
+    "url": "https://www.toyokumo.co.jp/aboutus/toyokumochan",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/aboutus/toyokumochan",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/aboutus/access",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "トヨクモ株式会社は、「すべての人を非効率な仕事から解放する」ことをミッションとして掲げ、「情報サービスをとおして、世界の豊かな社会生活の実現に貢献する」を企業理念とし、「ITの大衆化」の実現を目指しております",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは一過性のサービスの提供を目指すのではなく、企業文化となるようなサービスの提供にチャレンジし続けます",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、従来に無いサービス着眼点、簡単な操作、シンプルな機能と分かりやすいユーザーインターフェイスで、日常的にパソコンやスマートフォンを活用していないIT初心者の方にとっても、安心して利用できるサービスを提供し、企業における情報化の第一歩を支援したいと考えております",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "安否確認サービス2",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスについて",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "トヨクモ株式会社は、「すべての人を非効率な仕事から解放すること」をミッションとして掲げ、「情報サービスを通して、世界の豊かな社会生活の実現に貢献する」を企業理念とし、「ITの大衆化」の実現を目指しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "ミッション達成のため、当社グループでは誰でも利用できるような簡単な操作、必要不可欠なものに絞ったシンプルな機能のサービスを作り、低価格で提供しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのサービスは契約に先立って、30日間無料でサービスをお試しすることができます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "この短い期間のうちに、お客様がサービスの機能について習熟し、操作や設定を通じて業務改善を実感していただけるようなものであることを心がけています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "低価格でサービスを提供する企業が高収益を確保するためには、新しいサービスを開発し続けること、多くの契約を獲得することに加えて、コストを低く抑え、企業グループとして常に成長する必要があると考えています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "通常、サービスや契約が増加すると、営業やサポートのコストが比例して増えていきますが、それでは低価格のサービスを提供しながら高収益を確保することは困難です",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、見込み顧客に対して営業が訪問し、サービスを提案するようなフィールドセールスは原則行っていません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、TVCMをはじめとするマス広告、WEB広告をパーソナライズすることで、製品ページに訪問していただきトライアルしていただくビジネスモデルを採用しており、潜在顧客に対してメールや電話等でのインサイドセールスも原則行っておりません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "PLGを採用すると、SLGとは異なり、顧客が自ら製品を触れ、成功体験を通じて契約を決める流れになります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "経営陣紹介 - トヨクモ株式会社",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus/origin",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus/toyokumochan",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/aboutus/access",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/summary",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/monthly-info",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/results",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業活動とサステナビリティに向けた取り組みを紹介します",
+    "url": "https://www.toyokumo.co.jp/ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/contact",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー情報",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "⑥ 代理店販売の強化",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "客企業に販売する（直販）だけでなく、代理店等の販売パートナーを通した販売（間販）も",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に、販売パートナー向けの資料の充実をはじめ、パートナー企業への情報提供や支援を強化",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④ 代理店販売の強化",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る（直販）だけでなく、代理店等の販売パートナーを通した販売（間販）も行っておりま",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ナー向けの資料の充実をはじめ、パートナー企業への情報提供や支援を強化することで、当",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この動画では、当社の成長を支える「顧客起点のビジネスモデル」についてご紹介します",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "フルバージョンの本編では、会社概要や働き方など、より詳しい情報をご紹介しています",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ株式会社 | 会社紹介動画",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "• 【採用】トヨクモ株式会社 | 会社紹介動画",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クレア・ライフ・パートナーズ 工藤 将太郎 氏",
+    "url": "https://www.ceo-voice.com/interview/toyokumo.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本不動産パートナーズ 青木 晋市 氏",
+    "url": "https://www.ceo-voice.com/interview/toyokumo.html",
+    "pass": 3
+   },
+   {
+    "quote": "アルサーガパートナーズ株式会社 小俣 泰明 氏",
+    "url": "https://www.ceo-voice.com/interview/toyokumo.html",
+    "pass": 3
+   },
+   {
+    "quote": "「兵庫県加古川市の方が自らシステムを作り、それをほかの自治体に『こうやればすぐできる』と紹介してくれた",
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "pass": 3
+   },
+   {
+    "quote": "ユナイテッドアローズ、安否確認基盤を刷新--店舗状況もリアルタイム把握",
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2010年8月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2011年4月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2011年11月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2011年12月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2012年2月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2012年7月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2012年9月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2013年1月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2013年5月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2013年12月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年6月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年8月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年9月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2014年12月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2017年7月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2018年1月",
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2010年8月2日",
+    "url": "https://www.toyokumo.co.jp/aboutus/toyokumochan",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月16日より、FormBridgeの全コースで追加料金なしで提供を開始しています",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月26日",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1990年 4月 野村證券株式会社入社",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000年 1月 ドレスナー クラインオート ベンソン",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000年 4月 サイボウズ株式会社入社",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2001年 2月 サイボウズネットワークス株式会社 代",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2002年 4月 サイボウズ株式会社取締役",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2009年 2月 才望子信息技術（上海）有限公司董事",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年 8月 当社代表取締役社長",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年 11月 トヨクモクラウドコネクト株式会社取",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 3月 株式会社プロジェクト・モード取締役",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 7月 当社代表取締役社長兼マーケティング",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1992年 4月 株式会社住友銀行（現株式会社三井住",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2003年 10月 サイボウズ株式会社入社",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年 2月 同社執行役員経営管理本部長CFO",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年 8月 株式会社三光マーケティングフーズ執",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2011年 3月 同社執行役員経営管理本部長",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年 1月 日本管理センター株式会社（現株式会",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年 4月 同社上席執行役員ファイナンス＆アド",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年 2月 当社取締役",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2017年 1月 当社取締役経営管理本部長（現任）",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年に当社取締役に就任して以降、経営の重要な意思決定及び業務執行に対する監督を適切に行",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2013年 4月 システムズ・デザイン株式会社入社",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016年 3月 当社入社",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2018年 10月 当社執行役員開発本部長",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2020年 3月 当社取締役開発本部長（現任）",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月26日",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年１月１日から",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年12月31日まで)",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度は17兆1,000億円 になると予測（注４）されており、国内民間企業において DXへ",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年10月１日には 、実際の災害を想定し、安否確認サービスをご利用中のお客様のう",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年11月には、「kintone連携サービス」の各サービスに「テンプレートギャラリー」",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年12月には「kintone連携サービ",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年は1兆3,000億円だったクラウド基盤 （IaaS/PaaS（注６））サービスの売上高 は、",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "それは、絶えず変化していく時代を先取りし、「あったらいいな」とお客様が思うよりも先にご用意することで実現してまいります",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "また、従来に無いサービス着眼点、簡単な操作、シンプルな機能と分かりやすいユーザーインターフェイスで、 日常的にパソコンやスマートフォンを活用していないIT初心者の方にとっても、安心して利用できるサービスを提供し、 企業における情報化の第一歩を支援したいと考えております",
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "「素直な心でお客様と向き合う」",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "そしてお客様に新たな価値を提供できるビジネスをしたいと考えています",
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "pass": 1
+   },
+   {
+    "quote": "それは、絶えず変化していく時代を先取りし、「あったらいいな」とお客様が思うよりも先にご用意することで実現してまいります",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "また、従来に無いサービス着眼点、簡単な操作、シンプルな機能と分かりやすいユーザーインターフェイスで、日常的にパソコンやスマートフォンを活用していないIT初心者の方にとっても、安心して利用できるサービスを提供し、企業における情報化の第一歩を支援したいと考えております",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "この短い期間のうちに、お客様がサービスの機能について習熟し、操作や設定を通じて業務改善を実感していただけるようなものであることを心がけています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループでは、見込み顧客に対して営業が訪問し、サービスを提案するようなフィールドセールスは原則行っていません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、TVCMをはじめとするマス広告、WEB広告をパーソナライズすることで、製品ページに訪問していただきトライアルしていただくビジネスモデルを採用しており、潜在顧客に対してメールや電話等でのインサイドセールスも原則行っておりません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "PLGを採用すると、SLGとは異なり、顧客が自ら製品を触れ、成功体験を通じて契約を決める流れになります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、顧客が自らの意思で価値を実感し、納得して選択いただけるよう、検討フローにおけるストレスを徹底的に排除し、顧客の課題を簡単に解決できる環境を、プロダクト周辺に整備していく必要があります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社はその実現のために、「顧客起点」を前提とし、PLGに合わせて、以下の行動原則と価値原則を定めています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーに対して、検討フローにおけるストレスの徹底排除するために、",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "顧客が抱えている課題（Issue）に対し、解決したいと思った瞬間（Moment）に、解決できる価値（Value）を届ける",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "これらの原則を貫くことで、当社グループと顧客の双方が、本質的な業務にリソースを集中できる関係を築いていきたいと考えています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "利用者側が、サーバーやパソコンといったハードウェアを購入し、ソフトウェアをそれらにインストールして、データ等を含めて自社で運用、管理を行うことを「オンプレミス」といいます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "このタイプのサービスは利用者側で運用を行うため、カスタマイズの自由度が高いのが特徴です",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "一方、当社グループが開発/提供している「クラウドサービス」は、利用者側がパソコンやインターネットといった最低限度の環境を用意すれば利用することができます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "オンプレミスと比べてカスタマイズは制限されますが、クラウド化されたソフトウェアをダウンロードさえすれば、利用者側はハードウェアやソフトウェアなどの運用、管理をすることなく、場所や時間帯に左右されずにソフトウェアを利用することが可能になります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "毎月定額の利用料が収入になるため、季節要因等による収入の増減はあまりなく、新規ユーザーの獲得、既存顧客のアップセルやクロスセル（※）、既存顧客の解約を少なくすることで、売上高の安定した成長を実現することができます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのサービスのように、利用者がサービスを購入するのではなく、利用規約に同意し、サービスを一定期間利用できる権利を付与するモデルはサブスクリプションモデルと呼ばれています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "アップセル：ユーザーが当初利用していたグレードよりも上位のグレードに切り替えること",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "クロスセル：ユーザーが当初利用しているサービスに加えて、別のサービスも合わせて契約すること",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはストックビジネス、サブスクリプションモデルのため、新規ユーザーの獲得、既存顧客のアップセルやクロスセル、既存顧客の解約を少なくすることで、売上の安定した成長が実現できるためです",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "月次売上でも記載したように、売上の成長のためには新規ユーザーの獲得、既存顧客のアップセルやクロスセルと合わせて、既存顧客の解約を少なくすることが重要です",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループではお客様に長くご利用いただくために、電話やメールでの問い合わせへの対応に加えて、サービスのバージョンアップ、スタートアップガイドやヘルプページを充実させています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "月次売上の増加への貢献は新規ユーザーの獲得と既存顧客のクロスセルによるところが大きいため、有償契約数の増加が重要と考えています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "LTVはLife Time Valueの略称で、日本語では顧客生涯価値と訳されます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "LTVとは、一度契約を開始した顧客が契約を終了するまでの期間にどれだけ会社に収益をもたらしてくれるかを表す指標になります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "顧客は契約を開始すると、毎月定額の利用料金を解約するまで支払い続けます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、契約開始から解約までの期間が長ければ長いほど、顧客が支払う金額（＝収益）は大きくなります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社サービスが安定的なITインフラとして、安心してお客様に利用していただけるように、当社ではサービスの開発をしています",
+    "url": "https://www.toyokumo.co.jp/ir/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社の事業をとりまく経済状況の変化や顧客のニーズ及びユーザーの嗜好の変化、他社との競合、法規制の変更等、今後のさまざまな要因によって、実際の業績は業績予想とは、異なり得ることを予めご承知おきください",
+    "url": "https://www.toyokumo.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.toyokumo.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.toyokumo.co.jp/ir/disclaimer",
+    "pass": 1
+   },
+   {
+    "quote": "主な機能として「データベース」「コミュニケーション」「プロセス管理」があり、顧客管理、出張申請、業務日報など幅広い用途で活用できるため、現場主導の継続的な業務改善を実現します",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "社内はkintone、社外の人とのやりとりはトヨクモkintone連携サービスでお客様を「非効率な業務から解放する」ために、これからもサービスの開発・提供を続けて参ります",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "簡単な操作、シンプルな機能と分かりやすいユーザーインターフェースで、IT初心者の方にとっても安心して利用できるサービスを提供し、企業における情報化の第一歩を支援しています",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "▼ユーザー事例・製品情報・イベントなどトヨクモの最新情報をお届けしています",
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "pass": 1
+   },
+   {
+    "quote": "６. 矢野克尚氏は、過去10年間に当社の 特定関係事業者（主要な取引先）である株式会社大塚商会 の業",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "規顧客の獲得に努めてまいります",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サイボウズ株式会社は当社の大株主であり、当社の主要取引先でありますが、小川義龍",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 効果の及ぶ期間（７年）に基づく定額法によっております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの顧客との契約から生じる収益に関する主要な事業における主な履行義務の内容及び当該",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客と",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客が当社グループ経由でkintone等のライセンスを購入する場合において、当社グル",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ープが財又はサービスを提供元から顧客に提供されるように手配する義務の履行であると判断され代理人",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客関連資産 308",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のれん及び顧客関連資産を保有しており、これらはその効果が及ぶ期間にわたり償却しております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度においては、のれん及び顧客関連資産に係る減損損失は認識しておりません",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "書類において、のれん及び顧客関連資産の評価に重要な影響を与える可能性があります",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である売掛金は、顧客の信用リスクに晒されております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "イ. 信用リスク（取引先の契約不履行等に係るリスク）の管理",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、営業債権について取引先別に期日及び残高を管理しております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 4,858",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 4,858",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権(期首残高) 107",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じた債権(期末残高) 180",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) 顧客との契約から生じる収益を理解するための基礎となる情報",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "そのための方法は数多くあると思いますが、現経営陣は、シンプルなビジネスモデルを突き詰め、磨き続けることで一歩ずつ成長できるものと信じ、以下のようなビジネスサイクルを意識し、日々活動を続けてまいります",
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、TVCMをはじめとするマス広告、WEB広告をパーソナライズすることで、製品ページに訪問していただきトライアルしていただくビジネスモデルを採用しており、潜在顧客に対してメールや電話等でのインサイドセールスも原則行っておりません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、毎月の利用料金が積み上がっていくビジネスモデルはストックビジネスと呼ばれています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "逆に、飲食店や百貨店のようにモノが売れたタイミングでその都度売上が計上されるようなビジネスモデルはフロービジネスと呼ばれています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "は、当社のビジネスモデルである、IT初心者の方でも簡単で安価にご利用いただけるものとは",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社プロジェクト・モードはビジネスモデルが極めて当社に近く、当社ビジネスとの親和性は非",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【採用】顧客起点のビジネスモデル｜トヨクモ株式会社 - YouTube",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "【採用】顧客起点のビジネスモデル｜トヨクモ株式会社",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "この動画では、当社の成長を支える「顧客起点のビジネスモデル」についてご紹介します",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "サブスクリプションモデルとストックビジネス",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの収入源は、サービスの利用に伴い毎月発生する利用料と、サービス導入時等における一時的な手数料、大きく分けてこの二種類がありますが、当社グループの収入のおよそ9割が前者の毎月発生する利用料になります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "サービスは月額または年額のどちらかの契約になりますが、利用料は使用量などによって基本的に変動はせず、毎月定額となります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "毎月定額の利用料が収入になるため、季節要因等による収入の増減はあまりなく、新規ユーザーの獲得、既存顧客のアップセルやクロスセル（※）、既存顧客の解約を少なくすることで、売上高の安定した成長を実現することができます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループのサービスのように、利用者がサービスを購入するのではなく、利用規約に同意し、サービスを一定期間利用できる権利を付与するモデルはサブスクリプションモデルと呼ばれています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、毎月の利用料金が積み上がっていくビジネスモデルはストックビジネスと呼ばれています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループはストックビジネス、サブスクリプションモデルのため、新規ユーザーの獲得、既存顧客のアップセルやクロスセル、既存顧客の解約を少なくすることで、売上の安定した成長が実現できるためです",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの収益は、サービスの利用に伴い毎月発生する利用料と、サービス導入時等における一時的な手数料、大きく分けてこの二種類があります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "月次売上では利用料と手数料を合算した金額ですが、MRRは前者の利用料のみを集計した金額です",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "チャーンレート（解約率）",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "チャーンレートの算出ですが、現在開示しているものは12か月間の契約金額と解約金額の平均から算出しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "また、事業年度末時点での契約数と平均単価を業績ハイライトに参考値として開示しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "顧客は契約を開始すると、毎月定額の利用料金を解約するまで支払い続けます",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "言い換えると、チャーンレート（解約率）が低ければ低いほど、1契約あたりのLTVが大きくなります",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "LTVは、MRRを年間平均チャーンレートで割ることで算出しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "売上の増加とチャーンレートの低減によってLTVは大きくなるため、月次売上、チャーンレートと同様、LTVを重要な指標としています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "額を年額100百万円以内として、譲渡制限付株式を割り当てるための報酬であり、譲渡制限付株式の",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役 の報酬限度額 は、2020年３月27日開催 の第10回定時株主総会において 、年額",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社外取締役は年間1万株以内）、その報酬の総額は年額100 百万円以内（うち社外取締役は",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額10百万円以内）としております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬限度額は、2020年３月27日開催の第10回定時株主総会において 、年額30",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社の業績向上に対する意欲や士気を高めることを目的にストック",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、顧客が当社グループ経由でkintone等のライセンスを購入する場合において、当社グル",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "由でkintone等のライセンスを購入する場合において、当社が財又はサービスを提供元から顧客に提供",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "年額200百万円以内 （うち社外取締役分 は年額20百万円以内",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て年額100百万円以内 （うち社外取締役 は年額10百万円以内 ）といたします （上限株式数及 び上限",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注） ストック・オプションの行使により、発行済株式の総数が12,000株増加しております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "総数を年間10万株以内、その報酬の総額を年額100 百万円以内として 、譲渡制限付株式を割り当て",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役 の報酬限度額 は、2020年３月27日開催 の第10回定時株主総会において 、年額",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "酬の総額は年額100百万円以内としております",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "監査役の報酬限度額は、2020年３月27日開催の第10回定時株主総会において 、年額30",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社の業績向上に対する意欲や士気を高めることを目的にストック",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "由でkintone等のライセンスを購入する場合において、当社グループが財又はサービスを提供元から顧客",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "由でkintone等のライセンスを購入する場合において、当社が財又はサービスを提供元から顧客に提供",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に連携するkintone連携サービスを軸にしたサブスク型の堅実なビジネスで順調に売上を伸ばし、2020年に東証マザーズに上場を果たした",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "pass": 3
+   },
+   {
+    "quote": "情報サービス産業では、多くの企業が次々と新しい機能を発明し、高付加価値かつ高単価な製品を生み出すことに注力している",
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、Ziff Davisからのライセンスに基づき株式会社4Xが運営しています",
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "低価格でサービスを提供する企業が高収益を確保するためには、新しいサービスを開発し続けること、多くの契約を獲得することに加えて、コストを低く抑え、企業グループとして常に成長する必要があると考えています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "通常、サービスや契約が増加すると、営業やサポートのコストが比例して増えていきますが、それでは低価格のサービスを提供しながら高収益を確保することは困難です",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "このように無駄を省き、効率的に業務を行うことで、高収益を確保しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "変化し続ける環境の中で、効率的な業務を維持し、高収益を確保し続けるためには優秀な人材が欠かせません",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "このような少数精鋭の組織作りを行うことで、効率的な業務による高収益の確保と、優秀な人材の獲得及び高い給料の実現を目指しています",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "なお、当社グループは法人向けクラウドサービス事業の単一セグメントであるため、セグメ",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．当社グループは、「法人向けクラウドサービス事業」の単一セグメントであります",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループは法人向けクラウドサービス事業の単一セグメントであるため、セグメ",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．当社グループは、「法人向けクラウドサービス事業」の単一セグメントであります",
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業戦略 - トヨクモ株式会社 — トヨクモ株式会社は、「すべての人を非効率な仕事から解放する」をミッションとし、安否確認サービス2、kintone連携サービス、Toyokumo Schedulerなどを提供しています。",
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "pass": 3
+   },
+   {
+    "quote": "【採用】顧客起点のビジネスモデル｜トヨクモ株式会社 - YouTubeトヨクモ株式会社なぜトヨクモは堅実に伸びるのか？営業しない成長モデルの正体「売り込まない」戦略でSaaSを大衆化--トヨクモ山本CEOが語る日本企業...トヨクモ（4058）｜ストック型ビジネスによる安定的な収益基盤と、特...成長戦略が魅力のトヨクモが挑むビジネスモデルと今後の展望を徹底解... — Jun 28, 2026 · ご視聴いただき、誠にありがとうございます。トヨクモ株式会社の採用グループです。 この動画では、当社の成長を支える「顧客起点のビジネス ... トヨクモ株式会社は、「すべての人を非効率な仕事から解放する」をミッションとし、安否確認サービス2、kintone連携サービス、Toyokumo Schedulerなどを提供しています。 Feb 16, 2026 · 2月13日、トヨクモが2025年12月",
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ株式会社 — トヨクモ株式会社は、「すべての人を非効率な仕事から解放する」をミッションとし、安否確認サービス2、kintone連携サービス、Toyokumo Schedulerなどを提供しています。",
+    "url": "https://www.toyokumo.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜトヨクモは堅実に伸びるのか？営業しない成長モデルの正体 — Feb 16, 2026 · 2月13日、トヨクモが2025年12月期の本決算を発表しました！ 結果から言うと、過去最高を更新。 また数字以上に、事業そのものの強さが際立つ印象を受けました。 なぜ堅実に、成長を続けられるのか。 IR資料から紐解いていければと思います。",
+    "url": "https://note.com/gentle_alpaca91/n/nf5eab93386d0",
+    "pass": 3
+   },
+   {
+    "quote": "「売り込まない」戦略でSaaSを大衆化--トヨクモ山本CEOが語る日本企業... — Sep 10, 2026 · 営業主導型のSaaS市場において、製品の力で顧客を獲得する「PLG」を軸に急成長を遂げるトヨクモ。「売り込まない」独自のマーケティングモデル ...",
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "pass": 3
+   },
+   {
+    "quote": "IR - トヨクモ株式会社 — トヨクモ株式会社は、「すべての人を非効率な仕事から解放する」をミッションとし、安否確認サービス2、kintone連携サービス、Toyokumo Schedulerなどを提供しています。",
+    "url": "https://www.toyokumo.co.jp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ[4058]：2026年12月期 第2四半期 決算説明資料 2026年8月13日... — 2026年8月13日 トヨクモ[4058]の開示資料「2026年12月期 第2四半期 決算説明資料」 が閲覧できます。資料はPDFでダウンロードできます",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517283/",
+    "pass": 3
+   },
+   {
+    "quote": "[G－トヨクモ 4058.T] 2026年12月期 第2四半期 決算説明資料 — BigGo ... — Aug 13, 2026 · トヨクモ株式会社の2026年12月期第2四半期決算は、売上高29億3200万円（前年同期比30.5%増）、営業利益12億4600万円（同45.6%増）となり、中間期として過去最高を更新しました。",
+    "url": "https://finance.biggo.com/news/jpx_tdnet_140120260810517283",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ（4058）のIR情報・決算資料 - IRBANK — Aug 13, 2026 · トヨクモ（4058）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/4058/ir",
+    "pass": 3
+   },
+   {
+    "quote": "2025 12 1 決算説明資料 - jpx.co.jp — 555 ※本資料は、2023年は単体、2024年以降は連結の数値になります。 トヨクモ スケジューラーの売上はToyokumo kintoneApp等に含めています。 トヨクモクラウドコネクト、プロジェクト‧モードの売上はTCC‧PMに合算しています。",
+    "url": "https://www2.jpx.co.jp/disc/40580/140120250509539034.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ - Wikipedia — トヨクモ株式会社 （英: TOYOKUMO, Inc.）は、 スマートフォン 、 タブレット に向けたクラウドサービスを開発・提供しているSaaS企業である [2]。2019年に社名をサイボウズスタートアップス株式会社からトヨクモ株式会社に変更した。",
+    "url": "https://ja.wikipedia.org/wiki/トヨクモ",
+    "pass": 3
+   },
+   {
+    "quote": "4058 トヨクモ | 事業内容 - IR BANK — ※ トヨクモ スケジューラーの有償契約数はkintone連携サービス等に含めております。 当社サービスのチャーンレート (※)は以下のとおりです。 ※ チャーンレート:サービスにおける解約率を表す指標 [事業系統図] 有価証券報告書-第15期 (2024/01/01-2024/12/31)",
+    "url": "https://irbank.net/E35911/business",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ株式会社 有価証券報告書 全文（最新）｜事業内容・リスク・M... — トヨクモ株式会社（証券コード 40580）の有価証券報告書 全文（最新 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。",
+    "url": "https://edinetdb.jp/company/E35911/text",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ／山本 裕次社長「何をやるにも、お金ではなくて“知恵次第”」 — Jan 28, 2025 · トヨクモ株式会社 CEO・山本 裕次氏にインタビューしました。 最初は「お金持ちにならないといけないと強く思っていた」と語った山本氏。その仕事観の変遷を追う中で“働く上で本当に肝要なこと”が見えてくると同時に、山本氏の“時代の捉え方”も学ぶことができました。 若い世代が ...",
+    "url": "https://www.ceo-voice.com/interview/toyokumo.html",
+    "pass": 3
+   },
+   {
+    "quote": "「カンターン」突き詰め総合情報SaaSベンダーへ、トヨクモ山本社長が... — Apr 3, 2025 · 「カンターン トヨクモ」の広告展開で知られるSaaSベンダーのトヨクモ。2024年12月期決算では14期連続増収、5期連続増益を達成した。同社を2014年にMBOで独立させ、成長を持続させている山本裕次社長に戦略と次の一手を聞いた。",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00134/040100429/",
+    "pass": 3
+   },
+   {
+    "quote": "当社代表取締役社長・山本が『令和IPO企業特集』でインタビュー取材を... — Nov 21, 2023 · トヨクモ株式会社（本社：東京都品川区、代表取締役社長：山本 裕次、証券コード：4058）は、ビジネス向けのクラウドサービスを提供するサービス企業です。",
+    "url": "https://www.toyokumo.co.jp/en/2023/11/21/reiwa-ipo-yamamoto",
+    "pass": 3
+   },
+   {
+    "quote": "トヨクモ 山本社長｜世の中にアンテナを張り“ワクワク”しながら挑戦す... — Yuji Yamamoto・関西大学工学部卒業後、野村證券に入社。2002年、サイボウズに転職し取締役に就任。2010年より現職｜インタビュー企画「経営者と描くキャリア地図」",
+    "url": "https://careerpark-agent.jp/interview/281-2",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.toyokumo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus/philosophy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus/directors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus/origin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus/toyokumochan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/aboutus/access",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/monthly-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/results",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/2026/10/19/form-bridge-ai-direction",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20260304.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/document/convocation-notices/20250304.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/document/publicnotices/koukoku_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/document/publicnotices/pm_fr_notice_14.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.toyokumo.co.jp/document/publicnotices/pm_fr_notice_13.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceo-voice.com/interview/toyokumo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35252328/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トヨクモ",
+   "results": [
+    "https://www.toyokumo.co.jp/",
+    "https://www.kintoneapp.com/",
+    "https://x.com/toyokumo_",
+    "https://www.anpikakunin.com/",
+    "https://www.toyokumo.app/",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%AF%E3%83%A2",
+    "https://ja.wikipedia.org/wiki/トヨクモ",
+    "https://www.toyokumo.co.jp/aboutus",
+    "https://finance.yahoo.co.jp/quote/4058.T"
+   ]
+  },
+  {
+   "query": "トヨクモ ビジネスモデル",
+   "results": [
+    "https://www.toyokumo.co.jp/ir/strategy",
+    "https://www.youtube.com/watch?v=xH7_a9zOvKo",
+    "https://www.toyokumo.co.jp/",
+    "https://note.com/gentle_alpaca91/n/nf5eab93386d0",
+    "https://japan.zdnet.com/article/35252328/",
+    "https://stock-insights.net/articles/4058-snapshot-2026q2",
+    "https://consovation.com/成長戦略が魅力のトヨクモが挑むビジネスモデル/"
+   ]
+  },
+  {
+   "query": "トヨクモ 決算説明資料",
+   "results": [
+    "https://www.toyokumo.co.jp/ir",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260810517283/",
+    "https://finance.biggo.com/news/jpx_tdnet_140120260810517283",
+    "https://irbank.net/4058/ir",
+    "https://www2.jpx.co.jp/disc/40580/140120250509539034.pdf",
+    "https://www.toyokumo.co.jp/ir/summary",
+    "https://www.tomoku.co.jp/ir/library/presentation.html"
+   ]
+  },
+  {
+   "query": "トヨクモ 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/トヨクモ",
+    "https://www.toyokumo.co.jp/",
+    "https://irbank.net/E35911/business",
+    "https://www.toyokumo.co.jp/ir/strategy",
+    "https://edinetdb.jp/company/E35911/text",
+    "https://irbank.net/E35911/business?f=S100VFPA",
+    "https://www2.jpx.co.jp/disc/40580/140120260212558106.pdf"
+   ]
+  },
+  {
+   "query": "トヨクモ 社長 インタビュー",
+   "results": [
+    "https://www.ceo-voice.com/interview/toyokumo.html",
+    "https://japan.zdnet.com/article/35252328/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00134/040100429/",
+    "https://www.toyokumo.co.jp/en/2023/11/21/reiwa-ipo-yamamoto",
+    "https://careerpark-agent.jp/interview/281-2",
+    "https://www.toyokumo.co.jp/2023/11/21/reiwa-ipo-yamamoto",
+    "https://markezine.jp/article/detail/48619"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式21頁／PDF・画像5件／外部5頁・検索5回）"
+ }
+}

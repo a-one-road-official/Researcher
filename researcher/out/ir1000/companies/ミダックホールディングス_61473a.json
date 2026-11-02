@@ -1,0 +1,956 @@
+{
+ "name": "ミダックホールディングス",
+ "aliases": [],
+ "context": "証券コード6564／サービス業／プライム（内国株式）／2026.03期 売上高11,845百万円 営業利益率39.9%",
+ "researched_at": "2026-11-02T14:52:49.214874+00:00",
+ "official_url": "https://www.midac.jp/",
+ "identified_by": "search:yahoo_jp:ミダックホールディングス",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1952年4月1日",
+    "url": "https://www.midac.jp/company/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループ経営戦略の策定・経営管理（持株会社）",
+    "url": "https://www.midac.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業廃棄物の中間処理(中和、酸化・還元、凝集沈殿、油水分離、脱水) 特別管理産業廃棄物の中間処理(中和、酸化・還元、凝集沈殿)",
+    "url": "https://www.midac.jp/business/office/09.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "一般廃棄物、産業廃棄物、特別管理産業廃棄物の焼却処理　他",
+    "url": "https://www.midac.jp/business/office/04.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業廃棄物および特別管理産業廃棄物の中間処理(汚泥、燃え殻等の処理)",
+    "url": "https://www.midac.jp/business/office/03.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "汚泥のコンクリート固化",
+    "url": "https://www.midac.jp/business/office/06.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "産業廃棄物の中間処理(凝集沈殿、脱水、油水分離) 特別管理産業廃棄物の中間処理(凝集沈殿)",
+    "url": "https://www.midac.jp/business/office/05.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "廃プラスチック類、木くず、金属くず等の圧縮処理、破砕処理",
+    "url": "https://www.midac.jp/business/office/07.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "73名(2026年3月31日現在)",
+    "url": "https://www.midac.jp/company/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "1952年4月1日",
+    "url": "https://www.midac.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度～2026年度",
+    "url": "https://www.midac.jp/business/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度～2025年度",
+    "url": "https://www.midac.jp/business/measure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明資料",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信［日本基準］（連結）",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明資料",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算短信［日本基準］（連結）",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算説明資料",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算短信［日本基準］（連結）",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年2月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期定時株主総会",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第3四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期定時株主総会",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算短信の開示",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年のカーボンニュートラル社会実現を目指し、",
+    "url": "https://www.midac.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度は株式会社アルヌール様との共同研究として、数種類のフコキサンチン産生藻類の増殖性やフコキサンチン含量などを評価するなど、商用化に向けての第一歩を踏み出しました",
+    "url": "https://www.midac.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度からは、大量生産の実現に向け、培養槽の容量を拡大した実験、フコキサンチン抽出・精製の技術開発などを進め、研究を加速していきます",
+    "url": "https://www.midac.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度は約5,000MWhの電力をゼロ電力とし、およそ2,200tのCO",
+    "url": "https://www.midac.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.midac.jp/business/office/09.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年12月",
+    "url": "https://www.midac.jp/business/office/04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2001年12月",
+    "url": "https://www.midac.jp/business/office/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年2月",
+    "url": "https://www.midac.jp/business/office/06.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年1月",
+    "url": "https://www.midac.jp/business/office/05.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月",
+    "url": "https://www.midac.jp/business/office/07.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 呉松事業所 維持管理状況 （1/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "平成10年度以前の最終処分場であるため、適用除外となる",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 呉松事業所 維持管理状況 （2/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 呉松事業所 維持管理状況 （3/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 呉松事業所 維持管理状況 （1/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 呉松事業所 維持管理状況 （2/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 呉松事業所 維持管理状況 （3/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 呉松事業所 維持管理状況 （1/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 呉松事業所 維持管理状況 （2/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 呉松事業所 維持管理状況 （3/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 呉松事業所 維持管理状況 （1/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 呉松事業所 維持管理状況 （2/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 呉松事業所 維持管理状況 （3/3）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度 富士宮事業所 維持管理状況 （1/1）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/fujinomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度 富士宮事業所 維持管理状況 （1/1）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/fujinomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年度 富士宮事業所 維持管理状況 （1/1）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/fujinomiya.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年度 富士宮事業所 維持管理状況 （1/1）",
+    "url": "https://www.midac.jp/common/pdf/business/measure/fujinomiya.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス概要",
+    "url": "https://www.midac.jp/business/general.html",
+    "pass": 1
+   },
+   {
+    "quote": "付帯サービス",
+    "url": "https://www.midac.jp/business/general.html",
+    "pass": 1
+   },
+   {
+    "quote": "サービス概要",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "地域の皆様に愛される会社を目指し、常にサービス品質の向上を図っております",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他サービス",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミダックHD、リケンテクノス、早稲田大学と共同で、産業廃棄物の最終処分場で発生する浸出水由来の炭酸カルシウムを用いた樹脂製品を開発",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミダックグループ以外の処理業者のご紹介、 サービスの提供を行っています",
+    "url": "https://www.midac.jp/business/mediation/",
+    "pass": 1
+   },
+   {
+    "quote": "また、廃棄商品等について、容器と内容物を分離し、リサイクルが容易にできるようにする施設です",
+    "url": "https://www.midac.jp/business/office/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "燃え殻(水銀含有ばいじん等を含む)、汚泥(水銀使用製品産業廃棄物、水銀含有ばいじん等を含む)、廃プラスチック類(石綿含有産業廃棄物、水銀使用製品産業廃棄物を含む)、紙くず、木くず、繊維くず、金属くず(水銀使用製品産業廃棄物を含む)、ガラスくず・コンクリートくず及び陶磁器くず(石綿含有産業廃棄物、水銀使用製品産業廃棄物を含む)、鉱さい(水銀含有ばいじん等を含む)、がれき類(石綿含有産業廃棄物を含む)、ばいじん(水銀含有ばいじん等を含む)、政令第2条13号廃棄物",
+    "url": "https://www.midac.jp/business/office_disposal/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "「水銀用製品産業廃棄物」は許可外のため受入できません",
+    "url": "https://www.midac.jp/common/pdf/business/office_disposal/ukeirekijun_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販管費の削減と主力製品の大幅値上げが生む利益インパクト",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "主なものとして例を挙げますと、休日や勤務時間外におけるボランティア活動やエコグッズの使用、防犯グッズの購入、スーパーのお惣菜コーナーで売られている値引き商品の購入や保護動物の里親になるといった取り組みも従業員の発案で項目に入れられました",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   },
+   {
+    "quote": "エレビスタは「もっと\"もっとも\"を作る」をミッションに掲げ、太陽光発電投資売買サービス「SOLSEL」の運営をはじめとする「エネルギー×Tech」事業や、アドテクノロジー・メディアなどを駆使したwebマーケティング事業を展開しています",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のニーズに対応して少量より回収、適切な処理提案をさせていただきます",
+    "url": "https://www.midac.jp/business/office/",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店の生ごみ、オフィスの紙くずなど、店舗・オフィスの業務に係る様々なごみの回収をお客様のご要望に合わせて毎日回収いたしております",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに対応して少量より回収、適切な処理提案をさせていただきます",
+    "url": "https://www.midac.jp/business/office/06.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "店舗、オフィスのごみ回収",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "飲食店の生ごみ、オフィスの紙くずなど、店舗・オフィスの業務に係る様々なごみの回収をお客様のご要望に合わせて毎日回収いたしております",
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミダックのIR情報をご紹介します",
+    "url": "https://www.midac.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "9月8日放送、BSテレ東『日経モーニングプラスFT』でミダックホールディングスが紹介されました",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミダックグループ以外の処理業者のご紹介、 サービスの提供を行っています",
+    "url": "https://www.midac.jp/business/mediation/",
+    "pass": 1
+   },
+   {
+    "quote": "D2C→広告代理店→メディアの垂直統合とロールアップM&A",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "代理店の方はこちら",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "北浜法律事務所・河浪潤パートナー 弁護士「多様な法務の専門家がチームで支援」",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/010600615/",
+    "pass": 3
+   },
+   {
+    "quote": "子ども食堂とは？日本の貧困の現状や開催事例も紹介",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   },
+   {
+    "quote": "夫婦別姓とは？日本はいつから？なぜこだわるのか・メリット・デメリットを紹介！海外の状況や反対理由を解説",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   },
+   {
+    "quote": "氷河期世代とは？現在の年齢や特徴を紹介！見捨てたツケや一番ひどい・悲惨といわれる理由を徹底解説！",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   },
+   {
+    "quote": "内閣総理大臣の決め方は？指名の流れや誰がする？いつ変わるのか・国民投票できない理由を簡単に解説！",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストック・オプション（新株予約権）の発行内容確定に関するお知らせ",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "ストック・オプション（新株予約権）の発行に関するお知らせ",
+    "url": "https://www.midac.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率が30%を超える事業者は、限界費用がほぼゼロのソフトウェアビジネスや、一件あたりの単価が極めて高いM&A仲介業など、ごく一部の業種に限られます",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "単価が伸び続けるハードウェアSaaSフォトシンスの成長再加速とクロスセ...",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "売上成長率YoY+14.3%→+23.6%の再加速を実現するARPU牽引型の成長構造を読み解く",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年9月】リボンエナジーの評判は怪しい？変動単価で電気代が安くなる本当の理由と口コミ・メリット・デメリットを徹底検証",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "地域独占型のビジネスモデル",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益率が30%を超える事業者は、限界費用がほぼゼロのソフトウェアビジネスや、一件あたりの単価が極めて高いM&A仲介業など、ごく一部の業種に限られます",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率41.6%",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "足元の業績は売上高がYoY+14.2％の109.1億円、営業利益率は41.6%と極めて高い水準となっています",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "ミダックは同業の2倍以上の営業利益率",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "売上規模ではダイセキやTRE HDに大きく劣りますが、営業利益率は業界2位のダイセキの約2倍",
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みである廃棄物の一貫処理体制を強固にし、事業エリア拡大を図る上で不可欠な施策です",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/010600615/",
+    "pass": 3
+   },
+   {
+    "quote": "「水と大地と空気を次の世代に美しく渡すために廃棄物の適正処理を追求する」という経営理念のもと、廃棄物の収集運搬から中間処理、最終処分までの廃棄物一環処理体制を強みとしています",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IR情報 株主・投資家の皆様へ - ミダックホールディングス — IR情報 株主・投資家の皆様へ - ミダックホールディングス ミダックホールディングス https://www.midac.jp > message",
+    "url": "https://www.midac.jp/ir/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミダックホールディングス 代表取締役社長 加藤 恵子 — 株式会社 ミダックホールディングス 代表取締役社長 加藤 恵子 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/6060",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - ミダックホールディングス — 決算説明資料 - ミダックホールディングス ミダックホールディングス https://www.midac.jp > presentation",
+    "url": "https://www.midac.jp/ir/presentation.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ミダックホールディングス — IR情報 | ミダックホールディングス ミダックホールディングス https://www.midac.jp > ...",
+    "url": "https://www.midac.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ミダックホールディングス 】[6564]IR情報 ... - 日本経済新聞 — 【 ミダックホールディングス 】[6564]IR情報 ... - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6564",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミダックホールディングス 2027年3月期（1Q） 決算 ... — 株式会社 ミダックホールディングス 2027年3月期（1Q） 決算 ... finance-frontend-pc-dist.west.edge.storage-yahoo.jp PDF https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp > ...",
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260810/20260808515616.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - ミダックホールディングス — 組織図 - ミダックホールディングス ミダックホールディングス https://www.midac.jp > company > organization",
+    "url": "https://www.midac.jp/company/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - ミダックホールディングス — 会社概要 - ミダックホールディングス ミダックホールディングス https://www.midac.jp > company > profile",
+    "url": "https://www.midac.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミダックホールディングス — 株式会社 ミダックホールディングス しずキャリ https://sizcari.jp > portal > company",
+    "url": "https://sizcari.jp/portal/company/693/main",
+    "pass": 3
+   },
+   {
+    "quote": "ミダックホールディングス - 株式会社フィスコ — ミダックホールディングス - 株式会社フィスコ 株式会社フィスコ PDF https://www.fisco.co.jp > FISCO > midac20260709",
+    "url": "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/midac20260709.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミダックホールディングス ・加藤恵子 社長 「静脈産業の未来を ... — ミダックホールディングス ・加藤恵子 社長 「静脈産業の未来を ... 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/010600615/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミダックホールディングス 代表取締役 社長 加藤恵子 ... — 株式会社 ミダックホールディングス 代表取締役 社長 加藤恵子 ... spaceshipearth.jp https://spaceshipearth.jp > インタビュー",
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "pass": 3
+   },
+   {
+    "quote": "ミダックホールディングス 【6564】の 社長 ・役員 - キタイシホン — ミダックホールディングス 【6564】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6564/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ミダックホールディングス 加藤 社長 が考える事業戦略とは — ミダックホールディングス 加藤 社長 が考える事業戦略とは ZUU online https://zuuonline.com > archives",
+    "url": "https://zuuonline.com/archives/276567",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.midac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/general.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office_disposal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/vehicle.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/measure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/ir/news.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.midac.jp/ir/irlibrary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.midac.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.midac.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/mediation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/09.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office/07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office_disposal/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midac.jp/business/office_disposal/02.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.midac.jp/common/pdf/business/office_disposal/ukeirekijun.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.midac.jp/common/pdf/business/office_disposal/ukeirekijun_t.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.midac.jp/common/pdf/business/measure/kurematsu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.midac.jp/common/pdf/business/measure/fujinomiya.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_5.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img01_6.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img02_1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.midac.jp/common/img//business/index/img02_2.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/010600615/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spaceshipearth.jp/kato_keiko/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミダックホールディングス",
+   "results": [
+    "https://www.midac.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%80%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://www.midac-hd.com/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000f49B2",
+    "https://www.nikkei.com/nkd/company/?scode=6564",
+    "https://ja.wikipedia.org/wiki/ミダックホールディングス",
+    "https://midac.jp/company/profile.html",
+    "https://finance.yahoo.co.jp/quote/6564.T",
+    "https://shikiho.toyokeizai.net/stocks/6564/corporate"
+   ]
+  },
+  {
+   "query": "ミダックホールディングス ビジネスモデル",
+   "results": [
+    "https://www.midac.jp/ir/message.html",
+    "https://industrysafari.theletter.jp/posts/1a22dec8-8e45-44b7-8321-ffb1b4f914e6",
+    "https://shachomeikan.jp/industry_article/6060",
+    "https://minkabu.jp/news/4565606",
+    "https://kabutan.jp/news/marketnews/?b=n202607091079",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/midac20250821.pdf",
+    "https://note.com/iqoys/n/n8b161bbb4adc",
+    "https://jp.investing.com/news/stock-market-news/article-1597465",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250627/20250626500474.pdf",
+    "https://consovation.com/ミダックホールディングスの魅力に迫る-ビジネス/"
+   ]
+  },
+  {
+   "query": "ミダックホールディングス 決算説明資料",
+   "results": [
+    "https://www.midac.jp/ir/presentation.html",
+    "https://www.midac.jp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6564",
+    "https://www.buffett-code.com/company/6564/library",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260810/20260808515616.pdf",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/midac20260709.pdf",
+    "https://irbank.net/6564/ir",
+    "https://investalk.jp/6564/midac-2026-03-earnings/",
+    "https://www.amita-hd.co.jp/ir/meeting.html",
+    "https://edinetdb.jp/company/E33577/presentations/"
+   ]
+  },
+  {
+   "query": "ミダックホールディングス 事業系統図",
+   "results": [
+    "https://www.midac.jp/company/organization.html",
+    "https://www.midac.jp/company/profile.html",
+    "https://sizcari.jp/portal/company/693/main",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6564",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/midac20260709.pdf",
+    "https://kitaishihon.com/company/6564/management-strategy",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250627/20250626500474.pdf",
+    "https://www.nse.or.jp/listing/search/files/140120220311504510.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%80%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "https://ja.wikipedia.org/wiki/ミダックホールディングス"
+   ]
+  },
+  {
+   "query": "ミダックホールディングス 社長 インタビュー",
+   "results": [
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/010600615/",
+    "https://spaceshipearth.jp/kato_keiko/",
+    "https://kitaishihon.com/company/6564/board-of-director",
+    "https://www.midac.jp/company/profile.html",
+    "https://zuuonline.com/archives/276567",
+    "https://invest-n.jp/ir/1930/",
+    "https://shachomeikan.jp/industry_article/6060",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/112000474/",
+    "https://www.youtube.com/watch?v=UgVYdsofcwg",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/022400246/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像12件／外部3頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像12件／外部3頁・検索5回）"
+ }
+}

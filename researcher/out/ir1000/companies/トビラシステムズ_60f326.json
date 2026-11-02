@@ -1,0 +1,2090 @@
+{
+ "name": "トビラシステムズ",
+ "aliases": [],
+ "context": "証券コード4441／情報・通信業／スタンダード（内国株式）／2025.10期 売上高2,805百万円 営業利益率32.0%",
+ "researched_at": "2026-11-02T15:09:39.718414+00:00",
+ "official_url": "https://tobila.com/",
+ "identified_by": "search:ddgs:google:トビラシステムズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2006年12月1日（創業 2004年4月1日）",
+    "url": "https://tobila.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1984年6月1日",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2006年12月1日",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2006年 12月1日 [ 1 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "153名 うち技術部71名（約46%） 情報処理安全確保支援士 6名 （2026年7月末時点）",
+    "url": "https://tobila.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "71名（2022年10月31日現在） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "98.7％",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "99.4％",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "115.3％",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "20億61百万円（2023年10月期） [ 2 ]",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "迷惑情報フィルタサービス等",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/forinvestors/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/forinvestors/library/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/forinvestors/operating-results/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/forinvestors/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/forinvestors/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、社会問題の１つである特殊詐欺の対策に有効な製品・サービスとして、独自のノウハウで収集した迷惑電話番号や迷惑URLのリストを活用し、サービス利用者にとって未知の迷惑電話・迷惑SMSであっても自動的にフィルタされるサービスの展開や広告コンテンツをブロックするアプリの提供を行う「迷惑情報フィルタ」事業を基幹事業としています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "「迷惑情報フィルタ事業」の根幹となっている、迷惑情報データベースは、当社独自の機械学習サイクルを備えたデータベーステクノロジーを活用し、疑わしい電話番号やURLの情報を警察等の公的機関からの連携、サービス利用者からのフィードバック、インターネットでの情報収集等で網羅的に集積し、習慣性判定を行うAI技術で迷惑電話番号・迷惑URLを抽出し、迷惑情報リストを日々最新化しております",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "●お客様へのDX化支援",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "常に最新の迷惑電話・迷惑SMSの活動状況に関する調査を行うことを目的とし、当社の迷惑電話フィルタの利用者が行う着信許可・拒否登録、利用者のアプリやサービスから得られるログ情報、警察等の公的機関による情報提供、および当社の調査活動等、日々膨大なデータを収集・蓄積しています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "このような当社が持つテクノロジーを活用し、お客様のDX化支援に寄与したいと考えております",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "●月間利用者数",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数は、当社製品・サービスを利用しているユーザーのうち、電話番号リストの自動更新又はアプリの起動等により、当月に1回以上、当社サーバーへアクセスが行われたユーザー数です",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が事業を通じて特殊詐欺被害の撲滅に貢献するうえで、月間利用者数はひとつの重要なKPIです",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者数の増加により当社が獲得できる情報も拡大し、サービスの精度向上につながります",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジーの利活用はお客様へのサービス提供に限らず、会計や人事労務といったバックオフィス業務においても、業務のデジタル化を推進します",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "「株主優待進呈のご案内」に記載の「お客様のご優待コード」をご入力ください",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "営業時間や休業日などの自動音声アナウンスもユーザー側で設定でき、仕事とプライベートの時間を管理できます",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "導入企業の従業員は、「サギトレ」のシステム上で詐欺手口や注意すべきポイントを学ぶ教育コンテンツを視聴し、その後、実際の業務環境の中で疑似的な詐欺メール・SMSを受信します",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/news/info/p3133/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数 ｜トビラシステムズ株式会社",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "迷惑情報フィルタサービス月間利用者数の開示内容拡充及び開示頻度の変更にかかるお知らせ",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ株式会社は、独自のデータベースとアルゴリズムを活用し、特殊詐欺やフィッシング詐欺などの脅威から利用者を守る迷惑情報フィルタサービスを提供するセキュリティ・IT企業です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・ユーザーが安心してコミュニケーションできる環境の整備",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、同社独自の迷惑情報データベースには月間約1,500万人の利用者データが集約されており、信頼性の高い解析が行える仕組みが確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにキャリアやNTTグループとの連携により、膨大なユーザーから得られる情報を自社データベースに反映できるため、資産価値が継続的に高まっています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "さらにNTT東日本・西日本のセレクトショップにサービスが登録されることで、多くの法人顧客へのリーチを一気に高めています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれのチャンネルを通じて多様な顧客層にリーチできます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との関係",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "これらにより顧客満足度を高め、継続利用を促しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "迷惑電話やSMSは日常的に起こるため、使い勝手が悪かったりサポートが不十分だと、顧客離脱が起こりやすい領域だからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "そのためキャリア経由のサポート体制や、法人向けの確実な営業フォローを重視し、顧客との信頼関係を構築しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・モバイルユーザー（個人）",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・ビジネスフォンを利用する法人顧客",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・通信キャリア自体もライセンス提供先としての顧客",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "迷惑電話対策は幅広い利用者にとって必要性が高い一方で、個人と法人では求められる機能や料金プランが異なるからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者数が増えるほど、迷惑電話やSMSの報告データが集まり、同社独自の迷惑情報データベースがさらに正確かつ豊富になります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、フィルタリングサービスの精度が向上し、ユーザー満足度が上がり、さらに評判が広がって新規導入が進むという好循環が生まれます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "また、NTT東日本・西日本や大手キャリアとの協業が深まることで、より多くのユーザーや法人顧客にサービスを届けられる環境が整います",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "企業としても安定収益を確保しており、新規サービスや法人顧客向けの強化を図っているため、多種多様な職種で募集が行われる可能性があります",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "【11/17（火）開催】大塚商会主催イベント「ITソリューションフェア2026 秋 in 九州」に出展いたします",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ、法人向けサービス「トビラフォン Cloud」「サギトレ」をKDDI「Business Port」で提供開始",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズの製品・サービスは、人々が安心・安全に生活を送ることができる社会を目指します",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/forinvestors/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/forinvestors/library/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/forinvestors/operating-results/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/forinvestors/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/forinvestors/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "ホームゲートウェイ光電話向け迷惑電話フィルタを中部テレコミュニケーション株式会社の「あんしん電話着信サービス」として、オプション契約「光電話付加サービス 割引パックPlus」に含めて販売開始",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウド型ビジネスフォンサービス「トビラフォン Cloud」の販売を開始",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在はモバイルアプリや法人向けサービスなどにもその形を変化させながら、私たちが提供できる価値を探求し続けています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "DX推進のための製品サービスの提供に留まらず、 トビラシステムズが培ってきた技術を生かししながら、今後も持続的な成長の実現に向け、ステークホルダーと共に更なる成長を目指してまいります",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、社会問題の１つである特殊詐欺の対策に有効な製品・サービスとして、独自のノウハウで収集した迷惑電話番号や迷惑URLのリストを活用し、サービス利用者にとって未知の迷惑電話・迷惑SMSであっても自動的にフィルタされるサービスの展開や広告コンテンツをブロックするアプリの提供を行う「迷惑情報フィルタ」事業を基幹事業としています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "「迷惑情報フィルタ事業」の根幹となっている、迷惑情報データベースは、当社独自の機械学習サイクルを備えたデータベーステクノロジーを活用し、疑わしい電話番号やURLの情報を警察等の公的機関からの連携、サービス利用者からのフィードバック、インターネットでの情報収集等で網羅的に集積し、習慣性判定を行うAI技術で迷惑電話番号・迷惑URLを抽出し、迷惑情報リストを日々最新化しております",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "常に最新の迷惑電話・迷惑SMSの活動状況に関する調査を行うことを目的とし、当社の迷惑電話フィルタの利用者が行う着信許可・拒否登録、利用者のアプリやサービスから得られるログ情報、警察等の公的機関による情報提供、および当社の調査活動等、日々膨大なデータを収集・蓄積しています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "この迷惑情報の解析アルゴリズムを活用した迷惑情報データベースを、スマートフォン等のモバイル端末向けのアプリや固定電話・ビジネスフォン向けサービスの提供に活用しています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けの製品では迷惑情報データベースと合わせて、通話の利用状況や通話録音・音声テキスト化データなどをクラウド上で管理でき、通話を可視化することが可能です",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスチャットツールやオンライン会議システム、また自社サービスであるトビラフォン Cloud等を活用しテレワーク普及による働き場所、時間にとらわれない勤務形態の導入を図っています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "月間利用者数は、当社製品・サービスを利用しているユーザーのうち、電話番号リストの自動更新又はアプリの起動等により、当月に1回以上、当社サーバーへアクセスが行われたユーザー数です",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者数の増加により当社が獲得できる情報も拡大し、サービスの精度向上につながります",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "迷惑情報データベースの精度向上やテクノロジーを活用した各種サービスの付加価値向上に向けて、資格取得者への報奨金支給等を通して当社社員のスキルアップを積極的に推進します",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジーの利活用はお客様へのサービス提供に限らず、会計や人事労務といったバックオフィス業務においても、業務のデジタル化を推進します",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/finance/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "「中期経営計画2028」（2025年10月期～2028年10月期）では、第2の収益の柱として注力しているソリューション事業および新規事業の成長に注力し、最終年度の2028年10月期において売上高60億円以上を目指します",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "※今後の成長戦略を鑑み、2025年10月期より「セキュリティ事業」「ソリューション事業」とセグメント区分を２つに再編いたしました",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、テクノロジーで社会課題の解決を目指し、特殊詐欺やフィッシング詐欺、グレーゾーン犯罪撲滅のためのサービスを提供しています",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "詐欺電話・詐欺SMS等の情報を収集・調査してデータベースを構築し、自動でフィルタリングする「迷惑情報フィルタサービス」を、固定電話、モバイル、ビジネス向けに展開しています",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ、法人向けサービス「トビラフォン Cloud」「サギトレ」をKDDI「Business Port」で提供開始 ｜トビラシステムズ株式会社",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ、法人向けサービス「トビラフォン Cloud」「サギトレ」をKDDI「Business Port」で提供開始",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ株式会社（本社：愛知県名古屋市、代表取締役社長：明田 篤、証券コード：4441、以下「トビラシステムズ」）は、KDDI株式会社（本社：東京都港区、代表取締役社長CEO：松田 浩路、以下「KDDI」）が法人向けにパートナーサービスを提供している「Business Port」を通じて、クラウド型ビジネスフォン「トビラフォン Cloud」および法人向け詐欺メール・SMS訓練サービス「サギトレ」の提供を開始したことをお知らせします",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIグループの販売網を通じて両サービスを提供することで、より多くの法人のお客さまに、電話業務のDXおよびセキュリティ対策を支援するサービスを届けてまいります",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "「Business Port」では、KDDIのパートナーが提供するさまざまな法人向けサービスをラインナップしており、お客さまはオンラインサイト、および、KDDIの営業担当を通じて、購入相談・お申し込み・お問い合わせができます",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け詐欺メール・SMS訓練サービス「サギトレ」について",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "「サギトレ」は、法人におけるセキュリティ教育やリスクへの対応力向上を目指した、詐欺メール・SMS訓練サービスです",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIは高品質な通信基盤を軸に、個人のお客さまには「au」「UQ mobile」「povo」のマルチブランドで展開し、法人のお客さまには「KDDI BUSINESS」のブランドで国内外に多くのサービスを提供しています",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジーで社会課題の解決を目指し、特殊詐欺やフィッシング詐欺、グレーゾーン犯罪撲滅のためのサービスを提供しています",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "詐欺電話・詐欺SMS等の情報を収集・調査してデータベースを構築し、自動でフィルタリングする「迷惑情報フィルタサービス」は、固定電話、モバイル、ビジネス向けに展開し月間約1,500万人にご利用いただいています",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "本イベントは、「AIで拡がる！ まるごとDX」をテーマに、AIを活用した業務改善やDX推進に役立つ最新のソリューションを紹介するイベントです",
+    "url": "https://tobila.com/news/info/p3133/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/news/info/p3133/",
+    "pass": 1
+   },
+   {
+    "quote": "迷惑情報フィルタサービス月間利用者数の開示内容拡充及び開示頻度の変更にかかるお知らせ",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "その他のサービス",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ株式会社は、独自のデータベースとアルゴリズムを活用し、特殊詐欺やフィッシング詐欺などの脅威から利用者を守る迷惑情報フィルタサービスを提供するセキュリティ・IT企業です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "トビラシステムズ、「バドミントンＳ/Ｊリーグ2026-27 東京大会」の大会冠パートナーに就任",
+    "url": "https://tobila.com/",
+    "pass": 1
+   },
+   {
+    "quote": "トビラシステムズ株式会社（本社：愛知県名古屋市、代表取締役社長：明田 篤、証券コード：4441、以下「トビラシステムズ」）は、KDDI株式会社（本社：東京都港区、代表取締役社長CEO：松田 浩路、以下「KDDI」）が法人向けにパートナーサービスを提供している「Business Port」を通じて、クラウド型ビジネスフォン「トビラフォン Cloud」および法人向け詐欺メール・SMS訓練サービス「サギトレ」の提供を開始したことをお知らせします",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "KDDIグループの販売網を通じて両サービスを提供することで、より多くの法人のお客さまに、電話業務のDXおよびセキュリティ対策を支援するサービスを届けてまいります",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "「Business Port」では、KDDIのパートナーが提供するさまざまな法人向けサービスをラインナップしており、お客さまはオンラインサイト、および、KDDIの営業担当を通じて、購入相談・お申し込み・お問い合わせができます",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "本イベントは、「AIで拡がる！ まるごとDX」をテーマに、AIを活用した業務改善やDX推進に役立つ最新のソリューションを紹介するイベントです",
+    "url": "https://tobila.com/news/info/p3133/",
+    "pass": 1
+   },
+   {
+    "quote": "会場では、業務改善の具体的なヒントに加え、SCS評価制度を踏まえた実践的なセキュリティ対策を紹介します",
+    "url": "https://tobila.com/news/info/p3133/",
+    "pass": 1
+   },
+   {
+    "quote": "・代理店への商品説明や営業支援",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・販売代理店ネットワーク",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのパートナーと連携することが、同社の成長を加速させています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたパートナーシップはサービス導入ハードルを下げ、安定的な収益を生み出す仕組みを支えています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・代理店や自社ウェブサイトからの直接販売",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル向けはキャリアの契約時にオプションとして付帯しやすく、法人向けは代理店経由の営業活動やNTTブランドでの拡販が効果的です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・BtoBでは代理店や直接営業による契約とサポート体制",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・広告宣伝費と代理店関連費用",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "また、代理店拡大を進めるための教育やインセンティブ施策もコスト要因となりますが、それによって販路を拡大しているのが実情です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズの自己強化ループは、大きく分けてデータベースの充実とパートナーシップ強化という二つの流れが相乗的に作用している点が特徴です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店施策の遅れを取り戻すことも重要な課題ですが、オンライン化や代理店教育の強化によって解決が進めば、さらなるシェア拡大につながるはずです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズは3大キャリアと提携し、強固な販売網を通じてサービスを展開している",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "販売代理店を通じて法人ユーザーに提供される",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "直販と代理店販売の2つの販売チャネルがある",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2028年10月期に売上高約18億円を目指し、直販、代理店販売、総合セキュリティアプリの3層の販売チャネルを通じて展開する",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ・提携",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を通じた販売強化が奏功していることを踏まえ、営業人員などの採用を継続する",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "機能限定版「トビラフォン Biz Lite」の提供（2026年2月以降予定）や、個人事業主・小規模オフィス・店舗向け新製品開発を検討している",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "現在の直販体制ではリーチできない顧客層へのプロモーションを強化し、新機能（AI関連機能など）の開発や、営業・マーケティング業務の効率化を進めて受注数を増やす",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店販売の拡大や、エンジニアリング・企画専任の営業メンバー配置、SFA・MAの開発により、大幅な受注増に対応できる体制を構築する",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル向け、固定電話向け事業は特殊詐欺対策として重要であり、大手通信キャリア等パートナーとの連携を進める",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの事業は安定収益基盤だが、今後の成長はパートナーとの交渉にも左右されるため、中計2028では大きく成長する計画とはしていないが、積極的に事業展開し収益増大を目指す",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店との協力や機能向上に努めていく",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "直販、代理店販売、そして280blockerなど他プロダクトとの連携によるOEMや法人向け端末導入の3層で販売を加速します",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当社が保有する強力な代理店販売チャネルを活用することで、新規プロダクトの早急な収益化が可能と考えており、積極的に実施する方針です",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "既存パートナー企業との連携強化と新たなアライアンスパートナーの獲得により販売拡大を狙う",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフォン向け事業では、販売代理店における認定商品化・推奨商品化、顧客の分析によるマーケティング力の強化、広告宣伝費を用いたサービス知名度向上、プロダクトへの積極的投資による新機能追加を実施",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "固定電話向けフィルタリングサービスでは、Home Gateway イニシアチブによりアライアンスを拡大し販売網を強化",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "既存パートナーとの関係強化と新規提携により売上増を目指す",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "法人向け電話サービス (TobilaPhone Biz / Cloud) で、販売代理店の認定・推奨製品化、顧客データ分析によるマーケティング強化、広告による認知度向上、機能追加への大型投資により顧客数を増やす",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "提携する販売代理店を",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "要因の1つは、トビラフォンBizは代理店を通じて",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の販売形態を取っており、代理店の拡充を計画していたもののやや後ろ倒しとなっているため",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場紹介",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "優れた人材、安定した財務基盤、三大通信キャリアとのパートナー関係といった豊富な経営資源は、どのように競争優位性につながっていますか",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の競争力は、人材、技術、データベース、販売パートナーが相互につながることで生まれていると考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "当社には販売パートナーを通じて製品やサービスを広く届けられる仕組みがあり、サービスを通じて蓄積されるデータやお客様から得られるフィードバックを製品の改善や新たな製品開発につなげています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "今後さらに成長させていくためには、販売パートナーがお客様に当社製品の価値を伝え、継続的に販売できる体制を広げていくことが重要だと考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "足元でも売上高は伸びていますが、今後は自社の販売力に加えて、販売パートナーの強みを活用することで、さらに成長を加速させていきたいと考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2006年12月1日（創業 2004年4月1日）",
+    "url": "https://tobila.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 ｜トビラシステムズ株式会社",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年4月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年12月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年8月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年5月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年2月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年6月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年1月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年2月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年5月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年6月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年1月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年7月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年2月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年6月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年12月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://tobila.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月25日 東証マザーズ上場",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月27日 東京証券取引所 市場第一部指定",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月4日 東京証券取引所 プライム市場へ移行",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月20日 東京証券取引所 スタンダード市場へ移行",
+    "url": "https://tobila.com/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年10月期において売上高60億円以上を目指します",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月期第1四半期決算説明資料",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月末基準日の株主優待については、対象の株主さまに2027年1月中旬よりご案内を順次お送りいたします",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年10月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年9月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年8月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年4月度 「迷惑情報フィルタサービス」月間利用者数のご報告",
+    "url": "https://tobila.com/ir/user-count/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月期の配当金は1株当たり20.00円とされていますが、1株当たり株価の詳細は公開されていません",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "少子化、労働人口の減少の流れが想定される日本において、新たなビジネスモデルの創出・働き方改革・業務改善等、これまでの取組みから更にデジタル技術を取入れたDXを推進する必要があります",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省の2025年の崖にありますように、新たなビジネスモデルの創出・働き方改革・業務改善を目的として、今までのICTを革新し、新しくDXを促進することが日本企業にとって必須であり、DX促進なくして日本企業の継続・発展はありえないと言われています",
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスモデルとIR資料から読み解くトビラシステムズの成長戦略 | チームマイクの企業分析",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルとIR資料から読み解くトビラシステムズの成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションモデルが定着しやすい迷惑電話ブロックサービスの性質と、キャリアとのタイアップによる安定収益モデルがうまく合致しているからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "PKSHA Technologyの最新IR資料から読み解くビジネスモデルと成長戦略はどこまで拡大するのか",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "クレスコが描く新時代のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ARアドバンストテクノロジの成長戦略がすごい 理解しやすいビジネスモデルを徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "SEホールディングス・アンド・インキュベーションズのビジネスモデルと成長戦略が生み出す可能性",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルを深堀りして知りたい人必見 GMOグローバルサイン・ホールディングスの成長戦略と魅力に迫る",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "エディアの魅力を徹底解剖 最新IR資料から紐解くビジネスモデルと成長戦略がもたらす可能性",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業を変えるビジネスモデル 成長戦略とIR資料にも注目 株式会社東名の魅力を大公開",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "成長戦略が加速する株式会社バルテス・ホールディングスのビジネスモデルを徹底解説 〜IR資料をヒントに今後を読む〜",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "北浜キャピタルパートナーズ株式会社の成長戦略とビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ドライケミカル株式会社の『ビジネスモデル』と圧倒的競争力を解",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社動力のIR資料から紐解く次世代へのビジネスモデルと成長戦略",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ガイシの驚異的なビジネスモデルと次世代へ向けた成長戦略を徹底解説",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "マーチャント・バンカーズの隠された成長戦略と驚異のビジネスモデル",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "通信キャリア向けモバイルサービスにおけるビジネスモデルを説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "固定電話向けサービスのビジネスモデルを説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Bizのビジネスモデルを説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Bizの収益構造を説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Cloudのビジネスモデルを説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "基本セット数が増えるほど月額ライセンス費用が増加する継続収益モデル",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、特殊詐欺対策のリーディングカンパニーであること、年間50億件以上の電話・メール・SMSを判定する豊富なデータベース、そして高利益率ビジネスモデルによる機動的な財務基盤です",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "*2：IR note「「トビラフォン Biz」の収益構造を解説！」https://note.com/tobila4441/n/n50a4deeb6e12",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Bizの収益構造を教えてください",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした収益構造により、契約負債の残高などから将来計上される売上の一部を見通すことができ、安定的な収益基盤につながっています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "※今後の成長戦略を鑑み、2025年10月期より「セキュリティ事業」「ソリューション事業」とセグメント区分を２つに再編いたしました",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客セグメント",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントはそれぞれニーズが異なり、提供するサービス内容や料金体系にも違いが生じます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズの事業活動を「セキュリティ事業」と「ソリューション事業」の二つに分類し、2025年10月期の売上構成を示している",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月期のセグメント別売上計画を説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "新市場・新セグメント参入",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別ではモバイル向け1,551百万円、固定電話向け213百万円、ビジネスフォン向け579百万円、その他6百万円",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント（2023年10月期通期）",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "フィルタ事業へ含め、「迷惑情報フィルタ事業」の単一セグメントに変更",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "報告セグメントの変更に関するお知らせ*",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 前期に「HP4U」の事業譲渡を行ったこと等により、「迷惑情報フィルタ事業」の単一セグメントに変更",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主な契約モデルの売上構成（四半期推移）* 売上高・月間利用者数の推移（前四半期比）",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*1：2024年10月期1Qより、従来「その他」としていた事業の重要性が乏しくなったため、「迷惑情報フィルタ事業」の単一セグメントに変更",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*：従来「その他」としていた事業の重要性が乏しくなったため、2024年10月期第1四半期より「迷惑情報フィルタ事業」の単一セグメントに変更",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "現在、当社の事業は「セキュリティ事業」と「ソリューション事業」の2つのセグメントに区分しています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業についても、事業内容に応じていずれかのセグメントに含めています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "近年、携帯電話への着信をきっかけとした特殊詐欺被害が増加していることを踏まえ、株主の皆さまの被害防止にお役立ていただくため、当社が提供する迷惑電話・迷惑SMS対策アプリ「トビラフォンモバイル」（通常年額2,400円（税込））を1年間無料でご利用いただける株主優待をご用意しています",
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用料金はKDDIがワンストップで請求します",
+    "url": "https://tobila.com/news/release/p3128/",
+    "pass": 1
+   },
+   {
+    "quote": "・通信キャリア自体もライセンス提供先としての顧客",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "加えてキャリアに対してはライセンス供与モデルを展開することで、安定した収益源を確保しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・キャリア経由のオプション利用料",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・法人向けサービスの月額費用と追加機能の利用料",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "・端末販売やライセンス料",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "サブスクリプションモデルが定着しやすい迷惑電話ブロックサービスの性質と、キャリアとのタイアップによる安定収益モデルがうまく合致しているからです",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに法人向けフィルタサービスは追加機能による収益拡大も期待でき、継続課金をベースにビジネスが成長しやすい構造です",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "また、広告ブロックアプリ「280blocker」も提供しており、2025年4月1日からはサブスクリプション型プランも提供予定である",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズが受け取るライセンス費用は、固定料金、契約数に応じた単価、月間アクティブユーザー数に応じた単価の3種類の契約形態に基づいている",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "固定料金（サブスクリプション契約）、契約数×単価、月間アクティブユーザー数×単価の3種類があり、それぞれ収益の安定性や連動性が異なる",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "迷惑情報データベースがオプションパッケージサービスの裏側で稼働し、サービス提供の対価としてライセンス費用を受け取るモデルである",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア価格、5～7年間のライセンス費用、保守契約をバンドルしたパッケージ契約が主",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア販売とライセンス費用が収益源となる",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "販売時にハードウェア代金とライセンス費用を一括で受け取るが、ハードウェア費用は販売時に売上計上され、ライセンス費用は利用期間に応じて月割りで計上される",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "このため、ライセンス費用の一部は契約負債となる",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "基本料金体系は「初期費用」＋「月額費用（基本セット×単価）」＋「通話料/月」",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "基本セット数が増えるほど月額ライセンス費用が増加する継続収益モデル",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "月次平均解約率が低く、導入後の安定した継続収益が見込まれる",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "また、株主優待制度を新設し、迷惑電話・SMSブロックアプリ「トビラフォンモバイル」の無料利用ライセンスを付与する",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "電話というインフラであり、解約率が低い安定的なストック収益への貢献が期待されます",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "5年から7年の利用料をバンドルしたパッケージ販売がメインで、解約が基本的に発生しないストック収益が積み上がります",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル向けフィルタ事業では、新規機能追加による単価向上、月間利用者数の増加、新規キャリアへの展開（新規MNOにおけるオプションパック採用、MVNOへのオプションパック採用）を目指す",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": " 3大キャリアのオプションサービスとして提供することで、安定したストック収益を確保",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 2023年10月期通期の決算説明資料でも記載のとおり、モバイル向けでは、「固定契約」モデルにおける単価アップ、ビジ",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ネスフォン向けでは「トビラフォン Biz」の単価アップにより、収益増加へ貢献",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「固定契約」*1モデルにおける単価アップ",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「トビラフォン Biz」の単価アップ",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 第１四半期では、単価アップの売上寄与は2か月分",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 売上高は主にストック収益で構成されており、ストック収益は前年同期比112.6%と着実に成長",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "売上高四半期推移（ストック収益、フロー収益）",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ストック収益",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "月間利用者数×単価契約者×単価",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "価契約者数 ×固定契約（定額契約） 単価月間利用者数 ×",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 「契約者数×単価」モデル",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "● 「月間利用者数×単価」モデル",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "*： 「その他」に含まれるものは、のれん償却額や減価償却費、支払手数料等",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルの「月間利用者数×単価」モデ",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Bizの収益は、端末代金とライセンス費用（サービス利用料）で構成されています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "端末代金と5〜7年分のライセンス費用を一括でいただく契約形態が販売の主流です",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "端末代金は販売時に売上として計上しますが、ライセンス費用は契約期間に応じて毎月按分して計上しています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、販売時にまとまったキャッシュが入る一方で、ライセンス費用は将来にわたって継続的に売上として計上される仕組みとなっています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラフォン Cloudは課金ID数が過去最高となり、月次平均解約率も1％未満です",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "モバイル端末や固定電話、ビジネスツール向けに迷惑電話・迷惑SMSを自動でブロックするソリューションを展開しており、大手通信キャリアとの連携による強固な配信基盤と圧倒的なシェアを強みとして、安全な社会インフラを支える確固たるポジションを確立しています",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "迷惑電話やSMSへの対策は今後も継続的に需要が高まる見込みがあるため、競合が増える中でも独自のデータベースと技術力が強みになると考えられます",
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズの強みの基盤である「迷惑情報データベース」について説明",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "データ量が増えるほどブロック精度が向上する循環システムが強みである",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高、EBITDA、営業利益、経常利益、当期純利益、営業利益率、ROE、自己資本比率の2024年10月期実績、2025年10月期実績、2026年10月期計画が示されている",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "前中期経営計画（2022年10月期-2024年10月期）で年間20％弱の売上高成長を達成してきた実績を基に、当社の強みを活かせば目標達成は可能と認識している",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスフォン向け製品（トビラフォン Biz, トビラフォン Cloud）は、多機能性、導入の容易さ、操作性の分かりやすさ、音声テキスト化の無料標準搭載、細やかな顧客対応といった競争優位性を持つ",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "強みはユーザー基盤、データベース、財務基盤",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは、特殊詐欺対策のリーディングカンパニーであること、年間50億件以上の電話・メール・SMSを判定する豊富なデータベース、そして高利益率ビジネスモデルによる機動的な財務基盤です",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズの強み：迷惑情報データベース",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "おり、当社の強みの1つ",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": " 成長戦略は、唯一無二の迷惑情報データベースの価値を向上させ、その強みが発揮できる市場へ展開すること",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 32.2% 33.1% 32.1% -",
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "優れた人材、安定した財務基盤、三大通信キャリアとのパートナー関係といった豊富な経営資源は、どのように競争優位性につながっていますか",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした経営資源を組み合わせ、継続的によりよい製品を生み出していけることが当社の競争優位性につながっていると考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "また、先に受け取った資金を成長投資に活用できることも、当社の強みだと考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "足元でも売上高は伸びていますが、今後は自社の販売力に加えて、販売パートナーの強みを活用することで、さらに成長を加速させていきたいと考えています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業の開発やM&Aでは、当社がこれまで培ってきた技術やノウハウなどの強みを生かせるかどうかを重視しています",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデルとIR資料から読み解くトビラシステムズの成長戦略 | チ... — Feb 3, 2025 · 未来展望と注目ポイント トビラシステムズの今後を考えると、法人向けビジネスフォン領域がさらに成長エンジンとして期待できます。 すでにNTT東日本・西日本の販路を活用しているため、多くの企業や施設に導入されやすい環境が整っています。",
+    "url": "https://consovation.com/ビジネスモデルとir資料から読み解くトビラシステ/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ株式会社 中期経営計画 — EDINET DB — Feb 16, 2026 · トビラシステムズの創業以来、売上高が毎年増加していること、日本の主要通信キャリアのオプションパッケージサービスとして提供されるため、安定した継続収益があること、そして現在、第二のコア事業の創出に注力していることが述べられている。",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2028 ｜トビラシステムズ株式会社 — トビラシステムズは、2025年度からの4か年の新しい経営計画として、2024年12月10月に「中期経営計画2028」を策定・公表しました。 「中期経営計画2028」（2025年10月期～2028年10月期）では、第2の収益の柱として注力している ...",
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ（4441） アナリストレポート — 成長可能性と事業計... — Apr 22, 2026 · 1-1. サマリー トビラシステムズの本質は、個別の迷惑電話対策製品を売る会社ではなく、詐欺電話・迷惑SMS・危険URL等の情報を収集し、更新し、フィルタリングに転換するデータベースを複数販路で収益化する会社にある。",
+    "url": "https://research.aentroinc.com/ja/report/TobilaSystems/Initiation",
+    "pass": 3
+   },
+   {
+    "quote": "【トビラシステムズ】中期経営計画2028と2025年10月期の見通し — Dec 19, 2024 · 本noteでは、トビラシステムズについてもご紹介させていただきながら、中長期的な成長イメージを共有させていただければと思います。 中期経営計画2028では、資本コストや株価を意識した経営の実現に向けた対応についても言及しております。",
+    "url": "https://note.com/tobila4441/n/ne791a99695da",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ株式会社 — IR資料 - EDINET DB — Apr 20, 2026 · EDINET DB > 企業一覧 > トビラシステムズ株式会社 > IR資料 トビラシステムズ株式会社 — IR資料 統合報告書・中期経営計画・決算説明資料などのIR資料を、AIがセクション単位で構造化したデータです。 本文の検索・テーマタグでの絞り込みが可能です。",
+    "url": "https://edinetdb.jp/company/E34814/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜トビラシステムズ株式会社 — 新規投資家向け資料 IR note 月間利用者数 採用情報 仕事紹介 働く環境 社員の声 募集要項 新着情報 お知らせ プレスリリース メディア掲載 調査レポート 社会貢献活動 SNS公式アカウント一覧 個人情報の 取り扱い プライバシーポリシー 外部送信情報の取り扱い",
+    "url": "https://tobila.com/ir/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ ｜トビラシステムズ株式会社 — 新規投資家向け資料 IR note 月間利用者数 採用情報 仕事紹介 働く環境 社員の声 募集要項 新着情報 お知らせ プレスリリース メディア掲載 調査レポート 社会貢献活動 SNS公式アカウント一覧 個人情報の 取り扱い プライバシーポリシー 外部送信情報の取り扱い",
+    "url": "https://tobila.com/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ - Wikipedia — 社会問題の一つである特殊詐欺やフィッシング詐欺の防止に有効な商品・サービスとして、迷惑電話番号リストを活用し、利用者にとって未知の迷惑電話番号であっても自動的に着信拒否設定がなされる「迷惑情報フィルタ事業」を主要事業としている。",
+    "url": "https://ja.wikipedia.org/wiki/トビラシステムズ",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 ｜トビラシステムズ株式会社 — トビラシステムズ株式会社の会社情報ページです。 今後も、IoT・ビッグデータ・AIを使用しながら迷惑電話をはじめとするセキュリティ領域で、人々の生活に役立つアプリ・製品・サービスを提供してまいります。",
+    "url": "https://tobila.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ株式会社 — トビラシステムズ株式会社は、迷惑電話をはじめとするセキュリティ領域の課題解決をテクノロジーの力で実現するため、研究開発を進め、日々、製品開発に取り組んでいます。 誰もが安心して暮らせる社会、便利で効率的な生活。",
+    "url": "https://tobila.com/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ（4441）の事業内容・業績｜平均年収624万円・売上28... — トビラシステムズ（4441）は情報・通信業の会社。 主な事業はセキュリティ事業・ソリューション事業。 2025年10月期は売上28億円・営業利益9億円、平均年収624万円。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/4441/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ株式会社 中期経営計画 — EDINET DB — Feb 16, 2026 · トビラシステムズの事業活動を「セキュリティ事業」と「ソリューション事業」の二つに分類し、2025年10月期の売上構成を示している。 セキュリティ事業は迷惑情報データベースを基盤とし、モバイル向け、固定電話向け、その他サービスを提供。",
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "よくわかる!! トビラシステムズ（4441・東証スタンダード）～ アナリ... — Oct 26, 2026 · 上場企業インタビュー 本テキストは、トビラシステムズの明田社長への インタビューの内容 を書き起こしたものです。 明田社長には、多くの投資家が抱く「23の質問」にお答えいただきました。 【会社名】トビラシステムズ（4441） 【実施日】2026/09/29",
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ [4441]：日本證券新聞社、IshareおよびLENZによる当... — 6 days ago · 2026年10月27日 トビラシステムズ[4441]の開示資料「日本證券新聞社、IshareおよびLENZによる当社代表取締役社長インタビュー（書き起こし）公開のお ...",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261027557000/",
+    "pass": 3
+   },
+   {
+    "quote": "速報：トビラシステムズ、代表取締役社長インタビュー公開、複数媒体... — トビラシステムズは10月27日、代表取締役社長のインタビュー書き起こしが公開されたことを発表した。 日本證券新聞社、イシェア、レンズの3社による共同企画として実施されたもので、インタビューは10月26日に「日本証券新聞Digital」…",
+    "url": "https://kabuline.com/news/topic/1020825/",
+    "pass": 3
+   },
+   {
+    "quote": "トビラシステムズ (4441) 日本證券新聞社、IshareおよびLENZによる当... — 2026年10月27日 トビラシステムズ (4441)の開示資料『日本證券新聞社、IshareおよびLENZによる当社代表取締役社長インタビュー (書き起こし)公開のお知らせ』（東京証券取引所 / PR情報）。PDFの閲覧・ダウンロードのほか、同社の開示一覧・財務データを確認できます。",
+    "url": "https://ufocatch.com/document/OT2026102700074",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tobila.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/forinvestors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/forinvestors/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/forinvestors/operating-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/forinvestors/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/forinvestors/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/corporate/dx-promotion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/finance/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/midterm-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/library/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/news/release/p3128/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/news/info/p3133/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tobila.com/ir/user-count/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.xj-storage.jp/public-graph-at/graph/AS05546/6cdfdb07/8f6e/4383/93e3/b811a23a6b7f/graph_ja.png",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.xj-storage.jp/public-graph-at/graph/AS05546/f4a45749/1d95/4550/a844/449539a9b48c/graph_ja.png",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.xj-storage.jp/public-graph-at/graph/AS05546/3ab150fe/94f2/4d38/8083/f07c24c99c39/graph_ja.png",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tobila.com/wp/wp-content/themes/original_theme/images/common/header_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tobila.com/wp/wp-content/uploads/2026/10/businessport-logo-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://tobila.com/wp/wp-content/themes/original_theme/images/common/header_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://consovation.com/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%A8ir%E8%B3%87%E6%96%99%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E34814/ir-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%83%A9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsjournal.jp/tobila-report-20261026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261027557000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トビラシステムズ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/トビラシステムズ",
+    "https://tobila.com/",
+    "https://tobila.com/company/overview/",
+    "https://shikiho.toyokeizai.net/stocks/4441/corporate",
+    "https://finance.yahoo.co.jp/quote/4441.T",
+    "https://shikiho.toyokeizai.net/stocks/4441",
+    "https://tobilaphone.com/"
+   ]
+  },
+  {
+   "query": "トビラシステムズ ビジネスモデル",
+   "results": [
+    "https://consovation.com/ビジネスモデルとir資料から読み解くトビラシステ/",
+    "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "https://tobila.com/ir/midterm-plan/",
+    "https://research.aentroinc.com/ja/report/TobilaSystems/Initiation",
+    "https://note.com/tobila4441/n/ne791a99695da",
+    "https://kabutan.jp/ir_report/sessa_444120260108.pdf",
+    "https://www2.jpx.co.jp/disc/44410/140120260909533792.pdf"
+   ]
+  },
+  {
+   "query": "トビラシステムズ 決算説明資料",
+   "results": [
+    "https://f.irbank.net/pdf/20240308/140120240307550187.pdf",
+    "https://edinetdb.jp/company/E34814/ir-docs/",
+    "https://tobila.com/ir/library/presentations/",
+    "https://tobila.com/ir/library/",
+    "https://www2.jpx.co.jp/disc/44410/140120260909533792.pdf",
+    "https://www2.jpx.co.jp/disc/44410/140120251209517008.pdf",
+    "https://edinetdb.jp/company/E34814/presentations/"
+   ]
+  },
+  {
+   "query": "トビラシステムズ 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/トビラシステムズ",
+    "https://tobila.com/company/",
+    "https://tobila.com/",
+    "https://zukaikeizai.com/kaisha/4441/",
+    "https://edinetdb.jp/company/E34814/midterm-plans/",
+    "https://openbizgraph.com/detail/6316",
+    "https://note.com/kabutabi2000/n/n260013239896"
+   ]
+  },
+  {
+   "query": "トビラシステムズ 社長 インタビュー",
+   "results": [
+    "https://www.nsjournal.jp/tobila-report-20261026/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261027557000/",
+    "https://kabuline.com/news/topic/1020825/",
+    "https://ufocatch.com/document/OT2026102700074",
+    "https://tobila.com/news/media/p3135/",
+    "https://capital-voice.com/article/tobila-part1",
+    "https://tobila.com/news/media/p3136/"
+   ]
+  }
+ ],
+ "missing": {}
+}

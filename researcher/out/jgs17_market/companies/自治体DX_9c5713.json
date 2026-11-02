@@ -1,0 +1,1608 @@
+{
+ "name": "自治体DX",
+ "en": "government cloud",
+ "aliases": [
+  "ガバメントクラウド",
+  "自治体システム"
+ ],
+ "context": "2 デジタル・サイバー ②自治体AX/DX基盤",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:30:14.592641+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "矢野経済研究所などのデータをもとに構成された資料によれば、市場規模は2021年度の7,275億円から右肩上がりで成長を続け、2025年度には9,660億円（対前年度比117.7%）というピークを迎える予測となっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "pass": 3
+   },
+   {
+    "quote": "翌2026年度には8,840億円（同91.5%）へと縮小し、その後も2028年度の7,980億円まで減少傾向が続くと見込まれています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模のデータは、2025年度をピークとした投資の集中と、その後の反動減という政策主導型市場の構造を示しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "pass": 3
+   },
+   {
+    "quote": "で 8380 億ドルの消費者余剰が生み出されていると推計されている",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルサービス （有料・無料を問わず） から生まれる日本の消費者余剰を年間161 兆円（2016 年）と試",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平均値 908.7 億円、中央値 333 億円、最大値 19,000 億円、最小値 6.8 億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100億円以下",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "100億円～300億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "300億円～500億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "500億円～1000億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1000億円～5000億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5000億円以上",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5000万円～1億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1億円～5億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5億円～10億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円以上",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10億円～50億円",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "50億円以上",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "矢野経済研究所によれば2023年度の自治体向けソリューション市場は、7,733億7,000万円（前年度比1.8%）の予測となっています",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度における自治体向けソリューション市場は、事業者の売上高推計で約7,595億1,000万円となり、前年と比べて4.4％の成長を遂げました",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "「2023年度の自治体向けソリューション市場規模は前年度比1.8％増の7,733億7,000万円を予測」矢野経済研究所",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "総務省が実施した調査によると、平成29年度当初予算における1,741市区町村の基幹系システム等の運用経費合計額は【4,786億円】でした",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度までまだまだ市場は伸びる予測です",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度で投資額が最も大きい分野は「交通／運輸」で2780億円となっており、2030年度には1.27兆円（4.6倍）になると予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "次いで、「戦略／基盤」（20年2500億円→30年7446億円、3倍）、「金融」（20年1887億円→30年6211億円、3.1倍）、製造（20年1620億円→30年5450億円、3.4倍）と続きます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "「自治体」2020年度409億円でしたが2030年度には4900億円と12倍に拡大することが予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "2019年度は6645億円で、以降2022年度まで6000億円台後半でほぼ横ばいで推移しています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "その翌年の2023年度（7445億円）から上昇トレンドとなり、2025年度には9177億円と1兆円近くにまで拡大することが予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、翌2026年度には6040億円と大きく落ち込むことが予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "こうしてみると、自治体DX市場は2025年度までは成長が見込まれ、自治体のDX投資という観点では2030年ごろまで急拡大することが見込まれます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "また、標準化に伴う導入費用の一部は国が約7,000億円の補助金を用意しているものの、移行後の運用費用の増加が課題となっている",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "3. 自治体におけるゼロトラスト市場規模推移（115）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "暗号資産 1兆円の被害 交換所最大手に不正アクセス",
+    "url": "https://txbiz.tv-tokyo.co.jp/wbs/feature/post_337533",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の自治体向けソリューション市場規模は前年度比6.1％増の8,208億円を予測",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の自治体向けソリューション市場規模は事業者売上高ベースで8,208億円、前年度比6.1％増と予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度は基幹業務システムの標準化対応が本格化し、市場規模を押し上げた",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、2025年度の市場は2024年度を大幅に上回る成長が見込まれ、前年度比17.7%増の9,660億1,000万円に達すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "自治体には標準化システムの導入を義務付け、国は関連経費を支援する予算案も組まれた中、当初の1,825億円の予算では対応できないとの声により積み増し約7,000億円の補助金（デジタル基盤改革支援基金）が用意されたものの、標準化対応システムへの移行後のランニングコストにおける課題が浮き彫りになり始めている",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "●自治体向けソリューションの市場規模推移を予測（2022年度～2029年度）",
+    "url": "https://pr.mono.ipros.com/yano/product/detail/2000357795/",
+    "pass": 3
+   },
+   {
+    "quote": "自治体向けソリューション市場、2025年度には１兆円弱の市場に ～自治体DXやデジタル田園都市国家構想への注目度が高まる：『ビジネス2.0』の視点：オルタナティブ・ブログ",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "自治体向けソリューション市場、2025年度には１兆円弱の市場に ～自治体DXやデジタル田園都市国家構想への注目度が高まる",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年度の自治体向けソリューション市場は事業者売上高ベースで7,256億3,000万円、前年度比7.2％増になったと推計しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、基幹系（住民情報系）システムの標準化は自治体向けソリューション市場にとって大きなイベントだが、2022年8月に政府が標準仕様書を公開し、ITベンダーが標準仕様準拠システムの開発に着手している段階にあり、2023年1月時点ではまだ市場規模に対する影響はないとしています",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度にはコロナ禍に関連する需要は大幅に減少し、コロナ禍前の水準に近づく見込みで、この影響を受け、2022年度の自治体向けソリューション市場は、前年度比3.5％減の7,002億5,000万円になると予測しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度にはピークを迎え、9,934億円と1兆円近くに達すると予測しています",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度の自治体向けソリューション市場はいったん大きく減少し、前年度比34.3%減の6,531億円になると予測しており、自治体向けソリューション市場は大きな転換点を迎える可能性を挙げています",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "出典：矢野経済研究所 自治体向けソリューション市場規模推移・予測 2023.2",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータ市場規模が2027年に10億ドル超へ！金融主導の成長とスタートアップ淘汰の現実",
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share, Trends Report 2034",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share, Trends and Forecast by Component, Deployment Model, Service Model, Application, and Region, 2026-2034",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 48.6",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 54.8 Billion",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 145.2",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Base year Market Size 2025",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 48.6 Billion",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size (2026)",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Market Size 2034",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 145.2 Billion",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Global Government Cloud Market Size Was Estimated at USD 48.3 Billion in 2025",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.04% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "DX推進が遅れている理由（n=111）では、上位が「予算制約」（約68.3%）、「IT等の専門人材不足」（63.4%）で、まず“投入できる資源”がボトルネックになっています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "pass": 3
+   },
+   {
+    "quote": "エコノミー促進室「シェア・ニッポン 100～未来につなぐ地域の活力～」では地方において自治体や民間",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自治体で全体の約半数を占めているが、最大値 2.96%まである程度の分布が見られる（図",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "しては、例えばオープンデータを活用したビジネスモデルや 29、地域におけるシェアリン",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（都道府県／市区町村）（17）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（21）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（27）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（38）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場シェア（65）",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（都道府県／市区町村）（21）",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（25）",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（33）",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2. 市場シェア（37）",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場シェア（64）",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "North America currently dominates the market, holding a market share of over 34.7% in 2025.",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hybrid cloud segment dominated the market in 2025, approximately 47%, and is projected to grow at a substantial CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Software as a Service segment accounted for the largest share in 2025, approximately 47%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The security & compliance segment accounted for the highest market revenue in 2025, approximately 33%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Public Cloud holds a 54.6% share of the Government Cloud Market in 2025, favored for pay-as-you-go economics and pre-authorized service catalogs.",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Federal and Central Government Agencies represent a 38.0% share of the Government Cloud Market",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominates with a 43.6% share",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 86.2%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 21.4%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 16.3%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 9.1%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 34.8%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 10.4%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 58.4%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Share of region: 31.6%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "The global government cloud market size was valued at USD 42.95 billion in 2025 and is projected to grow from USD 50.50 billion in 2026 to USD 184.49 billion by 2034, registering a CAGR of 17.58% during the forecast period from 2026 to 2034. North America dominated the government cloud market with a market share of 38.5% in 2025.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America Market Share (2025)",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share in 2025",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the market with a share of 38.5% in 2025.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "held the largest share of the market in 2023, with",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "of this initiative, USDA aimed to consolidate 21 fragmented e-mail systems and improve the productiv-",
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiency: Financially, the motivation to move to cloud was compelling Eliminating the 21 fragmented",
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of this initiative, USDA aimed to consolidate 21 fragmented e-mail systems and improve the productiv-",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiency: Financially, the motivation to move to cloud was compelling Eliminating the 21 fragmented",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.Which region accounts for the largest government cloud market share?",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Outlook 2026-2034: Market Share, and Growth Analysis by Deployment Model, Delivery Model, Application, End-User",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud Supply Chain Management Market Outlook 2026-2034: Market Share, and Growth Analysis by Solution, Deployment Type, Organization Size, End-User",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "a year. Budget concentration is steep: the US Treasury and Health and Human Services alone held cloud budgets of USD 5.054 billion and USD 2.686 billion over fiscal 2023 to 2025. Large agencies sign enterprise agreements, run multi-cloud estates and buy classified capacity, and they are the first beneficiaries of OneGov terms.",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Share of 2025 revenue",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive chapter profiles 20 companies with business overview, product portfolio, recent developments and strategy, and ranks them by market share. Shares are in the report.",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "17.2 Global Government Cloud Market: Market Share Analysis, 2025",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "ら 2011 年に Facebook や YouTube、Twitter、Craigslist などのインターネット上のサービスによって年平均",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ルの拡大・創出、 新サービス市場の創出効果を算出することも必要であろう （図１④）",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サービスの拡大」 と 「地域の社会課題解決」 につなげていく、 という政策の流れである12",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度に関しては、ほぼ横ばいの推移予測ですが、前年比で1.8％増の7,733億7,000万円になると見込まれています",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "2023年度は地方税共通納税システムの税目拡大や、物価上昇に伴う給付金対応が新たに生じ、基幹ベンダーを中心に前年並み、あるいはそれを上回る売上が見込まれています",
+    "url": "https://labid.jp/article/kidw4q1l",
+    "pass": 3
+   },
+   {
+    "quote": "「自治体」2020年度409億円でしたが2030年度には4900億円と12倍に拡大することが予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "その翌年の2023年度（7445億円）から上昇トレンドとなり、2025年度には9177億円と1兆円近くにまで拡大することが予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "こうしてみると、自治体DX市場は2025年度までは成長が見込まれ、自治体のDX投資という観点では2030年ごろまで急拡大することが見込まれます",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 12.94%",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.04% from 2026 to 2035",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period CAGR 2026-2035 :",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The hybrid cloud segment dominated the market in 2025, approximately 47%, and is projected to grow at a substantial CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Software as a Service segment accounted for the largest share in 2025, approximately 47%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The security & compliance segment accounted for the highest market revenue in 2025, approximately 33%, and is anticipated to grow at a significant CAGR during the forecast period.",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "is the fastest-growing deployment model at a 17.5% CAGR as agencies link classified enclaves with scalable commercial regions.",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Platform-as-a-Service expands at a 17.3% CAGR on the back of low-code workflow development.",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Analytics and AI is the fastest-growing application at a 16.5% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and Intelligence grows at a 17.6% CAGR, supported by classified-cloud programs",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Asia-Pacific posts the fastest regional growth at an 18.4% CAGR",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 18.4%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 17.2%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 17.8%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 15.8%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 9.6%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 22.6%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR: 20.1%",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "The global government cloud market size was valued at USD 42.95 billion in 2025 and is projected to grow from USD 50.50 billion in 2026 to USD 184.49 billion by 2034, registering a CAGR of 17.58% during the forecast period from 2026 to 2034. North America dominated the government cloud market with a market share of 38.5% in 2025.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe CAGR (2026–2034)",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The government cloud market size is valued at USD 50.50 Billion in 2026 and is projected to reach USD 184.49 Billion by 2034, at a CAGR of 17.58% during the forecast period 2026-2034.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The government cloud market is projected to grow at a CAGR of 17.58% during the forecast period of 2026 2034.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share | CAGR of 15.4%",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, growing at a CAGR of",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2023, growing at a",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 15.49%",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2033)",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2025 to 2034",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034 at a CAGR of",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "by 2034, a compound annual growth rate of",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "of government cloud spending in 2025 and grow at",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "of spending in 2025 and grow at",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2034)",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR to 2034",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global government cloud market was worth $57.4 billion in 2025 and reaches $189.63 billion by 2034, a CAGR of 14.2% that adds $132.23 billion of annual spending. Growth comes from US federal cloud budgets, faster FedRAMP authorization, OneGov buying terms, classified workloads moving to cloud and sovereign cloud programs in Europe, Japan, Australia and the Gulf.",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "に対して「DX にかける年間予算規模」 「過去５年間にかけたICT 投資額」 「自治体のDX",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また「年間予算規模」 「DXにかける年間予算規模」 「過去５年間にかけたICT 投資額」15",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "けた ICT 投資額」が 0.493*、「自治体の DX に関わる部署の人員」が 0.675**であり総じて",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "15 「過去５年間にかけた ICT 投資額」をデータとしたのは自治体の ICT 資本を算出してその効果を推計",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "図５ 過去５年間にかけた ICT 投資額別自治体数",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「DX にかける年間予算規模」 、 「過去５年間にかけたICT 投資額」との相関は高いが、 「DX",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "算規模」 「過去５年間にかけたICT 投資額」「DX 部署人数」の平均値を算出した（表 3 参",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5年間ICT投資額",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "※人口５千万以上１万人未満の自治体では５年間 ICT 投資額の回答データがないために平均値は算出で",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自治体が DX にかける年間投資額の平均値３億 9371 万円に対して、DX 重視事項の効果",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を金額換算した平均値は３億 96 万円 （年間投資額に対する比率は0.76） であり （自治体が",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度で投資額が最も大きい分野は「交通／運輸」で2780億円となっており、2030年度には1.27兆円（4.6倍）になると予想されています",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "pass": 3
+   },
+   {
+    "quote": "European demand for jurisdictionally controlled cloud has triggered large provider commitments, including AWS's EUR 7.8 billion investment in a Germany-based sovereign cloud through 2040. The European Commission's December 2023 approval of IPCEI-CIS cleared up to EUR 1.2 billion in state aid for next-generation European cloud and",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": ". Saudi Arabia's cloud regulatory framework underpins hyperscaler investments such as AWS's announced USD 5.3 billion Saudi region",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": ". The UAE's sovereign AI push gained momentum when Microsoft invested USD 1.5 billion in Abu Dhabi-based G42 in April 2024. South Africa's 2024 National Data and Cloud Policy promotes shared government infrastructure",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft (April 2024): Invested USD 1.5 billion in Abu Dhabi-based G42, expanding sovereign AI and cloud capacity for Gulf governments",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "In FY2010, approximately thirty cents of every dollar invested in Federal IT was spent on data center infra-",
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "structure 6 Unfortunately, only a fraction of this investment delivers real, measurable impact for American",
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In FY2010, approximately thirty cents of every dollar invested in Federal IT was spent on data center infra-",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "structure 6 Unfortunately, only a fraction of this investment delivers real, measurable impact for American",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OneGov agreement with up to USD 1 billion of savings through 2028; EUR 7.8 billion European Sovereign Cloud investment",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Local government migration is the second opportunity. Japan's move of 2,918 municipal systems in under a year shows how quickly smaller bodies shift once a national platform and funding exist. Counties, cities and school authorities in the United States, Europe and India still run large on-premise estates, and SaaS vendors that sell",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "11.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "自治体DX に関する調査を実施（2026年） — 自治体DX に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vI76SLhuAdlTZiwERA6_P4ZNg4u4ZmLfwtSMY_uIz5mL86x1zsX",
+    "pass": 3
+   },
+   {
+    "quote": "電子政府・電子 自治体 DX と経済効果 - 経済社会総合研究所 — 電子政府・電子 自治体 DX と経済効果 - 経済社会総合研究所 経済社会総合研究所 PDF https://www.esri.cao.go.jp > archive > bun > bun209",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "自治体DX に関する調査を実施（2026年） - Yano ICT — 自治体DX に関する調査を実施（2026年） - Yano ICT Yano ICT https://www.yanoict.com > summary > show",
+    "url": "https://www.yanoict.com/summary/show/id/809",
+    "pass": 3
+   },
+   {
+    "quote": "自治体システム標準化および 自治体DX の動向調査 2026年版 — 自治体システム標準化および 自治体DX の動向調査 2026年版 富士キメラ総研 https://www.fcr.co.jp > report",
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "pass": 3
+   },
+   {
+    "quote": "自治体DX に関する調査を実施（2026年） — 自治体DX に関する調査を実施（2026年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vJzDERp49WLNutNj4Pg1AlBhzcCzpjDzYipAQGYf5tBfRYGe3pm",
+    "pass": 3
+   },
+   {
+    "quote": "自治体システム標準化および 自治体DX の動向調査 2025 年版 — 自治体システム標準化および 自治体DX の動向調査 2025 年版 富士キメラ総研 https://www.fcr.co.jp > report",
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size , Share, Trends Report 2034 — Government Cloud Market Size , Share, Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Report 2026-2035 | Size and ... — Government Cloud Market Report 2026-2035 | Size and ... Spherical Insights https://www.sphericalinsights.com > g...",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size , Growth Drivers 2035 — Government Cloud Market Size , Growth Drivers 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size , Share, Growth, Forecast, 2034 — Government Cloud Market Size , Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share & 2030 Growth Trends ... — Government Cloud Market Size, Share & 2030 Growth Trends ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share | CAGR of 15.4% — Government Cloud Market Size, Share | CAGR of 15.4% Market.us https://market.us > report > governme...",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share , Trends Report 2034 — Government Cloud Market Size, Share , Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share, Growth, Forecast, 2034 — Government Cloud Market Size, Share, Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share, Trends Report 2034 — Government Cloud Market Size, Share, Trends Report 2034 IMARC Group https://www.imarcgroup.com > gover...",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Share , Growth, Forecast, 2034 — Government Cloud Market Size, Share , Growth, Forecast, 2034 Straits Research https://straitsresearch.com > report > g...",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Size, Growth Drivers 2035 — Government Cloud Market Size, Growth Drivers 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Analysis and Forecast 2025 -2032 — Government Cloud Market Analysis and Forecast 2025 -2032 Business Wire https://www.businesswire.com > home",
+    "url": "https://www.businesswire.com/news/home/20251217924654/en/Government-Cloud-Market-Analysis-and-Forecast-2025-2032-Top-Strategies-for-Public-Sector-Leaders-Adopting-Government-Cloud-Solutions---ResearchAndMarkets.com",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "こうした影響を受け、モビリティ、金融、ヘルスケアなどの産業界からの異業種参入が進んでおり、新たな参入企業が増えている",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、生成AIなどの技術を活用した提案が活発化しており、既存ベンダーは業務ノウハウを強みに、これらの新規参入企業との連携や役割分担が求められる",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "pass": 3
+   },
+   {
+    "quote": "3章 主要参入企業の調査個票",
+    "url": "https://pr.mono.ipros.com/yano/product/detail/2000357795/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a comprehensive analysis of the competitive landscape in the government cloud market with detailed profiles of all major companies, including:",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape allows stakeholders to understand their competitive environment and provides an insight into the current positions of key players in the market.",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the major players in the government cloud market include Amazon Web Services Inc., CGI Inc., Cisco Systems Inc., Dell Technologies Inc., Google LLC (Alphabet Inc.), Hewlett Packard Enterprise Development LP, International Business Machines Corporation, Microsoft Corporation, NetApp Inc., Oracle Corporation, Salesforce.com Inc., Verizon Communications Inc., VMware Inc, etc.",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market Competitive Landscape",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, Environment & Regulatory Landscape and Trends",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "His experience includes analyzing technology trends, market dynamics, regulatory developments, supply-demand patterns, value chains, and competitive landscapes across global and regional markets. He has supported clients with opportunity assessment, customer segmentation, competitive benchmarking, and growth strategy development.",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "In the landscape of the Government Cloud market, several key players dominate and each of these companies brings unique strengths and strategic approaches to the market.",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, COVID-19 Impact, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Web Services Inc., CGI Inc., Cisco Systems Inc., Dell Inc., Google Inc., IBM Corporation, Microsoft Corporation, NetApp Inc., Oracle Corporation, Rackspace Inc., Salesforce.com Inc., VMWare Inc., Other Key Players",
+    "url": "https://market.us/report/government-cloud-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Characteristics: Agencies should consider the cloud market competitive landscape and matu-",
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Market Characteristics: Agencies should consider the cloud market competitive landscape and matu-",
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape:",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "The report provides a comprehensive analysis of the competitive landscape in the government cloud market with detailed profiles of all major companies, including:",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "15 Competitive Landscape",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "15.2 Key Players",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "15.3 Profiles of Key Players",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "Table 8: Global: Government Cloud Market: Key Players",
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "pass": 3
+   },
+   {
+    "quote": "Government Cloud Market: Competitive Landscape",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "12.94",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "quote": "CAGR of 12.94%"
+   },
+   {
+    "value": "13.04",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "quote": "The Market Size is Expected to Grow at a CAGR of around 13.04% from 2026 to 2035"
+   },
+   {
+    "value": "18.4",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 18.4%"
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 17.2%"
+   },
+   {
+    "value": "17.8",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 17.8%"
+   },
+   {
+    "value": "15.8",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 15.8%"
+   },
+   {
+    "value": "9.6",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 9.6%"
+   },
+   {
+    "value": "22.6",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 22.6%"
+   },
+   {
+    "value": "20.1",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "CAGR: 20.1%"
+   },
+   {
+    "value": "17.58",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "quote": "The global government cloud market size was valued at USD 42.95 billion in 2025 and is projected to grow from USD 50.50 billion in 2026 to USD 184.49 billion by 2034, registering a CAGR of 17.58% during the forecast period from 2026 to 2034. North America dominated the government cloud market with a"
+   },
+   {
+    "value": "15.4",
+    "url": "https://market.us/report/government-cloud-market/",
+    "quote": "Government Cloud Market Size, Share | CAGR of 15.4%"
+   },
+   {
+    "value": "15.49",
+    "url": "https://market.us/report/government-cloud-market/",
+    "quote": "CAGR of 15.49%"
+   },
+   {
+    "value": "14.2",
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "quote": "The global government cloud market was worth $57.4 billion in 2025 and reaches $189.63 billion by 2034, a CAGR of 14.2% that adds $132.23 billion of annual spending. Growth comes from US federal cloud budgets, faster FedRAMP authorization, OneGov buying terms, classified workloads moving to cloud an"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "68.3",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "quote": "DX推進が遅れている理由（n=111）では、上位が「予算制約」（約68.3%）、「IT等の専門人材不足」（63.4%）で、まず“投入できる資源”がボトルネックになっています"
+   },
+   {
+    "value": "63.4",
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "quote": "DX推進が遅れている理由（n=111）では、上位が「予算制約」（約68.3%）、「IT等の専門人材不足」（63.4%）で、まず“投入できる資源”がボトルネックになっています"
+   },
+   {
+    "value": "2.96",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "quote": "自治体で全体の約半数を占めているが、最大値 2.96%まである程度の分布が見られる（図"
+   },
+   {
+    "value": "34.7",
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "quote": "North America currently dominates the market, holding a market share of over 34.7% in 2025."
+   },
+   {
+    "value": "47",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "quote": "The hybrid cloud segment dominated the market in 2025, approximately 47%, and is projected to grow at a substantial CAGR during the forecast period."
+   },
+   {
+    "value": "33",
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "quote": "The security & compliance segment accounted for the highest market revenue in 2025, approximately 33%, and is anticipated to grow at a significant CAGR during the forecast period."
+   },
+   {
+    "value": "54.6",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Public Cloud holds a 54.6% share of the Government Cloud Market in 2025, favored for pay-as-you-go economics and pre-authorized service catalogs."
+   },
+   {
+    "value": "38.0",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Federal and Central Government Agencies represent a 38.0% share of the Government Cloud Market"
+   },
+   {
+    "value": "43.6",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "North America dominates with a 43.6% share"
+   },
+   {
+    "value": "86.2",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 86.2%"
+   },
+   {
+    "value": "21.4",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 21.4%"
+   },
+   {
+    "value": "16.3",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 16.3%"
+   },
+   {
+    "value": "9.1",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 9.1%"
+   },
+   {
+    "value": "34.8",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 34.8%"
+   },
+   {
+    "value": "10.4",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 10.4%"
+   },
+   {
+    "value": "58.4",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 58.4%"
+   },
+   {
+    "value": "31.6",
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "quote": "Share of region: 31.6%"
+   },
+   {
+    "value": "17.58",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "quote": "The global government cloud market size was valued at USD 42.95 billion in 2025 and is projected to grow from USD 50.50 billion in 2026 to USD 184.49 billion by 2034, registering a CAGR of 17.58% during the forecast period from 2026 to 2034. North America dominated the government cloud market with a"
+   },
+   {
+    "value": "38.5",
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "quote": "The global government cloud market size was valued at USD 42.95 billion in 2025 and is projected to grow from USD 50.50 billion in 2026 to USD 184.49 billion by 2034, registering a CAGR of 17.58% during the forecast period from 2026 to 2034. North America dominated the government cloud market with a"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vI76SLhuAdlTZiwERA6_P4ZNg4u4ZmLfwtSMY_uIz5mL86x1zsX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://rpahack.com/dx-market-size",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labid.jp/article/kidw4q1l",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/254q06.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vJzDERp49WLNutNj4Pg1AlBhzcCzpjDzYipAQGYf5tBfRYGe3pm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.govtechbridge.com/dx-ranking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://txbiz.tv-tokyo.co.jp/wbs/feature/post_337533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yanoict.com/summary/show/id/809",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fcr.co.jp/report/244q10.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/yano/product/detail/2000357795/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/government-cloud-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/government-cloud-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vKmjOTWM2ACRKxSDMLxFDEgVC2edmUWH8r1FpUnI8BSDmDzheVt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.srgresearch.com/articles/cloud-market-share-trends-big-three-together-hold-63-while-oracle-and-the-neoclouds-inch-higher",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/government-cloud-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/government-cloud-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/dataisbeautiful/comments/18rf622/oc_market_share_of_the_biggest_cloud_providers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/us-cloud-computing-market-15852553.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.fedramp.gov/2026/agencies/use/classes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/cloud-services-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20251217924654/en/Government-Cloud-Market-Analysis-and-Forecast-2025-2032-Top-Strategies-for-Public-Sector-Leaders-Adopting-Government-Cloud-Solutions---ResearchAndMarkets.com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/blog/government-cloud-companies-602",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/government-cloud-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "自治体DX 市場規模 CAGR",
+   "results": [
+    "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vI76SLhuAdlTZiwERA6_P4ZNg4u4ZmLfwtSMY_uIz5mL86x1zsX",
+    "https://www.esri.cao.go.jp/jp/esri/archive/bun/bun209/bun209h.pdf",
+    "https://rpahack.com/dx-market-size",
+    "https://labid.jp/article/kidw4q1l",
+    "https://www.yanoict.com/summary/show/id/809",
+    "https://standard-dx.com/post_blog/what-can-we-learn-from-the-size-of-the-dx-market-in-japan-and-around-the-world",
+    "https://www.agi.or.jp/publications/report/2023/2023-07.html",
+    "https://www.itmedia.co.jp/enterprise/articles/2208/26/news035.html",
+    "https://japan.cnet.com/release/31182892/"
+   ]
+  },
+  {
+   "query": "自治体DX 市場 シェア 上位 企業",
+   "results": [
+    "https://www.ohmae.ac.jp/mbaswitch/municipality_dx_market",
+    "https://www.fcr.co.jp/report/254q06.htm",
+    "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vJzDERp49WLNutNj4Pg1AlBhzcCzpjDzYipAQGYf5tBfRYGe3pm",
+    "https://lp.govtechbridge.com/dx-ranking/",
+    "https://txbiz.tv-tokyo.co.jp/wbs/feature/post_337533",
+    "https://www.concur.co.jp/blog/article/jichitai-dx",
+    "https://labid.jp/article/kidw4q1l",
+    "https://rpahack.com/dx-market-size",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=832510711&la=ja",
+    "https://govtechbridge.com/dx-ranking/list"
+   ]
+  },
+  {
+   "query": "自治体DX 市場 前年比 2025",
+   "results": [
+    "https://www.yano.co.jp/press-release/show/press_id/3784?srsltid=AYCX9vKvQmOzcubcQNNMKrcQsKzndTNzj6UmOWx9xqzvpIahori9Abqt",
+    "https://labid.jp/article/kidw4q1l",
+    "https://www.yanoict.com/summary/show/id/809",
+    "https://www.fcr.co.jp/report/244q10.htm",
+    "https://pr.mono.ipros.com/yano/product/detail/2000357795/",
+    "https://blogs.itmedia.co.jp/business20/2023/02/2025_dx.html",
+    "https://www.ohmae.ac.jp/mbaswitch/municipality-dx/",
+    "https://www.yano.co.jp/press-release/show/press_id/4093?srsltid=AYCX9vL-ABzgCUUcLDgt7QkUQLLgJoJ9NwuPM6OSIMvnB-nPI5IQNOzN",
+    "https://www.fuji-keizai.co.jp/report/detail.html?code=832410710&la=ja",
+    "https://www.yano.co.jp/press-release/show/press_id/4093"
+   ]
+  },
+  {
+   "query": "government cloud market size CAGR 2025",
+   "results": [
+    "https://www.imarcgroup.com/government-cloud-market",
+    "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "https://straitsresearch.com/report/government-cloud-market",
+    "https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html",
+    "https://www.linkedin.com/pulse/comprehensive-evaluation-north-america-government-cloud-omx9f",
+    "https://finance.yahoo.com/news/government-cloud-computing-forecast-report-150200722.html",
+    "https://www.grandviewresearch.com/industry-analysis/cloud-computing-industry",
+    "https://market.us/report/government-cloud-market/",
+    "https://www.mordorintelligence.com/industry-reports/government-cloud-market"
+   ]
+  },
+  {
+   "query": "government cloud market share top players percent",
+   "results": [
+    "https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/?srsltid=AYCX9vKmjOTWM2ACRKxSDMLxFDEgVC2edmUWH8r1FpUnI8BSDmDzheVt",
+    "https://www.srgresearch.com/articles/cloud-market-share-trends-big-three-together-hold-63-while-oracle-and-the-neoclouds-inch-higher",
+    "https://www.mordorintelligence.com/industry-reports/government-cloud-market",
+    "https://market.us/report/government-cloud-market/",
+    "https://www.reddit.com/r/dataisbeautiful/comments/18rf622/oc_market_share_of_the_biggest_cloud_providers/",
+    "https://www.imarcgroup.com/government-cloud-market",
+    "https://www.cloudzero.com/blog/cloud-service-providers/",
+    "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "https://cloudwars.com/cloud-wars-top-10/",
+    "https://www.marketresearchfuture.com/reports/government-cloud-market-28200"
+   ]
+  },
+  {
+   "query": "government cloud market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://straitsresearch.com/report/government-cloud-market",
+    "https://www.imarcgroup.com/government-cloud-market",
+    "https://market.us/report/government-cloud-market/",
+    "https://www.marketsandmarkets.com/Market-Reports/us-cloud-computing-market-15852553.html",
+    "https://www.mordorintelligence.com/industry-reports/government-cloud-market",
+    "https://forum.ibgp.net.br/wp-content/uploads/2018/09/federal-cloud-computing-strategy.pdf",
+    "https://www.fortunebusinessinsights.com/cloud-computing-market-102697",
+    "https://www.linkedin.com/pulse/cloud-computing-government-market-us-japan-korea-o0lrf",
+    "https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf",
+    "https://www.fedramp.gov/2026/agencies/use/classes/"
+   ]
+  },
+  {
+   "query": "government cloud market key companies share 2025",
+   "results": [
+    "https://straitsresearch.com/report/government-cloud-market",
+    "https://www.sphericalinsights.com/reports/government-cloud-market",
+    "https://www.marketresearchfuture.com/reports/government-cloud-market-28200",
+    "https://www.mordorintelligence.com/industry-reports/government-cloud-market",
+    "https://www.precedenceresearch.com/cloud-services-market",
+    "https://www.businesswire.com/news/home/20251217924654/en/Government-Cloud-Market-Analysis-and-Forecast-2025-2032-Top-Strategies-for-Public-Sector-Leaders-Adopting-Government-Cloud-Solutions---ResearchAndMarkets.com",
+    "https://www.linkedin.com/pulse/government-cloud-market-industry-growth-analysis-revenue-ashish-kumar-kcpnc",
+    "https://www.researchandmarkets.com/reports/5769053/government-cloud-market-size-share-trends?srsltid=AYCX9vLx30asarENHhl3uwZNMVV07APt2AIvJggNDD9Zo4Qyb0w6N-2j",
+    "https://www.marketgrowthreports.com/blog/government-cloud-companies-602",
+    "https://dataintelo.com/report/government-cloud-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

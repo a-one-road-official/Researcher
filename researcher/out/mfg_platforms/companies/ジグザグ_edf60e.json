@@ -1,0 +1,1362 @@
+{
+ "name": "ジグザグ",
+ "aliases": [
+  "ZIGZAG",
+  "WorldShopping"
+ ],
+ "context": "越境EC（参考）",
+ "researched_at": "2026-11-02T14:48:15.442823+00:00",
+ "official_url": "https://zigzag.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2020年11月",
+    "url": "https://zigzag.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "設立年月日",
+    "value": "2015年6月24日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "60 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "集客": [
+   {
+    "quote": "各種メディアの企画・制作",
+    "url": "https://zigzag.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "改めて自己紹介をさせていただきます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "それまでは広告代理店で営業やマーケティングに従事しており、エンジニアではございません",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当時、インターネット広告会社のオプトに在籍していた私は、インターネットがあれば世界中から商品を購入できるはずだと考えていました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当社のサービスの価値を実感した忘れられないエピソードをご紹介します",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook広告を出稿すると、トラフィックが増えてオーダーが増加したというショップもございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "少し事例をご紹介いたします",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "そうした企業と提携することによって、そのカートを使っているショップの中で海外販売したいというニーズがある場合には、当社に自動的に紹介が来るような流れができています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これによって、単純にタグを導入して終わりではなく、分析をし、多言語のSNS発信方法等を伝授し、WorldShopping BIZのクーポン機能を使って後押しをし、インバウンド対策をし、さらに海外広告出稿していく、という流れによって売上を伸ばす支援を現在しております",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. 主にECカート事業者様のご紹介によってショップとの契約が増えていく形になっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "どのようなウェブサイトでも外国人のアクセスが存在しており、これは検索だけでなく、最近ではSNSといった非言語のサーチによる遷移も増えていますし、AI経由のリンクも増えているでしょう",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "つまり人件費、広告宣伝費、支払手数料（主に決済手数料）以外のものです",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "決算など上場企業の適時開示を一覧・検索",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "検索にも対応",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "企業名や証券コード以外にも優待の種類やキーワードで検索できます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待検索を使う",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "新聞広告ガイド",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "電子版広告ガイド",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、上場セレモニーの様子や、ニュースメディア出演、記者会見など、上場日当日のリアルな様子をお届けいたします",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "越境EC支援のジグザグ、ビジネスメディア「PIVOT」に国内インバウンド需要をテーマにピッチ出演！",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "ウェブインバウンド・越境EC支援を行う「WorldShopping BIZ（ワールドショッピングビズ）」を展開する株式会社ジグザグは、PIVOT株式会社が運営するビジネス映像メディア「PIVOT」に出演",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "今後社会に求められるビジネスで更に活躍の幅を広げたいと思い、派遣会社の紹介を受けジグザグへ入社",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "母校の大学から紹介を受け、日本への語学研修・ワーキングプログラムにて来日",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "プログラム終了時に、語学学校の先生の知人を介してジグザグ代表の仲里を紹介され、2019年11月よりジグザグ入社、現在に至る",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は、弊社が毎週火曜日に配信している公式Podcast「起業家のキモチ」を文字で読むことができる",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZagが切り拓く越境EC市場の未来とは？CEO自ら語る創業秘話とは？2本立ての前編となる本記事では",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は、2021年と2022年にご出演いただいたPodcastの音源を記事として再編集しお届けしています",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■ゲスト紹介_株式会社ジグザグ代表取締役/越境EC専門家 仲里一義氏",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "ネット広告「オプト」でWebマーケティングに従事し、営業部長や新規事業本部の統括を歴任",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "爆買いブーム以前から越境EC支援に取り組み、各ビジネスメディアに取り上げられる",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "10年以上にわたるウェブサービスや越境ECビジネスの事業経験を元に、メディア取材やセミナー登壇にも応じている",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■事業紹介：「WorldShopping BIZ」誕生の経緯",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■たまたま手に取った本がきっかけで広告業界へ",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "まずは御社の事業紹介をお願いします",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "以前インターネットの広告業界に居た際に、日本のウェブサイトにも海外からのアクセスがあること、ただ残念ながら日本のウェブサイトの商品は海外から買えない、ということに気づいたんです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "この時点で、クロスボーダー領域のイノベーションは、これらの課題を解決しないといけないことには気づいていたのですが、当時はまだインターネット広告の世界にいたので物流については分からなかったんです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後は広告宣伝のオックスプランニング（現クラウドポイント社）へ入社されていますが、学生時代には広告業界を志望されていたのでしょうか？",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "実は、全く広告業界は志望していませんでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に、ふとしたきっかけでリクルートブックという就活の本をパッと開いたときに、何か楽しそうな会社のページがあって(笑) それがオックスプランニングという会社で、「クリエイティブとか広告って面白そうだな」と思って受けに行ったのがきっかけでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その当時、オックスプランニング社というのは人材系の広告をやってる会社でしたが、そこはぶっちゃけあんまり引っかからなかったんです(笑)",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その後、インターネット広告へはどのようなご縁で進んでいったのでしょうか？",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その藤田さんがその後起業して、インターネット世界で大成功してるときに、私はまだ屋外広告の世界にいました",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "MICでは投資先企業を紹介する公式Podcast番組「起業家のキモチ～シーズン4～」を毎週火曜日に更新中",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "主に投資先のスタートアップ企業の事業紹介、社内キャピタリストの声を届けていきたいと思います",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "メンバー紹介：Minami Development本部 プロダクトマネジメント | 株式会社ジグザグ - zig-zag,Inc",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグに転職するきっかけになったのは知人の紹介です",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG is headquartered in Seoul, South Korea.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "THG PLC is an online retailer. It provides an end-to-end direct-to-consumer (\"D2C\") e-commerce solution for consumer brand owners under a Software as a Service, in addition to stand-alone services, including hosting, content creation and translation. Its business is operated through four businesses: THG Ingenuity, THG Nutrition, THG Beauty and Other. The company operates in the United Kingdom.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to our newsletter for weekly valuation updates. Delivered every Friday.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "-真天地開闢集団-ジグザグ エポスカード｜年会費無料のクレジットカードはエポスカード",
+    "url": "https://www.eposcard.co.jp/gecard/zigzag/",
+    "pass": 3
+   },
+   {
+    "quote": "それまでは広告代理店で営業やマーケティングに従事しており、エンジニアではございません",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当時、インターネット広告会社のオプトに在籍していた私は、インターネットがあれば世界中から商品を購入できるはずだと考えていました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "越境事業のため、現在は日本を拠点としてグローバル展開しておりますが、売上の95%が海外、5%が日本のECサイトからの課金となっております",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "この手数料収益が当社の海外売上になっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ショップに対しては、このサービスは売上手数料無料です",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "いくら売れても発生するコストは、初期費用3万円と月額5,000円のサービスでございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、収益の大半は海外カスタマーからの手数料収益となっているモデルでございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ショップからすると、月額5,000円を支払えば、多言語カスタマーサポート、決済機能、配送まで全て対応できる、非常にローリスクな料金設定となっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook広告を出稿すると、トラフィックが増えてオーダーが増加したというショップもございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当社の売上高は、この中からテイクレートとしての手数料部分の収益が当社の売上高でございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "先ほど申し上げたように、ショップからすると月額5,000円で丸ごと海外対応ができ、かつ既にやってきている海外カスタマーからのオーダーが増えていくモデルですので、ほぼリスクがない状態でございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これによって、単純にタグを導入して終わりではなく、分析をし、多言語のSNS発信方法等を伝授し、WorldShopping BIZのクーポン機能を使って後押しをし、インバウンド対策をし、さらに海外広告出稿していく、という流れによって売上を伸ばす支援を現在しております",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "月額課金と手数料収益の関係は？",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. 初期費用3万円と月額5,000円は、売上高の5%に該当します",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "残り95%が海外からの手数料収益です",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "海外カスタマーが当社に商品代金と手数料を支払った場合、例えば3万円の商品代金と5,000円の配送料の合計がGMV（取扱高）になります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当社の売上高14億円は、この中に含まれている購入代行手数料と配送料に含まれている当社の手数料部分です",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. ご質問の5,000円や3万円の課金部分は定額課金で増えていかないため、全体の取扱高が増えると割合が減るのではないかというご質問ですが、両方とも100%粗利の手数料部分になっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "例えば1万円の商品を配送させていただくと10%の1,000円を手数料としていただきます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これとショップ様から月額5,000円いただくのも全て手数料になりますので、to B、to C共に手数料として全て粗利になります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "商品代金と当社の手数料と運賃を全てお支払いいただいています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "全体で当社の手数料はGMVに対して約22%になります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Q. ショップの売上積み上げモデルと手数料値上げの予定は？",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. テイクレートに関して、購入時の購入代行手数料以外に物流コストで当社がディスカウントをいただいている部分がございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "海外カスタマーに関しては、購入手数料10%をもらっている事に加えて、日本郵便の国際郵便料金やFedEx、DHL料金を払っているというイメージでございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "有料会員の方のみご利用になれます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは有料会員のみご覧になれます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "［有料会員限定］",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "新聞広告ガイド",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "電子版広告ガイド",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "ネット広告「オプト」でWebマーケティングに従事し、営業部長や新規事業本部の統括を歴任",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■たまたま手に取った本がきっかけで広告業界へ",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "以前インターネットの広告業界に居た際に、日本のウェブサイトにも海外からのアクセスがあること、ただ残念ながら日本のウェブサイトの商品は海外から買えない、ということに気づいたんです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "この時点で、クロスボーダー領域のイノベーションは、これらの課題を解決しないといけないことには気づいていたのですが、当時はまだインターネット広告の世界にいたので物流については分からなかったんです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "大学卒業後は広告宣伝のオックスプランニング（現クラウドポイント社）へ入社されていますが、学生時代には広告業界を志望されていたのでしょうか？",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "実は、全く広告業界は志望していませんでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に、ふとしたきっかけでリクルートブックという就活の本をパッと開いたときに、何か楽しそうな会社のページがあって(笑) それがオックスプランニングという会社で、「クリエイティブとか広告って面白そうだな」と思って受けに行ったのがきっかけでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その当時、オックスプランニング社というのは人材系の広告をやってる会社でしたが、そこはぶっちゃけあんまり引っかからなかったんです(笑)",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その後、インターネット広告へはどのようなご縁で進んでいったのでしょうか？",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "その藤田さんがその後起業して、インターネット世界で大成功してるときに、私はまだ屋外広告の世界にいました",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "noteプレミアム",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing strategies",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "In essence, ZigZag is an invaluable asset for entrepreneurship education. It not only reduces the workload associated with the initial stages of business planning but also enriches the learning experience by emphasizing:",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic planning:",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Advertising",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "オフィシャルファンクラブ「参拝者の集い“ベレボ”」価格改定 ... — オフィシャルファンクラブ「参拝者の集い“ベレボ”」価格改定 ... 真天地開闢集団-ジグザグ https://zigzag.asia > news",
+    "url": "https://zigzag.asia/news/20241230-1.html",
+    "pass": 3
+   },
+   {
+    "quote": "10周年イヤー開幕の-真天地開闢集団- ジグザグ 会員 限定「特番 ... — 10周年イヤー開幕の-真天地開闢集団- ジグザグ 会員 限定「特番 ... Fanplus https://fanplus.co.jp > news > detail",
+    "url": "https://fanplus.co.jp/news/detail/715",
+    "pass": 3
+   },
+   {
+    "quote": "-真天地開闢集団- ジグザグ エポス カード ｜年会費無料の ... — -真天地開闢集団- ジグザグ エポス カード ｜年会費無料の ... エポスカード https://www.eposcard.co.jp > gecard > zigzag",
+    "url": "https://www.eposcard.co.jp/gecard/zigzag/",
+    "pass": 3
+   },
+   {
+    "quote": "【-真天地開闢集団- ジグザグ 】「参拝者の集い “べレボ”」 会員 ... — 【-真天地開闢集団- ジグザグ 】「参拝者の集い “べレボ”」 会員 ... Fan+Headline https://fanpla.jp > fanplus_news > detail",
+    "url": "https://fanpla.jp/fanplus_news/detail/2558",
+    "pass": 3
+   },
+   {
+    "quote": "参拝者の集い \"べレボ\" - Plus member ID ヘルプ — 参拝者の集い \"べレボ\" - Plus member ID ヘルプ Plus member ID ヘルプ https://secure.plusmember.jp > zigzag > login",
+    "url": "https://secure.plusmember.jp/zigzag/1/login/",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグ (340A) の企業概要・業績・財務・IR資料 — ジグザグ (340A) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/340A",
+    "pass": 3
+   },
+   {
+    "quote": "[書き起こし] ジグザグ (340A)IRセミナー&質疑応答 2025.7.23 — [書き起こし] ジグザグ (340A)IRセミナー&質疑応答 2025.7.23 note https://note.com > ... > その他人物インタビュー",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "【 ジグザグ 】[340A]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 ジグザグ 】[340A]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "【QAあり】 ジグザグ 、米国関税の逆風を受けつつも 売上 高は ... — 【QAあり】 ジグザグ 、米国関税の逆風を受けつつも 売上 高は ... ログミーFinance https://finance.logmi.jp > articles",
+    "url": "https://finance.logmi.jp/articles/382796",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 | 株式会社 ジグザグ - zig-zag,Inc - 株式会社 ジグザグ — 採用情報 | 株式会社 ジグザグ - zig-zag,Inc - 株式会社 ジグザグ 株式会社ジグザグ - zig-zag,Inc https://www.zig-zag.co.jp > recruits",
+    "url": "https://www.zig-zag.co.jp/recruits/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ジグザグ の働き方とストーリー - Wantedly — 株式会社 ジグザグ の働き方とストーリー - Wantedly Wantedly https://www.wantedly.com > Wantedly > 株式会社ジグザグ",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "MIC× ジグザグ _前編：日本のECを世界へ - ZigZag が切り拓く ... — MIC× ジグザグ _前編：日本のECを世界へ - ZigZag が切り拓く ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "メンバー紹介：Minami Development本部 プロダクト ... — メンバー紹介：Minami Development本部 プロダクト ... 株式会社ジグザグ - zig-zag,Inc https://www.zig-zag.co.jp > member > minami",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグ 、 創業 11周年。「ウェブインバウンド®」で世界中の ... — ジグザグ 、 創業 11周年。「ウェブインバウンド®」で世界中の ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000340.000018480.html",
+    "pass": 3
+   },
+   {
+    "quote": "「想いが、未来をつくる。」 ジグザグ が上場までに歩んだ挑戦 ... — 「想いが、未来をつくる。」 ジグザグ が上場までに歩んだ挑戦 ... UPSIDER https://userstory.up-sider.com > posts > zig-zag",
+    "url": "https://userstory.up-sider.com/posts/zig-zag",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZag – Make your Entrepreneurship Classes More Efficient ... — ZigZag – Make your Entrepreneurship Classes More Efficient ... Playground for Entrepreneurs https://playgroundforentrepreneurs.com > ...",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG Acquisition, Valuation, Funding & Investors | Multiples — ZIGZAG Acquisition, Valuation, Funding & Investors | Multiples Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Purchase Experience - ZigZag Global — Post-Purchase Experience - ZigZag Global ZigZag Global returns https://www.zigzag.global > post-purc...",
+    "url": "https://www.zigzag.global/post-purchase-experience",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZag Global — venture-backed company profile - Dealroom — ZigZag Global — venture-backed company profile - Dealroom Dealroom https://dealroom.co > zigzag-global",
+    "url": "https://dealroom.co/companies/zigzag-global/",
+    "pass": 3
+   }
+  ],
+  "誰から払われるか": [
+   {
+    "quote": "当時、FacebookなどSNSの普及により情報のボーダーは低くなっていましたが、売り手側（ショップ側）には依然として大きなボトルネックがありました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "この理由を考えてたどり着いたのが、売り手側（ECサイト側）に言語・決済・物流というボトルネックが存在するため、海外に配送もできない・販売できないのだ、ということでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZag stands out by offering a streamlined approach to entrepreneurship workshops and classes. With just a few clicks to set up a free account, users are introduced to a world where the focus shifts to innovation and creativity.",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "取扱高（GMV）の詳細",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "取扱高GMVの詳細でございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "海外カスタマーからの決済総額がGMVに該当します",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "KPIとして取扱高GMVを分解していくと、ショップあたり売上高×ショップ数に分かれていきます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "GMVの積み上げ",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これは取扱高GMVの積み上げグラフでございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "WorldShopping BIZを契約した年度ごとのショップの塊をGMVで表示しています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "海外カスタマーが当社に商品代金と手数料を支払った場合、例えば3万円の商品代金と5,000円の配送料の合計がGMV（取扱高）になります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "全体で当社の手数料はGMVに対して約22%になります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当社の特徴的な点は、Eコマース事業に関連するGMVでありながら、SaaSビジネスのようにショップが増えていけば、結果的にそこに存在する海外カスタマーのオーダーが入ってくることによって積み上がっていくということをご説明したかったグラフになっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "結局GMVに対する取扱高になりますので、3PLだと配送だけになりますので、そこが違うかなと思います",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Q. GMVに対するテイクレートが25%程度になると、日本人が25%高く買うことになり躊躇しないか？今後のテイクレートの予定は？",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "数字の見方が少し違っていて、GMVは今期の数字と言っていただいていますが、売上高はおそらく来期予想を使われており、正しく計算すると22%がテイクレートになっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZag stands out by offering a streamlined approach to entrepreneurship workshops and classes. With just a few clicks to set up a free account, users are introduced to a world where the focus shifts to innovation and creativity.",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "This AI-driven tool is not just about generating outputs; it's about fostering critical thinking and innovation, guiding users to question, refine, and validate their business ideas.",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "This data is available for Pro users. Sign up to see all 2 ZIGZAG investors.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "This data is available for Pro users. Sign up to see all",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Fanli is a Shanghai-based e-commerce rebate platform in China. Launched in 2006, the service directs users to merchant sites via affiliate links, earning rebates on purchases including home appliances.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "41歳でジグザグを創業いたしました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグ創業前は、外資系物流会社で国際物流サービスに携わり、その経験を経て現在の事業を立ち上げました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "創業の原体験",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "創業のきっかけは、私自身が日本にいながら海外商品を購入できなかった体験にあります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "創業時の資金調達苦労話",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "創業資金450万円からのスタート",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "さらに政策金融公庫から1,000万円、渋谷区の創業融資で1,000万円のデットファイナンスを受け、総額約3,800万円の資金でスタートいたしました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これが創業時の、今では思い出したくないキャッシュアウト危機でした",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "このポジショニングを守るため、創業時から知財戦略を非常に重要視していました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "実は、創業から2024年Q3までは、リピートカスタマー数に対して何もしていませんでした",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "当初の予想は20%と言っていましたが、そこから3%プラスになったところでございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. 創業時から投資いただいているVCさんなので、彼らもエグジットとしてはいずれは売却を考えているのではないかと予測しています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "越境ECをトータルサポートするジグザグ、創業10周年",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "〜ウェブインバウンド・越境EC支援を行う「WorldShopping BIZ」を展開する株式会社ジグザグ（本社：東京都渋谷区、代表取締役：仲里一義）は、多くの方に支えられて2025年6月24日に創業10周年を迎えました",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "ここに謹んでご報告申し上げますとともに、当社のお客様、お取引先様をはじめ、創業以来支えてくださったすべてのステークホルダーの皆様のご支援、ご高配に心より御礼申し上げます",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけについて教えてくださいベンチャー企業で広報に従事して4年目の時期に、もともと知人だったHOPE（取締役のKimura）から声をかけ...",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけについて教えてください中国で大学卒業後、一貫して開発の仕事に携わっています",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけについて教えてください以前、越境ECに関連した会社で働いていました",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけについて教えてくださいリファラル採用の転職でした",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "以前在籍した職場で上司だった鈴木賢さん（当社役員）に声をかけてもらったのがきっかけです",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけについて教えてください『人生目標』が叶えられる気がし...",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "モバイル・インターネットキャピタル株式会社（以下MIC）は、1999年の創業時からデジタルテック領域において、リード投資を基本とし、シリーズAを中心とするオールステージにてスタートアップへ投資支援活動を行う独立系のベンチャーキャピタルです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "ZigZagが切り拓く越境EC市場の未来とは？CEO自ら語る創業秘話とは？2本立ての前編となる本記事では",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "2015年「株式会社ジグザグ」を創業",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■たまたま手に取った本がきっかけで広告業界へ",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "■創業期の苦労",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "仲里さんがこの事業アイデアを思いついたきっかけを教えていただけますか？",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "も必要不可欠だと思い、いまのジグザグのビジネスモデルに近いことを考えついたのがきっかけです",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "最初はインテリアや家具、家、不動産など住まいに興味がありました",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "そんな時に、ふとしたきっかけでリクルートブックという就活の本をパッと開いたときに、何か楽しそうな会社のページがあって(笑) それがオックスプランニングという会社で、「クリエイティブとか広告って面白そうだな」と思って受けに行ったのがきっかけでした",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "仲間は一人ですね",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "では最初は、ほぼ一人でスタートされたんですね",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "入社のきっかけは？",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグに転職するきっかけになったのは知人の紹介です",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、入社当初は社内のシステムに慣れることに苦労したので、フローの改善を行いながら、後輩にあたる皆さんがスムーズに業務に入れるよう配慮しています",
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "I encourage you to incorporate ZigZag into your next entrepreneurship class or workshop. The platform is accessible and can significantly enhance your students' learning experience in early-stage ideation and validation.",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "Founder, Playground for Entrepreneurs",
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG's first fundraising round was a $3M Series B in April 2016. The most recent completed round was a $6M Series B in May 2017.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "First check",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "創業時の資金調達苦労話",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル事業を450万円で始めるのは厳しく、その後オプトの恩師である海老根会長などに相談し、エンジェル投資家から資金調達を行い、1,500万円を追加調達いたしました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "次の資金調達を模索していましたが、当時のVC環境は厳しく、5,000万円程度の調達は困難でした",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "入金があるはずもない通帳を記帳しながら、必死に資金調達活動を続けていた状況でした",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "こうした困難を乗り越えながら、その後順調にサービスが成長し、さらなる資金調達を実施いたしました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "2020年以降はメンバーが集まり始め、現在では60名を超える規模となり、今年3月31日に上場した経緯でございます",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 筆頭株主のモバイルインターネットキャピタルの株式売却について",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. 創業時から投資いただいているVCさんなので、彼らもエグジットとしてはいずれは売却を考えているのではないかと予測しています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ロックアップがかかっていますので、当社の上場から90日間は売却できません",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、上場時の株価の1.5倍を超えれば売れるという条件になっています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "実際に大きく売却が確認できているのは90日経過後だと思いますので、6月30日以降の場中での売却や、ToSTNeT（東証立会外分売）での相対取引という形が動いていると思います",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "6月30日より前の売却は株価が1.5倍を超えているところでの売買になっております",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "Q. 決算発表前の大株主の売却に規制はないのか？",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. いわゆるインサイダー取引に関してですが、当社の大株主であるベンチャーキャピタルの方とのインサイダー防止のため、上場の審査に入る前から情報の遮断をさせていただいています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "これが上場の条件になっており、これまでは取締役会への出席等がありましたが、全てストップしてコミュニケーションもストップさせていただいています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "A. 当社のビジネスはいろんな要素が絡まっているため、IPOの時も業種分類に非常に苦労した部分がありました",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "今求められているのは既存のモールでもなく、個別のECサイト構築サービスでもなく、その上のアプリケーションレイヤーでグローバル対応をしっかりやっていくことだと、上場時からお話しさせていただいています",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "過去に動きがあったところは、IPOの時にリーガルチェック等のコストを大きくかけた時がありましたので、そういう時に増えた要素があります",
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "pass": 3
+   },
+   {
+    "quote": "決算など上場企業の適時開示を一覧・検索",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業を中心に有価証券報告書などを掲載",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグが東証グロース市場に上場しました【上場セレモニーレポート】",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月31日、株式会社ジグザグは東証グロース市場へ新規上場しました",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、上場セレモニーの様子や、ニュースメディア出演、記者会見など、上場日当日のリアルな様子をお届けいたします",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "当日のタイムスケジュール8:00 プレスリリース10:10 東京証券取引所（東証）に集合10:30 Stock Voice 出演11:00 上場セレモニー開始11:15 記念撮影（一時休憩）17:00 記者会見＠兜倶楽部18:00 社内イベントへ8:00 プレ...",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "ジグザグ、東京証券取引所グロース市場へ新規上場に関するお知らせ",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジグザグ（本社：東京都渋谷区、代表取締役：仲里一義）は、2025年3月31日に東京証券取引所グロース市場（証券コード：340A）へ新規上場いたしました",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "起業家が投資家に対して行う出資交渉を映像化したリアル投資ドキュメンタリー「ANGELS」にて、「インバウンド」をテーマに投資家に向けたリアルピッチを行いました",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "新入社員の受け入れから、その後のフォローまで、毎日皆の働き方を確認しサポートしつつ、社内全体の制度整備やIPO向けの体制強化などを進めています",
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業とかも受けていましたし",
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG Acquisition, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG was acquired by",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG acquisition price",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired by",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG revenue at acquisition",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG revenue multiple at acquisition",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Cumulative funding ZIGZAG raised",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "across 2 funding rounds",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition by Kakao",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Funding history",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "$900M (acquired Apr 2021)",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG Acquisition",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG was acquired by Kakao for $900M on 15 April 2021.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition price implies a 25.7x revenue multiple on $35M of revenue.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Before the acquisition ZIGZAG had raised $9M across 2 funding rounds.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "This acquisition fits Kakao's e-commerce diversification strategy amid South Korea's booming online retail sector, following its decision not to bid for eBay Korea and amid competition from players like SSG.com, which acquired W Concept. The merger is expected to leverage synergies for enhanced mobile shopping across demographics.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG acquisition details",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG Funding History",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG has raised a total of $9M across 2 funding rounds.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "ZIGZAG funding rounds",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Raised",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "2 investors have backed ZIGZAG across its funding rounds, including Altos Ventures and Stonebridge Ventures.",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   },
+   {
+    "quote": "Investors in ZIGZAG by funding rounds participated",
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zigzag.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://zigzag.asia/news/20241230-1.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fanplus.co.jp/news/detail/715",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eposcard.co.jp/gecard/zigzag/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/company/340A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kabuberry_/n/nca0092731074",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wantedly.com/companies/zig-zag/stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mic_official/n/n97adb0236733",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zig-zag.co.jp/member/minami/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exitadvisory.com.au/insights/recurring-revenue-series-how-to-create-a-subscription-model-that-solves-everyday-problems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/zigzag",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジグザグ 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://zigzag.asia/news/20241230-1.html",
+    "https://fanplus.co.jp/news/detail/715",
+    "https://www.eposcard.co.jp/gecard/zigzag/",
+    "https://fanpla.jp/fanplus_news/detail/2558",
+    "https://secure.plusmember.jp/zigzag/1/login/",
+    "https://prtimes.jp/main/html/rd/p/000000575.000002848.html",
+    "https://x.com/shintenchi0601/status/1886370295822651861",
+    "https://b-pass.online/news/844",
+    "https://berevo.zigzag.asia/feature/entry",
+    "https://www.zig-zag.co.jp/"
+   ]
+  },
+  {
+   "query": "ジグザグ 売上 従業員 創業",
+   "results": [
+    "https://www.crex-data.com/company/340A",
+    "https://note.com/kabuberry_/n/nca0092731074",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=340A",
+    "https://finance.logmi.jp/articles/382796",
+    "https://www.zig-zag.co.jp/recruits/",
+    "https://prtimes.jp/main/html/rd/p/000000340.000018480.html",
+    "https://userstory.up-sider.com/posts/zig-zag",
+    "https://minkabu.jp/news/4418867",
+    "https://www.wantedly.com/companies/zig-zag/stories"
+   ]
+  },
+  {
+   "query": "ジグザグ 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.wantedly.com/companies/zig-zag/stories",
+    "https://note.com/mic_official/n/n97adb0236733",
+    "https://www.zig-zag.co.jp/member/minami/",
+    "https://prtimes.jp/main/html/rd/p/000000340.000018480.html",
+    "https://userstory.up-sider.com/posts/zig-zag",
+    "https://x.com/nakazaty",
+    "https://www.commercepick.com/archives/68106",
+    "https://voicy.jp/channel/1714/6872524",
+    "https://news.nicovideo.jp/watch/nw19462326",
+    "https://ja.wikipedia.org/wiki/仲里一義"
+   ]
+  },
+  {
+   "query": "ジグザグ revenue members business model",
+   "results": [
+    "https://exitadvisory.com.au/insights/recurring-revenue-series-how-to-create-a-subscription-model-that-solves-everyday-problems",
+    "https://playgroundforentrepreneurs.com/blog/zigzag-for-entrepreneurship",
+    "https://multiples.vc/private-comps/zigzag",
+    "https://www.zigzag.global/post-purchase-experience",
+    "https://dealroom.co/companies/zigzag-global/",
+    "https://www.amazingcto.com/zig-zag-model-vision-strategy/",
+    "https://www.youtube.com/watch?v=XCRtEVsTXsc",
+    "https://climbingbusinessjournal.com/zigzag-climbing-launches-groundbreaking-impact-route-activation-removing-234-pounds-of-ocean-bound-plastic-at-valley-rock-gym-competition/",
+    "https://www.loopreturns.com/compare/loop-vs-zigzag/",
+    "https://irbank.net/E40189/results"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索4回）"
+ }
+}

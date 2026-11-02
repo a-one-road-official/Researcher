@@ -1,0 +1,1863 @@
+{
+ "name": "Multimatic",
+ "aliases": [
+  "Multimatic Inc",
+  "マルチマティック"
+ ],
+ "context": "部品供給・少量車両製造（加）",
+ "researched_at": "2026-11-02T14:33:08.554028+00:00",
+ "official_url": "https://www.multimatic.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Multimatic | Multimatic Inc. - Global automotive supplier delivering engineering services, manufacturing solutions, and problem-solving around the world.",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering engineering services, manufacturing solutions, and problem-solving around the world.",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Services",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "is a privately held Canadian corporation that supplies components, systems, and engineering services to the global automotive industry. Headquartered in",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting and Advisory Firms",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "We are able to perform damper set-up work on behalf of customers whose vehicle uses Multimatic DSSV dampers and who are using the multi-post rig. Please inquire as to whether this service is required when booking the rig.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "Multimatic | Multimatic Inc. - Global automotive supplier delivering engineering services, manufacturing solutions, and problem-solving around the world.",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic Inmet Composites",
+    "url": "https://www.multimatic.com/about/facilities",
+    "pass": 1
+   },
+   {
+    "quote": "A unique blend of high-volume, production-focused engineering, vehicle systems expertise and advanced R&D capability.",
+    "url": "https://www.multimatic.com/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Developing components optimized for efficient production.",
+    "url": "https://www.multimatic.com/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "UK – Composites:",
+    "url": "https://www.multimatic.com/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Our testing expertise generates results which correlate and validate actual vs. target performance of components, systems and complete vehicles.",
+    "url": "https://www.multimatic.com/engineering/testing",
+    "pass": 1
+   },
+   {
+    "quote": "2. Synthesis: System- and Component-Level Specifications",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "In part two of the Synthesis phase, we analyzed all affected vehicle systems to develop",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "system- and component-level specifications",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "System- and component-level performance were later measured against these targets.",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "3. Component Design and Engineering",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "to develop a new Multimatic DSSV damper aimed at meeting the component-level specification.",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "4. Validation: Component- and System-Level Testing",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "component-level validation",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "From individual components to complete systems.",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "High-Volume Production Components",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "From component-level to full-vehicle crash predictions.",
+    "url": "https://www.multimatic.com/engineering/predictive-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic’s Thetford-based Vehicle Dynamics centre is frequented by OEMs and UK/European race teams. It is part of Multimatic Technical Centre Europe and houses a multi-post rig, full-chassis K&C rig and DIL simulator.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "In-depth understanding of materials and processes forms the foundation of our composites expertise.",
+    "url": "https://www.multimatic.com/engineering/testing/materials-characterization",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport tests components, systems, and entire vehicles at the extreme. Our engineering teams are involved at every level, including actively supporting customer programs.",
+    "url": "https://www.multimatic.com/engineering/testing/real-world-testing",
+    "pass": 1
+   },
+   {
+    "quote": "As they enter production, sample components and complete assemblies are put through further validation testing.",
+    "url": "https://www.multimatic.com/engineering/testing/environmental-and-durability-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Component Contamination Testing",
+    "url": "https://www.multimatic.com/engineering/testing/environmental-and-durability-testing",
+    "pass": 1
+   },
+   {
+    "quote": "All hinge and check systems must survive thousands of actuations before going into production.",
+    "url": "https://www.multimatic.com/engineering/testing/environmental-and-durability-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Modal testing can also be applied to powertrains.",
+    "url": "https://www.multimatic.com/engineering/testing/structural-modal-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Our multi-post rigs are developed in-house, using proprietary hardware, control systems and analytical software.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Characterizing different suspension systems.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Component Tuning",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Comparing performance of component modifications to original baseline, and measuring improvements in vehicle ride and handling.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Quantifying the effects of changes to suspension settings and components to optimize handling performance.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "– measurement of the deflection, under load, of a vehicle’s wheels (reflecting the stiffness of its various metallic and elastomeric suspension components).",
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Quantifying the effects of changes to suspension settings and components to optimize track performance.",
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic | High-Volume Production Components",
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "pass": 1
+   },
+   {
+    "quote": "High-Volume Components",
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic | Electronic Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Enhancing Multimatic’s capabilities in vehicle electronics design and systems integration.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic Electronic Systems solutions include:",
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Software-intensive automotive electronic systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Powertrain packaging, including half-shafts, mounts and cooling",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "We implement a range of vehicle architectures and powertrain configurations.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Fibre Composite Supercars",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "We are the engineering and composites project partner for Aston Martin’s supercars.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "The extremes of motorsport drives our design of composite race tubs.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Composite Materials-Intensive Vehicles",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Our experience dates back to the 1998 PNGV monocoque design project.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid Metal and Composite Vehicles",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "The de Macross GT1 is an example of a mixed aluminum and composite chassis.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Customers wanting lightweight structural solutions benefit from our carbon fibre expertise.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Performance aftermarket parts suppliers",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-leading structural composites development:",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Design and engineering of sophisticated composite products – from nose boxes to chassis to complete vehicles",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "An extensive proprietary database of composite material properties",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic | Vehicle Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Systems",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Strong top-down knowledge of complete vehicles accelerates our ability to develop advanced body, chassis and suspension systems.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Our vehicle systems engineering expertise:",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Body structure, closure systems and complex mechanisms engineering",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Application of advanced, lightweight materials, including engineered composites for structural applications",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Our multiple roles and disciplines open a world of opportunities. Learn more about our culture and imagine your career taking off.",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering across disciplines:",
+    "url": "https://www.multimatic.com/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "A close collaboration of engineering and manufacturing professionals.",
+    "url": "https://www.multimatic.com/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "In collaboration with GM, the initial “Synthesis” phase defined a",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineering and manufacturing teams work in close collaboration.",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "We can rapidly evolve a concept into tangible prototypes and tooling through close engineering and manufacturing collaboration.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "With over 25 years of experience, Mark has led aerodynamics development for multiple Formula One and IndyCar teams.",
+    "url": "https://www.multimatic.com/engineering/testing/aerodynamics-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic DSSV™ dampers are built to exacting standards requiring specialized contamination testing equipment.",
+    "url": "https://www.multimatic.com/engineering/testing/environmental-and-durability-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Modal analysis using impact and single or multiple excitation points",
+    "url": "https://www.multimatic.com/engineering/testing/structural-modal-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The first-generation StepGate™ incorporated 140 parts in six subassemblies and required multiple assembly operations including laser and MIG welding.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Product Quality Planning (APQP) disciplines:",
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "pass": 1
+   },
+   {
+    "quote": "Wiper patterns",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration and continuous feedback between design, analysis, test and prototyping teams",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-feasibility",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic stamping divisions are staffed and equipped for timely die maintenance and repair.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced forming of aluminum, ultra-high-strength steel, dual-phase steels and TRIP steels",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/product-development-prototypes",
+    "pass": 1
+   },
+   {
+    "quote": "Patented ACCRA",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/product-development-prototypes",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "2019 Top 100 Global OEM Parts Suppliers list and 56 in their list of the largest suppliers to North America, ranked by sales of original equipment parts in 2018.",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "having accumulated multiple wins and a championship since the car's debut at the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Multimatic&oldid=1379053399",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Short description matches Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": ". Wikipedia® is a registered trademark of the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": ", Brandon Road, Maine Street, Thetford, IP24 3PG",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": ", Bridge Street, Thetford, IP24 3AF, (sat nav postcode: IP24 3AE)",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "You must ensure that the technician brings all the relevant tools and equipment (including a damper dynamometer) they will require for re-valving your dampers. Most dampers require special tooling unique to each manufacturer and therefore Multimatic will not be able to provide any equipment.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "What equipment and set-up parts do we need to bring with us?",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "You will be required to bring any tools or equipment necessary to perform set-up changes including tyre warmers, generators, compressors, gas bottles, jacks and wheel guns.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic will not provide any tools or equipment other than those necessary to instrument and connect the vehicle to the test rig and its data acquisition system.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "To perform accurate castor measurements and apply longitudinal loads the brakes must be securely locked. Ideally this is performed using a dummy disk and calliper bolted together to provide a mechanical lock. Alternatively, the vehicles brakes can be used with a mechanical stop applied to the pedal.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The raw data will be handed over in an ASCII format, and post processed results will be compiled in a pdf. A summary document of key results will also be supplied, along with descriptive test and calculations guides.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Ideally the tyres that the vehicle will run on should be used to obtain the tyre stiffness. However, the principal measurements are taken from the wheel centre, so any tyre may be used to characterise the suspension.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "We have both standard ‘grip-tape’ pads and pin pads available. Pin pads dig into the tyre to increase the friction at the contact patch allowing for increased longitudinal and lateral loads, note that this will damage the tyre.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "You will be required to bring any tools or equipment necessary to perform set-up changes including generators, compressors, gas bottles, jacks and wheel guns.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearby dealerships",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Branding is an important part of any automaker's corporate tool kit. The auto industry's suppliers that ensure modern vehicles get built using the best possible components and expertise are often less likely to see the spotlight.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The company has also made significant strides in the world of automotive racing, starting with the launch of Multimatic Motorsports in 1992. This competition arm was the brainchild of English-born Larry Holt, who moved to Canada in his youth, where his father managed a Toronto Ferrari dealership. The motorsports arm has been highly active in nearly every major racing series.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The first is the company's bread and butter: making automotive parts that are completely anonymous. Examples include the front suspension of the Ford F-150 and the control arms for the Chevrolet Silverado and GMC Sierra light-duty trucks. These components are churned out by the millions, with Multimatic often an active participant in their design.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Along with running race-car teams, Multimatic is also a prominent motorsport vendor. Brake ducts for the Mercedes-Benz F1 cars, bodywork for the Toyota LMP1 and World Rally Championship programs, and ready-to-race Ford GT4 Mustangs are just a few examples.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Before the Ford GT, Multimatic engineered and built the 2009 to 2012 Aston Martin One-77. Named after the 77 production examples, the One-77 is the fastest vehicle to wear the famous British brand's badge.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Motorsports",
+    "url": "https://www.multimatic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsports",
+    "url": "https://www.multimatic.com/about/facilities",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Packaging and Architecture",
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Our expertise is recognized by OEMs and motorsport organizations worldwide.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "With a DIL simulator and a multi-post rig, Multimatic’s Canadian technical centre works closely with OEMs and motorsport teams. These resources are also used to evaluate engineering projects and completed production vehicles. Canada is home to Calabogie Motorsports Park – our primary test track.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "Where Multimatic’s vehicle dynamics development meets the road, track and trail.",
+    "url": "https://www.multimatic.com/engineering/testing/real-world-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport tests components, systems, and entire vehicles at the extreme. Our engineering teams are involved at every level, including actively supporting customer programs.",
+    "url": "https://www.multimatic.com/engineering/testing/real-world-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle damper architecture",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Architecture Development",
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.",
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle Packaging & Architecture",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Front rail sizing and spacing",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "We implement a range of vehicle architectures and powertrain configurations.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport Vehicles",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "The extremes of motorsport drives our design of composite race tubs.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Motorsport teams",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Other unique non-automotive customers",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Conceptual industrial design, styling and class-A surfacing",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Decades of expertise in structural carbon composites and crash energy management.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Forming process development, including press energy tracking",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-feasibility",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic Motorsports",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "is responsible for the production of low volume sports cars. Cars such as the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "assists in the assembly and engineering of full-scale vehicles. This division also supports Multimatic Niche Vehicles and the company's motorsport arm,",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "motorsport",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "sports cars. In the past, Multimatic also assisted Ford with the development of the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": ". Multimatic have also manufactured a sports car of their own with the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Four LMP2 Constructors Confirmed for 2017 – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "sportscar365.com",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Multimatic Confirmed as LMDh Supplier for Porsche, Audi – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche \"Ticked All the Boxes\" With Nine IMSA Titles Secured – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Job Architecture",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Can we park our vehicle transporter at your facility?",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "On the day of the test your car transporter is permitted to park in the yellow painted area at the side of our building between the two sets of roller shutter doors.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Any other team personnel vehicles will need to park in our visitor area at the front of the building. We recommend bringing as few vehicles as possible due to the space limitations in our car park.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "When parking space is available it may be possible to park your vehicle transporter at our facility the evening before the test provided Multimatic is given at least 48 hours’ notice. Although there is permanent overnight on-site security Multimatic will not be liable for any damages or losses that may occur.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "For vehicles that produce significant downforce loads we would always work with the aero-loaders connected such as Single Seater/Formula Cars, LMP/DPi Sports Prototypes and some GT cars (GTE, DTM etc).",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "For fixed automotive steering wheels, we have an adaptor which attaches directly to the wheel for mounting the steering motor. For motorsport quick release wheels, we have an alternative adaptor which mounts the steering motor directly to the quick release. Note that the quick release must be supplied by the customer.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Motorsports",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has also made significant strides in the world of automotive racing, starting with the launch of Multimatic Motorsports in 1992. This competition arm was the brainchild of English-born Larry Holt, who moved to Canada in his youth, where his father managed a Toronto Ferrari dealership. The motorsports arm has been highly active in nearly every major racing series.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The success of Multimatic Motorsports has also led directly to the development of the company's Niche Vehicles division. Separated from the Multimatic Engineering group in 2019, Niche Vehicles specializes in producing low-volume road vehicles.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "A year later, the company's Special Vehicle Operations was created to perform complete vehicle engineering and support the assembly of Niche Vehicles cars and Multimatic Motorsports ventures.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Along with running race-car teams, Multimatic is also a prominent motorsport vendor. Brake ducts for the Mercedes-Benz F1 cars, bodywork for the Toyota LMP1 and World Rally Championship programs, and ready-to-race Ford GT4 Mustangs are just a few examples.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic has also raised its profile significantly by designing and building high-end supercars for various automakers. The most famous Multimatic effort is the latest Ford GT. Featuring a carbon-fiber monocoque platform, aluminum subframes, and an aero-friendly body design, the Ford GT drew heavily from Multimatic's experience in the motorsports world.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Off-road fans are included, too, with the Ford Bronco DR. Using the most rugged application of Multimatic's DSSV shock absorbers to date and a roll cage and highly modified chassis-frame structure, the production desert-racing Bronco is available for those who prefer their motorsports dusty and far from any asphalt.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Product Services and Sales",
+    "url": "https://www.multimatic.com/about/facilities",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic stamping divisions are staffed and equipped for timely die maintenance and repair.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Full maintenance, repair and management of tooling at manufacturing divisions as well as in our dedicated tooling facilities.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Divisions",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": ", Multimatic has manufacturing divisions and engineering facilities in North America, Europe and Asia.",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "2019 Top 100 Global OEM Parts Suppliers list and 56 in their list of the largest suppliers to North America, ranked by sales of original equipment parts in 2018.",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "have come from this division.",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "assists in the assembly and engineering of full-scale vehicles. This division also supports Multimatic Niche Vehicles and the company's motorsport arm,",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "), Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "-1.5% (-169)",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "1.5% YoY",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "0.9% YoY",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "North America accounts for the largest share of Multimatic's global workforce with approximately",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "% of Total",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "We are able to test on cold tyres as normally the tyres ratio between cold and hot are the same percentage front and rear.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The success of Multimatic Motorsports has also led directly to the development of the company's Niche Vehicles division. Separated from the Multimatic Engineering group in 2019, Niche Vehicles specializes in producing low-volume road vehicles.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "In collaboration with GM, the initial “Synthesis” phase defined a",
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic’s Thetford-based Vehicle Dynamics centre is frequented by OEMs and UK/European race teams. It is part of Multimatic Technical Centre Europe and houses a multi-post rig, full-chassis K&C rig and DIL simulator.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Mark Handford, Multimatic’s Chief Aerodynamicist, is a leading authority in the field.",
+    "url": "https://www.multimatic.com/engineering/testing/aerodynamics-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Video courtesy: Ford Motor Company",
+    "url": "https://www.multimatic.com/engineering/testing/aerodynamics-testing",
+    "pass": 1
+   },
+   {
+    "quote": "We are the engineering and composites project partner for Aston Martin’s supercars.",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Aston Martin One-77",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "and was Ford's build partner for the third-generation",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Ford GT",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin Valkyrie",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin V12 Zagato",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin CC100",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin Vulcan",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "second-generation Ford GT",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Mustang GT3",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Mustang GT4",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "sports cars. In the past, Multimatic also assisted Ford with the development of the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Ford GT LM GTE",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"2012 Toronto Auto Show: Aston Martin One-77 has Canadian connection\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ford turns to Ontario's Multimatic to make GT concept car - Business - CBC News\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Toronto sees global unveiling of Aston Martin-Red Bull Hypercar\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Aston Martin Shows New Design Direction With CC100 Speedster Concept\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Aston Martin Vulcan Brings 800-HP V-12 to Geneva\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"How Aston Martin has begun preparations for its delayed Hypercar programme\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Multimatic Confirmed as LMDh Supplier for Porsche, Audi – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche and Multimatic are partners in new hybrid racing class\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Newsroom",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche Works Drivers Win FIA WEC 2024\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche \"Ticked All the Boxes\" With Nine IMSA Titles Secured – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Boshoku Corp.",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Brandon Road, Maine Street, Thetford, IP24 3PG",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": ", Bridge Street, Thetford, IP24 3AF, (sat nav postcode: IP24 3AE)",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Our primary vehicle dynamics facilities are located in Thetford, England (UK), Markham, Ontario (Canada) and Novi, Michigan (USA).",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The control room has full audio control on who can talk and listen at any point.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has also made significant strides in the world of automotive racing, starting with the launch of Multimatic Motorsports in 1992. This competition arm was the brainchild of English-born Larry Holt, who moved to Canada in his youth, where his father managed a Toronto Ferrari dealership. The motorsports arm has been highly active in nearly every major racing series.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The first is the company's bread and butter: making automotive parts that are completely anonymous. Examples include the front suspension of the Ford F-150 and the control arms for the Chevrolet Silverado and GMC Sierra light-duty trucks. These components are churned out by the millions, with Multimatic often an active participant in their design.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Along with running race-car teams, Multimatic is also a prominent motorsport vendor. Brake ducts for the Mercedes-Benz F1 cars, bodywork for the Toyota LMP1 and World Rally Championship programs, and ready-to-race Ford GT4 Mustangs are just a few examples.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Another side of Multimatic is the high-profile projects that enthusiasts are more likely to be familiar with. Arguably, the most famous is the Ford GT mid-engine supercar that debuted in 2015.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic has also raised its profile significantly by designing and building high-end supercars for various automakers. The most famous Multimatic effort is the latest Ford GT. Featuring a carbon-fiber monocoque platform, aluminum subframes, and an aero-friendly body design, the Ford GT drew heavily from Multimatic's experience in the motorsports world.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic is also responsible for the assembly of every third-generation Ford GT. The production GT spawned several race-ready variants, including race cars that won the 24 Hours at Le Mans for Ford and cars available to private customers interested in mounting their own campaigns.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Before the Ford GT, Multimatic engineered and built the 2009 to 2012 Aston Martin One-77. Named after the 77 production examples, the One-77 is the fastest vehicle to wear the famous British brand's badge.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Other road cars of note from the Multimatic portfolio include the Mercedes-AMG One, which offered more than 1,000 horsepower and borrowed extensively from Mercedes-Benz and Multimatic's F1 experience, and 99 copies of the Aston Martin Zagato Shooting Brake.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The Canadian supplier is also responsible for producing the upcoming Ford Mustang GTD. The hyper-Mustang's supercharged V8 engine is married to a transaxle and is a road-legal version of the Blue Oval's Mustang GT3 racer. The most expensive Mustang ever built, the GTD is expected to cost $300,000 when it goes on sale as early as the end of 2024.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Off-road fans are included, too, with the Ford Bronco DR. Using the most rugged application of Multimatic's DSSV shock absorbers to date and a roll cage and highly modified chassis-frame structure, the production desert-racing Bronco is available for those who prefer their motorsports dusty and far from any asphalt.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "2027 Nissan Rogue Hybrid Review",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "2027 BMW X5 Review",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Subjective Evaluation",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.",
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "pass": 1
+   },
+   {
+    "quote": "Modal evaluation",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "– Proprietary software allows for modal analysis utilizing frequency response functions, summarized for efficient vehicle performance evaluation.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluation to characterize key frequency modes.",
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.",
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Complete vehicle dynamics development services, including analytical simulation, rig testing and track/road evaluation",
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 5,013 employees in 2023 to 5,028 in 2026",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 10th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded in",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Multimatic's headcount peaked at",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Multimatic's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by Northern Europe and Central America and the Caribbean.",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic employees by region",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic employees by department",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in Western Europe receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Multimatic's headcount shrank",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, down from",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Multimatic employees located?",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Multimatic employees are based in North America (",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by Northern Europe and Central America and the Caribbean.",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Multimatic founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "No. The rig is designed as an optimisation tool based on a vehicle's response to vertical inputs and we do not use track replay data as part of this evaluation.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Will Multimatic employees be available to guide on vehicle and driver performance?",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic was founded in the 1950s",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Was Founded in the 1950s",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic has also raised its profile significantly by designing and building high-end supercars for various automakers. The most famous Multimatic effort is the latest Ford GT. Featuring a carbon-fiber monocoque platform, aluminum subframes, and an aero-friendly body design, the Ford GT drew heavily from Multimatic's experience in the motorsports world.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "With over 25 years of experience, Mark has led aerodynamics development for multiple Formula One and IndyCar teams.",
+    "url": "https://www.multimatic.com/engineering/testing/aerodynamics-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Mustang GT3",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "as their car for the new set of LMP2 regulations.",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic's LMDh chassis has seen considerable success thanks to",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "having accumulated multiple wins and a championship since the car's debut at the",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Four LMP2 Constructors Confirmed for 2017 – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "\"Multimatic Confirmed as LMDh Supplier for Porsche, Audi – Sportscar365\"",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "For vehicles that produce significant downforce loads we would always work with the aero-loaders connected such as Single Seater/Formula Cars, LMP/DPi Sports Prototypes and some GT cars (GTE, DTM etc).",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "The company has also made significant strides in the world of automotive racing, starting with the launch of Multimatic Motorsports in 1992. This competition arm was the brainchild of English-born Larry Holt, who moved to Canada in his youth, where his father managed a Toronto Ferrari dealership. The motorsports arm has been highly active in nearly every major racing series.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Along with running race-car teams, Multimatic is also a prominent motorsport vendor. Brake ducts for the Mercedes-Benz F1 cars, bodywork for the Toyota LMP1 and World Rally Championship programs, and ready-to-race Ford GT4 Mustangs are just a few examples.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic is also responsible for the assembly of every third-generation Ford GT. The production GT spawned several race-ready variants, including race cars that won the 24 Hours at Le Mans for Ford and cars available to private customers interested in mounting their own campaigns.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "The Canadian supplier is also responsible for producing the upcoming Ford Mustang GTD. The hyper-Mustang's supercharged V8 engine is married to a transaxle and is a road-legal version of the Blue Oval's Mustang GT3 racer. The most expensive Mustang ever built, the GTD is expected to cost $300,000 when it goes on sale as early as the end of 2024.",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Feedback and support from our manufacturing plants",
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration and continuous feedback between design, analysis, test and prototyping teams",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-feasibility",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic stamping divisions are staffed and equipped for timely die maintenance and repair.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Tool Maintenance",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Full maintenance, repair and management of tooling at manufacturing divisions as well as in our dedicated tooling facilities.",
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "pass": 1
+   },
+   {
+    "quote": "Multimatic Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the rig test fee, lunch will be provided. Please inform the test team of any special dietary requirements for any team personnel on your booking form.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "There are free tea and coffee making facilities in the rig control room as well as a water dispenser.",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "RSS feeds",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Multimatic | Multimatic Inc. - Global automotive supplier ... — Multimatic | Multimatic Inc. - Global automotive supplier ... Multimatic https://www.multimatic.com",
+    "url": "https://www.multimatic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic - Wikipedia — Multimatic - Wikipedia Wikipedia https://en.wikipedia.org > Multimatic",
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic | LinkedIn — Multimatic | LinkedIn LinkedIn México https://mx.linkedin.com > multimatic",
+    "url": "https://mx.linkedin.com/company/multimatic?trk=ppro_cprof",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic launches new Special Vehicle Operations group — Multimatic launches new Special Vehicle Operations group Multimatic Motorsports https://www.multimaticmotorsports.com > ...",
+    "url": "https://www.multimaticmotorsports.com/multimatic-launches-new-special-vehicle-operations-group/",
+    "pass": 3
+   },
+   {
+    "quote": "We are Multimatic . We are the Catalysts of the ... - Instagram — We are Multimatic . We are the Catalysts of the ... - Instagram Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/C4I-KdvLD4b/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Number of Employees 2026 - Revelio Labs — Multimatic Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic - Overview, News & Similar companies - ZoomInfo — Multimatic - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > multima...",
+    "url": "https://www.zoominfo.com/c/multimatic-inc/25886724",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic's Competitors, Revenue , Number of Employees ... — Multimatic's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > multimatic",
+    "url": "https://www.owler.com/company/multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Information - RocketReach — Multimatic Information - RocketReach RocketReach https://rocketreach.co > multimatic-pr...",
+    "url": "https://rocketreach.co/multimatic-profile_b5c6d506f42e0cfc",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Manufacturing: Revenue , Competitors, Alternatives — Multimatic Manufacturing: Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Mult...",
+    "url": "https://growjo.com/company/Multimatic_Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic - Facebook — Multimatic - Facebook Facebook https://www.facebook.com > ... > Multimatic > Videos",
+    "url": "https://www.facebook.com/MultimaticInc/videos/located-in-newmarket-on-the-industry-leading-team-at-multimatic-ride-dynamics-mr/826384868957245/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Multimatic - Latest Job Opportunites - Fluidjobs — Careers at Multimatic - Latest Job Opportunites - Fluidjobs Fluidjobs https://fluidjobs.com > companies",
+    "url": "https://fluidjobs.com/companies/multimatic-4102140",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic restructures into high- and low-volume businesses — Multimatic restructures into high- and low-volume businesses Race Tech Magazine https://www.racetechmag.com > multi...",
+    "url": "https://www.racetechmag.com/2020/06/multimatic-restructures-into-high-and-low-volume-businesses/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic launches new Special Vehicle Operations group — Multimatic launches new Special Vehicle Operations group Multimatic https://www.multimatic.com > press",
+    "url": "https://www.multimatic.com/press/multimatic-launches-new-special-vehicle-operations-group",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic (@multimaticinc) • Instagram photos and videos — Multimatic (@multimaticinc) • Instagram photos and videos Instagram https://www.instagram.com > multima...",
+    "url": "https://www.instagram.com/multimaticinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Vehicle Dynamics Centre FAQ | Multimatic VDC — Vehicle Dynamics Centre FAQ | Multimatic VDC Multimatic Motorsports https://vdc.multimaticmotorsports.com > ...",
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Special Vehicle Operations (MSVO) - Facebook — Multimatic Special Vehicle Operations (MSVO) - Facebook Facebook https://www.facebook.com > petrolicious > posts > multim...",
+    "url": "https://www.facebook.com/petrolicious/posts/multimatic-special-vehicle-operations-msvo/3026860857433779/",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic Launches New Special Vehicle and Racing Division — Multimatic Launches New Special Vehicle and Racing Division theshopmag.com https://theshopmag.com > News",
+    "url": "https://theshopmag.com/news/multimatic-launches-new-special-vehicle-and-racing-division/",
+    "pass": 3
+   },
+   {
+    "quote": "Verstappen Racing Announces Technical Partnership with ... — Verstappen Racing Announces Technical Partnership with ... Multimatic https://www.multimatic.com > press",
+    "url": "https://www.multimatic.com/press/verstappen-racing-announces-technical-partnership-with-multimatic",
+    "pass": 3
+   },
+   {
+    "quote": "What Multimatic Means to the Automotive World - Capital One — What Multimatic Means to the Automotive World - Capital One Capital One https://www.capitalone.com > learn",
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Multimatic : A rare interview with CEO Peter Czapka — Inside Multimatic : A rare interview with CEO Peter Czapka Automotive News https://www.autonews.com > CANADA",
+    "url": "https://www.autonews.com/article/20180402/CANADA/180409932/inside-multimatic-a-rare-interview-with-ceo-peter-czapka/",
+    "pass": 3
+   },
+   {
+    "quote": "Catching Up With Multimatic's Larry Holt: On Mustangs & LMDhs — Catching Up With Multimatic's Larry Holt: On Mustangs & LMDhs dailysportscar.com https://www.dailysportscar.com > catc...",
+    "url": "https://www.dailysportscar.com/2022/02/10/catching-up-with-larry-holt-multimatic-founder-on-mustangs-and-lmdhs.html",
+    "pass": 3
+   },
+   {
+    "quote": "Multimatic establishing autonomous vehicle driving simulation ... — Multimatic establishing autonomous vehicle driving simulation ... Michigan Economic Development Corporation (MEDC) https://www.michiganbusiness.org > ...",
+    "url": "https://www.michiganbusiness.org/press-releases/2019/05/multimatic-establishing-autonomous-vehicle-driving-simulation-center-in-novi-investing-$7.8-million",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.multimatic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/about/facilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/multimatic-misa-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/product-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/predictive-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/vehicle-dynamics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/materials-characterization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/aerodynamics-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/real-world-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/environmental-and-durability-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/structural-modal-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/multi-post-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/product-engineering/high-volume-components",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/product-engineering/electronic-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/product-engineering/vehicle-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-feasibility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/product-development-prototypes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/prototypes-and-tooling/low-volume-and-pull-ahead-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multimatic.com/engineering/predictive-engineering/vehicle-dynamics-prediction",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx.linkedin.com/company/multimatic?trk=ppro_cprof",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/multimatic/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/multimatic-inc/25886724",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/multimatic",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Multimatic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MultimaticInc/videos/located-in-newmarket-on-the-industry-leading-team-at-multimatic-ride-dynamics-mr/826384868957245/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/multimaticinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vdc.multimaticmotorsports.com/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.maxcyte.com/news-releases/news-release-details/maxcyter-announces-multi-platform-technology-license-partnership/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autonews.com/article/20180402/CANADA/180409932/inside-multimatic-a-rare-interview-with-ceo-peter-czapka/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dailysportscar.com/2022/02/10/catching-up-with-larry-holt-multimatic-founder-on-mustangs-and-lmdhs.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Multimatic engineering services clients other industries",
+   "results": [
+    "https://www.multimatic.com/",
+    "https://en.wikipedia.org/wiki/Multimatic",
+    "https://mx.linkedin.com/company/multimatic?trk=ppro_cprof",
+    "https://www.multimaticmotorsports.com/multimatic-launches-new-special-vehicle-operations-group/",
+    "https://www.instagram.com/reel/C4I-KdvLD4b/",
+    "https://www.zoominfo.com/c/multimatic-inc/25886724",
+    "https://fluidjobs.com/companies/multimatic-4102140",
+    "https://www.multimatic.com/careers",
+    "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "https://www.multimatic.com/engineering"
+   ]
+  },
+  {
+   "query": "Multimatic revenue turnover employees",
+   "results": [
+    "https://www.reveliolabs.com/companies/multimatic/employees",
+    "https://www.zoominfo.com/c/multimatic-inc/25886724",
+    "https://www.owler.com/company/multimatic",
+    "https://rocketreach.co/multimatic-profile_b5c6d506f42e0cfc",
+    "https://growjo.com/company/Multimatic_Manufacturing",
+    "https://www.multimatic.com/careers",
+    "https://ca.linkedin.com/company/multimatic",
+    "https://www.glassdoor.com/Overview/Working-at-Multimatic-Manufacturing-EI_IE196894.11,35.htm",
+    "https://craft.co/multimatic",
+    "https://compworth.com/company/multimatic-manufacturing"
+   ]
+  },
+  {
+   "query": "Multimatic supplies components to OEM",
+   "results": [
+    "https://www.multimatic.com/",
+    "https://en.wikipedia.org/wiki/Multimatic",
+    "https://www.facebook.com/MultimaticInc/videos/located-in-newmarket-on-the-industry-leading-team-at-multimatic-ride-dynamics-mr/826384868957245/",
+    "https://fluidjobs.com/companies/multimatic-4102140",
+    "https://www.racetechmag.com/2020/06/multimatic-restructures-into-high-and-low-volume-businesses/",
+    "https://canadianautomotivefootprintmexico.com/company/multimatic-inmetmatic/",
+    "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "https://www.facebook.com/MultimaticInc/videos/location-multimatic-technical-centre-europe-thetford-norfolk-united-kingdomposit/412862003536846/",
+    "https://www.oemupdate.com/product-update/new-transfer-press-for-multimatic-dynamic-suspensions-a-division-of-multimatic-inc/",
+    "https://www.multimatic.com/about"
+   ]
+  },
+  {
+   "query": "Multimatic aerospace defence non-automotive",
+   "results": [
+    "https://www.multimatic.com/press/multimatic-launches-new-special-vehicle-operations-group",
+    "https://www.instagram.com/multimaticinc/",
+    "https://vdc.multimaticmotorsports.com/faq/",
+    "https://www.facebook.com/petrolicious/posts/multimatic-special-vehicle-operations-msvo/3026860857433779/",
+    "https://theshopmag.com/news/multimatic-launches-new-special-vehicle-and-racing-division/",
+    "https://www.youtube.com/watch?v=DJs3zVPy_7w",
+    "https://volatusaerospace.com/defence/",
+    "https://uk.linkedin.com/in/thomasbuckler",
+    "https://www.mts.com/en/industries/defense/aerospace",
+    "https://en.wikipedia.org/wiki/Magna_International"
+   ]
+  },
+  {
+   "query": "Multimatic licensing technology partnership",
+   "results": [
+    "https://www.multimatic.com/press/verstappen-racing-announces-technical-partnership-with-multimatic",
+    "https://investors.maxcyte.com/news-releases/news-release-details/maxcyter-announces-multi-platform-technology-license-partnership/",
+    "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "https://www.velaw.com/practices/licensing-technology-transfer/",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0019850123000834",
+    "https://lundquist.org/bdtt/innovations-for-licensing/",
+    "https://www.multimatic.com/",
+    "https://www.lesi.org/wp-content/uploads/2024/04/10_bulthisupdated-dd-edits-5154_lp-152-155-540c.pdf",
+    "https://digitate.com/multimatics-journey-towards-autonomous-it-operations-with-aiops-from-digitate/",
+    "https://news.verstappen.com/en/article/6148"
+   ]
+  },
+  {
+   "query": "Multimatic founder early days first customer funding",
+   "results": [
+    "https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724",
+    "https://www.autonews.com/article/20180402/CANADA/180409932/inside-multimatic-a-rare-interview-with-ceo-peter-czapka/",
+    "https://www.dailysportscar.com/2022/02/10/catching-up-with-larry-holt-multimatic-founder-on-mustangs-and-lmdhs.html",
+    "https://www.michiganbusiness.org/press-releases/2019/05/multimatic-establishing-autonomous-vehicle-driving-simulation-center-in-novi-investing-$7.8-million",
+    "https://www.multimatic.com/",
+    "https://en.wikipedia.org/wiki/Multimatic",
+    "https://www.youtube.com/watch?v=Pyz73VZ_nyc",
+    "https://www.multimaticmotorsports.com/multimatic-launches-new-special-vehicle-operations-group/",
+    "https://www.autocar.co.uk/car-news/business/multimatic-meet-engineering-ace-behind-supercar-maker",
+    "https://en.wikipedia.org/wiki/Frank_Stronach"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）"
+ }
+}

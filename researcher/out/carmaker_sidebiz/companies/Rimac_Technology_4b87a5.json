@@ -1,0 +1,2320 @@
+{
+ "name": "Rimac Technology",
+ "aliases": [
+  "Rimac Automobili",
+  "Rimac Group",
+  "リマック"
+ ],
+ "context": "電池・駆動系を他社へ供給（クロアチア）",
+ "researched_at": "2026-11-02T14:31:49.770266+00:00",
+ "official_url": "https://www.rimac-technology.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Number of employees",
+    "value": "1,000+",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "label": "Number of employees",
+    "value": "1,500 [ 1 ] [ 2 ]",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "OpenAI共同創業者",
+    "value": "準備ができる前にAIで開発を始めよう | グレッグ・ブロックマン",
+    "url": "https://www.youtube.com/watch?v=IMgVW-lXRWA",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "BATTERY",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "POWERTRAIN",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design, engineering and production of EV Components",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We lead the way in engineering advanced EV components, setting the highest standards in the industry with a commitment to world-class innovation and reliability.",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We supply leading automotive OEMs",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "battery",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inventing the battery of the world's fastest vehicle",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "powertrain",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering the scalable e-powertrain platform for high performance vehicles",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powertrain",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery | Rimac Technology",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "BATTERY",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "POWERTRAIN",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Europe’s battery powerhouse",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Creating the world’s most advanced battery systems, offering high-volume solutions with premium performance at a competitive cost.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Configure your battery",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "A standardized battery architecture, offering full flexibility for any application",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "From single module to a full cell-to-pack solution, including Battery Management System and Power Distribution Unit. Configurable within a few clicks.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Leanest battery design",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Based on a 120 kWh battery pack, 4695 cell, and included power distribution unit.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Based on UNI TECHNOLOGY, our battery systems allow flexible configurations to match the needs of any electric vehicle.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "We supply leading automotive OEMs",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "battery",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Inventing the battery of the world's fastest vehicle",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "powertrain",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering the scalable e-powertrain platform for high performance vehicles",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Battery",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Powertrain",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Powertrain | Rimac Technology",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "BATTERY",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "POWERTRAIN",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized component architecture enabling flexible configurations with customizable performance and cost KPIs.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-developed technology enables a direct start from B-sample, supported by a mature infrastructure and robust supply chain.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Powertrain Platform",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique dual-motor architecture offers high flexibility in vehicle packaging and supports advanced powertrain control modes, including torque vectoring, drift control, and traction control.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Our 3-in-1 eAxles/EDUs are engineered for peak performance and efficiency, featuring dual electric motors and a parallel axis configuration. These all-in-one systems, optionally integrated with DCU & Parklock, come with advanced software, including track-optimized torque vectoring and traction control algorithms, powering a range of vehicle applications.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Our in-house designed SiC inverters, Hybrid Permanent Magnet electric motors, and gearboxes are the backbone of our powertrain solutions. Engineered for high performance and modularity, they support a wide range of configurations for various applications.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "We supply leading automotive OEMs",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "battery",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Inventing the battery of the world's fastest vehicle",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "powertrain",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering the scalable e-powertrain platform for high performance vehicles",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Battery",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Powertrain",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Suppliers",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "BATTERY",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "POWERTRAIN",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Leading the way in advanced battery management solutions",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Our BMS is highly modular, designed for easy customization and cost optimization with minimal engineering effort. Engineered for flexibility, it supports a wide range of battery applications.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless integration with RT battery packs",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Our expertise in battery systems ensures turn-key solutions that integrate flawlessly with Rimac Technology packs, delivering top performance through rapid iteration and rigorous testing.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Drawing on our expertise from the Nevera, the world's fastest accelerating production car, our sophisticated algorithms optimize capacity and power delivery while preserving battery health and longevity.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Platform Components",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Our in-house Battery Management Controllers, Cell Module Controllers, and Shunt Sensors are key to our battery systems. Designed for versatility and reliability, they offer a single hardware solution for all projects, a customizable option with proven architecture, and a compact design for measuring current, isolation, and voltage.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Battery Management Controller",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Application software development and integration of 3rd party software components.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "We supply leading automotive OEMs",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A standardized battery architecture, offering full flexibility for any application",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Top-notch performance tailored to your needs, from highest energy to most power-dense solutions.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-developed technology enabling a direct start from the B-sample stage, leveraging mature industrialization concepts.",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Specific energy",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized component architecture enabling flexible configurations with customizable performance and cost KPIs.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Providing optimal system configurability tailored for a wide range of applications, from SUVs to sedans and sports cars.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized architecture drives down production costs, offering cost advantages with a competitive EUR/kW pricing model.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique dual-motor architecture offers high flexibility in vehicle packaging and supports advanced powertrain control modes, including torque vectoring, drift control, and traction control.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "The single-motor architecture is engineered for compact in-vehicle packaging, delivering exceptional power density.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for the front axles of high-performance and luxury vehicles, delivering exceptional power and efficiency for hypercars, electric supersports, and ultimate GTs.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Sportscar",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized for front or rear axles of compact performance vehicles, providing high efficiency and dynamic performance for sport coupes, hot hatches, and sports cars.",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Sportcoupe",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "A standardized BMS architecture, offering full flexibility for any application",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Reusable architecture and technology across projects",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized architecture with lowest possible complexity",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Our in-house Battery Management Controllers, Cell Module Controllers, and Shunt Sensors are key to our battery systems. Designed for versatility and reliability, they offer a single hardware solution for all projects, a customizable option with proven architecture, and a compact design for measuring current, isolation, and voltage.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "A ready-made system suitable for any automotive, industrial or stationary application.",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Electrical architecture for software-defined vehicles with Domain and Zonal ECUs.",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Next-gen ECUs powering a centralized and powerful electrical architecture",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable ECU platforms tailored to adapt and meet all electrical architecture needs.",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Backbone of the vehicle E/E architecture, delivering high computational power, extensive I/O and advanced power distribution capabilities.",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/software",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/software",
+    "pass": 1
+   },
+   {
+    "quote": "Starting in a small garage, Rimac has grown into a Tier 1 supplier for global OEMs, employing over 2,000 people across five countries, based in Zagreb, Croatia. This growth has established Rimac as a key player in the automotive industry, delivering advanced electric vehicle technologies and energy solutions that meet the needs of leading manufacturers worldwide.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Join our team and become a key player in a forward-thinking company that is shaping the future of mobility and energy. At Rimac Technology, we embrace creativity, collaboration, and passion, empowering you to make a meaningful impact while working on exciting projects in the automotive and energy industry.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ENERGY",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "Exceptional energy density of 169 Wh/kg at the pack level",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "ENERGY",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a powertrain platform that combines best-in-class power and torque density, high efficiency, and the ability to adapt to a variety of vehicle architectures. This modular system is designed to meet the performance needs of different global markets, offering high levels of reliability, safety, and scalability.",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineering team focused on creating a platform that could deliver exceptional power and torque while optimizing efficiency. Using high-performance silicon carbide (SiC) inverters, advanced cooling systems, and compact motor designs, the platform achieved impressive power outputs with minimal energy loss.",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "for integration into a variety of vehicle architectures",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Voltage architecture",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "ENERGY",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Next-gen ECU: Pioneering the Future of Electrical Architecture",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Multicore architecture delivering up to 16,000 DMIPS @ 800 MHz.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "This robust platform was designed to host applications across various domains, including Vehicle Dynamics Control, Energy Management, Charging Control, Thermal Management, and Body Electronics.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "The production ECU was developed for a cutting-edge hypercar, replacing over 20 ECUs with just three centralized units, handling around 70% of the vehicle's complex functions. Rimac Technology’s unified ECU platform not only simplified the vehicle's E/E architecture but also significantly enhanced security, reliability, and scalability.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "This breakthrough marks a paradigm shift in E/E architecture for software-defined vehicles, setting a new standard for innovation. Rimac Technology’s domain/zonal ECU is one of the first-to-market solutions, offering streamlined, efficient, and scalable mobility solutions.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Pioneering the future of electrical architecture",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Energy",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": "– Distributed Control for Dynamic Energy Management of Complex Systems in Smart Cities,",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "The second day of the workshop focused on Horizon Europe 2026–2027 funding opportunities, including joint initiatives in Clusters 4 (Digital, Industry and Space) and 5 (Climate, Energy and Mobility), aiming to foster new European collaborations in the domains of smart cities, energy transition, and sustainable mobility.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/software",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "We welcome your questions, comments, and concerns about this Privacy Policy or your personal data. Please send us any feedback to the following address:",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/legal-notice",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/whistleblowing-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Technology Annual Employee Count (2023-2026)",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual worldwide employee count from",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "annual active job postings from",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Employee Count",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "\"$1 Million Electric Hyper Car to Debut at.\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "feedback",
+    "url": "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "pass": 3
+   },
+   {
+    "quote": "Want more Business Insider in your news feed?",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/battery",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/powertrain",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/bms",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/ecu",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/software",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "450 kW fast charge capability ensuring 20-80% charging in less than 15 min",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "pass": 1
+   },
+   {
+    "quote": "with peak efficiencies greater than 95%",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "The production ECU was developed for a cutting-edge hypercar, replacing over 20 ECUs with just three centralized units, handling around 70% of the vehicle's complex functions. Rimac Technology’s unified ECU platform not only simplified the vehicle's E/E architecture but also significantly enhanced security, reliability, and scalability.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/legal-notice",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/whistleblowing-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Aftersales",
+    "url": "https://www.rimac-technology.com/contact",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Technology originated as the technology division of",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ", a joint venture between Rimac (55%) and",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "(45%)—Rimac Technology was established as an independent entity under the Rimac Group corporate structure to continue supplying electrification technology to external clients.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ", with the solid-state batteries promising up to 30 percent greater energy density.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "+3.5% (+62)",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "3.5% YoY",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "1.7% YoY",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Southern Europe accounts for the largest share of Rimac Technology's global workforce with approximately",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "% of Total",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Sales and Marketing",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "acquired a 10% stake in Rimac to form a development partnership, as part of its electrification process.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "increased its stake in Rimac Automobili from 15% to 24%.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "In this venture, Rimac Group holds a 55% stake, while Porsche owns the remaining 45%.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Investitorima sam se obvezao do 2020. ostati u tvrtki i zadržati 50% vlasništva\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "as well as 55% of Bugatti Rimac.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "crowd thanks to the group’s joint venture. Known as Bugatti Rimac and with global headquarters (also) in Sveta Nedelja, this iconic hyper-car brand is 45% in the hands of Porsche (and therefore the VW Group) and 55% in the hands of the Rimac Group. Bugatti Rimac employs 435 people — 300 in Sveta Nedelja and 135 at its bespoke assembly atelier in Molsheim, France.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on Rimac Technology's Scalable Powertrain Platform, these CoAxial or Offset configurable variants offer between 150 – 360kW and 2500 – 6250Nm to target performance-focused vehicles across all segments, from hot hatches and sports coupes to sedans and SUVs.",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-unveils-new-solid-state-battery-tech-and-next-generation-eaxles",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforce’s new carbon credit deal gives sustainable rice farming a boost",
+    "url": "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "pass": 3
+   },
+   {
+    "quote": "\"I started a company to make electric hypercars, but as I couldn't find funding and investors and so on, we had to be self-sustainable and revenue generating from day one,\" Rimac told Insider. \"The company was built up in Croatia, [which] didn't have any venture-capital funds, no investors, no customers, no talent. So we had to do it really the hard way.\"",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   },
+   {
+    "quote": "holds a 24% stake",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   },
+   {
+    "quote": "in the business. Hyundai, too, owns a 14% stake.",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Emulated Limited Slip Differential and Stability Control",
+    "url": "https://www.rimac-technology.com/software",
+    "pass": 1
+   },
+   {
+    "quote": "At Rimac, taking charge means fostering a proactive mindset. We empower every team member to take ownership of their work, projects, and responsibilities. We embrace challenges, demonstrating leadership at all levels of our organization.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneurship defines our approach. We tackle challenges with an entrepreneurial spirit, seizing opportunities to make a positive impact. Our solutions aren't just products; they are catalysts for transformative change in the industry and the world.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Join our team and become a key player in a forward-thinking company that is shaping the future of mobility and energy. At Rimac Technology, we embrace creativity, collaboration, and passion, empowering you to make a meaningful impact while working on exciting projects in the automotive and energy industry.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "across multiple vehicle categories",
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "pass": 1
+   },
+   {
+    "quote": "Multicore architecture delivering up to 16,000 DMIPS @ 800 MHz.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple interfaces including 7x CAN FD, 4x LIN, 100B-T1 Automotive Ethernet.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "ISO26262 ASIL-D, AUTOSAR compliance, and IP67 protection.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "your identity and contact details, such as your first and last name, email address, phone number, the name of and your relationship with a particular distributor or customer, username and password. This information is provided on a voluntary basis.",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "In order to be responsive, provide effective services, and maintain our business relationship, as a matter of our legitimate interests, and/or the legitimate interest of our business customer, we process your personal data for the following purposes:",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "RIMAC believes in creating open and transparent communication with our suppliers that leads to the most effective supplier relationships and partnerships.",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": ". Registration for participation is mandatory.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "The second day of the workshop focused on Horizon Europe 2026–2027 funding opportunities, including joint initiatives in Clusters 4 (Digital, Industry and Space) and 5 (Climate, Energy and Mobility), aiming to foster new European collaborations in the domains of smart cities, energy transition, and sustainable mobility.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Prijave za radionicu otvorene su do srijede, 10. lipnja 2026., do kraja dana.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Zagreb, 15. lipnja 2026., Sveučilište u Zagrebu, Fakultet elektrotehnike i računarstva, Siva vijećnica",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Priprema elektroda: ključni korak za postizanje baterija visokih performansi Hrvoje Tašner, Sveučilište u Zagrebu, Fakultet kemijskog inženjerstva i tehnologije",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Od laboratorijskih podataka do općih modela učinkovitosti baterije Josip Vukušić, Toming Energy i Sveučilište u Zagrebu Fakultet elektrotehnike i računarstva",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Technology LLC (“we”, “our”, “us”), and certain third parties, use cookies and other technologies such as pixel tags, page tags, or scripts (“Tracking Technologies”) to collect personal data and to store information or gain access to information stored on your device, when you use our websites at",
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "pass": 1
+   },
+   {
+    "quote": "When you visit or access our Services, we use (and authorise third parties to use) cookies, pixel tags, web beacons, plugins, scripts, HTML5 local storage and mobile device IDs.",
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Description",
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Technology - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Leadership",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "The Rimac Campus is the global headquarters and primary production facility of the Rimac Group, located in Kerestinec in the municipality of Sveta Nedelja, approximately 16 kilometres west of Zagreb city centre. Construction began in October 2021",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Rimac Technology announced a long-term partnership with",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "to co-develop and co-produce high-voltage battery technology for future electric vehicles. The collaboration was described by",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ", who served as its chief executive officer from the company's establishment as an independent entity. In February 2026, Rimac Technology announced a leadership transition, with Nurdin Pitarević, who had served as chief operating officer, appointed as chief executive officer. Marko Brkljačić, formerly deputy COO, assumed the role of chief operating officer.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Pitarević joined Rimac Technology from Continental and led the company through a period of operational expansion in his role as COO, overseeing the transition of multiple programmes into series production.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac Technology announces leadership transition\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mate Rimac transitions from Rimac Technology CEO role to focus on Bugatti leadership\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Rimac_Technology&oldid=1361561098",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Short description matches Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Official website different in Wikidata and Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ". Wikipedia® is a registered trademark of the",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Automobili - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "and the sale of proprietary patents.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "acquired a 10% stake in Rimac to form a development partnership, as part of its electrification process.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "brand as well as Rimac Automobili. The new venture is called",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "in June of that year, Porsche stated it was one of the participants in a new",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "with wheels being supplied by HRE Performance wheels, developed in collaboration with Rimac.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "the company announced the establishment of official dealerships of its brand in Europe, North America and the Middle East, with dealers",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "In 2018, it entered a technical partnership with",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "concept in June 2024. Verne will be an independent brand for robotaxi's that will operate in urban environments.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "A brand of",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Rimac_Automobili&oldid=1380364468",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Car brands",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Croatian brands",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Short description is different from Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pages with Croatian IPA",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": ". Wikipedia® is a registered trademark of the",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Rimac Automobili’s Evolution from Garage Dream to Tier 1 Global Supplier",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Starting in a small garage, Rimac has grown into a Tier 1 supplier for global OEMs, employing over 2,000 people across five countries, based in Zagreb, Croatia. This growth has established Rimac as a key player in the automotive industry, delivering advanced electric vehicle technologies and energy solutions that meet the needs of leading manufacturers worldwide.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "2.500 employees",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The second day of the workshop focused on Horizon Europe 2026–2027 funding opportunities, including joint initiatives in Clusters 4 (Digital, Industry and Space) and 5 (Climate, Energy and Mobility), aiming to foster new European collaborations in the domains of smart cities, energy transition, and sustainable mobility.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Rimac Technology is free from any oversight by any other manufacturer, including investors into the Rimac Group business. It’s just as important for Rimac Technology clients that their projects are kept confidential, as that it is delivered with the required cost, performance and on time.",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and President of the Rimac Group, CEO Bugatti Rimac",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": ", the electric hypercar manufacturer founded by",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology was founded by",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac Automobili founder Mate Rimac shares lessons from bootstrapping an EV company\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Investors",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Employees",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees work at",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "’s total headcount has",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 3,602 employees in 2023 to 3,344 in 2026",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". It is the 7th-largest by headcount among its",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Headcount",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees in",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": ". Rimac Technology's headcount peaked at",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See Rimac Technology's complete headcount history, including quarterly breakdowns.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by Northern Europe and Western Europe.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology employees by region",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology employees by department",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in Northern Europe receive the highest compensation, with median pay approximately",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": ", Rimac Technology's headcount grew",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, up from",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "See the full headcount history",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Rimac Technology employees located?",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Rimac Technology employees are based in Southern Europe (",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of headcount), followed by Northern Europe and Western Europe.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "When was Rimac Technology founded and where is it headquartered?",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 2009 by",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "The groundwork for the company was laid in 2007 as a hobby garage activity of Mate Rimac.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "to incorporate an electric powertrain and subsequently gained attention from the press and investors.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "angel investors",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Automobili was founded in 2009 in",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "The company currently has about 1,500 employees.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"EV startup Rimac scores $90M investment from Hyundai and Kia\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche strengthens ties with electric supercar startup Rimac in new funding round\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "(Founder and CEO)",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pioneers: Startups from Dreams to Reality",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Xcelerator for Startups Videos",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and President of the Rimac Group, CEO Bugatti Rimac and Rimac Technology.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "“With the relentless growth of our business, including the opening of Rimac Campus, we’re now ready to deliver large-scale projects for the leading brands in the automotive industry,” Rimac Group Founder and CEO Mate Rimac said in a press release.",
+    "url": "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "pass": 3
+   },
+   {
+    "quote": "He is the founder and CEO of the Rimac Group, a business which includes",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "brands – and Rimac Technology, a supplier of technology to automotive brands. He also founded Greyp Bikes, a high-tech",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "into an electric car in his garage.",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "His company, Rimac Automobili, went from its first employees in 2011 to more than 1,000 employees in 2020, with major investment from",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": ", where Rimac's father founded a",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "However, Rimac was fascinated by cars and technology and was working in his parents' garage on his own projects. During high school, Rimac's teacher and later mentor, Ivan Vlainić, convinced him to participate at a local competition for electronics.",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "The company which would become Rimac Automobili was founded in September 2009, when Rimac was 21.",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "While the company was founded in 2009, Rimac had no employees until 2011. In 2010, Rimac met Adriano Mudri, who was a designer at",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "Porsche investment and Bugatti merger accelerate Rimac’s growth",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The new home of hypercars and technical innovation, integrating advanced R&D centers and high-volume production lines for Rimac Technology, with dedicated hypercar development and production for Bugatti Rimac.",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "This breakthrough marks a paradigm shift in E/E architecture for software-defined vehicles, setting a new standard for innovation. Rimac Technology’s domain/zonal ECU is one of the first-to-market solutions, offering streamlined, efficient, and scalable mobility solutions.",
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "pass": 1
+   },
+   {
+    "quote": "With professional advisors, in our legitimate interests or as required by law. As necessary, we will share your personal data with professional advisors functioning as service providers such as auditors, law firms, or accounting firms.",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to representatives from the mentioned research institutions, speakers from BMW Group and Rimac Technology will also give presentations on the topic of batteries in electric vehicles.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": "Strojno ucenje procesa starenja baterijskog članka, Ninoslav Čerkez, Rimac Technology d.o.o.",
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "pass": 1
+   },
+   {
+    "quote": ", 2022, as an umbrella company that incorporates Bugatti Rimac (active from November 2021) and the new standalone Rimac Technology business.",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and President of the Rimac Group, CEO Bugatti Rimac",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Built in Zagreb, Driven Worldwide: Rimac Technology Helps Power the New BMW",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti Rimac",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti Tourbillon",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche raises stake in electric car and components maker Rimac Automobili\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"VW offloads Bugatti to Rimac to form new EV company Bugatti-Rimac\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac and Bugatti join forces to make the hypercars of the future\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac to supply batteries for next generation of electric BMWs\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac and BMW Take On the Electric Future Together\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"BMW, Rimac Technology to co-produce battery tech for EVs\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac's Solid-State Batteries Promise to Bring More Power and Less Weight to the Next Bugatti\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mate Rimac transitions from Rimac Technology CEO role to focus on Bugatti leadership\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "HD Hyundai Infracore Co., Ltd.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai WIA Corp.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Stellantis NV",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "HELLA GmbH & Co. KGaA",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Mobis Co., Ltd.",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti Rimac",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti Automobiles",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "BMW 3 Series (E30)",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche Engineering Group GmbH",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai Motor Company",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Kia Motors",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "In 2020, Rimac recommended Infinum, the largest Balkan software and design company, to Porsche and that led to the creation of the joint venture Porsche Digital Croatia with an investment of",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Porsche",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "In this venture, Rimac Group holds a 55% stake, while Porsche owns the remaining 45%.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "in June of that year, Porsche stated it was one of the participants in a new",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "BMW M3",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "The original BMW went through five stages of reinvention and now, says Rimac, \"it got faster, lighter and more reliable each time.\" At that point, once he realised how little of the original car remained, he decided to build a new and faster car from scratch.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Aston Martin",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Mercedes-EQ A",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Electric supercar maker Rimac receives over $500 million investment from Porsche and others\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Rimac Automobili and Bugatti Begin Operating Under New Company: Bugatti Rimac\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Freshly Combined Bugatti Rimac is The World's New Supercar Company\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche takes a stake in the Croatian technology and sports car company Rimac\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Porsche. 20 June 2018.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche accelerates EV supercar ambitions with investment in Rimac\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"EV startup Rimac scores $90M investment from Hyundai and Kia\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche i Infinum u Zagrebu otvaraju centar gdje će razvijati softvere za aute, zaposlit će stotinu ljudi\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"Porsche increases stake in Rimac Automobili to 24 per cent\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "\"VW offloads Bugatti to Rimac to form new EV company Bugatti-Rimac\"",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, yes…we will talk about that Bugatti car battery",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Zagreb, Croatia isn’t really on the traditional automotive map. In the old days circa 1980 or so, there weren’t that many places-to-be when it came to car manufacturing: Detroit, Munich, Torino, Toyota, Wolfsburg…But Zagreb? Not top of mind.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology leads the pack when it comes to car battery innovation with the Bugatti Tourbillon amongst others…",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "as well as 55% of Bugatti Rimac.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "crowd thanks to the group’s joint venture. Known as Bugatti Rimac and with global headquarters (also) in Sveta Nedelja, this iconic hyper-car brand is 45% in the hands of Porsche (and therefore the VW Group) and 55% in the hands of the Rimac Group. Bugatti Rimac employs 435 people — 300 in Sveta Nedelja and 135 at its bespoke assembly atelier in Molsheim, France.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Presenting the Bugatti car battery",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Take the Bugatti Tourbillon as an example of the team’s engineering excellence. Working from its car battery and e-powertrain know-how, the Rimac Technology team closely collaborated with Bugatti Rimac’s engineering teams to design a power-packed 800V hybrid system that seamlessly integrated with the Tourbillon’s whopping 8.3-litre V16 engine.",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "To legitimize transfers of data outside the EEA or countries which have not been deemed by the European Commission as providing an adequate level of protection for personal data, we rely on the European Commission Standard Contractual Clauses. Please contact our Data Protection Officer for more information about this.",
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "pass": 1
+   },
+   {
+    "quote": "As a condition of using this Supplier Portal and being considered by RIMAC for the award of any contract, you agree that:",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": "All negotiations, communications, and notices in relation to or under any contract with RIMAC shall be in English, and",
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting and Advisory Firms",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "acquired a 10% stake in Rimac to form a development partnership, as part of its electrification process.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": ", when some parts were contracted to other companies.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "EDA Consulting Services",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "\"I wanted to build a lot of cars and maybe do a little bit for OEMs, but it turned out to be the other way around,\" Rimac said.",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Pitarević joined Rimac Technology from Continental and led the company through a period of operational expansion in his role as COO, overseeing the transition of multiple programmes into series production.",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "BMW 3 Series (E30)",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "The Marine Industry Podcast Series",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "BMW 3 Series",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   },
+   {
+    "quote": "being the formula for velocity),",
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rimac Technology Officially Becomes Its Own Entity — Rimac Technology Officially Becomes Its Own Entity Rimac Newsroom https://www.rimac-newsroom.com > r...",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology - Wikipedia — Rimac Technology - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Rim...",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology | LinkedIn — Rimac Technology | LinkedIn LinkedIn Croatia https://hr.linkedin.com > company > r...",
+    "url": "https://hr.linkedin.com/company/rimac-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Company | Rimac Technology — Company | Rimac Technology Rimac Technology https://www.rimac-technology.com > ...",
+    "url": "https://www.rimac-technology.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology Number of Employees 2026 - Revelio Labs — Rimac Technology Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...",
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Automobili - Wikipedia — Rimac Automobili - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Rim...",
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Companies | Rimac Group — Companies | Rimac Group Rimac Group https://www.rimac-group.com > com...",
+    "url": "https://www.rimac-group.com/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Group Boasts Assets in Excess of 1 Billion Euros — Rimac Group Boasts Assets in Excess of 1 Billion Euros Total Croatia https://total-croatia-news.com > news",
+    "url": "https://total-croatia-news.com/news/business/rimac-group-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology — Rimac Technology Rimac Technology https://www.rimac-technology.com",
+    "url": "https://www.rimac-technology.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology : Winning the ultimate car battery race? — Rimac Technology : Winning the ultimate car battery race? Siemens Blog Network https://blogs.sw.siemens.com > racing...",
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology Unveils New Solid-State Battery Tech and ... — Rimac Technology Unveils New Solid-State Battery Tech and ... Rimac Newsroom https://www.rimac-newsroom.com > r...",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-unveils-new-solid-state-battery-tech-and-next-generation-eaxles",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Technology and ECOBLOX Partner to Bring Rimac ... — Rimac Technology and ECOBLOX Partner to Bring Rimac ... Rimac Newsroom https://www.rimac-newsroom.com > r...",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+    "pass": 3
+   },
+   {
+    "quote": "BMW, Rimac Technology to co-produce battery tech for EVs — BMW, Rimac Technology to co-produce battery tech for EVs ESG Dive https://www.esgdive.com > news > ri...",
+    "url": "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "pass": 3
+   },
+   {
+    "quote": "BMW Group and Rimac Technology agree long-term ... - Reddit — BMW Group and Rimac Technology agree long-term ... - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/cars/comments/1bzru54/bmw_group_and_rimac_technology_agree_longterm/",
+    "pass": 3
+   },
+   {
+    "quote": "Founder Mate Rimac on How Rimac Automobili Rose to Fame — Founder Mate Rimac on How Rimac Automobili Rose to Fame Business Insider https://www.businessinsider.com > ma...",
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac Automobili Closes 10M Euro Series-A Investment Round — Rimac Automobili Closes 10M Euro Series-A Investment Round Rimac Newsroom https://www.rimac-newsroom.com > r...",
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-automobili-closes-10m-euro-series-a-investment-round",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rimac-technology.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/battery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/powertrain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/bms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/ecu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/privacy-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/supplier-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/mlbattprot-eu-project",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/legal-notice",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/cookie-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/whistleblowing-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-technology.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hr.linkedin.com/company/rimac-technology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-unveils-new-solid-state-battery-tech-and-next-generation-eaxles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=IMgVW-lXRWA",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rimac Technology engineering services clients other industries",
+   "results": [
+    "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "https://hr.linkedin.com/company/rimac-technology",
+    "https://www.rimac-technology.com/company",
+    "https://careers.rimac-group.com/position/quality-engineer/",
+    "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "https://www.youtube.com/watch?v=a06InehxHLk",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://www.preqin.com/data/profile/asset/rimac-automobili-d-o-o-/158521",
+    "https://www.rimac-technology.com/"
+   ]
+  },
+  {
+   "query": "Rimac Technology revenue turnover employees",
+   "results": [
+    "https://www.reveliolabs.com/companies/rimac-technology/employees",
+    "https://www.rimac-technology.com/company",
+    "https://en.wikipedia.org/wiki/Rimac_Automobili",
+    "https://www.rimac-group.com/companies",
+    "https://total-croatia-news.com/news/business/rimac-group-2/",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://app.dealroom.co/companies/rimac_automobili",
+    "https://hr.linkedin.com/company/rimac-technology",
+    "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-grows-to-450-employees",
+    "https://www.poslovna.hr/lite/rimac-technology/1694345/subjekti.aspx?lang=en"
+   ]
+  },
+  {
+   "query": "Rimac Technology supplies components to OEM",
+   "results": [
+    "https://www.rimac-technology.com/",
+    "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity",
+    "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://www.facebook.com/autonewseurope/posts/rimac-technology-known-for-cutting-edge-ev-components-has-scaled-up-to-produce-4/1821560069547602/",
+    "https://www.rimac-automobili.com/about-us/",
+    "https://insideevs.com/news/561616/rimac-separates-carmaking-unit-components/",
+    "https://www.youtube.com/watch?v=T9FlQydXkCQ",
+    "https://www.rimac-technology.com/supplier-portal"
+   ]
+  },
+  {
+   "query": "Rimac Technology aerospace defence non-automotive",
+   "results": [
+    "https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/",
+    "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-unveils-new-solid-state-battery-tech-and-next-generation-eaxles",
+    "https://www.rimac-technology.com/",
+    "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "https://careers.rimac-group.com/",
+    "https://rimac-automobili.com/",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-NXP-RIMAC-TEC-REAL-TIME-SDVS",
+    "https://www.rimac-technology.com/supplier-portal",
+    "https://www.rimac-group.com/"
+   ]
+  },
+  {
+   "query": "Rimac Technology licensing technology partnership",
+   "results": [
+    "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+    "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "https://www.esgdive.com/news/rimac-technologies-bmw-battery-supply-partnership-evs/713460/",
+    "https://hr.linkedin.com/company/rimac-technology",
+    "https://www.reddit.com/r/cars/comments/1bzru54/bmw_group_and_rimac_technology_agree_longterm/",
+    "https://www.rimac-technology.com/company",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://prologium.com/prologium-and-rimac-technology-advance-next-generation-ev-battery-development/",
+    "https://www.rimac-group.com/",
+    "https://www.press.bmwgroup.com/global/article/detail/T0440947EN/bmw-group-and-rimac-technology-agree-long-term-partnership"
+   ]
+  },
+  {
+   "query": "Rimac Technology founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mate_Rimac",
+    "https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6",
+    "https://www.youtube.com/watch?v=IMgVW-lXRWA",
+    "https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-automobili-closes-10m-euro-series-a-investment-round",
+    "https://static1.squarespace.com/static/5f02f6f3ff3ad26698daa428/t/63c16a368ea6a76fd3f28541/1673620029899/Rimac+Technology.pdf",
+    "https://www.quora.com/How-did-Rimac-Automobili-start-Are-they-a-viable-competitor-in-the-electric-automotive-market",
+    "https://www.rimac-automobili.com/about-us/",
+    "https://multiples.vc/private-comps/rimac-group",
+    "https://en.wikipedia.org/wiki/Rimac_Technology",
+    "https://equicapmag.com/wheels/meet-rimac/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部15頁・検索6回）"
+ }
+}

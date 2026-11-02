@@ -1,0 +1,594 @@
+{
+ "name": "Metalshub",
+ "aliases": [
+  "Metals Hub"
+ ],
+ "context": "金属素材の取引プラットフォーム（独）",
+ "researched_at": "2026-11-02T14:57:41.576223+00:00",
+ "official_url": "https://www.metals-hub.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Annual revenue",
+    "value": "$6.5M",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with new suppliers, conduct effective negotiations and take data-driven driven decisions to save direct raw material cost. On average companies",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 9 new suppliers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify enquiry-to-contract, run auctions, discover new customers and allocate the most suited inventory to optimise your netback across offers. On average companies",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 3 new customers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Will implementing Metalshub negatively impact my personal relationships to buyers/sellers?",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub is backed internationally proclaimed investors with significant experience in helping Software as a Service (SaaS) companies create lasting value for its customers.",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "“Metalshub makes it easier to conclude transactions. All necessary information can be seen at a glance, clarifications via mail or telephone are no longer required, all buyers and sellers have been checked beforehand.”",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "See What Our Customers Think About Metalshub",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "How can I discover new customers?",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub is a leading software provider for the metals and mining industry, unlocking supply chain value for buyers and sellers of metals and minerals. Metalshub provides software to buy, sell and trade raw materials.",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Membership Statutes",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Regular Federation Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Regular Subscribers & Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Associate Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "User Feedback",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "User Feedback",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Metalshub Pricing - Invest in Your Future",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "User Feedback",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Pricing Plans",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible Pricing for Every Need",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Chose the plan that best fits your requirements.",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Pricing",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "User Feedback",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Element Pricing",
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "pass": 1
+   },
+   {
+    "quote": "per year.",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Zoominfo pricing",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Clearbit pricing",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Bombora Pricing",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "One figure per year; a reported figure wins over an estimate",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "360 Feedback Tools Software",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Advertising Platforms",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Membership Statutes",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Connect with new suppliers, conduct effective negotiations and take data-driven driven decisions to save direct raw material cost. On average companies",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 9 new suppliers",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "What Users Say About Us",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Membership Statutes",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Regular Federation Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Regular Subscribers & Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Associate Members",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Italy’s Supreme Court orders permanent closure of Acciaierie d’Italia (ADI)",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Metalshub can streamline your procurement, sales, or tolling processes. Contact us and book your demo now for a firsthand look.",
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "第36回グラハム＆ドッド・アニュアル・イベント：ヒマラヤ・キャピタル創業者兼会長 リー・ルー（96年卒）登壇",
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "pass": 3
+   },
+   {
+    "quote": "10月11日 – ロンドン金属取引所（LME）は、メタルズハブ社と協力して非鉄金属の現物取引プラットフォームを開発しており、最初の製品は2022年初頭に発売される予定です",
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "pass": 3
+   },
+   {
+    "quote": "最初に破綻する先進国はどこか？",
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "pass": 3
+   },
+   {
+    "quote": "Co-Founder & Managing Director",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "Founder figures link to the second they were said; public figures name their source; estimates are marked EST and say whose they are. Not financial advice.",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile First Company (Allo)",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 45,000+ founders, operators, and investors.",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metalshub - Platform to Buy, Sell and Trade Raw Materials — Metalshub - Platform to Buy, Sell and Trade Raw Materials Metals Hub https://www.metals-hub.com > ...",
+    "url": "https://www.metals-hub.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub | LinkedIn — Metalshub | LinkedIn LinkedIn https://jp.linkedin.com > company > metalshub",
+    "url": "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "pass": 3
+   },
+   {
+    "quote": "LME and Metalshub Developing Trusted Commodity Spot ... — LME and Metalshub Developing Trusted Commodity Spot ... London Metal Exchange https://www.lme.com > lme-digest > l...",
+    "url": "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub - Valuation, Funding & Investors - PitchBook — Metalshub - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/233432-47",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub Revenue 2025: $6.5M Est. - GetLatka — Metalshub Revenue 2025: $6.5M Est. - GetLatka GetLatka https://getlatka.com > metals-hub",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "metalshub - Instagram — metalshub - Instagram Instagram https://www.instagram.com > metalshub",
+    "url": "https://www.instagram.com/metalshub/",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub : Revenue, Competitors, Alternatives - Growjo — Metalshub : Revenue, Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "LME CEO on Metalshub Partnership, Aluminum - YouTube — LME CEO on Metalshub Partnership, Aluminum - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "pass": 3
+   },
+   {
+    "quote": "About Metalshub : Our Mission, Team & Values — About Metalshub : Our Mission, Team & Values Metals Hub https://www.metals-hub.com > about-us",
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Metalshub : Revenue , Competitors, Alternatives - Growjo — Metalshub : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Metalshub",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce platform Metalshub raises $11m funding — E-commerce platform Metalshub raises $11m funding EUROMETAL https://eurometal.net > e-commerce-pl...",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Partners | Metalshub — Our Partners | Metalshub Metals Hub https://www.metals-hub.com > partners",
+    "url": "https://www.metals-hub.com/en/partners/",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Metalshub",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce platform Metalshub raises $11m funding - EUROMETAL",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce platform Metalshub raises $11m funding",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Content Management Systems",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered SaaS Search",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsletter",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Search for:",
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metals-hub.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metals-hub.com/en/industry-player/recycling-company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/metalshub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/metalshub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/Metalshub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/metals-hub.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metalshub 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.metals-hub.com/en/",
+    "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "https://www.lme.com/education/online-resources/lme-digest/lme-and-metalshub-developing-trusted-commodity-spot-reference-prices",
+    "https://pitchbook.com/profiles/company/233432-47",
+    "https://getlatka.com/companies/metals-hub.com",
+    "https://datarade.ai/data-providers/metalshub/profile",
+    "https://growjo.com/company/Metalshub",
+    "https://www.metals-hub.com/en/about-us/",
+    "https://casecenter.jp/case/CCJB-IMD-7-2457.html",
+    "https://www.metals-hub.com/en/pricing/"
+   ]
+  },
+  {
+   "query": "Metalshub 売上 従業員 創業",
+   "results": [
+    "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "https://www.metals-hub.com/en/",
+    "https://www.instagram.com/metalshub/",
+    "https://growjo.com/company/Metalshub",
+    "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "https://pitchbook.com/profiles/company/233432-47",
+    "https://startupintros.com/orgs/metalshub",
+    "https://www.actoncapital.com/portfolio/metalshub",
+    "https://getlatka.com/companies/metals-hub.com",
+    "https://tracxn.com/d/companies/metals-hub-gmbh/__cA36T3Pb-eDZzALJDiL30bZy2AW1amq5tuqQvyM_Abc"
+   ]
+  },
+  {
+   "query": "Metalshub 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.metals-hub.com/en/about-us/",
+    "https://www.youtube.com/watch?v=4Y7Dzp0GKr8",
+    "https://www.instagram.com/metalshub/",
+    "https://jp.linkedin.com/company/metalshub/?trk=organization-update_share-update_actor-image",
+    "https://www.youtube.com/watch?v=-1Pqoz9rt2U",
+    "https://www.metals-hub.com/en/metalshub-talks/010/",
+    "https://www.sojitz.com/jp/discover/interview/article/interview_shinsotsu24.html",
+    "https://casecenter.jp/case/CCJB-IMD-7-2457.html",
+    "https://www.instagram.com/reel/DYWn7r8zVAL/",
+    "https://www.linkedin.com/pulse/why-we-started-metalshub-dr-sebastian-kreft"
+   ]
+  },
+  {
+   "query": "Metalshub revenue members business model",
+   "results": [
+    "https://growjo.com/company/Metalshub",
+    "https://getlatka.com/companies/metals-hub.com",
+    "https://eurometal.net/e-commerce-platform-metalshub-raises-11m-funding/",
+    "https://www.metals-hub.com/en/partners/",
+    "https://www.cookcountyil.gov/news/cook-county-and-southland-development-authority-announce-launch-metals-hub",
+    "https://pitchbook.com/profiles/company/233432-47",
+    "https://static1.squarespace.com/static/667957fa56bad26a3cd90aaf/t/685caf8a13f8b83809e3751f/1750904738228/METALS+HUB+Summary.pdf",
+    "https://southlanddevelopment.org/metals-hub",
+    "https://dealroom.co/companies/metalshub/",
+    "https://compworth.com/company/metalshub"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

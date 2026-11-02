@@ -1,0 +1,955 @@
+{
+ "name": "アースインフィニティ",
+ "aliases": [],
+ "context": "証券コード7692／電気・ガス業／スタンダード（内国株式）／2026.07期 売上高7,734百万円 営業利益率35.2%",
+ "researched_at": "2026-11-02T14:37:48.718767+00:00",
+ "official_url": "https://www.earth-infinity.co.jp/",
+ "identified_by": "search:yahoo_jp:アースインフィニティ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2002年7月",
+    "url": "https://www.earth-infinity.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2002年7月",
+    "url": "https://earth-infinity.co.jp/company/index.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "小売電気事業 ガス小売事業 電子機器の製造・販売・卸業",
+    "url": "https://www.earth-infinity.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "小売電気事業 ガス小売事業 電子機器の製造・販売・卸業",
+    "url": "https://earth-infinity.co.jp/company/index.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "電気のお客様",
+    "url": "https://www.earth-infinity.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスのお客様",
+    "url": "https://www.earth-infinity.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "卒FITのお客様",
+    "url": "https://www.earth-infinity.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光・蓄電池のお客様",
+    "url": "https://www.earth-infinity.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様、株主、社会、従業員等の多様なステークホルダーから信",
+    "url": "https://www.earth-infinity.co.jp/ir/Corporate_governance.html",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.earth-infinity.co.jp/ir/Disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、取引先や提携先との安定的な取引関係の維持・強化を図ることが、当社の企業価値の向上に資すると認められる場合、取引関係の維",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、保有株式の議決権行使については、取引先や提携先との安定的な取引関係の維持・強化を図ることが、当社の企業価値の向上に資する",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "のお客様以外の方も含め、電気をご利用のすべての皆様から集めた賦課金により賄われており、この電気のCO2排出量については、火力発電なども含めた全国平均の電気のCO2排出量を持った電気として扱われます",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "手続き時には、お客様番号や供給地点特定番号などの情報が必要になります",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "【新電力】小規模店舗や工場などが主な顧客",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、「人や仲間が集まり続け 求められ応え続ける会社」という理念のもと、お客様へエネルギーサービスを提供する企業のひとつとして、市場環境の変化やお客様ニーズに柔軟に対応し、顧客価値の向上を目指しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "競争激化により、他社への切り替えによる解約が毎年一定割合発生しますが、顧客との契約が継続されている限り、サービスを提供出来るため、継続的な収入及び収益を見込むことができます",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、小売電気において、代理店による新規顧客獲得に注力することで、堅調に契約数を積み上げてまいりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "）との間で行う「市場取引」により調達した電力を、一般送配電事業者の有する送配電網を用い、北海道電力株式会社・東北電力株式会社・東京電力ホールディングス株式会社・中部電力株式会社・北陸電力株式会社・関西電力株式会社・中国電力株式会社・四国電力株式会社・九州電力株式会社の各営業地域において、顧客に対し電力の供給を行っております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、代理店等による営業活動を中心に新規顧客獲得を行っており、利益率及び成約率を維持するため一般家庭や小規模工場、店舗、飲食店等の中間層に特化した料金プランの作成及び付加価値を付けた新サービスの展開に注力しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、民間のガス会社から調達したガスを、当社と電力需給契約を締結している顧客や新規で小売電気の営業を行う際に、電力とのセット販売を行っております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "リース契約期間が終了する既存顧客に対して、過去に導入していただいた電子ブレーカーと同様の機能を持った新しい電子ブレーカーに入れ替える販売（以下、「リプレイス販売」という）を中心とした営業を行っております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "電子機器事業の今後といたしましては、蓄積された営業ノウハウを活かし、顧客の電気料金削減のお手伝いをしてまいります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、顧客基盤の拡大が進み、継続的に収益を確保できる体制が着実に整ってまいりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "収入面では、電気及びガスの販売において、代理店による顧客獲得を大幅に強化し、中小企業及び一般家庭を中心に電力及びガスの営業活動を行い契約を獲得した結果、堅調に顧客数を伸ばしました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高は7,617百万円と、前事業年度に比べて979百万円の増収（前期比14.8％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "収入面では、新規案件の獲得が寄与し、外部顧客への売上高は116百万円と、前事業年度に比べて28百万円の増収（前期比33.1％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2002年7月",
+    "url": "https://www.earth-infinity.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜新電力会社アースインフィニティ (Earth Infinity)",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年7月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年3月〜10月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月〜10月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年1月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年7月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年2月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年6月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年5月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年2月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年10月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年12月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年5月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月の小売電力全面自由化後は、小売電気事業を主力として、これまでと同じく中小企業等の需要家様の電気料金等の削減を続けてまいりました",
+    "url": "https://www.earth-infinity.co.jp/ir/Top_message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年６月に公表された改訂コーポレートガバナンス・コードに基づき記載いたします",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年4月1日～2022年3月31日",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月2日（月）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期決算短信〔日本基準〕（非連結）",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期決算補足説明資料",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "2002年7月",
+    "url": "https://earth-infinity.co.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "2015年３月に特定規模電気事業者の届出、2016年４月に小売電気事業者の登録を行い小売電気に参入し、2019年６月にはガス小売事業者の登録を行いガスの小売に参入しました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "2020年10月16日、JASDAQに新規上場した",
+    "url": "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "2016年4月の小売電力全面自由化後は、小売電気事業を主力として、これまでと同じく中小企業等の需要家様の電気料金等の削減を続けてまいりました",
+    "url": "https://www.earth-infinity.co.jp/ir/Top_message.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アースインフィニティ（以下「当社」）は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」（以下、「適時開示規則」といいます）に従って、",
+    "url": "https://www.earth-infinity.co.jp/ir/Disclosure_policy.html",
+    "pass": 1
+   },
+   {
+    "quote": "業務の有効性及び効率性を高めるべく、金融商品取引法に基づく内部統制報告制度への適切な対応を推進する",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "燃料費等調整額＝（燃料費調整単価＋離島ユニバーサルサービス調整単価＋電源調達調整単価）×電気使用量",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "離島ユニバーサルサービス調整単価は九州電力エリアのみ適用",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "エネチェンジEV充電サービス",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "日本最大級の電気とガスの比較サイトを運営するエネチェンジと共同で、法人需要家様向けに「電力切り替えサービス」を提供しませんか？",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、「人や仲間が集まり続け 求められ応え続ける会社」という理念のもと、お客様へエネルギーサービスを提供する企業のひとつとして、市場環境の変化やお客様ニーズに柔軟に対応し、顧客価値の向上を目指しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "競争激化により、他社への切り替えによる解約が毎年一定割合発生しますが、顧客との契約が継続されている限り、サービスを提供出来るため、継続的な収入及び収益を見込むことができます",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、代理店等による営業活動を中心に新規顧客獲得を行っており、利益率及び成約率を維持するため一般家庭や小規模工場、店舗、飲食店等の中間層に特化した料金プランの作成及び付加価値を付けた新サービスの展開に注力しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "電子ブレーカーは、当社の特許技術に基づき、協力会社で製品を製造し、販売・設置を行うファブレス（工場を持たない）メーカーとして事業活動を展開しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "【補充原則4-10-1.独立した指名委員会・報酬委員会の設置】",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、任意の指名報酬委員会を設置しておりませんが、取締役会を構成する取締役６名のうち、監査等委員である社外取締役を３名選任し、",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ⅴ）取締役・監査等委員候補の指名を行う際の、個々の選任・指名理由及び解任の際の解任理由については、選解任・指名を上程する株主総",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "アースインフィニティのメリットと特徴を紹介します",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "エネチェンジでは、「市場価格と連動していないプラン」を提供する電力会社も厳選して紹介しています",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "エネチェンジ法人電力切替 代理店様募集ページ",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "【新電力】小規模店舗や工場などが主な顧客",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "電気の契約は、特別高圧（2,000ｋＷ以上：大規模工場やオフィスビル等）、高圧（50ｋＷ以上2,000ｋＷ未満：中小規模工場や中小ビル等）、低圧（50ｋＷ未満（電灯100Ｖ・動力200Ｖ）：一般家庭や小規模店舗、工場等）に分類されており、",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、小売電気において、代理店による新規顧客獲得に注力することで、堅調に契約数を積み上げてまいりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "小売電気は、一般家庭や小規模工場、店舗、飲食店等を対象とする低圧及び中小規模工場や中小ビル等の高圧の需要家に対して電力の供給を行う事業であります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、代理店等による営業活動を中心に新規顧客獲得を行っており、利益率及び成約率を維持するため一般家庭や小規模工場、店舗、飲食店等の中間層に特化した料金プランの作成及び付加価値を付けた新サービスの展開に注力しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社にて電子ブレーカーの販売に伴うリースの事務代行やクレジットの取次から、設置工事に伴う電力会社への申請代行業務までを行うこと、また、取引契約を交わしている販売店へ卸販売することにより、収益を獲得しております",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、代理店戦略の強化を通じて柔軟かつ効率的な事業運営体制の構築に取り組んでまいりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー事業におきましては、売上を継続的に獲得できる基盤作りを目指して、代理店を活用した販売体制の強化に取り組んでおります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "収入面では、電気及びガスの販売において、代理店による顧客獲得を大幅に強化し、中小企業及び一般家庭を中心に電力及びガスの営業活動を行い契約を獲得した結果、堅調に顧客数を伸ばしました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、支出面では、代理店等を活用した営業活動の強化により、営業費用が増加しました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最低利用期間内に需給契約の消滅があった場合には、解約事務手数料11,000 円がかかります",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2025年11月1日の申込み分より、最低利用期間および解約事務手数料を免除するものといたします",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "燃料費等調整額＝（燃料費調整単価＋離島ユニバーサルサービス調整単価＋電源調達調整単価）×電気使用量",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "離島ユニバーサルサービス調整単価は九州電力エリアのみ適用",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "このうち、電源調達調整単価が日本卸電力取引所（JEPX）の市場価格に連動しており、毎月変動します",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティの契約手数料は？支払い方法は何がある？",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "契約手数料は？",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "紙の請求書を希望する場合、手数料として660円/通（税込）がかかります",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "解約手数料は？",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "最低契約期間の36カ月以内に解約した場合、解約事務手数料として11,000円（税込）がかかります",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "引越しや建物の取り壊しなど、電気契約自体を廃止する場合、解約事務手数料は発生しません",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー事業は、電気及びガスを継続的に販売するストック型ビジネスが主な事業です",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "、WORLD MARKETZ / ストックボイス公式",
+    "url": "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "今後については、株主構成比率の変化などを考慮して対応を検討いたします",
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の事業におけるセグメントとの関連は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、以下に示す区分は、セグメントと同一の区分であります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、売上高は7,617百万円（前期比14.8％増）、セグメント利益は1,276百万円（前期比15.6％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、売上高は116百万円（前期比33.1％増）、セグメント利益は33百万円（前期比8.8％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における仕入実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業年度における販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、セグメント利益は1,276百万円（前期比15.6％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "これらの結果、セグメント利益は33百万円（前期比8.8％増）となりました",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 アースインフィニティ — 株式会社 アースインフィニティ 株式会社アースインフィニティ https://www.earth-infinity.co.jp",
+    "url": "https://www.earth-infinity.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ の電気料金シミュレーション — アースインフィニティ の電気料金シミュレーション エネチェンジ https://enechange.jp > utilities > neo-west",
+    "url": "https://enechange.jp/utilities/neo-west",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 アースインフィニティ （電気・ガス業） - 100億宣言 — 株式会社 アースインフィニティ （電気・ガス業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/01850-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ ［7692］JASDAQ IPO - YouTube — アースインフィニティ ［7692］JASDAQ IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "pass": 3
+   },
+   {
+    "quote": "(株) アースインフィニティ 【東証スタンダード市場】 - マイナビ — (株) アースインフィニティ 【東証スタンダード市場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp105083 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp105083/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ アースインフィニティ ( Earth Infinity ) — IR情報｜ アースインフィニティ ( Earth Infinity ) 株式会社アースインフィニティ https://earth-infinity.co.jp > ...",
+    "url": "https://earth-infinity.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 アースインフィニティ 】[7692]IR情報 中期経営計画や 決算 短信 — 【 アースインフィニティ 】[7692]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ 【7692】の最新 決算 発表、業績修正 - 株探 — アースインフィニティ 【7692】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > アースインフィニティ (7692) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=7692",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ (7692) - 決算 情報 - みんかぶ — アースインフィニティ (7692) - 決算 情報 - みんかぶ みんかぶ https://minkabu.jp > stock > settlement",
+    "url": "https://minkabu.jp/stock/7692/settlement",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜新電力会社 アースインフィニティ ( Earth Infinity ) — 会社概要｜新電力会社 アースインフィニティ ( Earth Infinity ) 株式会社アースインフィニティ https://earth-infinity.co.jp > company",
+    "url": "https://earth-infinity.co.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ 【7692】の 事業 内容 - キタイシホン — アースインフィニティ 【7692】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7692/business",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ |電力会社の比較/一覧(料金プラン,販売量 ... — アースインフィニティ |電力会社の比較/一覧(料金プラン,販売量 ... 新電力ネット https://pps-net.org > 電力会社一覧",
+    "url": "https://pps-net.org/ppscompany/16903",
+    "pass": 3
+   },
+   {
+    "quote": "【 アースインフィニティ 】[7692]企業概要 社員数や役員報酬 ... — 【 アースインフィニティ 】[7692]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=7692",
+    "pass": 3
+   },
+   {
+    "quote": "新電力会社｜ アースインフィニティ ( Earth Infinity ) — 新電力会社｜ アースインフィニティ ( Earth Infinity ) 株式会社アースインフィニティ https://www.earth-infinity.co.jp > news > news_informatio...",
+    "url": "https://www.earth-infinity.co.jp/news/news_information20260612.html",
+    "pass": 3
+   },
+   {
+    "quote": "アースインフィニティ の 社長 は誰？濵田 幸一氏の経歴・就任 ... — アースインフィニティ の 社長 は誰？濵田 幸一氏の経歴・就任 ... kigyo-scope.jp https://kigyo-scope.jp > 株式会社アースインフィニティ",
+    "url": "https://kigyo-scope.jp/company/7692/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.earth-infinity.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/IRnews.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Top_message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Corporate_governance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Disclosure_policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Business_performance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Financial_status.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Cash_flow_status.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Securities_report.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Financial_statements.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earth-infinity.co.jp/ir/Stock_price_information.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.earth-infinity.co.jp/contractor/images/paysuru.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://earth-infinity.co.jp/ir/images/CG.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://enechange.jp/utilities/neo-west",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earth-infinity.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earth-infinity.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7692/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アースインフィニティ",
+   "results": [
+    "https://www.earth-infinity.co.jp/",
+    "https://enechange.jp/articles/contact-electricity-neo-west",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3",
+    "https://minhyo.jp/earth-infinity",
+    "https://pps-net.org/ppscompany/16903",
+    "https://ja.wikipedia.org/wiki/アースインフィニティ",
+    "https://ja.wikipedia.org/wiki/濵田幸一",
+    "https://www.earth-infinity.co.jp/company/index.html",
+    "https://finance.yahoo.co.jp/quote/7692.T",
+    "https://www.reuters.com/jp/markets/companies/7692.T/"
+   ]
+  },
+  {
+   "query": "アースインフィニティ ビジネスモデル",
+   "results": [
+    "https://www.earth-infinity.co.jp/",
+    "https://enechange.jp/utilities/neo-west",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/01850-00.pdf",
+    "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "https://job.mynavi.jp/27/pc/search/corp105083/outline.html",
+    "https://pps-net.org/comparison/76867",
+    "https://prtimes.jp/main/html/rd/p/000000092.000111215.html",
+    "https://vis-produce.com/projects/branding/workplace-design/909",
+    "https://earth-infinity.co.jp/company/index.html",
+    "https://consovation.com/株式会社アースインフィニティのビジネスモデル/"
+   ]
+  },
+  {
+   "query": "アースインフィニティ 決算説明資料",
+   "results": [
+    "https://earth-infinity.co.jp/ir/index.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7692",
+    "https://kabutan.jp/stock/finance?code=7692",
+    "https://corp.earth.jp/jp/ir/index.html",
+    "https://minkabu.jp/stock/7692/settlement",
+    "https://www.d-infi.com/ir/lib/",
+    "https://earth-infinity.co.jp/ir/Financial_statements.html",
+    "https://irbank.net/E35932/reports",
+    "https://www.earth-infinity.co.jp/",
+    "https://irbank.net/7692/ir"
+   ]
+  },
+  {
+   "query": "アースインフィニティ 事業系統図",
+   "results": [
+    "https://earth-infinity.co.jp/company/index.html",
+    "https://kitaishihon.com/company/7692/business",
+    "https://pps-net.org/ppscompany/16903",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=7692",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/01850-00.pdf",
+    "https://enechange.jp/utilities/neo-west",
+    "https://www.earth-infinity.co.jp/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260603/20260602560877.pdf",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%86%E3%82%A3",
+    "https://ja.wikipedia.org/wiki/アースインフィニティ"
+   ]
+  },
+  {
+   "query": "アースインフィニティ 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=gQwZHwsf208",
+    "https://www.earth-infinity.co.jp/news/news_information20260612.html",
+    "https://news.jorudan.co.jp/docs/news/detail.cgi?newsid=PT000059A000111215",
+    "https://prtimes.jp/main/html/rd/p/000000092.000111215.html",
+    "https://kigyo-scope.jp/company/7692/ceo/",
+    "https://www.earth-infinity.co.jp/company/official.html",
+    "https://shikiho.toyokeizai.net/stocks/7692/corporate",
+    "https://www.nikkei.com/article/DGXMZO64682150W0A001C2000000/",
+    "https://jobtalk.jp/companies/19643/answers?question_codes=president",
+    "https://ja.wikipedia.org/wiki/濵田幸一"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部6頁・検索5回）"
+ }
+}

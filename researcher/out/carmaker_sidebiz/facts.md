@@ -1,0 +1,3507 @@
+# ハイパーカー・少量生産メーカーの車以外の稼ぎ方（他社向け開発・部品供給・ライセンス・デザイン等）（事実のみ・28社）
+
+## Ariel Motor Company
+- 公式URL：https://www.arielmotor.co.uk（given）
+- 従業員数：30（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- 部品・技術の供給：
+  - 「With much attention paid to aerodynamics and cooling the Atom 4R is visually distinguished by new side pods, housing additional cooling systems, together with the optional aero wing package and 4R graphics.」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「It often helps to have a little structure. Our Action Plans do that in a manageable way」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Simon takes relationships seriously at Ariel and treating suppliers, employees and customers as friends has always served the business well.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「With regards to suppliers, Simon pays everybody on time religiously. And while the company could save money by shopping around, he believes it’s worth paying a little extra to deal with people he trusts.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Nurturing good relationships with customers, suppliers and employees will pay off in the long run.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「it has no bodywork or roof, and is built entirely around the tube chassis, making it weigh less than」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Alternative Chassis Engineering」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Mercedes AMG High Performance Powertrains」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Suppliers and」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Grayson Thermal Systems」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Horse Powertrain」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Association for Standardisation of Automation and Measuring Systems」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- ライセンス・ブランド：
+  - 「Skip to content」（https://www.arielmotor.co.uk/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/about-ariel/・1回目）
+  - 「Talk to any of us and you’ll find an enthusiasm and knowledge that comes from a passion of what we do and a love of our job. We don’t have a production line and we don’t have robots, we don’t even have an automated telephone system that makes you press buttons. Just good old fashioned, British skill and handbuilt craftsmanship.」（https://www.arielmotor.co.uk/about-ariel/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/latest-news/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/press/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/latest-news/page/2/・1回目）
+  - 「HIPERCAR is GO」（https://www.arielmotor.co.uk/latest-news/page/2/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/latest-news/page/3/・1回目）
+  - 「HIPERCAR wins the 2017 Simms Medal」（https://www.arielmotor.co.uk/latest-news/page/3/・1回目）
+  - 「Hipercar」（https://www.arielmotor.co.uk/latest-news/page/3/・1回目）
+  - 「Skip to content」（https://www.arielmotor.co.uk/latest-news/page/4/・1回目）
+- 車以外の顧客・産業：
+  - 「ARIEL LAUNCHES NEW 525BHP MOTORSPORT-SPEC ‘ATOM 4RR’」（https://www.arielmotor.co.uk/about-ariel/・1回目）
+  - 「Ariel Bicycle」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「Ariel Model E Super Sports」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「ARIEL LAUNCHES NEW 525BHP MOTORSPORT-SPEC ‘ATOM 4RR’」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「ARIEL LAUNCHES NEW 525BHP MOTORSPORT-SPEC ‘ATOM 4RR’」（https://www.arielmotor.co.uk/latest-news/・1回目）
+  - 「ARIEL and CORTEN-MILLER MOTORSPORT」（https://www.arielmotor.co.uk/latest-news/・1回目）
+  - 「Autosport International Show 2016」（https://www.arielmotor.co.uk/latest-news/page/4/・1回目）
+  - 「ARIEL LAUNCHES NEW 525BHP MOTORSPORT-SPEC ‘ATOM 4RR’」（https://www.arielmotor.co.uk/ariel-motor-company-release-the-limited-edition-ace-of-diamonds-motorcycle/・1回目）
+  - 「“I’m only in ‘Engine Map 1’ and already the car feels rapid – and not at all in a boosty, ‘pin it and hold on’ sort of a way, but instead really instantly, progressively responsive. The car appears almost weightless for my first few laps, bristling with energy, feedback and immediacy, and almost exempted from inertia.”」（https://www.arielmotor.co.uk/press/autocar-atom-4rr/・1回目）
+  - 「Founded in 2000, Ariel adopted the name of a British engineering company that built the world’s first bicycle and went on to innovate historic cars and motorcycles.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「. As a transport design lecturer, Saunders and his student」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「created CAD designs. After several sports car companies rejected his proposal, Saunders founded own company to create the Atom.」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- レース・ワンメイク：
+  - 「Launched in 1999 with first deliveries in 2000 the Atom quickly became the star of the developing trackday scene and captured the motoring world’s imagination. Road legal and with an 1800cc K Series Rover engine in 120bhp, 160bhp and 190bhp output the car was the original ‘NO DOORS NO SCREEN NO ROOF’ and demonstrated that light weight gave giant slaying capability, no matter what the opposition.」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「Top Gear (TV series)」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Ready to Race? Uncover the Thrills & Chills of the Formula 1000 Car!」（https://www.youtube.com/watch?v=I0DXK9MVmBE・3回目）
+- お金の形：
+  - 「The Nomad 2 is an instantly recognisable development of the original, yet the evolved design language is clear when comparing both vehicles. The Nomad 2 is an all-new design from the ground up – featuring only three carry-over parts – that builds on learnings from the original car, integrates customer feedback, and benefits from significant Ariel R&D.」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「“I’m only in ‘Engine Map 1’ and already the car feels rapid – and not at all in a boosty, ‘pin it and hold on’ sort of a way, but instead really instantly, progressively responsive. The car appears almost weightless for my first few laps, bristling with energy, feedback and immediacy, and almost exempted from inertia.”」（https://www.arielmotor.co.uk/press/autocar-atom-4rr/・1回目）
+  - 「To complete the subscription process, please click the link in the email we just sent you.」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+- 売上構成：
+  - 「Sales & Growth」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Grow profitable sales by really understanding your customer needs」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Ariel also has a low staff turnover, which Simon hopes is a good indicator that people are happy working there.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「When it comes to selling to customers, Simon describes the Ariel team as “probably the worst car salesmen in the world”. Rather than focusing on the upsell, the team typically talks customers out of upgrades such as superchargers if they don’t think it's right.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Automobile sales by model」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- 創業期と参入のしやすさ：
+  - 「Production of the Ariel Ace of Diamonds will begin in 2018 with first customer bikes delivered in March 2019.」（https://www.arielmotor.co.uk/ariel-motor-company-release-the-limited-edition-ace-of-diamonds-motorcycle/・1回目）
+  - 「eGarage」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「As Simon guides me through the factory, his team is welcoming, and take the time to describe what project they are working on. One engineer is putting finishing touches on an Atom to be delivered that day, others piecing together the Ace. The small team of engineers are working at full capacity, as this is the first time three products have been offered by Ariel Motors.」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「Every owner I’ve met truly loves their Atom. Each time I’ve had the privilege to drive the car it has taken a week for the adrenaline to fade out of my system. Here at eGarage we love the Ariel Atom.」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「Subscribe to eGarage alerts to receive an email when a new article is posted.」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「Contact eGarage」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「Founded in 2000, Ariel adopted the name of a British engineering company that built the world’s first bicycle and went on to innovate historic cars and motorcycles.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Staying small is integral to Ariel’s ethos. Operating from humble premises in Somerset, the family business has 35 employees and builds just 120 cars every year. The waiting list for an Ariel car or motorcycle currently stands at two years, however its customers are more than happy to wait.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「, we spoke to founder and director Simon Saunders about his engineering process, the benefits of a small team and the importance of good relationships in business.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Simon takes relationships seriously at Ariel and treating suppliers, employees and customers as friends has always served the business well.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Nurturing good relationships with customers, suppliers and employees will pay off in the long run.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- 顧客名：
+  - 「Unveiled at Goodwood Festival of Speed, the Atom 4R takes the Honda Type-R turbocharged engine to 400bhp with torque increased to 500Nm. Coupled with a new paddle shift and sequential gearbox the Atom 4R is focussed on absolute ultimate road and track performance.」（https://www.arielmotor.co.uk/our-history/・1回目）
+  - 「is a small business that has a big impact. The company’s legendary cars have outperformed Ferraris and Lamborghinis, despite costing a fraction of the price.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「“It's not just about producing something as efficiently and quickly as possible. Part of that is down to quality, because we want to keep our guys interested, and part of that is because the customers enjoy being able to come here and see their cars being made, which you couldn't do in a Nissan factory,” he said.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Simon Saunders cut his automotive teeth as a designer for Porsche, Aston Martin and GM」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「The company builds around 120 vehicles every year, which is roughly what Honda produces every 20 minutes. However, staying small has its perks. Not only does it enable the company to create bespoke cars, offer a personalised experience and pivot easily, but it provides stability.」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Honda Civic Type-R」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「In 2003, the 2-liter Honda Civic Type R (for the 220) and Type-S (for the 160) engine was used to power the Atom 2. Introduced in 2007, the Atom 3 included a new gearbox and a "KZ" Type-R motor.」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「, with all but a few parts having been changed. The new car is powered again by the engine used in the Honda Civic Type R, but is now turbo charged as standard in the Atom 4. The new car also features a thicker frame, separate seats and a revised intake. The new car has been reviewed by」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「motorcycle. Powered by a Honda 1237cc V4 engine and gearbox, the bike will be produced from 2015 in similar volume levels to the existing car-based products.」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「The Nomad utilises a 2.4 litre Honda engine producing 235bhp.」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Aveling-Barford」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Bedford」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+- 検索結果の抜粋：
+  - 「Ariel Motor Company Factory - eGarage — Ariel Motor Company Factory - eGarage eGarage http://egarage.com > current-interests」（http://egarage.com/current-interests/ariel-motor-company-factory/・3回目）
+  - 「Ariel Motor Company | Crewkerne - Facebook — Ariel Motor Company | Crewkerne - Facebook Facebook https://www.facebook.com > ... > Motor vehicle company」（https://www.facebook.com/arielatom/・3回目）
+  - 「Ariel Brings UK-Built Performance Car Range to United States — Ariel Brings UK-Built Performance Car Range to United States Ariel Motor Company https://www.arielmotor.co.uk > ariel-...」（https://www.arielmotor.co.uk/ariel-brings-uk-built-performance-car-range-to-united-states/・3回目）
+  - 「Ariel Atom, Ariel Nomad, Ariel North America The Ariel Atom 4 — Ariel Atom, Ariel Nomad, Ariel North America The Ariel Atom 4 Ariel North America https://www.arielna.com > news > the...」（https://www.arielna.com/news/2018/7/11/the-ariel-atom-4・3回目）
+  - 「Ariel Motor Company has succeeded by staying small — Ariel Motor Company has succeeded by staying small Be the Business https://resources.bethebusiness.com > ...」（https://resources.bethebusiness.com/real-business-stories/david-and-goliath-ariel-motor-company-has-succeeded-by-staying-small/・3回目）
+  - 「Ariel Motor Company | LinkedIn — Ariel Motor Company | LinkedIn LinkedIn https://uk.linkedin.com > company」（https://uk.linkedin.com/company/ariel-motor-company・3回目）
+  - 「Ariel Motor Company Information - RocketReach — Ariel Motor Company Information - RocketReach RocketReach https://rocketreach.co > ariel-motor-c...」（https://rocketreach.co/ariel-motor-company-profile_b4509136fc7873ab・3回目）
+  - 「The Ariel Atom Is 25 Years Old. It Matters More Than Ever — The Ariel Atom Is 25 Years Old. It Matters More Than Ever Motor1.com https://www.motor1.com > features」（https://www.motor1.com/features/766654/ariel-atom-25-interview/・3回目）
+  - 「About Ariel - Ariel Motor Company — About Ariel - Ariel Motor Company Ariel Motor Company https://www.arielmotor.co.uk > about...」（https://www.arielmotor.co.uk/about-ariel/・3回目）
+  - 「Ariel Motor Company - Wikipedia — Ariel Motor Company - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Ariel...」（https://en.wikipedia.org/wiki/Ariel_Motor_Company・3回目）
+  - 「Ariel Motor Company (@arielmotorcompany) - Instagram — Ariel Motor Company (@arielmotorcompany) - Instagram Instagram https://www.instagram.com > arielmot...」（https://www.instagram.com/arielmotorcompany/・3回目）
+  - 「Atom - Ariel Motor Company — Atom - Ariel Motor Company Ariel Motor Company https://www.arielmotor.co.uk > ariel-a...」（https://www.arielmotor.co.uk/ariel-vehicles/ariel-atom/・3回目）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像0件／外部13頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像0件／外部13頁・検索6回）
+- 他社向けサービス：記載なし（3回確認済み：公式21頁／PDF・画像0件／外部13頁・検索6回）
+
+## Brabus
+- 公式URL：https://www.brabus.com（given）
+- 従業員数：Constantin Buschmann (CEO)（https://en.wikipedia.org/wiki/Brabus・3回目）
+- 他社向けサービス：
+  - 「was formed in 2014 for predominantly Engineering and Construction Services to Major Contractors and Clients. Current Shareholder and Director, Mr Lance Pillay, has over 20 year’s experience in managing major complex infrastructure projects, predominantly for Transnet and ACSA .」（http://brabus.co.za/about.html・3回目）
+  - 「AUTOCAD; INVENTOR) and In-house Project Management Software (Primavera P6 – Planning, Contracts Manager.」（http://brabus.co.za/about.html・3回目）
+- 部品・技術の供給：
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/de-de/brand/brabus-history.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/de-de/brand/brabus-history.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/de-de/brand/company-tour.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/de-de/brand/company-tour.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems.」（https://www.brabus.com/de-de/brand/news/brabus-p900-re.html・1回目）
+  - 「Technisch notwendig für den Basis-Betrieb des Systems」（https://www.brabus.com/de-de/brand/news/brabus-p900-re.html・1回目）
+- ライセンス・ブランド：
+  - 「Collaborations」（https://www.brabus.com/・1回目）
+  - 「Brand new Supercars」（https://www.brabus.com/・1回目）
+  - 「Verarbeitete Daten: IP-Adresse, ggf. Standort, Bewerberdaten (bei Nutzung)」（https://www.brabus.com/・1回目）
+  - 「wie Ihre IP-Adresse an Google übertragen und in die USA übermittelt werden.」（https://www.brabus.com/・1回目）
+  - 「Verarbeitete Daten: IP-Adresse, Standort (optional), Geräteinformationen」（https://www.brabus.com/・1回目）
+  - 「Auf unserer Website sind YouTube-Videos eingebettet, um multimediale Inhalte bereitzustellen. Bei der Aktivierung wird eine Verbindung zu Servern von YouTube/Google hergestellt. Dabei können personenbezogene Daten (z. B. IP-Adresse, Nutzungsverhalten) verarbeitet und ggf. in die USA übermittelt werden.」（https://www.brabus.com/・1回目）
+  - 「Verarbeitete Daten: IP-Adresse, Geräteinformationen, Nutzungsverhalten」（https://www.brabus.com/・1回目）
+  - 「Brand Protection」（https://www.brabus.com/・1回目）
+  - 「Collaborations」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Verarbeitete Daten: IP-Adresse, ggf. Standort, Bewerberdaten (bei Nutzung)」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「wie Ihre IP-Adresse an Google übertragen und in die USA übermittelt werden.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Verarbeitete Daten: IP-Adresse, Standort (optional), Geräteinformationen」（https://www.brabus.com/de-de/marine/about.html・1回目）
+- 車以外の顧客・産業：
+  - 「Marine」（https://www.brabus.com/・1回目）
+  - 「About BRABUS Marine」（https://www.brabus.com/・1回目）
+  - 「BRABUS Marine」（https://www.brabus.com/・1回目）
+  - 「Stellenanzeigen & Bewerbungsportal (Coveto ATS)」（https://www.brabus.com/・1回目）
+  - 「About BRABUS Marine - Marine | BRABUS」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Marine」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「About BRABUS Marine」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「BRABUS MARINE」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Entdecken Sie BRABUS Marine – eine Welt, in der kompromisslose Performance auf exklusives Design und feinste Handwerkskunst trifft. Markante Linien, innovative Technologien und außergewöhnliche Details verkörpern die unverwechselbare BRABUS DNA und setzen neue Maßstäbe für Performance auf dem Wasser.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Tauchen Sie in die Welt von BRABUS Marine und finden Sie Ihr persönliches Masterpiece.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Stellenanzeigen & Bewerbungsportal (Coveto ATS)」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「brabusmarine」（https://www.brabus.com/de-de/marine/about.html・1回目）
+- レース・ワンメイク：
+  - 「auf Basis Rolls-Royce Cullinan Series II」（https://www.brabus.com/・1回目）
+  - 「Enthält eine BenutzerID, ermöglicht es den Nutzer bei der Einsendung von Formularen wiederzuerkennen.」（https://www.brabus.com/・1回目）
+  - 「Sie möchten Ihren Kauf widerrufen? Nutzen Sie unser Online-Formular.」（https://www.brabus.com/・1回目）
+  - 「Enthält eine BenutzerID, ermöglicht es den Nutzer bei der Einsendung von Formularen wiederzuerkennen.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Sie möchten Ihren Kauf widerrufen? Nutzen Sie unser Online-Formular.」（https://www.brabus.com/de-de/marine/about.html・1回目）
+  - 「Enthält eine BenutzerID, ermöglicht es den Nutzer bei der Einsendung von Formularen wiederzuerkennen.」（https://www.brabus.com/de-de/brand/brabus-history.html・1回目）
+  - 「Sie möchten Ihren Kauf widerrufen? Nutzen Sie unser Online-Formular.」（https://www.brabus.com/de-de/brand/brabus-history.html・1回目）
+  - 「- Die neueste BRABUS Deep Blue Series, die auf der Signature Night 2024 neben einer Vielzahl von …」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Enthält eine BenutzerID, ermöglicht es den Nutzer bei der Einsendung von Formularen wiederzuerkennen.」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Sie möchten Ihren Kauf widerrufen? Nutzen Sie unser Online-Formular.」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Enthält eine BenutzerID, ermöglicht es den Nutzer bei der Einsendung von Formularen wiederzuerkennen.」（https://www.brabus.com/de-de/brand/company-tour.html・1回目）
+  - 「Sie möchten Ihren Kauf widerrufen? Nutzen Sie unser Online-Formular.」（https://www.brabus.com/de-de/brand/company-tour.html・1回目）
+- お金の形：
+  - 「Äußerlich deuten nur ein maßgefertigter Frontspoiler, größere Monoblock-Räder, eine Doppelrohr-Sportauspuffanlage sowie eine dezente Tieferlegung dank des BRABUS Sportfahrwerkes auf seine Kraft hin und sorgen gleichzeitig für ein einzigartiges Fahrerlebnis mit dem BRABUS typischen Feel-Good-Faktor.」（https://www.brabus.com/de-de/brand/brabus-history/1990s.html・1回目）
+  - 「• Maintenance for Buildings」（http://brabus.co.za/about.html・3回目）
+  - 「Annual report」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「on your subscription plan. This」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2024 · Balance sheet for 31/12/2024 · Earnings statement for 31/12/2024 · Shareholder (11 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2023 · Balance sheet for 31/12/2023 · Earnings statement for 31/12/2023 · Shareholder (12 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2022 · Balance sheet for 31/12/2022 · Earnings statement for 31/12/2022 · 12 Shareholdings (12 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2018 · Balance sheet for 31/12/2018 · Earnings statement for 31/12/2018 · Persons · 9 Shareholdings (9 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Consolidated Annual report for the year ending 31/12/2018 · Balance sheet for 31/12/2018 · Change of shareholdings (11 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2017 · Balance sheet for 31/12/2017 · Earnings statement for 31/12/2017 · Shareholder (9 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Consolidated Annual report for the year ending 31/12/2017 · Balance sheet for 31/12/2017 · Earnings statement for 31/12/2017 · 15 Shareholdings (15 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Annual report for the year ending 31/12/2016 · Balance sheet for 31/12/2016 · Earnings statement for 31/12/2016 · 9 Shareholdings (9 companies)」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+- 売上構成：
+  - 「• 100% Tax Compliant」（http://brabus.co.za/about.html・3回目）
+  - 「Automobile sales by model」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「their industry segment or trademarks.」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Industry segment」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「segments by selecting from the drop down list.」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「industry segment classification」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「industry segment」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Return on sales」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Revenue」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Revenue CAGR」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Revenue per employee」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「CarVertical sponsor segment」（https://www.youtube.com/watch?v=MVHZco0fE9Q・3回目）
+- 創業期と参入のしやすさ：
+  - 「BRABUS bei der Founder Gala 2026 als „Entrepreneur of the Year“ geehrt」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Constantin Buschmann, CEO und Eigentümer von BRABUS wurde im Rahmen der Founder Gala 2026 in der …」（https://www.brabus.com/de-de/brand/news.html・1回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「Founders」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「company founded in 1977 in」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「with Buschmann's friend Klaus Brackmann to satisfy German law requiring a company to be established with at least two people. The company name was derived from the first three characters of the founders' surnames (」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「and BRABUS GmbH, founded in 2001.」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「CRD Car Research & Development GmbH & Co. KG: A developer and producer of special model series and accessories concepts for automobile manufacturers from around the world. It also develops and executes professional marketing strategies to market these components and cars.」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「. Paying tribute to the founder of the brand, Bodo Buschmann, only 77 vehicles will be produced with a price starting at 1.2 million euros.」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「Styling Garage」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「Number of public fundings per year」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「Total public funding per year」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+- 顧客名：
+  - 「Mercedes」（https://www.brabus.com/・1回目）
+  - 「Lamborghini」（https://www.brabus.com/・1回目）
+  - 「Porsche」（https://www.brabus.com/・1回目）
+  - 「BRABUS URBAN E FRAGMENT EDITION」（https://www.brabus.com/・1回目）
+  - 「MINIMAL FORM. MAXIMUM PRESENCE. BRABUS URBAN E FRAGMENT EDITION.」（https://www.brabus.com/・1回目）
+  - 「Die BRABUS URBAN E FRAGMENT EDITION ist das Ergebnis einer Kooperation, in der drei individuelle …」（https://www.brabus.com/・1回目）
+  - 「für Lamborghini Urus SE」（https://www.brabus.com/・1回目）
+  - 「für alle Porsche 911 der Baureihe 992」（https://www.brabus.com/・1回目）
+  - 「für Ihren Porsche 911」（https://www.brabus.com/・1回目）
+  - 「Auf Basis Mercedes-AMG G 63」（https://www.brabus.com/・1回目）
+  - 「auf Basis Lamborghini Urus SE」（https://www.brabus.com/・1回目）
+  - 「auf Basis Mercedes-AMG G 63」（https://www.brabus.com/・1回目）
+- 検索結果の抜粋：
+  - 「About - BRABUS GROUP — About - BRABUS GROUP brabus.co.za http://brabus.co.za > about」（http://brabus.co.za/about.html・3回目）
+  - 「Certainly! Here are ten lesser-known facts about Brabus : 1 ... — Certainly! Here are ten lesser-known facts about Brabus : 1 ... Facebook https://www.facebook.com > posts > certainly-here-are-te...」（https://www.facebook.com/100090850945079/posts/certainly-here-are-ten-lesser-known-facts-about-brabus1-founded-in-1977-brabus-w/463047643400263/・3回目）
+  - 「Brabus - Wikipedia — Brabus - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Brabus」（https://en.wikipedia.org/wiki/Brabus・3回目）
+  - 「brabus GmbH a brand that's often called a tuner, but in reality ... — brabus GmbH a brand that's often called a tuner, but in reality ... Instagram https://www.instagram.com > reel > DTAxhtqAeZE」（https://www.instagram.com/reel/DTAxhtqAeZE/・3回目）
+  - 「Brabus's Competitors, Revenue , Number of Employees ... — Brabus's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > brabus」（https://www.owler.com/company/brabus・3回目）
+  - 「BRABUS GmbH Information - RocketReach — BRABUS GmbH Information - RocketReach RocketReach https://rocketreach.co > brabus-gmbh...」（https://rocketreach.co/brabus-gmbh-profile_b4477fb6fadc7b17・3回目）
+  - 「Brabus GmbH, Bottrop, Germany - North Data — Brabus GmbH, Bottrop, Germany - North Data www.northdata.com https://www.northdata.com > Brabus ...」（https://www.northdata.com/Brabus%20GmbH,%20Bottrop/Amtsgericht%20Gelsenkirchen%20HRB%205286・3回目）
+  - 「BRABUS - Overview, News & Similar companies | ZoomInfo.com — BRABUS - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > brabus-...」（https://www.zoominfo.com/c/brabus-gmbh/346874855・3回目）
+  - 「All Brabus Parts for Tuning - Scuderia Car Parts — All Brabus Parts for Tuning - Scuderia Car Parts Scuderia Car Parts https://www.scuderiacarparts.com > al...」（https://www.scuderiacarparts.com/aftermarket/brabus/all-parts・3回目）
+  - 「Brabus Car & Truck Parts & Accessories for Mercedes-Benz — Brabus Car & Truck Parts & Accessories for Mercedes-Benz eBay https://www.ebay.com > Brabus-Car-...」（https://www.ebay.com/b/Brabus-Car-Truck-Parts-Accessories-for-Mercedes-Benz/6030/bn_24335246・3回目）
+  - 「BRABUS - Twenty Two Tuning — BRABUS - Twenty Two Tuning Twenty Two Tuning https://www.xxiituning.com > brabus」（https://www.xxiituning.com/collections/brabus?srsltid=AYCX9vJJWQpRgnx1Jtdk-yAE7COmJbM5oTUSsy3VIVaLuJuWcxP4TQYE・3回目）
+  - 「From raw materials to a BRABUS Masterpiece. The journey of ... — From raw materials to a BRABUS Masterpiece. The journey of ... Facebook https://www.facebook.com > ... > Cars > BRABUS > Videos」（https://www.facebook.com/brabus/videos/from-raw-materials-to-a-brabus-masterpiecethe-journey-of-the-brabus-900-rocket-e/897535673408652/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部15頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部15頁・検索6回）
+
+## Capricorn Group
+- 公式URL：https://www.capricorn.de（given）
+- 他社向けサービス：
+  - 「IT-Unternehmen in Hamburg & Bremen - Capricorn Consulting」（https://www.capricorn.de/・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/・1回目）
+  - 「Managed Services - IT-Lösungen für Ihre Daten - Capricorn Consulting」（https://www.capricorn.de/managed-services・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/managed-services・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/managed-services・1回目）
+  - 「Digital Engineering - Digitale Unterstützung für Ihre Prozesse - Capricorn Consulting」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「Impressum - Capricorn Consulting」（https://www.capricorn.de/impressum・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/impressum・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/impressum・1回目）
+- 部品・技術の供給：
+  - 「TECHNOLOGY–SAND CASTING」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「capricorn COMPOSITE GmbH」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「As a family-run technology company, we offer metallic and non-metallic lightweight components and technical solutions for special requirements worldwide, from hidden champions to global players. From complex individual parts to series production: Thanks to our high level of vertical integration, capricorn offers everything from a single source. Made in Europe.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「TOP 100 Award: Christian Wulff honours capricorn COMPOSITE」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「Überlingen – Recognition for impressive innovation achievements: Christian Wulff congratulates the capricorn COMPOSITE GmbH from Düsseldorf on the jump into the TOP 100.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「In the scientific selection process, capricorn COMPOSITE convinced in the size class B (51 to 200 employees in Germany) especially in the category of innovation success. The company is one of the top innovators for the second time.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「capricorn GROUP presents 900+PS, 1,000 Nm, V8 supercharged, rear-wheel-drive, manual transmission, mid-engined, carbon fiber hypercar」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「structured process, led by a cross-functional team」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「We connect our customers, partners and suppliers with opportunities for growth」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Group structure」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「and electronic banking services. For corporate and business clients, our financial solutions include project finance, structured」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「We contract with a range of reliable suppliers」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- ライセンス・ブランド：
+  - 「Dipl.-Ing. Axel Buschmann」（https://www.capricorn.de/impressum・1回目）
+  - 「Dipl.-Oec. Timo Frank」（https://www.capricorn.de/impressum・1回目）
+  - 「© TippaPatt /」（https://www.capricorn.de/impressum・1回目）
+  - 「MOTORSPORT–EQUIPMENT」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「Both capricorn 01 Zagato hypercars are fully functional drivable prototypes and a third example is currently under build at capricorn’s Mönchengladbach’s production facility. All three models will play a pivotal role in capricorn’s test and calibration program as the brand rapidly accelerates towards a handbuilt production run strictly limited to 19 coupes priced at €2.95 million later this year.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「Handbuilt in Germany by capricorn, production commences in the first half of 2026, with further lineage of capricorn-branded cars set to follow」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「connected to our brand.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「1,768 employees participated in」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「IV principles.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「King IV principles.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「application of the King IV™ principles.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「of King IV principles.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- 車以外の顧客・産業：
+  - 「https://ec.europa.eu/consumers/odr」（https://www.capricorn.de/impressum・1回目）
+  - 「MOTORSPORT」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「AVIATION」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「MEDICAL」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「DEFENSE」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「MOTORSPORT–F1」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「MOTORSPORT–WEC」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「MOTORSPORT-OTHERS」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「MOTORSPORT–EQUIPMENT」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「Successes that inspire worldwide: Since 1933, capricorn has been shaping lightweight construction – in motorsports, automotive, aviation, medical technology, defense, and many other industries.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「capricorn GROUP the German based industry leader in automotive and motorsport lightweight technology will present two capricorn Zagato 01 hypercars at Salon Rétromobile Paris 27 Jan – 1 Feb 2026. The first customer deliveries will happen in 2026 following an intensive and rapid development process borne out of capricorn’s extensive motorsport engineering experience.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「loans, supporting projects in renewable energy,」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- レース・ワンメイク：
+  - 「Kontaktformular」（https://www.capricorn.de/・1回目）
+  - 「Kontaktformular」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「As a family-run technology company, we offer metallic and non-metallic lightweight components and technical solutions for special requirements worldwide, from hidden champions to global players. From complex individual parts to series production: Thanks to our high level of vertical integration, capricorn offers everything from a single source. Made in Europe.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「Parts series volume p.a.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「The capricorn 01 Zagato Tutto Rosso, which translates from Italian as ‘all red,’ represents a unique intersection of bespoke design and engineering development. While created in response to a specific customer vision, the vehicle forms part of capricorn’s ongoing prototype and validation program, ahead of the start of series production later in 2026.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「At the fifth annual Agriculture Series in November 2024, titled」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「> Commenced production of a storytelling video series aimed」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「We specialize in high-precision metalworking. We supply a wide range of industries with high-quality components from a single source – from complex individual parts to series production, from individual machining steps to component manufacturing.」（https://tech.capricorngroup.net/en/production・3回目）
+  - 「We produce high-quality crankshafts and other eccentric shafts for motorsports, automotive, and many other industries – from prototypes to series production. Many years of experience and well-established processes ensure excellent quality and high delivery reliability.」（https://tech.capricorngroup.net/en/production・3回目）
+  - 「Our focus is precision sand casting. From prototypes to series production of castings and machined castings: We develop and produce components with short lead times and thorough quality control.」（https://tech.capricorngroup.net/en/production・3回目）
+  - 「We have decades of experience in small-series engine and vehicle construction. We offer a wide range of services for various industries – from prototypes to small series, from individual parts and components to entire engines, vehicles, and complex assemblies.」（https://tech.capricorngroup.net/en/production・3回目）
+  - 「In-house production of individual parts and small series within the group」（https://tech.capricorngroup.net/en/production・3回目）
+- お金の形：
+  - 「Quelle der Nachrichten sind die RSS-Feeds der」（https://www.capricorn.de/・1回目）
+  - 「Annual Report」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Integrated Annual Report 2025」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Capricorn Group Integrated Annual Report 2025」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「annual report」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「1 | Capricorn Group Integrated Annual Report 2025」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「the annual employee engagement」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Capricorn Group Integrated Annual Report 2025 | 2」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Integrated annual report」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「audited annual financial statements, which received」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Annual financial statements」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Deloitte provides external assurance on the annual」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- 売上構成：
+  - 「(2024: 17.9%)Return on equity (“ROE”) (2024: N$1.74 billion)Profit after tax」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「(2024: 17.9%)Capital adequacy ratio」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「(2024: 50.0%) Cost to income ratio」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「(2024: 5.8%)Dividend yield1」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「reduced slightly by 2% to」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「44% (2024: 46%),」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「18.2% N$2.47billion N$1.99 billion 49.5%」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「1.0 5.9 7.9% 18.1%」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「The Group’s headquarters are in Windhoek, Namibia. 91% of」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「(2024: 35.5%)」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Bank Windhoek (2024: 66%)」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「CAM (2024: 3%)」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- 創業期と参入のしやすさ：
+  - 「Employees」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「In the scientific selection process, capricorn COMPOSITE convinced in the size class B (51 to 200 employees in Germany) especially in the category of innovation success. The company is one of the top innovators for the second time.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「capricorn GROUP the German based industry leader in automotive and motorsport lightweight technology will present two capricorn Zagato 01 hypercars at Salon Rétromobile Paris 27 Jan – 1 Feb 2026. The first customer deliveries will happen in 2026 following an intensive and rapid development process borne out of capricorn’s extensive motorsport engineering experience.」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「1,768 employees participated in」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「investors@capricorn.com.na or +264 (61) 299 1226.」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Number of employees (permanent)」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Number of employees」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「number of employees across the Group, including subsidiaries and」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「associates. In this year’s report, Capricorn Group refers only to employees」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Talented employees provide excellent customer service in retail, SME,」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「employees in Namibia. Our business activities are conducted」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「Peo Finance offers loans to central government employees and」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+- 顧客名：
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/managed-services・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/managed-services・1回目）
+  - 「Unsere Entwickler analysieren Ihre Anforderungen und passen vorhandene Plattformen wie Sharepoint oder Power BI, Power Apps und Logic Apps an Ihre Bedürfnisse an. Bei Bedarf programmieren wir komplexe, maßgeschneiderte Applikationen für Ihr Unternehmen. Für einen maximal effizienten Workflow.」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/digital-engineering・1回目）
+  - 「Capricorn Consulting GmbH」（https://www.capricorn.de/impressum・1回目）
+  - 「Pexels GmbH」（https://www.capricorn.de/impressum・1回目）
+  - 「© 2026 Capricorn Consulting GmbH」（https://www.capricorn.de/impressum・1回目）
+  - 「SERIAL-BUGATTI」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「SERIAL-AUDI」（https://tech.capricorngroup.net/en/about_us・3回目）
+- 検索結果の抜粋：
+  - 「capricorn GROUP official website — The art of lightweight — capricorn GROUP official website — The art of lightweight capricorngroup.net https://tech.capricorngroup.net > about_us」（https://tech.capricorngroup.net/en/about_us・3回目）
+  - 「capricorn GROUP - Racecar Directory — capricorn GROUP - Racecar Directory Racecar Engineering https://www.racecar-engineering.com > ...」（https://www.racecar-engineering.com/directory/listing/capricorn-group/・3回目）
+  - 「capricorn GROUP (Europe) - LinkedIn — capricorn GROUP (Europe) - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/capricorn-group-europe-/・3回目）
+  - 「Your Trusted Procurement Partner - The Capricorn Group — Your Trusted Procurement Partner - The Capricorn Group The Capricorn Group https://thecapricorngroup.com > about」（https://thecapricorngroup.com/about/・3回目）
+  - 「About capricorn Group — About capricorn Group capricornappliedtechnology.com https://www.capricornappliedtechnology.com > ...」（https://www.capricornappliedtechnology.com/about-capricorn-group/・3回目）
+  - 「Integrated Annual Report - 2025 - Capricorn Group — Integrated Annual Report - 2025 - Capricorn Group Capricorn Group PDF https://www.capricorn.com.na > 2025 Capricorn Gr...」（https://www.capricorn.com.na/Financial%20and%20sustainability%20reports/2025%20Capricorn%20Group%20IAR%202025%20Interactive.pdf・3回目）
+  - 「CAPRICORN GROUP 2026 FINANCIAL PERFORMANCE - nbc — CAPRICORN GROUP 2026 FINANCIAL PERFORMANCE - nbc YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=TELg7Rin3sE・3回目）
+  - 「Capricorn Group has announced its interim financial results ... — Capricorn Group has announced its interim financial results ... Facebook https://www.facebook.com > posts > capricorn-group-has-...」（https://www.facebook.com/CapricornGroupLimited/posts/capricorn-group-has-announced-its-interim-financial-results-for-the-six-months-e/1351896216976510/・3回目）
+  - 「Total Revenue - Capricorn Group - Tracenable — Total Revenue - Capricorn Group - Tracenable Tracenable https://tracenable.com > revenues」（https://tracenable.com/company/capricorn-group/revenues・3回目）
+  - 「Capricorn Group profit falls 6.4% to N$1.87bn — Capricorn Group profit falls 6.4% to N$1.87bn Windhoek Observer https://observer24.com.na > capricorn...」（https://observer24.com.na/capricorn-group-profit-falls-6-4-to-n1-87bn/・3回目）
+  - 「capricorn GROUP official website — Production — capricorn GROUP official website — Production capricorngroup.net https://tech.capricorngroup.net > production」（https://tech.capricorngroup.net/en/production・3回目）
+  - 「Capricorn Group supplies components to Formula 1, LMP1 ... — Capricorn Group supplies components to Formula 1, LMP1 ... Instagram https://www.instagram.com > ...」（https://www.instagram.com/p/DPo7o4gDHaL/・3回目）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+
+## Czinger Vehicles
+- 公式URL：https://www.czinger.com（given）
+- 他社向けサービス：
+  - 「Zoom's non-current remaining performance obligations rose 25%, which Chang tied to larger, longer-term and multi-product platform agreements. For buyers weighing Phone or Contact Center, contract length is worth a close look.」（https://www.marketscale.com/industries/software-and-technology/czinger-vehicles-divergent-3d-the-next-generation-of-automotive-manufacturing・3回目）
+  - 「Contracts」（https://www.prnewswire.com/news-releases/czinger-vehicles-forges-global-dealer-network-with-pioneering-sales-and-service-partners-301560026.html・3回目）
+  - 「Scott Kerr, Founder & President of Silvertone Consulting」（https://www.youtube.com/watch?v=-A0rZQBIGxM・3回目）
+  - 「Email: scott@silvertoneconsulting.com」（https://www.youtube.com/watch?v=-A0rZQBIGxM・3回目）
+- 部品・技術の供給：
+  - 「We think in ecosystems with zero constraints. In possibility, not precedent.」（https://www.czinger.com/・1回目）
+  - 「At the core of Czinger is BioLogic™ Engineering, an approach in which human ingenuity is unshackled from constraints and turbocharged by the most advanced toolset in the industry. The result is a hypercar whose architecture is optimized by algorithms, shaped by data, and refined through the same iterative logic that governs natural systems.」（https://www.czinger.com/・1回目）
+  - 「Printed」（https://www.czinger.com/・1回目）
+  - 「Chassis」（https://www.czinger.com/・1回目）
+  - 「The hypercar was handed over to its owner by Czinger Founder and CEO, Lukas Czinger, at a private track day organized by Salt Lake City Motorcars, the dealer partner for Czinger Salt Lake City. A High-Downforce variant, this 21C features extensive personalization through Czinger's bespoke program and is the first-ever to feature a fading exposed carbon fiber finish.」（https://www.czinger.com/news/36・1回目）
+  - 「The front of the vehicle is finished in Zinfandel Red carbon fiber, but as it moves rearward, the finish transitions into double-tinted black carbon fiber. A single GT Stripe is applied to the center of the vehicle in contrasting carbon fiber with the same fading effect, and the hypercar's exposed carbon fiber dive planes and front splitter feature Zinfandel Red carbon fiber striping on the edges.」（https://www.czinger.com/news/36・1回目）
+  - 「The red theme continues inside, with red Alcantara seats, Zinfandel Red carbon fiber accents on the steering column and seatback, and, for the first time, Bio-Logic pedals finished in red Cerakote.」（https://www.czinger.com/news/36・1回目）
+  - 「Established in 2019 by Lukas and Kevin Czinger, Czinger Vehicles was founded to reimagine high-performance automotive design from first principles. Through Bio-Logic Engineering, which combines advanced design tools with additive manufacturing capabilities, Czinger has developed an entirely new approach to the hypercar industry.」（https://www.czinger.com/news/36・1回目）
+  - 「Czinger’s cutting-edge Area 21 production facility in California opened officially in September 2024. More than a traditional factory, Area 21 represents the future of manufacturing—a fully integrated space where advanced human-AI collaboration and additive manufacturing come together to shape the next generation of automotive innovation.」（https://www.czinger.com/news/34・1回目）
+  - 「Czinger’s cutting-edge Area 21 production facility in California opened officially in September 2024. More than a traditional factory, Area 21 represents the future of manufacturing—a fully integrated space where advanced human-AI collaboration and additive manufacturing come together to shape the next generation of automotive innovation.」（https://www.czinger.com/news/33・1回目）
+  - 「Established in 2019 by Lukas and Kevin Czinger, Czinger Vehicles was founded to reimagine high-performance automotive design from first principles. Through Bio-Logic Engineering, which combines advanced design tools with additive manufacturing capabilities, Czinger has developed an entirely new approach to the hypercar industry.」（https://www.czinger.com/news/35・1回目）
+  - 「The custom sound system exclusive to the 21C includes eight custom‑made speakers that are constructed using the most advanced materials, including titanium and carbon fiber composites and an aluminum chassis. These materials create rigid yet lightweight components, ensuring optimal acoustic properties and longevity. The speakers include:」（https://www.czinger.com/news/28・1回目）
+- ライセンス・ブランド：
+  - 「Skip to content」（https://www.czinger.com/・1回目）
+  - 「Ownership」（https://www.czinger.com/・1回目）
+  - 「Czinger’s founding purpose stems from a fundamental question: if you could reimagine the way humans build from first principles, unshackled from constraint, what would you create?」（https://www.czinger.com/・1回目）
+  - 「Skip to content」（https://www.czinger.com/news・1回目）
+  - 「Ownership」（https://www.czinger.com/news・1回目）
+  - 「Skip to content」（https://www.czinger.com/news/36・1回目）
+  - 「Ownership」（https://www.czinger.com/news/36・1回目）
+  - 「The front of the vehicle is finished in Zinfandel Red carbon fiber, but as it moves rearward, the finish transitions into double-tinted black carbon fiber. A single GT Stripe is applied to the center of the vehicle in contrasting carbon fiber with the same fading effect, and the hypercar's exposed carbon fiber dive planes and front splitter feature Zinfandel Red carbon fiber striping on the edges.」（https://www.czinger.com/news/36・1回目）
+  - 「Established in 2019 by Lukas and Kevin Czinger, Czinger Vehicles was founded to reimagine high-performance automotive design from first principles. Through Bio-Logic Engineering, which combines advanced design tools with additive manufacturing capabilities, Czinger has developed an entirely new approach to the hypercar industry.」（https://www.czinger.com/news/36・1回目）
+  - 「The addition of Czinger reinforces Salt Lake City Motorcars' commitment to bringing the world's most advanced and exclusive vehicles to collectors and enthusiasts throughout the region. Salt Lake City Motorcars has built a reputation for excellence, passion, and an uncompromising dedication to the customer experience, making it an ideal partner for the Czinger brand.」（https://www.czinger.com/news/36・1回目）
+  - 「As an authorized Czinger sales and service partner, Salt Lake City Motorcars provides clients with personalized access to the Czinger ownership experience, including vehicle consultations, acquisition opportunities, and factory-supported service and support.」（https://www.czinger.com/news/36・1回目）
+  - 「Skip to content」（https://www.czinger.com/news/34・1回目）
+- 車以外の顧客・産業：
+  - 「At the core of Czinger is BioLogic™ Engineering, an approach in which human ingenuity is unshackled from constraints and turbocharged by the most advanced toolset in the industry. The result is a hypercar whose architecture is optimized by algorithms, shaped by data, and refined through the same iterative logic that governs natural systems.」（https://www.czinger.com/・1回目）
+  - 「Czinger represents a fundamental rethinking of the hypercar space, one that is defining a new era for American OEMs on the global stage. More information can be found at」（https://www.czinger.com/news/36・1回目）
+  - 「“From the beginning, it was clear this team had an extraordinary level of grit and focus,” said Brinciotti. “My goal was to capture and share the energy that fueled them. What they’ve built isn’t just a car, it’s a collective effort born from belief and determination.”」（https://www.czinger.com/news/34・1回目）
+  - 「Czinger’s cutting-edge Area 21 production facility in California opened officially in September 2024. More than a traditional factory, Area 21 represents the future of manufacturing—a fully integrated space where advanced human-AI collaboration and additive manufacturing come together to shape the next generation of automotive innovation.」（https://www.czinger.com/news/34・1回目）
+  - 「Czinger’s cutting-edge Area 21 production facility in California opened officially in September 2024. More than a traditional factory, Area 21 represents the future of manufacturing—a fully integrated space where advanced human-AI collaboration and additive manufacturing come together to shape the next generation of automotive innovation.」（https://www.czinger.com/news/33・1回目）
+  - 「Czinger represents a fundamental rethinking of the hypercar space, one that is defining a new era for American OEMs on the global stage. More information can be found at」（https://www.czinger.com/news/35・1回目）
+  - 「With three significant track records, as well as its first customer delivery within the space of a few weeks this summer, Czinger Vehicles is solidifying its status as a leader in the hypercar industry, continually pushing the limits of what production cars can achieve and promising there are more track records on the horizon worldwide.」（https://www.czinger.com/news/31・1回目）
+  - 「COTA is a premier motorsports facility in the United States, renowned globally for its impressive and demanding layout. With 20 turns, significant elevation changes, and a variety of high‑speed straights and technical corners, COTA provides a comprehensive test of the 21C's performance capabilities, demonstrating its superior engineering and design.」（https://www.czinger.com/news/30・1回目）
+  - 「The list was compiled through soliciting nominations from TIME’s editors and correspondents from around the globe. Those professionals used an online application process with an intense focus on growing fields including sustainability, green energy, and artificial intelligence. Each possible contender was then ranked according to factors including ambition, impact, efficacy, and originality.」（https://www.czinger.com/news/25・1回目）
+  - 「After SpaceX, Lambert took a role with Heliogen, where he established the design, production, and supply solutions for the hardware for the concentrated solar fields of the future, as well as the automated installation of heliostats. He plans to use this future-thinking in his new position with Czinger.」（https://www.czinger.com/news/24・1回目）
+  - 「Based in Berkshire in the UK and Indiana and North Carolina in the US, Xtrac is a prominent ambassador for the UK’s world-renowned motorsport industry.」（https://www.czinger.com/news/23・1回目）
+  - 「Xtrac works mainly with the high-performance automotive sector alongside its traditional heartland of the motorsport industry. Customers of its high-performance automotive and motorsport business sectors rely on its specialist expertise, augmented by the company’s substantial investment in research and innovation supported by advanced design, engineering and manufacturing resources.」（https://www.czinger.com/news/23・1回目）
+- レース・ワンメイク：
+  - 「video podcast series question wasn’t easy as their 21C model will do 0 -60 in 1.9 seconds, can hit over 250 mph, and now holds records at both Laguna Seca and Circuit of the Americas. And maybe I didn’t need to ask them the series’ question, because, well, they are already there!」（https://www.marketscale.com/industries/software-and-technology/czinger-vehicles-divergent-3d-the-next-generation-of-automotive-manufacturing・3回目）
+  - 「Following the creation of the system, Czinger’s position broadened from manufacturing to also include operations. Today as COO, he leads a team of over 50 engineers as they work to bring the 21C to market and together plan for a diverse series of future models.」（https://www.marketscale.com/industries/software-and-technology/czinger-vehicles-divergent-3d-the-next-generation-of-automotive-manufacturing・3回目）
+  - 「$290.0M Series e」（https://www.trysignalbase.com/news/funding/czinger-vehicles-secures-290・3回目）
+  - 「Other recent Series e rounds」（https://www.trysignalbase.com/news/funding/czinger-vehicles-secures-290・3回目）
+  - 「Companies that recently closed a Series e round.」（https://www.trysignalbase.com/news/funding/czinger-vehicles-secures-290・3回目）
+  - 「Series e」（https://www.trysignalbase.com/news/funding/czinger-vehicles-secures-290・3回目）
+  - 「Series b」（https://www.trysignalbase.com/news/funding/czinger-vehicles-secures-290・3回目）
+  - 「(LC) Porsche GT3 RS (997)」（https://www.the-smalltalk.com/lukas-czinger-vehicles/・3回目）
+  - 「about six years ago when we were a very small Series A startup.」（https://www.the-smalltalk.com/lukas-czinger-vehicles/・3回目）
+  - 「brand – with the 21C hypercar being the first in a diverse series of exclusive performance vehicles. Our objective is to create one of this century’s great, enduring brands and continuously deliver pathbreaking performance vehicles that lead our customers on their own journey of discovery.」（https://www.the-smalltalk.com/lukas-czinger-vehicles/・3回目）
+- お金の形：
+  - 「Nir Paz, Vice President of Morel, says, "In our journey, we've always sought partners who match our drive for innovation and excellence. With Czinger, we've found not just a collaborator but a mirror in passion and spirit. Together, we're crafting an experience where the magic of music meets the marvel of automotive design. It's not just about driving; it's about feeling every beat on the road."」（https://www.czinger.com/news/28・1回目）
+  - 「One of the annual highlights of the festival, the 21C is slated to race along the legendary Goodwood Hillclimb, a 1.16-mile racecourse known for being narrow, bumpy, slippery, and above all, exciting. Despite being new to the course, with performance as one of the key attributes of the 21C and having recently broken speed records at COTA and Laguna Seca, Czinger is well-positioned to compete.」（https://www.czinger.com/news/16・1回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Czinger_Vehicles・3回目）
+- 売上構成：
+  - 「As an authorized Czinger sales and service partner, Salt Lake City Motorcars provides clients with personalized access to the Czinger ownership experience, including vehicle consultations, acquisition opportunities, and factory-supported service and support.」（https://www.czinger.com/news/36・1回目）
+  - 「– Czinger Vehicles announces the appointment of George Biggs as Chief Commercial Officer (CCO). With over 15 years of experience in the high-performance automotive sector, Biggs will oversee sales operations, marketing, communications, product strategy, and customer engagement as Czinger progresses into its next phase of growth.」（https://www.czinger.com/news/33・1回目）
+  - 「Previously, Biggs held the position of Chief Sales & Marketing Officer at McLaren Automotive, where he played a key role in the global market expansion and brand development of the British supercar manufacturer. Spending nearly 13 years at McLaren, Biggs held several key positions, including Managing Director for Asia Pacific.」（https://www.czinger.com/news/33・1回目）
+  - 「Czinger Newport Beach, a stem of Newport Beach Automotive Group, was founded on a passion for exceptional automobiles and an unwavering commitment to client experience. Built by seasoned automotive professionals with deep expertise in luxury and exotic vehicle sales and service, the group was created to meet the needs of discerning buyers seeking both quality and trust.」（https://www.czinger.com/news/35・1回目）
+  - 「About Al Habtoor Motors | Luxury Division」（https://www.czinger.com/news/26・1回目）
+  - 「For seven consecutive years (2011 – 2017), Al Habtoor Motors held the title for "Number 1 Dealer in the World" and again regained that title in 2019. In 2022, Bentley Emirates won 'Retailer of the Year' and 'Sales Retailer of the Year' at the Middle East and Africa Bentley Regional Dealer Conference.」（https://www.czinger.com/news/26・1回目）
+  - 「Czinger has assembled a top tier Global Dealer Network, pioneering sales of Czinger vehicles around the world. Sales of the 21C have been swift to date, with just 80 of the cars being manufactured in total, and the option for owners to select either the high downforce (21C) or low drag (21C V Max) iterations, in addition to nearly infinite bespoke design options.」（https://www.czinger.com/news/19・1回目）
+  - 「Czinger Vehicles forges global dealer network with pioneering sales and service partners | Czinger」（https://www.czinger.com/news/14・1回目）
+  - 「Czinger Vehicles forges global dealer network with pioneering sales and service partners」（https://www.czinger.com/news/14・1回目）
+  - 「Czinger Vehicles: Revenue, Competitors, Alternatives」（https://growjo.com/company/Czinger_Vehicles・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Czinger_Vehicles・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Czinger_Vehicles・3回目）
+- 創業期と参入のしやすさ：
+  - 「The hypercar was handed over to its owner by Czinger Founder and CEO, Lukas Czinger, at a private track day organized by Salt Lake City Motorcars, the dealer partner for Czinger Salt Lake City. A High-Downforce variant, this 21C features extensive personalization through Czinger's bespoke program and is the first-ever to feature a fading exposed carbon fiber finish.」（https://www.czinger.com/news/36・1回目）
+  - 「Established in 2019 by Lukas and Kevin Czinger, Czinger Vehicles was founded to reimagine high-performance automotive design from first principles. Through Bio-Logic Engineering, which combines advanced design tools with additive manufacturing capabilities, Czinger has developed an entirely new approach to the hypercar industry.」（https://www.czinger.com/news/36・1回目）
+  - 「It all ended at Area 21, where the garage doors lifted to the sound of applause from the team that had built the car and followed its every mile.」（https://www.czinger.com/news/34・1回目）
+  - 「“California Gold Rush was not just about breaking records,” said Lukas Czinger, CEO & Founder of Czinger Vehicles. “It was about proving that innovation, collaboration, and sheer determination can change what the future of performance looks like. I could not be prouder of what our team accomplished.”」（https://www.czinger.com/news/34・1回目）
+  - 「Established in 2019 by Lukas and Kevin Czinger, Czinger Vehicles was founded to reimagine high-performance automotive design from first principles. Through Bio-Logic Engineering, which combines advanced design tools with additive manufacturing capabilities, Czinger has developed an entirely new approach to the hypercar industry.」（https://www.czinger.com/news/35・1回目）
+  - 「Czinger Newport Beach, a stem of Newport Beach Automotive Group, was founded on a passion for exceptional automobiles and an unwavering commitment to client experience. Built by seasoned automotive professionals with deep expertise in luxury and exotic vehicle sales and service, the group was created to meet the needs of discerning buyers seeking both quality and trust.」（https://www.czinger.com/news/35・1回目）
+  - 「Kevin Czinger, Founder and CEO, added, "To reclaim the fastest lap title at Laguna Seca is incredibly meaningful to our entire team. The 21C is more than just a car; it's a symbol of the future of automotive engineering. With every record we set, we're pushing the boundaries of what's possible, not just for Czinger Vehicles but the entire industry."」（https://www.czinger.com/news/31・1回目）
+  - 「With three significant track records, as well as its first customer delivery within the space of a few weeks this summer, Czinger Vehicles is solidifying its status as a leader in the hypercar industry, continually pushing the limits of what production cars can achieve and promising there are more track records on the horizon worldwide.」（https://www.czinger.com/news/31・1回目）
+  - 「Czinger Founder and COO Lukas Czinger adds, "It's rare to find a partner with the same level of passion for their craft as we have for ours. That's why we are thrilled to work with Morel. We believe that an unyielding hunt for excellence is a hallmark of both companies and when paired together, it's a combination that will bring unparalleled excitement to the experience of driving a 21C."」（https://www.czinger.com/news/28・1回目）
+  - 「Lukas Czinger, Founder and COO of Czinger Vehicles added, "We are thrilled to partner with the distinguished team at Al Habtoor Motors to bring our pathbreaking vehicles to the Middle East. Al Habtoor's appreciation for the technical innovation of the 21C makes it an ideal partnership, and we trust their years of expertise in the region. We welcome Al Habtoor to our Czinger family of dealers."」（https://www.czinger.com/news/26・1回目）
+  - 「Says Czinger Founder and SVP Operations Lukas Czinger, "We are proud to team Czinger's world-class engineers with those at Xtrac; together, we have developed an incredible, industry first, gearbox that is truly at the pinnacle of performance. We can't wait to shatter more track records as we utilize this system in the 21C"」（https://www.czinger.com/news/23・1回目）
+  - 「Czinger is equally pleased with the partnership. Says Kevin Czinger, Founder and CEO of Czinger Vehicles, "The Miller Motorcar team appreciates the disruptive technology that Czinger is creating; they share our passion for bringing the future of the automotive industry to their clients."」（https://www.czinger.com/news/20・1回目）
+- 顧客名：
+  - 「Previously, Biggs held the position of Chief Sales & Marketing Officer at McLaren Automotive, where he played a key role in the global market expansion and brand development of the British supercar manufacturer. Spending nearly 13 years at McLaren, Biggs held several key positions, including Managing Director for Asia Pacific.」（https://www.czinger.com/news/33・1回目）
+  - 「Czinger Vehicles announces Morel as official partner for the bespoke audio system in the 21C | Czinger」（https://www.czinger.com/news/28・1回目）
+  - 「Czinger Vehicles announces Morel as official partner for the bespoke audio system in the 21C」（https://www.czinger.com/news/28・1回目）
+  - 「charlottemclaren.com」（https://www.czinger.com/news/27・1回目）
+  - 「Part of the renowned Al Habtoor Group and established in 1983, Al Habtoor Motors is the official dealer partner for Bugatti Automobiles S.A.S., sole authorized importer for Bentley Motors, Rimac Automobili, and Pagani Automobili S.p.A.」（https://www.czinger.com/news/26・1回目）
+  - 「Working with luxury brand, Bugatti, for over a decade in the U.A.E, Al Habtoor Motors has been Bugatti's official dealer partner since 2006 and a Bugatti Service Partner of Excellence since 2013. Bugatti UAE is the brand's most successful dealer in the world, and boasts the world's largest showroom which sprawls over 240 square meters.」（https://www.czinger.com/news/26・1回目）
+  - 「After his time in the service, Lambert was recruited by the BMW Group where he worked for 13 years. In his time with BMW, he was a general manager involved with production of the MINI and worked his way to vice president of MINI logistics and assembly production, a role he maintained for his final three years with the company.」（https://www.czinger.com/news/24・1回目）
+  - 「Xtrac works mainly with the high-performance automotive sector alongside its traditional heartland of the motorsport industry. Customers of its high-performance automotive and motorsport business sectors rely on its specialist expertise, augmented by the company’s substantial investment in research and innovation supported by advanced design, engineering and manufacturing resources.」（https://www.czinger.com/news/23・1回目）
+  - 「Miller Motorcars of Greenwich, Connecticut was founded in 1976 and is dedicated to bringing the finest in new and pre-owned motorcars to their loyal list of clients. The impressive vehicle line up consists of Apollo, Aston Martin, Alfa Romeo, Bentley, Bugatti, Czinger, De Tomaso, Ferrari, Maserati, McLaren, Pagani, Pininfarina and Rolls-Royce. For more information, please visit」（https://www.czinger.com/news/20・1回目）
+  - 「Hemborg Ford」（https://growjo.com/company/Czinger_Vehicles・3回目）
+  - 「Explore the publications, audience data and ways to participate in The MarketScale Network.」（https://www.marketscale.com/industries/software-and-technology/czinger-vehicles-divergent-3d-the-next-generation-of-automotive-manufacturing・3回目）
+  - 「Slovakia」（https://www.prnewswire.com/news-releases/czinger-vehicles-forges-global-dealer-network-with-pioneering-sales-and-service-partners-301560026.html・3回目）
+- 検索結果の抜粋：
+  - 「Czinger Vehicles expands dealer network to Spain by teaming ... — Czinger Vehicles expands dealer network to Spain by teaming ... Czinger https://www.czinger.com > News」（https://www.czinger.com/news/17・3回目）
+  - 「Czinger Vehicles & Divergent 3D: The Next Generation Of ... — Czinger Vehicles & Divergent 3D: The Next Generation Of ... MarketScale https://www.marketscale.com > czing...」（https://www.marketscale.com/industries/software-and-technology/czinger-vehicles-divergent-3d-the-next-generation-of-automotive-manufacturing・3回目）
+  - 「Czinger Vehicles : Revenue , Competitors, Alternatives - Growjo — Czinger Vehicles : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Czinger_Vehicles」（https://growjo.com/company/Czinger_Vehicles・3回目）
+  - 「Czinger Vehicles - Overview, News & Similar companies — Czinger Vehicles - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > czinger-...」（https://www.zoominfo.com/c/czinger-vehicles-inc/481025597・3回目）
+  - 「Czinger Vehicles | LinkedIn — Czinger Vehicles | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/czinger-vehicles・3回目）
+  - 「Czinger Vehicles Information - RocketReach — Czinger Vehicles Information - RocketReach RocketReach https://rocketreach.co > czinger-vehic...」（https://rocketreach.co/czinger-vehicles-profile_b40d8870ffb60073・3回目）
+  - 「Additively manufactured Czinger 21C redefines ... - Metal AM — Additively manufactured Czinger 21C redefines ... - Metal AM Metal Additive Manufacturing magazine https://www.metal-am.com > articles」（https://www.metal-am.com/articles/metal-3d-printing-in-automotive-how-the-czinger-21c-is-redefining-next-generation-car-manufacturing/・3回目）
+  - 「Czinger Vehicles engineers for Pareto optimality at the full ... — Czinger Vehicles engineers for Pareto optimality at the full ... Instagram https://www.instagram.com > reel」（https://www.instagram.com/reel/C92e8jfptWr/・3回目）
+  - 「Czinger Vehicles Is Defining The Future Of High-Performance ... — Czinger Vehicles Is Defining The Future Of High-Performance ... Forbes https://www.forbes.com > 2021/12/17」（https://www.forbes.com/sites/markewing/2021/12/17/czinger-vehicles-is-defining-the-future-of-high-performance-cars-and-digital-automotive-manufacturing/・3回目）
+  - 「Driven: 2025 Czinger 21C V Max, a Fighter Jet for the Road — Driven: 2025 Czinger 21C V Max, a Fighter Jet for the Road Car and Driver https://www.caranddriver.com > 2025...」（https://www.caranddriver.com/reviews/a69076019/2025-czinger-21c-v-max-drive/・3回目）
+  - 「Czinger 21C - Wikipedia — Czinger 21C - Wikipedia Wikipedia https://en.wikipedia.org > Czinger_21C」（https://en.wikipedia.org/wiki/Czinger_21C・3回目）
+  - 「Czinger Vehicles announces partnership with Germany's Dörr ... — Czinger Vehicles announces partnership with Germany's Dörr ... Czinger https://www.czinger.com > News」（https://www.czinger.com/news/15・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+
+## Dallara
+- 公式URL：https://www.dallara.it（given）
+- 従業員数：Giampaolo Dallara (President) Andrea Pontremoli (CEO) Aldo Costa (Chief Technical Officer)（https://en.wikipedia.org/wiki/Dallara・3回目）
+- 他社向けサービス：
+  - 「for our clients.」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「turnkey solutions」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「, a move that allowed them to gain the contract for the」（https://en.wikipedia.org/wiki/Dallara・3回目）
+  - 「As a consequence, the company secured other contracts and built chassis for」（https://en.wikipedia.org/wiki/Dallara・3回目）
+  - 「Dallara also provided engineering services for」（https://en.wikipedia.org/wiki/Dallara・3回目）
+  - 「New Construction AI Platform Enters Indiana, Giving General Contractors ‘God Mode’ for Early-Stage Projects」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「organizations worldwide. PTC customers include the world's most」（https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx・3回目）
+- 部品・技術の供給：
+  - 「Dalla pista, alla strada fino allo spazio: la forma, la leggerezza e la velocità del vento ci ispirano ogni giorno nel progettare automobili da competizione, vetture da strada e componenti per velivoli che sono la sintesi perfetta di passione e competenza.」（https://www.dallara.it/・1回目）
+  - 「Supply chain portal」（https://www.dallara.it/・1回目）
+  - 「progettazione, industrializzazione e produzione di componenti in materiali compositi」（https://www.dallara.it/aerospace/・1回目）
+  - 「per l'ottimizzazione di strutture e componenti, riducendo il peso mantenendo la resistenza strutturale」（https://www.dallara.it/aerospace/・1回目）
+  - 「per la produzione di componenti complessi.」（https://www.dallara.it/aerospace/・1回目）
+  - 「Presse idrauliche per la realizzazione di componenti in composito mediante la tecnologia produttiva in compression moulding」（https://www.dallara.it/aerospace/・1回目）
+  - 「Supply chain portal」（https://www.dallara.it/aerospace/・1回目）
+  - 「(powertrain, batterie e inverter).」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Broadcasting system」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Broadcasting integrato」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Integrazione di componenti elettronici」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Supply chain portal」（https://www.dallara.it/digital-electronics/・1回目）
+- ライセンス・ブランド：
+  - 「Skip-to-content」（https://www.dallara.it/・1回目）
+  - 「Prototipazione e testing」（https://www.dallara.it/・1回目）
+  - 「Prototipazione e test」（https://www.dallara.it/・1回目）
+  - 「Skip-to-content」（https://www.dallara.it/aerospace/・1回目）
+  - 「Prototipazione e testing」（https://www.dallara.it/aerospace/・1回目）
+  - 「Partecipazione al gruppo di lavoro della Presidenza del Consiglio dei Ministri per le tecnologie spaziali innovative」（https://www.dallara.it/aerospace/・1回目）
+  - 「Skip-to-content」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Prototipazione e testing」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Il dipartimento mantiene, inoltre, un forte orientamento all’innovazione attraverso」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Ci aiuta in tre modi principali:」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「L'implementazione di modelli matematici avanzati di tipo Transformer rappresenta il futuro dell'ottimizzazione delle performance. Questi sistemi vengono applicati per prevedere comportamenti aerodinamici complessi e identificare potenziali anomalie. È una tecnologia che combina prevenzione e prestazione, garantendo maggiore affidabilità ai veicoli.」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Skip-to-content」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+- 車以外の顧客・産業：
+  - 「Aerospace」（https://www.dallara.it/・1回目）
+  - 「Di fronte alla profonda trasformazione tecnologica del motorsport, legata al confronto tra abilità umana e intelligenza artificiale, Dallara ha scelto strategicamente di evolvere il proprio DNA ingegneristico attraverso l'integrazione sempre più profonda tra meccanica tradizionale e sistemi elettronici avanzata.」（https://www.dallara.it/・1回目）
+  - 「Se sei qui per scoprire semplicemente una bella auto sportiva,」（https://www.dallara.it/・1回目）
+  - 「Dallara Experience Hub: dove il motorsport incontra la comunità」（https://www.dallara.it/・1回目）
+  - 「A pochi passi da Speedway, il leggendario circuito di Indianapolis, il Dallara Experience Hub è il luogo in cui esplorare il dietro le quinte del motorsport e conoscere l’heritage. Qui la passione per le corse si trasforma in un’esperienza accessibile a tutti, dal pubblico più curioso agli appassionati più esperti.」（https://www.dallara.it/・1回目）
+  - 「il distretto industriale dell’Emilia-Romagna che riunisce alcuni dei marchi più prestigiosi del motorsport e dell’automotive a livello mondiale.」（https://www.dallara.it/・1回目）
+  - 「Aerospace | Dallara」（https://www.dallara.it/aerospace/・1回目）
+  - 「Aerospace」（https://www.dallara.it/aerospace/・1回目）
+  - 「Dallara Aerospace:」（https://www.dallara.it/aerospace/・1回目）
+  - 「Nel settore Aerospace, Dallara ha trovato l’opportunità perfetta per applicare le competenze sviluppate nel mondo del」（https://www.dallara.it/aerospace/・1回目）
+  - 「Collaboriamo con partner di livello globale come Leonardo ed Axiom Space per sviluppare soluzioni che uniscono leggerezza, robustezza e tecnologia avanzata. Rispondiamo alle più stringenti regolamentazioni internazionali, operando con successo tra aerospazio e spazio.」（https://www.dallara.it/aerospace/・1回目）
+  - 「Aerospace: competenze certificate EN/AS9100」（https://www.dallara.it/aerospace/・1回目）
+- レース・ワンメイク：
+  - 「Al via Formula SAE Italy 2026: a Varano i talenti dell’ingegneria di domani,」（https://www.dallara.it/・1回目）
+  - 「Nuova era in arrivo: più veloce, più leggera e progettata per infrangere record. INDYCAR presenta la nuova vettura della NTT INDYCAR SERIES per il 2028 e oltre」（https://www.dallara.it/・1回目）
+  - 「Al via Formula SAE Italy 2026: a Varano i talenti dell’ingegneria di domani,」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「Si apre oggi all'Autodromo Riccardo Paletti di Varano de' Melegari la XXI edizione di Formula SAE Italy, la competizione che ogni anno richiama studenti universitari da tutto il mondo per confrontarsi su progettazione, innovazione e sviluppo di vetture da competizione.」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「Nuova era in arrivo: più veloce, più leggera e progettata per infrangere record. INDYCAR presenta la nuova vettura della NTT INDYCAR SERIES per il 2028 e oltre」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「INDIANAPOLIS (martedì 28 luglio 2026) – INDYCAR ha svelato il nuovo telaio e il nuovo pacchetto del gruppo motopropulsore della...」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「Al via il Dallara Esports Championship con dallara EXP IR8 Tribute」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「Formula SAE Italy 2026 Gets Underway: Tomorrow’s Engineering Talent Takes to the Track in Varano」（https://www.dallara.it/en/category/newsroom/・1回目）
+  - 「The 21st edition of Formula SAE Italy officially kicks off today at the Riccardo Paletti Circuit in Varano de' Melegari, bringing together university students from around the world to showcase their skills in race car design, innovation, and engineering.」（https://www.dallara.it/en/category/newsroom/・1回目）
+  - 「New Era Loading – Faster, Lighter and Built to Break Records – INDYCAR Introduces New NTT INDYCAR SERIES Race Car for 2028 and Beyond」（https://www.dallara.it/en/category/newsroom/・1回目）
+  - 「NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability」（https://www.dallara.it/en/category/newsroom/・1回目）
+- お金の形：
+  - 「Advanced sensors and electronics capture and interpret vehicle data with unprecedented precision and granularity. The data gathered, both on the track and through our services, feed a sophisticated mathematical modeling system, describing the vehicle’s behavior from multiple aspects: structural, dynamic, and aerodynamic. The strength of this」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「Dallara Group Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「RSS Feeds」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「Pacers Foundation, Gleaners team up to feed hungry Hoosiers」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「The company’s North American headquarters has seen other changes of late, rebranding to the Dallara Experience Hub and featuring multiple gathering areas totaling 33,000 square feet, racing simulators, a conference room and a manufacturing garage, all of which can be used for large events.」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「Subscriptions」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「Online & Print Subscriptions」（https://www.ibj.com/articles/dallara-usa-interests-go-beyond-racing-into-defense-aerospace-esports・3回目）
+  - 「Annual Reports and Proxies」（https://investor.ptc.com/resources/news/news-details/2009/PTC-And-Dallara-Automobili-Celebrate-15-Year-Technology-Partnership-in-Building-Winning-Race-Cars/default.aspx・3回目）
+- 売上構成：
+  - 「Business units」（https://www.dallara.it/・1回目）
+  - 「Business Units」（https://www.dallara.it/・1回目）
+  - 「Dallara Group. Tre business unit,」（https://www.dallara.it/・1回目）
+  - 「Business units」（https://www.dallara.it/aerospace/・1回目）
+  - 「Business Units」（https://www.dallara.it/aerospace/・1回目）
+  - 「Nel segmento Aerospace, Dallara offre ai propri clienti soluzioni all’avanguardia nella」（https://www.dallara.it/aerospace/・1回目）
+  - 「Business units」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Business Units」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「È così che nasce la divisione」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「tutte le business unit」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Business units」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「Business Units」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+- 創業期と参入のしやすさ：
+  - 「collaborazioni con università, start-up e altri partner tecnologici」（https://www.dallara.it/digital-electronics/・1回目）
+  - 「Persone al 30 giugno 2025 (headcount)」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「Engineer Giampaolo Dallara, founder and Chairman of Dallara, has been inducted into the Automotive Hall of Fame, the most prestigious international honor reserved for individuals who have made a decisive contribution to the development of the global automotive industry. The induction...」（https://www.dallara.it/en/category/newsroom/・1回目）
+  - 「partnerships with universities, start-ups, and other technology partners」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「Over the last few years, we have planted some seeds:」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「Today, these seeds are sprouting, weaving and growing together.」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「: for this reason we train our employees on appropriate use of AI.」（https://www.dallara.it/en/digital-electronics/・1回目）
+  - 「Engineer Giampaolo Dallara, founder and Chairman of Dallara, has been inducted into the Automotive Hall of Fame, the most prestigious international honor reserved for individuals who have made a decisive contribution to the development of the global automotive industry. The induction...」（https://www.dallara.it/en/category/newsroom/corporate/・1回目）
+  - 「Dallara Group Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+- 顧客名：
+  - 「Nel segmento Aerospace, Dallara offre ai propri clienti soluzioni all’avanguardia nella」（https://www.dallara.it/aerospace/・1回目）
+  - 「A partire dal 1988, l’esperienza maturata nelle competizioni motoristiche è stata riversata nel settore delle vetture stradali ad alta prestazione con consulenze per Alfa Romeo, Audi, Bugatti, Ferrari, KTM, Lamborghini e Maserati.」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「È il centro di ingegneria a Speedway in Indiana (USA), a due passi dal circuito di Indianapolis. Oltre al racing, si concentrano qui attività nei settori aerospaziale e della difesa degli Stati Uniti.」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「dell’impresa nei confronti del mercato, nella prospettiva di creazione di valore per gli stakeholder.」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「La scelta del Consiglio di Amministrazione di dotarsi di un modello di organizzazione e di gestione si inserisce nella più ampia politica d’impresa che ha l’obiettivo di sensibilizzare il personale (dal management ai dipendenti), i collaboratori esterni e i partner commerciali alla」（https://www.dallara.it/il-gruppo-dallara/・1回目）
+  - 「La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.」（https://www.dallara.it/category/newsroom/・1回目）
+  - 「NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability」（https://www.dallara.it/en/category/newsroom/・1回目）
+  - 「La IR-28 della NTT INDYCAR SERIES è progettata per offrire auto più veloci con motorizzazioni Chevrolet e Honda, più spettacolo in pista e una migliore guidabilità.」（https://www.dallara.it/category/newsroom/corporate/・1回目）
+  - 「NTT INDYCAR SERIES’ IR-28 Designed To Deliver Faster Cars with Chevrolet and Honda Powerplants, More Action, Improved Drivability」（https://www.dallara.it/en/category/newsroom/corporate/・1回目）
+  - 「Porsche Lost 93% of Its Profit — Here's WHY」（https://www.youtube.com/watch?v=Hps_SAm-bYY・3回目）
+  - 「LIVE Ferrari Racing Days - Sport Prototipi Clienti Ferrari 499P Modificata」（https://www.youtube.com/watch?v=Hps_SAm-bYY・3回目）
+  - 「Ferrari」（https://www.youtube.com/watch?v=Hps_SAm-bYY・3回目）
+- 検索結果の抜粋：
+  - 「Dallara automotive engineering and vehicle development — Dallara automotive engineering and vehicle development Facebook https://www.facebook.com > DallaraGroup > posts > from...」（https://www.facebook.com/DallaraGroup/posts/from-the-initial-concept-to-road-type-approval-turning-vision-into-high-performa/1591048983053719/・3回目）
+  - 「Passion in every fiber - Dallara — Passion in every fiber - Dallara Dallara https://www.dallara.it > ...」（https://www.dallara.it/en/・3回目）
+  - 「Dallara : Engineering the Future of Motorsports - YouTube — Dallara : Engineering the Future of Motorsports - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=Hps_SAm-bYY・3回目）
+  - 「In the field with Dallara Automobili - IMD Business School — In the field with Dallara Automobili - IMD Business School imd.org https://www.imd.org > articles > in-th...」（https://www.imd.org/research-knowledge/data-analytics/articles/in-the-field-with-dallara-automobili/・3回目）
+  - 「Dallara - Wikipedia — Dallara - Wikipedia Wikipedia https://en.wikipedia.org > Dallara」（https://en.wikipedia.org/wiki/Dallara・3回目）
+  - 「Dallara Group Number of Employees 2026 - Revelio Labs — Dallara Group Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/dallara-group/employees・3回目）
+  - 「Dallara - Overview, News & Similar companies | ZoomInfo.com — Dallara - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > dallara」（https://www.zoominfo.com/c/dallara/10486191・3回目）
+  - 「Dallara Information - RocketReach — Dallara Information - RocketReach RocketReach https://rocketreach.co > dallara-profil...」（https://rocketreach.co/dallara-profile_b5c408c0f42e0d88・3回目）
+  - 「Overview of the Dallara Group — Overview of the Dallara Group Dallara https://www.dallara.it > the-dallara-gr...」（https://www.dallara.it/en/the-dallara-group/・3回目）
+  - 「Dallara Automobili: knowledge company - Financial Times — Dallara Automobili: knowledge company - Financial Times Financial Times https://www.ft.com > ... > Automobiles」（https://www.ft.com/content/10bae7b2-fbbe-11e3-9a03-00144feab7de・3回目）
+  - 「History of Excellence in Race Cars - Dallara Experience Hub — History of Excellence in Race Cars - Dallara Experience Hub Dallara Experience Hub https://dallaraexperiencehub.com > da...」（https://dallaraexperiencehub.com/dallara-history・3回目）
+  - 「Products | Dallara - Le Mans Co.,LTD. — Products | Dallara - Le Mans Co.,LTD. 株式会社ルマン https://www.lemans.co.jp > dallara」（https://www.lemans.co.jp/en/products/dallara.html・3回目）
+- 設立：記載なし（3回確認済み：公式21頁／PDF・画像0件／外部15頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式21頁／PDF・画像0件／外部15頁・検索6回）
+
+## Divergent Technologies
+- 公式URL：https://www.divergent3d.com（given）
+- 他社向けサービス：
+  - 「Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Erhartic credits Divergent colleagues and leaders, such as Matt Strasberg, Senior Director of Materials and Processes, and George Patino, Senior Program Manager, for guiding this initiative that has drawn input from every branch of the DoD, major defense contractors, and NASA.」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+  - 「. Today, Divergent has contracts with dozens of aerospace and defense customers. Over the next three years, Czinger expects about 70% of revenue from aerospace contracts and 30% from the automotive sector.」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Scaling from luxury and defense contracts to mass-market viability remains unproven.」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「Contract Vehicles」（https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc・3回目）
+  - 「Contracts」（https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html・3回目）
+  - 「Contracts」（https://www.prnewswire.com/news-releases/divergent-announces-290-million-series-e-to-scale-digital-manufacturing-platform-and-meet-growing-us-defense-production-demand-302555989.html・3回目）
+- 部品・技術の供給：
+  - 「“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The Czinger 21c supercar is created in part by Divergent 3D printed parts.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Kevin was an entrepreneur who changed jobs – and locations – frequently, which Lukas attributes, giving him a head start in life. At 14, he even spent a summer interning at an auto parts supplier in China (with supervision from the company’s owner).」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Various automotive parts after additive material “3D printing”」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Divergent’s Torrance factory is a vertically integrated additive manufacturing facility. It utilizes proprietary software and hardware in a tech stack it developed at the cost of hundreds of millions of dollars and has more than 600 patents.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The Torrance factory contains a lab where it creates chemical formulas for its powdered aluminum alloys and other metals used in the printing process. Those alloys are then used in the company’s onsite 3D printers where the powder is melded together layer by layer with very little waste. Any unused powder goes back into the supply.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The parts are completed to any specifications. Finishing could include a dip in the on-site, fully automated anodizing bath, which treats the parts electrochemically to make them harder and more wear resistant. An array of robotic assembly arms assembles parts into the complete structure.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company employs about 500 people, including its sister company Czinger Vehicles. Their production street-legal hypercar, the 21C, set five track records in California last year while driving between the courses on public roads. The car heavily utilizes the parent company’s 3D printed parts, from suspension to the steering wheel.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Movandi Unveils MV6055 60GHz Transceiver With 5Gbps+ Speeds for Physical AI and Wireless Infrastructure」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Divergent Technologies: Pioneering the Future of Additive Manufacturing - America Makes」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+- ライセンス・ブランド：
+  - 「Recipes」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Drip Index: Event Guides」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Lifestyle」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Clippers」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「• Trip Ideas」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Manage Subscription」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Group Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Gift Subscription Terms」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Got a Tip?」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“I was really interested in understanding what made a great company. Why is it investable and how is it valued? The best VC investors are kind of contrarians. They’re seeing something earlier, different than others, and they’re putting money behind their idea. And if they do it right, their money multiplies many times over,” said Czinger.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+- 車以外の顧客・産業：
+  - 「Sports」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「High School Sports」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「• Sports」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「a decade of technological development has the 500-person strong company primed to scale its platform that utilizes 3D printing for automotive and aerospace parts.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The 3D printers can switch between different products through software changes and do not need hardware modifications, alternating between auto parts and aerospace parts without any downtime and operating 24 hours a day. Divergent introduced more than 200 new aerospace and defense parts during the first half of 2025, which brought its total to more than 600 unique parts across industries.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“The challenge has been making sure that the part can be certified for aerospace-grade certification. Certification is a long, complicated process. That’s why technology adoption has been slow,” he added.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「These companies and others are focused on scaling operations quickly to meet the manufacturing needs of the defense, automotive and other hard tech industries. For Divergent, that means replicating its Torrance factory and placing several dozen into operation around the world over the next decade so they can continue to hold the majority of the market.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+- レース・ワンメイク：
+  - 「Screening Series」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「in a Series E round at a $2.3 billion valuation. The round was led by Rochefort Asset Management and consists of $250 million in equity capital and $40-million in debt capital. To date, the company has raised more than $1 billion.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“My father had this idea late enough in life where we got to start on similar timelines. He was young enough and I was just barely old enough. We went from Series A to Series E together. He took the lead on the first three rounds and then I was in a leadership role for later rounds,” said Czinger.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The Torrance factory contains a lab where it creates chemical formulas for its powdered aluminum alloys and other metals used in the printing process. Those alloys are then used in the company’s onsite 3D printers where the powder is melded together layer by layer with very little waste. Any unused powder goes back into the supply.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Divergent Closes $290M Series E at $2.3B Valuation - Los Angeles Times」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Screening Series」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Torrance Firm Divergent Closes $290 Million Series E Round at $2.3-Billion Valuation to Scale Digital Manufacturing Platform」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「, a Torrance-based manufacturer, closed a $290 million Series E financing that raised a total of $290 million at a $2.3-billion valuation. The round was led by」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「$160M Drives 3D Printed Hypercar Startup Divergent in Series C Round」（https://growjo.com/company/Divergent_3D・3回目）
+  - 「Divergent Technologies closes $160 million series C funding」（https://growjo.com/company/Divergent_3D・3回目）
+  - 「RPA series and the Lynx」（https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc・3回目）
+  - 「Gambit Series」（https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc・3回目）
+- お金の形：
+  - 「Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Manage Subscription」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Group Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Gift Subscription Terms」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“One factory, any product – faster, better and cheaper,” said Czinger. “Our factory-as-a-service model combines flexibility and extreme speed with a per unit cost that is actually more attractive, or at cost parity, with the industrial high-rate casting traditional version. We take a complex set of requirements and engineer that system very quickly to produce the first unit within weeks.”」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「At Divergent, manufacturing is offered as a service model, which allows aerospace contractors and automotive manufacturers to develop products without the high upfront infrastructure costs associated with traditional methods. Divergent does not license its technology or software. It offers manufacturing on a per unit basis with a low initiation fee.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Manage Subscription」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Group Subscriptions」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Gift Subscription Terms」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Divergent_3D・3回目）
+  - 「We are a participant in affiliate advertising programs designed to provide a means for us to earn fees by linking to affiliated sit」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+- 売上構成：
+  - 「with a majority going to the hard tech sector, according to data from PitchBook.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Over the next three years, Czinger projects about 70% of revenue from aerospace contracts and 30% from the automotive sector. The company’s expansion into unmanned vehicles has led to significant revenue growth, with 2025 revenue up more than five times compared with 2024.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「These companies and others are focused on scaling operations quickly to meet the manufacturing needs of the defense, automotive and other hard tech industries. For Divergent, that means replicating its Torrance factory and placing several dozen into operation around the world over the next decade so they can continue to hold the majority of the market.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Score a Nike Promo Code: Best Ways to Save 10% in September 2026」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Save Up to 50% With a Squarespace Promo Code」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Get 76% Off! Save With These NordVPN Coupon Codes in September 2026」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company’s expansion into unmanned vehicles, commonly known as drones, has led to significant revenue growth, with year-to-date revenue up five times compared with 2024. The company has 450 employees, mainly in Southern California. That includes its wholly owned subsidiary,」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「. Today, Divergent has contracts with dozens of aerospace and defense customers. Over the next three years, Czinger expects about 70% of revenue from aerospace contracts and 30% from the automotive sector.」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「UTA Names Seven Agents to Expanded Creators Leadership Team as Division Targets Sports, New York and U.K.」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Score a Nike Promo Code: Best Ways to Save 10% in September 2026」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Save Up to 50% With a Squarespace Promo Code」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+- 創業期と参入のしやすさ：
+  - 「Cost savings and improved manufacturing have drawn strong interest from the U.S. government, which has sought to award defense contracts to a new wave of domestic startups that have potential to build fleets of drones and other advanced weapons. Warfare has changed, and modern conflicts have led to billions of dollars of investment. Southern California companies secured more than $17 billion in」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「venture funding last year,」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「raised $290 million」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「in a Series E round at a $2.3 billion valuation. The round was led by Rochefort Asset Management and consists of $250 million in equity capital and $40-million in debt capital. To date, the company has raised more than $1 billion.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「The company was founded by Lukas Czinger’s father, Kevin Czinger, who is still involved with the company and serves as its executive chairman. During its startup era, Lukas Czinger was one of the first employees at the company and is credited as a co-founder.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“I was really interested in understanding what made a great company. Why is it investable and how is it valued? The best VC investors are kind of contrarians. They’re seeing something earlier, different than others, and they’re putting money behind their idea. And if they do it right, their money multiplies many times over,” said Czinger.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「He had a full-time role at an investment bank post-college, but quit to take a “big bet” on his father’s fledgling startup Divergent. His diverse background helped the company in its financing efforts as he was able to explain both technical aspects and the unit economics.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「“My father had this idea late enough in life where we got to start on similar timelines. He was young enough and I was just barely old enough. We went from Series A to Series E together. He took the lead on the first three rounds and then I was in a leadership role for later rounds,” said Czinger.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Neuron Industries Raises $10 Million Seed Round to Accelerate Industrial Automation」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「5513.001-4 Thermal Aging Baselining Phase 2 – Fatigue Evaluation of Thermally Aged AM Parts」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+  - 「America Makes Announces Winners of MIAMI Project Call Worth $12.4M in Funding」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+- 顧客名：
+  - 「The company expanded into the aerospace and defense sector three years ago and now has contracts with more than 15 prime contractors including Lockheed Martin, Raytheon and General Atomics, as well as mid-sized companies and startups. It also operates as a tier-one supplier for more than ten vehicle models including Aston Martin, McLaren and Bugatti.」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Erhartic credits Divergent colleagues and leaders, such as Matt Strasberg, Senior Director of Materials and Processes, and George Patino, Senior Program Manager, for guiding this initiative that has drawn input from every branch of the DoD, major defense contractors, and NASA.」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+  - 「The company originally started building parts for automotive brands that include Aston Martin, Bugatti and McLaren. In 2022, it expanded into aerospace and defense with initial work for」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Beyond its own cars, Divergent supplies advanced structural parts to high-end brands including McLaren,」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「Mercedes-AMG」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「Aston Martin」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「, and Bugatti. McLaren, for instance, is using Divergent-printed suspension components on new performance models. These collaborations prove that Divergent’s adaptive production system can meet the standards of world-class automakers.」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「Lockheed」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「General Atomics Europe GmbH (GA-Europe)」（https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc・3回目）
+  - 「General Atomics Synopta GmbH」（https://www.ga-asi.com/ga-asi-partners-with-divergent-technologies-inc・3回目）
+  - 「Slovakia」（https://www.prnewswire.com/news-releases/palantir-and-divergent-form-partnership-to-revolutionize-on-demand-advanced-manufacturing-302460284.html・3回目）
+  - 「VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.」（https://www.voxelmatters.com/divergent-technologies-closes-160-million-series-c-funding/・3回目）
+- 検索結果の抜粋：
+  - 「Divergent Technologies : Scaling Factory-as-a- Service — Divergent Technologies : Scaling Factory-as-a- Service Los Angeles Times https://www.latimes.com > story > div...」（https://www.latimes.com/b2b/ai-technology/story/2026-02-22/divergent-technologies-factory-as-a-service・3回目）
+  - 「Divergent Technologies : Pioneering the Future of Additive ... — Divergent Technologies : Pioneering the Future of Additive ... America Makes https://www.americamakes.us > diver...」（https://www.americamakes.us/divergent-technologies-pioneering-the-future-of-additive-manufacturing/・3回目）
+  - 「Divergent - LinkedIn — Divergent - LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/divergenttechnologies・3回目）
+  - 「AM Service Engineer @ Divergent Technologies | Simplify Jobs — AM Service Engineer @ Divergent Technologies | Simplify Jobs Simplify https://simplify.jobs > Additive-Manufacturing-Service-E...」（https://simplify.jobs/p/d0e82ad4-bdb6-4959-bdaf-abf06ca364b8/Additive-Manufacturing-Service-Engineer・3回目）
+  - 「DIVERGENT TECHNOLOGIES , INC. ANNOUNCES ... — DIVERGENT TECHNOLOGIES , INC. ANNOUNCES ... PR Newswire https://www.prnewswire.com > diverg...」（https://www.prnewswire.com/news-releases/divergent-technologies-inc-announces-acquisition-of-all-software-and-intellectual-property-from-sigma-additive-solutions-inc-301956078.html・3回目）
+  - 「Divergent Closes $290M Series E at $2.3B Valuation - LA Times — Divergent Closes $290M Series E at $2.3B Valuation - LA Times Los Angeles Times https://www.latimes.com > story > div...」（https://www.latimes.com/b2b/ai-technology/story/2025-09-22/divergent-closes-290m-series-e-at-2-3b-valuation・3回目）
+  - 「Divergent 3D: Revenue , Competitors, Alternatives - Growjo — Divergent 3D: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Divergent_3D」（https://growjo.com/company/Divergent_3D・3回目）
+  - 「Divergent - Overview, News & Similar companies - ZoomInfo — Divergent - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > diverge...」（https://www.zoominfo.com/c/divergent-technologies-inc/372252628・3回目）
+  - 「Divergent's Competitors, Revenue , Number of Employees ... — Divergent's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > divergent3d」（https://www.owler.com/company/divergent3d・3回目）
+  - 「Divergent3D — founder & CEO Lukas Czinger · $2.3B — Divergent3D — founder & CEO Lukas Czinger · $2.3B Silicon Valley Investclub https://siliconvalleyinvestclub.com > ...」（https://siliconvalleyinvestclub.com/ja/companies/divergent/・3回目）
+  - 「Divergent Creates Domestic Supply Chain for Manufacturing ... — Divergent Creates Domestic Supply Chain for Manufacturing ... Fabbaloo https://www.fabbaloo.com > News」（https://www.fabbaloo.com/news/divergent-creates-domestic-supply-chain-for-manufacturing-its-own-printers・3回目）
+  - 「The company, Divergent , is built on 3D printer technology that ... — The company, Divergent , is built on 3D printer technology that ... Facebook https://www.facebook.com > longbeachpost > posts > the-...」（https://www.facebook.com/longbeachpost/posts/the-company-divergent-is-built-on-3d-printer-technology-that-can-churn-out-parts/1662878065844288/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Gordon Murray Group
+- 公式URL：https://www.gordonmurraygroup.com（given）
+- 他社向けサービス：
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「After leaving McLaren, Murray founded the Gordon Murray Design consultancy and, in 2017, the low-volume specialist car manufacturing company」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「In July 2007, the Gordon Murray Design consultancy was established, and released initial details of its」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+- 部品・技術の供給：
+  - 「Every component begins as an original work, never selected, never compromised, but conceived and created with absolute intent. Each element exists for a clear purpose and its form defined by function and refined through an uncompromising pursuit of perfection.」（https://www.gordonmurray.com/・1回目）
+  - 「HR Information Systems」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「Infrastructure Services」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「This issue was stifling productivity and growth, so we needed support from a supplier that could help us overcome the challenges.”」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「“With Apogee as one of our key strategic IT suppliers, our colleagues are benefiting from updated hardware, consistent secure builds and rapid deployment, and our customers are benefiting from having a supplier with the weight of Apogee and HP behind them,” adds Clements.」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「, in charge of building the powertrain.」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「including Gordon Murray Automotive (GMA) and Gordon Murray Technologies (GMT). GMT serves as the group's dedicated engineering and technology division, with an expanded focus on electrification, lightweight structures, and future mobility platforms.」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「McLaren really does prize lightweight engineering, and at 3084lbs (dry) the W1 has a 278lbs advantage over the Ferrari F80. Plus, Ferrari uses figures for cars fitted with every single carbon fibre option. In reality, the gap is probably wider still.」（https://news.dupontregistry.com/blogs/gordon-murray-automotive/gordon-murray-automotive-secures-120-million-dollar-investment-from-halo-cars-group・3回目）
+  - 「That belief dates back to his time in Formula One during the 1970s and '80s with Brabham and later McLaren, where close integration between aerodynamics, structure, and layout produced」（https://news.dupontregistry.com/blogs/gordon-murray-automotive/gordon-murray-automotive-secures-120-million-dollar-investment-from-halo-cars-group・3回目）
+- ライセンス・ブランド：
+  - 「eclipses」（https://www.gordonmurray.com/・1回目）
+  - 「Gordon Murray Group represents the pinnacle of British advanced engineering and design. Powered by our core principles which are rigorously applied to every design ensures that we deliver supercars and driving experiences that are unrivalled.」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「Skip to main content」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Description」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「of Phillip Lee as a director on 5 November 2025」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Collaboration leverages advanced simulation technology to drive innovation in next-generation vehicle design」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「The collaboration will utilize the Altair C123 process, designed specifically for rapid and collaborative simulation-led concept development. C123 enables efficient exploration of design trade-offs in structural mass and performance across various manufacturing methods, materials and vehicle architectures, ensuring innovative, optimized outcomes in record time.」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「This collaboration underscores the mutual commitment to innovation and sustainability in the automotive industry and marks a significant milestone in the advancement of vehicle platform development.」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「HD Hyundai selects Siemens Xcelerator for integrated digital shipbuilding platform」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Siemens brings unified multiphysics and optimization to the cloud with Simcenter X」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Meeting Room Equipment」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「IT support and partnership」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+- 車以外の顧客・産業：
+  - 「Job Architecture」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Gordon Murray Technologies Ltd. is an Industrial Manufacturing company that employs」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Industrial Manufacturing」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「The collaboration will utilize the Altair C123 process, designed specifically for rapid and collaborative simulation-led concept development. C123 enables efficient exploration of design trade-offs in structural mass and performance across various manufacturing methods, materials and vehicle architectures, ensuring innovative, optimized outcomes in record time.」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Siemens brings the industrial metaverse to life with Digital Twin Composer」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Consulted with the organisation about their security posture and where improvements could be made. Microsoft Intune, a cloud-based endpoint management solution, was then introduced to adhere to CIS (Center for Internet Security) Benchmarks and enhance Gordon Murray’s cyber security defences.」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「sports cars」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「in 1992. In a lightly modified “LM” specification in 1995 it became the last road-legal sportscar to win the」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「sports car, the "logical successor" to the」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「super car. A twin-seater, potentially 'day to day' sportscar with the same engine as the T.50, but built on a new platform to be used by three other future cars.」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「. Motor Sport Magazine. December 1981」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「"New TVR sports car to use Gordon Murray's iStream Carbon process"」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+- レース・ワンメイク：
+  - 「FORMULA」（https://www.gordonmurray.com/・1回目）
+  - 「Gordon Murray stands as one of Formula 1's greatest minds, the force behind some of the most iconic race cars in history. Today, his philosophy lives on in every Gordon Murray vehicle, meticulously lightweight, relentlessly driver-focused, and uncompromising in every detail. Discover the story behind the legend.」（https://www.gordonmurray.com/・1回目）
+  - 「SERIES」（https://www.gordonmurray.com/・1回目）
+  - 「Founded in 2017 by former Formula One and McLaren F1 designer Gordon Murray, the company engineers and designs cars without compromise to provide unrivalled driving experiences and driver-centric connection.」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「Formula One career」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「Toggle Formula One career subsection」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「List of Brabham Formula One cars designed by Gordon Murray」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「Formula One」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「Formula 1 racing teams, during 1969–1986 and 1987–1991 respectively, then as designer of high-end, high-performance」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「cars, some of which were World Championship Grand Prix winners. These designs include the」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「, also known as "the Brabham fan car", as well as the World Championship winning」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「Between 1973 and 1985, Murray's Brabhams scored 22 Grand Prix wins, finished 2nd in the Constructors' Championship in 1975 and 1981,」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+- お金の形：
+  - 「feeling,」（https://www.gordonmurray.com/・1回目）
+  - 「Every control. Every response. Every sound. Every gram. Each element is meticulously shaped around the driver. Nothing remains without reason. The result is a car that feels immediate, intuitive, and alive. A machine engineered to reconnect you with the road and make driving feel extraordinary again.」（https://www.gordonmurray.com/・1回目）
+  - 「Gordon Murray Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Confirmation statements / Annual returns」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「magazine's annual awards ceremony for the manufacturing process for the T.25.」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「, for the design and hand-built manufacture of super cars based on his design principles for "driver-focused cars".」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「super car. A twin-seater, potentially 'day to day' sportscar with the same engine as the T.50, but built on a new platform to be used by three other future cars.」（https://en.wikipedia.org/wiki/Gordon_Murray・3回目）
+  - 「There is also an active front wing and the aforementioned complex rear wing dubbed ‘Active Long Tail’. All of which is very admirable. But the ‘anhedral’ or gullwing doors and the fantastically shirnked-wrapped feel to the minimalist, highly-focussed interior are a pretty good side effect. The W1 feels special.」（https://news.dupontregistry.com/blogs/gordon-murray-automotive/gordon-murray-automotive-secures-120-million-dollar-investment-from-halo-cars-group・3回目）
+  - 「Reach up to a roof-mounted control panel to find the starter button. Maybe this fighter plane trope is a little corny, but somehow you feel thrilled rather than manipulated. The W1 has a sense of humour as well as all that motorsport-derived sophistication.」（https://news.dupontregistry.com/blogs/gordon-murray-automotive/gordon-murray-automotive-secures-120-million-dollar-investment-from-halo-cars-group・3回目）
+- 売上構成：
+  - 「The Gordon Murray Group (GMG) comprises two industry-leading and symbiotic divisions: Gordon Murray Advanced Engineering (GMAe) and Gordon Murray Automotive (GMA).」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「), and Sales and Marketing (」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「), with Sales and Marketing growing fastest (up」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「-5.4% (-57)」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「5.4% YoY」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「1.1% YoY」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Northern Europe accounts for the largest share of Gordon Murray's global workforce with approximately」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「% of Total」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Sales and Marketing」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Notice of agreement to exemption from audit of accounts for period ending 31/12/24」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Gordon Murray have achieved a 3,000% time saving when setting up devices. IT staff have been freed from time-intensive manual laptop imaging, as well as Service Desk requests relating to deskside visits and laptop deployments.」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「85% of NHS Trusts Lack Proactive Monitoring of Frontline Digital Experience」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+- 創業期と参入のしやすさ：
+  - 「Gordon Murray Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「total employees worldwide as of」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「’s total headcount has」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「from 448 employees in 2023 to 375 in 2026」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「. It is the 11th-largest by headcount among its」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「. Founded in」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Founded」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Headcount」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「employees in」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+- 顧客名：
+  - 「The Gordon Murray Group (GMG) comprises two industry-leading and symbiotic divisions: Gordon Murray Advanced Engineering (GMAe) and Gordon Murray Automotive (GMA).」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「GMAe is at the forefront of design and innovation which enables engineering excellence to deliver the greatest supercars in the world.」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「GMA delivers driving perfection through exclusive hand built precisely engineered, lightweight supercars. Our paramount focus is on providing an unparalleled driving experience for our customers.」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「, the company is headquartered in Guildford, United Kingdom.」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Guildford, United Kingdom」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「and is headquartered in Guildford, United Kingdom.」（https://www.reveliolabs.com/companies/gordon-murray/employees・3回目）
+  - 「Audit exemption subsidiary accounts」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Audit exemption statement of guarantee by parent company for period ending 31/12/24」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Notice of agreement to exemption from audit of accounts for period ending 31/12/24」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「HD Hyundai selects Siemens Xcelerator for integrated digital shipbuilding platform」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Technology Audit」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+  - 「Founded in 2017 by former Formula One and McLaren F1 designer Gordon Murray, the company engineers and designs cars without compromise to provide unrivalled driving experiences and driver-centric connection.」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+- 検索結果の抜粋：
+  - 「Gordon Murray Group - LinkedIn — Gordon Murray Group - LinkedIn LinkedIn https://uk.linkedin.com > company」（https://uk.linkedin.com/company/gordon-murray-group・3回目）
+  - 「Gordon Murray Automotive — Gordon Murray Automotive Gordon Murray Automotive https://www.gordonmurray.com」（https://www.gordonmurray.com/・3回目）
+  - 「Gordon Murray Group Careers — Gordon Murray Group Careers Gordon Murray Group Careers https://gordonmurraygroup.pinpointhq.com」（https://gordonmurraygroup.pinpointhq.com/・3回目）
+  - 「Gordon Murray Automotive_CAP - Evera Recruitment — Gordon Murray Automotive_CAP - Evera Recruitment Evera Recruitment https://www.everarecruitment.com > i...」（https://www.everarecruitment.com/gordonmurray/info・3回目）
+  - 「Gordon Murray Automotive - Overview, News & Similar ... — Gordon Murray Automotive - Overview, News & Similar ... ZoomInfo https://www.zoominfo.com > gordon-...」（https://www.zoominfo.com/c/gordon-murray-automotive/482571186・3回目）
+  - 「GORDON MURRAY GROUP LIMITED filing history — GORDON MURRAY GROUP LIMITED filing history Find and update company information https://find-and-update.company-information.service.gov.uk > ...」（https://find-and-update.company-information.service.gov.uk/company/11569951/filing-history・3回目）
+  - 「Working at Gordon Murray Group | Glassdoor — Working at Gordon Murray Group | Glassdoor Glassdoor https://www.glassdoor.com > Overview」（https://www.glassdoor.com/Overview/Working-at-Gordon-Murray-Group-EI_IE8529768.11,30.htm・3回目）
+  - 「Gordon Murray Group sets up Technology division — Gordon Murray Group sets up Technology division Vehicle Dynamics International https://www.vehicledynamicsinternational.com > ...」（https://www.vehicledynamicsinternational.com/news/gordon-murray-group-sets-up-technology-division.html・3回目）
+  - 「Gordon Murray Automotive - Wikipedia — Gordon Murray Automotive - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Gor...」（https://en.wikipedia.org/wiki/Gordon_Murray_Automotive・3回目）
+  - 「Gordon Murray Automotive Case Study | Dehum — Gordon Murray Automotive Case Study | Dehum Dehum https://dehum.com > Case Studies」（https://dehum.com/case_study/gordon-murray-automotive-case-study/・3回目）
+  - 「Altair and Gordon Murray Group - Siemens Newsroom — Altair and Gordon Murray Group - Siemens Newsroom Siemens Newsroom https://news.siemens.com > en-us > alt...」（https://news.siemens.com/en-us/altair-and-gordon-murray-group-developing-groundbreaking-ultra-lightweight-platform/・3回目）
+  - 「Gordon Murray Automotive | Apogee Corporation — Gordon Murray Automotive | Apogee Corporation Apogee Corporation https://apogeecorp.com > case-studies」（https://apogeecorp.com/case-studies/gordon-murray-automotive/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Haas Automation
+- 公式URL：https://www.haascnc.com（given）
+- 従業員数：1,300 (Oxnard HQ, 2018) [ 1 ]（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+- 他社向けサービス：
+  - 「There are currently more than 300,000 Haas CNC machines installed around the world, being used by job shops, contract engineering firms, and manufacturers worldwide to make parts for nearly every industry.」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+- 部品・技術の供給：
+  - 「Explore our complete range of CNC machines, from vertical and horizontal machining centers to turning centers and automation systems. Find the right machine for your production needs.」（https://haascnc.com/・1回目）
+  - 「Automation Systems」（https://haascnc.com/・1回目）
+  - 「Widescreen Monitor for the Haas Control. This larger touchscreen monitor provides a larger viewing area to display more information at the same time. The touchscreen interface allows easy screen navigation, data entry, and other control functions on-screen, without using the keypad. Genuine carbon fiber bezel.」（https://haascnc.com/・1回目）
+  - 「Table Auxiliary Air Supply」（https://haascnc.com/・1回目）
+  - 「Table Auxiliary Air Supply; provides a connection for compressed air directly at the machine’s table.」（https://haascnc.com/・1回目）
+  - 「This is where Haas machines come to life. Manufacturing and Production team members work hands on to build high quality CNC machines using modern tools, processes, and equipment. You will be part of a fast paced team that turns raw components into finished machines used in shops around the world.」（https://www.haashenderson.com/・3回目）
+  - 「CNC Assembly roles put you at the heart of what we do. You will assemble precision mechanical and electrical systems, work closely with detailed build processes, and see your work come together as a fully functioning Haas machine. If you like working with your hands and taking pride in precision, this is where it happens.」（https://www.haashenderson.com/・3回目）
+  - 「Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.」（https://www.haashenderson.com/・3回目）
+  - 「by supplying the Russian arms industry with CNC machines via Abamet Management, which distributes parts in Russia and Belarus and with whom Haas severed ties in March 2022.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「The mini mill was introduced as a small footprint alternative to the VF series mills, featuring a smaller casting while still maintaining a 40 taper spindle.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「The TM series was first introduced as essentially a "CNC-capable toolroom mill”. Originally, these mills did not feature an enclosure, but have since been outfitted with an enclosure that encompasses the bottom and sides of the machine. These machines are characterized by a smaller casting and slower rapids, as they are targeted towards customers who do not require production capabilities.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+- ライセンス・ブランド：
+  - 「Shop Equipment」（https://haascnc.com/・1回目）
+  - 「Up to 30% off hundreds of machines. Ready to ship now.」（https://haascnc.com/・1回目）
+  - 「Chip Removal」（https://haascnc.com/・1回目）
+  - 「Make and Remove Chips Efficiently」（https://haascnc.com/・1回目）
+  - 「Explore financing options that can help you add the machines, tooling, and equipment your shop needs while managing your investment.」（https://haascnc.com/・1回目）
+  - 「Skip to Content」（https://www.haashenderson.com/・3回目）
+  - 「This is where Haas machines come to life. Manufacturing and Production team members work hands on to build high quality CNC machines using modern tools, processes, and equipment. You will be part of a fast paced team that turns raw components into finished machines used in shops around the world.」（https://www.haashenderson.com/・3回目）
+  - 「Logistics and Warehouse roles keep the entire operation moving. From receiving parts to shipping finished machines, this team ensures everything is in the right place at the right time. It is fast moving, highly coordinated work that plays a critical role in the success of the factory.」（https://www.haashenderson.com/・3回目）
+  - 「Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.」（https://www.haashenderson.com/・3回目）
+  - 「We are hiring across multiple areas including:」（https://www.haashenderson.com/・3回目）
+  - 「Haas Automation - Wikipedia」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「About Wikipedia」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+- 車以外の顧客・産業：
+  - 「Medical Plan*」（https://www.haashenderson.com/・3回目）
+  - 「Find information on Haas Automation's Anthem health insurance plans and medical costs by visiting:」（https://www.haashenderson.com/・3回目）
+  - 「Haas offers competitive compensation and a comprehensive benefits package, which may include medical, dental, vision, retirement plans, and paid time off. Specific details are provided during the hiring process.」（https://www.haashenderson.com/・3回目）
+  - 「. While one competes at the highest level of global motorsport and the other builds CNC machines used around the world, both share the same foundation: precision, performance, and engineering excellence.」（https://www.haashenderson.com/・3回目）
+  - 「The company is also involved in motorsports: it owns the」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「, for $27.4 million to expand its business, planning to build 4.3 million square feet of commercial space with 2.3 million square feet intended for a $327 million manufacturing facility」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「in January 2025 for "21 apparent violations of sanctions related to the defense and energy sectors of the Russian Federation」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「certified company. All machine tools carry the ETL Listed mark, certifying that they conform to the NFPA 79 electrical standard for industrial machinery and the Canadian equivalent, CAN/CSA C22.2 No. 73.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Motorsports」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Haas CNC Machines In Aerospace | Premier Equipment Inc.」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「Haas CNC Machines in Aerospace」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「Aerospace is one of the most stringent industries in terms of manufacturing and the components have to be accurate, durable and reliable. At the center of this precision manufacturing is the」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+- レース・ワンメイク：
+  - 「Shop by Series」（https://haascnc.com/・1回目）
+  - 「Explore Haas machines by series, with each lineup designed around specific capabilities, performance levels, and production requirements.」（https://haascnc.com/・1回目）
+  - 「Shop by Series carousel, slide 1 of 4」（https://haascnc.com/・1回目）
+  - 「VF Series」（https://haascnc.com/・1回目）
+  - 「ST Series Turning Centers」（https://haascnc.com/・1回目）
+  - 「From the Factory Floor to Formula 1」（https://www.haashenderson.com/・3回目）
+  - 「The mindset required to compete in Formula 1 is the same mindset that drives our manufacturing teams every day. Attention to detail matters. Execution matters. Teamwork matters.」（https://www.haashenderson.com/・3回目）
+  - 「VF Series」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Drill/Tap/Mill Series (DT / DM)」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Gantry Series (GM / GR)」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「VF series mills are a range of 3-axis vertical machining centers, which can be outfitted with 4th and 5th axis drives if so configured. These mills are available in different sizes, ranging from VF-1 to VF-14.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「The mini mill was introduced as a small footprint alternative to the VF series mills, featuring a smaller casting while still maintaining a 40 taper spindle.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+- お金の形：
+  - 「Maintenance and Facilities」（https://www.haashenderson.com/・3回目）
+  - 「Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.」（https://www.haashenderson.com/・3回目）
+  - 「, for $27.4 million to expand its business, planning to build 4.3 million square feet of commercial space with 2.3 million square feet intended for a $327 million manufacturing facility」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Bar Feeders」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Preventive Maintenance」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「We have an extensive inventory of service and maintenance parts on hand for quick access. In addition, our California headquarters can ship a needed replacement part to our HFO the same day it’s ordered – 99% of the time.」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Feedback」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Misc. CNC (Router, BARFEED, Rotary Table, Saws, etc.)」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「In aerospace, if applied, this integration can provide increased productivity, reduced downtime and better quality control. For instance, Haas machines can integrate with monitoring systems that monitor real time performance metrics and allow predictive maintenance and optimized production workflows.」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「Misc. - Saws, Chucks, Barfeeds, Rotary Tables, Tooling, Robots, Routers & More」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「Feedback」（https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html・3回目）
+- 売上構成：
+  - 「Up to 30% off hundreds of machines. Ready to ship now.」（https://haascnc.com/・1回目）
+  - 「Revenue」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「local "factory outlet" businesses that provide sales, service, and applications support for Haas machine tools. Introduced in 1999, with the first outlet established in」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Haas Automation: Revenue, Competitors, Alternatives」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「VP Sales and Marketing」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Revenue」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Haas_Automation・3回目）
+- 創業期と参入のしやすさ：
+  - 「Haas provides role-specific training to help employees succeed. Depending on the position, this may include hands-on training, safety programs, and team-based onboarding to ensure you are fully prepared for your role.」（https://www.haashenderson.com/・3回目）
+  - 「Haas Automation is an established manufacturing company with decades of experience. The Henderson facility is an expansion of our operations, not a startup.」（https://www.haashenderson.com/・3回目）
+  - 「The Henderson facility is being built as a modern manufacturing environment designed for efficiency, safety, and teamwork. Employees will work in a clean, organized, and professional setting focused on quality and performance.」（https://www.haashenderson.com/・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Founder」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Number of employees」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「founded Haas Automation in 1983 in」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「In August, a follow-up investigation by the ESCU suggested Haas was still indirectly providing resources to the Russian military through Suzhou Sup Bestech Machine Tools Co, a Chinese liaison that was founded two weeks after Haas formally ended operations in Russia.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「is used for evaluation of Safety.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Total Funding」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Haas_Automation・3回目）
+- 顧客名：
+  - 「There is no one-size-fits-all solution. Choose from a wide selection of pre-engineered solutions, with an emphasis on being easy, affordable, and versatile.」（https://haascnc.com/・1回目）
+  - 「Industry-leading Haas UMCs make 5-axis machining simple, affordable, and accessible to everyone, with versatile configurations for multi-sided and complex parts.」（https://haascnc.com/・1回目）
+  - 「Affordable, easy to use, and beginner friendly, these lathes deliver the precision control and flexibility of the Haas CNC system, even without G-code experience.」（https://haascnc.com/・1回目）
+  - 「Gantry Series (GM / GR)」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Wholesale Equip...」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Saudi Arabia」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Slovakia」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Hyundai-Wia」（https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/・3回目）
+  - 「Saudi Arabia」（https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html・3回目）
+  - 「Slovakia」（https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html・3回目）
+  - 「Lockheed」（https://en.wikipedia.org/wiki/Gene_Haas・3回目）
+- 検索結果の抜粋：
+  - 「Customer Success Stories - Haas Automation Inc. — Customer Success Stories - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > Testimonials」（https://haascnc.com/Community/customers/Testimonials/Customer_Success_Stories.html・3回目）
+  - 「Careers - Haas Automation Inc. — Careers - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > about > careers」（https://haascnc.com/about/careers・3回目）
+  - 「Careers at Haas Automation — Careers at Haas Automation haashenderson.com https://www.haashenderson.com」（https://www.haashenderson.com/・3回目）
+  - 「India Customer Testimonials - Haas Automation Inc. — India Customer Testimonials - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > customers > Ind...」（https://haascnc.com/Community/customers/India_Customer_Testimonials.html・3回目）
+  - 「Haas Automation - Wikipedia — Haas Automation - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Haas...」（https://en.wikipedia.org/wiki/Haas_Automation・3回目）
+  - 「Haas Automation - Overview, News & Similar companies — Haas Automation - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > haas-aut...」（https://www.zoominfo.com/c/haas-automation-inc/53054709・3回目）
+  - 「Haas Automation : Revenue , Competitors, Alternatives - Growjo — Haas Automation : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Haas_Automation」（https://growjo.com/company/Haas_Automation・3回目）
+  - 「Haas record: $1 B revenue , 14000 machines — Haas record: $1 B revenue , 14000 machines Shop Metalworking Technology https://shopmetaltech.com > machining」（https://shopmetaltech.com/machining/haas-record-1-b-revenue-14-000-machines/・3回目）
+  - 「Haas Automation , Inc.: Decision Makers, Org Chart & Contacts — Haas Automation , Inc.: Decision Makers, Org Chart & Contacts Zeliq https://www.zeliq.com > manufacturing」（https://www.zeliq.com/company/united-states/manufacturing/machinery-manufacturing/haas-automation-inc・3回目）
+  - 「Haas CNC Machine Replacement Parts — Haas CNC Machine Replacement Parts Haas Automation Inc. https://haascnc.com > owners > Haas-...」（https://haascnc.com/owners/Haas-Parts-Find-Your-Haas-Factory-Outlet.html・3回目）
+  - 「Why Haas - Haas Automation Inc. — Why Haas - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > whyhaas」（https://haascnc.com/whyhaas/whyhaas.html・3回目）
+  - 「Yes, Haas now has Fabrication Equipment . And, we're kicking ... — Yes, Haas now has Fabrication Equipment . And, we're kicking ... Facebook https://www.facebook.com > HaasAutomationInc > posts」（https://www.facebook.com/HaasAutomationInc/posts/yes-haas-now-has-fabrication-equipment-and-were-kicking-off-with-20-off-all-new-/1391682846327304/・3回目）
+- 設立：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）
+
+## Hexcel
+- 公式URL：https://www.hexcel.com（given）
+- 従業員数：Tom Gentile (Chairman and CEO)（https://en.wikipedia.org/wiki/Hexcel・3回目）
+- 従業員数：5,894 (2024)（https://en.wikipedia.org/wiki/Hexcel・3回目）
+- 売上高：1.99B 2.19B 2.37B 1.51B 1.32B（https://en.wikipedia.org/wiki/Hexcel・3回目）
+- 他社向けサービス：
+  - 「In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Innovative blade production concepts from Hexcel’s Engineered Products group have resulted in contract wins to produce sub-assemblies and even a complete main rotor blade for the Sikorsky S-76D™.」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「The unique environment of outer space places rigorous demands on the materials used for construction of military and commercial satellites. Severe temperature changes can cause ordinary materials to warp, expand, or contract depending on temperature; however, satellites are subject to relatively little risk from collision damage.」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Ken Holland, a fraternity brother of Roger, joined the company in 1948 with Paul, bringing with him a chemist’s expertise in resin and adhesive technology. That expertise quickly proved invaluable as Roger contended with the challenges of manufacturing fiberglass honeycomb for the company’s first contract with the military.」（https://www.hexcel.com/about-us/・1回目）
+  - 「Company Incorporates, Awarded First Contract」（https://www.hexcel.com/about-us/・1回目）
+  - 「Hexcel Wins New Contracts, Expands Portfolio」（https://www.hexcel.com/about-us/・1回目）
+  - 「UTC Aerospace Systems’ Aerostructures business extends its contract with Hexcel to supply advanced composites for various commercial aerospace programs has been extended through 2030.」（https://www.hexcel.com/about-us/・1回目）
+  - 「Hexcel and Safran Expand Scope of Existing Contract to include HexTow IM7 for the GE9X engine that powers the Boeing 777X」（https://www.hexcel.com/about-us/・1回目）
+  - 「In 2008, Hexcel was awarded the biggest contract in its history to supply the primary structures prepreg for the Airbus A350 XWB. Hexcel had developed a superior product combining carbon fiber and resin formulation technologies.」（https://www.hexcel.com/about-us/・1回目）
+  - 「programs and was awarded the contract by Airbus」（https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf・2回目）
+  - 「materials to warp, expand or contract depending on」（https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf・2回目）
+- 部品・技術の供給：
+  - 「Advanced Composite Materials & Solutions | Hexcel」（https://www.hexcel.com/・1回目）
+  - 「CARBON FIBER」（https://www.hexcel.com/・1回目）
+  - 「HexTow Continuous Carbon Fiber」（https://www.hexcel.com/・1回目）
+  - 「Carbon Fiber Reinforcements」（https://www.hexcel.com/・1回目）
+  - 「HexMC® Molding Composite」（https://www.hexcel.com/・1回目）
+  - 「Suppliers」（https://www.hexcel.com/・1回目）
+  - 「Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose」（https://www.hexcel.com/・1回目）
+  - 「global leader in advanced composite materials」（https://www.hexcel.com/・1回目）
+  - 「Designed for Demanding Composite」（https://www.hexcel.com/・1回目）
+  - 「Hexcel empowers engineers and manufacturers with high-performance, certification-backed composite materials. Our solutions are crafted to meet rigorous standards in both performance and delivery.」（https://www.hexcel.com/・1回目）
+  - 「Preferred Carbon Fiber Developer」（https://www.hexcel.com/・1回目）
+  - 「Hexcel is the world’s largest producer of aerospace carbon fiber and the leading supplier of carbon fiber to U.S. military programs, making it an industry leader in advanced aerospace materials.」（https://www.hexcel.com/・1回目）
+- ライセンス・ブランド：
+  - 「Skip to content」（https://www.hexcel.com/・1回目）
+  - 「Leadership」（https://www.hexcel.com/・1回目）
+  - 「Hexcel Announces Sponsorship of the USA Bobsled and Skeleton Team」（https://www.hexcel.com/・1回目）
+  - 「technology patents」（https://www.hexcel.com/・1回目）
+  - 「Skip to content」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Leadership」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「HexForce® Bias Weave fabric – a patented weaving process reducing scrap by up to 30%」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Through the CACRC qualifications, HexPly® M20 offers a harmonized product across multiple OEMs for airlines to purchase and stock for all their fleet repair needs.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Skip to content」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Leadership」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Fin Tip: Epoxy/quartz prepregs」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Tip caps」（https://www.hexcel.com/industries/defense-space/・1回目）
+- 車以外の顧客・産業：
+  - 「Commercial Aerospace」（https://www.hexcel.com/・1回目）
+  - 「Defense & Space」（https://www.hexcel.com/・1回目）
+  - 「Industrial」（https://www.hexcel.com/・1回目）
+  - 「across aerospace, defense & space, and industrial applications.」（https://www.hexcel.com/・1回目）
+  - 「Years Serving Aerospace」（https://www.hexcel.com/・1回目）
+  - 「Hexcel is the world’s largest producer of aerospace carbon fiber and the leading supplier of carbon fiber to U.S. military programs, making it an industry leader in advanced aerospace materials.」（https://www.hexcel.com/・1回目）
+  - 「Hexcel is the global leader in honeycomb manufacturing developing lightweight core material offering exceptional light weighting, stiffness, and noise and energy absorption.」（https://www.hexcel.com/・1回目）
+  - 「Our advanced materials enable lighter, stronger, and more efficient systems. Explore how our innovations transform industries like aerospace and automotive.」（https://www.hexcel.com/・1回目）
+  - 「carbon fiber is the preferred carbon fiber for the world’s most advanced aerospace and industrial composite applications.」（https://www.hexcel.com/・1回目）
+  - 「Hexcel is the world leader in honeycomb manufacturing for the commercial aerospace market.」（https://www.hexcel.com/・1回目）
+  - 「Hexcel is the leading supplier of carbon fiber, honeycomb and other composite materials for the commercial aerospace industry.」（https://www.hexcel.com/・1回目）
+  - 「From helicopters to defense aircraft to launch vehicles, Hexcel provides composites for more than 100 space and defense programs」（https://www.hexcel.com/・1回目）
+- レース・ワンメイク：
+  - 「Resin Formulations for Composites」（https://www.hexcel.com/・1回目）
+  - 「Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「HexBond® 100 Series」（https://www.hexcel.com/resources/・1回目）
+  - 「HexBond® 200 Series」（https://www.hexcel.com/resources/・1回目）
+  - 「In reinforced fiber composites, a formulated polymeric substrate.」（https://www.hexcel.com/resources/・1回目）
+  - 「March 10 marks the end of production for Redux® 775 — the first ever aerospace film adhesive, which was launched in May 1954 from a formulation initially invented in 1942.」（https://www.hexcel.com/about-us/・1回目）
+  - 「In 2008, Hexcel was awarded the biggest contract in its history to supply the primary structures prepreg for the Airbus A350 XWB. Hexcel had developed a superior product combining carbon fiber and resin formulation technologies.」（https://www.hexcel.com/about-us/・1回目）
+  - 「Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.」（https://www.hexcel.com/products/・1回目）
+  - 「Hexcel provides a range of prepregs under the HexPly® trademark for aerospace and industrial applications, using specially formulated epoxy, phenolic and BMI resin matrix systems.」（https://www.hexcel.com/industries/・1回目）
+  - 「launchers. Hexcel’s range of resin formulations for」（https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf・2回目）
+  - 「of resin formulations for composites and is the」（https://www.hexcel.com/wp-content/uploads/2026/01/AerospaceSelectorGuide-1.pdf・2回目）
+  - 「performance applications. Hexcel pioneered the development of resin formulations for composites」（https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf・2回目）
+- お金の形：
+  - 「Structural repair and strengthening with fiber-reinforced composite materials brings economic advantages in the long term thanks to the long service life and low maintenance. Practically, this is achievable only by using materials made with a robust and controlled manufacturing process, guaranteeing high quality and standards.」（https://www.hexcel.com/industries/industrial/・1回目）
+  - 「Total annual quantity and duration.」（https://www.hexcel.com/resources/・1回目）
+  - 「Total annual quantity and duration」（https://www.hexcel.com/resources/・1回目）
+  - 「Maintenance, Repair, and Operating Supplies (MRO)」（https://www.hexcel.com/about-us/・1回目）
+  - 「Wind energy is certainly a key market but HexPly XF technology is definitely not limited to wind. We have great feedback on the production benefits of HexPly XF from part manufacturers in both marine and industrial markets, too.”」（https://www.hexcel.com/hexply-xf-surfacing-technology-enabling-high-quality-paint-ready-surfaces-for-prepreg-and-infused-components/・1回目）
+  - 「“You could feel the energy at this show,” said Marc Gomez, Director, Customer Busi」（https://www.hexcel.com/hexcel-showcases-manufacturing-strength-and-customer-collaboration-at-sampe-2026/・1回目）
+  - 「reduce part count, decrease maintenance cost」（https://www.hexcel.com/wp-content/uploads/2026/01/HexcelinAerospace-1.pdf・2回目）
+  - 「Mass per unit length」（https://www.hexcel.com/wp-content/uploads/2026/01/LiquidCompositeMouldingT-1.pdf・2回目）
+  - 「Weight percentage of resin per unit area.」（https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf・2回目）
+  - 「Mass per unit volume g/cm3.」（https://www.hexcel.com/wp-content/uploads/2026/01/Prepreg_Technology-2.pdf・2回目）
+  - 「Based on recent annual-report language, earnings materials, and management commentary around FY2024, Hexcel’s near-term agenda is practical and execution-oriented.」（https://umbrex.com/resources/company-profiles/hexcel/・3回目）
+  - 「What portion of the model appears recurring or repeat-driven versus one-time」（https://umbrex.com/resources/company-profiles/hexcel/・3回目）
+- 売上構成：
+  - 「In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「technology in which a permeable cap material is individually embedded into each honeycomb cell to create an acoustic septum. This technology is a leading contributor to the reduction of the area of acceptable noise contour of the 737 MAX engine by 40% over the legacy 737 NG, without any weight penalty.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「HexForce® Bias Weave fabric – a patented weaving process reducing scrap by up to 30%」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Focuses on key-performance-driven market segments」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Focuses on key-performance-driven market segments」（https://www.hexcel.com/industries/industrial/・1回目）
+  - 「M91/IM8-GP 6K ZB Fabric 145gsm with 40% RC」（https://www.hexcel.com/resources/・1回目）
+  - 「M91/IM8-GP 6K ZB Fabric PW 145gsm with 40% RC」（https://www.hexcel.com/resources/・1回目）
+  - 「M91/IM8-GS UD Tape 145gsm with 35% RC」（https://www.hexcel.com/resources/・1回目）
+  - 「M91/IM8-GS UD Tape 145gsm with 35% RC Statistics Report」（https://www.hexcel.com/resources/・1回目）
+  - 「Sales Slump Due to Military Cutbacks」（https://www.hexcel.com/about-us/・1回目）
+  - 「The slump in sales caused by military cutbacks prompts an internal reevaluation, and William S. Powell, a partner at Booz Allen & Hamilton, is elected president. Powell exits unprofitable business lines and from 1962 through 1967 the company achieves some of its best profit-to-sales ratios to date.」（https://www.hexcel.com/about-us/・1回目）
+- 創業期と参入のしやすさ：
+  - 「Investors」（https://www.hexcel.com/・1回目）
+  - 「employees Worldwide」（https://www.hexcel.com/・1回目）
+  - 「Investors」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Investors」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Investors」（https://www.hexcel.com/industries/industrial/・1回目）
+  - 「Investors」（https://www.hexcel.com/resources/・1回目）
+  - 「Investors」（https://www.hexcel.com/news/・1回目）
+  - 「Investors」（https://www.hexcel.com/news/events/・1回目）
+  - 「Investors」（https://www.hexcel.com/about-us/・1回目）
+  - 「employees Worldwide」（https://www.hexcel.com/about-us/・1回目）
+  - 「Ken Holland, a fraternity brother of Roger, joined the company in 1948 with Paul, bringing with him a chemist’s expertise in resin and adhesive technology. That expertise quickly proved invaluable as Roger contended with the challenges of manufacturing fiberglass honeycomb for the company’s first contract with the military.」（https://www.hexcel.com/about-us/・1回目）
+  - 「Company Incorporates, Awarded First Contract」（https://www.hexcel.com/about-us/・1回目）
+- 顧客名：
+  - 「Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose」（https://www.hexcel.com/・1回目）
+  - 「At Hexcel, a culture of innovation permeates our organization and is a strategic priority. Targeting a breakthrough, aiming for what seems an unrealistic goal, or challenging some long-held paradigm are springboards to discovery and thinking “outside the box.” We embrace the curiosity to explore ideas, the passion to challenge the impossible and the conviction to succeed beyond expectations.」（https://www.hexcel.com/・1回目）
+  - 「STAMFORD, Conn.–(BUSINESS WIRE)– Hexcel Corporation (NYSE: HXL): Summary of R」（https://www.hexcel.com/・1回目）
+  - 「In new wide bodied aircraft such as the Boeing 787 and the Airbus A350 XWB composites account for over 50% of the airframe. Hexcel was proud to be awarded the contract by Airbus to supply」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「The Boeing 737 MAX engine nacelles have an acoustic inner barrel that is manufactured from Hexcel engineered core and benefits from Hexcel’s」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「More than 50% of the Boeing 787 and the Airbus A350 XWB airframes are carbon fiber composite. Hexcel is a major supplier of materials to both programs and was awarded the contract by Airbus to supply the primary structure prepreg, with Hexcel carbon fiber, for the A350 XWB program.」（https://www.hexcel.com/industries/commercial-aerospace/・1回目）
+  - 「Focuses on key-performance-driven market segments」（https://www.hexcel.com/industries/defense-space/・1回目）
+  - 「Focuses on key-performance-driven market segments」（https://www.hexcel.com/industries/industrial/・1回目）
+  - 「Audi R8 Carbon Fiber X-Brace with HexMC-i」（https://www.hexcel.com/resources/・1回目）
+  - 「Carbon Fiber Is a Strategic Capability America Cannot Afford to Lose」（https://www.hexcel.com/resources/・1回目）
+  - 「STAMFORD, Conn.–(BUSINESS WIRE)– Hexcel Corporation (NYSE: HXL): -Q4 2025 Sal」（https://www.hexcel.com/resources/・1回目）
+  - 「Hexcel manufactures honeycomb in Casa Grande, Arizona, U.S.A. and Duxford, U.K.」（https://www.hexcel.com/resources/・1回目）
+- 検索結果の抜粋：
+  - 「Hexcel : Advanced Composite Materials & Solutions — Hexcel : Advanced Composite Materials & Solutions Hexcel https://www.hexcel.com」（https://www.hexcel.com/・3回目）
+  - 「Hexcel Corporation Employer Profile - Engineering Jobs — Hexcel Corporation Employer Profile - Engineering Jobs SAMPE https://careers.nasampe.org > profile」（https://careers.nasampe.org/profile/hexcel-corporation/793476/・3回目）
+  - 「Hexcel Strategy and Business Model - Umbrex — Hexcel Strategy and Business Model - Umbrex Umbrex https://umbrex.com > hexcel」（https://umbrex.com/resources/company-profiles/hexcel/・3回目）
+  - 「Hexcel Corp Company Profile - GlobalData — Hexcel Corp Company Profile - GlobalData Global Data https://www.globaldata.com > hexcel-...」（https://www.globaldata.com/company-profile/hexcel-corp/・3回目）
+  - 「Hexcel Corporation - Company Histories — Hexcel Corporation - Company Histories Company Histories https://www.company-histories.com > ...」（https://www.company-histories.com/Hexcel-Corporation-Company-History.html・3回目）
+  - 「Financials - Quarterly Results - Hexcel Corp. - Investor Relations — Financials - Quarterly Results - Hexcel Corp. - Investor Relations Hexcel Corp. - Investor Relations https://investors.hexcel.com > financials」（https://investors.hexcel.com/investor-relations/financials/quarterly-results/default.aspx・3回目）
+  - 「Hexcel - Wikipedia — Hexcel - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Hexcel」（https://en.wikipedia.org/wiki/Hexcel・3回目）
+  - 「Hexcel Revenue 2012-2026 | HXL - Macrotrends — Hexcel Revenue 2012-2026 | HXL - Macrotrends Macrotrends https://www.macrotrends.net > revenue」（https://www.macrotrends.net/stocks/charts/HXL/hexcel/revenue・3回目）
+  - 「Hexcel's Competitors, Revenue , Number of Employees ... — Hexcel's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > hexcel」（https://www.owler.com/company/hexcel・3回目）
+  - 「Hexcel Corporation - Company Profile Report | IBISWorld — Hexcel Corporation - Company Profile Report | IBISWorld IBISWorld https://www.ibisworld.com > company」（https://www.ibisworld.com/united-states/company/hexcel-corporation/407070/・3回目）
+  - 「Hexcel Advanced Composite Materials - GracoRoberts — Hexcel Advanced Composite Materials - GracoRoberts GracoRoberts https://www.gracoroberts.com > hexcel」（https://www.gracoroberts.com/brands/hexcel/・3回目）
+  - 「Hexcel ($HXL): The Materials Bottleneck That Orchestrates ... — Hexcel ($HXL): The Materials Bottleneck That Orchestrates ... Medium https://startupsapience.medium.com > ...」（https://startupsapience.medium.com/hexcel-hxl-the-materials-bottleneck-that-orchestrates-speed-5908d655cc2b・3回目）
+- 設立：記載なし（3回確認済み：公式22頁／PDF・画像6件／外部13頁・検索6回）
+
+## Italdesign
+- 公式URL：https://www.italdesign.it（given）
+- 従業員数：Dirk Große-Loheide [ 2 ] ( chairman ) Antonio Casu ( CEO ) Fabrizio Mina ( CEO of Italdesign USA )（https://en.wikipedia.org/wiki/Italdesign_Giugiaro・3回目）
+- 従業員数：917 (2019) [ 3 ]（https://en.wikipedia.org/wiki/Italdesign_Giugiaro・3回目）
+- 他社向けサービス：
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/services/・1回目）
+  - 「Redefining exclusivity with tailor-made and turnkey vehicle production.」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Redefining exclusivity with tailor-made and turnkey vehicle production.」（https://www.italdesign.it/en/services/electrics-and-electronics/・1回目）
+  - 「Redefining exclusivity with tailor-made and turnkey vehicle production.」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「Redefining exclusivity with tailor-made and turnkey vehicle production.」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「Redefining exclusivity in vehicle production to offer you tailor-made, turnkey production for ultra-limited series vehicles.」（https://www.italdesign.it/en/services/integration-and-validation/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/projects/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/projects/brand-collaborations/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/projects/portfolio/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「We are Ideneers, engineers of ideas, crafting bespoke solutions tailored precisely to your needs. Ideneering 360 means that our work is confidential, ensuring utmost discretion for our clients.」（https://www.italdesign.it/en/news/・1回目）
+- 部品・技術の供給：
+  - 「Equipped with six milling machines and rapid prototyping technology, Italdesign ensures precision in creating both detailed components and complete models. In-house capabilities also include lighting, plexiglass, saddlery, and paintshop departments, allowing to produce demonstrators.」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Our Infotainment, Gateway & Connected Car team delivers advanced vehicle technologies that optimize entertainment, connectivity, and safety. We manage requirements, testing specifications, and seamless integration into customer systems. With a focus on cybersecurity, system diagnostics, and Over-The-Air (OTA) updates, we ensure vehicles are always connected, secure, and performing at their best.」（https://www.italdesign.it/en/services/electrics-and-electronics/・1回目）
+  - 「ADAS (Advanced Driver Assistance Systems)」（https://www.italdesign.it/en/services/electrics-and-electronics/・1回目）
+  - 「FOR MORE DETAILS DOWNLOAD THE ADDITIVE MANUFACTURING WHITEPAPER」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「Chassis」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「The Italdesign team vertically addresses vehicle development, from concept to start of production, taking into account worldwide market needs and combining design, legal, performance and cost requirements. With over 50 years of experience and advanced digital technologies, we excel as system integrators and subsystem developers for platforms, body structures, closures, bumpers, and interior trims.」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「Italdesign oversees the complete development of vehicle harnesses, collaborating closely with the entire body, electrical and electronic teams. We manage harness development, including brackets, and handle the digital mock-up (DMU) package for all electrical components. This ensures seamless integration and functionality throughout the project, from concept to production.」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「The Whole Vehicle Development team at Italdesign optimizes component interactions to enhance performance. Our workflow includes target definition, verification, validation, and final approval. We conduct internal tests and offer on-site support as needed, with real-driving tests critical for improving durability and reliability under varied conditions.」（https://www.italdesign.it/en/services/vehicle-development/・1回目）
+  - 「Equipped with six milling machines and rapid prototyping technology, Italdesign ensures precision in creating both detailed components and complete models. In-house capabilities also include lighting, plexiglass, saddlery, and paintshop departments, allowing to produce demonstrators.」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「Equipped with six milling machines and rapid prototyping technology, Italdesign ensures precision in creating both detailed components and complete models. In-house capabilities also include lighting, plexiglass, saddlery, and paintshop departments, allowing to produce demonstrators.」（https://www.italdesign.it/en/services/product-development/・1回目）
+  - 「Italdesign offers comprehensive services to ensure seamless integration and optimal performance of all electronic systems and vehicle components.」（https://www.italdesign.it/en/services/integration-and-validation/・1回目）
+  - 「Redefining exclusivity in vehicle production to offer you tailor-made, turnkey production for ultra-limited series vehicles.」（https://www.italdesign.it/en/services/integration-and-validation/・1回目）
+- ライセンス・ブランド：
+  - 「Patents (」（https://www.italdesign.it/en/・1回目）
+  - 「Brand collaborations」（https://www.italdesign.it/en/・1回目）
+  - 「IP rights」（https://www.italdesign.it/en/・1回目）
+  - 「Patents (」（https://www.italdesign.it/en/javascript・1回目）
+  - 「Brand collaborations」（https://www.italdesign.it/en/javascript・1回目）
+  - 「IP rights」（https://www.italdesign.it/en/javascript・1回目）
+  - 「Patents (」（https://www.italdesign.it/en/services/・1回目）
+  - 「Brand collaborations」（https://www.italdesign.it/en/services/・1回目）
+  - 「At Italdesign, we serve a variety of industries, providing specialized expertise to address the unique challenges and opportunities each sector presents. Our dedicated approach ensures innovative, tailored solutions that drive success and progress across multiple fields.」（https://www.italdesign.it/en/services/・1回目）
+  - 「IP rights」（https://www.italdesign.it/en/services/・1回目）
+  - 「Patents (」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Brand collaborations」（https://www.italdesign.it/en/services/design/・1回目）
+- 車以外の顧客・産業：
+  - 「Aerospace」（https://www.italdesign.it/en/・1回目）
+  - 「Robotics」（https://www.italdesign.it/en/・1回目）
+  - 「We create, develop and manufacture cutting‑edge and visionary solutions in mobility and in many industrial fields in today’s globalized market.」（https://www.italdesign.it/en/・1回目）
+  - 「Aerospace」（https://www.italdesign.it/en/javascript・1回目）
+  - 「Robotics」（https://www.italdesign.it/en/javascript・1回目）
+  - 「Aerospace」（https://www.italdesign.it/en/services/・1回目）
+  - 「Robotics」（https://www.italdesign.it/en/services/・1回目）
+  - 「Aerospace」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Robotics」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Design research is an ongoing journey of innovation and collaboration, empowering our team to deliver clients and partners visionary, inspiring concepts that not only capture but shape future trends and consumer desires.」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「Trailblazing in design, engineering, testing and validation.」（https://www.italdesign.it/en/services/design/・1回目）
+  - 「A legacy of iconic, functional industrial excellence.」（https://www.italdesign.it/en/services/design/・1回目）
+- レース・ワンメイク：
+  - 「From creativity to engineering, from pre-series production to integration and validation, Italdesign is your service company and partner.」（https://www.italdesign.it/en/・1回目）
+  - 「Pre-Series and Small Series」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「Ultra-Limited Series」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「Italdesign develops and assembles precision prototypes and mules for over 120 vehicles annually, ensuring thorough validation of design and engineering parameters. The facility also produces close-to-series dies and jigs, capable of delivering up to 1,000 dies per year, facilitating small-series production with a focus on quality and innovation in body part fabrication.」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「Redefining exclusivity in vehicle production to offer you tailor-made, turnkey production for ultra-limited series vehicles.」（https://www.italdesign.it/en/services/integration-and-validation/・1回目）
+  - 「Head of Pre-Series and Production」（https://www.italdesign.it/en/company/・1回目）
+  - 「We promote organisational formulas that favour work-life balance.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Digital tool from concept to series applications」（https://www.italdesign.it/en/services/xr-concept-lab/new-concept-lab/・1回目）
+  - 「Small Series/Prototype Dies & Jigs」（https://www.italdesign.cn/en/・3回目）
+  - 「Ultra-Limited Series Production」（https://www.italdesign.cn/en/・3回目）
+  - 「Small Series」（https://www.italdesign.cn/en/・3回目）
+  - 「Launched in 2016, Italdesign Automobili Speciali is the company’s logo that identifies the Ultra Limited Series Productions, designed, developed and built by Italdesign for enthusiasts and collectors.」（https://www.italdesign.cn/en/・3回目）
+- お金の形：
+  - 「Italdesign develops and assembles precision prototypes and mules for over 120 vehicles annually, ensuring thorough validation of design and engineering parameters. The facility also produces close-to-series dies and jigs, capable of delivering up to 1,000 dies per year, facilitating small-series production with a focus on quality and innovation in body part fabrication.」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「The goal was to enable remote manufacturer diagnostics of a charging station. A data-stream-based architecture is the solution to ingest and monitor data coming from IoT and perform predictive maintenance. The benefit consists in a prompt intervention when anomaly is detected thanks to the automatic monitoring.」（https://www.italdesign.it/en/services/software-development-and-ai/・1回目）
+  - 「The goal was how to collect warnings about unsafe conditions or events. The solution is a web app based on Atlassian Suite presenting a customized template. Thanks to the mobile app version, the service is accessible everywhere while privacy and anonymity are guaranteed. The value is promoting supervision and maintenance of work environments to avoid accidents event.」（https://www.italdesign.it/en/services/software-development-and-ai/・1回目）
+  - 「Feedback」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Receive feedback and next steps.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「An annual financial contribution to be used for the purchase of goods and services.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Have you ever wondered what the future looks like? We have, and we have encapsulated it in two words: Be Ideneers, engineers of ideas! If creativity is part of you, you feel innovative and you like to think out of the box, you are in the right place.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Italdesign Newsletter Subscription」（https://www.italdesign.cn/en/・3回目）
+  - 「Italdesign Giugiaro Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+- 売上構成：
+  - 「New segment for a multi-use single light single engine helicopter​」（https://www.italdesign.it/en/sectors/aerospace/・1回目）
+  - 「UST acquires majority stake in Italdesign」（https://www.italdesign.it/en/news/・1回目）
+  - 「UST acquires a majority stake in Italdesign to unite Italdesign’s iconic design and engineering legacy with UST’s AI, engineering, and transformation capabilities.」（https://www.ust.com/en/who-we-are/ust-newsroom/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility・3回目）
+  - 「of the majority stake in」（https://www.ust.com/en/who-we-are/ust-newsroom/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility・3回目）
+  - 「Exclusivity, elegance, iconicity: Terra is the name of the new institutional glass of Consorzio Alta Langa, designed by Italdesign and created by Collevica master glassmakers. 100% Made in Italy, Terra」（https://www.italdesign.cn/en/・3回目）
+  - 「), and Sales and Marketing (」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「+0.0% (-30)」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「0.0% YoY」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「1.6% YoY」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「Southern Europe accounts for the largest share of Italdesign Giugiaro's global workforce with approximately」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「% of Total」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「Sales and Marketing」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+- 創業期と参入のしやすさ：
+  - 「Pre-Series and Small Series」（https://www.italdesign.it/en/services/vehicle-manufacturing/・1回目）
+  - 「At Italdesign, we believe in the power of collaboration to drive innovation and create impactful design solutions. Partnering with leading brands or innovative startups across industries, we combine our expertise to envision and realize groundbreaking projects.」（https://www.italdesign.it/en/projects/brand-collaborations/・1回目）
+  - 「EMPLOYEES」（https://www.italdesign.it/en/company/・1回目）
+  - 「A team of over 1000 employees operating internationally to deliver world-class solutions.」（https://www.italdesign.it/en/company/・1回目）
+  - 「Head of Pre-Series and Production」（https://www.italdesign.it/en/company/・1回目）
+  - 「Studi Italiani Realizzazione Prototipi S.p.A., founded by Giorgetto Giugiaro and Aldo Mantovani in Moncalieri,Italy, would soon become Italdesign, marking the beginning of an adventure in the automotive world. Their first major project came with the Alfasud for Alfa Romeo, cementing Italdesign’s role as a service center for the automotive industry.」（https://www.italdesign.it/en/company/our-history/・1回目）
+  - 「Our training catalogue is constantly updated to meet the changing needs of the market and our employees.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Support for employees who choose to undertake courses of study relevant to their jobs.」（https://www.italdesign.it/en/company/life-at-italdesign/・1回目）
+  - 「Digital tool from concept to series applications」（https://www.italdesign.it/en/services/xr-concept-lab/new-concept-lab/・1回目）
+  - 「UX and HMI evaluation under realistic conditions」（https://www.italdesign.it/en/services/xr-concept-lab/new-concept-lab/・1回目）
+  - 「How to get started in Generative AI」（https://www.ust.com/en/who-we-are/ust-newsroom/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility・3回目）
+  - 「Italdesign Giugiaro Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+- 顧客名：
+  - 「Italdesign leverages Virtual and Augmented Reality to create realistic simulations that support design review, validation and presentation, enhancing understanding and accelerating decision-making.」（https://www.italdesign.it/en/services/xr-concept-lab/・1回目）
+  - 「New segment for a multi-use single light single engine helicopter​」（https://www.italdesign.it/en/sectors/aerospace/・1回目）
+  - 「Ferrari」（https://www.italdesign.it/en/projects/portfolio/・1回目）
+  - 「Nissan」（https://www.italdesign.it/en/projects/portfolio/・1回目）
+  - 「Airbus」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Aston Martin」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Bugatti」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Ferrari」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Hyundai」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Lamborghini」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Nissan」（https://www.italdesign.it/en/projects/archive/・1回目）
+  - 「Porsche」（https://www.italdesign.it/en/projects/archive/・1回目）
+- 検索結果の抜粋：
+  - 「UST and Italdesign Unite Design, Engineering , and AI to ... — UST and Italdesign Unite Design, Engineering , and AI to ... UST https://www.ust.com > ust-newsroom」（https://www.ust.com/en/who-we-are/ust-newsroom/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility・3回目）
+  - 「Italdesign | LinkedIn — Italdesign | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/italdesign-official/・3回目）
+  - 「Development Services for the Transportation Industry — Development Services for the Transportation Industry italdesign.cn https://www.italdesign.cn > ...」（https://www.italdesign.cn/en/・3回目）
+  - 「UST and Italdesign Unite Design, Engineering , and AI to ... — UST and Italdesign Unite Design, Engineering , and AI to ... PR Newswire https://www.prnewswire.com > ust-an...」（https://www.prnewswire.com/news-releases/ust-and-italdesign-unite-design-engineering-and-ai-to-shape-the-future-of-mobility-302871222.html・3回目）
+  - 「Italdesign Giugiaro - Wikipedia — Italdesign Giugiaro - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Itald...」（https://en.wikipedia.org/wiki/Italdesign_Giugiaro・3回目）
+  - 「Italdesign Giugiaro Number of Employees 2026 - Revelio Labs — Italdesign Giugiaro Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/italdesign-giugiaro/employees・3回目）
+  - 「Italdesign - Overview, News & Similar companies - ZoomInfo — Italdesign - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > italdesign」（https://www.zoominfo.com/c/italdesign/149930763・3回目）
+  - 「Italdesign's Competitors, Revenue , Number of Employees ... — Italdesign's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > italdesign」（https://www.owler.com/company/italdesign・3回目）
+  - 「Italdesign Giugiaro | Tractor & Construction Plant Wiki - Fandom — Italdesign Giugiaro | Tractor & Construction Plant Wiki - Fandom Tractor & Construction Plant Wiki https://tractors.fandom.com > wiki > I...」（https://tractors.fandom.com/wiki/Italdesign_Giugiaro・3回目）
+  - 「OEM · Italdesign — OEM · Italdesign italdesign.cn https://www.italdesign.cn > oem」（https://www.italdesign.cn/en/oem/・3回目）
+  - 「Italdesign USA: A Strategic Bridge Between Italy and Detroit — Italdesign USA: A Strategic Bridge Between Italy and Detroit PR Newswire https://www.prnewswire.com > italdes...」（https://www.prnewswire.com/news-releases/italdesign-usa-a-strategic-bridge-between-italy-and-detroit-302646914.html・3回目）
+  - 「Italdesign Wants to Work with the Big Three American ... — Italdesign Wants to Work with the Big Three American ... Car and Driver https://www.caranddriver.com > news」（https://www.caranddriver.com/news/a71320034/italdesign-united-states-expansion-details/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部16頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部16頁・検索6回）
+
+## Koenigsegg
+- 公式URL：https://www.koenigsegg.com（given）
+- 部品・技術の供給：
+  - 「Staying ahead of the curve in a very competitive e-mobility landscape in true Koenigsegg fashion, we are offering our ground-breaking components to visionary clientele. Sharing this technology enables Koenigsegg to have a positive impact on CO2 reduction.」（https://www.koenigsegg.com/・1回目）
+  - 「Engine and Powertrains」（https://www.koenigsegg.com/technology・1回目）
+  - 「High-tech composite manufacturing」（https://www.koenigsegg.com/technology・1回目）
+  - 「At Koenigsegg, we are able to fabricate intricate, hand-made metal and carbon fiber components in our own hi-tech production facilities. We also source specialist components from a network of dedicated suppliers and partners – most of which are based in Sweden.」（https://www.koenigsegg.com/about・1回目）
+  - 「Christian and Koenigsegg Automotive AB have introduced and patented multiple new technologies over the years. Among them are the ”rocket” catalytic converter, the supercharger response system and a variable geometry turbo system, to name but a few. We've even developed unique ways of using carbon fiber that make the car lighter, stronger and safer.」（https://www.koenigsegg.com/about・1回目）
+  - 「Now refurbished to suit Koenigsegg’s requirements, these facilities provide the perfect infrastructure for building high-tech Hypercars. There is ample room for the composite workshop, engine development and testing, pre- and final assembly, paint shop, research and development facilities, as well as vehicle and parts storage.」（https://www.koenigsegg.com/about・1回目）
+  - 「The Koenigsegg CCR was an evolution of the CC8S, produced between 2004 and 2006 in 14 examples. The CCR featured an upgraded body design with a larger front splitter, a rear wing, larger brakes, larger wheels and tires, plus an upgraded chassis and suspension setup. The CCR also had a more powerful, twin-supercharged engine, producing an astonishing 806 hp.」（https://www.koenigsegg.com/history・1回目）
+  - 「Koenigsegg announced a new revolution at Geneva 2015, with the launch of the all-new Koenigsegg Regera. The Regera featured three electric motors combined with a powerful twin-turbo V8 and a high-performance, ultra-light battery pack to produce over 1,500 hp. Even more amazing is that all of this power is sent directly to the rear wheels as the Regera has no gearbox.」（https://www.koenigsegg.com/history・1回目）
+  - 「Engines and Powertrains | Koenigsegg」（https://www.koenigsegg.com/technology/engines-and-powertrains・1回目）
+  - 「ENGINES AND POWERTRAINS」（https://www.koenigsegg.com/technology/engines-and-powertrains・1回目）
+  - 「2. 3D Printed Turbocharger」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「3. Aircore Hollow Carbon Fibre Wheels」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+- ライセンス・ブランド：
+  - 「After the Chip Player and Click disappointments, and amidst the general boredom of running his import/export company, Christian decided that instead of chasing after the perfect business idea, he would follow his heart. He would build his dream car.」（https://www.koenigsegg.com/about・1回目）
+  - 「Christian and Koenigsegg Automotive AB have introduced and patented multiple new technologies over the years. Among them are the ”rocket” catalytic converter, the supercharger response system and a variable geometry turbo system, to name but a few. We've even developed unique ways of using carbon fiber that make the car lighter, stronger and safer.」（https://www.koenigsegg.com/about・1回目）
+  - 「Koenigsegg moved to its present location in Ängelholm, Sweden, in 2003. The building had previously been home to the Swedish Air Force and once housed JAS 39 Gripen fighter jets.」（https://www.koenigsegg.com/about・1回目）
+  - 「In 2004, the Koenigsegg CCR eclipsed the Guinness 'Most Powerful Engine' record, previously set by the Koenigsegg CC8S in 2002. The CCR was equipped with an uprated engine, which added more than 150 hp for a total output of 806 hp.」（https://www.koenigsegg.com/history・1回目）
+  - 「Koenigsegg took the new CCR to Nardo, Italy, in February 2005 to attempt a new record. The car had been at Nardo for a week without breaking the record but the new mark was finally set on the last day, with a new top speed of 387.86 km/h recorded. The car was packed up and shipped directly from Nardo to Geneva for the 2005 Geneva Motor Show that afternoon.」（https://www.koenigsegg.com/history・1回目）
+  - 「Agera means “to take action” and there has never been a more appropriate name for a car. The Koenigsegg Agera, unveiled at the Geneva Motor Show in March 2010, was Koenigsegg taking action – moving the brand forward into bold, new territory.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Agera Final editions were based on the Koenigsegg Agera RS but offered unparalleled levels of customization. Clients could specify any equipment from the Koenigsegg options list – free of charge – and Koenigsegg also worked with the client to develop bespoke aerodynamics that will only ever be used on their specific car. It is the ultimate expression of the Agera philosophy.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Jesko Absolut was unveiled in 2020 as the fastest Koenigsegg that will ever be made. Its shockingly low drag coefficient of 0.278 Cd, combined with its aero features designed and optimised specifically for high-speed stability, make the Jesko Absolut a land-based rocket-ship determined to reach unheard-of speeds in record-setting times.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Koenigsegg Jesko was named as the 2022 Top Gear Awards Hypercar Of The Year - being noted for its outstanding aesthetics, performance, craftsmanship and technology.」（https://www.koenigsegg.com/history・1回目）
+  - 「GRIPEN ATELIER」（https://www.koenigsegg.com/history・1回目）
+  - 「The Gripen Atelier adds 10,000m2 of new space dedicated to development, design, production, offices, and showroom space, expanding Koenigsegg's total footprint in Angelholm to 30,000m2. The opening of the Atelier was also an historic day for the Swedish automotive industry, being the first new factory to be built in Sweden in 50 years.」（https://www.koenigsegg.com/history・1回目）
+  - 「By 2024, Koenigsegg had set multiple records for speed and acceleration performance, and received numerous global awards for design and innovation.」（https://www.koenigsegg.com/history・1回目）
+- 車以外の顧客・産業：
+  - 「On August 12, 1994, a 22-year-old Christian von Koenigsegg decided to follow his dream and build the world’s greatest sports car. Koenigsegg Automotive is born.」（https://www.koenigsegg.com/・1回目）
+  - 「A classic David versus Goliath narrative takes shape. It begins with a young man who had no track record of car manufacturing and little funding. But he was armed with a deep passion for ultimate performance and a dream to build the world's greatest sports car.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Koenigsegg CCX set several new speed records in 2008 with Horst von Saurma, editor of Sport Auto magazine, behind the wheel.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Gripen Atelier adds 10,000m2 of new space dedicated to development, design, production, offices, and showroom space, expanding Koenigsegg's total footprint in Angelholm to 30,000m2. The opening of the Atelier was also an historic day for the Swedish automotive industry, being the first new factory to be built in Sweden in 50 years.」（https://www.koenigsegg.com/history・1回目）
+  - 「Sotheby's Motorsport」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「Volvo Energy」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Koenigsegg manufactures exclusive super-sports cars for a select group of enthusiast customers. Space age materials and uncompromising quality both in finish and function make these cars among the world's best. They reach higher top speeds and are more powerful than any other series-produced car today.」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「These Are The Rarest Sports Cars Of The 2000s」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「A3P Biomedical」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「JBM Auto makes sheet-metal auto components, tooling and buses, including electric buses, and provides bus services. Customers are automakers and city transport bodies. Headquartered in Gurugram.」（https://multiples.vc/private-comps/koenigsegg-automotibe・3回目）
+  - 「Schulz SA is a supplier of air compressors & auto parts. It produces piston air compressors, diaphragm compressors, & screw compressor for domestic & industrial use as well as provides cast iron parts for trucks, buses, & other industrial machineries.」（https://multiples.vc/private-comps/koenigsegg-automotibe・3回目）
+  - 「Jiangsu Zenergy Battery」（https://multiples.vc/private-comps/koenigsegg-automotibe・3回目）
+- レース・ワンメイク：
+  - 「The dominance of the CCX was best demonstrated on the popular BBC motoring show, Top Gear. The CCX took the record at Top Gear’s test track in 2006 and this record remained unbeaten by any global series production cars for the next 7 years. The CCX also set a Top Gear top speed record in 2006, reaching 196 mph.」（https://www.koenigsegg.com/history・1回目）
+  - 「Koenigsegg has been in the performance hypercar business since 1994, and has been breaking records and setting new industry benchmarks in aerodynamic performance and vehicle handling ever since. Examples include our Triplex third damper first developed for the Agera series, our top-mounted rear wing first used on the One:1, and the slick 0.278 Cd employed in the design of the Jesko Absolut.」（https://www.koenigsegg.com/technology/aerodynamics-and-handling・1回目）
+  - 「KTH Formula Stu...」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Koenigsegg manufactures exclusive super-sports cars for a select group of enthusiast customers. Space age materials and uncompromising quality both in finish and function make these cars among the world's best. They reach higher top speeds and are more powerful than any other series-produced car today.」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Sadair's Spear was launched as a track-focused conclusion to the Jesko series in mid-2025. All 30 examples were sold before the public debut. The model is 35 kg lighter than the Jesko, features 25 additional horsepower, and improved aerodynamics. During 2025 it set lap records at Gotland Ring, Goodwood hillclimb, and Laguna Seca.」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「The Gemera received full EU homologation in December 2025 after passing all crash and emissions tests. The first series-production cars are in production ahead of deliveries beginning in 2026. The F10 aerodynamics package was also introduced during the year as an option with enhanced downforce and aerodynamic performance.」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「In von Koenigsegg’s airplane design, the front portion of the wing descends from the fuselage, looping seamlessly with the other wing section descending from the tail. A series of motors and rods in the wings could contort sections of the wing. The alternate section of the wing would serve as a natural brace to offer enhanced stability.」（https://carbuzz.com/christian-von-koenigsegg-airplane-patent/・3回目）
+  - 「BAIC Releases Senova D Series, a Descendant of Saab 9-5」（https://www.saabplanet.com/nevs-and-koenigsegg-form-a-strategic-partnership/・3回目）
+  - 「Formula 1」（https://robbreport.com/motors/cars/how-christian-von-koenigsegg-built-koenigsegg-1235782939/・3回目）
+- お金の形：
+  - 「Koenigsegg’s ESS gearbox received the Innovation of the Year Award for the automatic shift system in the CC850 from Top Gear at their annual prize-giving gala dinner in London.」（https://www.koenigsegg.com/history・1回目）
+  - 「The world premiere of Sadair’s Spear took place at the Gripen Atelier during the annual Koenigsegg Dealer Conference, followed by its public debut at The Aurora in Båstad, Sweden.」（https://www.koenigsegg.com/history・1回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Koenigsegg Automotive AB (publ.) has published its annual report for the 2025 fiscal year. The report shows that the company has grown its revenue, improved its margins, and posted its strongest results to date. Through investments in production infrastructure and increased vertical integration, Koenigsegg has built a platform for continued scaling.」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「The 2025 annual report demonstrates that Koenigsegg has converted the development investments of recent years into increased production capacity, higher margins, and a stronger financial result.」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「Feedback」（https://carbuzz.com/christian-von-koenigsegg-airplane-patent/・3回目）
+  - 「This transition feels like a natural evolution for a brand already steeped in rich aviation history. The current Koenigsegg production facility in Ängelholm was once the home of the Swedish Air Force’s “Ghost Squadron.”」（https://www.arabwheels.ae/blog/christian-von-koenigsegg-aircraft-design-patent/・3回目）
+  - 「the hyper car」（https://www.saabplanet.com/nevs-and-koenigsegg-form-a-strategic-partnership/・3回目）
+  - 「Feedback」（https://carbuzz.com/why-koenigsegg-can-create-crazy-technology-interview/・3回目）
+- 売上構成：
+  - 「The Koenigsegg CCX set a new performance benchmark for 0-300-0 km/h, completing the run in just 29.2 seconds. Even today, many high performance cars only reach the 300 km/h mark in such a time, let alone the braking segment.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Koenigsegg Agera R showed just how far the company had progressed in three short years, with a 0-300-0 time of just 21.19 seconds. Margins should be small at the sharp end of the performance segment, but this was a massive 8 second improvement, and far ahead of any competitor times.」（https://www.koenigsegg.com/history・1回目）
+  - 「Private Sales」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「Koenigsegg Automotive AB: Revenue, Competitors, Alternatives」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Director Sales - Americas & The U.K」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Revenue」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+- 創業期と参入のしやすさ：
+  - 「A classic David versus Goliath narrative takes shape. It begins with a young man who had no track record of car manufacturing and little funding. But he was armed with a deep passion for ultimate performance and a dream to build the world's greatest sports car.」（https://www.koenigsegg.com/history・1回目）
+  - 「In 1994, what began as a simple sketch in Microsoft Paint evolved over 30 years into a company with more than 700 employees, delivering the world’s highest-performance megacars across the globe.」（https://www.koenigsegg.com/history・1回目）
+  - 「Valuations」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「Launched with the CCR, Koenigsegg’s ‘Rocket’ catalytic converters channel exhaust gasses through a pre-cat at startup. Crucially, air flow is then directed around the pre-cat and directly into the main converter once up to temperature. Engineers reckon the system is good for a staggering 100 horsepower gain compared with a conventional catalytic converter.」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「Realising that butterfly and scissor doors often open too high, causing problems in garages with low ceilings, Koenigsegg devised a unique and relatively simple system that enables the door to open both outwards and upwards at the same time. The Dihedral Synchro-Helix mechanism is incredibly practical, as anyone lucky enough to have used it will tell you. It also looks so, so cool.」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「's total funding is」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Employees.」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Total Funding」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Valuation」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+- 顧客名：
+  - 「The world’s fastest car at the beginning of 2005 was the legendary McLaren F1, with a speed of 386.4 km/h set in 1998.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Koenigsegg CCX set a new performance benchmark for 0-300-0 km/h, completing the run in just 29.2 seconds. Even today, many high performance cars only reach the 300 km/h mark in such a time, let alone the braking segment.」（https://www.koenigsegg.com/history・1回目）
+  - 「The Koenigsegg Agera R showed just how far the company had progressed in three short years, with a 0-300-0 time of just 21.19 seconds. Margins should be small at the sharp end of the performance segment, but this was a massive 8 second improvement, and far ahead of any competitor times.」（https://www.koenigsegg.com/history・1回目）
+  - 「Some of history’s most iconic cars have been characterised by their doors, the Mercedes-Benz 300 SL ‘Gullwing’, Lamborghini Countach, and Lincoln Continental to name a few. Whether suicide, butterfly, or scissor, you could be forgiven for thinking that you’d seen it all when it comes to a car’s apertures. Step forward Mr Koenigsegg…」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「The idea of a torsion bar has been around for a long time—Ferrari incorporated the technology in its road-going 275 GTB back in 1966. But it’s the materials used and specific setup of Koenigsegg’s design, which features on the Agera RS, Regera, and Jesko, that really impresses.」（https://rmsothebys.com/stories/all/koenigsegg-s-top-10-craziest-technological-innovations・3回目）
+  - 「... cars to aid growth, and key developments in the automotive industry. ... Ford Motor Co., Koenigsegg Automotive AB, McLaren Group Ltd.,...」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「After development and testing, Aston Martin presented the vehicle at ... Koenigsegg Automotive AB released its first production the 2002...」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「CEO Christian von Koenigsegg states in his foreword that all of the company's announced future production is already sold out. At the close of 2025, the company held an order backlog of 380 vehicles in total. With demand in the hypercar segment and a vertically integrated production model, the company believes it is well positioned for continued expansion in the years ahead.」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「Schulz SA is a supplier of air compressors & auto parts. It produces piston air compressors, diaphragm compressors, & screw compressor for domestic & industrial use as well as provides cast iron parts for trucks, buses, & other industrial machineries.」（https://multiples.vc/private-comps/koenigsegg-automotibe・3回目）
+  - 「This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".」（https://www.koenigseggflorida.com/parts/order-parts/・3回目）
+  - 「AudioEye」（https://www.koenigseggflorida.com/parts/order-parts/・3回目）
+  - 「The Bugatti 100P was supposed to be the fastest plane on earth. Then World War 2 intervened and, in the end, the plane never flew.」（https://carbuzz.com/christian-von-koenigsegg-airplane-patent/・3回目）
+- 検索結果の抜粋：
+  - 「Eight engineering ideas Koenigsegg invented that the car ... — Eight engineering ideas Koenigsegg invented that the car ... AutoNext.co https://www.autonext.co > news > koe...」（https://www.autonext.co/news/koenigsegg-engineering-innovations-firsts・3回目）
+  - 「Koenigsegg's Top 10 Craziest Technological Innovations — Koenigsegg's Top 10 Craziest Technological Innovations RM Sotheby's https://rmsothebys.com > stories > ko...」（https://rmsothebys.com/stories/koenigsegg-s-top-10-craziest-technological-innovations/・3回目）
+  - 「https://koenigsegg.com/technology — https://koenigsegg.com/technology Koenigsegg Automotive AB https://koenigsegg.com > technology」（https://koenigsegg.com/technology・3回目）
+  - 「10 of Koenigsegg's coolest, most mind-boggling innovations — 10 of Koenigsegg's coolest, most mind-boggling innovations Top Gear https://www.topgear.com > best-2023」（https://www.topgear.com/car-news/best-2023/10-koenigseggs-coolest-most-mind-boggling-innovations・3回目）
+  - 「Koenigsegg Automotive AB Revenue and Competitors - Growjo — Koenigsegg Automotive AB Revenue and Competitors - Growjo Growjo https://growjo.com > company > Koe...」（https://growjo.com/company/Koenigsegg_Automotive_AB・3回目）
+  - 「Koenigsegg Reports Growth and Improved Profitability for ... — Koenigsegg Reports Growth and Improved Profitability for ... Accumeo https://www.accumeo.com > koenigse...」（https://www.accumeo.com/en/nyheter-insikter/koenigsegg-tillvaxt-och-starkt-lonsamhet-2025-borsnotering・3回目）
+  - 「Koenigsegg Automotibe Revenue , Valuation, Funding ... — Koenigsegg Automotibe Revenue , Valuation, Funding ... Multiples.vc https://multiples.vc > Companies」（https://multiples.vc/private-comps/koenigsegg-automotibe・3回目）
+  - 「Koenigsegg Automotive Number of Employees 2026 — Koenigsegg Automotive Number of Employees 2026 Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/koenigsegg-automotive/employees・3回目）
+  - 「Koenigsegg - 2026 Company Profile & Team - Tracxn — Koenigsegg - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/koenigsegg/__5f4VwxBZPfS5iIJHHzZ06ZXVwjYLy9z8cMwTL-oHU4o・3回目）
+  - 「Order Genuine OEM Parts Online - Koenigsegg Florida — Order Genuine OEM Parts Online - Koenigsegg Florida Koenigsegg Florida https://www.koenigseggflorida.com > ...」（https://www.koenigseggflorida.com/parts/order-parts/・3回目）
+  - 「What parts does koenigsegg not make? - Reddit — What parts does koenigsegg not make? - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/koenigsegg/comments/17wbz2b/what_parts_does_koenigsegg_not_make/・3回目）
+  - 「Koenigsegg Production Process Overview | PDF - Scribd — Koenigsegg Production Process Overview | PDF - Scribd Scribd https://www.scribd.com > doc > Koen...」（https://www.scribd.com/doc/234822412/Koenigsegg-Production-Process・3回目）
+- 設立：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索6回）
+- 他社向けサービス：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索6回）
+
+## Ligier Automotive
+- 公式URL：https://www.ligierautomotive.com（given）
+- 従業員数：Nicolas Clémençon（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+- 従業員数：Jacques Nicolet (President) [ 1 ] Pierre Nicolet (CEO) [ 2 ]（https://en.wikipedia.org/wiki/Ligier・3回目）
+- 他社向けサービス：
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「sportscar. In 2007 Tork was contracted by」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Determined to make something of himself, in 1960 Ligier bought a used bulldozer and pulled 18-hour days shifting earth. Before long, his business had 1000 staff and was worth millions, being a key contractor in France's construction of autoroutes. His secret? "Accept the most difficult job and do it quicker than your competitors."」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+  - 「racing specialist CD; for the body, he contracted Italian coachbuilder Frua; and for the powertrain, he sourced a」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+- 部品・技術の供給：
+  - 「Audi manufactures and sells passenger vehicles. It offers vehicles with electric, plug-in hybrid, and internal combustion powertrains, along with all-wheel drive and vehicle safety technologies. It primarily serves consumers and businesses requiring passenger vehicles. Audi was formerly known as Audi NSU Auto Union. It was founded in 1909 and is based in Ingolstadt, Germany.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「In 2012 new regulations for Le Mans Prototypes required teams to replace existing cars with new designs or alter them to meet the regulations. Onroak was created to develop a new design for the existing Pescarolo chassis as well as to pursue sales of the car to other teams seeking cars meeting the new regulations.」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Crawford Composites」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「. Its chassis was also used by the」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「"System suppliers"」（https://en.wikipedia.org/wiki/Ligier・3回目）
+  - 「Components」（https://en.wikipedia.org/wiki/Ligier・3回目）
+  - 「Ligier next set about building cars of his own – the first of them a GT. For the chassis, he hired an engineer from French」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+  - 「racing specialist CD; for the body, he contracted Italian coachbuilder Frua; and for the powertrain, he sourced a」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+- ライセンス・ブランド：
+  - 「Anticipate Competitor Strategy」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Team Management and Collaboration」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Buyer Interview Transcripts」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Animoca Brands」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Animoca Brands operates in the Web3 space, focusing on tokenization and blockchain to provide digital property rights within the digital economy. The company develops a…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Ligier Automotive vs. Animoca Brands」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Compare Ligier Automotive and Animoca Brands」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「McLaren Group operates as a brand involved in both motorsport and automotive industries. The company provides automotive engineering and is recognized for its Formula 1…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with in…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with involvement in the Ferrari Hypercar and GTE class vehicles. AF Corse has a history of achievements, including victories at the 24 Hours of Le Mans. It was founded in 1995 and is based in Piacenza, Italy.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Partnership」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Continuous investment in R&D allows our engineers to design manufacturer’s genuine spare parts at the cutting edge of technology, so that we can provide you with the very best equipment.」（https://www.ligier.lv/after-sales/genuine-manufacturers-spare-parts/・3回目）
+- 車以外の顧客・産業：
+  - 「Consumer & Retail」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Industrials」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Animoca Brands operates in the Web3 space, focusing on tokenization and blockchain to provide digital property rights within the digital economy. The company develops a…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「McLaren Group operates as a brand involved in both motorsport and automotive industries. The company provides automotive engineering and is recognized for its Formula 1…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Racing Teams is a company that provides race engineering and logistics software for the motorsport industry. Their offerings include vehicle data management, team and p…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Euclide Industrie is an industrial group focused on the design and manufacturing of mechanical assemblies, prototypes, and small series production in various sectors. T…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Alfa Romeo operates as an automotive manufacturer known for its sports cars and vehicles. It produces compact sport utility vehicles (SUVs), sedans, and high-performanc…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with in…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with involvement in the Ferrari Hypercar and GTE class vehicles. AF Corse has a history of achievements, including victories at the 24 Hours of Le Mans. It was founded in 1995 and is based in Piacenza, Italy.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Audi manufactures and sells passenger vehicles. It offers vehicles with electric, plug-in hybrid, and internal combustion powertrains, along with all-wheel drive and vehicle safety technologies. It primarily serves consumers and businesses requiring passenger vehicles. Audi was formerly known as Audi NSU Auto Union. It was founded in 1909 and is based in Ingolstadt, Germany.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Job Architecture」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「sports prototypes」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+- レース・ワンメイク：
+  - 「McLaren Group operates as a brand involved in both motorsport and automotive industries. The company provides automotive engineering and is recognized for its Formula 1…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Euclide Industrie is an industrial group focused on the design and manufacturing of mechanical assemblies, prototypes, and small series production in various sectors. T…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with in…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with involvement in the Ferrari Hypercar and GTE class vehicles. AF Corse has a history of achievements, including victories at the 24 Hours of Le Mans. It was founded in 1995 and is based in Piacenza, Italy.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「for various international series. Onroak was founded in 2012 by」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Onroak has since formed an agreement with Philippe Ligier, the son of Formula One driver」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「European Le Mans Series」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「to brand the LMP2 class variant of their new design as the Morgan LMP2,」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「while the LMP1 version retained the OAK-Pescarolo title.」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「This agreement extended to naming rights for a new LMP2 car designed and constructed entirely by Onroak in early 2014, the」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Onroak and Ligier followed the JS P2 with the JS P3 intended for the LMP3 class which debuted in 2015.」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Onroak was selected as one of the four LMP2 manufacturers for the 2017 regulations. The」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+- お金の形：
+  - 「API & Data Feeds」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Ligier Group Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Share Your Feedback」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+  - 「"Around town, the JS2 is a misery to drive, for several reasons. But it changes the moment it is shown an open road. Its steering is in all respects very nearly perfect. It corners very well, with excellent feel. It all adds up to a car of astonishing potential, and one which is a real pleasure to drive."」（https://sports.yahoo.com/articles/butcher-f1-inspiring-tale-ligier-173055600.html・3回目）
+- 売上構成：
+  - 「Salesforce」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「), and Sales and Marketing (」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「100.0%」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「+0.9% (-23)」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「0.9% YoY」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「3.8% YoY」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Western Europe accounts for the largest share of Ligier Group's global workforce with approximately」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「% of Total」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Sales and Marketing」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「After-sales」（https://www.ligier.lv/after-sales/genuine-manufacturers-spare-parts/・3回目）
+  - 「who split the design, manufacturing, and sales divisions of his」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「In 2012 new regulations for Le Mans Prototypes required teams to replace existing cars with new designs or alter them to meet the regulations. Onroak was created to develop a new design for the existing Pescarolo chassis as well as to pursue sales of the car to other teams seeking cars meeting the new regulations.」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+- 創業期と参入のしやすさ：
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with involvement in the Ferrari Hypercar and GTE class vehicles. AF Corse has a history of achievements, including victories at the 24 Hours of Le Mans. It was founded in 1995 and is based in Piacenza, Italy.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Audi manufactures and sells passenger vehicles. It offers vehicles with electric, plug-in hybrid, and internal combustion powertrains, along with all-wheel drive and vehicle safety technologies. It primarily serves consumers and businesses requiring passenger vehicles. Audi was formerly known as Audi NSU Auto Union. It was founded in 1909 and is based in Ingolstadt, Germany.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Ligier Group Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「total employees worldwide as of」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「’s total headcount has」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「from 501 employees in 2023 to 376 in 2026」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「. It is the 9th-largest by headcount among its」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「. Founded in」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Founded」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+- 顧客名：
+  - 「McLaren Group」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「McLaren Group operates as a brand involved in both motorsport and automotive industries. The company provides automotive engineering and is recognized for its Formula 1…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Ligier Automotive vs. McLaren Group」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Compare Ligier Automotive and McLaren Group」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with in…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Manthey-Racing is a specialist in high-performance GT models and a Porsche racing team. The company offers services including optimization of street vehicles, engineere…」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「AF Corse is a motorsport company and a racing partner of Ferrari, focusing on racing vehicles. The company participates in the FIA World Endurance Championship, with involvement in the Ferrari Hypercar and GTE class vehicles. AF Corse has a history of achievements, including victories at the 24 Hours of Le Mans. It was founded in 1995 and is based in Piacenza, Italy.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Toyota Gazoo Racing Europe」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Audi manufactures and sells passenger vehicles. It offers vehicles with electric, plug-in hybrid, and internal combustion powertrains, along with all-wheel drive and vehicle safety technologies. It primarily serves consumers and businesses requiring passenger vehicles. Audi was formerly known as Audi NSU Auto Union. It was founded in 1909 and is based in Ingolstadt, Germany.」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Crawford Composites」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Nissan Onroak DPi」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+  - 「Mercedes-Benz」（https://en.wikipedia.org/wiki/Ligier_Automotive・3回目）
+- 検索結果の抜粋：
+  - 「Top Ligier Automotive Alternatives, Competitors - CB Insights — Top Ligier Automotive Alternatives, Competitors - CB Insights CB Insights https://www.cbinsights.com > company」（https://www.cbinsights.com/company/ligier-automotive/alternatives-competitors・3回目）
+  - 「Bosch Engineering and Ligier Automotive establish strategic ... — Bosch Engineering and Ligier Automotive establish strategic ... Ligier Automotive https://ligierautomotive.com > news」（https://ligierautomotive.com/en/news/bosch-engineering-and-ligier-automotive-establish-strategic-development-partnership-for-high-performance-vehicles-with-a-hydrogen-engine/・3回目）
+  - 「Expertise in race car design, engineering and innovation — Expertise in race car design, engineering and innovation Ligier Automotive https://ligierautomotive.com > ...」（https://ligierautomotive.com/en/6102-2/・3回目）
+  - 「Ligier Automotive and 3DEXPERIENCE Getting Up to Speed — Ligier Automotive and 3DEXPERIENCE Getting Up to Speed TriMech Enterprise https://enterprise.trimech.com > ligier...」（https://enterprise.trimech.com/ligier-automotive-and-3dexperience-getting-up-to-speed/・3回目）
+  - 「Ligier Automotive | LinkedIn — Ligier Automotive | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/ligierautomotive/・3回目）
+  - 「Ligier Group Number of Employees 2026 - Revelio Labs — Ligier Group Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/ligier-group/employees・3回目）
+  - 「Ligier Automotive : Employee Directory | ZoomInfo.com — Ligier Automotive : Employee Directory | ZoomInfo.com ZoomInfo https://www.zoominfo.com > pic > lig...」（https://www.zoominfo.com/pic/ligier-automotive/464017045・3回目）
+  - 「Index Equality Women / Men - Ligier Automotive — Index Equality Women / Men - Ligier Automotive Ligier Automotive https://ligierautomotive.com > index-...」（https://ligierautomotive.com/en/index-equality-women-men/・3回目）
+  - 「Company - Ligier Automotive — Company - Ligier Automotive Ligier Automotive https://ligierautomotive.com > company」（https://ligierautomotive.com/en/company/・3回目）
+  - 「Ligier car spare parts — Ligier car spare parts Ligier Latvia https://www.ligier.lv > ... > After-sales」（https://www.ligier.lv/after-sales/genuine-manufacturers-spare-parts/・3回目）
+  - 「Ligier parts at Minicar- Parts — Ligier parts at Minicar- Parts minicar-parts.com https://www.minicar-parts.com > ligier」（https://www.minicar-parts.com/ligier・3回目）
+  - 「Home - Ligier Automotive — Home - Ligier Automotive Ligier Automotive https://ligierautomotive.com > ...」（https://ligierautomotive.com/en/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Lotus Engineering
+- 公式URL：https://www.lotuscars.com/en-GB/lotus-engineering（given）
+- 従業員数：Qingfeng Feng ( Director and CEO ) Alexious Lee ( Director ) Daxue Wang ( CFO )（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- 従業員数：1,385 (2021) [ 2 ]（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- 他社向けサービス：
+  - 「Lotus Engineering is an automotive engineering consultancy with a a clear advantage; not only do we design and develop engineering solutions, we also manufacture and sell our own cars to very enthusiastic customers worldwide.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「This global presence is reflected in Lotus Engineering’s consultancy business. Our clients include all the major automotive manufacturers, with newer companies from the emerging markets such as China, Russia and India forming an increasingly substantial part of our business.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Although Lotus’ cars are created for pure-bred performance, our clients often want help in other areas where our services and technologies are world leading. Lotus Engineering focuses on four core engineering competencies:」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「The automotive industry is our heartland, but we do not constrain ourselves to this arena. During our long history, our innovative engineering approach and problem-solving expertise has been used by our clients from many other industries.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Our skills are not just reserved for sports cars. We can apply the lessons we have learned from the last 60 years of engineering to any conventional car for our clients. And this is where our sensitivity to brand and character helps because we live by it with every car that carries our badge and the initials of our founder, Anthony Colin Bruce Chapman.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lotus Engineering provides comprehensive consultancy services to many of the world’s OEMs and Tier 1 suppliers. It is internationally recognised for its long-standing contribution to ground-breaking engineering and innovative vehicle development.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「is an engineering consultancy firm headquartered at the Lotus Advanced Technology Centre (LATC) located at the」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「In addition to manufacturing sportscars, the company also acts as an engineering consultancy, providing engineering development—particularly of」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「after ten laps for failing to maintain a competitive pace, Lotus was released from its contract and did not participate in future seasons.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「of Lotus Cars, which provides engineering consultancy to third-party companies primarily in the automotive industry. As well as」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Lotus is a women-owned, data driven, and client-centered boutique engineering and sustainability consulting firm.」（https://www.lotussustainability.com/who-we-are・3回目）
+  - 「OPERATIONS CONTRACTOR」（https://www.lotussustainability.com/who-we-are・3回目）
+- 部品・技術の供給：
+  - 「Eletre X is the first vehicle built on Lotus' proprietary X-Hybrid architecture, the first technology of its kind to come to market in Europe. It plays a key role in Lotus' Focus 2030 strategy, as part of its multi-powertrain approach built around the customer.」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「Lotus becomes one integrated global business under a single corporate structure.」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「We can tackle projects within each individual area or combine them to give us an unmatched ability to deliver anything from a component or system to a complete powertrain solution or whole vehicle programme. It is what we do.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lotus Lightweight Structures」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「based at Worcester in the UK manufactures low volume lightweight components.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「From creating the template for the modern Formula 1 car to spearheading 4-valve technology, from pioneering active suspension to bringing bonded aluminium structures to vehicle production, Lotus has thrust breakthrough after breakthrough into the automotive arena.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「A series hybrid technology demonstrator, showcasing a range extended electric powertrain, active sound technologies and enhanced user involvement.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lotus Engineering provides comprehensive consultancy services to many of the world’s OEMs and Tier 1 suppliers. It is internationally recognised for its long-standing contribution to ground-breaking engineering and innovative vehicle development.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「The three core pillars of its expertise and its commercial offering are Platforms, Control Systems and Technical Services, which includes intelligent design, product concept development, attribute development, advanced engineering and even whole-vehicle manufacturing.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Lotus has four unique vehicle platforms, three of which are fully electric, plus the chassis on which the petrol-powered Emira is built. In addition, what Lotus Engineering calls ‘legacy architectures’ – on which the Elise, Exige and Evora were built until last year – are also available.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「The three fully electric architectures available means Lotus Engineering can support development of vehicles across a range of segments. There is also technical flexibility in the architectures themselves, and how they, and the integrated components, can be adapted to suit clients’ needs.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「racing from 1958 to 1994. The Lotus Group of Companies was formed in 1959. This was composed of Lotus Cars Limited and Lotus Components Limited, which focused on road cars and customer competition-car production, respectively. Lotus Components Limited became Lotus Racing Limited in 1971, but the newly renamed entity ceased operation that same year.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- ライセンス・ブランド：
+  - 「Ownership」（https://www.lotuscars.com/en-GB・1回目）
+  - 「MERCHANDISE」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Lotus today introduces the Eletre X, a new hybrid variant of its Hyper-SUV and the first vehicle built on the brand’s proprietary X-Hybrid architecture.」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「Callipers」（https://www.lotuscars.com/en/press/models/emira・1回目）
+  - 「On track, Lotus has a rich history across many four-wheeled disciplines, while in Formula 1, Lotus has competed in more than 500 Grand Prix, with 81 race victories, seven manufacturer’s championships and six drivers’ championships.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Our skills are not just reserved for sports cars. We can apply the lessons we have learned from the last 60 years of engineering to any conventional car for our clients. And this is where our sensitivity to brand and character helps because we live by it with every car that carries our badge and the initials of our founder, Anthony Colin Bruce Chapman.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Manage subscriptions」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Skip to content」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「PR, Brand Journalism, Digital Marketing, Content Creation」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Although platform-sharing is a common practice within global OEMs with multiple brands, Lotus Engineering provides solutions to third parties with both low and higher volume requirements. An added benefit is access to Lotus’ full suite of product development services, including manufacturing.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Kahn Media Releases Innovative AI Visibility Engine To Help Brands Stay Ahead of Rapid Shifts in How Consumers Gather Information」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Luxury Lifestyle」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+- 車以外の顧客・産業：
+  - 「420 SPORT」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Eletre X is the first vehicle built on Lotus' proprietary X-Hybrid architecture, the first technology of its kind to come to market in Europe. It plays a key role in Lotus' Focus 2030 strategy, as part of its multi-powertrain approach built around the customer.」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「Lotus today introduces the Eletre X, a new hybrid variant of its Hyper-SUV and the first vehicle built on the brand’s proprietary X-Hybrid architecture.」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「Lotus is a truly global business. We sell our sports cars in 40 countries around the world and they areengineered to meet the many different market and legislative requirements that each country demands.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lightweight Architectures」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「The automotive industry is our heartland, but we do not constrain ourselves to this arena. During our long history, our innovative engineering approach and problem-solving expertise has been used by our clients from many other industries.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lotus was founded by Colin Chapman who built his first car the Mark 1 in 1948 and founded the Lotus Engineering Company in 1952. Many other cars soon followed, including the seminal Lotus 7 of 1957, the essence of which still forms the basis of many lightweight, dynamic handling sports cars today.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Since then, Lotus has created some of the world’s most iconic sports cars; each and every one has reflected his philosophy of performance through lightweight.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Our skills are not just reserved for sports cars. We can apply the lessons we have learned from the last 60 years of engineering to any conventional car for our clients. And this is where our sensitivity to brand and character helps because we live by it with every car that carries our badge and the initials of our founder, Anthony Colin Bruce Chapman.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「The Platforms pillar is very simple to explain; it’s the commercialisation of Lotus’ vehicle architectures, so other businesses can develop their own cars through an accelerated timescale and with reduced investment.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Lotus has four unique vehicle platforms, three of which are fully electric, plus the chassis on which the petrol-powered Emira is built. In addition, what Lotus Engineering calls ‘legacy architectures’ – on which the Elise, Exige and Evora were built until last year – are also available.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「The three fully electric architectures available means Lotus Engineering can support development of vehicles across a range of segments. There is also technical flexibility in the architectures themselves, and how they, and the integrated components, can be adapted to suit clients’ needs.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+- レース・ワンメイク：
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/news・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/models/eletre・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/models/emeya・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/models/emira・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/models/evija・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/galleries/eletre・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/galleries/emeya・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/galleries/emira・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/galleries/evija・1回目）
+  - 「Heritage race cars」（https://www.lotuscars.com/en/press/galleries/theory-1・1回目）
+  - 「On track, Lotus has a rich history across many four-wheeled disciplines, while in Formula 1, Lotus has competed in more than 500 Grand Prix, with 81 race victories, seven manufacturer’s championships and six drivers’ championships.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+- お金の形：
+  - 「On the road price £86,305.00, Customer Deposit £22,463.00, Total Amount of Credit £63,842.00, Duration of Agreements 49 Months, 48 monthly payments £699.00, Purchase Fee £0.00, Optional final Payment £30,290.00, Total Amount Payable £86,305.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「On the road price £93,955.00, Customer Deposit £26,049.00, Total Amount of Credit £67,906.00, Duration of Agreements 49 Months, 48 monthly payments £699.00, Purchase Fee £0.00, Optional final Payment £34,354.00, Total Amount Payable £93,955.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「On the road price £86,305.00, Customer Deposit £24,013.00, Total Amount of Credit £62,292.00, Duration of Agreements 49 Months, 48 monthly payments £749.00, Purchase Fee £0.00, Optional final Payment £26,340.00, Total Amount Payable £86,305.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Manage subscriptions」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「-designed Turbo Esprit for the first time. American sales began to quickly jump into six figures annually.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Annual Report and Financial Statements for the year ended 31 December 2021」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「First F1 car to put the spring and damper unit inboard for improved aerodynamics.」（https://www.lotusengineering.com/lotus-engineering-history/・3回目）
+- 売上構成：
+  - 「Eletre 600 is available from £699 per month, based on a customer deposit of £22,463 & optional final payment with 0% APR」（https://www.lotuscars.com/en-GB・1回目）
+  - 「On the road price £86,305.00, Customer Deposit £22,463.00, Total Amount of Credit £63,842.00, Duration of Agreements 49 Months, 48 monthly payments £699.00, Purchase Fee £0.00, Optional final Payment £30,290.00, Total Amount Payable £86,305.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Emira Turbo SE is available from £699 per month, based on a customer deposit of £26,049 & optional final payment with 0% APR.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「On the road price £93,955.00, Customer Deposit £26,049.00, Total Amount of Credit £67,906.00, Duration of Agreements 49 Months, 48 monthly payments £699.00, Purchase Fee £0.00, Optional final Payment £34,354.00, Total Amount Payable £93,955.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Emeya 600 is available from £749 per month, based on a customer deposit of £24,013 & optional final payment with 0% APR」（https://www.lotuscars.com/en-GB・1回目）
+  - 「On the road price £86,305.00, Customer Deposit £24,013.00, Total Amount of Credit £62,292.00, Duration of Agreements 49 Months, 48 monthly payments £749.00, Purchase Fee £0.00, Optional final Payment £26,340.00, Total Amount Payable £86,305.00, APR 0.0%, Interest Rate (Fixed) 0.00%.」（https://www.lotuscars.com/en-GB・1回目）
+  - 「Platforms is an area where Lotus Engineering has significant and high-profile experience, for example, the Opel Speedster / Vauxhall VX220 launched by General Motors’ European divisions in 2000.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「The three fully electric architectures available means Lotus Engineering can support development of vehicles across a range of segments. There is also technical flexibility in the architectures themselves, and how they, and the integrated components, can be adapted to suit clients’ needs.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「is either the parent company of or affiliated with the above. In 2017, Geely Holding Group, one of the fastest growing automotive group in the world, acquired a 51% stake in Group Lotus. The other 49% is owned by Etika Automotive, a Malaysian conglomerate.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Revenue」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「monocoque fitted with built-in steel pickup points for mounting major components, Lotus found critical and sales success in the 1960s with the Lotus Elan. This two-seater was later developed to two-plus-two form (Elan +2S). Lotus was notable for its use of fibreglass bodies, backbone chassis and overhead camshaft engines, initially supplied by」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「combined with the virtual collapse of sales in the American market and limited development of the model range.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- 創業期と参入のしやすさ：
+  - 「Lotus was founded by Colin Chapman who built his first car the Mark 1 in 1948 and founded the Lotus Engineering Company in 1952. Many other cars soon followed, including the seminal Lotus 7 of 1957, the essence of which still forms the basis of many lightweight, dynamic handling sports cars today.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Our skills are not just reserved for sports cars. We can apply the lessons we have learned from the last 60 years of engineering to any conventional car for our clients. And this is where our sensitivity to brand and character helps because we live by it with every car that carries our badge and the initials of our founder, Anthony Colin Bruce Chapman.」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「KAHN MEDIA FOUNDER DEBUTS FIRST BOOK, “THE NEW RULES OF THE ROAD: HOW TO NAVIGATE THE RAPIDLY CHANGING MARKETING LANDSCAPE”」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Founder」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Number of employees」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Lotus was founded by」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「but had earlier origins in 1948 when Chapman built his first trials car in a garage.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「In its early days, Lotus sold cars aimed at private racers and trialists. Its early road cars could be bought as」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「, the founder of」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Wickins negotiated with Inland Revenue and recruited new investors:」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「by 1985 the British investors recognised that they lacked the capital to fund production and sought to find a buyer.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- 顧客名：
+  - 「The three fully electric architectures available means Lotus Engineering can support development of vehicles across a range of segments. There is also technical flexibility in the architectures themselves, and how they, and the integrated components, can be adapted to suit clients’ needs.」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「McLaren」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Stellantis」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Youngman」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「but later replaced by Lotus-Ford units (」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「block, Lotus head and twin-cam valve gear). Lotus also worked with Ford on the」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「engine, later upgraded to the Lotus-Ford twin-cam unit as used in the Elan.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Toyota」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Toyota Supra」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Toyota Celica XX」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「. Using drivetrain and other components built by Toyota enabled Lotus to sell the Excel for £1,109 less than the outgoing Eclat.」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+  - 「Ferrari」（https://en.wikipedia.org/wiki/Lotus_Cars・3回目）
+- 検索結果の抜粋：
+  - 「Lotus Engineering - proActive Magazine — Lotus Engineering - proActive Magazine WordPress.com https://lotusproactive.wordpress.com > ...」（https://lotusproactive.wordpress.com/about-us/・3回目）
+  - 「Lotus Engineering | LinkedIn — Lotus Engineering | LinkedIn LinkedIn https://uk.linkedin.com > showcase」（https://uk.linkedin.com/showcase/lotusengineering/・3回目）
+  - 「Lotus Engineering : The Innovators #1 - Kahn Media — Lotus Engineering : The Innovators #1 - Kahn Media Kahn Media https://kahnmedia.com > lotus-engine...」（https://kahnmedia.com/lotus-engineering-the-innovators-1/・3回目）
+  - 「Who We Are — Lotus Engineering & Sustainability — Who We Are — Lotus Engineering & Sustainability Lotus Engineering & Sustainability https://www.lotussustainability.com > ...」（https://www.lotussustainability.com/who-we-are・3回目）
+  - 「What do they do at the Lotus Engineering facility in Ann Arbor? — What do they do at the Lotus Engineering facility in Ann Arbor? lotustalk.com https://www.lotustalk.com > threads」（https://www.lotustalk.com/threads/what-do-they-do-at-the-lotus-engineering-facility-in-ann-arbor.27330/・3回目）
+  - 「Lotus Engineering to Develop Innovative Microsports Cars for ... — Lotus Engineering to Develop Innovative Microsports Cars for ... The Auto Channel https://www.theautochannel.com > 20...」（https://www.theautochannel.com/news/2007/01/03/032805.html・3回目）
+  - 「Lotus Engineering History — Lotus Engineering History Lotus Engineering https://www.lotusengineering.com > l...」（https://www.lotusengineering.com/lotus-engineering-history/・3回目）
+  - 「Lotus Engineering : The Revival - Ferdinand — Lotus Engineering : The Revival - Ferdinand ferdinandmagazine.com https://ferdinandmagazine.com > lotu...」（https://ferdinandmagazine.com/lotus-engineering-revival・3回目）
+- 設立：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式12頁／PDF・画像0件／外部18頁・検索6回）
+
+## McLaren Applied
+- 公式URL：https://www.mclarenapplied.com（given）
+- 従業員数：Paul Walsh (executive chairman) [ 2 ]（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+- 従業員数：2,627 [ 3 ] (2024)（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+- 従業員数：Nick Fry (Non-Exec Chairman)（https://en.wikipedia.org/wiki/Motion_Applied・3回目）
+- 他社向けサービス：
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/・1回目）
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/・1回目）
+  - 「Motion Applied is a JOSCAR-registered supplier, demonstrating our commitment to the standards of assurance, compliance and governance expected across the UK defence sector. Our registration ensures that prime contractors and defence procurement teams can access up-to-date supplier information as part of their sourcing and onboarding processes.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/about/our-history/・1回目）
+  - 「Alongside his role at Motion Applied Nick was the founder of Stonehaven Partners which provides commercial advice and consulting services to a variety of automotive and high performance sectors.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Before joining Motion Applied, Fred spent several years honing his skills as a litigator, representing clients in complex disputes. He later transitioned in-house at a global pharmaceutical company, where he advised on, amongst other things, international commercial contracts, compliance frameworks, and licensing arrangements.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Before joining Motion Applied, Matt spent 14 years working all over the world for a multi-national defence contractor, and prior to that he spent 3 years working in IT in the Finance sector whilst based in Brisbane, Australia. Matt holds a Batchelor’s degree in Computer Science, and a variety of industry certifications.a」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/news/・1回目）
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/news?tag=FLEET%20CONNECT・1回目）
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/news?tag=EDGE・1回目）
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/news?tag=Transport・1回目）
+  - 「Motion Applied secures APAC contract with Transport for New South Wales」（https://www.mclarenapplied.com/news?tag=Connectivity・1回目）
+- 部品・技術の供給：
+  - 「TAG Electronic Systems」（https://www.mclarenapplied.com/・1回目）
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Electronic Systems」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Electronic Systems and McLaren Applied Technologies merge to take McLaren's technology to market.」（https://www.mclarenapplied.com/・1回目）
+  - 「From our early work on an FAA certified FADEC and battery management systems to today’s electrification and vehicle control technologies, Motion Applied has evolved alongside the aerospace sector, delivering cutting-edge solutions to a rapidly advancing industry.」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「Defence Technology Solutions | Mission-Critical Systems | Motion Applied - Motion Applied Limited」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Headquartered in Surrey, Motion Applied provides sovereign UK capability in electrification, connectivity and control systems.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Control Systems - Mission-critical control for complex platforms.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Motion Applied is a JOSCAR-registered supplier, demonstrating our commitment to the standards of assurance, compliance and governance expected across the UK defence sector. Our registration ensures that prime contractors and defence procurement teams can access up-to-date supplier information as part of their sourcing and onboarding processes.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Motion Applied is proud to be a member of ADS, the UK's leading trade association for the aerospace, defence, security and space sectors, supporting collaboration, innovation and engagement across the defence supply chain.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「TAG Electronic Systems」（https://www.mclarenapplied.com/about/our-history/・1回目）
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/about/our-history/・1回目）
+- ライセンス・ブランド：
+  - 「Brands」（https://www.mclarenapplied.com/・1回目）
+  - 「Senior Leadership Team」（https://www.mclarenapplied.com/・1回目）
+  - 「Our first rebrand - and a new home」（https://www.mclarenapplied.com/・1回目）
+  - 「Conditions of licence of software」（https://www.mclarenapplied.com/・1回目）
+  - 「Brands」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「Senior Leadership Team」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「With two decades of experience and active partnerships across the sector, our technology has supported certification processes and mission-critical applications - demonstrating our commitment to safety, precision, and progress.」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「Conditions of licence of software」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「Brands」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Senior Leadership Team」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Motion Applied is proud to be a member of ADS, the UK's leading trade association for the aerospace, defence, security and space sectors, supporting collaboration, innovation and engagement across the defence supply chain.」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Conditions of licence of software」（https://www.mclarenapplied.com/markets/defence/・1回目）
+- 車以外の顧客・産業：
+  - 「Aerospace」（https://www.mclarenapplied.com/・1回目）
+  - 「Defence」（https://www.mclarenapplied.com/・1回目）
+  - 「Marine」（https://www.mclarenapplied.com/・1回目）
+  - 「Motorsport」（https://www.mclarenapplied.com/・1回目）
+  - 「Transport」（https://www.mclarenapplied.com/・1回目）
+  - 「We support aerospace innovators by enabling them to meet the highest standards of performance, safety, and reliability - driving forward the future of electrified flight.」（https://www.mclarenapplied.com/・1回目）
+  - 「We are bringing our proven automotive and motorsport technology into the marine market to accelerate the transition to cleaner oceans.」（https://www.mclarenapplied.com/・1回目）
+  - 「Motorsport is at our very core. For over three decades we have set the standard in high-performance motorsport solutions for the world's most prestigious series.」（https://www.mclarenapplied.com/・1回目）
+  - 「We have redefined the limits of connectivity performance to build the first 5G edge connected mobility platform for public transport and fleet operators.」（https://www.mclarenapplied.com/・1回目）
+  - 「As the global leader in motorsport electronics and software with」（https://www.mclarenapplied.com/・1回目）
+  - 「, we know how to help our customers deliver results and bring F1-derived technology to other industries.」（https://www.mclarenapplied.com/・1回目）
+  - 「Future ECU Architecture」（https://www.mclarenapplied.com/・1回目）
+- レース・ワンメイク：
+  - 「Motorsport is at our very core. For over three decades we have set the standard in high-performance motorsport solutions for the world's most prestigious series.」（https://www.mclarenapplied.com/・1回目）
+  - 「over 35 years of Formula One heritage and pedigree」（https://www.mclarenapplied.com/・1回目）
+  - 「Our motorsport heritage gives us a unique insight into efficiency and optimisation. We provide solutions to motorsport series that help them become more sustainable and efficient, including driving the transition to carbon-neutral and the adoption of electrification.」（https://www.mclarenapplied.com/・1回目）
+  - 「Richard has been making significant contributions to Motorsport since 1999, accumulating ten F1 World Constructors Championships. He has lent his expertise to teams such as Red Bull Racing and Renault F1, and most recently, he has served as the Head of Research and Development at Mercedes AMG F1.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Freedom 250: Celebrating America, IndyCar and a partnership built on performance」（https://www.mclarenapplied.com/news/・1回目）
+  - 「Freedom 250: Celebrating America, IndyCar and a partnership built on performance」（https://www.mclarenapplied.com/news?tag=TAG・1回目）
+  - 「Freedom 250: Celebrating America, IndyCar and a partnership built on performance」（https://www.mclarenapplied.com/news?tag=Motorsport・1回目）
+  - 「Today's leading race series are generating more data than ever before, running increasingly sophisticated software applications and demanding faster engineering decisions. As a result, the next generation of motorsport control systems is shifting from dedicated hardware platforms to software-defined architectures capable of supporting a much wider range of functions.」（https://www.mclarenapplied.com/news/future-ecu-architecture/・1回目）
+  - 「In Formula 1, there is an increasing need for secure, partitioned real time containers capable of hosting multiple independently protected applications on the same device. This allows stake holders to isolate software-hardware functions, protect intellectual property and manage access to critical systems without impacting functional safety or real-time performance.」（https://www.mclarenapplied.com/news/future-ecu-architecture/・1回目）
+  - 「Freedom 250: Celebrating America, IndyCar and a partnership built on performance」（https://www.mclarenapplied.com/news/future-ecu-architecture/・1回目）
+  - 「Freedom 250: Celebrating America, IndyCar and a partnership built on performance」（https://www.mclarenapplied.com/news・1回目）
+  - 「Formula 1 and electric vehicle equipment expert, Motion Applied, chosen to develop the Cavorite X7's motor drive inverter and to be a key partner through the aircraft's certification process.」（https://www.mclarenapplied.com/news/horizon-aircraft-partners-with-motion-applied/・1回目）
+- お金の形：
+  - 「The feedback from teachers was fantastic:」（https://www.mclarenapplied.com/news/inspiring-the-next-generation-of-engineers-at-brooklands/・1回目）
+  - 「"McLaren Group Limited Annual Report and Financial Statements"」（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+  - 「Mclaren Applied Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/mclaren-applied/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/mclaren-applied/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/mclaren-applied/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/mclaren-applied/employees・3回目）
+  - 「McLaren Automotive: annual turnover 2012-2018 | Statista」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+  - 「Global annual CO₂ emissions」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+  - 「Annual turnover of McLaren Automotive from 2012 to 2018 (in million GBP)」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+  - 「McLaren Automotive: annual turnover 2012-2018」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+  - 「Annual sales volume of McLaren Automotive from 2012 to 2018」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+  - 「Annual operating profit/loss of McLaren Automotive from 2013 to 2018 (in million GBP)」（https://www.statista.com/statistics/699596/mclaren-automotive-revenue/?srsltid=AYCX9vKQJnU1aqaXLkAZDvPoVASIFbLBkn9vD065zC_qiCwr9alKlOdq・3回目）
+- 売上構成：
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/markets/aerospace/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/markets/defence/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/about/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/about/careers/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/about/our-history/・1回目）
+  - 「As Chief Executive Officer at Motion Applied, Samir has responsibility for our Business Units, spanning all aspects of their operations including Sales, Marketing, Product Management, Engineering, and Manufacturing.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/news/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/news?tag=STEM・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/news/inspiring-the-next-generation-of-engineers-at-brooklands/・1回目）
+  - 「Sales terms and conditions」（https://www.mclarenapplied.com/news?tag=ATLAS・1回目）
+- 創業期と参入のしやすさ：
+  - 「Alongside his role at Motion Applied Nick was the founder of Stonehaven Partners which provides commercial advice and consulting services to a variety of automotive and high performance sectors.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Pablo is a mobility tech and innovation leader with twelve years of experience across Europe. He has been a leader of business strategies for 20+ transport organisations and led 10+ innovation projects across Europe. He also co-founded two start-ups in the field of Smart Mobility.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「He joined Motion Applied in 2020 from HS2, where he managed a multi-million innovation portfolio and set up the first public/private accelerator for high-speed rail start-ups worldwide. Pablo has a background in Civil Engineering and Data Science and speaks four languages.」（https://www.mclarenapplied.com/about/senior-leadership-team/・1回目）
+  - 「Today's leading race series are generating more data than ever before, running increasingly sophisticated software applications and demanding faster engineering decisions. As a result, the next generation of motorsport control systems is shifting from dedicated hardware platforms to software-defined architectures capable of supporting a much wider range of functions.」（https://www.mclarenapplied.com/news/future-ecu-architecture/・1回目）
+  - 「Motion Applied has been selected as preferred supplier by Transport for New South Wales (TfNSW) to equip regional trains with passenger connectivity, marking the company’s first contract win in the Asia-Pacific region.」（https://www.mclarenapplied.com/news/motion-applied-secures-apac-contract-with-transport-for-new-south-wales/・1回目）
+  - 「This is Motion Applied’s first contract in Australia, and its first with one of the largest rail operators in APAC. It extends a track record built in the UK and Europe, most recently with GWR’s Superfast Wi-Fi trial, into a new region and a new type of operating environment: long-distance regional and interstate rail, where reliable connectivity depends on covering vast, often remote, distances.」（https://www.mclarenapplied.com/news/motion-applied-secures-apac-contract-with-transport-for-new-south-wales/・1回目）
+  - 「Connected Intelligence, based in Woking (UK), has around 45 employees. IA Global Capital is acting as financial advisor to Motion Applied on this transaction.」（https://www.mclarenapplied.com/news/motion-applieds-connected-intelligence-business-to-be-sold-to-huberplussuhner/・1回目）
+  - 「In July 2025, McLaren Applied became Motion Applied, having previously spun out of McLaren Group in 2021. Launching as an independent Tier One technology provider, Motion Applied is committed to setting new standards in precision, reliability, and innovation in a variety of new industries with a key focus on electrification, motorsport and connectivity.」（https://www.mclarenapplied.com/news/horizon-aircraft-partners-with-motion-applied/・1回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+  - 「Number of employees」（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+  - 「The group was founded by」（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+  - 「McLaren originally entered Formula One in 1966 under its founder Bruce McLaren. However, in 1970 he died in a crash. The team was saved by」（https://en.wikipedia.org/wiki/McLaren_Group・3回目）
+- 顧客名：
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Electronic Systems」（https://www.mclarenapplied.com/・1回目）
+  - 「We were the first to move into the new McLaren Technology Centre, while it was still being finished!」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Applied Technologies」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren's two technology companies merge to form McLaren Applied Technologies」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Electronic Systems and McLaren Applied Technologies merge to take McLaren's technology to market.」（https://www.mclarenapplied.com/・1回目）
+  - 「McLaren Applied」（https://www.mclarenapplied.com/・1回目）
+  - 「Greybull’s investment supports the McLaren Applied's significant potential and growth plans.」（https://www.mclarenapplied.com/・1回目）
+  - 「Greybull acquires McLaren Applied from the McLaren Group.」（https://www.mclarenapplied.com/・1回目）
+  - 「Greybull’s investment supports the McLaren Applied's significant potential and growth plans」（https://www.mclarenapplied.com/・1回目）
+  - 「Our first large contract was to supply the Mercedes Benz Group C sports car, Michael Schumacher's pre-F1 car.」（https://www.mclarenapplied.com/about/our-history/・1回目）
+  - 「McLaren Electronic Systems」（https://www.mclarenapplied.com/about/our-history/・1回目）
+- 検索結果の抜粋：
+  - 「Motion Applied Portal — Motion Applied Portal Motion Applied Portal https://portal.mclarenapplied.com」（https://portal.mclarenapplied.com/・3回目）
+  - 「McLaren Applied joins forces with E1 as the championship's ... — McLaren Applied joins forces with E1 as the championship's ... MOTORSPORT INDUSTRY ASSOCIATION https://the-mia.com > news > McLare...」（https://the-mia.com/news/628734/McLaren-Applied-joins-forces-with-E1-as-the-championships-official-data-viewing-software-supplier.htm・3回目）
+  - 「Mclaren Applied Number of Employees 2026 - Revelio Labs — Mclaren Applied Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/mclaren-applied/employees・3回目）
+  - 「McLaren Applied drives EV tech with racing‑grade reliability — McLaren Applied drives EV tech with racing‑grade reliability The Manufacturer https://www.themanufacturer.com > c...」（https://www.themanufacturer.com/articles/charging-ahead-how-mclaren-applied-is-leading-the-way-in-the-electrification-race/・3回目）
+  - 「McLaren Applied Products | Telemetry, control & analytics ... — McLaren Applied Products | Telemetry, control & analytics ... Unmanned Systems Technology https://www.unmannedsystemstechnology.com > ...」（https://www.unmannedsystemstechnology.com/company/aviorace/mclaren-applied-products/・3回目）
+  - 「How McLaren Applied transforms supercars into electric ... — How McLaren Applied transforms supercars into electric ... STMicroelectronics https://www.st.com > st_com > about」（https://www.st.com/content/st_com/en/about/customer-success-stories/how-mclaren-applied-transforms-supercars-into-electric-powerhouses.html・3回目）
+  - 「McLaren Applied becomes Motion Applied — McLaren Applied becomes Motion Applied MOTORSPORT INDUSTRY ASSOCIATION https://the-mia.com > news > McLare...」（https://the-mia.com/news/707813/McLaren-Applied-becomes-Motion-Applied.htm・3回目）
+  - 「McLaren Applied Becomes Motion Applied | A New Era of ... — McLaren Applied Becomes Motion Applied | A New Era of ... Motion Applied https://www.motionapplied.com > news」（https://www.motionapplied.com/news/mclaren-applied-becomes-motion-applied/・3回目）
+  - 「FIA extends tech partnership with McLaren Applied until 2030 — FIA extends tech partnership with McLaren Applied until 2030 BlackBook Motorsport https://www.blackbookmotorsport.com > ...」（https://www.blackbookmotorsport.com/news/fia-f1-partnership-mclaren-applied-standard-electronic-control-unit-2030/・3回目）
+  - 「Future Grand Prix | McLaren Applied Technologies - YouTube — Future Grand Prix | McLaren Applied Technologies - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=JgZGZcb3Zyg・3回目）
+  - 「McLaren Applied's ATLAS software adds powerful new ... — McLaren Applied's ATLAS software adds powerful new ... PR Newswire https://www.prnewswire.com > mclar...」（https://www.prnewswire.com/news-releases/mclaren-applieds-atlas-software-adds-powerful-new-analytics-capabilities-with-kx-partnership-301890348.html・3回目）
+  - 「McLaren Applied secures UK government funding for 18 ... — McLaren Applied secures UK government funding for 18 ... BlackBook Motorsport https://www.blackbookmotorsport.com > ...」（https://www.blackbookmotorsport.com/news/mclaren-applied-uk-government-funding/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+
+## Multimatic
+- 公式URL：https://www.multimatic.com（given）
+- 他社向けサービス：
+  - 「Multimatic | Multimatic Inc. - Global automotive supplier delivering engineering services, manufacturing solutions, and problem-solving around the world.」（https://www.multimatic.com/・1回目）
+  - 「Delivering engineering services, manufacturing solutions, and problem-solving around the world.」（https://www.multimatic.com/・1回目）
+  - 「Engineering Services」（https://www.multimatic.com/・1回目）
+  - 「is a privately held Canadian corporation that supplies components, systems, and engineering services to the global automotive industry. Headquartered in」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「We are able to perform damper set-up work on behalf of customers whose vehicle uses Multimatic DSSV dampers and who are using the multi-post rig. Please inquire as to whether this service is required when booking the rig.」（https://vdc.multimaticmotorsports.com/faq/・3回目）
+- 部品・技術の供給：
+  - 「Multimatic | Multimatic Inc. - Global automotive supplier delivering engineering services, manufacturing solutions, and problem-solving around the world.」（https://www.multimatic.com/・1回目）
+  - 「Multimatic Inmet Composites」（https://www.multimatic.com/about/facilities・1回目）
+  - 「A unique blend of high-volume, production-focused engineering, vehicle systems expertise and advanced R&D capability.」（https://www.multimatic.com/engineering・1回目）
+  - 「Developing components optimized for efficient production.」（https://www.multimatic.com/engineering・1回目）
+  - 「UK – Composites:」（https://www.multimatic.com/engineering・1回目）
+  - 「Our testing expertise generates results which correlate and validate actual vs. target performance of components, systems and complete vehicles.」（https://www.multimatic.com/engineering/testing・1回目）
+  - 「2. Synthesis: System- and Component-Level Specifications」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「In part two of the Synthesis phase, we analyzed all affected vehicle systems to develop」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「system- and component-level specifications」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「System- and component-level performance were later measured against these targets.」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「3. Component Design and Engineering」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「to develop a new Multimatic DSSV damper aimed at meeting the component-level specification.」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+- ライセンス・ブランド：
+  - 「Our multiple roles and disciplines open a world of opportunities. Learn more about our culture and imagine your career taking off.」（https://www.multimatic.com/・1回目）
+  - 「Engineering across disciplines:」（https://www.multimatic.com/engineering・1回目）
+  - 「A close collaboration of engineering and manufacturing professionals.」（https://www.multimatic.com/engineering・1回目）
+  - 「In collaboration with GM, the initial “Synthesis” phase defined a」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「Our engineering and manufacturing teams work in close collaboration.」（https://www.multimatic.com/engineering/product-engineering・1回目）
+  - 「We can rapidly evolve a concept into tangible prototypes and tooling through close engineering and manufacturing collaboration.」（https://www.multimatic.com/engineering/prototypes-and-tooling・1回目）
+  - 「With over 25 years of experience, Mark has led aerodynamics development for multiple Formula One and IndyCar teams.」（https://www.multimatic.com/engineering/testing/aerodynamics-testing・1回目）
+  - 「Multimatic DSSV™ dampers are built to exacting standards requiring specialized contamination testing equipment.」（https://www.multimatic.com/engineering/testing/environmental-and-durability-testing・1回目）
+  - 「Modal analysis using impact and single or multiple excitation points」（https://www.multimatic.com/engineering/testing/structural-modal-testing・1回目）
+  - 「The first-generation StepGate™ incorporated 140 parts in six subassemblies and required multiple assembly operations including laser and MIG welding.」（https://www.multimatic.com/engineering/product-engineering/high-volume-components・1回目）
+  - 「Advanced Product Quality Planning (APQP) disciplines:」（https://www.multimatic.com/engineering/product-engineering/high-volume-components・1回目）
+  - 「Wiper patterns」（https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture・1回目）
+- 車以外の顧客・産業：
+  - 「Motorsports」（https://www.multimatic.com/・1回目）
+  - 「Motorsports」（https://www.multimatic.com/about/facilities・1回目）
+  - 「Vehicle Packaging and Architecture」（https://www.multimatic.com/engineering/product-engineering・1回目）
+  - 「Our expertise is recognized by OEMs and motorsport organizations worldwide.」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「With a DIL simulator and a multi-post rig, Multimatic’s Canadian technical centre works closely with OEMs and motorsport teams. These resources are also used to evaluate engineering projects and completed production vehicles. Canada is home to Calabogie Motorsports Park – our primary test track.」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「Where Multimatic’s vehicle dynamics development meets the road, track and trail.」（https://www.multimatic.com/engineering/testing/real-world-testing・1回目）
+  - 「Motorsport tests components, systems, and entire vehicles at the extreme. Our engineering teams are involved at every level, including actively supporting customer programs.」（https://www.multimatic.com/engineering/testing/real-world-testing・1回目）
+  - 「Vehicle damper architecture」（https://www.multimatic.com/engineering/testing/multi-post-testing・1回目）
+  - 「Vehicle Architecture Development」（https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing・1回目）
+  - 「The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.」（https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing・1回目）
+  - 「Vehicle Packaging & Architecture」（https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture・1回目）
+- レース・ワンメイク：
+  - 「With over 25 years of experience, Mark has led aerodynamics development for multiple Formula One and IndyCar teams.」（https://www.multimatic.com/engineering/testing/aerodynamics-testing・1回目）
+  - 「Ford Mustang GT3」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「as their car for the new set of LMP2 regulations.」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Multimatic's LMDh chassis has seen considerable success thanks to」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「having accumulated multiple wins and a championship since the car's debut at the」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「"Four LMP2 Constructors Confirmed for 2017 – Sportscar365"」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「"Multimatic Confirmed as LMDh Supplier for Porsche, Audi – Sportscar365"」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「For vehicles that produce significant downforce loads we would always work with the aero-loaders connected such as Single Seater/Formula Cars, LMP/DPi Sports Prototypes and some GT cars (GTE, DTM etc).」（https://vdc.multimaticmotorsports.com/faq/・3回目）
+  - 「The company has also made significant strides in the world of automotive racing, starting with the launch of Multimatic Motorsports in 1992. This competition arm was the brainchild of English-born Larry Holt, who moved to Canada in his youth, where his father managed a Toronto Ferrari dealership. The motorsports arm has been highly active in nearly every major racing series.」（https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724・3回目）
+  - 「Along with running race-car teams, Multimatic is also a prominent motorsport vendor. Brake ducts for the Mercedes-Benz F1 cars, bodywork for the Toyota LMP1 and World Rally Championship programs, and ready-to-race Ford GT4 Mustangs are just a few examples.」（https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724・3回目）
+  - 「Multimatic is also responsible for the assembly of every third-generation Ford GT. The production GT spawned several race-ready variants, including race cars that won the 24 Hours at Le Mans for Ford and cars available to private customers interested in mounting their own campaigns.」（https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724・3回目）
+  - 「The Canadian supplier is also responsible for producing the upcoming Ford Mustang GTD. The hyper-Mustang's supercharged V8 engine is married to a transaxle and is a road-legal version of the Blue Oval's Mustang GT3 racer. The most expensive Mustang ever built, the GTD is expected to cost $300,000 when it goes on sale as early as the end of 2024.」（https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724・3回目）
+- お金の形：
+  - 「Feedback and support from our manufacturing plants」（https://www.multimatic.com/engineering/product-engineering/high-volume-components・1回目）
+  - 「Collaboration and continuous feedback between design, analysis, test and prototyping teams」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-feasibility・1回目）
+  - 「Multimatic stamping divisions are staffed and equipped for timely die maintenance and repair.」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling・1回目）
+  - 「Tool Maintenance」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling・1回目）
+  - 「Full maintenance, repair and management of tooling at manufacturing divisions as well as in our dedicated tooling facilities.」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling・1回目）
+  - 「Multimatic Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「As part of the rig test fee, lunch will be provided. Please inform the test team of any special dietary requirements for any team personnel on your booking form.」（https://vdc.multimaticmotorsports.com/faq/・3回目）
+  - 「There are free tea and coffee making facilities in the rig control room as well as a water dispenser.」（https://vdc.multimaticmotorsports.com/faq/・3回目）
+  - 「RSS feeds」（https://www.capitalone.com/cars/learn/finding-the-right-car/what-multimatic-means-to-the-automotive-world/2724・3回目）
+- 売上構成：
+  - 「Product Services and Sales」（https://www.multimatic.com/about/facilities・1回目）
+  - 「Multimatic stamping divisions are staffed and equipped for timely die maintenance and repair.」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling・1回目）
+  - 「Full maintenance, repair and management of tooling at manufacturing divisions as well as in our dedicated tooling facilities.」（https://www.multimatic.com/engineering/prototypes-and-tooling/production-tooling・1回目）
+  - 「Divisions」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「, Multimatic has manufacturing divisions and engineering facilities in North America, Europe and Asia.」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「2019 Top 100 Global OEM Parts Suppliers list and 56 in their list of the largest suppliers to North America, ranked by sales of original equipment parts in 2018.」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「have come from this division.」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「assists in the assembly and engineering of full-scale vehicles. This division also supports Multimatic Niche Vehicles and the company's motorsport arm,」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「), Sales and Marketing (」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「-1.5% (-169)」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「1.5% YoY」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「0.9% YoY」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+- 創業期と参入のしやすさ：
+  - 「Subjective Evaluation」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「Modal evaluation」（https://www.multimatic.com/engineering/testing/multi-post-testing・1回目）
+  - 「– Proprietary software allows for modal analysis utilizing frequency response functions, summarized for efficient vehicle performance evaluation.」（https://www.multimatic.com/engineering/testing/multi-post-testing・1回目）
+  - 「Evaluation to characterize key frequency modes.」（https://www.multimatic.com/engineering/testing/multi-post-testing・1回目）
+  - 「The Multimatic Vehicle Dynamics Centre is trusted by OEMs and motorsport organizations focused on maximizing performance. It’s where the seeds of a race victory are sown, and the foundations are laid for some of the world’s most desirable road cars.」（https://www.multimatic.com/engineering/testing/kinematics-and-compliance-testing・1回目）
+  - 「Complete vehicle dynamics development services, including analytical simulation, rig testing and track/road evaluation」（https://www.multimatic.com/engineering/product-engineering/vehicle-systems・1回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Multimatic Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+- 顧客名：
+  - 「In collaboration with GM, the initial “Synthesis” phase defined a」（https://www.multimatic.com/engineering/multimatic-misa-process・1回目）
+  - 「Multimatic’s Thetford-based Vehicle Dynamics centre is frequented by OEMs and UK/European race teams. It is part of Multimatic Technical Centre Europe and houses a multi-post rig, full-chassis K&C rig and DIL simulator.」（https://www.multimatic.com/engineering/vehicle-dynamics・1回目）
+  - 「Dr. Mark Handford, Multimatic’s Chief Aerodynamicist, is a leading authority in the field.」（https://www.multimatic.com/engineering/testing/aerodynamics-testing・1回目）
+  - 「Video courtesy: Ford Motor Company」（https://www.multimatic.com/engineering/testing/aerodynamics-testing・1回目）
+  - 「We are the engineering and composites project partner for Aston Martin’s supercars.」（https://www.multimatic.com/engineering/product-engineering/vehicle_packaging_and_architecture・1回目）
+  - 「Aston Martin One-77」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「and was Ford's build partner for the third-generation」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Ford GT」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Aston Martin Valkyrie」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Aston Martin V12 Zagato」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Aston Martin CC100」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Aston Martin Vulcan」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+- 検索結果の抜粋：
+  - 「Multimatic | Multimatic Inc. - Global automotive supplier ... — Multimatic | Multimatic Inc. - Global automotive supplier ... Multimatic https://www.multimatic.com」（https://www.multimatic.com/・3回目）
+  - 「Multimatic - Wikipedia — Multimatic - Wikipedia Wikipedia https://en.wikipedia.org > Multimatic」（https://en.wikipedia.org/wiki/Multimatic・3回目）
+  - 「Multimatic | LinkedIn — Multimatic | LinkedIn LinkedIn México https://mx.linkedin.com > multimatic」（https://mx.linkedin.com/company/multimatic?trk=ppro_cprof・3回目）
+  - 「Multimatic launches new Special Vehicle Operations group — Multimatic launches new Special Vehicle Operations group Multimatic Motorsports https://www.multimaticmotorsports.com > ...」（https://www.multimaticmotorsports.com/multimatic-launches-new-special-vehicle-operations-group/・3回目）
+  - 「We are Multimatic . We are the Catalysts of the ... - Instagram — We are Multimatic . We are the Catalysts of the ... - Instagram Instagram https://www.instagram.com > reel」（https://www.instagram.com/reel/C4I-KdvLD4b/・3回目）
+  - 「Multimatic Number of Employees 2026 - Revelio Labs — Multimatic Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/multimatic/employees・3回目）
+  - 「Multimatic - Overview, News & Similar companies - ZoomInfo — Multimatic - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > multima...」（https://www.zoominfo.com/c/multimatic-inc/25886724・3回目）
+  - 「Multimatic's Competitors, Revenue , Number of Employees ... — Multimatic's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > multimatic」（https://www.owler.com/company/multimatic・3回目）
+  - 「Multimatic Information - RocketReach — Multimatic Information - RocketReach RocketReach https://rocketreach.co > multimatic-pr...」（https://rocketreach.co/multimatic-profile_b5c6d506f42e0cfc・3回目）
+  - 「Multimatic Manufacturing: Revenue , Competitors, Alternatives — Multimatic Manufacturing: Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Mult...」（https://growjo.com/company/Multimatic_Manufacturing・3回目）
+  - 「Multimatic - Facebook — Multimatic - Facebook Facebook https://www.facebook.com > ... > Multimatic > Videos」（https://www.facebook.com/MultimaticInc/videos/located-in-newmarket-on-the-industry-leading-team-at-multimatic-ride-dynamics-mr/826384868957245/・3回目）
+  - 「Careers at Multimatic - Latest Job Opportunites - Fluidjobs — Careers at Multimatic - Latest Job Opportunites - Fluidjobs Fluidjobs https://fluidjobs.com > companies」（https://fluidjobs.com/companies/multimatic-4102140・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部14頁・検索6回）
+
+## Oreca
+- 公式URL：https://www.oreca.fr（given）
+- 他社向けサービス：
+  - 「Tech Center Consultancy」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「Turnkey Facility Solutions」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「We design and deliver impactful experiences within two worlds we are passionate about: automotive, embedded in our DNA for over 50 years, and sports, a new arena for creativity, emotion, and audience engagement. Together with our clients, we turn bold ideas into experience-driven projects delivered with rigor and attention to detail.」（https://www.oreca.com/en/agency・3回目）
+  - 「Consulting」（https://www.oreca.com/en/agency・3回目）
+  - 「- Comprehensive legal and regulatory support to secure operations, covering GDPR compliance, eco-organisations coordination, distribution contracts, and commercial terms」（https://www.oreca.com/en/agency・3回目）
+- 部品・技術の供給：
+  - 「Precision engineering and dimensioning of components and structures, ensuring strength and performance.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Systems Management」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Integration and coordination of embedded systems to ensure consistency, reliability, and overall performance.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Composites」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Expertise in composite materials to combine low weight, high strength, and optimal structural performance.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Manufacturing high-precision components through controlled and rigorous industrial processes.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Development and integration of reliable, high-performance electrical and electronic systems.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Precise and rigorous assembly of components and vehicles to ensure final quality and therefore performance and reliability.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「ORECA Group has selected Siemens’ Simcenter software to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs (Image courtesy of ORECA Group)」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「ORECA adopts Siemens’ Simcenter STAR-CCM+ and Simcenter Optistruct to enhance computational fluid dynamics (CFD) and composite optimization workflows」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+- ライセンス・ブランド：
+  - 「Since 1973, ORECA has supported leading motorsport brands raising standards of performance and excellence.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Modelling vehicle behaviour to anticipate, optimise, and validate future performance under real-world conditions.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「’s ambition to expand the use of advanced simulation technologies across highly competitive racing programs, it has replaced its legacy CFD environment with Siemens’ technologies to improve simulation efficiency, enable more advanced multiphysics simulation and strengthen workflow integration across its motorsport engineering teams.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Skip to main content」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「AVL’s Remote Test Trip Solution」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「AVL RACETECH and ORECA Motorsport are entering into a technical partnership in the field of advanced vehicle simulation.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「A first concrete step in the collaboration is the integration of the ORECA 07 into AVL RACETECH’s simulation environment. This will create a ready-to-use virtual vehicle model for customer teams using ORECA products.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「"We are proud to announce our technical cooperation with ORECA, a globally recognized leader and one of the most iconic names in modern motorsport. This partnership, centred on advanced vehicle dynamics simulation, is a clear testament to our long-term commitment to being present and competitive at the very pinnacle of motorsport engineering.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「From professional desktop simulation environments to state-of-the-art Driver in the Loop solutions, this collaboration is designed to deliver tangible, measurable impact. It will accelerate ORECA's development cycles, significantly reduce engineering risk, and continuously elevate the performance standard of every race car that carries the ORECA name”,」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+- 車以外の顧客・産業：
+  - 「Oreca Motorsport」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Since 1973, ORECA has supported leading motorsport brands raising standards of performance and excellence.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「Manufacturing high-precision components through controlled and rigorous industrial processes.」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「ORECA Motorsport」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「ORECA selects Siemens Xcelerator to advance high-performance motorsport design」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「’s ambition to expand the use of advanced simulation technologies across highly competitive racing programs, it has replaced its legacy CFD environment with Siemens’ technologies to improve simulation efficiency, enable more advanced multiphysics simulation and strengthen workflow integration across its motorsport engineering teams.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「https://www.siemens.com/en-us/campaigns/siemens-motorsports/」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「About ORECA Motorsport」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Founded in 1973 by Hugues de Chaunac, ORECA is fully dedicated to performance and a major player in the world of motorsport today.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+- レース・ワンメイク：
+  - 「ORECA | Builder of race cars that win」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「To learn more about Siemens’ decades spanning history in motorsport engineering and how it is helping to revolutionize motorsports with cutting-edge digital engineering and playing a pivotal role across a variety of global championships, including Formula One®, MotoGP, NASCAR, IndyCar, IMSA, and beyond, visit」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「ORECA Motorsport designs, assembles, develops and fine-tunes chassis, engines and system architectures. Its tried-and-true experience in running vehicles on the track allows the department to facilitate reliable, high-performance solutions adapted to the various circuits and championships around the world.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development | AVL」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「Simulation as a Key Performance Driver: AVL RACETECH and ORECA Motorsport Partner on LMP2 Development」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「At the same time, AVL VSM™ RACE will become an integral part of the development of the ORECA 09, ORECA’s next-generation LMP2, which will be homologated for the years 2028 to 2032.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「200 series」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「210 series」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「536 series」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「536B series」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「811 G-Line series」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「HL836 series」（https://en.oreca-store.com/vehicle.html・3回目）
+- お金の形：
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Air filter maintenance」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「The bucket is essential for the comfort and safety of the rider. It is important to choose a bucket that you feel comfortable in;」（https://en.oreca-store.com/vehicle.html・3回目）
+- 売上構成：
+  - 「Oreca - The Motorsport company: Revenue, Competitors, Alternatives」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Revenue」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Employee Growth %」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Best Sales Lead Database」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「- Monitoring and reporting to ensure measurable sales results」（https://www.oreca.com/en/agency・3回目）
+  - 「Business model and revenue management」（https://www.oreca.com/en/agency・3回目）
+- 創業期と参入のしやすさ：
+  - 「Founded in 1973 by Hugues de Chaunac, ORECA is fully dedicated to performance and a major player in the world of motorsport today.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「With around 12,000 employees, AVL is one of the world’s leading mobility technology companies for development, simulation, and testing in the automotive industry and in other sectors such as aviation, marine, and energy. Based on extensive in-house research, AVL develops innovative technologies and development tools for green, safe, and sustainable mobility.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Total Funding」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Employees.」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Valuation」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「Sustained by steady growth, the agency currently counts nearly 50 employees based in Paris and the south of France, sharing a culture of performance and commitment.」（https://www.oreca.com/en/agency・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Oreca・3回目）
+  - 「Founder(s)」（https://en.wikipedia.org/wiki/Oreca・3回目）
+  - 「and race car constructor, founded in 1973 and run by Hugues de Chaunac, former team manager of F1 team」（https://en.wikipedia.org/wiki/Oreca・3回目）
+- 顧客名：
+  - 「Collaboration will support ORECA’s high-performance motorsport vehicle development programs, including its Le Mans 24 Hours hypercar program with Ford Motor Company」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「Siemens today announced that the ORECA Group, a major motorsport engineering organization, has selected Siemens’ Simcenter software, part of the Siemens Xcelerator portfolio, to support advanced CFD and composite structural optimization for its high-performance racing vehicle development programs, including Le Mans 24 Hours with Ford Motor Company.」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「adds Guillermo F. Pezzetto, Director Product and Business Development Racing, AVL List GmbH.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「AVL List GmbH and CEER sign Memorandum of Understanding to strengthen strategic partnership」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「AVL List GmbH and CEER have signed a Memorandum of Understanding (MoU) during the PIF Private Sector Forum, marking a major milestone in the evolution of their strategic partnership.」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「AVL List GmbH」（https://www.avl.com/en/press/press-release/simulation-a-key-performance-driver-avl-racetech-and-oreca-motorsport-partner-lmp2-development・3回目）
+  - 「We design and deliver impactful experiences within two worlds we are passionate about: automotive, embedded in our DNA for over 50 years, and sports, a new arena for creativity, emotion, and audience engagement. Together with our clients, we turn bold ideas into experience-driven projects delivered with rigor and attention to detail.」（https://www.oreca.com/en/agency・3回目）
+  - 「Ford – 2026 24 Hours of Le Mans: Events & Retail expertise coming together」（https://www.oreca.com/en/agency・3回目）
+  - 「In the context of Ford’s return to the highly competitive 24 Hours of Le Mans, ORECA delivered a comprehensive strategy combining brand experience, activation, and commerce to maximise visibility and drive commercial value.」（https://www.oreca.com/en/agency・3回目）
+  - 「Creating a Ford Racing merchandise collection (available on-site and online)」（https://www.oreca.com/en/agency・3回目）
+  - 「Amplifying the project through PR, media, and digital channels in partnership with Ford Monde」（https://www.oreca.com/en/agency・3回目）
+  - 「ASTON MARTIN」（https://en.oreca-store.com/vehicle.html・3回目）
+- 検索結果の抜粋：
+  - 「Builder of race cars that win - ORECA — Builder of race cars that win - ORECA ORECA https://www.oreca.com > manufacturer」（https://www.oreca.com/en/manufacturer・3回目）
+  - 「ORECA selects Siemens Xcelerator — ORECA selects Siemens Xcelerator Siemens Newsroom https://news.siemens.com > en-us > si...」（https://news.siemens.com/en-us/siemens-simcenter-oreca-group/・3回目）
+  - 「ORECA Motorsport | LinkedIn — ORECA Motorsport | LinkedIn LinkedIn https://www.linkedin.com > company」（https://www.linkedin.com/company/oreca-motorsport・3回目）
+  - 「What has caused Oreca to essentially become the sole ... — What has caused Oreca to essentially become the sole ... Reddit https://www.reddit.com > wec > vqtqyn」（https://www.reddit.com/r/wec/comments/vqtqyn/what_has_caused_oreca_to_essentially_become_the/・3回目）
+  - 「Oreca - The Motorsport company Revenue and Competitors — Oreca - The Motorsport company Revenue and Competitors Growjo https://growjo.com > company > Orec...」（https://growjo.com/company/Oreca_-_The_Motorsport_company・3回目）
+  - 「ORECA - 2026 Company Profile, Funding & Competitors — ORECA - 2026 Company Profile, Funding & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/oreca/__RZwmDWK_1fQmvBlj3YHoQOXVnklrZSH8L5EhQA-oEpo・3回目）
+  - 「Sport and automotive agency - ORECA — Sport and automotive agency - ORECA ORECA https://www.oreca.com > agency」（https://www.oreca.com/en/agency・3回目）
+  - 「Oreca - The Motorsport company Information - RocketReach — Oreca - The Motorsport company Information - RocketReach RocketReach https://rocketreach.co > oreca-the-mot...」（https://rocketreach.co/oreca-the-motorsport-company-profile_b5ce9235f42e095c・3回目）
+  - 「ORECA | LinkedIn — ORECA | LinkedIn LinkedIn Estonia https://ee.linkedin.com > oreca」（https://ee.linkedin.com/company/oreca・3回目）
+  - 「Motorsport car parts and equipment on Oreca -Store — Motorsport car parts and equipment on Oreca -Store ORECA STORE https://en.oreca-store.com > vehicle」（https://en.oreca-store.com/vehicle.html・3回目）
+  - 「Oreca - Wikipedia — Oreca - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Oreca」（https://en.wikipedia.org/wiki/Oreca・3回目）
+  - 「ORECA 07: The car which utterly dominated sportscar racing — ORECA 07: The car which utterly dominated sportscar racing YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=8xhsq68eTy8・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Pagani Automobili
+- 公式URL：https://www.pagani.com（given）
+- 従業員数：Horacio Pagani ( CEO & President )（https://en.wikipedia.org/wiki/Pagani_Automobili・3回目）
+- 従業員数：242 (2026) [ 1 ]（https://en.wikipedia.org/wiki/Pagani_Automobili・3回目）
+- 他社向けサービス：
+  - 「Horacio used to spend the week at his workshop, dealing with special orders. Among the most difficult challenges that he had to face at that time, there was the contract for the construction of two units of a prototype commissioned by the Road Laboratory of the Institute of Research and Development of the National University of Rosario.」（https://www.pagani.com/history/・1回目）
+  - 「Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.」（https://www.pagani.com/press/・1回目）
+  - 「, an event that gathers the finest in automotive excellence and serves as a prelude to the main Concours exhibition. From there, exclusive experiences will follow — designed for clients, collectors, and partners — for a weekend celebrating art, passion, and beauty in motion.」（https://www.pagani.com/press/・1回目）
+  - 「Pagani vehicles are highly sought after collectors’ pieces. With our continued focus on exclusivity, where demand over the years grows at faster than the supply, it is our intention to support this trend to continue and protect our clients’ investment.」（https://www.pagani.com/press/official-statement/・1回目）
+  - 「, an event that gathers the finest in automotive excellence and serves as a prelude to the main Concours exhibition. From there, exclusive experiences will follow — designed for clients, collectors, and partners — for a weekend celebrating art, passion, and beauty in motion.」（https://www.pagani.com/press/las-vegas-concours-2025/・1回目）
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「so they could extend the production of the carbon parts for the Evoluzione. They refused, saying that Ferrari did not have an autoclave, so Lamborghini didn't need to have one. Pagani borrowed the capital to buy his own autoclave late in 1987 and then, in 1991, he broke away from the company and founded his own consultancy called Modena Design which continues to make carbon fiber composites for」（https://en.wikipedia.org/wiki/Horacio_Pagani_(auto_executive)・3回目）
+- 部品・技術の供給：
+  - 「For Horacio it is not enough to build every component of the car with the absolute best materials, and make them achieve perfection in their performances; they must also be works of art.」（https://www.pagani.com/・1回目）
+  - 「Thanks to the use of composite materials and state-of-the-art technology, the Utopia Roadster weighs in at only 1,280 kg (2,822 lb), just like the Utopia Coupé.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「Pirelli, an essential partner of Pagani Automobili from the prototyping and simulation phase with the aid of the most advanced AI technology, is supplying the Utopia Roadster with exclusive tires equipped with advanced sensor technology on the inside of the tread that become points of interaction between the car and the road surface. Thanks to the」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「For the unveiling, the Utopia Roadster will be presented in an exposed carbon finish in Habanero Red. This color transforms from a brownish red in the shade to a vivid bright red in the sunlight, setting off the unmistakable texture of the carbon fiber body.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「The new version shared with its sister coupe all the finishes and equipments, in order to represent a real alternative to the potential buyer. The adoption of new triaxial carbon fibre fabrics allowed to redesign the frame and to achieve a car as light as the coupe.」（https://www.pagani.com/history/・1回目）
+  - 「Questa creazione è un omaggio open-air al Dio del Vento. Bellezza pura in tutte le sue forme e superfici, la Huayra Roadster è una vettura quasi interamente a vista, con ogni componente, ogni parte meccanica visibile, orgogliosamente esposta.」（https://www.pagani.com/history/・1回目）
+  - 「The balance between sportiness and formal purity is delicately maintained by bespoke, solid-milled aluminum components integrated into the vehicle’s bodywork and anodized in Glossy Titanium, which embellish the car as precious details without interrupting its harmony. This same finish is gracefully mirrored in the custom brand new Huayra 70 Titanium wheels.」（https://www.pagani.com/press/・1回目）
+  - 「For more than forty years, Horacio Pagani has treated carbon fiber as a living fabric. In aviation, where every gram counts, this mastery translates directly into unparalleled efficiency and performance. We interpret the experience of flight as a meeting of art, performance, and engineering, guided by an uncompromising attention to detail.」（https://www.pagani.com/press/・1回目）
+  - 「From the structure of the Iconic Collection furnishings, such as the Iconic Sofa and Iconic Bed, crafted using the same autoclave processes as the Hypercars, to the most intimate details like hand-finished stitching, every element tells a story of Italian artisanal excellence.」（https://www.pagani.com/press/・1回目）
+  - 「: every component is inspected by the artisans of Pagani Officina and, where necessary, restored using original materials and techniques.」（https://www.pagani.com/press/・1回目）
+  - 「This specific chassis, a unique example, represents a milestone: it is in fact the first one-off in the history of the Pagani Atelier. Built in 2000 at the customer’s request, it stands out thanks to its exclusive removable glass roof.」（https://www.pagani.com/press/・1回目）
+- ライセンス・ブランド：
+  - 「That of Horacio Pagani is the great adventure of an art and engineering crusade. How did the myth of Pagani Automobili come to life, the brand for which cars the richest men in the world are willing to spend a crazy amount of money?」（https://www.pagani.com/・1回目）
+  - 「Pagani VIP Experience」（https://www.pagani.com/・1回目）
+  - 「In collaboration with the British specialist firm Xtrac, Pagani has designed a transmission capable of handling the torque of the twin-turbo V12, while guaranteeing smooth and agreeable functioning in all conditions. Extremely compact and positioned transversely behind the engine, the seven-speed manual gearbox is connected to a light and adjustable triple-disc clutch.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「Pirelli, an essential partner of Pagani Automobili from the prototyping and simulation phase with the aid of the most advanced AI technology, is supplying the Utopia Roadster with exclusive tires equipped with advanced sensor technology on the inside of the tread that become points of interaction between the car and the road surface. Thanks to the」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「The interior, finished in Grecale and Huayra Signature leather, features a semi-matt anodized finish with fine workmanship on the dashboard, central tunnel, air vents, and aluminum parts of the gear lever. The exterior paint color is also found inside, on the central tunnel, the seat adjustment cover, and the carbon-fiber gearstick knob.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「Pagani VIP Experience」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「Fin dalla più tenera età, Horacio ebbe modo di ricavarsi un suo spazio intimo dove dedicarsi alla lettura di riviste d’auto per poi riprodurle in schizzi: proprio da una di queste, ebbe modo di conoscere la vita e le imprese dell’idolo incontrastato di tutti gli argentini, Juan Manuel Fangio, che all’epoca si era appena ritirato dalle competizioni.」（https://www.pagani.com/history/・1回目）
+  - 「All’inizio del 1974, a 18 anni, Horacio Pagani si iscrisse all’indirizzo di Industrial Design presso la facoltà di Belle Arti dell’Università Nazionale di La Plata. Si stabilì in città, a 450 km da Casilda, presso una tipica residenza per studenti, con l’intenzione di trascorrere laggiù i successivi cinque anni della sua vita.」（https://www.pagani.com/history/・1回目）
+  - 「Il prototipo di roulotte con la quale la ditta individuale Horacio Pagani Design fece la sua prima apparizione sul mercato, in occasione dell’Esposizione Industriale e Commerciale di Casilda, fu battezzata l’Alpine.」（https://www.pagani.com/history/・1回目）
+  - 「Horacio trascorreva la settimana presso la sua officina, alle prese con ordini speciali. Fra le sfide più impegnative alle quali dovette far fronte in quel periodo, vi fu la commessa per la costruzione di due esemplari di un prototipo richiesto dal Laboratorio stradale dell’Istituto di ricerca e sviluppo dell’Università Nazionale di Rosario.」（https://www.pagani.com/history/・1回目）
+  - 「The passionate relationship began many years before Horacio Pagani started working for the Modenese manufacturer. He was fascinated by Bertone design: he admired his work and felt a great harmony of style with the designer, father of the most fascinating Lamborghini of all time, the Miura and Countach.」（https://www.pagani.com/history/・1回目）
+  - 「Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.」（https://www.pagani.com/history/・1回目）
+- 車以外の顧客・産業：
+  - 「Past and present melt into one: the experience of Horacio, the energy and passion of his team, the knowledge that makes every project of Pagani Automobili such an impossible dream and, at the same time, so close to reality.」（https://www.pagani.com/・1回目）
+  - 「The presentation car, unveiled during Monterey Car Week, will be fitted with the optional Sport Pack configuration.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「The Utopia Roadster presentation model and the Sport Pack」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「“Quando orienti la visionaria prua verso una stella e ti lasci trasportare sulle ali del sogno verso quella imponderabile meta, ansioso di perfezione e ribelle alla mediocrità, in te si innesca la misteriosa molla di un ideale.”」（https://www.pagani.com/history/・1回目）
+  - 「In early 1974, at age of 18, Horacio Pagani entered the course of Industrial Design at the Faculty of Fine Arts of the National University of La Plata. He settled in the city, 450 km away from Casilda, in a typical residence for students, with the intention of spending there the next five years of his life.」（https://www.pagani.com/history/・1回目）
+  - 「All’inizio del 1974, a 18 anni, Horacio Pagani si iscrisse all’indirizzo di Industrial Design presso la facoltà di Belle Arti dell’Università Nazionale di La Plata. Si stabilì in città, a 450 km da Casilda, presso una tipica residenza per studenti, con l’intenzione di trascorrere laggiù i successivi cinque anni della sua vita.」（https://www.pagani.com/history/・1回目）
+  - 「The caravan prototype with which the individual company Horacio Pagani Design made its first appearance on the market, at the Industrial and Commercial Exhibition of Casilda, was named the Alpine.」（https://www.pagani.com/history/・1回目）
+  - 「Il prototipo di roulotte con la quale la ditta individuale Horacio Pagani Design fece la sua prima apparizione sul mercato, in occasione dell’Esposizione Industriale e Commerciale di Casilda, fu battezzata l’Alpine.」（https://www.pagani.com/history/・1回目）
+  - 「Fortemente ispirata dal fascino intramontabile delle vetture di Le Mans e dei campionati del mondo Sport Prototipi degli anni ‘60 e ‘70, Huayra R è un’auto sviluppata senza implicazione di regole fatta eccezione per la sicurezza.」（https://www.pagani.com/history/・1回目）
+  - 「Strongly inspired by the timeless appeal of the Le Mans and Sports-Prototype cars of the ’60s and ’70s, the Huayra R is an extreme, untamed car that bows to no rules except for safety.」（https://www.pagani.com/history/・1回目）
+  - 「Pagani Arte at the Catarina Aviation Show: Where ...」（https://www.pagani.com/press/・1回目）
+- レース・ワンメイク：
+  - 「For the unveiling, the Utopia Roadster will be fitted with the Sport Pack, an optional package also available for the Coupé version. This finish enhances the car’s sporty character and performance with a series of exclusive components.」（https://www.pagani.com/press/utopia-roadster/・1回目）
+  - 「"Life is a series of races. At the end of each it is good to look back and recognise the support of those who helped you along the way, because you can only win thanks to a good team. "」（https://www.pagani.com/history/・1回目）
+  - 「The series of road-going Zondas wouldn’t be complete without a Roadster version of the Zonda Cinque. As the name suggests, the Roadster was meant for a limited production of five exclusive pieces only, plus the prototype.」（https://www.pagani.com/history/・1回目）
+  - 「, is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.」（https://www.pagani.com/press/・1回目）
+  - 「, the final example of a series that redefined the concept of the Hypercar. Also featured, the」（https://www.pagani.com/press/・1回目）
+  - 「and the client, inspired by 1960s race cars and the timeless shapes of Italian coachbuilding masters.」（https://www.pagani.com/press/・1回目）
+  - 「At the heart of the car beats the Pagani V12-R, a naturally aspirated 6-liter engine developed in collaboration with HWA AG, capable of delivering 850 hp and 750 Nm of torque. Weighing only 198 kg, this power unit embodies the thrill and unmistakable sound of the Formula 1 engines of the 1980s, combined with the precision and reliability of future-ready engineering.」（https://www.pagani.com/press/・1回目）
+  - 「, is engineered to exceed FIA LMPH safety standards and integrates a Kevlar motorsport-derived fuel cell along with a composite protective structure featuring 20 mm carbon fiber walls.」（https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/・1回目）
+  - 「, the final example of a series that redefined the concept of the Hypercar. Also featured, the」（https://www.pagani.com/press/las-vegas-concours-2025/・1回目）
+  - 「and the client, inspired by 1960s race cars and the timeless shapes of Italian coachbuilding masters.」（https://www.pagani.com/press/las-vegas-concours-2025/・1回目）
+  - 「At the heart of the car beats the Pagani V12-R, a naturally aspirated 6-liter engine developed in collaboration with HWA AG, capable of delivering 850 hp and 750 Nm of torque. Weighing only 198 kg, this power unit embodies the thrill and unmistakable sound of the Formula 1 engines of the 1980s, combined with the precision and reliability of future-ready engineering.」（https://www.pagani.com/press/auto-e-moto-d-epoca-2025/・1回目）
+  - 「Grazie all’impiego di oltre quaranta differenti formulazioni di materiali compositi, tra cui Carbo-Titanium HP62-G2 e Carbo-Triax HP62」（https://www.pagani.com/it/press/・1回目）
+- お金の形：
+  - 「“In 10 anni di collaborazione, tra i traguardi che ci siamo posti insieme a Pirelli c’era sicuramente quello del feeling sul」（https://www.pagani.com/it/press/huayra-roadster-bc/・1回目）
+  - 「depending on the season, the mood, the desire to feel enclosed and protected or in contact with the open」（https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf・2回目）
+  - 「the feet pads incorporating the iconic four exhaust symbol. The range of accessories is further enriched by」（https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf・2回目）
+  - 「improved speed and comfort so that the driver feels as comfortable on the road as he does on the」（https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf・2回目）
+  - 「The feeling inside the Utopia Roadster is absolutely unique, even in the very special context of」（https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf・2回目）
+  - 「prompted the company to open new dealerships in various countries, with an annual production that」（https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Press-Release-ENG.pdf・2回目）
+  - 「hyper cars」（https://en.wikipedia.org/wiki/Pagani_Automobili・3回目）
+  - 「Pagani Automobili Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+- 売上構成：
+  - 「Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.」（https://www.pagani.com/history/・1回目）
+  - 「Interrotta la collaborazione con Lamborghini, Pagani si dedicò alla progettazione di una nuova auto. Si era ormai convinto che le vetture da lui immaginate non rispecchiassero la Casa del Toro. Era tempo di pensare a un’automobile Pagani al 100%.」（https://www.pagani.com/history/・1回目）
+  - 「Imola Roadster, nuova creazione few-off della divisione Grandi Complicazioni. Il design mostra un carattere distintivo e le specifiche tecniche la rendono una vettura che non teme la pista, anche se gli otto esemplari prodotti saranno omologati per la guida stradale in tutto il mondo. È la vettura a cielo aperto più performante che il brand abbia mai creato.」（https://www.pagani.com/history/・1回目）
+  - 「Imola Roadster, the new limited edition from the Grandi Complicazioni division. Featuring a one-of-a-kind design and technical specification, this vehicle does not fear the track even if its eight specimens are homologated for road use throughout the world. It is the best-performing open-top the brand has ever created.」（https://www.pagani.com/history/・1回目）
+  - 「, a new few-off creation born from the creative sanctuary of the Grandi Complicazioni division and second of the three Huayra 70 made to celebrate Horacio Pagani 70」（https://www.pagani.com/press/・1回目）
+  - 「Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.」（https://www.pagani.com/press/・1回目）
+  - 「Please be aware that we have not granted such parties the right to represent our brand, act as official dealers, offer Pagani vehicles for sale and provide after sales services.」（https://www.pagani.com/press/・1回目）
+  - 「For extremely clarity, we reaffirm that only the official Pagani dealers, Pagani S.p.A. and Pagani Automobili America Inc. are authorized to sell Pagani products and provide after sales services for our vehicles. Your cooperation is essential to protect your interests, safeguard the integrity of the Pagani’s brand worldwide and prevent any possible confusion in the global marketplace.」（https://www.pagani.com/press/・1回目）
+  - 「Also featured is the Huayra Codalunga, conceived by Pagani’s Grandi Complicazioni division as a tribute to the timeless forms shaped by Italian coachbuilders and the racing cars of the 1960s. Limited to just five examples, it stems from the Huayra Coupé, its proportions elongated as though its silhouette had been sculpted by the wind.」（https://www.pagani.com/press/・1回目）
+  - 「Created by the Grandi Complicazioni division, the Huayra Codalunga Speedster is born from listening. Each car takes shape through a direct dialogue with the client, with no limits to vision or desire. A bespoke project, sculpted around a personal idea of beauty.」（https://www.pagani.com/press/・1回目）
+  - 「, a new few-off creation born from the creative sanctuary of the Grandi Complicazioni division and second of the three Huayra 70 made to celebrate Horacio Pagani 70」（https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/・1回目）
+  - 「Pagani Arte is pleased to announce its participation in the Catarina Aviation Show, a prestigious stage where the precision of automotive engineering meets the emotion of flying. In this exclusive setting, the brand presents its vision of an extended lifestyle division, carrying the design language of Horacio Pagani.」（https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/・1回目）
+- 創業期と参入のしやすさ：
+  - 「"BC" as the initials of Benny Caiola, the very first customer of Pagani Automobili and great friend of Horacio Pagani. In 2016 Horacio dedicated the Huayra BC to Benny, a dedication from the heart, to the one who had been impressed by the passion and technology unleashed by these cars from the very beginning.」（https://www.pagani.com/history/・1回目）
+  - 「Pagani Automobili is pleased to announce the awarding of the Honoris Causa Master Degree to its Founder and Chief Designer Horacio Pagani. After almost 20 years since the world debut of the iconic Zonda C12, the Atelier of San Cesario Sul Panaro is preparing to celebrate another key achievement gained by its Founder, the fruit of a long study and a great deal of teamwork.」（https://www.pagani.com/history/・1回目）
+  - 「Horacio Pagani, Founder & Chief Designer, comments on this new creation and the return to Goodwood:」（https://www.pagani.com/press/・1回目）
+  - 「Horacio Pagani, Founder & Chief Designer, comments on Pagani’s approach:」（https://www.pagani.com/press/・1回目）
+  - 「Ultimate Supercar Garage」（https://www.pagani.com/press/・1回目）
+  - 「, Founder and Chief Designer of Pagani Automobili」（https://www.pagani.com/press/・1回目）
+  - 「and the attendance of Founder and Chief Designer,」（https://www.pagani.com/press/・1回目）
+  - 「This Zonda is a rare gem, not only for the unique shade of its bodywork but also for the story it carries: the friendship between Horacio and its first owner, Benny Caiola. A discerning collector of supercars and Atelier Pagani’s very first customer in 1999, Caiola inspired the creation of chassis no. 057 and its bespoke color, “Bianco Benny.”」（https://www.pagani.com/press/・1回目）
+  - 「Horacio Pagani, Founder & Chief Designer, comments on this new creation and the return to Goodwood:」（https://www.pagani.com/press/pagani-automobili-at-the-goodwood-festival-of-speed-world-premiere-of-the-pagani-huayra-70-derecho/・1回目）
+  - 「Horacio Pagani, Founder & Chief Designer, comments on Pagani’s approach:」（https://www.pagani.com/press/pagani-arte-at-the-catarina-aviation-show-where-automotive-excellence-meets-high-altitude-design/・1回目）
+  - 「Ultimate Supercar Garage」（https://www.pagani.com/press/pagani-automobili-at-salon-retromobile-2026/・1回目）
+  - 「, Founder and Chief Designer of Pagani Automobili」（https://www.pagani.com/press/pagani-automobili-ces-2026/・1回目）
+- 顧客名：
+  - 「Il lavoro richiese un anno e si calcolò che vi fossero investite qualcosa come cinquemila ore di lavoro. Il veicolo fu terminato e presentato nel corso di una cena che contò tra gli invitati oltre 300 persone, tra le quali erano presenti giornalisti della stampa specializzata della città di Rosario, impresari, tecnici e fanatici delle corse.」（https://www.pagani.com/history/・1回目）
+  - 「The Lamborghini years.」（https://www.pagani.com/history/・1回目）
+  - 「The passionate relationship began many years before Horacio Pagani started working for the Modenese manufacturer. He was fascinated by Bertone design: he admired his work and felt a great harmony of style with the designer, father of the most fascinating Lamborghini of all time, the Miura and Countach.」（https://www.pagani.com/history/・1回目）
+  - 「Gli anni Lamborghini.」（https://www.pagani.com/history/・1回目）
+  - 「Il rapporto appassionato iniziò molti anni prima che Horacio Pagani lavorasse per la casa modenese. Era affascinato dai disegni di Bertone: nutriva una viva ammirazione e avvertiva una grande sintonia di stile nei confronti del grande designer, padre delle Lamborghini più affascinati di ogni tempo, la Miura e la Countach.」（https://www.pagani.com/history/・1回目）
+  - 「Interrupted the collaboration with Lamborghini, Pagani concentrated his energies on the design of a new car. He was convinced that the projects he had been imagining did not reflect the house of the charging bull. It was time to think of a 100-percent Pagani car.」（https://www.pagani.com/history/・1回目）
+  - 「Interrotta la collaborazione con Lamborghini, Pagani si dedicò alla progettazione di una nuova auto. Si era ormai convinto che le vetture da lui immaginate non rispecchiassero la Casa del Toro. Era tempo di pensare a un’automobile Pagani al 100%.」（https://www.pagani.com/history/・1回目）
+  - 「Un anno dopo l’esaltante esordio della Zonda C12, la Pagani Automobili era in condizione di presentare la Zonda S, che sfoderava un poderoso motore sette litri. La vettura, oltre al propulsore potenziato, presentava una vasta serie di migliorie tecniche.」（https://www.pagani.com/history/・1回目）
+  - 「Questa creazione, haute couture dell’arte automobilistica, presenta una tecnologia di ultima generazione ed è alimentata da un motore a 12 cilindri sviluppato da Mercedes AMG esclusivamente per Pagani, che promette un suono ancora più distintivo.」（https://www.pagani.com/history/・1回目）
+  - 「This creation, the haute couture of automotive art, boasts the latest generation technology and is powered by a 12-cylinder engine developed exclusively for Pagani by Mercedes AMG that promises an even more distinctive roar.」（https://www.pagani.com/history/・1回目）
+  - 「Pagani Automobili è lieta di celebrare il conferimento della Laurea Honoris Causa al suo Fondatore e Chief Designer Horacio Pagani. A quasi vent’anni dal debutto dell’ iconica Zonda C12, l’Atelier di San Cesario sul Panaro si appresta a」（https://www.pagani.com/history/・1回目）
+  - 「Pagani Automobili is pleased to announce the awarding of the Honoris Causa Master Degree to its Founder and Chief Designer Horacio Pagani. After almost 20 years since the world debut of the iconic Zonda C12, the Atelier of San Cesario Sul Panaro is preparing to celebrate another key achievement gained by its Founder, the fruit of a long study and a great deal of teamwork.」（https://www.pagani.com/history/・1回目）
+- 検索結果の抜粋：
+  - 「Horacio Pagani's Latest Supercar, The 864-Horsepower Utopia — Horacio Pagani's Latest Supercar, The 864-Horsepower Utopia Forbes https://www.forbes.com > 2022/11/21」（https://www.forbes.com/sites/markewing/2022/11/21/seven-pillars-of-pagani-automobili-horacio-paganis-latest-supercar-the-864-horsepower-utopia/・3回目）
+  - 「Pagani Automobili - Facebook — Pagani Automobili - Facebook Facebook https://www.facebook.com > PaganiAutomobili > posts」（https://www.facebook.com/PaganiAutomobili/posts/one-of-the-services-that-atelier-pagani-has-always-offered-its-customers-is-the-/6087608784599543/・3回目）
+  - 「Pagani Automobili - Wikipedia — Pagani Automobili - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Paga...」（https://en.wikipedia.org/wiki/Pagani_Automobili・3回目）
+  - 「Exploring the history of Pagani ! - Facebook — Exploring the history of Pagani ! - Facebook Facebook https://www.facebook.com > Shmee150 > posts > explori...」（https://www.facebook.com/Shmee150/posts/exploring-the-history-of-pagani/953498329476479/・3回目）
+  - 「Pagani Automobili Number of Employees 2026 - Revelio Labs — Pagani Automobili Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/pagani-automobili/employees・3回目）
+  - 「Pagani Automobili Information - RocketReach — Pagani Automobili Information - RocketReach RocketReach https://rocketreach.co > pagani-autom...」（https://rocketreach.co/pagani-automobili-profile_b58bd47ff67e28e6・3回目）
+  - 「Pagani Automobili : Revenue , Employees & Org Chart | Zeliq — Pagani Automobili : Revenue , Employees & Org Chart | Zeliq Zeliq https://www.zeliq.com > manufacturing」（https://www.zeliq.com/company/italy/manufacturing/motor-vehicle-manufacturing/pagani-automobili・3回目）
+  - 「Is Pagani a billionaire? - Reddit — Is Pagani a billionaire? - Reddit Reddit https://www.reddit.com > comments」（https://www.reddit.com/r/Pagani/comments/1hub5o3/is_pagani_a_billionaire/・3回目）
+  - 「Pagani Sports Cars [2003 to 2022] ❤️ Pagani Automobili ... — Pagani Sports Cars [2003 to 2022] ❤️ Pagani Automobili ... Facebook https://www.facebook.com > techtimespage > posts > paga...」（https://www.facebook.com/techtimespage/posts/pagani-sports-cars-2003-to-2022-%EF%B8%8Fpagani-automobili-spa-commonly-referred-to-as-p/615269514642124/・3回目）
+  - 「MODENA DESIGN: THE HISTORICAL PAGANI COMPANY ... — MODENA DESIGN: THE HISTORICAL PAGANI COMPANY ... Pagani https://www.pagani.com > press > mo...」（https://www.pagani.com/press/modena-design/・3回目）
+  - 「Why do some supercar brands, like Pagani , rely heavily on ... — Why do some supercar brands, like Pagani , rely heavily on ... Quora https://www.quora.com > Why-do-so...」（https://www.quora.com/Why-do-some-supercar-brands-like-Pagani-rely-heavily-on-parts-from-other-companies-even-if-theyre-high-end・3回目）
+  - 「Pagani Automobili at CES 2026: Art and Science in the future ... — Pagani Automobili at CES 2026: Art and Science in the future ... Pagani https://www.pagani.com > press > pag...」（https://www.pagani.com/press/pagani-automobili-ces-2026/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像6件／外部14頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像6件／外部14頁・検索6回）
+
+## Pininfarina
+- 公式URL：https://www.pininfarina.it（given）
+- 従業員数：Paolo Dellachà ( CEO )
+Gaurav Godbole ( CFO )（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+- 従業員数：700+ (2021)（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+- 他社向けサービス：
+  - 「Pininfarina designs the Skywalk and Stargate for the Nitto ATP Finals on behalf of FITP」（https://pininfarina.it/・1回目）
+  - 「The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.」（https://pininfarina.it/about/our-group・1回目）
+  - 「The inauguration of the Engineering Centre of Cambiano, in 2002, represented the decision to reposition the Company, putting engineering services on the market. The internationalization process made a step forward through the establishment of Pininfarina Sverige AB in Sweden, a joint venture with Volvo Cars responsible for producing a new generation of convertible Volvo cars.」（https://pininfarina.it/about/heritage・1回目）
+  - 「In his current role, Christian directs all engineering services, ensuring that clients—from innovative start-ups to established OEMs—receive customized, high-quality solutions aligned with Pininfarina's exacting standards. His dedication to precision and excellence on every project reflects Pininfarina's ethos, inviting clients to become part of their guiding vision: “we move dreams.”」（https://pininfarina.it/about/team・1回目）
+  - 「, and marketing, while also effectively managing relationships with suppliers. Utilizing advanced AR/VR prototyping tools like our interactive buck, Cellula, allows us to convey design concepts early on, providing our clients with a firsthand experience of the finished product.」（https://pininfarina.it/services/uihmi・1回目）
+  - 「From ideation to prototyping, through to development, we offer a wide range of skills, technologies, and capabilities to meet the diverse needs of our clients.」（https://pininfarina.it/services/design・1回目）
+  - 「Pininfarina is a 360° design studio. From the enchanting lines of 1930s cars to the extraordinary experiences of today, we have created and continue to create valuable projects and proposals that guide our clients towards the future of mobility, architecture, and product & experience design.」（https://pininfarina.it/services/design・1回目）
+  - 「Pininfarina is a legendary design house. From ideation to execution, we bring a unique range of competencies and capabilities. Pininfarina through its design services helps its clients to: Envision, Innovate, Enhance and Accelerate.」（https://pininfarina.it/services/design・1回目）
+  - 「We approach architecture with a unique legacy of experience by combining a holistic and multidisciplinary interpretation of our Clients’ needs with the implementation of the latest technologies and processes, be they applications of parametric design, Design for Manufacturing or life cycle thinking for a greater sustainability and a lesser footprint.」（https://pininfarina.it/services/design・1回目）
+  - 「We combine beauty and innovation to create product and service experiences that bring impact for our clients, people and the planet. We work at the intersection of beauty and magic, style and interaction, proportions and motion, materials and technology.」（https://pininfarina.it/services/design・1回目）
+  - 「Consulting」（https://pininfarina.it/services/engineering・1回目）
+  - 「The synergy of skills between Branding, Architecture, Product & Experience design allows us to offer our clients design solutions that create innovative and immersive retail sales experiences.」（https://pininfarina.it/services/retail・1回目）
+- 部品・技術の供給：
+  - 「After graduation at Politecnico of Milano, Italy, he started to work in Ferrari S.p.A. in 2000, first serving as CAE Engineer. He went through several technical roles, such as Road-Testing Engineer, Concept Design Engineer and Innovation Manager, working on several projects and programs, such the development of the first four wheel drive powertrain.」（https://pininfarina.it/about/team・1回目）
+  - 「Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.」（https://pininfarina.it/about/team・1回目）
+  - 「, and marketing, while also effectively managing relationships with suppliers. Utilizing advanced AR/VR prototyping tools like our interactive buck, Cellula, allows us to convey design concepts early on, providing our clients with a firsthand experience of the finished product.」（https://pininfarina.it/services/uihmi・1回目）
+  - 「A key decision in HMI design is determining which functions should be assigned to physical controls and which to digital displays. Instrument clusters, infotainment systems and head-up displays are considered alongside switches, surfaces and other cockpit controls, taking into account ergonomics, reachability and driver attention.」（https://pininfarina.it/services/uihmi・1回目）
+  - 「transportation systems」（https://pininfarina.it/services/uihmi・1回目）
+  - 「In the automotive sector, Pininfarina covers the entire value chain, from vehicle styling to complete development including modeling, virtual reality, show cars, innovative packaging solutions at the system and component levels, prototype development, and small series production.」（https://pininfarina.it/services/engineering・1回目）
+  - 「Body-in-white Structures for the vehicles of today and tomorrow」（https://pininfarina.it/services/engineering・1回目）
+  - 「Efficient structures in steel, aluminum and fiber reinforced materials」（https://pininfarina.it/services/engineering・1回目）
+  - 「Modular design of frame and body structures」（https://pininfarina.it/services/engineering・1回目）
+  - 「Weight optimization of components in different materials」（https://pininfarina.it/services/engineering・1回目）
+  - 「Design of intrusion-resistant structures」（https://pininfarina.it/services/engineering・1回目）
+  - 「Development of components on all types of surfaces, from plastic to leather」（https://pininfarina.it/services/engineering・1回目）
+- ライセンス・ブランド：
+  - 「Brand Design」（https://pininfarina.it/・1回目）
+  - 「Brand Licensing」（https://pininfarina.it/・1回目）
+  - 「In the field of yachting, Pininfarina designs vessels that blend high performance, innovation, and beauty, crafting unique sailing experiences. Over the years, Pininfarina has collaborated with numerous shipyards in the design of both motor and sail yachts, redefining their brand identities and introducing new expressive languages.」（https://pininfarina.it/・1回目）
+  - 「Brand Design」（https://pininfarina.it/about/our-group・1回目）
+  - 「Brand Licensing」（https://pininfarina.it/about/our-group・1回目）
+  - 「The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Today, the Pininfarina Group is also one of the most prestigious brands in Architecture, with hundreds of projects and dozens of awards to its name.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Designers, engineers, architects, strategists and specialists work together to transform complex ideas into tangible, scalable and recognizable projects. This combination of cultures, markets and disciplines enables the Group to support brands, institutions and industrial partners through high-value innovation and design programs.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Multidisciplinary skills reflected in a broad portfolio of projects.」（https://pininfarina.it/about/our-group・1回目）
+  - 「multidisciplinary approach」（https://pininfarina.it/about/our-group・1回目）
+  - 「solutions capable of generating long-term value for brands, institutions and industrial partners.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Brand Design」（https://pininfarina.it/about/heritage・1回目）
+- 車以外の顧客・産業：
+  - 「Architecture」（https://pininfarina.it/・1回目）
+  - 「Mobility & Transportation」（https://pininfarina.it/・1回目）
+  - 「The mission of Pininfarina Architecture is to develop timeless beauty, unaffected by the ever-accelerating changes in society and the world, yet simultaneously embracing them. This beauty, however, is not just an end in itself; it also carries a distinct identity, meaning, and above all, impact. This philosophy is inherited from its automotive origins.」（https://pininfarina.it/・1回目）
+  - 「Pininfarina at IAA Transportation 2026 in Hannover」（https://pininfarina.it/・1回目）
+  - 「Mobility / Transportation」（https://pininfarina.it/・1回目）
+  - 「Architecture」（https://pininfarina.it/about/our-group・1回目）
+  - 「Mobility & Transportation」（https://pininfarina.it/about/our-group・1回目）
+  - 「The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Today, the Pininfarina Group is also one of the most prestigious brands in Architecture, with hundreds of projects and dozens of awards to its name.」（https://pininfarina.it/about/our-group・1回目）
+  - 「Designers, engineers, architects, strategists and specialists work together to transform complex ideas into tangible, scalable and recognizable projects. This combination of cultures, markets and disciplines enables the Group to support brands, institutions and industrial partners through high-value innovation and design programs.」（https://pininfarina.it/about/our-group・1回目）
+  - 「We are a 360° design studio that, over the years, has completed more than 1,950 projects across Automotive, Architecture, Nautical, Transportation & Mobility, and Product & Experience Design.」（https://pininfarina.it/about/our-group・1回目）
+  - 「to products, spaces, services and experiences. Each project brings together identity, function and feasibility, with the aim of creating」（https://pininfarina.it/about/our-group・1回目）
+- レース・ワンメイク：
+  - 「Limited Series」（https://pininfarina.it/・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/our-group・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/heritage・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/sustainability・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/awards・1回目）
+  - 「Lenovo Formula 1 Trophy」（https://pininfarina.it/about/awards・1回目）
+  - 「Super Laminar Pressure Series」（https://pininfarina.it/about/awards・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/team・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/visit-pininfarina・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/certifications・1回目）
+  - 「Limited Series」（https://pininfarina.it/about/pininfarina-academy・1回目）
+  - 「Pininfarina Academy is a series of benchmark programs in the field of advanced design education. We aim to inspire and prepare the next generation of designers, with conceptual and practical tools to address the challenges of the 21st century with creativity, competence and innovative vision.」（https://pininfarina.it/about/pininfarina-academy・1回目）
+- お金の形：
+  - 「Leeve Professional Coffee Machines per Helvacioglu」（https://pininfarina.it/about/awards・1回目）
+  - 「Each vehicle requires a digital language that reflects its identity. Pininfarina develops tailored visual and interaction concepts, translating the brand's character into typography, transitions, feedback and real-time 3D content.」（https://pininfarina.it/services/uihmi・1回目）
+  - 「Pininfarina places great emphasis on the precision and attention to detail required in modeling. Every curve, line, and surface is meticulously crafted to ensure it aligns with the design vision and functional requirements. Iterative feedback loops and adjustments are common during this stage to achieve the right balance between aesthetics, aerodynamics, and practicality.」（https://pininfarina.it/services/3d-modelling・1回目）
+  - 「With advancements in digital modeling, Pininfarina has also embraced virtual reality (VR) and augmented reality (AR) technologies. These tools enable immersive experiences, allowing designers, engineers, and clients to virtually enter and interact with virtual vehicle models, providing valuable feedback and enhancing collaboration.」（https://pininfarina.it/services/3d-modelling・1回目）
+  - 「Levee Professional Coffee Machines」（https://pininfarina.it/services/design・1回目）
+  - 「Costa Coffee」（https://pininfarina.it/services/design・1回目）
+  - 「Levee Professional Coffee Machines」（https://pininfarina.it/services/retail・1回目）
+  - 「Costa Coffee」（https://pininfarina.it/services/retail・1回目）
+  - 「Within the production scope, Pininfarina integrates teams from Production, Quality, Process Engineering, Purchasing, Maintenance, and Logistics, aiming to achieve the best results in terms of quality, costs, and timing.」（https://pininfarina.it/services/limited-series・1回目）
+  - 「, Sweden. As of 31 December 2011, the termination of this agreement would result in a 30 million euros fee paid to Pininfarina.」（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+  - 「Pininfarina designed the Costa Coffee CEM-200 Marlow Self-Serve Espresso Bar.」（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+  - 「"Pininfarina S.p.A. Annual Financial Report"」（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+- 売上構成：
+  - 「The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.」（https://pininfarina.it/about/our-group・1回目）
+  - 「In 1946 Renzo Carli joined Shell’s Technical Servicing Division.」（https://pininfarina.it/about/heritage・1回目）
+  - 「With a business approach honed by his international project management experience and an MBA in 2014, Giovanni is at the helm of the Architecture division to expand the company’s range of activities in design and architecture, reinterpreting the company’s philosophy and proposing a new perspective that equates impact with the combination of beauty and technology.」（https://pininfarina.it/about/team・1回目）
+  - 「Davide Fabi directly oversees corporate strategy, collection development, special collaborations, and custom projects, with the goal of establishing Pininfarina Segno as a benchmark in the lifestyle design segment, capable of combining heritage, innovation, and market value.」（https://pininfarina.it/about/team・1回目）
+  - 「Chief Business Development and Sales」（https://pininfarina.it/about/team・1回目）
+  - 「Before joining Pininfarina, Mr. Hanqing Li combines extensive experience in the world of design and engineering, has been taking increasingly responsible positions as Branch Manager, China Regional Sales Director and General manager in both Italian and Chinese markets within sector-leading companies.」（https://pininfarina.it/about/team・1回目）
+  - 「Turbulence flow in laminar condition < 0.74%」（https://pininfarina.it/services/wind-tunnel・1回目）
+  - 「Use of Pininfarina name and trademark in the press releases as well as in the sales and marketing materials related to the project prepared by the Client」（https://pininfarina.it/services/brand-licensing・1回目）
+  - 「The synergy of skills between Branding, Architecture, Product & Experience design allows us to offer our clients design solutions that create innovative and immersive retail sales experiences.」（https://pininfarina.it/services/retail・1回目）
+  - 「The sales experience doesn't just involve products; it encompasses all moments and touchpoints in the relationship between a brand and its audience. Each of these has its design component, both physical and digital, that Pininfarina can develop.」（https://pininfarina.it/services/retail・1回目）
+  - 「Leverage on Pininfarina interior design expertise to realize innovative and immersive retail experiences codified through digital and physical design, engaging the consumer through the five senses, and communicating the brand values. Realization of iconic flagship stores designed to extend the brand experience while increasing the reach, traffic, and sales.」（https://pininfarina.it/services/retail・1回目）
+  - 「A coachbuilt vehicle can represent the most advanced expression of a brand language, introduce a new product direction or support a program aimed at the most exclusive segment of the customer base.」（https://pininfarina.it/services/coachbuilding・1回目）
+- 創業期と参入のしやすさ：
+  - 「Founded in Turin in 1930」（https://pininfarina.it/about/our-group・1回目）
+  - 「In 1930, he left “Stabilimenti Farina” and founded” Carrozzeria Pinin Farina”.」（https://pininfarina.it/about/heritage・1回目）
+  - 「The Group currently looks to the future with optimism thanks to the encouraging signals coming from the markets, leveraging its most precious resource: around 500 employees in Italy, Germany, China and the United States who work every day with commitment and professionalism to promote the brand, the image of Pininfarina in the world and develop more innovative, sustainable and inclusive solutions.」（https://pininfarina.it/about/sustainability・1回目）
+  - 「Employees」（https://pininfarina.it/about/sustainability・1回目）
+  - 「By encouraging the training of collaborators and employees through the provision of targeted courses. The processes implemented to strengthen training are also formalized within the "Management of training courses" procedure which represents an integral part of the Quality and Environment Management System of Pininfarina S.p.A.」（https://pininfarina.it/about/sustainability・1回目）
+  - 「Davide Loris Amantea, known as Dave, is an Italian designer born and raised in Turin, where he developed a deep passion for automobiles and for Pininfarina from an early age. His career was built from the ground up: mechanical studies at ITIS Pininfarina, prototype modeling, painting, and CAS design, a path shaped by hands-on experience long before sketches and digital tools.」（https://pininfarina.it/about/team・1回目）
+  - 「Samuele is also one of the founders of MlabArchitects, where he developed a wide range of projects and participated in prestigious international competitions – including the tender for the restoration of Livorno Water Customs, winning the first prize in 2009.」（https://pininfarina.it/about/team・1回目）
+  - 「In his current role, Christian directs all engineering services, ensuring that clients—from innovative start-ups to established OEMs—receive customized, high-quality solutions aligned with Pininfarina's exacting standards. His dedication to precision and excellence on every project reflects Pininfarina's ethos, inviting clients to become part of their guiding vision: “we move dreams.”」（https://pininfarina.it/about/team・1回目）
+  - 「Low-fidelity prototypes help assess interaction flows and functional logic, while high-fidelity interactive prototypes enable the evaluation of visual design, motion and real-time 3D content.」（https://pininfarina.it/services/uihmi・1回目）
+  - 「A strategic and precision tool for aerodynamic evaluation.」（https://pininfarina.it/services/wind-tunnel・1回目）
+  - 「Investing in Design, hence making a strong statement towards the value of company’s vision, products and business purpose, which represents a benefit for customers, stakeholders and investors.」（https://pininfarina.it/services/brand-licensing・1回目）
+  - 「Conceptual Evaluation」（https://pininfarina.it/services/design・1回目）
+- 顧客名：
+  - 「The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.」（https://pininfarina.it/about/our-group・1回目）
+  - 「In 1959 the Ferrari 250 GT Short Wheel Base was born as ‹‹the Ferrari›› epitome. Archetype of the Ferrari-Pininfarina technical-aesthetic process of evolution, it expressed sporty performance and timeless elegance. In 1960 the Pininfarina X was presented: a perfect combination of scientific research with an original and revolutionary shape.」（https://pininfarina.it/about/heritage・1回目）
+  - 「BMW MINI JOHN COOPER WORKS GP CARBON SPATS」（https://pininfarina.it/about/awards・1回目）
+  - 「BMW Pininfarina Gran Lusso Coupè」（https://pininfarina.it/about/awards・1回目）
+  - 「Head of Internal Auditing and Risk Management」（https://pininfarina.it/about/team・1回目）
+  - 「After graduation at Politecnico of Milano, Italy, he started to work in Ferrari S.p.A. in 2000, first serving as CAE Engineer. He went through several technical roles, such as Road-Testing Engineer, Concept Design Engineer and Innovation Manager, working on several projects and programs, such the development of the first four wheel drive powertrain.」（https://pininfarina.it/about/team・1回目）
+  - 「Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.」（https://pininfarina.it/about/team・1回目）
+  - 「Davide Fabi directly oversees corporate strategy, collection development, special collaborations, and custom projects, with the goal of establishing Pininfarina Segno as a benchmark in the lifestyle design segment, capable of combining heritage, innovation, and market value.」（https://pininfarina.it/about/team・1回目）
+  - 「Christian Krinner joined Pininfarina Deutschland GmbH in 2023 as Managing Director – Finance」（https://pininfarina.it/about/team・1回目）
+  - 「Customs audit certificate」（https://pininfarina.it/about/certifications・1回目）
+  - 「Customs Audit Certificate (Valid for Pininfarina Headquarter in Cambiano)」（https://pininfarina.it/about/certifications・1回目）
+  - 「With advancements in digital modeling, Pininfarina has also embraced virtual reality (VR) and augmented reality (AR) technologies. These tools enable immersive experiences, allowing designers, engineers, and clients to virtually enter and interact with virtual vehicle models, providing valuable feedback and enhancing collaboration.」（https://pininfarina.it/services/3d-modelling・1回目）
+- 検索結果の抜粋：
+  - 「Automotive Design and Engineering | Pininfarina — Automotive Design and Engineering | Pininfarina Pininfarina https://pininfarina.it > automotive」（https://pininfarina.it/sectors/automotive・3回目）
+  - 「Design Innovation and Engineering Brilliance at the Heart of ... — Design Innovation and Engineering Brilliance at the Heart of ... Automobili Pininfarina https://www.automobili-pininfarina.com > ...」（https://www.automobili-pininfarina.com/media-hub/press-releases/design-innovation-and-engineering-brilliance-heart-new-automobili・3回目）
+  - 「Pininfarina - Wikipedia — Pininfarina - Wikipedia Wikipedia https://en.wikipedia.org > Pininfarina」（https://en.wikipedia.org/wiki/Pininfarina・3回目）
+  - 「Pininfarina | LinkedIn — Pininfarina | LinkedIn LinkedIn India https://in.linkedin.com > pininfarina」（https://in.linkedin.com/company/pininfarina・3回目）
+  - 「Pininfarina continues to create the vehicles of tomorrow — Pininfarina continues to create the vehicles of tomorrow DesignWanted https://designwanted.com > pininfarin...」（https://designwanted.com/pininfarina-automotive-design-interview/・3回目）
+  - 「Annual financial reports - Pininfarina — Annual financial reports - Pininfarina Pininfarina https://pininfarina.it > investor-relations」（https://pininfarina.it/investor-relations/annual-financial-reports・3回目）
+  - 「Automobili Pininfarina : Revenue , Competitors, Alternatives — Automobili Pininfarina : Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Aut...」（https://growjo.com/company/Automobili_Pininfarina・3回目）
+  - 「Pininfarina S.p.A. (PINF.MI) Valuation Measures & Financial ... — Pininfarina S.p.A. (PINF.MI) Valuation Measures & Financial ... Yahoo Finance https://finance.yahoo.com > PINF.MI」（https://finance.yahoo.com/quote/PINF.MI/key-statistics/・3回目）
+  - 「Automobili Pininfarina Powers up With New Global ... — Automobili Pininfarina Powers up With New Global ... Automobili Pininfarina https://www.automobili-pininfarina.com > ...」（https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team・3回目）
+  - 「Pininfarina Digitalizes Procurement with JAGGAER — Pininfarina Digitalizes Procurement with JAGGAER jaggaer https://www.jaggaer.com > press-release」（https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer・3回目）
+  - 「Pininfarina Deutschland GmbH — Pininfarina Deutschland GmbH keytobavaria.com https://www.keytobavaria.com > pini...」（https://www.keytobavaria.com/company-details/pininfarina-deutschland-gmbh-27739・3回目）
+  - 「Automobili Pininfarina | Where Dream Cars Become Reality — Automobili Pininfarina | Where Dream Cars Become Reality Automobili Pininfarina https://www.automobili-pininfarina.com」（https://www.automobili-pininfarina.com/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）
+
+## Porsche Design
+- 公式URL：https://www.porsche-design.com（given）
+- 他社向けサービス：
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「This June marks five years since Porsche Engineering Services s.r.o. (PECZ) established its location on the innovation campus in Ostrava. Since then, the Czech subsidiary has continuously expanded its local competencies to deliver cutting-edge solutions across increasingly complex and integrated value chains.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「develop, test, and distribute software applications, websites, and interfaces on behalf of Porsche that are available」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「DATA), REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「officers, employees, successors, assigns, insurers, independent contractors and agents harmless from and against any and」（https://designsystem.porsche.com/v3/license/・3回目）
+- 部品・技術の供給：
+  - 「We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed three prototype V2X applications over the past twelve months. The software team in Lecce and the Nardò Technical Center play a key role in this. A state-of-the-art wireless infrastructure is available there.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed the concept of an ‘AC battery’ for electric vehicles that unites numerous components in a single part. It is controlled by a standardized control unit concept with a particularly powerful and real-time-capable computing platform. The system was developed as part of a feasibility study, tested on the test bench, and demonstrated in a vehicle.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Driver assistance systems make road traffic safer, but so far mainly cover standard situations. Using artificial intelligence, Porsche Engineering is working to make identifying traffic situations that occur less frequently—known as corner cases— easier and more reliable. The aim is to improve ADAS.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Software plays a key role in modern life, but also in vehicles. For this reason, OEMs and suppliers use proven methods and tools to identify errors in programs as early as possible. Researchers are already working on new approaches, including ones based on artificial intelligence.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「* Data determined in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) as required by law. For Plug-in Hybrid Electric Vehicle (PHEV) range and Equivalent All Electric Range (EAER) figures are determined with the battery fully charged, using a combination of both battery power and fuel.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Components Ready」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「Component Chunk Links」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「Changes the theme of the application and any Porsche Design System component. It's possible to choose between forced theme」（https://designsystem.porsche.com/v3/license/・3回目）
+- ライセンス・ブランド：
+  - 「Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering likes to move into uncharted territory when it comes to development projects for external customers and transfer its experience from automotive development to other sectors. One successful collaboration of this kind was the optimization of the crane cab design for Terex Cranes.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Racing games and automotive development aim to replicate reality, but with different focuses—games emphasize visuals, while developers prioritize driving physics. Collaborations with Porsche allow game makers to use 3D models and laser-scanned vehicle data. Innovations like Porsche's "Virtual Roads" app open new possibilities for both industries.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「License our Company Data API」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Junior Managerin Product & Licenses」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Ellipse Analyti...」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「This year marks the 50th anniversary of Porsche Design, the design studio and brand Ferdinand Alexander Porsche founded in 1972 in Stuttgart...」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「What Brands Are Really OEM?! and Why They Are Better... (4K)」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「In this video, Lawrence dives into the differences between OE (Original Equipment) and OEM (Original Equipment Manufacturer) parts. Learn how Porsche parts are made, what makes them unique, and how you can save money without compromising on quality.」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「Design 911 Brands -」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「https://www.design911.co.uk/brands/」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+- 車以外の顧客・産業：
+  - 「We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The Frauscher x Porsche 790 Spectre electric sports boat, jointly developed by Porsche and Austrian boatbuilder Frauscher, has set a new speed record at the Monaco Energy Boat Challenge. With an average speed of 51.05 knots (94.5 km/h), the boat broke the symbolic 50-knot barrier for the first time and set a new competition record.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「1972 was the last time a human was on the moon. There are plans to return soon. To ensure that astronauts and lunar robots are optimally prepared to do so, the German Aerospace Center (DLR) and the European Space Agency (ESA) have jointly built the LUNA research facility. It is a kind of mini earth satellite, a training ground as “true to life” as possible.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche’s new road simulation test bench makes it possible to accurately reproduce real road conditions. This means that vehicle characteristics can be optimized and validated early in the development process—for Porsche sports cars and in other vehicle projects.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「TABASKO (from the German for ‘tape-based carbon-fiber lightweight construction’) can reduce the use of plastic materials; the process developed by Porsche Engineering also allows the use of post-consumer recycled material. This makes vehicle construction a bit more sustainable.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Artificial intelligence is bringing massive changes to all areas of life, including development. In this interview, Markus-Christian Eberl, CEO of Porsche Engineering, and Dr. Matthias Peissner, Head of the Human-Technology Interaction Research Unit at the Fraunhofer Institute for Industrial Engineering IAO in Stuttgart, talk about the opportunities and limitations of the new technology.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Values are provided for comparison only. To the extent that fuel and energy consumption or CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「values are given as ranges, these do not relate to a single, individual car and do not constitute part of the offer. Optional features and accessories can change relevant vehicle parameters such as weight, rolling resistance and aerodynamics which may result in a change in fuel or energy consumption and CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「values. Vehicle loading, topography, weather and traffic conditions, as well as individual driving styles, can all affect the actual fuel consumption, energy consumption, electrical range, and CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Consumer」（https://growjo.com/company/Porsche_Design・3回目）
+- レース・ワンメイク：
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has already demonstrated and verified the potential of AI for time and cost savings during the development process in several projects. In the field of passive safety, the first steps towards adoption in series development are now being taken.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「SEAM SEALING THE GT3! 992 911 GT3 Episode 14」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「3Dプリンターでボンネットを自作してカーボンファイバー化してみた - PORSCHE 911 GT3RS」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「Through this time, he helped steer decades of projects including design concepts, special editions, race cars, road cars, and one-off customer commissions. He stresses that his achievements were only possible thanks to his close-knit and talented team. “Everyone has their strengths, and the strengths all bounce off each other,” he says.」（https://newsroom.porsche.com/en_US/2025/company/porsche-grant-larson-special-projects-design-41298.html・3回目）
+- お金の形：
+  - 「Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Send feedback」（https://shop.porsche.com/us/en-US/c/porsche-accessories・3回目）
+  - 「Subject to the terms of this Agreement, Porsche grants you a limited, worldwide, royalty-free, non-assignable,」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「all claims, costs, damages, losses, liabilities and expenses (including reasonable attorneys’ fees and costs) arising」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「guaranteed by an Open Source License. A nominal fee (i.e., the cost of physically performing the distribution) will be」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「Larson first studied Industrial Design at the Milwaukee Institute of Art and Design and only later committed to automotive design. Encounters with ArtCenter College of Design graduates, including automotive designer Tom Peters, convinced him to take the leap. “I thought ‘this is what I’ve always wanted to do’. So, I quit my job, sold my car to pay the tuition fees, and went for it.”」（https://newsroom.porsche.com/en_US/2025/company/porsche-grant-larson-special-projects-design-41298.html・3回目）
+  - 「OK, so you know car geeks love the original Boxster concept car. And then the production car came out, and it wasn’t exactly the same, and everyone was sad for 45 minutes and then moved on with their lives. But how did you feel about the changes from the Boxster concept to the production vehicle? Were you sad, too?」（https://www.motortrend.com/features/porsche-designer-grant-larson-retires-boxster-interview-feature・3回目）
+- 売上構成：
+  - 「Intelligent soft switching with AI support promises to reduce switching losses in power transistors by up to 95 percent. Porsche Engineering is already testing the new approach in simulations.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Design: Revenue, Competitors, Alternatives」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Revenue」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Employee Growth %」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Best Sales Lead Database」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「© 2026 Porsche Sales & Marketplace, Inc.」（https://shop.porsche.com/us/en-US/c/porsche-accessories・3回目）
+- 創業期と参入のしやすさ：
+  - 「Evaluation at the Touch of a Button」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Total Funding」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Employees.」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Valuation」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「This year marks the 50th anniversary of Porsche Design, the design studio and brand Ferdinand Alexander Porsche founded in 1972 in Stuttgart...」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Mike's HorsePower Garage」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「Tommy L Garage」（https://www.youtube.com/watch?v=3_nUUl4DhSM・3回目）
+  - 「officers, employees, successors, assigns, insurers, independent contractors and agents harmless from and against any and」（https://designsystem.porsche.com/v3/license/・3回目）
+- 顧客名：
+  - 「Country Selector | PORSCHE SHOP」（https://shop.porsche.com/・1回目）
+  - 「Slovakia」（https://shop.porsche.com/・1回目）
+  - 「Accelerating innovative mobility solutions | Porsche Engineering」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Your Start at Porsche Engineering」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering: Pioneering and Accelerating Technologies for Vehicles and Beyond」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「At Porsche Engineering, we are committed to develop pioneering digital and engineering solutions. Since 1931, we have been crafting the technologies of the future for vehicles and beyond.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Explore news, insights, and innovations in our Newsroom—your source for updates on Porsche Engineering’s journey in shaping future mobility and engineering solutions.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering celebrates 25 Years of Engineering Excellence and Innovation in the Czech Republic」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering Czech Republic, the Czech branch of the international technology service provider Porsche Engineering, celebrates its 25th anniversary in 2026. Since its foundation in Prague in 2001, the company has developed from a small engineering office into one of Porsche Engineering’s largest development locations and an important part of its international development network.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Frauscher x Porsche 790 Spectre Surpasses the 50-Knot Mark」（https://www.porscheengineering.com/en/peg/・3回目）
+- 検索結果の抜粋：
+  - 「Porsche Design : Revenue , Competitors, Alternatives - Growjo — Porsche Design : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Porsche_Design」（https://growjo.com/company/Porsche_Design・3回目）
+  - 「Porsche Design of America Information — Porsche Design of America Information RocketReach https://rocketreach.co > porsche-desig...」（https://rocketreach.co/porsche-design-of-america-profile_b5c5d614f42e0e4f・3回目）
+  - 「License - Porsche Design System — License - Porsche Design System Porsche Design System https://designsystem.porsche.com > li...」（https://designsystem.porsche.com/v3/license/・3回目）
+  - 「Porsche Design - Wikipedia — Porsche Design - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Pors...」（https://en.wikipedia.org/wiki/Porsche_Design・3回目）
+  - 「Recently Retired Porsche Design Legend Grant Larson ... — Recently Retired Porsche Design Legend Grant Larson ... MotorTrend https://www.motortrend.com > features」（https://www.motortrend.com/features/porsche-designer-grant-larson-retires-boxster-interview-feature・3回目）
+  - 「Exclusive Interview: Porsche Design CEO Wants To ... - Forbes — Exclusive Interview: Porsche Design CEO Wants To ... - Forbes Forbes https://www.forbes.com > 2021/03/31」（https://www.forbes.com/sites/bryancampbell/2021/03/31/exclusive-interview-porsche-design-ceo-wants-to-customize-more-than-just-wrist-watches/・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Porsche Engineering
+- 公式URL：https://www.porsche-engineering.com（given）
+- 他社向けサービス：
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「This June marks five years since Porsche Engineering Services s.r.o. (PECZ) established its location on the innovation campus in Ostrava. Since then, the Czech subsidiary has continuously expanded its local competencies to deliver cutting-edge solutions across increasingly complex and integrated value chains.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Porsche sells MHP to Tata Consultancy Services」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Porsche's history underscores that it is more than just a sports car manufacturer—it is also a trusted engineering partner for external clients. The collaboration with Linde, which began in the 1980s and continues today, exemplifies Porsche Engineering’s enduring role as an innovative, client-focused development partner.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「1996: Founding of Porsche Engineering Services」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Davidson Consulting」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Innovative by tradition: 90 years of engineering services by Porsche - Porsche Newsroom」（https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html・3回目）
+  - 「Innovative by tradition: 90 years of engineering services by Porsche」（https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html・3回目）
+  - 「Since Ferdinand Porsche founded his Stuttgart engineering office in 1931, the Porsche name has been closely associated with engineering services. Nine decades on, we take a journey through automotive history.」（https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html・3回目）
+- 部品・技術の供給：
+  - 「We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed three prototype V2X applications over the past twelve months. The software team in Lecce and the Nardò Technical Center play a key role in this. A state-of-the-art wireless infrastructure is available there.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed the concept of an ‘AC battery’ for electric vehicles that unites numerous components in a single part. It is controlled by a standardized control unit concept with a particularly powerful and real-time-capable computing platform. The system was developed as part of a feasibility study, tested on the test bench, and demonstrated in a vehicle.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Driver assistance systems make road traffic safer, but so far mainly cover standard situations. Using artificial intelligence, Porsche Engineering is working to make identifying traffic situations that occur less frequently—known as corner cases— easier and more reliable. The aim is to improve ADAS.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Software plays a key role in modern life, but also in vehicles. For this reason, OEMs and suppliers use proven methods and tools to identify errors in programs as early as possible. Researchers are already working on new approaches, including ones based on artificial intelligence.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「* Data determined in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) as required by law. For Plug-in Hybrid Electric Vehicle (PHEV) range and Equivalent All Electric Range (EAER) figures are determined with the battery fully charged, using a combination of both battery power and fuel.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「In 2012, Porsche acquired the Nardò Technical Center (NTC) in Apulia, a premier proving ground spanning 700 hectares and featuring a 6.2-kilometer handling course, the iconic 12.6-kilometer circular track, and other cutting-edge testing infrastructure.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「This achievement underscored Porsche Engineering’s position as a key innovation and technology partner in motorsport. By contributing to the success of one of the most important races in motorsport history, Porsche Engineering reinforced its reputation for excellence and leadership in cutting-edge engineering solutions, particularly in the field of battery technology.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「* Data determined in accordance with the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) as required by law. For Plug-in Hybrid Electric Vehicle (PHEV) range and Equivalent All Electric Range (EAER) figures are determined with the battery fully charged, using a combination of both battery power and fuel.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+- ライセンス・ブランド：
+  - 「Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering likes to move into uncharted territory when it comes to development projects for external customers and transfer its experience from automotive development to other sectors. One successful collaboration of this kind was the optimization of the crane cab design for Terex Cranes.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Racing games and automotive development aim to replicate reality, but with different focuses—games emphasize visuals, while developers prioritize driving physics. Collaborations with Porsche allow game makers to use 3D models and laser-scanned vehicle data. Innovations like Porsche's "Virtual Roads" app open new possibilities for both industries.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Brand Ambassadors」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Porsche Engineering and Porsche Digital will join forces under the brand Porsche Technologies in the future.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「The launch of Porsche Technologies is planned for the beginning of the second quarter of 2027. Leadership will be assumed by Markus-Christian Eberl, currently CEO of Porsche Engineering, as CEO; Stefan Zerweck, currently CEO of Porsche Digital, as CTO; and Dirk Philipp, currently CFO/COO of Porsche Engineering, as CFO/COO.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Stefan Zerweck, Markus-Christian Eberl, Dirk Philipp (l-r), future leadership of Porsche Technologies」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「The establishment of Porsche Technologies will be accompanied by a new brand identity that visualizes technological expertise and a commitment to innovation. Based on a clear geometric square shape, dynamic graphic elements represent the expansion of existing boundaries and the broader solution space enabled by integrated technology solutions.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「5. Insofar as Porsche Newsroom provides information concerning vehicles, the data refers to the German market. Statements concerning standard equipment and statutory, legal and tax regulations and repercussion are valid for the Federal Public of Germany only.」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「At Porsche Engineering, we combine technological excellence with commitment to people. With the agility of a mid-sized company and the resources of a global network, we deliver innovative, future-ready solutions. Our culture thrives on collaboration, driven by a shared passion for advancing technologies that redefines industries.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+- 車以外の顧客・産業：
+  - 「We are developing digital solutions, from source code to function. And we love engineering the future - from chassis to body, from architecture to energy, from automated driving to vehicle-to-X.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The Frauscher x Porsche 790 Spectre electric sports boat, jointly developed by Porsche and Austrian boatbuilder Frauscher, has set a new speed record at the Monaco Energy Boat Challenge. With an average speed of 51.05 knots (94.5 km/h), the boat broke the symbolic 50-knot barrier for the first time and set a new competition record.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「1972 was the last time a human was on the moon. There are plans to return soon. To ensure that astronauts and lunar robots are optimally prepared to do so, the German Aerospace Center (DLR) and the European Space Agency (ESA) have jointly built the LUNA research facility. It is a kind of mini earth satellite, a training ground as “true to life” as possible.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche’s new road simulation test bench makes it possible to accurately reproduce real road conditions. This means that vehicle characteristics can be optimized and validated early in the development process—for Porsche sports cars and in other vehicle projects.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「How can automotive development service providers and aerospace benefit from each other? In this interview, ESA astronaut Dr. Matthias Maurer and Dr. Christoph Roggendorf from Porsche Engineering talk about material research, autonomous systems, and virtual test methods.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「TABASKO (from the German for ‘tape-based carbon-fiber lightweight construction’) can reduce the use of plastic materials; the process developed by Porsche Engineering also allows the use of post-consumer recycled material. This makes vehicle construction a bit more sustainable.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Artificial intelligence is bringing massive changes to all areas of life, including development. In this interview, Markus-Christian Eberl, CEO of Porsche Engineering, and Dr. Matthias Peissner, Head of the Human-Technology Interaction Research Unit at the Fraunhofer Institute for Industrial Engineering IAO in Stuttgart, talk about the opportunities and limitations of the new technology.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Values are provided for comparison only. To the extent that fuel and energy consumption or CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「values are given as ranges, these do not relate to a single, individual car and do not constitute part of the offer. Optional features and accessories can change relevant vehicle parameters such as weight, rolling resistance and aerodynamics which may result in a change in fuel or energy consumption and CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「values. Vehicle loading, topography, weather and traffic conditions, as well as individual driving styles, can all affect the actual fuel consumption, energy consumption, electrical range, and CO」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Motorsports」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+- レース・ワンメイク：
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has already demonstrated and verified the potential of AI for time and cost savings during the development process in several projects. In the field of passive safety, the first steps towards adoption in series development are now being taken.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Formula E」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「911 GT3 RS (WLTP)*:」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「911 GT3 S/C (WLTP)*:」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Formula E」（https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html・3回目）
+  - 「Formula E」（https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html・3回目）
+  - 「Ferdinand Porsche 1937 with a Volkswagen prototype of the series W30」（https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html・3回目）
+  - 「series-hybrid」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+  - 「While at Daimler Motoren Gesellschaft he came up with several very successful race car designs. The series of models equipped with superchargers that culminated in the」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+  - 「formula. The main regulation of this formula was that the weight of the car without driver, fuel, oil, water, and tires was not allowed to exceed」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+  - 「The series production version made in Stuttgart had a」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+- お金の形：
+  - 「Porsche Engineering is expanding its involvement in the field of driving simulators. The goal is to obtain subjective feedback on new digital functions at an early stage. Porsche AG is also currently enhancing its infrastructure and is planning a Virtual Validation Center in Weissach.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Online Annual & Sustainability Report」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Porsche Engineering Group Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Online Annual & Sustainability Report」（https://newsroom.porsche.com/en/2021/history/porsche-engineering-anniversary-90-years-24247.html・3回目）
+  - 「Your free weekly intelligence feed」（https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/・3回目）
+  - 「By signing up for the Automotive World Intelligence Feed, you agree to our」（https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/・3回目）
+  - 「Online Annual & Sustainability Report」（https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html・3回目）
+  - 「were to be given an annual grant of」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+  - 「royalty」（https://en.wikipedia.org/wiki/Ferdinand_Porsche・3回目）
+- 売上構成：
+  - 「Intelligent soft switching with AI support promises to reduce switching losses in power transistors by up to 95 percent. Porsche Engineering is already testing the new approach in simulations.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Since 2012, the facility has been modernized to enhance intelligent and connected vehicle testing. Operating year-round, the NTC supports global clients while complementing the Weissach Development Center. Since 2023, a software division in closely located Lecce expands the advanced competencies and expertise in Southern Italy.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「Since the acquisition, Porsche Engineering has transformed the NTC into a hub for high-performance and connected vehicle development through extensive modernization. The addition of a 5G network and a software division in Lecce, a city renowned for its educational and talent resources, further highlights its role as an innovation hub.」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「), and Sales and Marketing (」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「173.3%」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「-2.8% (-207)」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「2.8% YoY」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「0.7% YoY」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Eastern Europe accounts for the largest share of Porsche Engineering Group's global workforce with approximately」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「% of Total」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Sales and Marketing」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Europe grows, China sinks: global LV sales set to fall 3.7%」（https://www.automotiveworld.com/news/porsche-merges-engineering-and-digital-units-into-one/・3回目）
+- 創業期と参入のしやすさ：
+  - 「Evaluation at the Touch of a Button」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering has developed an AI-based driving-comfort evaluation system that supplements the assessments made by human experts to deliver objective results and accelerate development time. It will also be possible to use it in series-production vehicles in order to provide information on chassis performance during vehicle use.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche & Startups」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Employees & Society」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「Porsche Engineering Group Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「total employees worldwide as of」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「’s total headcount has」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「from 4,833 employees in 2023 to 4,301 in 2026」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「. It is the 5th-largest by headcount among its」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+- 顧客名：
+  - 「Accelerating innovative mobility solutions | Porsche Engineering」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Your Start at Porsche Engineering」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering: Pioneering and Accelerating Technologies for Vehicles and Beyond」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「At Porsche Engineering, we are committed to develop pioneering digital and engineering solutions. Since 1931, we have been crafting the technologies of the future for vehicles and beyond.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Explore news, insights, and innovations in our Newsroom—your source for updates on Porsche Engineering’s journey in shaping future mobility and engineering solutions.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering celebrates 25 Years of Engineering Excellence and Innovation in the Czech Republic」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering Czech Republic, the Czech branch of the international technology service provider Porsche Engineering, celebrates its 25th anniversary in 2026. Since its foundation in Prague in 2001, the company has developed from a small engineering office into one of Porsche Engineering’s largest development locations and an important part of its international development network.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering and Porsche Digital Combine their Expertise under the Brand Porsche Technologies」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The international engineering services provider Porsche Engineering and the digital and software unit Porsche Digital will combine their expertise under the joint brand Porsche Technologies. This creates an integrated provider of holistic end-to-end technology solutions. The service offering is aimed at Porsche, the automotive industry, as well as other industrial and technology sectors.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Frauscher x Porsche 790 Spectre Surpasses the 50-Knot Mark」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「The Frauscher x Porsche 790 Spectre electric sports boat, jointly developed by Porsche and Austrian boatbuilder Frauscher, has set a new speed record at the Monaco Energy Boat Challenge. With an average speed of 51.05 knots (94.5 km/h), the boat broke the symbolic 50-knot barrier for the first time and set a new competition record.」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering Romania Celebrates Ten Years as a Software and AI Hub」（https://www.porscheengineering.com/en/peg/・3回目）
+- 検索結果の抜粋：
+  - 「Porsche Engineering : Accelerating innovative mobility solutions — Porsche Engineering : Accelerating innovative mobility solutions Porsche Engineering https://www.porscheengineering.com > ...」（https://www.porscheengineering.com/en/peg/・3回目）
+  - 「Porsche Engineering and Porsche Digital combine their ... — Porsche Engineering and Porsche Digital combine their ... Porsche Newsroom https://newsroom.porsche.com > pors...」（https://newsroom.porsche.com/en/2026/company/porsche-engineering-digital-combine-expertise-porsche-technologies-43556.html・3回目）
+  - 「About us: Innovation, expertise, and global solutions — About us: Innovation, expertise, and global solutions Porsche Engineering https://www.porscheengineering.com > ...」（https://www.porscheengineering.com/it/peg/about-us/・3回目）
+  - 「Porsche Engineering — Porsche Engineering Porsche Newsroom https://newsroom.porsche.com > pors...」（https://newsroom.porsche.com/en/innovation/porsche-engineering.html・3回目）
+  - 「Porsche Engineering - Wikipedia — Porsche Engineering - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Pors...」（https://en.wikipedia.org/wiki/Porsche_Engineering・3回目）
+  - 「Porsche Engineering Information - RocketReach — Porsche Engineering Information - RocketReach RocketReach https://rocketreach.co > porsche-engi...」（https://rocketreach.co/porsche-engineering-profile_b6a49b54c878bdb8・3回目）
+  - 「Porsche Engineering Group Number of Employees 2026 — Porsche Engineering Group Number of Employees 2026 Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/porsche-engineering-group/employees・3回目）
+  - 「Porsche Engineering Services - Overview, News & Similar ... — Porsche Engineering Services - Overview, News & Similar ... ZoomInfo https://www.zoominfo.com > porsche...」（https://www.zoominfo.com/c/porsche-engineering-services-inc/350616326・3回目）
+  - 「Porscheengineering - 2026 Company Profile & Competitors — Porscheengineering - 2026 Company Profile & Competitors Tracxn https://tracxn.com > ... > Companies」（https://tracxn.com/d/companies/porscheengineering/__ppHhOakFRTGQzdGCzvFpQHlTbnjVmjQLS5Y6s-dlW9U・3回目）
+  - 「Porsche Engineering Newsroom — Porsche Engineering Newsroom Porsche Engineering https://www.porscheengineering.com > ...」（https://www.porscheengineering.com/en/peg/newsroom/・3回目）
+  - 「Porsche Engineering's Post - LinkedIn — Porsche Engineering's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > p...」（https://www.linkedin.com/posts/porsche-engineering_a-new-chapter-introducing-porsche-technologies-activity-7513629404011323395-QBhL・3回目）
+  - 「The history of the Porsche engineering office — The history of the Porsche engineering office Porsche Newsroom https://newsroom.porsche.com > pors...」（https://newsroom.porsche.com/en/company/porsche-1931-1951-history-study-book-design-office-ferdinand-porsche-14144.html・3回目）
+- 設立：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索6回）
+
+## Prodrive
+- 公式URL：https://www.prodrive.com（given）
+- 他社向けサービス：
+  - 「Our expertise and dedication have made us the driving force behind some of the greatest names and achievements in world motorsport. From the design and manufacture of cutting-edge cars to the full operation and management of elite works teams, we provide a comprehensive turnkey operation.」（https://www.prodrive.com/・1回目）
+  - 「We design, develop, and produce solutions across the mobility sector and redefine what possible means for our customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management through to low volume production. This enables us to significantly de-risk and accelerate New Product Introduction for our customers.」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「We specialize in complete turnkey solutions, from original concept to whole lifecycle production, carefully combining many of our engineering capabilities to deliver advanced functions.」（https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/・1回目）
+  - 「We draw on our extensive experience working across different technologies to support solutions that meet and exceed our clients’ requirements in terms of performance, cost, mass and reliability.」（https://www.prodrive.com/advanced-technology/production-products/active-aero/・1回目）
+  - 「With in-house facilities we can deliver a concept from a blank sheet of paper, or a donor vehicle, through to development and validation into production. We offer a flexible service up to a full turnkey solution, combining our engineering pedigree with our logistics, supply chain management and quality management functions.」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management」（https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf・2回目）
+  - 「Turnkey solution - Typhon」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/・3回目）
+  - 「Turnkey solution - Typhon」（https://prodrive-technologies.com/en/manufacturing-services/・3回目）
+  - 「Turnkey solution - Typhon」（https://prodrive-technologies.com/en/markets/defense/・3回目）
+  - 「Turnkey solution - Typhon」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/・3回目）
+- 部品・技術の供給：
+  - 「Handmade Carbon Fibre」（https://www.prodrive.com/・1回目）
+  - 「Precision Sim Engineering LM Pro with 5 rotary dials, 12 push buttons & carbon fibre paddles」（https://www.prodrive.com/・1回目）
+  - 「We design, develop, and produce solutions across the mobility sector and redefine what possible means for our customers. We are a turnkey provider; managing all engineering, logistics, supply chain and quality management through to low volume production. This enables us to significantly de-risk and accelerate New Product Introduction for our customers.」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Whether the build of complete modules ready for fitment on your production line is required, or the production of complex vehicle systems, Prodrive Advanced Tecnhology can manage low volume programmes.」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Whether the build of complete modules ready for fitment on your production line or the production of complex vehicle systems, low volume production programmes are a key strength of Prodrive.」（https://www.prodrive.com/advanced-technology/production-products/・1回目）
+  - 「Our portfolio of prestigious customers demonstrates we are the partner of choice for the design and supply of premium, intelligent interiors.」（https://www.prodrive.com/advanced-technology/production-products/・1回目）
+  - 「As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, we design, develop and produce game-changing active aero systems for multiple platforms.」（https://www.prodrive.com/advanced-technology/production-products/・1回目）
+  - 「Our portfolio of luxury customers demonstrates we are the partner of choice for the design and supply of premium, intelligent interiors.」（https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/・1回目）
+  - 「As world leaders in high-pressure hydraulic control systems, mechatronics, and electric actuation, amongst other projects, we have developed systems for game-changing active aero systems for multiple platforms.」（https://www.prodrive.com/advanced-technology/production-products/active-aero/・1回目）
+  - 「A state-of-the-art clean room and on-site manufacturing facilities mean we can fast track programmes from concept to production. Our experience in vehicle integration allows us to deliver finished systems directly to the production line for plug-and-play operation.」（https://www.prodrive.com/advanced-technology/production-products/active-aero/・1回目）
+  - 「With in-house facilities we can deliver a concept from a blank sheet of paper, or a donor vehicle, through to development and validation into production. We offer a flexible service up to a full turnkey solution, combining our engineering pedigree with our logistics, supply chain management and quality management functions.」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「It differs from similar stability systems which work by applying braking at each wheel. It monitors driver inputs, compares them with the vehicle using an electronic control unit, then controls torque via the differentials. The system reacts in less than 70 milliseconds, around a third of the time of other systems.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+- ライセンス・ブランド：
+  - 「Lifestyle」（https://www.prodrive.com/・1回目）
+  - 「PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP」（https://www.prodrive.com/・1回目）
+  - 「We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.」（https://www.prodrive.com/・1回目）
+  - 「We are relentlessly curious, fast-thinking and moving advanced engineering and manufacturing partner that draws upon brilliant minds from multiple disciplines. We challenge conventional thinking, accelerate business growth and redefine what possible means for our customers across a variety of sectors.」（https://www.prodrive.com/・1回目）
+  - 「25 years after the introduction of the WRC97, the P25 is a modern interpretation of the rally icon. Reimagined, redefined and recreated using championship-winning DNA to deliver the ultimate competition car for the road.」（https://www.prodrive.com/・1回目）
+  - 「£49,000 excluding VAT, duties and shipping」（https://www.prodrive.com/・1回目）
+  - 「Lifestyle」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「Lifestyle」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「A relentlessly curious, fast-thinking and moving advanced technology, engineering and manufacturing partner that draws upon brilliant minds from multiple disciplines to challenge conventional thinking, accelerate business growth and redefine what possible means for our customers across a variety of sectors.」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Under a single roof, our Advanced Technology team works across the engineering and production disciplines required to bring clients’ ideas to life. Drawing on a wealth of experience working on different vehicles and technologies we provide not only precision engineering but complete solutions from a blank sheet through to low volume production.」（https://www.prodrive.com/advanced-technology/・1回目）
+- 車以外の顧客・産業：
+  - 「Motorsport」（https://www.prodrive.com/・1回目）
+  - 「Motorsport Team」（https://www.prodrive.com/・1回目）
+  - 「PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP」（https://www.prodrive.com/・1回目）
+  - 「We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.」（https://www.prodrive.com/・1回目）
+  - 「Our expertise and dedication have made us the driving force behind some of the greatest names and achievements in world motorsport. From the design and manufacture of cutting-edge cars to the full operation and management of elite works teams, we provide a comprehensive turnkey operation.」（https://www.prodrive.com/・1回目）
+  - 「Explore Motorsport」（https://www.prodrive.com/・1回目）
+  - 「The P2 was a one-off prototype two-seater sports car created by Prodrive and revealed in 2006 at the Autosport show in the UK.」（https://www.prodrive.com/・1回目）
+  - 「Motorsport」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「Motorsport Team」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「PRODRIVE AND BRITISH MOTORSPORTS MARSHALS CLUB CELEBRATE “BRITISH RACING ORANGE” WITH NEW THREE-YEAR PARTNERSHIP」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「Motorsport」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Motorsport Team」（https://www.prodrive.com/advanced-technology/・1回目）
+- レース・ワンメイク：
+  - 「25 years after the introduction of the WRC97, the P25 is a modern interpretation of the rally icon. Reimagined, redefined and recreated using championship-winning DNA to deliver the ultimate competition car for the road.」（https://www.prodrive.com/・1回目）
+  - 「David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.」（https://www.prodrive.com/about-us/・1回目）
+  - 「Saeed Al-Hajri win the very first event for the team, on the Qatar Rally, and would go on to take the inaugural FIA Middle East Rally Championship for the fledgling team, a feat the Qatari would repeat the following year.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「Mcrae takes 4th in British Rally Championship」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「Prodrive run Jimmy McRae, multiple British Rally Champion in a Group B, MG Metro 6R4. He wins the Ulster Rally, finishes fourth in the British Championship and eighth in the end of season RAC Rally. The brutally fast Group B cars are banned at the end of the year.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「Prodrive transforms the BMW M3 into a rally contender. France’s Bernard Béguin wins rallies in the French and European Championships and, convincingly, the Tour de Corse in the FIA World Rally Championship (WRC). A rare WRC victory for a non-works team but the first of many for Prodrive.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「BMW want to concentrate on the track in the UK. Frank Sytner, BMW dealer, meets with David Richards and the result is Prodrive’s first foray into circuit racing in the British Touring Car Championship (BTCC).」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「The BMW Rally operation expands with wins in France by Bernard Béguin and François Chatriot, in Italy by Andrea Zanussi, and in Belgium with Patrick Snijers. He also wins the Belgian Rally Championship and an iconic Manx International Rally victory in the European Rally Championship.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「François Chatriot claims French Rally Championship」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「Frenchman François Chatriot wins five rounds of the French Rally Championship to take the title – the Rallye Alpin-Behra, the Rallye du Mont-Blanc, the Rally d’Antibes, Rallye National Jeanne d’Arc and the Rallye du Var. Winning the French Championship was a feat he would repeat the following season.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「The Group A Legacy RS makes its competition debut in the 1990 Safari Rally before going to on to compete in more FIA World Rally Championship events throughout the year.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「1991 was Prodrive’s first rally title on home ground. 23-year-old Colin McRae drives a Subaru Legacy to victory in Yorkshire, Ireland, Scotland, and on the Isle of Man to become the youngest-ever British Rally Championship winner.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+- お金の形：
+  - 「🍂 November Morning Bossa Nova Jazz - Warm Autumn Coffee Music for Focus and Study」（https://www.youtube.com/watch?v=3k_h7V2P6zI・3回目）
+  - 「, including various replacement and maintenance components, helping customers find the right parts for their vehicles at competitive prices. Our goal is to make sourcing automotive parts simple, convenient, and dependable.」（https://prodriveautosolutions.us/about/・3回目）
+  - 「We offer a wide selection of quality automotive parts and accessories to meet a variety of vehicle repair, maintenance, and replacement needs. Our goal is to provide reliable products at competitive prices while making it easy for customers to find the right parts for their vehicles.」（https://prodriveautosolutions.us/about/・3回目）
+  - 「while helping our customers find the products they need for their repair, maintenance, and replacement requirements.」（https://prodriveautosolutions.us/about/・3回目）
+- 売上構成：
+  - 「Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.」（https://www.prodrive.com/about-us/・1回目）
+  - 「the Prodrive Motorsport Division.」（https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf・2回目）
+  - 「Sales & Marketing  」（https://www.prodrive.com/app/uploads/2024/11/OLPO102-Prodrive-AT-Scope-Rev.2.pdf・2回目）
+  - 「Prodrive Technologies Group B.V. (“Prodrive”) today announced consolidated revenues of €504 million for 2025, compared to €552 million in 2024, and a net profit of €40 million, equal to the prior year.」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/・3回目）
+  - 「Exceptions may apply to parts located on vehicles that have not yet been dismantled or in other specific circumstances. Our sales team will communicate any applicable exceptions or estimated pickup times when you place your order.」（https://prodriveautosolutions.us/about/・3回目）
+  - 「~90% of our development and production capacity in the Netherlands」（https://prodrive-technologies.com/en/markets/defense/・3回目）
+  - 「Sales contact:」（https://wooptix.com/wooptix-and-prodrive-strategic-partnership/・3回目）
+- 創業期と参入のしやすさ：
+  - 「We are a world-leading, multidisciplined motorsport and advanced engineering group. Prodrive is the name behind some of the greatest names and achievements in global motorsport. Our business and culture was founded in racing but today we equally help businesses in the automotive, aerospace, marine and other sectors create innovative engineering solutions which realise their ambitions.」（https://www.prodrive.com/・1回目）
+  - 「Prodrive has a long history of producing niche vehicles across proof of concept, prototype and production build stages. With customers ranging from global OEMs to start-ups, we apply the same process and rigour to deliver vehicles to the highest of standards.」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Prodrive has a long history of producing niche vehicles across proof of concept, prototype and production build stages. With customers ranging from global OEMs to start-ups, we apply the same process and rigour to deliver vehicles to the highest of standards.」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「David Richards founded Prodrive in 1984. A former World Rally Championship winning co-driver, he is one of the most respected figures in world motorsport.」（https://www.prodrive.com/about-us/・1回目）
+  - 「HRH The Prince Philip, Duke of Edinburgh tours Prodrive, viewing the Subaru World Rally Team’s preparations for Wales Rally GB and Aston Martin race cars being built. The Duke meets with employees, Petter Solberg, and Darren Turner. He is presented with a bespoke carbon-fibre shooting stick and carbon-fibre horse stirrups as a gift for Her Majesty Queen Elizabeth II.」（https://www.prodrive.com/about-us/prodrive-history/・1回目）
+  - 「JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.」（https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-fia-world-land-speed-record-success/・1回目）
+  - 「JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.」（https://www.prodrive.com/news/prodrive-celebrates-jcb-hydromax-scta-record-success/・1回目）
+  - 「JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.」（https://www.prodrive.com/news/prodrive-wishes-jcb-hydromax-team-good-luck/・1回目）
+  - 「JCB, the world’s third largest construction equipment brand by volume, has 22 plants on four continents: 11 in the UK and others in India, Brazil, the USA and China. JCB is a family company, which was founded on October 23rd, 1945, by the late Joseph Cyril Bamford CBE. His son Anthony, now Lord Bamford, has been Chairman since 1975. JCB has just celebrated its 80th birthday.」（https://www.prodrive.com/news/prodrive-supports-jcb-hydromax-as-challenger-passes-200mph/・1回目）
+  - 「Founded in 1993, Netherlands-based Prodrive designs and manufactures high-tech electronics, software and mechatronic products and systems. In 2025, Prodrive Technologies operated five dedicated Business Lines and three highly automated manufacturing sites. The company owned subsidiaries in Europe, the U.S., China, and Japan.」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/・3回目）
+  - 「” said Boudewijn Wijnands, Founder and CEO of Fortaegis Technologies.」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/・3回目）
+  - 「Pieter Janssen, Founder and CEO of Prodrive Technologies, added:」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-and-fortaegis-technologies-sign-strategic-partnership-agreement/・3回目）
+- 顧客名：
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/・1回目）
+  - 「Commissioned by vintage events promoter HERO-ERA, we rebuilt a 1967 Ford Mustang Fastback from the ground up to take on the Peking to Paris Motor Challenge, am epic 37-day, 14,000-km trek.」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/motorsport/specialist-projects/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/advanced-technology/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/advanced-technology/production-products/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/advanced-technology/production-products/intelligent-interiors/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/advanced-technology/production-products/active-aero/・1回目）
+  - 「Ford Transit」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「We helped Ford create the first Transit PHEV (Plug-in Hybrid Electric Vehicle).」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/advanced-technology/niche-vehicles/・1回目）
+  - 「Carl Ball oversees our Brand& division, one of the world’s largest motorsport merchandise programmes. Experienced in the clothing retail sector, he’s built a unique business providing bespoke clothing and accessories collections to a wide range of clients, including Pirelli F1, Infinity and Aston Martin.」（https://www.prodrive.com/about-us/・1回目）
+  - 「Oxford OX16 4XD,」（https://www.prodrive.com/about-us/・1回目）
+- 検索結果の抜粋：
+  - 「Prodrive Technologies - LinkedIn — Prodrive Technologies - LinkedIn LinkedIn https://my.linkedin.com > company」（https://my.linkedin.com/company/prodrivetechnologies・3回目）
+  - 「Prodrive Advanced Technology capabilities - YouTube — Prodrive Advanced Technology capabilities - YouTube YouTube https://www.youtube.com > watch」（https://www.youtube.com/watch?v=3k_h7V2P6zI・3回目）
+  - 「Prodrive Advanced Technology — Prodrive Advanced Technology Prodrive https://www.prodrive.com > advance...」（https://www.prodrive.com/advanced-technology/・3回目）
+  - 「Careers at Prodrive - Latest Job Opportunites - Fluidjobs — Careers at Prodrive - Latest Job Opportunites - Fluidjobs Fluidjobs https://fluidjobs.com > companies > p...」（https://fluidjobs.com/companies/prodrive-3667922・3回目）
+  - 「Delivery! Why Prodrive Developed this Tiny Commercial Vehicle — Delivery! Why Prodrive Developed this Tiny Commercial Vehicle Racecar Engineering https://www.racecar-engineering.com > ...」（https://www.racecar-engineering.com/articles/technology/delivery-why-prodrive-has-developed-this-tiny-commercial-vehicle/・3回目）
+  - 「Prodrive - Overview, News & Similar companies | ZoomInfo.com — Prodrive - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > prodriv...」（https://www.zoominfo.com/c/prodrive-ltd/31359262・3回目）
+  - 「Prodrive Technologies announces 2025 financial results — Prodrive Technologies announces 2025 financial results Prodrive Technologies https://prodrive-technologies.com > p...」（https://prodrive-technologies.com/en/about-us/news/prodrive-technologies-announces-2025-financial-results/・3回目）
+  - 「Prodrive Technologies B.V.'s Competitors, Revenue ... - Owler — Prodrive Technologies B.V.'s Competitors, Revenue ... - Owler Owler https://www.owler.com > company」（https://www.owler.com/company/prodrive-technologies・3回目）
+  - 「Prodrive : Revenue , Competitors, Alternatives - Growjo — Prodrive : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Prodrive」（https://growjo.com/company/Prodrive・3回目）
+  - 「Prodrive Information - RocketReach — Prodrive Information - RocketReach RocketReach https://rocketreach.co > prodrive-prof...」（https://rocketreach.co/prodrive-profile_b5c672cef42e0c86・3回目）
+  - 「About - ProDrive Auto Solutions — About - ProDrive Auto Solutions prodriveautosolutions.us https://prodriveautosolutions.us > about」（https://prodriveautosolutions.us/about/・3回目）
+  - 「Manufacturing services | Prodrive Technologies — Manufacturing services | Prodrive Technologies Prodrive Technologies https://prodrive-technologies.com > ...」（https://prodrive-technologies.com/en/manufacturing-services/・3回目）
+- 設立：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像1件／外部16頁・検索6回）
+
+## RUF Automobile
+- 公式URL：https://www.ruf-automobile.de（given）
+- 従業員数：Alois Ruf Jr. (Chairman)（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- 他社向けサービス：
+  - 「The seller / contractor will not take part in a dispute settlement procedure before a consumer arbitration board within the meaning of the VSBG and is also not obliged to do so.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+- 部品・技術の供給：
+  - 「During Monterey Car Week, RUF’s new vehicles—including the EHRA—were powered by HIF e-Fuels, demonstrating the compatibility of synthetic renewable fuels with modern high-performance powertrains.」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「This is particularly relevant from an engineering perspective. Unlike alternative energy carriers that require fundamental changes to vehicle architecture, e-Fuels can be used in existing internal combustion engines without requiring modifications to the powertrain. They can also utilize existing fuel storage, transportation and refueling infrastructure.」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「The collaboration between RUF and HIF Global therefore brings together two complementary areas of engineering—advanced high-performance powertrain development and renewable fuel production—with the objective of demonstrating how combustion technology can continue to evolve.」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「to build cars, today they build vehicles on their own bodies and chassis. They also manufacture performance parts for various Porsche models, including the」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「The Ruf CTR3 was Ruf's first entirely unique model, built using their own chassis and body. The CTR3 differs from typical Ruf models in that it uses a」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「. The CTR Anniversary is Ruf's second model to use their own body and chassis design, which was designed and engineered in partnership with German engineering firm Vela Performance. The Ruf CTR Anniversary retains the」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「's rear-engine layout, but does not use any major Porsche components. The only original Porsche parts are windows and windscreen wipers borrowed from the 964 and 993.」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「. The SCR uses the same in-house body and chassis design from the」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Components」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Battery electric vehicle manufacturers」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- ライセンス・ブランド：
+  - 「The vehicle models shown show the equipment for the Federal Republic of Germany. These also contain special equipment that is not part of the standard scope of delivery and is only available at an additional cost. In some countries, not all models are available due to special regulations and requirements.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「Please inform yourself about the available models and the exact scope of equipment at your RUF base or your RUF importer. We reserve the right to make changes to construction, equipment and scope of delivery as well as deviations in color. All prices quoted are non-binding.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「The designation "RUF" and the "RUF logo" are registered trademarks of RUF Automobile GmbH. RUF Automobile is also the owner of numerous other brands and designs. All texts, images, audio files and published information are subject to the copyright of RUF Automobile GmbH.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「Collaboration With Renewable Fuels Company HIF Global」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「The collaboration between RUF and HIF Global therefore brings together two complementary areas of engineering—advanced high-performance powertrain development and renewable fuel production—with the objective of demonstrating how combustion technology can continue to evolve.」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「By bringing the B8 to Goodwood and participating with it in the Supercar Run, RUF pays homage to its “hidden in plain sight” testing approach. RUF prefers to show its engineering prowess rather than tell, and with each run up the hill RUF looks forward to letting the world hear the unique sound of its twin-turbo boxer-eight for the first time.」（https://www.ruf-automobile.de/en/veranstaltungen/ruf-b8/・1回目）
+  - 「Ruf Automobile - Wikipedia」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「About Wikipedia」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「From Wikipedia, the free encyclopedia」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「, and as a 20th anniversary celebration of the original CTR and successor to the CTR2. The Ruf CTR3 was designed and engineered in a partnership with the Canadian engineering firm」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「. The CTR Anniversary is Ruf's second model to use their own body and chassis design, which was designed and engineered in partnership with German engineering firm Vela Performance. The Ruf CTR Anniversary retains the」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「's rear-engine layout, but does not use any major Porsche components. The only original Porsche parts are windows and windscreen wipers borrowed from the 964 and 993.」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- 車以外の顧客・産業：
+  - 「RUF Automobile: Sportwagen in Vollendung」（https://www.ruf-automobile.de/・1回目）
+  - 「Fahrbarkeit, Langlebigkeit und Zuverlässigkeit – in allen Lebenslagen – dafür steht RUF. Unsere Sportwagen vereinen maximale Fahrperformance, Alltagstauglichkeit und Individualität. Egal ob offen im Roadster oder geschlossen im Coupé – der pure Fahrspaß ist ein Muss. Unser unablässiges Streben nach höchster Vollendung lässt zweitbesten Lösungen keinen Raum.」（https://www.ruf-automobile.de/・1回目）
+  - 「Die RUF Sommerkollektion 2026 ist inspiriert von klassischen Rennwochenenden, den Teambekleidungen vergangener Motorsport-Epochen und der Straßenkultur, die die Automobilwelt seit Jahrzehnten begleitet.」（https://www.ruf-automobile.de/・1回目）
+  - 「Zur außergerichtlichen Streitbeilegung von verbraucherrechtlichen Streitigkeiten hat die Europäische Kommission eine Plattform zur Online-Streitbeilegung (OS) eingerichtet. Die Plattform finden Sie voraussichtlich ab 15.02.2016 unter http://ec.europa.eu/consumers/odr/. Unsere E-Mail-Adresse lautet info@ruf-automobile.de .」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「Consumer information according to Regulation (EU) No. 524/2013」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「The European Commission has set up a platform for online dispute resolution (OS) for the out-of-court settlement of consumer disputes. The platform is expected to be available from February 15, 2016 at http://ec.europa.eu/consumers/odr/. Our email address is info@ruf-automobile.de.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「Note in accordance with Section 36 of the Consumer Dispute Settlement Act (VSBG)」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「The seller / contractor will not take part in a dispute settlement procedure before a consumer arbitration board within the meaning of the VSBG and is also not obliged to do so.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「This is particularly relevant from an engineering perspective. Unlike alternative energy carriers that require fundamental changes to vehicle architecture, e-Fuels can be used in existing internal combustion engines without requiring modifications to the powertrain. They can also utilize existing fuel storage, transportation and refueling infrastructure.」（https://www.ruf-automobile.de/en/veranstaltungen/・1回目）
+  - 「sports car」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Gran Turismo Sport」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Auto, Motor und Sport」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- レース・ワンメイク：
+  - 「Porsche 997 GT3 RS 4.0」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「series.」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「series due to sub licensing arrangements made between EA and their games' respective developers,」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- お金の形：
+  - 「Feedback」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+- 売上構成：
+  - 「Best 0% APR Cards」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「+0.54%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「+0.88%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「+0.82%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-1.66%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-0.67%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-2.52%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「+1.76%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-0.25%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-6.35%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+  - 「-0.75%」（https://finance.yahoo.com/markets/stocks/articles/porsche-reportedly-talks-acquire-ruf-215843668.html・3回目）
+- 創業期と参入のしやすさ：
+  - 「Founded」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Founder」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「The company was founded in 1939 in」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Styling Garage」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+- 顧客名：
+  - 「RUF Automobile GmbH」（https://www.ruf-automobile.de/・1回目）
+  - 「© 2026 - RUF Automobile GmbH」（https://www.ruf-automobile.de/・1回目）
+  - 「RUF AUTOMOBILE GMBH」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「Geschäftsform: GmbH」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「Die abgebildeten Fahrzeugmodelle zeigen die Ausstattung für die Bundesrepublik Deutschland. Diese enthalten auch Sonderausstattungen, die nicht zum serienmäßigen Lieferumfang gehören und nur gegen Aufpreis erhältlich sind. In manchen Ländern sind aufgrund besonderer Bestimmungen und Auflagen nicht alle Modelle verfügbar.」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「Die Bezeichnung „RUF“, sowie das „RUF-Logo“ sind eingetragene Marken der RUF Automobile GmbH . RUF Automobile ist ferner Inhaberin zahlreicher anderer Marken und Designs. Alle Texte, Bilder, Audio-Dateien und veröffentlichte Informationen unterliegen dem Copyright der RUF Automobile GmbH.」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「Eine Reproduktion oder Wiedergabe auch nur von Teilen ist ohne schriftliche Genehmigung der RUF Automobile GmbH nicht gestattet.」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「RUF Automobile GmbH」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「© 2026 - RUF Automobile GmbH」（https://www.ruf-automobile.de/de/impressum/・1回目）
+  - 「RUF AUTOMOBILE GMBH」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「Business form: GmbH」（https://www.ruf-automobile.de/en/impressum/・1回目）
+  - 「The designation "RUF" and the "RUF logo" are registered trademarks of RUF Automobile GmbH. RUF Automobile is also the owner of numerous other brands and designs. All texts, images, audio files and published information are subject to the copyright of RUF Automobile GmbH.」（https://www.ruf-automobile.de/en/impressum/・1回目）
+- 検索結果の抜粋：
+  - 「Sports cars in perfection - RUF Automobile — Sports cars in perfection - RUF Automobile RUF Automobile https://www.ruf-automobile.de > ...」（https://www.ruf-automobile.de/en/・3回目）
+  - 「Ruf Automobile - Wikipedia — Ruf Automobile - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Ruf_...」（https://en.wikipedia.org/wiki/Ruf_Automobile・3回目）
+  - 「Working with luxury cars at Ruf - Facebook — Working with luxury cars at Ruf - Facebook Facebook https://www.facebook.com > groups > posts」（https://www.facebook.com/groups/1939836749567520/posts/3225585027659346/・3回目）
+  - 「RUF AUTOMOBILE ANNOUNCES FIRST-EVER NORTH ... — RUF AUTOMOBILE ANNOUNCES FIRST-EVER NORTH ... Kahn Media https://kahnmedia.com > ruf-automob...」（https://kahnmedia.com/ruf-automobile-announces-first-ever-north-american-headquarters/・3回目）
+  - 「RUF North America on Instagram — RUF North America on Instagram Instagram https://www.instagram.com > DXrtDy...」（https://www.instagram.com/p/DXrtDyHknSm/・3回目）
+  - 「RUF Automobile GmbH Information - RocketReach — RUF Automobile GmbH Information - RocketReach RocketReach https://rocketreach.co > ruf-automobil...」（https://rocketreach.co/ruf-automobile-gmbh-profile_b452959bfc8eeff4・3回目）
+  - 「Porsche in talks to buy Ruf Automobile after hopes ... - Facebook — Porsche in talks to buy Ruf Automobile after hopes ... - Facebook Facebook https://www.facebook.com > RoadandTrack > posts > por...」（https://www.facebook.com/RoadandTrack/posts/porsche-in-talks-to-buy-ruf-automobile-after-hopes-of-acquiring-singer-fall-flat/1425999349389259/・3回目）
+  - 「RUF RELEASES FILM TO CELEBRATE 80TH ... — RUF RELEASES FILM TO CELEBRATE 80TH ... Kahn Media https://kahnmedia.com > ruf-releases-...」（https://kahnmedia.com/ruf-releases-film-to-celebrate-80th-anniversary-and-pivotal-moments/・3回目）
+  - 「RUF Carbon Fiber Chassis With Steel Integrated Roll Cage — RUF Carbon Fiber Chassis With Steel Integrated Roll Cage Facebook https://www.facebook.com > ... > Videos」（https://www.facebook.com/RUF.Automobile.GmbH/videos/our-cars-chassis-are-100-carbon-fiber-and-our-steel-integrated-integrated-roll-c/1584606015950899/・3回目）
+  - 「RUF North America — RUF North America RUF North America https://rufnorthamerica.com」（https://rufnorthamerica.com/・3回目）
+  - 「Ruf and special Porsche Value dilemma - Pelican Parts Forums — Ruf and special Porsche Value dilemma - Pelican Parts Forums Pelican Parts http://forums.pelicanparts.com > 518...」（http://forums.pelicanparts.com/911-930-turbo-super-charging-forum/518908-ruf-special-porsche-value-dilemma.html・3回目）
+  - 「RUF Automobile GmbH (@rufsince1939) - Instagram — RUF Automobile GmbH (@rufsince1939) - Instagram Instagram https://www.instagram.com > rufsince...」（https://www.instagram.com/rufsince1939/・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部12頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部12頁・検索6回）
+
+## Radical Motorsport
+- 公式URL：https://www.radicalmotorsport.com（given）
+- 従業員数：140（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+- 他社向けサービス：
+  - 「“Our advanced engineering division combines our motorsport culture with robust engineering processes and quality procedures to produce solutions that enhance our clients' products.”」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「Complete turnkey packages will be available to purchase, including both static and D-BOX motion & haptics options」（https://radicalmotorsport.com/news/radical-motorsport-and-advanced-simracing-partner-to-create-sim-racing-cockpit・3回目）
+  - 「Contracts」（https://www.prnewswire.com/news-releases/crown-concepts-acquires-radical-arizona-expands-partnership-with-radical-motorsport-302506184.html・3回目）
+- 部品・技術の供給：
+  - 「Radical Sportscars is born. Radical's first model, the 1100 Clubsport is completed. The compact open cockpit chassis uses a powertrain based on a 1100cc motorcycle engine.」（https://radicalmotorsport.com/history・1回目）
+  - 「Launch of the SR3 SL road car at Frankfurt Motor Show. Until now, Radical models had always used motorcycle engine based powertrains. The new SR3 SL is the first to use an engine from an 4-wheeled vehicle, the Ford 2L direct injection turbo engine.」（https://radicalmotorsport.com/history・1回目）
+  - 「The Rapture boasts a lightweight spaceframe chassis with FIA-compliant safety cell and crash structure, and features high-downforce composite bodywork, complete with bi-plane rear wing and double-tunnel diffuser.」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「“We’ve distilled over two decades of motorsport heritage into the most focused, open sportscar possible. In Rapture, cutting edge direct-injection turbocharged powertrain technology and advanced underbody aerodynamics contribute to a unique package with electrifying performance.”」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「include revised LED race lighting, composite mirrors and new rear-wing endplates. For additional comfort, new 60mm wider moulded twin- and single-seat options have been introduced, offering greater lateral stability and safety. These are designed to work in harmony with the bespoke seat insert systems favoured by professional racers from Formula 1 down.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「is available to pre-order now with the first deliveries scheduled for June. Radical has maintained a production capability throughout the UK's enforced COVID-19 lockdown so is well-prepared to ramp-up production for SR3 XX orders.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「I WOULD LIKE TO RECEIVE PERSONALISED COMMUNICATIONS BASED ON MY PREFERENCES AND USE OF PRODUCTS AND SERVICES FROM RADICAL SPORTSCARS LTD. AND AUTHORISED SUPPLIERS OF RADICAL SPORTSCARS PRODUCTS AND SERVICES VIA:」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「With a strong commitment to quality, RPE ensures that every product and service meets the highest standards. Our 10,000-square-foot, fully-equipped factory minimises reliance on external suppliers, allowing them to offer competitive rates while maintaining control over costs and lead times.」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「We offer full CMM Inspection and Reporting services as a stand-alone ancillary service, or to complement our key machining competencies. We take CAD models or drawings and translate them in to CMM programmable data to carry out complete component inspection and provide a detailed CMM report.」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「What makes RPE the engineering supplier of choice」（https://www.radicalprecisionengineering.com/about・3回目）
+  - 「Our quality systems are backed up by online and offline programming, and our engineers are proficient with the latest CAD technology.」（https://www.radicalprecisionengineering.com/about・3回目）
+  - 「After the initial project has been completed and supplied, Radical Precision Engineering will design the appropriate supply chain strategy required to ensure all project aims are met.」（https://www.radicalprecisionengineering.com/about・3回目）
+- ライセンス・ブランド：
+  - 「Radical's successful one-make championship format returns to mainland Europe, starting in Italy at Mugello Circuit and ending in Spain at Circuit de Barcelona-Catalunya...」（https://radicalmotorsport.com/・1回目）
+  - 「To mark Radical's 20th year in business, a new brand identity was launched featuring a new "R" mark highlighting the racing line.」（https://radicalmotorsport.com/history・1回目）
+  - 「Radical Sportscars has blurred the lines between road and race performance with the introduction of its new flagship road-legal sports car, the Rapture, unveiled in a live-streamed launch today at the world-famous Goodwood Festival of Speed.」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「New cockpit and controls put more functionality at driver’s fingertips」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「bringing unparalleled technology to the fingertips of drivers around the globe.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Multiple vehicle control buttons are also incorporated in the steering wheel, enabling maximum driver control. The new dashboard incorporates a centre-stack design with secondary control functions via momentary touch-pad switching, back-lit for night-time visibility.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Drivers can choose between Radical’s proven 1340cc or 1500cc four-cylinder RPE-Suzuki engines to power the new model. Both are driven through a six-speed sequential gearbox with paddle shift and Quaife limited-slip differential, and are coupled with a new-generation racing exhaust system.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「make that process even easier,” said Marketing Manager, Will Brown. “Our longstanding partnership with AiM Technologies means we are debuting electrical architecture previously only reserved for high-price LMP and GT race cars. In SR3 XX this technology is easy to comprehend for everyone, so carries the SR3 reputation into the next decade of racing success.”」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Be amongst the first to experience the new SR3 XX driver environment. From our virtual launch event in collaboration with sim racing platform rFactor2, you can race the SR3 XX for the first time on Sunday 31 May as part of a live Radical racing event.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Philippines」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Sao Tome and Principe」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Dealership *」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+- 車以外の顧客・産業：
+  - 「Radical Motorsport | Racing | Track Day | Road and Race Cars」（https://radicalmotorsport.com/・1回目）
+  - 「Ben Anderson, Autosport」（https://radicalmotorsport.com/・1回目）
+  - 「Radical Motorsport」（https://radicalmotorsport.com/・1回目）
+  - 「Radical Motorsport | History & Milestones」（https://radicalmotorsport.com/history・1回目）
+  - 「Radical Sportscars is born. Radical's first model, the 1100 Clubsport is completed. The compact open cockpit chassis uses a powertrain based on a 1100cc motorcycle engine.」（https://radicalmotorsport.com/history・1回目）
+  - 「The 1300 Prosport is completed, powered by a 1300cc hand-built RPE racing spec engine. This car was available with F3 size slick tires and an adjustable rear wing.」（https://radicalmotorsport.com/history・1回目）
+  - 「The SR3 is introduced. SR being a reference to "Sports Racer". This 2 seater race car would prove to be Radicals biggest success.」（https://radicalmotorsport.com/history・1回目）
+  - 「The SR1 prototype is unveiled, featuring a 4-cylinder 182BHP RPE engine. It is pitched as an entry model for clubsport racers looking to enter sports prototype competitions.」（https://radicalmotorsport.com/history・1回目）
+  - 「To celebrate our 25th anniversary the inaugral Radical World Finals are held in Las Vegas, USA, at the Spring Mountain Motor Resort. The company name transitions from Radical Sportscars to Radical Motorsport as we focus on track-only cars.」（https://radicalmotorsport.com/history・1回目）
+  - 「Radical relocates sales, marketing and motorsport teams to a new premises at Donington Park Circuit.」（https://radicalmotorsport.com/history・1回目）
+  - 「Radical Motorsport」（https://radicalmotorsport.com/history・1回目）
+  - 「Radical Motorsport | Latest News」（https://radicalmotorsport.com/news・1回目）
+- レース・ワンメイク：
+  - 「Radical Motorsport | Racing | Track Day | Road and Race Cars」（https://radicalmotorsport.com/・1回目）
+  - 「Racing in one of Radical's many single-marque race series is the ultimate driving experience. The thrill of battling wheel-to-wheel with over thirty other Radicals provides an adrenaline rush beyond compare.」（https://radicalmotorsport.com/・1回目）
+  - 「Radical's successful one-make championship format returns to mainland Europe, starting in Italy at Mugello Circuit and ending in Spain at Circuit de Barcelona-Catalunya...」（https://radicalmotorsport.com/・1回目）
+  - 「Our first appearance at Le Mans with the SR9 LMP2」（https://radicalmotorsport.com/history・1回目）
+  - 「The SR3 XX is the first production race car to feature AiM’s new solid-state technology, which controls not only power management, but also a suite of data options and technology to help Radical drivers be the fastest in the field. It will also be the first car to feature AiM’s new Formula steering wheel technology, akin to those usually seen in high-level single-seaters and Le Mans Prototypes.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「These features, coupled with ride height sensors, will be of particular value to those embarking in Radical’s endurance format races, not to mention longer-duration events such as the 25 Hours of Thunderhill, in which an SR3 scooped outright victory last December beating GT3, LMP3 and LMP2 machinery in the process.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「include revised LED race lighting, composite mirrors and new rear-wing endplates. For additional comfort, new 60mm wider moulded twin- and single-seat options have been introduced, offering greater lateral stability and safety. These are designed to work in harmony with the bespoke seat insert systems favoured by professional racers from Formula 1 down.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「make that process even easier,” said Marketing Manager, Will Brown. “Our longstanding partnership with AiM Technologies means we are debuting electrical architecture previously only reserved for high-price LMP and GT race cars. In SR3 XX this technology is easy to comprehend for everyone, so carries the SR3 reputation into the next decade of racing success.”」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「As the premier racetrack in the greater Phoenix area, APEX Motor Club offers its members a world-class racing circuit, country club amenities and on-site private garage condominiums. Radical AZ at APEX has many Radical owners with 15-20 Radicals racing in the APEX Challenge member-only race series each month and three competing in the Radical Cup of North America.」（https://radicalmotorsport.com/news/from-cambridgeshire-to-arizona-100th-sr10-cements-radical-as-country-club-car-of-choice・1回目）
+  - 「We estimate that there are now in excess of 1,000 Radicals in the US and it’s not just country clubs where our customers enjoy their Radicals. We also see a huge amount of activity at track days, regional racing and of course our flagship national series.”」（https://radicalmotorsport.com/news/from-cambridgeshire-to-arizona-100th-sr10-cements-radical-as-country-club-car-of-choice・1回目）
+  - 「As experienced engineering consultants with extensive experience gleaned from over 19 years supporting Radical Motorsport and its racing championships worldwide, working to tight deadlines is second nature to the RPE engineering team as we solve their technical challenges in the automotive, aerospace, oil and other industry sectors.」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「Radical Motorsport enjoyed unprecedented growth in its 25th year, building and selling more cars in than at any other time in its history. A 34-strong global dealer network spanning 21 countries underpins this growth, and there are now 12 single-make Radical Cup championships across four different continents, including the factory-supported Radical Cup UK and the Radical Cup North America.」（https://www.motorsportjobs.com/us/company/radical-motorsport-ltd・3回目）
+- お金の形：
+  - 「It’s a proper race car experience and feels nothing like any of the road-legal machinery I have driven before. It’s easy to see how drivers get hooked.」（https://radicalmotorsport.com/・1回目）
+  - 「The car is absolutely nailed on - fantastic stability through the high-speed corners and tremendous acceleration. This thing feels like it can go on and on.」（https://radicalmotorsport.com/・1回目）
+  - 「The SR3 XX is introduced as a the latest generation of the SR3. Featuring a suite of data options and upgraded technology allowing race and track drivers access to more data and feedback than ever before.」（https://radicalmotorsport.com/history・1回目）
+  - 「When simply defined, Rapture essentially means a feeling of intense pleasure or joy. And therein lies both the car’s selling point, and its primary mission: To deliver an emotive driving experience like no other across both road and race track.」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「Developed in conjunction with Radical’s long-term data partner AiM Technologies, the SR3 XX benefits from an all-new electrical architecture, allowing drivers access to more data and feedback than ever before.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「In the UK the seven round Radical Challenge championship also runs within the MSVR package, with each meeting featuring two 15-minute qualifying sessions and a pair of 20-minute sprint races, and a 40-minute endurance race with the opportunity for one or two drivers per car. Teams are limited to one set of tyres per weekend, limiting costs and levelling competition.」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「GL0154 - Hose Oil Tank Feed」（https://crownspeedshop.com/collections/all-radical-parts?srsltid=AYCX9vLcjLydcz_4H4rguEUmdq8Uzya4k56e_cRZH1o6_XYtW8HQJuuG・3回目）
+  - 「Crown ‘Cars and Coffee’」（https://crownconceptsusa.com/crown-concepts-redefines-racing-radical-arizona-joins-the-team/・3回目）
+  - 「Feedback from real-world racers at the Radical World Finals in Las Vegas to perfect the seating position」（https://radicalmotorsport.com/news/radical-motorsport-and-advanced-simracing-partner-to-create-sim-racing-cockpit・3回目）
+- 売上構成：
+  - 「Radical relocates sales, marketing and motorsport teams to a new premises at Donington Park Circuit.」（https://radicalmotorsport.com/history・1回目）
+  - 「No other street-legal car available today offers the same percentage of race-bred DNA as the Rapture, making it the ideal choice for customers seeking a raw, exhilarating driving experience – the Rapture can deliver an unapologetic assault on the senses.」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「The new solid-state Power Distribution Module (PDM) acts as the SR3 XX’s electrical heart, replacing a conventional wiring loom to send, store and process electrical data and telemetry quickly and more efficiently. The system not only offers a 65% weight saving over traditional wiring, but also makes diagnostic and fault resolution simpler than ever.」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Across the five models in the range, the recent SR10 sales are just a fraction of the cars that Radical Motorsport are now producing every year, with the company now the largest race car manufacturer in the UK, and the largest purpose-built race car manufacturer in the world.」（https://radicalmotorsport.com/news/from-cambridgeshire-to-arizona-100th-sr10-cements-radical-as-country-club-car-of-choice・1回目）
+  - 「Behind the scenes, in addition to the office space for its sales, marketing, and motorsport staff, the premises will be able to provide the expanding Radical Motorsport dealer network with dedicated training opportunities to be able to better serve its growing customer base across the world.」（https://radicalmotorsport.com/news/radical-motorsport-announces-new-donington-park-corporate-headquarters・1回目）
+  - 「​All our production capabilities are complemented by a full Quality Control and Inspection Service to ensure our work meets our customers exacting quality standards 100% of the time.」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「“Our advanced engineering division combines our motorsport culture with robust engineering processes and quality procedures to produce solutions that enhance our clients' products.”」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「Revenue」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「– Crown, Arizona’s premier performance automotive business, proudly announces the acquisition of Racing Equipment Sales (」（https://crownconceptsusa.com/crown-concepts-redefines-racing-radical-arizona-joins-the-team/・3回目）
+  - 「), the global leader in purpose-built race cars. This agreement further solidifies Crown’ position as the Southwest’s leading destination for Radical sales, service, parts, engine rebuilds, and national-level racing support.」（https://crownconceptsusa.com/crown-concepts-redefines-racing-radical-arizona-joins-the-team/・3回目）
+  - 「Sales Reports」（https://www.prnewswire.com/news-releases/crown-concepts-acquires-radical-arizona-expands-partnership-with-radical-motorsport-302506184.html・3回目）
+  - 「has been the premier source for Radical Motorsport sales, service, and racing support in」（https://www.prnewswire.com/news-releases/crown-concepts-acquires-radical-arizona-expands-partnership-with-radical-motorsport-302506184.html・3回目）
+- 創業期と参入のしやすさ：
+  - 「As the premier racetrack in the greater Phoenix area, APEX Motor Club offers its members a world-class racing circuit, country club amenities and on-site private garage condominiums. Radical AZ at APEX has many Radical owners with 15-20 Radicals racing in the APEX Challenge member-only race series each month and three competing in the Radical Cup of North America.」（https://radicalmotorsport.com/news/from-cambridgeshire-to-arizona-100th-sr10-cements-radical-as-country-club-car-of-choice・1回目）
+  - 「Radical Motorsport’s manufacturing and production base will remain at the Peterborough factory, with customer-facing and commercial departments expanding to the new Donington Park facility. The factory in Peterborough has been home to Radical Motorsport since it was founded 26 years ago in 1997, and the company remains fully committed to its roots in Cambridgeshire.」（https://radicalmotorsport.com/news/radical-motorsport-announces-new-donington-park-corporate-headquarters・1回目）
+  - 「51-250 employees」（https://www.motorsportjobs.com/us/company/radical-motorsport-ltd・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Founders」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Number of employees」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「, is a British manufacturer and constructor of racing cars. The company was founded in January 1997 by amateur drivers and engineers Mick Hyde and Phil Abbott, who built open-cockpit sportscars that could be registered for road use and run on a track without modification.」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「category, with founders Abbott and Hyde driving.」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「In 1999, Radical had built enough 1100 Clubsports that they decided to create a one-make series based around the car. Backed by the」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Although Radical began by competing in existing events, it was Radical's creation of their own series that have been the choice of competition for most owners. Radical currently supports 14 official Radical race series around the world.」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「51-250 employees」（https://www.motorsportjobs.com/en/company/radical-motorsport-ltd・3回目）
+  - 「said Jason Plotke, Co-Founder of Apex Motor Club and former owner of Radical Arizona. “Crown has been a trusted partner and a critical component of the Radical success created in Arizona, both on and off the track. Their investment here isn’t just financial—it’s cultural, and it ensures that Radical customers will be well cared for for years to come.”」（https://crownconceptsusa.com/crown-concepts-redefines-racing-radical-arizona-joins-the-team/・3回目）
+- 顧客名：
+  - 「Launch of the SR3 SL road car at Frankfurt Motor Show. Until now, Radical models had always used motorcycle engine based powertrains. The new SR3 SL is the first to use an engine from an 4-wheeled vehicle, the Ford 2L direct injection turbo engine.」（https://radicalmotorsport.com/history・1回目）
+  - 「The new Rapture is unveiled. Featuring a Ford 2.3L inline-4 turbo engine, this model boasts a dry weight of just 765kg. The car offers incredible acceleration, able to reach 60mph in just 3 seconds, with a top speed of 265km/h.」（https://radicalmotorsport.com/history・1回目）
+  - 「The SR10 debuts featuring the Ford EcoBoost 2.3L inline-4 turbo engine with which Radical had assisted in developing. More affordable than the SR8, this model would sell 50 units in just 9 months.」（https://radicalmotorsport.com/history・1回目）
+  - 「At the heart of the Rapture is a 2261cc turbocharged EcoBoost engine, supplied by Ford and reworked by Radical Performance Engines, featuring an all-new turbo architecture and air induction system. The unit produces 350bhp and 320lb/ft of torque. Drive comes through a six-speed paddle-shift gearbox.」（https://radicalmotorsport.com/news/radical-unleashes-race-bred-road-legal-rapture・1回目）
+  - 「Saudi Arabia」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「Slovakia」（https://radicalmotorsport.com/news/new-radical-sr3-xx-the-worlds-best-selling-race-car-just-got-smarter・1回目）
+  - 「British Formula Ford」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Porsche 911 GT2」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Toyota Motorsport GmbH」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Also based on the SR3, the SR10 features a Ford EcoBoost 2.3L, 4 cylinder, turbocharged engine which brings durability and longer service intervals to a similar platform to the SR8. The motor produces」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「is a midrange track car between the SR3 and SR8. It is street legal in most countries. It is currently the only closed-top Radical track car level. It is propelled by a Ford Cyclone 3.7 Ti-VCT」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「with paddle shifters fitted as standard, and the car features aerodynamics and styling cues taken from the SR9 LMP2 project. It has a carbon-steel spaceframe based on those of the RXC V8 and the SR9 LMP2. Later updated to the Ford Ecoboost twin turbo V6 engine with」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+- 検索結果の抜粋：
+  - 「Radical Precision Engineering - From Start to Finish — Radical Precision Engineering - From Start to Finish Radical Motorsport https://radicalmotorsport.com > news > radical-precision-e...」（https://radicalmotorsport.com/news/radical-precision-engineering-from-start-to-finish・3回目）
+  - 「Radical Motorsport Ltd | Motorsportjobs.com — Radical Motorsport Ltd | Motorsportjobs.com Motorsportjobs.com https://www.motorsportjobs.com > ra...」（https://www.motorsportjobs.com/us/company/radical-motorsport-ltd・3回目）
+  - 「Radical Sportscars - Wikipedia — Radical Sportscars - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Radi...」（https://en.wikipedia.org/wiki/Radical_Sportscars・3回目）
+  - 「Radical Motorsport Ltd | Motorsportjobs.com — Radical Motorsport Ltd | Motorsportjobs.com Motorsportjobs.com https://www.motorsportjobs.com > ra...」（https://www.motorsportjobs.com/en/company/radical-motorsport-ltd・3回目）
+  - 「Radical Motorsport | Racing | Track Day | Road and Race Cars — Radical Motorsport | Racing | Track Day | Road and Race Cars Radical Motorsport https://www.radicalmotorsport.com」（https://www.radicalmotorsport.com/・3回目）
+  - 「Radical Sportscars Ltd has been acquired by a group of ... — Radical Sportscars Ltd has been acquired by a group of ... oaklins.com https://www.oaklins.com > deals」（https://www.oaklins.com/de/en/deals/30050/・3回目）
+  - 「Parts Catalogue - Radical Motorsport — Parts Catalogue - Radical Motorsport Radical Motorsport https://radicalmotorsport.com > parts-catalogue」（https://radicalmotorsport.com/parts-catalogue・3回目）
+  - 「All Radical Motorsport Parts - Crown Speed Shop — All Radical Motorsport Parts - Crown Speed Shop Crown Speed Shop https://crownspeedshop.com > all-radi...」（https://crownspeedshop.com/collections/all-radical-parts?srsltid=AYCX9vLcjLydcz_4H4rguEUmdq8Uzya4k56e_cRZH1o6_XYtW8HQJuuG・3回目）
+  - 「Radical Motorsport (@radical_motorsport) - Instagram — Radical Motorsport (@radical_motorsport) - Instagram Instagram https://www.instagram.com > radical_...」（https://www.instagram.com/radical_motorsport/・3回目）
+  - 「Radical Motorsport and Advanced SimRacing partner to ... — Radical Motorsport and Advanced SimRacing partner to ... Radical Motorsport https://radicalmotorsport.com > news > radical-motorsport...」（https://radicalmotorsport.com/news/radical-motorsport-and-advanced-simracing-partner-to-create-sim-racing-cockpit・3回目）
+  - 「Radical Motorsport , the UK's leading race car manufacturer ... — Radical Motorsport , the UK's leading race car manufacturer ... Facebook https://www.facebook.com > RACERmagazine > posts > r...」（https://www.facebook.com/RACERmagazine/posts/radical-motorsport-the-uks-leading-race-car-manufacturer-has-announced-a-multi-y/1177649927734161/・3回目）
+  - 「Radical Motorsport - duPont REGISTRY News — Radical Motorsport - duPont REGISTRY News duPont REGISTRY News https://news.dupontregistry.com > blogs」（https://news.dupontregistry.com/blogs/radical-motorsport・3回目）
+- 設立：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部15頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式9頁／PDF・画像0件／外部15頁・検索6回）
+
+## Ricardo
+- 公式URL：https://www.ricardo.com（given）
+- 従業員数：Jason Oms O'Donnell ( CEO )（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+- 他社向けサービス：
+  - 「Ricardo | Leading automotive and energy engineering and manufacturing consultancy」（https://www.ricardo.com/・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/・1回目）
+  - 「Engineering services - Consultancy and Product Development | Ricardo」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/engineering・1回目）
+  - 「With over 600 engineers globally, Ricardo's team of cross-sector and multi-platform experts and specialists help our clients to design and develop the next generation of propulsion system, energy and industrial systems.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「From engineering consultancy and advisory services to support initial concept exploration and development, to production engineering solutions to ready programmes for manufacture, our expertise supports projects of every scale, whatever stage of develop they are at.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「By managing the entire process in-house, we maintain rigorous quality standards, accelerate development timelines, and provide the expert oversight to help our clients to realise their development goals.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Ricardo offers a wide range of mechanical development, component and systems engineering services and solutions to customers across a broad range of markets and industries.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services?service=engineering・1回目）
+  - 「Technical Strategy and Advisory - Consultancy Services | Ricardo」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+- 部品・技術の供給：
+  - 「Systems and attributes」（https://www.ricardo.com/・1回目）
+  - 「Systems integration」（https://www.ricardo.com/・1回目）
+  - 「Systems engineering」（https://www.ricardo.com/・1回目）
+  - 「Supply chain management」（https://www.ricardo.com/・1回目）
+  - 「Component manufacture」（https://www.ricardo.com/・1回目）
+  - 「Kitting and spares supply」（https://www.ricardo.com/・1回目）
+  - 「Industrial energy systems」（https://www.ricardo.com/・1回目）
+  - 「Immersion cooled battery module​」（https://www.ricardo.com/・1回目）
+  - 「For over 100 years, we’ve been pushing the boundaries to their limits. Experts in complex propulsion, driveline and energy systems, we deliver the ideas and innovation that transform the way the world moves.」（https://www.ricardo.com/・1回目）
+  - 「Ricardo joins forces with Ford and General Dynamics Land Systems-UK」（https://www.ricardo.com/・1回目）
+  - 「It's green light for next wave of battery technology in high performance vehicles」（https://www.ricardo.com/・1回目）
+  - 「Systems and attributes」（https://www.ricardo.com/services/engineering・1回目）
+- ライセンス・ブランド：
+  - 「The latest thought leadership from our experts.」（https://www.ricardo.com/・1回目）
+  - 「Development of a high power density multi stack fuel cell system for passenger ships」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Experts at your fingertips」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.」（https://www.ricardo.com/services/engineering/control-and-electronics・1回目）
+  - 「Our expertise spans multiple sectors, including automotive (on-highway and off-highway), power generation, aerospace, marine, and defence, enabling us to support clients with complex engineering challenges across diverse applications.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.」（https://www.ricardo.com/services/engineering/test-and-validation・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and tier one suppliers.」（https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration・1回目）
+- 車以外の顧客・産業：
+  - 「Ricardo | Leading automotive and energy engineering and manufacturing consultancy」（https://www.ricardo.com/・1回目）
+  - 「Aerospace and defence」（https://www.ricardo.com/・1回目）
+  - 「Energy and industrial」（https://www.ricardo.com/・1回目）
+  - 「Industrial and off highway」（https://www.ricardo.com/・1回目）
+  - 「Motorsport」（https://www.ricardo.com/・1回目）
+  - 「Aerospace」（https://www.ricardo.com/・1回目）
+  - 「Defence」（https://www.ricardo.com/・1回目）
+  - 「Aerospace manufacturing」（https://www.ricardo.com/・1回目）
+  - 「Industrial energy systems」（https://www.ricardo.com/・1回目）
+  - 「For over 100 years, we’ve been pushing the boundaries to their limits. Experts in complex propulsion, driveline and energy systems, we deliver the ideas and innovation that transform the way the world moves.」（https://www.ricardo.com/・1回目）
+  - 「Aerospace and defence」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Energy and industrial」（https://www.ricardo.com/services/engineering・1回目）
+- レース・ワンメイク：
+  - 「Developing a Formula E transmission solution for DS Performance」（https://www.ricardo.com/services/production・1回目）
+  - 「Our niche volume series production assembly lines offer our clients a high-quality, process-controlled solution for their products.」（https://www.ricardo.com/services/production・1回目）
+  - 「Our niche volume series production assembly lines offer our clients a high-quality, process-controlled solution for their products.」（https://www.ricardo.com/services/production/assembly・1回目）
+  - 「Ricardo supports demanding engine assembly programmes where quality, reliability and performance are critical. Our skilled teams deliver niche volume builds across ICE, hydrogen and alternative engines, from prototypes to series production.」（https://www.ricardo.com/services/production/assembly・1回目）
+  - 「Opel Rekord Series D」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「In the early 21st century, the company undertook work to improve the BMW K1200 series」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「Formula One」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「"Chemical incident series: eBook"」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「Top Gear (TV series)」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「[12:40] Mohit and Ricardo discuss the series of challenging circumstances that led to the founding of ThousandEyes」（https://www.decibel.vc/articles/founders-helping-founders-with-mohit-lad-and-ricardo-oliveira-of-thousandeyes・3回目）
+- お金の形：
+  - 「A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「This is why the Vehicle Control System is integral to EVs: it's where software, sensors and actuators come together to define how a vehicle moves, feels and responds.」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「by having full control of your software platform, allowing you to manage future development and use across multiple programmes without having to rely on external suppliers, redevelop software for each new project nor have to pay additional licensing fees.」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「With capabilities spanning the full product lifecycle, from clean-sheet design to maintenance, repair and overhaul (MRO), our defence sector experts draw on our cross-sector capability to deliver programmes that prioritise reliability, availability, performance and cost-efficiency.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+  - 「Maintenance, Repair and Overhaul (MRO)」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+  - 「Our assembly capability can deliver niche volume powertrain and driveline programmes of any size, from single prototype builds through to semi-automated production lines outputting thousands of units annually.」（https://www.ricardo.com/services/production/assembly・1回目）
+  - 「600 feet (180」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「"Annual Results 2023/24"」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「Ricardo Annual Employee Count (2023-2026)」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「annual worldwide employee count from」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「annual active job postings from」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「Annual Employee Count」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+- 売上構成：
+  - 「Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Minimise costs by 50%」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「Reduce time to market by 40%」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「Experience a major boost in power and faster charging times with our groundbreaking immersion cooled battery solutions, providing up to 48% more peak power and 40% faster peak charge rate.」（https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management・1回目）
+  - 「At Ricardo, our immersion cooled battery technology is being utilized in a variety of applications, including passenger vehicles, aircraft, and commercial vehicles, to name just a few. Our cutting-edge battery packs have been demonstrated to significantly reduce peak charging rate by 40% while also delivering a remarkable 48% increase in peak power density.」（https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management・1回目）
+  - 「Key segments within the Aerospace and defence market.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+  - 「Revenue」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「: it was claimed that this engine could improve fuel economy by up to 25%.」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「turnover」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「), and Sales and Marketing (」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「-1.5% (-80)」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「1.5% YoY」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+- 創業期と参入のしやすさ：
+  - 「Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「We deliver targeted optimisation and cost-reduction programmes for existing product ranges, alongside the evaluation and development of innovative, next-generation concepts.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.」（https://www.ricardo.com/services/engineering/test-and-validation・1回目）
+  - 「Since our founder’s pioneering work developing the Ricardo engine to improve range, reliability and reducing smoke emissions for the Mark V tank used by the British Army in World War One, we have been at the forefront of providing end-to-end propulsion system solutions to the defence sector.」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「is a British firm that provides automotive parts and engineering, environmental and strategic consultancy services. Founded by」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「The company was founded by」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「Ricardo Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「Investors」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「Employees」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「How many employees work at」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「total employees worldwide as of」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+- 顧客名：
+  - 「Ricardo joins forces with Ford and General Dynamics Land Systems-UK」（https://www.ricardo.com/・1回目）
+  - 「Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「ragmatic」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile according to the project needs.​」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Pragmatic Agile Systems」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「The RAS-R system provides electronic augmentation of internal combustion or electric power unit sound quality using live streaming authentic sound sources, rich in genuine information content.」（https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness・1回目）
+  - 「ragmatic」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile.」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Pragmatic and Agile ​」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Our engineers have experience of delivering proof of concept and technology demonstrator projects where the project output is designed to inform the future system design and requirements. In this case a more pragmatic and agile approach is deployed. Our core Ricardo processes are still utilised but tailored accordingly​.」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Key segments within the Aerospace and defence market.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+  - 「Ricardo demonstrates militarized version of Ford Ranger 2019」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+- 検索結果の抜粋：
+  - 「Engineering services - Consultancy and Product Development — Engineering services - Consultancy and Product Development ricardo.com https://www.ricardo.com > engineering」（https://www.ricardo.com/services/engineering・3回目）
+  - 「WSP acquires Ricardo , a strategic & engineering consultancy — WSP acquires Ricardo , a strategic & engineering consultancy wsp.com https://www.wsp.com > en-us > news」（https://www.wsp.com/en-us/news/2025/wsp-to-acquire-ricardo-a-global-strategic-and-engineering-consultancy-firm・3回目）
+  - 「Ricardo PLC - Wikipedia — Ricardo PLC - Wikipedia Wikipedia https://en.wikipedia.org > Ricardo_PLC」（https://en.wikipedia.org/wiki/Ricardo_PLC・3回目）
+  - 「Ricardo plc Company Profile - Overview - GlobalData — Ricardo plc Company Profile - Overview - GlobalData Global Data https://www.globaldata.com > ricardo...」（https://www.globaldata.com/company-profile/ricardo-plc/・3回目）
+  - 「Ricardo - Manufacturing Today — Ricardo - Manufacturing Today Manufacturing Today https://manufacturing-today.com > ric...」（https://manufacturing-today.com/news/ricardo-3/・3回目）
+  - 「Ricardo - Overview, News & Similar companies | ZoomInfo.com — Ricardo - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > ricardo-...」（https://www.zoominfo.com/c/ricardo-plc/32800987・3回目）
+  - 「Ricardo plc | Annual Report and Accounts 2023/24 — Ricardo plc | Annual Report and Accounts 2023/24 ricardo.com PDF https://www.ricardo.com > media > annual-report」（https://www.ricardo.com/media/5drkbm52/annual-report.pdf・3回目）
+  - 「Ricardo Number of Employees 2026 - Revelio Labs — Ricardo Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > ricardo」（https://www.reveliolabs.com/companies/ricardo/employees・3回目）
+  - 「Ricardo : Revenue , Competitors, Alternatives - Growjo — Ricardo : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Ricardo」（https://growjo.com/company/Ricardo・3回目）
+  - 「Kitting and spare parts service - Ricardo — Kitting and spare parts service - Ricardo ricardo.com https://www.ricardo.com > production」（https://www.ricardo.com/services/production/through-life-support/kitting-and-spares-supply・3回目）
+  - 「Ricardo , Inc. - Engineering Services - LightSource — Ricardo , Inc. - Engineering Services - LightSource LightSource https://lightsource.ai > ricardo-inc」（https://lightsource.ai/m/suppliers/ricardo-inc・3回目）
+  - 「Ricardo plc | OEM Off-Highway — Ricardo plc | OEM Off-Highway OEM Off-Highway https://www.oemoffhighway.com > ri...」（https://www.oemoffhighway.com/engineering-manufacturing/engine-components/company/10056030/ricardo-plc・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+
+## Rimac Technology
+- 公式URL：https://www.rimac-technology.com（given）
+- 設立：準備ができる前にAIで開発を始めよう | グレッグ・ブロックマン（https://www.youtube.com/watch?v=IMgVW-lXRWA・3回目）
+- 従業員数：1,000+（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+- 従業員数：1,500 [ 1 ] [ 2 ]（https://en.wikipedia.org/wiki/Rimac_Automobili・3回目）
+- 他社向けサービス：
+  - 「To legitimize transfers of data outside the EEA or countries which have not been deemed by the European Commission as providing an adequate level of protection for personal data, we rely on the European Commission Standard Contractual Clauses. Please contact our Data Protection Officer for more information about this.」（https://www.rimac-technology.com/privacy-policy・1回目）
+  - 「As a condition of using this Supplier Portal and being considered by RIMAC for the award of any contract, you agree that:」（https://www.rimac-technology.com/supplier-portal・1回目）
+  - 「All negotiations, communications, and notices in relation to or under any contract with RIMAC shall be in English, and」（https://www.rimac-technology.com/supplier-portal・1回目）
+  - 「Consulting and Advisory Firms」（https://www.reveliolabs.com/companies/rimac-technology/employees・3回目）
+  - 「Consulting」（https://www.reveliolabs.com/companies/rimac-technology/employees・3回目）
+  - 「acquired a 10% stake in Rimac to form a development partnership, as part of its electrification process.」（https://en.wikipedia.org/wiki/Rimac_Automobili・3回目）
+  - 「, when some parts were contracted to other companies.」（https://en.wikipedia.org/wiki/Rimac_Automobili・3回目）
+  - 「EDA Consulting Services」（https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/・3回目）
+  - 「"I wanted to build a lot of cars and maybe do a little bit for OEMs, but it turned out to be the other way around," Rimac said.」（https://www.businessinsider.com/mate-rimac-automobili-ev-electric-vehicle-tech-rise-nevera-supercar-2021-6・3回目）
+- 部品・技術の供給：
+  - 「BATTERY」（https://www.rimac-technology.com/・1回目）
+  - 「POWERTRAIN」（https://www.rimac-technology.com/・1回目）
+  - 「Design, engineering and production of EV Components」（https://www.rimac-technology.com/・1回目）
+  - 「We lead the way in engineering advanced EV components, setting the highest standards in the industry with a commitment to world-class innovation and reliability.」（https://www.rimac-technology.com/・1回目）
+  - 「We supply leading automotive OEMs」（https://www.rimac-technology.com/・1回目）
+  - 「battery」（https://www.rimac-technology.com/・1回目）
+  - 「Inventing the battery of the world's fastest vehicle」（https://www.rimac-technology.com/・1回目）
+  - 「powertrain」（https://www.rimac-technology.com/・1回目）
+  - 「Engineering the scalable e-powertrain platform for high performance vehicles」（https://www.rimac-technology.com/・1回目）
+  - 「Battery」（https://www.rimac-technology.com/・1回目）
+  - 「Powertrain」（https://www.rimac-technology.com/・1回目）
+  - 「Suppliers」（https://www.rimac-technology.com/・1回目）
+- ライセンス・ブランド：
+  - 「Emulated Limited Slip Differential and Stability Control」（https://www.rimac-technology.com/software・1回目）
+  - 「At Rimac, taking charge means fostering a proactive mindset. We empower every team member to take ownership of their work, projects, and responsibilities. We embrace challenges, demonstrating leadership at all levels of our organization.」（https://www.rimac-technology.com/company・1回目）
+  - 「Entrepreneurship defines our approach. We tackle challenges with an entrepreneurial spirit, seizing opportunities to make a positive impact. Our solutions aren't just products; they are catalysts for transformative change in the industry and the world.」（https://www.rimac-technology.com/company・1回目）
+  - 「Join our team and become a key player in a forward-thinking company that is shaping the future of mobility and energy. At Rimac Technology, we embrace creativity, collaboration, and passion, empowering you to make a meaningful impact while working on exciting projects in the automotive and energy industry.」（https://www.rimac-technology.com/company・1回目）
+  - 「across multiple vehicle categories」（https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles・1回目）
+  - 「Multicore architecture delivering up to 16,000 DMIPS @ 800 MHz.」（https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture・1回目）
+  - 「Multiple interfaces including 7x CAN FD, 4x LIN, 100B-T1 Automotive Ethernet.」（https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture・1回目）
+  - 「ISO26262 ASIL-D, AUTOSAR compliance, and IP67 protection.」（https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture・1回目）
+  - 「your identity and contact details, such as your first and last name, email address, phone number, the name of and your relationship with a particular distributor or customer, username and password. This information is provided on a voluntary basis.」（https://www.rimac-technology.com/privacy-policy・1回目）
+  - 「In order to be responsive, provide effective services, and maintain our business relationship, as a matter of our legitimate interests, and/or the legitimate interest of our business customer, we process your personal data for the following purposes:」（https://www.rimac-technology.com/privacy-policy・1回目）
+  - 「RIMAC believes in creating open and transparent communication with our suppliers that leads to the most effective supplier relationships and partnerships.」（https://www.rimac-technology.com/supplier-portal・1回目）
+  - 「. Registration for participation is mandatory.」（https://www.rimac-technology.com/mlbattprot-eu-project・1回目）
+- 車以外の顧客・産業：
+  - 「Pioneering the future of electrical architecture」（https://www.rimac-technology.com/・1回目）
+  - 「Energy」（https://www.rimac-technology.com/・1回目）
+  - 「A standardized battery architecture, offering full flexibility for any application」（https://www.rimac-technology.com/battery・1回目）
+  - 「Top-notch performance tailored to your needs, from highest energy to most power-dense solutions.」（https://www.rimac-technology.com/battery・1回目）
+  - 「Pre-developed technology enabling a direct start from the B-sample stage, leveraging mature industrialization concepts.」（https://www.rimac-technology.com/battery・1回目）
+  - 「Specific energy」（https://www.rimac-technology.com/battery・1回目）
+  - 「Pioneering the future of electrical architecture」（https://www.rimac-technology.com/battery・1回目）
+  - 「Energy」（https://www.rimac-technology.com/battery・1回目）
+  - 「Standardized component architecture enabling flexible configurations with customizable performance and cost KPIs.」（https://www.rimac-technology.com/powertrain・1回目）
+  - 「Providing optimal system configurability tailored for a wide range of applications, from SUVs to sedans and sports cars.」（https://www.rimac-technology.com/powertrain・1回目）
+  - 「Standardized architecture drives down production costs, offering cost advantages with a competitive EUR/kW pricing model.」（https://www.rimac-technology.com/powertrain・1回目）
+  - 「Our unique dual-motor architecture offers high flexibility in vehicle packaging and supports advanced powertrain control modes, including torque vectoring, drift control, and traction control.」（https://www.rimac-technology.com/powertrain・1回目）
+- レース・ワンメイク：
+  - 「Pitarević joined Rimac Technology from Continental and led the company through a period of operational expansion in his role as COO, overseeing the transition of multiple programmes into series production.」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「BMW 3 Series (E30)」（https://en.wikipedia.org/wiki/Rimac_Automobili・3回目）
+  - 「The Marine Industry Podcast Series」（https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/・3回目）
+  - 「BMW 3 Series」（https://en.wikipedia.org/wiki/Mate_Rimac・3回目）
+  - 「being the formula for velocity),」（https://en.wikipedia.org/wiki/Mate_Rimac・3回目）
+- お金の形：
+  - 「Aftersales」（https://www.rimac-technology.com/・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/battery・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/powertrain・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/bms・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/ecu・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/software・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/company・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture・1回目）
+  - 「We welcome your questions, comments, and concerns about this Privacy Policy or your personal data. Please send us any feedback to the following address:」（https://www.rimac-technology.com/privacy-policy・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/privacy-policy・1回目）
+- 売上構成：
+  - 「Aftersales」（https://www.rimac-technology.com/・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/battery・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/powertrain・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/bms・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/ecu・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/software・1回目）
+  - 「In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.」（https://www.rimac-technology.com/company・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/company・1回目）
+  - 「450 kW fast charge capability ensuring 20-80% charging in less than 15 min」（https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/case-study/inventing-the-battery-of-the-world-s-fastest-vehicle・1回目）
+  - 「with peak efficiencies greater than 95%」（https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles・1回目）
+  - 「Aftersales」（https://www.rimac-technology.com/case-study/engineering-the-scalable-e-powertrain-platform-for-high-performance-vehicles・1回目）
+- 創業期と参入のしやすさ：
+  - 「Rimac Automobili’s Evolution from Garage Dream to Tier 1 Global Supplier」（https://www.rimac-technology.com/company・1回目）
+  - 「Starting in a small garage, Rimac has grown into a Tier 1 supplier for global OEMs, employing over 2,000 people across five countries, based in Zagreb, Croatia. This growth has established Rimac as a key player in the automotive industry, delivering advanced electric vehicle technologies and energy solutions that meet the needs of leading manufacturers worldwide.」（https://www.rimac-technology.com/company・1回目）
+  - 「In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.」（https://www.rimac-technology.com/company・1回目）
+  - 「2.500 employees」（https://www.rimac-technology.com/company・1回目）
+  - 「The second day of the workshop focused on Horizon Europe 2026–2027 funding opportunities, including joint initiatives in Clusters 4 (Digital, Industry and Space) and 5 (Climate, Energy and Mobility), aiming to foster new European collaborations in the domains of smart cities, energy transition, and sustainable mobility.」（https://www.rimac-technology.com/mlbattprot-eu-project・1回目）
+  - 「Rimac Technology is free from any oversight by any other manufacturer, including investors into the Rimac Group business. It’s just as important for Rimac Technology clients that their projects are kept confidential, as that it is delivered with the required cost, performance and on time.」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Founder and President of the Rimac Group, CEO Bugatti Rimac」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Founded」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「Founder」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「Number of employees」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「, the electric hypercar manufacturer founded by」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「Rimac Technology was founded by」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+- 顧客名：
+  - 「Porsche investment and Bugatti merger accelerate Rimac’s growth」（https://www.rimac-technology.com/company・1回目）
+  - 「In 2018, Porsche acquired a 10% stake in Rimac Automobili, increasing it to 15.5% in 2019. This investment fueled Rimac's growth to nearly 1,000 employees and advanced its electrified vehicle technologies. In a historic milestone, Rimac and Bugatti merged to form Bugatti Rimac, blending innovation with Bugatti's long-standing legacy of 110 years.」（https://www.rimac-technology.com/company・1回目）
+  - 「The new home of hypercars and technical innovation, integrating advanced R&D centers and high-volume production lines for Rimac Technology, with dedicated hypercar development and production for Bugatti Rimac.」（https://www.rimac-technology.com/company・1回目）
+  - 「This breakthrough marks a paradigm shift in E/E architecture for software-defined vehicles, setting a new standard for innovation. Rimac Technology’s domain/zonal ECU is one of the first-to-market solutions, offering streamlined, efficient, and scalable mobility solutions.」（https://www.rimac-technology.com/case-study/pioneering-the-future-of-electrical-architecture・1回目）
+  - 「With professional advisors, in our legitimate interests or as required by law. As necessary, we will share your personal data with professional advisors functioning as service providers such as auditors, law firms, or accounting firms.」（https://www.rimac-technology.com/privacy-policy・1回目）
+  - 「In addition to representatives from the mentioned research institutions, speakers from BMW Group and Rimac Technology will also give presentations on the topic of batteries in electric vehicles.」（https://www.rimac-technology.com/mlbattprot-eu-project・1回目）
+  - 「Strojno ucenje procesa starenja baterijskog članka, Ninoslav Čerkez, Rimac Technology d.o.o.」（https://www.rimac-technology.com/mlbattprot-eu-project・1回目）
+  - 「, 2022, as an umbrella company that incorporates Bugatti Rimac (active from November 2021) and the new standalone Rimac Technology business.」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Founder and President of the Rimac Group, CEO Bugatti Rimac」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Built in Zagreb, Driven Worldwide: Rimac Technology Helps Power the New BMW」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Bugatti Rimac」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「Porsche」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+- 検索結果の抜粋：
+  - 「Rimac Technology Officially Becomes Its Own Entity — Rimac Technology Officially Becomes Its Own Entity Rimac Newsroom https://www.rimac-newsroom.com > r...」（https://www.rimac-newsroom.com/press-releases/rimac-group/rimac-technology-officially-becomes-its-own-entity・3回目）
+  - 「Rimac Technology - Wikipedia — Rimac Technology - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Rim...」（https://en.wikipedia.org/wiki/Rimac_Technology・3回目）
+  - 「Rimac Technology | LinkedIn — Rimac Technology | LinkedIn LinkedIn Croatia https://hr.linkedin.com > company > r...」（https://hr.linkedin.com/company/rimac-technology・3回目）
+  - 「Company | Rimac Technology — Company | Rimac Technology Rimac Technology https://www.rimac-technology.com > ...」（https://www.rimac-technology.com/company・3回目）
+  - 「Rimac Technology Number of Employees 2026 - Revelio Labs — Rimac Technology Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/rimac-technology/employees・3回目）
+  - 「Rimac Automobili - Wikipedia — Rimac Automobili - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Rim...」（https://en.wikipedia.org/wiki/Rimac_Automobili・3回目）
+  - 「Companies | Rimac Group — Companies | Rimac Group Rimac Group https://www.rimac-group.com > com...」（https://www.rimac-group.com/companies・3回目）
+  - 「Rimac Group Boasts Assets in Excess of 1 Billion Euros — Rimac Group Boasts Assets in Excess of 1 Billion Euros Total Croatia https://total-croatia-news.com > news」（https://total-croatia-news.com/news/business/rimac-group-2/・3回目）
+  - 「Rimac Technology — Rimac Technology Rimac Technology https://www.rimac-technology.com」（https://www.rimac-technology.com/・3回目）
+  - 「Rimac Technology : Winning the ultimate car battery race? — Rimac Technology : Winning the ultimate car battery race? Siemens Blog Network https://blogs.sw.siemens.com > racing...」（https://blogs.sw.siemens.com/simcenter/racing-towards-the-ideal-car-battery/・3回目）
+  - 「Rimac Technology Unveils New Solid-State Battery Tech and ... — Rimac Technology Unveils New Solid-State Battery Tech and ... Rimac Newsroom https://www.rimac-newsroom.com > r...」（https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-unveils-new-solid-state-battery-tech-and-next-generation-eaxles・3回目）
+  - 「Rimac Technology and ECOBLOX Partner to Bring Rimac ... — Rimac Technology and ECOBLOX Partner to Bring Rimac ... Rimac Newsroom https://www.rimac-newsroom.com > r...」（https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics・3回目）
+- 売上高：記載なし（3回確認済み：公式19頁／PDF・画像0件／外部15頁・検索6回）
+
+## Roush
+- 公式URL：https://www.roush.com（given）
+- 他社向けサービス：
+  - 「Built to work. Built to serve. Our defense engineering services include body, chassis, and powertrain engineering. Complete niche vehicle design, concept design, and prototype development. Plus, we take care of styling and modeling through release and production.」（https://www.roush.com/industries/defense/・1回目）
+  - 「We utilize the latest CFD (Computational Fluid Dynamics) modeling methods to assist marine and offshore customers by evaluating their designs in open water. We also provide dynamometer testing, general manufacturing for components, and graphic design services.」（https://www.roush.com/industries/beyond/・1回目）
+  - 「From heavy equipment to industrial machinery, Roush partners with manufacturers to solve complex production challenges. We provide contract manufacturing, systems integration, heavy machinery testing, and more — helping develop equipment that works harder and lasts longer.」（https://www.roush.com/industries/beyond/・1回目）
+  - 「What does it take to go from idea to implementation? Engineering services that move from artistry to real, working, fully operational, and testable.」（https://www.roush.com/capabilities/・1回目）
+  - 「Strategize. Capitalize. Revolutionize. Our consulting team is ready to manage your project or program with a spirit of co-creation and industry-leading efficiency.」（https://www.roush.com/capabilities/dream/・1回目）
+  - 「*Aerospace design services not applicable for AS9100 certified work」（https://www.roush.com/capabilities/design/・1回目）
+  - 「We are in the business of enabling. Transforming. Engineering. Our capabilities are tailored for any customer to unleash a tangible impact in their industry. From consulting, to chassis and body engineering, to EV control systems and powertrain development, it begins with a team of experienced engineers.」（https://www.roush.com/capabilities/engineer/・1回目）
+  - 「Engineering Services」（https://www.roush.com/capabilities/engineer/・1回目）
+  - 「Need a full suite of engineering services? You’ll find it at Roush. Engineering analysis and consulting, industrial design, and testing and validation are only the start. We also have specialists devoted to specific project requirements, like NVH testing for noise and vibration engineering and functional safety.」（https://www.roush.com/capabilities/engineer/・1回目）
+  - 「Contract Manufacturing」（https://www.roush.com/capabilities/deliver/・1回目）
+  - 「It’s all about speed to market. Our contract manufacturing team unites every facet of Roush — design, engineering, machining, fabrication, testing, manufacturing, and supply chain expertise — for a scalable process that quickly brings a customer’s ideas to life.」（https://www.roush.com/capabilities/deliver/・1回目）
+  - 「LHPU focuses on functional safety and software development for the automotive industry. The company provides services including consulting, implementation of ISO 26262,…」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+- 部品・技術の供給：
+  - 「We utilize new materials, structures, models, and simulations.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「We can do more with driverless. Autonomous technology is a priority at Roush, and our team is ready for what lies ahead. We develop vehicles that operate without human input or intervention by synthesizing advanced sensors and computer systems with the latest automotive engineering methods.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Roush has been involved in the eMobility vehicle space for decades. We offer deep expertise in sustainable transportation solutions. We work to simplify the evolving electric vehicle marketplace by integrating EV architecture, software, and sensing technology. And most importantly, we know how to commercialize the latest EV systems for the real world.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Commercial vehicle platforms are the backbone of freight and commerce. We design and develop powertrain systems and body structures that can withstand the long haul. We also support research and development activities through combustion analysis, lubricant testing, thorough emissions testing, and vehicle certification.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Check out that checkered flag. We also work extensively in professional race car development, fine-tuning precise components and engineering the next era of track-ready vehicles. Our founder Jack Roush is passionate about the world of racing — and he’s in it to win.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「What advancements in eMobility infrastructure can support our development and deployment of EV vehicles?」（https://www.roush.com/industries/mobility/・1回目）
+  - 「How do you handle the testing and validation phase to ensure the battery meets our quality and safety standards?」（https://www.roush.com/industries/mobility/・1回目）
+  - 「From propulsion systems to structures, rotorcraft to rockets, sea level to sub-orbital, GEO, drones, and beyond, Roush loves to work in rarified air mobility.」（https://www.roush.com/industries/aerospace/・1回目）
+  - 「Your commercial aircraft objectives, realized. Whether it’s Class A Surface Development or 3D Model Development, we understand the nuances and requirements of modern commercial aircrafts. Our manufacturing support includes additive manufacturing, advanced composites components, and specialized NVH engineering products like constrained layer damping patches for noise control.」（https://www.roush.com/industries/aerospace/・1回目）
+  - 「We are the manpower behind the unmanned. Our drone engineering capabilities involve advanced composites materials, computer-aided engineering, and innovative prototyping services.」（https://www.roush.com/industries/aerospace/・1回目）
+  - 「The consensus is universal — our experience in non-terrestrial environments is unrivaled. Advanced cryogenic propulsion systems. Aerospace welding. Aerospace machining for wiring harnesses that can handle extreme conditions. If there is an opportunity in your orbit, Roush is ready to work.」（https://www.roush.com/industries/aerospace/・1回目）
+- ライセンス・ブランド：
+  - 「Skip to content」（https://www.roush.com/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/aerospace/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/defense/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/entertainment/・1回目）
+  - 「Roush works alongside the world’s largest entertainment brands to develop extraordinary experiences for guests. You’ve likely experienced the joy, imagination, and endless creativity of our work in storied theme parks across the globe.」（https://www.roush.com/industries/entertainment/・1回目）
+  - 「Let’s inspire wonder with a pioneering synthesis of artistry, craftsmanship, and technology.」（https://www.roush.com/industries/entertainment/・1回目）
+  - 「Craftsmanship,」（https://www.roush.com/industries/entertainment/・1回目）
+  - 「Skip to content」（https://www.roush.com/industries/agriculture/・1回目）
+  - 「We believe in equipping agricultural experts with the tools and knowledge they need to succeed. Our team is dedicated to empowering our partners every step of the way. We are growing a brighter future for all.」（https://www.roush.com/industries/agriculture/・1回目）
+  - 「Committed to collaboration.」（https://www.roush.com/industries/agriculture/・1回目）
+- 車以外の顧客・産業：
+  - 「Aerospace」（https://www.roush.com/・1回目）
+  - 「Defense」（https://www.roush.com/・1回目）
+  - 「Energy」（https://www.roush.com/・1回目）
+  - 「Roush proudly delivers commercialized solutions in some of the world’s most demanding industries. Our partners can be found nearly anywhere — making a global impact in mobility, aerospace, agriculture, and more. Let’s explore how we can help in your industry.」（https://www.roush.com/・1回目）
+  - 「Aerospace」（https://www.roush.com/industries/・1回目）
+  - 「Defense」（https://www.roush.com/industries/・1回目）
+  - 「Energy」（https://www.roush.com/industries/・1回目）
+  - 「Aerospace」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Defense」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Energy」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Roush has been involved in the eMobility vehicle space for decades. We offer deep expertise in sustainable transportation solutions. We work to simplify the evolving electric vehicle marketplace by integrating EV architecture, software, and sensing technology. And most importantly, we know how to commercialize the latest EV systems for the real world.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Everyday Transportation,」（https://www.roush.com/industries/mobility/・1回目）
+- レース・ワンメイク：
+  - 「Race cars.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Jack Roush brings team home for NASCAR Cup Series」（https://www.roush.com/newsroom/・1回目）
+  - 「• Please note that 600 series QCRs are aimed primarily at the Aviation industry.」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「• The 800 series and above are for the Entertainment Industry G-Codes」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「Introducing Jack Roush, a visionary automotive expert and entrepreneur who ignited his career as an engine development engineer at Ford Motor Company in 1964. His fervor for drag racing took center stage in 1970 when he teamed up with Wayne Gapp, leading them to clinch numerous championships in AHRA, NHRA, and IHRA Pro Stock drag racing over the next five years.」（https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN・3回目）
+  - 「Jack's legacy spans over 50 years, marked by an unwavering commitment to performance excellence in motorsports. His achievements include securing 31 championships and triumphing in over 400 races across drag racing, sports car, and stock car racing disciplines.」（https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN・3回目）
+  - 「RFK Racing, a testament to his dedication and skill, has clinched eight championships in NASCAR's premier divisions, firmly establishing itself as a powerhouse in the sport. This illustrious record underscores RFK Racing's dominance and influence in NASCAR and motorsports at large.」（https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN・3回目）
+  - 「Beyond the racing circuit, Roush's engine facilities play a vital role in powering numerous teams in both the Monster Energy Cup and Xfinity Series. The high-performance engines crafted by Roush are synonymous with horsepower and reliability, contributing to the success of teams beyond his own.」（https://www.roushperformance.com/pages/about?srsltid=AYCX9vKJq9bc8vc55DArXPCMsGhYC_GcKgqd3je4mkzz5AyQR0AeCbgN・3回目）
+  - 「Trans-Am Series」（https://en.wikipedia.org/wiki/Jack_Roush・3回目）
+  - 「Roush Enterprises maintains a collection of race cars and collectible cars. The exhibit is free and is located in Livonia, Michigan.」（https://en.wikipedia.org/wiki/Jack_Roush・3回目）
+  - 「Trans-Am series」（https://en.wikipedia.org/wiki/Jack_Roush・3回目）
+  - 「Winston Cup Series」（https://en.wikipedia.org/wiki/Jack_Roush・3回目）
+- お金の形：
+  - 「Are you feeling moved? Passenger vehicles engineered by Roush traverse the planet every day, performing reliably due to our comprehensive automotive engineering, design, prototyping, and development capabilities.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Feeling energized? Let’s work together.」（https://www.roush.com/industries/energy/・1回目）
+  - 「Roush is one of the most recognized experts in autonomy and robotics integration. This includes engineering ride systems that utilize autonomous robotics, developing AI-powered platforms for vehicles, and more. We help tech-first customers build proprietary systems that enhance human ingenuity through predictive maintenance, quality control, and increased efficiency.」（https://www.roush.com/industries/beyond/・1回目）
+  - 「API & Data Feeds」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「14 Tooling, Gauges & Test Equipment – Maintenance & Control」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「customers. This includes office supplies, general consumables, and facilities maintenance when it does not have a」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「requires publicly held companies to annually report on to the federal government. These reporting requirements are」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「Suppliers must review the Supplier Manual and either agree to the contents and expectations or provide feedback to」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「accompany the quote when returned to Roush. The ASQE will review the MFA and provide feedback to the」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「Suppliers are responsible for the maintenance of all tooling, testing and inspection equipment. Customer owned」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「completed for each quote (when applicable). This gives a supplier the opportunity to provide feedback regarding the」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+- 売上構成：
+  - 「It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Salesforce」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「Roush Enterprises: Revenue, Competitors, Alternatives」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Revenue」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Employee Growth %」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「... is a division of the global engineering company Roush Enterprises. ROUSH CleanTech develops propane autogas technology for medium-duty...」（https://growjo.com/company/Roush_Enterprises・3回目）
+- 創業期と参入のしやすさ：
+  - 「Check out that checkered flag. We also work extensively in professional race car development, fine-tuning precise components and engineering the next era of track-ready vehicles. Our founder Jack Roush is passionate about the world of racing — and he’s in it to win.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Roush is one of the most recognized experts in autonomy and robotics integration. This includes engineering ride systems that utilize autonomous robotics, developing AI-powered platforms for vehicles, and more. We help tech-first customers build proprietary systems that enhance human ingenuity through predictive maintenance, quality control, and increased efficiency.」（https://www.roush.com/industries/beyond/・1回目）
+  - 「AISIN World Corp. of America operates as a supplier of automotive components and systems. The company offers various automotive parts and systems, focusing on engineering and technology. It serves the automotive industry with its products and services. It was founded in 1992 and is based in Northville, Michigan.」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「Hyundai Transys operates as a global company in the automotive industry. It specialises in the manufacture of powertrain and seating components and provides essential components for vehicles. It caters to global automakers by supplying automotive powertrain systems and vehicle seating solutions. It was founded in 1994 and is based in Chungcheongnam-do, South Korea.」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Total Funding」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Employees.」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Number of Employees」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Valuation」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「rights, and provide equal opportunity for employees at all levels of the company, as well as provide and encourage」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「• The 800 series and above are for the Entertainment Industry G-Codes」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+- 顧客名：
+  - 「It’s time to perform. Roush Performance, our performance-focused vehicles division, develops and manufactures high-performance vehicles right in the U.S. They also supply high-performance vehicle parts for enthusiasts who drive Ford vehicles like the F-150, Bronco, and Mustang.」（https://www.roush.com/industries/mobility/・1回目）
+  - 「Roush Celebrates GM 2025 Supplier of the Year Award in Transportation Services」（https://www.roush.com/newsroom/・1回目）
+  - 「De Tomaso partnered with Roush for a Ford-based powerplant for the P72」（https://www.roush.com/newsroom/・1回目）
+  - 「Hyundai Transys」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「Hyundai Transys operates as a global company in the automotive industry. It specialises in the manufacture of powertrain and seating components and provides essential components for vehicles. It caters to global automakers by supplying automotive powertrain systems and vehicle seating solutions. It was founded in 1994 and is based in Chungcheongnam-do, South Korea.」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「NASCAR legend Jack Roush 1 of 2 namesakes of new Eastern Michigan」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Ford Performance Parts: Mustang, F-150, Bronco – Roush Performance Products, Inc.」（https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W・3回目）
+  - 「Upgrade your Ford Mustang, F-150, Bronco, and more with Roush Performance parts. Discover highly-engineered exhaust systems, superchargers, suspension kits, and accessories designed for superior performance and style.」（https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W・3回目）
+  - 「On-Site Audit」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「20 Process or Product Audits」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「need to provide their QMS documentation as required in the SCA and are subject to an on- site audit to verify」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+  - 「audit will also include a review of documents and operations.」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+- 検索結果の抜粋：
+  - 「Our Industries | Roush — Our Industries | Roush Roush Enterprises https://www.roush.com > industries」（https://www.roush.com/industries/・3回目）
+  - 「Top Roush Industries Alternatives, Competitors - CB Insights — Top Roush Industries Alternatives, Competitors - CB Insights CB Insights https://www.cbinsights.com > company」（https://www.cbinsights.com/company/roush-industries/alternatives-competitors・3回目）
+  - 「Top Roush Competitors & Lookalikes - apistemic markets — Top Roush Competitors & Lookalikes - apistemic markets apistemic markets https://markets.apistemic.com > roush...」（https://markets.apistemic.com/companies/roush-industries-3wwn・3回目）
+  - 「Our Partners - Roush Yates Engines — Our Partners - Roush Yates Engines Roush Yates Engines https://roushyates.com > our-partners」（https://roushyates.com/our-partners/・3回目）
+  - 「Engineer | Capabilities - Roush — Engineer | Capabilities - Roush Roush Enterprises https://www.roush.com > engineer」（https://www.roush.com/capabilities/engineer/・3回目）
+  - 「Roush - Overview, News & Similar companies | ZoomInfo.com — Roush - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > roush-i...」（https://www.zoominfo.com/c/roush-industries/101335711・3回目）
+  - 「Roush Enterprises: Revenue , Competitors, Alternatives - Growjo — Roush Enterprises: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Roush_Enterprises」（https://growjo.com/company/Roush_Enterprises・3回目）
+  - 「Roush Information - RocketReach — Roush Information - RocketReach RocketReach https://rocketreach.co > roush-profile...」（https://rocketreach.co/roush-profile_b5c49e5df42e0dcb・3回目）
+  - 「Roush Industries Number of Employees 2026 - Revelio Labs — Roush Industries Number of Employees 2026 - Revelio Labs Revelio Labs https://www.reveliolabs.com > emplo...」（https://www.reveliolabs.com/companies/roush-industries/employees・3回目）
+  - 「Roush's Competitors, Revenue , Number of Employees ... - Owler — Roush's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > roush」（https://www.owler.com/company/roush・3回目）
+  - 「Ford Performance Parts : Mustang, F-150, Bronco — Ford Performance Parts : Mustang, F-150, Bronco Roush Performance https://www.roushperformance.com > ...」（https://www.roushperformance.com/collections/parts?srsltid=AYCX9vLU1WM9l2ChghbpwhazBSvkaokyeXXUYsnG-vYlNmfnF5uWoC1W・3回目）
+  - 「Roush Supplier Manual - MediaValet — Roush Supplier Manual - MediaValet MediaValet PDF https://cdn.mediavalet.com > usva > roush > Original」（https://cdn.mediavalet.com/usva/roush/PofH6kCsvkSHYWbuSeWCQQ/atASatsq2Ui-HtrpqmRLbQ/Original/Roush%20Supplier%20Manual%20Sept%202020.pdf・3回目）
+- 設立：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式16頁／PDF・画像0件／外部12頁・検索6回）
+
+## Spirit of Ricardo
+- 公式URL：https://www.ricardo.com/en/services/performance-products（given）
+- 他社向けサービス：
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Engineering services - Consultancy and Product Development | Ricardo」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/engineering・1回目）
+  - 「With over 600 engineers globally, Ricardo's team of cross-sector and multi-platform experts and specialists help our clients to design and develop the next generation of propulsion system, energy and industrial systems.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「From engineering consultancy and advisory services to support initial concept exploration and development, to production engineering solutions to ready programmes for manufacture, our expertise supports projects of every scale, whatever stage of develop they are at.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「By managing the entire process in-house, we maintain rigorous quality standards, accelerate development timelines, and provide the expert oversight to help our clients to realise their development goals.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Ricardo offers a wide range of mechanical development, component and systems engineering services and solutions to customers across a broad range of markets and industries.」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services?service=engineering・1回目）
+  - 「Technical Strategy and Advisory - Consultancy Services | Ricardo」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Industralisation consultancy」（https://www.ricardo.com/services/engineering/control-and-electronics・1回目）
+- 部品・技術の供給：
+  - 「Systems and attributes」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Systems integration」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Systems engineering」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Supply chain management」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Component manufacture」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Kitting and spares supply」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Industrial energy systems」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Immersion cooled battery module​」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Systems and attributes」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Systems integration」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Systems engineering」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Supply chain management」（https://www.ricardo.com/services/engineering・1回目）
+- ライセンス・ブランド：
+  - 「Development of a high power density multi stack fuel cell system for passenger ships」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Experts at your fingertips」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Ricardo deliver bespoke hardware and software calibration programmes for original equipment manufacturers and tier 1 suppliers We lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.」（https://www.ricardo.com/services/engineering/control-and-electronics・1回目）
+  - 「Our expertise spans multiple sectors, including automotive (on-highway and off-highway), power generation, aerospace, marine, and defence, enabling us to support clients with complex engineering challenges across diverse applications.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and suppliers.」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Ricardo’s cross-discipline expertise in noise, vibration and harshness, powertrain technologies and integration ensures future vehicles will meet customer demands.」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.」（https://www.ricardo.com/services/engineering/test-and-validation・1回目）
+  - 「Delivering bespoke hardware and software calibration programmes for original equipment manufacturers and tier one suppliers.」（https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration・1回目）
+  - 「Our control and calibration services ensure that our clients meet the attributes that they are targeting on the transition to new forms of propulsion systems and technologies. We can lead calibration programmes as turnkey providers or specific functional ownership with delivery capability across all transport market sectors.」（https://www.ricardo.com/services/engineering/control-and-electronics/control-and-calibration・1回目）
+- 車以外の顧客・産業：
+  - 「Aerospace and defence」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Energy and industrial」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Industrial and off highway」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Motorsport」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Aerospace」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Defence」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Aerospace manufacturing」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Industrial energy systems」（https://www.ricardo.com/services/performance-products・1回目）
+  - 「Aerospace and defence」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Energy and industrial」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Industrial and off highway」（https://www.ricardo.com/services/engineering・1回目）
+  - 「Motorsport」（https://www.ricardo.com/services/engineering・1回目）
+- レース・ワンメイク：
+  - 「Developing a Formula E transmission solution for DS Performance」（https://www.ricardo.com/services/production・1回目）
+  - 「Our niche volume series production assembly lines offer our clients a high-quality, process-controlled solution for their products.」（https://www.ricardo.com/services/production・1回目）
+- お金の形：
+  - 「A subscription to Ricardo’s EMLEG database makes it simple by delivering expert curated information and support on a range of emissions legislation topics.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「This is why the Vehicle Control System is integral to EVs: it's where software, sensors and actuators come together to define how a vehicle moves, feels and responds.」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「by having full control of your software platform, allowing you to manage future development and use across multiple programmes without having to rely on external suppliers, redevelop software for each new project nor have to pay additional licensing fees.」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「With capabilities spanning the full product lifecycle, from clean-sheet design to maintenance, repair and overhaul (MRO), our defence sector experts draw on our cross-sector capability to deliver programmes that prioritise reliability, availability, performance and cost-efficiency.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+  - 「Maintenance, Repair and Overhaul (MRO)」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+- 売上構成：
+  - 「Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「Minimise costs by 50%」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「Reduce time to market by 40%」（https://www.ricardo.com/services/engineering/control-and-electronics/vehicle-supervisor-control-software・1回目）
+  - 「Experience a major boost in power and faster charging times with our groundbreaking immersion cooled battery solutions, providing up to 48% more peak power and 40% faster peak charge rate.」（https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management・1回目）
+  - 「At Ricardo, our immersion cooled battery technology is being utilized in a variety of applications, including passenger vehicles, aircraft, and commercial vehicles, to name just a few. Our cutting-edge battery packs have been demonstrated to significantly reduce peak charging rate by 40% while also delivering a remarkable 48% increase in peak power density.」（https://www.ricardo.com/services/engineering/systems-and-attributes/thermal-management・1回目）
+  - 「Key segments within the Aerospace and defence market.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+- 創業期と参入のしやすさ：
+  - 「Our world-class experts provide you and your clients with a trusted, comprehensive service giving robust independent expert opinion, founded on our direct experience in regulation, industry and policy. We offer both phased batch or ad-hoc support that you can tailor.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「We deliver targeted optimisation and cost-reduction programmes for existing product ranges, alongside the evaluation and development of innovative, next-generation concepts.」（https://www.ricardo.com/services/engineering/mechanical-engineering・1回目）
+  - 「Engine efficiency is the discipline Ricardo was founded on, and we have spent more than 100 years building the test capability behind it. Our test and validation services now cover everything from the smallest research engine to multi-megawatt units, across ICE, hybrid, battery-electric and hydrogen platforms.」（https://www.ricardo.com/services/engineering/test-and-validation・1回目）
+  - 「Since our founder’s pioneering work developing the Ricardo engine to improve range, reliability and reducing smoke emissions for the Mark V tank used by the British Army in World War One, we have been at the forefront of providing end-to-end propulsion system solutions to the defence sector.」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+- 顧客名：
+  - 「Ricardo can review business categories to analyse demand and explore emerging and incremental categories to identify opportunities for growth. Through market segmentation and modelling, we can assess the market potential of different categories and geographies. We can also help identify the size of potential markets through TAM-SAM-SOM analysis and provide insights on adoption scenarios.」（https://www.ricardo.com/services/engineering/advisory・1回目）
+  - 「ragmatic」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile according to the project needs.​」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「Pragmatic Agile Systems」（https://www.ricardo.com/services/engineering/systems-and-attributes・1回目）
+  - 「The RAS-R system provides electronic augmentation of internal combustion or electric power unit sound quality using live streaming authentic sound sources, rich in genuine information content.」（https://www.ricardo.com/services/engineering/systems-and-attributes/noise-vibration-harshness・1回目）
+  - 「ragmatic」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「ngineering. It allows us to adapt our Systems Engineering approach from fully Systematic to Pragmatic and Agile.」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Pragmatic and Agile ​」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Our engineers have experience of delivering proof of concept and technology demonstrator projects where the project output is designed to inform the future system design and requirements. In this case a more pragmatic and agile approach is deployed. Our core Ricardo processes are still utilised but tailored accordingly​.」（https://www.ricardo.com/services/engineering/systems-and-attributes/systems-engineering・1回目）
+  - 「Key segments within the Aerospace and defence market.」（https://www.ricardo.com/markets/aerospace-and-defence・1回目）
+  - 「Ricardo demonstrates militarized version of Ford Ranger 2019」（https://www.ricardo.com/markets/aerospace-and-defence/defence・1回目）
+- 検索結果の抜粋：
+  - 「Ricardo Performance Products - EME Outlook Magazine — Ricardo Performance Products - EME Outlook Magazine EME Outlook Magazine https://www.emeoutlookmag.com > 2...」（https://www.emeoutlookmag.com/company-profiles/239-ricardo-performance-products・3回目）
+- 設立：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式25頁／PDF・画像0件／外部13頁・検索6回）
+
+## YCOM
+- 公式URL：https://www.ycom.it（given）
+- 他社向けサービス：
+  - 「Bodywork and Monocoque Design Consultancy」（https://www.ycom.it/projects/・1回目）
+  - 「Behind the scenes of Le Mans - YCOM technology for OEMs」（https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/・1回目）
+  - 「Motorsport and exciting ‘halo’ projects have long represented an attractive proposition for OEMs. Not only do they provide an arena to demonstrate technological...」（https://www.ycom.it/category/press-and-news-category/・1回目）
+  - 「Engineering Services for Telecommunications & Fiber | Telecom Design Company | Valhalla Industries」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「Telecommunications Engineering Services」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「, we understand that a strong foundation is essential for a reliable and future-proof telecommunications network. Our team of experienced engineers provides comprehensive telecom engineering services to support all aspects of your wireless and」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「Your Trusted Telecom Engineering Services Provider」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「We offer a comprehensive suite of telecom engineering services to support your telecommunications projects across the telecom industry, including:」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「For a truly streamlined experience, we can integrate our engineering services with our construction expertise, ensuring a smooth transition from design to build.」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「What sets experienced telecommunication engineering companies apart from general contractors?」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「today to discuss your telecommunications engineering needs. We are a leading telecom engineering services provider with a proven track record of success in the telecommunications industry. We are confident that」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「Consulting, Finance, Startups, Venture Capital」（https://growjo.com/company/Y_Combinator・3回目）
+- 部品・技術の供給：
+  - 「Engineering insights Every component plays a role」（https://www.ycom.it/・1回目）
+  - 「Carbon fiber lay-up in action! #ycom #carbonfiber」（https://www.ycom.it/・1回目）
+  - 「What happens before a composite component reaches」（https://www.ycom.it/・1回目）
+  - 「Behind the scenes of the composite cutting process」（https://www.ycom.it/・1回目）
+  - 「Behind the scenes of the composite curing process.」（https://www.ycom.it/・1回目）
+  - 「Crafting Composite Excellence for Motorsport Innovation」（https://www.ycom.it/press-news/・1回目）
+  - 「Composite Structures Simulation」（https://www.ycom.it/press-news/・1回目）
+  - 「eSC announces YCOM as official eSkootr supplier」（https://www.ycom.it/press-news/・1回目）
+  - 「World-first sustainable alternative to carbon-fibre revealed for motorsport crash structures」（https://www.ycom.it/press-news/・1回目）
+  - 「In the fast-paced world of motorsport, the demand for high-performance composites is ever-growing. At YCOM, we specialize in delivering precision-engineered…」（https://www.ycom.it/press-news/・1回目）
+  - 「Founded in 2008 in the heart of Italy’s Motor Valley, YCOM is an advanced technology company that accelerates vehicle development through cutting-edge engineering and deep expertise in lightweight composite structures.」（https://www.ycom.it/about/・1回目）
+  - 「From Formula 1 to Le Mans, YCOM engineers, develops, and produces complete solutions and components for the motorsport and mobility industries, helping top OEMs and innovators worldwide move from vision to validation with unmatched speed and precision.」（https://www.ycom.it/about/・1回目）
+- ライセンス・ブランド：
+  - 「Maserati joins forces with YCOM for the GT2 Championship」（https://www.ycom.it/press-news/・1回目）
+  - 「Within Korus, technology, craftsmanship, and vision come together to create full-performance vehicles designed, developed, and built almost entirely in-house.」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「specializing in two main areas: racing car components and technical equipment.」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「YCOM Official eSkootr Championship™ Supplier」（https://www.ycom.it/projects/・1回目）
+  - 「At YCOM, the degree of collaboration and partnership is entirely at the OEM’s discretion. Offering far more than simple consultation, YCOM can provide complete program management, from conception to delivery, covering:」（https://www.ycom.it/motorsport-engineering-partner-for-oem/・1回目）
+  - 「The results speak for themselves: accelerated engineering that delivers program outcomes known throughout the industry. Such collaborations have proven invaluable to OEMs, allowing them to leverage their motorsport involvement, pioneer new technologies, highlight a new brand direction, and maintain a competitive edge in a rapidly evolving automotive market.」（https://www.ycom.it/motorsport-engineering-partner-for-oem/・1回目）
+  - 「Maserati joins forces with YCOM for the GT2 Championship」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+  - 「Maserati has announced a strategic technical partnership with YCOM for the development of the new Maserati GT2, the race car that marks the Trident brand’s return to GT competition. Combining Maserati’s racing heritage with YCOM’s expertise in advanced engineering and composite technologies, the collaboration aims to deliver a high-performance vehicle designed for the Fanatec GT2 European Series」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+  - 「Maserati has selected YCOM to bring the Trident back to GT competitions. The Modena manufacturer and the leading advanced technology company – a specialist in the development of motorsport projects and a world-renowned expert in lightweight composite structures design and manufacturing – have entered into a technical partnership agreement for the new Maserati GT2.」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+  - 「After its debut in Season 9 of the ABB FIA Formula E Championship, Maserati is about to come back to racing. The return of the glorious Trident to the GT Championship will provide a high-performance car to the teams willing to compete in the Fanatec GT2 European Series.」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+  - 「It embraced the important and glorious legacy of the Maserati MC12 in the GT championships between 2004 and 2010 and is dedicated to private teams: Maserati focused on developing a product that not only stands up to racing challenges but is also ideal for gentleman drivers when it comes to handling, driveability and performance.」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+- 車以外の顧客・産業：
+  - 「Accelerating into the future – YCOM is applying its Motorsport DNA to fast-track new technology development and applications for the mobility industry, pushing the boundaries for a more sustainable tomorrow.」（https://www.ycom.it/・1回目）
+  - 「Motorsport DNA and advanced technology - from concept to race ⚡」（https://www.ycom.it/・1回目）
+  - 「A @korus_motorsport company. Behind some of the most extreme vehicles in the world 🚀」（https://www.ycom.it/・1回目）
+  - 「Sports by YCOMers! Determination doesn’t stop whe」（https://www.ycom.it/・1回目）
+  - 「Sometimes motorsport is about more than the race i」（https://www.ycom.it/・1回目）
+  - 「Sports by YCOMers! There are many parallels betw」（https://www.ycom.it/・1回目）
+  - 「Sports by YCOMers! The values we develop through」（https://www.ycom.it/・1回目）
+  - 「Crafting Composite Excellence for Motorsport Innovation」（https://www.ycom.it/press-news/・1回目）
+  - 「A more Sustainable Motorsport: a shared Responsibility」（https://www.ycom.it/press-news/・1回目）
+  - 「Sustainability in Motorsport and Beyond: the FIA 3 Stars Accreditation」（https://www.ycom.it/press-news/・1回目）
+  - 「A trusted Motorsport Engineering Partner for OEM Success」（https://www.ycom.it/press-news/・1回目）
+  - 「How motorsport success helps us fast-track innovation in mobility」（https://www.ycom.it/press-news/・1回目）
+- レース・ワンメイク：
+  - 「YCOM engages with the next generation of engineers at Formula SAE Italy 2026」（https://www.ycom.it/・1回目）
+  - 「It’s already been a month since Formula SAE, but t」（https://www.ycom.it/・1回目）
+  - 「YCOM engages with the next generation of engineers at Formula SAE Italy 2026」（https://www.ycom.it/press-news/・1回目）
+  - 「Maserati joins forces with YCOM for the GT2 Championship」（https://www.ycom.it/press-news/・1回目）
+  - 「Groundbreaking race series turns to YCOM for e-mobility solution」（https://www.ycom.it/press-news/・1回目）
+  - 「From September 2 to 6 2026, YCOM took part in the 21st edition of Formula SAE Italy, held at the…」（https://www.ycom.it/press-news/・1回目）
+  - 「From Formula 1 to Le Mans, YCOM engineers, develops, and produces complete solutions and components for the motorsport and mobility industries, helping top OEMs and innovators worldwide move from vision to validation with unmatched speed and precision.」（https://www.ycom.it/about/・1回目）
+  - 「cars for Formula 4, Formula Regional, and similar competitive categories that shape the careers of most drivers worldwide — including 19 of the 20 current Formula 1 drivers.」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「From the smallest part to halo structures for formula cars and full chassis for supercars, Breda Racing ensures the highest standards of craftsmanship in motorsport while also providing top-level equipment for car management — both on track and in the headquarters of the world’s leading teams.」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「YCOM Official eSkootr Championship™ Supplier」（https://www.ycom.it/projects/・1回目）
+  - 「BMW GTE & GT3 | 2015」（https://www.ycom.it/projects/・1回目）
+  - 「ARTLINE FORMULA 3 | 2014」（https://www.ycom.it/projects/・1回目）
+- お金の形：
+  - 「Maintenance」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Annual cost-down OEMs commonly require from suppliers」（https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/・3回目）
+  - 「the CM’s component purchase cost. In this case, the CM purchases components at per unit cost c」（https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf・3回目）
+  - 「pays co per unit to the supplier), and then produces q1(c) units of product 1; 4) The CM oﬀers the」（https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf・3回目）
+  - 「the CM can oﬀer a two-part tariﬀ ( w, T ) to OEM 2, where w corresponds to the variable per unit」（https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf・3回目）
+  - 「Annual report, 2009, Flextronics International Ltd.」（https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf・3回目）
+  - 「Kyocera. 2006. Competitive responses to evolving market trends. Kyocera Corporation Annual」（https://pages.stern.nyu.edu/~wxiao/buysell_pricemasking.pdf・3回目）
+  - 「EY Annual Report 2026」（https://www.ey.com/en_gl/industries/aerospace-defense-mobility・3回目）
+  - 「annual investment in data, tech and AI to solve client challenges」（https://www.ey.com/en_gl/industries/aerospace-defense-mobility・3回目）
+  - 「How To Feel Heard at the Doctor w/ Dr. Jonathon Fader」（https://www.youtube.com/watch?v=ubf-FaxIEoI・3回目）
+  - 「Startups often seek to license technology from universities, a process with unique considerations for all involved. Stephen Thau and David Sharrow review common technology-licensing topics, such as communicating with technology licensing offices, cost implications, royalty structures, due diligence, equity stakes for universities as well as sublicensing and investor rights.」（https://www.youtube.com/watch?v=ubf-FaxIEoI・3回目）
+- 売上構成：
+  - 「, eSC is intended to pioneer advanced e-mobility technologies and encourage the adoption of low-emission personal transportation. With passenger cars making up 40% of all transport emissions, smaller and cleaner mobility platforms will play a critical role in combating climate change.」（https://www.ycom.it/scooter-racing-technology-to-the-world/・1回目）
+  - 「In fact, the global electric scooter market was already €19.9 billion in 2021, with an expected growth rate of 7.8% (CAGR) through to 2030. This is poised to accelerate further as governments around the world incorporate electric micromobility into infrastructure and transport networks.」（https://www.ycom.it/scooter-racing-technology-to-the-world/・1回目）
+  - 「YCOM S.R.L., a leader in motorsport and advanced mobility projects, has welcomed investment from Italian club deal TEC Racing S.p.A. as a majority shareholder. This investment will further strengthen the Italian company’s competitive edge and expand its presence...」（https://www.ycom.it/category/press-and-news-category/・1回目）
+  - 「Y Combinator: Revenue, Competitors, Alternatives」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Revenue & Valuation」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Revenue and Competitors」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Estimated Revenue & Valuation」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「's estimated annual revenue is currently」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「's estimated revenue per employee is $」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Revenue」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Revenue (est)」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Employee Growth %」（https://growjo.com/company/Y_Combinator・3回目）
+- 創業期と参入のしやすさ：
+  - 「Founded in 2008 in the heart of Italy’s Motor Valley, YCOM is an advanced technology company that accelerates vehicle development through cutting-edge engineering and deep expertise in lightweight composite structures.」（https://www.ycom.it/about/・1回目）
+  - 「Founded in 1980, Tatuus is a world leader in the design and production of single-seater race」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「Founded in 1977, ATM is a leading company in the design and production」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「Founded in 2001, Next Solution specializes in electronics and electromechanics for motorsport. From the headlights that illuminate Le Mans’ straights to the steering」（https://www.ycom.it/about/korus-group/・1回目）
+  - 「Founded in 2008 to develop motorsport projects, YCOM now applies its motorsport approach to new frontiers, thus perfectly reflecting and understanding Maserati’s racing vision for the future.」（https://www.ycom.it/maserati-ycom-gt2-technical-partnership/・1回目）
+  - 「showcases our dedication to cutting-edge technological advancements. These endeavors resonate with the forward-thinking vision of Le Mans towards electrification and a more sustainable impact for racing, exemplified by initiatives like the Garage 56 classification for innovative vehicles and the Mission H24 project in preparation for the arrival of an hydrogen category at the 24 Hours of Le Mans.」（https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/・1回目）
+  - 「Nicola Scimeca, Founder & CBDO at YCOM」（https://www.ycom.it/scooter-racing-technology-to-the-world/・1回目）
+  - 「Khalil Beschir, eSkootr Championship COO and co-founder, commented:」（https://www.ycom.it/scooter-racing-technology-to-the-world/・1回目）
+  - 「Highly competitive and extremely demanding, motorsport development and innovation are fast-paced and certainly not for the faint of heart. In this blog, Nicola Scimeca, YCOM Founder and Managing Director, explores five of the key lessons we have learned from motorsport, which frame our approach to mobility...」（https://www.ycom.it/category/press-and-news-category/page/2/・1回目）
+  - 「CASE STUDY“We have just completed delivery and testing of our first official product – the high-performance YCOM S1-X eSkootr. It is the result of our work with the eSkootr Championship, a new motorsport series built upon e-mobility and frontier innovation. This case study highlights some...」（https://www.ycom.it/category/press-and-news-category/page/2/・1回目）
+  - 「BEAD Funding」（https://valhallaindustriesinc.com/engineering/・3回目）
+  - 「builds follows the same engineering process as any other project, with added attention to grant compliance, documentation, and the specific timelines tied to public funding. Our team coordinates closely with state broadband offices so design milestones line up with grant reporting requirements.」（https://valhallaindustriesinc.com/engineering/・3回目）
+- 顧客名：
+  - 「AUDI DAKAR | 2021-2023」（https://www.ycom.it/projects/・1回目）
+  - 「Porsche 919 EVO | 2018」（https://www.ycom.it/projects/・1回目）
+  - 「AUDI RS5 DTM | 2017」（https://www.ycom.it/projects/・1回目）
+  - 「AUDI R18 | 2008-2016」（https://www.ycom.it/projects/・1回目）
+  - 「BMW GTE & GT3 | 2015」（https://www.ycom.it/projects/・1回目）
+  - 「Collaborating with a diverse range of private and factory Le Mans teams, including Epsilon, Lotus, and Audi, YCOM’s expertise has left – behind the scenes – some relevant marks on the sport. While much of our involvement remains strictly confidential, notably we played a role as official technical partners in the Audi LMP1 program from 2008 to 2016, responsible for」（https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/・1回目）
+  - 「interview with Claudio Berro」（https://www.ycom.it/ycom-technology-behind-the-scenes-of-le-mans/・1回目）
+  - 「NASA Ames Resea...」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「These are not theoretical advantages — each one maps directly to a procurement pain point that fragmented multi-vendor supply chains create and integrated suppliers eliminate.」（https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/・3回目）
+  - 「Consolidated interfaces, freight, and inspection beat the headline piece price of fragmented sourcing. Fewer purchase orders, fewer inbound shipments, and fewer quality-hold events compound into significant total program cost reduction.」（https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/・3回目）
+  - 「One accountable partner is easier to monitor, audit, and dual-plan than a sprawling vendor list. Capacity assurance, business continuity planning, and sub-tier oversight are all managed under a single supplier quality agreement — reducing the coordination overhead that grows non-linearly with every additional vendor.」（https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/・3回目）
+  - 「— direct OEM or Tier 1 program experience with references available and audit transparency demonstrated upfront.」（https://marimbaauto.com/blog/why-oems-prefer-end-to-end-automotive-manufacturing-suppliers/・3回目）
+- 検索結果の抜粋：
+  - 「YCOM | LinkedIn — YCOM | LinkedIn LinkedIn https://www.linkedin.com > ycom」（https://www.linkedin.com/company/ycom/・3回目）
+  - 「Y-COM's Competitors, Revenue , Number of Employees ... — Y-COM's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > ycominc」（https://www.owler.com/company/ycominc・3回目）
+  - 「Y Combinator: Revenue , Competitors, Alternatives - Growjo — Y Combinator: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Y_Combinator」（https://growjo.com/company/Y_Combinator・3回目）
+  - 「Y Combinator - X — Y Combinator - X X https://x.com > @ycombinator」（https://x.com/ycombinator/status/1673663357977604097・3回目）
+  - 「Y Combinator - Wikipedia — Y Combinator - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Y_C...」（https://en.wikipedia.org/wiki/Y_Combinator・3回目）
+  - 「Y Combinator Revenue 2025: $11M Est. - GetLatka — Y Combinator Revenue 2025: $11M Est. - GetLatka GetLatka https://getlatka.com > ycombinator」（https://getlatka.com/companies/ycombinator.com・3回目）
+  - 「Trusted Motorsport Engineering Partner for OEM Success — Trusted Motorsport Engineering Partner for OEM Success ycom.it https://www.ycom.it > motorsport-en...」（https://www.ycom.it/motorsport-engineering-partner-for-oem/・3回目）
+  - 「Aerospace , Defense & Mobility | Sector Trends & Solutions - EY — Aerospace , Defense & Mobility | Sector Trends & Solutions - EY EY https://www.ey.com > industries > aer...」（https://www.ey.com/en_gl/industries/aerospace-defense-mobility・3回目）
+  - 「Aviation and Space Startups funded by Y Combinator ( YC ) 2026 — Aviation and Space Startups funded by Y Combinator ( YC ) 2026 Y Combinator https://www.ycombinator.com > aviat...」（https://www.ycombinator.com/companies/industry/aviation-and-space・3回目）
+  - 「What Happens at YC | Y Combinator — What Happens at YC | Y Combinator Y Combinator https://www.ycombinator.com > about」（https://www.ycombinator.com/about・3回目）
+  - 「YCombinator : Who fuelled Start up culture - DEV Community — YCombinator : Who fuelled Start up culture - DEV Community DEV Community https://dev.to > heetvekariya > ycomb...」（https://dev.to/heetvekariya/ycombinator-who-fuelled-start-up-culture-2n2f・3回目）
+- 設立：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）
+- 従業員数：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）
+- 売上高：記載なし（3回確認済み：公式15頁／PDF・画像0件／外部17頁・検索6回）

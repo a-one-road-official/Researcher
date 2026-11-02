@@ -1,0 +1,1903 @@
+{
+ "name": "Fictiv",
+ "aliases": [
+  "フィクティブ"
+ ],
+ "context": "製造マーケットプレイス（米）",
+ "researched_at": "2026-11-02T14:44:33.167921+00:00",
+ "official_url": "https://www.fictiv.com",
+ "identified_by": "given",
+ "profile": {
+  "設立": [
+   {
+    "label": "（６）設立年月日",
+    "value": "：　2013年8月19日",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect you to a vetted and managed global network of manufacturers so you can source custom parts online—fast and without the runaround.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Hear How We Solve Our Customers’ Toughest Challenges",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Fictiv, we aim to provide an exceptional manufacturing experience for our customers, combining cutting-edge technology tools with hands-on guidance from Fictiv experts and instant access to fully-optimized global manufacturing capabilities through our partner network. As a result, our customers achieve unprecedented levels of manufacturing speed, quality, transparency, and cost-efficiency.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Working at Fictiv has allowed me to provide quality solutions to our customers who are making a positive impact in the world, making each day so rewarding and meaningful.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv has been an extraordinarily collaborative environment. I am thrilled to be a part of a cohesive, dedicated team. The work itself is truly satisfying as I am privileged to see what our customers are creating to invent the future!",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Enhances its Injection Molding DFM System with 3D Visualization to Help Customers Go From Design to Production Faster",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, October 18, 2022 – Fictiv, the operating system for custom manufacturing, announced today the addition of 3D visualization technology to its injection molding design for manufacturability (DFM) system, delivering end-to-end automation of injection molding workflows to help customers accelerate new product development and mitigate production risks and delays.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, October 4, 2022 – Fictiv, the operating system for custom manufacturing, announced today the commercial availability of Fictiv Premium, a first-of-its-kind paid annual membership program that enables members to coordinate custom manufacturing with high visibility and control—across projects, teams, and entire organizations.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Achieves SOC 2 Type II Compliance to Offer Customers Greater IP Protection",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv, the operating system for custom manufacturing, announced today that in response to customer demand, it is expanding its injection molding manufacturing partner network in the U.S. This will increase capacity for domestic resources, offering customers more flexibility and reduced supply chain risks.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "This past week, in response to a COVID-19 related temporary lockdown in Shenzhen, China, Fictiv utilized its ecosystem failover capabilities to successfully transition its customers’ affected workloads, wherever possible, into other regions of Asia and the US, to reduce or eliminate impact to customer orders.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Three new solutions give customers digitally-enabled workflows to drive speed & efficiency across new product development, engineer-to-order, and maintenance, repair, and operations— without compromising quality",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Unique integration of quality services into Fictiv digital thread allows customers to realize the promise of quality, transparency, and speed for complete reliability standards",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware manufacturing expert to supercharge customer experience as Fictiv builds automated, self-driving supply chains for enterprise-class customers",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv shifts capacity to these markets to mitigate risk for customers, avoiding product delays and added landed costs in the wake of the coronavirus slowdowns",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "To overcome these added challenges, the survey shows teams have instituted tariff engineering measures such as a reliance on local manufacturers for product assembly and new manufacturing platforms",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "AI Is Essential—So Why Are Manufacturers Still On Spreadsheets?",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring Slows As Tariffs And Costs Weigh On Manufacturers",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Why Small Manufacturers Are Embracing Leaner, Cleaner, Smarter Operations",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers Face Job Losses—Here’s How They Can Adapt",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv debuts GlobalFlex to give manufacturers more control over supply chains",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Trade tensions ratcheting up pressure on manufacturers: survey",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "What Does 2025 Hold for Medical Device Manufacturers?",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "National Manufacturing Day Paves the Way for Next Generation of Manufacturers",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "No Excuses: Manufacturers Must Digitize Now. Here’s How.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv uses AI to help customers select materials",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers Need Long-Term Resiliency Plans",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Improving Supply-Chain Visibility a Top Priority for Manufacturers, Survey Says",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "86% of respondents say global tensions are long-term planning considerations. However, while it is still important for U.S. manufacturers to on-shore (66%), this trend has fallen since last year (77%), even as diversifying global manufacturing operations have increased this year.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Customers can now access more capabilities and capacity for expanded production methods, simplifying custom mechanical sourcing.",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration - Fictiv",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Available today, Fictiv Premium members can integrate directly with market-leading P2P suites including SAP Ariba, Coupa, and Microsoft Dynamics 365, further simplifying team-based procurement workflows.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "members — the collaborative workspace where engineers and sourcing teams can work together to streamline workflows.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "While P2P suites are a critical tool for procurement teams to manage sourcing across a variety of vendors, they can create redundant work for engineers and purchasing managers copying and pasting quotes from suppliers to a procurement system.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "The integration is based on an industry-wide cXML standard supported by major P2P Suites including industry leaders SAP Ariba, Coupa, Microsoft Dynamics 365, and more. With Fictiv’s integration, customers will be able to leverage all the benefits of on-demand manufacturing, seamlessly integrated with their internal procurement system.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "“Innovation starts with people. This recognition reflects the incredible talent of our team and the culture we’re building—one where people are empowered to challenge what’s possible, bring bold ideas forward, and turn those ideas into meaningful impact for our customers.” —Melissa Salcius, VP of People at Fictiv/MISUMI Americas",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "We connect you to a vetted and managed global network of manufacturers so you can source custom parts online—fast and without the runaround.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Find Out How We Solve Our Customers’ Toughest Challenges",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv's platform offers a vast range of process, material, and finish combinations. Here are some of the most commonly used options by our customers in the die-casting industry:",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Hear How We Solve Our Customers’ Toughest Challenges",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands of customers who trust Fictiv with their production programs.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturers rely on high-pressure die casting for components that require both biocompatibility and precise dimensions. Surgical tools, diagnostic device enclosures, and other medical parts benefit from the dimensional accuracy and repeatability that the process offers.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Free Pricing",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Volume pricing, right on platform",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your CAD file to get instant pricing and DFM feedback. Fictiv manages manufacturing through our global network so your parts arrive faster—with expert support along the way.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With instant quoting, intelligent design for manufacturability feedback, and transparent order tracking, you can make faster, smarter decisions with full visibility and control.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Planning",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Fictiv we are passionate about supporting innovative companies that unlock good for people and our planet. We envision a world where the barriers to produce new manufacturing innovations to help humankind are substantially reduced. We seek to empower entrepreneurs with the supply chain access and tools they need to be successful.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "As Fictiv’s Chief Revenue Officer, Joanne leads revenue generation initiatives and go-to-market plans to capture new business and global partnerships. With 32 years of experience in the banking, hig",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "As Fictiv’s Chief Financial Officer, Eddie Chen leads accounting, financial planning and analysis, business strategy, and corporate development. Over the past 25+ years, Eddie has held multiple seni",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv's 2023 Sustainability in Manufacturing Survey Finds 36% of Leaders Face Barriers in Funding & Planning to Reach Sustainability Goals",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, October 4, 2022 – Fictiv, the operating system for custom manufacturing, announced today the commercial availability of Fictiv Premium, a first-of-its-kind paid annual membership program that enables members to coordinate custom manufacturing with high visibility and control—across projects, teams, and entire organizations.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv, the operating system for custom manufacturing, announced today a significant enhancement to its online platform that enables users to easily receive, review, and respond to injection molding design for manufacturability (DFM) feedback.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Global supply chain leaders feel growing distress",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Medtech Navigates Uncertainty: Strategic Planning Amidst Trump’s Tariffs & Global Trade Disruptions",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers Need Long-Term Resiliency Plans",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "– 87% of respondents agree that implementing AI into manufacturing is “…vital to my company’s future success.” Notably, nearly half of companies say that AI has enabled them to reduce planned hiring, and 34% expect AI to impact hiring in the next two years.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "86% of respondents say global tensions are long-term planning considerations. However, while it is still important for U.S. manufacturers to on-shore (66%), this trend has fallen since last year (77%), even as diversifying global manufacturing operations have increased this year.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration - Fictiv",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Get Free Pricing",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Volume pricing, right on platform",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your CAD file to get instant pricing and DFM feedback. Fictiv manages manufacturing through our global network so your parts arrive faster—with expert support along the way.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "With instant quoting, intelligent design for manufacturability feedback, and transparent order tracking, you can make faster, smarter decisions with full visibility and control.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Planning",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "APQP full program planning, PPAP, Scientific Molding, Tooling inspection, and Automation.",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "To ensure long-term performance and reduce unplanned downtime, die casting molds require regular maintenance. This includes cleaning, lubrication, and periodic inspection for wear or thermal fatigue. Implementing preventive maintenance routines can significantly extend the life of the mold, maximize productivity, and ensure consistent part quality across multiple production runs.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Get Free Pricing",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Volume pricing, right on platform",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your CAD file to get instant pricing and DFM feedback. Fictiv manages manufacturing through our global network so your parts arrive faster—with expert support along the way.",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "With instant quoting, intelligent design for manufacturability feedback, and transparent order tracking, you can make faster, smarter decisions with full visibility and control.",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Planning",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Back to Listings",
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "New DDP and Configuration Options Provide Cost Transparency and Control for Customers Worldwide San Francisco, CA — August 7, 2025 — Fictiv, the trusted global manufacturing and supply chain company, today announced new total landed cost pricing on its platform via Delivered Duty Paid (DDP) and Importer of Record (IoR) configuration options. With so many […]",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing for up to 5 quantities in one quote — no separate submissions required.",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Plan for uniform wall thicknesses throughout.",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "and DFM feedback.",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We handle custom manufacturing from first prototype to full production, all through one digital manufacturing platform.",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your CAD file to get started",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Dave Evans studied Mechanical Engineering at Stanford and started his career in automotive as the first hire for Ford’s Innovation Lab in Silicon Valley. Meanwhile, with a Master's in Chinese from Stanford, Nate Evans started his career in investment banking. In 2013, they set out to eliminate traditional supply chains to unlock the world’s creative potential.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "— Dave Evans, Co-Founder and CEO, Fictiv",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Get Started",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder & CEO",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "s the first hire at Ford’s Silicon Valley Innovation Lab, under Ford's Global Research and Advanced Engineering Division. Dave earned his B.S. in Mechanical Engineering from Stanford University.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder & CXO",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ss strategy. Prior to founding Fictiv, Nate started his career at Seven Hills Partners, a boutique investment bank, advising enterprise and high-growth technology companies. Nate majored in international relations and earned his masters in Chinese at Stanford University.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Hear firsthand from leaders at Lunar Energy and Nightside as they share how Fictiv helped bring their products to market—cutting costs, slashing lead times, and scaling from prototype to full production through our new suite of global manufacturing and supply chain services.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, October 4, 2022 – Fictiv, the operating system for custom manufacturing, announced today the commercial availability of Fictiv Premium, a first-of-its-kind paid annual membership program that enables members to coordinate custom manufacturing with high visibility and control—across projects, teams, and entire organizations.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Launches New Auto-Generated 2D Drawings to Improve Quality in Early Stage Development",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv is the first on-demand manufacturing platform to automatically generate drawings from 3D models, providing a solution for engineers that want higher quality parts, faster.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing Fictiv Enterprise: An Industry-First Solution Fulfilling Quality and Security Requirements for the Most Demanding Teams Launching New Products",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Founder and CEO Dave Evans Honored with 2021 Manufacturing Leadership Award for Role in Digital Transformation",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Evans was an early visionary and driving force in industry’s move to digital transformation, pioneer behind Fictiv’s Digital Manufacturing Ecosystem",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Supply & Demand Chain Executive, the only magazine in the supply chain industry covering the entire global supply chain that focuses on ROI, professional development and change management, has selected Fictiv COO Jean Olivieri as a winner of its first-ever Women in Supply Chain award.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv’s Digital Manufacturing Ecosystem Now Delivers Industry-First Radical Transparency Features",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Misumi launches $50 million early-stage investment fund targeting robotics Source:",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with Fictiv founder Dave Evans: ‘Unparalleled catalog of standard mechanical components’",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Dave Evans, CEO and Co-Founder of Fictiv – Interview Series",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Launches Industry-First Automated Design for Manufacturability (DFM) for Injection Molding",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "– 87% of respondents agree that implementing AI into manufacturing is “…vital to my company’s future success.” Notably, nearly half of companies say that AI has enabled them to reduce planned hiring, and 34% expect AI to impact hiring in the next two years.",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "20% OFF YOUR FIRST ORDER",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "20% OFF YOUR FIRST ORDER",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "20% OFF YOUR FIRST ORDER",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "“This recognition reflects the passion and ingenuity of our entire team,” said Dave Evans, Co-Founder of Fictiv and President & CEO of MISUMI Americas. “Innovation is baked into how we work every day, and this honor is a testament to that spirit.”",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "20% OFF YOUR FIRST ORDER",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "We handle custom manufacturing from first prototype to full production, all through one digital manufacturing platform.",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your CAD file to get started",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "20% OFF YOUR FIRST ORDER",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started?",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "As molten metal enters the mold cavity, the first liquid to enter solidifies when it contacts the cold mold walls. As more liquid metal follows to completely fill the mold, heat continues to be conducted away by the mold surfaces. The entire casting solidifies rapidly, allowing premium surface finishes and tight dimensional tolerances.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "s the first hire at Ford’s Silicon Valley Innovation Lab, under Ford's Global Research and Advanced Engineering Division. Dave earned his B.S. in Mechanical Engineering from Stanford University.",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Dave Evans Named to 2021 Constellation Research Business Transformation 150",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "State of Manufacturing Research Shows AI Reshaping Supply Chain Leadership",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv’s State of Manufacturing Report and survey were conducted using Dimensional Research. The report surveyed 178 Director-level decision-makers who work in engineering, supply chain,",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "About Dimensional Research",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "New Research Shows AI, Digital Platforms, and Regional Resilience Are Reshaping Manufacturing and Supply Chain Leadership SAN FRANCISCO — Fictiv, a global supply chain and manufacturing company, and MISUMI Global, a leading global supplier of mechanical components and manufacturing services, today released the 11th Annual State of Manufacturing & Supply Chain Report, a survey of […]",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/topic/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "David Willson is a mechanical engineer and technical content writer with a BSME from Northeastern University and over a decade of experience in product development and manufacturing. He is based in California.",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "As for unsolicited resumes, we should post the following: \"Fictiv does not accept unsolicited resumes or candidate submissions from recruiters, staffing agencies, or search firms without a valid, fully executed agreement in place.",
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "search",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Content type",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "SIGN UP FOR OUR NEWSLETTER",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "David Willson is a mechanical engineer and technical content writer with a BSME from Northeastern University and over a decade of experience in product development and manufacturing. He is based in California.",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "Join our newsletter",
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "pass": 1
+   },
+   {
+    "quote": "マネジメント紹介",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "メルマガ登録",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "独自記事（205）",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "M&Aの関連記事",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "今回のニュースに関連するものとして、これまでShareLab NEWSが発表してきた記事の中から3つピックアップして紹介する",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "関連記事を探す",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "2105の記事から探す",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, October 4, 2022 – Fictiv, the operating system for custom manufacturing, announced today the commercial availability of Fictiv Premium, a first-of-its-kind paid annual membership program that enables members to coordinate custom manufacturing with high visibility and control—across projects, teams, and entire organizations.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv, the operating system for custom manufacturing, announced today a significant enhancement to its online platform that enables users to easily receive, review, and respond to injection molding design for manufacturability (DFM) feedback.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "This past week, in response to a COVID-19 related temporary lockdown in Shenzhen, China, Fictiv utilized its ecosystem failover capabilities to successfully transition its customers’ affected workloads, wherever possible, into other regions of Asia and the US, to reduce or eliminate impact to customer orders.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "95.4% of orders delivered on-time and to-spec",
+    "url": "https://www.fictiv.com/signup",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration - Fictiv",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Premium Membership Now Includes New Procure-to-Pay Integration",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Available today, Fictiv Premium members can integrate directly with market-leading P2P suites including SAP Ariba, Coupa, and Microsoft Dynamics 365, further simplifying team-based procurement workflows.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "members — the collaborative workspace where engineers and sourcing teams can work together to streamline workflows.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "While P2P suites are a critical tool for procurement teams to manage sourcing across a variety of vendors, they can create redundant work for engineers and purchasing managers copying and pasting quotes from suppliers to a procurement system.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "With the new Punchout integration, users can simply click a button on the Fictiv platform and instantly send their quote information to their P2P suite for convenient custom mechanical purchasing — achieving increased efficiency and flexibility while streamlining workflows for both the engineering and procurement teams involved in the process.",
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "\"Fictiv does an incredible job connecting my needs as a customer to those suppliers that have the capability, the right competitive cost, and the capacity to build my product and get it to me in a very rapid cycle time.\"",
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in providing our team members (known affectionately as \"fictors\") with the support and tools they need to take their careers to the next level. At Fictiv, you’ll have the autonomy to drive big opportunities and the support to succeed.",
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "調達にかかるリードタイムを大幅に短縮できる点が特徴で、過去5年間で国内外のユーザー数は累計17万人を超え、4年連続で国内業界シェア1位を維持しているという",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   }
+  ],
+  "資金調達・売却": [
+   {
+    "quote": "Fictiv's 2023 Sustainability in Manufacturing Survey Finds 36% of Leaders Face Barriers in Funding & Planning to Reach Sustainability Goals",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Secures $100 Million in Funding to Solve Urgent Supply Chain Risks and Accelerate Time to Market for Product Companies",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Series E funding will advance digital manufacturing adoption throughout enterprise organizations.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "This latest funding round will fuel continued growth to meet demand for Fictiv’s quality-driven approach to on-demand manufacturing.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Funding to accelerate Fictiv’s vision to help teams build hardware products at the speed of software through platform investments, customer growth, and expansion of its global manufacturing network",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Raises $15M Series B Funding to Radically Improve Manufacturing Access",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Funding to accelerate virtual manufacturing platform’s global expansion and development of workflow optimization tools; investors include Accel Partners, Intel Capital, Bill Gates and FJ Labs",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Joins Misumi Group to Complete $350 Million Acquisition",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv officially acquired by MISUMI",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Acquired by MISUMI",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv acquired for $350M by Japanese components supplier",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv acquired by Japan’s Misumi Group for $350 million",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv to be acquired by MISUMI in $350 million deal",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv raised $100 million in funding backed by Bill Gates for on-demand manufacturing. See the 15-slide pitch deck that persuaded investors.",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing platform Fictiv produces $100M funding round",
+    "url": "https://www.fictiv.com/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "That culture has proven especially valuable this year. Following Fictiv’s acquisition by MISUMI Group, the company has integrated its AI-driven supply chain technology with MISUMI’s global manufacturing network—work that has demanded the kind of adaptability and inventive thinking this award recognizes.",
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Announces Agreement to Join MISUMI The AI leader in Global Supply Chain & Manufacturing joins MISUMI to Build a Global Manufacturing Platform for Engineering and Supply Chain Organizations San Francisco, Calif., April 17, 2025 – Fictiv, a global supply chain technology company, today announced that it has entered into an agreement to be acquired […]",
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Raises $15M Series B Funding to Radically Improve Manufacturing Access",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "Funding to accelerate virtual manufacturing platform’s global expansion and development of workflow optimization tools; investors include Accel Partners, Intel Capital, Bill Gates and FJ Labs ‍ Palm Desert, CA – May 8, 2018 – Fictiv today announced from the Intel Capital Global Summit that it closed a $15 million Series B led by Sinovation Ventures […]",
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "pass": 1
+   },
+   {
+    "quote": "Fictiv Inc.の買収に関するお知らせ | 株式会社ミスミグループ本社",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv Inc.の買収に関するお知らせ",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "）を総額約3.5億米ドル（1米ドル143.23円換算で約501億円）で買収すること（以下、「本買収」という",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "）を決議し、Fictiv社との間で本買収に関する合併契約を締結したことを、お知らせいたします",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "本買収の背景・目的",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "このようにグローバルで多様化するデジタルニーズの獲得に取り組んできた当社が、今後より一層の競争力強化と商品の安定供給、更なる成長の加速を企図し、本買収に至りました",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "本買収の最大の狙いは、meviyをはじめとした当社のデジタルサービスの強化と同時に、顧客ドメインの拡大にあります",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv社を買収することにより当社の提供する価値を従来の設備製造の領域からよりバリューチェーンの川上にあたる商品開発の領域まで一気に拡大し、持続的な成長への大きな起点としていきます",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米Fictiv社を約501億円で買収 デジタル調達領域を強化へ | 業務用3Dプリンターのポータルサイト ShareLab – ShareLab NEWS",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米Fictiv社を約501億円で買収 デジタル調達領域を強化へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミグループ（東京都文京区、以下、ミスミ）は2025年4月17日、米国子会社のMISUMI Investment USA Corporation（イリノイ州シャウンバーグ）を通じて、米国のカスタム機械部品オンライン調達プラットフォーム企業であるFictiv Inc.（カリフォルニア州オークランド、以下、Fictiv）を買収することで合意し、同社との間で合併契約を締結したと発表した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "買収総額は約3.5億ドル（約500億円）にのぼる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "買収の背景と狙い",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の買収は、ミスミが展開するオンライン調達サービス「meviy（メビー）」との事業的な親和性を踏まえたものとみられる",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivの買収は、ミスミのデジタルサービスの競争力をさらに強化するとともに、グローバル市場での顧客基盤拡大につなげる狙いがある",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivの買収により、今後、グローバル市場におけるデジタルものづくり支援事業の加速が期待される",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の技術投資会社Anzu社がvoxeljet AG社を買収する契約を締結",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "みずほ銀行が3DEO社に5億円の戦略的出資、セイコーエプソンや日本政策投資銀行とも連携強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントに関する受注生産サービスを提供するFictivは、シリーズEの資金調達ラウンドで1億ドルを確保した",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収とグローバル戦略 | 🐣🐧ひよぺん企業分析",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収とグローバル戦略",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収とグローバル戦略 — 約501億円の大型M&A",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "買収前後のグローバル事業構造の変化",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収によってミスミの事業構造がどのように拡張されたかを可視化",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収によるグローバル事業構造の変化",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "【買収前】ミスミ単体",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "【買収後】ミスミ + Fictiv",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv — 買収対象の概要",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv買収による事業構造の変化 — 事業領域・顧客工程・地理的展開の拡張",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にDave EvansとNate Evansが創業して、Bill Gates、GE、Siemensなどのトップティアの投資家から資金調達している",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivは未上場だったから詳細な財務データは公開されていないけど、スタートアップとしてはまだ成長投資フェーズで黒字化前だったと推測されるよ",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "買収した会社の創業者を偉いポジションに据えるのって普通なの？",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "被買収企業の創業者を重要ポジションに据えることで、チームのリテンション（人材流出防止）と事業の継続性を確保する狙いがある",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "競合のXometryやProtolabsと比べたとき、このFictiv買収でミスミの競争力はどう変わるの？",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "これが面白いところで、Fictiv買収後のミスミは",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けて、この買収の「成功」ってどう評価すればいいの？",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "（買収前と比較して加速しているか）",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "⑤買収ののれんに減損が発生していないか",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictivの顧客（製品開発企業）が量産フェーズに入ったときにミスミのVONA/meviyを使ってくれるようになれば、この買収は大成功",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fictiv Inc.の買収に関するお知らせ - 株式会社ミスミグループ本社 — Fictiv Inc.の買収に関するお知らせ - 株式会社ミスミグループ本社 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_250417",
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミの Fictiv 買収とその後のM&A戦略 - MARR Online — ミスミの Fictiv 買収とその後のM&A戦略 - MARR Online マールオンライン https://www.marr.jp > ma_strategy > ma_casestudy > entry",
+    "url": "https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034",
+    "pass": 3
+   },
+   {
+    "quote": "ミスミ、米 Fictiv 社を約501億円で買収 デジタル調達領域を ... — ミスミ、米 Fictiv 社を約501億円で買収 デジタル調達領域を ... ShareLab NEWS https://news.sharelab.jp > 業界動向 > ビジネス・経済",
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv Enterprise — Fictiv Enterprise Fictiv https://www.fictiv.com > enterprise-",
+    "url": "https://www.fictiv.com/enterprise-",
+    "pass": 3
+   },
+   {
+    "quote": "【ミスミ】 Fictiv Inc.の買収に関するお知らせ＜English Follows — 【ミスミ】 Fictiv Inc.の買収に関するお知らせ＜English Follows PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000242.000012100.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv 買収とグローバル戦略 | ひよぺん企業分析 — Fictiv 買収とグローバル戦略 | ひよぺん企業分析 research.alteil.net https://research.alteil.net > misumi > fictiv-acquisition",
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "pass": 3
+   },
+   {
+    "quote": "開発期間短縮で製造業に21世紀型イノベーションを起こす Fictiv — 開発期間短縮で製造業に21世紀型イノベーションを起こす Fictiv TECHBLITZ https://techblitz.com > startup-interview > fictiv",
+    "url": "https://techblitz.com/startup-interview/fictiv/",
+    "pass": 3
+   },
+   {
+    "quote": "米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 株式会社ミスミグループ本社 https://www.misumi.co.jp > news > press_260129",
+    "url": "https://www.misumi.co.jp/news/press_260129",
+    "pass": 3
+   },
+   {
+    "quote": "米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 南日本新聞 https://373news.com > ... > 鹿児島・九州プレスリリース",
+    "url": "https://373news.com/lifestyle/info/pr_times/detail/000000322.000012100.html",
+    "pass": 3
+   },
+   {
+    "quote": "デーブ・エヴァンス、 Fictiv のCEO兼共同創設者 - Unite.AI — デーブ・エヴァンス、 Fictiv のCEO兼共同創設者 - Unite.AI Unite.AI https://www.unite.ai > dave-evans-ceo-and-co-founder-of...",
+    "url": "https://www.unite.ai/ja/dave-evans-ceo-and-co-founder-of-fictiv-interview-series/",
+    "pass": 3
+   },
+   {
+    "quote": "米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... — 米州事業の 社長 に Fictiv 共同 創業 者のDave Evansを任命 次世代 ... 東京新聞 https://adv.tokyo-np.co.jp > prtimes > article114748",
+    "url": "https://adv.tokyo-np.co.jp/prtimes/article114748/",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv Announces Go-To-Market Trifecta to Accelerate Growth ... — Fictiv Announces Go-To-Market Trifecta to Accelerate Growth ... Fictiv https://www.fictiv.com > articles > fict...",
+    "url": "https://www.fictiv.com/articles/fictiv-hires-go-to-market-leadership-trifecta",
+    "pass": 3
+   },
+   {
+    "quote": "Company | Fictiv — Company | Fictiv Fictiv https://www.fictiv.com > about-us",
+    "url": "https://www.fictiv.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv Case Study: Goose Manufacturing — Fictiv Case Study: Goose Manufacturing Fictiv https://www.fictiv.com > case-studies",
+    "url": "https://www.fictiv.com/case-studies/goose-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv 2025 Year in Review: Building the Future of Manufacturing — Fictiv 2025 Year in Review: Building the Future of Manufacturing Fictiv https://www.fictiv.com > articles > fict...",
+    "url": "https://www.fictiv.com/articles/fictiv-2025-year-in-review",
+    "pass": 3
+   },
+   {
+    "quote": "Fictiv : Revenue , Competitors, Alternatives - Growjo — Fictiv : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Fictiv",
+    "url": "https://growjo.com/company/Fictiv",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fictiv.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/compression-molding-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/signup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/signup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/fictivs-2024-state-of-manufacturing-report-reveals-industry-at-critical-inflection-point-amid-economic-pressures-and-ai-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/fictiv-expands-global-manufacturing-network-to-include-sheet-metal-die-casting-compression-molding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/fictiv-premium-membership-now-includes-new-procure-to-pay-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/fictiv-named-one-of-fast-companys-2026-best-workplaces-for-innovators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/topic/press-release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/high-pressure-die-casting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/careers?utm_source=&utm_medium=press_release&utm_campaign=thought-leadership&utm_content=best-workplaces-for-innovators",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/topic/press-release/page/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/topic/press-release/page/8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/sheet-metal-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/die-casting-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/capabilities/capabilities/compression-molding-services-services?utm_source=press_release&utm_medium=PRNewswire&utm_campaign=2024-01-New-Core-Capabilities-SM-CM-DC",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/articles/lpdc-low-pressure-die-casting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_250417",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/fictiv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.misumi.co.jp/news/press_260129",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/fictiv/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://373news.com/lifestyle/info/pr_times/detail/000000322.000012100.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fictiv 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.misumi.co.jp/news/press_250417",
+    "https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034",
+    "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "https://www.fictiv.com/enterprise-",
+    "https://prtimes.jp/main/html/rd/p/000000242.000012100.html",
+    "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vJKa8Gm_HstJl0X1wR8XHKFR1pJXMUr25x2S90i6iTdqX4q3vkS",
+    "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "https://www.nihon-ma.co.jp/news/20250417_9962-1/",
+    "https://www.fictiv.com/why-choose-fictiv/our-platform"
+   ]
+  },
+  {
+   "query": "Fictiv 売上 従業員 創業",
+   "results": [
+    "https://www.misumi.co.jp/news/press_250417",
+    "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "https://techblitz.com/startup-interview/fictiv/",
+    "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034",
+    "https://monoist.itmedia.co.jp/mn/articles/2504/18/news106.html",
+    "https://prtimes.jp/main/html/rd/p/000000242.000012100.html",
+    "https://idarts.co.jp/3dp/misumi-fictiv/?srsltid=AYCX9vJ4WlmZTOAwsqQr0zgNretAoRrB_Tllbc7RppQfjs5x5CDmoNfl",
+    "https://the-shashi.com/tse/9962/decisions/fictiv-acquisition-2025/",
+    "https://www.fictiv.com/about-us"
+   ]
+  },
+  {
+   "query": "Fictiv 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.misumi.co.jp/news/press_260129",
+    "https://techblitz.com/startup-interview/fictiv/",
+    "https://373news.com/lifestyle/info/pr_times/detail/000000322.000012100.html",
+    "https://www.unite.ai/ja/dave-evans-ceo-and-co-founder-of-fictiv-interview-series/",
+    "https://adv.tokyo-np.co.jp/prtimes/article114748/",
+    "https://research.alteil.net/company/misumi/fictiv-acquisition/",
+    "https://www.marr.jp/menu/ma_strategy/ma_casestudy/entry/72034",
+    "https://news.sharelab.jp/3dp-news/ir/misumi-fictiv-250509/",
+    "https://www.wantedly.com/companies/nexil/post_articles/503126",
+    "https://prtimes.jp/main/html/rd/p/000000322.000012100.html"
+   ]
+  },
+  {
+   "query": "Fictiv revenue members business model",
+   "results": [
+    "https://www.fictiv.com/articles/fictiv-hires-go-to-market-leadership-trifecta",
+    "https://www.fictiv.com/about-us",
+    "https://www.fictiv.com/case-studies/goose-manufacturing",
+    "https://www.fictiv.com/articles/fictiv-2025-year-in-review",
+    "https://growjo.com/company/Fictiv",
+    "https://www.rapiddirect.com/blog/xometry-vs-fictiv/",
+    "https://www.fictiv.com/help/fictiv-teams/getting-started-with-fictiv-teams",
+    "https://equityzen.com/company/fictiv/",
+    "https://www.linkedin.com/company/fictiv",
+    "https://compworth.com/company/fictiv"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

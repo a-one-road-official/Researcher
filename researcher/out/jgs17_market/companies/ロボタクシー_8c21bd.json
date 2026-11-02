@@ -1,0 +1,1943 @@
+{
+ "name": "ロボタクシー",
+ "en": "robotaxi",
+ "aliases": [
+  "自動運転タクシー",
+  "自動運転"
+ ],
+ "context": "2 デジタル・サイバー ⑥自動運転",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:34:23.763792+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "米国ロボタクシー市場規模・予測レポート：2026〜2035年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国ロボタクシー市場は2025年に2億2,380万米ドルと評価され、2026年には3億5,211万米ドルに達した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年の市場規模予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "業界専門家との議論によると、米国ロボタクシー市場は2024年、商業運行を本格的に開始した初年度に、8,420万米ドルの初の商業収益を生み出した",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボタクシー市場は、商用面ではレベル4の自動運転を中心に構成されており、2025年の稼働中のレベル4ロボタクシーは3,304台、2035年には258,776台に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国ロボタクシー市場規模：自動運転レベル別、2025年・2035年（10億米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius Group. \"Avride Secures Strategic Investment and Other Commitments of Up to $375 Million, Backed by Uber and Nebius.\" nebius.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボタクシー市場規模は2025年に2億2,380万米ドルと推定され、2026年には3億5,211万米ドルに達すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模は2035年までに190.9億米ドルに達し、2026年から2035年にかけて年平均成長率（CAGR）55.8%で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "4. 市場規模の推計",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場規模は2025年に1億3750万米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "今後、市場規模は2034年までに122億2870万米ドルに達すると予想されており、2026年から2034年までの年平均成長率（CAGR）は64.65%となる見込みです",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模：",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本のロボタクシー市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のロボタクシー市場規模は2025年に1億3750万米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場は、強力な政府支援、自動運転技術の急速な進歩、そして日本の長年にわたる自動車製造の伝統に支えられ、2026年には国内のより広範な自動運転モビリティ・エコシステムの中で最もダイナミックで成長著しい分野の一つとして台頭するだろう",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場：市場規模・成長と2034年までの予測",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：車両タイプ（乗用車、バン）、用途タイプ（貨物輸送、旅客輸送）、推進方式（電気、燃料電池）、コンポーネント（カメラ、Lidar、レーダー、超音波センサー）、地域（北米、ヨーロッパ、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボタクシー市場規模は、2025年の15億3000万米ドルから2034年には7023億6000万米ドルに達すると予測されている",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）97.65%を記録すると見込まれている",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年までの市場規模",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場規模は 2023 年に 4 億 8,880 万米ドルに達し、2024 年から 2032 年にかけて年平均成長率（CAGR）75%超で拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボタクシー市場規模、2022〜2032年（百万米ドル）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2023",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場規模で 2032",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年、北米市場は売上高シェア35%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "法規制が絡むため実用化に関しては各国政府が慎重な姿勢を示している一方、2023年の市場は米国での限定的サービスや中国で実証地域の拡大などが進められており、セーフティドライバー付き商用サービスや実証向けで数百台程度が見込まれるとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "ARK Investment Managementが2023年1月に発表した「BIG IDEAS 2023」によると、自動運転タクシーの収入は2027年に4兆ドル（約590兆円）、2030年には9兆ドル（約1,300兆円）に達する可能性があるとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune Business Insightsが2024年7月に発行したレポートによると、世界の自動運転タクシー市場規模は2021 年に 12 億 3,000 万ドル（約1,800億円）と評価されており、その規模は 2022 年に 17 億 1,000 万ドル（約2,500億円）、 2029 年までに 1,080 億ドル（約15兆9,000億円）に成長すると予測している",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "▼ロボタクシー市場規模、シェア、成長｜予測レポート【2029年】｜Fortune Business Insights",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "MarketsandMarketsが2023年6月に発行したレポートによると、自動運転タクシーの市場規模は2023年の4億ドル（約590億円）から、2030年には457億ドル（約6兆7,200億円）に成長し、CAGRは91.8％に達すると予測している",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "▼ロボタクシー市場｜市場規模予測 2030年まで｜MarketsandMarkets",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "The Business Research Companyが2024年5月に発行したレポートによると、自動運転タクシー市場は2020年の1億4,700万ドル（約210億円）から2023年までCAGR 68.0%以上で成長すると予測している",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "また、世界のロボタクシー市場は集中的で大手企業が進出しており、同市場における競合上位10社が2022年の市場全体の72.7％を占めているとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "撤退相次ぐ自動運転トラック、「トヨタ提携先」は商用化へ！4.8億ドルを追加調達",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 | 市場規模 業界シェア 市場分析 成長性 2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボタクシー市場は、2020年の1億4,702万米ドルから2024年には11億8,803万米ドルに成長しました",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長分析と戦略的分析フレームワーク-PESTEL、最終用途産業、市場成長率、世界の実績（2019～2024年）と予測（2024～2029年、2034F）市場規模、歴史的と予測期間における市場の成長を支え抑制する市場促進要因と要因分析、予測成長貢献要因、総アドレス可能市場（TAM）に関する分析",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別・国別分析-地域別・国による過去（2019～2024年）と予測（2024～2029年、2034F）の市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場セグメンテーション-市場におけるコンポーネントタイプ別、サービス別、推進力別、用途による市場規模（2019～2024年）（2024～2029年、2034F）と各セグメントの分析を収録",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域市場による過去（2019～2024年）、予測（2024～2029年）、（2029～2034年）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場規模と成長率-地域別市場規模（2024年）、地域内各国の過去（2019～2024年）と予測（2024～2029年、2034F）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 4,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 6,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "USD 8,490 換算",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転の商用サービス車両向けの半導体市場は、2035年にセンサーが約44億ドル、プロセッサーが約40億ドルに達する見通しだ",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボタクシー市場はGoogleのWaymo（米）、Apollo Go（中・百度）、Tesla（米）の3社が牽引",
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場規模は2035年までに122億2870万米ドルへ拡大｜CAGR 64.65％が牽引する次世代自動運転モビリティ産業の成長戦略 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場規模は2035年までに122億2870万米ドルへ拡大｜CAGR 64.65％が牽引する次世代自動運転モビリティ産業の成長戦略",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場は、2025年の1億3,750万米ドルから2035年には122億2,870万米ドルへと大幅に拡大すると予測されており、予測期間（2026年～2035年）における年平均成長率（CAGR）は64.65％に達すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "• 2025年日本ロボタクシー市場規模は1億3750万米ドルと評価されました",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に向け、日本ロボタクシー市場は膨大な収益機会を提供します",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "日本熱媒体市場は2035年に10億6,130万米ドルへ拡大、CAGR 4.44％｜産業用加熱・冷却システムの高効率化と熱管理技術の進化が市場成長を促進",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "フラーレン市場は2035年に9億7,035万米ドル規模へ、CAGR 6.02％を記録｜抗酸化成分・次世代スキンケア・電子材料への応用が市場成長を後押し",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "2026〜2035年の年平均成長率（CAGR）は55.8%と予測され、2035年には190.9億米ドルに達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（CAGR）（2026〜2035年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアの継続的なコスト低下により、予測期間中盤までに自動運転車の設備投資額が大幅に圧縮され、車両群運営事業者の車両1台当たりの採算性が改善し、導入台数の拡大が後押しされると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "より広いODDの認証取得により、事業者は1台当たりのサービス提供エリアを拡大でき、導入済み車両群全体の稼働率と車両1台当たりの収益ポテンシャルが向上する",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両1台当たりの設備投資額が高く、車両群の拡大採算性を制約",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後、市場規模は2034年までに122億2870万米ドルに達すると予想されており、2026年から2034年までの年平均成長率（CAGR）は64.65%となる見込みです",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率：64.65%（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "業界リーダー各社は、日本の主要都市圏における商用ロボタクシーサービスの展開を加速させるため、レベル4自動運転車の車両台数拡大とスマートシティのモビリティインフラに関するパートナーシップへの大規模投資を発表した",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）97.65%を記録すると見込まれている",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の年間平均成長率（2026年～2034年）",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場規模は 2023 年に 4 億 8,880 万米ドルに達し、2024 年から 2032 年にかけて年平均成長率（CAGR）75%超で拡大すると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2024〜2032年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "貨物輸送セグメントは、2024年から2032年にかけて年平均成長率（CAGR）が85%を超える最も急速に成長するセグメントです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間 2024 - 2032 CAGR",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月、Waymoはサンフランシスコ全域で Waymo One のロボタクシーサービスを試験段階から拡大し、誰でも同社のアプリを通じて自動運転車を配車できるようにしました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場の規模は2023年に4億8,880万米ドルに達し、自動運転技術の進展に加え、都市化と交通渋滞を背景に、2024年から2032年にかけて75%を超える年平均成長率（CAGR）を記録すると見込まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR90％超の予測も！日本でも計画が次々具体化",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune Business Insights：2029年までCAGR80.8％で成長",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "MarketsandMarkets：2030年までCAGR91.8％で成長",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "The Business Research Company：2023年までCAGR 68.0%を記録",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "法規制が絡むため実用化に関しては各国政府が慎重な姿勢を示している一方、2023年の市場は米国での限定的サービスや中国で実証地域の拡大などが進められており、セーフティドライバー付き商用サービスや実証向けで数百台程度が見込まれるとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転配車サービス（自動運転タクシー）はすでに世界約15都市で乗客の支持を得ており、今後10年以内に商業利用に拍車かかる規模に拡大する見通しという",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "予測期間中のCAGR（年平均成長率）は 80.8％に上る",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "MarketsandMarketsが2023年6月に発行したレポートによると、自動運転タクシーの市場規模は2023年の4億ドル（約590億円）から、2030年には457億ドル（約6兆7,200億円）に成長し、CAGRは91.8％に達すると予測している",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "The Business Research Companyが2024年5月に発行したレポートによると、自動運転タクシー市場は2020年の1億4,700万ドル（約210億円）から2023年までCAGR 68.0%以上で成長すると予測している",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "そして2027 年度以降を本格的事業化ステージと位置づけ、先行的事業化ステージで抽出した事業継続課題を解決しつつ、事業成立が見込める地域で広く自動運転をはじめとした新たな技術を導入し、技術活用範囲の積極的拡大を図るステージとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "陣営とともに共同開発した自動運転専用モビリティ「Origin」を導入し、お台場エリアを皮切りに徐々にサービス提供エリアを拡大し、500台規模のフリートを構築する方針だ",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "2023年末までには、販売台数は前年同期比35％増の1,400万台に達する見込みで、下半期に伸びが加速します",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、米国を拠点とする自律走行技術企業ウェイモLLCは2024年11月、完全自律走行型ライドヘイリングサービス「ウェイモ・ワン」を開始し、これまでで最大の事業拡大を果たしました",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "毎週15万人以上が有料で乗車しており、特に安全志向のライダーの間で社会的信頼が厚いことから、この拡大は自律走行交通の主流採用を加速させています",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "成長分析と戦略的分析フレームワーク-PESTEL、最終用途産業、市場成長率、世界の実績（2019～2024年）と予測（2024～2029年、2034F）市場規模、歴史的と予測期間における市場の成長を支え抑制する市場促進要因と要因分析、予測成長貢献要因、総アドレス可能市場（TAM）に関する分析",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別・国別分析-地域別・国による過去（2019～2024年）と予測（2024～2029年、2034F）の市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域市場による過去（2019～2024年）、予測（2024～2029年）、（2029～2034年）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場規模と成長率-地域別市場規模（2024年）、地域内各国の過去（2019～2024年）と予測（2024～2029年、2034F）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界のロボタクシーは2035年に200万台規模へ拡大する",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "2031年までの6年間は年平均78％のペースで増え、2025年比で約33倍になる",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "車両コストを最大70％削ることが、実証用の車両群を拡大できるサービスに変える条件であり、一部の事業者はすでにその線を越えたという",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "JV設立やM&Aによる新規事業開発をリードし、在任時、年商100億から700億規模への急拡大を果たす",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "2016年、大手企業におけるデジタルトランスフォーメーション支援すべく、株式会社ストロボを設立し、設立5年でグループ6社へと拡大",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "深圳市を中心にロボタクシーサービスを展開する小馬智行（Pony.ai）の2025年の売上高は6.29億元で、前年比20%の増加となった",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー事業の売上高は1.16億元で、前年比129%増となった",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "また、運賃収入は前年比400%増となり、ロボタクシーが運賃収入を軸に黒字化し、ビジネスとして成立できることが明らかとなった",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "一方、広州市を中心にロボタクシー事業を展開する文遠知行（WeRide）も好調で、2025年の売上高は6.9億元となり、前年比90%増となった",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー事業の売上高は1.5億元となり、前年比209.6%増となった",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー事業は2030年に急拡大",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "一般エリアへの拡大｜2028年〜2030年",
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "pass": 3
+   },
+   {
+    "quote": "日本も2026年から特定エリアでの商用サービスが始まり、2028〜2030年に一般エリアへ拡大する見通し",
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場規模は2035年までに122億2870万米ドルへ拡大｜CAGR 64.65％が牽引する次世代自動運転モビリティ産業の成長戦略 | 株式会社レポートオーシャン",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場規模は2035年までに122億2870万米ドルへ拡大｜CAGR 64.65％が牽引する次世代自動運転モビリティ産業の成長戦略",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場は、2025年の1億3,750万米ドルから2035年には122億2,870万米ドルへと大幅に拡大すると予測されており、予測期間（2026年～2035年）における年平均成長率（CAGR）は64.65％に達すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "• 安全性、運用効率、都市のモビリティを向上させるAI、LiDAR、レーダー、コネクテッドカー技術への投資拡大に支えられ、レベル4の自動運転セグメントが市場を牽引すると予想されます",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "• 2026年: 大阪および名古屋へサービス展開を拡大し、5Gを活用した交通制御システムとの連携を実現するとともに、一般利用率は15％を超えると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "• 2027年: AIを活用したフリート管理システムが管理された都市環境において完全自律運行を実現し、地域のタクシー事業者との提携拡大により、運行車両数は200台規模へと増加する見通しです",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "• 市場の成長要因と2035年に向けた需要拡大の背景",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (highest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 99.1%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 99.1% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The robotaxi market is accelerating rapidly, fueled by advancements in AI, rising demand for driverless transport, and growing urban congestion. With a projected CAGR of over 52.54% from 2026 to 2034, the market is poised for transformative growth as cities invest in smart, sustainable mobility solutions.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "米国ロボタクシー市場 サイズとシェア 2026-2035",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoは2025年に市場シェア88%超を獲得し、首位に立った",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "本市場の上位5社には",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "乗用セダン・SUVの改造プラットフォームは、2025年に2億2,102万米ドルの売上高を生み、市場全体の売上高の98.8%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には171.0億米ドルに達し、市場全体の売上高に占める割合は89.6%になると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "専用設計のロボタクシーポッドは、2025年に稼働中の車両が56台で、商用車両群全体の1.7%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転シャトルおよび小型バスのシェアサービスは、2035年までに9億4,019万米ドルの売上高を生み出し、市場全体の売上高の4.9%を占めると予測されており、稼働車両数は13,205台に達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年 米国ロボタクシー市場シェア（導入モデル別）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEM運営車両は2025年に1億7,600万米ドルの売上高を生み出し、市場全体の売上高の78.6%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には140億2,000万米ドルに達し、市場シェアは73.5%になると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "OEM・プラットフォーム事業者のハイブリッド共同運行では、2025年に737台の車両が稼働し、商用車両全体の22.3%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "サードパーティープラットフォーム運営車両は、2035年までに9億54万米ドルの売上高を生み出し、市場シェアの4.7%を占めると予測されており、稼働車両数は13,210台に達する見込みである",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド配車では、2035年までに239,825台の車両が稼働し、車両総数の92.7%を占めると予測されている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "IMARCグループの最新レポート「日本のロボタクシー市場：業界動向、シェア、規模、成長、機会、予測2026-2034」によると、日本のロボタクシー市場規模は2025年に1億3750万米ドルに達しました",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場規模と予測（2021年～2034年）、世界および地域別シェア、トレンド、成長機会分析レポートの対象範囲：車両タイプ（乗用車、バン）、用途タイプ（貨物輸送、旅客輸送）、推進方式（電気、燃料電池）、コンポーネント（カメラ、Lidar、レーダー、超音波センサー）、地域（北米、ヨーロッパ、アジア太平洋、南米および中米）",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場の規模とシェア、2024〜2032年の成長予測",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 サイズとシェア 2024 - 2032",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "用途別ロボタクシー市場シェア、2023年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2023年の世界のロボタクシー市場を支配し、35%超のシェアを占めました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Waymo LLCとBaidu, Inc.は、ロボタクシー業界で30%超の大きなシェアを占めています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年、北米市場は売上高シェア35%を占めた",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ライドシェア、解禁5年でオワコン化か 安価な自動運転タクシーの普及で",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転関連の企業価値も、現在は自動運転開発事業者が占める割合が約9割と圧倒的に高いが、2027年には配車サービス・プラットフォーマー系が約86％を占める可能性があるとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "2021 年のロボタクシー市場シェアは",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "▼ロボタクシー市場規模、シェア、成長｜予測レポート【2029年】｜Fortune Business Insights",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "また、世界のロボタクシー市場は集中的で大手企業が進出しており、同市場における競合上位10社が2022年の市場全体の72.7％を占めているとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 | 市場規模 業界シェア 市場分析 成長性 2034年",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "同市場の競合上位10社は、2023年には市場全体の44.29%を占めます",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別・国別分析-地域別・国による過去（2019～2024年）と予測（2024～2029年、2034F）の市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域市場による過去（2019～2024年）、予測（2024～2029年）、（2029～2034年）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "地域別市場規模と成長率-地域別市場規模（2024年）、地域内各国の過去（2019～2024年）と予測（2024～2029年、2034F）市場規模と成長率、市場シェア比較",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシーの市場規模、シェアと動向分析レポート：推進方式別、コンポーネントタイプ別、自動運転レベル別、車両タイプ別、サービスタイプ別、用途別、地域別、セグメント予測（2026年～2033年）",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "人件費が大半を占めるタクシー料金は、ロボタクシー化により30〜50%下がる試算もあります",
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "pass": 3
+   },
+   {
+    "quote": "また、都市部での実証運行ではレベル4自動運転技術が主流となっており、ライドシェア型サブスクリプションサービスはデジタル技術に精通した消費者層から高い支持を集めています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "消費者ニーズと都市モビリティの変化に対応したサービスを展開する企業は、2035年に向けて大きな市場シェアを獲得し、日本の都市交通の新たなモデルを構築することが期待されています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "特に、自社プラットフォームと地域交通網の統合戦略を持つ企業は、2035年に向けた市場シェアの獲得で優位に立つことが期待されます",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "By propulsion type: Electric vehicles segment held the largest market share of 84.9% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By component type: LiDAR segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By application: Passenger segment held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The Germany robotaxi market held a substantial market share in 2025, driven by a combination of its established automotive industry, proactive regulatory frameworks, and increasing initiatives toward autonomous mobility solutions.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific dominated the global robotaxi market with the largest market share of 32% in 2024.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "By component type, the LiDAR segment held the largest market share of 41% in 2024.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "By application, the passenger segment accounted for the largest share of the market in 2024.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Electric segment led the Robotaxi Market with a revenue share of 74.60% in 2025, reflecting",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "By Automation Level, Level 4 Dominated the Market While Level 5 Is the Fastest-Growing Segment",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "The country holding the largest regional market share of 22.80% in 2025 in Europe is Germany, owing to the presence of advanced automotive technology in the region. Other important contributors to the region are the UK, France, and the Nordic Countries.",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "The Ride-hailing segment dominated the Robotaxi Market in 2025.",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "Which region dominated the Robotaxi Market in 2025?",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "The North America region dominated the Robotaxi Market in 2025.",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "2026 deployments are concentrating around tourist-friendly, sun-belt states with flexible regulations. These cities like Las Vegas, Miami, Austin, Dubai, Atlanta and other cities in TX appear repeatedly due to high demand for services, permissive local regulations, mapping value and the general ease of operations (weather conditions in TX cities will eventually prove challenging).",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Level 5 dominates with a significant percentage due to advanced technological integration and full automation capabilities.",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Dominates with 39.2% Market Share",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific leads the Robotaxi Market with a 39.2% market share, valued at USD 0.72 billion. This leadership stems from rapid technological advancements, large-scale urbanization, and a growing focus on autonomous mobility solutions. Key countries like China, Japan, and South Korea play pivotal roles in shaping the market dynamics.",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The car segment is expected to dominate the robotaxi market in 2025,",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "The global robo taxi market size was valued at USD 0.44 billion in 2025 and is projected to grow from USD 0.83 billion in 2026 to USD 131.64 billion by 2034, registering a CAGR of 88.41% during the forecast period from 2026 to 2034. North America dominated the robo taxi market with a market share of 54.1% in 2025.",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "OEMとの提携は、製造との統合やプラットフォーム開発の共同化を通じてこの負担を軽減できるが、新規参入企業には、長期化する承認プロセスや段階的な車両導入に対応できる十分な資本が依然として必要である",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "この取引により、プラットフォームと統合された新規参入企業の案件パイプラインが強化され、初期の商業規模拡大の場として米国南部の競争上の重要性が高まる",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボタクシー市場における主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボタクシー市場の主要企業には、Waymo、Tesla、Zooxなどがある",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年） | NEWSCAST",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場調査レポート：市場規模・シェア・需要・成長要因・主要企業・予測（2026年～2034年）",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、このレポートでは、主要企業すべての詳細なプロファイルも掲載しています",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "日本のロボタクシー市場で事業を展開する主要企業には、以下のような企業が含まれる",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、主要企業の現在の市場状況に関する重要な統計情報に加え、市場のトレンドや新たな機会に関する洞察も提供しています",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場リーダーと主要企業の概要",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー業界で事業を展開する主要企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "競合情勢-市場の競合情勢の詳細、推定市場シェア、主要企業の企業プロファイルを掲載しています",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "その他の主要企業と革新的企業-市場におけるその他の主要企業と革新的企業の企業プロファイルの詳細",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "競合ベンチマーキング-市場の主要企業間の財務比較について概要",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "競合ダッシュボード-主要参入企業の競合ダッシュボード概要",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のリスト：",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場を牽引する主要企業と協業エコシステム",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "また、複数都市でのパイロット運行や自社フリート管理能力は、主要企業が市場シェアを拡大する上で不可欠です",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業は、これらセグメントごとの戦略的投資を通じて、競合との差別化を図り、市場シェアの拡大に注力しています",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "特に、フリート運用の効率化によるコスト削減、サブスクリプション型サービスの普及、データ分析による新たなビジネスモデルの創出が、主要企業の市場シェア拡大に直結します",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size, Key Companies, Company Technology / Innovation, Production Output, Market Penetration, Sales Analysis, Export Performance, Company Investment Strategies, and Customer Demand",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Question 3: Who are the prominent players operating in the robotaxi market?",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the robotaxi market are Tesla Inc. (U.S.), Uber Technologies Inc. (U.S.), Baidu (China), Waymo LLC (U.S.), Aptiv (Ireland), Didi Chuxing Technology Co (China), Zoox, Inc (U.S.), AutoX, Inc (U.S.), Cruise LLC (U.S.), Lyft, Inc (U.S.), and Others.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the global market are:",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape and dynamics: Market share, Service portfolio, New Product Launches, etc.",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "SWOT analysis of key players (up to three players)",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmarking of key players on the following parameters: product portfolio, geographical reach, regional presence, and strategic alliances.",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key companies in the market?",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The major players operating in the market are Waymo, Cruise Automation, Autox, Tesla, Baidu, Argo AI, Pony.Ai, Easymile, Didi Chuxing, Navya, 2getthere (ZF), Local Motors, Mobileye (Intel), Drive.AI (Apple), Nissan, NVIDIA, Woven Planet (Lyft), Aptiv, Zf Friedrichshafen, May Mobility, Optimus Ride, Yandex.",
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Trends and Growth Outlook 2026-2033 Featuring Profiles of Key Players - Waymo, Baidu, WeRide, Pony AI, EasyMile, Aptiv, Uber and More",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "pass": 3
+   },
+   {
+    "quote": "The leading players profiled in this Robotaxi market report include:",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "pass": 3
+   },
+   {
+    "quote": "Explore key players' market presence.",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "pass": 3
+   },
+   {
+    "quote": "size, share, growth forecasts, competitive landscape, technology trends, regulatory developments, investment opportunities, and strategic market outlook, enabling investors, automotive OEMs, technology providers, mobility operators, and policymakers to identify high-growth opportunities and make informed business decisions.",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The market is witnessing intense competition among technology firms, automotive OEMs, ride-hailing platforms, and AI startups aiming to establish leadership in autonomous urban transportation.",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape Analysis, Company Profile Analysis, Market Size, Share, Growth",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Major players are focusing on:",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous vehicle startups",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The robotaxi market focuses on the development, deployment, and management of autonomous ride-hailing services. It involves key players, including technology firms and automotive companies, working to create sustainable and efficient transport solutions. Consequently, this market addresses growing demand for cost-effective and eco-friendly mobility options.",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Market Dynamics, Competitive Landscape, Recent Developments",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Competitive Landscape",
+    "url": "https://www.skyquestt.com/report/robotaxi-market/companies",
+    "pass": 3
+   },
+   {
+    "quote": "Market size and forecast, competitive landscape and benchmarking, country/regional level analysis, key trends, growth drivers, and restraints",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Waymo LLC, Tesla Inc., Aptiv, Cruise LLC, Uber Technologies Inc., Lyft, Inc., AutoX, Inc., Didi Chuxing Technology Co., Baidu, Zoox, Inc., and Other Key Players.",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Companies profiled (",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ハードウェアの継続的なコスト低下により、予測期間中盤までに自動運転車の設備投資額が大幅に圧縮され、車両群運営事業者の車両1台当たりの採算性が改善し、導入台数の拡大が後押しされると予想される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "車両1台当たりの設備投資額が高く、車両群の拡大採算性を制約",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Nebius Group. \"Avride Secures Strategic Investment and Other Commitments of Up to $375 Million, Backed by Uber and Nebius.\" nebius.com",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ARK Investment Managementが2023年1月に発表した「BIG IDEAS 2023」によると、自動運転タクシーの収入は2027年に4兆ドル（約590兆円）、2030年には9兆ドル（約1,300兆円）に達する可能性があるとしている",
+    "url": "https://jidounten-lab.com/u_48902",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2024, Honda announced an investment in SiLC Technologies to advance FMCW lidar and AI-based machine vision for safer and more reliable autonomous vehicles.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2024, Waymo secured a USD 5 billion investment from Alphabet, accelerating its lead in the self-driving taxi industry.",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Europe was an important contributor to the worldwide Robotaxi Market in 2025, driven by increased investments towards urban mobility solutions and changing regulations towards operation of self-driving vehicles. Increasing awareness about the need for eco-friendly and",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "The UAE led the Middle East & Africa market with a 24.60% regional share in 2025, supported by significant smart city and autonomous mobility infrastructure investment. Brazil represented 21.60% of the Latin American market in 2025, driven by expanding urban mobility interest, with Mexico also contributing to regional growth.",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "The robotaxi market is experiencing rapid growth, supported by significant investments and regulatory approvals. In November 2024, China’s Pony.ai raised",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, Uber announced an investment to support the deployment of autonomous Rivian Robo taxis across multiple cities.",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company raised funding to expand its Robo taxi operations globally, increase fleet deployment, and enter new international markets.",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company secured funding to accelerate the commercial deployment of its AI-powered autonomy platform and support Robo taxi expansion initiatives.",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2026, the company raised capital, including strategic funding from Uber, to expand its AI-based autonomous driving platform into the Robo taxi segment.",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Investment and Funding Activities in Robotaxi Market, 2025–2026",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, Waymo secured funding to expand its autonomous ride-hailing operations, scale robotaxi fleet deployments, and accelerate development of advanced self-driving technologies.",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2025, Pony.ai raised funding through a public offering to support autonomous vehicle technology development, robotaxi commercialization, and expansion of driverless mobility services across global markets.",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, WeRide secured funding through strategic financing activities to accelerate autonomous driving technology development, expand robotaxi operations, and strengthen commercial deployment capabilities.",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The North America robotaxi market accounted for the largest regional share of 46.8% in 2025, supported by strong investments in autonomous driving technologies, the presence of leading technology companies, and early commercialization of driverless mobility services.",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "The Asia Pacific robotaxi market is expected to grow at the fastest CAGR of 39.6% during the forecast period, driven by increasing investments in smart city infrastructure, rising urban transportation demand, and expansion of autonomous vehicle testing and commercial deployment programs.",
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロボタクシー市場規模 、シェア |業界レポート [2026-2034] — ロボタクシー市場規模 、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "pass": 3
+   },
+   {
+    "quote": "米国 ロボタクシー市場規模 ・予測レポート：2026〜2035年 — 米国 ロボタクシー市場規模 ・予測レポート：2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > us-robotaxi-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー 市場： 市場規模 ・成長と2034年までの予測 — ロボタクシー 市場： 市場規模 ・成長と2034年までの予測 The Insight Partners https://www.theinsightpartners.com > ... > 自動車・輸送",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転 タクシー の世界 市場 、2030年に15兆円 規模 ！年65 ... — 自動運転 タクシー の世界 市場 、2030年に15兆円 規模 ！年65 ... 自動運転ラボ https://jidounten-lab.com > 国内ニュース",
+    "url": "https://jidounten-lab.com/u_45835",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 規模、 シェア |業界レポート [2026-2034] — ロボタクシー市場 規模、 シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 の規模と シェア 、2024〜2032年の成長予測 — ロボタクシー市場 の規模と シェア 、2024〜2032年の成長予測 Global Market Insights Inc. https://www.gminsights.com > robotaxi-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 規模と シェア 2035 — ロボタクシー市場 規模と シェア 2035 Business Research Insights https://www.businessresearchinsights.com > market-reports",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/robo-taxi-market-118800",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー の世界 市場 ：2034年までの機会と戦略 — ロボタクシー の世界 市場 ：2034年までの機会と戦略 グローバルインフォメーション - 市場調査レポート https://www.gii.co.jp > report > tbrc1754829-robo-taxis-g...",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "pass": 3
+   },
+   {
+    "quote": "2035年に ロボタクシー 200万台超か 車両コスト70%削減で ... — 2035年に ロボタクシー 200万台超か 車両コスト70%削減で ... 自動運転ラボ https://jidounten-lab.com > 海外ニュース",
+    "url": "https://jidounten-lab.com/u_68579",
+    "pass": 3
+   },
+   {
+    "quote": "米国 ロボタクシー市場 規模・予測レポート：2026〜2035年 — 米国 ロボタクシー市場 規模・予測レポート：2026〜2035年 Global Market Insights Inc. https://www.gminsights.com > us-robotaxi-market",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年の ロボタクシー ：Zooxとテスラがそろって出場 - Reddit — 2025 年の ロボタクシー ：Zooxとテスラがそろって出場 - Reddit Reddit https://www.reddit.com > investing > comments > robotax...",
+    "url": "https://www.reddit.com/r/investing/comments/1po1zza/robotaxis_in_2025_waymo_plots_global_expansion_as/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー市場 規模、シェア |業界レポート [2026-2034] — ロボタクシー市場 規模、シェア |業界レポート [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ... > 運輸・物流",
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "pass": 3
+   },
+   {
+    "quote": "ロボタクシー 2社が事業の黒字化を達成。次は海外の大都市が ... — ロボタクシー 2社が事業の黒字化を達成。次は海外の大都市が ... 中華IT最新事情 https://tamakino.hatenablog.com > entry > 2026/05/27",
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size , Share | Industry Report [2026-2034] — Robotaxi Market Size , Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size , Share & Trends Report, 2026-2033 — Robotaxi Market Size , Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Companies, Size & Trends 2026-2035 — Robotaxi Market Companies, Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size , Share & Global Forecast 2026-2035 — Robotaxi Market Size , Share & Global Forecast 2026-2035 SNS Insider https://www.snsinsider.com > reports",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxis Are Forecast to Become a $400 Billion Market in 2035 — Robotaxis Are Forecast to Become a $400 Billion Market in 2035 Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1t073qs/robotaxis_are_forecast_to_become_a_400_billion/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Trends and Growth Outlook 2026-2033 ... — Robotaxi Market Trends and Growth Outlook 2026-2033 ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size , Share, Growth & Forecast 2026-2033 — Robotaxi Market Size , Share, Growth & Forecast 2026-2033 DataM Intelligence https://www.datamintelligence.com > ...",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size, Share | Industry Report [2026-2034] — Robotaxi Market Size, Share | Industry Report [2026-2034] Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "pass": 3
+   },
+   {
+    "quote": "Global Robotaxi Market Size, Share & Analysis, Report [2035] — Global Robotaxi Market Size, Share & Analysis, Report [2035] MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/future-of-robotaxi-market-195993836.html",
+    "pass": 3
+   },
+   {
+    "quote": "Robo Taxi Market Size, Share, Growth, Analysis, Report, 2034 — Robo Taxi Market Size, Share, Growth, Analysis, Report, 2034 Straits Research https://straitsresearch.com > report > r...",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size, Share | CAGR of 74.7% — Robotaxi Market Size, Share | CAGR of 74.7% Market.us https://market.us > robotaxi-market",
+    "url": "https://market.us/report/robotaxi-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size, Share & Trends Report, 2026-2033 — Robotaxi Market Size, Share & Trends Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Size, Share , Growth & Forecast 2026-2033 — Robotaxi Market Size, Share , Growth & Forecast 2026-2033 DataM Intelligence https://www.datamintelligence.com > ...",
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "pass": 3
+   },
+   {
+    "quote": "Robotaxi Market Companies , Size & Trends 2026-2035 — Robotaxi Market Companies , Size & Trends 2026-2035 Precedence Research https://www.precedenceresearch.com > ...",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "55.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "2026〜2035年の年平均成長率（CAGR）は55.8%と予測され、2035年には190.9億米ドルに達する見込みである"
+   },
+   {
+    "value": "64.65",
+    "url": "https://newscast.jp/smart/news/7333447",
+    "quote": "今後、市場規模は2034年までに122億2870万米ドルに達すると予想されており、2026年から2034年までの年平均成長率（CAGR）は64.65%となる見込みです"
+   },
+   {
+    "value": "97.65",
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "quote": "同市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）97.65%を記録すると見込まれている"
+   },
+   {
+    "value": "75",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "ロボタクシー市場規模は 2023 年に 4 億 8,880 万米ドルに達し、2024 年から 2032 年にかけて年平均成長率（CAGR）75%超で拡大すると予測されている"
+   },
+   {
+    "value": "85",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "貨物輸送セグメントは、2024年から2032年にかけて年平均成長率（CAGR）が85%を超える最も急速に成長するセグメントです"
+   },
+   {
+    "value": "90",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "CAGR90％超の予測も！日本でも計画が次々具体化"
+   },
+   {
+    "value": "80.8",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "Fortune Business Insights：2029年までCAGR80.8％で成長"
+   },
+   {
+    "value": "91.8",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "MarketsandMarkets：2030年までCAGR91.8％で成長"
+   },
+   {
+    "value": "68.0",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "The Business Research Company：2023年までCAGR 68.0%を記録"
+   },
+   {
+    "value": "64.65",
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "quote": "(Japan Robot Taxi Market) 日本ロボタクシー市場規模は2035年までに122億2870万米ドルへ拡大｜CAGR 64.65％が牽引する次世代自動運転モビリティ産業の成長戦略 | 株式会社レポートオーシャン"
+   },
+   {
+    "value": "99.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "quote": "CAGR of 99.1% from 2026 to 2033"
+   },
+   {
+    "value": "52.54",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "quote": "The robotaxi market is accelerating rapidly, fueled by advancements in AI, rising demand for driverless transport, and growing urban congestion. With a projected CAGR of over 52.54% from 2026 to 2034, the market is poised for transformative growth as cities invest in smart, sustainable mobility solu"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "88",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "Waymoは2025年に市場シェア88%超を獲得し、首位に立った"
+   },
+   {
+    "value": "98.8",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "乗用セダン・SUVの改造プラットフォームは、2025年に2億2,102万米ドルの売上高を生み、市場全体の売上高の98.8%を占めた"
+   },
+   {
+    "value": "89.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "2035年には171.0億米ドルに達し、市場全体の売上高に占める割合は89.6%になると予測される"
+   },
+   {
+    "value": "1.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "専用設計のロボタクシーポッドは、2025年に稼働中の車両が56台で、商用車両群全体の1.7%を占めた"
+   },
+   {
+    "value": "4.9",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "自動運転シャトルおよび小型バスのシェアサービスは、2035年までに9億4,019万米ドルの売上高を生み出し、市場全体の売上高の4.9%を占めると予測されており、稼働車両数は13,205台に達する見込みである"
+   },
+   {
+    "value": "78.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "OEM運営車両は2025年に1億7,600万米ドルの売上高を生み出し、市場全体の売上高の78.6%を占めた"
+   },
+   {
+    "value": "73.5",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "2035年には140億2,000万米ドルに達し、市場シェアは73.5%になると予測されている"
+   },
+   {
+    "value": "22.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "OEM・プラットフォーム事業者のハイブリッド共同運行では、2025年に737台の車両が稼働し、商用車両全体の22.3%を占めた"
+   },
+   {
+    "value": "4.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "サードパーティープラットフォーム運営車両は、2035年までに9億54万米ドルの売上高を生み出し、市場シェアの4.7%を占めると予測されており、稼働車両数は13,210台に達する見込みである"
+   },
+   {
+    "value": "92.7",
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "quote": "オンデマンド配車では、2035年までに239,825台の車両が稼働し、車両総数の92.7%を占めると予測されている"
+   },
+   {
+    "value": "35",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "北米は2023年の世界のロボタクシー市場を支配し、35%超のシェアを占めました"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "Waymo LLCとBaidu, Inc.は、ロボタクシー業界で30%超の大きなシェアを占めています"
+   },
+   {
+    "value": "80",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "一次調査は当社の調査手法の中核であり、分析上の知見全体の約80％を占めます"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "quote": "データ収集・分析は当社の調査プロセスの重要な一部であり、調査手法全体の約20％を占めます"
+   },
+   {
+    "value": "86",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "自動運転関連の企業価値も、現在は自動運転開発事業者が占める割合が約9割と圧倒的に高いが、2027年には配車サービス・プラットフォーマー系が約86％を占める可能性があるとしている"
+   },
+   {
+    "value": "72.7",
+    "url": "https://jidounten-lab.com/u_48902",
+    "quote": "また、世界のロボタクシー市場は集中的で大手企業が進出しており、同市場における競合上位10社が2022年の市場全体の72.7％を占めているとしている"
+   },
+   {
+    "value": "44.29",
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "quote": "同市場の競合上位10社は、2023年には市場全体の44.29%を占めます"
+   },
+   {
+    "value": "50",
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "quote": "人件費が大半を占めるタクシー料金は、ロボタクシー化により30〜50%下がる試算もあります"
+   },
+   {
+    "value": "84.9",
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "quote": "By propulsion type: Electric vehicles segment held the largest market share of 84.9% in 2025."
+   },
+   {
+    "value": "32",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "quote": "Asia Pacific dominated the global robotaxi market with the largest market share of 32% in 2024."
+   },
+   {
+    "value": "41",
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "quote": "By component type, the LiDAR segment held the largest market share of 41% in 2024."
+   },
+   {
+    "value": "74.60",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "quote": "The Electric segment led the Robotaxi Market with a revenue share of 74.60% in 2025, reflecting"
+   },
+   {
+    "value": "22.80",
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "quote": "The country holding the largest regional market share of 22.80% in 2025 in Europe is Germany, owing to the presence of advanced automotive technology in the region. Other important contributors to the region are the UK, France, and the Nordic Countries."
+   },
+   {
+    "value": "39.2",
+    "url": "https://market.us/report/robotaxi-market/",
+    "quote": "Asia Pacific Dominates with 39.2% Market Share"
+   },
+   {
+    "value": "88.41",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "quote": "The global robo taxi market size was valued at USD 0.44 billion in 2025 and is projected to grow from USD 0.83 billion in 2026 to USD 131.64 billion by 2034, registering a CAGR of 88.41% during the forecast period from 2026 to 2034. North America dominated the robo taxi market with a market share of"
+   },
+   {
+    "value": "54.1",
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "quote": "The global robo taxi market size was valued at USD 0.44 billion in 2025 and is projected to grow from USD 0.83 billion in 2026 to USD 131.64 billion by 2034, registering a CAGR of 88.41% during the forecast period from 2026 to 2034. North America dominated the robo taxi market with a market share of"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/robo-taxi-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/7333447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/robo-taxi-market-118800",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_48902",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mof.go.jp/public_relations/finance/202503/202503m.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_68579",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/investing/comments/1po1zza/robotaxis_in_2025_waymo_plots_global_expansion_as/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/6286034",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SelfDrivingCars/comments/1hoxwn9/robotaxi_market_share_thought_experiment/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/robotaxi-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyquestt.com/report/robotaxi-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/future-of-robotaxi-market-195993836.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/robo-taxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bcg.com/publications/2026/here-at-last-the-evolution-of-the-robotaxi",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://consolidatednd.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vyansaintelligence.com/industry-report/north-america-robotaxi-market-forecast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verifiedmarketresearch.com/blog/best-robotaxi-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/report/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.com/Orion-Market-Research-v4261/Global-Robotaxi-43142967/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratviewresearch.com/market-reports/robotaxi-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロボタクシー 市場規模 CAGR",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "https://www.mordorintelligence.com/ja/industry-reports/robo-taxi-market",
+    "https://newscast.jp/smart/news/7333447",
+    "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "https://jidounten-lab.com/u_45835",
+    "https://www.researchnester.jp/industry-reports/japan-robotaxi-market/1095",
+    "https://www.amova-am.com/files/sp/ark/docs/bigideas2025/5_Robotaxis_BigIdeas2025_J.pdf",
+    "https://www.marketresearch.co.jp/insights/robo-taxi-market-mordor/",
+    "https://www.fortunebusinessinsights.com/jp/ロボタクシー市場-103661"
+   ]
+  },
+  {
+   "query": "ロボタクシー 市場 シェア 上位 企業",
+   "results": [
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "https://www.gminsights.com/ja/industry-analysis/robotaxi-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/robo-taxi-market-118800",
+    "https://jp.linkedin.com/pulse/%E7%84%A1%E4%BA%BA%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E6%AF%94%E8%BC%83%E3%81%A8%E5%90%84%E7%A4%BE%E3%81%AE%E5%BC%B7%E3%81%BF-akadama-aim-b6jfe",
+    "https://jidounten-lab.com/u_48902",
+    "https://www.gii.co.jp/report/tbrc1754829-robo-taxis-global-market-opportunities-strategies.html",
+    "https://www.mof.go.jp/public_relations/finance/202503/202503m.pdf",
+    "https://www.databridgemarketresearch.com/jp/reports/global-robo-taxi-market",
+    "https://www.sphericalinsights.com/jp/reports/robo-taxi-market",
+    "https://note.com/akih/n/n75df84f3bb52"
+   ]
+  },
+  {
+   "query": "ロボタクシー 市場 前年比 2025",
+   "results": [
+    "https://jidounten-lab.com/u_68579",
+    "https://www.gminsights.com/ja/industry-analysis/us-robotaxi-market",
+    "https://www.reddit.com/r/investing/comments/1po1zza/robotaxis_in_2025_waymo_plots_global_expansion_as/?tl=ja",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%B8%82%E5%A0%B4-103661",
+    "https://www.mof.go.jp/public_relations/finance/202503/202503m.pdf",
+    "https://tamakino.hatenablog.com/entry/2026/05/27/080000",
+    "https://www.mordorintelligence.com/ja/industry-reports/robo-taxi-market",
+    "https://www.theinsightpartners.com/ja/reports/robotaxi-market",
+    "https://carconnect.jp/column/ev/self-driving-taxi/",
+    "https://www.atpress.ne.jp/news/6286034"
+   ]
+  },
+  {
+   "query": "robotaxi market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "https://www.precedenceresearch.com/robotaxi-market",
+    "https://www.stratviewresearch.com/market-reports/robotaxi-market.html",
+    "https://www.snsinsider.com/reports/robotaxi-market-3934",
+    "https://www.reddit.com/r/SelfDrivingCars/comments/1t073qs/robotaxis_are_forecast_to_become_a_400_billion/",
+    "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "https://dataintelo.com/report/global-robotaxi-market"
+   ]
+  },
+  {
+   "query": "robotaxi market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "https://www.reddit.com/r/SelfDrivingCars/comments/1hoxwn9/robotaxi_market_share_thought_experiment/",
+    "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "https://www.precedenceresearch.com/robotaxi-market",
+    "https://market.us/report/robotaxi-market/",
+    "https://www.skyquestt.com/report/robotaxi-market/companies",
+    "https://www.alliedmarketresearch.com/robo-taxi-market",
+    "https://www.futuremarketinsights.com/reports/robotaxi-market"
+   ]
+  },
+  {
+   "query": "robotaxi market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "https://www.marketsandmarkets.com/Market-Reports/future-of-robotaxi-market-195993836.html",
+    "https://www.meticulousresearch.com/product/robotaxi-market-6274",
+    "https://straitsresearch.com/report/robo-taxi-market",
+    "https://www.reddit.com/r/SelfDrivingCars/comments/1hoxwn9/robotaxi_market_share_thought_experiment/",
+    "https://market.us/report/robotaxi-market/",
+    "https://www.skyquestt.com/report/robotaxi-market/companies",
+    "https://www.bcg.com/publications/2026/here-at-last-the-evolution-of-the-robotaxi",
+    "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "robotaxi market key companies share 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/robotaxi-market-report",
+    "https://www.datamintelligence.com/research-report/robotaxi-market",
+    "https://www.precedenceresearch.com/robotaxi-market",
+    "https://www.fortunebusinessinsights.com/robo-taxi-market-103661",
+    "https://www.stratviewresearch.com/market-reports/robotaxi-market.html",
+    "https://finance.yahoo.com/sectors/technology/articles/robotaxi-market-trends-growth-outlook-102500715.html",
+    "https://www.skyquestt.com/report/robotaxi-market/companies",
+    "https://www.vyansaintelligence.com/industry-report/north-america-robotaxi-market-forecast",
+    "https://www.facebook.com/techinsider/posts/teslas-latest-figures-on-robotaxis-expansion-include-seven-operating-us-markets-/1402931711706301/",
+    "https://www.verifiedmarketresearch.com/blog/best-robotaxi-companies/"
+   ]
+  }
+ ],
+ "missing": {}
+}

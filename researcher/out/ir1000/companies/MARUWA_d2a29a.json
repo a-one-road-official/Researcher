@@ -1,0 +1,708 @@
+{
+ "name": "ＭＡＲＵＷＡ",
+ "aliases": [],
+ "context": "証券コード5344／ガラス・土石製品／プライム（内国株式）／2026.03期 売上高74,476百万円 営業利益率33.5%",
+ "researched_at": "2026-11-02T15:03:17.400426+00:00",
+ "official_url": "https://www.maruwa-g.com/",
+ "identified_by": "search:yahoo_jp:MARUWA",
+ "profile": {},
+ "evidence": {
+  "沿革": [
+   {
+    "quote": "2026年10月27日（火）",
+    "url": "https://www.maruwa-g.com/maintenance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日（水）20:30 ～ 完了時期未定",
+    "url": "https://www.maruwa-g.com/maintenance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月22日（木）",
+    "url": "https://www.maruwa-g.com/maintenance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.maruwa-g.com/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算短信",
+    "url": "https://www.maruwa-g.com/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期連結業績予想と実績の差異に関するお知らせ",
+    "url": "https://www.maruwa-g.com/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.maruwa-g.com/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算説明会資料",
+    "url": "https://www.maruwa-g.com/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 46,921 41.7 17,605 62.4 17,640 58.6 12,119 63.5",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 33,115 △4.9 10,843 △15.2 11,123 △7.3 7,413 △12.2",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 982.08 －",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期中間期 600.78 －",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期中間期 177,262 158,522 89.4",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 162,691 147,262 90.5",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年３月期 － 51.00 － 51.00 102.00",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期 － 55.00",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期（予想） － 55.00 110.00",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期の連結業績予想について、下期にかけて強い需要が見込まれることから、再度上方修正を行いま",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期通期連結業績予想の修正 (2026年４月１日～2027年３月31日)",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月29日に公表した2027年３月期の連結業績予想について、下期にかけて強い需要が見込",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-difference.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年３月期第２四半期（中間期）連結業績予想と実績との差異に関するお知らせ",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-difference.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年７月29日に公表しました2027年３月期第２四半期（中間期）連結業績予想と、実績との差異につきま",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-difference.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2027年3月期 第2四半期",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年就任",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "1992年就任",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "1977年1月26日",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2001年3月にMARUWAへ入社し、2012年4月にコンポーネンツカンパニーCEO、2016年6月に取締役（事業戦略担当）を経て2022年4月に代表取締役社長CEOへ就任した",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年4月に代表取締役社長CEOへ就任し、1992年6月から30年にわたり社長を務めた",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年5月に愛知県瀬戸市幡中町へ瀬戸工場を新設した",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期の売上高は745億円と前期を上回ったが、営業利益は250億円で前期から19億円減少した",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月20日",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月20日",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月19日",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "1992年〜",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年〜",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "1946年に神戸芳郎氏が設立した丸和を源流とし、1973年に丸和セラミックとして発足",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "セラミック基板と石英ガラスへの展開、マレーシア工場の建設、ヤマギワの取得までの沿革と経緯を執筆",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 1株配当102円・配当性向6.9%",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "外部顧客への売上高 28,950 4,164 33,115 － 33,115",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 41,879 5,041 46,921 － 46,921",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客とともに",
+    "url": "https://www.az-com-maruwa-hd.co.jp/ir/library/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "お取引先様とともに",
+    "url": "https://www.az-com-maruwa-hd.co.jp/ir/library/briefing.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "車載関連事業は、新エネルギー車市場において差別化製品により業績が拡大する見通しです",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産業機器関連事業は、パワーモジュール関連が底堅く推移するほか、医療関連の新規製品の需要が増加する見通",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 2,309 3,461",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "か、新エネルギー車向けの差別化製品が拡大し、汎用メモリ向けが堅調に推移する見通しです",
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・新エネルギー車市場において差別化製品により業績が拡大する見通し",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(+1%) ・パワーモジュール関連が底堅く推移するほか、医療関連の新規製品の需要が増加する見通し",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収集された情報は Google LLC のプライバシーポリシーに基づき、同社のサービス提供・維持・改善等の目的でも利用される場合があります",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "サイトの品質改善と不正な送信の防止のために利用し、本文の要約には外部の AI サービスを利用する場合があります",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "収集データは、上記の目的の範囲で、業務を委託する外部サービス（アクセス解析・配信など）に取り扱わせる場合があります",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の売上高と利益の状況は次のとおりです",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、当中間連結会計期間の売上高は前年同期比44.7％増の41,879百万円、セグメント利益は前年同期比",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以上の結果、当中間連結会計期間の売上高は前年同期比21.1％増の5,041百万円、セグメント利益は前年同期比",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 10,945 702 11,648 △804 10,843",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 17,806 890 18,697 △1,091 17,605",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△804百万円には、セグメント間取引消去46百万円及び各報告セグメントに配分",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない販",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益の調整額△1,091百万円には、セグメント間取引消去48百万円及び各報告セグメントに配",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しな",
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■構成比■市場別売上高",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント売上",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "営業利益率 34.7% 38.5% 37.9% 38.4% 34.8% 30.5% 32.9% 35.3% 32.9% 40.7%",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 37.7% ― 37.5% ― 37.9% ―",
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品内容 | 会社案内 | 株式会社 MARUWA — 製品内容 | 会社案内 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > company > business",
+    "url": "https://www.maruwa-g.com/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社を知る | 採用情報 | 株式会社 MARUWA — 会社を知る | 採用情報 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > HOME > 会社を知る",
+    "url": "https://www.maruwa-g.com/recruit/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Maruwa America Corp.アメリカの ビジネス は - U.S. FrontLine — Maruwa America Corp.アメリカの ビジネス は - U.S. FrontLine U.S. FrontLine https://usfl.com > 2018/10 > post",
+    "url": "https://usfl.com/2018/10/post/120676",
+    "pass": 3
+   },
+   {
+    "quote": "事業を知る | 採用情報 | 株式会社 MARUWA — 事業を知る | 採用情報 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > HOME > 事業を知る",
+    "url": "https://www.maruwa-g.com/recruit/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MARUWA （5344）— 企業情報 | ENVALITH · 企業概要 — 株式会社 MARUWA （5344）— 企業情報 | ENVALITH · 企業概要 ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/5344/overview",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株主・投資家情報 — 決算説明資料 | 株主・投資家情報 AZ-COM丸和ホールディングス https://www.az-com-maruwa-hd.co.jp > library > briefing",
+    "url": "https://www.az-com-maruwa-hd.co.jp/ir/library/briefing.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 投資家情報 | 株式会社 MARUWA — 決算 短信 | 投資家情報 | 株式会社 MARUWA 株式会社MARUWA https://www.maruwa-g.com > library > tanshin",
+    "url": "https://www.maruwa-g.com/ir/library/tanshin.html",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期 決算説明 会 - MARUWA — 2027年3月期 第1四半期 決算説明 会 - MARUWA MARUWA PDF https://www.maruwa-g.com > news > upfiles",
+    "url": "https://www.maruwa-g.com/company/news/upfiles/3ea752ba58f4d16967c5815aa730c40b.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 MARUWA 】[5344] 決算 発表や業務・財務情報 | 日経電子版 — 【 MARUWA 】[5344] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=5344",
+    "pass": 3
+   },
+   {
+    "quote": "サイトマップ | 株式会社 MARUWA — サイトマップ | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > sitemap",
+    "url": "https://www.maruwa-g.com/sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社案内 | 株式会社 MARUWA — 会社概要 | 会社案内 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > company > outline",
+    "url": "https://www.maruwa-g.com/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社 MARUWA — 会社案内 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > company",
+    "url": "https://www.maruwa-g.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ | 投資家情報 | 株式会社 MARUWA — トップメッセージ | 投資家情報 | 株式会社 MARUWA MARUWA https://www.maruwa-g.com > message",
+    "url": "https://www.maruwa-g.com/ir/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MARUWA 組織体制・企業文化（59件） - OpenWork — 株式会社 MARUWA 組織体制・企業文化（59件） - OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属 > MARUWA",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrCM&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "神戸俊郎氏の経歴｜MARUWAの歴代社長（2022年〜現任） — Oct 23, 2026 · MARUWA（社長）神戸俊郎氏。 2022年4月に代表取締役社長CEOへ就任し、1992年6月から30年にわたり社長を務めた神戸誠氏の後を継いだ。 2023年5月に愛知県瀬戸市幡中町へ瀬戸工場を新設した。",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー02 | 採用情報 | 株式会社MARUWA — これまでMARUWAが手がけてきた事業の中では、アンテナ事業はまだまだ歴史の浅い分野です。 その分、飛躍の幅も大きいといえます。 今後は、未参入の市場にも果敢に挑戦し、強みである小型高性能アンテナで市場を席捲したい。",
+    "url": "https://www.maruwa-g.com/recruit/member/interview02/",
+    "pass": 3
+   },
+   {
+    "quote": "人を知る | 採用情報 | 株式会社MARUWA — 株式会社MARUWAの採用サイト「人を知る」ページです。 MARUWAを築くプロフェッショナルたちの社員インタビューをご覧いただけます。 MARUWAでは、高い専門性を持ったプロ人材や共に開発に挑む理工系学生を求めています。",
+    "url": "https://www.maruwa-g.com/recruit/member/",
+    "pass": 3
+   },
+   {
+    "quote": "MARUWAの社長は誰？神戸 俊郎氏の経歴・就任年【5344】 | 企業スコー... — Jun 12, 2026 · 株式会社MARUWAの社長は神戸 俊郎氏（取締役社長CEO (代表取締役)・49歳）。 2022年4月に社長に就任。 有価証券報告書（2026年3月期）の「役員の状況」から、経歴と取締役の一覧をまとめました。",
+    "url": "https://kigyo-scope.jp/company/5344/ceo/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "（できる限りSNSへの投稿ではなく、飲み会や、社内 Slack・Teams など、リアルな口コミでご紹介いただけますと大変嬉しく存じます",
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maruwa-g.com/maintenance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruwa-g.com/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruwa-g.com/ir-en.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-difference.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_financial-results-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-revision-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261027_forecast-difference-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruwa-g.com/pdf/20261029_briefing-en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.az-com-maruwa-hd.co.jp/ir/library/briefing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MARUWA",
+   "results": [
+    "https://www.maruwa-g.com/company/outline.html",
+    "https://www.maruwa-g.com/products/fused_silica/",
+    "https://www.maruwa-g.com/company/",
+    "https://ja.wikipedia.org/wiki/MARUWA",
+    "https://jp.linkedin.com/company/maruwa-co--ltd-",
+    "https://www.nikkei.com/nkd/company/?scode=5344",
+    "https://www.maruwa-g.com/company/global_network.html?ja",
+    "https://www.instagram.com/maruwa.dj/",
+    "https://grokipedia.com/page/Maruwa_Malaysia_Sdn_Bhd",
+    "https://www.maruwa-g.com/e/products/ceramic/"
+   ]
+  },
+  {
+   "query": "MARUWA ビジネスモデル",
+   "results": [
+    "https://www.maruwa-g.com/company/business.html",
+    "https://www.maruwa-g.com/recruit/about/",
+    "https://usfl.com/2018/10/post/120676",
+    "https://www.maruwa-g.com/recruit/business/",
+    "https://envalith.com/ja/companies/5344/overview",
+    "https://seichotoushi-hojo.jp/assets/pdf/koufu/outline_7.pdf",
+    "https://www.maruwa-g.com/company/",
+    "https://hrmos.co/pages/maruwa/jobs?category=1798626292466642953",
+    "https://www.maruwafudosan.com/company/businessmodel.html",
+    "https://consovation.com/maruwaの魅力を探る-成長戦略とビジネスモデルのポイ/"
+   ]
+  },
+  {
+   "query": "MARUWA 決算説明資料",
+   "results": [
+    "https://www.az-com-maruwa-hd.co.jp/ir/library/briefing.html",
+    "https://www.maruwa-g.com/ir/library/tanshin.html",
+    "https://www.maruwa-g.com/company/news/upfiles/3ea752ba58f4d16967c5815aa730c40b.pdf",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5344",
+    "https://www.maruwa-g.com/sitemap/",
+    "https://seiwaholdings.co.jp/ir/library/presentation/",
+    "https://edinetdb.jp/company/E01210/ir-docs/",
+    "https://www.az-com-maruwa-hd.co.jp/ir/",
+    "https://www.sanwa-hldgs.co.jp/ir/library/document.html",
+    "https://www.maruwa-g.com/ir/library/"
+   ]
+  },
+  {
+   "query": "MARUWA 事業系統図",
+   "results": [
+    "https://www.maruwa-g.com/company/outline.html",
+    "https://www.maruwa-g.com/company/",
+    "https://www.maruwa-g.com/sitemap/",
+    "https://www.maruwa-g.com/ir/message.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrCM&q_no=1",
+    "https://www.maruwa-g.com/company/business.html",
+    "https://www.maruwa-g.com/ir/individual/",
+    "https://www.theofficialboard.jp/%E7%B5%84%E7%B9%94%E5%9B%B3/maruwa"
+   ]
+  },
+  {
+   "query": "MARUWA 社長 インタビュー",
+   "results": [
+    "https://the-shashi.com/tse/5344/executives/ceo/kanbe-toshiro/",
+    "https://www.maruwa-g.com/recruit/member/interview02/",
+    "https://www.maruwa-g.com/recruit/member/",
+    "https://kigyo-scope.jp/company/5344/ceo/",
+    "https://recruit.maruwa-tex-ind.co.jp/interview/",
+    "https://maruwanet.co.jp/staffblog/2025/12/01/社長交代しました/",
+    "https://maruwanet.co.jp/staffblog/2026/01/08/社長って何をするんだろう/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式3頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

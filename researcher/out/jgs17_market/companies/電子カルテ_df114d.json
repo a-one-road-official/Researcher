@@ -1,0 +1,1844 @@
+{
+ "name": "電子カルテ",
+ "en": "electronic health record",
+ "aliases": [
+  "EHR",
+  "医療情報システム",
+  "医療DX"
+ ],
+ "context": "2 デジタル・サイバー ⑤医療DX基盤",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:42:04.407117+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "電子カルテ市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約4%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "将来の年には、市場は約500億米ドルの価値に達する見込みです",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は約350億米ドルと記録されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテに関する当社の市場調査によると、北米の市場は予測期間中に約 35% の主要市場シェアを維持すると予想されますが、アジア太平洋地域の市場は、主に最近の拡張活動、製品承認、製品発売、パートナーシップ、買収の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "これら 2 つのセグメントのうち、電子カルテ市場はクラウドベースセグメントが支配的となり、2037 年までに市場シェアが約 60% を超えると予想されます",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の電子カルテ市場は、政府の支援策と医療IT投資により、シェア33%超で第2位の市場になると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "北米の電子カルテ市場は、技術の進歩とEMRシステムへのAIの統合により、35%以上のシェアで市場をリードすると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電子カルテ市場規模は、2025―2037年間に 4% の CAGR で成長し、2037年までに 500億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、当社の調査レポートによると、2025 年の電子カルテ市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電子カルテ市場規模は、2025年には343億6000万米ドルと評価され、2026年の365億2000万米ドルから2034年には595億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2026年の市場規模",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年予測市場規模",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は2025年には約123億3000万米ドル規模に達し、北米最大の市場となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの市場規模は2025年には約18億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の市場規模は2025年に約13億5000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "英国市場は2025年には約20億7000万米ドルの規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツ市場は2025年には約25億4000万米ドル規模になると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "アラブ首長国連邦（UAE）の市場規模は、2025年には約3億1000万米ドルと予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "アフリカの市場規模は2025年には約11億2000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "外来電子カルテ市場は、2032年までにCAGR8.35％で123億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模レポート、市場シェア、2032年",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模レポート、業界シェア、分析、成長率、2032年",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "Zion Market Researchによると、世界の電子カルテ市場は2023年に",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は2032年までに",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのセグメントは現在および将来のトレンドに基づいて分析されており、市場規模は2024年から2032年まで予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電子カルテ市場は、 2023年に",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2032年の予測期間において年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年から2032年までの市場規模予測値はいくらですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "「日本の電子カルテ市場は、2025年に7億6,880万米ドルと評価されました",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率（CAGR）4.4％で拡大すると予想されており、2035年末までに市場規模は11億8,620万米ドルを超える見込みです",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "2024年度の医療情報システム市場規模は3,000億円を突破",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "～2024年度の中小規模一般病院向け電子カルテ市場規模678億2,900万円のうち、クラウド型が占める割合は12.3％（83億2,900万円）～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、2027年度までの医療情報システム市場規模推移・予測、および中小規模一般病院向け電子カルテ市場規模推移・予測について公表する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "そのような中、医療情報システムは多くのシステムで普及率が高まったことで、新規導入中心からリプレイス中心の市場に移り、コロナ禍以前の2019年度までの医療情報システム​市場は概ね前年度比2％前後の推移となっていた",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍の影響による導入遅延などから2020年度の医療情報システム市場は前年度比3.2%減となったものの、2021年度以降回復傾向にあり、2024年度の同市場規模は3,018億3,900万円と3,000億円を突破した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "​以上のような状況の中、2024年度の中小規模一般病院向け電子カルテ市場規模を678億2,900万円と推計し、2027年度には732億円になると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちクラウド型が占める割合は2024年度12.3％（83億2,900万円）から2027年度は14.6％（107億円）に増加すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "このようなことから、2025年度以降の医療情報システム市場は前年度比1.0％未満の低い成長率で推移する見通しである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "本調査における電子カルテ市場規模は、大規模一般病院（病床数300床以上）、中小規模一般病院（同300床未満）、精神科病院、一般診療所の種類別に算出した",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Record (EHR) Market Size and Share Analysis by 2034",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 32.44 billion in 2025",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 52.60 billion by 2034",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 32.44 billion",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034 Projected Market Size",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 52.60 billion",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "continued expansion of its ambulatory EHR and clinical-network offerings, reporting expected annual revenue in the range of USD 583 to 588 million. Strategic significance: Sustains Veradigm's position as a scaled ambulatory and clinical-data platform provider amid active market consolidation.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "continued integration and platform investment under Thoma Bravo ownership following its USD 1.8 billion acquisition, expanding its ambulatory and specialty EHR offerings. Strategic significance: Reflects continued private-equity-driven consolidation and platform reinvestment in the mid-tier ambulatory EHR segment.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "United States Electronic Health Records Market Size in USD million (2023-2034)",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Canada Electronic Health Records Market Size in USD million (2023-2034)",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Mexico Electronic Health Records Market Size in USD million (2023-2034)",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records (EHR) Market to Climb USD 45.55 Billion by 2035",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "USD 29.84 Billion",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "USD 45.55 Billion",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "The global electronic health records market size is calculated at USD 29.84 billion in 2025 and is expected to be worth USD 45.55 billion by 2035, expanding at a CAGR of 4.32% from 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic health records (EHR) sector push the market to USD 31.13 billion by 2026.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Long-term projections show USD 45.55 billion valuation by 2035.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "電子カルテ市場に関する当社の調査レポートによると、市場は2025－2037年の予測期間中に約4%のCAGRで成長すると予想されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "SDKI Analytics のアナリストによる市場見通しによると、コスト削減にクラウド コンピューティングを使用している医療企業の 90% で、IT コストが平均して年間最大 20% 削減され、セグメントと市場の拡大が大幅に促進されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電子カルテ市場規模は、2025―2037年間に 4% の CAGR で成長し、2037年までに 500億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の電子カルテ市場規模は、2025年には343億6000万米ドルと評価され、2026年の365億2000万米ドルから2034年には595億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.3%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場CAGR（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の年平均成長率（2026年～2034年）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア分野は、デジタルヘルスケアソリューションの普及拡大と効率的な患者データ管理へのニーズの高まりを背景に、2025年には世界の電子カルテ市場において54.6%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場において、専門分野別セグメントは年平均成長率（CAGR）8.69%で最も速い成長を記録すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "専門分野別セグメントは、2026年から2034年にかけて年平均成長率（CAGR）8.69%で電子カルテ市場において最も急速な成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場において、外来診療分野は年平均成長率（CAGR）8.87%で最も速い成長を遂げると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "外来医療分野は、外来医療サービス、日帰り手術、地域医療への移行の加速を背景に、2026年から2034年にかけて年平均成長率（CAGR）8.87%で電子カルテ市場において最も急速な成長を遂げると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "外来電子カルテ市場は、2032年までにCAGR8.35％で123億3,000万米ドル規模に拡大すると予測されています",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（%） 8.35%",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRは8.35%です",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模レポート、業界シェア、分析、成長率、2032年",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "に達すると予測されており、2024年から2032年の予測期間における年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）は4.7%です",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "4.7％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "同市場は、2024年から2032年の予測期間において年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "（CAGR）4.7%で成長し、2032年には",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は2025年から2035年にかけて年平均成長率（CAGR）4.4％で拡大すると予想されており、2035年末までに市場規模は11億8,620万米ドルを超える見込みです",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "この年平均4.4%という成長率は、単なる老朽化端末の買い替え（更新需要）だけで説明できるものではありません",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "2030年の標準化目標、そして2035年のマーケット拡大に向け、安全なデータ連携基盤が整備されれば、日本の医療は「分断された点」から「シームレスにつながる面」へと進化をとげるはずです",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "1位M3デジカル、2位ウィーメックスがますますシェアを拡大",
+    "url": "https://2ndlabo.com/article/369/",
+    "pass": 3
+   },
+   {
+    "quote": "このようなことから、2025年度以降の医療情報システム市場は前年度比1.0％未満の低い成長率で推移する見通しである",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "※ 上記については、経済財政運営と改革の基本方針2025（令和７年６月13日閣議決定）における「全国医療情報プラットフォームを構築し、電子カルテ情報共有サービスの普及や電子処方箋の利用拡大（中略）これらの取組に加えて、必",
+    "url": "https://www.mhlw.go.jp/content/10808000/001511375.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "なお、2025年に400床以上の大規模病院の導入数が減少に転じた理由として、地域医療構想による高度急性期病院の機能集約、病院経営の深刻な赤字拡大などにより、急性期病床のダウンサイズが全国的に進んだことがその要因ではないかと考える",
+    "url": "https://www.jahis.jp/action/id=1237?contents_type=23",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.61%",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "5.61% CAGR",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The electronic health records market is projected to expand at a CAGR of 5.61% during the forecast period from 2026-2034.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global Electronic Health Record (EHR) market is projected to grow with a CAGR of 5.86% during the forecast period from 2025 to 2032.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025-2035",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "The global electronic health records market size is calculated at USD 29.84 billion in 2025 and is expected to be worth USD 45.55 billion by 2035, expanding at a CAGR of 4.32% from 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is expected at a steady CAGR of 4.32% in between 2026 to 2035.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. electronic health records market is projected to grow from US$ 12.56 billion in 2025 to US$ 20.69 billion by 2035, at a 5.12% CAGR, reaching US$ 13.2 billion in 2026",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Reporting in healthcare systems will see the fastest growth, soaring 5.1% CAGR by 2035.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026 - 2035)",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "size was reported at US$ 12.56 billion in 2025 and is expected to rise to US$ 13.2 billion in 2026 to reach US$ 20.69 billion by 2035. According to forecasts, it will grow at a CAGR of 5.12%.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "The global EHR market is valued at USD 29.84 billion in 2025 and is projected to reach USD 45.55 billion by 2035, growing steadily at a CAGR of 4.32%.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2026–2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest-growing regional market: Asia Pacific (fastest CAGR, 2026-2033)",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2033): 5.1%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 5.1% from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion and CAGR from 2026 to 2033",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global electronic health records market is expected to grow at a CAGR of 5.1% from 2026 to 2033, reaching USD 53.1 billion.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global electronic health records market, valued at USD 41 billion in 2025, is projected to reach USD 45 billion in 2026 and USD 92 billion by 2035, representing a CAGR of 8.3% during the forecast period from 2026 to 2035.",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035): 8.3%",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "The EHR market is projected to grow at a CAGR of 8.3% during the period from 2026 to 2035",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Analytical Testing Outsourcing Market Set for 8.3% CAGR Growth During 2025–2034",
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": ", with a CAGR of 15.1% between 2025 and 2030.",
+    "url": "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 15.1%",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR from 2025 to 2030 : 15.1%",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate at a CAGR of 15.1%",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "YoY growth 2025-2026(%)",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "USD 57.39 billion, at a CAGR of 15.1%",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on Global Market: Year-over-year growth 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on Global Market: Year-over-year growth 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Chart on On-premises - Year-over-year growth 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Data Table on On-premises - Year-over-year growth 2025-2030 (%)",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "電子カルテ市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―コンポーネント別、エンドユーザー別、アプリケーション別、タイプ別、配信モード別、および地域別―世界市場の見通しと予測2025―2037年",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテに関する当社の市場調査によると、北米の市場は予測期間中に約 35% の主要市場シェアを維持すると予想されますが、アジア太平洋地域の市場は、主に最近の拡張活動、製品承認、製品発売、パートナーシップ、買収の結果として、今後数年間で有望な成長機会を示す態勢が整っています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "によると、紙の記録が分散しているため医療情報が適切に伝達されていないことが、診断ミスの 15% 以上を占めており、世界中のさまざまな医療提供者が電子カルテを導入するようになりました",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "これらのセグメントのうち、心臓病学セグメントは市場で重要な位置を占めており、2037年までに市場全体の収益の約40％を占めると予想されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "当社の市場見通しによると、心血管疾患は米国の医療費の3,700億米ドル以上を占めており、EMRが治療間のデータアクセスと調整を合理化することで管理できる高いコストとデータ量を反映しています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "これら 2 つのセグメントのうち、電子カルテ市場はクラウドベースセグメントが支配的となり、2037 年までに市場シェアが約 60% を超えると予想されます",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域の電子カルテ市場は、政府の支援策と医療IT投資により、シェア33%超で第2位の市場になると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "北米の電子カルテ市場は、技術の進歩とEMRシステムへのAIの統合により、35%以上のシェアで市場をリードすると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "心血管健康サプリメント市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― 成分タイプ別、健康への訴求点別、形態別、流通チャネル別、消費者層別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "L-アラニル-L-グルタミン市場調査レポート、規模とシェア、成長機会、主要メーカー及び傾向洞察分析― アプリケーション別、グラード別、フォーム別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、2025年には北米地域が電子カルテ市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場の規模、シェア、トレンド分析レポート：コンポーネント別（ソフトウェア、サービス、ハードウェア）、アプリケーション別（汎用アプリケーション、専門分野別）、配信モード別（クラウドベース）、エンドユーザー別（病院・クリニック、診断センター、外来診療、研究機関）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）の予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2025年の市場シェア41.25%で電子カルテ市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米市場シェア（2025年）",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場シェア",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア分野は、2025年には電子カルテ市場において54.6%のシェアを占め、市場を席巻するだろう",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア分野は、デジタルヘルスケアソリューションの普及拡大と効率的な患者データ管理へのニーズの高まりを背景に、2025年には世界の電子カルテ市場において54.6%のシェアを占め、市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドベースのセグメントが2025年に電子カルテ市場で100%のシェアを占める見込み",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドベースのセグメントは、拡張性、コスト効率、リモートアクセス性を備えた医療情報システムへの需要の高まりを背景に、2025年には世界の電子カルテ市場を100%のシェアで席巻すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は世界の電子カルテ市場において最大のシェアを占め、総収益の41.25%を占め、2025年には141億7000万米ドルに達すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に74億9,000万米ドルと評価される世界の電子カルテ市場の21.8%を占め、予測期間中に年平均成長率（CAGR）9.38%という最速の成長率を記録すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋市場において、中国は最大のシェアを占め、2025年には約43億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は世界の電子カルテ市場の27.35%を占め、2025年には94億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.46%と見込まれています",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模レポート、市場シェア、2032年",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模レポート、業界シェア、分析、成長率、2032年",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2015年には、電子カルテ市場で北米が首位を占め、次いでヨーロッパが続きました",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "2015年、電子カルテ市場において北米が首位を占め、次いでヨーロッパが続いた",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】電子カルテシェア・ランキングを紹介！事例でみえた選定軸も解説 | メディコム | ウィーメックス株式会社（旧PHC株式会社）",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】電子カルテシェア・ランキングを紹介！事例でみえた選定軸も解説",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "日経メディカルOnlineが2024年に実施した医師774人を対象とした調査「クリニック向け電子カルテの導入シェアランキング2024」は、以下のとおりです",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "【電子カルテ導入シェアランキング2024】",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日経メディカル開業サポート「第24回【医師774人に聞いた】電子カルテ導入シェアランキング2024速報！2025年1月23日」（",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】電子カルテのシェアランキング｜おすすめメーカー製品を徹底比較｜豊田 裕史｜2ndLabo（セカンドラボ）",
+    "url": "https://2ndlabo.com/article/369/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】電子カルテのシェアランキング｜おすすめメーカー製品を徹底比較",
+    "url": "https://2ndlabo.com/article/369/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026最新】電子カルテのシェアランキング表",
+    "url": "https://2ndlabo.com/article/369/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】クリニック向け電子カルテ購入シェアランキング | m3.com開業経営",
+    "url": "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】クリニック向け電子カルテ購入シェアランキング",
+    "url": "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】電子カルテ購入シェア－購入の決め手",
+    "url": "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "pass": 3
+   },
+   {
+    "quote": "400床以上の大規模病院では、複雑な基幹システムとの連携や高度な診療機能が求められる背景から、実績豊富な大手ベンダーのシェアが高く固定化しやすい傾向があります",
+    "url": "https://optage.co.jp/business/contents/article/medical-record-share-ranking.html",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェアやランキング情報は参考資料の1つに過ぎず、重要なのは「自院の規模や体制、今後の診療方針にマッチしているか」という視点です",
+    "url": "https://optage.co.jp/business/contents/article/medical-record-share-ranking.html",
+    "pass": 3
+   },
+   {
+    "quote": "導入が難しいとされる主な理由として、以下の3点が上位を占めました",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】電子カルテシェア・ランキングを紹介！事例でみえた選定軸も解説",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "pass": 3
+   },
+   {
+    "quote": "※診療所向け電子カルテシステム診療所シェアNo.1に関する出典：株式会社富士経済「2025年版 医療・ヘルスケア・製薬DX関連市場の現状と将来展望」 より2024年実績 金額ベース 診療所向け電子カルテ（オンプレミス型/クラウド型）",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "pass": 3
+   },
+   {
+    "quote": "※レセプトコンピューター診療所・病院シェアNo.1に関する出典：株式会社富士経済「2022年 医療連携・医療プラットフォーム関連市場の現状と将来展望」より2020年企業シェア・数量ベース レセプトコンピューター（PHC実績）",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "pass": 3
+   },
+   {
+    "quote": "～2024年度の中小規模一般病院向け電子カルテ市場規模678億2,900万円のうち、クラウド型が占める割合は12.3％（83億2,900万円）～",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "そのうちクラウド型が占める割合は2024年度12.3％（83億2,900万円）から2027年度は14.6％（107億円）に増加すると予測する",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ稼働施設数に占めるクラウド型の割合（一般病院、精神科病院、一般診療所別）：2025/7時点で一般病院で18.6％、一般診療所で27.1%がクラウド型と推計",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテの普及率【2026年最新】診療所・病院の推移と国の2030年目標、シェアの読み方",
+    "url": "https://clius.jp/mag/2021/12/13/adoption-rate-for-ehrs/",
+    "pass": 3
+   },
+   {
+    "quote": "share in 2025, representing the highest regional market share globally.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By product: Web and cloud-based EHR held the largest market share of 83.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type: Acute segment held the largest market share of 45.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By business model: Professional services held the largest market share of 32.6% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end use: Hospital segment held the largest market share of 52.8% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By country: The U.S. held the largest market share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud & web-based EHR segment dominated the market with a revenue share of 83.7% in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 43.0% revenue share in 2025.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Acute EHR segment dominated the market in 2025 with a revenue share of 45.6%.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of end-users, hospitals and clinics currently hold the leading share of ~55%, while ambulatory care is expected to register the fastest growth.",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "North America leads the market, accounting for a 45% share of the global electronic health records market.",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "世界の電子カルテ市場の成長に重要な役割を果たす主要な主要企業には、",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界の電子カルテ市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、GE HealthCare、Veradigm LLC、Epic Systems Corporation、eClinicalWorks、Greenway Health, LLCなどは、世界の電子カルテ市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、Fujitsu Limited、NEC Corporation、Hitachi, Ltd.、PHC Holdings Corporation、NIHON KOHDEN CORPORATIONなどは、電子カルテ市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "pass": 3
+   },
+   {
+    "quote": "この市場における主要企業は、Cerner Corporation、Epic Systems Corporation、Allscripts Healthcare Solutions, Inc.、MEDITECHです",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで取り上げられている主要プレイヤーは以下のとおりです",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで取り上げられている主要企業には、Quest Diagnostics、Cerner Corporation、3M Company、Kofax Limited、Toshiba Medical Systems Corp、Epic Systems、Hyland Software、GE Healthcare、WRS Health、Siemens Medical Solutions、McKesson Corporation、Henry Schein, Inc.、Allscripts Healthcare Solutions, Incなどが含まれます",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業のポジショニングは、以下のように整理できます",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社矢野経済研究所（代表取締役社長：水越 孝）は、国内の医療情報システム市場を調査し、セグメント別の市場動向、参入企業動向、将来展望を明らかにした",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Record (EHR) - Market Insights, Competitive Landscape, and Market Forecast - 2034",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in Electronic Health Records Market",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape is led by the following active players:",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "The competitive landscape can be evaluated across the following dimensions:",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Leading players:",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies dominating the global electronic health records market.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Q5. Who are the major players in the electronic health records market?",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "8. Electronic Health Records Market Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Competitive Landscape",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players operating in the Electronic Health Record market?",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Key players create a vibrant, competitive Electronic Health Records (EHR) market landscape. This dynamic neighborhood of EHR providers showcases a mix of pioneers, innovators, and community builders, each contributing uniquely to the competitive landscape.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the EHR market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Oracle; GE Healthcare; Veradigm LLC; Epic Systems Corporation; eClinicalWorks; Greenway Health, LLC; NextGen Healthcare, Inc.; Medical Information Technology, Inc. (Meditech); TruBridge, Inc.; AdvancedMD, Inc.; CureMD Healthcare; McKesson Corporation.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players in the Electronic Health Records Market",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "This distribution highlights the competitive landscape of the ambulatory EHR market in the United States, with a few vendors capturing the majority of the market share.",
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "? To identify them, it's key to examine market segments tied to specific care settings and major players in the overall EHR industry.",
+    "url": "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "pass": 3
+   },
+   {
+    "quote": "The EHR market has undergone significant changes over the years, but two key players continue to dominate - Epic and Oracle Health have solidified their positions in both hospital and ambulatory EHR markets. While MEDITECH still joins them as an acute-care giant, the vendor has been squeezed out of the latter (more on that later).",
+    "url": "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The industry research and growth report includes detailed analyses of the competitive landscape of the market and information about key companies, including:",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive landscape",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the major players in the Electronic Health Records Market?",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "14. Competitive Landscape",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "15.1 Companies profiled",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in this market report?",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "The following key companies have been profiled for this study on the",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in U.S. electronic health records market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the U.S. EHR market are Oracle; AdvancedMD, Inc.; TruBridge, Inc; Veradigm LLC; eClinicalWorks.; CureMD Healthcare; Greenway Health, LLC; DXC Technology Company; NXGN Management, LLC; Epic Systems Corporation; McKesson Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market by System ,End User Region - Global Market Size Estimation, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2034",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players / Competitors Profiles Covered in Brief in Global Electronic Health Records Market Report in Strategic Perspective:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Who are the major players in the global EHR market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies include Epic Systems, Oracle Health, athenahealth, MEDITECH, eClinicalWorks, NextGen Healthcare, McKesson, and Veradigm.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Global Electronic Health Records Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "2.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "2.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific Facial Recognition Market Size by Component, Technology, Use Case, End-Use, Region, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2027",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Size, Key Companies, Company Product Portfolio, Hospital Procurement Trends, Manufacturing Capacity, Sales Performance, Regulatory Approvals, Company Market Share, and Forecast",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Share Insights",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電子カルテ市場規模 、シェア、成長率、分析（2034年まで） — 電子カルテ市場規模 、シェア、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 健康管理 > 医療IT",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "外来 電子カルテ市場 ―2026年～2032年の世界 市場 予測 — 外来 電子カルテ市場 ―2026年～2032年の世界 市場 予測 Newscast.jp https://newscast.jp > smart > news",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "pass": 3
+   },
+   {
+    "quote": "電子カルテ市場規模 レポート、市場シェア、2032年 — 電子カルテ市場規模 レポート、市場シェア、2032年 Zion Market Research https://www.zionmarketresearch.com > report > global-ele...",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療DX最前線： 電子カルテ （EHR） 市場 を激変させる5 ... — 日本の医療DX最前線： 電子カルテ （EHR） 市場 を激変させる5 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新】 電子カルテシェア ・ランキングを紹介！事例 ... — 【2026年最新】 電子カルテシェア ・ランキングを紹介！事例 ... PHC Holdings Corporation https://www.phchd.com > ... > 医療テック",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】 電子カルテ の シェア ランキング｜おすすめメーカー ... — 【2026】 電子カルテ の シェア ランキング｜おすすめメーカー ... 2ndLabo https://2ndlabo.com > article",
+    "url": "https://2ndlabo.com/article/369/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年度版】クリニック向け 電子カルテ 購入 シェア ... — 【2026年度版】クリニック向け 電子カルテ 購入 シェア ... m3.com 開業・経営 https://clinic.m3.com > cliniclab > trends",
+    "url": "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【規模別】病院向け 電子カルテ メーカー・システム17選 — 【規模別】病院向け 電子カルテ メーカー・システム17選 medimo.ai https://medimo.ai > column > emr-hospital",
+    "url": "https://medimo.ai/column/emr-hospital",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年最新版】 電子カルテ の普及率と今後の動向を解説 — 【2026年最新版】 電子カルテ の普及率と今後の動向を解説 PHC Holdings Corporation https://www.phchd.com > ... > 医療テック",
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "pass": 3
+   },
+   {
+    "quote": "医療情報システム 市場 に関する調査を実施（ 2025 年） — 医療情報システム 市場 に関する調査を実施（ 2025 年） yano.co.jp https://www.yano.co.jp > press-release > show > press_id",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "pass": 3
+   },
+   {
+    "quote": "【 2025 年】 電子カルテ の最新普及率はどのくらい？ — 【 2025 年】 電子カルテ の最新普及率はどのくらい？ クラウド型電子カルテCLIUS https://clius.jp > ... > 電子カルテ・ICT",
+    "url": "https://clius.jp/mag/2021/12/13/adoption-rate-for-ehrs/",
+    "pass": 3
+   },
+   {
+    "quote": "【 2025 年版】クリニック向け 電子カルテ 購入シェアランキング — 【 2025 年版】クリニック向け 電子カルテ 購入シェアランキング m3.com 開業・経営 https://clinic.m3.com > cliniclab > trends > 6.htm",
+    "url": "https://clinic.m3.com/cliniclab/trends/6.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records ( EHR ) Market Trends for 2026 — Electronic Health Records ( EHR ) Market Trends for 2026 Towards Healthcare https://www.towardshealthcare.com > ...",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Size Report, 2026-2033 — Electronic Health Records Market Size Report, 2026-2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Size & Trends 2035 — Electronic Health Records Market Size & Trends 2035 Roots Analysis https://www.rootsanalysis.com > reports",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "pass": 3
+   },
+   {
+    "quote": "EHR Industry Statistics By Digital Record Technology (2026) — EHR Industry Statistics By Digital Record Technology (2026) Market.us Media https://media.market.us > ehr-industry...",
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Size & Growth Report, 2034 — Electronic Health Records Market Size & Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "pass": 3
+   },
+   {
+    "quote": "Electronic Health Records Market Size 2026-2030 - Technavio — Electronic Health Records Market Size 2026-2030 - Technavio Technavio https://www.technavio.com > report",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Electronic Health Records Market Size Report, 2033 — U.S. Electronic Health Records Market Size Report, 2033 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "continued integration and platform investment under Thoma Bravo ownership following its USD 1.8 billion acquisition, expanding its ambulatory and specialty EHR offerings. Strategic significance: Reflects continued private-equity-driven consolidation and platform reinvestment in the mid-tier ambulatory EHR segment.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "reported that nearly a third of sampled Oracle Health customers indicated the vendor was no longer part of their long-term plans, according to KLAS Research, prompting continued investment in its new AI-enabled EHR platform. Strategic significance: Highlights the competitive pressure driving Oracle Health's platform rebuild and underscores the stakes of its 2026 acute-care rollout.",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 39.3 million+ raised",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "9. Electronic Health Records Market Startup Funding and Investment Trends",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "pass": 3
+   },
+   {
+    "quote": "By end-user, the hospitals segment registered its dominance over the global market in 2025. The segment’s growth is attributed to the increasing number of patients in hospitals, favorable infrastructure, and suitable capital investments. The need to streamline the complex healthcare process also drives the segment.",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "pass": 3
+   },
+   {
+    "quote": "in a funding round in 2023. This funding will be used to expand its platform capabilities and support primary care practices in delivering high-quality patient care.",
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": ": In early 2024, Kareo, a cloud-based EHR and practice management platform, raised",
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "- Technology companies, venture capital investors and healthcare organisations are continuously funding EHR innovation. The healthtech Venture funding in the U.S. and Europe reached US $7.9 billion in 2025.",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   },
+   {
+    "quote": ", the American Hospital Association and West Health Institute's initiative will enhance digital health technologies through EHR optimization, virtual care expansion, and AI integration, supported by a $12 million investment. (Source:",
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "6.3",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "世界の電子カルテ市場規模は、2025年には343億6000万米ドルと評価され、2026年の365億2000万米ドルから2034年には595億5000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は6.3%となる見込みです"
+   },
+   {
+    "value": "8.69",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "電子カルテ市場において、専門分野別セグメントは年平均成長率（CAGR）8.69%で最も速い成長を記録すると予測されている"
+   },
+   {
+    "value": "8.87",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "電子カルテ市場において、外来診療分野は年平均成長率（CAGR）8.87%で最も速い成長を遂げると予測されている"
+   },
+   {
+    "value": "8.35",
+    "url": "https://newscast.jp/smart/news/1893477",
+    "quote": "外来電子カルテ市場は、2032年までにCAGR8.35％で123億3,000万米ドル規模に拡大すると予測されています"
+   },
+   {
+    "value": "4.7",
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "quote": "（CAGR）は4.7%です"
+   },
+   {
+    "value": "4.4",
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "quote": "市場は2025年から2035年にかけて年平均成長率（CAGR）4.4％で拡大すると予想されており、2035年末までに市場規模は11億8,620万米ドルを超える見込みです"
+   },
+   {
+    "value": "5.61",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "quote": "CAGR of 5.61%"
+   },
+   {
+    "value": "5.86",
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "quote": "The global Electronic Health Record (EHR) market is projected to grow with a CAGR of 5.86% during the forecast period from 2025 to 2032."
+   },
+   {
+    "value": "4.32",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "quote": "The global electronic health records market size is calculated at USD 29.84 billion in 2025 and is expected to be worth USD 45.55 billion by 2035, expanding at a CAGR of 4.32% from 2026 to 2035."
+   },
+   {
+    "value": "5.12",
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "quote": "size was reported at US$ 12.56 billion in 2025 and is expected to rise to US$ 13.2 billion in 2026 to reach US$ 20.69 billion by 2035. According to forecasts, it will grow at a CAGR of 5.12%."
+   },
+   {
+    "value": "5.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "CAGR of 5.1% from 2026 to 2033"
+   },
+   {
+    "value": "8.3",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "quote": "The global electronic health records market, valued at USD 41 billion in 2025, is projected to reach USD 45 billion in 2026 and USD 92 billion by 2035, representing a CAGR of 8.3% during the forecast period from 2026 to 2035."
+   },
+   {
+    "value": "15.1",
+    "url": "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "quote": ", with a CAGR of 15.1% between 2025 and 2030."
+   },
+   {
+    "value": "15.1",
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "quote": "CAGR of 15.1%"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "35",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "quote": "電子カルテに関する当社の市場調査によると、北米の市場は予測期間中に約 35% の主要市場シェアを維持すると予想されますが、アジア太平洋地域の市場は、主に最近の拡張活動、製品承認、製品発売、パートナーシップ、買収の結果として、今後数年間で有望な成長機会を示す態勢が整っています"
+   },
+   {
+    "value": "15",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "quote": "によると、紙の記録が分散しているため医療情報が適切に伝達されていないことが、診断ミスの 15% 以上を占めており、世界中のさまざまな医療提供者が電子カルテを導入するようになりました"
+   },
+   {
+    "value": "40",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "quote": "これらのセグメントのうち、心臓病学セグメントは市場で重要な位置を占めており、2037年までに市場全体の収益の約40％を占めると予想されています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "quote": "これら 2 つのセグメントのうち、電子カルテ市場はクラウドベースセグメントが支配的となり、2037 年までに市場シェアが約 60% を超えると予想されます"
+   },
+   {
+    "value": "33",
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "quote": "アジア太平洋地域の電子カルテ市場は、政府の支援策と医療IT投資により、シェア33%超で第2位の市場になると予測されています"
+   },
+   {
+    "value": "41.25",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "北米は、2025年の市場シェア41.25%で電子カルテ市場を牽引しました"
+   },
+   {
+    "value": "54.6",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "ソフトウェア分野は、2025年には電子カルテ市場において54.6%のシェアを占め、市場を席巻するだろう"
+   },
+   {
+    "value": "100",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "クラウドベースのセグメントが2025年に電子カルテ市場で100%のシェアを占める見込み"
+   },
+   {
+    "value": "21.8",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "アジア太平洋地域は、2025年に74億9,000万米ドルと評価される世界の電子カルテ市場の21.8%を占め、予測期間中に年平均成長率（CAGR）9.38%という最速の成長率を記録すると予測されています"
+   },
+   {
+    "value": "9.38",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "アジア太平洋地域は、2025年に74億9,000万米ドルと評価される世界の電子カルテ市場の21.8%を占め、予測期間中に年平均成長率（CAGR）9.38%という最速の成長率を記録すると予測されています"
+   },
+   {
+    "value": "27.35",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "欧州は世界の電子カルテ市場の27.35%を占め、2025年には94億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.46%と見込まれています"
+   },
+   {
+    "value": "7.46",
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "quote": "欧州は世界の電子カルテ市場の27.35%を占め、2025年には94億米ドルに達すると予測されており、予測期間中の年平均成長率（CAGR）は7.46%と見込まれています"
+   },
+   {
+    "value": "12.3",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "quote": "～2024年度の中小規模一般病院向け電子カルテ市場規模678億2,900万円のうち、クラウド型が占める割合は12.3％（83億2,900万円）～"
+   },
+   {
+    "value": "14.6",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "quote": "そのうちクラウド型が占める割合は2024年度12.3％（83億2,900万円）から2027年度は14.6％（107億円）に増加すると予測する"
+   },
+   {
+    "value": "18.6",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "quote": "電子カルテ稼働施設数に占めるクラウド型の割合（一般病院、精神科病院、一般診療所別）：2025/7時点で一般病院で18.6％、一般診療所で27.1%がクラウド型と推計"
+   },
+   {
+    "value": "27.1",
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "quote": "電子カルテ稼働施設数に占めるクラウド型の割合（一般病院、精神科病院、一般診療所別）：2025/7時点で一般病院で18.6％、一般診療所で27.1%がクラウド型と推計"
+   },
+   {
+    "value": "83.7",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "By product: Web and cloud-based EHR held the largest market share of 83.7% in 2025."
+   },
+   {
+    "value": "45.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "By type: Acute segment held the largest market share of 45.6% in 2025."
+   },
+   {
+    "value": "32.6",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "By business model: Professional services held the largest market share of 32.6% in 2025."
+   },
+   {
+    "value": "52.8",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "By end use: Hospital segment held the largest market share of 52.8% in 2025."
+   },
+   {
+    "value": "43.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "quote": "North America dominated with a 43.0% revenue share in 2025."
+   },
+   {
+    "value": "55",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "quote": "In terms of end-users, hospitals and clinics currently hold the leading share of ~55%, while ambulatory care is expected to register the fastest growth."
+   },
+   {
+    "value": "45",
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "quote": "North America leads the market, accounting for a 45% share of the global electronic health records market."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/1893477",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softs.co.jp/e-map/share.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://2ndlabo.com/article/369/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://optage.co.jp/business/contents/article/medical-record-share-ranking.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mhlw.go.jp/content/10808000/001511375.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jahis.jp/action/id=1237?contents_type=23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clius.jp/mag/2021/12/13/adoption-rate-for-ehrs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://media.market.us/ehr-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.definitivehc.com/blog/most-common-inpatient-ehr-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10212829/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.healthgrades.com/pro/ehrs-ranked-by-market-share",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12394940/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.precedenceresearch.com/electronic-health-records-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibisworld.com/united-states/industry/electronic-health-records-systems/4172/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lifebit.ai/blog/best-electronic-medical-records-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coherentmarketinsights.com/market-insight/electronic-health-record-ehr-systems-market-403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/electronic-health-records-ehr-market-119794",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/united-states-electronic-health-records-market",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電子カルテ 市場規模 CAGR",
+   "results": [
+    "https://www.sdki.jp/reports/electronic-medical-records-market/114421",
+    "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "https://jp.linkedin.com/pulse/%E5%8C%BB%E7%99%82%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%88%E6%B8%AC%E6%88%90%E9%95%B7%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%BF%83%E9%80%B2%E8%A6%81%E5%9B%A0%E3%81%8A%E3%82%88%E3%81%B32033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E4%BA%88%E6%83%B3cagr-53-clovecatchx-g762e",
+    "https://newscast.jp/smart/news/1893477",
+    "https://www.zionmarketresearch.com/ja/report/global-electronic-medical-record-market",
+    "https://note.com/365medical_tokyo/n/n564f7fddfbdd",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E5%AD%90%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2-(ehr)-%E5%B8%82%E5%A0%B4-102660",
+    "https://unfasten970.inkrich.com/posts/electronic-health-records-461558-mvwhsyec",
+    "https://www.arts-crafts.co.jp/post-15148/",
+    "https://www.imarcgroup.com/report/ja/japan-electronic-medical-records-market"
+   ]
+  },
+  {
+   "query": "電子カルテ 市場 シェア 上位 企業",
+   "results": [
+    "https://www.phchd.com/jp/medicom/park/tech/ehr-medical-records-ranking",
+    "https://www.softs.co.jp/e-map/share.html",
+    "https://2ndlabo.com/article/369/",
+    "https://clinic.m3.com/cliniclab/trends/169.htm",
+    "https://optage.co.jp/business/contents/article/medical-record-share-ranking.html",
+    "https://medimo.ai/column/emr-hospital",
+    "https://it-trend.jp/emr/article/cloud-comparison",
+    "https://www.introduction-emr.net/knowledge/share.html",
+    "https://www.fortunebusinessinsights.com/jp/%E9%9B%BB%E5%AD%90%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2-(ehr)-%E5%B8%82%E5%A0%B4-102660",
+    "https://selfregister.net/electronic-medical-share/"
+   ]
+  },
+  {
+   "query": "電子カルテ 市場 前年比 2025",
+   "results": [
+    "https://www.phchd.com/jp/medicom/park/tech/ehr-penetrationrate",
+    "https://www.yano.co.jp/press-release/show/press_id/3934?srsltid=AYCX9vKNLwNgvFVELDDEAUkHCsDHO1UVXed7EJTOx68AaBhwVapzQaHd",
+    "https://www.mhlw.go.jp/content/10808000/001511375.pdf",
+    "https://www.jahis.jp/action/id=1237?contents_type=23",
+    "https://clius.jp/mag/2021/12/13/adoption-rate-for-ehrs/",
+    "https://clinic.m3.com/cliniclab/trends/6.htm",
+    "https://lp.henry-app.jp/column/OPMo6zpD",
+    "https://straitsresearch.com/jp/report/electronic-medical-record-market",
+    "https://doctokyo.jp/topic/2025-standard-emr/",
+    "https://note.com/yri_lifescience/n/nce902cf22db8"
+   ]
+  },
+  {
+   "query": "electronic health record market size CAGR 2025",
+   "results": [
+    "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "https://media.market.us/ehr-industry-statistics/",
+    "https://www.ibisworld.com/united-states/industry/electronic-health-records-systems/4172/",
+    "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "https://www.linkedin.com/pulse/electronic-health-records-market-size-2025-why-us-held-maria-matthew-toumf",
+    "https://www.coherentmarketinsights.com/market-insight/electronic-health-record-ehr-systems-market-403",
+    "https://www.emergenresearch.com/industry-report/electronic-health-records-market"
+   ]
+  },
+  {
+   "query": "electronic health record market share top players percent",
+   "results": [
+    "https://www.definitivehc.com/blog/most-common-inpatient-ehr-systems",
+    "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10212829/",
+    "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "https://resources.healthgrades.com/pro/ehrs-ranked-by-market-share",
+    "https://www.medbridge.com/blog/most-common-hospital-emr-systems-by-market-share",
+    "https://www.medequipdirectory.com/guides/ehr-market-share-report-2026/"
+   ]
+  },
+  {
+   "query": "electronic health record market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12394940/",
+    "https://www.technavio.com/report/electronic-health-records-market-industry-analysis",
+    "https://www.grandviewresearch.com/industry-analysis/us-electronic-health-records-market-report",
+    "https://www.maximizemarketresearch.com/market-report/global-electronic-health-records-market/17991/",
+    "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "https://www.precedenceresearch.com/electronic-health-records-market",
+    "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "https://www.linkedin.com/pulse/impressive-size-global-electronic-health-records-ehr-system-f0uae",
+    "https://www.consolidated.com/"
+   ]
+  },
+  {
+   "query": "electronic health record market key companies share 2025",
+   "results": [
+    "https://www.delveinsight.com/report-store/electronic-health-record-ehr-market",
+    "https://www.towardshealthcare.com/insights/electronic-health-records-market-size",
+    "https://www.grandviewresearch.com/industry-analysis/electronic-health-records-ehr-market",
+    "https://www.fortunebusinessinsights.com/electronic-health-records-ehr-market-102660",
+    "https://www.rootsanalysis.com/reports/electronic-health-records-market.html",
+    "https://www.ehrinpractice.com/largest-ehr-vendors.html",
+    "https://www.ibisworld.com/united-states/industry/electronic-health-records-systems/4172/",
+    "https://lifebit.ai/blog/best-electronic-medical-records-companies/",
+    "https://www.coherentmarketinsights.com/market-insight/electronic-health-record-ehr-systems-market-403",
+    "https://www.businessresearchinsights.com/market-reports/electronic-health-records-ehr-market-119794"
+   ]
+  }
+ ],
+ "missing": {}
+}

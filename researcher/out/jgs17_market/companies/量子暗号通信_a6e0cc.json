@@ -1,0 +1,1887 @@
+{
+ "name": "量子暗号通信",
+ "en": "quantum key distribution",
+ "aliases": [
+  "QKD",
+  "量子通信"
+ ],
+ "context": "4 量子 ②量子通信",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:41:50.041294+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "量子暗号市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、タイプ別（量子鍵配送（QKD）、量子乱数生成（QRNG）、その他）、サービス別（サポートおよび保守、導入および統合、コンサルティング）、セキュリティタイプ別（データベース暗号化、アプリケーションセキュリティ、ネットワークセキュリティ）、業界別（BFSI、クラウドおよびデータセンター、政府、エネルギーおよび公益事業、ヘルスケア、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場規模は、2025年には7億7000万米ドルと評価され、2026年の9億8000万米ドルから2034年には66億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.05%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子暗号市場は、同市場において2番目に大きなシェアを占めています",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場規模は、2026年には9億8000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）27.05%で成長し、2034年には66億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.05%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けLLM市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ARクラウド市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2025年の 11億米ドルから 2034年には 105億米ドルに拡大し、年平均成長率（CAGR）28.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年の市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "2034年の予測市場規模",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "COVID-19パンデミックの期間中、量子通信市場は研究開発（R&D）の初期段階にあり、商業導入は非常に少なく、プロジェクトの大半は政府の支援を受けていました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツの量子通信市場は、2025年から2034年にかけて大幅かつ有望な成長を遂げると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国の量子通信市場は、2025年から2034年にかけて大幅かつ有望な成長を遂げると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブラジルの量子通信市場は、2025年から2034年にかけて、力強く有望な成長を遂げると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "サウジアラビアの量子通信市場は、2025年から2034年にかけて大幅かつ有望な成長を遂げると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "1)量子暗号市場規模",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）22.1%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "2035年には、市場規模は2783.8百万米ドルに達する見込みです",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、当社の調査アナリストによると、基準年の市場規模は381.1百万米ドルでしました",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "成長著しい日本の量子暗号市場は、2025ー2035年の間に年平均成長率（CAGR）20.0%と予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域市場における量子暗号の市場調査と分析によると、予測期間中に同地域市場は36%以上の市場シェアを占め、世界市場で主導的な地位を確保すると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子通信市場規模は、2025年には11億6000万米ドルと評価され、2026年の14億9000万米ドルから2034年には111億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は28.57%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "2018年に可決された米国国家量子イニシアチブ法は、量子研究に数十億ドル規模の資金を投入し続けており、MIT、ハーバード大学、IBM Quantumなどの機関に多額の資金が割り当てられている",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、2024年12月には、米上院議員らが国家量子イニシアチブ再承認法案を提出し、量子技術の実用化を促進し、国家安全保障と経済競争力を強化するために、5年間で27億ドルの予算を承認した",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は量子技術を国際的な科学技術競争における鍵と位置づけ、科学技術開発への政府支出を約150億ドルにまで増やしている",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場規模は、2026年には14億9000万米ドルと評価され、2034年までに111億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は28.57%である",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）28.57%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "プライベート5Gネットワ​​ーク市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークオペレーションセンター（NOC）サービス市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星インターネット市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場規模と予測 2032",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 219.20 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032 年の市場規模",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 1,689.30 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "USD 704.63 Million",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年のUSD 219.2百万",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "2032年までのUSD 1689.3億",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信の世界市場は、2024年に0.9億米ドル、2025年には11.6億米ドル、2033年には86.4億米ドルに達すると予測され、2025年から2033年の間に年平均成長率は28.57%となる見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、2024年12月、米国の上院議員は「国家量子イニシアティブ再認可法」を提案し、量子技術の実用的利用を推進し、国家安全保障と経済競争力を強化するために、5年間で27億ドルの予算を認可しました",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "組織バンキング市場規模と見通し、2025-2033",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の天然トコフェロール市場規模予測（2025年-2032年）、年平均13.2%成長",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "フレーバードウイスキー市場規模・シェア分析 － 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "AIショッピングアシスタント市場規模、シェアおよびトレンド分析レポート：タイプ別（音声ベースAIショッピングアシスタント、テキストベースAIショッピングアシスタント、ビジュアルベースAIショッピングアシスタント、マルチモーダルAIショッピングアシスタント）、技術別（自然言語処理（NLP）、機械学習、コンピュータービジョン、統合技術）、アプリケーション別（小売、ヘルスケア、旅行、メディア、その他のアプリケーション）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）の予測、2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号カードの世界市場（2026年～2032年）、市場規模（量子鍵配送カード、量子乱数生成カード、量子強化暗号カード）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号カードの世界市場（2026年～2032年）、市場規模（量子鍵配送カード、量子乱数生成カード、量子強化暗号カード）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号カードの市場規模は、2025年の3億7,400万米ドルから2032年には10億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "米国の量子暗号カードの市場規模は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "中国の量子暗号カードの市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子暗号カードの市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "第4章には、地理的地域別の量子暗号カード世界史的レビューが記述されており、2021年から2026年までの地域別および国/地域別のグローバル量子暗号カード市場規模の歴史的データが網羅されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "第12章には、地理的地域別の量子暗号カード世界予測レビューが示されており、2027年から2032年までのグローバル市場規模の予測が地域別、国別（米州、APAC、ヨーロッパ、中東・アフリカ）、タイプ別、およびアプリケーション別に、販売量と年間収益の形で詳細に予測されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "量子暗号市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場規模は、2025年には7億7000万米ドルと評価され、2026年の9億8000万米ドルから2034年には66億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.05%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子鍵配送（QKD）分野は、様々な分野での利用拡大により、2023年に市場を席巻しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は予測期間中に年平均成長率（CAGR）19.7%で成長すると予測されています",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場規模は、2026年には9億8000万米ドルと評価され、2026年から2034年の予測期間において年平均成長率（CAGR）27.05%で成長し、2034年には66億4000万米ドルに達すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）27.05%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場は、2025年の 11億米ドルから 2034年には 105億米ドルに拡大し、年平均成長率（CAGR）28.3%で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "年平均成長率（2025〜2034年）",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "サービスセグメントは、企業や政府がQKDネットワークの構築、従来型システムとのハイブリッド統合、通信環境の安全な維持に関する専門的な支援を必要としていることから、29%のCAGRで成長しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "この傾向は2022年頃に現れ始め、2024〜2025年にピークを迎え、組織がパイロットプロジェクトから2030年までに本格導入へ移行するなかで、現在も拡大を続けています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドネットワークセグメントは年平均成長率（CAGR） 33% で成長しています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "クラウドベースのセグメントは年平均成長率（CAGR）30%で成長しており、実装モデルにより、複雑なシステムを現地に大規模展開することなく、量子暗号化と鍵配送を実現できます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）22.1%で成長すると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2025ー2035年）",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "成長著しい日本の量子暗号市場は、2025ー2035年の間に年平均成長率（CAGR）20.0%と予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "5G、IoT、クラウドインフラの拡大に伴い、耐量子暗号が急務となっています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場規模は、予測期間中に年平均成長率22.1%で成長し、2035年には2783.8百万米ドルに達すると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子通信市場規模は、2025年には11億6000万米ドルと評価され、2026年の14億9000万米ドルから2034年には111億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は28.57%となる見込みです",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場規模は、2026年には14億9000万米ドルと評価され、2034年までに111億4000万米ドルに達すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は28.57%である",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場は、2026年から2034年の予測期間中に年平均成長率（CAGR）28.57%で成長すると予測されている",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "プライベート5Gネットワ​​ーク市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "時間制約型ネットワーク市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律ネットワーク市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星インターネット市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "超高周波通信市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGRの33.9%",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "予測CAGR(2024–2032):",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "本サービスのセグメントは、ソフトウェアおよびサービスを網羅し、2025年から2032年までの堅牢なCAGRで成長し、Cybersecurity ThreatsとData Breachesのエスカレートによって燃料を供給する予定です",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "対称キーセグメントは、2025年から2032年までの15.1%の最速のCAGRを目撃し、データ侵害やサイバー攻撃に対する懸念を増大させることで、量子安全セキュリティソリューションの需要が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "大企業セグメントは、2025年から2032年にかけての最も速いCAGRを目撃する予定で、国家安全保障アプリケーションによって推進される主要なドライバであり、量子保護コミュニケーションが着実に成長する公共部門の資金調達が期待されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "TSL/SSL プロトコルセグメントは、2025年から2032年にかけて最速の CAGR で成長し、量子光学と光子の進歩によって推進され、QKD システムをより実用的で費用対効果の高いものにしています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "シミュレーションセグメントは、2025年から2032年まで最速のCAGRで成長し、コネクティッドデバイスの増殖によって、安全な量子通信のための新しい市場が開きます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "政府のセグメントは、2025年から2032年までの最速のCAGRで成長し、銀行やフィンテック企業が主導し、価値の高い取引と機密データを保護するために量子暗号化を探求しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "United KingdomのQuantum Cryptography Marketは、予測期間中に注目すべきCAGRで成長する予定で、5GネットワークとIoTエコシステムが増加し、量子暗号ソリューションを使用して安全なデータ伝送のための機会を提供します",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信の世界市場は、2024年に0.9億米ドル、2025年には11.6億米ドル、2033年には86.4億米ドルに達すると予測され、2025年から2033年の間に年平均成長率は28.57%となる見込みです",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルな量子通信市場の規模は、2024年に9.0億米ドルの価値があり、2025年には11.6億米ドル、2033年には86.4億米ドルに達する見込みで、予測期間（2025-2033年）中に年平均成長率（CAGR）28.57%で成長すると推定されています",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の天然トコフェロール市場規模予測（2025年-2032年）、年平均13.2%成長",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号カードの市場規模は、2025年の3億7,400万米ドルから2032年には10億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "米国の量子暗号カードの市場規模は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "中国の量子暗号カードの市場は、2025年のUS$百万から2032年にはUS$百万へと拡大し、2026年から2032年までのCAGRは%になると推定されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子暗号カードの市場は、2025年のX百万米ドルから2032年にはX百万米ドルへと拡大し、2026年から2032年までのCAGRは%になると予測されています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2025–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum key distribution market size was estimated at USD 446.0 million in 2024 and is projected to reach USD 2,488.1 million by 2030, growing at a CAGR of 33.5% from 2025 to 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025-2030): 33.5%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 33.5% from 2025 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD million/billion, and CAGR from 2025 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "The global quantum key distribution market is expected to grow at a compound annual growth rate of 33.5% from 2025 to 2030 to reach USD 2,488.1 million by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Quantum Key Distribution Market Size is projected to grow from USD 0.37 Billion in 2025 to USD 6.62 Billion by 2035, at a CAGR of 33.43% during the forecast period 2026–2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The Market is Going to Expand at a CAGR of 33.43% between 2026 and 2035.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution (QKD) Market Size | CAGR of 30%",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "by 2035, recording a CAGR of",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR(2025-2035)",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Quantum Key Distribution Market, valued at USD 446.0 million in 2024, is projected to reach USD 2.49 billion by 2030, with a CAGR of 33.50%. QKD is critical for protecting sensitive data in sectors like government and defense. Satellite-based and 5G-integrated QKD elevate global communication security.",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Quantum Key Distribution Market was valued at USD 446.0 million in 2024, and is projected to reach USD 2.49 billion by 2030, rising at a CAGR of 33.50%.",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "量子暗号市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場規模、シェア、トレンド分析レポート：コンポーネント別（ハードウェア、ソフトウェア、サービス）、タイプ別（量子鍵配送（QKD）、量子乱数生成（QRNG）、その他）、サービス別（サポートおよび保守、導入および統合、コンサルティング）、セキュリティタイプ別（データベース暗号化、アプリケーションセキュリティ、ネットワークセキュリティ）、業界別（BFSI、クラウドおよびデータセンター、政府、エネルギーおよび公益事業、ヘルスケア、自動車、その他）、地域別（北米、欧州、アジア太平洋、中東およびアフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2025年に36.4%の市場シェアを占め、量子暗号市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州の量子暗号市場は、同市場において2番目に大きなシェアを占めています",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は2025年に36.4%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "IoTヘルスケア市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンIoT市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）市場規模、シェア、成長率、分析、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けLLM市場規模、シェア、成長率、分析、レポート、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "睡眠時歯ぎしり市場の規模、シェア、成長率、予測（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ARクラウド市場規模、シェア、成長率、分析、レポート（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場 サイズとシェア 2025 - 2034",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク別の量子通信市場シェア、2024年",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は北米の量子通信市場で約82%のシェアを占め、2024年には2億8,420万米ドルの市場収益を生み出しました",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "欧州は世界の量子通信市場で2番目に大きなシェアを占めており、2024年の年平均成長率は28.6%でした",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "アジア太平洋地域は、2024年の世界の量子通信市場の 20% 超を占め、最も速い成長を遂げ、年平均成長率（CAGR）は約 31% に達すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "中東・アフリカ（MEA）は、2024年の世界の量子通信市場で 6% の市場シェアを占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信業界の上位 7 社である Toshiba、Thales、QuantumCTek Co.、ID Quantique、MagiQ Technologies、Qubitekk、KETS Quantum Security は、2024年の市場の約 34% を占めている",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場シェア 11%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の合計市場シェアは33%",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェアセグメントは、2024年に市場シェアの約54%を占め、2034年まで年平均成長率（CAGR）26%超で成長すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ポイントツーポイントネットワークセグメントは、2024年に市場シェアの51%を占め、2034年まで年平均成長率（CAGR）27%超で拡大すると予測される",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "[最新リリース]世界の量子暗号市場の展望：規模、シェア、傾向、調査レポート 2025-2035年",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― コンポーネント別、アプリケーション別、エンドユーザー別、及び地域別―世界市場の見通しと予測 2025－2035年",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号の最も人気のあるアプリケーション分野はネットワークセキュリティで、2035年までに34.6%の市場シェアを占めると予想されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号の最大のユーザーはITと通信セクターで、2035年には市場の28%を占めると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "北米地域市場における量子暗号の市場調査と分析によると、予測期間中に同地域市場は36%以上の市場シェアを占め、世界市場で主導的な地位を確保すると予測されています",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子暗号市場のメーカーシェアを独占する世界トップ10の企業は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "日本における量子暗号市場メーカーシェアを独占するトップ10社は以下のとおりです:",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術別、産業分野別、導入形態別、エンドユーザータイプ別、機能別用途別、および県―市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークセキュリティ市場 調査レポート、規模とシェア、成長機会、及び傾向洞察分析― ファイアウォールソリューション別、IAM（アイデンティティ・アクセス管理）別、導入形態別、サービス別、エンドユーザー業界別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場の規模、シェア、トレンド分析レポート：コンポーネント別（ソリューション、サービス）、企業規模別（大企業、中小企業）、伝送方式別（光ファイバーベース、衛星ベース）、産業分野別（金融サービス、政府・防衛、ヘルスケア、航空宇宙、IT・通信、その他）、地域別（北米、欧州、アジア太平洋、中東・アフリカ、ラテンアメリカ）予測、2026年～2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年に36.5%の市場シェアを占め、量子通信市場を牽引しました",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米：市場シェア39.59％を占める主要地域",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は2025年時点で36.5%のシェアを占め、市場を席巻した",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "プライベート5Gネットワ​​ーク市場規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "時間制約型ネットワーク市場の規模、シェア、成長率、分析（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークオペレーションセンター（NOC）サービス市場規模、シェア、2034年",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "自律ネットワーク市場の規模、シェア、成長率（2034年まで）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "衛星インターネット市場規模、シェア、成長率、分析（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "超高周波通信市場の規模、シェア、成長率（2034年）",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場規模、シェア、トレンド分析レポート – 業界概要と2032年までの予測",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacificは、Emerging Technologiesとの統合により、グローバル収益の38.5%を占める世界最大の市場シェアを保有しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアセグメントは、2025年に62.1%のシェアで市場を支配する見込み 5G、IoT、エッジコンピューティングによる量子暗号化の統合により、スケーラブルで将来性のあるセキュリティモデルが開きます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "東芝は2025年に12-16%のシェアを保有しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェアセグメントは、市場を支配し、2025年に62.1%の印象的な市場シェアを指揮し、サイバー攻撃の増加頻度と高度化により、量子暗号化などの高度なセキュリティソリューションの需要が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "Symmetric Key セグメントは、クラウドサービスの信頼性を高めることで、最大市場シェア 51.2 を 2025 年に保有しており、量子耐性データ保護メカニズムの需要が生まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "小中小企業(中小企業)セグメントは、量子コンピュータが現在の暗号化方法が量子暗号化の早期採用を促進するリスクによって駆動され、2025年に最大の市場シェアを保持しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワーク暗号化セグメントは、2025年に最大の市場シェアを保持し、エンタープライズシフトからクラウド環境まで、QKDによる強化された暗号化の需要が生まれます",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、グローバル量子暗号市場を支配し、2025年に41.5%の実質的な収益シェアを獲得し、共同研究開発プロジェクトによって駆動され、イノベーションを加速し、製品を市場投入するスピードを加速しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "米国は、2025年に北米市場シェアの印象的な81%を占めており、データのプライバシーとサイバーセキュリティの脅威に対する懸念が高まっています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、2025年にアジア・パシフィック地域において最大の市場シェアを占め、その大規模な建設部門、政府支援スマートシティ・イニシアチブ、NVC照明やOple Lightingなどの大手国内メーカーの存在を指しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "地域別では、北米が市場シェアの39.59%を占めており、政府の投資と研究開発が活発です",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "フレーバードウイスキー市場規模・シェア分析 － 成長トレンドと予測 (2025年～2030年)",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "エアピュリファイングスプレー市場の規模、シェアおよびトレンド分析レポート：タイプ別（アロマ、ノンアロマ）、エンドユーザー別（法人、家庭）、販売チャネル別（スーパーマーケット/ハイパーマーケット、リテール薬局、オンライン）、地域別（北米、ヨーロッパ、APAC、中東・アフリカ、LATAM）予測、2026-2034年",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "UVDロボット市場規模、シェアおよびトレンド分析レポート：タイプ別（過酸化水素蒸気、紫外線）、用途別（商業および産業、ヘルスケア）、地域別（北米、ヨーロッパ、APAC、中東およびアフリカ、LATAM）予測2026-2034",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "イスラエルは、大規模なサイバーセキュリティエコシステム、充実した研究エコシステム、量子技術への政府投資の増加を背景に、中東の量子通信市場における主要企業として急速に台頭している",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場の主要企業",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信業界で事業を展開する主要企業は以下のとおりです",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信業界の主要企業はどこですか？",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業には、Aliro Quantum、Arqit Quantum、ID Quantique、KETS Quantum Security、MagiQ Technologies、QuantumCTek、Qubitekk、Quintessence Labs、Thales、Toshibaなどが含まれます",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "主要企業の売上高シェア分析を通じて、市場構造の分析、業界トレンドの特定、マクロ経済要因の評価を行います",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "ID Quantique (IDQ)、QuintessenceLabs、CryptoNext Security、QuSecure, Inc.、PQShield Ltd.などが、世界の量子暗号市場で活動する主要企業です",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "当社の調査レポートによると、量子暗号市場において日本国内で活動している主要企業としては、Toshiba Corporation、NEC Corporation、Mitsubishi Electric Corporation、Quantum ICT Laboratory Inc.、NTT Corporationなどが挙げられます",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "pass": 3
+   },
+   {
+    "quote": "これにより資金調達力と市場展開力で他社をリードし、競合他社が参入しにくい国家規模プロジェクトにも深く関与できる立場を確立しています",
+    "url": "https://www.arts-crafts.co.jp/post-29975/",
+    "pass": 3
+   },
+   {
+    "quote": "世界の量子暗号市場市場の主要企業はどこですか？",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には、",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "また、主要メーカーの量子暗号カードの生産地域分布、販売地域、提供される製品タイプ、市場集中度分析、競争状況、CR3、CR5、CR10といった集中度指標（2024年から2026年）、新製品や潜在的参入企業、市場のM&A活動と戦略に関する情報も含まれています",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the key companies in the market include InfiniQuant, KETS Quantum Security Ltd, Kloch Inc., LuxQuanta Technologies S.L., and others. Organizations focus on increasing their customer base to gain a competitive edge in the industry. Therefore, key players are taking several strategic initiatives, such as mergers and acquisitions, and partnerships with other major companies.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in quantum key distribution market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the quantum key distribution market include ID Quantique, InfiniQuant, KETS Quantum Security Ltd, Kloch Inc., LuxQuanta Technologies S.L., MagiQ Technologies Inc., NEC Corporation, QuantumCTek Co., Ltd., QuintessenceLabs Pty Ltd, Telsy S.p.A., and Toshiba Corporation",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Investing in quantum security startups",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on Market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 9. Competitive Landscape",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution (QKD) Market Size and Forecast, by Component (Solution, Services); Type (Multiplexed Systems, Long Distance System); End Use (Telecom & Data Center, Financial Services Companies, Government, Defense, Healthcare, Transport, Retail) - Growth Trends, Key Players, Regional Analysis 2026-2035",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "could add up to USD 2 trillion in value by 2037 across industries like automotive, chemicals, financial services, and life science. 2022 saw USD3 billion invested in quantum tech startups, spanning computing, communications, and sensing.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "North America quantum key distribution (qkd) market will secure over 42% share, driven by the strong presence of key players, substantial quantum technology R&D investments, and a robust cybersecurity landscape, forecast period 2026–2035.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players:",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Get a glimpse of competitive landscape analysis",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the quantum key distribution sector?",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Key players in the market include ID Quantique SA, Toshiba Corporation, QuantumCTek Co., Ltd., QuintessenceLabs Pty Ltd., MagiQ Technologies, Inc., Qubitekk, Inc., Nokia Corporation, NEC Corporation, Huawei Technologies Co., Ltd., Quantum Xchange, Inc.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Startups & Academia",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Competitive Landscape",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "An in-depth analysis of various patents that have been filed / granted related to quantum key distribution and its components, based on various parameters, such as type of patent, patent publication year, patent age and leading players",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key winning strategies framework that helps in analyzing the level of competition within an industry, by tracing the key market activities including partnership, funding, expansion of leading players",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "What is quantum key distribution key players in CPS market?",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, the suite provides a Future Leaders Index which examines the key players in the market and assesses their future role in the market as it matures.",
+    "url": "https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/",
+    "pass": 3
+   },
+   {
+    "quote": "Space-Based Quantum Key Distribution: A Deep Dive Into QKD's Market Map And Competitive Landscape",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Space-Based Quantum Key Distribution: A Deep Dive Into QKD’s Market Map And Competitive Landscape",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": ", space-based QKD is at a critical juncture, transitioning from experimental validation to early-stage commercialization. Their latest Space-Based QKD Market Map identifies key players, tracks emerging technologies, and outlines investment opportunities, offering a comprehensive view of the market’s trajectory. Additionally,",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "has released a detailed report analyzing the sector’s technology trends, competitive landscape, and projected market size.",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Growth and Competitive Landscape",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "Major key players in the market follow a merger and acquisition strategy which helps to boost segment growth over the forecast period. For instance, on May 30, 2023, PQShield, announced collaboration with Tata Consultancy Services and eShard as organizations committed to implementing post-quantum cryptography. PQShield signed a Memorandum of Understanding with Tata Consultancy Services.",
+    "url": "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "Investors should assess technological maturity, government support, R&D advancements, commercialization potential, infrastructure readiness, and competitive landscape.",
+    "url": "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Competitive Landscape",
+    "url": "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Key Players:",
+    "url": "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "pass": 3
+   },
+   {
+    "quote": "Market Size, Segments Analysis, Competitive Landscape, Regional Analysis, DROC & SWOT Analysis, Forecast Outlook",
+    "url": "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "pass": 3
+   },
+   {
+    "quote": "Profiles major players, value chains, and strategic developments.",
+    "url": "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "pass": 3
+   },
+   {
+    "quote": "Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "pass": 3
+   },
+   {
+    "quote": "ID Quantique, Toshiba Corporation, and Huawei Technologies led competitive landscape",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Competitive Landscape 2025-2034",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Covered",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Map the competitive landscape and the strategies of leading players",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "This stage helps the team understand the market structure, the value chain, the major players, and the key factors that influence demand.",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "量子通信市場 の 規模 ・統計レポート、2034年 — 量子通信市場 の 規模 ・統計レポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > quantu...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信 市場 の進化と14.6%の CAGR ：2026年から2033年に ... — 量子通信 市場 の進化と14.6%の CAGR ：2026年から2033年に ... LinkedIn https://jp.linkedin.com > pulse > 量子通信-市場の進化と1...",
+    "url": "https://jp.linkedin.com/pulse/%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1-%E5%B8%82%E5%A0%B4%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%A8146%E3%81%AEcagr2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E6%B3%A8%E7%9B%AE%E3%81%99%E3%81%B9%E3%81%8D%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-gambit-guide-8dnbe",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場 の規模、 シェア 、成長率、分析（2034年まで） — 量子通信市場 の規模、 シェア 、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 情報技術 > 通信",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場 の規模・統計レポート、2034年 — 量子通信市場 の規模・統計レポート、2034年 Global Market Insights Inc. https://www.gminsights.com > industry-analysis > quantu...",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "pass": 3
+   },
+   {
+    "quote": "成長している 量子暗号通信 とは？新興・成長 市場 において躍動 ... — 成長している 量子暗号通信 とは？新興・成長 市場 において躍動 ... アーツアンドクラフツ株式会社 - https://www.arts-crafts.co.jp > post-29975",
+    "url": "https://www.arts-crafts.co.jp/post-29975/",
+    "pass": 3
+   },
+   {
+    "quote": "2035年までの 量子通信市場 規模、 シェア 、業界の成長 — 2035年までの 量子通信市場 規模、 シェア 、業界の成長 Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/quantum-communication-market-113933",
+    "pass": 3
+   },
+   {
+    "quote": "量子通信市場 の規模、シェア、成長率、分析（2034年まで） — 量子通信市場 の規模、シェア、成長率、分析（2034年まで） Straits Research https://straitsresearch.com > 情報技術 > 通信",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "pass": 3
+   },
+   {
+    "quote": "【調査レポート】 量子通信市場 の規模と展望、 2025 年〜2033年 — 【調査レポート】 量子通信市場 の規模と展望、 2025 年〜2033年 (株)マーケットリサーチセンター https://www.marketresearch.co.jp > insights > quantum-co...",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Size | Industry Report 2030 — Quantum Key Distribution Market Size | Industry Report 2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Report 2024-2030, by ... — Quantum Key Distribution Market Report 2024-2030, by ... MarketsandMarkets https://www.marketsandmarkets.com > ...",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 Companies in Global Quantum Key Distribution Market — Top 20 Companies in Global Quantum Key Distribution Market Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution (QKD) Market Size | CAGR of 30% — Quantum Key Distribution (QKD) Market Size | CAGR of 30% Market.us https://market.us > report > quantum-...",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Size , Share & 2031 Growth ... — Quantum Key Distribution Market Size , Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market worth $2.63 billion by 2030 — Quantum Key Distribution Market worth $2.63 billion by 2030 PR Newswire https://www.prnewswire.com > quant...",
+    "url": "https://www.prnewswire.com/news-releases/quantum-key-distribution-market-worth-2-63-billion-by-2030--exclusive-report-by-marketsandmarkets-302369744.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Size & Growth Report, 2034 — Quantum Key Distribution Market Size & Growth Report, 2034 Fortune Business Insights https://www.fortunebusinessinsights.com > ...",
+    "url": "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Size, Share & 2031 Growth ... — Quantum Key Distribution Market Size, Share & 2031 Growth ... Mordor Intelligence https://www.mordorintelligence.com > ...",
+    "url": "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Report 2025-2030, with ... — Quantum Key Distribution Market Report 2025-2030, with ... Yahoo Finance https://finance.yahoo.com > news > q...",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Size & Trends, 2035 — Quantum Key Distribution Market Size & Trends, 2035 Roots Analysis https://www.rootsanalysis.com > quan...",
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum Key Distribution Market Report 2025 -2030, with ... — Quantum Key Distribution Market Report 2025 -2030, with ... Yahoo Finance https://finance.yahoo.com > news > q...",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "大企業セグメントは、2025年から2032年にかけての最も速いCAGRを目撃する予定で、国家安全保障アプリケーションによって推進される主要なドライバであり、量子保護コミュニケーションが着実に成長する公共部門の資金調達が期待されています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "中国は、2025年にアジア・パシフィック地域において最大の市場シェアを占め、その大規模な建設部門、政府支援スマートシティ・イニシアチブ、NVC照明やOple Lightingなどの大手国内メーカーの存在を指しています",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "2023年12月、BengaluruベースのQNu Labsは、プレシリーズA1の資金調達ラウンドで6億ドルを保証しました",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the quantum key distribution market with a share of 36.8% in 2024. This is attributed to strong government support, early adoption of quantum technologies, and significant cybersecurity investments.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2026, the U.S. Department of Commerce announced $2.013 billion in proposed CHIPS and Science Act incentives for nine quantum companies. The funding supports two domestic quantum foundries and seven quantum computing companies, aiming to strengthen U.S. manufacturing, solve key engineering challenges, create jobs, and maintain global leadership in quantum technology.",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "pass": 3
+   },
+   {
+    "quote": "The market growth is driven by the need for secure communication across vital sectors and the development of quantum-based encryption technologies. This growth is fueled by advancements in quantum technologies and significant investments in quantum research. The 2023 quantum technology monitor reveals that",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "could add up to USD 2 trillion in value by 2037 across industries like automotive, chemicals, financial services, and life science. 2022 saw USD3 billion invested in quantum tech startups, spanning computing, communications, and sensing.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "North America quantum key distribution (qkd) market will secure over 42% share, driven by the strong presence of key players, substantial quantum technology R&D investments, and a robust cybersecurity landscape, forecast period 2026–2035.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "Asia Pacific market will account for 22% share, fueled by significant quantum R&D investments, tech-driven companies leveraging quantum technologies, and rapid advancements in quantum computing, forecast period 2026–2035.",
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "pass": 3
+   },
+   {
+    "quote": "The suite includes a data deliverable; sizing the market and providing key forecast data across 60 plus countries in 8 key regions, including regions of major investment, namely West Europe and Far East & China. Data is also spilt by several different industry segments in the quantum key distribution market, including government and defence, finance, telecommunications, and other sectors.",
+    "url": "https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/",
+    "pass": 3
+   },
+   {
+    "quote": ", widespread commercial adoption of space-based QKD is unlikely before 2035, with government and defense sectors continuing to dominate investment throughout the next decade.",
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "pass": 3
+   },
+   {
+    "quote": "April-June 2026 - Growing investment in secure quantum communication infrastructure",
+    "url": "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "pass": 3
+   },
+   {
+    "quote": ". Simultaneously, the U.S. Quantum Computing Cybersecurity Preparedness Act and the EU's EuroQCI initiative have injected roughly USD 1.2 billion in combined public funding into quantum-safe cryptography migration programs",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "pass": 3
+   },
+   {
+    "quote": "National Quantum Strategy CAD 360M funding",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "pass": 3
+   },
+   {
+    "quote": "European Commission (January 2024): Approved EUR 170 million in additional EuroQCI funding for satellite-based quantum secure communication nodes, targeting operational capability by 2028",
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   },
+   {
+    "quote": "5. What quantum computing threat justifies Quantum Key Distribution investment in financial services?",
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "27.05",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "quote": "世界の量子暗号市場規模は、2025年には7億7000万米ドルと評価され、2026年の9億8000万米ドルから2034年には66億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間中の年平均成長率（CAGR）は27.05%となる見込みです"
+   },
+   {
+    "value": "19.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "quote": "アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています"
+   },
+   {
+    "value": "19.7",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "quote": "欧州は予測期間中に年平均成長率（CAGR）19.7%で成長すると予測されています"
+   },
+   {
+    "value": "28.3",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "市場は、2025年の 11億米ドルから 2034年には 105億米ドルに拡大し、年平均成長率（CAGR）28.3%で成長すると予測されています"
+   },
+   {
+    "value": "26",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています"
+   },
+   {
+    "value": "27",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています"
+   },
+   {
+    "value": "33",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ハイブリッドネットワークセグメントは年平均成長率（CAGR） 33% で成長しています"
+   },
+   {
+    "value": "30",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "クラウドベースのセグメントは年平均成長率（CAGR）30%で成長しており、実装モデルにより、複雑なシステムを現地に大規模展開することなく、量子暗号化と鍵配送を実現できます"
+   },
+   {
+    "value": "22.1",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "quote": "量子暗号市場に関する当社の調査レポートによると、市場は予測期間2025ー2035年中に年平均成長率（CAGR）22.1%で成長すると予測されています"
+   },
+   {
+    "value": "20.0",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "quote": "成長著しい日本の量子暗号市場は、2025ー2035年の間に年平均成長率（CAGR）20.0%と予測されています"
+   },
+   {
+    "value": "28.57",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "quote": "世界の量子通信市場規模は、2025年には11億6000万米ドルと評価され、2026年の14億9000万米ドルから2034年には111億4000万米ドルに成長すると予測されており、2026年から2034年の予測期間における年平均成長率（CAGR）は28.57%となる見込みです"
+   },
+   {
+    "value": "33.9",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "CAGRの33.9%"
+   },
+   {
+    "value": "28.57",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "quote": "量子通信の世界市場は、2024年に0.9億米ドル、2025年には11.6億米ドル、2033年には86.4億米ドルに達すると予測され、2025年から2033年の間に年平均成長率は28.57%となる見込みです"
+   },
+   {
+    "value": "15.6",
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "quote": "世界の量子暗号カードの市場規模は、2025年の3億7,400万米ドルから2032年には10億1,300万米ドルへと拡大すると予測されており、2026年から2032年にかけて年平均成長率（CAGR）15.6%で成長すると見込まれています"
+   },
+   {
+    "value": "33.5",
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "quote": "The global quantum key distribution market size was estimated at USD 446.0 million in 2024 and is projected to reach USD 2,488.1 million by 2030, growing at a CAGR of 33.5% from 2025 to 2030."
+   },
+   {
+    "value": "33.43",
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "quote": "According to a research report published by Spherical Insights & Consulting, The Global Quantum Key Distribution Market Size is projected to grow from USD 0.37 Billion in 2025 to USD 6.62 Billion by 2035, at a CAGR of 33.43% during the forecast period 2026–2035."
+   },
+   {
+    "value": "30",
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "quote": "Quantum Key Distribution (QKD) Market Size | CAGR of 30%"
+   },
+   {
+    "value": "33.50",
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "quote": "The Quantum Key Distribution Market, valued at USD 446.0 million in 2024, is projected to reach USD 2.49 billion by 2030, with a CAGR of 33.50%. QKD is critical for protecting sensitive data in sectors like government and defense. Satellite-based and 5G-integrated QKD elevate global communication se"
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "36.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "quote": "アジア太平洋地域は、2025年に36.4%の市場シェアを占め、量子暗号市場を牽引しました"
+   },
+   {
+    "value": "19.4",
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "quote": "アジア太平洋地域は、世界の量子暗号市場において最も重要なシェアを占めており、予測期間中に年平均成長率（CAGR）19.4%で成長すると見込まれています"
+   },
+   {
+    "value": "54",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています"
+   },
+   {
+    "value": "26",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ハードウェアセグメントは量子通信市場をリードし、約54%のシェアを占めており、2034年まで年平均成長率（CAGR）26%超で成長すると予測されています"
+   },
+   {
+    "value": "51",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています"
+   },
+   {
+    "value": "27",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "ポイント・ツー・ポイントネットワークセグメントは市場シェアの 51% を占め、2025年から2034年にかけて年平均成長率（CAGR） 27% 超で成長すると予測されています"
+   },
+   {
+    "value": "82",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "米国は北米の量子通信市場で約82%のシェアを占め、2024年には2億8,420万米ドルの市場収益を生み出しました"
+   },
+   {
+    "value": "28.6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "欧州は世界の量子通信市場で2番目に大きなシェアを占めており、2024年の年平均成長率は28.6%でした"
+   },
+   {
+    "value": "20",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "アジア太平洋地域は、2024年の世界の量子通信市場の 20% 超を占め、最も速い成長を遂げ、年平均成長率（CAGR）は約 31% に達すると予測される"
+   },
+   {
+    "value": "31",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "アジア太平洋地域は、2024年の世界の量子通信市場の 20% 超を占め、最も速い成長を遂げ、年平均成長率（CAGR）は約 31% に達すると予測される"
+   },
+   {
+    "value": "6",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "中東・アフリカ（MEA）は、2024年の世界の量子通信市場で 6% の市場シェアを占めている"
+   },
+   {
+    "value": "34",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "量子通信業界の上位 7 社である Toshiba、Thales、QuantumCTek Co.、ID Quantique、MagiQ Technologies、Qubitekk、KETS Quantum Security は、2024年の市場の約 34% を占めている"
+   },
+   {
+    "value": "11",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "2024年の市場シェア 11%"
+   },
+   {
+    "value": "33",
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "quote": "2024年の合計市場シェアは33%"
+   },
+   {
+    "value": "34.6",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "quote": "量子暗号の最も人気のあるアプリケーション分野はネットワークセキュリティで、2035年までに34.6%の市場シェアを占めると予想されています"
+   },
+   {
+    "value": "28",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "quote": "量子暗号の最大のユーザーはITと通信セクターで、2035年には市場の28%を占めると予測されています"
+   },
+   {
+    "value": "36",
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "quote": "北米地域市場における量子暗号の市場調査と分析によると、予測期間中に同地域市場は36%以上の市場シェアを占め、世界市場で主導的な地位を確保すると予測されています"
+   },
+   {
+    "value": "36.5",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "quote": "北米は2025年に36.5%の市場シェアを占め、量子通信市場を牽引しました"
+   },
+   {
+    "value": "39.59",
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "quote": "北米：市場シェア39.59％を占める主要地域"
+   },
+   {
+    "value": "38.5",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "Asia Pacificは、Emerging Technologiesとの統合により、グローバル収益の38.5%を占める世界最大の市場シェアを保有しています"
+   },
+   {
+    "value": "62.1",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "ソフトウェアセグメントは、2025年に62.1%のシェアで市場を支配する見込み 5G、IoT、エッジコンピューティングによる量子暗号化の統合により、スケーラブルで将来性のあるセキュリティモデルが開きます"
+   },
+   {
+    "value": "16",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "東芝は2025年に12-16%のシェアを保有しています"
+   },
+   {
+    "value": "41.5",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "北米は、グローバル量子暗号市場を支配し、2025年に41.5%の実質的な収益シェアを獲得し、共同研究開発プロジェクトによって駆動され、イノベーションを加速し、製品を市場投入するスピードを加速しています"
+   },
+   {
+    "value": "81",
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "quote": "米国は、2025年に北米市場シェアの印象的な81%を占めており、データのプライバシーとサイバーセキュリティの脅威に対する懸念が高まっています"
+   },
+   {
+    "value": "39.59",
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "quote": "地域別では、北米が市場シェアの39.59%を占めており、政府の投資と研究開発が活発です"
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%8F%E5%AD%90%E6%9A%97%E5%8F%B7%E5%B8%82%E5%A0%B4-100211",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newscast.jp/smart/news/6945575",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arts-crafts.co.jp/post-29975/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/ja/industry-reports/quantum-cryptography-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/quantum-communication-market-113933",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yano.co.jp/press-release/show/press_id/3928?srsltid=AYCX9vLacGPV5n0V40erQ54_BehQ7DaZxkr18OKC5rkkk-v0ExK_J6ah",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/the%20year%20of%20quantum/the-year-of-quantum-from-concept-to-reality-in-2025_jp_web.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3091605",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd227420.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebnet.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataintelo.com/report/quantum-key-distribution-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "量子暗号通信 市場規模 CAGR",
+   "results": [
+    "https://straitsresearch.com/jp/report/quantum-cryptography-market",
+    "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%8F%E5%AD%90%E6%9A%97%E5%8F%B7%E5%B8%82%E5%A0%B4-100211",
+    "https://www.sdki.jp/reports/quantum-cryptography-market/109002",
+    "https://jp.linkedin.com/pulse/%E9%87%8F%E5%AD%90%E9%80%9A%E4%BF%A1-%E5%B8%82%E5%A0%B4%E3%81%AE%E9%80%B2%E5%8C%96%E3%81%A8146%E3%81%AEcagr2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E6%B3%A8%E7%9B%AE%E3%81%99%E3%81%B9%E3%81%8D%E4%B8%BB%E8%A6%81%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89-gambit-guide-8dnbe",
+    "https://newscast.jp/smart/news/6945575",
+    "https://www.businessresearchinsights.com/jp/market-reports/post-quantum-cryptography-market-122228",
+    "https://www.atpress.ne.jp/news/3091605",
+    "https://www.mordorintelligence.com/ja/industry-reports/quantum-cryptography-market",
+    "https://www.fortunebusinessinsights.com/jp/業界-レポート/量子暗号市場-100211"
+   ]
+  },
+  {
+   "query": "量子暗号通信 市場 シェア 上位 企業",
+   "results": [
+    "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%8F%E5%AD%90%E6%9A%97%E5%8F%B7%E5%B8%82%E5%A0%B4-100211",
+    "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "https://www.arts-crafts.co.jp/post-29975/",
+    "https://www.mordorintelligence.com/ja/industry-reports/quantum-cryptography-market",
+    "https://www.businessresearchinsights.com/jp/market-reports/quantum-communication-market-113933",
+    "https://www.databridgemarketresearch.com/jp/reports/global-quantum-cryptography-market",
+    "https://www.researchnester.jp/industry-analysis/quantum-communication-market/394",
+    "https://www.buffett-code.com/industries/2110904"
+   ]
+  },
+  {
+   "query": "量子暗号通信 市場 前年比 2025",
+   "results": [
+    "https://straitsresearch.com/jp/report/quantum-communication-market",
+    "https://www.fortunebusinessinsights.com/jp/%E6%A5%AD%E7%95%8C-%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88/%E9%87%8F%E5%AD%90%E6%9A%97%E5%8F%B7%E5%B8%82%E5%A0%B4-100211",
+    "https://www.marketresearch.co.jp/insights/quantum-communication-market-straits/",
+    "https://www.yano.co.jp/press-release/show/press_id/3928?srsltid=AYCX9vLacGPV5n0V40erQ54_BehQ7DaZxkr18OKC5rkkk-v0ExK_J6ah",
+    "https://www.gminsights.com/ja/industry-analysis/quantum-communications-market",
+    "https://www.arts-crafts.co.jp/post-29975/",
+    "https://www.mckinsey.com/jp/~/media/mckinsey/locations/asia/japan/our%20insights/the%20year%20of%20quantum/the-year-of-quantum-from-concept-to-reality-in-2025_jp_web.pdf",
+    "https://www.atpress.ne.jp/news/3091605",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r07/html/nd227420.html",
+    "https://www.marketresearch.co.jp/quantum-cryptography-market/"
+   ]
+  },
+  {
+   "query": "quantum key distribution market size CAGR 2025",
+   "results": [
+    "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "https://www.prnewswire.com/news-releases/quantum-key-distribution-market-worth-2-63-billion-by-2030--exclusive-report-by-marketsandmarkets-302369744.html",
+    "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "https://www.linkedin.com/pulse/top-factors-boosting-quantum-key-distribution-qkd-akxme",
+    "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "https://market.us/report/quantum-key-distribution-market/"
+   ]
+  },
+  {
+   "query": "quantum key distribution market share top players percent",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html",
+    "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "https://www.linkedin.com/pulse/study-quantum-key-distribution-qkd-market-offering-data-i2nne",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035"
+   ]
+  },
+  {
+   "query": "quantum key distribution market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.rootsanalysis.com/quantum-key-distribution-market",
+    "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "https://thequantuminsider.com/2025/03/05/space-based-quantum-key-distribution-a-deep-dive-into-qkds-market-map-and-competitive-landscape/",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "https://market.us/report/quantum-key-distribution-qkd-market/",
+    "https://www.datamintelligence.com/research-report/quantum-cryptography-market",
+    "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
+    "https://www.snsinsider.com/reports/quantum-key-distribution-market-8738",
+    "https://nebnet.net/"
+   ]
+  },
+  {
+   "query": "quantum key distribution market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/quantum-key-distribution-market-111470",
+    "https://www.sphericalinsights.com/blogs/top-20-companies-in-global-quantum-key-distribution-market-industry-intelligence-report-by-spherical-insights-2026-2035",
+    "https://www.mordorintelligence.com/industry-reports/quantum-key-distribution-market",
+    "https://www.marketsandmarkets.com/Market-Reports/quantum-key-distribution-qkd-market-80654677.html",
+    "https://www.grandviewresearch.com/industry-analysis/quantum-key-distribution-market-report",
+    "https://finance.yahoo.com/news/quantum-key-distribution-market-report-080800142.html",
+    "https://www.marketresearchfuture.com/reports/quantum-cryptography-market-4836",
+    "https://www.researchnester.com/reports/quantum-key-distribution-market/5812",
+    "https://www.juniperresearch.com/research/iot-emerging-technology/iot-security/quantum-key-distribution-market-report/",
+    "https://www.juniperresearch.com/research/identity-security/security/quantum-key-distribution-market-report/"
+   ]
+  }
+ ],
+ "missing": {}
+}

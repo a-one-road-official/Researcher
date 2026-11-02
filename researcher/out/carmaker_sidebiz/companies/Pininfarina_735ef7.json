@@ -1,0 +1,2706 @@
+{
+ "name": "Pininfarina",
+ "aliases": [
+  "Pininfarina Architecture",
+  "ピニンファリーナ"
+ ],
+ "context": "デザイン受託・建築（伊）",
+ "researched_at": "2026-11-02T14:44:11.965243+00:00",
+ "official_url": "https://www.pininfarina.it",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Key people",
+    "value": "Paolo Dellachà ( CEO )\nGaurav Godbole ( CFO )",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "label": "Number of employees",
+    "value": "700+ (2021)",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "他社向けサービス": [
+   {
+    "quote": "Pininfarina designs the Skywalk and Stargate for the Nitto ATP Finals on behalf of FITP",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "The inauguration of the Engineering Centre of Cambiano, in 2002, represented the decision to reposition the Company, putting engineering services on the market. The internationalization process made a step forward through the establishment of Pininfarina Sverige AB in Sweden, a joint venture with Volvo Cars responsible for producing a new generation of convertible Volvo cars.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "In his current role, Christian directs all engineering services, ensuring that clients—from innovative start-ups to established OEMs—receive customized, high-quality solutions aligned with Pininfarina's exacting standards. His dedication to precision and excellence on every project reflects Pininfarina's ethos, inviting clients to become part of their guiding vision: “we move dreams.”",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": ", and marketing, while also effectively managing relationships with suppliers. Utilizing advanced AR/VR prototyping tools like our interactive buck, Cellula, allows us to convey design concepts early on, providing our clients with a firsthand experience of the finished product.",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "From ideation to prototyping, through to development, we offer a wide range of skills, technologies, and capabilities to meet the diverse needs of our clients.",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina is a 360° design studio. From the enchanting lines of 1930s cars to the extraordinary experiences of today, we have created and continue to create valuable projects and proposals that guide our clients towards the future of mobility, architecture, and product & experience design.",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina is a legendary design house. From ideation to execution, we bring a unique range of competencies and capabilities. Pininfarina through its design services helps its clients to: Envision, Innovate, Enhance and Accelerate.",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "We approach architecture with a unique legacy of experience by combining a holistic and multidisciplinary interpretation of our Clients’ needs with the implementation of the latest technologies and processes, be they applications of parametric design, Design for Manufacturing or life cycle thinking for a greater sustainability and a lesser footprint.",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "We combine beauty and innovation to create product and service experiences that bring impact for our clients, people and the planet. We work at the intersection of beauty and magic, style and interaction, proportions and motion, materials and technology.",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "The synergy of skills between Branding, Architecture, Product & Experience design allows us to offer our clients design solutions that create innovative and immersive retail sales experiences.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Once defined the customer journey the different teams involved in the project share different design proposal. Through cutting edge technologies our clients will experience all the physical and digital milestones of the journey.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina develops one-off and few-off special vehicles for OEMs and automotive brands, integrating identity, design, engineering and execution.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina designs the Skywalk and Stargate for the Nitto ATP Finals on behalf of FITP",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "We envision and anticipate the future by providing stylistic and technical solutions that combine timeless beauty and innovation. We serve our clients throughout the product development cycle, synergistically and efficiently combining all the skills and technologies available within the Pininfarina Group.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "In the domain of UX User Experience and HMI (Human-Machine Interface), we assist our clients in the definition, design, and implementation phases.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Subsequently, we conduct in-depth user and exploratory research, design services, and benchmark activities to understand the perspective of the end and the target market. Inspiration from other design fields is always a part of our process.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina's design services cover the entire creative and product development process, including all the following stages:",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "From a methodological perspective, some aspects are of particular interest to our clients, ensuring the quality of the work developed by the Pininfarina team:",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Among the design services offered by Pininfarina is the possibility to develop and create physical demonstrators of various types, including:",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "The engineering services provided by Pininfarina to its customers are divided into three main areas.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Programs \"Turnkey\"/Work packages",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Over the years, additional distinctive elements have been added to these principles that have always characterized Pininfarina, and have been made available to our clients:",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "“Since the day we first connected with Pascal Raffy and the artisans of BOVET 1822, we felt mutually inspired by the opportunity to create another art form for clients desiring the pinnacle in design and watchmaking. With the unveiling of our first timepiece together later this year, we aim to showcase another step forward in the world of artisanal horology.”",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/design-innovation-and-engineering-brilliance-heart-new-automobili",
+    "pass": 3
+   },
+   {
+    "quote": "On 10 December 2011, Pininfarina announced it would end all automotive production. In truth, production ended in November 2010 with the conclusion of the contract to produce the Alfa Romeo Brera and Spider at the San Giorgio plant.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Following the end of contract manufacturing activities, San Giorgio Canavese is being used to produce spare parts for cars manufactured in the past.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina designs, manufactures, assembles, and tests prototypes and production vehicles under contract for other automakers.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "As of 10 December 2011, Pininfarina announced it would end all mass automotive production with the sale of its 40% stake in the Uddevalla, Sweden plant to Volvo in 2013. In the past, Pininfarina produced cars and car bodies under contract from other automakers. This production includes Pininfarina-designed cars and vehicles designed by others.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "had invested over €20m in Pininfarina design services to support plans for its range of luxury electric cars.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "This includes design and engineering services for the first Pininfarina-branded performance car which is a luxury electric sports car called the",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina was a design contractor for the development of the",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Eurostar refurbishment design contract awarded\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Contract vehicle manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Source-to-Contract",
+    "url": "https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer",
+    "pass": 3
+   },
+   {
+    "quote": "Contract Management",
+    "url": "https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer",
+    "pass": 3
+   },
+   {
+    "quote": "From the west coast of America to the east coast of Australia, we're proud to partner with 26 Automobili Pininfarina retail partners around the world to deliver a bespoke, tailored service to our clients.",
+    "url": "https://www.automobili-pininfarina.com/",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "In the field of yachting, Pininfarina designs vessels that blend high performance, innovation, and beauty, crafting unique sailing experiences. Over the years, Pininfarina has collaborated with numerous shipyards in the design of both motor and sail yachts, redefining their brand identities and introducing new expressive languages.",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the Pininfarina Group is also one of the most prestigious brands in Architecture, with hundreds of projects and dozens of awards to its name.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Designers, engineers, architects, strategists and specialists work together to transform complex ideas into tangible, scalable and recognizable projects. This combination of cultures, markets and disciplines enables the Group to support brands, institutions and industrial partners through high-value innovation and design programs.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Multidisciplinary skills reflected in a broad portfolio of projects.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "multidisciplinary approach",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "solutions capable of generating long-term value for brands, institutions and industrial partners.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "In the 80s, period of market revival, Pininfarina offered clients a more comprehensive design service from a tailor-made centre equipped with facilities to foster creativity. Design activities then extended to other means of transportation and industry: Pininfarina Extra was created in 1986.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Renzo Carli made a decisive contribution to Pininfarina’s expansion from tiny workshop handcrafting one-off models to order, or very limited editions, to its current industrial dimension in a growth process that has gone hand in hand with the boom in car ownership in Italy.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The solutions are aligned with a long-term corporate vision based on environmental, social and economic sustainability. From this perspective, Legality, Integrity, Respect for the environment, Transparency, Social Equity and Value of the person are ethical principles and values which the company intends to continue to inspire.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The Group currently looks to the future with optimism thanks to the encouraging signals coming from the markets, leveraging its most precious resource: around 500 employees in Italy, Germany, China and the United States who work every day with commitment and professionalism to promote the brand, the image of Pininfarina in the world and develop more innovative, sustainable and inclusive solutions.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The Pininfarina Group recognizes the importance of Human Resources, i.e. People who, with their skills, their professionalism and their passion, contribute fundamentally to the achievement of company objectives. This attention on the part of the Group is evident in the principles of the Code of Ethics and even more so in the daily behavior of its people.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The Pininfarina Group recognizes the importance of Human Resources, that is, the People who, with their skills, professionalism, and passion, play a fundamental role in achieving the company's objectives. This focus by the Group is evident in the principles of the Ethical Code and even more so in the daily behaviour of its individuals.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Lucia Morselli, born on July 9, 1956, in Modena, Italy, graduated summa cum laude in Mathematics from Pisa University in 1979 and obtained a Ph.D. in High Mathematics at Sapienza University in Rome, an MBA at Turin University and a Master's degree in Public Administration at Bocconi University of Milan. Since then, she has gained extensive experience in leadership roles across diverse industries.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "She covered also several position as CEO in different industries like telecommunications, shipping, food mechanics and steel.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "SVP BU Brand",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "In 2020 he was appointed to the role of Chief Product and Engineering Officer, guiding the engineering team responsible for the overall technology, while consolidating the strategic partnerships necessary to bring the product to life, allowing the delivery of the first car in 2022.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Gaurav Godbole has built a distinguished career within the Tech Mahindra Group, holding senior finance roles across India, Belgium, and the Netherlands, developing deep expertise in Financial Planning & Analysis (FP&A), finance controllership, and commercial finance, particularly within the Information Technology and Network Services sectors.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Roberta worked at Michelin Italiana Spa, always as accounting and tax manager. Before the beginning of her career, Roberta obtained the Business Administration and Finance Diploma from the SAA – School of Management.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Under his leadership, Battista has executed a rigorous software and product enhancement program, launched its first one-off model (Battista TargAmerica), and completed the concept development of a new derivative (B95), bringing it to full readiness for program kick-off.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "With his mission-driven approach to coachbuilding and product development, and his ability to translate cutting-edge technologies into distinctive mobility solutions, Andrea aims to shape a future where ambitious concepts evolve into exclusive, high-performance, tailor-made products that inspire customers and elevate the brand’s global identity.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Fabio Calorio is the SVP BU Brand at Pininfarina Group.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Previously serving as Head of Global Brand Extension, Fabio leads Pininfarina's brand strategy across various sectors and geographies, aiming to develop innovative and meaningful collaborations. These partnerships are designed not only to enhance the visibility and influence of the Pininfarina brand but also to create a positive impact on businesses and individuals.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Roberto began his managerial career as Personnel Manager in a multinational of precision mechanics, at the end a short internship at a law firm specialized in labor law.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "He then joined Pininfarina as Industrial Relations Manager, during a period of great intensity in labor relations. He immediately dealt with personnel problems, developing innovative agreements and managing relationships.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Davide Fabi directly oversees corporate strategy, collection development, special collaborations, and custom projects, with the goal of establishing Pininfarina Segno as a benchmark in the lifestyle design segment, capable of combining heritage, innovation, and market value.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Paolo Trevisan is Head of Design and Architecture of Pininfarina America. He has been in Miami since 2004, with the task of creating a multidisciplinary design team in the United States. He works closely with Italy, in particular with President Paolo Pininfarina. He is responsible for managing and delivering projects for the American continent.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Samuele is also one of the founders of MlabArchitects, where he developed a wide range of projects and participated in prestigious international competitions – including the tender for the restoration of Livorno Water Customs, winning the first prize in 2009.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Over the years, he focused on combining creative talents and innovative technology to achieve solid and stable goals in the field of automotive, industry business, innovated new mobility and lifestyle experience, aiming to create better life for people through design.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "A visit to the Collection also offers an opportunity to understand how a Pininfarina project takes shape. From the earliest formal ideas to concept development, from the study of proportions to the relationship between aesthetics, function and technology, the guided experience introduces visitors to an approach in which every detail contributes to creating a coherent experience.",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Each element contributes to a broader story: the relationship between",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "and innovation, the continuity between craftsmanship and technology, and the ability to transform form into a recognizable language. The Collection is therefore a place of memory, but also a space in which to understand the vision that guides Pininfarina’s contemporary projects.",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "SCHOLARSHIP OPPORTUNITY",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Branding - Pininfarina",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Design",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Licensing",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Strategy and Brand Design are part of the services that Pininfarina offers to its clients, aiming to create value and build the foundation upon which to develop the design of products and experiences.",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "The brand design activity developed by Pininfarina is a strategic starting point that creates value and differentiation in the market. It stems from integrated skills across various sectors, available within Pininfarina.",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Branding as a strategic tool",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina has collaborated with numerous automotive brands to define their brand identity as well as their product ranges. During the brand definition process, Pininfarina has worked closely with its automotive clients to create strong brand identities to enter the market and secure a good position.",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "The nautical team has a long and lasting experience in branding services. Throughout the years, Pininfarina Nautical has been able to define the brand identity of important yacht brands including Princess. The creation of a new language for Pininfarina Nautical is the core activity for a successful brand, identifying the necessities of its clients.",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "The mission of Pininfarina Architecture is to develop timeless beauty, unaffected by the ever-accelerating changes in society and the world, yet simultaneously embracing them. This beauty, however, is not just an end in itself; it also carries a distinct identity, meaning, and above all, impact. This philosophy is inherited from its automotive origins.",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina at IAA Transportation 2026 in Hannover",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the Pininfarina Group is also one of the most prestigious brands in Architecture, with hundreds of projects and dozens of awards to its name.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Designers, engineers, architects, strategists and specialists work together to transform complex ideas into tangible, scalable and recognizable projects. This combination of cultures, markets and disciplines enables the Group to support brands, institutions and industrial partners through high-value innovation and design programs.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "We are a 360° design studio that, over the years, has completed more than 1,950 projects across Automotive, Architecture, Nautical, Transportation & Mobility, and Product & Experience Design.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "to products, spaces, services and experiences. Each project brings together identity, function and feasibility, with the aim of creating",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "solutions capable of generating long-term value for brands, institutions and industrial partners.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "From the artigianal dimension to the industrial one",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "The Pinin Farina style also conquered the American cinema, with the movie ‹‹Sabrina›› by Billy Wilder, starring Audrey Hepburn, William Holden, Humphrey Bogart and the Nash Healey Spider. In 1955, the Alfa Romeo Giulietta Spider, nicknamed ‹‹fair girl›› by Pinin, was the decisive passage to the industrial dimension (more than 27,000 units manufactured).",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "In 1959 the Ferrari 250 GT Short Wheel Base was born as ‹‹the Ferrari›› epitome. Archetype of the Ferrari-Pininfarina technical-aesthetic process of evolution, it expressed sporty performance and timeless elegance. In 1960 the Pininfarina X was presented: a perfect combination of scientific research with an original and revolutionary shape.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "In the 80s, period of market revival, Pininfarina offered clients a more comprehensive design service from a tailor-made centre equipped with facilities to foster creativity. Design activities then extended to other means of transportation and industry: Pininfarina Extra was created in 1986.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "In 1961, after 50 years of activity, Pininfarina turned over the direction of the firm to his son, Sergio, and his son-in-law, Renzo Carli. This change, nonetheless, assured the continuation of Pinin’s work, since they took place as designers as well as industrial managers.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Renzo Carli made a decisive contribution to Pininfarina’s expansion from tiny workshop handcrafting one-off models to order, or very limited editions, to its current industrial dimension in a growth process that has gone hand in hand with the boom in car ownership in Italy.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The Pininfarina Group, also by virtue of its industrial past, has maintained a high sensitivity to environmental issues, adopting rigid criteria of conduct to protect the environment, formalized and disseminated within its Code of Ethics and maintaining a proactive approach over the years in monitoring its performance in this area.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "International Yacht and Aviation Award",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "American Architecture Award",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "International Architecture Award",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "International Yacht and Aviation Design Awards",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Stadium Innovation Award at the Global Sports Forum",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "SVP BU Architecture & Product Design",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Born in Turin and holding a Master’s Degree in Aerospace Engineering from Politecnico di Torino, Andrea Crespi began his career at Maserati S.p.A. in 2011, focusing on vehicle performance, energy management, and fleet emissions compliance.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "With a business approach honed by his international project management experience and an MBA in 2014, Giovanni is at the helm of the Architecture division to expand the company’s range of activities in design and architecture, reinterpreting the company’s philosophy and proposing a new perspective that equates impact with the combination of beauty and technology.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "He then joined Pininfarina as Industrial Relations Manager, during a period of great intensity in labor relations. He immediately dealt with personnel problems, developing innovative agreements and managing relationships.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Corrado is an internationally experienced executive with extensive expertise in legal affairs, corporate governance, and compliance within publicly traded multinational companies in the automotive and industrial automation sectors. He built his career as a corporate lawyer, first at FCA and later at Comau, where he held increasingly senior roles over many years.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "A keen outdoor sports enthusiast, in his spare time he enjoys cycling, from road cycling to off-road trails.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Paolo Trevisan is Head of Design and Architecture of Pininfarina America. He has been in Miami since 2004, with the task of creating a multidisciplinary design team in the United States. He works closely with Italy, in particular with President Paolo Pininfarina. He is responsible for managing and delivering projects for the American continent.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "In his spare time Christian is keen on sports, interested in arts and chairing a NGO running day-care centers.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Mr. Li boasts a profound understanding of the Italian context, having studied from Politecnico di Torino and graduated in double degree of management and architecture.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "The Collection is an exhibition space that reflects the evolution of the company from its foundation to the present days, constantly aware of its roots and of the culture of its products and quality.",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Walking through the Collection means seeing design as a process, rather than simply as a final outcome. The cars, models and materials on display illustrate the journey from idea to form, showing how Pininfarina’s identity has been shaped over time through research, experimentation and the ability to interpret the evolution of the automobile and industrial products.",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "and innovation, the continuity between craftsmanship and technology, and the ability to transform form into a recognizable language. The Collection is therefore a place of memory, but also a space in which to understand the vision that guides Pininfarina’s contemporary projects.",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility / Transportation",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Mobility & Transportation",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "ARCHITECTURE SUMMER SCHOOL",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Lenovo Formula 1 Trophy",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Super Laminar Pressure Series",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina Academy is a series of benchmark programs in the field of advanced design education. We aim to inspire and prepare the next generation of designers, with conceptual and practical tools to address the challenges of the 21st century with creativity, competence and innovative vision.",
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/brand-design",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "Limited series",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/wind-tunnel",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/brand-licensing",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "In the automotive sector, Pininfarina covers the entire value chain, from vehicle styling to complete development including modeling, virtual reality, show cars, innovative packaging solutions at the system and component levels, prototype development, and small series production.",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Seats for series production and sport derivatives, including metal structures",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series - Pininfarina",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina is a leader in the speciality car sector, providing integrated services for the design, development, and production of unique, small series, and limited edition vehicles",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Limited series coachbuilding",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "For larger low-volume programs, coachbuilding capabilities connect with Pininfarina’s limited-series production service, where processes, components, supply chain and production organization play a more structured role.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "Baku City Circuit Operations Company Reveals Trophy for Formula 1 Qatar Airways Azerbaijan Grand Prix 2024",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "Formula 1 Lenovo Chinese Grand Prix 2024",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "Lusail international circuit reveals trophy for Formula 1 Qatar Airways Grand Prix 2023",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news/pininfarina-at-the-monaco-yacht-show",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news/100-years-of-sergio-pininfarina-at-salone-auto-torino-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news/pininfarina-returns-to-the-monaco-yacht-show",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news/pininfarina-at-iaa-transportation-2026-in-hannover",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/news/the-first-jas-supercar-tensei-rebirth-of-an-icon",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive has always been Pininfarina's core activity, expressed through a comprehensive range of services for the industry and clients. Unique skills in design, engineering, and small-series construction integrate to shape the future.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering development for one-off, small series, Limited Series",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "similar to those of regular production cars from which the special series derives.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "One-Off Vehicles and Limited Series",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina’s longstanding automotive experience finds one of its most complete expressions in programs that combine advanced design with specialist manufacturing expertise. Its capabilities in automotive design and coachbuilding support the development of one-off, few-off and limited-series vehicles, ranging from bespoke and",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "- to the definition of a new brand or model, the development of an automotive concept, the creation of a show car or running prototype, the evolution of an existing platform, and the development of a special vehicle or limited series.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "At its height in 2006, the Pininfarina Group employed 2,768 people, with subsidiary company offices throughout Europe, Morocco, and the United States. As of 2012, with the end of the automotive production series, employment has shrunk to 821. Pininfarina is registered and publicly traded on the Milan Stock Exchange,",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pinin Farina also built the bodies for the limited-series",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pinin Farina Coupé 2 +2 Series II",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "& Spider 916 series",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Series 2",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Cabriolet tipo Bocca – a series of six cars made for the Bocca brothers, Lancia dealers in Biella, Italy.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Cadillac Series 62",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "– series 3 redesign",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "80' Series",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Alfa Romeo Giulietta: 750 and 101 series Giuliettas and Giulias, 1954–1965",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Auto industry: Davide Arcangeli (designer of BMW 5 Series (E60))\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Magnum 80' Series\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Limited Series",
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Heidfeld makes first appearance as Development Driver for Automobili Pininfarina PF0 bringing Formula 1 and Formula E experience from race track to road",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina has today made a series of power-packed announcements from its new Munich headquarters that will see it strengthen its management team, secure cutting-edge, world-beating electric powertrain technology, and put Formula 1 and Formula E experience in the PF0 hypercar driving seat.",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "In 1946 Renzo Carli joined Shell’s Technical Servicing Division.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "With a business approach honed by his international project management experience and an MBA in 2014, Giovanni is at the helm of the Architecture division to expand the company’s range of activities in design and architecture, reinterpreting the company’s philosophy and proposing a new perspective that equates impact with the combination of beauty and technology.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Davide Fabi directly oversees corporate strategy, collection development, special collaborations, and custom projects, with the goal of establishing Pininfarina Segno as a benchmark in the lifestyle design segment, capable of combining heritage, innovation, and market value.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Business Development and Sales",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Before joining Pininfarina, Mr. Hanqing Li combines extensive experience in the world of design and engineering, has been taking increasingly responsible positions as Branch Manager, China Regional Sales Director and General manager in both Italian and Chinese markets within sector-leading companies.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Turbulence flow in laminar condition < 0.74%",
+    "url": "https://pininfarina.it/services/wind-tunnel",
+    "pass": 1
+   },
+   {
+    "quote": "Use of Pininfarina name and trademark in the press releases as well as in the sales and marketing materials related to the project prepared by the Client",
+    "url": "https://pininfarina.it/services/brand-licensing",
+    "pass": 1
+   },
+   {
+    "quote": "The synergy of skills between Branding, Architecture, Product & Experience design allows us to offer our clients design solutions that create innovative and immersive retail sales experiences.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "The sales experience doesn't just involve products; it encompasses all moments and touchpoints in the relationship between a brand and its audience. Each of these has its design component, both physical and digital, that Pininfarina can develop.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage on Pininfarina interior design expertise to realize innovative and immersive retail experiences codified through digital and physical design, engaging the consumer through the five senses, and communicating the brand values. Realization of iconic flagship stores designed to extend the brand experience while increasing the reach, traffic, and sales.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "A coachbuilt vehicle can represent the most advanced expression of a brand language, introduce a new product direction or support a program aimed at the most exclusive segment of the customer base.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina is now the majority shareholder for Signature",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "New offices for the Shanghai division of Pininfarina",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "The name was given a ‘world premiere’ reveal to a select group of customers at an event run by JAS Asian Sales Partner SPS Global Ltd at Fuji Raceway in November and can now be shared with the rest of the world.",
+    "url": "https://pininfarina.it/news/the-first-jas-supercar-tensei-rebirth-of-an-icon",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(76.06%)",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "acquired 76.06% of Pininfarina S.p.A. for about €168 million.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "and Pininfarina to produce a new Volvo convertible that would be sold in Europe and the United States. The JV was owned 60% by Pininfarina and 40% by Volvo.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "who already announced their plans to invest, to together invest €100 million. Funding would come through the sale of stock to other investors. The Pininfarina family was willing to reduce its share from 55% to 30%, which would still be enough to secure a controlling interest.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "that would require the family to sell its stake in the company. The agreement was made after Pininfarina's value dropped 67% during 2008, with a market capitalization of about €36 million. It had a total debt of €598 million at the end of November. Of that amount, €555 million was the subject of the debt restructuring agreement that was agreed on with a consortium of banks.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "to find a buyer for its 50.6% stake in Pininfarina per the debt restructuring agreement reached in December.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina also saw its net revenue increase by a million.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ", has a 76% stake in the holding company Pincar for €25.3 million. The",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "As of 10 December 2011, Pininfarina announced it would end all mass automotive production with the sale of its 40% stake in the Uddevalla, Sweden plant to Volvo in 2013. In the past, Pininfarina produced cars and car bodies under contract from other automakers. This production includes Pininfarina-designed cars and vehicles designed by others.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Divisions and",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(33.33%)",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(58.86%)",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ", Head of UX and ID Sales and Global Brand Extension at Pininfarina. “Our unwavering drive toward the future sees the ideal collaboration with Globics and its unique collection of hybrid watches, where classic aesthetics meld with a cutting-edge technological core.”",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Founded in Turin in 1930",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "In 1930, he left “Stabilimenti Farina” and founded” Carrozzeria Pinin Farina”.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "The Group currently looks to the future with optimism thanks to the encouraging signals coming from the markets, leveraging its most precious resource: around 500 employees in Italy, Germany, China and the United States who work every day with commitment and professionalism to promote the brand, the image of Pininfarina in the world and develop more innovative, sustainable and inclusive solutions.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Employees",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "By encouraging the training of collaborators and employees through the provision of targeted courses. The processes implemented to strengthen training are also formalized within the \"Management of training courses\" procedure which represents an integral part of the Quality and Environment Management System of Pininfarina S.p.A.",
+    "url": "https://pininfarina.it/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Davide Loris Amantea, known as Dave, is an Italian designer born and raised in Turin, where he developed a deep passion for automobiles and for Pininfarina from an early age. His career was built from the ground up: mechanical studies at ITIS Pininfarina, prototype modeling, painting, and CAS design, a path shaped by hands-on experience long before sketches and digital tools.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Samuele is also one of the founders of MlabArchitects, where he developed a wide range of projects and participated in prestigious international competitions – including the tender for the restoration of Livorno Water Customs, winning the first prize in 2009.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "In his current role, Christian directs all engineering services, ensuring that clients—from innovative start-ups to established OEMs—receive customized, high-quality solutions aligned with Pininfarina's exacting standards. His dedication to precision and excellence on every project reflects Pininfarina's ethos, inviting clients to become part of their guiding vision: “we move dreams.”",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Low-fidelity prototypes help assess interaction flows and functional logic, while high-fidelity interactive prototypes enable the evaluation of visual design, motion and real-time 3D content.",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "A strategic and precision tool for aerodynamic evaluation.",
+    "url": "https://pininfarina.it/services/wind-tunnel",
+    "pass": 1
+   },
+   {
+    "quote": "Investing in Design, hence making a strong statement towards the value of company’s vision, products and business purpose, which represents a benefit for customers, stakeholders and investors.",
+    "url": "https://pininfarina.it/services/brand-licensing",
+    "pass": 1
+   },
+   {
+    "quote": "Conceptual Evaluation",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Packaging and donor car evaluation",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": "Physical and digital models support the evaluation of proportions, ergonomics, surfaces and details. Depending on the program, the process can include functional prototypes, aerodynamic checks, validation and support for build activities.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "The UI design process starts with initial thematic design concepts and progresses to production design. Through design sprints, we create various mock-ups and prototypes for the evaluation and usability testing of proposed solutions.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and donor car evaluation",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Design shapes the world, and this is what Pininfarina, one of the leading global players in the field of design, has been doing all long. The philosophy of our design originates from the Founder, Battista Pinin Farina. His work has always combined aesthetic choices with technical reasoning in a constant quest for beauty and elegance, aimed at envisioning the future.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "From the company’s founder Pinin to his son Sergio, and today to the designers working in our Design Centres in Italy, the United States, and China, Pininfarina's distinctive trait throughout over nine decades of history is the ability to \"design the future,\" creating emotions.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "A combination of virtual and physical evaluation supports the project from early exploration through surface development and the consolidation of technical solutions. Pininfarina can contribute across several coordinated phases or deliver specific work packages, integrating with the client’s internal teams and existing suppliers.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina develops and builds physical models for the presentation, evaluation and validation of new automotive concepts.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ", Turin, Italy. The company was founded by",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ", in 1928, he founded \"Carrozzeria Pinin Farina\" with financial help from his wife's family and",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "ended automobile production, but the company had 400 employees building 150 bodies monthly. The war effort against the Allies brought work making ambulances and searchlight carriages.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "It started in 1951 with a meeting at a restaurant in",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Starting in the mid-1960s, Pininfarina started investing in the science of automotive design, a strategy to differentiate itself from the other Italian coachbuilders.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "was completed. The project was started in 1966. When it opened, it was the first wind tunnel with the ability to test full-sized cars in Italy and one of the first in the world with this ability.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "), and the Marsiaj family (founders of the",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "who already announced their plans to invest, to together invest €100 million. Funding would come through the sale of stock to other investors. The Pininfarina family was willing to reduce its share from 55% to 30%, which would still be enough to secure a controlling interest.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "In 2010 Pininfarina Automotive Engineering (Shanghai) Co., Ltd was founded in Jiading by Silvio Angori with Michele Straniero serving as first General Manager",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Opened in 1958 with nearly 1,000 employees, by 1960 output exceeded 11,000 car bodies.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina opened its third manufacturing plant in 1997. Currently, Pininfarina leases the plant and 57 employees to the",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2021, Pininfarina had more than 700 employees.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(named after company founder Battista 'Pinin' Farina and originally codenamed PF0).",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ". garage24.net",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Start-Ups Race to Produce 'Green' Cars\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Information for Investors",
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ford’s Garage Signs Multi-Unit Franchise Deal in Iowa",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   },
+   {
+    "quote": "Paolo Dellachà, CEO of Automobili Pininfarina, is tasked with finally fulfilling the dream of founder Battista ‘Pinin’ Farina",
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "pass": 3
+   },
+   {
+    "quote": "As a result, Dellachà is now facing the monumental task of making good on the dream of company founder Battista ‘Pinin’ Farina, who always wanted his namesake",
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "The Group’s core business is design and engineering services, where Pininfarina can leverage the strength of its brand across different sectors and its undisputed reputation in automotive design, together with outstanding technical know-how and specialized expertise in specific segments of the industrial engineering services value chain, including bespoke vehicle production and aerodynamics.",
+    "url": "https://pininfarina.it/about/our-group",
+    "pass": 1
+   },
+   {
+    "quote": "In 1959 the Ferrari 250 GT Short Wheel Base was born as ‹‹the Ferrari›› epitome. Archetype of the Ferrari-Pininfarina technical-aesthetic process of evolution, it expressed sporty performance and timeless elegance. In 1960 the Pininfarina X was presented: a perfect combination of scientific research with an original and revolutionary shape.",
+    "url": "https://pininfarina.it/about/heritage",
+    "pass": 1
+   },
+   {
+    "quote": "BMW MINI JOHN COOPER WORKS GP CARBON SPATS",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Pininfarina Gran Lusso Coupè",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Internal Auditing and Risk Management",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "After graduation at Politecnico of Milano, Italy, he started to work in Ferrari S.p.A. in 2000, first serving as CAE Engineer. He went through several technical roles, such as Road-Testing Engineer, Concept Design Engineer and Innovation Manager, working on several projects and programs, such the development of the first four wheel drive powertrain.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Davide Fabi directly oversees corporate strategy, collection development, special collaborations, and custom projects, with the goal of establishing Pininfarina Segno as a benchmark in the lifestyle design segment, capable of combining heritage, innovation, and market value.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Krinner joined Pininfarina Deutschland GmbH in 2023 as Managing Director – Finance",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Customs audit certificate",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "Customs Audit Certificate (Valid for Pininfarina Headquarter in Cambiano)",
+    "url": "https://pininfarina.it/about/certifications",
+    "pass": 1
+   },
+   {
+    "quote": "With advancements in digital modeling, Pininfarina has also embraced virtual reality (VR) and augmented reality (AR) technologies. These tools enable immersive experiences, allowing designers, engineers, and clients to virtually enter and interact with virtual vehicle models, providing valuable feedback and enhancing collaboration.",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Gran Lusso Coupè",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "The quality, timeless design and beauty of a Design by Pininfarina project appeal to a global audience of brand-conscious users.",
+    "url": "https://pininfarina.it/services/brand-licensing",
+    "pass": 1
+   },
+   {
+    "quote": "The sales experience doesn't just involve products; it encompasses all moments and touchpoints in the relationship between a brand and its audience. Each of these has its design component, both physical and digital, that Pininfarina can develop.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the relationship between a brand and its audience to identify the messages to communicate through design. Identify spatial and local constraints.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "A coachbuilt vehicle can represent the most advanced expression of a brand language, introduce a new product direction or support a program aimed at the most exclusive segment of the customer base.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Italian excellence takes the helm: GM Danilo Magnisi to present the future of Austin Parker with Unica and Iconica - Design by Pininfarina - at Cannes Yachting Festival",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "1984 HONDA HP-X Concept Car Makes North America Debut at 2024 Pebble Beach Concours d'Elgance",
+    "url": "https://pininfarina.it/news",
+    "pass": 1
+   },
+   {
+    "quote": "; Piero Ferrari,",
+    "url": "https://pininfarina.it/news/100-years-of-sergio-pininfarina-at-salone-auto-torino-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Vice Chairman of Ferrari",
+    "url": "https://pininfarina.it/news/100-years-of-sergio-pininfarina-at-salone-auto-torino-2026",
+    "pass": 1
+   },
+   {
+    "quote": "The occasion also marked the opening of the photographic exhibition ‘Sergio Pininfarina. Beyond Time’ and a special display of Ferrari models designed by Pininfarina, bringing together the man, his vision and some of the automobiles that defined an extraordinary chapter in the history of design.",
+    "url": "https://pininfarina.it/news/100-years-of-sergio-pininfarina-at-salone-auto-torino-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Meaning ‘rebirth’ in Japanese, the name underlines the project’s philosophy of creating an ultra-modern supercar reinterpretation based on the DNA of the first-generation Honda NSX and remaining true to the characteristics that made it an icon.",
+    "url": "https://pininfarina.it/news/the-first-jas-supercar-tensei-rebirth-of-an-icon",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Gran Lusso Coupè",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari partnership",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina is employed by a wide variety of automobile manufacturers to design vehicles. These firms have included long-established customers such as",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Enzo Ferrari",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "recalled, \"It is not difficult to imagine how I felt that afternoon when my father, without taking his eyes off the road for one moment, told me his decision as we drove back to Turin: \"From now on you'll be looking after Ferrari, from A to Z. Design, engineering, technology, construction—the lot!\"—I was over the moon with happiness.\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Since that meeting, a 61-year relationship endured where the only road-going production Ferrari not designed by Pininfarina was the 1973",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Their relationship was so close that Pininfarina became a partner of Ferrari in \"Scuderia Ferrari SpA SEFAC\", the organization that ran Ferrari's race team from 1961 until 1989,",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pinin was a vice president of Ferrari,",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "and Sergio later sat on Ferrari's board of directors.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari F12berlinetta",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": ", the last model entirely penned by Pininfarina, while Centro Stile Ferrari has designed each car since 2013's",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "LaFerrari",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Piero Ferrari",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Statutory Auditors: Nicola Treves (president), Margherita Spaini, Giovanni Rayneri.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "the same year Pininfarina was first listed on the Stock Exchange in Milan. Automotive production ended at San Giorgio with the conclusion of the Ford production in July 2010 and the Alfa Romeo production in November 2010.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari Mythos",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Adriano Rabbone 1950s, Ferrari Inter, Lancia B24, Nash-Healey Pininfarina",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari 275 GTB",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari 512S",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari 365 GTC/4",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari Modulo",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari Pinin",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari Testarossa",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Ferrari Mondial",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Roberto Ferrari",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan owner Investindustrial joins Porsche, Hyundai, and ...",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "... of Rimac's tech can be found in Aston Martin, Automobili Pininfarina, Hyundai, Kia, Koenigsegg, and naturally, Porsche autos.",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina strengthens management team with ex-Porsche Mission E Engineering Project Lead Christian Jung joining as Chief Technical Officer",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Exquisite form, unprecedented performance and pure electrified power combine to create a new paradigm in luxury.",
+    "url": "https://www.automobili-pininfarina.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ford’s Garage Signs Multi-Unit Franchise Deal in Iowa",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   },
+   {
+    "quote": "GT3 RS for the Whole Family – Micro & Porsche Launch Three Exclusive Micromobility Products",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   },
+   {
+    "quote": "Audi and tfk Launch the Exclusive tfk mono3 Audi Edition Pushchair",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   },
+   {
+    "quote": "Bugatti",
+    "url": "https://imglicensing.com/brands/pininfarina/",
+    "pass": 3
+   },
+   {
+    "quote": "All‑New BUGATTI Eyewear Collection Debuts at SILMO Paris 2023",
+    "url": "https://imglicensing.com/brands/pininfarina/",
+    "pass": 3
+   },
+   {
+    "quote": "His first job after university was with Ferrari, in 2000. There, he worked on vehicle dynamics simulation, before moving into the testing department. He had a hand in the F430, and the 612 Scaglietti, and worked on the all-wheel drive system of the FF, before taking a job at Maserati.",
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Leeve Professional Coffee Machines per Helvacioglu",
+    "url": "https://pininfarina.it/about/awards",
+    "pass": 1
+   },
+   {
+    "quote": "Each vehicle requires a digital language that reflects its identity. Pininfarina develops tailored visual and interaction concepts, translating the brand's character into typography, transitions, feedback and real-time 3D content.",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "Pininfarina places great emphasis on the precision and attention to detail required in modeling. Every curve, line, and surface is meticulously crafted to ensure it aligns with the design vision and functional requirements. Iterative feedback loops and adjustments are common during this stage to achieve the right balance between aesthetics, aerodynamics, and practicality.",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "With advancements in digital modeling, Pininfarina has also embraced virtual reality (VR) and augmented reality (AR) technologies. These tools enable immersive experiences, allowing designers, engineers, and clients to virtually enter and interact with virtual vehicle models, providing valuable feedback and enhancing collaboration.",
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "pass": 1
+   },
+   {
+    "quote": "Levee Professional Coffee Machines",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Costa Coffee",
+    "url": "https://pininfarina.it/services/design",
+    "pass": 1
+   },
+   {
+    "quote": "Levee Professional Coffee Machines",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Costa Coffee",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Within the production scope, Pininfarina integrates teams from Production, Quality, Process Engineering, Purchasing, Maintenance, and Logistics, aiming to achieve the best results in terms of quality, costs, and timing.",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": ", Sweden. As of 31 December 2011, the termination of this agreement would result in a 30 million euros fee paid to Pininfarina.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina designed the Costa Coffee CEM-200 Marlow Self-Serve Espresso Bar.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pininfarina S.p.A. Annual Financial Report\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina Annual Report",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(fee required)",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "2010 annual report p13",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "2011 annual report p69",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina Annual Report 1999–2005",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina 2006–2010 Annual Reports",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Coffee Vending Machine Debuts at New York NRF Conference\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Annual financial reports - Pininfarina",
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Financial Reports",
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "“We want to make the customer feel special,” Dellachà says. “It’s a limited production car, but each single one of them will be bespoke. There are, of course, endless possibilities just in terms of premium colours and materials, but still: we are Pininfarina. Pininfarina has been making one-offs [for decades] so we can go up to the level of a one-off if a client wants it.”",
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "pass": 3
+   }
+  ],
+  "部品・技術の供給": [
+   {
+    "quote": "After graduation at Politecnico of Milano, Italy, he started to work in Ferrari S.p.A. in 2000, first serving as CAE Engineer. He went through several technical roles, such as Road-Testing Engineer, Concept Design Engineer and Innovation Manager, working on several projects and programs, such the development of the first four wheel drive powertrain.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": "Andrea joined Ricardo plc in the UK in 2016 as Chief Engineer, focusing on hybrid and EV architecture programs and advancing global business development. In 2017, he moved to Aston Martin Lagonda plc as Electrification Manager, with the mission of establishing the brand’s electrification roadmap and leading high-voltage powertrain concept development for future hybrid and mid-engine vehicles.",
+    "url": "https://pininfarina.it/about/team",
+    "pass": 1
+   },
+   {
+    "quote": ", and marketing, while also effectively managing relationships with suppliers. Utilizing advanced AR/VR prototyping tools like our interactive buck, Cellula, allows us to convey design concepts early on, providing our clients with a firsthand experience of the finished product.",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "A key decision in HMI design is determining which functions should be assigned to physical controls and which to digital displays. Instrument clusters, infotainment systems and head-up displays are considered alongside switches, surfaces and other cockpit controls, taking into account ergonomics, reachability and driver attention.",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "transportation systems",
+    "url": "https://pininfarina.it/services/uihmi",
+    "pass": 1
+   },
+   {
+    "quote": "In the automotive sector, Pininfarina covers the entire value chain, from vehicle styling to complete development including modeling, virtual reality, show cars, innovative packaging solutions at the system and component levels, prototype development, and small series production.",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Body-in-white Structures for the vehicles of today and tomorrow",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient structures in steel, aluminum and fiber reinforced materials",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Modular design of frame and body structures",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Weight optimization of components in different materials",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Design of intrusion-resistant structures",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Development of components on all types of surfaces, from plastic to leather",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Seats for series production and sport derivatives, including metal structures",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Design of the components in sustainable materials, including virtual validation",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Light and sight including cleaning systems",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative modular roof systems",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Mirror systems with integrated functions",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Manual and electric opening and closing systems",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "Development of design-related component concepts",
+    "url": "https://pininfarina.it/services/engineering",
+    "pass": 1
+   },
+   {
+    "quote": "The sales experience doesn't just involve products; it encompasses all moments and touchpoints in the relationship between a brand and its audience. Each of these has its design component, both physical and digital, that Pininfarina can develop.",
+    "url": "https://pininfarina.it/services/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse for components to support construction and assembly",
+    "url": "https://pininfarina.it/services/limited-series",
+    "pass": 1
+   },
+   {
+    "quote": "The project can involve proportions, bodywork, surfaces, interiors, materials and details, building an autonomous identity while respecting the technical architecture. Some elements of the original platform may be preserved, while dedicated components and design features are developed for the new vehicle.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Package, hard points, structure, opening systems, visibility, cooling, aerodynamics and component interfaces guide the design from the earliest stages. Defining these constraints in advance helps control the impact of formal decisions on engineering, timing and execution.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "Concept, surface development and feasibility assessment translate the design direction into progressively verifiable data. Design and engineering coordinate components, interfaces and functional requirements through successive review and approval stages.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "The uniqueness of the result still requires controlled data, identifiable components and defined quality criteria. Even a single vehicle must ensure consistency between concept, development, assembly and final configuration.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "A few-off applies the same project to an extremely limited number of units. The vehicles share architecture, surfaces and main components, while retaining opportunities for individual configuration through colors, materials, finishes and details.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "For larger low-volume programs, coachbuilding capabilities connect with Pininfarina’s limited-series production service, where processes, components, supply chain and production organization play a more structured role.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "This integration makes it possible to assess buildability, component availability, assembly sequences and acceptance criteria in advance. Configuration control and part traceability help maintain consistency between project data and the final vehicle.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "The service can be structured as an integrated path or as a specialist contribution within a client-led program.",
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "pass": 1
+   },
+   {
+    "quote": "The car, based on the principles of the original NSX, will feature a Pininfarina-styled carbon fibre body and interior.",
+    "url": "https://pininfarina.it/news/the-first-jas-supercar-tensei-rebirth-of-an-icon",
+    "pass": 1
+   },
+   {
+    "quote": "\"Functional demonstrators\" with functional features defined based on the client's specifications and required performance. Construction can be based on a chassis developed and built specifically by Pininfarina or using a rolling chassis or electric skateboard provided by the client.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "3D Additive Shop",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "In-depth knowledge and use of the most suitable materials such as composites, carbon, aluminium",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Development and validation of customized components on small volumes",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive engineering supports the design process through vehicle architecture definition, package studies, design feasibility and component integration. Solutions are progressively assessed against structural requirements, aerodynamics, materials, manufacturing technologies and target performance.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "A combination of virtual and physical evaluation supports the project from early exploration through surface development and the consolidation of technical solutions. Pininfarina can contribute across several coordinated phases or deliver specific work packages, integrating with the client’s internal teams and existing suppliers.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "The service may include vehicle conception, assessment of the donor vehicle or technical platform, design development, feasibility studies, engineering, material selection and validation of dedicated components. Technologies and production processes are configured according to the required performance, level of customization and intended volumes.",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "New infrastructure and expansion",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Debt and restructure",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Debt and restructure subsection",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "monocoque",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina made the first of several moves to raise capital and restructure its enormous debt.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "The Grugliasco sale did not include an adjacent structure that houses the wind tunnel.",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "testing. More than 200 components were designed especially for the car, including the engine, drivetrain, and other components modified from the original Enzo Ferrari. The",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "The car has solar panels on the roof and the nose, while its battery pack is said to last up to",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "– Roof structure only",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "– Roof Structure engineering only",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "(pronounced \"B Zero\"). The four-seat hatchback features a solid-state lithium-polymer battery, supercapacitors, and a roof-integrated solar panel to achieve a range of",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Nerozzi, Barbara, ed. (January–February 1992). \"The Suppliers\".",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pininfarina 'Battista' supercar will pack 1,900-hp all-electric powertrain\"",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Components",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Land Systems",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Component Manufacturing",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Battery electric vehicle manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Convertible top suppliers",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Head e-Powertrain Architecture and Integration",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina | Press release | Automobili Pininfarina Powers up With New Global Headquarters, Management Team Additions and Major EV Technology Supply Deal",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina Powers up With New Global Headquarters, Management Team Additions and Major EV Technology Supply Deal",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Rimac to supply high performance EV powertrain and battery technology for new Automobili Pininfarina PF0 hypercar",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina has today made a series of power-packed announcements from its new Munich headquarters that will see it strengthen its management team, secure cutting-edge, world-beating electric powertrain technology, and put Formula 1 and Formula E experience in the PF0 hypercar driving seat.",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Automotive Design and Engineering | Pininfarina — Automotive Design and Engineering | Pininfarina Pininfarina https://pininfarina.it > automotive",
+    "url": "https://pininfarina.it/sectors/automotive",
+    "pass": 3
+   },
+   {
+    "quote": "Design Innovation and Engineering Brilliance at the Heart of ... — Design Innovation and Engineering Brilliance at the Heart of ... Automobili Pininfarina https://www.automobili-pininfarina.com > ...",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/design-innovation-and-engineering-brilliance-heart-new-automobili",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina - Wikipedia — Pininfarina - Wikipedia Wikipedia https://en.wikipedia.org > Pininfarina",
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina | LinkedIn — Pininfarina | LinkedIn LinkedIn India https://in.linkedin.com > pininfarina",
+    "url": "https://in.linkedin.com/company/pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina continues to create the vehicles of tomorrow — Pininfarina continues to create the vehicles of tomorrow DesignWanted https://designwanted.com > pininfarin...",
+    "url": "https://designwanted.com/pininfarina-automotive-design-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual financial reports - Pininfarina — Annual financial reports - Pininfarina Pininfarina https://pininfarina.it > investor-relations",
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina : Revenue , Competitors, Alternatives — Automobili Pininfarina : Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Aut...",
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina S.p.A. (PINF.MI) Valuation Measures & Financial ... — Pininfarina S.p.A. (PINF.MI) Valuation Measures & Financial ... Yahoo Finance https://finance.yahoo.com > PINF.MI",
+    "url": "https://finance.yahoo.com/quote/PINF.MI/key-statistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina Powers up With New Global ... — Automobili Pininfarina Powers up With New Global ... Automobili Pininfarina https://www.automobili-pininfarina.com > ...",
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina Digitalizes Procurement with JAGGAER — Pininfarina Digitalizes Procurement with JAGGAER jaggaer https://www.jaggaer.com > press-release",
+    "url": "https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina Deutschland GmbH — Pininfarina Deutschland GmbH keytobavaria.com https://www.keytobavaria.com > pini...",
+    "url": "https://www.keytobavaria.com/company-details/pininfarina-deutschland-gmbh-27739",
+    "pass": 3
+   },
+   {
+    "quote": "Automobili Pininfarina | Where Dream Cars Become Reality — Automobili Pininfarina | Where Dream Cars Become Reality Automobili Pininfarina https://www.automobili-pininfarina.com",
+    "url": "https://www.automobili-pininfarina.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina - LinkedIn — Pininfarina - LinkedIn LinkedIn https://www.linkedin.com > pininfarina",
+    "url": "https://www.linkedin.com/company/pininfarina/",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina : We move dreams — Pininfarina : We move dreams Pininfarina https://pininfarina.it",
+    "url": "https://pininfarina.it/",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina and Globics Technology Announce Global License ... — Pininfarina and Globics Technology Announce Global License ... Licensing International https://licensinginternational.org > news",
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - Automobili Pininfarina — Partners - Automobili Pininfarina Automobili Pininfarina https://www.automobili-pininfarina.com > ...",
+    "url": "https://www.automobili-pininfarina.com/partners/bovet",
+    "pass": 3
+   },
+   {
+    "quote": "Pininfarina - IMG Licensing — Pininfarina - IMG Licensing IMG Licensing https://imglicensing.com > Brands",
+    "url": "https://imglicensing.com/brands/pininfarina/",
+    "pass": 3
+   },
+   {
+    "quote": "Karma Automotive And Pininfarina Form Partnership — Karma Automotive And Pininfarina Form Partnership PR Newswire https://www.prnewswire.com > karma...",
+    "url": "https://www.prnewswire.com/news-releases/karma-automotive-and-pininfarina-form-partnership-300778195.html",
+    "pass": 3
+   },
+   {
+    "quote": "Canada's First Pininfarina Battista Was Hand Delivered By ... — Canada's First Pininfarina Battista Was Hand Delivered By ... Autostrada Magazine https://autostradamagazine.com > pao...",
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "pass": 3
+   },
+   {
+    "quote": "Back to its roots. Pininfarina has been a coachbuilder for ... — Back to its roots. Pininfarina has been a coachbuilder for ... Facebook https://www.facebook.com > ... > Pininfarina > Videos",
+    "url": "https://www.facebook.com/PininfarinaSpA/videos/back-to-its-rootspininfarina-has-been-a-coachbuilder-for-almost-100-years-since-/1570813724833786/",
+    "pass": 3
+   },
+   {
+    "quote": "Changing lanes: the story behind Pininfarina's self-branded ... — Changing lanes: the story behind Pininfarina's self-branded ... worldfinance.com https://www.worldfinance.com > chan...",
+    "url": "https://www.worldfinance.com/markets/changing-lanes-the-story-behind-pininfarinas-self-branded-electric-supercar",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pininfarina.it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/our-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/heritage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/awards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/visit-pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/certifications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/about/pininfarina-academy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/brand-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/uihmi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/3d-modelling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/wind-tunnel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/brand-licensing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/limited-series",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/services/coachbuilding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/news/pininfarina-at-the-monaco-yacht-show",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pininfarina.it/news/100-years-of-sergio-pininfarina-at-salone-auto-torino-2026",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pininfarina.it/news/pininfarina-returns-to-the-monaco-yacht-show",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pininfarina.it/news/pininfarina-at-iaa-transportation-2026-in-hannover",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pininfarina.it/news/the-first-jas-supercar-tensei-rebirth-of-an-icon",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://pininfarina.it/sectors/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/design-innovation-and-engineering-brilliance-heart-new-automobili",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Automobili_Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automobili-pininfarina.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/pininfarina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automobili-pininfarina.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imglicensing.com/brands/pininfarina/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pininfarina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/PininfarinaSpA/videos/back-to-its-rootspininfarina-has-been-a-coachbuilder-for-almost-100-years-since-/1570813724833786/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pininfarina engineering services clients other industries",
+   "results": [
+    "https://pininfarina.it/sectors/automotive",
+    "https://www.automobili-pininfarina.com/media-hub/press-releases/design-innovation-and-engineering-brilliance-heart-new-automobili",
+    "https://en.wikipedia.org/wiki/Pininfarina",
+    "https://in.linkedin.com/company/pininfarina",
+    "https://designwanted.com/pininfarina-automotive-design-interview/",
+    "https://d3rnwp0hscz1j9.cloudfront.net/storage/uploads/d36d1f21-58e1-4ce5-98c5-a887fd2e01e3/pininfarina-techmahindra-english.pdf",
+    "https://luissuniversitypress.it/wp-content/uploads/2021/04/mazzu_TC_2019.pdf?srsltid=AYCX9vJB5BfGjrIsyBLMpLykq8NW5nqhwQ-I5-4qzQ0jRpx3YnSktZLh",
+    "https://www.mahindra.com/blogs/mahindra-and-pininfarina-designing-a-better-future-together",
+    "https://www.cbinsights.com/company/pininfarina-1/alternatives-competitors"
+   ]
+  },
+  {
+   "query": "Pininfarina revenue turnover employees",
+   "results": [
+    "https://en.wikipedia.org/wiki/Pininfarina",
+    "https://pininfarina.it/investor-relations/annual-financial-reports",
+    "https://growjo.com/company/Automobili_Pininfarina",
+    "https://finance.yahoo.com/quote/PINF.MI/key-statistics/",
+    "https://d3rnwp0hscz1j9.cloudfront.net/storage/uploads/f7fee9c8-aa04-472e-bd4a-686df50911fd/pf-2023-annual-financial-report.pdf",
+    "https://tt.linkedin.com/company/pininfarina?trk=similar-pages_result-card_full-click",
+    "https://www.motorauthority.com/news/1083152_pininfarina-posts-first-profit-since-2004",
+    "https://www.reuters.com/markets/companies/PNNI.MI/analytics/",
+    "https://ng.investing.com/pro/DB:PNF/explorer/total_rev",
+    "https://compworth.com/company/pininfarina"
+   ]
+  },
+  {
+   "query": "Pininfarina supplies components to OEM",
+   "results": [
+    "https://www.automobili-pininfarina.com/media-hub/press-releases/automobili-pininfarina-powers-new-global-headquarters-management-team",
+    "https://www.jaggaer.com/press-release/pininfarina-digitalizes-procurement-with-jaggaer",
+    "https://en.wikipedia.org/wiki/Pininfarina",
+    "https://pininfarina.it/sectors/automotive",
+    "https://www.keytobavaria.com/company-details/pininfarina-deutschland-gmbh-27739",
+    "https://www.facebook.com/PininfarinaSpA/videos/pininfarina-in-the-world-where-design-meets-innovation-a-global-icon-is-born-eve/1473304897455317/",
+    "https://www.ebay.com/itm/235808814058",
+    "https://www.mahindra.com/blogs/mahindra-and-pininfarina-designing-a-better-future-together",
+    "https://www.reddit.com/r/explainlikeimfive/comments/2a4yq5/eli5_why_hasnt_pininfarina_manufactured_their_own/",
+    "https://www.partscollector.com/pininfarina-parts"
+   ]
+  },
+  {
+   "query": "Pininfarina aerospace defence non-automotive",
+   "results": [
+    "https://www.automobili-pininfarina.com/",
+    "https://www.linkedin.com/company/pininfarina/",
+    "https://en.wikipedia.org/wiki/Pininfarina",
+    "https://pininfarina.it/",
+    "https://npaerospace.com/",
+    "https://www.worldfinance.com/markets/changing-lanes-the-story-behind-pininfarinas-self-branded-electric-supercar",
+    "https://newatlas.com/automobili-pininfarina-instant-cred-premium-automotive-brand/55400/",
+    "https://www.hemmings.com/stories/the-9-greatest-pininfarina-designs-that-werent-ferraris/",
+    "https://designwanted.com/pininfarina-automotive-design-interview/",
+    "https://pininfarina.it/investor-relations/information-for-investors"
+   ]
+  },
+  {
+   "query": "Pininfarina licensing technology partnership",
+   "results": [
+    "https://licensinginternational.org/news/pininfarina-and-globics-technology-announce-global-license-agreement-for-hybrid-and-smart-watches/",
+    "https://www.automobili-pininfarina.com/partners/bovet",
+    "https://imglicensing.com/brands/pininfarina/",
+    "https://www.prnewswire.com/news-releases/karma-automotive-and-pininfarina-form-partnership-300778195.html",
+    "https://businessschool.luiss.it/en/case-studies/brand-development-through-brand-extension-and-licensing-pininfarina-extra/",
+    "https://globics.com/partnerships.html",
+    "https://pininfarina.it/services/brand-licensing",
+    "https://news.microsoft.com/source/2017/03/22/microsoft-announces-patent-license-agreement-toyota-enhancing-connected-car-experience-consumers/",
+    "https://www.youtube.com/watch?v=FJJ4Huue0n0",
+    "https://globics.com/"
+   ]
+  },
+  {
+   "query": "Pininfarina founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Pininfarina",
+    "https://autostradamagazine.com/people/paolo-dellacha-on-building-the-pininfarina-battista/",
+    "https://www.facebook.com/PininfarinaSpA/videos/back-to-its-rootspininfarina-has-been-a-coachbuilder-for-almost-100-years-since-/1570813724833786/",
+    "https://www.worldfinance.com/markets/changing-lanes-the-story-behind-pininfarinas-self-branded-electric-supercar",
+    "https://www.facebook.com/automobilipininfarinaofficial/posts/on-22nd-may-1930-battista-pinin-farina-founded-carrozzeria-pinin-farina-in-turin/1774352682669142/",
+    "https://www.automobili-pininfarina.com/about",
+    "https://www.csmonitor.com/1981/0715/071536.html",
+    "https://www.youtube.com/watch?v=bHKWDQgwZ-Q",
+    "https://simeonemuseum.org/shop-talk/pininfarina/",
+    "https://en.wikipedia.org/wiki/Battista_Pininfarina"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

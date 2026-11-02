@@ -1,0 +1,1715 @@
+{
+ "name": "オービック",
+ "aliases": [],
+ "context": "証券コード4684／情報・通信業／プライム（内国株式）／2026.03期 売上高135,209百万円 営業利益率65.7%",
+ "researched_at": "2026-11-02T14:53:27.998067+00:00",
+ "official_url": "https://www.obic.co.jp/",
+ "identified_by": "search:yahoo_jp:オービック",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1968(昭和43)年4月8日",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "連結: 2,256名 単体: 2,030名 (2026年3月末日現在)",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結: 1,352億09百万円 単体: 1,267億61百万円 (2026年3月期)",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "89,476 100,167 111,590 121,240 135,209 148,700",
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "82,616 93,344 103,401 113,360 126,761",
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システムインテグレーション事業 システムサポート事業 オフィスオートメーション事業",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様の経営課題を解決します",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オービックは、お客様のビジネスパートナーとして、お客様の情報システムを常にベストの状態に保ち続けます",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "オービックは、お客様のメリットを第一に考え、お客様の会社の課題や業務内容、取引先との条件に最も適したシステムをインテグレーションし、ご提案しています",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "「OBIC7シリーズ」累計導入社数2万社突破、17年連続No.1",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "※2002～2017年ERP主要ベンダー（ライセンス売上高シェアトップ10）における累計導入社数(株)矢野経済研究所調べ 2017年12月現在",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客へのクラウドサービス提供により環境負荷の低減に努めます",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "取引先企業の経営資源の効率化、事業継続性担保",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客から受注する、システム分析、設計、開発、保守業務、統合パッケージソフトの設計開発、導入支援業務",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "主要な財務情報の推移や、販売先の業種別・規模別情報などをご確認いただけます",
+    "url": "https://www.obic.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "販売先情報（2026年3月期）",
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "更なる顧客目線でのシステム提案が求められております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、このような状況の中、自社開発・直接販売にこだわり続け、顧客企業の経営効果を実現するため、製販",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一体体制のもと顧客満足度 を高めるべく 努めてまいりました",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社は、顧客第一主義のもと、よりコストパフォーマンスの高いシステム提案ビジネスに注力し業績の向",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な傾向として、大手・中堅企業への新規顧客開拓が進み、付加価値の高",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客 に対する売上高は306億42百万円（前年同中間期比 12.1％増）、営業利益 は193億30百万円",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は400億87百万円（前年同中間期比16.2％増）、営業利益は300億10百万円",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客に対する売上高は42億93百万円（前年同中間期比8.6％増）、営業利益は16億97百万円（同26.0％増）",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更なる顧客目線でのシステム提案が求められております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、このような状況の中、自社開発・直接販売にこだわり続け、顧客企業の経営効果を実現するため、製販",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一体体制のもと顧客満足度 を高めるべく 努めてまいりました",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社は、顧客第一主義のもと、よりコストパフォーマンスの高いシステム提案ビジネスに注力し業績の向",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な傾向として、大手・中堅企業への新規顧客開拓が進み、付加価値の高",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果 、外部顧客 に対する売上高 は151億45百万円 （前年同期比 11.8％増）、営業利益 は95億86百万円 （同",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は195億89百万円（前年同期比15.5％増）、営業利益は145億87百万円（同",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客に対する売上高は19億64百万円（前年同期比2.2％増）、営業利益は６億86百万円（同17.2％増）とな",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更なる顧客目線でのシステム提案が求められております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、このような状況の中、自社開発・直接販売にこだわり続け、顧客企業の経営効果を実現するため、製販",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一体体制のもと顧客満足度を高めるべく努めてまいりました",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社は、顧客第一主義のもと、よりコストパフォーマンスの高いシステム提案ビジネスに注力し業績の向",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な傾向として、大手・中堅企業への新規顧客開拓が進み、付加価値の高",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は552億50百万円（前期比9.8％増）、営業利益は329億82百万円（同10.3％",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は715億８百万円（前期比13.5％増）、営業利益は528億96百万円（同15.2％",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客に対する売上高は84億51百万円（前期比7.2％増）、営業利益は29億44百万円（同14.5％増）となりま",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が予想されるなか、企業のニーズは「効率的でコストパフォーマンスの高い情報システム」にあり、さらなる顧客",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は自社開発の製品を直販体制によりお客様にお届けする「ワンストップ・ソリューション・サービス」を基",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "軸に置き、顧客の潜在的ニーズを的確に捉える「製販一体体制」の強みを活かし、今後とも企業業績の伸長に努め",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の進める制度改定へ的確に対応することなどにより、更なる顧客満足度の向上を図ってまいります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本邦以外の外部顧客への売上高がないため該当事項はありません",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３.主要な顧客ごとの情報",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単一の外部顧客への売上高が、連結損益計算書の売上高の10％を超えないため記載しておりません",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更なる顧客目線でのシステム提案が求められております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、このような状況の中、自社開発・直接販売にこだわり続け、顧客企業の経営効果を実現するため、製販",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一体体制のもと顧客満足度 を高めるべく努めてまいりました",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社は、顧客第一主義のもと、よりコストパフォーマンスの高いシステム提案ビジネスに注力し業績の向",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な傾向として、大手・中堅企業への新規顧客開拓が進み、付加価値の高",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は412億33百万円（前年同期比10.0％増）、営業利益は250億64百万円（同",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この結果、外部顧客に対する売上高は526億94百万円（前年同期比13.2％増）、営業利益は390億66百万円（同",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客に対する売上高は61億86百万円（前年同期比8.3％増）、営業利益は21億34百万円（同9.3％増）となり",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更なる顧客目線でのシステム提案が求められております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、このような状況の中、自社開発・直接販売にこだわり続け、顧客企業の経営効果を実現するため、製販",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービス一体体制のもと顧客満足度 を高めるべく 努めてまいりました",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "今後も当社は、顧客第一主義のもと、よりコストパフォーマンスの高いシステム提案ビジネスに注力し業績の向",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート&サービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種・業務向けソリューション",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "財務部門向けソリューション",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OBIC7クラウドソリューションサービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレーションサービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューションサービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティソリューションサービス",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンストップソリューションで",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューションのお問い合わせ",
+    "url": "https://www.obic.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サポート&サービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種・業務向けソリューション",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "財務部門向けソリューション",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "OBIC7クラウドソリューションサービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレーションサービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューションサービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティソリューションサービス",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューションのお問い合わせ",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "サポート&サービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種・業務向けソリューション",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "財務部門向けソリューション",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "OBIC7クラウドソリューションサービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレーションサービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューションサービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティソリューションサービス",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ますます高度化する企業のニーズに、オービックは、どのメーカーの系列にも属さない独自のスタンスと、ワンストップ・ソリューションでお応えしてきました",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ERPソリューション「OBIC7シリーズ」",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種別ソリューション",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "情報システムを上手に使いこなしていくためには、様々な支援サービスが必要です",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆるメーカーの製品をお届けできる“マルチ・ベンダー”のオービックは、メーカーの垣根を越えて、充実したサポート＆サービスを一括してお届けしています",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドソリューション",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューションのお問い合わせ",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "サポート&サービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種・業務向けソリューション",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "財務部門向けソリューション",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "OBIC7クラウドソリューションサービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレーションサービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューションサービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティソリューションサービス",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)オービックビジネスソリューション設立",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)オービックビジネスソリューションを吸収合併",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューションのお問い合わせ",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "サポート&サービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "各種業種・業務向けソリューション",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "財務部門向けソリューション",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "OBIC7クラウドソリューションサービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "システムインテグレーションサービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットワークソリューションサービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "セキュリティソリューションサービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・ソリューションのお問い合わせ",
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション・サービス",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年3月末日現在",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | オービック",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年1月に、東京本社においてISO14001認証を取得しました",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年 目標",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_climatechange.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度比で、排出量を50%削減",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_climatechange.html",
+    "pass": 1
+   },
+   {
+    "quote": "2050年 目標",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_climatechange.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月22日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月21日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月26日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月28日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月23日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月22日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月24日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月29日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年7月24日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月23日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月24日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年10月24日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月25日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月25日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月24日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年10月25日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年7月21日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月21日",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期～2024年3月期の期首に当該株式分割が行われたと仮定して、「1株当たり純資産」「1株当たり当期純利益」を算定しております",
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 有価証券報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期（中間期）決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 半期報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第3四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 有価証券報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第1四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第2四半期（中間期）決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 半期報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 第3四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 有価証券報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期（中間期）決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 半期報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 有価証券報告書 提出",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期決算発表",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月02日",
+    "url": "https://www.obic.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.obic.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期通期業績予想の修正（上方修正）及び期末配当予想の修正（増配）に関するお知らせ",
+    "url": "https://www.obic.co.jp/ir/disclosure.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "オービックは、お客様のビジネスパートナーとして、お客様の情報システムを常にベストの状態に保ち続けます",
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト(株)と認定ゴールドパートナー契約",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "カテゴリ14 フランチャイズ *6 tCO2 - - - - - ー ー ー ー",
+    "url": "https://www.obic.co.jp/sustainability/environment/pdf/59ep.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は自社開発の製品を直販体制によりお客様にお届けする「ワンストップ・ソリューション・サービス」を基",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "最近でも、クラウドの時代になってソフトの実物が取引されなくなると、販売店の仕事がなくなってしまうのではと危惧する声がありますが、そんなことはありません",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "「ゼロリセット」のゲームで築いた「IT人材紹介」の城",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "IT・Web・ゲーム業界に特化した人材紹介会社、株式会社ギークリーの代表・奥山貴広さん",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "HR業界の代表的な業界団体をご紹介いたします",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "米国ATDの活動に賛同しているパートナー",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 日本人材紹介事業協会",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "厚生労働大臣の許可を受けてホワイトカラーを中心とした職業紹介を行う人材紹介事業者の団体です",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "健康経営の推進を社外に向けて表現することによって、パートナー企業さまや取引先の各企業さまとも働き方改革や健康経営のノウハウを共有し、共に健康経営に取り組んでいきたいと考えています」",
+    "url": "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "「社員はお互いにビジネスの協力者であり、パートナーとして助け合う存在です",
+    "url": "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "※2002～2017年ERP主要ベンダー（ライセンス売上高シェアトップ10）における累計導入社数(株)矢野経済研究所調べ 2017年12月現在",
+    "url": "https://www.obic.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客から受注する、システム分析、設計、開発、保守業務、統合パッケージソフトの設計開発、導入支援業務",
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "pass": 1
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "大手・中堅企業の顧客増加に伴い、主力のクラウドソリューションを中心に、ソフトウェアの「運用支援・保守",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "システムサポート 統合基幹業務システムの運用支援・保守サービス等",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力のクラウドソリューションを中心に、ソフトウェア及びハードウェアの「運用支援・保守サービス等」が好",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力のクラウドソリューションを中心に、ソフトウェア及びハードウェアの「運用支援・保守サービス等」が好",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力のクラウドソリューションを中心に、ソフトウェア及びハードウェアの「運用支援・保守サービス等」が好",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/591q.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業別 売上高/営業利益構成比（2026年3月期）",
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 16,686 25,621 1,347 43,655 － 43,655",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 19,330 30,010 1,697 51,038 － 51,038",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「調整額」の△144百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と一致しております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「調整額」の△43百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 前年同中間期比",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 8,386 12,506 585 21,479 － 21,479",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 9,586 14,587 686 24,860 － 24,860",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「調整額」の△18百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と一致しております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「調整額」の△15百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "金 額 構成比 金 額 構成比 金 額 前年同期比",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 12",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 主要品目",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 29,895 45,912 2,571 78,378 － 78,378",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 23,464 18,906 20,926 63,297 437,078 500,375",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１.報告セグメントの概要",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が経営",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、業務用パッケージソフト事業は持分法適用関連会社で行っているため報告セグメントには含まれて",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、報告セグメントの主要品目は以下の表のとおりです",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２.報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３.報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）売上高の△99百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）セグメント資産の437,078百万円は全社資産であり、その内容は当社での余資運用資金（現金",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（3）持分法適用会社への投資額の60,914百万円は、報告セグメントに含まれておりません",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は連結損益計算書の営業利益と一致しております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、セグメント資産は連",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 32,982 52,896 2,944 88,823 － 88,823",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 23,849 20,467 23,531 67,848 550,948 618,796",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（1）売上高の△247百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（2）セグメント資産の550,948百万円は全社資産であり、その内容は当社での余資運用資金（現金",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 9",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 22,622 33,990 1,952 58,566 － 58,566",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 25,064 39,066 2,134 66,265 － 66,265",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「調整額」の△72百万円は、セグメント間取引の消去の額であります",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、四半期連結損益計算書の営業利益と一致しております",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、ＡＩの活用、健康経営の取組の推進など、安定的な",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、ＡＩの活用、健康経営の取組の推進など、安定的な",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、健康経営の取組の推進など、安定的な事業継続や当",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、健康経営の取組の推進など、安定的な事業継続や当",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、健康経営の取組の推進など、安定的な事業継続や当",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド関連施設等の設備増強やビジネスモデル特許の登録・出願、健康経営の取組の推進など、安定的な事業継続や当",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/591q.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "軸に置き、顧客の潜在的ニーズを的確に捉える「製販一体体制」の強みを活かし、今後とも企業業績の伸長に努め",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "『チームOBC』として個人の強みや弱みを理解し、仕事をする上でのストレスを減らしていくためにも、さまざまな施策を実施しています」",
+    "url": "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 オービック について オービック 新卒採用情報 — 事業紹介 オービック について オービック 新卒採用情報 オービック https://www.obic.co.jp > newgraduate > about > business",
+    "url": "https://www.obic.co.jp/recruit/newgraduate/about/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書2025 - オービック — 統合報告書2025 - オービック オービック PDF https://www.obic.co.jp > pdf > security_report",
+    "url": "https://www.obic.co.jp/ir/pdf/security_report/ir2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 オービック 】営業利益率60％超を支える ビジネスモデル - note — 【 オービック 】営業利益率60％超を支える ビジネスモデル - note note https://note.com > コンピュータ・IT > アプリケーション",
+    "url": "https://note.com/joyous_sayyou/n/n203da3e9ac26",
+    "pass": 3
+   },
+   {
+    "quote": "オービック の強みとは？ 高収益 ビジネスモデル と新卒主義の ... — オービック の強みとは？ 高収益 ビジネスモデル と新卒主義の ... ワンキャリア転職 https://plus.onecareer.jp > 記事一覧",
+    "url": "https://plus.onecareer.jp/articles/7427",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - オービック — IR 資料 - オービック オービック https://www.obic.co.jp > IR情報",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - オービック — IR情報 - オービック オービック https://www.obic.co.jp > ...",
+    "url": "https://www.obic.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 - 株式会社オービックビジネスコンサルタント - OBC — 決算説明 会 - 株式会社オービックビジネスコンサルタント - OBC 株式会社オービックビジネスコンサルタント https://corp.obc.co.jp > library > presentations",
+    "url": "https://corp.obc.co.jp/ir/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - オービック — IRカレンダー - オービック オービック https://www.obic.co.jp > IR情報",
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 - オービック — 決算説明 会 - オービック オービック PDF https://www.obic.co.jp > pdf > financial_result",
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594pr.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - オービック — 会社概要 - オービック オービック https://www.obic.co.jp > 会社情報",
+    "url": "https://www.obic.co.jp/company/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料 - オービック — IR資料 - オービック オービック https://www.obic.co.jp > IR情報",
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "pass": 3
+   },
+   {
+    "quote": "オービック — オービック オービック https://www.obic.co.jp",
+    "url": "https://www.obic.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "統合報告書2024 - オービック — 統合報告書2024 - オービック オービック PDF https://www.obic.co.jp > pdf > security_report",
+    "url": "https://www.obic.co.jp/ir/pdf/security_report/ir2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "和田成史さん（株式会社 オービック ビジネスコンサルタント） — 和田成史さん（株式会社 オービック ビジネスコンサルタント） 日本の人事部『プロネット』 https://service.jinjibu.jp > article > detl > innovator",
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "pass": 3
+   },
+   {
+    "quote": "社長インタビュー - 株式会社オービックビジネスコンサルタント — 社長インタビュー - 株式会社オービックビジネスコンサルタント 株式会社オービックビジネスコンサルタント https://corp.obc.co.jp > sustainability > topics > interview",
+    "url": "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "27期連続の営業増益・利益率57.3％、橘 社長 が語る オービック ... — 27期連続の営業増益・利益率57.3％、橘 社長 が語る オービック ... 日経クロステック https://xtech.nikkei.com > ニュース解説",
+    "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05958/",
+    "pass": 3
+   },
+   {
+    "quote": "ごあいさつ - オービック — ごあいさつ - オービック オービック https://www.obic.co.jp > 会社情報",
+    "url": "https://www.obic.co.jp/company/greeting.html",
+    "pass": 3
+   },
+   {
+    "quote": "オービック社長 ・橘昇一氏 教育・技術でさらなる成長 — オービック社長 ・橘昇一氏 教育・技術でさらなる成長 日刊工業新聞 電子版 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/546853",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.obic.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/company/business_overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_management.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/sustainability/environment/environment_climatechange.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/reports.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/highlight.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/stock.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.obic.co.jp/sustainability/environment/pdf/59ep.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/sustainability/environment/pdf/20250807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/602q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/601q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/594q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/593q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/592q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.obic.co.jp/ir/pdf/financial_result/591q.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オービック",
+   "results": [
+    "https://www.obic.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%93%E3%83%83%E3%82%AF",
+    "https://www.obc.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp38311/outline.html",
+    "https://kabutan.jp/stock/?code=4684",
+    "https://ja.wikipedia.org/wiki/オービック",
+    "https://corp.obc.co.jp/",
+    "https://finance.yahoo.co.jp/quote/4684.T",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=4684",
+    "https://www.wikiwand.com/ja/オービック"
+   ]
+  },
+  {
+   "query": "オービック ビジネスモデル",
+   "results": [
+    "https://www.obic.co.jp/recruit/newgraduate/about/business.html",
+    "https://www.obic.co.jp/ir/pdf/security_report/ir2025.pdf",
+    "https://note.com/joyous_sayyou/n/n203da3e9ac26",
+    "https://plus.onecareer.jp/articles/7427",
+    "https://www.obc.co.jp/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00138/030801485/",
+    "https://kigyobunseki.com/company/obic",
+    "https://www.obic.co.jp/company/business_overview.html",
+    "https://ameblo.jp/rabbit-g/entry-12490149727.html",
+    "https://bizi-mo.com/c/obic"
+   ]
+  },
+  {
+   "query": "オービック 決算説明資料",
+   "results": [
+    "https://www.obic.co.jp/ir/reports.html",
+    "https://www.obic.co.jp/ir/",
+    "https://corp.obc.co.jp/ir/library/presentations/",
+    "https://www.obic.co.jp/ir/calendar.html",
+    "https://www.obic.co.jp/ir/pdf/financial_result/594pr.pdf",
+    "https://edinetdb.jp/company/E05025/ir-docs/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4684",
+    "https://irbank.net/E05025/reports",
+    "https://www.buffett-code.com/company/4684/library",
+    "https://irbank.net/4684/ir"
+   ]
+  },
+  {
+   "query": "オービック 事業系統図",
+   "results": [
+    "https://www.obic.co.jp/ir/pdf/security_report/ir2025.pdf",
+    "https://www.obic.co.jp/company/about.html",
+    "https://www.obic.co.jp/ir/reports.html",
+    "https://www.obic.co.jp/",
+    "https://www.obic.co.jp/ir/pdf/security_report/ir2024.pdf",
+    "https://kitaishihon.com/company/4684/glossary",
+    "https://www.ripla.co.jp/blog/dx-consulting/obic-implementation-overview/",
+    "https://www.obc.co.jp/",
+    "https://www.obic.co.jp/recruit/newgraduate/about/business.html",
+    "https://ja.wikipedia.org/wiki/オービック"
+   ]
+  },
+  {
+   "query": "オービック 社長 インタビュー",
+   "results": [
+    "https://service.jinjibu.jp/article/detl/innovator/1317/2/",
+    "https://corp.obc.co.jp/sustainability/topics/interview/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05958/",
+    "https://www.obic.co.jp/company/greeting.html",
+    "https://www.nikkan.co.jp/articles/view/546853",
+    "https://the-shashi.com/tse/4684/ceo/",
+    "https://www.obic.co.jp/company/about.html",
+    "https://www.youtube.com/watch?v=mDJrVh8bYUc",
+    "https://journal.rikunabi.com/p/career/topproject/19707.html",
+    "https://ja.wikipedia.org/wiki/野田順弘"
+   ]
+  }
+ ],
+ "missing": {}
+}

@@ -1,0 +1,871 @@
+{
+ "name": "グロービング",
+ "aliases": [],
+ "context": "証券コード277A／サービス業／プライム（内国株式）／2026.05期 売上高10,941百万円 営業利益率37.1%",
+ "researched_at": "2026-11-02T14:50:30.908320+00:00",
+ "official_url": "https://globe-ing.com/",
+ "identified_by": "search:yahoo_jp:グロービング",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "298名（連結/2026年5月31日現在）",
+    "url": "https://globe-ing.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "298名（連結／2026年5月31日現在）",
+    "url": "https://globe-ing.com/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "コンサルティング事業（Joint Initiative（JI）型コンサルティング） AI事業（AIエージェント・AI関連プロダクト・クラウドプロダクト）",
+    "url": "https://globe-ing.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "コンサルティング事業 （Joint Initiative（JI）型コンサルティング） AI事業（AIエージェント・AI関連プロダクト・クラウドプロダクト）",
+    "url": "https://globe-ing.com/ir/overview/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2017年1月",
+    "url": "https://globe-ing.com/ir/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "産業固有のビジネスモデル、競争優位を生み出す戦略的な示唆",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちチームは、最先端の知見でビジネスモデルを創出するだけでなく、日本のTMT産業の「輸出産業化」を牽引し、国全体の競争力向上やコンバージェンスを進めることを使命としています",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービス紹介",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス・セラミックス製品",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "石油・石炭製品",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://globe-ing.com/corporate/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同社 代表取締役兼副社長執行役員兼最高戦略責任者兼メディアサービス分野最高執行責任者 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社インテリジェンス ビジネスソリューションズ(現 パーソルプロセス＆テクノロジー株式会社) 取締役 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、金融商品取引法等の諸法令および東京証券取引所の定める有価証券上場規程の「会社情報の適時開示等」(以下、「適時開示規則」といいます)に従って、透明性、公平性、継続性を基本とした迅速な情報開示を行います",
+    "url": "https://globe-ing.com/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "転職支援サービス",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "転職支援サービスご登録",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "アンテロープの転職支援サービス",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "転職支援サービスの流れ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "「スタートアップ・コーチング」サービス",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "【簡単3分】転職支援サービスに申込む（無料）",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "（輪島）大手自動車OEMにて7年勤務後、2000年にアクセンチュアに転籍、2007年より戦略本部・エクゼクティブパートナーとして製造業を中心に新規事業戦略の立案・実行、またデジタルを活用したソリューションビジネスの戦略立案・事業立ち上げを実施",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "コンサルティングサービスのトランスフォーメーションを目指す",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社・コンサルティング、双方で経験豊富な一線級のプロフェッショナルが集まり「顧客基点でコンサルティングサービスを再定義する」ことを掲げて立ち上げた「戦略コンサルティングファーム」がグロービングです",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "アクセンチュア、PwCコンサルティングなどの著名ファーム（戦略ユニット）で20年以上経験を積んできたプロフェッショナルが、コンサルティングサービスを本当に役立つものとして再定義するべく立ち上げた気鋭の独立系ファーム",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "戦略コンサルティングとDXを柱としてクライアント企業のCXOに伴走し、真の経営課題解決をサポートするとともに、コンサルティングサービスに関連したデジタルプロダクトの開発も行っている",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "イーソリューションズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュアリー・商品開発",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング・商品企画（投信）",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング・販売資料作成・商品企画（投信）",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "日本シェアホルダーサービス株式会社",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "転職支援サービスを使ってみる（無料）",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "アクチュアリー・商品開発(17)",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング・販売資料作成・商品企画（投信）(86)",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "マーケティング・商品企画（投信）(2)",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "サービス紹介",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シニアパートナー",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エグゼクティブパートナー",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "中小企業のDXから大手の上流強化まで、志を共にするパートナーとして次世代のイノベーションを形にします",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シニアパートナー 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 代表取締役代表パートナー 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "当社 代表取締役代表パートナー兼上級執行役員 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "同社 エグゼクティブ・パートナー 就任",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ローランド・ベルガー 入社 シニアパートナー 就任(現任)",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、取締役の指名及び報酬等に関する手続の客観性・透明性を確保するため、任意の指名・報酬委員会を設置しております",
+    "url": "https://globe-ing.com/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "出身業界/年代別 事例紹介",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "当社コンサルタントのご紹介",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "（写真左から）田中 耕平 代表取締役社長 ／ 輪島 総介 代表取締役、代表パートナー ／ 白石 将大 取締役、COO",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "（輪島）大手自動車OEMにて7年勤務後、2000年にアクセンチュアに転籍、2007年より戦略本部・エクゼクティブパートナーとして製造業を中心に新規事業戦略の立案・実行、またデジタルを活用したソリューションビジネスの戦略立案・事業立ち上げを実施",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "設立以来、急成長をとげているベンチャーでもある同社の現在地と今後について、創業メンバーである代表パートナーの輪島様と社長の田中様、取締役COOの白石様に伺いました",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "ビヨンドアーチパートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "ロゴス・パートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "ロングブラックパートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "アリックスパートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "ジェネックスパートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "ウィズエクスパートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人ソーシャル・イノベーション・パートナーズ",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "産業固有のビジネスモデル、競争優位を生み出す戦略的な示唆",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは業界で培った知見とAIへの深い理解を強みに、経営戦略から現場実装まで一気通貫で伴走し、次世代の競争力ある事業への変革を実現します",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サプライチェーン最適化、調達改革、物流変革、在庫最適化",
+    "url": "https://globe-ing.com/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年1月14日",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期第2四半期決算発表（15:30頃）",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年4月中旬",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期第3四半期決算発表",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年7月中旬",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期決算発表",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年8月下旬",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年10月中旬",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2028年5月期第1四半期決算発表",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://globe-ing.com/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://globe-ing.com/ir/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "2006年4月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年2月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年5月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年7月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年4月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年12月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年5月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年9月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年5月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年4月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年11月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年9月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年4月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1997年5月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年9月",
+    "url": "https://globe-ing.com/ir/executive/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日現在",
+    "url": "https://globe-ing.com/ir/coverage/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月に輪島総介及び林直毅が共同で当社を神奈川県鎌倉市に設立いたしました",
+    "url": "https://globe-ing.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月30日に、東京証券取引所プライム市場に上場しました",
+    "url": "https://globe-ing.com/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年より、PwCコンサルティング合同会社に転籍しTransformation Strategyチームを立ち上げ、2021年3月グロービング株式会社を設立",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "当社は、事業の継続・安定的発展を確保し、顧客、取引先、株主・投資家、地域社会、地球環境等の各ステークホルダー(利害関係者)、並びに役職員の利益を最大化するために、コーポレート・ガバナンスの確立が不可欠であると認識しております",
+    "url": "https://globe-ing.com/ir/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://globe-ing.com/ir/policy/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://globe-ing.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://globe-ing.com/ir/disclaimer/",
+    "pass": 1
+   },
+   {
+    "quote": "転職成功体験記（お客様の声）",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "事業会社・コンサルティング、双方で経験豊富な一線級のプロフェッショナルが集まり「顧客基点でコンサルティングサービスを再定義する」ことを掲げて立ち上げた「戦略コンサルティングファーム」がグロービングです",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   },
+   {
+    "quote": "同ファームでは、総合商社や投資ファンドなどのお客様に対して企業変革、戦略策定、M&A関連のプロジェクトを中心に行い、その後ご縁あってEYの戦略プラクティスであるEYパルテノンに移り、22年1月にグロービングに参画しています",
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グロービング 株式会社 Globe-ing Inc. — グロービング 株式会社 Globe-ing Inc. globe-ing.com https://globe-ing.com",
+    "url": "https://globe-ing.com/",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング (277A)人数の拡大による売上高の ... - 株予報コラム — グロービング (277A)人数の拡大による売上高の ... - 株予報コラム 株予報コラム https://column.ifis.co.jp > company > stock-r",
+    "url": "https://column.ifis.co.jp/company/stock-r/165307",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング の企業情報 | CFN（CareerForum.Net） — グロービング の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > event > bos > company_detail",
+    "url": "https://careerforum.net/ja/event/bos/companylist_507/4592/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "利益60%増の急成長企業 グロービング - note — 利益60%増の急成長企業 グロービング - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/irukabu/n/n20d3077e1ac4",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 - グロービング 株式会社 Globe-ing Inc. — 決算説明資料 - グロービング 株式会社 Globe-ing Inc. globe-ing.com https://globe-ing.com > IR",
+    "url": "https://globe-ing.com/ir/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "IR - グロービング 株式会社 Globe-ing Inc. — IR - グロービング 株式会社 Globe-ing Inc. globe-ing.com https://globe-ing.com > ...",
+    "url": "https://globe-ing.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング （277A） 2026年5月期第3四半期 決算説明 — グロービング （277A） 2026年5月期第3四半期 決算説明 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=U_lumpFj6jE",
+    "pass": 3
+   },
+   {
+    "quote": "IRについてのお問い合わせ - グロービング 株式会社 Globe-ing ... — IRについてのお問い合わせ - グロービング 株式会社 Globe-ing ... globe-ing.com https://globe-ing.com > IR",
+    "url": "https://globe-ing.com/ir/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "【 グロービング 】[277A]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 グロービング 】[277A]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=277A",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - グロービング 株式会社 Globe-ing Inc. — 会社概要 - グロービング 株式会社 Globe-ing Inc. globe-ing.com https://globe-ing.com > Company",
+    "url": "https://globe-ing.com/corporate/company/",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング 株式会社 | ハイクラス転職プラットフォーム 外資 ... — グロービング 株式会社 | ハイクラス転職プラットフォーム 外資 ... 外資就活ネクスト https://next.gaishishukatsu.com > companies",
+    "url": "https://next.gaishishukatsu.com/companies/4327",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング の「会社紹介」 OpenWork — グロービング の「会社紹介」 OpenWork OpenWork https://www.openwork.jp > ... > グロービング > 採用情報",
+    "url": "https://www.openwork.jp/a0C2x00000S2jkt/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "【 グロービング 株式会社 取締役副 社長 COO 和田菜穂子氏 ... — 【 グロービング 株式会社 取締役副 社長 COO 和田菜穂子氏 ... みらいワークス https://mirai-works.co.jp > Home > 企業紹介",
+    "url": "https://mirai-works.co.jp/consulnext/industry/globe-ing/",
+    "pass": 3
+   },
+   {
+    "quote": "グロービング とは？転職前に知りたい事業内容・働き方・向い ... — グロービング とは？転職前に知りたい事業内容・働き方・向い ... ステラキャリアズ https://stellar-careers.com > Industry knowledge",
+    "url": "https://stellar-careers.com/industry-knowledge/globing/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://globe-ing.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/corporate/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/ir-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/executive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/cashflow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/securities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/disclosure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/coverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globe-ing.com/ir/disclaimer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://column.ifis.co.jp/company/stock-r/165307",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://careerforum.net/ja/event/bos/companylist_507/4592/company_detail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.axc.ne.jp/insights/article/company/7853/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "グロービング",
+   "results": [
+    "https://globe-ing.com/",
+    "https://careerforum.net/ja/company_list/4592/company_detail/",
+    "https://www.openwork.jp/a0C2x00000S2jkt/pr/",
+    "https://www.wantedly.com/companies/company_3452776/about",
+    "https://jp.linkedin.com/company/globe-ing-inc",
+    "https://ja.wikipedia.org/wiki/グローグー",
+    "https://globe-ing.com/corporate/company/",
+    "https://my-vision.co.jp/consultant/it/firms/globeing",
+    "https://finance.yahoo.co.jp/quote/277A.T/profile",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16724/"
+   ]
+  },
+  {
+   "query": "グロービング ビジネスモデル",
+   "results": [
+    "https://globe-ing.com/",
+    "https://column.ifis.co.jp/company/stock-r/165307",
+    "https://careerforum.net/ja/event/bos/companylist_507/4592/company_detail/",
+    "https://note.com/irukabu/n/n20d3077e1ac4",
+    "https://www.sap.com/partners/profile/globe-ing-inc",
+    "https://www.tiglon-partners.com/knowledge/a10bb00000055sdyaa/16724/",
+    "https://www.wantedly.com/companies/company_3452776/about",
+    "https://www.movin.co.jp/gyoukai/firmlist/independence/globeing/gbi04.html",
+    "https://globe-ing.com/corporate/company/",
+    "https://consovation.com/注目の成長戦略と魅力が満載-グロービングのビジ/"
+   ]
+  },
+  {
+   "query": "グロービング 決算説明資料",
+   "results": [
+    "https://globe-ing.com/ir/presentations/",
+    "https://globe-ing.com/ir/",
+    "https://www.youtube.com/watch?v=U_lumpFj6jE",
+    "https://globe-ing.com/ir/inquiry/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=277A",
+    "https://globe-ing.com/ir/faq/",
+    "https://globe-ing.com/ir/finance/",
+    "https://kitaishihon.com/company/277A/top",
+    "https://edinetdb.jp/company/E40147/presentations/",
+    "https://www.buffett-code.com/company/277A/library"
+   ]
+  },
+  {
+   "query": "グロービング 事業系統図",
+   "results": [
+    "https://globe-ing.com/corporate/company/",
+    "https://careerforum.net/ja/event/bos/companylist_507/4592/company_detail/",
+    "https://www.sap.com/partners/profile/globe-ing-inc",
+    "https://next.gaishishukatsu.com/companies/4327",
+    "https://www.openwork.jp/a0C2x00000S2jkt/pr/",
+    "https://www.wantedly.com/companies/company_3452776/about",
+    "https://www.movin.co.jp/gyoukai/firmlist/independence/globeing/gbi01.html",
+    "https://www.fisco.co.jp/wordpress/wp-content/uploads/FISCO/globe-ing20250303.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000048.000093540.html",
+    "https://globe-ing.com/"
+   ]
+  },
+  {
+   "query": "グロービング 社長 インタビュー",
+   "results": [
+    "https://www.axc.ne.jp/insights/article/company/7853/",
+    "https://www.antelope.co.jp/interview/detail.html?INTERVIEW=125&PAGE=1",
+    "https://globe-ing.com/news/%E7%A6%8F%E7%94%B0%E6%B5%A9%E5%9F%BA%E3%81%8C%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7%E5%85%BCceo%E3%81%AB%E5%B0%B1%E4%BB%BB%E4%BA%88%E5%AE%9A/",
+    "https://mirai-works.co.jp/consulnext/industry/globe-ing/",
+    "https://stellar-careers.com/industry-knowledge/globing/",
+    "https://www.nikkan.co.jp/articles/view/779604",
+    "https://prtimes.jp/main/html/rd/p/000000054.000093540.html",
+    "https://www.youtube.com/watch?v=Dsc5QVsk2VA",
+    "https://www.youtube.com/watch?v=hxcQ6KK9H2s",
+    "https://www.axc.ne.jp/insights/article/company/558/"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

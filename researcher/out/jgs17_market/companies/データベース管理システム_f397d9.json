@@ -1,0 +1,1763 @@
+{
+ "name": "データベース管理システム",
+ "en": "database management system",
+ "aliases": [
+  "DBMS",
+  "データプラットフォーム"
+ ],
+ "context": "2 デジタル・サイバー ①データプラットフォーム",
+ "kind": "market",
+ "researched_at": "2026-11-02T14:36:58.188121+00:00",
+ "evidence": {
+  "市場規模": [
+   {
+    "quote": "世界のデータベース管理システム（DBMS）市場規模、セグメント、2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータベース管理システム（DBMS）市場規模、シェア、トレンド、成長、および2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータベース管理システム（DBMS）市場規模は、2024年には約",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界のデータベース管理システム（DBMS）市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約10.8%で成長すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "収益面では、世界のデータベース管理システム（DBMS）市場規模は2024年に約890億米ドルと評価され、2034年までに2481億9000万米ドルに達すると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "すべての区分は現在および将来の動向に基づいて分析されており、市場規模は2025年から2034年まで予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "2022年度のDWH用DBMS市場は前年度比29.0％増を予測",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型DWH用DBMS市場のCAGR（2021～2026年度）は26.2%と高く、2026年度には700億円に迫る見込み",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "本市場を提供形態別に分類して見ると、2021年度のSaaS市場の売上金額は215億円、前年度比32.7%増と高い伸びとなりました",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2021～2026年度）では、パッケージ市場はマイナス4.3%と市場が縮小するのに対し、SaaS市場は26.2%と高く、2026年度には700億円規模に迫ると予測しています",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "図．DWH用DBMS市場規模推移および予測：提供形態別（2020～2026年度予測）",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "データベースソフトの市場規模・シェア動向【2026年版】 | ITトレンド",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "データベースソフトの市場規模・シェア動向【2026年版】",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "国内のローコード／ノーコード開発市場は2024年度に994億円",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "リレーショナルデータベースソフトウェアの世界市場規模：2026年は113700百万米ドルに達する見込み",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "コンクリートパイプマシン市場規模220百万米ドル予測：世界の産業現状、競合分析、成長動向2026",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "リレーショナルデータベースソフトウェアの世界市場規模：2026年は113700百万米ドルに達する見込み | QY Research株式会社",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "DBMS市場規模、シェア、業界動向、2033年予測",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年における世界のデータベース管理システム（DBMS）市場規模は1174億米ドルに達しました",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の市場規模",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、IMARCによると、世界のデジタルトランスフォーメーション市場規模は2023年に6,920億米ドルに達した",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システム（DBMS）の世界市場は2030年までに1,546億米ドルに達する見込み",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に795億米ドルと推定されるデータベース管理システム（DBMS）の世界市場は、2024年から2030年にかけてCAGR 11.7%で成長し、2030年には1,546億米ドルに達すると予測されます",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は209億米ドルと推定、中国はCAGR 15.9％で成長予測",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "米国のデータベース管理システム（DBMS）市場は、2024年に209億米ドルと推定されます",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに359億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは15.9%です",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "食品用炭酸カリウムの世界市場（2026年～2032年）、市場規模（電気分解法、イオン交換法、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "セルフピアシングリベッティングマシンの世界市場（2026年～2032年）、市場規模（コード付き、コードレス）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "コールドチェーントラッカーの世界市場（2026年～2032年）、市場規模（データロガー、センサー、その他）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "ポイント・オブ・ロード（POL）DC-DCコンバータの世界市場（2026年～2032年）、市場規模（ディスクリートPOLコンバータ、集積型POLモジュール）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "SMDサーモパイルセンサーの世界市場（2026年～2032年）、市場規模（シングルチャンネルセンサー、デュアルチャンネルセンサー）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "本調査によると、2025年の国内データプラットフォーム市場のソフトウェア売上規模は7,371億円、前年比成長率は7.7％になると予測しています",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "pass": 3
+   },
+   {
+    "quote": "同市場の売上規模は2029年には9,934億円に達して、2024年～2029年の年間平均成長率（CAGR：Compound Annual Growth Rate）は7.7％で推移します",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "pass": 3
+   },
+   {
+    "quote": "本調査レポートでは、国内Data Platform, Logistics and Operations市場をコンペティティブ市場（Competitive Market）として定義し、「データ保護」「データセキュリティ」「データ管理システム」「その他のデータガバナンス」の4つのカテゴリーに分類し、2024年までの売上実績と市場動向に基づいて、2025年～2029年の市場規模の予測を行うと共に、AI技術の進化が当該市場に与える影響について考察しています",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータベース管理システム市場規模、シェア、傾向とメーカーレポート洞察と将来予測調査 2037年",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システム市場に関する当社の調査レポートによると、市場は予測期間中に約 9% の CAGR で成長し、2037 年までに約 1,940億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025年のデータベース管理システム市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "当社の分析によると、世界のビッグデータ分析業界の規模は 2021 年に 2,400 億米ドルを超え、市場は今後数年間で成長し、2029 年までに 6,500 億米ドルに達すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "世界の データベース管理システム市場規模は、2025―2037 年間に 9% の CAGR で成長し、2037 年までに 1,940億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、2025 年の データベース管理システム市場規模は適度なペースで成長すると予想されます",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "2024 年に、世界の データベース管理システム市場は 630億米ドルの収益を獲得しました",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Size, Growth Report 2035",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "2024 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "$ 60.7 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "2025 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "$ 65.04 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "2035 Market Size",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "$ 129.64 Billion",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Database Management System Market (DBMS) Market Size was estimated at 60.7 USD Billion in 2024. The DBMS industry is projected to grow from 65.04 USD Billion in 2025 to 129.64 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.14% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "60.7 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "129.64 (USD Billion)",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "The Database Management System Market (DBMS) Market is projected to grow at a 7.14% CAGR from 2025 to 2035, driven by cloud adoption, data analytics demand, and AI integration.",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   }
+  ],
+  "成長率": [
+   {
+    "quote": "でしたが、 2025年から2034年までの年平均成長率",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "当社のリサーチアナリストによる分析によると、世界のデータベース管理システム（DBMS）市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約10.8%で成長すると予測されています",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月、大手eコマース企業であるアマゾンは、2024年に南アフリカでウェブサイトAmazon.co.zaを開設し、グローバル展開を拡大すると発表した",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年には、大企業セグメントで最も高い成長率が観測されました",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.8％のCAGR",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "2025年から2034年までの期間におけるデータベース管理システム（DBMS）市場の年平均成長率（CAGR）はどのくらいになるでしょうか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システム（DBMS）市場の年平均成長率（CAGR）は、2025年から2034年の間に約10.8%になると予測されている",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS型DWH用DBMS市場のCAGR（2021～2026年度）は26.2%と高く、2026年度には700億円に迫る見込み",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR（2021～2026年度）では、パッケージ市場はマイナス4.3%と市場が縮小するのに対し、SaaS市場は26.2%と高く、2026年度には700億円規模に迫ると予測しています",
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "pass": 3
+   },
+   {
+    "quote": "2024〜2029年度のCAGR（年平均成長率）は12.9％と予測されています",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "2026～2032年の年平均成長率（CAGR）：17.2%",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "自走式クローラーロータリー耕うん機市場規模は2026年1288百万米ドル、成長率7.3%で拡大予測",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは同市場が2033年までに3670億米ドルに達し、2025年から2033年の間に年平均成長率（CAGR）12.42％を示すと予測しています",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "市場成長率（2025-2033）",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "今後、IMARC Groupは、2024年から2032年にかけて16.9%の成長率（CAGR）を示し、2032年までに2兆8,450億米ドルに達すると予測している",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "2024年に795億米ドルと推定されるデータベース管理システム（DBMS）の世界市場は、2024年から2030年にかけてCAGR 11.7%で成長し、2030年には1,546億米ドルに達すると予測されます",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートで分析しているセグメントの1つであるソフトウェアは、CAGR 12.6%を記録し、分析期間終了時には1,177億米ドルに達すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "ハードウェア分野の成長率は、分析期間中CAGR 9.3％と推定されます",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "米国市場は209億米ドルと推定、中国はCAGR 15.9％で成長予測",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "世界第2位の経済大国である中国は、2030年までに359億米ドルの市場規模に達すると予測され、分析期間2024-2030年のCAGRは15.9%です",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ8.6%と9.5%と予測されています",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "欧州では、ドイツがCAGR 8.9%で成長すると予測されています",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "主な成長要因の1つは、クラウドサービスとDBaaS（database-as-a-service）の採用が拡大していることです",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "本調査によると、2025年の国内データプラットフォーム市場のソフトウェア売上規模は7,371億円、前年比成長率は7.7％になると予測しています",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "pass": 3
+   },
+   {
+    "quote": "同市場の売上規模は2029年には9,934億円に達して、2024年～2029年の年間平均成長率（CAGR：Compound Annual Growth Rate）は7.7％で推移します",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システム市場に関する当社の調査レポートによると、市場は予測期間中に約 9% の CAGR で成長し、2037 年までに約 1,940億米ドルの価値に達すると予想されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "世界の データベース管理システム市場規模は、2025―2037 年間に 9% の CAGR で成長し、2037 年までに 1,940億米ドルを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the Database Management System Market (DBMS) Market Size was estimated at 60.7 USD Billion in 2024. The DBMS industry is projected to grow from 65.04 USD Billion in 2025 to 129.64 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.14% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "The Database Management System Market (DBMS) Market is projected to grow at a 7.14% CAGR from 2025 to 2035, driven by cloud adoption, data analytics demand, and AI integration.",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR for the DBMS Market from 2025 to 2035 is 7.14%.",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "The database management system market in the United States is expected to reach a projected revenue of US$ 60.8 billion by 2030. A compound annual growth rate of 10.7% is expected of the United States database management system market from 2025 to 2030.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "The U.S. market is expected to grow at a CAGR of 10.7% from 2025 to 2030.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "10.7% (CAGR from 2025 to 2030)",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "System is expected to reach USD 270.52 billion by 2034, with a CAGR of 12 % between 2026 and 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast Period 2026 to 2034 CAGR:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "The Relational Database Management System Market System is expected to reach USD 270.52 billion by 2034, with a CAGR of 12 % between 2026 and 2034.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR, 2024–2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global database management system market size was valued at USD 100.8 billion in 2023 and is projected to grow from USD 148.6 billion in 2026 to USD 241.3 billion by 2030, at a CAGR of 13.1% from 2024 to 2030. North America dominated the market, accounting for a revenue share of 39.0% in 2023. Organizations across industries are undergoing",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2024-2030): 13.1%",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 13.1% from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue in USD billion/million and CAGR from 2024 to 2030",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "The global database management system market is expected to grow at a CAGR of 13.1% from 2024 to 2030, reaching USD 241.3 billion by 2030.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Size | CAGR of 11.7%",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2035",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR of 11.7%",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, expanding at a CAGR of",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2026-2035)",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR (2025 - 2035)",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "As per Market Research Future analysis, the US database management system market size was estimated at 15.54 USD Billion in 2024. The US database management-system market is projected to grow from 16.65 USD Billion in 2025 to 33.19 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.1% during the forecast period 2025 - 2035",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "is projected to grow at a 7.14% CAGR from 2025 to 2035, driven by increasing data volumes, cloud adoption, and advanced analytics.",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "What is the expected CAGR for the US database management-system market during the forecast period 2025 - 2035?",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "The expected CAGR during the forecast period is 7.14%.",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "CAGR 2026-2034",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System market is expected to register a CAGR of 12.82% from 2026 to 2034, with the market size expanding from US$ 135.44 Billion in 2025 to US$ 401.07 Billion by 2034.",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market is anticipated to register a CAGR of 12.82% during the forecast period",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "pass": 3
+   }
+  ],
+  "上位シェア": [
+   {
+    "quote": "世界のデータベース管理システム（DBMS）市場規模、シェア、トレンド、成長、および2034年までの予測",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "企業規模別セグメンテーションに基づくと、2024年には大企業が最大の市場シェアを示すと予測された",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "データベースソフトの市場規模・シェア動向【2026年版】 | ITトレンド",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "データベースソフトの市場規模・シェア動向【2026年版】",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "【総合シェアTOP５】レビュー × ランキングで見る人気製品",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "まずは、レビュー件数のシェアと資料請求ランキングから、2026年の人気製品を紹介します",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "レビュー件数のシェアでHotBiz8が73％",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "次のグラフは、レビュー件数のシェアTOP３です",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "その下の表の総合順位は、レビューシェアと資料請求ランキングの順位の平均で並べています（TOP５外は６位として計算）",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "※「レビューシェア」は、2026年10月までにITトレンドへ投稿されたレビュー15件に占める割合です",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "データベースソフトでは、楽々Webデータベースがレビューシェア2位・ランキング3位と、両方で上位に入りました",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "JUST.DBも、レビューシェア3位・ランキング2位です",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "一方、レビューシェア1位のHotBiz8はランキング6位でした",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、ITトレンドの資料請求ランキング（2024年間〜2026年上半期の4回分）、上位製品のタイプ、レビューとの関係から、市場の動きを整理します",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月24日、QYResearch株式会社（所在地：東京都中央区）は、「リレーショナルデータベースソフトウェア―グローバル市場シェアとランキング、全体の売上と需要予測、2026～2032」に関する最新の調査レポートを発表しました",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "市場シェア上位5社および上位10社を中心に、売上高、市場シェア、製品ポートフォリオ、提携・M&A動向を分析します",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "リレーショナルデータベースソフトウェア市場におけるトップ5およびトップ10企業の売上高ランキングを提示し、各社の生産拠点配置、本社所在地、主力製品群、市場シェア、研究開発動向、M&A・提携事例を整理します",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "DBMS市場規模、シェア、業界動向、2033年予測",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータベース管理システム市場規模、シェア、傾向とメーカーレポート洞察と将来予測調査 2037年",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システムの市場調査レポート、規模とシェア、成長機会、およびトレンド洞察分析―タイプ別、アプリケーション別および地域別―世界予測2025―2037 年",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "データベース運用管理は、2037 年までに市場全体の 65% を占める最高のシェアを占めると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "大企業セグメントは、2037 年までに市場全体の 60% を占める最高のシェアを保持すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "北米は、2037 年までに市場全体の 40% を占める最高の市場シェアを保持すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI市場調査レポート、規模とシェア、成長機会、及び傾向洞察分析― 技術別、産業分野別、導入形態別、エンドユーザータイプ別、機能別用途別、および県―市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークセキュリティ市場 調査レポート、規模とシェア、成長機会、及び傾向洞察分析― ファイアウォールソリューション別、IAM（アイデンティティ・アクセス管理）別、導入形態別、サービス別、エンドユーザー業界別及び地域別―世界市場の見通しと予測 2026－2035年",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年には、北米地域が データベース管理システム市場で最大のシェアを獲得すると予測されています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of revenue, U.S. accounted for 28.6% of the global database management system market in 2024.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Relational was the largest segment with a revenue share of 68.6% in 2024.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "3. Which Region accounted for the largest Relational Database Management System Market share?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "2.7. Key Opinion Leader Analysis For Relational Database Management System Industry",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "9.5.1. Market Leaders",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "The global database management system market size was valued at USD 100.8 billion in 2023 and is projected to grow from USD 148.6 billion in 2026 to USD 241.3 billion by 2030, at a CAGR of 13.1% from 2024 to 2030. North America dominated the market, accounting for a revenue share of 39.0% in 2023. Organizations across industries are undergoing",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "By type, the relational segment led the market in 2023, accounting for over 62.0% share of the global revenue.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "By deployment, the cloud segment accounted for the largest revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "By organization size, the large enterprises segment accounted for the largest revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "The large enterprises segment accounted for the largest revenue share in 2023. Large enterprises generate and manage vast amounts of data from various sources, including transactional systems, customer interactions, and",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a revenue share of over 39.0% in 2023. The rapid evolution of database technologies, including cloud-based solutions and NoSQL databases, is driving market expansion in the region. Furthermore, the increasing adoption of big data analytics requires advanced DBMS solutions for handling and analyzing large volumes of data.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated with a 39.0% revenue share in 2023.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "For instance, in February 2026, IBM advanced North American Database Management System leadership with watsonx. Data 2.0 integrates hybrid cloud and AI governance across Db2 and NoSQL systems. The platform’s open-table format supports and accelerates enterprise AI adoption while maintaining strict compliance. U.S. firms gain unmatched data federation capabilities.",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "The Database Management System market follows a clear tiered structure led by hyperscale cloud providers and established enterprise software companies. Tier-1 leaders, including Microsoft, Oracle, AWS, Google Cloud, and IBM, account for an estimated",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Technologies",
+    "url": "https://technographics.6sense.com/relational-databases",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Relational Databases technologies in 2026",
+    "url": "https://technographics.6sense.com/relational-databases",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Share Report, [2031]",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "Based on deployment, the market has been categorized into cloud and on-premises. The cloud segment captured the largest share of 67.57% in 2023. The cloud database is rapidly gaining traction as organizations increasingly migrate their data management solutions to cloud environments.",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "North America database management system market accounted for the largest revenue share of 44.12% in 2023, with a valuation of USD 39.99 billion. This dominance is reinforced by the rapid adoption of advanced technologies and the strong presence of leading market players.",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "10.2. Market Share Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Outlook 2026-2034: Market Share, and Growth Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   },
+   {
+    "quote": "Top Five Labor Law Developments for September 2026",
+    "url": "https://natlawreview.com/press-releases/database-management-system-market-size-share-and-trends-analysis-report",
+    "pass": 3
+   },
+   {
+    "quote": "North America dominated the Database Management System (DBMS) Market in 2025 with approximately 39% market share.",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share: Database Management Systems, Worldwide, 2025",
+    "url": "https://www.gartner.com/en/documents/7834381",
+    "pass": 3
+   },
+   {
+    "quote": "commanded the largest share of the global database management systems market in 2025, accounting for",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "over the forecast period from 2026 to 2034. North America accounted for the largest regional share at",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "in 2025, reflecting the broad ecosystem reach of document-oriented databases across development teams building modern, API-first applications. Redis Labs, with its in-memory data structure platform, is widely deployed as a caching, session management, and real-time leaderboard solution, recording strong net revenue retention rates above",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "of market share in 2025.",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "transactional processing, real-time fraud detection, and comprehensive regulatory audit trail capabilities to meet mandates from regulators including the Basel Committee on Banking Supervision, the SEC, and the FCA. In 2025, BFSI accounted for approximately",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "Market Share (2025)",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "is the clear leader in the document database category, with its Atlas cloud database service achieving strong growth in developer-led enterprise accounts. MongoDB reported fiscal year 2025 revenues of approximately",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   }
+  ],
+  "主要企業": [
+   {
+    "quote": "対象となる主要企業",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "データベース管理システム（DBMS）市場の成長を活用している主要企業はどれですか？",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "・主要企業の売上ランキング、市場シェア、競争ポジション",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "第2章 競争環境と主要企業ランキング（2021～2026年）",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "市場の主要企業には次のような企業が含まれます:",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "競争環境は、利害関係者がその競争環境を理解することを可能にし、市場における主要企業の現在の地位についての洞察を提供する",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "世界のデータベース管理システム市場の成長に重要な役割を果たす主要な主要企業には、Huawei Technologies Co. Ltd.、Cockroach Labs.、Oracle Corporation、Microsoft Corporation、IBM Corporation、などが含まれます",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本のデータベース管理システム市場のトップ5プレーヤーは、Plaid Inc.、Base Connect Inc.、Startups Inc.、Climb Factory DB.、Startup, Inc.、などです",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "この調査には、世界のデータベース管理システム市場分析レポートにおける詳細な競合分析、企業概要、最近の動向、およびこれらの主要企業の主要な市場戦略が含まれています",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "Startups Inc.",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "Huawei Technologies Co. Ltd.、Cockroach Labs.、Oracle Corporation、Microsoft Corporation、IBM Corporation、などは、世界の データベース管理システム市場で機能する主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "Plaid Inc.、Base Connect Inc.、Startups Inc.、Climb Factory DB.、Startup, Inc.、などは、データベース管理システム市場の日本の分野で機能している主要企業の一部です",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the Database Management System Market include",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the DBMS Market?",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Oracle Corporation, Microsoft Corporation, IBM Corporation, SAP SE, Amazon Web Services, Google LLC, MongoDB Inc., MariaDB Corporation, and Couchbase Inc.",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluation of potential key players that include market leaders, followers, and new entrants",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "The report also helps in understanding the market dynamics, and structure by analyzing the market segments to project the market size. Clear representation of competitive analysis of key players by product, price, financial position, product portfolio, growth strategies, and regional presence in the market make the report investor’s guide.",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "Relational Database Management System Market, Key Players:",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "5. What are the top players operating in the Relational Database Management System Market?",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "9. Global Relational Database Management System Market: Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "9.2. Competitive Landscape",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "9.3. Key Players Benchmarking",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "10. Company Profile: Key Players",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape / Company Profiles",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "Indian Smart Phones Market- Industry Analysis Market Size by City, Distribution Channel, Type, Component, Connectivity, Growing Trends, Are Profiled Considering The, Industry-Wide Analysis, Competitive Landscape Assessment & Long-Term Forecast to 2026",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, company ranking, competitive landscape, growth factors, and trends",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key companies profiled",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the key players in the database management system market?",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Some key players operating in the database management system market include Amazon Web Services; Google Cloud; International Business Machines Corporation; Microsoft; MongoDB, Inc.; Oracle; Redis; SAP SE; Snowflake Inc.; and Teradata.",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players Analysis",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Capital scarcity among mid-market database startups",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Top Key Players in the Market",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Key Players",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue forecast, AI impact on Market trends, Share Insights, Company ranking, competitive landscape, Recent Developments, Market Dynamics and Emerging Trends",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Web Services (AWS), Google Cloud, IBM Corporation, Microsoft, MongoDB, Inc., Oracle, Redis, SAP SE, Snowflake Inc., Teradata, PostgreSQL, Couchbase, SQLite, Redis Labs, MariaDB Corporation, Other Key Players",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Major Players",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Key Players and Competitive Insights",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies in the US Database Management System Market include",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Forecast, Competitive Landscape, Growth Factors, and Trends",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Key Companies Profiled",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Which companies are considered key players in the US database management-system market?",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Key players include Oracle Corporation, Microsoft Corporation, IBM Corporation, SAP SE, Amazon Web Services, Google LLC, MongoDB Inc., and MariaDB Corporation.",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape and Company Benchmarking",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "The global database management system market report will provide valuable insight with an emphasis on the fragmented nature of the industry. Prominent players are focusing on several key business strategies such as partnerships, mergers and acquisitions, product innovations, and joint ventures to expand their product portfolio and increase their market shares across different regions.",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "List of Key Companies in Database Management System Market",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "Who are the top key players in the market?",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "Top key players in the market are Amazon Web Services, Inc., Google, IBM, Microsoft, MongoDB, Inc., Oracle, Redis Inc., SAP SE, Snowflake Inc., Teradata, and others.",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Landscape: Understand the strategic maneuvers employed by key players globally to understand possible market penetration with the correct strategy.",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   },
+   {
+    "quote": "Caters to a Wide Audience: Beneficial and cost-effective for startups, research institutions, consultants, SMEs, and large enterprises.",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   },
+   {
+    "quote": "10.1. Major Players and Strategy Analysis",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   },
+   {
+    "quote": "Startups",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Corporation led the competitive landscape with the broadest enterprise portfolio",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   }
+  ],
+  "投資": [
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "pass": 3
+   },
+   {
+    "quote": "ラダーコンベヤベルトの世界市場（2026年～2032年）、市場規模（ワイヤーラダーコンベヤベルト、ゴム／PVCラダーベルト）・分析レポートを発表",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "pass": 3
+   },
+   {
+    "quote": "30% of our revenue is generated working with investment firms and helping them identify viable opportunity areas.",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Per hyperscaler capital expenditure disclosures in 2025 annual filings, combined cloud infrastructure investment exceeded",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, the rise of smart city initiatives and Industry 4.0 is prompting businesses to adopt advanced DBMS for efficient data handling. The region's strong focus on technological advancements, coupled with increased cloud infrastructure investments, is further propelling domestic market growth.",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "pass": 3
+   },
+   {
+    "quote": "of the market in 2025, with Brazil and Mexico emerging as primary growth hubs driven by digitization of banking and financial services, expanding e-commerce ecosystems, and increasing cloud infrastructure investment by regional telecom providers and hyperscalers. The region is expected to record a CAGR of",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "in aggregate funding during 2024-2025.",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   },
+   {
+    "quote": "10.5 Investment Scenario",
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "データベース管理システム ( Dbms ) 市場 規模と予測 [2026-2035] — データベース管理システム ( Dbms ) 市場 規模と予測 [2026-2035] Business Research Insights https://www.businessresearchinsights.com > ... > 情報技術",
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/database-management-system-dbms-market-102368",
+    "pass": 3
+   },
+   {
+    "quote": "DBMS市場 規模、シェア、業界動向、2033年予測 — DBMS市場 規模、シェア、業界動向、2033年予測 IMARC Group https://www.imarcgroup.com > Technology & Media",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "15 Companies in Database Management System ( DBMS ... — 15 Companies in Database Management System ( DBMS ... Spherical Insights https://www.sphericalinsights.com > t...",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Report, 2024-2030 — Database Management System Market Report, 2024-2030 Grand View Research https://www.grandviewresearch.com > ...",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 DBMS Market share by company - LinkedIn — Top 10 DBMS Market share by company - LinkedIn LinkedIn https://www.linkedin.com > pulse > to...",
+    "url": "https://www.linkedin.com/pulse/top-10-dbms-market-share-company-datanique-global-luvjf/",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Size | CAGR of 11.7% — Database Management System Market Size | CAGR of 11.7% Market.us https://market.us > report > global-dat...",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "pass": 3
+   },
+   {
+    "quote": "US Database Management System Market Sector Growth | 2035 — US Database Management System Market Sector Growth | 2035 Market Research Future https://www.marketresearchfuture.com > ...",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market Size & Trends 2034 — Database Management System Market Size & Trends 2034 The Insight Partners https://www.theinsightpartners.com > ...",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "pass": 3
+   },
+   {
+    "quote": "Database Management System Market - Forecasts from 2025 ... — Database Management System Market - Forecasts from 2025 ... Research and Markets https://www.researchandmarkets.com > ...",
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "pass": 3
+   }
+  ]
+ },
+ "figures": {
+  "CAGR": [
+   {
+    "value": "10.8",
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "quote": "当社のリサーチアナリストによる分析によると、世界のデータベース管理システム（DBMS）市場は、予測期間（2025年～2034年）において、年平均成長率（CAGR）約10.8%で成長すると予測されています"
+   },
+   {
+    "value": "12.9",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "quote": "2024〜2029年度のCAGR（年平均成長率）は12.9％と予測されています"
+   },
+   {
+    "value": "17.2",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "quote": "2026～2032年の年平均成長率（CAGR）：17.2%"
+   },
+   {
+    "value": "4.49",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "quote": "世界の炭酸カリウム顆粒市場動向、年平均成長率4.49%で拡大継続2026-2032"
+   },
+   {
+    "value": "9.8",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "quote": "無水乳脂肪の世界市場規模：年平均成長率9.8%予測、最新トレンドと需要変化2026-2032"
+   },
+   {
+    "value": "9.5",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "quote": "世界の酸化アルミニウム銅市場動向、年平均成長率9.5%で拡大継続2026-2032"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "quote": "【最新予測】治療用抗体発見サービス市場規模、2026年に2144百万米ドルへ｜年平均成長率11.7%で推移予測"
+   },
+   {
+    "value": "12.42",
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "quote": "今後、IMARC Groupは同市場が2033年までに3670億米ドルに達し、2025年から2033年の間に年平均成長率（CAGR）12.42％を示すと予測しています"
+   },
+   {
+    "value": "11.7",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "2024年に795億米ドルと推定されるデータベース管理システム（DBMS）の世界市場は、2024年から2030年にかけてCAGR 11.7%で成長し、2030年には1,546億米ドルに達すると予測されます"
+   },
+   {
+    "value": "12.6",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "本レポートで分析しているセグメントの1つであるソフトウェアは、CAGR 12.6%を記録し、分析期間終了時には1,177億米ドルに達すると予測されています"
+   },
+   {
+    "value": "9.3",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "ハードウェア分野の成長率は、分析期間中CAGR 9.3％と推定されます"
+   },
+   {
+    "value": "15.9",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "米国市場は209億米ドルと推定、中国はCAGR 15.9％で成長予測"
+   },
+   {
+    "value": "8.6",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "その他の注目すべき地域別市場としては、日本とカナダがあり、分析期間中のCAGRはそれぞれ8.6%と9.5%と予測されています"
+   },
+   {
+    "value": "8.9",
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "quote": "欧州では、ドイツがCAGR 8.9%で成長すると予測されています"
+   },
+   {
+    "value": "7.7",
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "quote": "同市場の売上規模は2029年には9,934億円に達して、2024年～2029年の年間平均成長率（CAGR：Compound Annual Growth Rate）は7.7％で推移します"
+   },
+   {
+    "value": "7.14",
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "quote": "As per Market Research Future analysis, the Database Management System Market (DBMS) Market Size was estimated at 60.7 USD Billion in 2024. The DBMS industry is projected to grow from 65.04 USD Billion in 2025 to 129.64 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR) of 7.14% du"
+   },
+   {
+    "value": "10.7",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "quote": "The database management system market in the United States is expected to reach a projected revenue of US$ 60.8 billion by 2030. A compound annual growth rate of 10.7% is expected of the United States database management system market from 2025 to 2030."
+   },
+   {
+    "value": "12",
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "quote": "System is expected to reach USD 270.52 billion by 2034, with a CAGR of 12 % between 2026 and 2034."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "quote": "The global database management system market size was valued at USD 100.8 billion in 2023 and is projected to grow from USD 148.6 billion in 2026 to USD 241.3 billion by 2030, at a CAGR of 13.1% from 2024 to 2030. North America dominated the market, accounting for a revenue share of 39.0% in 2023. O"
+   },
+   {
+    "value": "11.7",
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "quote": "Database Management System Market Size | CAGR of 11.7%"
+   },
+   {
+    "value": "7.1",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "quote": "As per Market Research Future analysis, the US database management system market size was estimated at 15.54 USD Billion in 2024. The US database management-system market is projected to grow from 16.65 USD Billion in 2025 to 33.19 USD Billion by 2035, exhibiting a compound annual growth rate (CAGR)"
+   },
+   {
+    "value": "7.14",
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "quote": "The expected CAGR during the forecast period is 7.14%."
+   },
+   {
+    "value": "12.82",
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "quote": "Database Management System market is expected to register a CAGR of 12.82% from 2026 to 2034, with the market size expanding from US$ 135.44 Billion in 2025 to US$ 401.07 Billion by 2034."
+   }
+  ],
+  "上位シェア%": [
+   {
+    "value": "73",
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "quote": "レビュー件数のシェアでHotBiz8が73％"
+   },
+   {
+    "value": "65",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "quote": "データベース運用管理は、2037 年までに市場全体の 65% を占める最高のシェアを占めると予測されています"
+   },
+   {
+    "value": "60",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "quote": "大企業セグメントは、2037 年までに市場全体の 60% を占める最高のシェアを保持すると予測されています"
+   },
+   {
+    "value": "40",
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "quote": "北米は、2037 年までに市場全体の 40% を占める最高の市場シェアを保持すると予測されています"
+   },
+   {
+    "value": "28.6",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "quote": "In terms of revenue, U.S. accounted for 28.6% of the global database management system market in 2024."
+   },
+   {
+    "value": "68.6",
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "quote": "Relational was the largest segment with a revenue share of 68.6% in 2024."
+   },
+   {
+    "value": "13.1",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "quote": "The global database management system market size was valued at USD 100.8 billion in 2023 and is projected to grow from USD 148.6 billion in 2026 to USD 241.3 billion by 2030, at a CAGR of 13.1% from 2024 to 2030. North America dominated the market, accounting for a revenue share of 39.0% in 2023. O"
+   },
+   {
+    "value": "39.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "quote": "The global database management system market size was valued at USD 100.8 billion in 2023 and is projected to grow from USD 148.6 billion in 2026 to USD 241.3 billion by 2030, at a CAGR of 13.1% from 2024 to 2030. North America dominated the market, accounting for a revenue share of 39.0% in 2023. O"
+   },
+   {
+    "value": "62.0",
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "quote": "By type, the relational segment led the market in 2023, accounting for over 62.0% share of the global revenue."
+   },
+   {
+    "value": "67.57",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "quote": "Based on deployment, the market has been categorized into cloud and on-premises. The cloud segment captured the largest share of 67.57% in 2023. The cloud database is rapidly gaining traction as organizations increasingly migrate their data management solutions to cloud environments."
+   },
+   {
+    "value": "44.12",
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "quote": "North America database management system market accounted for the largest revenue share of 44.12% in 2023, with a valuation of USD 39.99 billion. This dominance is reinforced by the rapid adoption of advanced technologies and the strong presence of leading market players."
+   },
+   {
+    "value": "39",
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "quote": "North America dominated the Database Management System (DBMS) Market in 2025 with approximately 39% market share."
+   }
+  ]
+ },
+ "checked": {
+  "pass3": [
+   {
+    "url": "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketreportsworld.com/jp/market-reports/database-management-system-dbms-market-14724696",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itr.co.jp/topics/pr-20230209-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketgrowthreports.com/jp/market-reports/enterprise-database-management-system-dbms-market-101001",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111475",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/database/article/89-10822",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/jp/market-reports/database-management-system-dbms-market-102368",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://db-engines.com/en/ranking",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/skomeda/n/nfed1ad4986d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/3472062",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atpress.ne.jp/news/9448974",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gii.co.jp/report/moi1644440-database-automation-market-share-analysis-industry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/database-management-system-market-111475",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mordorintelligence.com/industry-reports/database-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://market.us/report/global-database-management-system-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quora.com/What-is-the-databases-dbms-market-share-in-numbers-What-is-the-nosql-market-share",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://technographics.6sense.com/relational-databases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businessresearchinsights.com/market-reports/enterprise-database-management-system-market-101502",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quest.com/whitepaper/the-database-management-market-landscape-and-the-evolving-dba/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://my.idc.com/getdoc.jsp?containerId=IDC_P31626",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kingsresearch.com/database-management-system-market-1114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natlawreview.com/press-releases/database-management-system-market-size-share-and-trends-analysis-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/en/documents/7834381",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dataintelo.com/report/data-base-management-systems-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "データベース管理システム 市場規模 CAGR",
+   "results": [
+    "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "https://jp.linkedin.com/pulse/%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%8B%95%E5%90%91%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4%E3%81%AE%E6%88%90%E9%95%B7%E3%82%92%E6%A4%9C%E8%A8%BC%E3%81%972026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE-cagr-%E3%82%92127%E3%81%A8%E3%81%97%E3%81%BE%E3%81%99-8ijke",
+    "https://www.marketreportsworld.com/jp/market-reports/database-management-system-dbms-market-14724696",
+    "https://www.itr.co.jp/topics/pr-20230209-1",
+    "https://www.marketgrowthreports.com/jp/market-reports/enterprise-database-management-system-dbms-market-101001",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111475",
+    "https://www.mordorintelligence.com/ja/industry-reports/database-market",
+    "https://www.atpress.ne.jp/news/9448974",
+    "https://www.gminsights.com/ja/industry-analysis/information-technology-service-management-market",
+    "https://www.industryresearch.biz/jp/market-reports/database-management-system-dbms-market-112101"
+   ]
+  },
+  {
+   "query": "データベース管理システム 市場 シェア 上位 企業",
+   "results": [
+    "https://www.marketreportsworld.com/jp/market-reports/database-management-system-dbms-market-14724696",
+    "https://it-trend.jp/database/article/89-10822",
+    "https://www.businessresearchinsights.com/jp/market-reports/database-management-system-dbms-market-102368",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111475",
+    "https://db-engines.com/en/ranking",
+    "https://www.marketgrowthreports.com/jp/market-reports/enterprise-database-management-system-dbms-market-101001",
+    "https://note.com/skomeda/n/nfed1ad4986d9",
+    "https://www.atpress.ne.jp/news/3472062",
+    "https://mono.ipros.com/cg2/%E3%83%87%E3%83%BC%E3%82%BF%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/",
+    "https://www.industryresearch.biz/jp/market-reports/database-management-system-dbms-market-112101"
+   ]
+  },
+  {
+   "query": "データベース管理システム 市場 前年比 2025",
+   "results": [
+    "https://www.zionmarketresearch.com/ja/report/database-management-systems-dbms-market",
+    "https://www.imarcgroup.com/report/ja/database-management-system-market",
+    "https://www.fortunebusinessinsights.com/jp/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%B8%82%E5%A0%B4-111475",
+    "https://www.atpress.ne.jp/news/9448974",
+    "https://www.marketgrowthreports.com/jp/market-reports/enterprise-database-management-system-dbms-market-101001",
+    "https://www.gii.co.jp/report/moi1644440-database-automation-market-share-analysis-industry.html",
+    "https://my.idc.com/getdoc.jsp?containerId=prJPJ53602825",
+    "https://it-trend.jp/database/article/89-10822",
+    "https://www.businessresearchinsights.com/jp/market-reports/database-management-system-dbms-market-102368",
+    "https://www.sdki.jp/reports/global-database-management-system-dbms-market/114865"
+   ]
+  },
+  {
+   "query": "database management system market size CAGR 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/database-management-system-market-111475",
+    "https://www.marketresearchfuture.com/reports/database-management-system-market-1972",
+    "https://www.grandviewresearch.com/horizon/outlook/database-management-system-market/united-states",
+    "https://www.mordorintelligence.com/industry-reports/database-market",
+    "https://www.maximizemarketresearch.com/market-report/global-relational-database-management-system-market/90652/",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "https://market.us/report/global-database-management-system-market/",
+    "https://www.linkedin.com/pulse/investigating-operational-database-management-system-market-inbwe",
+    "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "https://www.snsinsider.com/reports/database-management-system-market-6381"
+   ]
+  },
+  {
+   "query": "database management system market share top players percent",
+   "results": [
+    "https://db-engines.com/en/ranking",
+    "https://www.fortunebusinessinsights.com/database-management-system-market-111475",
+    "https://www.grandviewresearch.com/industry-analysis/database-management-systems-dbms-market",
+    "https://www.mordorintelligence.com/industry-reports/database-market",
+    "https://www.linkedin.com/pulse/top-10-dbms-market-share-company-datanique-global-luvjf/",
+    "https://market.us/report/global-database-management-system-market/",
+    "https://www.quora.com/What-is-the-databases-dbms-market-share-in-numbers-What-is-the-nosql-market-share",
+    "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "https://www.6sense.com/tech/relational-databases",
+    "https://www.statista.com/statistics/809750/worldwide-popularity-ranking-database-management-systems/"
+   ]
+  },
+  {
+   "query": "database management system market competitive landscape fragmented OR consolidated",
+   "results": [
+    "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "https://www.theinsightpartners.com/reports/database-management-system-market",
+    "https://market.us/report/global-database-management-system-market/",
+    "https://www.businessresearchinsights.com/market-reports/enterprise-database-management-system-market-101502",
+    "https://www.linkedin.com/pulse/database-management-system-dbms-market-size-share-trends-myz8c",
+    "https://www.quest.com/whitepaper/the-database-management-market-landscape-and-the-evolving-dba/",
+    "https://www.fortunebusinessinsights.com/database-management-system-market-111475",
+    "https://my.idc.com/getdoc.jsp?containerId=IDC_P31626",
+    "https://www.kingsresearch.com/database-management-system-market-1114",
+    "https://consolidatednd.com/"
+   ]
+  },
+  {
+   "query": "database management system market key companies share 2025",
+   "results": [
+    "https://www.fortunebusinessinsights.com/database-management-system-market-111475",
+    "https://www.marketresearchfuture.com/reports/us-database-management-system-market-17929",
+    "https://www.researchandmarkets.com/reports/6050610/database-management-system-market-forecasts?srsltid=AYCX9vI7tnUn4h0-w_hOPL-OoeFg0fQlv99ROjr9uS9_rH8VW2EFQRCk",
+    "https://natlawreview.com/press-releases/database-management-system-market-size-share-and-trends-analysis-report",
+    "https://www.sphericalinsights.com/blogs/top-15-companies-in-global-database-management-system-dbms-market-statistics-report-till-2035",
+    "https://www.mordorintelligence.com/industry-reports/database-market",
+    "https://www.linkedin.com/pulse/top-10-dbms-market-share-company-datanique-global-luvjf",
+    "https://market.us/report/global-database-management-system-market/",
+    "https://www.gartner.com/en/documents/7834381",
+    "https://dataintelo.com/report/data-base-management-systems-market"
+   ]
+  }
+ ],
+ "missing": {}
+}

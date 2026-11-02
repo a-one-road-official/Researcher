@@ -1,0 +1,1892 @@
+{
+ "name": "Haas Automation",
+ "aliases": [
+  "Haas F1",
+  "Haas",
+  "ハース"
+ ],
+ "context": "工作機械メーカーがF1チームを所有（米）",
+ "researched_at": "2026-11-02T14:30:20.377719+00:00",
+ "official_url": "https://www.haascnc.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "Number of employees",
+    "value": "1,300 (Oxnard HQ, 2018) [ 1 ]",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "部品・技術の供給": [
+   {
+    "quote": "Explore our complete range of CNC machines, from vertical and horizontal machining centers to turning centers and automation systems. Find the right machine for your production needs.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation Systems",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Widescreen Monitor for the Haas Control. This larger touchscreen monitor provides a larger viewing area to display more information at the same time. The touchscreen interface allows easy screen navigation, data entry, and other control functions on-screen, without using the keypad. Genuine carbon fiber bezel.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Table Auxiliary Air Supply",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Table Auxiliary Air Supply; provides a connection for compressed air directly at the machine’s table.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This is where Haas machines come to life. Manufacturing and Production team members work hands on to build high quality CNC machines using modern tools, processes, and equipment. You will be part of a fast paced team that turns raw components into finished machines used in shops around the world.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Assembly roles put you at the heart of what we do. You will assemble precision mechanical and electrical systems, work closely with detailed build processes, and see your work come together as a fully functioning Haas machine. If you like working with your hands and taking pride in precision, this is where it happens.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "by supplying the Russian arms industry with CNC machines via Abamet Management, which distributes parts in Russia and Belarus and with whom Haas severed ties in March 2022.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The mini mill was introduced as a small footprint alternative to the VF series mills, featuring a smaller casting while still maintaining a 40 taper spindle.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The TM series was first introduced as essentially a \"CNC-capable toolroom mill”. Originally, these mills did not feature an enclosure, but have since been outfitted with an enclosure that encompasses the bottom and sides of the machine. These machines are characterized by a smaller casting and slower rapids, as they are targeted towards customers who do not require production capabilities.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "\"U.S. company Haas appears to still indirectly supply Russian arms industry with technology\"",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Systems",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace is one of the most stringent industries in terms of manufacturing and the components have to be accurate, durable and reliable. At the center of this precision manufacturing is the",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": ", and among the leading suppliers of these machines is",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In the aerospace industry, precision engineering is not a goal, but a necessity. Advanced features on Haas CNC machines guarantee this level of precision. They’ve, for example, rigid structure, high efficiency spindles on their vertical machining centers and horizontal machining centers, all with purpose of minimizing vibration and providing noise free cuts.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with aerospace components often means working with exotic and difficult to machine materials such as titanium, Inconel, and advanced composites. These materials have high strength to weight ratio and can withstand extreme temperatures, but are extremely difficult to machine.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "An example of this is the Haas TRT (Tilt-Rotate Table) series of 5 axis machines which provide the necessary flexibilty to machine these intricate parts, like turbine blades and engine components, with high accuracy. Aeropace is of particular importance since precision is so vital, and all designs consist of complex geometries.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, if applied, this integration can provide increased productivity, reduced downtime and better quality control. For instance, Haas machines can integrate with monitoring systems that monitor real time performance metrics and allow predictive maintenance and optimized production workflows.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, Haas supplies its clients with extensive customer support via its service centers and distributors worldwide. This guarantees that aerospace manufacturers have access to immediate help and spare parts, and so that downtime is kept to a minimum, and production continues uninterrupted.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "is a robotics community that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12) that can be facilitated in school or in structured afterschool programs. An international not-for-profit organization founded by accomplished inventor Dean Kamen in 1989,",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "In 2002, Haas formed his own NASCAR Cup Series team, Haas CNC Racing. Originally headquartered in Concord, North Carolina, Haas CNC Racing began as a single-car team with chassis and technical support from Hendrick Motorsports. The team made its debut on Sept. 29, 2002 at Kansas Speedway in Kansas City with driver Jack Sprague.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "The first American Formula One team since 1986 operates out of an 11,600-square-meter (125,000-square-foot) facility adjacent to Haas’ NASCAR Cup Series team in Kannapolis, North Carolina. Haas F1 Team also has a European base in Banbury, Oxfordshire, U.K., allowing for easier and quicker access to the team’s overseas suppliers and streamlined logistics for travel to European Formula One venues.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Organizational Strategy, Structure and Process",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "ライセンス・ブランド": [
+   {
+    "quote": "Shop Equipment",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 30% off hundreds of machines. Ready to ship now.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chip Removal",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make and Remove Chips Efficiently",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore financing options that can help you add the machines, tooling, and equipment your shop needs while managing your investment.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip to Content",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This is where Haas machines come to life. Manufacturing and Production team members work hands on to build high quality CNC machines using modern tools, processes, and equipment. You will be part of a fast paced team that turns raw components into finished machines used in shops around the world.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Logistics and Warehouse roles keep the entire operation moving. From receiving parts to shipping finished machines, this team ensures everything is in the right place at the right time. It is fast moving, highly coordinated work that plays a critical role in the success of the factory.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are hiring across multiple areas including:",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "About Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "From Wikipedia, the free encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "equipment, such as",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The company denied the allegations and asserted it had departed Russia prior to the invasion, while remaining Haas equipment were taken over by an independent distributor.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "https://en.wikipedia.org/w/index.php?title=Haas_Automation&oldid=1383315623",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with short description",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Short description matches Wikidata",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": ". Wikipedia® is a registered trademark of the",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "License our Company Data API",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Equip...",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Used Haas CNC machines were preferred 54% more than other CNC brands in Q4 2020",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Skip To Content Button",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip To Content",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Equipment",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "How about some machine cutting action? Check out our demo videos to see Haas machines making chips fly.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "We know the only way you make money is by making chips. Our elite crew of factory-trained and -certified technicians have local manufacturing knowledge, and are available to help ensure you get the best service.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have an extensive inventory of service and maintenance parts on hand for quick access. In addition, our California headquarters can ship a needed replacement part to our HFO the same day it’s ordered – 99% of the time.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why should your next CNC machine be a Haas? Take a quick trip through the factory with us, and you’ll see why Haas should be at the top of your list the next time you need a CNC mill or lathe.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "MyHaas is your “one-stop” resource for managing your machines, accessing machine-specific resources, saving machine quotes, ordering parts, setting up HaasConnect, and even signing up for online Haas Certification courses – it’s all right there at your fingertips.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zip Code",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Philippines",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "This price includes shipping cost, export and import duties, insurance, and any other expenses incurred during shipping to a location in France agreed with you as a buyer. No other mandatory costs can be added to the delivery of a Haas CNC Product.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Keep up with the latest Haas tips and technology",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas CNC Machines In Aerospace | Premier Equipment Inc.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Fabrication Equipment",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine Brands",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "View All Brands",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Premier Equipment Inc.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Machine Brands",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "have been serving different branches of manufacturing for over thirty years, and they are especially relevant to aerospace industry due to the high demands placed on the equipment.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "include the manufacturing of parts for aircraft, space vehicles and missiles and these all have very high standards and tolerances. Any changes in the dimensions and/or material properties can be disastrous, therefore, the selection of the machining equipment is paramount. Here, Haas CNC machines have been preferred due to reliability in delivering quality and accurately finished parts.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "As the industry continues to change, Haas Automation matches that change with new materials, new technologies and ever changing regulatory requirements. For aerospace manufacturing, the selection of Haas CNC machines are not only about equipment, rather it is a commitment of excellence and safety.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Grabenau is the Vice President of Operations for Premier Equipment. Michael has been in the manufacturing industry for over 30 years with expertise in CNC machines.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Premier Equipment specializes in used CNC machines",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "with equipment such as used CNC lathes, used CNC mills and used CNC verticals. Our extensive inventory is useful to our customers who want to stay informed on brands like used Mazak, used Haas, used Doosan, used DMG Mori and used Okuma!",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Premier Equipment is a proud American company",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Email: quotes@premierequipment.com",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": ": quotes@premierequipment.com",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Brands",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical Engineering Scholarship",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. Veteran Scholarship",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Chip Blaster",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 by Premier Equipment Used CNC |",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas FIRST Partnership",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skip To Content Button",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   }
+  ],
+  "レース・ワンメイク": [
+   {
+    "quote": "Shop by Series",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Haas machines by series, with each lineup designed around specific capabilities, performance levels, and production requirements.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop by Series carousel, slide 1 of 4",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VF Series",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ST Series Turning Centers",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From the Factory Floor to Formula 1",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The mindset required to compete in Formula 1 is the same mindset that drives our manufacturing teams every day. Attention to detail matters. Execution matters. Teamwork matters.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VF Series",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Drill/Tap/Mill Series (DT / DM)",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series (GM / GR)",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "VF series mills are a range of 3-axis vertical machining centers, which can be outfitted with 4th and 5th axis drives if so configured. These mills are available in different sizes, ranging from VF-1 to VF-14.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The mini mill was introduced as a small footprint alternative to the VF series mills, featuring a smaller casting while still maintaining a 40 taper spindle.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The TM series was first introduced as essentially a \"CNC-capable toolroom mill”. Originally, these mills did not feature an enclosure, but have since been outfitted with an enclosure that encompasses the bottom and sides of the machine. These machines are characterized by a smaller casting and slower rapids, as they are targeted towards customers who do not require production capabilities.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The Haas DT series was originally introduced as a 30 taper high-speed machine, ideal for operations where high speed and small footprint are required, but the ability to handle large axial cutting loads is not needed. Eventually, the DM series was introduced as a 40 taper variant of the DT machine, but does not offer the 20,000 RPM spindle option.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "The CM is focused on machining small parts where high accuracy is required. The CM is a 20 taper machine, with spindles from 30,000 to 50,000 RPM. Haas only offers one machine in this series, the CM-1.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "VM Series",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "VR Series",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "machines are based on the VF series, but include a special head to allow A and B axis capabilities. VR machines are able to machine larger parts than would be possible on a VF machine outfitted with a 5th axis",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "series mills feature an HSK-T/A63 spindle and are capable of performing both milling and turning operations.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "VF Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "VR Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Drill/Tap/ Mill Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "ST Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Box Way Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Special Series",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "EU_Series_Redirect",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "An example of this is the Haas TRT (Tilt-Rotate Table) series of 5 axis machines which provide the necessary flexibilty to machine these intricate parts, like turbine blades and engine components, with high accuracy. Aeropace is of particular importance since precision is so vital, and all designs consist of complex geometries.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Formula One",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ", and was fielding a full-time two car team in the Cup Series. At the end of 2008, the team was still struggling with a career-average finish of just under 27th place.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ". Stewart won the 2011 Sprint Cup Championship, winning five of the ten Chase races.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "that day and claimed his third Sprint Cup Championship. Stewart-Haas won their second Cup title with",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "in 2014. On September 30, 2015, Stewart announced his retirement from the Cup Series as a driver following the 2016 season.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Truck Series",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "event at New Hampshire in September 2014, Haas joined a select club of owners who have won as an owner in all three national touring series, joining",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "championship in",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "initially named Haas Formula and Haas Racing Developments.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ". The rolling road accurately simulates the dynamics of a car on the race track, unlike traditional fixed-floor tunnels. Construction of the new wind tunnel began in 2007 and was completed by year-end. After six months of commissioning, the wind tunnel opened to its first customer, a Formula One race team, in July 2008. Today the Wind Shear facility counts numerous NASCAR,",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "IndyCar",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ", Formula One and",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "American Le Mans Series",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Formula 1 (2018-04-08).",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "www.formula1.com",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "\"NASCAR team boss Gene Haas plans new Formula 1 squad for 2015\"",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "\"Haas Formula will defer Formula One entry until 2016\"",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "\"Gene Haas changes the name of his new Formula 1 team\"",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "eNASCAR Coca-Cola iRacing Series",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "NASCAR Cup Series Championships",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Overall championships",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Regular season championships",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "NASCAR Xfinity Series Championships",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Drivers' Championship",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Owners' Championship",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "For Gene Haas, founder of Haas F1 Team in the FIA Formula One World Championship, that has proven to be his formula for success in business, racing and philanthropy.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 2007, Haas built Windshear, one of the most advanced automotive wind tunnels in the world. It opened to its first customer, a Formula One team, in September 2008.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to his professional accomplishments, Haas is passionate about auto racing. He has competed successfully in off-road racing and sponsored numerous race teams through the years in CART, INDYCAR, Formula One and NASCAR.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 2002, Haas formed his own NASCAR Cup Series team, Haas CNC Racing. Originally headquartered in Concord, North Carolina, Haas CNC Racing began as a single-car team with chassis and technical support from Hendrick Motorsports. The team made its debut on Sept. 29, 2002 at Kansas Speedway in Kansas City with driver Jack Sprague.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "The team raced only two more times in 2002, but by 2003, Haas CNC Racing was running the full NASCAR Cup Series schedule.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 2006, Haas CNC Racing relocated to a new, state-of-the-art, 13,000-square-meter (140,000-square-foot) facility in Kannapolis, North Carolina, where it began fielding two, full-time NASCAR Cup Series teams.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "Up to 30% off hundreds of machines. Ready to ship now.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "local \"factory outlet\" businesses that provide sales, service, and applications support for Haas machine tools. Introduced in 1999, with the first outlet established in",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "VP Sales and Marketing",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue (est)",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Employee Growth %",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Used Haas CNC machines were preferred 54% more than other CNC brands in Q4 2020",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Best Sales Lead Database",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Haas products are distributed through a network of more than 170 locally owned and operated Haas Factory Outlets, in more than 60 countries. Haas Factory Outlets (HFOs) provide the best sales, service, and support in the machine tool industry.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have an extensive inventory of service and maintenance parts on hand for quick access. In addition, our California headquarters can ship a needed replacement part to our HFO the same day it’s ordered – 99% of the time.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": ") that provide the industry’s best sales, service, and support. Haas’",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation is now the largest machine tool manufacturer in the United States. Sales for 2014 reached a record, reportedly exceeding $1 billion worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Stewart would drive for the team and in return would be given a 50% stake in the company. Stewart led the points for much of 2009, winning four times at",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Wind Shear is owned 100% by Haas.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "\"Haas Automation revenue tops $1 billion in 2014\"",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Founds Haas Automation, which will become the largest machine tool manufacturer in North America with annual sales eclipsing $1 billion.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "By 1997, Haas had shipped its 10,000th CNC machine, making it the largest unit-volume machine tool manufacturer in America. By 2006, Haas Automation had exceeded $700 million in sales, and in 2007 the company installed its 75,000th machine.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Much of Haas Automation's success and growth has come from a continuous investment in new products. Its goal is to have 10 percent of annual sales come from new products. It now offers more than 100 different standard models to service all of the market niches it has discovered.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "In 2005, 44 percent of Haas shipments went to Europe or Asian markets. By 2010, it expects to be exporting 65 to 70 percent of its factory output, with as many as 4,000 units going to Europe and 3,000 units to China.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Developing new sales channels",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "The machine tool industry had relied on independent distributors as its primary sales channel. But as financial and service problems worsened, manufacturers began selling direct, and distributors began representing foreign companies. This, of course, led to enormous customer service problems and customer dissatisfaction.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Typically direct their products or services to a limited segment of the total potential market;",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "顧客名": [
+   {
+    "quote": "There is no one-size-fits-all solution. Choose from a wide selection of pre-engineered solutions, with an emphasis on being easy, affordable, and versatile.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-leading Haas UMCs make 5-axis machining simple, affordable, and accessible to everyone, with versatile configurations for multi-sided and complex parts.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Affordable, easy to use, and beginner friendly, these lathes deliver the precision control and flexibility of the Haas CNC system, even without G-code experience.",
+    "url": "https://haascnc.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gantry Series (GM / GR)",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gantry Series mills feature a static bed, a bridge that moves along the Y axis, and a head that moves along the X axis. The two primary use cases for GM series machines are large molds. GM series machines feature a more substantial casting with improved chip management as opposed to the GR series. The GM-2-5AX is also available, which is simply a GM-2 featuring two extra axes affixed to the head.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale Equip...",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Slovakia",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hyundai-Wia",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Slovakia",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Lockheed",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Ford EcoBoost 400",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Racing",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Scuderia Ferrari",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan Gifford",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Its inaugural year with Ford started off with a bang, as Busch won the season-opening Daytona 500. Harvick also joined Busch in the winner’s circle, taking victories at Sonoma in June and Texas Motor Speedway in Fort Worth in November. Both drivers represented SHR in the playoffs, with Harvick advancing all the way to the Championship 4 for the third time in the last four years.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "The first American Formula One team since 1986 operates out of an 11,600-square-meter (125,000-square-foot) facility adjacent to Haas’ NASCAR Cup Series team in Kannapolis, North Carolina. Haas F1 Team also has a European base in Banbury, Oxfordshire, U.K., allowing for easier and quicker access to the team’s overseas suppliers and streamlined logistics for travel to European Formula One venues.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi Arabia",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Slovakia",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Typically direct their products or services to a limited segment of the total potential market;",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "GM Maryland tranny plant gets solar power system",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "車以外の顧客・産業": [
+   {
+    "quote": "Medical Plan*",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Find information on Haas Automation's Anthem health insurance plans and medical costs by visiting:",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas offers competitive compensation and a comprehensive benefits package, which may include medical, dental, vision, retirement plans, and paid time off. Specific details are provided during the hiring process.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". While one competes at the highest level of global motorsport and the other builds CNC machines used around the world, both share the same foundation: precision, performance, and engineering excellence.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The company is also involved in motorsports: it owns the",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": ", for $27.4 million to expand its business, planning to build 4.3 million square feet of commercial space with 2.3 million square feet intended for a $327 million manufacturing facility",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "in January 2025 for \"21 apparent violations of sanctions related to the defense and energy sectors of the Russian Federation",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "certified company. All machine tools carry the ETL Listed mark, certifying that they conform to the NFPA 79 electrical standard for industrial machinery and the Canadian equivalent, CAN/CSA C22.2 No. 73.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsports",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas CNC Machines In Aerospace | Premier Equipment Inc.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas CNC Machines in Aerospace",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace is one of the most stringent industries in terms of manufacturing and the components have to be accurate, durable and reliable. At the center of this precision manufacturing is the",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "have been serving different branches of manufacturing for over thirty years, and they are especially relevant to aerospace industry due to the high demands placed on the equipment.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "The Need for Precision in Aerospace",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace manufacturing",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "include the manufacturing of parts for aircraft, space vehicles and missiles and these all have very high standards and tolerances. Any changes in the dimensions and/or material properties can be disastrous, therefore, the selection of the machining equipment is paramount. Here, Haas CNC machines have been preferred due to reliability in delivering quality and accurately finished parts.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In the aerospace industry, precision engineering is not a goal, but a necessity. Advanced features on Haas CNC machines guarantee this level of precision. They’ve, for example, rigid structure, high efficiency spindles on their vertical machining centers and horizontal machining centers, all with purpose of minimizing vibration and providing noise free cuts.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Material Challenges",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Working with aerospace components often means working with exotic and difficult to machine materials such as titanium, Inconel, and advanced composites. These materials have high strength to weight ratio and can withstand extreme temperatures, but are extremely difficult to machine.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In the aerospace industry, advanced machining techniques such as 5 axis machining are sometimes necessary to machine complex geometries in one setup. These techniques are supported by Haas CNC machines because of their multi axis capabilities and advanced software tools.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, if applied, this integration can provide increased productivity, reduced downtime and better quality control. For instance, Haas machines can integrate with monitoring systems that monitor real time performance metrics and allow predictive maintenance and optimized production workflows.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace manufacturing is complex and requires not just advanced machinery, but skilled operators. This need is recognized by Haas Automation and they offer training programs for their users. Courses are available, and certifications can be earned, through the network of over 2,000 schools and training centers worldwide in the",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, Haas supplies its clients with extensive customer support via its service centers and distributors worldwide. This guarantees that aerospace manufacturers have access to immediate help and spare parts, and so that downtime is kept to a minimum, and production continues uninterrupted.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace manufacturing is regulated, and very strictly so, by organizations such as the Federal Aviation Administration (FAA) and the European Aviation Safety Agency (EASA). To meet these regulatory requirements, Haas CNC machines are built to produce parts that meet industry standards.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "For example, traceability can be a feature on any Haas machine, which documents every step in the machining process from start to finish for the purposes of compliance with regulatory requirements. In the aerospace industry, safety is of the utmost importance and this type of transparency and accountability is critical.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision and reliability are not just nice to have in the high stakes world of aerospace manufacturing, they are absolute necessities. The Haas CNC machines have become leaders in this field, delivering the precision, advanced capabilities and support aerospace manufacturers require.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "As the industry continues to change, Haas Automation matches that change with new materials, new technologies and ever changing regulatory requirements. For aerospace manufacturing, the selection of Haas CNC machines are not only about equipment, rather it is a commitment of excellence and safety.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "For further information on Haas CNC machines and their applications in aerospace, you can visit the",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Industries Association",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.aia-aerospace.org/",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Aviation Administration",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Transport a Used CNC Machine",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "®, a robotics community that prepares young people for the future, today announced The Gene Haas Foundation as a",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "is a robotics community that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12) that can be facilitated in school or in structured afterschool programs. An international not-for-profit organization founded by accomplished inventor Dean Kamen in 1989,",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Motorsport",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": ", another unrelated motorsport team owner.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Hendrick Motorsports",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "to better promote its involvement in the chosen sport.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "FIRST Robotics Competition",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Manufacturing and Design",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Autosport.com",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ". Motorsport. Archived from",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ". Autosport",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "American motorsport people",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Haas was born on Nov. 12, 1952 in the industrial town of Youngstown, Ohio. For someone born in what used to be known as the “Industrial Heartland of North America,” it’s appropriate that Haas has become a captain of industry, where his company, Haas Automation, is the largest CNC machine tool builder in North America.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 2002, Haas formed his own NASCAR Cup Series team, Haas CNC Racing. Originally headquartered in Concord, North Carolina, Haas CNC Racing began as a single-car team with chassis and technical support from Hendrick Motorsports. The team made its debut on Sept. 29, 2002 at Kansas Speedway in Kansas City with driver Jack Sprague.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Won first Monster Energy NASCAR Cup Series championship in 2011 with driver Tony Stewart.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Won second Monster Energy NASCAR Cup Series championship in 2014 with driver Kevin Harvick.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Formed NASCAR Xfinity Series team in 2017 to develop drivers and team personnel for its flagship Monster Energy NASCAR Cup Series teams.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In the glory days of the 1960s and 1970s, military and aerospace customers purchased highly specified and custom machine tools, which absorbed much engineering and didn't lead to commercially competitive or low-price machines.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation has made extensive use of just-in-time production, lean- manufacturing techniques, automation, and robotics to keep costs low. The company continually reviews its processes (both machining and assembly) to simplify them and take out time and waste.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "China is a very good market for Haas machine tools. China is the largest consumer of machine tools in the world, and will continue to be so long into the future. The factors that make Haas products attractive in the China market are:",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Maintenance and Facilities",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance and Facilities team members keep the factory running at its best. You will work on advanced equipment, systems, and infrastructure, solving problems and preventing downtime. This role is essential to maintaining a safe, reliable, and efficient manufacturing environment.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", for $27.4 million to expand its business, planning to build 4.3 million square feet of commercial space with 2.3 million square feet intended for a $327 million manufacturing facility",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Bar Feeders",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have an extensive inventory of service and maintenance parts on hand for quick access. In addition, our California headquarters can ship a needed replacement part to our HFO the same day it’s ordered – 99% of the time.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Feedback",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Misc. CNC (Router, BARFEED, Rotary Table, Saws, etc.)",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, if applied, this integration can provide increased productivity, reduced downtime and better quality control. For instance, Haas machines can integrate with monitoring systems that monitor real time performance metrics and allow predictive maintenance and optimized production workflows.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Misc. - Saws, Chucks, Barfeeds, Rotary Tables, Tooling, Robots, Routers & More",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Feedback",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "1,000,000 square feet (93,000",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Founds Haas Automation, which will become the largest machine tool manufacturer in North America with annual sales eclipsing $1 billion.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Much of Haas Automation's success and growth has come from a continuous investment in new products. Its goal is to have 10 percent of annual sales come from new products. It now offers more than 100 different standard models to service all of the market niches it has discovered.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Adopt-a-Mill — Another unique method of monitoring is for a manager and an engineer to select a customer and call them once a month for one year to find out how the customer's machine is performing, and what he likes or dislikes about the machine. This is direct feedback to management, and also more input to the quality program.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "創業期と参入のしやすさ": [
+   {
+    "quote": "Haas provides role-specific training to help employees succeed. Depending on the position, this may include hands-on training, safety programs, and team-based onboarding to ensure you are fully prepared for your role.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation is an established manufacturing company with decades of experience. The Henderson facility is an expansion of our operations, not a startup.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Henderson facility is being built as a modern manufacturing environment designed for efficiency, safety, and teamwork. Employees will work in a clean, organized, and professional setting focused on quality and performance.",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Number of employees",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "founded Haas Automation in 1983 in",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "In August, a follow-up investigation by the ESCU suggested Haas was still indirectly providing resources to the Russian military through Suzhou Sup Bestech Machine Tools Co, a Chinese liaison that was founded two weeks after Haas formally ended operations in Russia.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "is used for evaluation of Safety.",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue & Valuation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Total Funding",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Employees.",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Employees",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Stand out in the industry as a qualified CNC operator, or ensure your team has the skills they need to properly and safely operate a CNC machine – by becoming Haas Certified. Our online CNC Certification Program provides you – or your employees – with the knowledge and skills necessary for basic CNC machine operation.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1983, starting with a single machine in a small southern California hangar, Haas Automation has become one of the world’s leading producers of CNC machines. The product line includes vertical machining centers, horizontal machining centers, lathes, grinders, and rotary tables. It’s what separates Haas from other companies: quality, innovation, and customer support.",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "through their generous and impactful support. Together, these strategic partners provide significant funding, mentorship, volunteerism, equipment, and more to enhance the reach and overall impact of",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "is a robotics community that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12) that can be facilitated in school or in structured afterschool programs. An international not-for-profit organization founded by accomplished inventor Dean Kamen in 1989,",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founder of",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "(born November 12, 1952) is the American founder, president, and sole stockholder of",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "machine tool manufacturer. He also has founded the",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 1980, Haas noticed that it took one of his employees a long time to manually position an",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "in 2014. On September 30, 2015, Stewart announced his retirement from the Cup Series as a driver following the 2016 season.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": ". The rolling road accurately simulates the dynamics of a car on the race track, unlike traditional fixed-floor tunnels. Construction of the new wind tunnel began in 2007 and was completed by year-end. After six months of commissioning, the wind tunnel opened to its first customer, a Formula One race team, in July 2008. Today the Wind Shear facility counts numerous NASCAR,",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "The Gene Haas Foundation was founded in 1999 to provide grants to Ventura County community charities as the Boys and Girls Clubs, Food Share, Rescue Mission, and others.",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Founder",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "For Gene Haas, founder of Haas F1 Team in the FIA Formula One World Championship, that has proven to be his formula for success in business, racing and philanthropy.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "In 2007, Haas built Windshear, one of the most advanced automotive wind tunnels in the world. It opened to its first customer, a Formula One team, in September 2008.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Founder and chairman, Haas F1 Team, the only American team competing in the FIA Formula One World Championship.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Owner of Haas CNC Racing in the NASCAR Sprint Cup Series and NASCAR Xfinity Series.",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "The Haas Automation story is not only instructive in its lessons; it contains many of the elements that manufacturers in a variety of industries should focus on to compete in the global economy. And it is easiest to tell the story by comparing the original machine tool manufacturers with the start-up in terms of the following critical factors.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation has long been aware of American manufacturing's need for skilled workers, and the looming skills gap resulting from the decline of manufacturing training programs. As part of its service offering, Haas invested in training programs both at the factory and in their Haas Factory Outlets. Haas pays for skills training and education classes for its factory employees.",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "dseeds@nelsonpub.com",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Customer Success Stories - Haas Automation Inc. — Customer Success Stories - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > Testimonials",
+    "url": "https://haascnc.com/Community/customers/Testimonials/Customer_Success_Stories.html",
+    "pass": 3
+   },
+   {
+    "quote": "Careers - Haas Automation Inc. — Careers - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > about > careers",
+    "url": "https://haascnc.com/about/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Haas Automation — Careers at Haas Automation haashenderson.com https://www.haashenderson.com",
+    "url": "https://www.haashenderson.com/",
+    "pass": 3
+   },
+   {
+    "quote": "India Customer Testimonials - Haas Automation Inc. — India Customer Testimonials - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > customers > Ind...",
+    "url": "https://haascnc.com/Community/customers/India_Customer_Testimonials.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation - Wikipedia — Haas Automation - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Haas...",
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation - Overview, News & Similar companies — Haas Automation - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > haas-aut...",
+    "url": "https://www.zoominfo.com/c/haas-automation-inc/53054709",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation : Revenue , Competitors, Alternatives - Growjo — Haas Automation : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Haas_Automation",
+    "url": "https://growjo.com/company/Haas_Automation",
+    "pass": 3
+   },
+   {
+    "quote": "Haas record: $1 B revenue , 14000 machines — Haas record: $1 B revenue , 14000 machines Shop Metalworking Technology https://shopmetaltech.com > machining",
+    "url": "https://shopmetaltech.com/machining/haas-record-1-b-revenue-14-000-machines/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation , Inc.: Decision Makers, Org Chart & Contacts — Haas Automation , Inc.: Decision Makers, Org Chart & Contacts Zeliq https://www.zeliq.com > manufacturing",
+    "url": "https://www.zeliq.com/company/united-states/manufacturing/machinery-manufacturing/haas-automation-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Haas CNC Machine Replacement Parts — Haas CNC Machine Replacement Parts Haas Automation Inc. https://haascnc.com > owners > Haas-...",
+    "url": "https://haascnc.com/owners/Haas-Parts-Find-Your-Haas-Factory-Outlet.html",
+    "pass": 3
+   },
+   {
+    "quote": "Why Haas - Haas Automation Inc. — Why Haas - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > whyhaas",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, Haas now has Fabrication Equipment . And, we're kicking ... — Yes, Haas now has Fabrication Equipment . And, we're kicking ... Facebook https://www.facebook.com > HaasAutomationInc > posts",
+    "url": "https://www.facebook.com/HaasAutomationInc/posts/yes-haas-now-has-fabrication-equipment-and-were-kicking-off-with-20-off-all-new-/1391682846327304/",
+    "pass": 3
+   },
+   {
+    "quote": "About | HFO Phillips - Haas Automation Inc. — About | HFO Phillips - Haas Automation Inc. Haas CNC https://haascnc.com > HFO > about",
+    "url": "https://haascnc.com/HFO/HFO-Phillips/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas Automation Inc. | CNC Machine Tool Company — Haas Automation Inc. | CNC Machine Tool Company Haas Automation Inc. https://haascnc.com",
+    "url": "https://haascnc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "L&S Machine - Haas Automation — L&S Machine - Haas Automation Haas Automation Inc. https://haascnc.com > LS_Machine",
+    "url": "https://haascnc.com/Community/customers/Testimonials/LS_Machine.html",
+    "pass": 3
+   },
+   {
+    "quote": "Haas CNC Machines In Aerospace | Premier Equipment Inc. — Haas CNC Machines In Aerospace | Premier Equipment Inc. Premier Equipment Inc. https://premierequipment.com > haas-...",
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "pass": 3
+   },
+   {
+    "quote": "Great Lakes Aerospace Uses Haas CNC Machines for Aircraft ... — Great Lakes Aerospace Uses Haas CNC Machines for Aircraft ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/HaasAutomationInc/videos/based-in-northwest-ohio-great-lakes-aerospace-and-machine-specializes-in-repairi/1578587799464869/",
+    "pass": 3
+   },
+   {
+    "quote": "Haas FIRST Partnership - Haas Automation Inc. — Haas FIRST Partnership - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > htec > newsletter",
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion and Haas Automation — Autodesk Fusion and Haas Automation Autodesk https://www.autodesk.com > fusion-360",
+    "url": "https://www.autodesk.com/campaigns/fusion-360/fusion-360-and-haas-automation",
+    "pass": 3
+   },
+   {
+    "quote": "2 - Mill - Legal Information - Haas Automation Inc. — 2 - Mill - Legal Information - Haas Automation Inc. Haas Automation Inc. https://haascnc.com > service > mill---...",
+    "url": "https://haascnc.com/service/online-operator-s-manuals/mill-operator-s-manual/mill---legal-information.html",
+    "pass": 3
+   },
+   {
+    "quote": "18 haas machines...and counting ‍   Industrial Bolting ... — 18 haas machines...and counting ‍   Industrial Bolting ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/HaasAutomationInc/videos/18-haas-machinesand-counting-industrial-bolting-technologies-is-putting-us-manuf/787966817194640/",
+    "pass": 3
+   },
+   {
+    "quote": "Gene Haas - Wikipedia — Gene Haas - Wikipedia Wikipedia https://en.wikipedia.org > Gene_Haas",
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "pass": 3
+   },
+   {
+    "quote": "Gene Haas - Haas F1 Team — Gene Haas - Haas F1 Team Haas F1 https://www.haasf1team.com > team",
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "pass": 3
+   },
+   {
+    "quote": "Behind the Haas phenomenon - Tooling & Production — Behind the Haas phenomenon - Tooling & Production Tooling & Production https://www.toolingandproduction.com > ...",
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "pass": 3
+   },
+   {
+    "quote": "Haas team founder Gene Haas in motorsport - Facebook — Haas team founder Gene Haas in motorsport - Facebook Facebook https://www.facebook.com > thehardcompound > posts",
+    "url": "https://www.facebook.com/thehardcompound/posts/a-z-of-motorsport-h-is-forhaasgene-haas-is-a-businessman-first-and-foremost-but-/253390002741364/",
+    "pass": 3
+   },
+   {
+    "quote": "How did Gene Haas make his money? - Quora — How did Gene Haas make his money? - Quora Quora https://www.quora.com > How-did-G...",
+    "url": "https://www.quora.com/How-did-Gene-Haas-make-his-money",
+    "pass": 3
+   }
+  ],
+  "他社向けサービス": [
+   {
+    "quote": "There are currently more than 300,000 Haas CNC machines installed around the world, being used by job shops, contract engineering firms, and manufacturers worldwide to make parts for nearly every industry.",
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://haascnc.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://haascnc.com/machines/shop-equipment",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/machines/fab-machines",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/machines/press-brakes",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/about/terms/cookie.html",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://haascnc.com/Community/customers/Testimonials/Customer_Success_Stories.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/about/careers",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haashenderson.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/haas-automation-inc/53054709",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Haas_Automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/owners/Haas-Parts-Find-Your-Haas-Factory-Outlet.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/whyhaas/whyhaas.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Haas_Automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/Community/customers/Testimonials/LS_Machine.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://haascnc.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.autodesk.com/campaigns/fusion-360/fusion-360-and-haas-automation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Gene_Haas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haasf1team.com/season/team/gene-haas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Haas Automation engineering services clients other industries",
+   "results": [
+    "https://haascnc.com/Community/customers/Testimonials/Customer_Success_Stories.html",
+    "https://haascnc.com/about/careers",
+    "https://www.haashenderson.com/",
+    "https://haascnc.com/Community/customers/India_Customer_Testimonials.html",
+    "https://en.wikipedia.org/wiki/Haas_Automation",
+    "https://be.linkedin.com/company/haas-automation/life",
+    "https://community.firstinspires.org/exploring-stem-skills-in-manufacturing-at-haas-automation",
+    "https://www.haas.co.uk/resources/our-customers/industry/",
+    "https://www.haascnc.com/",
+    "https://www.haascnc.com/whyhaas/whyhaas.html"
+   ]
+  },
+  {
+   "query": "Haas Automation revenue turnover employees",
+   "results": [
+    "https://en.wikipedia.org/wiki/Haas_Automation",
+    "https://www.zoominfo.com/c/haas-automation-inc/53054709",
+    "https://growjo.com/company/Haas_Automation",
+    "https://shopmetaltech.com/machining/haas-record-1-b-revenue-14-000-machines/",
+    "https://www.zeliq.com/company/united-states/manufacturing/machinery-manufacturing/haas-automation-inc",
+    "https://www.aerospacemanufacturinganddesign.com/news/haas-automation-revenue-tops-billion-020515/",
+    "https://www.ibisworld.com/united-states/supplieriq/haas-automation-inc/424780/",
+    "https://www.reveliolabs.com/companies/haas-automation/employees",
+    "https://rocketreach.co/haas-automation-inc-profile_b5c71595f42e0d28",
+    "https://incfact.com/company/haasautomation-oxnard-ca/"
+   ]
+  },
+  {
+   "query": "Haas Automation supplies components to OEM",
+   "results": [
+    "https://haascnc.com/owners/Haas-Parts-Find-Your-Haas-Factory-Outlet.html",
+    "https://haascnc.com/whyhaas/whyhaas.html",
+    "https://en.wikipedia.org/wiki/Haas_Automation",
+    "https://www.facebook.com/HaasAutomationInc/posts/yes-haas-now-has-fabrication-equipment-and-were-kicking-off-with-20-off-all-new-/1391682846327304/",
+    "https://haascnc.com/HFO/HFO-Phillips/about.html",
+    "https://www.ien.com/video/video/21084667/made-in-america-haas-automation",
+    "https://www.facebook.com/HaasAutomationInc/videos/inside-the-factory-of-an-american-manufacturer-haascnc-haasautomation-usa-haas-c/1043992521617925/",
+    "https://www.haastooling.com/service-parts?srsltid=AYCX9vIHANHYvIjtyY9z8r9HUxanyvioLm8w1gipO861kTtQthl5UXF0",
+    "https://haascnc.com/HFO/HFO-Phillips-Federal/about.html",
+    "https://www.haascnc.com/owners/Haas-Parts-Find-Your-Haas-Factory-Outlet.html"
+   ]
+  },
+  {
+   "query": "Haas Automation aerospace defence non-automotive",
+   "results": [
+    "https://haascnc.com/",
+    "https://haascnc.com/Community/customers/Testimonials/LS_Machine.html",
+    "https://premierequipment.com/cnc-blog/haas-cnc-machines-in-aerospace/",
+    "https://www.haashenderson.com/",
+    "https://www.facebook.com/HaasAutomationInc/videos/based-in-northwest-ohio-great-lakes-aerospace-and-machine-specializes-in-repairi/1578587799464869/",
+    "https://en.wikipedia.org/wiki/Haas_Automation",
+    "https://www.ien.com/video/video/21084667/made-in-america-haas-automation",
+    "https://www.linkedin.com/company/haas-automation",
+    "https://ofac.treasury.gov/media/933956/download?inline",
+    "https://www.haascnc.com/shop/industry/aerospace-defense.html"
+   ]
+  },
+  {
+   "query": "Haas Automation licensing technology partnership",
+   "results": [
+    "https://haascnc.com/nl/htec/resources/newsletter/FIRST_partnership.html",
+    "https://haascnc.com/",
+    "https://www.autodesk.com/campaigns/fusion-360/fusion-360-and-haas-automation",
+    "https://haascnc.com/service/online-operator-s-manuals/mill-operator-s-manual/mill---legal-information.html",
+    "https://www.facebook.com/HaasAutomationInc/videos/18-haas-machinesand-counting-industrial-bolting-technologies-is-putting-us-manuf/787966817194640/",
+    "https://www.linkedin.com/company/haas-automation",
+    "https://haascnc.com/HFO/HFO-Phillips/about.html",
+    "https://www.transperfect.com/insights/case-studies/haas-automation/",
+    "https://www.cityofhenderson.com/Home/Components/News/News/1270/567",
+    "https://www.partnerbase.com/haas-automation"
+   ]
+  },
+  {
+   "query": "Haas Automation founder early days first customer funding",
+   "results": [
+    "https://en.wikipedia.org/wiki/Gene_Haas",
+    "https://www.haasf1team.com/season/team/gene-haas",
+    "https://www.toolingandproduction.com/features/2008_February/0208_cover_story.aspx",
+    "https://www.facebook.com/thehardcompound/posts/a-z-of-motorsport-h-is-forhaasgene-haas-is-a-businessman-first-and-foremost-but-/253390002741364/",
+    "https://www.quora.com/How-did-Gene-Haas-make-his-money",
+    "https://elotroladodelascarreras.blog/2014/04/11/who-is-gene-haas/",
+    "https://www.youtube.com/watch?v=ECZBDf9S7O0",
+    "https://eicc-scott.academicworks.com/donors/gene-haas-foundation",
+    "https://www.reddit.com/r/NASCAR/comments/11rfz5y/haas_automationamerican_company_accused_of/",
+    "https://en.wikipedia.org/wiki/Haas_Automation"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部18頁・検索6回）"
+ }
+}

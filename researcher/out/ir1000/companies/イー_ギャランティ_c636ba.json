@@ -1,0 +1,2038 @@
+{
+ "name": "イー・ギャランティ",
+ "aliases": [],
+ "context": "証券コード8771／その他金融業／プライム（内国株式）／2026.03期 売上高11,030百万円 営業利益率47.2%",
+ "researched_at": "2026-11-02T14:46:15.721848+00:00",
+ "official_url": "https://www.eguarantee.co.jp/",
+ "identified_by": "search:yahoo_jp:イー・ギャランティ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "2000年9月8日",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "194名（2026年3月31日現在）",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "信用リスク受託・流動化事業",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "リスクを引き受けてほしい企業と、リスクを引き受け収益を上げたい企業が集まる信用リスクのマーケットというビジネスモデル",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの強みは、その独自の金融ビジネスモデルからきています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティは、企業間取引で発生する信用リスクをヘッジし、日本において新しい金融ビジネスモデルで企業のチャレンジを応援しています",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "生産性の高いビジネスモデルで24期連続増収増益を達成",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "02収益構造",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益構造：保証債務が積み上がる高収益ストック型モデル",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック性の高い収益構造：売上高推移",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型の収益構造により、景気変動に左右されない極めて安定した売上成長を実現",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商流と各企業の強み",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "網羅的な企業間商流",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(事業系統図)",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の幅広いお客様にサービスをご提案",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地方銀行、信用金庫、証券会社など多くの有力なパートナーとともに、全国各地の様々なお客様の課題にあわせたソリューションをご提案しています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先を多く抱える企業にとっては、取引先のリスク管理と債権回収業務がかなりの業務負担になっています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの一定金額以下の取引をすべて保証するサービスで、少額の取引先のリスク管理業務をゼロにすることができます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※CDSは資本金10億円以上の法人のお客様に限りお申し込み可能です",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の社内システムと連動し、リアルタイムで企業の信用度を確認して販売可能額を把握できる仕組みも構築できます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スピード感のある企業審査で、お客様の決断を後押しし取引のチャンスを逃しません",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はそのリスク度合いを原価に加味した利益率を算出することができ、合理的な価格を設定することができます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様向けサイト",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様の保証対象先の追加審査やお申し込みはこちら",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ご利用中のお客様の請求書発行、お取引先の入金状況確認、お客様への振込予定の確認はこちら",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "小口債権サブスクリプション型保証のminimalをご利用中のお客様はこちら",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティは、引き受けたリスクは自社で保有せずファンドなどに流動化するとともに、リスクをヘッジしたい顧客企業と接点を持つ過程でも、自社の販売網だけではなく、販売パートナーとタッグを組んで販売網を展開しています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、その企業の多くは今すぐでなくとも、今後何年かのうちに、私たちのサービスを使う潜在的なお客様になっていただいています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの販売パートナーは、それぞれの顧客企業の本業に貢献できるサービスを提案することで顧客企業との関係強化を実現しており、イー・ギャランティはその一部で活用されています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズに対し既存の仕組みで対応できなければ、複数の商品を組み合わせたり、ときには海外企業に製造ノウハウを伝達し希望する商品を作れる体制整備まで行って、顧客のニーズにこたえています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、金融分野で総合商社のように既存の仕組みにとらわれずに顧客のニーズにこたえていく、そのような発想のもとにイー・ギャランティはスタートしました",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "保証サービスでは、取引先の倒産等の事象発生時の未回収リスクを保証するので、貸し倒れ発生時の事務手続きや、貸し倒れ分を補填するための資金調達等の業務負荷を軽減することができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "また、eGCollectという決済サービスでは、取引先への代金請求をアウトソーシングすることができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、私たちは取引先の信用リスク引受に関するサービスを通じて、日本の中小企業が本業に注力し、その強みを最大限に生かすことができる環境づくりに貢献したいと考えています",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外にもお客様のご要望にあわせたオーダーメイドの商品設計が可能です",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "ご契約中のお客様",
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "少額の取引先リスク管理業務からの解放",
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先ごとの利益率、正しく見積もれます",
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、企業の本質をみることでより多くの企業に信用供与を広げ、社会課題を解決する新しいサービスが生まれ続ける社会を金融という側面から支援していきたいと考えています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国各地の幅広いお客様にサービスをご提案",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地方銀行、信用金庫、証券会社など多くの有力なパートナーとともに、全国各地の様々なお客様の課題にあわせたソリューションをご提案しています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、社会課題を解決する新しいサービスが生まれ続ける社会を目指しています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティのサービスで、リスクを適切にコントロールできるので貴重なチャンスを逃しません",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "与信管理体制がない企業でも、イー・ギャランティのサービスで大手商社や金融機関に匹敵する与信管理体制を構築することができ、自社の体力によってとれるリスク上限の制限を受けずに事業を展開することができます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フィンテック企業は新しく便利な金融サービスを得意としている一方、企業のリスク審査等の周辺分野にノウハウがない場合があります",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの一定金額以下の取引をすべて保証するサービスで、少額の取引先のリスク管理業務をゼロにすることができます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業には、商品開発力、製造工程によるスピード対応、営業力など多くの強みがあります",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティのサービスを使えば、そもそも代金の回収行為をなくし、重要分野へスタッフを再配置することができます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "後納郵便保証サービスで資金負担を最小限に抑え、EC事業者の皆様の商品発送をもっと手軽に",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティ・ソリューション株式会社",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このリスク流動化の過程においてリスクは細分化され分散されるので、高額リスクの引受や低コストでのリスク引受が可能となり、私たちのサービスの大きな強みとなっているのです",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナーは有力地方銀行をはじめ、証券会社、信用金庫などで、年間1万社を超える企業に保証という商品を紹介する機会を得ています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、その企業の多くは今すぐでなくとも、今後何年かのうちに、私たちのサービスを使う潜在的なお客様になっていただいています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの販売パートナーは、それぞれの顧客企業の本業に貢献できるサービスを提案することで顧客企業との関係強化を実現しており、イー・ギャランティはその一部で活用されています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の日本の金融は、銀行以外の金融事業も金融商品取引法などでその役割が明確化され、新規参入できる環境が整った状況にありました",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客のニーズに対し既存の仕組みで対応できなければ、複数の商品を組み合わせたり、ときには海外企業に製造ノウハウを伝達し希望する商品を作れる体制整備まで行って、顧客のニーズにこたえています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「商社が複数の商品を組み合わせるように、様々なリスクの引受け手のリスク許容力を組み合わせ、積み上げて大きなリスク引受を実現しよう",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電子商取引における決済サービスにおいてファクタリング会社が保有する金融債権の保証を目的として設立",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "通常取引分野における企業間取引に伴う売上債権を包括的に保証する「包括保証サービス」を事業会社向けに提供開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1社からでも個別企業ごとの売上債権を保証する「個別保証サービス」を開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ファクタリング会社以外の金融法人向け保証サービスを本格開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企業の資金繰りニーズに応える手形買取サービスの取り扱いを開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "電子債権に関する合弁会社をNECキャピタルソリューション株式会社との間で設立を合意、4月設立",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "契約関連事務及びデータ登録業務など各種業務の受託を行う子会社を設立（イー・ギャランティ・ソリューション株式会社）",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "韓国現地金融機関と提携し韓国向け輸出債権保証サービスを開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "小口売掛債権の保証サービスの提供を行う子会社を設立（アールジー保証株式会社）",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "交通銀行と提携し中国向け輸出債権保証サービスを開始",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "（イー・ギャランティ・シェアードサービス株式会社）",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティ・シェアードサービス株式会社をイージーペイメント株式会社に社名変更",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業には、商品開発力、製造工程によるスピード対応、営業力など多くの強みがあります",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの各種サービスを導入することによって、周辺業務の負荷を軽減させ自社の強みに資源を集中していくことができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "保証サービスでは、取引先の倒産等の事象発生時の未回収リスクを保証するので、貸し倒れ発生時の事務手続きや、貸し倒れ分を補填するための資金調達等の業務負荷を軽減することができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "また、eGCollectという決済サービスでは、取引先への代金請求をアウトソーシングすることができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、私たちは取引先の信用リスク引受に関するサービスを通じて、日本の中小企業が本業に注力し、その強みを最大限に生かすことができる環境づくりに貢献したいと考えています",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外にもお客様のご要望にあわせたオーダーメイドの商品設計が可能です",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス一覧",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "本データは法令又は金融商品取引所の規則等で義務付けられているものではありません",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい金融サービスにもかかせない役割",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "料金後納保証サービス",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "リスク流動化の過程においてリスクは細分化され分散されるので、高額リスクの引受や低コストでのリスク引受が可能となり、私たちのサービスの大きな強みとなっています",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、優れた技術やサービスを有していても、保有する土地や現金が多くない企業は資金調達が難しく、望んでいる取引が実現できないケースが発生しています",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多くのビジネスパートナーとともに、",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地方銀行、信用金庫、証券会社など多くの有力なパートナーとともに、全国各地の様々なお客様の課題にあわせたソリューションをご提案しています",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自社の経営資源にこだわらず強力な販売パートナーとともに事業を展開",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティは、引き受けたリスクは自社で保有せずファンドなどに流動化するとともに、リスクをヘッジしたい顧客企業と接点を持つ過程でも、自社の販売網だけではなく、販売パートナーとタッグを組んで販売網を展開しています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナーは有力地方銀行をはじめ、証券会社、信用金庫などで、年間1万社を超える企業に保証という商品を紹介する機会を得ています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "多くの販売パートナーは、それぞれの顧客企業の本業に貢献できるサービスを提案することで顧客企業との関係強化を実現しており、イー・ギャランティはその一部で活用されています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの販売パートナーまたは以下よりお気軽にお問合せください",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "販売パートナー一覧",
+    "url": "https://www.eguarantee.co.jp/service-info11/",
+    "pass": 1
+   },
+   {
+    "quote": "お近くの販売パートナーまたは以下よりお気軽にお問合せください",
+    "url": "https://www.eguarantee.co.jp/service-info11/",
+    "pass": 1
+   },
+   {
+    "quote": "他：パートナー企業へ支払う",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介手数料等",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に金融機関から取引先の紹介をもらっている",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材が高い生産性で稼ぐ「人員連動型」×ストックという稀有なモデルを強みとしながら、セールスパートナーモデル・AIを",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業人員数の推移",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①営業資源拡大 –営業人員拡大の継続・早期戦力化–",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続き営業人員拡大を継続すると同時に、AIやITを活用した",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "②営業資源を使わない売上獲得 –セールスパートナーモデル-",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従来の営業フローでは営業人員数の制約を受けやすくアプローチは限定的だったが、セールス型パートナー企業がクロージング",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーに",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "から顧客紹介",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇨ 代理店数×代理店あたりの顧客数という掛け算で成長するため、直販より高いスケーラビリティ",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナー 他",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⇨ 信用金庫等、マッチング型パートナー企業を継続的に拡大",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セールス型パートナーから",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーから",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "パートナーが",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業人員数（人） 109 95 113",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きの不透明さや、物価上昇による債権額の増加に対する債権保全ニーズの高まりに対応すべく、営業人員の増員",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "をはじめとした営業体制の強化を行いました",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きの不透明さや、物価上昇による債権額の増加に対する債権保全ニーズの高まりに対応すべく、営業人員の増員",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/10/20221028_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "をはじめとした営業体制の強化を行いました",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/10/20221028_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "きの不透明さや、物価上昇による債権額の増加に対する債権保全ニーズの高まりに対応すべく、営業人員の増員",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/07/20220729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "をはじめとした営業体制の強化を行いました",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/07/20220729.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "対する債権保全ニーズの高まりに対応すべく、営業人員の増員をはじめとした営業体制の強化",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 営業体制を強化して顧客数の拡大を目指し、企業活動における信用リスクに関するサービスの",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これらのニーズに対し営業体制を強化して対応していく",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．営業体制の強化 ①営業人員の増加",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "した保証サービスの需要の高まりを見込んで、それらに対応すべく前期末比３０％強の営業人員を増加する",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業人員30％増加を予定 早期資源化の実現",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保証ニーズが高まっているが十分に対応しきれていなかった首都圏以外の地域について、営業人員を増加さ",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１.営業体制の強化 ②各拠点の強化",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 出張を基本とした地方営業体制から拠点を起点",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とした地域密着の営業体制へ",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主として当社がリスク移転先に支払う保証料(支払保証料)及び代理店に支払う紹介料(支払手数料)に係る前払相",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=8771",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=8771",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業には、商品開発力、製造工程によるスピード対応、営業力など多くの強みがあります",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その強みに資源を集中させることができるように、信用リスク管理の面から中小企業を支えていきます",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国に張り巡らされたネットワークが強みの日本郵便",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの強みは、その独自の金融ビジネスモデルからきています",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "このリスク流動化の過程においてリスクは細分化され分散されるので、高額リスクの引受や低コストでのリスク引受が可能となり、私たちのサービスの大きな強みとなっているのです",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために – イー・ギャランティ株式会社",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業には、商品開発力、製造工程によるスピード対応、営業力など多くの強みがあります",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "その一方で、大企業に比べ人的資源が限られており、スタッフの資源や、また時には最大の優良資源である経営者の資源が周辺分野にさかれてしまうと、本来の強みに資源を集中できず、さらなる成長や利益率上昇のさまたげになっている状況もみられます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "イー・ギャランティの各種サービスを導入することによって、周辺業務の負荷を軽減させ自社の強みに資源を集中していくことができます",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "このように、私たちは取引先の信用リスク引受に関するサービスを通じて、日本の中小企業が本業に注力し、その強みを最大限に生かすことができる環境づくりに貢献したいと考えています",
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "売上高、営業利益、売上高営業利益率",
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "リスク流動化の過程においてリスクは細分化され分散されるので、高額リスクの引受や低コストでのリスク引受が可能となり、私たちのサービスの大きな強みとなっています",
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "日本の中小企業の強みを最大限に生かすために",
+    "url": "https://www.eguarantee.co.jp/service-info11/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率 １人あたり経常利益",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*1 ダイヤモンドZaiオンライン「連続「増収増益」期間ランキング公開！【2026年版】1位は｢パンパシHD｣の34期！｢増収＆増益｣を継続する期間が長い｢長期安定成長株｣の45銘柄を一挙に公開！」より （2026年2月23日公開）*2 EDINET DB「営業利益率 — ランキング — 上場企業",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率は過去3期平均50%を実現",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益構造：保証債務が積み上がる高収益ストック型モデル",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "*1 過去3期の平均 *2 EDINET DB「営業利益率 — ランキング — 上場企業トップ100」より（2026年5月13日時点）",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "蓄積した企業間取引に係る信用データが値付け・流動化・集客を支え、リスクを引き受けるほど深まる参入障壁を形成",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商流と各企業の強み",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材が高い生産性で稼ぐ「人員連動型」×ストックという稀有なモデルを強みとしながら、セールスパートナーモデル・AIを",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 82.81% 81.95% 82.13% 80.39% 76.82% 77.10% 77.91% 76.47% 74.10% 72.51% 73.06% 73.19%",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 51.38% 52.18% 53.24% 52.92% 48.53% 48.78% 49.93% 49.92% 46.07% 45.78% 46.92% 47.16%",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また各地方拠点の配属人員を増加させ、強み",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を基盤とした、リアルタイムな与信判断が可能であるという強みを活かし、今後も企業向けにDXサービスや決済",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いう強みを活かし、今後も企業向けにDXサービスや決済サービスの提供を強化してまいります",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/01/20220128.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保証サービスで培ったリスクを引き受ける強みと、フィンテック企業から多くのリスク引き受け要請があり、事",
+    "url": "https://www.eguarantee.co.jp/uploads/2021/10/20211029_1.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月10日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年04月01日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月22日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年10月10日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年08月02日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年問題とは？政府の行っている対策は",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年07月26日",
+    "url": "https://www.eguarantee.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年9月8日",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 – イー・ギャランティ株式会社",
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の剰余金の配当につきましては、業績の動向及び配当性向等を総合的に勘案した結果、上記方針に基づき１株当たり40円となりました",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第3四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第2四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 第1四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第3四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第2四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 第1四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算説明会",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第3四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第2四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 第1四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 期末決算説明会",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第3四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第2四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期 第1四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 期末決算説明会",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第3四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第1四半期業績発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期 期末決算説明会",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期 決算発表",
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期から株",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月末現在",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年3月末時点",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2000年 伊藤忠商事の金融子会社として設立",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2007年 ジャスダック上場",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2008年 ファンドによるリスク流動化を開始",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2011年 東証二部へ指定替え",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2012年 東証一部へ指定替え",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年 東証プライムへ移行",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 販売ネットワークである業務提携先100社突破、保証残高２兆円突破",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年～ レバレッジの効くモデルの取組開始、融資保証事業へ進出",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度倒産動向レポート",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年3月期 2025年3月期 2026年3月期",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年３月期 第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年１月30日",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月期第3四半期 6,298 7.4 3,172 12.5 3,235 15.1 2,211 20.2",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月期第3四半期 5,864 10.7 2,819 23.2 2,811 22.2 1,840 23.1",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月期第3四半期 46.89 45.53",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月期第3四半期 39.61 38.35",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月期第3四半期 26,416 21,295 74.0 413.84",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月期 25,256 19,716 71.9 387.62",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月期 － 0.00 － 26.00 26.00",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年3月期 － 0.00 －",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "小口債権サブスクリプション型保証のminimalをご利用中のお客様はこちら",
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "pass": 1
+   },
+   {
+    "quote": "るストック型収益",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "収益構造：保証債務が積み上がる高収益ストック型モデル",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型ビジネス",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "紹介手数料等",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック性の高い収益構造：売上高推移",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック型の収益構造により、景気変動に左右されない極めて安定した売上成長を実現",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "人材が高い生産性で稼ぐ「人員連動型」×ストックという稀有なモデルを強みとしながら、セールスパートナーモデル・AIを",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック×レバレッジ",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック×人員連動フロー×人員連動",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新卒社員の早期戦力化 ⇨ 単価のみ課題が残る",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "単価上昇のための提案作成",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現し、単価向上につなげる",
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの行使による収入 2,905,182 810,012",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主として当社がリスク移転先に支払う保証料(支払保証料)及び代理店に支払う紹介料(支払手数料)に係る前払相",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１．発行済株式総数の増加3,223,400株は、ストック・オプションの行使によるものであります",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストック・オプショ",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１．発行済株式総数の増加1,115,600株は、ストック・オプションの行使1,115,200株及び譲渡制限付株式報酬",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの運転資金需要のうち主なものは、リスク移転先への支払保証料、販売チャネルへ支払う諸手数料、販売費及び一般管理費等の営業費用であります",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "所有者別株式構成比",
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等） ………………………………………………………………………………18",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業は、「信用保証事業」のみの単一セグメントにより構成されております",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報)",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは報告セグメントが信用保証事業のみであるため、記載は省略しております",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "（単一セグメント）",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "単一セグメントの企業の場合は、連結（あるいは単体）の売上と営業利益を反映しています",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業は、「信用保証事業」のみの単一セグメントにより構成されております",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは報告セグメントが信用保証事業のみであるため、記載は省略しております",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの固定資産の減損損失に関する情報】",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとののれんの償却額及び未償却残高に関する情報】",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "【報告セグメントごとの負ののれん発生益に関する情報】",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業概要 – イー ・ ギャランティ 株式会社 — 事業概要 – イー ・ ギャランティ 株式会社 イー・ギャランティ株式会社 https://www.eguarantee.co.jp > company > business",
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "会社説明資料 - イー ・ ギャランティ — 会社説明資料 - イー ・ ギャランティ イー・ギャランティ株式会社 PDF https://www.eguarantee.co.jp > uploads > 2023/11",
+    "url": "https://www.eguarantee.co.jp/uploads/2023/11/20231114.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ギャランティ の企業情報 | CFN（CareerForum.Net） — イー ・ ギャランティ の企業情報 | CFN（CareerForum.Net） CFN https://careerforum.net > companylist_82 > company_detail",
+    "url": "https://careerforum.net/ja/event/onf/companylist_82/3939/company_detail/",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ギャランティ 株式会社の事業とカルチャー - Wantedly — イー ・ ギャランティ 株式会社の事業とカルチャー - Wantedly Wantedly https://www.wantedly.com > company_2077440 > about",
+    "url": "https://www.wantedly.com/companies/company_2077440/about",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ – イー ・ ギャランティ 株式会社 — IRライブラリ – イー ・ ギャランティ 株式会社 イー・ギャランティ株式会社 https://www.eguarantee.co.jp > ir-library",
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 イー ・ ギャランティ 】[8771]有価証券報告書 | 日経電子版 — 【 イー ・ ギャランティ 】[8771]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=8771",
+    "pass": 3
+   },
+   {
+    "quote": "ニュース – イー ・ ギャランティ 株式会社 — ニュース – イー ・ ギャランティ 株式会社 イー・ギャランティ株式会社 https://www.eguarantee.co.jp > news",
+    "url": "https://www.eguarantee.co.jp/news/",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ギャランティ IR (@eguaranteeIR) / X — イー ・ ギャランティ IR (@eguaranteeIR) / X X https://x.com > eguaranteeIR",
+    "url": "https://x.com/eguaranteeIR",
+    "pass": 3
+   },
+   {
+    "quote": "ガバナンス – イー ・ ギャランティ 株式会社 — ガバナンス – イー ・ ギャランティ 株式会社 イー・ギャランティ株式会社 https://www.eguarantee.co.jp > sustainability > governance",
+    "url": "https://www.eguarantee.co.jp/sustainability/governance/",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ギャランティ 【8771】の 事業 内容 - キタイシホン — イー ・ ギャランティ 【8771】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/8771/business",
+    "pass": 3
+   },
+   {
+    "quote": "イー ・ ギャランティ 株式会社 · en-courage - エンカレッジ — イー ・ ギャランティ 株式会社 · en-courage - エンカレッジ en-courage https://app.en-courage.com > companies",
+    "url": "https://app.en-courage.com/companies/01GHZ0Z2149Y7CTJNHYEJS44A5?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "18年ずっと「増収増益」 イー ・ ギャランティ 江藤公則 社長 ... — 18年ずっと「増収増益」 イー ・ ギャランティ 江藤公則 社長 ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/CHsWXk8Jh0r/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー | イー ・ ギャランティ で働く   | 新卒採用情報 — 社員 インタビュー | イー ・ ギャランティ で働く   | 新卒採用情報 イー・ギャランティ株式会社 https://www.eguarantee.co.jp > about-us > field > interview",
+    "url": "https://www.eguarantee.co.jp/recruit/about-us/field/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "アフターコロナの経済を支える、 イー ・ ギャランティ 江藤 ... — アフターコロナの経済を支える、 イー ・ ギャランティ 江藤 ... 財経新聞 https://www.zaikei.co.jp > article",
+    "url": "https://www.zaikei.co.jp/article/20220809/684573.html",
+    "pass": 3
+   },
+   {
+    "quote": "「人的資本」を大切に成長を続ける イー ・ ギャランティ 。江藤 ... — 「人的資本」を大切に成長を続ける イー ・ ギャランティ 。江藤 ... 47NEWS https://www.47news.jp > ... > ウクライナ情勢",
+    "url": "https://www.47news.jp/8583594.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.eguarantee.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/company/company-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/service-info5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/new-ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/stock-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/info-investors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/service-info11/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/pdf/eguarantee_investor_overview_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2023/01/20230130.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2022/10/20221028_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2022/07/20220729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513mat.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2022/05/20220513.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2022/01/20220128.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/uploads/2021/10/20211029_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/images/company/business_top_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.eguarantee.co.jp/wp-content/themes/eguarantee2023/images/company/business_1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=8771",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/8771/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=tTvebUX8vwM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/p/CHsWXk8Jh0r/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "イー・ギャランティ",
+   "results": [
+    "https://www.eguarantee.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp87909/outline.html",
+    "https://app.en-courage.com/companies/01GHZ0Z2149Y7CTJNHYEJS44A5?locale=ja",
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3",
+    "https://shikiho.toyokeizai.net/stocks/8771/corporate",
+    "https://ja.wikipedia.org/wiki/イー・ギャランティ"
+   ]
+  },
+  {
+   "query": "イー・ギャランティ ビジネスモデル",
+   "results": [
+    "https://www.eguarantee.co.jp/company/business/",
+    "https://www.eguarantee.co.jp/uploads/2023/11/20231114.pdf",
+    "https://careerforum.net/ja/event/onf/companylist_82/3939/company_detail/",
+    "https://kabutan.jp/news/marketnews/?b=n202307050571",
+    "https://www.wantedly.com/companies/company_2077440/about",
+    "https://app.en-courage.com/companies/01GHZ0Z2149Y7CTJNHYEJS44A5?locale=ja",
+    "https://shikiho.toyokeizai.net/stocks/8771/corporate",
+    "https://job.mynavi.jp/27/pc/search/corp87909/outline.html",
+    "https://prtimes.jp/main/html/rd/p/000000052.000047332.html",
+    "https://www.eguarantee.co.jp/"
+   ]
+  },
+  {
+   "query": "イー・ギャランティ 決算説明資料",
+   "results": [
+    "https://www.eguarantee.co.jp/ir/ir-library/",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=8771",
+    "https://www.eguarantee.co.jp/news/",
+    "https://x.com/eguaranteeIR",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251106/20251106589940.pdf",
+    "https://www.e-grand.co.jp/ir_info/library_tanshin",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260515536736",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=8771",
+    "https://www2.jpx.co.jp/disc/87710/140120260515536736.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260807515120/"
+   ]
+  },
+  {
+   "query": "イー・ギャランティ 事業系統図",
+   "results": [
+    "https://www.eguarantee.co.jp/sustainability/governance/",
+    "https://kitaishihon.com/company/8771/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251106/20251106589940.pdf",
+    "https://careerforum.net/ja/event/onf/companylist_82/3939/company_detail/",
+    "https://app.en-courage.com/companies/01GHZ0Z2149Y7CTJNHYEJS44A5?locale=ja",
+    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100OL2K.pdf",
+    "https://www.eguarantee.co.jp/company/business/",
+    "https://x.com/eguaranteeIR",
+    "https://shikiho.toyokeizai.net/stocks/8771/corporate",
+    "https://ja.wikipedia.org/wiki/イー・ギャランティ"
+   ]
+  },
+  {
+   "query": "イー・ギャランティ 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=tTvebUX8vwM",
+    "https://www.instagram.com/p/CHsWXk8Jh0r/",
+    "https://www.eguarantee.co.jp/recruit/about-us/field/interview/",
+    "https://www.zaikei.co.jp/article/20220809/684573.html",
+    "https://www.47news.jp/8583594.html",
+    "https://x.com/eguaranteeIR",
+    "https://kabutan.jp/news/marketnews/?b=n201909100487",
+    "https://ameblo.jp/mabuchi-mariko/entry-12638938835.html",
+    "https://www.onecareer.jp/articles/2519",
+    "https://www.youtube.com/watch?v=pG43BKNEW_c"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像10件／外部4頁・検索5回）"
+ }
+}

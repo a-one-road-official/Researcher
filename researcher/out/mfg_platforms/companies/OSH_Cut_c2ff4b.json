@@ -1,0 +1,613 @@
+{
+ "name": "OSH Cut",
+ "aliases": [],
+ "context": "板金のオンライン即時見積（米）",
+ "researched_at": "2026-11-02T14:46:11.594669+00:00",
+ "official_url": "https://www.oshcut.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "誰から払われるか": [
+   {
+    "quote": "Need custom cut metal, fast? We can often get custom metal parts to you before other shops have responded to your quote request.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers are the first to tell you – Sour Patch Straws come in every SendCutSend box, which is another reason to look forward to your part delivery.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "JOIN 100,000+ Customers",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "When you need to get closer to finished parts with fewer steps and fewer suppliers, SendCutSend is the clear choice.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your design, get instant pricing, and order custom parts in minutes. No waiting around for quotes or coordinating with multiple shops.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "\"The ordering process is effortless compared with local shops that have higher minimum orders, setup charges and complicated, manual quoting processes.\"",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "“Ordinarily, shops are hiring an engineer to do all that work just to quote a job. There’s ordinarily very lengthy back-and-forth processes that are expensive for the shop and frustrating for the customer. Pushing that all onto a web front end allows the customer to iterate quickly and answer all the questions they need as far as capabilities go.”",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut ships orders to customers nationwide. About 12 percent of customers are in California, with 10 percent in Utah. Pricing typically beats competitors for low-volume orders, but is in “the middle of the pack” for larger orders, says Caleb.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut also needs more space. OSH Cut is moving into a 40,000-square-foot facility in early 2023 to accommodate growth. “We’re in the process of building it right now,” says Caleb. “Once we move, we’ll have the ability to buy more lasers and other equipment to support our customers. . . . The lasers are really big, so space is the constraint right now.”",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "Instant Pricing",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior DFM feedback for your files",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I love your website ... good tools, good format. Fair pricing as well, and fast turnaround.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your simulation feedback was fantastic for helping me design my part!",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With instant online pricing, DFM analysis, automatic nesting, and multiple lead-time options, you can price your parts, order online, and have your prototype or turnkey order in-hand as soon as next day. Simply choose \"Priority Rush\" during checkout.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Pricing and Online Ordering",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No more waiting for quotes! Use our online platform to upload your parts, obtain pricing in any material and quantity, and checkout online whenever you are ready.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing engine applies volume discounts automatically - you can change your part quantity or add new parts to see how it affects the price instantly.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully Nested Online Pricing",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing engine nests your parts to minimize material usage, and passes savings on to you. Volume discounts are applied at the job level - the bigger the job, the cheaper individual parts will be.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant DFM Feedback",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our system analyzes your custom sheet metal parts and provides instant Design for Manufacturability (DFM) feedback for both flat and bent metal parts, letting you know if there are any problems that could affect your finished part.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What does \"fully-nested pricing\" mean?",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We take all the custom metal parts in your order and \"nest\" them on sheet metal, to get the best material price. Other online metal cutting services don't offer nested pricing. Multi-part metal cutting jobs usually benefit greatly from nesting, so it's an important part of bidding on online laser cutting jobs. Be sure to log in and click \"Continue\" to get the final price of your metal parts.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unfortunately not. Our lead-time engine is tied closely to our production planning software, which monitors production capacity. During peak demand, we can't guarantee a faster lead even if your job is small.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our system automatically applies aggressive pricing discounts as your metal cutting and bending job increases in size. To get the best price, upload more parts or increase your order quantities. OSH Cut is most competitive for mid-to-large sheet metal fabrication jobs containing multiple custom metal parts, parts that benefit from nesting, and parts that include bending.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We currently offer shipping throughout the United States and Canada, and we plan to service more countries in the future as it becomes practical to do so.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Pricing",
+    "url": "https://www.oshcut.com/about-osh-cut",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Pricing",
+    "url": "https://www.oshcut.com/services/bead-blasting",
+    "pass": 1
+   },
+   {
+    "quote": "GET INSTANT PRICING",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive pricing",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": ", usually within 1–3 business days. No waiting, no hidden fees.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Upload now for instant pricing",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Choose from as-machined, media blasted, or anodized finishes to get your parts closer to assembly-ready. And with instant pricing and fast turnaround times, sourcing custom machined parts is just as easy as ordering your sheet metal.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend is for more than prototyping. Compared to OSH Cut and other manufacturing companies, we excel in providing a user-friendly platform with features like organizational account management, flexible payment options, and dedicated account managers to assist with orders and pricing.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Best pricing on large quantities",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive pricing without the guesswork",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Get instant, upfront pricing on custom parts without complicated quoting processes, setup fees, or unnecessary back-and-forth.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Upload your design, get instant pricing, and order custom parts in minutes. No waiting around for quotes or coordinating with multiple shops.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut ships orders to customers nationwide. About 12 percent of customers are in California, with 10 percent in Utah. Pricing typically beats competitors for low-volume orders, but is in “the middle of the pack” for larger orders, says Caleb.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "“We went from five to 35 people in 18 months,” says Caleb, noting that investment in digital marketing catalyzed the growth trajectory. “We can spend $50,000 to $60,000 on digital ads . . . but anything above that per month, we find that the diminishing returns hit pretty fast and pretty dramatically.”",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   }
+  ],
+  "規模": [
+   {
+    "quote": "Awesome experience for my first few orders. Part quality was excellent: clean cuts, clean bends. Customer service was extremely helpful and accommodating. Thank you, I will be a return customer.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are happy to handle your custom metal cutting and bending orders of any size, from a single prototype to a production run with thousands of metal parts. You can order a single part to verify your design before pulling the trigger on a production run.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OSH Cut cuts, bends, and finishes metal at two facilities. Orders ship from the facility that gets parts to you fastest, and will-call pickup is available at both.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes, no minimum orders, and up to 80% off for quantity discounts. Scale smart, save more.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend has a dedicated Commercial Projects Team for large quantity orders",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend is for more than prototyping. Compared to OSH Cut and other manufacturing companies, we excel in providing a user-friendly platform with features like organizational account management, flexible payment options, and dedicated account managers to assist with orders and pricing.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "You need your parts YESTERDAY in order to get your project done. Standard SendCutSend orders ship in",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "When you need to get closer to finished parts with fewer steps and fewer suppliers, SendCutSend is the clear choice.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "\"The ordering process is effortless compared with local shops that have higher minimum orders, setup charges and complicated, manual quoting processes.\"",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut ships orders to customers nationwide. About 12 percent of customers are in California, with 10 percent in Utah. Pricing typically beats competitors for low-volume orders, but is in “the middle of the pack” for larger orders, says Caleb.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   }
+  ],
+  "創業期の始め方": [
+   {
+    "quote": "Great for all metal FIRST Robotics FRC parts!",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Outstanding speed, price, and packaging! Laser cut rectangular tubing made my project easier to get started on and quicker to assemble.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "First-time using. Great service. Website is very user-friendly.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Was very happy with the delivered pieces and the whole process. This was my first time using a service like this and the parts analysis built into the website was very helpful. Delivery was as promised and price was very reasonable. I checked out a couple other service providers, but glad I found OSH Cut.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This was my first ever laser cut order. Your process is excellent and accessible and made it possible for a newbie to get going.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Great service, fast turnaround. First time customer and I will certainly return again if needed!",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I have only ever received quality parts from OSH Cut. First class operation.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show up on time, ship what you promised, pick up the phone, and dive headfirst into the tasks everyone else avoids ... OSH Cut's rock-solid reputation wasn't just handed to them -- they built it. They're one of those special vendors who rise far above the crowd.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your site allowed me to easily specify where I needed tapped holes. The parts arrived quickly and were cut and bent exactly as specified. I'm very happy my designs turned out perfectly the first time, but had they not, it wouldn't have been on OSH Cut.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "My first time using a site like this ... the part came out ten times better than I expected. Thanks!!",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Awesome experience for my first few orders. Part quality was excellent: clean cuts, clean bends. Customer service was extremely helpful and accommodating. Thank you, I will be a return customer.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View first-principles DFM and the optimal production sequence, right in browser.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our standard lead-time is about 3 business days for prototype and short-run laser cutting jobs, but there are options during checkout for lead-times as quick as 1 business day, depending on job size, material availability, and capacity. As a standard practice, we'll cut your job early when we can, regardless of the order size.",
+    "url": "https://www.oshcut.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Started",
+    "url": "https://www.oshcut.com/services/bead-blasting",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "GET STARTED",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Our customers are the first to tell you – Sour Patch Straws come in every SendCutSend box, which is another reason to look forward to your part delivery.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Get started on your project with the click of a button. Whether you have a CAD file, a sketch, or just an idea.",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Get Started",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "First-article checks to help you prototype and prepare for complete production runs",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "A case study in Industry 4.0, co-founders Caleb and Jacom Chamberlain's fast-growing contract manufacturer is disrupting metal fabrication by automating quoting, design for manufacturability, and other processes.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "A case study in Industry 4.0, co-founders Caleb and Jacom Chamberlain’s fast-growing contract manufacturer is disrupting metal fabrication by automating quoting, design for manufacturability, and other processes.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "In six short months, the Chamberlain brothers developed an online app to handle customer intake, design for manufacturability (DFM) checks, quoting, and other pre-production functions. The first version of the OSH Cut platform launched in November 2018.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s completely automated,” says Caleb. “We tried to make it as seamless an experience as possible. A customer can drag and drop a bunch of parts into our system, it analyzes the profiles. If it’s a 3D model, it’ll take the model and actually unfold it to create a flat pattern. In sheet metal, you create the flat first and bend it into the finished state.”",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut has come a long way in four years. “When we started, it was literally just me and Jacom,” says Caleb.",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut also needs more space. OSH Cut is moving into a 40,000-square-foot facility in early 2023 to accommodate growth. “We’re in the process of building it right now,” says Caleb. “Once we move, we’ll have the ability to buy more lasers and other equipment to support our customers. . . . The lasers are really big, so space is the constraint right now.”",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   }
+  ],
+  "集客": [
+   {
+    "quote": "Search",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "Skip to content",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "Search",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Terms of Service - OSH Cut — Terms of Service - OSH Cut OSH Cut https://www.oshcut.com > terms-of-se...",
+    "url": "https://www.oshcut.com/terms-of-service",
+    "pass": 3
+   },
+   {
+    "quote": "Use OSH Cut to bring your legendary ideas to life in no time ... — Use OSH Cut to bring your legendary ideas to life in no time ... Facebook https://www.facebook.com > ... > OSH Cut > Videos",
+    "url": "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Choose SendCutSend over OSH Cut ? — Why Choose SendCutSend over OSH Cut ? SendCutSend https://sendcutsend.com > sendcutsen...",
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut , Inc. (@OSHCutInc) / X — OSH Cut , Inc. (@OSHCutInc) / X X https://x.com > OSHCutInc",
+    "url": "https://x.com/OSHCutInc",
+    "pass": 3
+   },
+   {
+    "quote": "Fabricator OSH Cut To Open Second U.S. Factory Near ... — Fabricator OSH Cut To Open Second U.S. Factory Near ... MetalForming Magazine https://www.metalformingmagazine.com > ...",
+    "url": "https://www.metalformingmagazine.com/article/?/finishing/other/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut To Open A Second High-Tech Factory Near Cincinnati — OSH Cut To Open A Second High-Tech Factory Near Cincinnati OSH Cut https://www.oshcut.com > articles > o...",
+    "url": "https://www.oshcut.com/articles/osh-cut-to-open-a-second-high-tech-factory-near-cincinnati",
+    "pass": 3
+   },
+   {
+    "quote": "Fabricator OSH Cut To Open Second U.S. Factory Near ... — Fabricator OSH Cut To Open Second U.S. Factory Near ... MetalForming Magazine https://www.metalformingmagazine.com > ...",
+    "url": "https://www.metalformingmagazine.com/article/?/cutting/laser-cutting/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut - US Manufacturing Report, by Sustainment — OSH Cut - US Manufacturing Report, by Sustainment US Manufacturing Report https://usmanufacturingreport.com > ...",
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut to open second U.S. factory - The Fabricator — OSH Cut to open second U.S. factory - The Fabricator The Fabricator https://www.thefabricator.com > news",
+    "url": "https://www.thefabricator.com/thefabricator/news/shopmanagement/osh-cut-to-open-second-us-factory",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Rewards - Partner With Us | OSH Cut — Affiliate Rewards - Partner With Us | OSH Cut OSH Cut https://www.oshcut.com > affiliate-re...",
+    "url": "https://www.oshcut.com/affiliate-rewards",
+    "pass": 3
+   },
+   {
+    "quote": "OSH Cut 2026 Company Profile: Valuation, Funding & Investors — OSH Cut 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/499403-53",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oshcut.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oshcut.com/about-osh-cut",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oshcut.com/services/bead-blasting",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.metalformingmagazine.com/article/?/cutting/laser-cutting/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.11cut.com/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mmac.cc/oxy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usmanufacturingreport.com/article/osh-cut/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OSH Cut 会員数 料金 ビジネスモデル",
+   "results": [
+    "https://www.oshcut.com/terms-of-service",
+    "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "https://sendcutsend.com/sendcutsend-vs-oshcut/?srsltid=AYCX9vJc63q-yNXSYtSSXlxSX3UlgxlJ1ebv9EpYlx-uE4SGE37MDMCk",
+    "https://x.com/OSHCutInc",
+    "https://www.metalformingmagazine.com/article/?/finishing/other/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh",
+    "https://www.fsaeonline.com/cdsweb/app/NewsItem.aspx?NewsItemID=3e1d4336-4ed2-439d-9229-7abe64b74fa1",
+    "https://www.thefabricator.com/thefabricator/news/shopmanagement/osh-cut-to-open-second-us-factory",
+    "https://www.facebook.com/oshcut/",
+    "https://usmanufacturingreport.com/article/osh-cut/",
+    "https://www.oshcut.com/"
+   ]
+  },
+  {
+   "query": "OSH Cut 売上 従業員 創業",
+   "results": [
+    "https://www.oshcut.com/articles/osh-cut-to-open-a-second-high-tech-factory-near-cincinnati",
+    "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "https://www.metalformingmagazine.com/article/?/cutting/laser-cutting/fabricator-osh-cut-to-open-second-u-s-factory-near-cincinnati-oh",
+    "https://usmanufacturingreport.com/article/osh-cut/",
+    "https://www.thefabricator.com/thefabricator/news/shopmanagement/osh-cut-to-open-second-us-factory",
+    "https://www.instagram.com/oshcut/",
+    "https://www.facebook.com/oshcut/",
+    "https://pitchbook.com/profiles/company/499403-53",
+    "https://x.com/OSHCutInc",
+    "https://www.oshcut.com/about-osh-cut"
+   ]
+  },
+  {
+   "query": "OSH Cut 社長 インタビュー 創業のきっかけ",
+   "results": [
+    "https://www.youtube.com/watch?v=dSf-_QdVymA",
+    "https://www.11cut.com/interview",
+    "https://mmac.cc/oxy/",
+    "https://www.youtube.com/watch?v=aGvZJ9cd6IY",
+    "https://shacho.osakazine.net/album.html",
+    "https://shachou-know.com/",
+    "https://www.youtube.com/watch?v=2_9o1AQP040",
+    "https://media.livedoctor.jp/category/cat16/",
+    "https://www.japanmetal.com/news-to20211228113814.html",
+    "https://www.oshcut.com/about-osh-cut"
+   ]
+  },
+  {
+   "query": "OSH Cut revenue members business model",
+   "results": [
+    "https://usmanufacturingreport.com/article/osh-cut/",
+    "https://www.oshcut.com/affiliate-rewards",
+    "https://www.facebook.com/oshcut/videos/use-osh-cut-to-bring-your-legendary-ideas-to-life-in-no-time-simply-upload-your/1732032741350302/",
+    "https://pitchbook.com/profiles/company/499403-53",
+    "https://www.thefabricator.com/thefabricator/article/cadcamsoftware/how-a-utah-fab-shop-automates-quoting-and-order-processing",
+    "https://www.instagram.com/reel/DeJuDNQkkLX/",
+    "https://festoolownersgroup.com/threads/sendcutsend-vs-oshcut-any-experiences.72432/",
+    "https://www.alcircle.com/news/press-release/osh-cut-to-open-a-second-high-tech-factory-near-cincinnati-118447?srsltid=AYCX9vKZ2X9jST6C7LsTgPwpDlxsHfagKIA_3hiPbCrNbbRO_FBBIJp5",
+    "https://jiga.io/articles/oshcut-vs-sendcutsend-differences/",
+    "https://www.zoominfo.com/c/osh-cut-llc/468209549"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）",
+  "資金調達・売却": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部9頁・検索4回）"
+ }
+}

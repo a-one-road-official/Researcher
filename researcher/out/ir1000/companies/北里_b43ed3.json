@@ -1,0 +1,1640 @@
+{
+ "name": "北里",
+ "aliases": [],
+ "context": "証券コード368A／精密機器／プライム（内国株式）／2026.03期 売上高10,947百万円 営業利益率53.5%",
+ "researched_at": "2026-11-02T14:46:54.611005+00:00",
+ "official_url": "https://www.kitazato.co.jp/",
+ "identified_by": "search:yahoo_jp:北里",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2007年4月",
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立と沿革",
+    "value": "研究室から世界へ",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "86名（連結／2025年4月30日現在）",
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "不妊治療向けの医療機器、試薬および関連製品の製造・販売",
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "生殖補助医療（ART）を支えるトータルソリューション",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "・連結売上高",
+    "value": "103億円",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "当サイトはユーザーの利便性向上のためクッキーを使用しています",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様を効率的にナビゲートし、特定の機能を実行できることを目的としてクッキーを使用しています",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「必須」に分類されるクッキーは、サイトの基本的な機能を有効にするために不可欠であるため、お客様のブラウザに保存されます",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社は、お客様による本サイトの利用状況を分析し、お客様の好みを保存し、お客様に関連するコンテンツや広告を提供するために、サードパーティーのクッキーを使用しています",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのクッキーは、お客様の事前の同意がある場合にのみ、お客様のブラウザに保存されます",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は、これらのクッキーの一部、または全部を有効または無効にすることができますが、一部のクッキーを無効にすると、お客様のブラウジング体験に影響を与える場合があります",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の個人情報の取り扱い基本方針については、プライバシーポリシーをご覧ください",
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "pass": 1
+   },
+   {
+    "quote": "国際規格の取得、品質保証体制の強化、ユーザー",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新規顧客の獲得が順調に進んでいます",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・エンドユーザーからのフィードバックを迅速に",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このような顧客との共創プロセスにより 、当社は単なる医療機器メー",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "領域特化による専門性と顧客との共創03",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "部門の垣根を越えた情報共有と意思決定により、顧客ニーズ",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "姿勢で顧客と向き合うことで、長期的な信頼関係を構築してきました",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズに迅速に応える営業体制",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "え、デジタルツールを活用した顧客理解 、データ",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先との連携による排出量低減にも取り組んで",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "国内外の法令や業界規範を遵守し 、取引先との関",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "－1 北里は、お客様と共に未来を創る会社です",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "様、取引先、地域社会といったステークホルダーとの継続的なコミュニケーションを通じて 、期待や要請を的確に把握し、経営や事業活動に反映することで、持続的な企業価値向上",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療従事者・患者様（顧客）",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先・パートナー企業",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引先・パートナー企業との公正で健全",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外顧客接点の拡大",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器と組み合わせ展開 現顧客の診断ニーズに対応 既知技術をサービス事業へ展開 既存事業の出口を確保",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これは、ソフトウェア業界のSaaS（Software as a Service）のように、顧客がサービスを使い続ける限り収益が発生し続ける**「リカーリング型」のビジネスモデル**に極めて近い性質を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のスイッチングコストの高さ：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この**「スイッチングコスト（乗り換え障壁）」の高さ**が、北里コーポレーションの顧客基盤を、極めて強固なものにしているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "北里製品サイト",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第71回日本生殖医学会学術講演会・総会 製品展示及び共催モーニングセミナー、ブース内ワークショップ開催のお知らせ",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サーキュラーエコノミーに向けた循環型サービス「メビウス・ループ™」の提供について",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品売上",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-sitemap/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品売上",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-sitemap/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "これは妊娠率の向上に寄与する研究開発に積極的に投資を行い、継続的に優れた研究成果と新製品の発表を行うことで持続的な成長と企業価値の向上、そして生まれてきた子供たちが健全に成長できる未来が創れるよう社会に還元できる企業を目指してまいります",
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "サーキュラーエコノミーに向けた循環型サービス「メビウス・ループ™」の提供について",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "当社特許技術を活用した新製品「Hypure® Oil」の販売開始について",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/management-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/highlight-info/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品売上",
+    "url": "https://www.kitazato.co.jp/ja/ir/highlight-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/sustainability-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/stock-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/",
+    "pass": 1
+   },
+   {
+    "quote": "主要製品売上",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスでは、原則として当社ウェブサイトのIR関連情報の更新または掲載が完了した後、電子メールを配信させていただきます",
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスのご利用にあたり、利用上発生する、あるいはサービスが正常にご利用いただけないことによりご登録者様に発生する不利益に関しては、当社は一切の責任を負いかねますので、予めご了承ください",
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "pass": 1
+   },
+   {
+    "quote": "本サービスにつきましては、当社の都合により、ご登録者様へ通知することなくサービス内容の変更または中止をさせていただく場合がございます",
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/library/integrated/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "生殖医療製品の製造から供給までの履歴管理",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "ロット間のばらつきを最小化し、生殖医療製品の再現性・安全性を保証する当社の重要業務",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "胚の発育環境や凍結・融解の結果に直結する重要な製品",
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/glossary/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "不妊治療向けの医療機器、試薬および関連製品の製造・販売",
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/library/results/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/library/presentations/",
+    "pass": 1
+   },
+   {
+    "quote": "製品カテゴリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/management-info/plan/",
+    "pass": 1
+   },
+   {
+    "quote": "業績推移／製品区分別・地域別売上高",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社が注力する領域 当社の製品ラインナップ",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精子用製品 採卵培養液 顕微授精製品",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "細胞培養用プラスチック製品",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの主力製品",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "め、市場の期待に応えるべく製品を開発 ・製造し、日本、 欧",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "州、米国、中国、インド等の世界中のマーケットに自社製品",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループが扱う主な製品は 、「卵子採取 ・洗浄 」、",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "凍結保存及び融解に至るすべての工程にかかわる製品を提供",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Cryodevice （凍結保存製品）",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Micro Tools （顕微授精製品）",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ような環境下において、私たちが提供する製品や",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "同研究を通じて、製品の高度化・革新を推進して",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "題や感覚を深く理解し、製品の改良・設計に反映",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生体細胞の受託管理、遺伝子検査サービス、細胞",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ど、高度生殖医療に必要な製品を採卵 ・受精・培",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "試薬群など、当社の製品は医療現場から厚い信頼",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "迅速かつ柔軟な連携によって高品質な製品供給を",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の製品は現在、約80社の海外代理店ネット",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CryoDevicesを中心に当社製品の認知度が高まり 、",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の増加を背景に、製品導入が加速しています",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・医療現場の声を起点とした製品改良力",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "院において当社製品が採用される大きな要因と",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年8月4日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震による被災地への義援金の寄付について",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月8日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月7日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年1月1日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 新年のごあいさつ",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月7日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月24日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月7日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月6日",
+    "url": "https://www.kitazato.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会スクリプト",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会資料",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日 第2四半期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日 第2四半期決算説明会",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年 1月 第3四半期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年 2月 第4四半期決算説明会",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年 4月 決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年 5月 決算説明会",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年 6月 定時株主総会",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月",
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会スクリプト",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会資料",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月4日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震による被災地への義援金の寄付について",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月3日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会スクリプト",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算説明会資料",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月21日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月16日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月15日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月12日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月29日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月22日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月18日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月15日",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会スクリプト",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月31日",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月末",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第3四半期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年4月末",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期決算発表",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年6月末",
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上・利益ともに堅調に推移しておりますが、売上高営業利益率及び海外売上比率の増加を経営目標に掲げ、当社は一丸となって事業に邁進する所存です",
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率 70％前後",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率70％前後",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売上・利益ともに堅調に推移しておりますが、売上高営業利益率及び海外売上比率の増加を経営目標に掲げ、当社は一丸となって事業に邁進する所存です",
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "pass": 1
+   },
+   {
+    "quote": "可能であることが強みとなっております",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創造を支える3つの強み",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "はこうした環境に対応するため 、以下の強みを軸",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "価値創出への取り組み価値創出ストーリー北里コーポレーションとは ガバナンス コーポレートデータ当社の強み",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "してきた超急速ガラス化法をはじめとする独自技術を強みとしています",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を下支えする重要な強みとなっています",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カスタム対応力02 当社の強み",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分野における強みを確",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 在庫戦略",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・技術力を基盤とした競争優位性の強化",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品質を軸とした差別化による競争優位の確立",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・規制対応力を背景とした参入障壁の強化",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・営業利益率：56.1％",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・国内一貫生産による競争優位の源泉",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "さらに、国内一貫生産体制の強みを生かし 、研究",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率 69.8% 67.7％ -2.1ppt",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 58.7% 56.1％ -2.6ppt",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特に、当社が強みとする凍結保存分野では、凍結液および保存容器が主要製品として市場成長を牽引しています",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "個々の強みを把握し、適材適所の配置と育成を通じて、働きがいと組織パフォーマンスの最大化を図る",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みを活かした配置・育成",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・個々の特性・強みを踏まえた適材適所の",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "18SWOT分析（強み・弱み・機会・脅威）",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "強みを起点に成長機会を取り込み、弱みの克服と脅威への対応を投資・M&A・人財強化を通じて推進する",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特許出願 10件 知財蓄積と競争優位の確保",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【ビジネスモデルの詳細分析】驚異的利益率を生む「消耗品」ビジネスの強み",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "競争優位性：誰も真似できない「技術」と「信頼」の結晶",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "極めて高い営業利益率",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この高収益性は、同社の製品が持つ、ある「特性」によって支えられています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "その理由は、同社が持つ絶対的な競争優位性にあります",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "これが、高収益の最大の源泉です",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "このグローバルな販売網も、一朝一夕には築けない、大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この知的財産戦略が、技術の模倣を防ぎ、長期的な競争優位性を担保しています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この二つが掛け合わさることで、北里コーポレーションの比類なき高収益ビジネスモデルは完成しているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "驚異的な営業利益率：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "外部からの借入に頼ることなく、自己資金で大規模な成長投資を実行できる体力を持つことは、大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "これらの分析から、北里コーポレーションは、IPOの段階で既に「高成長性」「超高収益性」「高安全性」の三拍子が揃った、極めて稀有な優良企業であると評価できます",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な技術的優位性と高い参入障壁：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "高収益かつ安定的なビジネスモデル：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品ビジネスとしての「リカーリング性」と、技術力に裏打ちされた「価格決定権」が、驚異的な高収益と安定性を両立させています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "LG Chem Ltd.との独占販売代理店契約の締結のお知らせ",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "pass": 1
+   },
+   {
+    "quote": "33.9％代理店数",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の製品は現在、約80社の海外代理店ネット",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社 代理店",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "北里コーポレーションの販売網",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カーにとどまらず、不妊治療の発展を共に支えるパートナーとして認識さ",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の代理店ネットワークを通じて、世界約110カ国・地域に製品を供給して",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・世界約110カ国、約80社の代理店ネットワーク",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・地域社会・サプライヤーとの長期的なパートナーシップ",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・医療機関・代理店との信頼関係",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・医療現場・代理店との長期的パートナーシップ構築",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・代理店数：192社",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客ニーズに迅速に応える営業体制",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取締役の指名・選解任プロセスの透明",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外取締役で構成する任意の指名 ・報酬委員会を設",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名・報酬委員会は、優れた経",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先・パートナー企業",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、取引先・パートナー企業との公正で健全",
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「北里アリーナ富士」のネーミングライツパートナー",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売網・展開地域の拡充",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・各国へ現地代理店設立",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・価格・販売網・販促活動を統合的に展開し、グローバル競争力を高める",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 代理店中心から、現地接点を持つ体制に強化",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 販売網・薬事品質・人財・PMI体制の整備",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 海外販売網・JV代理店",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 製造内製化や販売網強化など、回収可能性の高い案件を優先",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現地販売網とブランディングを両輪として強化し、各国市場での採用拡大につなげる",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 現地代理店・販売拠点",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ JV代理店",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "重点国販売パートナー 20～30％増",
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なぜ、「クライオトップ」は世界中の不妊治療クリニックで”指名買い”されるのか？",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "世界数十カ国に代理店網を広げ、グローバル企業としての地位を確立しました",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "このブランド力が、世界中のクリニックからの”指名買い”に繋がっています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "3. 世界中に張り巡らされた販売代理店ネットワーク：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "自社ですべてを販売するのではなく、各国の医療市場に精通した販売代理店と強固なパートナーシップを築くことで、効率的に世界70カ国以上へ製品を届けています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "このグローバルな販売網も、一朝一夕には築けない、大きな強みです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "高い技術力に裏打ちされた価格決定権と、グローバルな販売網によるスケールメリットが、この驚異的な利益率を生み出しているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "そして、その中核製品である「クライオトップ」は、その圧倒的な性能とエビデンス（科学的根拠）で、総合プレーヤーである巨人たちの製品ラインナップにさえ、”指名買い”で採用されるほどのブランドを確立しているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "ART市場が拡大する先進国や新興国において、代理店網の強化や、学会・展示会での積極的なプロモーションを通じて、「クライオトップ」のさらなる普及と、市場シェアの拡大を目指します",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【ビジネスモデルの詳細分析】驚異的利益率を生む「消耗品」ビジネスの強み",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：安定したリピート需要を生む「リカーリング型」モデル",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "驚異的な利益率を叩き出す、消耗品ビジネスモデルの強さとは？",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング（継続）収益モデル：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ソフトウェア業界のSaaS（Software as a Service）のように、顧客がサービスを使い続ける限り収益が発生し続ける**「リカーリング型」のビジネスモデル**に極めて近い性質を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この安定したビジネスモデルの上で、なぜ驚異的な「高利益率」が可能になるのでしょうか",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "この二つが掛け合わさることで、北里コーポレーションの比類なき高収益ビジネスモデルは完成しているのです",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本の製造業の中でもトップクラスであり、同社のビジネスモデルがいかに効率的で、収益性が高いかを物語っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "高収益かつ安定的なビジネスモデル：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "IPOの段階で、既にこれほど完成されたビジネスモデルと、高い収益性、そして明確な成長ポテンシャルを兼ね備えた企業は、極めて稀有な存在です",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "収益構造：安定したリピート需要を生む「リカーリング型」モデル",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "リカーリング（継続）収益モデル：",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "これは、ソフトウェア業界のSaaS（Software as a Service）のように、顧客がサービスを使い続ける限り収益が発生し続ける**「リカーリング型」のビジネスモデル**に極めて近い性質を持っています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "消耗品ビジネスとしての「リカーリング性」と、技術力に裏打ちされた「価格決定権」が、驚異的な高収益と安定性を両立させています",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026 年度総合事業計画 - 学校法人 北里 研究所 — 2026 年度総合事業計画 - 学校法人 北里 研究所 学校法人北里研究所 PDF https://www.kitasato.ac.jp > albums > abm",
+    "url": "https://www.kitasato.ac.jp/jp/albums/abm.php?f=abm00048556.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "生命の凍結保存、 北里 コーポレーション(368A)の世界標準技術 — 生命の凍結保存、 北里 コーポレーション(368A)の世界標準技術 note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "pass": 3
+   },
+   {
+    "quote": "北里 大学病院 スマート・エコホスピタルプロジェクト — 北里 大学病院 スマート・エコホスピタルプロジェクト 建築研究所 PDF https://www.kenken.go.jp > symposium > presen5-3",
+    "url": "https://www.kenken.go.jp/shouco2/past/pdf/symposium/5/presen5-3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "歴史 | 北里 大学医学部 — 歴史 | 北里 大学医学部 北里大学 https://www.kitasato-u.ac.jp > med > about > history",
+    "url": "https://www.kitasato-u.ac.jp/med/about/history.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | 株主・投資家の皆さま | 株式会社 北里 — 決算説明資料 | 株主・投資家の皆さま | 株式会社 北里 Kitazato Corporation https://www.kitazato.co.jp > ... > IRライブラリ",
+    "url": "https://www.kitazato.co.jp/ja/ir/library/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さま | 株式会社 北里 - Kitazato Corporation — 株主・投資家の皆さま | 株式会社 北里 - Kitazato Corporation Kitazato Corporation https://www.kitazato.co.jp > ...",
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 北里 】[368A]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 北里 】[368A]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=368A",
+    "pass": 3
+   },
+   {
+    "quote": "[ 北里 368A.T] 2027年3月期第2四半期（中間期） 決算 短信 ... — [ 北里 368A.T] 2027年3月期第2四半期（中間期） 決算 短信 ... BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261027557057",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261027557057",
+    "pass": 3
+   },
+   {
+    "quote": "北里 のIR 資料 - 368A / プライム / 精密機器 - バフェット・コード — 北里 のIR 資料 - 368A / プライム / 精密機器 - バフェット・コード バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/368A/library",
+    "pass": 3
+   },
+   {
+    "quote": "学校法人 北里 研究所組織図 — 学校法人 北里 研究所組織図 学校法人北里研究所 https://www.kitasato.ac.jp > overview > organization",
+    "url": "https://www.kitasato.ac.jp/jp/about/overview/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRサイトマップ | 株主・投資家の皆さま | 株式会社 北里 — IRサイトマップ | 株主・投資家の皆さま | 株式会社 北里 Kitazato Corporation https://www.kitazato.co.jp > ホーム > 株主・投資家の皆さま",
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-sitemap/",
+    "pass": 3
+   },
+   {
+    "quote": "財務情報 - 北里大学 — 財務情報 - 北里大学 北里大学 https://www.kitasato-u.ac.jp > about > disclosure > financial",
+    "url": "https://www.kitasato-u.ac.jp/jp/about/disclosure/financial/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 北里 コーポレーション 有価証券報告書 全文（最新） — 株式会社 北里 コーポレーション 有価証券報告書 全文（最新） EDINET DB https://edinetdb.jp > ... > 株式会社北里コーポレーション",
+    "url": "https://edinetdb.jp/company/E40668/text",
+    "pass": 3
+   },
+   {
+    "quote": "主幹 インタビュー 明治製菓 社長 北里 一郎 祖父・ 北里 柴三郎の ... — 主幹 インタビュー 明治製菓 社長 北里 一郎 祖父・ 北里 柴三郎の ... Semantic Scholar https://www.semanticscholar.org > paper > 主幹インタビュ...",
+    "url": "https://www.semanticscholar.org/paper/%E4%B8%BB%E5%B9%B9%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E6%98%8E%E6%B2%BB%E8%A3%BD%E8%8F%93%E7%A4%BE%E9%95%B7-%E5%8C%97%E9%87%8C%E4%B8%80%E9%83%8E-%E7%A5%96%E7%88%B6%E3%83%BB%E5%8C%97%E9%87%8C%E6%9F%B4%E4%B8%89%E9%83%8E%E3%81%AE%E8%B3%AA%E5%AE%9F%E5%89%9B%E5%81%A5%E3%81%A8%E5%8C%BB%E9%A3%9F%E5%90%8C%E6%BA%90%E3%81%AE%E7%B2%BE%E7%A5%9E%E3%82%92%E7%94%9F%E3%81%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84-%E5%8C%97%E9%87%8C/250396fecce3575e5a88002168ac22cd8cd4eb3e",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー 北里 一郎明治製菓(株) 社長 <破壊すべきは ... — トップ インタビュー 北里 一郎明治製菓(株) 社長 <破壊すべきは ... CiNii https://cir.nii.ac.jp > crid",
+    "url": "https://cir.nii.ac.jp/crid/1523106604843916544",
+    "pass": 3
+   },
+   {
+    "quote": "IPO 社長 会見 北里 コーポレーション 不妊治療の成功率の ... — IPO 社長 会見 北里 コーポレーション 不妊治療の成功率の ... 日本証券新聞 https://www.nsjournal.jp > ipo社長会見　北里コーポレー...",
+    "url": "https://www.nsjournal.jp/ipo%E7%A4%BE%E9%95%B7%E4%BC%9A%E8%A6%8B%E3%80%80%E5%8C%97%E9%87%8C%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E4%B8%8D%E5%A6%8A%E6%B2%BB%E7%99%82%E3%81%AE/",
+    "pass": 3
+   },
+   {
+    "quote": "北里 柴三郎記念館名誉館長 北里 英郎さん！ - YouTube — 北里 柴三郎記念館名誉館長 北里 英郎さん！ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=90XpfX7t7IA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kitazato.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-sitemap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/ir-all/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/management-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/highlight-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/sustainability-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/stock-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/mail-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/library/integrated/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/investor-info/glossary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/corporate/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/library/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/library/presentations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/ir/management-info/plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/en/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/en/ir/ir-sitemap/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/en/ir/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/en/ir/ir-all/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/en/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kitazato.co.jp/ja/data/report-2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kitazato.co.jp/ja/images/sites/2/671cd6431b3feaee8fc3ff101c952a72-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kitasato.ac.jp/jp/albums/abm.php?f=abm00048556.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitasato.ac.jp/jp/about/overview/organization.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.semanticscholar.org/paper/%E4%B8%BB%E5%B9%B9%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E6%98%8E%E6%B2%BB%E8%A3%BD%E8%8F%93%E7%A4%BE%E9%95%B7-%E5%8C%97%E9%87%8C%E4%B8%80%E9%83%8E-%E7%A5%96%E7%88%B6%E3%83%BB%E5%8C%97%E9%87%8C%E6%9F%B4%E4%B8%89%E9%83%8E%E3%81%AE%E8%B3%AA%E5%AE%9F%E5%89%9B%E5%81%A5%E3%81%A8%E5%8C%BB%E9%A3%9F%E5%90%8C%E6%BA%90%E3%81%AE%E7%B2%BE%E7%A5%9E%E3%82%92%E7%94%9F%E3%81%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84-%E5%8C%97%E9%87%8C/250396fecce3575e5a88002168ac22cd8cd4eb3e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://cir.nii.ac.jp/crid/1523106604843916544",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "北里",
+   "results": [
+    "https://www.kitasato-u.ac.jp/",
+    "https://www.kitazato.co.jp/ja/",
+    "https://www.kitasato.ac.jp/jp/index.html",
+    "https://x.com/KitasatoUniv",
+    "https://www.youtube.com/user/KitasatoUniv",
+    "https://passnavi.obunsha.co.jp/univ/2320/top/",
+    "https://grokipedia.com/page/kitasato_daigaku_mae_station",
+    "https://ja.wikipedia.org/wiki/北里",
+    "https://ja.wikipedia.org/wiki/北里大学",
+    "https://ja.wikipedia.org/wiki/北里柴三郎"
+   ]
+  },
+  {
+   "query": "北里 ビジネスモデル",
+   "results": [
+    "https://www.kitasato.ac.jp/jp/albums/abm.php?f=abm00048556.pdf&n=2026%E5%B9%B4%E5%BA%A6%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.pdf",
+    "https://note.com/tatsuya_sabato/n/nd30aa0a245ff",
+    "https://www.kenken.go.jp/shouco2/past/pdf/symposium/5/presen5-3.pdf",
+    "https://www.youtube.com/watch?v=n4BsmFKfzgo",
+    "https://www.kitasato-u.ac.jp/med/about/history.html",
+    "https://koubo.jp/press-release/prtimes/c147341_r22",
+    "https://kitasato.repo.nii.ac.jp/records/216",
+    "https://www.diamondv.jp/article/q2EcJCMjHCHznFHEr7vcqu",
+    "https://kyodonewsprwire.jp/release/201302089835",
+    "https://www.kitazato.co.jp/ja/ir/management-info/plan/"
+   ]
+  },
+  {
+   "query": "北里 決算説明資料",
+   "results": [
+    "https://www.kitazato.co.jp/ja/ir/library/presentations/",
+    "https://www.kitazato.co.jp/ja/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=368A",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261027557057",
+    "https://www.buffett-code.com/company/368A/library",
+    "https://www.kitazato.co.jp/ja/ir-all/ir-all-5027/",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000001ixop-att/06Kitazato-1s.pdf",
+    "https://investalk.jp/368A/kitazato-2026-03-earnings/",
+    "https://edinetdb.jp/company/E40668/presentations/",
+    "https://irbank.net/368A/ir"
+   ]
+  },
+  {
+   "query": "北里 事業系統図",
+   "results": [
+    "https://www.kitasato.ac.jp/jp/about/overview/organization.html",
+    "https://www.kitazato.co.jp/ja/ir/ir-sitemap/",
+    "https://www.jpx.co.jp/listing/stocks/new/um3qrc000001ixop-att/06Kitazato-1s.pdf",
+    "https://www.kitasato-u.ac.jp/jp/about/disclosure/financial/index.html",
+    "https://edinetdb.jp/company/E40668/text",
+    "https://www.kitasato.ac.jp/jp/financial_report/index.html",
+    "http://www.kitasato.org/map/map_shirogane.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=368A",
+    "https://mit-hd.co.jp/ir-information/keito/",
+    "https://www.kitazato.co.jp/ja/ir/management-info/plan/"
+   ]
+  },
+  {
+   "query": "北里 社長 インタビュー",
+   "results": [
+    "https://www.semanticscholar.org/paper/%E4%B8%BB%E5%B9%B9%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E6%98%8E%E6%B2%BB%E8%A3%BD%E8%8F%93%E7%A4%BE%E9%95%B7-%E5%8C%97%E9%87%8C%E4%B8%80%E9%83%8E-%E7%A5%96%E7%88%B6%E3%83%BB%E5%8C%97%E9%87%8C%E6%9F%B4%E4%B8%89%E9%83%8E%E3%81%AE%E8%B3%AA%E5%AE%9F%E5%89%9B%E5%81%A5%E3%81%A8%E5%8C%BB%E9%A3%9F%E5%90%8C%E6%BA%90%E3%81%AE%E7%B2%BE%E7%A5%9E%E3%82%92%E7%94%9F%E3%81%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%9F%E3%81%84-%E5%8C%97%E9%87%8C/250396fecce3575e5a88002168ac22cd8cd4eb3e",
+    "https://cir.nii.ac.jp/crid/1523106604843916544",
+    "https://www.nsjournal.jp/ipo%E7%A4%BE%E9%95%B7%E4%BC%9A%E8%A6%8B%E3%80%80%E5%8C%97%E9%87%8C%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E4%B8%8D%E5%A6%8A%E6%B2%BB%E7%99%82%E3%81%AE/",
+    "https://th-biz.com/aisin-lib-next-gen-leader-development/",
+    "https://www.youtube.com/watch?v=90XpfX7t7IA",
+    "https://www.kitazato.co.jp/ja/corporate/greeting/",
+    "https://www.jafco.co.jp/andjafco-post/2023-10-26-000347/",
+    "https://www.nikkan.co.jp/articles/view/571809",
+    "https://kitaishihon.com/company/368A/board-of-director",
+    "https://ja.wikipedia.org/wiki/北里一郎"
+   ]
+  }
+ ],
+ "missing": {}
+}
