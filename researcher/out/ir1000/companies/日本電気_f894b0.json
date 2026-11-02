@@ -1,0 +1,1034 @@
+{
+ "name": "日本電気",
+ "aliases": [],
+ "context": "証券コード6701／電気機器／プライム（内国株式）／2026.03期 売上高3,582,733百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:21:14.213893+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1899年 （ 明治 32年） 7月17日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "システムプラットフォーム事業 ネットワークサービス事業 パブリック事業 エンタープライズ事業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "連結：3兆4772億6200万円 単独：1兆8379億7900万円 （2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：104,194名 単独：22,271名 (2025年3月31日現在)",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "ただし、ハードウェア単体の販売や売り切りのSI受託開発から、継続的なサービスの販売や生体認証と人工知能をコアとしたITプラットフォームビジネスモデルへと構造改革を進めている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "この構造変化に対応するための最重要課題として位置付けるのが、IT・データ・AIを用いた価値の具体化と、その価値を戦略策定から実装、運用・保守まで一貫して責任をもって提供するビジネスモデルへの変革です",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "*1 BluStellar（ブルーステラ）：実績に裏打ちされた業種横断の先進的な知見と長年の開発・運用で研ぎ澄まされたＮＥＣグループの最先端テクノロジーにより、ビジネスモデルの変革を実現し、社会課題とお客様の経営課題を解決に導き、お客様を未来へ導く価値創造モデルです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "現在ランプ類を製造している水口工場は全国でも有数の規模を誇る管球工場であり一般ユーザー向け商品（下記の2製品が代表例）のほか特殊用途向け蛍光ランプのOEM生産も比率が高くなっている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月17日、これまで日本電気本体が販売を担当してきた企業向けパソコンについて、翌年4月をもって個人顧客向け製品と同様にNECパーソナルコンピュータが直接販売する形に変更することを発表した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "“NECのグローバル事業、再編以来初の黒字化 海底ケーブルの成長が今後の鍵の1つに GAFAが主要顧客になってきている――、海底ケーブル事業の現状を見る”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "法人顧客向けNECブランドPCの販売機能移管について",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "お客様事例・応用事例",
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "pass": 3
+   },
+   {
+    "quote": "社会や顧客が期待する価値は常に変化し続けていることから、ＮＥＣグループがこれからも社会から必要とされる存在であり続けるためには、何が価値となるのかを常に考え、新たな価値を創造していく必要があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービス事業では、AIの進化に伴ってお客様が求める価値が大きくシフトしています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "そのために、先進テクノロジーを「クライアントゼロ（最初の顧客）」として自社で使いこなして知見を蓄え、実証された価値をお客様に提案するBluStellar（*1）のシナリオとして体系化します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "海外ITサービス事業では、近年買収した欧州子会社3社と従来からのＮＥＣグループの現地法人がそれぞれ持つ商材・顧客基盤・知見などをさらに融合させて、デジタル・ガバメントおよびデジタル・ファイナンス領域におけるDX事業の拡大を加速させます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "*1 BluStellar（ブルーステラ）：実績に裏打ちされた業種横断の先進的な知見と長年の開発・運用で研ぎ澄まされたＮＥＣグループの最先端テクノロジーにより、ビジネスモデルの変革を実現し、社会課題とお客様の経営課題を解決に導き、お客様を未来へ導く価値創造モデルです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、品質・安全性の確保ならびに受注プロジェクトの適切な管理は、顧客からの信頼確保と市場競争力の維持に不可欠な要素となっています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "これらは、ＮＥＣグループ内だけでなく、サプライチェーンにおいても品質上の問題、あるいはプロジェクト管理の不備等を起因とした重大事象が発生した場合、顧客の事業継続や社会的に重要なシステムに影響を及ぼす可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "このような事象が発生した場合には、製品・サービスの回収措置、顧客への補償、行政対応、対外的な説明対応等が必要となるほか、ステークホルダーからの信頼失墜を招き、企業価値に重大な影響を及ぼすおそれがあります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "万が一、顧客のシステムや社会的に影響のあるシステムでの重大なトラブルや、重大製品事故、技術法規制違反等が発生した際は、迅速なエスカレーションとともに、関係部門による協議を行い、顧客、所轄官庁、広報等についての対応方針を決定します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "プロジェクト実施にあたっては、受注前の段階からそれぞれのプロセスで審査会を開催し、そのプロジェクトに潜む技術的なリスクや安全性リスク、開発規模・期間、プロジェクト体制など多面的にリスクを事前に洗い出して、顧客とともに早期に解決をはかっています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＮＥＣグループが提供する製品・システム・サービスに重大な事象が存在した場合には、顧客の事業継続や社会インフラに重大な影響を及ぼす可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に提供する製品、システム、サービスをセキュアに開発・運用するため、セキュリティ実装推進体制を構築しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "そこで日本電気（NEC）は、経済協力開発機構（OECD）の「States of Fragility 2025」のリストをもとに、人権視点のハイリスク地域を特定し、該当地域の取引先の属性や人権・腐敗行為に関する情報、製品・サービスの用途などを取引前に確認しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、取引先に人権方針がない場合、人権リスクの発生防止のため、「ＮＥＣグループ人権方針」と同等の取り組みを求めています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "サプライチェーン上の労働 「責任ある企業行動のためのOECDデュー・ディリジェンス・ガイダンス」に基づき、サプライチェーン上の人権リスクについて評価・特定を行い、当該リスクのある調達取引先に対して現地監査を実施し、必要に応じてリスク軽減に向けた是正対応をはかるなど、リスクベースアプローチによる活動を進めています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "分社／子会社化した部門の製品",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "分社／子会社化した部門の製品サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットサービスプロバイダ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "過去の製品サブセクションを切り替えます",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ネットワークサービス事業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "DX）を主力事業としている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "などのエネルギーネットワーク、社会ソリューション向け",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "モビリティサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "以降は個人消費者向け製品から",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "向け製品や社会インフラ製品へ注力するよう事業改革が進められた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "関連の製品では",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ブランドが代表的な製品である",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューションの製品にはCONNEXIVEがある",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "顔、虹彩、指紋・掌紋、指静脈、声、耳音響の6つの生体認証技術はBio-Idiomブランドでサービスを展開する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品・サービスの国際市場への販売にも力を入れているとともに、海外メーカーなどの通信機器、コンピュータ、ソフトウェアも販売している",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、ハードウェア単体の販売や売り切りのSI受託開発から、継続的なサービスの販売や生体認証と人工知能をコアとしたITプラットフォームビジネスモデルへと構造改革を進めている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "としてNECソリューションズ・NECネットワークス・NECエレクトロンデバイスを設立した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "と業務提携し、グループに加えることで、ビジネスコンサルティングとITサービスを強化する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "、米国の監査法人から求められていた保守・サポートサービスと製品が一体になった「複合契約」の収益分析が完了しなかったため、上場維持に必要な",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2014年5月にはNECエナジーソリューションズを北米に設立した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "北米のNECエナジーソリューションズも2021年9月に売却した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "この方針の一環として、2009年度中に国内研究員の約15％（約150人）を製品開発や営業、SEなどの事業部門に異動させる方針と報じられた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "環境配慮型製品・サービス",
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューショントップへ",
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "pass": 3
+   },
+   {
+    "quote": "３【事業の内容】 日本電気（NEC）および連結子会社を中心とする関係会社で構成されるＮＥＣグループの主たる事業は、ITサービス事業および社会インフラ事業の2つの事業です",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "各関係会社は、設計、開発、製造および販売、サービスの提供などそれぞれの役割に応じ、各事業の一部を分担しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "（ITサービス事業） システム・インテグレーション（システム構築、コンサルティング）、サポート（保守）、アウトソーシング・クラウドサービス、システム機器およびソフトウェア・サービスなどの提供を行っています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "（社会インフラ事業） ネットワークインフラ（コアネットワーク、携帯電話基地局、光伝送システム）、通信事業者向けソフトウェア・サービス（OSS・BSS）（*）ならびに航空宇宙・防衛・海洋システム領域におけるシステム機器、システム・インテグレーション（システム構築、コンサルティング）およびサポート（保守）などの提供を行っています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日現在 （注） 矢印は、製品の設計、開発、製造および販売ならびにサービスの提供関係を示しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "創業の精神「ベタープロダクツ・ベターサービス」常にゆるぎないインテグリティと人権の尊重あくなきイノベーションの追求 「Code of Values（行動基準）」は、ＮＥＣグループの一人ひとりが体現すべき日常的な考え方や行動の在り方を示した行動基準です",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "ITサービス事業では、AIの進化に伴ってお客様が求める価値が大きくシフトしています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "また、 ＮＥＳＩＣホールディングス㈱の傘下に、DXソリューションの一貫した提供体制を整備・強化し、日本全国のDXを強力に推進します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "海外ITサービス事業では、近年買収した欧州子会社3社と従来からのＮＥＣグループの現地法人がそれぞれ持つ商材・顧客基盤・知見などをさらに融合させて、デジタル・ガバメントおよびデジタル・ファイナンス領域におけるDX事業の拡大を加速させます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年4月1日付で、社会インフラセグメントであったテレコム事業者向けのソフトウェア・サービス事業をITサービスセグメントに移管しました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙・防衛、海底ケーブルシステム、サイバーセキュリティの連携を強化した新体制のもと、物理空間からサイバー空間までをシームレスに守るソリューションを高度化します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＥＣグループは、ITサービス事業と社会インフラ事業の両輪で戦略を実行し、AIの社会実装と日本の安全保障の技術実装を推し進めることで、2030年度におけるNon-GAAP営業利益率15%以上、Non-GAAP営業利益2倍（2025年度比）、Non-GAAP1株当たり純利益（EPS）成長率年平均15%以上（*3）の達成を目標に掲げ、社会への価値提供と持続的な企業価値向上を実現してまいります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "この中で、ＮＥＣグループが特に重要と判断した「適正な製品・サービスの提供」を重点対策リスク、その次に重要と判断した「サイバーセキュリティ」、「人的資本」、「人権の尊重」および「重大な不祥事の発生」を重要なリスクとして、それぞれ以下に説明します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "(3）重点対策リスクおよび重要なリスク① 重点対策リスクリスク名称適正な製品・サービスの提供分類Business, Compliance評価影響度：4切迫性：3リスク説明 ＮＥＣグループの事業活動は、国内外で行われており、提供する製品やシステム、サービスが多岐にわたっており、サプライチェーンもグローバルに展開しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "このような事象が発生した場合には、製品・サービスの回収措置、顧客への補償、行政対応、対外的な説明対応等が必要となるほか、ステークホルダーからの信頼失墜を招き、企業価値に重大な影響を及ぼすおそれがあります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "対策品質・安全性推進体制 ＮＥＣグループでは、製品やシステム、サービスの品質・安全性の確保とそのリスクに対する備えを重要な経営課題の一つと位置づけています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "万が一、顧客のシステムや社会的に影響のあるシステムでの重大なトラブルや、重大製品事故、技術法規制違反等が発生した際は、迅速なエスカレーションとともに、関係部門による協議を行い、顧客、所轄官庁、広報等についての対応方針を決定します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "② 重要なリスクリスク名称サイバーセキュリティ分類Conduct評価影響度：5切迫性：2リスク説明 全世界がオープンに繋がり、ＮＥＣグループを取り巻く事業環境においても、AI技術やクラウドサービスの利用拡大を背景に、サイバー攻撃の高度化および巧妙化が進んでいます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ランサムウェアをはじめとした攻撃のビジネス化、クラウドサービスのセキュリティ設定にミスや漏れがある状態などを狙った攻撃の増加等により、情報漏えい、業務停止、サービス提供への支障といったリスクは一層高まっています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＮＥＣグループが提供する製品・システム・サービスに重大な事象が存在した場合には、顧客の事業継続や社会インフラに重大な影響を及ぼす可能性があります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "顧客に提供する製品、システム、サービスをセキュアに開発・運用するため、セキュリティ実装推進体制を構築しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティを確保する「セキュリティ・バイ・デザイン（SBD）」の思想に基づき、企画・提案フェーズから運用・保守フェーズまでのセキュリティ確保など、高品質で安全なサービスを提供するために、サプライチェーンも含めた対策強化に取り組んでいます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "地政学的情勢や紛争影響をふまえた人権リスク 紛争地域では、製品・サービスの使われ方次第で人権侵害をひき起こすおそれがあります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "そこで日本電気（NEC）は、経済協力開発機構（OECD）の「States of Fragility 2025」のリストをもとに、人権視点のハイリスク地域を特定し、該当地域の取引先の属性や人権・腐敗行為に関する情報、製品・サービスの用途などを取引前に確認しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "指名委員会等設置会社",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2018年以降はキャリア採用を大幅に増やしていると紹介されている",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "日本産業パートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "（JGAオフィシャルパートナー）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "- ゴールドパートナー（原則1業種1社に限定される国内最高位のスポンサー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "（プレミアムパートナー、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "、プレミアムICTパートナー、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "指名委員会等設置会社への移行および組織改革について",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "“株主総会／NEC、統治強化・スピード向上 指名委等設置会社に移行”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "オフィシャルパートナー）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ワールドワイドオリンピックパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ワールドワイドパラリンピックパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "オフィシャルパートナー",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "セルフ・リライアンス・パートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "SDGパートナーズ",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "指名委員会等設置会社",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "“株主総会／NEC、統治強化・スピード向上 指名委等設置会社に移行”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "、米国の監査法人から求められていた保守・サポートサービスと製品が一体になった「複合契約」の収益分析が完了しなかったため、上場維持に必要な",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "などの稼働中のバックオフィス用コンピュータは独占状態に近く、保守サポートは2023年まで継続する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "保守サポートは2023年まで継続する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "と経営統合し、携帯電話端末事業はNECカシオ モバイルコミュニケーションズとして統合された（実際の移行スキームは、NEC本体からの部門譲受が同年5月1日付、次いで同年6月1日付でカシオ日立を吸収合併し、以降のカシオブランド端末の販売開始と同時に、日立ブランドを含む保守部門を継承）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、スマートフォンの修理等の保守業務、および",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "（ITサービス事業） システム・インテグレーション（システム構築、コンサルティング）、サポート（保守）、アウトソーシング・クラウドサービス、システム機器およびソフトウェア・サービスなどの提供を行っています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "（社会インフラ事業） ネットワークインフラ（コアネットワーク、携帯電話基地局、光伝送システム）、通信事業者向けソフトウェア・サービス（OSS・BSS）（*）ならびに航空宇宙・防衛・海洋システム領域におけるシステム機器、システム・インテグレーション（システム構築、コンサルティング）およびサポート（保守）などの提供を行っています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "この構造変化に対応するための最重要課題として位置付けるのが、IT・データ・AIを用いた価値の具体化と、その価値を戦略策定から実装、運用・保守まで一貫して責任をもって提供するビジネスモデルへの変革です",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティを確保する「セキュリティ・バイ・デザイン（SBD）」の思想に基づき、企画・提案フェーズから運用・保守フェーズまでのセキュリティ確保など、高品質で安全なサービスを提供するために、サプライチェーンも含めた対策強化に取り組んでいます",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "技術に強みを持ち、顔認識システムNeoFaceは",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "がレノボと合弁会社を立ち上げることを正式発表した際は同様の体制をとるNECとの競合を懸念する声があがったが、NECは「NECの強みである顔認証技術などで差別化できる」とする見解を示した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2013年7月に、スマートフォンの新規開発を中止し在庫分のみを以って販売を終了した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "国内ITサービスベンダーのランキング、ガートナーが富士通やNECらの強みと課題を解説",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "“NECが新事業ブランド「NEC Smart Connectivity」発表 ネットワークの強みを生かしたサービス事業を展開”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "財務面では、本源的な事業の収益性と成長性を測る目標としてNon-GAAP営業利益(*1)およびNon-GAAP営業利益率(*2)を、また、株主還元の原資となる利益の成長を示す目標としてNon-GAAP1株当たり純利益（EPS）成長率(*3)を重視します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "*2 Non-GAAP営業利益率：売上収益に占めるNon-GAAP営業利益の割合を意味します",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "世界が大きく変化するなか、ＮＥＣグループは、自らの強みを社会価値として届け、さらなる成長を実現するために「2030中期経営計画」を策定しました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＥＣグループは、ITサービス事業と社会インフラ事業の両輪で戦略を実行し、AIの社会実装と日本の安全保障の技術実装を推し進めることで、2030年度におけるNon-GAAP営業利益率15%以上、Non-GAAP営業利益2倍（2025年度比）、Non-GAAP1株当たり純利益（EPS）成長率年平均15%以上（*3）の達成を目標に掲げ、社会への価値提供と持続的な企業価値向上を実現してまいります",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1980年頃から1990年代まで",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代から現在まで",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1949年5月16日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1918年（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1925年（大正14年）にI.W.E.社は買収され、インターナショナル・スタンダード・エレクトニクス・コーポレーション（I.S.E.社）と改称",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1932年（昭和7年）、I.S.E.社は経営を",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1949年（昭和24年）に",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1951年（昭和26年）I.S.E.社と資本提携復活",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1960年代から、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1963年（昭和38年）、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1966年（昭和41年）、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1970年代にはマイクロ波通信や光ファイバー通信用の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1970年（昭和45年）には、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1977年（昭和52年）に、当時会長であった",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1982年（昭和57年）に発売された「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1983年（昭和58年）に英文社名を現在のものに変更する",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1990年（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1992年（平成4年）10月5日には、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1980年代の成長により企業規模は拡大したが、それは多額の借入金に依存しており、D/Eレシオ（負債資本倍率）が約2倍という財務的課題を抱える体質となっていた",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1990年代後半に至り、国内PC市場での",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1998年（平成10年）には",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "1999年（平成11年）12月には、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2000年度の連結売上高5兆4097億円は、2025年時点においてピークの数値となった",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2001年（平成13年）、創立100周年記念事業として、玉川事業場の一部を高層ビル群に建て替えた（",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2002年（平成14年）には「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月31日現在 （注） 矢印は、製品の設計、開発、製造および販売ならびにサービスの提供関係を示しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "2020年度に25%と低調だった従業員のエンゲージメントスコアは、「2025中期経営計画」期間中の取り組みにより、2025年度には48%に達しました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "2015年に「ＮＥＣグループ人権方針」を策定し、その後2022年6月に、国連「ビジネスと人権に関する指導原則（UNGPs）」で求められている人権の尊重への経営トップのコミットメントとガバナンス体制を明確に示す内容に改定し、さらに2023年に国際労働機関（ILO）中核的労働基準に「安全で健康的な労働環境」が追加されたことを受け、これに対応する内容に改定しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "1997年に設置した人権啓発推進会議は、差別の禁止やハラスメントの防止をはじめとした人権啓発活動を継続して推進しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "2006年に執行役員となり、2011年執行役員常務に昇格し、不採算事業再建にも関与した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2016年からCGO（チーフ・グローバル・オフィサー）を兼務して積極的なM&A戦略の執行を担った",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2018年4月に代表取締役執行役員副社長に就任、同年6月からは",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月に代表取締役執行役員社長兼CEOに就任した",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2023年6月、日本電気は",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月5日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月10日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   },
+   {
+    "quote": "1960年生",
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本電気 - Wikipedia — ただし、ハードウェア単体の販売や売り切りのSI受託開発から、継続的なサービスの販売や生体認証と人工知能をコアとしたITプラットフォームビジネスモデルへと構造改革を進めている。 ブランドステートメント は「Orchestrating a brighter world」 [22][23]。",
+    "url": "https://ja.wikipedia.org/wiki/日本電気",
+    "pass": 3
+   },
+   {
+    "quote": "NECがDX事業での取り組みを説明、NEC Digital Platformがビジネスモデ... — Aug 31, 2023 · 日本電気株式会社（以下、NEC）は30日、DX事業の取り組みについて説明。NEC Digital Platform（NDP）の売上収益が、前年度比40％増の成長を遂げている ...",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1527595.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・決算説明会資料 | 日本電気硝子（NEG） — 日本電気硝子（NEG）の決算短信、決算説明会資料・質疑応答要旨を掲載しています。NEGは、先端技術分野から生活シーンに至るまで、人と社会の発展を支える特殊ガラスの世界的リーディングメーカーです。",
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気（6701）のIR情報・決算資料 - IRBANK — May 12, 2026 · 日本電気（6701）のIR情報・適時開示一覧。決算発表、業績修正などの開示情報を掲載。",
+    "url": "https://irbank.net/6701/ir",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気のIR資料 - 6701 / プライム / 電気機器 | バフェット・コー... — 日本電気（6701 / プライム / 電気機器）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/6701/library",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気株式会社 — 決算説明資料 - EDINET DB — 日本電気株式会社の決算説明資料は、現時点で構造化データが取得できておりません。 (2件のPDFを認識中・順次処理予定)",
+    "url": "https://edinetdb.jp/company/E01765/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気 - Wikipedia — 日本電気株式会社 （にっぽんでんき [注釈 1] 、 英: NEC Corporation）は、 東京都 港区 芝 五丁目に 本社 を置く 住友グループ の 電機メーカー。 略称 はNEC（エヌ・イー・シー） [注釈 2] 、日電（にちでん） [注釈 3]。通称としては一般的に「NEC」が使われ、 ロゴタイプ や 関連会社 の 名前 などに ...",
+    "url": "https://ja.wikipedia.org/wiki/日本電気",
+    "pass": 3
+   },
+   {
+    "quote": "日本電気（NEC）（6701）の事業内容、事業の状況や経営戦略、事業等の... — 本ページでは、有価証券報告書記載の日本電気（NEC）の事業内容、事業の状況や経営指針、事業のリスクなどについて紹介しています。最新の経営戦略、ビジネスモデル、財務状況、および将来の展望を含む包括的な情報をご提供します。～の成功要因や課題、業界内でのポジショニングを理解 ...",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "森田隆之 - Wikipedia — 2021年4月に代表取締役執行役員社長兼CEOに就任した [5]。 森田は日本電気では22年ぶりの文系出身の社長である [3][注釈 2]。 2023年6月、日本電気は 指名委員会等設置会社 に移行し [6] 、森田の役職は取締役代表執行役社長兼CEOとなった [7]。",
+    "url": "https://ja.wikipedia.org/wiki/森田隆之",
+    "pass": 3
+   },
+   {
+    "quote": "内田 雅章 | [NEC(日本電気)森田隆之社長を取材 @ NEC本社] 売上3.5兆... — [NEC(日本電気)森田隆之社長を取材 @ NEC本社]売上3.5兆円。 時価総額8兆円。 何故こんなに絶好調なのか？ 学生新聞初、日曜日に社長インタビュー！ ①本社に1000人以上の社員とファミリー→本日は、会社から社員・ご家族に対し感謝を伝える「Happy Holidays」☆社内見学、森田社長とのジャンケン ...",
+    "url": "https://www.instagram.com/p/DRriQaOEnlG/",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー | 日本電気硝子株式会社 | 採用サイト — 日本電気硝子の職種と仕事内容について簡単にご紹介します。 日本電気硝子で活躍中の新卒・キャリア入社社員のインタビューです。 2020年入社の若手社員に集まってもらい、会社の雰囲気などざっくばらんに語り合ってもらいました。",
+    "url": "https://www.saiyo.neg.co.jp/work_people/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "NEC・森田隆之社長兼CEO、BluStellarや生成AI、人材戦略などについて... — Nov 12, 2024 · 日本電気株式会社（以下、NEC）の森田隆之社長兼CEOが合同インタビューに応じ、2025年度を最終年度とする「2025中期経営計画」の達成に自信を ...",
+    "url": "https://cloud.watch.impress.co.jp/docs/news/1638471.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "なお、日本電気（NEC）は、当連結会計年度から、報告セグメントの内容を変更しています",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "変更内容は、「第一部 企業情報 第５ 経理の状況 １ 連結財務諸表等 （１）連結財務諸表 連結財務諸表注記 ６．事業セグメント (4)報告セグメントの変更等に関する事項」に記載のとおりです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "ＮＥＣグループの連結子会社（252社）をセグメントごとに記載すると概ね次のとおりです",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   },
+   {
+    "quote": "また、2026年4月1日付で、社会インフラセグメントであったテレコム事業者向けのソフトウェア・サービス事業をITサービスセグメントに移管しました",
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindmeister.jp/posts/bm-NEC",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.neg.co.jp/ir/archive/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://irbank.net/6701/ir",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E7%94%B0%E9%9A%86%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DRriQaOEnlG/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本電気",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "https://group.nec/global/ja/about/corporate/profile/",
+    "https://group.nec/global/ja/about/corporate/",
+    "https://jpn.nec.com/?teal_jpn=017d97ee8c9400151945be88675305072003106a007e8",
+    "https://www.nikkei.com/nkd/company/?scode=6701",
+    "https://www.youtube.com/@NEConlineTV",
+    "https://x.com/NEC_jp_pr",
+    "https://ja.wikipedia.org/wiki/日本電気",
+    "https://grokipedia.com/page/japan_electric_association",
+    "https://ja.wikipedia.org/wiki/NECグループ"
+   ]
+  },
+  {
+   "query": "株式会社日本電気",
+   "results": [
+    "https://group.nec/global/ja/about/corporate/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "https://group.nec/global/ja/about/corporate/profile/",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrPk",
+    "https://jpn.nec.com/contactus/index.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6701",
+    "https://jobs.nec-careers.com/u/job.phtml",
+    "https://jinjibu.jp/corporate/yel/1323/",
+    "https://ja.wikipedia.org/wiki/日本電気",
+    "https://ja.wikipedia.org/wiki/NECグループ"
+   ]
+  },
+  {
+   "query": "日本電気 株式会社",
+   "results": [
+    "https://group.nec/global/ja/about/corporate/profile/",
+    "https://group.nec/global/ja/about/corporate/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97",
+    "https://jpn.nec.com/products/index.html",
+    "https://en.wikipedia.org/wiki/NEC",
+    "https://x.com/NEC_jp_pr",
+    "https://www.nikkei.com/nkd/company/?scode=6701",
+    "https://www.youtube.com/@NEConlineTV",
+    "https://ja.wikipedia.org/wiki/日本電気株式会社",
+    "https://ja.wikipedia.org/wiki/日本電気"
+   ]
+  },
+  {
+   "query": "日本電気 ビジネスモデル",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電気",
+    "https://mindmeister.jp/posts/bm-NEC",
+    "https://group.nec/global/ja/about/business/",
+    "https://cloud.watch.impress.co.jp/docs/news/1527595.html",
+    "https://group.nec/global/ja/",
+    "https://jpn.nec.com/press/202608/20260810_01.html",
+    "https://www.nec-businessintelligence.co.jp/"
+   ]
+  },
+  {
+   "query": "日本電気 決算説明資料",
+   "results": [
+    "https://www.neg.co.jp/ir/archive/results/",
+    "https://irbank.net/6701/ir",
+    "https://www.buffett-code.com/company/6701/library",
+    "https://www.nidec.com/jp/ir/library/earnings/",
+    "https://edinetdb.jp/company/E01765/presentations/",
+    "https://group.nec/global/ja/about/ir/events/er",
+    "https://group.nec/global/ja/about/ir/library/"
+   ]
+  },
+  {
+   "query": "日本電気 事業系統図",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本電気",
+    "https://www.kabutore.biz/genzaikabuka/jigyo.html?code=6701",
+    "https://group.nec/global/ja/about/business/",
+    "https://aiinfra-lab.com/power-grid-facility/1946/",
+    "https://group.nec/global/ja/about/corporate/",
+    "https://www.occto.or.jp/institution/access/link/keitou-and-plan.html",
+    "https://soudensen.com/"
+   ]
+  },
+  {
+   "query": "日本電気 社長 インタビュー",
+   "results": [
+    "https://ja.wikipedia.org/wiki/森田隆之",
+    "https://www.instagram.com/p/DRriQaOEnlG/",
+    "https://www.saiyo.neg.co.jp/work_people/interview/",
+    "https://newspicks.com/news/13728065/",
+    "https://cloud.watch.impress.co.jp/docs/news/1638471.html",
+    "https://cloud.watch.impress.co.jp/docs/news/2111535.html",
+    "https://globe.asahi.com/article/15350114"
+   ]
+  }
+ ],
+ "missing": {}
+}

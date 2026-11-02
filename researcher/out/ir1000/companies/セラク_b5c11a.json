@@ -1,0 +1,1400 @@
+{
+ "name": "セラク",
+ "aliases": [],
+ "context": "証券コード6199／情報・通信業／スタンダード（内国株式）／2025.08期 売上高24,776百万円 営業利益率10.3%",
+ "researched_at": "2026-11-02T21:03:26.159885+00:00",
+ "official_url": "https://www.seraku.co.jp/",
+ "identified_by": "search:yahoo_jp:セラク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1987年12月",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "2004年1月",
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ハードウェア設計・開発／ハードウェアテスト・検査 ITインフラ（運用・保守） 業務効率化支援／BPO",
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "クラウドの定着・活用支援で顧客の発展に貢献し続け、世界をよくしていく",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB向け案件紹介型プラットフォームで、お客様の課題をともに解決するビジネスパートナーを募集しています",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "だから顧客の成長を",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "構想策定から導入、定着、運用改善までを一気通貫で支援し、顧客企業の業務変革と事業成長を実現します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "30年以上に渡り、3000名以上の自社エンジニアが顧客企業のIT支援を行ってきた実績・ノウハウをベースに、AI時代に提供価値を大きく進化させ、事業分野に精通したAIエンジニアやAIコンサルタントがAIプラットフォームやアプリを活用し企業のAIシフトを実現します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業の課題や組織状況に応じて、4つの協業パターンをご用意しています",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業に常駐し、AI実装・IT運用の最前線に当社のAIソリューションを展開します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業のAI化プロジェクトへの参画や、8つの技術領域における高度専門人材として、AI時代に高い価値を生む働き方を実現できます",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "リリース頻度も5倍以上に向上し、顧客の要望を即座に形にする体制が整いました",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、自社業務のAI化による生産性向上と、顧客企業のAI活用支援の両輪で取り組みを進めています",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客課題を理解し、AIを使いこなし、チームで価値を生み出し、自ら学び続けられる人",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客・社会の成果を最大化するエキスパート",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "約40年の事業経験、3,000名以上のエンジニア、常時500社を超える顧客・案件から得られた知見をもとに「AIでの自動化・生産性向上の要点」をITビジネスプロセスごとに整理・標準化しスキルとして落とし込む",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "と定義しており、すなわち顧客・パートナー・仲間とともに協調・協働してより良い未来を実現していくことです",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "個人の成果ではなく、チーム・顧客の成果に責任を持てる",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客課題に向き合い、設計から運用まで経験する",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "■お取引先の皆様",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、経営理念に「世の為 人の為に、貢献する」を掲げ、人と技術によりお客様と社会に貢献することこそが価値の源泉と考えています",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その価値を追求し、デジタルトランスフォーメーション（DX）、システムインテグレーション（SI）、みどりクラウド（農業IT）、機械設計エンジニアリングの事業セグメントを柱に、3,000名を超える自社エンジニアおよび、当社と志を共にする1,880社以上のパートナー企業によるソリューションの提供と運用支援を行い、IT化推進のパートナーとしてお客様と共に成長してまいりました",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社にも日々800社を越えるお取引先様を通じ、これら新分野へ多数のリクエストが寄せられております",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も素晴らしきパートナーであるべく、ITインフラ基盤の構築・運用、クラウドシステム運用・定着支援サービス、AIシフトの取り組みなどを通じて、新たな分野でもお客様に有益なサービスを提供し続けることにより、日増しに高まる皆様の期待に応えてゆきたいと考えております",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に合わせたIT環境・サービスの提供",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、農業をITの力で変革するみどりクラウド事業や機械設計エンジニアリング事業、更には、自社サービスとして顧客企業のAI活用を支援する「NewtonX」サービスなど、社会課題の解決に繋がる事業を展開しております",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "IT人材プラットフォームでは、当社が保有する約800社の顧客のIT課題解決に、パートナー企業と共同で取り組み、体制化・請負化を進めることで、利益増を実現します",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "事業子会社セラクCCCを中心に手掛けるクラウドシステム運用・定着では、企業システムのクラウド化やデジタルトランスフォーメーションが急速に進む時代を迎え、対応プラットフォームの拡充と、当社の独自性である伴走型支援「カスタマーサクセス」を強みに顧客数を拡大し、これまで以上の高い利益率と売上成長を実現しています",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主、顧客、従業員をはじめとする利害関係者に対して、経営責任と説明責任の明確化を図り、もって、企業価値の最大化によるメリットを提供するため、経営と業務執行における透明性の確保並びにコンプライアンス遵守の徹底を進め、同時に、効率的な経営の推進を行うこととしております",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、個人情報、顧客情報、および関係者の権利を侵害することになる情報につきましては開示しません",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "投資に関する決定は利用者ご自身の判断でなさるようお願いいたします",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "また、通信環境やお客様のコンピュータの状況、その他の理由により当ウェブサイトを正常に利用できない場合があります",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した顧客基盤を持ち大手企業の IT 需要",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前期は有料販売をスタートし、順調に導入社数が増えています",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客数は累計500社に迫るまでに拡大しています",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "注） Salesforce ：営業管理・顧客管理を中心に世界的にシェアを持つクラウドサービス",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※クラウドとは：ユーザーがソフトウェアを持たなくてもインターネットを通じてサービスを利用する仕組み",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "利便性は徐々に拡がり、2022年現在、環境モニタリングのユーザーは3000件を超え、その他のサービスを合わせると6000件に迫る勢いで浸透している",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後もユーザーさんの声を反映してブラシュアップしていきます」と語る持田さん",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "総合ITソリューションのセラク",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webソリューション",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTソリューション",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け生成AIサービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションカンパニーのmirAI",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アドミニストレーションサービスを提供",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けChatGPT活用支援サービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラク、AIを活用したセキュリティ診断および対策実装支援サービスを提供開始",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社会の発展に貢献する商品、サービスをご提供することで、皆さま方の発展とともに成長する",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラクのサービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向けChatGPT導入・活用支援サービス",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "8つの事業分野で、AIソリューションを提供",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "社会のAIシフトを実現する「AIソリューションカンパニー」へ",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションカンパニー",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラソリューション(構築)",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "インフラソリューション(運用)",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "MSP（マネージドサービスプロバイダー）など、企業のITシステムを当社センターで24時間365日運用します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客企業に常駐し、AI実装・IT運用の最前線に当社のAIソリューションを展開します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューション型",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のAIソリューションをハンズオンで提供します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "提供サービス",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス共同開発",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIソリューションカンパニーとして、社員一人ひとりがAI時代にふさわしい価値を発揮できる環境をつくります",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "みどりクラウド事業部が提供する『らくらく出荷』は、JAの業務効率化を実現する重要なDXサービスです",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスととも歩む",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "業務プロセスにAIを組み込み、現場で成果につなげるためのサービス群です",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "当社AIサービス",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "個人レベルのAI活用（プロンプトエンジニアリング）は当然のこと、AIプラットフォームや自社AIサービスを用いて、ITビジネスプロセスの自動化や生産性向上を実現するAI活用スキルを組織的に育成します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "BUSINESS | 総合ITソリューションのセラク",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webソリューション",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IoTソリューション",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け生成AIサービス",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい商品、サービス、仕組を創造し、実現し続けることに価値を置く集団である",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「社会の発展に貢献する商品、サービスをご提供することで、皆さま方のご発展と共に成長してゆくことが私達の願いです",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その価値を追求し、デジタルトランスフォーメーション（DX）、システムインテグレーション（SI）、みどりクラウド（農業IT）、機械設計エンジニアリングの事業セグメントを柱に、3,000名を超える自社エンジニアおよび、当社と志を共にする1,880社以上のパートナー企業によるソリューションの提供と運用支援を行い、IT化推進のパートナーとしてお客様と共に成長してまいりました",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も素晴らしきパートナーであるべく、ITインフラ基盤の構築・運用、クラウドシステム運用・定着支援サービス、AIシフトの取り組みなどを通じて、新たな分野でもお客様に有益なサービスを提供し続けることにより、日増しに高まる皆様の期待に応えてゆきたいと考えております",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドサービスにおけるカスタマーサクセスソリューションやAI/サイバーセキュリティ/RPAなどの先進技術で企業のデジタル化を支援するDX（デジタルトランスフォーメーション）サービス、企業のITインフラやITシステムを支えるSI（システムインテグレーション）サービス、農業IoTサービス「みどりクラウド」等を提供しています",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "名の社員が新規ITサービスを創造し、ITの未来を作り続けます",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "セラクのサービス",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ESG MANAGEMENT | 総合ITソリューションのセラク",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "Webソリューション",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "IoTソリューション",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "Webサービス",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "法人向け生成AIサービス",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "業種別ソリューション",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "セラクはIT技術サービスの提供を通じて",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "提供サービス及び社内環境における省エネ・再利用・再資源化を徹底し、循環型社会の実現を目指します",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "顧客に合わせたIT環境・サービスの提供",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルヘルスケアサービスの提供",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "セラクのサービス",
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "pass": 1
+   },
+   {
+    "quote": "COMPANY | 総合ITソリューションのセラク",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "マネージドサービス",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "セラク、ソフトバンク「AGENTIC STAR インテグレーションパートナー アライアンス」へ参画 ～ITインフラ・クラウド、AI領域の知見を活かし、企業のAI活用を支援～",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスパートナー募集",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "BtoB向け案件紹介型プラットフォームで、お客様の課題をともに解決するビジネスパートナーを募集しています",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー登録社数",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "セラクが培った採用力・教育力をOEM・業務提携等の戦略的パートナーシップにより提供します",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー企業との",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "その変化の中で私たちは、パートナー企業と共に価値を高め合う関係をつくりたいと考えています",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "セラクグループが持つ営業力、採用力、教育力、AI実装力を開き、パートナー企業とともに成長し、AI時代に選ばれる企業群をつくっていく",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "それが、SERAKUのパートナーシップです",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "定期の協業ビジネスパートナー会開催",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー社",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちセラクは、AI技術の急速な進化を単なる効率化の手段としてではなく、社会課題を解決し、人々の幸福を最大化するための「パートナー」と捉えています",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "AIをパートナーとして活用し、",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "と定義しており、すなわち顧客・パートナー・仲間とともに協調・協働してより良い未来を実現していくことです",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "心の円満な状態を表し、株主、クライアント、パートナー、社員といった、すべてのステークホルダーの皆様との関係が円満であろうとの考えを表しています",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "その価値を追求し、デジタルトランスフォーメーション（DX）、システムインテグレーション（SI）、みどりクラウド（農業IT）、機械設計エンジニアリングの事業セグメントを柱に、3,000名を超える自社エンジニアおよび、当社と志を共にする1,880社以上のパートナー企業によるソリューションの提供と運用支援を行い、IT化推進のパートナーとしてお客様と共に成長してまいりました",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も素晴らしきパートナーであるべく、ITインフラ基盤の構築・運用、クラウドシステム運用・定着支援サービス、AIシフトの取り組みなどを通じて、新たな分野でもお客様に有益なサービスを提供し続けることにより、日増しに高まる皆様の期待に応えてゆきたいと考えております",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "■パートナーの皆様",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社にとって、協力会社、組織、個人の方々をはじめ、社外の皆様との間に培ってきたパートナーシップは、欠かすことのできない有益貴重な財産といえます",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "上場企業として、自立した社会的責任を果たす存在であると同時に、先端分野を手掛ける責務として、多くのパートナーシップを通じた相互発展により実現する恩恵を、社会とパートナーの皆様と分かち合いたいと考えております",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "現代のIT環境の急速な変化は、パートナーの皆様にとっても飛躍のチャンスとなるものです",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Tableau Softwareとのパートナー契約締結",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ヴイエムウェア株式会社認定VMware Solution Provider(Professional)パートナー取得",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "シトリックス・システムズ・ジャパン株式会社認定Citrix Solution Advisor(Silver)パートナー取得",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "シスコ社認定プレミアパートナー取得",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト認定ゴールドパートナー取得",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、社会全体におけるIT人材不足が続く中、独自のIT人材教育により育成した3,000名以上の自社ITエンジニアに加え、「IT人材プラットフォーム」により当社と志を共有する1,880社以上のパートナー企業のIT人材とともに事業を展開しております",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "IT人材プラットフォームでは、当社が保有する約800社の顧客のIT課題解決に、パートナー企業と共同で取り組み、体制化・請負化を進めることで、利益増を実現します",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "スの営業体制拡充を進めてまいります",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "好調なエンジニア稼働を背景に、 パートナー",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の実現に向けて 、引き続きパートナー企業増",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "やDX シフトの推進、自社サービスの営業体制",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "自社エンジニアに加えパートナー企業のエ",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "登録パートナー社は 1年後に 3,000社規模に",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化に向けた営業体制の拡充を行っています",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,000 社を超えるパートナーとの協業体制",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前期 1,000 社超まで増えたパートナー企業と",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多くのパートナー社が当社と共に活動するこ",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「食」のライフラインを支え、美味しい食卓をつくる | トップランナー紹介 | 日本食農連携機構",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "トップランナー紹介",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "統合人事システムCOMPANY(R)の導入・運用保守",
+    "url": "https://www.seraku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "に基づき、当社の従業員に対し、税制適格ストックオプションとして、下記のとおり新株予約権を",
+    "url": "https://www.seraku.co.jp/ir/stock/pdf/koukoku-01_20260717.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ITインフラ（運用・保守）",
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "セラクは企業向けITインフラの構築・保守を主軸とし、システムの構築・運用・保守までワンストップで提供するSIer（システムインテグレーター）だ",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "ストック型ビジネスで成長",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "私たちは、AIを活用しながら候補者の可能性を多面的に理解し、最後は人と人との対話を通じて、一人ひとりの強みや価値観に丁寧に向き合います",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "事業子会社セラクCCCを中心に手掛けるクラウドシステム運用・定着では、企業システムのクラウド化やデジタルトランスフォーメーションが急速に進む時代を迎え、対応プラットフォームの拡充と、当社の独自性である伴走型支援「カスタマーサクセス」を強みに顧客数を拡大し、これまで以上の高い利益率と売上成長を実現しています",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、AI活用サービス「NewtonX」は、2023年頃から出現した生成系AIビジネス市場の潮流においていち早くサービス化を行い、現在はクラウドシステム運用・定着領域など、当社の強みを活かした分野で機能強化を図っています",
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月に、システム開発に強みを持つAND",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Think株式会社、7月に intra-martの開発に強み",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みは、クラウドシステム運用・定着支援サービスで培った伴走型でのカ",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高い参入障壁と市場性を背景に、導入拡大が進む",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前職で身につけたスキルやノウハウが、自分ならではの強みに変わる",
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の教育制度でITエンジニアの採用・育成を行い、短期間で即戦力として現場で活躍できる人材を創出するのが強みだ",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "売上高営業利益率は、前年同期の５・３％から10・３％へと大幅に改善している",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "20年３月期、過去最高益を更新「コーポレートイン」を強みに利益成長",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年1月14日時点",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年2月、開発環境にAIエディタ「Cursor」を全面的に導入",
+    "url": "https://www.seraku.co.jp/mirai/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年12月",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月24日 IRセミナー情報",
+    "url": "https://www.seraku.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年 8月期",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年 8月期",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年 8月期",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月28日",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月26日",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月28日",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年 8月期",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月17日",
+    "url": "https://www.seraku.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月27日",
+    "url": "https://www.seraku.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年４月14日",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期第２四半期決算発表",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年７月中旬",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期第３四半期決算発表",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月中旬",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期決算発表",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月下旬",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年１月中旬",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年８月期第１四半期決算発表",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年(平成13年)7月に",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年(平成23年)7月に業務拡大により東京本社・別館（東新宿オフィス）を西新宿本社9階へ増床・移転、その後2016年（平成28年）11月に本社6Fにフロア統合・増床を行い、現在に至っております",
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年 9月1日～ 2024年 8月31日 証券コード： 6199",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025 年 8 月期は、中期 の営業利益目標であ る",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年 8 月期業績",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年 8月期 （進行期） 計画",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2016 年8 月期の上場時と比較し、2024 年",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021 年 4 月 14 日付当社発表をご覧く",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年5月に、システム開発に強みを持つAND",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年に事業子会社「セラク CCC」 を設立",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024 年7月には「クラウドシ",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2023年からタレントマネジメントシステムを導",
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年７月17 日",
+    "url": "https://www.seraku.co.jp/ir/stock/pdf/koukoku-01_20260717.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年７月29 日",
+    "url": "https://www.seraku.co.jp/ir/stock/pdf/koukoku-01_20260717.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026 年８月１日",
+    "url": "https://www.seraku.co.jp/ir/stock/pdf/koukoku-01_20260717.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年入社",
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年入社",
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2015年入社",
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "2004年1月",
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "1957年2月生まれ、長崎県出身",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年、株式会社マーク入社",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "1981年、米国クイーンズ大学留学",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "1984年、株式会社マーク復職",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "1987年、株式会社セラク設立、代表取締役(現任)",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "その価値を追求し、デジタルトランスフォーメーション（DX）、システムインテグレーション（SI）、みどりクラウド（農業IT）、機械設計エンジニアリングの事業セグメントを柱に、3,000名を超える自社エンジニアおよび、当社と志を共にする1,880社以上のパートナー企業によるソリューションの提供と運用支援を行い、IT化推進のパートナーとしてお客様と共に成長してまいりました",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "双方の技術の活用を目指して今期から同一セグメントとして立ち上げている",
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "当社の強み - IR | 総合ITソリューションのセラク — 当社の強み - IR | 総合ITソリューションのセラク SERAKU https://www.seraku.co.jp > indivisual > strength",
+    "url": "https://www.seraku.co.jp/ir/indivisual/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "社員インタビュー - 株式会社セラクビジネスソリューションズ — 社員インタビュー - 株式会社セラクビジネスソリューションズ 株式会社セラクビジネスソリューションズ https://www.bs-seraku.co.jp > interview",
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "BUSINESS | 総合ITソリューションの セラク — BUSINESS | 総合ITソリューションの セラク SERAKU https://www.seraku.co.jp > business",
+    "url": "https://www.seraku.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "「強み： ビジネスモデル 弱み： 競合の多さ... セラク OpenWork — 「強み： ビジネスモデル 弱み： 競合の多さ... セラク OpenWork OpenWork https://www.openwork.jp > ... > セラク > 強み・弱み・展望",
+    "url": "https://www.openwork.jp/one_answer.php?vid=a0A2x00000JsiPW&qco=9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セラク - LinkedIn — 株式会社 セラク - LinkedIn LinkedIn https://jp.linkedin.com > company > seraku",
+    "url": "https://jp.linkedin.com/company/seraku",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 総合ITソリューションの セラク — IR | 総合ITソリューションの セラク SERAKU https://www.seraku.co.jp > library",
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "[ セラク 6199.T] 2026年8月期 株式会社 セラク決算説明資料 — [ セラク 6199.T] 2026年8月期 株式会社 セラク決算説明資料 BigGo ファイナンス https://finance.biggo.jp > jpx_tdnet_140120261015551423",
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261015551423",
+    "pass": 3
+   },
+   {
+    "quote": "IR | 総合ITソリューションの セラク — IR | 総合ITソリューションの セラク SERAKU https://www.seraku.co.jp > ...",
+    "url": "https://www.seraku.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "セラク - 日本経済新聞 — セラク - 日本経済新聞 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260114533525/",
+    "pass": 3
+   },
+   {
+    "quote": "セラク のIR 資料 - 6199 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報・通信業 — セラク のIR 資料 - 6199 / ｽﾀﾝﾀﾞｰﾄﾞ / 情報・通信業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/6199/library",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セラク の組織図 — 株式会社 セラク の組織図 SERAKU PDF https://www.seraku.co.jp > pdf > seraku_Organization",
+    "url": "https://www.seraku.co.jp/common/pdf/seraku_Organization.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社セラクビジネスソリューションズ — 会社概要 - 株式会社セラクビジネスソリューションズ 株式会社セラクビジネスソリューションズ https://www.bs-seraku.co.jp > company",
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "セラク 企業システムの保守・運用や IT インフラ構築などが ... — セラク 企業システムの保守・運用や IT インフラ構築などが ... 野村インベスター・リレーションズ株式会社 PDF https://www.nomura-ir.co.jp > link > qnresearch_6199",
+    "url": "https://www.nomura-ir.co.jp/ja/qnresearch/report_6199/main/00/teaserItems1/00/link/qnresearch_6199.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | 総合ITソリューションの セラク — COMPANY | 総合ITソリューションの セラク SERAKU https://www.seraku.co.jp > company",
+    "url": "https://www.seraku.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) セラク 【東証スタンダード市場上場】の会社概要 - マイナビ — (株) セラク 【東証スタンダード市場上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp74863 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp74863/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "セラク 宮崎龍己氏 - 日本食農連携機構 — セラク 宮崎龍己氏 - 日本食農連携機構 日本食農連携機構 https://jfaco.jp > archive > interview20",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   },
+   {
+    "quote": "インタビュー | 株式会社 セラク のキャリア採用サイト — インタビュー | 株式会社 セラク のキャリア採用サイト SERAKU https://www.seraku.co.jp > recruit > interview",
+    "url": "https://www.seraku.co.jp/recruit/interview/?id=carrer",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 株式会社 セラク ビジネスソリューションズ — 社員 インタビュー 株式会社 セラク ビジネスソリューションズ 株式会社セラクビジネスソリューションズ https://www.bs-seraku.co.jp > interview > interview02",
+    "url": "https://www.bs-seraku.co.jp/interview/interview02/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 セラク 大阪支社｜ITエンジニア インタビュー - YouTube — 株式会社 セラク 大阪支社｜ITエンジニア インタビュー - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-PKfoTGh7RE",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "セラク流・ビジネスモデル",
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seraku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/mirai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/business/esg_management.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/indivisual/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.seraku.co.jp/common/pdf/seraku_Approval.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/common/pdf/seraku_MainClient.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/common/pdf/seraku_Organization.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2023_ShareholderCommunication.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2024_ShareholderCommunication.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/library/pdf/2025_ShareholderCommunication.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/library/pdf/mid-term-management-plan-2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/ir/stock/pdf/koukoku-01_20260717.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.seraku.co.jp/mirai/pic16.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seraku.co.jp/mirai/ai_talent_model_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seraku.co.jp/common/images/compay_business_img.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.seraku.co.jp/common/images/business_esg_heading.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.bs-seraku.co.jp/interview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261015551423",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bs-seraku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jfaco.jp/archive/interview20.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セラク",
+   "results": [
+    "https://www.seraku.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%A9%E3%82%AF",
+    "https://www.youtube.com/user/serakuWeb",
+    "https://www.openwork.jp/a0910000005ZI2K/pr/",
+    "https://ja.wikipedia.org/wiki/セラク",
+    "https://job.mynavi.jp/27/pc/search/corp74863/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/6199/corporate",
+    "https://prtimes.jp/main/html/rd/p/000000132.000075130.html",
+    "https://finance.yahoo.co.jp/quote/6199.T/profile",
+    "https://www.seraku.co.jp/en/"
+   ]
+  },
+  {
+   "query": "セラク ビジネスモデル",
+   "results": [
+    "https://www.seraku.co.jp/ir/indivisual/strength/",
+    "https://www.bs-seraku.co.jp/interview/",
+    "https://www.seraku.co.jp/business/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A2x00000JsiPW&qco=9",
+    "https://jp.linkedin.com/company/seraku",
+    "https://app.en-courage.com/companies/01GHZ0Z0PH4NM6Y5X1K2CJFWQT",
+    "https://www.careermap.jp/corporations/111340",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_6199/main/00/teaserItems1/00/link/qnresearch_6199.pdf",
+    "https://www.bs-seraku.co.jp/recruit/"
+   ]
+  },
+  {
+   "query": "セラク 決算説明資料",
+   "results": [
+    "https://www.seraku.co.jp/ir/library/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261015551423",
+    "https://www.seraku.co.jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260114533525/",
+    "https://www.buffett-code.com/company/6199/library",
+    "https://www.release.tdnet.info/inbs/140120260715594357.pdf",
+    "https://irbank.net/6199/ir",
+    "http://ke.kabupro.jp/code/6199.htm",
+    "https://minkabu.jp/news/4636390",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260414503706/"
+   ]
+  },
+  {
+   "query": "セラク 事業系統図",
+   "results": [
+    "https://www.seraku.co.jp/common/pdf/seraku_Organization.pdf",
+    "https://www.bs-seraku.co.jp/company/",
+    "https://www.nomura-ir.co.jp/ja/qnresearch/report_6199/main/00/teaserItems1/00/link/qnresearch_6199.pdf",
+    "https://www.seraku.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp74863/outline.html",
+    "https://app.en-courage.com/companies/01GHZ0Z0PH4NM6Y5X1K2CJFWQT",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20251015/20251015573925.pdf",
+    "https://jp.linkedin.com/company/seraku",
+    "https://mid-tenshoku.com/agency/a-3847/",
+    "https://ja.wikipedia.org/wiki/セラク"
+   ]
+  },
+  {
+   "query": "セラク 社長 インタビュー",
+   "results": [
+    "https://www.kabutecho.com/interview/%E3%82%BB%E3%83%A9%E3%82%AF/",
+    "https://jfaco.jp/archive/interview20.html",
+    "https://www.seraku.co.jp/recruit/interview/?id=carrer",
+    "https://www.bs-seraku.co.jp/interview/interview02/",
+    "https://www.youtube.com/watch?v=-PKfoTGh7RE",
+    "https://www.green-japan.com/company/2393/interview",
+    "https://www.wantedly.com/companies/company_1253292/post_articles/458528",
+    "https://kitaishihon.com/company/6199/board-of-director",
+    "https://www.youtube.com/watch?v=5kt2RJsuQcs",
+    "https://www.ccc.seraku.co.jp/recruit/member/"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像12件／外部5頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像12件／外部5頁・検索5回）"
+ }
+}

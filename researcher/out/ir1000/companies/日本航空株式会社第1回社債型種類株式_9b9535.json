@@ -1,0 +1,215 @@
+{
+ "name": "日本航空株式会社第１回社債型種類株式",
+ "aliases": [],
+ "context": "証券コード92015／空運業／プライム（内国株式）／2026.03期 売上高2,012,514百万円 営業利益率10.3%",
+ "researched_at": "2026-11-02T21:03:15.948670+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "日本航空第1回社債型種類株式 （92015）のチャート - SBI証券 — 日本航空第1回社債型種類株式 （92015）のチャート - SBI証券 SBI証券 https://www.sbisec.co.jp > getDetailOfStockPriceJP",
+    "url": "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本航空 第1回社債型種類株式",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://note.com/tabizo_travelife/n/n55fa967077f3",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/kakaku&QCODE=92015&MKTN=T&COD1=&MODE=W",
+    "https://finance.yahoo.co.jp/quote/92015.T",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_haitounenritsu_JP.pdf"
+   ]
+  },
+  {
+   "query": "株式会社日本航空 第1回社債型種類株式",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://note.com/dentalhr/n/n96a503560f73",
+    "https://finance.yahoo.co.jp/quote/92015.T",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_setsumei(0430)_JP.pdf",
+    "https://tdnet-pdf.kabutan.jp/20260430/140120260430514699.pdf"
+   ]
+  },
+  {
+   "query": "日本航空 第1回社債型種類株式 株式会社",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/kakaku&QCODE=92015&MKTN=T&COD1=&MODE=W",
+    "https://finance.yahoo.co.jp/quote/92015.T",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514699/",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_setsumei(0430)_JP.pdf"
+   ]
+  },
+  {
+   "query": "日本航空　第１回社債型種類株式",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://note.com/tabizo_travelife/n/n55fa967077f3",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/kakaku&QCODE=92015&MKTN=T&COD1=&MODE=W",
+    "https://finance.yahoo.co.jp/quote/92015.T",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514699/"
+   ]
+  },
+  {
+   "query": "日本航空第1回社債型種類株式",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://note.com/tabizo_travelife/n/n55fa967077f3",
+    "https://ot32.qhit.net/mizuhosc/page/quote.cgi?F=market/kakaku&QCODE=92015&MKTN=T&COD1=&MODE=W",
+    "https://finance.yahoo.co.jp/quote/92015.T",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_haitounenritsu_JP.pdf"
+   ]
+  },
+  {
+   "query": "日本航空 第1回社債型種類株式 ビジネスモデル",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260519/20260519540877.pdf",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://note.com/dentalhr/n/n96a503560f73",
+    "https://x.com/Nonbirimile/status/2056637736715710895",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514699/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260430514649"
+   ]
+  },
+  {
+   "query": "日本航空 第1回社債型種類株式 決算説明資料",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260430514649",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514649/",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_setsumei(0430)_JP.pdf",
+    "https://irbank.net/9201/140120260430514649"
+   ]
+  },
+  {
+   "query": "日本航空 第1回社債型種類株式 事業系統図",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst30/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=92015&exchange_code=JPN",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260430/20260430514649.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260519540877/",
+    "https://note.com/yu_mtd/n/nd13dea6bd06f",
+    "https://www.jal.com/sites/ja/investor/issue/bond-type-class-shares/pdf_sites/Shuruikabu_setsumei(0430)_JP.pdf",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514649/"
+   ]
+  },
+  {
+   "query": "日本航空 第1回社債型種類株式 社長 インタビュー",
+   "results": [
+    "https://www.jal.com/ja-jp/investor/issue/bond-type-class-shares/",
+    "https://www.jpx.co.jp/equities/products/preferred-stocks/issues/tvdivq0000007usm-att/92015_SReport2.pdf",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260519/20260519540877.pdf",
+    "https://kabukiso.com/bond/corporate/class_shares/jal.html",
+    "https://c-eye.co.jp/review-eq/103259",
+    "https://www.youtube.com/watch?v=PbyE5fsCB60",
+    "https://note.com/dentalhr/n/n96a503560f73",
+    "https://x.com/Nonbirimile/status/2056637736715710895",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260430514699/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260430514649"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "誰に": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "何を": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "どうやって売るか": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "お金の形": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上構成": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "利益の源泉": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）",
+  "沿革": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

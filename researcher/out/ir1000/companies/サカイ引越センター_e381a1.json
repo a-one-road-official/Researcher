@@ -1,0 +1,1363 @@
+{
+ "name": "サカイ引越センター",
+ "aliases": [],
+ "context": "証券コード9039／陸運業／プライム（内国株式）／2026.03期 売上高124,741百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:07:04.325015+00:00",
+ "official_url": "https://www.hikkoshi-sakai.co.jp/",
+ "identified_by": "search:yahoo_jp:サカイ引越センター",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "昭和46年11月",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1971年11月",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主要な事業内容",
+    "value": "引越運送、引越付帯サービス業務",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "引っ越し運送、引っ越し付帯サービス業",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "6,989名（連結）　6,083名（単体）（2026年3月31日現在）",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "6823人（2023年12月末、連結）",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "103,884 109,556 116,861 121,023 124,741",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "92,139 95,760 101,380 104,006 106,314",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1095億5600万円",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "茨木県内でお引越しのお客様",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知県内でお引越しのお客様",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の声をもっと読む",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、お客様のご都合による解約の場合は、上記のキャンセル料とは別に、すでに実施または着手した付帯サービスにかかった費用を申し受ける場合があります",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "法人課を設置し法人顧客向け営業活動を本格的に開始",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からいただいたエシカル引越料金は、サカイ引越センターが協定を締結した三重県尾鷲市の森林保全や生態系の再生活動に役立てられます",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サカイ引越センターグループでは、お客様の不要品の買取・回収サービスに取り組んでいます",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、初めて同業の引越会社をグループ化しましたので、パートナー戦略を含め引越案件を全方位で獲得していくとともに、よりお客様に寄り添うサービスを展開し、商品販売やリユース事業を加速させます",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社サカイ引越センターは「まごころこめておつきあい」をモットーに、お客様、株主、投資家の皆様を始めステークホルダーに、当社の情報を正確、迅速に開示することがその実践に繋がると考えます",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "・お客様のもとで、キズまたは汚損が生じた商品",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "返品送料 お客様のご都合による返品の返送料は、お客様負担でお願いします",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ッチフレーズに引越を基軸とした顧客接点の維持を図り、収益基盤を強化することで事業の拡大を目指してまいり",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの利害関係者の多くは、国内の株主、債権者、取引先等であり、海外からの資金調達の必要性が乏し",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 103,385 4,641 5,470 6,833 120,331 692 121,023 － 121,023",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 105,358 4,980 5,766 7,803 123,908 832 124,741 － 124,741",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本邦の外部顧客への売上高が連結損益計算書の売上高の90％を超えるため、記載を省略しております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．主要な顧客ごとの情報",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "連結損益計算書の売上高の10％以上を占める外部顧客が存在しないため、記載を省略しております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス一覧へ",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、お客様のご都合による解約の場合は、上記のキャンセル料とは別に、すでに実施または着手した付帯サービスにかかった費用を申し受ける場合があります",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "家電リサイクル法（特定家庭用機器再商品化法）",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、荷物量・建物条件・引越し日・追加サービスによって総額が変わるため、一律の相場を示すことは難しいです",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "引越運送、引越付帯サービス業務",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社新世紀サービス（連結子会社）を設立",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "らくらくCコースサービス開始",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "引越アンケートWEBシステムサービス開始",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社東海サービスセンター（現在、非連結子会社）を子会社化",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サカイ引越センターは「新生活応援グループ」として、環境課題の継続的改善を図ると共に、「運輸サービス業」として地球環境の保全に全力で取り組みます",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が考える企業の社会的責任、「よりよいサービスを提供し、社会に貢献する」を実践するため、これからもその精神を元に、地球規模の環境問題の解決に取り組んで参ります",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社地区に従事する役員・従業員、並びに利害関係者、敷地、建物、設備事業活動及びサービスに関連する環境保全活動に適用する",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "サカイ引越センターグループでは、お客様の不要品の買取・回収サービスに取り組んでいます",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、初めて同業の引越会社をグループ化しましたので、パートナー戦略を含め引越案件を全方位で獲得していくとともに、よりお客様に寄り添うサービスを展開し、商品販売やリユース事業を加速させます",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "オプションサービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "新生活応援サービス",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラン×オプションサービス組み合わせ例",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "まるごとおまかせフルサービスプラン",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/disclosure.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、初めて同業の引越会社をグループ化しましたので、パートナー戦略を含め引越案件を全方位で獲得していくとともに、よりお客様に寄り添うサービスを展開し、商品販売やリユース事業を加速させます",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/investor-information-en.html",
+    "pass": 1
+   },
+   {
+    "quote": "【サカイパートナーで引越】",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index02.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売価格 商品紹介ページをご参照ください(http://www.hikkoshi-sakai.co.jp/service/catalog/)",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び配送エリアにより異なりますので、詳細は商品紹介ページをご参照下さい",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスを一緒に取り組んでもらうパートナーを募集中です",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月05日",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月度月次売上高（速報）に関するお知らせ",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月03日",
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月05日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年９月度月次売上高（速報）に関するお知らせ",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月02日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月03日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和46年11月",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 【公式】サカイ引越センター",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月より、CO2フリーで森づくりに貢献できる新しい引越プラン「エシカル引越」を導入しました",
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月現在",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月20日（土曜日）午前10時",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月6日更新",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年９月末時点を基準日とする株主優待については",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年３月末時点の株主名簿に記載または記録された株主様より、変更後の制度を適用いたします",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期決算概要",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期（2026年4月1日～2027年3月31日）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年08月10日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期（2025年4月1日～2026年3月31日）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年02月10日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第３四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月10日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第２四半期（中間期）決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年08月08日",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期（2024年4月1日～2025年3月31日）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、単価面では価格の適正化を進め、通期で前年比103.9%の上昇を実現しました",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 1
+   },
+   {
+    "quote": "第九章 保管料、荷役料、手数料等（第四十九条―第五十二条）",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第九章 保管料、荷役料、手数料等",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご注文金額が30,000円(税込)未満の場合、代引き手数料330円(税込)がかかります",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご注文金額が30,000円(税込)以上の場合、代引き手数料は無料です",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "送料・手数料ともに弊社負担で早急に新品をご送付致します",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの中核である引越事業は、作業件数は825,134件（前年同期比0.8％増）となり、引越単価も前年同",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "受取手数料 39 37",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "第三章 在庫証明書（第十五条）",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第三章 在庫証明書",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、 証明基準日が記載された在庫を証する書面 （以下 「在庫証明書」 という",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 在庫証明書は、譲渡し、又は担保に供することができない",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 前二項の在庫証明書は、証明基準日翌日以降の在庫を証しない",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "とするときは、入庫情報、在庫情報その他の当会社が指定した事項を書面で当会社に提出",
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 10",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 売上高（百万円） 前期比（％） セグメント利益（百万円） 前期比（％）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．その他の区分は、報告セグメントに含まれないセグメントであり、不動産賃貸事業等であります",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△112百万円はセグメント間取引消去等であります",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益の合計は、連結損益計算書の経常利益と調整しております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 11,473 658 466 92 12,691 575 13,267 △123 13,143",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 70,864 4,638 6,225 5,089 86,817 10,089 96,907 30,327 127,234",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であ",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "て、セグメントは当社グループの事業を基礎として構成されており、「引越事業」、「電気工事事業」、",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「クリーンサービス事業」及び「リユース事業」の４つを報告セグメントとしております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額の算定方法",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は経常利益ベースの数値であります",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替高は市場実勢価格に基づいております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントに配分していない全社資産に係る減価償却費等は、一定の基準により各事業セグメントに",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、その他の項目の金額に関する情報",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△123百万円はセグメント間取引消去等であります",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント資産の調整額には、各事業セグメントに配分していない全社資産、セグメント間の債権債務消",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "４．セグメント利益の合計は、連結財務諸表の経常利益と調整を行っております",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 11,441 636 440 232 12,751 589 13,341 △112 13,229",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 71,286 3,615 5,210 5,064 85,176 10,086 95,263 33,928 129,191",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 | 【公式】 サカイ引越センター — 企業情報 | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > company",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 【公式】 サカイ引越センター — 会社概要 | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > 企業情報",
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト | 【公式】 サカイ引越センター — 財務ハイライト | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > finance",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "pass": 3
+   },
+   {
+    "quote": "引っ越し大手の「 サカイ引越センター 」同業者のグループ化に ... — 引っ越し大手の「 サカイ引越センター 」同業者のグループ化に ... 株式会社インソース https://www.insource.co.jp > 人事のお役立ちニュース",
+    "url": "https://www.insource.co.jp/contents/hr-article-no83876.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 【公式】 サカイ引越センター — IR 資料 室 | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > library",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家向けIR情報 | 【公式】 サカイ引越センター — 株主・投資家向けIR情報 | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > ...",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第二四半期 決算説明 会 資料 - サカイ引越センター — 2026年3月期 第二四半期 決算説明 会 資料 - サカイ引越センター hikkoshi-sakai.co.jp PDF https://www.hikkoshi-sakai.co.jp > ...",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/ou63ua00000006xs-att/20251111.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | 【公式】 サカイ引越センター — IRカレンダー | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > etc > calendar",
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "全国の支社一覧 | 【公式】 サカイ引越センター — 全国の支社一覧 | 【公式】 サカイ引越センター hikkoshi-sakai.co.jp https://www.hikkoshi-sakai.co.jp > 引越し対応エリア",
+    "url": "https://www.hikkoshi-sakai.co.jp/area/all.html",
+    "pass": 3
+   },
+   {
+    "quote": "サカイ引越センター 【9039】の 事業 内容 - キタイシホン — サカイ引越センター 【9039】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9039/business",
+    "pass": 3
+   },
+   {
+    "quote": "【 サカイ引越センター 】[9039]企業概要 社員数や役員報酬 ... — 【 サカイ引越センター 】[9039]企業概要 社員数や役員報酬 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9039",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 田島哲康 サカイ引越センター社長 — 編集長 インタビュー 田島哲康 サカイ引越センター社長 週刊エコノミスト https://www.weekly-economist.com > tajima_tetsuyasu",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   },
+   {
+    "quote": "サカイ引越センター 、成長の秘密は「まごころ経営」の実践に ... — サカイ引越センター 、成長の秘密は「まごころ経営」の実践に ... オリコンニュース https://cs.oricon.co.jp > ... > トップの理由",
+    "url": "https://cs.oricon.co.jp/michitari/article/251/",
+    "pass": 3
+   },
+   {
+    "quote": "サカイ引越センター 先輩 インタビュー 現業篇 2024 - YouTube — サカイ引越センター 先輩 インタビュー 現業篇 2024 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UWmM3bYTq2w",
+    "pass": 3
+   },
+   {
+    "quote": "サカイ引越センター への インタビュー - 引越し侍 — サカイ引越センター への インタビュー - 引越し侍 引越し侍 https://hikkoshizamurai.jp > ... > サカイ引越センター",
+    "url": "https://hikkoshizamurai.jp/company/d-sakaico/interview/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "田島 創業者が確立させたビジネスモデルを愚直にやってきた結果です",
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/sustainability/environment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/etc/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/estimate_ir2/mt_tokutei.cgi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/202603_4Q.zip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/investor-information-en.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/index02.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/news/2026/ou63ua00000017v4-att/20261014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/2026/ou63ua000000156t-att/20261005_MonthlySalesFlashReportSeptember2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/2026/ou63ua0000001561-att/20261005_202609_sokuhou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/2026/ou63ua00000013w8-att/20260903_fsEN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/yakkan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/r2mrro000000023f-att/tokutei.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/news/2026/ou63ua00000013sg-att/20260903_MonthlySalesFlashReportAugust2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikkoshi-sakai.co.jp/ir/r2mrro00000004rg-att/20260512.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.hikkoshi-sakai.co.jp/posts/interview",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サカイ引越センター",
+   "results": [
+    "https://www.hikkoshi-sakai.co.jp/index.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AB%E3%82%A4%E5%BC%95%E8%B6%8A%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://hikkoshi.suumo.jp/103807005/",
+    "https://www.nikkei.com/nkd/company/?scode=9039",
+    "https://hikkoshi.kakaku.com/hikkoshi/vender/00000000001/",
+    "https://page.line.me/849hsxyn",
+    "https://ja.wikipedia.org/wiki/サカイ引越センター",
+    "http://xn--68j2bz46lfsolvh1ycy55hmfh.com/sakai/",
+    "https://minhyo.jp/sakai-hikkoshi",
+    "https://hikkoshi-souba.com/company/sakai"
+   ]
+  },
+  {
+   "query": "サカイ引越センター ビジネスモデル",
+   "results": [
+    "https://www.hikkoshi-sakai.co.jp/company/index.html",
+    "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "https://customer-focus.emotion-tech.co.jp/posts/hikkoshi-sakai",
+    "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "https://www.insource.co.jp/contents/hr-article-no83876.html",
+    "https://www.logi-today.com/537573",
+    "https://www.hikkoshi-sakai.co.jp/company/cm/index.html",
+    "https://diamond.jp/articles/-/12650",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Frtl&q_no=9",
+    "https://ja.wikipedia.org/wiki/サカイ引越センター"
+   ]
+  },
+  {
+   "query": "サカイ引越センター 決算説明資料",
+   "results": [
+    "https://www.hikkoshi-sakai.co.jp/ir/library.html",
+    "https://www.hikkoshi-sakai.co.jp/ir/index.html",
+    "https://www.hikkoshi-sakai.co.jp/ir/ou63ua00000006xs-att/20251111.pdf",
+    "https://www.hikkoshi-sakai.co.jp/ir/etc/calendar.html",
+    "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9039",
+    "https://kitaishihon.com/company/9039/ir-library",
+    "https://edinetdb.jp/company/E04218/presentations/",
+    "https://irbank.net/9039/ir",
+    "https://irbank.net/E04218/reports"
+   ]
+  },
+  {
+   "query": "サカイ引越センター 事業系統図",
+   "results": [
+    "https://www.hikkoshi-sakai.co.jp/company/index.html",
+    "https://www.hikkoshi-sakai.co.jp/company/profile.html",
+    "https://www.hikkoshi-sakai.co.jp/area/all.html",
+    "https://kitaishihon.com/company/9039/business",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9039",
+    "https://www.hikkoshi-sakai.co.jp/company/group.html",
+    "https://www.hikkoshi-sakai.co.jp/sustainability/governance.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AB%E3%82%A4%E5%BC%95%E8%B6%8A%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC",
+    "https://www.hikkoshi-sakai.co.jp/ir/finance.html",
+    "https://ja.wikipedia.org/wiki/サカイ引越センター"
+   ]
+  },
+  {
+   "query": "サカイ引越センター 社長 インタビュー",
+   "results": [
+    "https://www.weekly-economist.com/interview/tajima_tetsuyasu/",
+    "https://recruit.hikkoshi-sakai.co.jp/posts/interview",
+    "https://cs.oricon.co.jp/michitari/article/251/",
+    "https://www.youtube.com/watch?v=UWmM3bYTq2w",
+    "https://hikkoshizamurai.jp/company/d-sakaico/interview/",
+    "https://morejob.co.jp/mirai/hikkoshi-sakai/",
+    "https://jobtalk.jp/companies/3599/answers/1375348",
+    "https://kitaishihon.com/company/9039/board-of-director",
+    "https://ja.wikipedia.org/wiki/田島哲康",
+    "https://www.hikkoshi-sakai.co.jp/news/2023/2024-03-11.html"
+   ]
+  }
+ ],
+ "missing": {}
+}

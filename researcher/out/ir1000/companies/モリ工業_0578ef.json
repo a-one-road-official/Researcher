@@ -1,0 +1,1321 @@
+{
+ "name": "モリ工業",
+ "aliases": [],
+ "context": "証券コード5464／鉄鋼／スタンダード（内国株式）／2026.03期 売上高43,288百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:05:45.422973+00:00",
+ "official_url": "https://www.mory.co.jp/",
+ "identified_by": "search:yahoo_jp:モリ工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1929年（昭和4年）4月1日",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1944年（昭和19年）5月29日",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1944年（昭和19年）5月29日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "432億円（連結）（2026年3月期）",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "44,042 2,099 46,141 ― 46,141",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部 売上高又は振替高",
+    "value": "― ― ― ― ―",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "41,483 1,804 43,288 ― 43,288",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "連結351億円　単体341億円 （2021年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "695名（連結）（2026年3月31日現在）",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "連結681名　単体507名 （2021年3月末現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ステンレス管、ステンレス加工品、ステンレス条鋼、鋼管（普通鋼）、機械（パイプ切断機など） 製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "なおステンレス管の溶接方法にはアルゴン・アーク溶接、高周波溶接、レーザー溶接があり、鋼種や用途に応じた最適な溶接方法を用いることで、高品質の製品を製作しております",
+    "url": "https://www.mory.co.jp/product/stainless/circle/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や家庭電化製品などステンレスの特性が発揮できる様々な分野、業界で使用されております",
+    "url": "https://www.mory.co.jp/product/stainless/circle/",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/product/stainless/circle/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品としてステンレス管の製造を開始し、業種転換に着手",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品として自動パイプ切断機の製造を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品として鋼管（普通鋼）の製造を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年以前の旧製品の製造を中止し、業種転換を完了",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品として冷間成形ステンレス条鋼の製造を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品としてステンレス角管の製造を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "福岡配送センターを開設し、九州・中国地区よりステンレス建材製品の在庫販売を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品として熱間圧延ステンレス条鋼の製造を水海道工場（現・茨城工場）にて開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "モリ工業株式会社は、耐久性に優れ環境にやさしいステンレス鋼を中心とした溶接管及び関連製品の開発・製造を通じて、これらの事業活動にともなう環境との関わりを認識し、持続可能な企業をめざします",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、ステンレス製品の利用範囲を拡大すること自体が持続可能な社会の発展を促すことになります",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力工場である河内長野工場内の天井照明は、全てLEDへの更新が完了いたしました",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "茨城工場に新しく東棟を建設し、条鋼製品の生産拠点を集約することにより、関東に集中した顧客への運送が容易になります",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備のレイアウトを適時最適なものに変更することで、材料や製品の運搬距離が短縮され、クレーンなどの使用量が減ることで、消費電力の削減につながります",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力工場である河内長野工場に、実質再生可能エネルギー由来である電力の導入を2022年4月より開始いたしました",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や家庭電化製品などステンレスの特性が発揮できる様々な分野、業界で使用されております",
+    "url": "https://www.mory.co.jp/product/stainless/circle/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/product/stainless/circle/01.html",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/product/stainless/circle/02.html",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/product/stainless/circle/03.html",
+    "pass": 1
+   },
+   {
+    "quote": "家庭用金物製品",
+    "url": "https://www.mory.co.jp/product/stainless/variant/semicircular_tube.html",
+    "pass": 1
+   },
+   {
+    "quote": "主力事業（ステンレス管）の売上拡大",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産拠点の集約化（製品別）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 主力事業であるステンレス管（特に配管用）が拡大（売上高71億円増、構成比７%増）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステンレス建材製品の",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "作業を社内で実施し、製品製造の",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多品種製品を並行して生産・販売する仕組み",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "細かいサービス体制をとり、納期、品質、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術サービス、アフターサービスなどの面で、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高度情報化関連製品の新需要増加",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社会に貢献する製品を安定的に提供し続ける、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力事業であるステンレス管",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主力事業であるステンレス管の強化と共に",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "利益拡大へ向け更なる生産性の向上と製品の",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "インドネシアの取扱い製品拡大、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社主要製品（配管用ステンレス鋼管・一般配管用ステンレス鋼管）の製品ラインナップの充実",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "改良品、新製品開発の強化（塗装品）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 当社の主力事業であるステンレス部門を強化すると共に、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・当社の主力製品であるステンレス配管事業の合理化のため、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "現在の主力である自動車向け製品",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "建材等、自動車向け製品以外の",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取扱い製品の拡大へ向け、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①インドネシアでの既存製品の販売拡大、取扱製品の拡大を目指す",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品の試作、生産に向けた製造機能の確保",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新製品の生産体制確立 ５億円",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "私たちの生活には欠かすことのできないステンレスは、環境負荷を製品のライフサイクル全体で評価する",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステンレス関連事業に区分される、ステンレス管、条鋼、鋼管及びその加工品・関連製品の製造販売は当社において行うほか、その一部製品の加工を連結子会社であるモリ金属㈱、関東モリ工業㈱において行っております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "製品部門別の売上高は以下のとおりです",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、配管用と装飾管用については、製品価格の下落や販売数量の減少の影響を受け、当部門の売上高は245億21百万円（前年同期比4.1％減）となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "鋼管部門は、前年同期と比べ建設仮設材用を中心に販売数量は回復しましたが、製品価格が下落したため、売上高は55億８百万円（前年同期比3.0％減）となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "なお、「第２ 事業の状況 ３ 事業等のリスク」に記載のとおり、当社グループの主力製品のパイプや条鋼の販売価格と主要な原材料であるコイル材等の仕入価格には当社グループではコントロールできない市場価格があります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループが営む主力の事業は、ステンレス管、ステンレス条鋼、ステンレス加工品、鋼管の製造販売に加え、パイプ加工の省力化用としてパイプ切断機等の機械の製造販売を行うステンレス関連事業であります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内においては、主に当社を中心として製品の製造様式、製品商品の市場及び顧客並びにその販売形態を系統的に区分した製品部門別に戦略を構築し、事業活動を展開しており、海外においては、在外連結子会社であるPT. MORY INDUSTRIES INDONESIAが製造から販売まで行い、独立した経営単位で事業活動を展開しております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "一冨士フードサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "神鋼環境ソリューション",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "日立グローバルライフソリューションズ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1929年（昭和4年）4月1日",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "1944年（昭和19年）5月29日",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革 | モリ工業株式会社",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1959年以前の旧製品の製造を中止し、業種転換を完了",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度には河内長野工場に太陽光パネルの設置をしました",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度から、電力会社の電力供給に対して需要がひっ迫した場合に、フレキシブルに需要量を変更する、いわゆるディマンド・レスポンス(DR)の運用を開始いたしました",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和2年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成31年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成26年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成25年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和2年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成31年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成26年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成25年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和5年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和4年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和3年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "令和2年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成31年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成30年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成29年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成28年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成26年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成25年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "平成24年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期中間決算説明資料（PDF:4 MB）",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明資料（PDF:2 MB）",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年3月期中間決算説明資料（PDF:1 MB）",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期決算説明資料（PDF:2 MB）",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   },
+   {
+    "quote": "令和7年3月期中間決算説明資料（PDF:1 MB）",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "福岡配送センターを開設し、九州・中国地区よりステンレス建材製品の在庫販売を開始",
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率（％）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫販売を開始",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これまで培った強みを活かしつつ、ありたい姿の実現に向けて新たな価値創造に挑戦",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の強みを活かし、”機会とリスク”へ対応すべく、",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "LMEニッケル在庫(千㌧) LMEニッケル月間平均(＄/LB)",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " ニッケル価格は凡そ市場在庫量との相関がみられてきたが、特に近年は、ニッケル取引市場",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "茨城工場に新しく東棟を建設し、条鋼製品の生産拠点を集約することにより、関東に集中した顧客への運送が容易になります",
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "安定取引、新規顧客獲得の強化 顧客利便性・満足度の向上",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "多様化する市場／顧客ニーズに応えることで事業領域と事業規模を拡大",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客要望への対応力を強化",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "特殊鋼問屋などの新規顧客＆ユーザー",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主に配管用ステンレス鋼管において、顧客との関係強化により販売拡大を図る（輸入材への対抗）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "給湯器用ステンレスパイプ販売拡大（顧客ニーズ対応）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の提案推進（ユーザーの人手不足解消）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社内横断的に新規顧客基盤を構築",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場／顧客／パートナーの動き",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客満足度の向上",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 受注残高には、継続的な取引先からの受注内示は含めておりません",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "２．総販売実績に対し10％以上に該当する販売先はありません",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内においては、主に当社を中心として製品の製造様式、製品商品の市場及び顧客並びにその販売形態を系統的に区分した製品部門別に戦略を構築し、事業活動を展開しており、海外においては、在外連結子会社であるPT. MORY INDUSTRIES INDONESIAが製造から販売まで行い、独立した経営単位で事業活動を展開しております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上高のうち、連結損益計算書の売上高の10％以上を占める相手先がないため、記載すべき事項はありません",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "のビジネスモデルを確立",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデルへ変革",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "市場／顧客／パートナーの動き",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "売上構成比率の変化",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 主力事業であるステンレス管（特に配管用）が拡大（売上高71億円増、構成比７%増）",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": " 2012年に進出したインドネシア事業が軌道に乗り、売上構成比率は５％まで伸長",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上比率向上へ向けた事業基盤整備",
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、当社及び子会社３社、持分法適用会社１社で構成され、その事業の内容及び位置づけ並びにセグメントとの関連は、次のとおりであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループのセグメントは、製造・販売体制を基礎とした地域別のセグメントから構成されており、個々の連結会社を集約した「日本」と「インドネシア」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの状況は次のとおりです",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本事業の売上高は414億83百万円（前年同期比5.8％減）、セグメント営業利益は43億49百万円（前年同期比18.5％減）となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "販売数量の大幅な減少と販売価格の下落が影響し、セグメント営業利益は28百万円(前年同期比50.0％減)となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) 上記金額は販売価額で示しており、セグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における仕入実績をセグメントごとに示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における受注状況をセグメントごとに示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における販売実績をセグメントごとに示すと次のとおりであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １．上記金額はセグメント間の取引については相殺消去しております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントごとの経営成績の状況に関する認識及び分析・検討内容は、「日本」セグメントにおける主な事業である「ステンレス関連」事業において、「第２ 事業の状況 ４ 経営者による財政状態、経営成績及びキャッシュ・フローの状況の分析 (1)経営成績等の状況の概要 ①経営成績の状況」に記載のとおり、販売数量の減少により売上高は減収となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "「インドネシア」セグメントは、現地の二輪、四輪メーカーへの販売数量の減少及び販売価格の下落により、減収減益となりました",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社の報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定及び業績を評価するために、定期的に検討を行う対象となっているものであります",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、当社グループは、製造・販売体制を基礎とした地域別のセグメントから構成されており、個々の連結会社を集約した「日本」と「インドネシア」の２つを報告セグメントとしております",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "社会 | モリ工業 株式会社 — 社会 | モリ工業 株式会社 モリ工業株式会社 https://www.mory.co.jp > content > sustainability > social",
+    "url": "https://www.mory.co.jp/content/sustainability/social",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内動画 - モリ工業 — 会社案内動画 - モリ工業 モリ工業株式会社 https://www.mory.co.jp > company > movie",
+    "url": "https://www.mory.co.jp/company/movie.html",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 【5464】の事業内容 - キタイシホン — モリ工業 【5464】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 - Wikipedia — モリ工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > モリ工業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 会社案内2024 - YouTube — モリ工業 会社案内2024 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=rY2-vIVLSQg",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | モリ工業 株式会社 — 決算説明資料 | モリ工業 株式会社 モリ工業 https://www.mory.co.jp > investor > earnings_reports",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ モリ工業 株式会社 — IR情報｜ モリ工業 株式会社 モリ工業株式会社 https://www.mory.co.jp > investor",
+    "url": "https://www.mory.co.jp/investor/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - モリ工業 — 決算 短信 - モリ工業 モリ工業株式会社 https://www.mory.co.jp > content > investor > earnings",
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "pass": 3
+   },
+   {
+    "quote": "【 モリ工業 】[5464]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 モリ工業 】[5464]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=5464",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 、今期経常は6％減益、2円減配へ - 株探 — モリ工業 、今期経常は6％減益、2円減配へ - 株探 株探 https://kabutan.jp > 決算速報",
+    "url": "https://kabutan.jp/news/?b=k202605080040",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所 | モリ工業 株式会社 — 事業 所 | モリ工業 株式会社 モリ工業株式会社 https://www.mory.co.jp > content > company > office",
+    "url": "https://www.mory.co.jp/content/company/office/",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 【5464】の 事業 内容 - キタイシホン — モリ工業 【5464】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/5464/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | モリ工業 株式会社 — 会社概要 | モリ工業 株式会社 モリ工業株式会社 https://www.mory.co.jp > content > company > outline",
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "【 モリ工業 】[5464]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 モリ工業 】[5464]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=5464",
+    "pass": 3
+   },
+   {
+    "quote": "社長 ごあいさつ | モリ工業 株式会社 — 社長 ごあいさつ | モリ工業 株式会社 モリ工業株式会社 https://www.mory.co.jp > content > company > message",
+    "url": "https://www.mory.co.jp/content/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 モリ工業 稲垣 均 - 日本の 社長 .tv — 有限会社 モリ工業 稲垣 均 - 日本の 社長 .tv 日本の社長.tv https://j-president.net > shizuoka > ygmori",
+    "url": "https://j-president.net/shizuoka/ygmori/",
+    "pass": 3
+   },
+   {
+    "quote": "モリ工業 【5464】の 社長 ・役員 - キタイシホン — モリ工業 【5464】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/5464/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "クリエイティブ・コモンズ 表示-継承ライセンス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mory.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/product/stainless/circle/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/investor/management_policy.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/investor/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/investor/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/account/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/investor/interim_management_plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/fstatement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/stock/doc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/product/stainless/circle/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/product/stainless/circle/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/product/stainless/circle/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/product/stainless/variant/semicircular_tube.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/stock/meeting/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mory.co.jp/pdf/investor/mory-plan26.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20261030-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20260731-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20260508-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20260130-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20251031-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20250731-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mory.co.jp/content/investor/ir/earnings/20250509-1.pdf/",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitaishihon.com/company/5464/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "モリ工業",
+   "results": [
+    "https://www.mory.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "https://job.mynavi.jp/27/pc/search/corp51009/outline.html",
+    "https://www.youtube.com/channel/UCodvchYGeqLWh8bexpkSNOg",
+    "https://www.openwork.jp/company.php?m_id=a0910000000FrD7",
+    "https://ja.wikipedia.org/wiki/モリ工業",
+    "https://www.mory.co.jp/product/",
+    "https://ec.morynavi.net/login",
+    "https://finance.yahoo.co.jp/quote/5464.T",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5464"
+   ]
+  },
+  {
+   "query": "モリ工業 ビジネスモデル",
+   "results": [
+    "https://www.mory.co.jp/content/sustainability/social",
+    "https://www.mory.co.jp/company/movie.html",
+    "https://kitaishihon.com/company/5464/business",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "https://www.youtube.com/watch?v=rY2-vIVLSQg",
+    "https://arwrk.net/recruit/vvpea9mx7s3vzgy/",
+    "https://investalk.jp/5464/mori-kogyo-2026-03-earnings/",
+    "https://job.mynavi.jp/28/pc/search/corp51009/outline.html",
+    "https://www.mory.co.jp/content/recruit/minute/",
+    "https://ja.wikipedia.org/wiki/モリ工業"
+   ]
+  },
+  {
+   "query": "モリ工業 決算説明資料",
+   "results": [
+    "https://www.mory.co.jp/content/investor/ir/earnings_reports/",
+    "https://www.mory.co.jp/investor/",
+    "https://www.mory.co.jp/content/investor/ir/earnings/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=5464",
+    "https://kabutan.jp/news/?b=k202605080040",
+    "https://irbank.net/5464/ir",
+    "https://x.com/kessan_db/status/2116390938327310790",
+    "https://investalk.jp/5464/mori-kogyo-2026-03-earnings/",
+    "https://shikiho.toyokeizai.net/stocks/5464/corporate",
+    "https://edinetdb.jp/company/E01315/presentations/"
+   ]
+  },
+  {
+   "query": "モリ工業 事業系統図",
+   "results": [
+    "https://www.mory.co.jp/content/company/office/",
+    "https://kitaishihon.com/company/5464/business",
+    "https://www.mory.co.jp/content/company/outline/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=5464",
+    "https://job.mynavi.jp/28/pc/search/corp51009/outline.html",
+    "https://www.youtube.com/watch?v=rY2-vIVLSQg",
+    "https://shikiho.toyokeizai.net/stocks/5464/corporate",
+    "https://metoree.com/companies/15736/distributors/",
+    "https://ja.wikipedia.org/wiki/モリ工業"
+   ]
+  },
+  {
+   "query": "モリ工業 社長 インタビュー",
+   "results": [
+    "https://www.mory.co.jp/content/company/message/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E5%B7%A5%E6%A5%AD",
+    "https://www.japanmetaldaily.com/articles/-/264273",
+    "https://j-president.net/shizuoka/ygmori/",
+    "https://kitaishihon.com/company/5464/board-of-director",
+    "https://www.youtube.com/channel/UCodvchYGeqLWh8bexpkSNOg",
+    "https://www.mory.co.jp/content/company/outline/",
+    "https://kigyo-scope.jp/company/5464/ceo/",
+    "https://shikiho.toyokeizai.net/stocks/5464/corporate",
+    "https://x.com/TEKKOSHIMBUN/status/2080412891912785975"
+   ]
+  }
+ ],
+ "missing": {}
+}

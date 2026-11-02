@@ -1,0 +1,1628 @@
+{
+ "name": "丸八倉庫",
+ "aliases": [],
+ "context": "証券コード9313／倉庫・運輸関連業／スタンダード（内国株式）／2025.11期 売上高4,931百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:07:36.005948+00:00",
+ "official_url": "https://www.maru8.co.jp/",
+ "identified_by": "search:yahoo_jp:丸八倉庫",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1934年3月",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1934年3月",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "1934年3月22日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "倉庫業、倉庫賃貸業、貨物荷捌業、貨物利用運送事業、不動産売買・賃貸及び仲介業",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "【事業内容】 倉庫業、倉庫賃貸業、貨物荷捌業、貨物利用運送事業、不動産売買・賃貸及び仲介業 【社長メッセージ】 当社の事業の3本柱は「文書保管」「物流不動産」「寄託」の3つです。それぞれの幹を太くし、八咫烏の3本の足が相乗効果を生み新たな進化に導いてくれるような「八咫烏（やたがらす）経営」に進化させようとしています。 当社は創立92周年を迎えましたが、これまで時代の変化やお客さまのニーズの変化に適応しながら、物流サービスを展開してまいりました。特に、永年蓄積してきた3PLのノウハウを駆使して個々のお客さまのニーズにお応えするビジネスモデルは当社の強みとなっております。また、お客さまの物品を単に保管するのみならず、お客さまの物流に関する課題解決に向けて、『物流コンシェルジュ』的な役割を担い、ソリューション提案を引き続き実行していくことで「オーダーメイド型のBESTソリューションを提供する物流カンパニー」を目指してまいります。 代表取締役社長　峯島一郎",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "45名（2025年11月時点）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "45 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "42億2,109万円（単体、2025年11月）",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "丸八倉庫は多品種少量で、お客様固有の物流業務を抱える会社の問題を解決する会社です",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫はお客様のご要望に沿った柔軟なロジスティクスサービスを提供する会社です",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後もお客様の発展に寄与できるよう新しい分野にチャレンジし続けてまいります",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫株式会社は昭和9年の設立以来、お客様のご愛顧をもちまして、激動の時代を乗り越えてまいりました",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、保管・荷役・梱包・輸送・情報など一連の諸機能を高水準に保持するとともに、お客様の多様化するニーズにお応えして、多角化・総合化の業務展開を図っています",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "今後とも当社は、物流業務という生産と販売の業際にあって、車の両輪を滑らかに回すように、持てる機能を十分に発揮し、お客様の発展に貢献していく所存です",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資等に関する最終決定は利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "投資等に関する最終決定は利用者ご自身のご判断において行われるようお願いいたします",
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "個人のお客様へ",
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "存顧客との取引拡大や新規顧客の獲得に努めてまいりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,970,547 25,579 1,996,127 ― 1,996,127",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 3,198,214 494,895 3,693,109 ― 3,693,109",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,991,754 24,035 2,015,790 ― 2,015,790",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 3,242,485 530,447 3,772,932 ― 3,772,932",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "存顧客との取引拡大や新規顧客の獲得に努めてまいりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,318,608 17,097 1,335,705 ― 1,335,705",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,136,081 318,180 2,454,261 ― 2,454,261",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,345,404 16,267 1,361,672 ― 1,361,672",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,175,179 350,763 2,525,942 ― 2,525,942",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、当社と関わりを持つ利害関係者(株主、従業員、顧客、地域社会等）に対する使命と責任を果たし、継続的に企業価値を安定的かつ着実",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（i）当社は、倉庫業を基盤とし、物流事業と不動産事業から構成された物流業者であり、「お客様に完全な業務を提供する」「社業の発展を通じて",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（ii）当社は、当社と関わりを持つ利害関係者（株主、従業員、顧客、地域社会等）に対する使命と責任を果たし、継続的に企業価値を安定的かつ",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "d 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "e 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "h 上場会社の取引先（d、e及びｆのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社取引先である株式会社ヤマタネの出",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取引先金融機関である株式会社",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "f 上場会社を主要な取引先とする者又はその業務執行者",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "g 上場会社の主要な取引先又はその業務執行者",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "j 上場会社の取引先（f、g及びhのいずれにも該当しないもの）の業務執行者（本人のみ）",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "存顧客との取引拡大や新規顧客の獲得に努めてまいりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,318,608 17,097 1,335,705 ― 1,335,705",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,136,081 318,180 2,454,261 ― 2,454,261",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 1,345,404 16,267 1,361,672 ― 1,361,672",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,175,179 350,763 2,525,942 ― 2,525,942",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様からの入出庫指示に柔軟に対応するために、社員やパートさん、派遣さんなど様々な人に指揮・指導を行いながら、チームワークを重視して仕事をしています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な物流サービスをお客様に提供するためには、倉庫業務のノウハウやお客様への提案力、営業所内のチームワークなど、様々なスキルが求められます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私もゆくゆくは営業所を総合的に運営するような所長となり、お客様や社会により大きな貢献をできるような人に成長できるように、日々経験を積んでいます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫(本社・東京)はこれまで蓄積した倉庫業務のノウハウと新しい技術を組み合わせて新しい顧客ニーズに応えていく",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "峯島 顧客の当社への期待は思った以上に強い",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "求められる付加価値の高いサービスを顧客が気付く前に察知し、より素早く提供していかなければならない",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "峯島 顧客ニーズを探り出す作業の必要性を再認識した",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客を取り巻く事業環境も変わってきている",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が預けた文書を、インターネット経由で検索して管理できる仕組みを、昨年つくり変えた",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客からは好評で競争力の源泉になっている",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "峯島 上場企業なので1200人を超える株主、顧客、社員など利害関係者は多い",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "社員がいてこそ満足度の高い顧客サービスが可能だからだ",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の倉庫業務で蓄積した物品管理のノウハウとIT(情報技術)を組み合わせ、顧客の文書管理ニーズを先取り",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "丸八倉庫はお客様のご要望に沿った柔軟なロジスティクスサービスを提供する会社です",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "常に変化し多様化するニーズにお応えし、質の高いサービスを提供します",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今日の物流事業は、総合的なサービスの機能と質が問われています",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/koukoku.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/service-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/service-a4.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/service-a7.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/service-a1.html",
+    "pass": 1
+   },
+   {
+    "quote": "web営業支援サービス",
+    "url": "https://www.maru8.co.jp/ir/service-a2.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、きめ細かなサービスを提供しながら、既",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条の５第１項の表の第１号",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、きめ細かなサービスを提供しながら、既",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品取引業協会名",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社は、金融商品取引法第24条の５第１項の表の第１号の上欄に掲げる会社に該当し、連結財務諸表規則第",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、中間連結会計期間(2025年12月１日から2026年５月31",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当監査法人は、金融商品取引法第193条の２第１項の規定に基づき、「経理の状況」に掲げられている丸八倉庫株式会",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は金融商品取引所が定める独立性基準に従って、独立社外取締役を選任するとともに、当社の発展に寄与する知識・経験等を有し、十分な",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引所に株式を上場している者として、市場における当社株式の自由な取引を尊重し、特定の者による当社株式の大規模買付",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、きめ細かなサービスを提供しながら、既",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【創業92周年】『オーダーメイド型の BEST ソリューションを提供する物流カンパニー』",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な物流サービスをお客様に提供するためには、倉庫業務のノウハウやお客様への提案力、営業所内のチームワークなど、様々なスキルが求められます",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は創立92周年を迎えましたが、これまで時代の変化やお客さまのニーズの変化に適応しながら、物流サービスを展開してまいりました",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、お客さまの物品を単に保管するのみならず、お客さまの物流に関する課題解決に向けて、『物流コンシェルジュ』的な役割を担い、ソリューション提案を引き続き実行していくことで「オーダーメイド型のBESTソリューションを提供する物流カンパニー」を目指してまいります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   },
+   {
+    "quote": "求められる付加価値の高いサービスを顧客が気付く前に察知し、より素早く提供していかなければならない",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "峯島 文書保管、物流不動産、物品の保管・管理の3つを中心に、より高い付加価値を付けたサービスを提供していくことだ",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   },
+   {
+    "quote": "社員がいてこそ満足度の高い顧客サービスが可能だからだ",
+    "url": "https://yuso.co.jp/column/8557/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば不動産業務の推進、情報システムの構築、諸データの集計・分析、編集・印刷業務、関係会社による損害保険代理店業務、運輸業務等々",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/sales.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/sustainability.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/koukoku.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/service-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/service-a4.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/service-a7.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/service-a1.html",
+    "pass": 1
+   },
+   {
+    "quote": "丸八倉庫事例紹介",
+    "url": "https://www.maru8.co.jp/ir/service-a2.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、独立社外取締役を2名選任しており、取締役の指名・報酬等の重要事項の検討に当り、独立社外取締役の適切な関与・助言を得る体制",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "査役会の同意のもと、取締役会での候補者の指名を行っております",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "指名委員会又は報酬委員会に相当する",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．業務執行、監査・監督、指名、報酬決定等の機能に係る事項（現状のコーポレート・ガバナンス体制の概要）",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社紹介記事",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1934年3月",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2007年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2004年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年11月期",
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年11月期",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期決算短信〔日本基準〕（連結)",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期第3四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期第2四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期第1四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年11月期",
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "支払手数料 33,000 1,031",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 33,000 -",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 28,948千円 27,762千円",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "退職慰労金は、固定報酬の月額と役位別の乗率に従って各年度の積立額を算出しており、株主総会の決議を経て支給されております",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（iii）取締役の報酬限度額は、2009年2月26日開催の第113回定時株主総会において月額12,000千円以内（ただし、使用人分給与は含まない",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、監査役の報酬限度額は、1990年2月27日開催の第94回定時株主総会において月額2,500千円以内と決議されておりま",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックオプションの付与対象者",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 33,000 -",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………８",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は、次の通りであります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高は前期比35百万円増の530百万円となり、セグメント利益は前期比12百万円増の254百万円となりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 548,691 241,373 790,065 △352,728 437,337",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １. セグメント利益の調整額△352,728千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は、報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２. セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 514,872 254,238 769,110 △296,455 472,655",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １. セグメント利益の調整額△296,455千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は、次の通りであります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,175百万円となり、セグメント利益は既存設備の大規模修繕実施に伴い前期比25百万円減の347百万円となりまし",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高は前期比32百万円増の350百万円となり、セグメント利益は前期比23百万円増の174百万円となりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 373,287 151,247 524,535 △ 247,308 277,226",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益の調整額△247,308千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は、報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 347,489 174,554 522,043 △ 201,871 320,172",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益の調整額△201,871千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの固定資産の減損損失の計上額は、「物流事業」セグメント61,180千円であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た各施策を着実に遂行することとし、物流事業セグメント、不動産事業セグメントの収益拡大により企業価値向上を目指してまいります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当中間連結会計期間における業績としましては、物流事業セグメントでは既存倉庫の稼働率は安定的かつ高",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "業セグメントでは設備投資の効果が通期で寄与したことにより収益力の強化が図られました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071001.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等） …………………………………………………………………………………………10",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別の経営成績は、次の通りであります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2,175百万円となり、セグメント利益は既存設備の大規模修繕実施に伴い前期比25百万円減の347百万円となりまし",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高は前期比32百万円増の350百万円となり、セグメント利益は前期比23百万円増の174百万円となりました",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 373,287 151,247 524,535 △247,308 277,226",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益の調整額△247,308千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は、報告セグメントに帰属しない一般管理費であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 347,489 174,554 522,043 △201,871 320,172",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．セグメント利益の調整額△201,871千円は、各報告セグメントに配分していない全社費用であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの固定資産の減損損失の計上額は、「物流事業」セグメント61,180千円であります",
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "特に、永年蓄積してきた3PLのノウハウを駆使して個々のお客さまのニーズにお応えするビジネスモデルは当社の強みとなっております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "特に、永年蓄積してきた3PLのノウハウを駆使して個々のお客さまのニーズにお応えするビジネスモデルは当社の強みとなっております",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "丸八倉庫 株式会社｜概要 — 丸八倉庫 株式会社｜概要 丸八倉庫株式会社 https://www.maru8.co.jp > about",
+    "url": "https://www.maru8.co.jp/about.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 (株)【東証スタンダード上場】の新卒採用・会社概要 — 丸八倉庫 (株)【東証スタンダード上場】の新卒採用・会社概要 マイナビ https://job.mynavi.jp > search > corp57696 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 決算／12～8月の売上高37億7200万円、料金適正化 ... — 丸八倉庫 決算／12～8月の売上高37億7200万円、料金適正化 ... 物流ニュースのLNEWS https://www.lnews.jp > 2026/10",
+    "url": "https://www.lnews.jp/2026/10/s1009604.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 の転職情報・企業データ・会社概要 — 丸八倉庫 の転職情報・企業データ・会社概要 FactBoard https://fact-board.co.jp > company > d-maru8",
+    "url": "https://fact-board.co.jp/company/d-maru8/",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 【9313】の企業情報 - キタイシホン — 丸八倉庫 【9313】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/9313/top",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 丸八倉庫株式会社 — IR情報 - 丸八倉庫株式会社 丸八倉庫株式会社 https://www.maru8.co.jp > ...",
+    "url": "https://www.maru8.co.jp/ir.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 丸八倉庫株式会社 — IR情報 - 丸八倉庫株式会社 丸八倉庫株式会社 https://www.maru8.co.jp > ir-library",
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 丸八倉庫 】[9313]有価証券報告書 | 日経電子版 — 【 丸八倉庫 】[9313]有価証券報告書 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > ednr",
+    "url": "https://www.nikkei.com/nkd/company/ednr/?scode=9313",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 【9313】 決算資料 - ストレイナー — 丸八倉庫 【9313】 決算資料 - ストレイナー ストレイナー https://strainer.jp > ... > 丸八倉庫 > 決算資料",
+    "url": "https://strainer.jp/companies/JP-9313/filings?page=10",
+    "pass": 3
+   },
+   {
+    "quote": "【 丸八倉庫 】[9313]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 丸八倉庫 】[9313]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "pass": 3
+   },
+   {
+    "quote": "【表紙】 - 丸八倉庫 株式会社 — 【表紙】 - 丸八倉庫 株式会社 丸八倉庫株式会社 PDF https://www.maru8.co.jp > pdf",
+    "url": "https://www.maru8.co.jp/pdf/ir/25022701.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 (株)【東証スタンダード上場】の会社概要 - マイナビ — 丸八倉庫 (株)【東証スタンダード上場】の会社概要 - マイナビ マイナビ https://job.mynavi.jp > search > corp57696 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp57696/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 - Wikipedia — 丸八倉庫 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 丸八倉庫",
+    "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E5%80%89%E5%BA%AB",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 、 社長 に峯島一郎（みねしま・いちろう）氏 | 人物 ... — 丸八倉庫 、 社長 に峯島一郎（みねしま・いちろう）氏 | 人物 ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/413512",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 【9313】の 社長 ・役員 - キタイシホン — 丸八倉庫 【9313】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/9313/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "丸八倉庫 ／峯島副 社長 、 社長 に昇格 - LNEWS — 丸八倉庫 ／峯島副 社長 、 社長 に昇格 - LNEWS 物流ニュースのLNEWS https://www.lnews.jp > 2017/01",
+    "url": "https://www.lnews.jp/2017/01/j011314.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maru8.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/news.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/tanshin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/yuho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/kabutsu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/soukai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/about.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/sales.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/sustainability.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir-library.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/koukoku.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/service-1.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/service-a4.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/service-a7.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/service-a1.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru8.co.jp/ir/service-a2.html",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26100901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26080701.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071501.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071301.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071302.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maru8.co.jp/pdf/ir/26071002.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yuso.co.jp/column/8557/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸八倉庫",
+   "results": [
+    "https://www.maru8.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E5%80%89%E5%BA%AB",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "https://www.ikkatsu.jp/souko/corp/298/",
+    "https://ja.wikipedia.org/wiki/丸八倉庫"
+   ]
+  },
+  {
+   "query": "丸八倉庫 ビジネスモデル",
+   "results": [
+    "https://www.maru8.co.jp/about.html",
+    "https://job.mynavi.jp/27/pc/search/corp57696/outline.html",
+    "https://www.lnews.jp/2026/10/s1009604.html",
+    "https://fact-board.co.jp/company/d-maru8/",
+    "https://kitaishihon.com/company/9313/top",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E5%80%89%E5%BA%AB",
+    "https://note.com/hr793/n/ne4d12b4390cf",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "https://ja.wikipedia.org/wiki/丸八倉庫",
+    "https://consovation.com/丸八倉庫の成長戦略に迫る魅力的なビジネスモデ/"
+   ]
+  },
+  {
+   "query": "丸八倉庫 決算説明資料",
+   "results": [
+    "https://www.maru8.co.jp/ir.html",
+    "https://www.maru8.co.jp/ir-library.html",
+    "https://www.nikkei.com/nkd/company/ednr/?scode=9313",
+    "https://www.maruhachi.co.jp/ir%E6%83%85%E5%A0%B1/ir%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA/%E6%B1%BA%E7%AE%97%E8%AA%AC%E6%98%8E%E8%B3%87%E6%96%99",
+    "https://strainer.jp/companies/JP-9313/filings?page=10",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261008547874",
+    "https://www.maruhachi-sec.co.jp/ir-news/shihanki.php",
+    "https://www.mitsui-soko.com/ir/briefing/",
+    "https://www.maru8.co.jp/ir/tanshin.html",
+    "https://www.maru8.co.jp/ir/yuho.html"
+   ]
+  },
+  {
+   "query": "丸八倉庫 事業系統図",
+   "results": [
+    "https://www.maru8.co.jp/about.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9313",
+    "https://www.maru8.co.jp/pdf/ir/25022701.pdf",
+    "https://job.mynavi.jp/28/pc/search/corp57696/outline.html",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E5%80%89%E5%BA%AB",
+    "https://kitaishihon.com/company/9313/top",
+    "https://www.buffett-code.com/company/9313/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/125543?tab=story",
+    "https://www.maru8.co.jp/",
+    "https://www.maru8.co.jp/ir/yuho.html"
+   ]
+  },
+  {
+   "query": "丸八倉庫 社長 インタビュー",
+   "results": [
+    "https://yuso.co.jp/column/8557/",
+    "https://www.maru8.co.jp/about.html",
+    "https://www.nikkan.co.jp/articles/view/413512",
+    "https://kitaishihon.com/company/9313/board-of-director",
+    "https://www.lnews.jp/2017/01/j011314.html",
+    "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%85%AB%E5%80%89%E5%BA%AB",
+    "https://www.nikkei.com/article/DGKKASDZ13HQ0_T10C17A1TJC000/",
+    "https://fact-board.co.jp/company/d-maru8/",
+    "https://kigyo-scope.jp/company/9313/ceo/",
+    "https://ja.wikipedia.org/wiki/丸八倉庫"
+   ]
+  }
+ ],
+ "missing": {}
+}

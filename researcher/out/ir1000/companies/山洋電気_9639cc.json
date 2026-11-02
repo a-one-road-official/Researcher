@@ -1,0 +1,1407 @@
+{
+ "name": "山洋電気",
+ "aliases": [],
+ "context": "証券コード6516／電気機器／プライム（内国株式）／2026.03期 売上高107,346百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:07:07.324460+00:00",
+ "official_url": "https://www.sanyodenki.co.jp/",
+ "identified_by": "search:yahoo_jp:山洋電気",
+ "profile": {
+  "設立": [
+   {
+    "label": "創　業",
+    "value": "1927年8月",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "設　立",
+    "value": "1936年12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "連結売上収益",
+    "value": "1,073 億円（2025 年度）",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "label": "売上収益 (注１)",
+    "value": "40,826 23,249 37,543 5,725 － 107,346",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "label": "売上収益 (百万円)",
+    "value": "107,346",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "label": "売上収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への 売上収益",
+    "value": "38,062 21,149 32,971 5,663 97,847 － 97,847",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への 売上収益",
+    "value": "40,826 23,249 37,543 5,725 107,346 － 107,346",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "山洋電気グループ 3,599 名（ 2026年 3月31日現在）",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期納品サービス",
+    "url": "https://www.sanyodenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "そしてSANUPSの回転技術を生かし、1952年にはACサーボモータ、DCサーボモータをはじめとするSANMOTIONを日本で初めて製品化しました",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "山洋電気グループは、お客さまや社会課題の解決に真摯に向き合い、常に「高性能」「高品質」「高付加価値」を追求した業界トップの製品を開発することで、新たな価値の創出に取り組んできました",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "長きにわたりファクトリーオートメーションやオフィスオートメーションの分野を支えてきた山洋電気グループの製品は、近年では半導体やITインフラなどの最先端の分野でも欠かせない存在です",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "San Aceは、冷却ファン、ファンユニットなどの製品を総称するブランドです",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "生活に欠かせないこれらの装置を安定して使用できるようにするのが、冷却ファンをはじめとした製品群「San Ace」です",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "業界トップクラスの性能と品質を誇り、優れた耐環境性を持つ製品を多数ラインアップしています",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "SANUPSは、無停電電源装置 (UPS)、インバータ、エンジン発電装置、太陽光発電システム用パワーコンディショナなどの製品を総称するブランドです",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "山洋電気テクノサービス株式会社を設立",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "山洋電気ITソリューション株式会社を設立",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/policies/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/policies/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/events/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/events/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/stock_information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/stock_information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/sustainability/environmental/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/sustainability/environmental/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/ir/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/ir/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "山洋電気テクノサービス株式会社 印刷所",
+    "url": "https://www.sanyodenki.co.jp/lp/sanace/cleanair.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報についてのお問い合わせ",
+    "url": "https://www.sanyodenki.co.jp/sustainability/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ",
+    "url": "https://www.sanyodenki.co.jp/sustainability/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "冷却ファン「San Ace」、電源装置「SANUPS」、サーボモータ「SANMOTION」——この3つの製品ブランドが、それぞれの分野で",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント | 主要製品 | FY2026売上 | FY2026利益 | 利益率 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "業界トップの高性能・高信頼の製品の製造販売を推進",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "3つの製品ブランドの確立",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "3つの製品カンパニー（事業部）+その他事業",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": ": 山洋電気株式会社（本社）、山洋工業株式会社、山洋電気テクノサービス株式会社、山洋電気ITソリューション株式会社",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "中国の各地域カバー＋アフターサービス対応の体制",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "「製品開発エンジニア」中心の組織文化",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "「特定用途向けの高性能・高信頼製品を、長期的な顧客関係を通じて販売し、設計仕様の最適化と長期サプライチェーンへの組み込みで競争優位を構築する」",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 収益タイプ | 主要製品 | 特徴 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "電気工事サービス",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 全製品の保守・修理 | 安定的・高粗利 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 企業 | 主力製品 | 売上規模 | 営業利益率 | ROE |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "スケールメリットと製品ミックス改善が同時に効いた",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "「サンエースカンパニーの製品『San Ace』は、",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝より製品開発・品質管理・顧客との長期関係構築に経営資源を集中",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "サンエースカンパニーの製品「San Ace」は、ネットワーク機器向けや生成AI関連機器向けの需要が引き続き堅調でした",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクスカンパニーの製品「SANUPS」は、情報通信、データセンタ向けサーバや情報通信、消防・警察関連の社会インフラや防衛システム関連の需要が堅調でした",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクスカンパニーの製品「SANMOTION」は、中国市場の設備投資の活発化により、金属加工機、射出成形機、工作機械向けの需要が回復し、堅調に推移しました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "モーションカンパニーの製品「SANMOTION」は、中国市場の設備投資の活発化により、電子部品実装機、金属加工機、射出成形機、工作機械向けの需要が回復し、堅調に推移しました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、当社および連結子会社の山洋工業株式会社、山洋電気テクノサービス株式会社、山洋電気ITソリューション株式会社があります",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "(4) 主な製品および役務からの売上収益",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1927年8月",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "1936年12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革｜会社情報｜山洋電気株式会社",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1927年 8月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1932年 6月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1936年 12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1942年 4月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1944年 2月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1945年 12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1962年 9月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1979年 4月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年 3月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年 11月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1988年 12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年 4月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 4月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1997年 7月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年 3月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年 2月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年 4月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 6月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 8月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 10月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 11月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年 12月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2008年 1月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年 1月",
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月13日 19:59",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "1927年創業、東証プライム上場、売上1,073億円規模のグローバル産業用電気機器メーカー",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "1927年（昭和2年）の創業",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "1949年（昭和24年）に株式会社山洋電気として法人化、1955年（昭和30年）に株式公開を果たした",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期有価証券報告書より",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 連結会計年度 セグメント別損益計算書",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 連結会計年度末 セグメント別財政状態計算書",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月期",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年４月１日",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月31日",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2024年４月１日",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2025年３月31日",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "豊富なカスタマイズ実績が強みです",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率20.1%は製造業として極めて高い水準",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率8.1%→10.1%→12.6%予想の利益率改善トレンド",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "ここから先はメンバーシップ限定で、この企業の経営思想・組織文化・競争優位の源泉から、業績・財務の精密分析、バリュエーション、リスク評価、そしてビジネスパーソンが自社に応用できる具体的な学びまでを詳しく解説します",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "という品質ベースの競争優位を、創業以来一貫して追求している",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気の競争優位は、",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "サンエースの営業利益率20.1%（FY2026）は、製造業として極めて高水準",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "ことが競争優位の源泉",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "「特定用途向けの高性能・高信頼製品を、長期的な顧客関係を通じて販売し、設計仕様の最適化と長期サプライチェーンへの組み込みで競争優位を構築する」",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "B2B直販（高粗利）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "販売店経由（中粗利）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 受注工事 | 短期収益、低粗利 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 全製品の保守・修理 | 安定的・高粗利 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 企業 | 主力製品 | 売上規模 | 営業利益率 | ROE |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": ": 中小型ファンに強み",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気の強み——4つの構造優位",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "利益急増の主因は「売上総利益率の大幅改善」",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "（AI関連需要に対応した在庫積み増し）が主因",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "むしろ、需要拡大に対応した在庫積み増しは合理的な経営判断",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率の改善トレンド",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 営業利益率 | 8.1% |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "→ 売上拡大に伴うスケールメリットと、エレクトロニクス・モーション部門の利益率改善で、営業利益率は2年で約",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "中国に10社の現地法人を配置していることは強みだが、",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "リスク6: 在庫積み増しの逆回転リスク【低】",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "だが、需要が予想を下回れば在庫評価損のリスク",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "当期の営業CF減少（15,788→10,829）は、この在庫積み増しが主因",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "（営業利益率）",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、グローバル企業として「世界のトップブランド」の構築を目標としており、トップブランドにふさわしい企業グループとなることを目指して、営業利益率を重視した経営をおこなっています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における営業利益率は、次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率 (％)",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/policies/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "サンエースカンパニー、エレクトロニクスカンパニー、モーションカンパニー 、その他の4セグメントの業績を掲載しています",
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/library/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/events/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/stock_information/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別の業績",
+    "url": "https://www.sanyodenki.co.jp/ir/library/integrated.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別利益YoYは、",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "3セグメント揃って二桁・三桁の利益成長",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "主要事業セグメント（3カンパニー＋その他）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント | 主要製品 | FY2026売上 | FY2026利益 | 利益率 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "地域別売上構成（国内60.8%、海外39.2%）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| 地域 | FY2026売上 | YoY% | 構成比 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント別利益の異常な伸び",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント | FY2025利益 | FY2026利益 | YoY% |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "利益率の絶対水準が低かったセグメント（FY2025の利益率 約1.4%、約2.3%）が、売上拡大とミックス改善で大幅に利益率を改善",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント分析（3部門の急成長メカニズム）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント利益 | 291百万円 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント利益 | 483百万円 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント利益 | 6,856百万円 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| セグメント | 利益YoY |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役会が、経営資源の配分の決定および業績を評価するために、定期的に検討をおこなう対象となっているものです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、展開する事業の特性から、サンエースカンパニー、エレクトロニクスカンパニー、モーションカンパニー、その他を報告セグメントとしています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "各セグメントの業績は次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 連結会計年度 セグメント別損益計算書",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １. セグメントごとの外部顧客への売上収益を記載しています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "２. 調整額は、セグメント間取引の消去によるものです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、セグメント売上収益は40,826百万円（前年同期比7.3％増）、セグメント利益は8,195百万円（前年同期比19.5％増）、受注高は41,822百万円（前年同期比29.6％増）、受注残高は13,565百万円（前年同期比7.9％増）となりました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、セグメント売上収益は23,249百万円（前年同期比9.9％増）、セグメント利益は1,142百万円（前年同期比136.1％増）、受注高は25,215百万円（前年同期比28.2％増）、受注残高は11,959百万円（前年同期比19.7％増）となりました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、セグメント売上収益は37,543百万円（前年同期比13.9％増）、セグメント利益は1,225百万円（前年同期比320.4％増）、受注高は44,268百万円（前年同期比39.0％増）、受注残高は18,411百万円（前年同期比57.5％増）となりました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "電気機器の販売事業、および電気工事事業などを「その他」セグメントとして区分し、計上しています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、セグメント売上収益は5,725百万円（前年同期比1.1％増）、セグメント利益は643百万円（前年同期比132.7％増）、受注高は5,026百万円（前年同期比10.5％減）、受注残高は933百万円（前年同期比42.8％減）となりました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、各セグメントの財政状態は次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月期 連結会計年度末 セグメント別財政状態計算書",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "（注）「その他」にはセグメント間取引の消去を含めています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における生産実績をセグメントごとに示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、内部振替前の数値によっています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度における受注実績をセグメントごとに示すと次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １ セグメント間取引については、相殺消去しています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "電力料金目安単価31 円/kWh（税込）［2022年7月改訂］にて算出",
+    "url": "https://www.sanyodenki.co.jp/lp/sanace/cleanair.html",
+    "pass": 1
+   },
+   {
+    "quote": "| 全製品の保守・修理 | 安定的・高粗利 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の購入単価を1/3に引き下げ",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家の購入単価を1/3に",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルの解剖",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "産業用電気機器メーカーの収益構造の本質",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "産業用電気機器メーカーのビジネスモデルは、",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気の収益構造",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "冷却ファン「San Ace」のビジネスモデル詳細",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "SANUPS / SANMOTIONのビジネスモデル詳細",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "受注高・受注残のビジネスモデル理解",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "Hidden Champion型ビジネスモデルの優位性そのもの",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業系統図〕",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "B2Bの大手顧客（NVIDIA・",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "「特定用途向けの高性能・高信頼製品を、長期的な顧客関係を通じて販売し、設計仕様の最適化と長期サプライチェーンへの組み込みで競争優位を構築する」",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| San Ace、SANUPS、SANMOTION | 大手顧客との直接取引、長期契約 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "| サンエース全般、SANUPS一般用 | 中小顧客への流通拡大 |",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "主要用途と顧客:",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "大手B2B顧客との長期取引関係",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "広告宣伝より製品開発・品質管理・顧客との長期関係構築に経営資源を集中",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "主要顧客（AI/データセンタ/半導体）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "(注) １. セグメントごとの外部顧客への売上収益を記載しています",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "電気工事事業は、主要顧客である鉄鋼業界からの需要の増加を受けて堅調でしたが、第４四半期は、補修工事予算削減や設備投資の遅れの影響を受けて低調に推移しました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社グループが事業展開する地域ごとの外部顧客への売上収益に関する分析は、次のとおりです",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "①外部顧客への売上収益",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "(6) 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への売上収益のうち、連結損益計算書の売上収益の10％を占める相手先がないため、記載はありません",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "B2B直販（高粗利）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "販売店経由（中粗利）",
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "pass": 3
+   },
+   {
+    "quote": "販売店向けビジネスでは、北米と日本国内の需要は堅調に推移し、欧州では回復が遅れたものの復調の兆しが見えてきました",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "【キャリア向け】電力の安定供給に貢献するGTCC事業の魅力を紹介",
+    "url": "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "pass": 3
+   },
+   {
+    "quote": "番組では、様々な企業のLEADER（社長）および技術系のLEADERにフォーカスし、商品開発や経営の分岐点となる“特別な経験”、“開発秘話”、その企業の“独自の技術”を紹介",
+    "url": "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気のサーボモータ・コントローラのご紹介：国際ロボット展2025レポート",
+    "url": "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容｜会社情報 - 山洋電気 — 事業内容｜会社情報 - 山洋電気 山洋電気 https://www.sanyodenki.co.jp > corporate > business",
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気 株式会社 — 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp",
+    "url": "https://www.sanyodenki.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップメッセージ｜経営方針｜IR情報｜ 山洋電気 株式会社 — トップメッセージ｜経営方針｜IR情報｜ 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp > policies > message",
+    "url": "https://www.sanyodenki.co.jp/ir/policies/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 ｜IR情報｜ 山洋電気 株式会社 — IR 資料 ｜IR情報｜ 山洋電気 株式会社 山洋電気株式会社 https://www.sanyodenki.co.jp > library",
+    "url": "https://www.sanyodenki.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜ 山洋電気 株式会社 — IR情報｜ 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp > IR情報",
+    "url": "https://www.sanyodenki.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "財務ハイライト｜IR情報｜ 山洋電気 株式会社 — 財務ハイライト｜IR情報｜ 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp > highlights",
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/",
+    "pass": 3
+   },
+   {
+    "quote": "【 山洋電気 】[6516]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 山洋電気 】[6516]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=6516",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー|IRイベント｜IR情報｜ 山洋電気 株式会社 — IRカレンダー|IRイベント｜IR情報｜ 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp > events > ir_calendar",
+    "url": "https://www.sanyodenki.co.jp/ir/events/ir_calendar.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜ 山洋電気 株式会社 — 会社概要｜会社情報｜ 山洋電気 株式会社 山洋電気 https://www.sanyodenki.co.jp > corporate > outline",
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気 【6516】の 事業 内容 - キタイシホン — 山洋電気 【6516】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/6516/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜ 山洋電気 株式会社 — 会社情報｜ 山洋電気 株式会社 山洋電気株式会社 https://www.sanyodenki.co.jp > corporate",
+    "url": "https://www.sanyodenki.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧｜会社情報 - 山洋電気 — 役員一覧｜会社情報 - 山洋電気 山洋電気 https://www.sanyodenki.co.jp > corporate > officers",
+    "url": "https://www.sanyodenki.co.jp/corporate/officers.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 山洋電気 】製品で世界を驚かせる【THE LEADERS 東京#6】 — 【 山洋電気 】製品で世界を驚かせる【THE LEADERS 東京#6】 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 山洋電気 ・山本茂生 社長 「競争で底上げ」 — 経営ひと言／ 山洋電気 ・山本茂生 社長 「競争で底上げ」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/237117?gnr_footer=13124",
+    "pass": 3
+   },
+   {
+    "quote": "Voice 先輩の声 - 山洋電気テクノサービス — Voice 先輩の声 - 山洋電気テクノサービス 山洋電気テクノサービス株式会社 https://www.sanyodenki-technoservice.co.jp > voice",
+    "url": "https://www.sanyodenki-technoservice.co.jp/recruit/voice.html",
+    "pass": 3
+   },
+   {
+    "quote": "山洋電気 新 社長 に児玉副 社長 が昇格 山本 社長 は会長に — 山洋電気 新 社長 に児玉副 社長 が昇格 山本 社長 は会長に 電波新聞デジタル https://dempa-digital.com > article",
+    "url": "https://dempa-digital.com/article/46136",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanyodenki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/corporate/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/corporate/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/policies/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/highlights/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/events/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/stock_information/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/sustainability/environmental/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/ir/library/integrated.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/lp/sanace/cleanair.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanyodenki.co.jp/sustainability/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6516/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "山洋電気",
+   "results": [
+    "https://www.sanyodenki.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%B4%8B%E9%9B%BB%E6%B0%97",
+    "https://products.sanyodenki.com/ja/sanace/",
+    "https://x.com/sanyodenki_jp",
+    "https://www.youtube.com/channel/UCNn1tBPuZCbDnfLeH89xM3g",
+    "https://ja.wikipedia.org/wiki/山洋電気",
+    "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "https://shikiho.toyokeizai.net/stocks/6516",
+    "https://products.sanyodenki.com/ja/",
+    "https://www.sanyodenki.com/"
+   ]
+  },
+  {
+   "query": "山洋電気 ビジネスモデル",
+   "results": [
+    "https://www.sanyodenki.co.jp/corporate/business.html",
+    "https://note.com/mangawakaru/n/na630e79d3dc5",
+    "https://publish.sanyodenki.com/library/books/TR60_J/book/data/TR60_J.pdf",
+    "https://www.sanyodenki.co.jp/",
+    "https://www.sanyodenki.co.jp/ir/policies/message.html",
+    "https://x.com/sanyodenki_jp",
+    "https://www.sanyodenki-technoservice.co.jp/recruit/world.html",
+    "https://kitaishihon.com/company/6516/business",
+    "https://www.sanyodenki.co.jp/corporate/officers.html",
+    "https://www.crex-data.com/company/6516"
+   ]
+  },
+  {
+   "query": "山洋電気 決算説明資料",
+   "results": [
+    "https://www.sanyodenki.co.jp/ir/library/",
+    "https://www.sanyodenki.co.jp/ir/",
+    "https://www.sanyodenki.co.jp/ir/highlights/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6516",
+    "https://www.sanyodenki.co.jp/ir/events/ir_calendar.html",
+    "https://faq.sanyodenki.com/jp/faq_detail.html?id=281",
+    "https://kabutan.jp/stock/finance?code=6516",
+    "https://edinetdb.jp/company/E01806/presentations/",
+    "https://www.buffett-code.com/company/6516/library",
+    "https://finance.yahoo.co.jp/quote/6516.T/financials"
+   ]
+  },
+  {
+   "query": "山洋電気 事業系統図",
+   "results": [
+    "https://www.sanyodenki.co.jp/corporate/outline.html",
+    "https://kitaishihon.com/company/6516/business",
+    "https://www.sanyodenki.co.jp/",
+    "https://www.sanyodenki.co.jp/corporate/",
+    "https://publish.sanyodenki.com/library/books/TR60_J/book/data/TR60_J.pdf",
+    "https://www.sanyodenki.co.jp/corporate/officers.html",
+    "https://www.sanyodenki.co.jp/corporate/business.html",
+    "https://www.sanyodenki.co.jp/sitemap/",
+    "https://www.sanyodenki.co.jp/corporate/location/japan.html",
+    "https://ja.wikipedia.org/wiki/山洋電気"
+   ]
+  },
+  {
+   "query": "山洋電気 社長 インタビュー",
+   "results": [
+    "https://www.sanyodenki.co.jp/corporate/officers.html",
+    "https://www.youtube.com/watch?v=xyVSlU3Y8-w",
+    "https://www.nikkan.co.jp/articles/view/237117?gnr_footer=13124",
+    "https://www.sanyodenki-technoservice.co.jp/recruit/voice.html",
+    "https://dempa-digital.com/article/46136",
+    "https://www.youtube.com/channel/UCNn1tBPuZCbDnfLeH89xM3g",
+    "https://the-shashi.com/tse/6516/ceo/",
+    "https://jpn.nec.com/ifs/document/CASE09N_SANYO.pdf",
+    "https://kitaishihon.com/company/6516/board-of-director",
+    "https://www.nikkan.co.jp/articles/view/00606553"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部3頁・検索5回）"
+ }
+}

@@ -1,0 +1,1562 @@
+{
+ "name": "ウェルディッシュ",
+ "aliases": [],
+ "context": "証券コード2901／食料品／スタンダード（内国株式）／2025.03期 売上高1,974百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:06:16.184241+00:00",
+ "official_url": "https://wel-dish.co.jp/",
+ "identified_by": "search:yahoo_jp:ウェルディッシュ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1957年10月10日",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1957年10月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ウェルネス事業、メディカルコスメ事業",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食品・飲料の製造・販売",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "1,974",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1,305",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "856",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "1,640",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "高齢化社会の課題に高品質な商品・サービスの提供を通じて、利用者様の生活向上と介護現場の支援に貢献し、利用者支援と社会的価値の創出を目指しています",
+    "url": "https://wel-dish.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "が、食品提供サービスの顧客数及びウォーターサーバーにおいては法人顧客数は大幅に伸長いたしました",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループ内の経営資源を集約し、更なる顧客サービスの拡充と効率的な事業運営を図る",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食品事業は、保存食・珍味につきましては、中期経営計画としてお示ししているお客様の海外出店拡大に伴い",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,140,865 261,520 568,114 1,970,500 3,940 1,974,441 － 1,974,441",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約か",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,111,544 193,394 - 1,304,939 240 1,305,179 － 1,305,179",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・顧客接点（タッチポイント）の拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "■ ToC 事業におけるシナジー：販売力と顧客基盤の融合",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "医療・福祉分野に強みを持つ企業の顧客基盤・営業力を掛け合わせることで、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "定期回転する顧客層への継続的なプロモーション",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "EC構築、メニュー開発、生産、流通、顧客管理までを一気通貫で提供する",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、医療・社会福祉法人を中心とした顧客基盤を活用し、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "その中で、株主の皆様・お客様をはじめとする全てのステークホルダーの皆さまに",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先様がアジアで500店舗まで拡大する方針を打ち出しており、その実現に向けて新規出店を進めています",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトは投資家及び消費者金融サービス利用者への情報提供を目的としており、証券/FX/暗号資産に関する契約締結の代理、媒介、斡旋、売買推奨、投資勧誘等を行うものではありません",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトで紹介する証券会社やFX会社等金融機関の評価は、株式会社ZUUが実施した証券会社/FX会社各社へのリサーチ結果及び投資家アンケート調査の結果である客観的データに基づいて作成していますが、その内容の正確性、信頼性等を保証するものではなく、必ず利用者自身で各金融機関のサービス内容をご確認ください",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "投資を行う際は、「株式投資におけるリスク」「FX投資におけるリスク」「暗号資産投資におけるリスク」を了承の上、利用者ご自身の判断で行ってください",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトを通じて金融機関の口座開設等の一定の成果地点までユーザーが到達した場合、広告主から支払われる報酬金額が主な収益です",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "社会に必要とされるサービスを",
+    "url": "https://wel-dish.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化社会の課題に高品質な商品・サービスの提供を通じて、利用者様の生活向上と介護現場の支援に貢献し、利用者支援と社会的価値の創出を目指しています",
+    "url": "https://wel-dish.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、高齢化社会の進展に伴い、医療・介護・福祉の分野においては、安全・安心な食品の提供に加え、それに付随するさまざまなサービスの重要性がこれまで以上に高まっております",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、経営体制の刷新後に事業再建を目的として、売上高90%以上を占めながらもこれまで赤字が続いていた不採算子会社の売却や既存事業の構造改革を行い、選択と集中によって食品関連事業・サービスに経営資源を注力してまいりました",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは、経営体制の刷新による事業再建フェーズに一旦の区切りを付け、本年度5ヶ月変則決算においては、ガバナンス向上と事業拡大を目的として、子会社の合併吸収や次年度への準備を進めるため、経営資源の選択と集中によって食品関連事業・サービスに注力してまいりました",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "①割当日から本新株予約権の行使期間の終期に至るまでの間に金融商品取引所におけ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(b) 当社が法令や金融商品取引所の規則に従って開示すべき重要な事実を適正に",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（金融商品取引法第２７条の２第８項に規定さ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/bf3ad31f0a0209f772a95581223d35a8.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ウェルネス事業（食品・関連サービス事業）",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本事業では、国内向け食品販売、医療・介護機関向け食品提供サービス、SaaS型ウォーターサーバーサービ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "が、食品提供サービスの顧客数及びウォーターサーバーにおいては法人顧客数は大幅に伸長いたしました",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、本事業の食品提供サービスと相乗効果が期待される株式会社IMGホールディングスの買収を本",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業現況は、美容サロン、エステ施術等のプロフェッショナル向けでありましたが、一部商品が高級ドラッ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 83,119 59,514",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業の内容 卸売業、サービス受託事業",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社グランドルーフは当社グループにおいてウェルネス事業に含まれる卸売業、サービス受託事業を主要",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループ内の経営資源を集約し、更なる顧客サービスの拡充と効率的な事業運営を図る",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ィングを基軸としたフードメニューのアドバイス及びその供給におけるサービス事業です",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新しく開拓されるクライアント先で従来の医療事業経営のコンサルティングに加え、食サービスに関するアドバ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "前期には、初心に立ち戻り、創業者が創業時の事業基盤として行っていたTo B向け食品サービス",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "として培ってきたTo B向けの飲料食品サービスに注力することで、それぞれのKPIを整理し、経営管理及び営業",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "選択と集中によって食品関連事業・サービスに注力してまいりました",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ウェルネス事業（食品・関連サービス事業）",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、関連サービス事業は、前連結会計年度末に子会社化したグランドルーフ社の営業網拡大の寄",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "与を受けて医療機関向け食品サービスと福祉介護機関向けの関連製品の販売サービスの伸長が続き、黒字化定着",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メディアートの新商品の受注が想定以上に伸びたものの、生産能力増強の遅延に伴い、業績寄与が遅延しており",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社メディアートを親会社で吸収合併し、意思決定をスムーズに改善させたことで商品の売れ行きと生産能",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、欧米からの資金調達の必要性が乏しいことや、中国生産子会社についても日本国内向け商品の生",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 189,489 83,119",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、本社が取り扱う製品・サービス別に国内及び海外の包括的な戦略を立案し、事業活動を展開",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その際の判断の基礎とする報告セグメントは、主にその取り扱う製品・サービスから「ウェルネ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "療・福祉介護機関向けのサービスを行っております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① ウェルネス事業（食品・関連サービス事業）",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "本事業では、連結子会社グランドルーフが提供する関連サービス事業および宅配水事業の業績が新たに寄与",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、新商品のテストマーケティングは引き続きPDCAを正循環させているフェーズのため、大きな寄与は見",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "られませんが、KPIの一つである商品数の増加と共にマーケティング効率を向上させていくフェーズに入ってま",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療サプリメント事業においては、前年同期に新商品効果による一時的な売上増があった反動により、売上",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 189,489 63,492",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プレスリリース・ニュースリリース配信サービスのPR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "― 食品・飲料サービス、ヘルスケア分野を横断する成長エコシステムを構築 ―",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "２．定期宅食サービス（ToC向け）の実現",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "「To C向けワンストップ宅食サービス（仮称：dish）」の実現に向け、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値な冷凍宅食サービスの展開を目指します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "宅配食サービスまでのロードマップ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "コマース向けサービス営業･販売戦略",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍食品の定期販売サービス市場トレンド",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "１． 医療・介護業界向け商品・サービス領域の拡大",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "食品・飲料サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービスのクロスセル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品・サービス領域（To B事業）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "関連サービス事業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースリリース配信サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "レコメンドサービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "【麦茶の製造販売】「ミネラル麦茶」が主力",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "pass": 3
+   },
+   {
+    "quote": "④ 事 業 内 容 食品・関連サービスを行う事業として麦茶・健康茶及びビーフジャーキーの販売をするほか医療・福祉介護機関向けのサービスを行うウェルネス事業、医療化粧品の事業として化粧品等の販売を行うメディカルコスメ事業を主たる事業として行っております",
+    "url": "https://mbkworld.co.jp/press/9152/",
+    "pass": 3
+   },
+   {
+    "quote": "有料サービス",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "創業以来の技術と信頼を土台に、M&Aや新商品の展開を通じて、健康・美容分野における“選ばれるブランド”を目指すウェルディッシュ",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "もともと旧石垣食品はミネラルを健康食品に活かす技術や知見を強みとしており、レトルト食品などの商品ラインナップも豊富に有していたのですが、経営が悪化する中で縮小させていました",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "また、ビーフジャーキーのOEM製品の受託加工も伸長しています",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "福祉用品代理店事業を開始いたしました",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした社会的課題に対し、当社は、志を共にするパートナー企業とグループを形成することで、それぞれの強みを結集し、課題解決に向けた幅広い事業活動を推進してまいります",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの小売店舗への販売チャネルに加えて、Eコマースや飲食店等B向けチャネル、さらに中国・アジア・アメリカへの販売を優れた日本の食材会社とのパートナーシップで広めて参ります",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "損益は、7月より実施している来期を見越した管理体制、営業体制の拡充に伴う採用コスト及び人件費増を吸収し、約1億円ののれんを償却後、営業利益32,416千円という結果となりました",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "また、旧経営陣が残していた不採算部門の債務処理やテコ入れを目的とした営業体制の刷新を行い、事業部門の組織体制の最適化を実行しております",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "グストアや百貨店に導入されたことから、一般消費者向け卸売代理店からの問い合わせが、また、海外インフ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ルエンサーによるSNS掲載による認知度向上によって海外代理店からの問い合わせが急増しております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "損益は、7月より実施している来期を見越した管理体制、営業体制の拡充に伴う採用コスト及び人",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "pass": 3
+   },
+   {
+    "quote": "主要取引先様がアジアで500店舗まで拡大する方針を打ち出しており、その実現に向けて新規出店を進めています",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトで紹介する証券会社やFX会社等金融機関の評価は、株式会社ZUUが実施した証券会社/FX会社各社へのリサーチ結果及び投資家アンケート調査の結果である客観的データに基づいて作成していますが、その内容の正確性、信頼性等を保証するものではなく、必ず利用者自身で各金融機関のサービス内容をご確認ください",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "ZUU onlineはさまざまなサイトで紹介されています",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "会社沿革 | ウェルディッシュ（Wel-dish）",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1957年10月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1958年10月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1962年2月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1964年6月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年6月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年1月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年12月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年3月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1978年4月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年3月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1979年4月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年2月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年2月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年4月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年8月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1983年10月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年4月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年12月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1985年11月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年12月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1987年8月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1988年3月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年8月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年1月",
+    "url": "https://wel-dish.co.jp/company-history/",
+    "pass": 1
+   },
+   {
+    "quote": "1957年10月10日",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月期 決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年３月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算短信〔日本基準〕（連結）",
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年",
+    "url": "https://wel-dish.co.jp/ir_category/annual-securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://wel-dish.co.jp/ir_category/annual-securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年",
+    "url": "https://wel-dish.co.jp/ir_category/annual-securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年",
+    "url": "https://wel-dish.co.jp/ir_category/annual-securities-report/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月期2026年3月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月期は、決算期変更により2025年４月１日から2025年８月31日までの５ヶ月決算となっております",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年8月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-statements/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第1四半期より連結ベースでの開示となっております",
+    "url": "https://wel-dish.co.jp/investor-relations/performance-highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期において一部事業譲渡が行われております",
+    "url": "https://wel-dish.co.jp/investor-relations/performance-highlights/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第1四半期より連結ベースでの開示となっております",
+    "url": "https://wel-dish.co.jp/investor-relations/cash-flows/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期 第2四半期において一部事業譲渡が行われております",
+    "url": "https://wel-dish.co.jp/investor-relations/cash-flows/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 年",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024 年",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年８月期 第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年８月期 決算短信〔日本基準〕(連結)",
+    "url": "https://wel-dish.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "こうした社会的課題に対し、当社は、志を共にするパートナー企業とグループを形成することで、それぞれの強みを結集し、課題解決に向けた幅広い事業活動を推進してまいります",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一方IMG社の持つ強み",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療・福祉分野に強みを持つ企業の顧客基盤・営業力を掛け合わせることで、",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "もともと旧石垣食品はミネラルを健康食品に活かす技術や知見を強みとしており、レトルト食品などの商品ラインナップも豊富に有していたのですが、経営が悪化する中で縮小させていました",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、子会社化に踏み切ったハーバーリンクスは、ウェブやSNSを通じたマーケティングに強みを持ち、BtoCにおける販売力の高さが光っていました",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、ミネラル食品・飲料に加えて健康食品の開発や福祉施設向けのレンタル卸売にも強みを持っており、これらのノウハウをグランドルーフで活用することが子会社化の狙いです",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "また、経常利益38,845千円と中期経営計画でお示しさせて頂いているコーポレートガバナンス強化やM&A等の構造改革に準じたアドバイザリー等費用が嵩んでいるもののそれらを吸収して黒字の定着が見られる結果を果たし、2024年6月より開始した事業改革後の事業セグメントとは無関係な、旧経営陣が残していた不要な資産等の取り崩し特別損失を吸収し、税効果会計等も踏まえた戦略的なバランスシート改善・改革を実施した結果、親会社株主に帰属する当期純利益は47,804千円となりました",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、前連結会計年度より、報告セグメントとして記載する事業セグメントを変更しており、前第１四半期連結累計期間との比較・分析は、変更後の区分に基づいております",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメントの業績は、次の通りであります",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………………８",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前連結会計年度より、報告セグメントとして記載する事業セグメントを変更しており、前第１四半期連",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（前年同四半期比41.6％減）となり、報告セグメント上では、大幅な減収・減益となっていますが、これは前",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外されたことにより、当第１四半期累計期間より報告セグメントから除外しております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続きグループ全体での事業ポートフォリオの選択と集中の強化と、各セグメントの収益力向上に取り組ん",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、サプリメント事業及",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△43,827千円には、各報告セグメントに配分していない全社費用△",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であり",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、サプリメント事業等",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△80,556千円には、各報告セグメントに配分していない全社費用△",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等) ……………………………………………………………………………………………11",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "始した事業改革後の事業セグメントとは無関係な、旧経営陣が残していた不要な資産等の取り崩し特別損失を吸",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は次のとおりであります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントの概要",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社の構成単位のうち分離された財務情報が入手可能であり、取締役会",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その際の判断の基礎とする報告セグメントは、主にその取り扱う製品・サービスから「ウェルネ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの変更等に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計期間から「インターネット通信販売事業」 の報告セグメントを廃止しております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、「連結財務諸表作成のための基本となる重要な事項」に",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 213,778 76,457 4,492 294,727 807 295,535 △94,981 200,553",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 2,598,115 1,153,674 － 3,751,790 13,924 3,765,714 808,393 4,574,108",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．その他の区分は、報告セグメントに含まれない事業セグメントであり、サプリメント事業等を含んでおり",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(1) セグメント利益の調整額△94,981千円には、各報告セグメントに配分していない全社費用△94,981千円",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(2) セグメント資産の調整額808,393千円には、各報告セグメントに配分していない全社資産808,393千円が",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益は、連結財務諸表の営業利益と調整を行っております",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 75,108 43,890 - 118,999 57 119,056 △86,639 32,416",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント資産 1,378,969 300,880 - 1,679,850 10,800 1,690,650 2,135,114 3,825,765",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記） …………………………………………………………………………7",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、前連結会計年度より、報告セグメントとして記載する事業セグメントを変更しており、前第１四半期連",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "引き続きグループ全体での事業ポートフォリオ強化と、各セグメントの収益力向上に取り組んでまいります",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １．「その他」の区分は、報告セグメントに含まれない事業セグメントであり、サプリメント事業及",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又はセグメント損失(△)の調整額△26,950千円には、各報告セグメントに配分し",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しな",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又はセグメント損失(△)は、四半期連結損益計算書の営業利益と調整を行ってお",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額△43,101千円には、各報告セグメントに配分していない全社費用△",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "当社は、2024 年 10月 29 日付「募集新株予約権（有償ストック・オプション）の発行に",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関するお知らせ」及び、2024 年 10 月 31 日付「 （訂正） 「募集新株予約権（有償ストック・",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社の取締役に対する有償ストック・オプション（以下、 「第５回新株予約権」という",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "は当社を退任したことに伴いストック・オプ",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 5,696 -",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "支払手数料 14,169 -",
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "創業時よりIPOを意識しプライム上場企業に成長、いち早くサブスクモデルを構築、ロボット・オートメーションを強化し、FIGが目指す時価総額1000億円への道",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトに掲載されている情報は金融機関各社の提供している情報に基づいていますが、株価や手数料、スプレッド、銘柄などに関する最新情報は各サービスの公式サイトにてご確認ください",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ウェルディッシュ （Wel-dish）公式サイト | 健康と美を ... — ウェルディッシュ （Wel-dish）公式サイト | 健康と美を ... ウェルディッシュ https://wel-dish.co.jp",
+    "url": "https://wel-dish.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ M&Aを通じた事業シナジー戦略を本格始動 — ウェルディッシュ M&Aを通じた事業シナジー戦略を本格始動 PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ウェルディッシュ 株式の一部取得のお知らせ — 株式会社 ウェルディッシュ 株式の一部取得のお知らせ マーチャント・バンカーズ株式会社 https://mbkworld.co.jp > press",
+    "url": "https://mbkworld.co.jp/press/9152/",
+    "pass": 3
+   },
+   {
+    "quote": "馬渕磨理子氏が迫る 急成長 ウェルディッシュ の現在地 — 馬渕磨理子氏が迫る 急成長 ウェルディッシュ の現在地 ZUU online https://zuuonline.com > archives",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | ウェルディッシュ （Wel-dish） — IR情報 | ウェルディッシュ （Wel-dish） ウェルディッシュ https://wel-dish.co.jp > investor-relations",
+    "url": "https://wel-dish.co.jp/investor-relations/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ウェルディッシュ 】[2901]IR情報 中期経営計画や 決算 短信 — 【 ウェルディッシュ 】[2901]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "pass": 3
+   },
+   {
+    "quote": "財務・業績情報_ 決算 報告 | ウェルディッシュ （Wel-dish） — 財務・業績情報_ 決算 報告 | ウェルディッシュ （Wel-dish） ウェルディッシュ https://wel-dish.co.jp > 株主・投資家情報",
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ （2901）のIR情報・ 決算資料 - IRBANK — ウェルディッシュ （2901）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > ウェルディッシュ",
+    "url": "https://irbank.net/2901/ir",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ウェルディッシュ （Wel-dish） — 企業情報 | ウェルディッシュ （Wel-dish） ウェルディッシュ https://wel-dish.co.jp > company",
+    "url": "https://wel-dish.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ - Wikipedia — ウェルディッシュ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > ウェルディッシュ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ 【2901】の企業情報 - キタイシホン — ウェルディッシュ 【2901】の企業情報 - キタイシホン キタイシホン https://kitaishihon.com > company > top",
+    "url": "https://kitaishihon.com/company/2901/top",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ社長 に小松周平氏 - 日本経済新聞 — ウェルディッシュ社長 に小松周平氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_R30C24A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ウェルディッシュ 【2901】の 社長 ・役員 - キタイシホン — ウェルディッシュ 【2901】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/2901/board-of-director",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "本サイトの収益モデル・広告について",
+    "url": "https://zuuonline.com/archives/296256",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://wel-dish.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/company-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/%EF%BC%88%E9%96%8B%E7%A4%BA%E3%81%AE%E7%B5%8C%E9%81%8E%EF%BC%89%E7%AC%AC70%E6%9C%9F%E5%AE%9A%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E4%BB%98%E8%AD%B0%E8%AD%B0%E6%A1%88%E3%81%AB%E9%96%A2%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir_category/financial-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir_category/annual-securities-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/financial-position/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/financial-statements/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/performance-highlights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/cash-flows/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir_category/shareholders-meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/stock-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/investor-relations/dividends/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/category/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/%E6%A0%AA%E4%B8%BB%E5%84%AA%E5%BE%85%E5%88%B6%E5%BA%A6%E5%BB%83%E6%AD%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/%E7%AC%AC70%E6%9C%9F%E5%AE%9A%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E5%8F%8A%E3%81%B3%E7%B6%99%E7%B6%9A%E4%BC%9A%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/category/ir/page/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/category/ir/page/14/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/%E6%A0%AA%E4%B8%BB%E3%81%AB%E3%82%88%E3%82%8B%E8%87%A8%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E6%8B%9B%E9%9B%86%E8%AB%8B%E6%B1%82%E3%81%AE%E5%8F%96%E3%82%8A%E4%B8%8B%E3%81%92%E3%81%AB%E9%96%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wel-dish.co.jp/%E6%A0%AA%E4%B8%BB%E3%81%AB%E3%82%88%E3%82%8B%E8%87%A8%E6%99%82%E6%A0%AA%E4%B8%BB%E7%B7%8F%E4%BC%9A%E6%8B%9B%E9%9B%86%E8%AB%8B%E6%B1%82%E6%9B%B8%E5%8F%97%E9%A0%98%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/11/6f2cd4803182a552d4ec9d80213e83ab.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/dae7529ba60f6a866e9159b5d49c78c6.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/d4e9d9439a059cef921abc5b844de429.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/bf3ad31f0a0209f772a95581223d35a8.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/10/58468857952c8f8d15037a384f6faec0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2026/01/e5c43a9cf3d404dab6c099fe4b8cd28d.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/10/bb8caf180b41c627d592863eaef84eab.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://wel-dish.co.jp/wp-content/uploads/2025/08/cbd2c9e2b41d60ddaf66f34efb9c0254.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mbkworld.co.jp/press/9152/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zuuonline.com/archives/296256",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ウェルディッシュ",
+   "results": [
+    "https://wel-dish.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://x.com/wel_dish_jp",
+    "https://wel-dish.co.jp/company/",
+    "https://wel-dish.co.jp/investor-relations/",
+    "https://www.nikkei.com/nkd/company/?scode=2901",
+    "https://kabutan.jp/stock/?code=2901",
+    "https://ja.wikipedia.org/wiki/ウェルディッシュ",
+    "https://finance.yahoo.co.jp/quote/2901.T",
+    "https://minkabu.jp/stock/2901/news"
+   ]
+  },
+  {
+   "query": "ウェルディッシュ ビジネスモデル",
+   "results": [
+    "https://wel-dish.co.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "https://mbkworld.co.jp/press/9152/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241113/20241113520823.pdf",
+    "https://zuuonline.com/archives/296256",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240530514246/",
+    "https://kitaishihon.com/company/2901/management-strategy",
+    "https://global-cast.co.jp/news/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%E3%82%B3%E3%82%B9%E3%83%A1%E4%BA%8B%E6%A5%AD%E3%81%AE%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5%E3%83%BC/",
+    "https://consovation.com/持続的成長を目指すウェルディッシュの魅力に迫/"
+   ]
+  },
+  {
+   "query": "ウェルディッシュ 決算説明資料",
+   "results": [
+    "https://wel-dish.co.jp/investor-relations/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2901",
+    "https://wel-dish.co.jp/investor-relations/financial-reporting/",
+    "https://irbank.net/2901/ir",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260414/20260414504312.pdf",
+    "https://kabutan.jp/stock/finance?code=2901",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=2901",
+    "https://www.visional.inc/ja/ir/library/presentation.html",
+    "https://www.wellnet.co.jp/pages/ir-library.html",
+    "https://www.buffett-code.com/company/2901/library"
+   ]
+  },
+  {
+   "query": "ウェルディッシュ 事業系統図",
+   "results": [
+    "https://wel-dish.co.jp/company/",
+    "https://mbkworld.co.jp/press/9152/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://kitaishihon.com/company/2901/top",
+    "https://wel-dish.co.jp/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20241113/20241113520823.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20240530514246/",
+    "https://shikiho.toyokeizai.net/stocks/2901/corporate",
+    "https://ja.wikipedia.org/wiki/ウェルディッシュ"
+   ]
+  },
+  {
+   "query": "ウェルディッシュ 社長 インタビュー",
+   "results": [
+    "https://zuuonline.com/archives/296256",
+    "https://wel-dish.co.jp/company/",
+    "https://prtimes.jp/main/html/rd/p/000000044.000148298.html",
+    "https://www.nikkei.com/article/DGXZQODZ00003_R30C24A5000000/",
+    "https://kitaishihon.com/company/2901/board-of-director",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://kigyo-scope.jp/company/2901/ceo/",
+    "https://www.jpx.co.jp/news/1023/20260928-14.html",
+    "https://mbkworld.co.jp/press/9152/",
+    "https://ja.wikipedia.org/wiki/ウェルディッシュ"
+   ]
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

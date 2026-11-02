@@ -1,0 +1,1218 @@
+{
+ "name": "東テク",
+ "aliases": [],
+ "context": "証券コード9960／卸売業／プライム（内国株式）／2026.03期 売上高170,013百万円 営業利益率10.0%",
+ "researched_at": "2026-11-02T21:08:48.166861+00:00",
+ "official_url": "https://www.totech.co.jp/",
+ "identified_by": "search:yahoo_jp:東テク",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立年月日",
+    "value": "1955年（昭和30年）7月6日",
+    "url": "https://www.totech.co.jp/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "会社の設立はいつですか?",
+    "value": "1955年（昭和30年）7月6日です。",
+    "url": "https://www.totech.co.jp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "1,171名 / 連結2,855名（2026年3月末）",
+    "url": "https://www.totech.co.jp/company/summary",
+    "pass": 1
+   },
+   {
+    "label": "東テクグループ従業員持株会",
+    "value": "1,829 4.45",
+    "url": "https://www.totech.co.jp/ir/stockinfo-2",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "「第28回 不動産ソリューションフェア＆シンポジウム」出展のお知らせ",
+    "url": "https://www.totech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス体制を強化するため工務部を設置",
+    "url": "https://www.totech.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "保守・メンテナンス、リニューアルソリューションも含めたワンストップサービスを提供できることです",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "専門商社でもあり建物設備のプロフェッショナルとしてトータルソリューションによる価値の創出ができる",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "培ったトータルソリューション力でお客さまのニーズに応え海外事業の拡大を図ります",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "近年では、カーボンニュートラルの実現に資するソリューション提供にも注力しており、従来の「専門商社」という枠組みにとらわれることなく、技術力を活かした付加価値創出に取り組んでおります",
+    "url": "https://www.totech.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "当社が納品した製品・システムに関するお問い合わせ",
+    "url": "https://www.totech.co.jp/contact",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷の低減に貢献する商品・サービスの提供や新技術の積極的導入、その他あらゆる事業を通して、環境課題の解決に貢献します",
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、全ての施設における製品とサービス、物流、廃棄物管理、M&A、並びに新規事業の開発が含まれます",
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、多種多様な設備機器の販売、計装工事の設計・施工、各種設備・システムの保守サービスまでサポートしています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、年間１万件を超える保守物件を抱え、導入後のメンテナンスを担当するとともに、リニューアルやソリューション提案を行うことで設備のライフサイクルに合わせたトータルサポートを実現しています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまなメーカー製品を幅広く取り扱い、より良い選定を実現",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い製品ラインナップで、最適な空間環境を創造します",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "省エネはもちろん、コージェネレーション、太陽光発電、リチウムイオン蓄電池など持続可能なエネルギーサービスを提供いたします",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "③専門エンジニアが支えるワンストップソリューション",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "空調・計装・エネルギーの各事業分野において、設備・機器販売、施工など建物の計画・建設初期段階から関わりを持ち、その後も保守・メンテナンスやリニューアルソリューションなど、建物のライフサイクル全体を通じて最適な価値を提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "より良い快適環境の創造に貢献するワンストップソリューションプランナーとして、お客さまの多様なニーズに対応します",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "中核グループ会社である日本ビルコン株式会社は、全国46の地域で機器の保守・メンテナンス、運用提案などを行い、地域に密着したサービスを提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "」という存在意義のもと、空調事業、計装事業、エネルギー事業を柱としてグループ全体でシナジーを生み、付加価値の高い商品・サービスを提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/strategy",
+    "pass": 1
+   },
+   {
+    "quote": "◼ エネルギーソリューション（ESCO事業）等",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 商品販売・工事セグメントの中で、空調事業 / 計装事業 / エネルギー事業/国内・海外グループ会社で事業活動を行う",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ メーカーから製品を仕入れて、建物の設備工事業者であ",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "空調機器専門商社のパイオニアとして、多種多様な商品の取り扱い専門商社ならではの提案力",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ワンストップサービス",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "と品質でサービス提供",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "制御データを基にしたソリューションによる最適なチューニングを",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "向けたソリューションを提供する部門",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニュートラルに向けたソリューションを提供",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省エネ&Fソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "再エネ&Eソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "BCPソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション提案事例",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループネットワークを活かして付加価値の高いサービスを展開",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼3大ソリューション（省エネ・空気質・BCP）の提案拡大",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メンテナンス・サービス事業",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ネ等のニーズに合わせたソリューション提案も実施",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "東テクグループワンストップソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "専門エンジニアが支えるワンストップソリューション",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "46％商品販売",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品販売 ７８８ 870 ９３７ +１８.９％ +７.7％",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計装、保守・メンテナンスサービスが主な事業",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスはストックビジネスの土台で",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あり、商品販売と工事の中間的な収益構造として、グループの今と将来を支える重要",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "法人向けサービス",
+    "url": "https://www.talent-book.jp/totech/company-info",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社の基本情報についてご紹介します",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "設立から現在までの当社の歴史をご紹介します",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "当社が目指し、そうありたいと考える姿と、その実現のための行動指針をご紹介します",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "日本全国にある当社の事業所をご紹介します",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "東テクグループ各社の情報をご紹介いたします",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "東テクグループキャラクターの「ここちぃ」をご紹介します",
+    "url": "https://www.totech.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "昭和鉄工株式会社と販売代理店契約を締結",
+    "url": "https://www.totech.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "大阪金属工業株式会社（現ダイキン工業株式会社）と販売代理店契約を締結",
+    "url": "https://www.totech.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "日本初の空対空全熱交換器の国内総代理店となる",
+    "url": "https://www.totech.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "また、地域社会、ビジネスパートナー、投資家・株主、関係機関との連携を強化し、環境課題への理解を促進し、共に解決に向けた取り組みを推進します",
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "また、ビジネスパートナーに対して本方針の支持や同様の方針の採用を期待します",
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "設備代理店でありながら計装工事の施工能力をも併せ持つ国内唯一の企業です",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "空調分野では業務用空調機器国内シェアトップのダイキン工業株式会社のNo.1販売代理店、計装分野では空調自動制御機器国内シェアトップのアズビル株式会社の特約店、エネルギー分野では再生可能エネルギー・蓄電池・非常用発電機などを取り扱っています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "ダイキン工業株式会社（業務用空調機器国内シェアトップ）のNo.1販売代理店",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "長年積み重ねた業界トップメーカーの販売代理店としての信頼と実績があり、建設業界において、取引先との強固な基盤を形成しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "◼ ダイキン工業（株）業務用空調機器の国内大手販売代理店（設備代理店）",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工業・業務用空調機器の国内大手販売代理店（設備代理店）",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "設計・施工・保守を行うパートナー企業への直接発注を推進し、中間マージンを削減",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ローカル代理店との協業や販路拡大に",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1955年（昭和30年）7月6日",
+    "url": "https://www.totech.co.jp/company/summary",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 会社情報 – 東テク株式会社",
+    "url": "https://www.totech.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月には、2026年度から2030年度を対象期間とする「第二次中期経営計画 Redesign TOTECH -100年へ、つなぐ-」を策定いたしました",
+    "url": "https://www.totech.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "1955年（昭和30年）7月6日です",
+    "url": "https://www.totech.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "1993年(平成5年)12月16日です",
+    "url": "https://www.totech.co.jp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2050年度までに事業活動で利用するエネルギーの100％再生可能エネルギーによる調達と、グループ全体でのカーボンニュートラルを達成するよう努めます",
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "pass": 1
+   },
+   {
+    "quote": "1955年創業、空調業界の草分け",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期は、売上高・各利益ともに過去最高を更新し、15期連続の増益を達成しております",
+    "url": "https://www.totech.co.jp/ir/glance/grow",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の業績",
+    "url": "https://www.totech.co.jp/ir/glance/grow",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月末",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期の配当は、前年比12円増の128円となりました",
+    "url": "https://www.totech.co.jp/ir/glance/shareholders",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期以降、14期連続の増配となり長期的な利益還元を継続しております",
+    "url": "https://www.totech.co.jp/ir/glance/shareholders",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月1日より株式の3分割を実施しております",
+    "url": "https://www.totech.co.jp/ir/glance/shareholders",
+    "pass": 1
+   },
+   {
+    "quote": "2026 年５月 25日",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年度～2030年度",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20５５年度",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年3月、",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年12月、",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2021年5月、",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2022年度 2025年度",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2030年度末残",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "20２５年度末残",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "東テクグループのビジネスモデルは、設備・機器販売と計装などの施工パッケージ化に加え、",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "動画内では、代表取締役社長 小山 馨および上席執行役員 堀之内 智明が出演し、インタビュアーとの対談形式を通じて、当社の事業概要やビジネスモデル、直近の業績動向、推進中の第二次中期経営計画における事業戦略、ならびに株主還元方針などについてわかりやすく解説しております",
+    "url": "https://www.totech.co.jp/news/11520?use_def_template_flag=1",
+    "pass": 1
+   },
+   {
+    "quote": "建物のライフサイクル全体を通じたビジネスモデルを構築",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新設案件から既設案件まで、建物のライフサイクル全体を通じたビジネスモデルを構築",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あり、商品販売と工事の中間的な収益構造として、グループの今と将来を支える重要",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ グループ連携によるライフサイクル型の高付加価値・高収益モデルへの転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "益率の高いビジネスモデルを構築する",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "保守・メンテナンス、リニューアルソリューションも含めたワンストップサービスを提供できることです",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 1
+   },
+   {
+    "quote": "現在は、多種多様な設備機器の販売、計装工事の設計・施工、各種設備・システムの保守サービスまでサポートしています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "建物のあらゆる設備を幅広くカバーするとともに、これらの設備・システムの販売から施工、保守までワンストップで提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、年間１万件を超える保守物件を抱え、導入後のメンテナンスを担当するとともに、リニューアルやソリューション提案を行うことで設備のライフサイクルに合わせたトータルサポートを実現しています",
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "pass": 1
+   },
+   {
+    "quote": "空調・計装・エネルギーの各事業分野において、設備・機器販売、施工など建物の計画・建設初期段階から関わりを持ち、その後も保守・メンテナンスやリニューアルソリューションなど、建物のライフサイクル全体を通じて最適な価値を提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "中核グループ会社である日本ビルコン株式会社は、全国46の地域で機器の保守・メンテナンス、運用提案などを行い、地域に密着したサービスを提供しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "◼ 業務用空調機器等の仕入販売、設置、保守・メンテナンス業務等",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工事、保守・メンテナンス業務等",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・メンテナンス業務等",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 計装機器の設計・施工、仕入販売、工事、保守・メンテナンス業務等 （ア",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "機器販売のみならず、グループ会社と連携し施工や保守・メンテナ",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・メンテナンスを担う",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・メンテナンス",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新設案件（フロービジネス） 既設案件（ストックビジネス）",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新設案件から関わり、ストックビジネスへ展開",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "況で大型案件獲得や付加価値提案に取り組み、案件単価向上による事業規模拡大で",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計装、保守・メンテナンスサービスが主な事業",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サービスはストックビジネスの土台で",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "保守・メンテナンス契約の安定獲得",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックビジネスの強化",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "非住宅の更新・保守需要増とストックビジネス拡大",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 既存建物向け設備更新、保守ビジネスの拡大",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 新設需要停滞局面を見据え、既設物件におけるリプレイスやリニューアル、保守・メンテナンスの拡充を図る",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【収・持】当該年度の収益獲得と将来の種まき（ストックビジネス）の同時展開",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【収・持】ストックビジネスの要としての保守・メンテナンスサービス",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【収・持】工事、保守・メンテナンスサービス事業の強化",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "案件数・案件単価の見立て",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（案件単価向上のレバレッジ効果）",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ストックビジネス",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼主力製品のシェア維持と保守・メンテナンス受注強化",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "更新需要を的確に押さえ、保守・メンテナンスの受注を強化する",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "その実現に向け、本中期経営計画では、「高収益体質への転換」と「経営基盤の整備」を基本方針として掲げております",
+    "url": "https://www.totech.co.jp/ir/message",
+    "pass": 1
+   },
+   {
+    "quote": "・高収益体質への転換",
+    "url": "https://www.totech.co.jp/ir/plan",
+    "pass": 1
+   },
+   {
+    "quote": "「人的資本経営の強化」を基本方針に掲げ、人的資本の価値向上と最適化を追求しながら、「高収益体質への転換」と「経営基盤の整備」を推進してまいります",
+    "url": "https://www.totech.co.jp/ir/plan",
+    "pass": 1
+   },
+   {
+    "quote": "全社一丸の経営による高収益体質への転換と持続可能性に資する役割の明確化",
+    "url": "https://www.totech.co.jp/ir/plan",
+    "pass": 1
+   },
+   {
+    "quote": "強み | 東テク早わかり | IR情報 – 東テク株式会社",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "東テクの成長を支える4つの”強み”",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "強み 強み 強み",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・高収益体質への転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高収益体質への転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 全社一丸の経営による高収益体質への転換と持続可能性に資する役割の明確化",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【収】高収益な事業構造による利益拡大ドライバー",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【収】 高収益体質への転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 売上増と人材増の関係性が強いことから、高収益化体質への転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 顧客や外部環境の課題を的確に捉え、各組織の事業戦略を実行することでグループ全体の高収益化に向けた高付加価値の",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ グループ連携によるライフサイクル型の高付加価値・高収益モデルへの転換",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループ連携により、高収益なライフサイクルモデルを確立する",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 各国市場に即した独自性とコスト競争力を高め、高収益な事業基盤を築く",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益 営業利益率",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "長年積み重ねた業界トップメーカーの販売代理店としての信頼と実績があり、建設業界において、取引先との強固な基盤を形成しています",
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "pass": 1
+   },
+   {
+    "quote": "ナップを活かし、お客様のニーズや建物の用途に応じて快",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様の課題例",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼大手顧客への拡販、データセンター・外資系企業へ拡販",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のニーズに一貫体制で対応",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "～お客様の多様なニーズに応える「技術力」と「提案力」を支える東テクグループの人 材基盤～",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の挑戦や顧客層の幅を広げる取り組みを通じて売上高、利益ともに全社業績に貢献",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【持】直接提案により顧客層とソリューションの幅を広げる役割",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "補完による幅広い顧客ニーズへの対応力",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客、取引先、株主、",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼ 顧客や外部環境の課題を的確に捉え、各組織の事業戦略を実行することでグループ全体の高収益化に向けた高付加価値の",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "解決を同時に実現し、顧客への付加価値を高める",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客の多様な要求に応え、１案件での受注最大化を図る",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "グループシナジーを活用し、既に保守・管理を担っている顧客基盤を起点に、空調・電源・再エネ・保守を一体",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "既存顧客との関係性を活かすことで、案件",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "首都圏の5営業所化による顧客対応力の向上、地域密着型のブ",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビル設備機器のメンテナンス（保守）、修繕（リペア）、リニューアル（更新）を顧客の",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "省エネ商材やR32機器の提案を通じ、顧客の課題解決を支援する",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "◼技術力の醸成や顧客への対応力強化に",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "害塗装やダクト製造も請け負い、顧客の",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "◼ 商品販売・工事セグメントの中で、空調事業 / 計装事業 / エネルギー事業/国内・海外グループ会社で事業活動を行う",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別 1,２６６ 1,500 １,７００ ー ―",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工事セグメントの売上高総利益率",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※２ 工事セグメントに属する社員数",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "テナンス」モデルを拡大し、売上比率目標50%を目指す",
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業内容 – 東テク 株式会社 — 事業内容 – 東テク 株式会社 東テク株式会社 https://www.totech.co.jp > service",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "東テク 株式会社の会社概要 | ロール モデル 就活・転職サイト ... — 東テク 株式会社の会社概要 | ロール モデル 就活・転職サイト ... タレントブック・ストーリー https://www.talent-book.jp > totech > company-info",
+    "url": "https://www.talent-book.jp/totech/company-info",
+    "pass": 3
+   },
+   {
+    "quote": "東テク 株式会社 中期経営計画 - EDINET DB — 東テク 株式会社 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > 東テク株式会社 > IR資料",
+    "url": "https://edinetdb.jp/company/E02769/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "東テク (株)【東証プライム市場上場】の会社概要 | マイナビ2027 — 東テク (株)【東証プライム市場上場】の会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp9868 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp9868/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東テク の「企業分析［強み・弱み・展望］」 OpenWork — 東テク の「企業分析［強み・弱み・展望］」 OpenWork OpenWork https://www.openwork.jp > ... > 東テク",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs4B&q_no=9",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 | IRライブラリー | IR情報 – 東テク株式会社 — ホーム IR情報 IRライブラリー 決算説明資料 IRライブラリー 決算説明資料 To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.",
+    "url": "https://www.totech.co.jp/ir/library/presentation",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー | IR情報 – 東テク株式会社 — 人と地球にやさしい、環境制御・エネルギーの東テク",
+    "url": "https://www.totech.co.jp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "東テク株式会社 決算説明資料 — EDINET DB — 東テク株式会社の決算説明資料を、AIで構造化されたセクション単位で表示。経営戦略・業績・ガバナンスなどテーマタグ ...",
+    "url": "https://edinetdb.jp/company/E02769/presentations/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 第 四半期 決算説明会資料 東テクグループ — 2026年3月期 第 四半期 決算説明会資料 東テクグループ 2026年3月期 第2四半期 決算説明会資料",
+    "url": "https://www2.jpx.co.jp/disc/99600/140120251119505772.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東テクのIR資料 - 9960 / プライム / 卸売業 | バフェット・コード — May 14, 2026 · 東テク（9960 / プライム / 卸売業）のIR資料の一覧を表示しています。有価証券報告書や決算短信、そしてTDnetで開示された適時開示資料をPDFでご覧になれます。",
+    "url": "https://www.buffett-code.com/company/9960/library",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ – 東テク株式会社 — 東テク株式会社の事業・会社情報をお伝えするWebサイトです。「ここちよい、をその先へ。」をスローガンに、東テクグループは、よりよい快適環境を創造してまいります。",
+    "url": "https://www.totech.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 – 東テク株式会社 — 東テク株式会社の事業・会社情報をお伝えするWebサイトです。「ここちよい、をその先へ。」をスローガンに、東テクグループは、よりよい快適環境を創造してまいります。",
+    "url": "https://www.totech.co.jp/service",
+    "pass": 3
+   },
+   {
+    "quote": "東テク株式会社 有価証券報告書 全文（最新）｜事業内容・リスク・MD&... — 東テク株式会社（証券コード 99600）の有価証券報告書 全文（最新 提出版）。事業内容・経営分析（MD&A）・リスク情報・コーポレートガバナンス・サステナビリティ・R&D・沿革など 11 セクションを原文ベースで表示。EDINET 原本 PDF へも直リンク。",
+    "url": "https://edinetdb.jp/company/E02769/text",
+    "pass": 3
+   },
+   {
+    "quote": "東テク株式会社 - 事業の内容 (2026年3月期) 有価証券報告書 レポート... — 東テク株式会社の有価証券報告書 (2026年3月期) の「事業の内容」についての抜粋です。健全！どんぶり会計β版は、スマートフォン (スマホ)でも読める有価証券報告書、そして、財務諸表をビジュアル化（比例縮尺）にすることで会社経営を大局でとらえることを可能にするツールが特徴の ...",
+    "url": "https://donburi.accountant/report/?es=2063&t=3&dn=12",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期決算説明会資料 東テクグループ — 東テクグループ 成長のあゆみ 2025年7月、当社は創立70周年を迎えます。オーガニック成長に加え、M&A(国内外)による増収・増益を推進します",
+    "url": "https://www2.jpx.co.jp/disc/99600/140120250526564436.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日経ヴェリタスに掲載されました | トピックス | 東テク株式会社 — Sep 24, 2023 · 日経ヴェリタスに掲載されました 日経ヴェリタス2023年9月24日号の「株高呼ぶスゴ腕社長」特集において、 弊社代表取締役社長の長尾へのインタビュー記事が掲載されました。 記事は下記リンクよりご覧いただけます。",
+    "url": "https://www.totech.co.jp/news/3520",
+    "pass": 3
+   },
+   {
+    "quote": "小山馨氏の経歴｜東テクの歴代社長（2025年〜現任） — Oct 26, 2026 · 東テク（社長）小山馨氏。2025年4月、金子清貴氏の後任として代表取締役社長に就任した。就任1年目の2026年3月期は連結売上高1,700億円・営業利益171億円で、ともに過去最高となった。",
+    "url": "https://the-shashi.com/tse/9960/executives/ceo/koyama-kaoru/",
+    "pass": 3
+   },
+   {
+    "quote": "東テク 役員一覧 | 取締役8名の経歴と選任賛成比率 — Oct 12, 2026 · 東テクの役員一覧。取締役8名（2026年6月時点）。代表は小山馨。在任期間・役職の変遷と株主総会の選任賛成比率を掲載。",
+    "url": "https://the-shashi.com/tse/9960/executives/",
+    "pass": 3
+   },
+   {
+    "quote": "【東テク】還元260億＋投資500億を両⽴できる理由｜DOE6%‧累進配当の裏...東テク【9960】の社長・役員- キタイシホン — Oct 20, 2026 · 【東テク】還元260億＋投資500億を両⽴できる理由｜DOE6%‧累進配当の裏にある「⼈への投資」 ディスカ場 Powered by 日興アイ・アール 70.1K subscribers b．2026年6月24日開催予定の定時株主総会の議案（決議事項）として、「取締役（監査等委員である取締役を除く。）5名選任の件」を提案しており、当該議案が承認可決されますと、当社の役員の状況は以下のとおりとなる予定です。なお、役員の役職等につきましては、当該定時株主総会の直後 ...",
+    "url": "https://www.youtube.com/watch?v=IEeOX9kY7NE",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.totech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/company/summary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/message",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/highlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/stockinfo-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/disclaimer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/sustainability/environment/policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/news/11520?use_def_template_flag=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance/grow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance/strong",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance/strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totech.co.jp/ir/glance/shareholders",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.totech.co.jp/wp-content/uploads/2026/08/Totech_corporateprofile_Jp_2026-1.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.totech.co.jp/pdf/ir/second_mid-term_20260525.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.talent-book.jp/totech/company-info",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東テク",
+   "results": [
+    "https://www.totech.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9960",
+    "https://www.gakujo.ne.jp/campus/company/baseinfo/18568/",
+    "https://www.youtube.com/@%E6%9D%B1%E3%83%86%E3%82%AF%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB",
+    "https://job.mynavi.jp/28/pc/search/corp9868/outline.html",
+    "https://ja.wikipedia.org/wiki/東ティモール",
+    "https://www.totech.co.jp/company",
+    "https://finance.yahoo.co.jp/quote/9960.T/profile",
+    "https://job.mynavi.jp/27/pc/search/corp9868/outline.html",
+    "https://www.bloomberg.com/jp/quote/9960:JP"
+   ]
+  },
+  {
+   "query": "東テク ビジネスモデル",
+   "results": [
+    "https://www.totech.co.jp/service",
+    "https://www.talent-book.jp/totech/company-info",
+    "https://edinetdb.jp/company/E02769/midterm-plans/",
+    "https://job.mynavi.jp/27/pc/search/corp9868/outline.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000Fs4B&q_no=9",
+    "https://sharedresearch.jp/ja/companies/9960",
+    "https://www.totech.co.jp/recruit/introduction/",
+    "https://www.youtube.com/watch?v=jTIBrPdmkW0",
+    "https://note.com/jobhuntkeyence/n/na5e98735227a",
+    "https://www.totech.co.jp/ir/plan"
+   ]
+  },
+  {
+   "query": "東テク 決算説明資料",
+   "results": [
+    "https://www.totech.co.jp/ir/library/presentation",
+    "https://www.totech.co.jp/ir/library",
+    "https://edinetdb.jp/company/E02769/presentations/",
+    "https://www2.jpx.co.jp/disc/99600/140120251119505772.pdf",
+    "https://www.buffett-code.com/company/9960/library",
+    "https://edinetdb.jp/company/E02769/ir-docs/",
+    "https://irbank.net/9960/ir"
+   ]
+  },
+  {
+   "query": "東テク 事業系統図",
+   "results": [
+    "https://www.totech.co.jp/",
+    "https://www.totech.co.jp/service",
+    "https://edinetdb.jp/company/E02769/text",
+    "https://donburi.accountant/report/?es=2063&t=3&dn=12",
+    "https://www2.jpx.co.jp/disc/99600/140120250526564436.pdf",
+    "https://irbank.net/E02769/business?f=S100W4DK",
+    "https://irbank.net/E02769/business?f=S100RA0S"
+   ]
+  },
+  {
+   "query": "東テク 社長 インタビュー",
+   "results": [
+    "https://www.totech.co.jp/news/8558",
+    "https://www.totech.co.jp/news/3520",
+    "https://the-shashi.com/tse/9960/executives/ceo/koyama-kaoru/",
+    "https://the-shashi.com/tse/9960/executives/",
+    "https://www.youtube.com/watch?v=IEeOX9kY7NE",
+    "https://kitaishihon.com/company/9960/board-of-director",
+    "https://www.kabutecho.com/interview/大規模施設の「ここちよさ」「省エネ」を支える/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部1頁・検索5回）",
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像2件／外部1頁・検索5回）"
+ }
+}

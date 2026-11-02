@@ -1,0 +1,1970 @@
+{
+ "name": "歌舞伎座",
+ "aliases": [],
+ "context": "証券コード9661／サービス業／スタンダード（内国株式）／2026.02期 売上高3,633百万円 営業利益率10.4%",
+ "researched_at": "2026-11-02T21:01:00.544253+00:00",
+ "official_url": "https://www.kabuki-za.co.jp/",
+ "identified_by": "search:yahoo_jp:歌舞伎座",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高(千円)",
+    "value": "割合(％) 売上高(千円) 割合(％)",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "label": "売上高",
+    "value": "",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "1,900,418 584,024 622,106 3,106,550 - 3,106,550",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "90,917 1,481 1,370 93,769 △93,769 -",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への売上高",
+    "value": "2,026,197 791,376 815,083 3,632,657 - 3,632,657",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部売上高 又は振替高",
+    "value": "94,939 605 923 96,468 △ 96,468 -",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【立川立飛歌舞伎 特別公演】限定記念商品の全ラインナップ大公開！",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「歌舞伎座 御菓子大人気商品」のご紹介～歌舞伎座地下2階 木挽町広場",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "オンラインストア最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "「歌舞伎座 御菓子大人気商品」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "大人気キャラクターとコラボした歌舞伎キャラクター商品や隈取などのオリジナル商品も数多く取り揃えております",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "スタッフおすすめ商品を限定販売中",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "素材を上手く生かした製品の良さを、ぜひ手に取ってお確かめください",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座限定の商品もご用意しました",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "和装に最適な小物をはじめ、歌舞伎座限定のお得な商品を取り揃えております",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "根付やTシャツなど、定番で人気の商品も多数取り揃えています",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "老舗店の超人気商品を期間限定にて販売いたします！",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "農林水産省の山村活性化対策事業に参加している自治会・起業の地域商品の販売しています！",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本伝統の着物・帯を丁寧な工程を経て新しい製品へ生まれ変わったバッグ達",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/kairou/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/kairou/",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "敷地は所有者松竹株式会社より借り受け、劇場は演劇の興行を行う松竹株式会社に、また劇場内の食堂売店等を当社の子会社である歌舞伎座サービス株式会社にそれぞれ賃貸しております",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社歌舞伎座サービス設立",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社歌舞伎座サービスを歌舞伎座サービス株式会社に社名変更",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社を松竹豊橋会館株式会社が吸収合併し、歌舞伎座事業株式会社（旧・連結子会社）に社名変更（旧松竹豊橋会館株式会社が豊橋営業所となる）",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社戎橋劇場が社名を歌舞伎座サービス株式会社（現・連結子会社）に変更",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/annai/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/annai/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 歌舞伎座サービス（株） > 沿革",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/siryo/foods/",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/siryo/foods/",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/kairou/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/kairou/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社",
+    "url": "https://www.kabuki-za.co.jp/siryo/archive",
+    "pass": 1
+   },
+   {
+    "quote": "ネットショップ最新掲載商品",
+    "url": "https://www.kabuki-za.co.jp/siryo/archive",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎座で商品販売・PRをしてみませんか？",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社では、東銀座駅直結の歌舞伎座 販売区画にて、",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「商品の販売宣伝・PR」をされたい企業様・自治体様を募集いたします",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※素材や製法にはこだわりがあり、自信はあるが販路がないという商品も大歓迎です",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・食品衛生法、食品表示法その他関係法令に適合した商品に限ります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・販売のみの場合は、商品仕入れ契約に基づく消化仕入れ方式",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③商品審査・詳細条件等、協議が整いましたら契約締結させていただきます",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社 営業部",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社 行",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 本書は半期報告書を金融商品取引法第27条の30の２に規定する開示",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【根拠条文】 金融商品取引法第24条の５第１項の表の第１号",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上場金融商品取引所名",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "又は登録認可金融商品",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、当社は、金融商品取引法第24条の５第１項の表の第１号の上欄に掲げる会社に該当し、連結財務諸表規則第",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、金融商品取引法第193条の２第１項の規定に基づき、中間連結会計期間(2026年３月１日から2026年８月31",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「歌舞伎座 御菓子大人気商品」のご紹介～歌舞伎座地下2階 木挽町広場",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "年4回、江戸の食を紹介する新しいコーナー",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の情景と料理紹介をお楽しみいただき、食材に合わせたお酒もご紹介していきます",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「歌舞伎座 御菓子大人気商品」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "外国からの旅行者向け！オリジナルパッケージ「SIMカード」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "歌舞伎稲荷神社 御朱印のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "「藤浪小道具株式会社」オリジナルグッズを紹介するコーナー",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "（一部店舗を除く）",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "地下2階木挽町広場、注目のお土産を紹介します！ | お土産 | 歌舞伎座",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "地下2階木挽町広場、注目のお土産を紹介します！",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "【秋季限定】見た目も味わいも秋爛漫！「かぼちゃパン」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまなてぬぐいの使い方を紹介した「How to use TENUGUI」の掲示は、外国の方々にも好評です",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "「藤浪小道具株式会社」オリジナルグッズを紹介するコーナー",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 木挽町広場、注目のお土産を紹介します！",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/kairou/",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/kairou/",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/soukai.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "GINZA KABUKIZA 地下2階「木挽町広場」オープン 飲食・物販店舗を開店",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/foods/",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/foods/",
+    "pass": 1
+   },
+   {
+    "quote": "年4回、江戸の食を紹介する新しいコーナー",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "当時の情景と料理紹介をお楽しみいただき、食材に合わせたお酒もご紹介していきます",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "第五期歌舞伎座の建替え期間中にホームページで紹介した",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "ここから先は、現在では入手困難な歌舞伎座に関する歴史的文献を特別資料として紹介させていただきます",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/kairou/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/kairou/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "吉例顔見世大歌舞伎「忠臣蔵御膳」のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/archive",
+    "pass": 1
+   },
+   {
+    "quote": "劇場内広告出稿物件のご紹介",
+    "url": "https://www.kabuki-za.co.jp/siryo/archive",
+    "pass": 1
+   },
+   {
+    "quote": "・地域活性化の為の取り組みの紹介",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社は、主に劇場内及び地下広場において食堂・飲食店舗を営業しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "神奈川県鎌倉市 〃 貸店舗 32,698<32,698> - 1,690,658(6,211.95) - 1,723,357 -",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "賃貸事業 貸店舗 14,066 - 335,424(806.11) - 349,490 -",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業 店舗等 6,911 2,395 - 15,511 24,818 15[20]",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売店事業 店舗等 11,905 59 - 4,689 16,653 10[20]",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社及び連結子会社は、事務所、店舗等において不動産賃貸借契約に基づき、退去時における原状回復に係",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「不動産賃貸事業」は、土地及び店舗等の賃貸を行っております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「食堂・飲食事業」は、食堂・飲食店舗の運営を行っております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "歌舞伎座サービス株式会社は、主に劇場内及び地下広場において食堂・飲食店舗を営業しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これをセグメント別にみると、不動産賃貸事業については、土産物と蕎麦・甘味を提供する新たな飲食店舗「歌",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "神奈川県鎌倉市 〃 貸店舗 49,549<49,549> - 1,690,658(6,211.95) - 1,740,208 -",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "賃貸事業 貸店舗 15,641 - 335,424(806.11) - 351,065 -",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業 店舗等 7,610 609 - 10,975 19,195 15[18]",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月1日（日）～25日（水）",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月2日（水）～25日（金）",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月2日（土）～26日（火）",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年版かぶきカレンダー 歌舞伎絵暦",
+    "url": "https://www.kabuki-za.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 歌舞伎座",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 株式会社歌舞伎座 > 沿革",
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月「株主様ご招待イベント」開催について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年2月「株主様ご招待イベント」開催について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月歌舞伎座公演（中止分）株主優待振替について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年8月期（12月～2022年5月興行分）の観劇優待について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年2月期（6月～11月興行分）の観劇優待について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年８月期(12月～翌年５月興行分)の観劇優待について",
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 歌舞伎座",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 歌舞伎座サービス（株） > 沿革",
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "pass": 1
+   },
+   {
+    "quote": "昭和24年11月歌舞伎座再建のため当社（株式会社歌舞伎座）が設立され、戦禍を受けた第三期の建物の基礎や側壁の一部を利用して改修、昭和25年12月に第四期の歌舞伎座が竣工しました",
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月１日～",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月31日 - 12,170,000 - 2,365,180 - 2,405,394",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年８月31日現在",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年５月29日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年５月28日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】………………………………………………………………………………………………………… ４",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年４月末日に建替えのため閉場しておりました劇場歌舞伎座は、2013年２月末日に竣工を迎えることができ、３",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1949年11月 株式会社歌舞伎座設立(資本金１億５千万円)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1950年12月 歌舞伎座竣工",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1951年１月 歌舞伎座を開場",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1952年７月 東京証券取引所株式上場",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1954年３月 株式会社歌舞伎座サービス設立",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1954年８月 株式会社歌舞伎座サービスを歌舞伎座サービス株式会社に社名変更",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1956年３月 映画製作事業を開始",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1958年５月 株式会社戎橋劇場(大阪)設立",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1958年11月 テレビ映画部新設",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1960年６月 松竹豊橋会館株式会社(愛知)設立",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1961年３月 株式会社文楽座を吸収合併し、当社大阪営業所となる",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1963年３月 歌舞伎座サービス株式会社を松竹豊橋会館株式会社が吸収合併し、歌舞伎座事業株式会社",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1963年８月 文楽座を朝日座と改称",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1973年10月 表新館竣工",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1976年８月 歌舞伎会館の大半を取り壊し、歌舞伎座ビル竣工",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1984年３月 朝日座閉鎖し、譲渡",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1984年８月 大船に土地購入",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1985年５月 大船セントラル駐車場オープン",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1985年８月 テレビ映画の製作を一時的に見合わせる",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年２月 大船に土地購入(1984年８月付取得した土地の隣接地)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年３月 株式会社戎橋劇場は同劇場入居先の改築工事の為、賃貸契約を解約し、その後所在地を東",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1986年９月 大船セントラル駐車場を一時縮小し総合住宅展示場として賃貸",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年３月１日～",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年８月31日 - 12,170,000 - 2,365,180 - 2,405,394",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年８月31日現在",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2024年５月30日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年５月29日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2025年10月14日",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】………………………………………………………………………………………………………… ４",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 【沿革】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2010年４月末日に建替えのため閉場しておりました劇場歌舞伎座は、2013年２月末日に竣工を迎えることができ、３",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1949年11月 株式会社歌舞伎座設立(資本金１億５千万円)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1950年12月 歌舞伎座竣工",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1951年１月 歌舞伎座を開場",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1952年７月 東京証券取引所株式上場",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1954年３月 株式会社歌舞伎座サービス設立",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "海外のお客様にもご好評、お洋服を選ぶように気分を替えて楽しむお客様も！",
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から生じる収益 38,379 389,003 388,665 816,048 - 816,048",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,010,339 389,003 388,665 1,788,008 - 1,788,008",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 24,560 391,467 437,016 853,045 - 853,045",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,002,471 391,467 437,016 1,830,955 - 1,830,955",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食堂・飲食事業においては、お客様の趣向やニーズをさらに正確に捉え、歌舞伎座らしい食事とサービスを提供",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月開催の「アンティーク市」等の催しにより歌舞伎座地下の木挽町広場に初めて来場されるお客様も増え、土産品",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "襲名披露公演を記念した「襲名記念御膳」、「襲名弁当」を多くのお客様にご利用いただいた他、猛暑の影響も",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "開催の「アンティーク市」等の催しにより歌舞伎座地下の木挽町広場に初めて来場されるお客様も増え、土産品の",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食堂・飲食事業における収益は、主として劇場関連施設における顧客への食事の提供及び弁当の販売であり、",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客へ料理を提供又は弁当を販売し、対価を受領した時点で履行義務が充足されることから、当該時点で収益",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記については、役務提供前に顧客から対価を受け取った場合には契約負債を認識しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売店事業における収益は、劇場関連施設におけるお土産品等の販売及び通信販売であり、顧客に商品を引き",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社グループの役割が代理人に該当する一部の受託販売取引については、顧客から受け取る対価から仕入先等の",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先に支払う額を控除した純額で収益を認識しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 顧客との契約から生じる収益",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の契約から生じる収益の金額は、連結財務諸表「注記事項（収益認識関係）１．顧客との契約から生じる収益を",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である売掛金は、顧客の信用リスクに晒されております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売掛金の顧客信用リスクに関しては、当社及び当社の連結子会社の社内規定に従い、取引先ごとの期日管理及",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び残高管理を行うとともに、必要に応じて取引先信用状況を把握する体制をとっております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券については、四半期ごとに時価や発行体(取引先企業)の財務状況等を把握し、市況や取引先企業",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、注記事項（セグメント情報等）に記載の通りであります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約資産は、顧客との契約について進捗度に応じて一定期間にわたり認識した収益にかかる未請求の対価に対",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点で顧客との契約から生じた債権に振り替えられます",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、財又はサービスを顧客に移転する当社グループの義務に対して、顧客から対価を受け取ったもの",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 75,896 584,024 622,106 1,282,027 - 1,282,027",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,900,418 584,024 622,106 3,106,550 - 3,106,550",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 84,242 791,376 815,083 1,690,702 - 1,690,702",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 44,679 281,235 295,815 621,730 - 621,730",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 966,645 281,235 295,815 1,543,696 - 1,543,696",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 38,379 389,003 388,665 816,048 - 816,048",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,010,339 389,003 388,665 1,788,008 - 1,788,008",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食堂・飲食事業においては、お客様の趣向やニーズをさらに正確に捉え、歌舞伎座らしい食事とサービスを提供",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ンティー」を開催し、多くのお客様にご来店いただきました",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た他、地下「木挽町広場」にて外国人観光客向けコーナーを設ける等、様々なお客様をターゲットとした商品の企",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、「ねこ展」等の定期的な開催により幅広い世代のお客様にご来場をいただきま",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "食堂・飲食事業における収益は、主として劇場関連施設における顧客への食事の提供及び弁当の販売であり、",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客へ料理を提供又は弁当を販売し、対価を受領した時点で履行義務が充足されることから、当該時点で収益",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "上記については、役務提供前に顧客から対価を受け取った場合には契約負債を認識しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売店事業における収益は、劇場関連施設におけるお土産品等の販売及び通信販売であり、顧客に商品を引き",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "社グループの役割が代理人に該当する一部の受託販売取引については、顧客から受け取る対価から仕入先等の",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取引先に支払う額を控除した純額で収益を認識しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１ 顧客との契約から生じる収益",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上高については、顧客との契約から生じる収益及びそれ以外の収益を区分して記載しておりません",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の契約から生じる収益の金額は、連結財務諸表「注記事項（収益認識関係）１．顧客との契約から生じる収益を",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業債権である売掛金は、顧客の信用リスクに晒されております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売掛金の顧客信用リスクに関しては、当社及び当社の連結子会社の社内規定に従い、取引先ごとの期日管理及",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "び残高管理を行うとともに、必要に応じて取引先信用状況を把握する体制をとっております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "投資有価証券については、四半期ごとに時価や発行体(取引先企業)の財務状況等を把握し、市況や取引先企業",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１. 顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、注記事項（セグメント情報等）に記載の通りであります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約資産は、顧客との契約について進捗度に応じて一定期間にわたり認識した収益にかかる未請求の対価に対",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "点で顧客との契約から生じた債権に振り替えられます",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "契約負債は、財又はサービスを顧客に移転する当社グループの義務に対して、顧客から対価を受け取ったもの",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 61,406 576,149 580,976 1,218,532 - 1,218,532",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,895,690 576,149 580,976 3,052,816 - 3,052,816",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水準および会社業績等を考慮のうえ、取締役の役割および職責等に応じた月額報酬を代表取締役社長安孫子正が",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、取締役の報酬限度額は、2015年5月28日開催の第91期定時株主総会において年額190百万円以内(うち社",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外取締役分年額20百万円以内)、監査役の報酬限度額は、2008年5月23日開催の第84期定時株主総会において年額",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4) 保守料 108,000 89,403",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "水準および会社業績等を考慮のうえ、取締役の役割および職責等に応じた月額報酬を代表取締役社長安孫子正が",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、取締役の報酬限度額は、2015年5月28日開催の第91期定時株主総会において年額190百万円以内(うち社",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外取締役分年額20百万円以内)、監査役の報酬限度額は、2008年5月23日開催の第84期定時株主総会において年額",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(4) 保守料 48,584 108,000",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ト利益は保守料等の負担が増大したことから321,037千円(前年同期比13.7％減)となりました",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/10/202408houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "① 【ストックオプション制度の内容】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/10/202408houkokusho.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "これをセグメント別にみると、不動産賃貸事業については、売上高は1,002,471千円(前年同期比0.8％減)と前年同",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "期と同水準でしたが、建物設備の維持・管理費用の高騰によりセグメント利益は313,959千円(前年同期比6.2％減)と",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "高騰や賃料改定によりセグメント利益は29,801千円(前年同期比24.3％減)となりました",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 334,549 39,376 91,156 465,082 △248,116 216,966",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１ セグメント利益の調整額△248,116千円は、セグメント間取引消去△8,425千円、各報告セグメントに配分し",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であ",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 313,959 29,801 96,151 439,912 △255,926 183,986",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１ セグメント利益の調整額△255,926千円は、セグメント間取引消去△8,824千円、各報告セグメントに配分し",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、事業の種類別セグメントと同一の区分であります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ 主要な事業の内容欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これをセグメント別にみると、不動産賃貸事業については、テナントの賃料を増額改定し、劇場設備に係る保全",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、売上高は791,376千円(前期比35.5％増)、セグメント利益は73,118千円(前期比329.4％増)となりまし",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、売上高は815,083千円(前期比31.0％増)、セグメント利益は186,021千円(前",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度における売上高実績をセグメントごとに示すと次のとおりであります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 金額(千円) 割合(％) 前年同期比(％)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の設備投資の総額は143,269千円であり、セグメントごとの設備投資は、不動産賃貸事業127,599千",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業所名(所在地) セグメントの名称 賃借面積(㎡) 年間賃借料(千円)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "会社名 事業所名(所在地) セグメントの名称 設備の内容 帳簿価額(千円) 従業員数(名)建物及び",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、注記事項（セグメント情報等）に記載の通りであります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１ 報告セグメントの概要",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の報告セグメントとしております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額の算定方法",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告されている事業セグメントの会計処理の方法は、連結財務諸表作成において採用している会計処理の方法と概",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントの利益は、営業利益ベースの数値であります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部収益及び振替",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３ 報告セグメントごとの売上高、利益又は損失、資産、負債その他の項目の金額に関する情報及び収益の分解情報",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 575,752 17,028 111,350 704,131 △485,811 218,320",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これをセグメント別にみると、不動産賃貸事業については、外部テナントの賃料を増額改定したことから売上高は",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1,010,339千円(前年同期比4.5％増)、セグメント利益は334,549千円(前年同期比4.2％増)となりました",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "円(前年同期比38.3％増)、セグメント利益は39,376千円(前年同期2,247千円)となりました",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "月で安定して推移し、売上高は388,665千円(前年同期比31.4％増)、セグメント利益は91,156千円(前年同期比85.5％",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(セグメント情報等)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 321,037 2,247 49,128 372,413 △247,764 124,649",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１ セグメント利益の調整額△247,764千円は、セグメント間取引消去△8,440千円、各報告セグメントに配分し",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に報告セグメントに帰属しない一般管理費であ",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２ セグメント利益は、中間連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 334,549 39,376 91,156 465,082 △248,116 216,966",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注)１ セグメント利益の調整額△248,116千円は、セグメント間取引消去△8,425千円、各報告セグメントに配分し",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記事項（セグメント情報等）」に記載のとおりでありま",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、事業の種類別セグメントと同一の区分であります",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) １ 主要な事業の内容欄には、セグメント情報に記載された名称を記載しております",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの名称 従業員数(名)",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これをセグメント別にみると、不動産賃貸事業については、土産物と蕎麦・甘味を提供する新たな飲食店舗「歌",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "売店事業においては、増加傾向にある外国人観光客に魅力的な商品を揃えていく他、マーケティングや在庫管理",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、プラスチックゴミ削減や在庫管理の徹底による食",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売店事業においては、増加傾向にある外国人観光客に魅力的な商品を揃えていく他、マーケティングや在庫管理",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、プラスチックゴミ削減や在庫管理の徹底による食",
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "興行収入146億円！歌舞伎の知られざるビジネスモデル | 週刊ダイヤモンド ここが見どころ | ダイヤモンド・オンライン",
+    "url": "https://diamond.jp/articles/-/102125",
+    "pass": 3
+   },
+   {
+    "quote": "興行収入146億円！歌舞伎の知られざるビジネスモデル",
+    "url": "https://diamond.jp/articles/-/102125",
+    "pass": 3
+   },
+   {
+    "quote": "その知られざるビジネスモデルに迫る",
+    "url": "https://diamond.jp/articles/-/102125",
+    "pass": 3
+   },
+   {
+    "quote": "だが、それだけでなく、「興行」という収益の変動が大きい事業でありながら、安定的に利益を生み出すビジネスモデルを確立させることに成功したからという側面もある",
+    "url": "https://diamond.jp/articles/-/102125",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社情報 - 歌舞伎座 — 会社情報 - 歌舞伎座 歌舞伎座 https://www.kabuki-za.co.jp > annai",
+    "url": "https://www.kabuki-za.co.jp/annai/",
+    "pass": 3
+   },
+   {
+    "quote": "歌舞伎座 - Wikipedia — 歌舞伎座 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 歌舞伎座",
+    "url": "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - 歌舞伎座 — 決算 短信 - 歌舞伎座 歌舞伎座 https://www.kabuki-za.co.jp > annai > k_jyouhou",
+    "url": "https://www.kabuki-za.co.jp/annai/k_jyouhou.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 最新情報 | 歌舞伎座 — 会社情報 - 最新情報 | 歌舞伎座 歌舞伎座 https://www.kabuki-za.co.jp > news_archives > annai",
+    "url": "https://www.kabuki-za.co.jp/news_archives/annai/",
+    "pass": 3
+   },
+   {
+    "quote": "【 歌舞伎座 】[9661] 決算 発表や業務・財務情報 | 日経電子版 — 【 歌舞伎座 】[9661] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=9661",
+    "pass": 3
+   },
+   {
+    "quote": "決算 公告 | 歌舞伎座 — 決算 公告 | 歌舞伎座 歌舞伎座 https://www.kabuki-za.co.jp > annai > koukoku",
+    "url": "https://www.kabuki-za.co.jp/annai/s/koukoku.html",
+    "pass": 3
+   },
+   {
+    "quote": "歌舞伎座 【9661】の 事業 内容 - キタイシホン — 歌舞伎座 【9661】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/9661/business",
+    "pass": 3
+   },
+   {
+    "quote": "歌舞伎座 の劇場施設情報 - 松竹 — 歌舞伎座 の劇場施設情報 - 松竹 松竹株式会社 https://www.shochiku.co.jp > theater > kabukiza > facility",
+    "url": "https://www.shochiku.co.jp/play/theater/kabukiza/facility/",
+    "pass": 3
+   },
+   {
+    "quote": "【 歌舞伎座 】[9661]企業概要 社員数や役員報酬・資本金 | 日経 ... — 【 歌舞伎座 】[9661]企業概要 社員数や役員報酬・資本金 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=9661",
+    "pass": 3
+   },
+   {
+    "quote": "歌舞伎座 ほか全国の公演情報、 インタビュー - チケットぴあ — 歌舞伎座 ほか全国の公演情報、 インタビュー - チケットぴあ チケットぴあ http://md.pia.jp > feature > stage > kabuki > matsui_kesako",
+    "url": "http://md.pia.jp/pia/feature/stage/kabuki/matsui_kesako.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "社員紹介 先輩後輩 インタビュー を更新しました。 - 歌舞伎座舞台 — 社員紹介 先輩後輩 インタビュー を更新しました。 - 歌舞伎座舞台 歌舞伎座舞台 https://kabukizabutai.co.jp > saisin > news",
+    "url": "https://kabukizabutai.co.jp/saisin/news/4704/",
+    "pass": 3
+   },
+   {
+    "quote": "業界毎特集記事－株式会社新 歌舞伎座 代表取締役 松村 隆志 — 業界毎特集記事－株式会社新 歌舞伎座 代表取締役 松村 隆志 社長名鑑 https://shachomeikan.jp > industry_article",
+    "url": "https://shachomeikan.jp/industry_article/2596",
+    "pass": 3
+   },
+   {
+    "quote": "08 歌舞伎座 舞台 足立安男 - 歌舞伎・演劇の世界｜松竹株式会社 — 08 歌舞伎座 舞台 足立安男 - 歌舞伎・演劇の世界｜松竹株式会社 松竹株式会社 https://www.shochiku.co.jp > interview > vol8-1 > vol8-2",
+    "url": "https://www.shochiku.co.jp/play/enjoy/interview/vol8-1/vol8-2/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kabuki-za.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/guide/kobikihiroba_list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/miyage/kobiki/hiroba.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/kairou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/annai/nen.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/annai/soukai.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/annai/jimu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/annai/nen2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/siryo/transition.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/siryo/foods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/siryo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/kairou/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/kairou/images/gal/teien01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/kairou/images/gal/teien02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/siryo/archive",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/04/240407by.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/2611kbmp01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/2610kbmp02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/10/202608houkokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2026/05/202602yuhoall.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/10/202508houkokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2025/06/202502yuhoall.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kabuki-za.co.jp/wp-content/uploads/2024/10/202408houkokusho.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://salon.jp/articles/nishino/s/Umq3SGzbHTd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/102125",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/9661/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://md.pia.jp/pia/feature/stage/kabuki/matsui_kesako.jsp",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "歌舞伎座",
+   "results": [
+    "https://www.kabuki-za.co.jp/",
+    "https://www.kabuki-bito.jp/theaters/kabukiza/",
+    "https://www.kabukiweb.net/theatres/kabukiza/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7",
+    "https://www.shochiku.co.jp/play/theater/kabukiza/",
+    "https://www.kabuki-bito.jp/",
+    "https://ja.wikipedia.org/wiki/歌舞伎座"
+   ]
+  },
+  {
+   "query": "歌舞伎座 ビジネスモデル",
+   "results": [
+    "https://salon.jp/articles/nishino/s/Umq3SGzbHTd",
+    "https://diamond.jp/articles/-/102125",
+    "https://note.com/entamelab/n/nf2bd3d1f0e5d",
+    "https://www.kabuki-za.co.jp/annai/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7",
+    "https://www.shochiku.co.jp/play/theater/kabukiza/history/",
+    "https://invest-strategist.com/kabukiza-ja/",
+    "https://www.nikkei.com/article/DGXZQOUC140OU0U5A410C2000000/",
+    "https://consovation.com/【株式会社歌舞伎座】伝統と成長戦略が生み出す/",
+    "https://www.kabuki-za.co.jp/annai/k_jyouhou.html"
+   ]
+  },
+  {
+   "query": "歌舞伎座 決算説明資料",
+   "results": [
+    "https://www.kabuki-za.co.jp/annai/k_jyouhou.html",
+    "https://www.kabuki-za.co.jp/news_archives/annai/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=9661",
+    "https://www.kabuki-za.co.jp/annai/",
+    "https://www.kabuki-za.co.jp/annai/s/koukoku.html",
+    "https://www.kabuki-za.co.jp/annai/k_ysh.html",
+    "https://www.shochiku.co.jp/company/ir/statement/",
+    "https://www.fse.or.jp/files/lis_tkj/26041496010.pdf",
+    "https://treelazy.com/stock-jp/9661/conference",
+    "https://irbank.net/9661/ir"
+   ]
+  },
+  {
+   "query": "歌舞伎座 事業系統図",
+   "results": [
+    "https://www.kabuki-za.co.jp/annai/",
+    "https://kitaishihon.com/company/9661/business",
+    "https://www.shochiku.co.jp/play/theater/kabukiza/facility/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%8C%E8%88%9E%E4%BC%8E%E5%BA%A7",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=9661",
+    "https://www.kabuki-za.co.jp/sitemap/",
+    "https://www.shinkabukiza.co.jp/corp-prof/",
+    "https://www.kabuki-bito.jp/theaters/kabukiza/",
+    "https://www.chuo-kanko.or.jp/pages/company_details/130001",
+    "https://ja.wikipedia.org/wiki/歌舞伎座"
+   ]
+  },
+  {
+   "query": "歌舞伎座 社長 インタビュー",
+   "results": [
+    "http://md.pia.jp/pia/feature/stage/kabuki/matsui_kesako.jsp",
+    "https://www.kabuki-za.co.jp/annai/",
+    "https://kabukizabutai.co.jp/saisin/news/4704/",
+    "https://shachomeikan.jp/industry_article/2596",
+    "https://www.shochiku.co.jp/play/enjoy/interview/vol8-1/vol8-2/",
+    "https://www.youtube.com/watch?v=TNiwI8zYVtA",
+    "https://net.keizaikai.co.jp/archives/1554",
+    "https://www.todaishimbun.org/15kataokanizaemoninterview_20260413/",
+    "https://tsumugu.yomiuri.co.jp/acts/kabuki-interview-2312-nakamura-toranosuke/",
+    "https://kigyo-scope.jp/company/9661/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部4頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部4頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部4頁・検索5回）"
+ }
+}

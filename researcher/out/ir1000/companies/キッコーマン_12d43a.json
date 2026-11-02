@@ -1,0 +1,1515 @@
+{
+ "name": "キッコーマン",
+ "aliases": [],
+ "context": "証券コード2801／食料品／プライム（内国株式）／2026.03期 売上高745,539百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:05:08.814147+00:00",
+ "official_url": "https://www.kikkoman.co.jp/",
+ "identified_by": "search:yahoo_jp:キッコーマン",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1917年",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "5164億4000万円（グループ計、2022年3月期）",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "7686名（グループ計、2022年3月現在）",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（人）",
+    "value": "平均年齢（歳） 平均勤続年数（年） 平均年間給与（円） 平均年間給与の 対前事業年度増減率 （％）",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "label": "従業員数（人）",
+    "value": "平均年齢（歳） 平均勤続年数（年） 平均年間給与（円） 平均年間給与の 対前事業年度増減率（％）",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "label": "全従業員",
+    "value": "従業員 臨時雇用者",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "平均年間賃金① ＝総賃金(Ａ)÷人員数(Ｂ) 平均年間賃金② ＝総賃金(Ｃ)÷人員数(Ｄ) (①÷②)×100％",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "label": "全従業員",
+    "value": "平均年間賃金⑤ ＝総賃金(Ａ＋Ｅ)÷人員数(Ｂ＋Ｆ) 平均年間賃金⑥ ＝総賃金(Ｃ＋Ｇ)÷人員数(Ｄ＋Ｈ) (⑤÷⑥)×100％",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/making.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/shoyu_mirin.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/mirinsweets.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/honmirin_plus_recipes.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/shirataki/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/daikonhakusai_tsukaikiri.html?utm_source=homecook&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/pork_komagire/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/shiratamako/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/hiratake/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が商品を体験するカスタマーエクスペリエンス（CX：顧客体験価値）を高めることは、企業のブランディングに貢献します",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の意識の変化が社風を変え、その社風がブランドとして顧客や社外へ伝わっていきます",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客との密なコミュニケーションで体験価値を創造する",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様相談センター",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 「コーポレート・ガバナンスの概要」「監査の状況」の節は個人の氏名を含むため、現在は審査を経た API の利用者に提供しています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "ＩＴやデジタルなどの技術も活用することにより、お客様への提供価値を高め、高付加価値化や生産性向上を図ってまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "「食と健康」分野の取り組みは、当社グループにとって個別の社会貢献活動ではなく、商品・サービス、レシピ・食生活提案、情報提供、食育、食文化の国際交流等を通じて顧客接点を拡大し、ブランド価値の向上と中長期的な企業価値向上につなげる経営戦略の中核であると考えています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画2025-2027では、「世界のお客様のバランスの良い食生活の実現に貢献」を基本方針とし、各国・地域の栄養課題や食習慣の変化を事業機会として捉え、適切な塩分摂取、野菜の積極的な摂取、多様なたんぱく質の摂取について、各国・地域の状況に応じた取り組みを進める、としています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "具体的には、減塩タイプしょうゆや適塩レシピの拡充、野菜を摂りやすくする商品やレシピ提案、豆乳等の大豆由来の植物性たんぱく質の活用提案などを通じて、健康価値とおいしさを両立した選択肢を広げ、顧客接点の拡大と商品・ブランドの差別化を図っています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に選ばれ続ける価値を提供し、ブランド価値の向上や中長期的な成長機会の創出を通じて、企業価値の向上を目指してまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "お客様へは安全・安心かつ高品質な商品をお届けするとともに、お客様から寄せられる声を活かしてお客様満足の向上に取り組んでいます",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、加工・業務用分野では顧客のニーズに合わせたきめ細かな対応をし、事業の拡大を図りました",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、新たなユーザーの開拓のために「豆乳キッズ」を開発したほか、当社グループの豆乳類の強みであるフレーバー展開で新たに国内向け14品の開発を行ってまいりました",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "個別の政策保有株式については、毎年、取締役会において、取引先と当社グループの事業との関係性の観点から、保有目的、並びに企業価値向上に資するか否かの検証及び取引金額、投資収益などの定量的な評価を行い、保有の妥当性が認められない場合は、縮減するなど見直しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "2)銘柄数及び貸借対照表計上額 銘柄数（銘柄）貸借対照表計上額の合計額（百万円）非上場株式37972非上場株式以外の株式6149,769 （当事業年度において株式数が増加した銘柄） 銘柄数（銘柄）株式数の増加に係る取得価額の合計額（百万円）株式数の増加の理由非上場株式－－－非上場株式以外の株式22取引先持株会における定期購入（注）株式の併合、株式の分割、株式移転、株式交換、合併等の組織再編等で株式数が変動した銘柄を含めておりません",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "取引先持株会における定期購入により株式数が増加しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "キッコーマン 商品情報サイト｜キッコーマン株式会社",
+    "url": "https://www.kikkoman.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーマーケットなどの食料品店のみりんコーナーで販売されている商品には、3つのタイプがあります",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/making.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/making.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当時は商品の認知を広げるメディアがないため、なじみがないうちは需要がなく、問屋も高値で販売したためと考えられています",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "コラム：上中下でランク付け 江戸の商品戦略",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/faq.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/shoyu_mirin.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/mirinsweets.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/honmirin_plus_recipes.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/shirataki/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/daikonhakusai_tsukaikiri.html?utm_source=homecook&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/pork_komagire/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/shiratamako/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/hiratake/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "販売終了商品",
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/detail.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品・レシピ",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "常に革新と差異化に挑戦することで、世界中の人々のおいしさや健康につながる価値ある商品・サービスを提供していく",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "小売・サービス",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマンは1917年の設立以来、しょうゆを中心に調味料やワイン、豆乳など幅広い商品を展開されています（【図表】）",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、調味料はすぐに消費が伸びる商品ではありません",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "「しょうゆを使っていないエリアが世界にはまだ多くある」という視点こそ真のマーケティング発想であり、そのために商品の良さを消費者に伝える、普及していくという地道なマーケティング活動が、キッコーマンの約束である「こころをこめたおいしさで、地球を食のよろこびで満たします",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が商品を体験するカスタマーエクスペリエンス（CX：顧客体験価値）を高めることは、企業のブランディングに貢献します",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "商品カテゴリーやブランド別の戦略についてはいかがでしょうか",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "1つは自社商品を使った料理レシピの強化です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルを適切に活用しながら、レシピ提供を通してお客さまとの双方向のコミュニケーションに取り組んでいきたいですし、国内外のお客さまとの交流も活発化させることで、お客さまの声を商品づくりや店頭での販売促進にも活用していきたいと考えています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "商品・レシピ",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "商品・レシピ",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "商品情報サイト",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマンビジネスサービス㈱",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "㈱総武サービスセンター",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "同社の製品を当社が販売",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の商品を同社が販売",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社の商品を同社が保管・輸送",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "同社製品の販売業務を当社が受託",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "この認識のもとに当社グループは、消費者の皆様の声に耳を傾けるとともに、市場を洞察し、消費者の皆様にとって価値のある商品・サービスの提案を行ってまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、食品企業としての基本的使命は、安全で高品質の商品を適正な価格で安定的に供給することであると考えており、こうした基本の実践を着実に積み重ねてまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "２．「食と健康」に関わる商品とサービスの提供",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "東洋食品卸売事業では、これまで市場環境の変化に適切に対応することで順調に成長してきましたが、今後も、業務用市場と家庭用市場とのバランスの良い事業構造の構築や、物流基盤・人員・調達力・自社ブランド商品開発力の強化を進め、事業の推進力を高めてまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "」という「キッコーマンの約束」にこめた想いを実践していくために、商品、サービス、技術、ノウハウ、レシピなど当社グループの資産を十分活用して、世界中の人々のおいしさやこころとからだの健康に対して貢献してまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "今後とも、高い品質の商品を効率的に、かつ安全で衛生的に、安定して製造することを基本とした事業活動を行ってまいります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "常に革新と差異化に挑戦することで、世界中の人々のおいしさや健康につながる価値ある商品・サービスを提供していく",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "「みりん問答集」などをご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "どんな効果があるのかを詳しくご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "特徴をご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します！",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "pass": 1
+   },
+   {
+    "quote": "「みりん問答集」などをご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "どんな効果があるのかを詳しくご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "特徴をご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "ご紹介します！",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは本みりんのヒミツをご紹介しましょう",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "みりんが調味料として用いられるようになって間もない寛政7（1795）年、レシピ本『万宝料理秘密箱』に「赤貝和煮（やわらかに）」が紹介されています",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "その特徴を生かしたレシピをご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "pass": 1
+   },
+   {
+    "quote": "そのつくり方をご紹介します",
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/making.html",
+    "pass": 1
+   },
+   {
+    "quote": "関連の人気記事をご紹介します♪",
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/honmirin_plus_recipes.html",
+    "pass": 1
+   },
+   {
+    "quote": "豚こま切れ肉を使った簡単で人気のレシピをご紹介",
+    "url": "https://www.kikkoman.co.jp/homecook/series/pork_komagire/recipe.html",
+    "pass": 1
+   },
+   {
+    "quote": "普及には、「しょうゆを使って料理を作ってもらう」というステップが必要ですから、まずは料理をする方々にしょうゆを紹介するところからスタートしています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "そうした新しい食べ方や使い方を現地のプロモーションに活用するだけでなく、日本で紹介しています",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "株主優待制度のご紹介",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "あわせて、登録支援機関等の外部パートナーとの役割分担や契約内容の適正性を確認するとともに、第三者機関からの助言も踏まえ、再発防止に向けた管理体制の強化および継続的なモニタリングを実施し、その状況を、上記ガバナンス体制を通じて管理・報告しています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "仕入先とはコミュニケーションを通じて、公正な取引の徹底と良好なパートナーシップの構築に努めています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "無2315㈱リテールパートナーズ17,03917,039安定的な営業関係取引の維持・強化が保有の目的です",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "ビジネスモデルをより発展させ、グローバルNo.1の地位を強固なものとしていく",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "コロナ禍においても業績が好調に推移しており、売上高は5000億円を超え、海外で食料品の製造・販売も手掛ける唯一無二のビジネスモデルです",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "（事業系統図）",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "このように、当社グループは、商品、レシピ・食生活提案、技術、ノウハウ、ビジネスモデルのグローバル展開などの強みを活かし、各国・地域の食文化を尊重しながら、新しいおいしさの創造と健康的な食生活への貢献を進めています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、AI、データ、人財それぞれの基盤を整え、DXを推進することで、業務革新やビジネスモデルの変革を進め、生産性及び企業価値向上に努めております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2018年4月、キッコーマン株式会社は、新たな長期ビジョン『グローバルビジョン2030』を策定しました",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "2030年に向けて、「新しい価値創造への挑戦」をテーマに、キッコーマングループは大いなる挑戦をしてまいります",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "2008年です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "1957年千葉県生まれ",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "1981年慶應義塾大学大学院経営管理研究科修了後、キッコーマン入社",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "1989年タナベ経営入社、2009年より専務取締役コンサルティング統轄本部長、副社長を経て現職",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "1957年の創業以来、We are Business Doctorsを掲げて日本全国はもとより世界でも活動",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期（2025年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期（2025年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期（2024年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月期（2024年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期（2023年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月期（2023年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期（2022年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期（2022年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年3月期（2022年度）第1四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月期（2021年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期（2020年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期（2020年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月期（2020年度）第1四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月期（2019年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年（平成31年）3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期（2018年度）決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年3月期（2018年度）第2四半期決算説明会",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2018年（平成30年）3月期",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年08月05日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年04月27日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期（2025年度）決算説明会資料",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年09月18日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 資料編",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月15日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 財務データ編［Excel:173KB］",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 財務データ編",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年07月01日",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "1917年12月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1925年４月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1930年８月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1949年５月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1957年６月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1961年７月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1961年10月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1962年２月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1962年10月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1964年10月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1969年６月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1970年３月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1972年３月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1980年10月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1983年６月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1986年８月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "1990年１月",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "現在の売上比率は、海外7割に対して国内は3割",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "また、次の４部門は「第５ 経理の状況 １ 連結財務諸表等（１）連結財務諸表 連結財務諸表注記」に掲げるセグメントの区分と同一であります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "（注）１．主要な事業の内容欄には、セグメントの名称を記載しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの名称",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "＜セグメントの業績の概要＞",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "セグメントの業績の概要は次のとおりであります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の生産実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "（注）金額は販売価格によっており、セグメント間の取引については相殺消去しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の販売実績をセグメントごとに示すと、次のとおりであります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "（注）セグメント間の取引については相殺消去しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループの当連結会計年度の研究開発費は、国内及び海外食料品製造・販売事業と国内その他事業のバイオケミカル分野の研究開発に関わるものであり、各セグメント別の研究開発活動は次のとおりであります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "当連結会計年度の設備投資金額（無形資産を含む）は70,910百万円であり、事業の種類別セグメントごとの内訳は次のとおりであります",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "(1）提出会社 2026年３月31日現在 事業所名(所在地)セグメントの名称設備の内容帳簿価額従業員数（人） 建物及び構築物(百万円)機械装置及び運搬具（百万円）土地（百万円）(面積㎡)使用権資産(百万円)その他(百万円)合計(百万円) 野田本社(千葉県野田市)全社その他設備1,151－673599422,46746 (35,015)",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "(2）国内子会社 2026年３月31日現在 会社名事業所名(所在地)セグメントの名称設備の内容帳簿価額従業員数（人） 建物及び構築物(百万円)機械装置及び運搬具（百万円）土地（百万円）(面積㎡)使用権資産(百万円)その他(百万円)合計(百万円) キッコーマン食品㈱野田工場(千葉県野田市)国内 食料品製造・販売生産設備3,4974,3792,04996385411,743169 (267,556)",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "新設等会社名事業所名（所在地）セグメントの名称設備の内容投資予定総額資金調達方法着手及び完了予定年月完成後の増加能力総額（百万円）既支払額（百万円）着手完了KIKKOMAN FOODS,INC.ウィスコンシン州ジェファーソン工場海外 食料品製造・販売しょうゆ及びしょうゆ関連調味料等製造設備79,88947,010自己資金2024年４月2026年９月－（注）ウィスコンシン州ジェファーソン工場の完了予定年月2026年９月は出荷開始時期です",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "1年で倍増するような急成長はありませんが、着実に伸びていくのが特長であり、見方を変えれば強みと言えます",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "日々の業務と将来のことを関連させながら両輪を回していくことが大事ですし、キッコーマンの約束や各部門が目指すべき方向、強みとは何かなどについて一人一人に考えてもらうことが重要です",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "ホームページで公開しているレシピの閲覧数は月1000万PV（ページビュー）に上っており、レシピは当社の強みと言える部分",
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "pass": 3
+   },
+   {
+    "quote": "食品ロス削減は、出荷後の規格外品の削減、生産計画と在庫の適正化などの削減施策を推進しましたが、2025年度は生産段階での規格外品が多く発生し、2018年度比で14.5％の増加になりました",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "このように、当社グループは、商品、レシピ・食生活提案、技術、ノウハウ、ビジネスモデルのグローバル展開などの強みを活かし、各国・地域の食文化を尊重しながら、新しいおいしさの創造と健康的な食生活への貢献を進めています",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "こうした中、当社グループは、グローバル企業である強みを活かし、事業及び展開地域を多様化することによって、特定地域及び特定事業の変動が全体に及ぼす影響を限定的にできるような体制を強化しております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "また、新たなユーザーの開拓のために「豆乳キッズ」を開発したほか、当社グループの豆乳類の強みであるフレーバー展開で新たに国内向け14品の開発を行ってまいりました",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "グローバルビジョン2030 | キッコーマン グループ 企業情報 ... — グローバルビジョン2030 | キッコーマン グループ 企業情報 ... Kikkoman Corporation https://www.kikkoman.com > ... > 経営の考え方",
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマンビジネス サービス株式会社 - Compalyze — キッコーマンビジネス サービス株式会社 - Compalyze Compalyze https://compalyze.co.jp > ... > BPO・アウトソーシング",
+    "url": "https://compalyze.co.jp/company/1040001072505",
+    "pass": 3
+   },
+   {
+    "quote": "過去最高益 キッコーマン の意外な利益構成 右肩上がりの成長 ... — 過去最高益 キッコーマン の意外な利益構成 右肩上がりの成長 ... 本宮会計センター https://www.motomiya-mcs.jp > newswave",
+    "url": "https://www.motomiya-mcs.jp/newswave/2112",
+    "pass": 3
+   },
+   {
+    "quote": "【 キッコーマン 】現地適応力で広げた“世界の味” - note — 【 キッコーマン 】現地適応力で広げた“世界の味” - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/joyous_sayyou/n/n3ebc3740a9f7",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 | キッコーマン グループ 企業情報サイト — 決算説明 会 資料 | キッコーマン グループ 企業情報サイト Kikkoman Corporation https://www.kikkoman.com > ... > IR情報 > IR資料館",
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | キッコーマン グループ 企業情報サイト — IR情報 | キッコーマン グループ 企業情報サイト Kikkoman Corporation https://www.kikkoman.com > ...",
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IR資料館 | キッコーマン グループ 企業情報サイト — IR資料館 | キッコーマン グループ 企業情報サイト Kikkoman Corporation https://www.kikkoman.com > トップページ > IR情報",
+    "url": "https://www.kikkoman.com/jp/ir/lib/",
+    "pass": 3
+   },
+   {
+    "quote": "【 キッコーマン 】[2801]IR情報 中期経営計画や 決算 短信 | 日経 ... — 【 キッコーマン 】[2801]IR情報 中期経営計画や 決算 短信 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2801",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン のIR 資料 - 2801 / プライム / 食料品 — キッコーマン のIR 資料 - 2801 / プライム / 食料品 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/2801/library",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン 株式会社 — 有価証券報告書テキスト（最新） — キッコーマン 株式会社 — 有価証券報告書テキスト（最新） EDINET DB https://edinetdb.jp > 食料品 > キッコーマン株式会社",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン グループ 企業情報サイト - Kikkoman Corporation — キッコーマン グループ 企業情報サイト - Kikkoman Corporation Kikkoman Corporation https://www.kikkoman.com > corporate",
+    "url": "https://www.kikkoman.com/jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン 株式会社 - 導入事例 - MCFrame — キッコーマン 株式会社 - 導入事例 - MCFrame MCFrame https://www.mcframe.com > case > kikkoman",
+    "url": "https://www.mcframe.com/case/kikkoman",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン の — キッコーマン の Public Technologies (PUBT) PDF https://docs.publicnow.com > viewDoc",
+    "url": "https://docs.publicnow.com/viewDoc.aspx?filename=47414\\EXT\\6A5BBD547EC7176EFE84D35572A1122AEB27B5CA_B26D14275DA78DF8F65842A8FECA561955CCA1D3.PDF",
+    "pass": 3
+   },
+   {
+    "quote": "【Turning Point賢者の選択】 キッコーマン 株式会社 代表 ... — 【Turning Point賢者の選択】 キッコーマン 株式会社 代表 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Br4IH7762_E",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン社長 、国内食品企業の買収に関心 500億円規模を ... — キッコーマン社長 、国内食品企業の買収に関心 500億円規模を ... 日本経済新聞 https://www.nikkei.com > マーケット > 企業・業績",
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン 名誉会長 茂木友三郎 | 栗山英樹 ザ・トップ ... — キッコーマン 名誉会長 茂木友三郎 | 栗山英樹 ザ・トップ ... NHK ONE https://www.web.nhk > ...",
+    "url": "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/KWYYR9LL2K",
+    "pass": 3
+   },
+   {
+    "quote": "キッコーマン の中野祥三郎 社長 米国のしょうゆ事業、10年間 ... — キッコーマン の中野祥三郎 社長 米国のしょうゆ事業、10年間 ... 産経ニュース https://www.sankei.com > 経済 > 産業・ビジネス",
+    "url": "https://www.sankei.com/article/20251003-IR6SX4GD6VGW5FWQUUZ6KIZZIY/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "また、開発・生産・物流・販売等の業務を担うシステムや、グループ経営及び法人・個人に関する重要情報を保持しており、保守・保全の対策を講じるとともに、情報管理体制や情報セキュリティ体制の強化に努めております",
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kikkoman.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/?utm_source=common&utm_medium=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/features.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/making.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/faq.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/shoyu_mirin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/mirinsweets.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/honmirin_plus_recipes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/shirataki/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/theme/popular/daikonhakusai_tsukaikiri.html?utm_source=homecook&utm_medium=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/pork_komagire/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/shiratamako/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/hiratake/recipe.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/nira/detail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/kiriboshi/detail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/homecook/series/chirimen/detail.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_img01_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn01_hover.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn01_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn02_hover.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kikkoman.co.jp/enjoys/mirin/img/making_process_flow_btn02_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.com/jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kikkoman.com/jp/ir/assets/2801_2025yh.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://edinetdb.jp/company/E00435/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Br4IH7762_E",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キッコーマン",
+   "results": [
+    "https://www.kikkoman.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3",
+    "https://www.kikkoman.com/jp/",
+    "https://www.youtube.com/user/KikkomanJP",
+    "https://www.facebook.com/kikkoman.jp/?locale=ja_JP",
+    "https://x.com/kikkoman_desu",
+    "https://ja.wikipedia.org/wiki/キッコーマン",
+    "https://en.wikipedia.org/wiki/Kikkoman",
+    "https://www.kikkoman.co.jp/kikkoman/",
+    "https://www.kikkoman.com/en/"
+   ]
+  },
+  {
+   "query": "キッコーマン ビジネスモデル",
+   "results": [
+    "https://www.kikkoman.com/jp/corporate/management/vision2030.html",
+    "https://review.tanabeconsulting.co.jp/100fcc/30915/",
+    "https://compalyze.co.jp/company/1040001072505",
+    "https://www.motomiya-mcs.jp/newswave/2112",
+    "https://note.com/joyous_sayyou/n/n3ebc3740a9f7",
+    "https://www.kikkoman.com/jp/kbs/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3",
+    "https://www.mcframe.com/case/kikkoman",
+    "https://jbpress.ismedia.jp/articles/-/97072",
+    "https://consovation.com/ビジネスモデルやir資料から読み解く-キッコーマ/"
+   ]
+  },
+  {
+   "query": "キッコーマン 決算説明資料",
+   "results": [
+    "https://www.kikkoman.com/jp/ir/lib/presentation/",
+    "https://www.kikkoman.com/jp/ir/",
+    "https://www.kikkoman.com/jp/ir/lib/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2801",
+    "https://www.buffett-code.com/company/2801/library",
+    "https://edinetdb.jp/company/E00435/presentations/",
+    "https://irbank.net/2801/ir",
+    "https://www.kikkoman.com/jp/ir/lib/result/"
+   ]
+  },
+  {
+   "query": "キッコーマン 事業系統図",
+   "results": [
+    "https://www.kikkoman.com/jp/ir/assets/2801_2025yh.pdf",
+    "https://edinetdb.jp/company/E00435/text",
+    "https://www.kikkoman.com/jp/corporate/",
+    "https://www.mcframe.com/case/kikkoman",
+    "https://docs.publicnow.com/viewDoc.aspx?filename=47414\\EXT\\6A5BBD547EC7176EFE84D35572A1122AEB27B5CA_B26D14275DA78DF8F65842A8FECA561955CCA1D3.PDF",
+    "https://job.mynavi.jp/28/pc/search/corp439/outline.html",
+    "https://ciy-work.com/company-research/kikkoman-134",
+    "https://kitaishihon.com/company/2801/human-capital",
+    "https://www.bigcompany.jp/useful/14489_compa_090/",
+    "https://moat-sensei.com/stocks/2801/business"
+   ]
+  },
+  {
+   "query": "キッコーマン 社長 インタビュー",
+   "results": [
+    "https://www.youtube.com/watch?v=Br4IH7762_E",
+    "https://www.nikkei.com/article/DGXZQOUB226SJ0S6A620C2000000/",
+    "https://www.web.nhk/tv/pl/series-tep-615XJRJY38/ep/KWYYR9LL2K",
+    "https://www.kikkoman.com/jp/corporate/management/message.html",
+    "https://www.sankei.com/article/20251003-IR6SX4GD6VGW5FWQUUZ6KIZZIY/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%83%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3",
+    "https://kitaishihon.com/company/2801/board-of-director",
+    "https://www.nhk.jp/p/rs/PNR5MMWJ3Q/episode/re/MKN47VRZ94/",
+    "https://www.ungcjn.org/ca2030/fairness/top_interview/interview05.html",
+    "https://www.nikkeimm.co.jp/35th/detail/id=940"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式23頁／PDF・画像8件／外部8頁・検索5回）"
+ }
+}

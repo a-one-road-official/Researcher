@@ -1,0 +1,1888 @@
+{
+ "name": "シグマ光機",
+ "aliases": [],
+ "context": "証券コード7713／精密機器／スタンダード（内国株式）／2026.05期 売上高11,439百万円 営業利益率10.3%",
+ "researched_at": "2026-11-02T21:02:15.754218+00:00",
+ "official_url": "https://www.sigma-koki.com/",
+ "identified_by": "search:yahoo_jp:シグマ光機",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1977年4月",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "386名（2026年5月31日現在）",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "シグマ光機従業員持株会",
+    "value": "212,600 3.00%",
+    "url": "https://www.sigma-koki.com/ir/holder/stocks/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "11,367 11,213 11,580 11,439 △1.2% 13,805",
+    "url": "https://www.sigma-koki.com/ir/zaimu/renketsu/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "(百万円） 3,382 2,505  5,441  8,190",
+    "url": "https://www.sigma-koki.com/ir/zaimu/renketsu/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "9,454 9,287 9,380 9,245 △1.4% 11,180",
+    "url": "https://www.sigma-koki.com/ir/zaimu/tantai/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "(百万円） 2,725 2,018  4,383  6,615",
+    "url": "https://www.sigma-koki.com/ir/zaimu/tantai/",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "△141（利益減少）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "label": "売上高",
+    "value": "△141（利益減少）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報・ストア",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお問い合わせ",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ基本方針",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「精度の高い製品を、より早く」",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TBS「健康カプセル ゲンキの時間」で当社取扱製品「体水分計」が紹介されました",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品についての",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・ストア",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお問い合わせ",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ基本方針",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品仕様・価格表(1981年)",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品選定ガイド(1983年)",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年 7月 本社・日高工場建設、主力機能移転",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "規格製品用総合カタログ初版を発行",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "埼玉県入間郡日高町(現・埼玉県日高市)下高萩新田に本社・工場を建設し、本社および工場の主力を移転",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ用光学研磨製品の量産を目的として、上海西格瑪光机有限公司を設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光学薄膜製品の生産体制を拡充するため、",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "機器製品の中国生産を開始",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光学素子・薄膜製品・光学システム製品の設備を増強",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "光学素子・薄膜製品や光学システム製品の生産のためのオプト・メカ・ファクトリー化と光学基本機器製品の生産能力の向上",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "中国域内の製品の調達や販売等の現地輸出入業務の拡大を主目的として、中国上海市の上海西格瑪光机有限公司の子会社として上海西格瑪総合国際貿易有限公司を設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の製品案内はこちらから",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Webカタログや製品検索・購入が可能です",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・ストア",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお問い合わせ",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ基本方針",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "光学基本機器製品（約3,400種）",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "光学素子・薄膜製品（約10,000種）",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "自動応用製品（約350種）",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザシステム製品",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "光学モジュール、レンズユニット、レーザプロセシングシステム、レーザ応用製品他",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・バイオ関連製品",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "光学システム製品",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "調芯装置、観察光学系、受託特注製品",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の製品案内はこちらから",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Webカタログや製品検索・購入が可能です",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・ストア",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお問い合わせ",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ基本方針",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の製品案内はこちらから",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Webカタログや製品検索・購入が可能です",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報・ストア",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のお問い合わせ",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品セキュリティ基本方針",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "［光ソリューション］その言葉は、シグマ光機には欠かせないものです",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ用ユニット製品の開発、生産、販売に積極的に取り組んで参りました",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "そして更に、シグマ光機がさらに目指すのは、お客様の研究開発の全工程をサポートする「ワンストップサービス」です",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「精度の高い製品を、より早く」",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "商品企画・開発から試作、検証まで一貫してサポートする体制を整えています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "光を扱うために必要な部品やユニット製品です",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "システム製品事業",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の総合力を活かしたシステム製品です",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "光学素子・薄膜製品",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "光学基本機器製品",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "自動応用製品",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・ヘルスケア製品",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の製品は、研究室の実験環境や製造現場等、 実用製品が作られる『前段階』で使われています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "大学・官公庁や民間企業の研究機関等では、当社光学製品を使用した実験環境や試作機等を利用して、原理究明や新技術の確立を目指しています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社光学製品等でレーザ光を集光させることで得られる高密度エネルギーを利用して、高精度な切削や切断加工、刻印を実現します",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社光学製品を組み込んだ検査装置を使って、レーザ光で対象物の表面を走査して得られる反射光により、対象物のキズや凹凸、異物の混入がないか等を検査します",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "微細な生体分子及び無色透明なサンプル等も観察可能な当社光学観察ユニット製品は、医療・バイオ業界等の研究開発用途、及び産業分野の分析装置等への組み込み用途として活用されています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "TBS「健康カプセル ゲンキの時間」で当社取扱製品「体水分計」が紹介されました",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "光学業界では当時先進的だったカタログ販売を展開し、無店舗販売によって成長が加速",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "無店舗販売を開始",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "●こんなところにシグマ光機 ー 光電融合 ● 製品紹介 体水分計 （ハイ ドロバランスメータ） / HBLS-03",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 新製品紹介 真空環境用集光レンズ （HFDLSQ-V/HFTLSQ-V）",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、 OEMパートナー",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Topics 製品紹介 体水分計（ハイドロバランスメータ） / HBLS-03",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Topics 新製品紹介 真空環境用集光レンズ（HFDLSQ-V/HFTLSQ-V）",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "地域における主要な商社・代理店向けの卸売価格を見直しました",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ツの孫会社を中心に、ブランド認知度向上及びオンライン販売の強化に取り組んだ結果、全体として",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "る主要な商社・代理店の卸値価格を見直しました",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "組みをご紹介したいと思います",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 続いてご紹介するのが、本年5月から一般販売を開始した、「脱水・熱中症」を定量的な数値で評価",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ なお、掲載されている画像は必ずしも各マーケットでご紹介する製品・技術そのものではありませんの",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "営業利益率(連結)",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強みはこちらから",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み – SIGMA KOKI シグマ光機株式会社コーポレートサイト",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/business/collaboration/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/sustainability/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir_category/company/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir_category/shareholders/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/document_category/yuho/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/document_category/setumei/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/zaimu/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/zaimu/renketsu/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/zaimu/tantai/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/holder/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/holder/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機の強み",
+    "url": "https://www.sigma-koki.com/ir/holder/kangen/",
+    "pass": 1
+   },
+   {
+    "quote": "●特許・商標出願による参入障壁の構築",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 自動応用製品は、バイオ業界向けの大口顧客における在庫調整が解消され、バイオ顕微鏡用ス",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●特許・商標出願による参入障壁の構築",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上総利益率",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期第1四半期決算の開示は、2026年10月9日(金)15:00以降を予定しております",
+    "url": "https://www.sigma-koki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革 – SIGMA KOKI シグマ光機株式会社コーポレートサイト",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年 シグマ光機㈱創立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代 総合カタログ初版を発行",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代 拠点拡大・海外進出・上場",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年 3月 能登工場設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年 7月 本社・日高工場建設、主力機能移転",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年 6月 大阪営業所（現大阪支店）開設",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 1月 技術センター開設",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年 6年 上海西格瑪光机設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1995年 7月 オプトシグマ設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1996年11月 日本証券業協会上場",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年 5月 タックコート株式会社設立",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代 ビジネスモデルの変革(産業用途向け量産対応）",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代 グローバル戦略の加速",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年～ 光産業を通じた社会貢献",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年4月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1982年5月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年10月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年11月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1989年3月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年7月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年6月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年1月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年6月",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "1977年4月",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/business/collaboration/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/sustainability/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年6月3日",
+    "url": "https://www.sigma-koki.com/sustainability/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第2四半期（中間期）業績予想及び通期業績予想の修正に関するお知らせ[PDF：95KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第1四半期決算短信[PDF：252KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会Q&A[PDF：111KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会資料（スクリプト付)[PDF：1,574KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和６年能登半島地震による影響に関するお知らせ(第五報)[PDF：108KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "令和６年能登半島地震による影響に関するお知らせ(第四報)[PDF：76KB]",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第2四半期（中間期）業績予想及び通期業績予想の修正に関するお知らせ[PDF：95KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第1四半期決算短信[PDF：252KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会Q&A[PDF：111KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会資料（スクリプト付)[PDF：1,574KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会資料[PDF：2,030KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算短信[PDF：511KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 第3四半期決算短信[PDF：236KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 第2四半期決算説明会資料[PDF：1,343KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 第2四半期(中間期)決算短信[PDF：250KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 第1四半期決算短信[PDF：241KB]",
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のあゆみ・沿革",
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第2四半期（中間期）業績予想及び通期業績予想の修正に関するお知らせ[PDF：95KB]",
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年5月期 第1四半期決算短信[PDF：252KB]",
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月期 通期決算説明会Q&A[PDF：111KB]",
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "2000年代 ビジネスモデルの変革(産業用途向け量産対応）",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "戦略成長：ビジネスモデル変革",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革（調芯システム）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革（体水分計）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 中期経営方針に沿った経営の4つの柱の一つである「ビジネスモデル変革」を推進し、前期後半から、",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "デルにおける持続的な成長と、新たなビジネスモデルへの変革による業容の拡大を図っております",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "戦略成長：ビジネスモデル変革",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革による戦略成長施策の展開を進めており、徐々に業績に寄与し始めております",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革（調芯システム）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ それでは、ここで、戦略成長施策である「ビジネスモデル変革」に関して、マーケット別に具体的な取り",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル変革（体水分計）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "そして更に、シグマ光機がさらに目指すのは、お客様の研究開発の全工程をサポートする「ワンストップサービス」です",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の多様化、競争の激化を背景に開発環境は日々厳しさを増しています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「お客様の欲しいものを形にすること」「お客様の満足度」の向上＝私たちの存在価値の向上であることを目指して",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "『お客様の欲しいを形に』をモットーに、シグマ光機グループの総合力を活かして、",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への感謝を胸に、常に最先端の技術に挑戦し、新しい価値の創出に取り組んでいます",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "研究者や技術者をはじめとするお客様から高い評価と厚い信頼を得ています",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "『最高品質・高付加価値』と『安定品質・市場流通価格』という二極化するお客様のニーズに対応しています",
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "材料特性を考慮しながら、光学素子を組み合わせデザインし、お客様の特注製品などの光学設計をしています",
+    "url": "https://www.sigma-koki.com/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご要望の光学特性に対して、最適なシミュレーションのご提示が可能です",
+    "url": "https://www.sigma-koki.com/business/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "環境関連の法令、お客様との取決め及び必要により定めた自主規定などを順守します",
+    "url": "https://www.sigma-koki.com/sustainability/environment/environment-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "シグマ光機取引先持株会",
+    "url": "https://www.sigma-koki.com/ir/holder/stocks/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループにおいては、特定顧客及び特定業界向けの業績依存度は低いながらも、生成AIやAIデータセンター",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,125,775 379,413 2,505,188 － 2,505,188",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,946,022 436,687 3,382,709 － 3,382,709",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 2,125,775 379,413 2,505,188",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,125,775 379,413 2,505,188",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益 2,946,022 436,687 3,382,709",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 2,946,022 436,687 3,382,709",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）顧客との契約から生じる収益は顧客の所在地を基礎とし、国又は地域に分類しております",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外販売先別売上高（連結）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先別売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＆お客様評価継続",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●半導体有望顧客からの光学ユニットの案件継続対応中",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いては、特定顧客及び特定業界向けの業績依存度が低い中、",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "向けにおける一部の大口顧客向け等が堅調に推移いたしまし",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "けにおける一部の大口顧客向けが停滞したこと等により、当",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▪顧客所在地別売上高・営業概況",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●顧客所在地別概況",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な投資内容としては、OEM顧客",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "電気 ・ ソフトウェア等の専門性を揃えた技術チームを構築し、顧客ニー",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "質第一」の姿勢を貫き、お客様のニーズに的確に応えてまいります",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "シグマ光機取引先持株会 507 7.16",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①大口顧客を含む、半導体等のエレクトロニクス業界向けの需要回復（光学素子・薄膜製品、光学基本機",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Q２： 調芯システムの顧客は、どの業界向けが多いのか",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①光学素子・薄膜製品（大口顧客を含むエレクトロニクス業界向け等）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 自動応用製品は、バイオ業界向けの大口顧客における在庫調整が解消され、バイオ顕微鏡用ス",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "分野向けにおける一部の大口顧客向けが停滞いたしました",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外販売先別売上高（連結）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先別売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＆お客様評価継続",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "に差があり、当社の大口顧客の一部は回復が遅れていたものの、2025年度第4四半期からその回",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●半導体有望顧客からの光学ユニットの案件継続対応中",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "備投資の回復が遅れておりましたが、2025年度下半期後半から既存顧客からの引き合いが徐々に",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 欧州地域は、欧州子会社が注力する地域・顧客の「選択と集中」の戦略を進めておりますが、地域",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "がら、当社孫会社を設置したドイツも徐々に回復してきているとともに、欧州地域・顧客の展開を",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "明な状況も、当社のお客様の足元の需要は好調に推移しております",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "医療機器製造販売企業と当社が持つ光技術の協働によって開発した管理医療機器「オキサモメーター OTLS-01(医療機器認証番号：303AFBZX00103000)」、当社独自で開発した電子機器製品「グルプレメーター（健康ガジェット品）」、「体水分計 HBLS-03(一般医療機器 特定保守管理医療機器届出番号：17B2X10009000002)」を販売しています",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "●一般医療機器 特定保守管理医療機器",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売単価の改善等により増益",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "そのような中、価格改定により販売単価",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一般医療機器 特定保守管理医療機器",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 特に、前期期中に実施した価格改定による販売単価の改善の他、海外地域の需要回復による海外",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●一般医療機器 特定保守管理医療機器",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "器・特定保守管理医療機器」として認証されております",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業別売上高構成比率",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等の注記） ……………………………………………………………………………………… 8",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメントの業績は、次のとおりであります",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "これら製品セグメント毎の概況により、全体として好調に推移いたしました",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、セグメント間の内部売上高を含む売上高は29億５千４百万円（前年同期比38.6％増）となり、営業利",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "測定関連の組立案件の反動減がありましたが、ポータブル医療機器製品の需要増加もあり、当事業セグメントは総",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "その結果、セグメント間の内部売上高を含む売上高は４億６千１百万円（前年同期比18.3％増）となり、営業利",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 調整額",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上高",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 262,486 17,623 280,110 (127,914) 152,196",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 608,857 78,050 686,908 (168,539) 518,368",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等の注記）",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．セグメント利益は、四半期連結損益計算書の営業利益と調整を行っております",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額は、セグメント間取引消去△17,133千円、全社費用△110,780千円で",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、全社費用は各報告セグメントに配分できない管理部門等に係る費用であり",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益の調整額は、セグメント間取引消去△32,968千円、全社費用△135,571千円で",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 YoY 実績 YoY 実績 YoY 構成比 期初予算比(額) 期初予算比(率)",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上高・営業損益（連結）２",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 実績 実績 構成比 YoY",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上高構成比率",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先別売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期実績 構成比 通期実績 構成比 上期予算 下期予算 通期予算 構成比 YoY YoY(%)",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究開発費・売上高構成比率（人件費＋部材費）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期別セグメント別売上高・営業損益",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 構成比 実績 構成比 実績 構成比 YoY",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ニクス業界向けには光学素子・薄膜製品セグメントの製造装置・検査装置組み込み用途のミラー及び球面レンズ",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や、自動応用製品セグメントの調芯システムを含む高精度位置決め用途の自動ステージの需要が増加傾向で推",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、医療分野・防衛分野向け等のシステム製品セグメントの需要も堅調に推移するとの見通",
+    "url": "https://www.sigma-koki.com/asset/data/261009_t-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年5月期セグメント別概況（連結）",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ム製品は堅調に推移いたしましたが、当事業セグメントは",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業セグメントは総じて横ばいに推移いたしました",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "▪海外売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ド認知度も向上し、Web経由の売上高は+39%成長、売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③米国・中国等の海外地域での需要回復（全セグメント）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A３： 売上高の増加や、光学素子・薄膜製品等の売上高構成比率の向上による製品 MIX の変化によって材料費等",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Q５： 2026 年 6 月の受注が好調だということだが、セグメント別の内訳を教えてほしい",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "A５： 全セグメントが好調に推移した",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 YoY 実績 YoY 実績 YoY 構成比 期初予算比(額) 期初予算比(率)",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別売上高・営業損益（連結）２",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 実績 実績 構成比 YoY",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 続きまして、セグメント別の業績となります",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "海外売上高構成比率",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売先別売上高構成比",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "通期実績 構成比 通期実績 構成比 上期予算 下期予算 通期予算 構成比 YoY YoY(%)",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "研究開発費・売上高構成比率（人件費＋部材費）",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "四半期別セグメント別売上高・営業損益",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "実績 構成比 実績 構成比 実績 構成比 YoY",
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営理念・方針・全社戦略 Philosophy - シグマ光機 — 経営理念・方針・全社戦略 Philosophy - シグマ光機 sigma-koki.com https://www.sigma-koki.com > 会社案内",
+    "url": "https://www.sigma-koki.com/company/philosophy/",
+    "pass": 3
+   },
+   {
+    "quote": "オプマ コプマ 統合報告書 2024 - シグマ光機 — オプマ コプマ 統合報告書 2024 - シグマ光機 sigma-koki.com PDF https://www.sigma-koki.com > asset > data > Integra...",
+    "url": "https://www.sigma-koki.com/asset/data/Integrated-Report-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "当社のあゆみ・沿革 History - シグマ光機 — 当社のあゆみ・沿革 History - シグマ光機 sigma-koki.com https://www.sigma-koki.com > 会社案内",
+    "url": "https://www.sigma-koki.com/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "賢明なる投資家のための「 シグマ光機 （7713）」徹底分析 ... — 賢明なる投資家のための「 シグマ光機 （7713）」徹底分析 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/open_azalea2045/n/na8970eda67f3",
+    "pass": 3
+   },
+   {
+    "quote": "シグマ光機 株式会社 - OptoSigma — シグマ光機 株式会社 - OptoSigma OptoSigma https://jp.optosigma.com > ja_jp > software__product",
+    "url": "https://jp.optosigma.com/ja_jp/software__product",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 資料 IR 資料 室 - シグマ光機 — 決算説明 会 資料 IR 資料 室 - シグマ光機 sigma-koki.com https://www.sigma-koki.com > IR資料室",
+    "url": "https://www.sigma-koki.com/document_category/setumei/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 IR 資料 室 - シグマ光機 — 決算 短信 IR 資料 室 - シグマ光機 sigma-koki.com https://www.sigma-koki.com > IR資料室",
+    "url": "https://www.sigma-koki.com/document_category/tansin/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト — IR情報 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト sigma-koki.com https://www.sigma-koki.com > ...",
+    "url": "https://www.sigma-koki.com/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー Calendar - シグマ光機 — IRカレンダー Calendar - シグマ光機 sigma-koki.com https://www.sigma-koki.com > IR情報",
+    "url": "https://www.sigma-koki.com/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "報告書 IR 資料 室 - シグマ光機 — 報告書 IR 資料 室 - シグマ光機 sigma-koki.com https://www.sigma-koki.com > IR資料室",
+    "url": "https://www.sigma-koki.com/document_category/houkoku/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト — 会社概要 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト sigma-koki.com https://www.sigma-koki.com > 会社案内",
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 内容 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト — 事業 内容 – SIGMA KOKI シグマ光機 株式会社コーポレートサイト sigma-koki.com https://www.sigma-koki.com > 事業案内",
+    "url": "https://www.sigma-koki.com/business/about/",
+    "pass": 3
+   },
+   {
+    "quote": "シグマ光機 株式会社 - OptoSigma — シグマ光機 株式会社 - OptoSigma OptoSigma https://jp.optosigma.com > software__motorize__motorize",
+    "url": "https://jp.optosigma.com/ja_jp/software__motorize__motorize",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ Message - シグマ光機 — 社長 メッセージ Message - シグマ光機 sigma-koki.com https://www.sigma-koki.com > 会社案内",
+    "url": "https://www.sigma-koki.com/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "スタッフ インタビュー 詳細 | シグマ光機 株式会社 採用 ... — スタッフ インタビュー 詳細 | シグマ光機 株式会社 採用 ... job-gear.net https://job-gear.net > ... > スタッフインタビュー一覧",
+    "url": "https://job-gear.net/sigmakoki/interview_d.htm?L=BCSDetail&ID=AB0616395752",
+    "pass": 3
+   },
+   {
+    "quote": "シグマ光機社長 に近藤氏 - 日本経済新聞 — シグマ光機社長 に近藤氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXNASDZ07H4J_X00C14A7TJ2000/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sigma-koki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/business/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/business/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/business/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/business/collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/sustainability/environment/environment-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir_news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir_category/settlement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir_category/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir_category/shareholders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/document_category/yuho/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/document_category/setumei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/zaimu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/zaimu/renketsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/zaimu/tantai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/holder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/holder/stocks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sigma-koki.com/ir/holder/kangen/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sigma-koki.com/asset/data/261009_t.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/260824_y.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/20260716_k.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/261009_t-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/20260827_r.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/houkoku-51_e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/20260716_QA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/20260716_scr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/businessmodel-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/businessmodel-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/businessmodel-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/business_img01-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/business_img02-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/business_img03-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/business_img04-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sigma-koki.com/asset/data/business_img05-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://job-gear.net/sigmakoki/interview_d.htm?L=BCSDetail&ID=AB0616395752",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シグマ光機",
+   "results": [
+    "https://www.sigma-koki.com/",
+    "https://jp.optosigma.com/ja_jp/application__laserprocessing__component",
+    "https://jp.optosigma.com/ja_jp/application__lwz",
+    "https://www.facebook.com/p/%E3%82%B7%E3%82%B0%E3%83%9E%E5%85%89%E6%A9%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-OptoSigma-100067584642019/",
+    "https://www.symphotony.com/manufacturers/sigmakoki/",
+    "https://jp.optosigma.com/ja_jp/community__comm02",
+    "https://www.instagram.com/sigmakoki/",
+    "https://jp.optosigma.com/",
+    "https://jp.optosigma.com/ja_jp/company__index",
+    "https://www.sigma-koki.com/ir/"
+   ]
+  },
+  {
+   "query": "シグマ光機 ビジネスモデル",
+   "results": [
+    "https://www.sigma-koki.com/company/philosophy/",
+    "https://www.sigma-koki.com/asset/data/Integrated-Report-2024.pdf",
+    "https://www.sigma-koki.com/company/history/",
+    "https://note.com/open_azalea2045/n/na8970eda67f3",
+    "https://jp.optosigma.com/ja_jp/software__product",
+    "https://www.sigma-koki.com/asset/data/20250717_k.pdf",
+    "https://jp.optosigma.com/ja_jp/category__opt__index",
+    "https://www.sigma-koki.com/business/strength/",
+    "https://www.sigma-koki.com/company/overview/",
+    "https://consovation.com/シグマ光機の魅力が詰まったビジネスモデルを徹/"
+   ]
+  },
+  {
+   "query": "シグマ光機 決算説明資料",
+   "results": [
+    "https://www.sigma-koki.com/document_category/setumei/",
+    "https://www.sigma-koki.com/document_category/tansin/",
+    "https://www.sigma-koki.com/ir/",
+    "https://www.sigma-koki.com/ir/calendar/",
+    "https://www.sigma-koki.com/document_category/houkoku/",
+    "https://www.sigma-koki.com/ir/document/",
+    "https://www.sigma-koki.com/ir/faq/",
+    "https://irbank.net/7713/ir",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20261009548383/",
+    "https://edinetdb.jp/company/E02323/presentations/"
+   ]
+  },
+  {
+   "query": "シグマ光機 事業系統図",
+   "results": [
+    "https://www.sigma-koki.com/company/overview/",
+    "https://www.sigma-koki.com/business/about/",
+    "https://www.sigma-koki.com/asset/data/Integrated-Report-2024.pdf",
+    "https://jp.optosigma.com/ja_jp/software__motorize__motorize",
+    "https://www.sigma-koki.com/company/history/",
+    "https://jp.optosigma.com/ja_jp/important__20190410",
+    "https://kitaishihon.com/company/7713/business",
+    "https://www.sigma-koki.com/sitemap/",
+    "https://jp.optosigma.com/ja_jp/application__guide-bio",
+    "https://www.sigma-koki.com/business/"
+   ]
+  },
+  {
+   "query": "シグマ光機 社長 インタビュー",
+   "results": [
+    "https://www.sigma-koki.com/company/message/",
+    "https://job-gear.net/sigmakoki/interview_d.htm?L=BCSDetail&ID=AB0616395752",
+    "https://photo.yodobashi.com/sigma/interview04.html",
+    "https://www.nikkei.com/article/DGXNASDZ07H4J_X00C14A7TJ2000/",
+    "https://news.mapcamera.com/maptimes/%E3%80%90sigma%E3%80%91-%E5%B1%B1%E6%9C%A8%E5%92%8C%E4%BA%BA%E7%A4%BE%E9%95%B7-%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%EF%BC%9Cpart3/",
+    "https://news.mynavi.jp/article/20250302-3139876/",
+    "https://jp.optosigma.com/ja_jp/community__comm05",
+    "https://www.nikkan.co.jp/articles/view/305771",
+    "https://blog.skeg.jp/archives/2026/03/sigma-yamaki-cpplus2026-interview.html",
+    "https://www.youtube.com/watch?v=gt8hpGgKCZQ"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）"
+ }
+}

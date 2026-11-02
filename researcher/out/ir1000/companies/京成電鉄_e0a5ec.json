@@ -1,0 +1,1137 @@
+{
+ "name": "京成電鉄",
+ "aliases": [],
+ "context": "証券コード9009／陸運業／プライム（内国株式）／2026.03期 売上高332,424百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:04:35.353651+00:00",
+ "official_url": "https://www.keisei.co.jp/",
+ "identified_by": "search:yahoo_jp:京成電鉄",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立",
+    "value": "明治42年6月30日 (1909年6月30日)",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "鉄道による一般運輸業　土地、建物の売買及び賃貸業",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "2,474名",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "214,157 252,338 296,509 319,314 332,424",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/incomestatement/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様へ",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クッキーとは、お客様がWEBサイトにアクセスした情報を数字英字により記号化し、ご利用されているパソコン内に記録として保存する手法です",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の安全を守る取り組みの強化",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者数が激減します",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年以降、訪日外国人数も空港発着の鉄道利用者数も回復してきています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "タクシー事業では、東京都内及び千葉・茨城県内で輸送サービスを提供し、お客様の利便性向上に向けた各種施策に積極的に取り組むとともに、京成グループタクシーブランドの向上に努めています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "京成エリアを中心に、お客様から喜ばれ、ご満足いただける商品・サービスを提供するとともに、京成グループ全体の沿線価値・ブランド価値の向上に寄与しています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業では、飲食・映画業、ホテル業、広告代理業、旅行業などを展開しており、 お客様の生活に「楽しさ」と「潤い」を提供しています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "その他の事業は、鉄道車両整備業、保険代理業、自動車教習所業など多彩な事業を展開し、お客様の暮らしをサポートしています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "感染症が著しく流行した場合には、外出自粛による需要減退や、従業員や顧客の感染予防策構築などに伴う収益の減少及び新たな経営コストの発生により、当社グループの経営成績及び財政状態が影響を受ける可能性があります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "また、同地域において大地震・台風及び大雪等の自然災害が発生した場合、あるいは当社グループの施設を対象としたテロ行為、様々な事故、電力等の供給制限が発生した場合、顧客や従業員の罹災、固定資産や棚卸資産へ被害が及ぶこともあり、また、消費意欲の低下による収益の減少や復旧改善コストの増加により、当社グループの経営成績及び財政状態が影響を受ける可能性があります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業エリア内には成田国際空港があり、運輸業における空港利用者に係る営業収益の依存度は比較的高い状況にあります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "不適切なお客様対応を行った場合、又は情報開示を適時適正に実施しなかった場合、当社グループの社会的信用が失墜する惧れがあります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "重要な提携先や取引先において不測の事故や事件が発生し、又は経営が悪化した場合、当社グループの事業に支障を来す惧れがあります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "のさらなる機能強化に伴い、空港利用者も今後さらに増加していくことが見込まれており、空",
+    "url": "https://www.keisei.co.jp/keisei/tetudou/accessj/assets/pdf/sougokakuju.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "８．お問い合わせ 先 京成お客様ダイヤル ０５７０－０８１－１６０（ナビダイヤル）",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ー・ジャパン運航便にご搭乗のお客様を対象に、スカイライナー券の割引発売を実施し ま",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "成田空港と都心間の移動をよりスピーディかつお得にご利用いただくことで、お客様の利便",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご搭乗のお客様、対象のスカイライナーをご利用のお客様",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※11月1日（日）のジェットスター・ジャパン運航便にご搭乗のお客様は10月31日（土）の",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※12月18日（金）のジェットスター・ジャパン運航便にご搭乗のお客様は12月19日（土）の",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（５）問い合わせ：京成お客様ダイヤル 0570-081-160（ナビダイヤル）",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様へ",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様にはご不便をおかけいたしますが、ご",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "京成グループをご利用のお客様に季節を感じていただく",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/1EpXTS4S.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この装飾は、いつも京成グループをご利用いただいているお客様に 日頃の感謝をお",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/1EpXTS4S.pdf",
+    "pass": 2
+   }
+  ],
+  "何を": [
+   {
+    "quote": "スカイライナー予約サービス",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "定期券WEB予約サービス",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京成ロケーションサービス",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "予約サービス",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様へ",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "成田空港の機能強化に対応した輸送やサービスの継続的な強化に加え、「第2の柱」である不動産業を中心に事業エリアの生活ニーズを捉える事業やエリア競争力への寄与が期待される事業の強化を進め、企業価値の向上と安定した収益基盤の確立を図ります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "京成グループは、環境優位性のある移動手段である公共交通事業を展開していますが、気候変動がもたらす様々な影響を踏まえ、グループ全体で、各交通サービスの車両における環境性能の向上や、環境に配慮した施設・商品・サービスの企画等に取り組んでいます",
+    "url": "https://www.keisei.co.jp/keisei/corporate/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "PASMOのサービス開始／京成カード発行",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "PASMO電子マネーサービス開始",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる移動手段としての鉄道から、「暮らしに寄り添う」サービス型インフラへと変貌を遂げた時期です",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "運輸業・流通業・不動産業・レジャー・サービス業・建設業などを展開する「総合生活企業グループ」です",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "また、京成バスをはじめとする京成グループのバス会社他では、東京都心と成田空港の間を結ぶ日本最大の空港連絡バス「エアポートバス東京・成田」を運行し、成田空港の早朝や深夜時間帯の航空機発着に対応した輸送サービスを展開しています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "タクシー事業では、東京都内及び千葉・茨城県内で輸送サービスを提供し、お客様の利便性向上に向けた各種施策に積極的に取り組むとともに、京成グループタクシーブランドの向上に努めています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "京成エリアを中心に、お客様から喜ばれ、ご満足いただける商品・サービスを提供するとともに、京成グループ全体の沿線価値・ブランド価値の向上に寄与しています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "レジャー・サービス業では、飲食・映画業、ホテル業、広告代理業、旅行業などを展開しており、 お客様の生活に「楽しさ」と「潤い」を提供しています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "株主優待乗車証と各種商品の交換可能制度について",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "既存の株主優待乗車証と下記の商品を交換可能としております",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "交換可能商品",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "(各商品との交換にあたり、それぞれ記載の枚数の株主優待乗車証が必要となります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "最適な立地と最高のサービスでお迎え致します",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "成田空港からの旅行や房総への旅行に便利なサービス",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "JAL ABC空港宅配サービス",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "WiFiサービス",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "昼はカフェ、夜はバーのサービスを提供する、便利なステーションカフェ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "※一部割引対象外商品がございます",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "専用Webサイトでの商品優待販売",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "駐車場利用料金２時間無料サービス",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの事業エリアは全国平均からは遅行するものの、人口の減少や構造の変化等社会情勢及び経済情勢の変化により、当社グループが提供する商品・サービスの需要が低下した場合、労働力の確保並びに人材の育成が困難となった場合には、収益の減少及び経営コストの増加により、当社グループの経営成績が影響を受ける可能性があります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、海外において重大なテロ行為や国際紛争、感染症流行等が発生した場合、空港利用客の大幅な減少により収益が減少する可能性があるほか、市場や為替相場の動向による原油及び原材料価格が高騰した場合、電気料金及び商品・原材料調達コストの増加等により、当社グループの経営成績が影響を受ける可能性があります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループが提供する商品・サービスの品質管理には万全を期しておりますが、施工販売物件における瑕疵、取扱商品に重大な商品事故が発生した場合、又は運輸業において重大な有責事故が発生した場合には、当社グループの経営成績が影響を受ける可能性があります",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "pass": 1
+   },
+   {
+    "quote": "⑥（ガーデンセンター１０％割引、ローズショップ限定商品を特別割引",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※一部割引対象外の商品がございます）",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様へ",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "このたび当サービスにおけるシステム強化のため、対象となるカードブランドのご利用を一",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スカイライナーチケットレスサービスをご利用のお客様にはご不便をおかけいたしますが、ご",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "≪コミュニティー京成≫ファミリーマート３店舗で「ファミマフードドライブ」を開始します",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "京成グループの多岐に渡る事業を紹介しております",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ紹介ビデオ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 1
+   },
+   {
+    "quote": "京成グループ紹介ビデオは",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 1
+   },
+   {
+    "quote": "京成グループの歩みを年譜形式でご紹介いたします",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介｜会社情報｜IR／会社情報｜京成電鉄",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "※直営店舗300円(税込)以上",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "⑥京成バラ園店舗割引券",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "令和８年熊本地震",
+    "url": "https://www.keisei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期 第１四半期決算短信〔日本基準〕（連結）",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 主な質疑応答",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期 決算短信〔日本基準〕（連結）",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年のグループビジョン",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期中間までの配当実績については、株式分割後に換算した金額を記載しております",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "2050年度までに実質「ゼロ」（＝カーボンニュートラル）を目指します",
+    "url": "https://www.keisei.co.jp/keisei/corporate/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革｜会社情報｜IR／会社情報｜京成電鉄",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1910年代の柴又駅",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1909年6月に京成電気軌道（現・京成電鉄）が誕生",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1930年には成田駅が開業し、省線との旅客誘致合戦が繰り広げられました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1933年には日暮里～上野公園（現・京成上野）を開通させ、念願の都心乗り入れが実現しました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年に日本初となる地下鉄との相互乗り入れを、都営地下鉄1号線（現・都営浅草線）の押上～浅草橋間で開始、1968年には京成・都営地下鉄・京浜急行の相互乗り入れが開始されました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1975年2月の第1回緊急対策委員会の開催を皮切りに、経営再建に向けた取り組みが始まりました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1991年には成田空港旅客ターミナルへの直接乗り入れを果たしました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年に当社の「企業理念」「行動指針」、2004年には「京成グループ理念」を制定します",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に成田スカイアクセスが開業し、3代目スカイライナー（AE 形）の運転を開始",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年以降、訪日外国人数も空港発着の鉄道利用者数も回復してきています",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年7月、都心と成田空港を結ぶ新たなアクセスルート「成田スカイアクセス」が開業しました",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度 月次営業概況のお知らせ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期中間までの配当実績については、株式分割後に換算した金額を記載しております",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年４月１日より、旧新京成線は当社「松戸線」として営業しております",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "沿線の強みを活かした",
+    "url": "https://www.keisei.co.jp/keisei/corporate/",
+    "pass": 1
+   },
+   {
+    "quote": "営業収益営業利益率",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/highlight/",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "駐車場利用料金２時間無料サービス",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "平日利用料金割引（１頭につき半額）",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "不動産売買仲介手数料の10％割引",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "pass": 1
+   },
+   {
+    "quote": "本郷の各駅を除く）にて１セットにつき払いもどし手数料２２０円を収受",
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "経営計画｜経営方針｜IR情報｜IR／会社情報 - 京成電鉄 — 経営計画｜経営方針｜IR情報｜IR／会社情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > IR情報 > 経営方針",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "pass": 3
+   },
+   {
+    "quote": "よくわかる京成グループ｜IR／会社情報 - 京成電鉄 — よくわかる京成グループ｜IR／会社情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > keisei > corporate > feature",
+    "url": "https://www.keisei.co.jp/keisei/corporate/feature/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介｜会社情報｜IR - 京成電鉄 — 事業紹介｜会社情報｜IR - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > 会社情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針｜IR情報 - 京成電鉄 — 経営方針｜IR情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > IR情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/",
+    "pass": 3
+   },
+   {
+    "quote": "IR／会社情報｜ 京成電鉄 — IR／会社情報｜ 京成電鉄 京成電鉄 https://www.keisei.co.jp > keisei > corporate",
+    "url": "https://www.keisei.co.jp/keisei/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 資料 - IR情報 - 京成電鉄 — 決算短信・ 決算説明 会 資料 - IR情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > IR情報 > IRライブラリ",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/library/financialreport/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報｜IR／会社情報 - 京成電鉄 — IR情報｜IR／会社情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > keisei > corporate",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー｜IR情報｜IR／会社情報 - 京成電鉄 — IRカレンダー｜IR情報｜IR／会社情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > IR情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/calendar/",
+    "pass": 3
+   },
+   {
+    "quote": "ディスクロージャーポリシー｜IR／会社情報 - 京成電鉄 — ディスクロージャーポリシー｜IR／会社情報 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > keisei > corporate > disclosure",
+    "url": "https://www.keisei.co.jp/keisei/corporate/disclosure/",
+    "pass": 3
+   },
+   {
+    "quote": "業務組織図｜会社情報｜IR - 京成電鉄 — 業務組織図｜会社情報｜IR - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > 会社情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社情報｜IR - 京成電鉄 — 会社概要｜会社情報｜IR - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > 会社情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介｜会社情報｜IR - 京成電鉄 — 事業 紹介｜会社情報｜IR - 京成電鉄 京成電鉄 https://www.keisei.co.jp > TOP > 会社情報",
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "京成 グループ要覧 — 京成 グループ要覧 京成電鉄 PDF https://www.keisei.co.jp > image > youran2022",
+    "url": "https://www.keisei.co.jp/keisei/quality/image/youran2022.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "経営ひと言／ 京成電鉄 ・天野貴夫 社長 「適時適切に判断」 — 経営ひと言／ 京成電鉄 ・天野貴夫 社長 「適時適切に判断」 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/759122",
+    "pass": 3
+   },
+   {
+    "quote": "千葉日報 on X: \"【読まれています】 京成電鉄社長インタビュー ... — 千葉日報 on X: \"【読まれています】 京成電鉄社長インタビュー ... X https://x.com > @chibanippo",
+    "url": "https://x.com/chibanippo/status/1960454707115106762",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー ｜総合職｜人事採用 - 京成電鉄 — 社員 インタビュー ｜総合職｜人事採用 - 京成電鉄 京成電鉄 https://www.keisei.co.jp > recruit > generalist > interview",
+    "url": "https://www.keisei.co.jp/keisei/jinji/recruit/generalist/interview/",
+    "pass": 3
+   },
+   {
+    "quote": "日経新聞の 京成電鉄社長インタビュー が 「時代錯誤」と失笑 ... — 日経新聞の 京成電鉄社長インタビュー が 「時代錯誤」と失笑 ... 選択出版 https://www.sentaku.co.jp > articles > view",
+    "url": "https://www.sentaku.co.jp/articles/view/23950",
+    "pass": 3
+   },
+   {
+    "quote": "京成電鉄社長 天野貴夫氏に聞く 訪日客増 - 毎日新聞 — 京成電鉄社長 天野貴夫氏に聞く 訪日客増 - 毎日新聞 毎日新聞 https://mainichi.jp > articles > ddl",
+    "url": "https://mainichi.jp/articles/20250913/ddl/k12/020/081000c",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.keisei.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/irnews/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/library/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/library/integratedreport/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/individual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/highlight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/balancesheet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/incomestatement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/financial/monthly/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/benefits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/stock/stockmeeting/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/calendar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/ir/management/risk/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.keisei.co.jp/keisei/tetudou/accessj/assets/pdf/sougokakuju.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/jU2Qm2eX.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/QIhh6gVK.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4XOuvnlr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/4LrhqgMH.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/j8GTHdzn.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/1EpXTS4S.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/cms/files/keisei/MASTER/0110/AOSc4qPe.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/card_business01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/sp-card_business01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/card_business02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/sp-card_business02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/card_business03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/sp-card_business03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/card_business04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.keisei.co.jp/keisei/corporate/img/index/sp-card_business04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/759122",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/chibanippo/status/1960454707115106762",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "京成電鉄",
+   "results": [
+    "https://www.keisei.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%84",
+    "https://keisei.ekitan.com/search/timetable",
+    "https://x.com/keiseirailway?lang=ja",
+    "https://www.mintetsu.or.jp/corporates/keisei/",
+    "https://ja.wikipedia.org/wiki/京成電鉄",
+    "https://ja.wikipedia.org/wiki/京成本線",
+    "https://www.keisei.co.jp/keisei/tetudou/skyliner/jp/index.php",
+    "https://ekitan.com/transit/railway/company/543",
+    "https://new-www.keisei.co.jp/keisei/tetudou/accessj/index.php"
+   ]
+  },
+  {
+   "query": "京成電鉄 ビジネスモデル",
+   "results": [
+    "https://www.keisei.co.jp/keisei/corporate/ir/management/managementplan/",
+    "https://www.keisei.co.jp/keisei/corporate/feature/",
+    "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/management/",
+    "https://www.keisei.co.jp/keisei/corporate/",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%84",
+    "https://www.nikkei.com/article/DGXZQOUC205480Q5A520C2000000/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/financial/highlight/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/management/dl/d2-plan.pdf",
+    "https://ja.wikipedia.org/wiki/京成電鉄"
+   ]
+  },
+  {
+   "query": "京成電鉄 決算説明資料",
+   "results": [
+    "https://www.keisei.co.jp/keisei/corporate/ir/library/financialreport/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/calendar/",
+    "https://www.keisei.co.jp/keisei/corporate/",
+    "https://www.keisei.co.jp/keisei/corporate/disclosure/",
+    "https://www.keisei.co.jp/keisei/corporate/ir/library/securities/",
+    "https://www.keisei.co.jp/keisei/corporate/sitemap/",
+    "https://irbank.net/E04091/reports",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=9009",
+    "https://treelazy.com/stock-jp/9009/conference"
+   ]
+  },
+  {
+   "query": "京成電鉄 事業系統図",
+   "results": [
+    "https://www.keisei.co.jp/keisei/corporate/profile/organization/",
+    "https://www.keisei.co.jp/keisei/corporate/feature/",
+    "https://www.keisei.co.jp/keisei/corporate/profile/corporatedata/",
+    "https://www.keisei.co.jp/keisei/corporate/profile/summary/",
+    "https://www.keisei.co.jp/keisei/quality/image/youran2022.pdf",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%84",
+    "https://www.keisei.co.jp/keisei/corporate/sitemap/",
+    "https://www.keisei.co.jp/keisei/quality/image/youran2025.pdf",
+    "https://www.mintetsu.or.jp/activity/databook/pdf/24routemap_Keisei.pdf",
+    "https://ja.wikipedia.org/wiki/京成電鉄"
+   ]
+  },
+  {
+   "query": "京成電鉄 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/759122",
+    "https://x.com/chibanippo/status/1960454707115106762",
+    "https://www.keisei.co.jp/keisei/jinji/recruit/generalist/interview/",
+    "https://www.sentaku.co.jp/articles/view/23950",
+    "https://mainichi.jp/articles/20250913/ddl/k12/020/081000c",
+    "https://the-shashi.com/tse/9009/ceo/",
+    "https://www.youtube.com/watch?v=06ffoSEhJmw",
+    "https://kitaishihon.com/company/9009/board-of-director",
+    "https://ja.wikipedia.org/wiki/%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%84",
+    "https://ja.wikipedia.org/wiki/小林敏也"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部2頁・検索5回）"
+ }
+}

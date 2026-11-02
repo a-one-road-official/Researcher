@@ -1,0 +1,1513 @@
+{
+ "name": "アストマックス",
+ "aliases": [],
+ "context": "証券コード7162／電気・ガス業／スタンダード（内国株式）／2026.03期 売上高25,258百万円 営業利益率10.4%",
+ "researched_at": "2026-11-02T21:00:33.070609+00:00",
+ "official_url": "https://www.astmax.co.jp/",
+ "identified_by": "search:yahoo_jp:アストマックス",
+ "profile": {
+  "売上高": [
+   {
+    "label": "営業収益",
+    "value": "11,774 14,855 20,666 25,258 16,151",
+    "url": "https://www.astmax.co.jp/ir/financial/summary.html",
+    "pass": 1
+   },
+   {
+    "label": "営業収益",
+    "value": "20,666 25,258 4,591 22.2 ①電力取引関連事業（+5,815）※２ ②再生可能エネルギー関連事業（+183） ③小売事業（△1,263） ④ディーリング事業（+44）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "その他の営業収益",
+    "value": "(千円） 7,363 －",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "営業収益",
+    "value": "",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への営業収益",
+    "value": "666,982 12,855,672 6,858,921 195,661 89,441 20,666,678",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部営業収益又は振替高",
+    "value": "72,412 196,916 2,886 － － 272,215",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への営業収益",
+    "value": "－ 20,666,678",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部営業収益又は振替高",
+    "value": "△272,215 －",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への営業収益",
+    "value": "850,867 18,670,688 5,595,546 133,880 25,250,982",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間の内部営業収益又は振替高",
+    "value": "77,842 194,560 2,682 － 275,084",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "外部顧客への 営業収益",
+    "value": "7,363 25,258,346",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "label": "セグメント間 の内部営業収益又は振替高",
+    "value": "△275,084 －",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   }
+  ],
+  "設立": [
+   {
+    "label": "設立",
+    "value": "2012年10月1日",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "63名（2026年6月1日現在）",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "・法人のお客様向け",
+    "url": "https://www.astmax.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "米国市場での資産運用と顧客開拓を目的に同国に100%子会社ASTMAX USA, LTD.を設立（本社ニューヨーク市）",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "アストでんきは「エコノミーでエコロジーな電気」の提供をスローガンにお客様のライフスタイルにあったプランを選んでいただけるサービスを行っております",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "より、同社または同社の委託業者を装い、お客様宅を訪問する、あるいは電話をかけるなどして、「電気の供",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 従業員または委託業者が、事前の連絡なくお客様のご自宅を訪問し、個人情報の開示を求めること",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⚫ 「電気の供給元（契約先）を変更する」などの理由で、訪問や電話により、お客様番号、供給地点特定",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "検針票や請求書等に記載されているお客様番号や供給地点特定番号は、ご契約手続きに利用され得る重",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、お客様に安心してサービスをご利用いただけるよう努めてまいります",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・代行サービス（顧客管理、需給予測、需給管理、計画値提出、リスク管理、報告等）の提供",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、2025年10月に電力取引関連事業の取引先が民事再生手続きを開始したことに伴い、売掛債権等38百万円を貸倒引当金繰入額として特別損失を計上しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・電力卸売取引 ：小売電気事業者向け電力取引および電力小売顧客向け固定価格取引等による電力の提供",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "容量拠出金単価が前年同期間と比較して大幅に減少した影響に加え、顧客獲得に時間を要し大口顧客への電力供給開始が2026年３月にずれ込んだことや、価格競争の激化に伴いマージンが圧縮されたためにより、営業収益及びセグメント利益はいずれも前年同期間を下回る結果となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・特別高圧・高圧：請求単位の顧客数483件（前年末比△65件）、コミットメントライン40億円契約",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・低圧 ：空室通電サービス開始、顧客数は緩やかな増加傾向",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "特別高圧・高圧の電力市場では営業を強化し、個別対応や提案を通じて新規顧客の獲得を進めているものの、2026年３月末の特別高圧・高圧の顧客数（請求単位）は前連結会計年度末比65件減少の483件となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "低圧市場については、販売代理店拡充の一環として、2025年５月より不動産賃貸管理会社向けに空室通電サービスを開始し、顧客数は徐々に増加しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "小売事業では、特別高圧・高圧市場の顧客へ電力販売を行い、連結子会社では個人を中心とする低圧市場の顧客へ電力とガスの販売を行っております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への営業収益",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "外部顧客への",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "(1) 外部顧客への営業収益の調整額",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "本邦以外の外部顧客への営業収益がないため、該当事項はありません",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "３ 主要な顧客ごとの情報",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の名称又は氏名",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "ご紹介はこちら",
+    "url": "https://www.astmax.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "子会社であるITCインベストメント・パートナーズ株式会社をアストマックス投資顧問株式会社と統合し、アストマックス投信投資顧問株式会社へ商号変更",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギー関連事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "pass": 1
+   },
+   {
+    "quote": "電力取引関連事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/electricity/",
+    "pass": 1
+   },
+   {
+    "quote": "小売事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "ディーリング事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "太陽光発電事業 | 再生可能エネルギー関連事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/solar.html",
+    "pass": 1
+   },
+   {
+    "quote": "陽光発電設備のご紹介",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/solar.html",
+    "pass": 1
+   },
+   {
+    "quote": "地熱発電事業 | 再生可能エネルギー関連事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/geothermal.html",
+    "pass": 1
+   },
+   {
+    "quote": "O&M事業 | 再生可能エネルギー関連事業 | 事業紹介 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/om.html",
+    "pass": 1
+   },
+   {
+    "quote": "低圧市場については、販売代理店拡充の一環として、2025年５月より不動産賃貸管理会社向けに空室通電サービスを開始し、顧客数は徐々に増加しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/financial/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/financial/summary.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別営業収益",
+    "url": "https://www.astmax.co.jp/ir/library/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主構成比率",
+    "url": "https://www.astmax.co.jp/ir/library/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント情報",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメント情報が得られない場合は、複数セグメントであっても単一セグメントと表記される場合があります",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "※セグメントの売上や利益は、企業毎にその定義が異なる場合があります",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント名",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "売上構成比率",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "利益構成比率",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "当社グループは、創業以来培ってきたノウハウを活用し、主に総合エネルギー事業を展開しており、当社グループのセグメントは、「再生可能エネルギー関連事業」、「電力取引関連事業」、「小売事業」、「ディーリング事業」の４事業に区分しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "2026年３月31日付で当社及び連結子会社２社に加え、匿名組合４組合及び持分法適用関連会社２社で構成されており、当社グループの事業における各社の位置づけ等について、セグメントとの関連において示しますと、次のとおりであります",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "※２ 当連結会計年度の営業収益における電力取引関連事業に係るヘッジ目的で行う電力先物取引による影響の内容については、「セグメント毎の経営成績及び取り組み状況＜２ 電力取引関連事業＞」をご参照ください",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント毎の経営成績及び取り組み状況は次のとおりです",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "（セグメント別営業収益・セグメント損益）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント損益",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "※１ 当連結会計年度の営業収益における電力取引関連事業に係るヘッジ目的で行う電力先物取引による影響の内容については、「セグメント毎の経営成績及び取り組み状況＜２ 電力取引関連事業＞」をご参照ください",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "※３ セグメント損益は、当連結会計年度の経常損益と調整を行っており、セグメント間の内部取引消去等の調整額が含まれております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "セグメント損益：",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "46百万円のセグメント損失",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "135百万円のセグメント利益）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、セグメント損益は、保険料の増額、系統用蓄電池事業における新規案件に向けた営業費用の先行発生、並びに地熱発電事業における継続的な費用先行、加えて2026年３月期末までに見込んでいた系統用蓄電池事業の事業体制構築が翌年度にずれ込んだことが影響し、セグメント損失となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "2,846百万円のセグメント利益",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "101百万円のセグメント損失）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "ヘッジ目的で行う電力先物取引による一時的な影響を考慮した実質ベースでは、営業収益及びセグメント損益はそれぞれ上記数字から2,473百万円下方修正され、セグメント利益は373百万円となります",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "72百万円のセグメント利益",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "容量拠出金単価が前年同期間と比較して大幅に減少した影響に加え、顧客獲得に時間を要し大口顧客への電力供給開始が2026年３月にずれ込んだことや、価格競争の激化に伴いマージンが圧縮されたためにより、営業収益及びセグメント利益はいずれも前年同期間を下回る結果となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "171百万円のセグメント損失",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "231百万円のセグメント損失）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期第２四半期（中間期） 決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）連結業績速報値と2026年3月期第2四半期（中間期）連結業績との差異見込みに関するお知らせ",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期9月度の発電状況のお知らせ",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "令和８年台風第25号に伴う災害により被災されたお客さまに対する特別措置について",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期8月度の発電状況のお知らせ",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期7月度の発電状況のお知らせ",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "令和8年熊本地震の影響に関するお知らせ",
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年10月1日",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月のJust Energy Japan株式会社（現アストマックス・エネルギー株式会社）の子会社化を契機に、電力小売事業に本格的参入しました",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | アストマックスグループ",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年10月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年4月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年5月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年1月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年7月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年1月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年4月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年10月1日以前の、当社の前身であるアストマックス・トレーディング株式会社（旧アストマックス株式会社）の沿革は以下のとおりです",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年9月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1993年3月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年1月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1996年7月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年11月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年6月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年9月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年1月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2006年6月",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに達成することが目標とされております",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第２四半期（中間期） 決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第２四半期（中間期） 決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第２四半期（中間期）決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第１四半期 決算説明資料",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第1四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品の詳しい内容、ダウンロード方法・使い方などはメーカーのサポートページをご参照ください",
+    "url": "https://www.astmax.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所会員（TOCOM）",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク商品取引所（COMEX）（貴金属市場）",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "シカゴ商品取引所（IMM）（外国為替市場）",
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "電力小売事業者向けのシステム提供や業務代行サービスに加え、需給管理、電力卸取引等の電力取引関連サービスを提供しております",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これは、従来からの再生可能エネルギー関連事業、電力取引関連事業に加え、日本における電力のサプライチェーン全体に事業領域を広げ、より機能的なサービスの提供と収益機会の開拓を図る方針に基づいたものです",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の主要取引所において商品先物を中心に、一部株価指数等の金融先物、現物株式、さらにはOTC市場（取引所を介さない相対取引の市場）等を利用した自己勘定取引を行っております",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アストマックス・エナジー・サービス株式会社設立",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品投資顧問業参入を目的として、商品取引員会社のエース交易株式会社により、その関連会社としてアストマックス株式会社（後のアストマックス・トレーディング株式会社）が設立される（資本金2億円、本社東京都渋谷区）",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京工業品取引所（現：東京商品取引所）会員となる",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京穀物商品取引所（現：東京商品取引所）会員となる",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "商品投資顧問業許可を取得",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "エース交易株式会社の関連会社から外れ、独立系の商品投資顧問会社となる",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "中部商品取引所（現：東京商品取引所）会員となる",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "アストマックス・フューチャーズ株式会社のインターネット取引による商品先物取引受託業務をドットコモディティ株式会社に事業譲渡",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "アストマックス・フューチャーズ株式会社の商品先物取引受託事業からの撤退",
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "再生可能エネルギーを主力電源とした、日本のエネルギーミックス方針に寄与します",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では環境への配慮と技術的な安全、安心していただけるサービスをご提供することを目指しております",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は長年の商品取引や金融取引の経験を活かし、電力専門チームによる、より安定的で柔軟な需給管理業務の支援サービスを小売電気事業者様向けに提供しております",
+    "url": "https://www.astmax.co.jp/business/electricity/",
+    "pass": 1
+   },
+   {
+    "quote": "需給管理・業務代行サービス",
+    "url": "https://www.astmax.co.jp/business/electricity/",
+    "pass": 1
+   },
+   {
+    "quote": "系統用蓄電所のアグリゲーションサービス",
+    "url": "https://www.astmax.co.jp/business/electricity/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の世界的な環境価値認識の高まりに伴い、実質再エネ由来100%の電気を供給する「プラス・グリーン」や、初期費用不要の太陽光発電設置スキーム(PPA)や蓄電池と電力小売の組み合わせたプログラムなど、多彩なサービスをご提供しております",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "アストでんきは「エコノミーでエコロジーな電気」の提供をスローガンにお客様のライフスタイルにあったプランを選んでいただけるサービスを行っております",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "【アストでんきの主な商品ラインナップ】",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "※商品ごとにご提供可能エリアが異なります",
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のディーリング部門は、国内商品市場で最大級のプロップハウスです",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最大のデリバティブ市場であるCME グループをはじめ、ICE、Tocom、OSE等国内外の商品市場や金融市場で、自己資金の投資運用を行っております",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "東京商品取引所 市場参加者資格",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "ニューヨーク商品取引所（COMEX） Non-Clearing Member （貴金属市場）",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "異なる取引所に上場されている同じ商品間や、同一商品の限月間や、相関の高い商品間の割高・割安の変動を収益化する取引です",
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、全ての太陽光発電設備で安心して発電事業をしていただくためのサービスを提供しております",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/om.html",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、当社子会社であるアストマックス・エネルギー株式会社（電力小売サービス「アストでんき」運営）",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループでは、お客様に安心してサービスをご利用いただけるよう努めてまいります",
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・代行サービス（顧客管理、需給予測、需給管理、計画値提出、リスク管理、報告等）の提供",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の主要取引所において商品先物を中心に、株価指数等の金融先物を取引対象とした自己勘定取引を行っております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "このような中、当社グループは、2026年３月期から2028年３月期の３年を対象期間とする「中期ビジョン2028」を策定し、発電事業者、小売電気事業者、電力需要家のあらゆるニーズに応える、「エネルギートータルソリューションプロバイダー」を目指しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "損益面ではディーリング事業における事業撤退に向けた事業規模縮小と裁定取引の取引対象商品の大幅な価格変動等によるネガティブな影響を受けたものの、イラン情勢の緊迫化による原油や天然ガス等の急騰を受け電力価格が急上昇したため、電力取引関連事業において大幅なヘッジ益が生じ、全体として営業利益、経常利益が拡大しました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・ヒューリックプロパティソリューション株式会社との資本業務提携（2025年5月）",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・業務代行サービス：AIを活用した需給管理ほか",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "・低圧 ：空室通電サービス開始、顧客数は緩やかな増加傾向",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "低圧市場については、販売代理店拡充の一環として、2025年５月より不動産賃貸管理会社向けに空室通電サービスを開始し、顧客数は徐々に増加しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "前連結会計年度末に生じていた裁定取引対象商品における市場の歪みは、当連結会計年度末時点に向けて縮小傾向となりましたが、営業費用を賄うことはできず、セグメント損失となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "当事業では、国内外の主要取引所において商品先物を中心に、株価指数等の金融先物を取引対象とした自己勘定による裁定取引を主に行っておりますが、2025年５月に開示のとおり、事業間のシナジーや投下資本効率を改めて検討した結果、2027年３月期末までの廃止に向け段階的に規模を縮小しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "「エネルギートータルソリューションプロバイダー」へ進化",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "一方、各事業の成果は、電力関連市場及び商品先物市場等の動向の影響を受けるほか、電力システムを取り巻く環境は変化が激しく注視が必要です",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "電力取引関連事業では、小売電気事業者への電力取引の提供、需給管理業務を中心とした業務代行サービスの提供を行っております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "ディーリング事業では、OSE、TOCOM、CME、ICE、INE等、国内外の主要取引所において商品先物を中心に、株価指数等の金融先物を取引対象とした自己勘定取引を行っております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "１ 製品及びサービスごとの情報",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "今後も様々な切り口でサービスを開始予定です",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経の記事利用サービスについて",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日立・プリファードネットワークスなどに 日経優秀製品賞が決定",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経IDなどその他のサービスに自動で登録されることはありません",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷サービス",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "開発済みの太陽光発電所の売電、保守・運用管理、新たな太陽光発電所の開発、地熱発電の事業化、コーポレートPPA事業及び蓄電池事業に取り組んでおります",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "・開発済みの太陽光発電所の売電、保守・運用管理",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "容量拠出金単価が前年同期間と比較して大幅に減少した影響に加え、顧客獲得に時間を要し大口顧客への電力供給開始が2026年３月にずれ込んだことや、価格競争の激化に伴いマージンが圧縮されたためにより、営業収益及びセグメント利益はいずれも前年同期間を下回る結果となりました",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "需要家様の屋根や敷地に、発電事業者負担で太陽光発電設備や蓄電設備などを設置・運用し、発電した電気を需要家様に購入していただくビジネスモデルを活用し、展開を進めております",
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アストマックス (7162) の企業概要・業績・財務・IR資料 — アストマックス (7162) の企業概要・業績・財務・IR資料 crex-data.com https://www.crex-data.com > 企業",
+    "url": "https://www.crex-data.com/company/7162",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス 株式会社 個人投資家説明会資料 — アストマックス 株式会社 個人投資家説明会資料 アストマックスグループ PDF https://www.astmax.co.jp > event > pdf > kojin201908",
+    "url": "https://www.astmax.co.jp/ir/event/pdf/kojin201908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス が3日続伸､業務提携で業容拡大を期待 — アストマックス が3日続伸､業務提携で業容拡大を期待 四季報オンライン https://shikiho.toyokeizai.net > 新着記事 > きょうの動意株",
+    "url": "https://shikiho.toyokeizai.net/news/0/401211",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス だけじゃない！“電力取引×再エネ”で次に主役 ... — アストマックス だけじゃない！“電力取引×再エネ”で次に主役 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/n15da9ed809ae",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス 【7162】の事業内容 - キタイシホン — アストマックス 【7162】の事業内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室（最新の 資料 ） | IR情報 - アストマックスグループ — IR 資料 室（最新の 資料 ） | IR情報 - アストマックスグループ アストマックスグループ https://www.astmax.co.jp > library",
+    "url": "https://www.astmax.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - アストマックスグループ — IR情報 - アストマックスグループ アストマックスグループ https://www.astmax.co.jp > ...",
+    "url": "https://www.astmax.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス [7162]：2027年3月期中間期【第15期】 決算 ... — アストマックス [7162]：2027年3月期中間期【第15期】 決算 ... 日本経済新聞 https://www.nikkei.com > company > sys > redirect_dis",
+    "url": "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g7mfc3&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261102562435/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 プロ 【 アストマックス （7162） 決算 短信等適時開示 ... — 決算 プロ 【 アストマックス （7162） 決算 短信等適時開示 ... 株主プロ http://ke.kabupro.jp > code",
+    "url": "http://ke.kabupro.jp/code/7162.htm",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス （7162）のIR情報・ 決算資料 - IRBANK — アストマックス （7162）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > アストマックス",
+    "url": "https://irbank.net/7162/ir",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 - アストマックスグループ — 事業 紹介 - アストマックスグループ アストマックスグループ https://www.astmax.co.jp > business",
+    "url": "https://www.astmax.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス 【7162】の 事業 内容 - キタイシホン — アストマックス 【7162】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス （7162）のプロフィール | 会社四季報オンライン — アストマックス （7162）のプロフィール | 会社四季報オンライン 四季報オンライン https://shikiho.toyokeizai.net > 銘柄研究 > アストマックス",
+    "url": "https://shikiho.toyokeizai.net/stocks/7162/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "代表ご挨拶 | 企業情報 - アストマックスグループ — 代表ご挨拶 | 企業情報 - アストマックスグループ アストマックスグループ https://www.astmax.co.jp > corp > message",
+    "url": "https://www.astmax.co.jp/corp/message.html",
+    "pass": 3
+   },
+   {
+    "quote": "（新トップ） アストマックス 牛嶋英揚氏 - 日本経済新聞 — （新トップ） アストマックス 牛嶋英揚氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "pass": 3
+   },
+   {
+    "quote": "アストマックス 、 社長 に本多弘明（ほんだ・ひろあき）氏 — アストマックス 、 社長 に本多弘明（ほんだ・ひろあき）氏 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/108979",
+    "pass": 3
+   },
+   {
+    "quote": "「 アストマックス 」株主総会／「牛嶋会長」解任か — 「 アストマックス 」株主総会／「牛嶋会長」解任か 月刊FACTA https://facta.co.jp > article",
+    "url": "https://facta.co.jp/article/202607030.html",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "このような状況の中、収益の改善を図るべく、当社の強みである電力トレーディングに関するノウハウを活用した電力プランの提案など、付加価値を高める取り組みを推進しております",
+    "url": "https://kitaishihon.com/company/7162/business",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.astmax.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/press/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/financial/summary.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/announce/announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/corp/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/corp/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/renewable-energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/electricity/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/elecgasretailer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/dealing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/library/results.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/library/yuho.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/library/business.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/announce/ast_ebino_geothermal_announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/announce/hachinohehachitaroyama_solorpark_south_announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/announce/kumamoton_announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/ir/announce/astmaxenergy_announce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/renewable-energy/solar.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/renewable-energy/geothermal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.astmax.co.jp/business/renewable-energy/om.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.astmax.co.jp/pdf/20260630_aekk_headsup.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202603_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202503_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202403_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202303_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202203_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202103_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/pdf/bs_202003_aeg.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/renewable-energy/img_kv.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/renewable-energy/img_kv_sp.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/renewable-energy/sdgs.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/elecgasretailer/astdenkiforbiz.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/elecgasretailer/asuto_elect.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/elecgasretailer/eco_small.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/elecgasretailer/plusgreen_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.astmax.co.jp/img/business/renewable-energy/setubi_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.crex-data.com/company/7162",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/7162/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アストマックス",
+   "results": [
+    "https://www.astmax.co.jp/",
+    "https://www.astmax.co.jp/corp/",
+    "https://www.nikkei.com/nkd/company/?scode=7162",
+    "https://astmaxenergy.co.jp/",
+    "https://www.sbisec.co.jp/ETGate/WPLETsiR001Control/WPLETsiR001Ilst10/getDetailOfStockPriceJP?OutSide=on&getFlg=on&stock_sec_code_mul=7162&exchange_code=JPN",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://kabutan.jp/stock/kabuka?code=7162&ashi=day",
+    "https://note.com/tatsuya_sabato/n/n67742f2b4282",
+    "https://ja.wikipedia.org/wiki/アストマックス",
+    "https://www.astmax.co.jp/corp/profile.html"
+   ]
+  },
+  {
+   "query": "アストマックス ビジネスモデル",
+   "results": [
+    "https://www.crex-data.com/company/7162",
+    "https://www.astmax.co.jp/ir/event/pdf/kojin201908.pdf",
+    "https://shikiho.toyokeizai.net/news/0/401211",
+    "https://note.com/tatsuya_sabato/n/n15da9ed809ae",
+    "https://kitaishihon.com/company/7162/business",
+    "https://www.livesmart.co.jp/news/20201230-pressrelease",
+    "https://www.nikkei.com/article/DGXZQOUC267S20W5A520C2000000/",
+    "https://pl.tradingview.com/news/fisco%3A44481947f8457%3A0/",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250526/20250521560178.pdf",
+    "https://www.astmax.co.jp/"
+   ]
+  },
+  {
+   "query": "アストマックス 決算説明資料",
+   "results": [
+    "https://www.astmax.co.jp/ir/library/",
+    "https://www.astmax.co.jp/ir/",
+    "https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g7mfc3&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261102562435/",
+    "http://ke.kabupro.jp/code/7162.htm",
+    "https://irbank.net/7162/ir",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120261102562430",
+    "https://kabutan.jp/stock/finance?code=7162",
+    "https://japanir.jp/company/company-7162/ir/7162-20261102-02_wp_financial_summary/",
+    "https://edinetdb.jp/company/E26813/presentations/",
+    "https://www2.jpx.co.jp/disc/71620/140120260202545037.pdf"
+   ]
+  },
+  {
+   "query": "アストマックス 事業系統図",
+   "results": [
+    "https://www.astmax.co.jp/business/",
+    "https://kitaishihon.com/company/7162/business",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250526/20250521560178.pdf",
+    "https://www.crex-data.com/company/7162",
+    "https://shikiho.toyokeizai.net/stocks/7162/corporate",
+    "https://compalyze.co.jp/company/6010701027087",
+    "https://www.astmax.co.jp/sitemap/",
+    "https://www.nikkei.com/article/DGXZQOUC267S20W5A520C2000000/",
+    "https://j-lic.com/companies/7162/segments",
+    "https://ja.wikipedia.org/wiki/アストマックス"
+   ]
+  },
+  {
+   "query": "アストマックス 社長 インタビュー",
+   "results": [
+    "https://www.astmax.co.jp/corp/message.html",
+    "https://www.nikkei.com/article/DGKKZO95235760V20C26A3TB3000/",
+    "https://www.nikkan.co.jp/articles/view/108979",
+    "https://facta.co.jp/article/202607030.html",
+    "https://shacho.osakazine.net/",
+    "https://x.com/factaonline/status/2068204407813222535",
+    "https://shachomeikan.jp/",
+    "https://keieisha-prime.com/",
+    "https://www.youtube.com/watch?v=LPZv05-TGtc",
+    "https://the-shashi.com/tse/7162/executives/"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部3頁・検索5回）"
+ }
+}

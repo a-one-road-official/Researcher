@@ -1,0 +1,1345 @@
+{
+ "name": "北興化学工業",
+ "aliases": [],
+ "context": "証券コード4992／化学／スタンダード（内国株式）／2025.11期 売上高49,125百万円 営業利益率10.0%",
+ "researched_at": "2026-11-02T21:16:55.155110+00:00",
+ "official_url": "https://www.hokkochem.co.jp/",
+ "identified_by": "search:yahoo_jp:北興化学工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "創立年月日",
+    "value": "1950年（昭和25年）2月27日",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "label": "創立と沿革",
+    "value": "北の大地から始まった化学の挑戦",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "629名 [2025年（令和7年）11月末現在]",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "label": "社風と従業員満足度",
+    "value": "堅実さと挑戦の気風",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "農薬事業では、水稲、園芸分野の殺菌剤、殺虫剤、除草剤、植物成長調整剤などの製造販売 ファインケミカル事業では電子材料、医薬品原料・中間体、エポキシ樹脂硬化促進剤、機能性セラミックス原料、各種触媒、防腐・防カビ剤などの製造販売 その他",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "食糧と先端産業を支える両輪",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "どうやって売るか": [
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（ファインケミカル事業の強み～強みは「高い技術力」～他全２本）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "技術・設備紹介",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "主な連結業績の推移をご紹介します",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "主な経営指標の推移をご紹介します",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "農薬・ファインケミカル・繊維資材事業別の業績推移をご紹介します",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/ir-event",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "現在の株価をご紹介します",
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "このサイトでは、そんな「ホクコー」をわかりやすくご紹介していきます",
+    "url": "https://www.hokkochem.co.jp/iir/",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究所のご紹介",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "pass": 1
+   },
+   {
+    "quote": "特筆すべきは、その強固な販売網だ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場での成功には、各国の異なる規制や栽培環境に対応した製品開発力と、販売網の構築が不可欠となる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "圧倒的な研究開発力とグローバルな販売網を持つ巨人",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（ファインケミカル事業の強み～強みは「高い技術力」～他全２本）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube公式チャンネルにファインケミカル事業の紹介動画（『【Short Version】ファインケミカル事業の強み～強みは「高い技術力」～』、『Strengths of Fine Chemicals Business-Advanced Technology（英語版）』）を掲載しました（YouTube公式チャンネルへリンク）",
+    "url": "https://www.hokkochem.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の高度な要求に応えるカスタムメイド（受託製造）にも強みを持ち、産業界の縁の下の力持ちとして、その存在感を高めている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業の競争力の源泉は、二つの模倣困難な強みに集約される",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "強み①：農薬事業における「JAとの共存共栄モデル」",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "強み②：ファインケミカル事業における「グリニャール反応の匠」",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "海外展開に積極的で、自社開発原体に強みを持つ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "こうしたきめ細やかな開発力も同社の強みである",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル事業における「グリニャール反応」や、電子材料における「KrFレジスト用モノマー」への依存度の高さは、強みであると同時にリスクも内包する",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "「グリニャール反応」というニッチながらも高度な技術を工業レベルで確立しており、参入障壁が高い",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・有報・適時開示から日本企業の強み・成長余地・リスクを整理",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月2日",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月1日",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月28日",
+    "url": "https://www.hokkochem.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1950年（昭和25年）2月27日",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 北興化学工業株式会社",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1950年（昭和25年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1953年（昭和28年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1954年（昭和29年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1961年（昭和36年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1963年（昭和38年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1965年（昭和40年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1966年（昭和41年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1967年（昭和42年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1968年（昭和43年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1969年（昭和44年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1970年（昭和45年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1972年（昭和47年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1976年（昭和51年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1982年（昭和57年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1984年（昭和59年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1985年（昭和60年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1987年（昭和62年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1988年（昭和63年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1989年（平成元年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1991年（平成 3年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1994年（平成 6年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1995年（平成 7年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "1999年（平成11年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2000年（平成12年）",
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月1日",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月29日",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.hokkochem.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/ir-event",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/ir-event",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信",
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料",
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算補足説明資料（PDF 346KB）",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月期第３四半期 決算短信（PDF 280KB）",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月5日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月3日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月31日",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "農薬製品情報",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・主力製品情報",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "農薬製品・安全データシート（SDS）一覧",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "農薬製品検索",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "ファインケミカル事業製品一覧",
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "pass": 1
+   },
+   {
+    "quote": "ファインケミカル製品検索",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・主力製品情報",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "農薬製品・安全データシート（SDS）一覧",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "ファインケミカル事業製品一覧",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   },
+   {
+    "quote": "金融商品取引法で規定されている会社の重要事項が発生した場合に作成する開示資料です",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 1
+   },
+   {
+    "quote": "以来、「農薬」と「ファインケミカル製品」の製造・販売を",
+    "url": "https://www.hokkochem.co.jp/iir/",
+    "pass": 1
+   },
+   {
+    "quote": "「種子から収穫まで護るホクコー農薬」をモットーに、殺菌剤、殺虫剤、除草剤など、多岐にわたる製品ラインナップを誇る",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "農家のニーズを的確に捉えた製品開発と、地域に密着した技術サポート体制は、他の農薬メーカーに対する大きな優位性と言える",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "同社の企業理念は、「『社会貢献』『環境』『技術』を経営のキーワードとし、全ての人々の幸せのため、食糧の安定供給に寄与する安全で安心な農薬製品および産業活動を幅広く支えるファインケミカル製品を社会に提供していきます」と謳われている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "個々の農家と直接取引するのではなく、JAという巨大な組織を通じて製品を供給するため、販売管理コストを抑制しつつ、全国的な市場カバレッジを確保できる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "この過程で蓄積された信頼と、現場の生きた情報がフィードバックされる製品開発サイクルは、他社にはない無形の資産だ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "安全性と環境への配慮が大前提となる中で、より効果が高く、使いやすい製品を目指す",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "生み出されたシーズは、北海道、新潟、岡山にある3つの国内工場で製品化される",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "販売・サービス：顧客に寄り添う密着型営業",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル事業では、顧客である企業の開発部門と深く連携し、製品の共同開発や技術的な課題解決にまで踏み込む提案型の営業スタイルを特徴とする",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "単に「モノを売る」のではなく、「ソリューションを提供する」姿勢が、リピートオーダーと強固な顧客関係を築いている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "特にファインケミカル事業は、半導体市場など最終製品市場の動向に影響を受けやすいため、市況によっては一時的な停滞が見られることもあるが、中長期的には成長トレンドを描こうとしている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "高付加価値製品の比率が高いファインケミカル事業は、農薬事業に比べて利益率が高い傾向にあり、この事業の伸長が全社の収益性向上に直結する",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣もこの点を強く認識しており、コスト削減努力と並行して、高付加価値製品へのシフトを急いでいる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "この市場での競争軸は、価格競争から、より環境負荷が少なく、散布の手間を省ける「省力化・環境配慮型」製品へとシフトしている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "海外市場での成功には、各国の異なる規制や栽培環境に対応した製品開発力と、販売網の構築が不可欠となる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "これらの市場は、最終製品の技術革新のスピードが速く、常に新しい機能や品質が求められる「技術ドリブン」な市場である",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品・サービスの深堀り",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "その象徴的な製品が、同社を代表する自社開発原体「カスガマイシン」だ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "1965年に奈良の春日大社の土壌から発見された微生物由来の抗生物質を農薬として実用化した、画期的な製品",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "発売から半世紀以上経った今でも、第一線の製品として使われ続けているという事実は、その基本性能の高さと信頼性を物語っている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "安全性も高く、海外での登録国も拡大しており、今後のグローバルな成長を牽GCCする戦略製品と位置づけられている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "今、最も注目すべき製品がこれだ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発力：「楽粒」に込められた現場目線",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "同社の製品開発力の高さは、現場の農家の負担を軽減しようという「現場目線」にも表れている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化が進む日本の農業において、重い散布機を背負って水田に入る重労働から農家を解放する画期的な製品として、高い評価を得ている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "社長は企業理念として「社会貢献」「環境」「技術」を掲げ、食糧安定供給に寄与する安全な農薬製品と、産業を支えるファインケミカル製品を提供することで社会に貢献する姿勢を示しています",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2014年７月 当社製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2017年７月 当社執行役員製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2019年12月 当社執行役員農薬事業グループ副担当製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2021年２月 当社取締役執行役員農薬事業グループ担当製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2021年７月 当社取締役常務執行役員農薬事業グループ担当製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2022年７月 当社取締役常務執行役員農薬事業グループ担当製品企画部長兼営業部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2005年１月 デュポン㈱農薬製品事業部企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2006年１月 デュポン㈱農薬製品事業部事業部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "執行役員 齋藤 泰彦 農薬事業グループ副担当（製品企画部、開発研究所",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "担当製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ープ担当製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ープ担当製品企画部長兼営業部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "執行役員 本間 康之 製品企画部長",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル製品の製造・販売",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "製品の製造・販売",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル製品等の販売",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品の販売",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "石油製品等の販売",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "当社の使用する石油製品等の販売等",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "新規ホスフィン配位子「TIBDPP」の製造・販売に関する ENEOS 株式会社とのライセンス契約締結およびサンプル販売開始のお知らせ（PDF 98KB）",
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/corporate-governance",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/ir-event",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "pass": 1
+   },
+   {
+    "quote": "米国子会社を拠点とした北米・中南米市場の開拓も継続し、海外売上比率を高めていく方針",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "海外売上比率が高まるにつれ、為替変動が業績に与える影響も大きくなる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "生産能力向上等の成長投資を基盤に、前計画から継続して取り組む３つの改革（収益構造改革、造り方改革、働き方改革）を柱として、収益基盤・生産基盤を強化していきます",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "pass": 1
+   },
+   {
+    "quote": "確かに、同社の歴史は日本の農業と共にあり、JA（農業協同組合）との強固なリレーションシップを基盤とした安定的なビジネスモデルは、企業価値の根幹を成してきた",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、単なる財務諸表の分析に留まらず、北興化学工業が持つ真の企業価値、すなわち、その歴史に裏打ちされた技術力、独自のビジネスモデル、そして未来に向けた野心的な成長戦略を、可能な限り深く、多角的に解き明かしていく",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスモデルの詳細分析：安定と成長を両立させる「技」",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "収益構造：JAネットワークがもたらす農薬事業の安定性",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業のビジネスモデルの妙は、安定収益源である農薬事業と、高成長ポテンシャルを秘めたファインケミカル事業という、性質の異なる二つのエンジンを持つ「両輪経営」にある",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "農薬事業の収益構造の最大の特徴は、前述の通り「JA全農ルート」という極めて安定した販売チャネルに依存している点にある",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "これは、農薬事業とファインケミカル事業という二つの異なるビジネスモデルを動かしていく上で、多様なバックグラウンドを持つ人材が必要不可欠であるという認識の表れだろう",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "顧客の高度な要求に応えるカスタムメイド（受託製造）にも強みを持ち、産業界の縁の下の力持ちとして、その存在感を高めている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "この技術的優位性により、高純度・高品質な化成品を安定的に製造することが可能となり、特に品質要求の厳しい医薬品や電子材料の分野で、顧客から絶大な信頼を得ている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "一方、ファインケミカルの研究開発は、顧客の高度なニーズに応えるための応用研究が中心となる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "国内生産にこだわるのは、品質管理を徹底し、顧客への安定供給責任を果たすためだ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "販売・サービス：顧客に寄り添う密着型営業",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル事業では、顧客である企業の開発部門と深く連携し、製品の共同開発や技術的な課題解決にまで踏み込む提案型の営業スタイルを特徴とする",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "単に「モノを売る」のではなく、「ソリューションを提供する」姿勢が、リピートオーダーと強固な顧客関係を築いている",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル開発の神髄：顧客ニーズへの最適解",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "ファインケミカル事業の研究開発は、顧客との対話から始まる",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "顧客が抱える課題、例えば「もっと高純度の原料が欲しい」「特殊な構造を持つ化合物を合成したい」といった要望に対し、同社が誇るグリニャール反応技術や有機合成のノウハウを駆使して「最適解」を提供する",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "未来の成長ドライバーとなるファインケミカル事業、特にグローバルな顧客と対峙する場面では、語学力や異文化理解力を持つ人材の重要性がますます高まっていくはずだ",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "旺盛な需要に応えることで、既存顧客との関係を強化し、市場におけるリーダーとしての地位を盤石にする狙いがある",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "同氏は2024年２月まで当社の主要な取引先である全国農業協同組合連合会に在籍しておりました",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【玄人投資家向け】 北興化学工業 （4992）徹底解剖。半導体 ... — 【玄人投資家向け】 北興化学工業 （4992）徹底解剖。半導体 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "pass": 3
+   },
+   {
+    "quote": "経営計画 | 北興化学工業 株式会社 — 経営計画 | 北興化学工業 株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > management-plan",
+    "url": "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ホクコーを知る | 北興化学工業 採用サイト — 会社概要 | ホクコーを知る | 北興化学工業 採用サイト 北興化学工業株式会社 https://www.hokkochem.co.jp > recruit > about > summary",
+    "url": "https://www.hokkochem.co.jp/recruit/about/summary/",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業 株式会社（4992）— 企業情報 - ENVALITH — 北興化学工業 株式会社（4992）— 企業情報 - ENVALITH ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/4992/overview",
+    "pass": 3
+   },
+   {
+    "quote": "HOKKO レポート 2025 - 北興化学工業 株式会社 — HOKKO レポート 2025 - 北興化学工業 株式会社 北興化学工業株式会社 PDF https://www.hokkochem.co.jp > wp-content > uploads",
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2025.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ・補足説明資料 | 北興化学工業 株式会社 — 決算説明資料 ・補足説明資料 | 北興化学工業 株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > ir-library > setsumei",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library/setsumei",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | 北興化学工業 株式会社 — 決算 短信 | 北興化学工業 株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > ir-library > tanshin",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library/tanshin",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリー - 北興化学工業株式会社 — IRライブラリー - 北興化学工業株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > ir-library",
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "pass": 3
+   },
+   {
+    "quote": "よくいただくご質問 | 北興化学工業 株式会社 — よくいただくご質問 | 北興化学工業 株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > ir-others > faq",
+    "url": "https://www.hokkochem.co.jp/ir/ir-others/faq",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー - 北興化学工業株式会社 — IRカレンダー - 北興化学工業株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > ir-event > ir-calendar",
+    "url": "https://www.hokkochem.co.jp/ir/ir-event/ir-calendar",
+    "pass": 3
+   },
+   {
+    "quote": "事業 所一覧 | 北興化学工業 株式会社 — 事業 所一覧 | 北興化学工業 株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > company > place",
+    "url": "https://www.hokkochem.co.jp/company/place",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業 【4992】の 事業 内容 - キタイシホン — 北興化学工業 【4992】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4992/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 北興化学工業株式会社 — 会社概要 - 北興化学工業株式会社 北興化学工業株式会社 https://www.hokkochem.co.jp > company > about",
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "事業 拠点 - 北興化学工業 株式会社 — 事業 拠点 - 北興化学工業 株式会社 北興化学工業株式会社 PDF https://www.hokkochem.co.jp > wp-content > uploads",
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2020_29-30.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業 【4992】の 社長 ・役員 - キタイシホン — 北興化学工業 【4992】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業 株式会社 公式チャンネル - YouTube — 北興化学工業 株式会社 公式チャンネル - YouTube YouTube https://www.youtube.com > ...",
+    "url": "https://www.youtube.com/@hokkochemical",
+    "pass": 3
+   },
+   {
+    "quote": "北興化学工業 、 社長 に佐野健一氏 | 日刊工業新聞 電子版 — 北興化学工業 、 社長 に佐野健一氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/532136",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略特集2部 北興化学工業 、農薬は自社原体を海外展開 — 経営戦略特集2部 北興化学工業 、農薬は自社原体を海外展開 化学工業日報 電子版 https://chemicaldaily.com > archives",
+    "url": "https://chemicaldaily.com/archives/793245",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hokkochem.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/company/history",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/business/pesticide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/business/fine-chemical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/business-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/corporate-governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/ir-library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/financial-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/ir-event",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/stock-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/iir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/archives/category/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/about.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/2024_5_23_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/2026_11_02_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/recruit/.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/2026_09_28_release.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/Management_plan_2027_summary-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/Management_plan_2027_summary-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/2027_10_27_release-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hokkochem.co.jp/wp-content/uploads/2027_10_27_release-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitaishihon.com/company/4992/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "北興化学工業",
+   "results": [
+    "https://www.hokkochem.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp53536/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%88%88%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "https://www.youtube.com/@hokkochemical",
+    "https://www.nikkei.com/nkd/company/?scode=4992",
+    "https://ja.wikipedia.org/wiki/北興化学工業",
+    "https://www.hokkochem.co.jp/company/about",
+    "https://finance.yahoo.co.jp/quote/4992.T",
+    "https://www.traders.co.jp/stocks/62_4992/",
+    "https://shikiho.toyokeizai.net/stocks/4992"
+   ]
+  },
+  {
+   "query": "北興化学工業 ビジネスモデル",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nbb986f6301d9",
+    "https://www.hokkochem.co.jp/ir/business-policy/management-plan",
+    "https://www.hokkochem.co.jp/recruit/about/summary/",
+    "https://envalith.com/ja/companies/4992/overview",
+    "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2025.pdf",
+    "https://www.hokkochem.co.jp/company/philosophy",
+    "https://chemicaldaily.com/archives/793245",
+    "https://www.hokkochem.co.jp/ir/business-policy",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrAs&q_no=9",
+    "https://ja.wikipedia.org/wiki/北興化学工業"
+   ]
+  },
+  {
+   "query": "北興化学工業 決算説明資料",
+   "results": [
+    "https://www.hokkochem.co.jp/ir/ir-library/setsumei",
+    "https://www.hokkochem.co.jp/ir/ir-library/tanshin",
+    "https://www.hokkochem.co.jp/ir/ir-library",
+    "https://www.hokkochem.co.jp/ir/ir-others/faq",
+    "https://www.hokkochem.co.jp/ir/ir-event/ir-calendar",
+    "https://www.hokkochem.co.jp/ir/business-policy",
+    "https://www.hokkochem.co.jp/archives/date/2019?cat=9725,9727,9728,9729,9730",
+    "https://www.hokkochem.co.jp/ir/ir-event",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4992",
+    "https://edinetdb.jp/company/E01001/presentations/"
+   ]
+  },
+  {
+   "query": "北興化学工業 事業系統図",
+   "results": [
+    "https://www.hokkochem.co.jp/company/place",
+    "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2025.pdf",
+    "https://kitaishihon.com/company/4992/business",
+    "https://www.hokkochem.co.jp/company/about",
+    "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2020_29-30.pdf",
+    "https://www.hokkochem.co.jp/sitemap",
+    "https://www.hokkochem.co.jp/business/fine-chemical",
+    "https://www.hokkochem.co.jp/wp-content/uploads/HOKKO-REPORT_2019_.pdf",
+    "https://ja.wikipedia.org/wiki/北興化学工業",
+    "https://japanir.jp/company/company-4992/ir/4992-20260929-01_wp_corporate_restructuring/"
+   ]
+  },
+  {
+   "query": "北興化学工業 社長 インタビュー",
+   "results": [
+    "https://www.hokkochem.co.jp/company/about",
+    "https://kitaishihon.com/company/4992/board-of-director",
+    "https://www.youtube.com/@hokkochemical",
+    "https://www.nikkan.co.jp/articles/view/532136",
+    "https://chemicaldaily.com/archives/793245",
+    "https://www.hokkochem.co.jp/recruit/work/interview/ds/",
+    "https://www.nikkei.com/article/DGXMZO50140880U9A920C1YZ0000/",
+    "https://ja.wikipedia.org/wiki/%E5%8C%97%E8%88%88%E5%8C%96%E5%AD%A6%E5%B7%A5%E6%A5%AD",
+    "https://kigyo-scope.jp/company/4992/ceo/",
+    "https://www.hokkochem.co.jp/company/board-member"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

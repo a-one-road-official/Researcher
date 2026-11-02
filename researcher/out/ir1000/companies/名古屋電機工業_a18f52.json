@@ -1,0 +1,977 @@
+{
+ "name": "名古屋電機工業",
+ "aliases": [],
+ "context": "証券コード6797／電気機器／スタンダード（内国株式）／2026.03期 売上高17,307百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:06:04.636732+00:00",
+ "official_url": "https://www.nagoya-denki.co.jp/",
+ "identified_by": "search:yahoo_jp:名古屋電機工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1958年5月",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年間売上高",
+    "value": "17,307百万円（2026年3月期）",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "売上高(百万円)",
+    "value": "18,009 17,582 17,262 17,307",
+    "url": "https://www.nagoya-denki.co.jp/ir/financial/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "道路情報板を中心とする各種情報提供システムの製造及び販売",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結：409名（2026.3.31現在）",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "道路利用者と道路作業者の双方が、安全を確保するために役立つシステムを提供しています",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、お客様の立場に立ちます",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様にとって、「何がうれしい」のかを「ひたむきに」考え行動します",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品・システムの納入後も長期にわたる手厚いアフターサポートを実施して「信頼の社会システム」を提供することにより、道路利用者と道路での工事等による作業者に対して安全・安心・快適さの提供に貢献しております",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信について",
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション​",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "保安機器製品カタログが完成しました",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラ向けソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "各種センサーから情報処理装置、道路や駐車場等の情報板、案内板等に情報提供する製品・システムをトータルにサポートしております",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような、製品・システムが厳しい自然環境下で、何年にもわたって長期間使用に耐えられるように、高い信頼性を確保した設計のもと、品質管理を徹底しております",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品・システムの納入後も長期にわたる手厚いアフターサポートを実施して「信頼の社会システム」を提供することにより、道路利用者と道路での工事等による作業者に対して安全・安心・快適さの提供に貢献しております",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "高速道路等の新規建設需要が減少し、維持更新需要にシフトしていく中で、情報板メーカーから道路交通安全を守る総合設備メーカーへと業容拡大を目指し、インフラ大規模修繕の施工現場ニーズに対応した製品ラインナップの拡充を目指してまいります",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "また、IoT センサーを活用した防災、減災システム製品のラインナップ拡充を目指しております",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "防災・減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新商品開発ヒストリー",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発ヒストリー",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社創業時から現在に至るまでに世に送り出してきた新製品の数々をご紹介します",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "目まぐるしく変化する時代とともに、当社が手掛けてきた製品もさまざまに変化してきました",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "また、更新や撤去等により現在設置されていない製品もあります",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "(社会インフラ - 防災・減災ソリューション)",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "(社会インフラ - 道路安全ソリューション)",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式LED標識車を開発、日本道路公団 大月管理事務所(現：中日本高速道路株式会社 八王子支社 大月保全サービスセンター)へ納入",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表取締役専務 ITS情報装置カンパニー工事ソリューション本部担当、ITS情報装置カンパニー工事ソリューション本部長兼企画部長",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "当社代表取締役社長 ITS情報装置事業本部 トータルソリューション本部長",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "(1) 会社法・金融商品取引法等の関係諸法令、証券取引所の定める適時開示規則に従い、 透明性、公正性、継続性を基本とした、迅速かつ正確な情報開示を行います",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-policy/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-library/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の電子公告は、株式会社プロネクサスが運営する電子公告掲載サービス 「",
+    "url": "https://www.nagoya-denki.co.jp/ir/announcement/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-calender/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-calender/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/dividend/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/sustainability/society_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/sustainability/society_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "防災･減災ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "道路安全ソリューション",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしながらその中には、業績動向などの非公開情報や、金融商品取引法の",
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2022/03/ir_otoiawase.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2015年４月 代表取締役専務 ITS情報装置カンパニー工事ソリューション本部担当、ITS情報装置カンパニー工事ソリューション本部長兼企画部長",
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "2017年２月 代表取締役社長 ITS情報装置事業本部トータルソリューション本部長",
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "資金の貸付、製品等の販売及び仕入",
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1966年、日本初となる遠隔操作型の道路情報板を発明",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月28日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月19日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月18日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期 決算説明会開催のご案内（機関投資家・アナリスト向け）",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1958年5月",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に七宝町と美和町、甚目寺町が合併し成立した新しいまちです",
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 - 名古屋電機工業株式会社",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年代",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年6月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年6月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年8月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年10月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年2月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "1993年5月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年6月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年10月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "1986年4月",
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期第2四半期 決算説明会開催のご案内（機関投資家・アナリスト向け）",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月02日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会 書き起こしと動画公開のお知らせ",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年05月12日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期 決算説明会開催のご案内（機関投資家・アナリスト向け）",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月02日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期中間期 決算説明会 書き起こしと動画公開のお知らせ",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年10月31日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期 決算説明会開催のご案内（機関投資家・アナリスト向け）",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年06月24日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月25日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年06月25日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月25日",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "当社創業時から現在に至るまでに世に送り出してきた新製品の数々をご紹介します",
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "【直撃取材】ヒューマノイドは現場で使えるか／フィジカルAIの実装は物流でどこまで進んでいるのか／人型の実装がまだ少ない理由／Mujin、Geek+、川崎重工業の最新展示／中国勢の強み",
+    "url": "https://www.youtube.com/watch?v=0clVlq1_rJ4",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業領域 - 会社情報 - 名古屋電機工業 株式会社 — 事業領域 - 会社情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > 会社情報",
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "pass": 3
+   },
+   {
+    "quote": "交通無法地帯インドに安全を売り込め 名古屋電機工業 2026年 ... — 交通無法地帯インドに安全を売り込め 名古屋電機工業 2026年 ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=0clVlq1_rJ4",
+    "pass": 3
+   },
+   {
+    "quote": "【銘柄分析レポート】 名古屋電機工業 (6797) （2026/5/13） — 【銘柄分析レポート】 名古屋電機工業 (6797) （2026/5/13） note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/ke_to_/n/n0fb7960657a0",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 (株)【東証スタンダード市場上場】 - マイナビ — 名古屋電機工業 (株)【東証スタンダード市場上場】 - マイナビ マイナビ https://job.mynavi.jp > search > corp249475 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp249475/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 名古屋電機工業 】[6797]企業概要 社員数や役員報酬・資本金 — 【 名古屋電機工業 】[6797]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=6797",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 ・中期計画 資料 - IR情報 - 名古屋電機工業 株式会社 — 決算説明 ・中期計画 資料 - IR情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-library/results_briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 - IR情報 - 名古屋電機工業 株式会社 — 決算 短信 - IR情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > IR情報 > IRライブラリ",
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-library/statement/",
+    "pass": 3
+   },
+   {
+    "quote": "【 名古屋電機工業 】[6797] 決算 発表や業務・財務情報 | 日経 ... — 【 名古屋電機工業 】[6797] 決算 発表や業務・財務情報 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6797",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 【6797】の最新 決算 発表、業績修正 - 株探 — 名古屋電機工業 【6797】の最新 決算 発表、業績修正 - 株探 株探 https://kabutan.jp > 名古屋電機工業 (6797) > 決算",
+    "url": "https://kabutan.jp/stock/finance?code=6797",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 - 名古屋電機工業 株式会社 — IR情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > ...",
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - 会社情報 - 名古屋電機工業 株式会社 — 組織図 - 会社情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > 会社情報",
+    "url": "https://www.nagoya-denki.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 株式会社 — 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp",
+    "url": "https://www.nagoya-denki.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 の企業情報 - 6797 / ｽﾀﾝﾀﾞｰﾄﾞ / 電気機器 — 名古屋電機工業 の企業情報 - 6797 / ｽﾀﾝﾀﾞｰﾄﾞ / 電気機器 バフェット・コード https://www.buffett-code.com > company",
+    "url": "https://www.buffett-code.com/company/6797/",
+    "pass": 3
+   },
+   {
+    "quote": "代表ごあいさつ - 会社情報 - 名古屋電機工業 株式会社 — 代表ごあいさつ - 会社情報 - 名古屋電機工業 株式会社 名古屋電機工業株式会社 https://www.nagoya-denki.co.jp > 会社情報",
+    "url": "https://www.nagoya-denki.co.jp/company/message/",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 【6797】の 社長 ・役員 - キタイシホン — 名古屋電機工業 【6797】の 社長 ・役員 - キタイシホン キタイシホン https://kitaishihon.com > company > board-of-director",
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 - Wikipedia — 名古屋電機工業 - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 名古屋電機工業",
+    "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 ［6797］スタンダード IPO - YouTube — 名古屋電機工業 ［6797］スタンダード IPO - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Obr7rJHjy9Q",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋電機工業 様の「挑戦する組織」への変革 — 名古屋電機工業 様の「挑戦する組織」への変革 日本の人事部 https://jinjibu.jp > ... > コラム一覧",
+    "url": "https://jinjibu.jp/spcl/holly/cl/detl/6866/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nagoya-denki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/company/business-field/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/company/directors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/announcement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/ir-calender/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/dividend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/sustainability/society_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/ir/ir/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2026/10/fy2027mar_int_financial_results_briefing_notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2022/03/ir_otoiawase.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2026/05/fy2026mar_financial_results_briefing_notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2025/11/fy2026mar_int_financial_results_briefing_notice.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2026/06/IR_report_69.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2025/11/IR_report_69_interim.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2025/06/IR_report_68.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nagoya-denki.co.jp/cms/wp-content/uploads/2024/11/IR_report_68_interim.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=0clVlq1_rJ4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kitaishihon.com/company/6797/board-of-director",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名古屋電機工業",
+   "results": [
+    "https://www.nagoya-denki.co.jp/",
+    "https://nagoyadenki.co.jp/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6797",
+    "https://job.mynavi.jp/28/pc/search/corp249475/outline.html",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD",
+    "https://ja.wikipedia.org/wiki/名古屋電機工業",
+    "https://www.nagoya-denki.co.jp/company/",
+    "https://finance.yahoo.co.jp/quote/6797.T/profile",
+    "https://finance.yahoo.co.jp/quote/6797.T/financials",
+    "https://shikiho.toyokeizai.net/stocks/6797"
+   ]
+  },
+  {
+   "query": "名古屋電機工業 ビジネスモデル",
+   "results": [
+    "https://www.nagoya-denki.co.jp/company/business-field/",
+    "https://www.youtube.com/watch?v=0clVlq1_rJ4",
+    "https://note.com/ke_to_/n/n0fb7960657a0",
+    "https://job.mynavi.jp/28/pc/search/corp249475/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6797",
+    "https://kitaishihon.com/company/6797/human-capital",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD",
+    "https://www.youtube.com/watch?v=Obr7rJHjy9Q",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrQz&q_no=9",
+    "https://ja.wikipedia.org/wiki/名古屋電機工業"
+   ]
+  },
+  {
+   "query": "名古屋電機工業 決算説明資料",
+   "results": [
+    "https://www.nagoya-denki.co.jp/ir/ir-library/results_briefing/",
+    "https://www.nagoya-denki.co.jp/ir/ir-library/statement/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6797",
+    "https://kabutan.jp/stock/finance?code=6797",
+    "https://www.nagoya-denki.co.jp/ir/",
+    "https://www.youtube.com/watch?v=WV9CPXUWnqs",
+    "https://finance.biggo.com.tw/news/jpx_tdnet_140120261029559600",
+    "https://kitaishihon.com/company/6797/ir-library",
+    "https://edinetdb.jp/company/E02055/presentations/",
+    "https://www.buffett-code.com/company/6797/library"
+   ]
+  },
+  {
+   "query": "名古屋電機工業 事業系統図",
+   "results": [
+    "https://www.nagoya-denki.co.jp/company/organization/",
+    "https://www.nagoya-denki.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp249475/outline.html",
+    "https://www.buffett-code.com/company/6797/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6797",
+    "https://www.youtube.com/watch?v=Obr7rJHjy9Q",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD",
+    "https://www.crex-data.com/company/6797",
+    "https://nagoyadenki.co.jp/company/",
+    "https://ja.wikipedia.org/wiki/名古屋電機工業"
+   ]
+  },
+  {
+   "query": "名古屋電機工業 社長 インタビュー",
+   "results": [
+    "https://www.nagoya-denki.co.jp/company/message/",
+    "https://kitaishihon.com/company/6797/board-of-director",
+    "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD",
+    "https://www.youtube.com/watch?v=Obr7rJHjy9Q",
+    "https://jinjibu.jp/spcl/holly/cl/detl/6866/",
+    "https://nagoyadenki.co.jp/company/",
+    "https://www.youtube.com/watch?v=0clVlq1_rJ4",
+    "https://www.nagoya-denki.co.jp/recruit/people_work/voice/",
+    "https://www.openwork.jp/one_answer.php?vid=a0A1000001nusF0&qco=1",
+    "https://kigyo-scope.jp/company/6797/ceo/"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

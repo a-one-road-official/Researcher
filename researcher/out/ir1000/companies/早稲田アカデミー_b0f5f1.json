@@ -1,0 +1,831 @@
+{
+ "name": "早稲田アカデミー",
+ "aliases": [],
+ "context": "証券コード4718／サービス業／プライム（内国株式）／2026.03期 売上高37,659百万円 営業利益率10.5%",
+ "researched_at": "2026-11-02T21:00:28.888284+00:00",
+ "official_url": "https://www.waseda-ac.co.jp/",
+ "identified_by": "search:yahoo_jp:早稲田アカデミー",
+ "profile": {
+  "設立": [
+   {
+    "label": "法人設立（創業）",
+    "value": "1974年11月（1975年7月）",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "376億5,886万円（2026年3月期）",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "小学生・中学生・高校生を対象とする進学塾の経営等",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "期末従業員数（連結／正社員）",
+    "value": "1,109名（2026年3月期）",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=header",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=header",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=header",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=header",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/system_requirements/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/system_requirements/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、ご提供いただけない場合には、学習指導、進路指導、その他事務処理をはじめとする各種サービスに何らかの支障をきたす可能性がございます",
+    "url": "https://www.waseda-ac.co.jp/inquiry/privacy/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=jizen",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=jizen",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=taiken",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=taiken",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "教育業界、学習塾業界におきましては、様々な教育改革の波に加え、AIやICTを活用した新たな教育サービスの急速な普及などにより、取り巻く環境は大きく変化しております",
+    "url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "このような経営環境の下、当社グループにおきましては、引き続き「サービス品質の向上」と「難関中学・高校・大学の合格実績伸長」により、ブランド力の向上と集客力の強化を図るとともに、人材の育成と業務効率の改善をより一層推進していくことで、継続的に収益を拡大させていくことを基本方針として取り組んでまいります",
+    "url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "運営本部長兼デジタルソリューション部長就任",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "同社財務部長兼丸紅フィナンシャル サービス株式会社代表取締役社長就任",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "海外生・帰国生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/system_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "首都圏外生向けサービス",
+    "url": "https://www.waseda-ac.co.jp/system_requirements/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス・エンタメ",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "ここから少子化によって市場が小さくなっていく中、中学受験を主力とする早稲田アカデミーは将来的にどこに商機を見いだしているのでしょうか",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "依然としてSAPIX（サピックス）さんをはじめ他塾に通われている生徒さんはたくさんいらっしゃるわけで、（中学受験を本格的に目指す）小学3～6年生の4学年に対し、どういったサービスを提供するかというところで真剣勝負していけば、まだまだ伸ばせると考えています",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "アプリを使うと最短即日で、採点・添削された解答用紙が返却されるサービスだ",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "「様々なサービスの組み合わせにより、対面授業と同等の授業の質を担保していきたいと考えています",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "双方向のウェブ授業や早稲田アカデミーEASTは、早稲田アカデミーの校舎がない首都圏外や海外にも生徒数を増やせる画期的なサービスで、成長の可能性を感じています」",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトに掲載されるサービスを通じて書籍等を購入された場合、売上の一部が朝日新聞社に還元される事があります",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/?bid2=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/?bid2=footer",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/policy.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミーの会社概要についてご紹介します",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "上記の他、個別進学館ブランドにおいてフランチャイズ校舎あり",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "当社の役員を紹介します",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "ロデム綜合法律事務所パートナー",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "同事務所パートナー就任",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "ロデム綜合法律事務所入所・パートナー就任（現任）",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "当社のこれまでの歩みをご紹介します",
+    "url": "https://www.waseda-ac.co.jp/corp/about/history.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/history.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/about/organization.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/policy/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "早稲田アカデミー個別進学館フランチャイズオーナー募集中",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/finance/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "例えば円周率を教えた時は、糸を配って計測させたり、円周率の計算に生涯を捧げたオランダの数学者・ルドルフについて紹介したり",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "ブルーバックスシリーズには授業に役立つ本がたくさんあり、後輩講師の指導に際し、推薦本を社内報で紹介したこともあります",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "企業・団体などのリーダーに、これまでの人生で感銘を受けた本や影響を受けた本、現在読んでいる本などを紹介いただきます",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "事務手数料等は不要です",
+    "url": "https://www.waseda-ac.co.jp/inquiry/privacy/?bid2=footer",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革を掲載しています",
+    "url": "https://www.waseda-ac.co.jp/corp/about/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1974年11月（1975年7月）",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1987年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1991年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1995年10月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1997年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2003年6月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2008年6月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2016年6月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2019年6月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1994年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1997年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2001年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2014年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2019年5月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2019年7月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "1995年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2005年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2017年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2005年4月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2006年2月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月",
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 早稲田アカデミー",
+    "url": "https://www.waseda-ac.co.jp/corp/about/history.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算発表",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算説明会",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月7日 4:45",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月2日",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://diamond.jp/articles/-/389263",
+    "pass": 3
+   },
+   {
+    "quote": "2020年3月に社長に就任した山本豊さんは、主に運営畑を歩みつつ、4年前まで算数の現役講師を務め続けた",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "1963年長野県生まれ",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "企業目標を実行・実現するため、常に真摯に、奢らず、お客様の立場に立って、最高の成果を追求し続けます",
+    "url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+    "pass": 1
+   },
+   {
+    "quote": "利用者情報の外部送信",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【少子化でも過去最高益】 早稲田アカデミー 、本当の強さは ... — 【少子化でも過去最高益】 早稲田アカデミー 、本当の強さは ... note https://note.com > HR7",
+    "url": "https://note.com/hr793/n/n53e27cea532d",
+    "pass": 3
+   },
+   {
+    "quote": "新規事業 | 早稲田アカデミー の公式採用サイト — 新規事業 | 早稲田アカデミー の公式採用サイト recruit.waseda-ac.co.jp https://recruit.waseda-ac.co.jp > 早稲アカを知る",
+    "url": "https://recruit.waseda-ac.co.jp/company/new-business",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会 資料 | IR・投資家情報 - 早稲田アカデミー — 説明 会 資料 | IR・投資家情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > data > all_report",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/data/all_report.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | IR・投資家情報 - 早稲田アカデミー — IR 資料 室 | IR・投資家情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > data",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/data/",
+    "pass": 3
+   },
+   {
+    "quote": "IRカレンダー | IR・投資家情報 - 早稲田アカデミー — IRカレンダー | IR・投資家情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > event",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/event/",
+    "pass": 3
+   },
+   {
+    "quote": "IR・投資家情報 - 早稲田アカデミー — IR・投資家情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "【 早稲田アカデミー 】[4718]IR情報 中期経営計画や 決算 短信 — 【 早稲田アカデミー 】[4718]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=4718",
+    "pass": 3
+   },
+   {
+    "quote": "組織体制 | 企業情報 - 早稲田アカデミー — 組織体制 | 企業情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > about > organization",
+    "url": "https://www.waseda-ac.co.jp/corp/about/organization.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 - 早稲田アカデミー — 会社概要 | 企業情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > about > company",
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "早稲アカ 早わかり | IR・投資家情報 - 早稲田アカデミー — 早稲アカ 早わかり | IR・投資家情報 - 早稲田アカデミー waseda-ac.co.jp https://www.waseda-ac.co.jp > corp > waseaca",
+    "url": "https://www.waseda-ac.co.jp/corp/ir/waseaca/",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田アカデミー 【4718】の 事業 内容 - キタイシホン — 早稲田アカデミー 【4718】の 事業 内容 - キタイシホン キタイシホン https://kitaishihon.com > company > business",
+    "url": "https://kitaishihon.com/company/4718/business",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田アカデミー 代表取締役 社長 ・山本豊さんの本棚・教育の ... — 早稲田アカデミー 代表取締役 社長 ・山本豊さんの本棚・教育の ... 好書好日 https://book.asahi.com > インタビュー > リーダーたちの本棚",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   },
+   {
+    "quote": "先輩職員経験談 | 早稲田アカデミー の公式採用サイト — 先輩職員経験談 | 早稲田アカデミー の公式採用サイト recruit.waseda-ac.co.jp https://recruit.waseda-ac.co.jp > category > interviews",
+    "url": "https://recruit.waseda-ac.co.jp/blog/category/interviews",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田アカデミー の塾講師に インタビュー - ホンキノコエ — 早稲田アカデミー の塾講師に インタビュー - ホンキノコエ ホンキノコエ https://www.honkoe.com > interview",
+    "url": "https://www.honkoe.com/interview/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "入社から10年ほどして本社の運営部長に就任し、料金の収納や教材の在庫管理、新校舎設立に向けた不動産交渉、広告宣伝、情報システム管理など、業務の幅が一気に広がりました",
+    "url": "https://book.asahi.com/article/14538938",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.waseda-ac.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/?bid2=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/?bid2=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?bid2=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/?bid2=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/system_requirements/?bid2=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/privacy/?bid2=footer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=jizen",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/?q=taiken",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/inquiry/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/policy.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/message.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/company.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/officer.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/history.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/about/organization.html?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/ir/?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/ir/policy/?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/corp/ir/finance/?bid5=header",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waseda-ac.co.jp/system_requirements/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://school.nikkei.co.jp/s/mbawbm.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasabi.co.jp/site/syllabus/business-model/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/389263",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://book.asahi.com/article/14538938",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "早稲田アカデミー",
+   "results": [
+    "https://www.waseda-ac.co.jp/",
+    "https://x.com/WASEDA_ACADEMY",
+    "https://ja.wikipedia.org/wiki/%E6%97%A9%E7%A8%B2%E7%94%B0%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC",
+    "https://www.waseaca-kobetsu.jp/",
+    "https://www.jyukunavi.jp/hyouban/blist/13.html",
+    "https://ja.wikipedia.org/wiki/早稲田アカデミー",
+    "https://www.waseda-ac.co.jp/waseda_online/",
+    "https://schoolmatching.jp/columns/juku-guide-waseda-academy-2026",
+    "https://online-apply.waseda-ac.co.jp/",
+    "https://waseaca-singapore.com/"
+   ]
+  },
+  {
+   "query": "早稲田アカデミー ビジネスモデル",
+   "results": [
+    "https://school.nikkei.co.jp/s/mbawbm.html",
+    "https://yasabi.co.jp/site/syllabus/business-model/",
+    "https://note.com/hr793/n/n53e27cea532d",
+    "https://recruit.waseda-ac.co.jp/company/new-business",
+    "https://wasedaneo.jp/course/course-detail/11454/",
+    "https://www.waseda-ac.co.jp/corp/ir/waseaca/",
+    "https://emoor.co.jp/20250522/",
+    "https://www.youtube.com/watch?v=p3Cq78newGM",
+    "http://daiwair.webcdn.stream.ne.jp/www11/daiwair/qlviewer/pdf/1603124718.pdf",
+    "https://ja.wikipedia.org/wiki/早稲田アカデミー"
+   ]
+  },
+  {
+   "query": "早稲田アカデミー 決算説明資料",
+   "results": [
+    "https://www.waseda-ac.co.jp/corp/ir/data/all_report.html",
+    "https://www.waseda-ac.co.jp/corp/ir/data/",
+    "https://www.waseda-ac.co.jp/corp/ir/event/",
+    "https://www.waseda-ac.co.jp/corp/ir/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=4718",
+    "https://www.waseda-ac.co.jp/corp/ir/faq/",
+    "https://www.waseda-ac.co.jp/corp/sitemap/",
+    "https://www.waseda-ac.co.jp/corp/ir/finance/",
+    "https://www.waseda-ac.co.jp/corp/ir/finance/highlight.html",
+    "https://www.waseda-ac.co.jp/corp/ir/data/results.html"
+   ]
+  },
+  {
+   "query": "早稲田アカデミー 事業系統図",
+   "results": [
+    "https://www.waseda-ac.co.jp/corp/about/organization.html",
+    "https://www.waseda-ac.co.jp/corp/about/company.html",
+    "https://www.waseda-ac.co.jp/corp/ir/",
+    "https://www.waseda-ac.co.jp/corp/ir/waseaca/",
+    "https://kitaishihon.com/company/4718/business",
+    "https://www.waseda-ac.co.jp/corp/ir/data/report.html",
+    "https://www.waseda-ac.co.jp/corp/",
+    "https://note.com/hr793/n/n53e27cea532d",
+    "https://job.mynavi.jp/28/pc/search/corp54422/outline.html",
+    "https://ja.wikipedia.org/wiki/早稲田アカデミー"
+   ]
+  },
+  {
+   "query": "早稲田アカデミー 社長 インタビュー",
+   "results": [
+    "https://diamond.jp/articles/-/389263",
+    "https://book.asahi.com/article/14538938",
+    "https://recruit.waseda-ac.co.jp/blog/category/interviews",
+    "https://www.youtube.com/watch?v=sqT9WXJzXPE",
+    "https://www.honkoe.com/interview/",
+    "https://ja.wikipedia.org/wiki/%E9%A0%88%E9%87%8E%E7%94%B0%E8%AA%A0",
+    "https://kigyo-scope.jp/company/4718/ceo/",
+    "https://www.shanon.co.jp/case/education/waseda-ac/",
+    "https://www.waseda-ac.co.jp/corp/about/message.html",
+    "https://bunshun.jp/articles/-/79619"
+   ]
+  }
+ ],
+ "missing": {
+  "ビジネスモデル": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部4頁・検索5回）"
+ }
+}

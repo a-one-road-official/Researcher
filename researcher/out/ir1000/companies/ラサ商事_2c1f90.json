@@ -1,0 +1,1117 @@
+{
+ "name": "ラサ商事",
+ "aliases": [],
+ "context": "証券コード3023／卸売業／スタンダード（内国株式）／2026.03期 売上高28,201百万円 営業利益率10.5%",
+ "researched_at": "2026-11-02T21:00:32.230962+00:00",
+ "official_url": "https://www.rasaco.co.jp/",
+ "identified_by": "search:yahoo_jp:ラサ商事",
+ "profile": {
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "25,347百万円（単体）",
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "2024年3月21日号に弊社商品の耐水型汚泥処理ポンプに関する記事が掲載されました",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月20日号に弊社商品の多目的モバイルポンプユニット「SUPER",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "３．「カーボンニュートラル対応商品の開拓」",
+    "url": "https://www.rasaco.co.jp/ir/management06.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境プラント設備｜製品情報｜ラサ商事株式会社",
+    "url": "https://www.rasaco.co.jp/products/environment01.html",
+    "pass": 1
+   },
+   {
+    "quote": "水砕製造プラント（RASA SYSTEM）｜環境プラント設備｜製品情報｜ラサ商事株式会社",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品となります",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "「RASA SYSTEM」により水砕スラグと呼ばれる製品となります",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "これを副産物としてリサイクルし、セメント原料や路盤材（舗装道路の下部に敷く砂・砂利当の材料）などとして利用できるように製品化するシステムが、RASA SYSTEM（水砕スラグ製造設備）です",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "これが製品となって有効活用される「水砕スラグ」です",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、会社法、金融商品取引法その他諸法令ならびに東京証券取引所の「有価証券上場規程」に定める会社情報の適時開示に関する規定（以下、「適時開示規則」）に従って情報開示を行います",
+    "url": "https://www.rasaco.co.jp/ir/disclosure.html",
+    "pass": 1
+   },
+   {
+    "quote": "資源・金属素材関連素材と化成品関連事業素材で商品の重複が少ないメリットを生かし、ネットワークの相互活用を随時拡大し、売上・利益の拡大につなげていきます",
+    "url": "https://www.rasaco.co.jp/ir/management04.html",
+    "pass": 1
+   },
+   {
+    "quote": "産機・建機関連、環境設備関連においては、技術力に裏付けされた提案営業に引き続き注力していくとともに、産機・建機関連につきましては、ポンプを中心とした新商品の育成、海外市場の拡大、そしてメンテナンスサービス体制の一層の充実に取り組んでまいります",
+    "url": "https://www.rasaco.co.jp/ir/management04.html",
+    "pass": 1
+   },
+   {
+    "quote": "連事業の一部製品の需要が増加したことなどにより、売上、各利益について当初予想を上回る見",
+    "url": "https://www.rasaco.co.jp/pdf/ir/release/20261023.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "産機・建機関連では、民間企業向け主力ポンプの販売が減少したものの、リサイクル設備の工事案件や国内外で",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "環境設備関連では、民間企業及び電力企業向けピストンポンプの大型整備案件の減少に加え、海外輸入商品の特",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化成品関連では、半導体向け電線分野の需要が回復したほか、取扱商品の市況上昇により関連部門の売上高は20",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 3,452 3,319",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "2026年６月25日開催の当社第124期定時株主総会において、決議事項が決議されましたので、金融商品取引法第24条",
+    "url": "https://www.rasaco.co.jp/pdf/ir/stock06/20260626.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業は資源・金属素材関連（ジルコンサンド等鉱産物の輸出入）、産機・建機関連（流送機器・建設機械の販売・メンテナンス）、環境設備関連（高圧ポンプ・水砕設備）、化成品関連（合成樹脂・化学製品）、プラント・設備工事関連（配管・動機械工事）、不動産賃貸関連の6事業を展開する",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "海外有力メーカー（アイルカ社、大平洋機工社、プツマイスター社等）との総販売代理店契約を基盤に、機器本体の販売に加え、部品供給・メンテナンス・整備サービスを組み合わせた複合収益モデルを採用する",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "製鉄・精錬・電力・化学・半導体等の幅広い産業に供給実績を持ち、分解・組立が容易でその場でメンテナンス可能な製品特性が顧客の設備長寿命化ニーズに合致し、継続的な部品・整備需要を創出している",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2029年まで延長された契約も含め、安定的な商品調達・独占販売権を確保しており、競合他社が短期間で模倣困難な仕入・販売ネットワークを構築している",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "下水汚泥の低含水率化ニーズ対応の商品改良やバイオガス発電向けポンプ需要への対応を進め、部品・整備サービスの積み上げによる安定収益基盤の拡充を図る",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "今後も様々な切り口でサービスを開始予定です",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経の記事利用サービスについて",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経優秀製品・サービス賞2025",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日立・プリファードネットワークスなどに 日経優秀製品賞が決定",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版が提供するニュースレターサービス「NIKKEI Briefing」などのご登録はこちら",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経IDなどその他のサービスに自動で登録されることはありません",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "各種サービス",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷サービス",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "三菱重工業株式会社様より、IGCC発電所の建設・保守工事への貢献に対して感謝状の贈呈がありました",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、賃貸収入は増加したものの、支払手数料",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月21日号に弊社商品の耐水型汚泥処理ポンプに関する記事が掲載されました",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月20日号に弊社商品の多目的モバイルポンプユニット「SUPER",
+    "url": "https://www.rasaco.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年３月期第３四半期決算短信〔日本基準〕(連結)",
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2027年３月期第１四半期決算短信〔日本基準〕(連結)（PDF：530KB）",
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月、当社は、2025 年度（2026年 3 月期）から 2027 年度（2028 年 3 月期）までの 3 ヵ年を計画期間とする中期経営計画『“Step Forward”Rasa",
+    "url": "https://www.rasaco.co.jp/ir/management03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library07.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月28日（金）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月15日（水）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月13日（金）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年12月12日（金）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月5日（金）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月5日（土）13：00～13：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年12月13日（金）14：00～14：50",
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2015年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2012年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年3月期",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月28日（木）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年11月28日（金）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期第2四半期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年5月28日（水）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月26日（火）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期第2四半期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年5月28日（火）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月27日（月）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期第2四半期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年5月30日（火）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期 決算説明会資料",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年11月24日（木）15：00開始",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期第2四半期",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "会社・事業紹介等",
+    "url": "https://www.rasaco.co.jp/ir/library07.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介等",
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ構築宣言について",
+    "url": "https://www.rasaco.co.jp/ir/management01.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介等",
+    "url": "https://www.rasaco.co.jp/ir/library01.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社・事業紹介等",
+    "url": "https://www.rasaco.co.jp/ir/library02.html",
+    "pass": 1
+   },
+   {
+    "quote": "旦全09な企業の概要をご紹介",
+    "url": "https://www.rasaco.co.jp/ir/img/individual01_02.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "総販売代理店契約を軸に、販売・部品・整備の複合収益で安定収益を確保",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "海外有力メーカー（アイルカ社、大平洋機工社、プツマイスター社等）との総販売代理店契約を基盤に、機器本体の販売に加え、部品供給・メンテナンス・整備サービスを組み合わせた複合収益モデルを採用する",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "海外有力メーカーとの長期総販売代理店契約網",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "アイルカ社（ジルコンサンド）、大平洋機工社（ワーマンポンプ）、プツマイスター社（高圧ピストンポンプ）等、複数の海外有力メーカーと長期の総販売代理店契約を締結",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "サービス紹介へ",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日経電子版のサービス・機能を紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "講演会向け講師紹介",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "紙面紹介と購読案内",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お客様のニーズに合わせた柔軟なプロセスで対応できるのが、当社の経験に基づいた技術力です",
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境設備関連につきましては、『水砕スラグ製造設備「ラサ・システム」の販売先の拡大、及び新技術開発』『スラグ処理の販路拡大』等に取り組んでまいります",
+    "url": "https://www.rasaco.co.jp/ir/management04.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客との契約から",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,427 1,753 431 1,641 447 64 5,766",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上高 1,379 2,050 326 2,093 662 66 6,577",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記情報（セグメント情報等）」に記載の通りであり",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主要顧客は製鉄・精錬・電力・化学・半導体・自動車・官庁など幅広い産業分野に及び、社会インフラの維持・整備を支える付加価値創出企業として位置づけられている",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "製鉄・精錬・電力・化学・半導体等の幅広い産業に供給実績を持ち、分解・組立が容易でその場でメンテナンス可能な製品特性が顧客の設備長寿命化ニーズに合致し、継続的な部品・整備需要を創出している",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント情報",
+    "url": "https://www.rasaco.co.jp/ir/finance01.html",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報等） ………………………………………………………………………………………８",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間におけるセグメント別の状況は、次のとおりです",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上減収から、セグメント利益は34百万円となり、前年同四半期と比べ15百万円(△31.2％)の減益となりました",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、原価率が高い大型案件によりセグメント利益は79百万円と",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "一方、販売管理費の減少からセグメント利益は63百万円と",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "や設備管理費が増加したことから、セグメント利益は53百万円となり、前年同四半期と比べ０百万円(1.0％)の増",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報等）",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【セグメント情報】",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１．報告セグメントごとの売上高及び利益又は損失の金額に関する情報並びに収益の分解情報",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．報告セグメントの利益又は損失の金額の合計額と四半期連結損益計算書計上額との差額及び当該差額の主な内容",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 272",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間取引消去 0",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．報告セグメントごとの固定資産の減損損失又はのれん等に関する情報",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益 34 79 63 58 105 53 395",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント計 395",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "顧客との契約から生じる収益を分解した情報は、「注記情報（セグメント情報等）」に記載の通りであり",
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "化成品関連は半導体向け電線需要回復と市況上昇で売上+27.5%・利益+87.0%、プラント・設備工事関連は大型工事完工により前年同四半期の損失から利益105百万円へ転換するなど、複数セグメントで改善が確認された",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "資源・金属素材関連は取扱原料の一部で中国の輸出管理強化による納期長期化の影響を受け、売上高1,379百万円(△3.4%)、セグメント利益34百万円(△31.2%)と減益",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期～2028年3月期の3か年計画で、既存の産機・建機、化成品、環境設備等の各セグメントの収益基盤強化を図る",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "当第1四半期は中国輸出管理強化の影響で同セグメントは減収減益となり、代替調達先の確保が課題",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "事業セグメント別の売上構成と業績詳細",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "量本的ビジネスモデル",
+    "url": "https://www.rasaco.co.jp/ir/img/individual01_02.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "ビジネスモデル",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "海外有力メーカー（アイルカ社、大平洋機工社、プツマイスター社等）との総販売代理店契約を基盤に、機器本体の販売に加え、部品供給・メンテナンス・整備サービスを組み合わせた複合収益モデルを採用する",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ラサ商事 ってどんな会社？｜個人投資家の皆様へ｜IR情報 — ラサ商事 ってどんな会社？｜個人投資家の皆様へ｜IR情報 ラサ商事株式会社 https://www.rasaco.co.jp > individual01",
+    "url": "https://www.rasaco.co.jp/ir/individual01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事 株式会社（3023）— 企業情報 | ENVALITH · 企業概要 — ラサ商事 株式会社（3023）— 企業情報 | ENVALITH · 企業概要 ENVALITH https://envalith.com > companies > overview",
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "pass": 3
+   },
+   {
+    "quote": "ポンプ販売｜ ラサ商事 会社情報 — ポンプ販売｜ ラサ商事 会社情報 スラリーポンプ.jp https://スラリーポンプ.jp > about",
+    "url": "https://xn--zck0cra1cf9c3c.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事 株式会社の会社概要・製品情報 - Metoree — ラサ商事 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/3415/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 関連 資料 ｜IRライブラリー｜IR情報 - ラサ商事 — 決算 関連 資料 ｜IRライブラリー｜IR情報 - ラサ商事 ラサ商事株式会社 https://www.rasaco.co.jp > library02",
+    "url": "https://www.rasaco.co.jp/ir/library02.html",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会｜IRイベント - ラサ商事 — 決算説明 会｜IRイベント - ラサ商事 ラサ商事株式会社 https://www.rasaco.co.jp > event03",
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 - ラサ商事 株式会社 - EDINET DB — IR 資料 - ラサ商事 株式会社 - EDINET DB EDINET DB https://edinetdb.jp > ラサ商事株式会社",
+    "url": "https://edinetdb.jp/company/E02547/ir-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "【 ラサ商事 】[3023]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 ラサ商事 】[3023]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=3023",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 - ラサ商事 について — 組織図 - ラサ商事 について ラサ商事株式会社 https://www.rasaco.co.jp > company > org",
+    "url": "https://www.rasaco.co.jp/company/org.html",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事 ってどんな会社？｜個人投資家の皆様へ｜IR情報 — ラサ商事 ってどんな会社？｜個人投資家の皆様へ｜IR情報 ラサ商事株式会社 https://www.rasaco.co.jp > individual01_1",
+    "url": "https://www.rasaco.co.jp/ir/individual01_1.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜ ラサ商事 会社情報 — 会社概要｜ ラサ商事 会社情報 スラリーポンプ.jp https://スラリーポンプ.jp > about > outline",
+    "url": "https://xn--zck0cra1cf9c3c.jp/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事 | 企業情報 | イプロスものづくり — ラサ商事 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/83276/",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー – ラサ商事 株式会社 採用サイト — 社員 インタビュー – ラサ商事 株式会社 採用サイト ラサ商事株式会社 https://www.rasaco.co.jp > recruit > interview",
+    "url": "https://www.rasaco.co.jp/recruit/interview",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事社長 に青井邦夫氏 - 日本経済新聞 — ラサ商事社長 に青井邦夫氏 - 日本経済新聞 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "トップへの インタビュー ラサ商事 代表取締役 社長 井村周一 — トップへの インタビュー ラサ商事 代表取締役 社長 井村周一 CiNii https://cir.nii.ac.jp > crid",
+    "url": "https://cir.nii.ac.jp/crid/1521699230022607616",
+    "pass": 3
+   },
+   {
+    "quote": "ラサ商事 、 社長 に青井邦夫氏 | 日刊工業新聞 電子版 — ラサ商事 、 社長 に青井邦夫氏 | 日刊工業新聞 電子版 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/747616",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ｜経営方針｜IR情報 - ラサ商事 — 社長 メッセージ｜経営方針｜IR情報 - ラサ商事 ラサ商事株式会社 https://www.rasaco.co.jp > management02",
+    "url": "https://www.rasaco.co.jp/ir/management02.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rasaco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/library07.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/individual01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/individual04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/announce/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/event04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/library04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/event03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/products/environment01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/products/environment02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/governance01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/finance01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/stock01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/event01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/library01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/faq01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/disclosure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/management04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/library02.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/release/20261023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/release/20261001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/release/20260901.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/library02/20260807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/release/20260807.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/release/20260729.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/stock06/20260626.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/pdf/ir/stock06/20260625.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.rasaco.co.jp/ir/img/individual01_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://envalith.com/ja/companies/3023/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ラサ商事",
+   "results": [
+    "https://www.rasaco.co.jp/company/outline.html",
+    "https://www.rasaco.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B5%E5%95%86%E4%BA%8B",
+    "https://job.mynavi.jp/27/pc/search/corp99573/outline.html",
+    "https://kabutan.jp/stock/?code=3023",
+    "https://www.siset.or.jp/member/view/75",
+    "https://mono.ipros.com/company/detail/83276/",
+    "https://metoree.com/companies/3415/",
+    "https://ja.wikipedia.org/wiki/ラサ商事",
+    "https://www.rasaco.co.jp/sp/index.html"
+   ]
+  },
+  {
+   "query": "ラサ商事 ビジネスモデル",
+   "results": [
+    "https://www.rasaco.co.jp/ir/individual01.html",
+    "https://envalith.com/ja/companies/3023/overview",
+    "https://xn--zck0cra1cf9c3c.jp/about/",
+    "https://metoree.com/companies/3415/",
+    "https://pr.mono.ipros.com/rasaco/",
+    "https://job.mynavi.jp/27/pc/search/corp99573/outline.html",
+    "https://www.rasaco.co.jp/ir/individual01_2.html",
+    "https://kitaishihon.com/company/3023/business",
+    "https://www.47news.jp/14626242.html",
+    "https://ja.wikipedia.org/wiki/ラサ商事"
+   ]
+  },
+  {
+   "query": "ラサ商事 決算説明資料",
+   "results": [
+    "https://www.rasaco.co.jp/ir/library02.html",
+    "https://www.rasaco.co.jp/ir/event03.html",
+    "https://www.rasa.co.jp/ir/ir.html",
+    "https://edinetdb.jp/company/E02547/ir-docs/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=3023",
+    "https://www.rasaco.co.jp/ir/library01.html",
+    "https://kabutan.jp/stock/finance?code=3023",
+    "https://irbank.net/3023",
+    "https://kitaishihon.com/company/3023/ir-library",
+    "https://edinetdb.jp/company/E02547/presentations/"
+   ]
+  },
+  {
+   "query": "ラサ商事 事業系統図",
+   "results": [
+    "https://www.rasaco.co.jp/company/org.html",
+    "https://www.rasaco.co.jp/ir/individual01_1.html",
+    "https://metoree.com/companies/3415/",
+    "https://xn--zck0cra1cf9c3c.jp/about/outline/",
+    "https://mono.ipros.com/company/detail/83276/",
+    "https://job.mynavi.jp/27/pc/search/corp99573/outline.html",
+    "https://kabutan.jp/news/marketnews/?b=n202607150472",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B5%E5%95%86%E4%BA%8B",
+    "https://www.siset.or.jp/member/view/75",
+    "https://ja.wikipedia.org/wiki/ラサ商事"
+   ]
+  },
+  {
+   "query": "ラサ商事 社長 インタビュー",
+   "results": [
+    "https://www.rasaco.co.jp/recruit/interview",
+    "https://www.nikkei.com/article/DGXZQODZ00003_U5A420C2000000/",
+    "https://cir.nii.ac.jp/crid/1521699230022607616",
+    "https://www.nikkan.co.jp/articles/view/747616",
+    "https://www.rasaco.co.jp/ir/management02.html",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260416505476",
+    "https://www.kabutecho.com/interview/%E3%82%B8%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%89%E3%80%8D%E5%9B%BD%E5%86%85%E3%82%B7%E3%82%A7%E3%82%A250%E8%B6%85-2023%E5%B9%B4%EF%BC%93%E6%9C%88%E6%9C%9F%E3%81%AF%E9%81%8E%E5%8E%BB/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B5%E5%95%86%E4%BA%8B",
+    "https://kitaishihon.com/company/3023/board-of-director",
+    "https://www.rasaco.co.jp/"
+   ]
+  }
+ ],
+ "missing": {
+  "設立": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）",
+  "従業員数": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）",
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像9件／外部2頁・検索5回）"
+ }
+}

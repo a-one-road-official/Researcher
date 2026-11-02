@@ -1,0 +1,988 @@
+{
+ "name": "チノー",
+ "aliases": [],
+ "context": "証券コード6850／電気機器／プライム（内国株式）／2026.03期 売上高31,648百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:05:16.601218+00:00",
+ "official_url": "https://www.chino.co.jp/",
+ "identified_by": "search:yahoo_jp:チノー",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "計測制御機器、計装システムおよびセンサの製造・販売、計装工事",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   }
+  ],
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1913年",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1936年8月1日",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "693名（単体）　1,125名（連結） （2026年3月末現在）",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高 （2025年度）",
+    "value": "208億3千0百万円（単体） 316億4千8百万円（連結）",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "コールセンター（お客様相談室）",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "人命および財産にかかわる高い品質・安全性を要求される設備に使用される場合には、お客様の責任において、保護・安全回路の設計および設置を行って安全性の確保をお願いします",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "機器の購入をご検討中のお客様にはまたとないチャンスです",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の特長：「ループソリューションによる顧客価値の創造」",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様を課題解決へ導く「ループソリューション」として提供しております",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の監視技術は、温度をはじめとする計測対象の、計測・制御・監視を一括管理する専用ソフトウェア技術開発を行っており、お客様の目的に合わせたシステム構築が可能です",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/financial/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/sustainability/csr-report/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/information/detail/20261007/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/information/detail/20260907/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fproducts%2Fwireless%2F",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fsupport%2Fabout-purchase%2F",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fcompany%2Fhistory%2F",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fcompany%2Fbusiness%2F",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様相談室",
+    "url": "https://www.chino.co.jp/jp/serv/information/?cat=ir",
+    "pass": 1
+   },
+   {
+    "quote": "IoTに関しては、まだまだ当社のお客様の現場では様々なご提案ができると思っておりますし、成長産業においても、品質向上や生産性向上等での課題に対して、温度を軸にした製品やシステムを提案し、課題解決に貢献させていただきたいと思います",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、お客様のニーズや要望や課題をきちんと把握していく必要があります",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "当社の取引先企業も多く進出していますので、機器の更新やメンテナンスなどもさせていただいています",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "私は、開発、改善、改革、顧客への対応など、そのすべてに関してスピードが大事だと思っています",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の利便性を考えると、製品の使い方の統一性を維持するという課題もあります",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "一番大事なことは、品質面でしっかりした製品をお客様に提供していくことです",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "このように、現在「これは使えない」といわれる技術であったとしても、お客様の現場ニーズによっては将来当たり前のように使われる技術もありますので、色々な新技術に着目していく必要があります",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お客様自身が気づいていない潜在ニーズを掘り起こしていくことが重要です",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "そのためには、お客様の課題を解決する技術を会社として身につけるとともに、様々なお客様に提案できるコミュニケーション力を強化しなくてはなりません",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "このため顧客の課題を先取りして提案する取り組みを強化",
+    "url": "https://dempa-digital.com/article/706353",
+    "pass": 3
+   },
+   {
+    "quote": "営業と開発の連携体制を進化させ、顧客ニーズに即応する体制づくりも進めていく",
+    "url": "https://dempa-digital.com/article/706353",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報/サービス",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "温度センサ・放射温度計・記録計・調節計・サイリスタレギュレータ・無線ロガー・熱画像計測装置・成分計・燃料電池評価試験装置などの製品情報や、計量法トレーサビリティ制度に準じたJCSS校正試験などの当社のサービス内容をご紹介いたします",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品購入のご検討から、ご購入後のご利用時に役立つ情報をご案内いたします",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品、キャンペーン、アウトレット品",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の測定原理や用語集、よくあるお問い合わせ",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "無線機器 | 製品・サービス | 株式会社チノー",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "国内専用製品",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "チノーWeb会員にご登録頂きますと、製品の取扱説明書がご覧いただけます",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望によりチノーの商品の最新情報をメールでお送りしています",
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証規定",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品は、性能改善、設計変更などにより、お断りなく変更することがございますので、ご購入の際は、弊社営業所または代理店にてご確認くださるようお願いいたします",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、弊社製品の一般的な保証期間、保証範囲などは下記の通りとさせていただきます",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "納入製品の保証期間は、通常納入後1年間ですが、商品によっては別に定める場合があります",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "品質には万全の体制で臨んでおりますが、上記保証期間中に弊社側の製造上の理由による故障が発生した場合はご返送いただくことにより、該当製品ご購入後1年間は無償にて修理させていただきます",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、ここでいう保証は、納入製品単体の保証を意味するものです",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "納入製品の故障により生じる直接的、間接的損害に対する保証を意味するものではありませんので、安全に関するご注意をよくお読みいただき、事前に適切な保護を講じていただくようお願いいたします",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "納入製品が故障を生じたことにより、重大な損失が予想される設備への使用に関しては、必ず、損失を回避するための安全装置の設置および、最終製品でフェールセーフ設計やフールプルーフ設計を施してください",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社製品は一般工業製品向けの汎用品として設計しています",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社サービス部門・代行店・代理店以外による修理や改造による故障および損傷",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "チノーWeb会員にご登録頂きますと、製品の取扱説明書がご覧いただけます",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望によりチノーの商品の最新情報をメールでお送りしています",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "チノーWeb会員にご登録頂きますと、製品の取扱説明書がご覧いただけます",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望によりチノーの商品の最新情報をメールでお送りしています",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社チノーサービスを設立",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社チノーサービスを吸収合併",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "チノーWeb会員にご登録頂きますと、製品の取扱説明書がご覧いただけます",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望によりチノーの商品の最新情報をメールでお送りしています",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品/サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "出張校正サービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品知識・用語集",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アフターサービス",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事業の特長：「ループソリューションによる顧客価値の創造」",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ループソリューション",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "温度センサ・放射温度計・記録計・調節計・サイリスタレギュレータ・無線ロガー・熱画像計測装置・成分計・燃料電池評価試験装置などの製品情報や、計量法トレーサビリティ制度に準じたJCSS校正試験などの当社のサービス内容をご紹介いたします",
+    "url": "https://www.chino.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品は、性能改善、設計変更などにより、お断りなく変更することがございますので、ご購入の際は、弊社営業所または代理店にてご確認くださるようお願いいたします",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社サービス部門・代行店・代理店以外による修理や改造による故障および損傷",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "日本以外でのお取引および使用に関しては、別途代理店または弊社営業所までご相談ください",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | 株式会社チノー",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "−−簡単に自己紹介をお願いします",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2023年9月8日制定",
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "1936年8月1日",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革 | 企業情報 | 株式会社チノー",
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 1
+   },
+   {
+    "quote": "1990年ぐらいから産業分野においてパソコンが計測監視制御システムとして使われるようになりました",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2010年に生物環境の保全と、地域に失われつつある自然を復元し、昔ながらの自然豊かな関東平野の里山を取り戻すことを目的に、藤岡事業所の一角にあった休耕田を活用して「チノービオトープフォレスト」を整備しました",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2016年には、緑化優良工場等関東経済産業局長賞を受賞しました",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月",
+    "url": "https://dempa-digital.com/article/706353",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "チノーの強み",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 企業情報 | 株式会社 チノー — 会社概要 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > profile",
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "中期経営計画 2026 - チノー — 中期経営計画 2026 - チノー 株式会社チノー PDF https://www.chino.co.jp > 20180209_b-1_up",
+    "url": "https://www.chino.co.jp/wp/wp-content/uploads/20180209_b-1_up.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | 株式会社 チノー — 事業紹介 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > business",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "採用メッセージ｜株式会社 チノー — 採用メッセージ｜株式会社 チノー 株式会社チノー https://www.recruit.chino.co.jp > message",
+    "url": "https://www.recruit.chino.co.jp/message/",
+    "pass": 3
+   },
+   {
+    "quote": "チノー 【6850】徹底解剖：産業の「体温」を測る計測の巨匠 ... — チノー 【6850】徹底解剖：産業の「体温」を測る計測の巨匠 ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/tatsuya_sabato/n/nf907fba40386",
+    "pass": 3
+   },
+   {
+    "quote": "機関投資家向け 決算説明 | IR情報 | 株式会社 チノー — 機関投資家向け 決算説明 | IR情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > financial-results-briefing",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results-briefing/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 補足 説明資料 | IR情報 | 株式会社 チノー — 決算 補足 説明資料 | IR情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > financial > financial-results",
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "pass": 3
+   },
+   {
+    "quote": "IR情報 | 株式会社 チノー — IR情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > financial",
+    "url": "https://www.chino.co.jp/jp/serv/financial/",
+    "pass": 3
+   },
+   {
+    "quote": "個人投資家向け 決算説明 | IR情報 | 株式会社 チノー — 個人投資家向け 決算説明 | IR情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > financial > individual-investor",
+    "url": "https://www.chino.co.jp/jp/serv/financial/individual-investor/",
+    "pass": 3
+   },
+   {
+    "quote": "決算 短信 | IR情報 | 株式会社 チノー — 決算 短信 | IR情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > financial > results",
+    "url": "https://www.chino.co.jp/jp/serv/financial/results/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | 株式会社 チノー — 組織図 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > organization",
+    "url": "https://www.chino.co.jp/jp/serv/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | 企業情報 | 株式会社 チノー — 事業 紹介 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > business",
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "拠点・関係会社 | 企業情報 | 株式会社 チノー — 拠点・関係会社 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > base",
+    "url": "https://www.chino.co.jp/jp/serv/company/base/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 チノー | ホーム — 株式会社 チノー | ホーム 株式会社チノー https://www.chino.co.jp",
+    "url": "https://www.chino.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップ インタビュー チノー 豊田三喜男 社長 に聞く 2019年7月 ... — トップ インタビュー チノー 豊田三喜男 社長 に聞く 2019年7月 ... 計量計測データバンク https://www.keiryou-keisoku.co.jp > 3246-chino",
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "pass": 3
+   },
+   {
+    "quote": "【電子計測器総合特集】 チノー ・豊田三喜男 社長 計測技術で ... — 【電子計測器総合特集】 チノー ・豊田三喜男 社長 計測技術で ... 電波新聞デジタル https://dempa-digital.com > article",
+    "url": "https://dempa-digital.com/article/706353",
+    "pass": 3
+   },
+   {
+    "quote": "役員一覧 | 企業情報 | 株式会社 チノー — 役員一覧 | 企業情報 | 株式会社 チノー 株式会社チノー https://www.chino.co.jp > serv > company > officer",
+    "url": "https://www.chino.co.jp/jp/serv/company/officer/",
+    "pass": 3
+   },
+   {
+    "quote": "チノー 、 社長 に豊田三喜男氏 | 人物 ニュース - 日刊工業新聞 — チノー 、 社長 に豊田三喜男氏 | 人物 ニュース - 日刊工業新聞 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/428273",
+    "pass": 3
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "【スマートホーム2.0 暮らしを劇的に変える住まいの進化】〈12〉日本のテレビ産業の没落 水面下で進んだビジネスモデル転換",
+    "url": "https://dempa-digital.com/article/706353",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.chino.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/sustainability/csr-report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/information/detail/20261007/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/information/detail/20260907/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/products/wireless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fproducts%2Fwireless%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/support/about-purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fsupport%2Fabout-purchase%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fcompany%2Fhistory%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/login.jsp?url=%2Fjp%2Fserv%2Fcompany%2Fbusiness%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/financial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/information/?cat=ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?file/chino_report_2024j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?file/chino_report_2024e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/yuuguu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/chino_corporate_profile_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/chino_report_2026j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/CHINO_Report2025_j.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/chino_report_2025e.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/ir_chino_info20261007.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/ir_chino_en_info20261007.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.chino.co.jp/file.jsp?/file/ir_chino_info20260907.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dempa-digital.com/article/706353",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "チノー",
+   "results": [
+    "https://www.chino.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%8E%E3%83%BC",
+    "https://www.facebook.com/p/CHINO-Japan%E3%83%81%E3%83%8E%E3%83%BC-100090497131596/",
+    "https://job.mynavi.jp/28/pc/search/corp3169/outline.html",
+    "https://kabutan.jp/stock/?code=6850",
+    "https://ja.wikipedia.org/wiki/チノー"
+   ]
+  },
+  {
+   "query": "チノー ビジネスモデル",
+   "results": [
+    "https://www.chino.co.jp/jp/serv/company/profile/",
+    "https://www.chino.co.jp/wp/wp-content/uploads/20180209_b-1_up.pdf",
+    "https://www.chino.co.jp/jp/serv/company/business/",
+    "https://www.recruit.chino.co.jp/message/",
+    "https://note.com/tatsuya_sabato/n/nf907fba40386",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__00001114360/",
+    "https://www.chino.co.jp/jp/serv/sustainability/message/",
+    "https://www.openwork.jp/a0910000000FrRh/job/",
+    "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%8E%E3%83%BC",
+    "https://consovation.com/株式会社チノーが誇るビジネスモデルと成長戦略/"
+   ]
+  },
+  {
+   "query": "チノー 決算説明資料",
+   "results": [
+    "https://www.chino.co.jp/jp/serv/financial/financial-results-briefing/",
+    "https://www.chino.co.jp/jp/serv/financial/financial-results/",
+    "https://www.chino.co.jp/jp/serv/financial/",
+    "https://www.chino.co.jp/jp/serv/financial/individual-investor/",
+    "https://www.chino.co.jp/jp/serv/financial/results/",
+    "https://www.chino.co.jp/jp/serv/financial/public-notice/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=6850",
+    "https://www.chino.co.jp/jp/serv/information/",
+    "https://www.shanon.co.jp/ir/library/presentation/",
+    "https://zh-chs.www.chino.co.jp/file.jsp?file/ir_chino_setsumeikai_2025kojin-1.pdf"
+   ]
+  },
+  {
+   "query": "チノー 事業系統図",
+   "results": [
+    "https://www.chino.co.jp/jp/serv/company/organization/",
+    "https://www.chino.co.jp/jp/serv/company/profile/",
+    "https://www.chino.co.jp/jp/serv/company/business/",
+    "https://www.chino.co.jp/jp/serv/company/base/",
+    "https://www.chino.co.jp/",
+    "https://www.chino.co.jp/file.jsp?file/ir_chino_yuho_2018.pdf",
+    "https://www.youtube.com/watch?v=JL-eWHdCT8Y",
+    "https://www.chino.co.jp/wp/wp-content/uploads/20180209_b-1_up.pdf",
+    "https://www.openwork.jp/company_answer.php?m_id=a0910000000FrRh&q_no=1"
+   ]
+  },
+  {
+   "query": "チノー 社長 インタビュー",
+   "results": [
+    "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2019/3246-chino.htm",
+    "https://dempa-digital.com/article/706353",
+    "https://www.chino.co.jp/jp/serv/company/officer/",
+    "https://www.nikkan.co.jp/articles/view/428273",
+    "https://nkbb.nikkei.co.jp/km/customers/chino/",
+    "https://the-shashi.com/tse/6850/ceo/",
+    "https://shachomeikan.jp/corporations/22066/intro",
+    "https://www.radionikkei.jp/podcast/fukunokami/fukunokami-210730.html",
+    "https://www.keiryou-keisoku.co.jp/aisatu-essay/interview/2021/3329_30-chino.htm",
+    "https://ja.wikipedia.org/wiki/豊田三喜男"
+   ]
+  }
+ ],
+ "missing": {
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

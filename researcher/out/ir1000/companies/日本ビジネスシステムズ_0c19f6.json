@@ -1,0 +1,1504 @@
+{
+ "name": "日本ビジネスシステムズ",
+ "aliases": [],
+ "context": "証券コード5036／情報・通信業／プライム（内国株式）／2025.09期 売上高172,580百万円 営業利益率10.4%",
+ "researched_at": "2026-11-02T21:01:47.133468+00:00",
+ "official_url": "https://www.jbs.co.jp/",
+ "identified_by": "search:yahoo_jp:日本ビジネスシステムズ",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立",
+    "value": "1990年10月4日",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "label": "会社の設立はいつですか？",
+    "value": "1990年10月4日です。",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高（連結）",
+    "value": "1,725億円（2025年9月期）",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数（連結）",
+    "value": "2,831名（2026年3月31日現在）",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・クラウドインテグレーション事業 ・クラウドサービス事業 ・ライセンス & プロダクツ事業",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "label": "事業内容を教えて下さい。",
+    "value": "当社はエンタープライズ企業向けクラウドインテグレーション及びサービスの提供を行っています。 事業セグメントは、クラウド製品の導入開発等の支援を行う クラウドインテグレーション事業 、クラウド利活用における保守・運用サポートを行う クラウドサービス事業 、ライセンスや関連機器のリセールを行う ライセンス&プロダクツ事業 の 3事業となります。",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富な JBS ソリューションファミリー",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Power Platform 関連ソリューション",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JBS のクラウドインフラソリューション",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援サービス",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP システムソリューション",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ランサムウェア対応支援サービス - ランサムウェア診断 -",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リスクアセスメントサービス",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "洗い出されたリスクを解決するために、お客さまのシステム環境を考慮した最適なソリューションや実行対策案を提示します",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップへ",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IT インフラ診断サービス提供開始",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援サービス｜JBS 日本ビジネスシステムズ株式会社",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富な JBS ソリューションファミリー",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Power Platform 関連ソリューション",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS のクラウドインフラソリューション",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "SAP システムソリューション",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューションについて問い合わせる",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップへ",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "IT 評価・設計サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル調達支援サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "SI 構築サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "IT 運用支援サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS は、グローバルに事業を展開する企業が直面する複雑な IT 課題に対応するため、包括的な IT ソリューションを提供しています",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの IT 戦略をグローバルに支援するワンストップサービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれのフェーズで必要なサービスを自由に選択できます",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "国内外 25社以上とのメーカーパートナーシップを活かし、様々な製品をお客さまに合わせて提供します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Phase1 IT 評価・設計サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Azure の利用状況を調査、分析し、コスト効率の最大化を実現するアセスメントサービスです",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアコスト最適化サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Crayon との協業により、グローバル・クラウドインテグレーターとしてお客様のソフトウェア資産を精緻に分析し、最適な調達戦略を支援するレポートを提供するアセスメントサービスです",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Phase2 グローバル調達支援サービス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "また、各種 ISV ソフトウェアのグローバル調達可能な製品についてもライセンスの一括調達をサポートします",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富な JBS ソリューションファミリー",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Power Platform 関連ソリューション",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "JBS のクラウドインフラソリューション",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援サービス",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "SAP システムソリューション",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "JBS、New Relic を活用した次世代マネージドサービスを強化",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューショントップ",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "実績豊富な JBS ソリューションファミリー",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Power Platform 関連ソリューション",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "JBS のクラウドインフラソリューション",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援サービス",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "SAP システムソリューション",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション一覧",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "・クラウドサービス事業",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "ビジネスユニット、サービスユニット、L&Pユニット、自治体DX推進室、事業管理本部",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "カスタマーサクセス本部、ソリューションコンサルティング本部、デジタルワークプレイス本部、ハイブリッドクラウド本部、",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "西日本事業本部、製造事業本部、流通・サービス事業本部",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "CSO（Chief Strategy Officer）、クラウドビジネスサービス本部、リアルショーケース室",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバル IT 支援に関する JBS の強み",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み｜JBS 日本ビジネスシステムズ株式会社",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "その結果として確立された顧客基盤と信頼関係を土台に、事業を展開できることが JBS の大きな強みとなっています",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/news",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/library",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "業績と JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "業績推移と株主還元、JBS の強みについて説明します",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "【5年連続最高業績更新へ】日本の AI 活用を支える JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "【AI 時代の勝者は誰か】アンソロピック・ショックで高まる SIer の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "アンソロピック・ショックを経て、AI 時代における SIer の強みについて解説しました",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "JBS の強み",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "為替変動や現地の商流・規制等により、価格差が生じる場合があります",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "Crayon との協業により、グローバル・クラウドインテグレーターとしてお客様のソフトウェア資産を精緻に分析し、最適な調達戦略を支援するレポートを提供するアセスメントサービスです",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルにビジネスを展開するお客様に向けて、Microsoft 365 テナントの統合や連携を、方針検討から設計、移行、運用までワンストップで支援します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、インフラを統合することで、コミュニケーション基盤やセキュリティガバナンスを統一し、ユーザーと管理者双方の負担を軽減します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "高品質なユーザーサポートでビジネスをもっとスムーズに！",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "生成 AI など最新 IT サービスを活用してユーザー対応を迅速化することで、問い合わせ件数を抑制し、IT 部門の負担軽減と安定運用を支援します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS は、競争力の中核である社員を最大の資産と捉え、安心して力を発揮できる環境づくりや、顧客への提供価値を支える人的資本の在り方が評価され、「健康経営優良法人2026（大規模法人部門）」に認定されました",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "その結果として確立された顧客基盤と信頼関係を土台に、事業を展開できることが JBS の大きな強みとなっています",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "JBS では、企業のオンプレミスからクラウドへの事業転換を加速させることで、顧客企業のエネルギー消費量の削減に貢献しています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "JBS はこれらのパートナーの環境に対する取り組みを支持し、連携することによって、IT システムにおけるハードウェア製品の導入を通じて、顧客企業の温室効果ガスの削減やエネルギー消費量の削減に貢献しています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "各種申請や会議資料、取引先との契約書など、Microsoft 365 をはじめとするクラウド環境をフルに活用し、紙資源の利用を最小化することで、環境負荷低減に貢献しています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期より、電子帳簿保存法への対応と併せて、取引先からの請求書や稼働報告書などは、クラウドサービスを通じて受領する取り組みを導入しました",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "また、受注及び発注に関する証憑類（顧客の注文書、仕入の見積書、納品書など）は基幹システムに電子データとして添付する仕組みと運用に変更しました",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "なお、独立性を判断する上での「主要な取引先」を直前事業年度における当社と取引先との間の取引金額が当社と取引先いずれかの売上高の 2％以上を占める取引先としています",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "国内外 25社以上とのメーカーパートナーシップを活かし、様々な製品をお客さまに合わせて提供します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまと調整のうえ KPI を策定し、マイクロソフト製品および ISV パートナー製品に関わる問い合わせに、 24時間365日体制で迅速に対応します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルに広がる IT ソリューションパートナー",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーシップ",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Crayon はマイクロソフトの有力パートナーであり、世界 46か国にオフィスを構えています",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "その他のパートナー",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "企業のAIエージェント活用を支援する「JBS AI Agent Factory」紹介ページを公開",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud 認定パートナーとしての取り組みを紹介するページを公開",
+    "url": "https://www.jbs.co.jp/corp",
+    "pass": 1
+   },
+   {
+    "quote": "クラウドグローバルサービス本部、MSアライアンス本部、パートナーアライアンス本部",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2007 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2008 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2010 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "HP パートナー Award 2010 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "IBM エクセレントパートナーアワード受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "- マイクロソフト ジャパン パートナー オブ ザ イヤー 2013 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2014 2部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2015 3部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2016 2部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2017 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2018 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2019 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "- マイクロソフト ジャパン パートナー オブ ザ イヤー 2020 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2021 受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2022 2部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2023 2部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2024 3部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナー オブ ザ イヤー 2025 3部門受賞",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーとのつながり",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "30年のパートナーシップで築いた確かな技術力・実績",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ジャパン パートナーオブザイヤー 13年連続受賞",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフト ソリューション パートナー認定（6カテゴリー＋コンプリートバッジ保有）",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルテックリーダーとの強固なパートナーシップ",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "数々のパートナー企業と連携を深め、マルチベンダー・マルチクラウドベンダーとしてお客さまに最適なシステム環境を提供してきた結果、数々のアワード受賞につながっています",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "パートナー一覧",
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "pass": 1
+   },
+   {
+    "quote": "JBS は、Advanced Specialization などの認証や数多くの受賞歴を持つサプライヤーとして、強固なパートナーシップのもと、マイクロソフトが行っている環境への取り組みにも貢献しています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "ハードウェアメーカー、データセンター事業者、クラウドサービス事業者のグローバルを代表するパートナー各社は、環境に配慮した製品やソリューションの提供を通じて、温室効果ガスの削減、エネルギー効率の改善、再生可能エネルギーの利用、廃棄物削減などの取り組みを行っています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "JBS はこれらのパートナーの環境に対する取り組みを支持し、連携することによって、IT システムにおけるハードウェア製品の導入を通じて、顧客企業の温室効果ガスの削減やエネルギー消費量の削減に貢献しています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "社員とその家族、ビジネスパートナーが環境保全に十分配慮することを基本姿勢とし、国内外の環境関連法規を遵守し、資源とエネルギーの有効利用に努めています",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "また、監査等委員は、指名委員会及び報酬委員会等の重要な会議への出席、実地監査を行うほか、効率的な監査を実施するため、適宜、内部監査担当部門及び会計監査人と積極的な連携、意見交換を行っています",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・報酬委員会",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・報酬委員会は、取締役会の諮問機関として、社外取締役 6名を含む取締役 7名で構成され、議長は代表取締役社長が務めます",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会・報酬委員会は 1事業年度に 1回以上の頻度にて開催します",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "客観的かつ公正な観点で、指名委員会では取締役及び執行役員等の役員人事に関する事項を審議し、また、報酬委員会では役員報酬に関する事項を審議しています",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "経営陣幹部・取締役の指名・選解任方針と手続",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "取締役の指名・選解任方針",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役の指名・選解任方針",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "取締役の指名・選解任方針に加え、経営、法律、会計、行政、コンサルティング、教育等の分野で指導的役割を果たした実績があり、専門的知見を有している者を候補者として指名します",
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "pass": 1
+   },
+   {
+    "quote": "JBS について知っていただけるように、これまでの歩み、事業内容、数字でみる JBS の特徴を紹介します",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "ライセンスやハードウェアの最適な調達、IT システムの標準化・統合、セキュリティ強化など、グローバル企業特有の課題に対して戦略的に支援します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "海外現地法人 50.01% 以上の出資比率に該当する海外現地法人のライセンス",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "利用料最適化アセスメント for Microsoft Azure",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "対象は、JBS からご購入いただいた Microsoft 365 や Azure などのライセンスで、マルチテナント対応を実現しています",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS は、お客さまの日本利用分と海外拠点分を含む、マイクロソフトライセンス包括契約（EA／ESA）を支援します",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "また、各種 ISV ソフトウェアのグローバル調達可能な製品についてもライセンスの一括調達をサポートします",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、日本本社の契約に基づき一括購入したライセンス分の取りまとめ、お客さまの業務処理方針に基づいた支援が可能です",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "また、海外現地法人の追加ライセンスの要求にも対応し、現地への見積・発注の業務支援や、問い合わせ対応を行います",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフトライセンスのグローバル包括契約の締結により、標準価格での一貫性を確保しつつ、契約全体でのコスト最適化を図ることができます",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "海外利用分ライセンスを含めて、日本で問い合わせができるので、国内および現地法人の IT 環境を統制することができます",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "JBS は、ライセンス購入に関する海外拠点のサポート窓口を提供しています",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "海外現地拠点からのライセンス発注に関するお問い合わせ対応",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフトライセンスに関するサポート詳細はこちら",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロソフトライセンス購入サポート",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルでライセンスを集約するメリットは何ですか？",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルでライセンスを集約することで、コスト削減や管理の一元化といったメリットが期待できます",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "現地調達と日本調達でライセンス価格に違いはありますか？",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft ESA グローバル包括契約によるライセンスコスト適正化事例 株式会社三菱UFJフィナンシャル・グループ",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "三菱UFJフィナンシャル・グループ国内 24社 海外 31社のマイクロソフトライセンス購入と管理を全面サポートしライセンスコストを最適化",
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "pass": 1
+   },
+   {
+    "quote": "・ライセンス & プロダクツ事業",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、育児目的に使用可能なストック休暇制度（※）の導入、男性の育児休業の推進や時短勤務制度の導入、ベビーシッター・家事代行サービスの利用補助が受けられる福利厚生制度の充実化などが挙げられます",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "有給休暇積立制度（ストック休暇）",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "、クラウド利活用における保守・運用サポートを行う",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "、ライセンスや関連機器のリセールを行う",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "ライセンス&プロダクツ事業",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1990年10月4日",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2026年5月12日〜2028年5月11日",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2005年5月20日",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2029年5月15日",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期： Scope1 は 17t-CO2、Scope2 は 507t-CO2 で、Scope1+2 は 523t-CO2 です",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期： Scope1 は 22t-CO2、Scope2 は 642t-CO2 で、Scope1+2 は 665t-CO2 です",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期： Scope1 は 23t-CO2、Scope2 は 889t-CO2 で、Scope1+2 は 912t-CO2 です",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期より、電子帳簿保存法への対応と併せて、取引先からの請求書や稼働報告書などは、クラウドサービスを通じて受領する取り組みを導入しました",
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 有価証券報告書 - PDF [605KB]",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月30日現在 ※自己株式を除く",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月30日現在",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2023年4月1日付で普通株式 1株を 2株に分割しました",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月期",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期及び2023年9月期における取得自己株式は、単元未満株式の買取によるものです",
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月18日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月14日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月27日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月2日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2025年7月15日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月15日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月31日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月20日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2023年8月28日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月9日",
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 通期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第3四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 上半期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第2四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月期 第1四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 通期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第3四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 上半期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第2四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2025年9月期 第1四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 通期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 通期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 第3四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 上半期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 第2四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2024年9月期 第1四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 定時株主総会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 通期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 通期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 第3四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 上半期決算説明会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 第2四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2023年9月期 第1四半期決算発表",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "2022年9月期 定時株主総会",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 1
+   },
+   {
+    "quote": "1990年10月4日です",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   },
+   {
+    "quote": "2022年8月2日です",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメント情報",
+    "url": "https://www.jbs.co.jp/corp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント別に業績をご確認いただけます",
+    "url": "https://www.jbs.co.jp/corp/ir/finance",
+    "pass": 1
+   },
+   {
+    "quote": "事業セグメントは、クラウド製品の導入開発等の支援を行う",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JBS はこんな会社｜ JBS 日本ビジネスシステムズ 株式会社 — JBS はこんな会社｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > investor > aboutus",
+    "url": "https://www.jbs.co.jp/corp/ir/investor/aboutus",
+    "pass": 3
+   },
+   {
+    "quote": "経営戦略｜ JBS 日本ビジネスシステムズ 株式会社 — 経営戦略｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > management > strategy",
+    "url": "https://www.jbs.co.jp/corp/ir/management/strategy",
+    "pass": 3
+   },
+   {
+    "quote": "HOME｜ JBS 日本ビジネスシステムズ 株式会社 — HOME｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp",
+    "url": "https://www.jbs.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ビジネスシステムズ (5036)の未来は？クラウド・AI時代の ... — 日本ビジネスシステムズ (5036)の未来は？クラウド・AI時代の ... note https://note.com > コンピュータ・IT > インターネットビジネス",
+    "url": "https://note.com/hr793/n/ne2bd7626d9d0",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明資料 ｜ JBS 日本ビジネスシステムズ 株式会社 — 決算説明資料 ｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > library > briefing-materials",
+    "url": "https://www.jbs.co.jp/corp/ir/library/briefing-materials",
+    "pass": 3
+   },
+   {
+    "quote": "IR ライブラリー｜ JBS 日本ビジネスシステムズ 株式会社 — IR ライブラリー｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > library",
+    "url": "https://www.jbs.co.jp/corp/ir/library",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 - 日本ビジネスシステムズ — 株主・投資家情報 - 日本ビジネスシステムズ JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp",
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "pass": 3
+   },
+   {
+    "quote": "IR カレンダー - 日本ビジネスシステムズ — IR カレンダー - 日本ビジネスシステムズ JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > calendar",
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 - 日本ビジネスシステムズ — よくあるご質問 - 日本ビジネスシステムズ JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > faq",
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "pass": 3
+   },
+   {
+    "quote": "日本ビジネスシステムズ 株式会社 組織図 — 日本ビジネスシステムズ 株式会社 組織図 JBS 日本ビジネスシステムズ株式会社 PDF https://www.jbs.co.jp > 202510_OrganizationChart_JP",
+    "url": "https://www.jbs.co.jp/-/media/JBS/pdf/aboutus/202510_OrganizationChart_JP.ashx?sc_lang=ja-JP&hash=9EDA084F7267D404A54C972F20E87F68",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜ JBS 日本ビジネスシステムズ 株式会社 — 会社案内｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > aboutus",
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "pass": 3
+   },
+   {
+    "quote": "事業 セグメント情報 - 日本ビジネスシステムズ — 事業 セグメント情報 - 日本ビジネスシステムズ JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > finance > segement",
+    "url": "https://www.jbs.co.jp/corp/ir/finance/segement",
+    "pass": 3
+   },
+   {
+    "quote": "日本ビジネスシステムズ 株式会社 組織図 — 日本ビジネスシステムズ 株式会社 組織図 JBS 日本ビジネスシステムズ株式会社 PDF https://www.jbs.co.jp > media > JBS > pdf > aboutus",
+    "url": "https://www.jbs.co.jp/-/media/JBS/pdf/aboutus/202410_OrganaizationChart_JP.ashx?sc_lang=ja-JP&hash=8F2B6851DE9E1F67DFF5953E93DDE3B1",
+    "pass": 3
+   },
+   {
+    "quote": "経営方針｜ JBS 日本ビジネスシステムズ 株式会社 — 経営方針｜ JBS 日本ビジネスシステムズ 株式会社 JBS 日本ビジネスシステムズ株式会社 https://www.jbs.co.jp > corp > policy",
+    "url": "https://www.jbs.co.jp/corp/policy",
+    "pass": 3
+   },
+   {
+    "quote": "編集長 インタビュー 牧田幸弘 日本ビジネスシステムズ社長 — 編集長 インタビュー 牧田幸弘 日本ビジネスシステムズ社長 週刊エコノミスト https://www.weekly-economist.com > makita_yukihiro",
+    "url": "https://www.weekly-economist.com/interview/makita_yukihiro/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.jbs.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/solution/category/globalbusiness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/feature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/sustainability/environment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/stock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/investor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbs.co.jp/corp/ir/faq",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/hero.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img01.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img02.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img03.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img04.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img05.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img07.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.jbs.co.jp/-/media/JBS/image/solution/category/globalbusiness/img06.ashx?sc_lang=ja-JP",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "日本ビジネスシステムズ",
+   "results": [
+    "https://www.jbs.co.jp/",
+    "https://jbs.com/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BA",
+    "https://jbs.com/about/",
+    "https://www.facebook.com/jbs.co.jp/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/日本ビジネスシステムズ",
+    "https://finance.yahoo.co.jp/quote/5036.T",
+    "https://finance.yahoo.co.jp/quote/5036.T/profile",
+    "https://jp.linkedin.com/company/japan-business-systems-inc",
+    "https://www.jbs.co.jp/en"
+   ]
+  },
+  {
+   "query": "日本ビジネスシステムズ ビジネスモデル",
+   "results": [
+    "https://www.jbs.co.jp/corp/ir/investor/aboutus",
+    "https://www.jbs.co.jp/corp/ir/management/strategy",
+    "https://www.jbs.co.jp/",
+    "https://jbs.com/about/",
+    "https://note.com/hr793/n/ne2bd7626d9d0",
+    "https://www.jbs.co.jp/corp/policy/philosophy",
+    "https://www.jbs.co.jp/corp/ir/finance/segement",
+    "https://www.openwork.jp/a0910000000HjPq/pr/",
+    "https://www.jbs.co.jp/corp/feature",
+    "https://ja.wikipedia.org/wiki/日本ビジネスシステムズ"
+   ]
+  },
+  {
+   "query": "日本ビジネスシステムズ 決算説明資料",
+   "results": [
+    "https://www.jbs.co.jp/corp/ir/library/briefing-materials",
+    "https://www.jbs.co.jp/corp/ir/library",
+    "https://www.jbs.co.jp/corp/ir",
+    "https://www.jbs.co.jp/corp/ir/calendar",
+    "https://www.jbs.co.jp/corp/ir/faq",
+    "https://finance.logmi.jp/articles/382817",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=5036",
+    "https://www.jbs.co.jp/corp/ir/investor",
+    "https://www.buffett-code.com/company/5036/library",
+    "https://edinetdb.jp/company/E37833/ir-docs/"
+   ]
+  },
+  {
+   "query": "日本ビジネスシステムズ 事業系統図",
+   "results": [
+    "https://www.jbs.co.jp/-/media/JBS/pdf/aboutus/202510_OrganizationChart_JP.ashx?sc_lang=ja-JP&hash=9EDA084F7267D404A54C972F20E87F68",
+    "https://www.jbs.co.jp/corp/aboutus",
+    "https://www.jbs.co.jp/",
+    "https://www.jbs.co.jp/corp/ir/finance/segement",
+    "https://www.jbs.co.jp/-/media/JBS/pdf/aboutus/202410_OrganaizationChart_JP.ashx?sc_lang=ja-JP&hash=8F2B6851DE9E1F67DFF5953E93DDE3B1",
+    "https://jbs.com/about/",
+    "https://job.mynavi.jp/28/pc/search/corp70316/outline.html",
+    "https://www.openwork.jp/a0910000000HjPq/pr/",
+    "https://www.jbs.co.jp/solution",
+    "https://ja.wikipedia.org/wiki/日本ビジネスシステムズ"
+   ]
+  },
+  {
+   "query": "日本ビジネスシステムズ 社長 インタビュー",
+   "results": [
+    "https://www.jbs.co.jp/corp/ir/investor/aboutus",
+    "https://www.jbs.co.jp/corp/aboutus",
+    "https://www.jbs.co.jp/corp/policy",
+    "https://www.weekly-economist.com/interview/makita_yukihiro/",
+    "https://diamond.jp/articles/-/396986",
+    "https://jbs.com/about/",
+    "https://www.jbs.co.jp/corp/sustainability/governance/officer/biography",
+    "https://jobtalk.jp/companies/8249/answers?question_codes=president",
+    "https://www.jbs.co.jp/news/2023/1211",
+    "https://www.jbs.co.jp/news"
+   ]
+  }
+ ],
+ "missing": {}
+}

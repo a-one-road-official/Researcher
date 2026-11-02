@@ -1,0 +1,1383 @@
+{
+ "name": "電通グループ",
+ "aliases": [],
+ "context": "証券コード4324／サービス業／プライム（内国株式）／2025.12期 売上高1,435,245百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:05:43.086044+00:00",
+ "official_url": "https://www.group.dentsu.com/",
+ "identified_by": "search:yahoo_jp:電通グループ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1901年7月1日 ※ ※ (株)電通グループへの商号変更（2020年1月1日）前の(株)電通の創業日",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "創業",
+    "value": "1901年7月1日 ※ ※ (株)電通グループへの商号変更（2020年1月1日）前の(株)電通の創業日",
+    "url": "https://www.group.dentsu.com/jp/about-us/data-location.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "135名（2025年12月31日現在）",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "135名（2025年12月31日現在）",
+    "url": "https://www.group.dentsu.com/jp/about-us/data-location.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "グループ全体の成長持続および競争力強化に向けた各種環境の整備と支援、ならびにグループガバナンスの推進",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "グループ全体の成長持続および競争力強化に向けた各種環境の整備と支援、ならびにグループガバナンスの推進",
+    "url": "https://www.group.dentsu.com/jp/about-us/data-location.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "顧客と社会の成長に最もインパクトを提供するGrowth Partnerを目指して",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と社会の成長に最もインパクトを提供するGrowth Partnerを目指して",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と社会の成長に最もインパクトを",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "−顧客起点・機動力・協働によって、",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、その先に、私たちが目指すのが「顧客と社会の成長に最もインパクトを提供するGrowth Partner」です",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、AI時代に求められるスキルや専門性を備えた人財の獲得・育成・定着を進めることで、組織全体の競争力を高め、顧客や社会の成長により大きなインパクトをもたらしていきたいと考えています",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした戦略を実行していく上で、私が特に重視しているのが、「顧客起点（Client Centricity）」「機動力（Agility）」「協働（Collaboration）」の3つです",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "徹底した顧客起点から、高い機動力、協働による最適な統合によって、クライアントの成長に資する価値を提供することこそが、電通グループならではの競争優位であると考えています",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の皆さま、社会のステークホルダーの皆さまにご支援をいただきながら、持続的な成長を実現し、「顧客と社会の成長に最もインパクトを提供するGrowth Partner」となるために",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの目指す姿である「顧客と社会の成長に最もインパクトを提供するGrowth Partner」の実現に向け、財務健全化と持続的な競争力の基盤強化に取り組みます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "「顧客と社会の成長に最もインパクトを提供するGrowth Partner」という目指す姿はグローバル共通ですが、その実現に向けた道筋は、各リージョンの環境を踏まえて最適化していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "その実現に向け、クライアントの顧客獲得から、獲得した顧客との関係維持までを支援していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "これらに加えて、財務方針とキャピタルアロケーションおよびガバナンス・サステナビリティ・人的資本経営へのコミットメントにより、次の成長に向けた強固な事業基盤・顧客基盤を確立します",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "参加者は、日本の聖山の頂で、取引先の繁栄と電通の持続的な成長を祈願している",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "pass": 1
+   },
+   {
+    "quote": "引き続き国内外の市場において、専門性および統合力の向上ならびに事業基盤の拡張に取り組み、顧客企業の事業成長支援に資するグローバルネットワーク「one dentsu」として、持続的な成長に向けた変革を加速していく",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2020.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 顧客企業への提供価値を向上する目的で、チーフ・グローバル・クライアント・オフィサーやチー フ・インテグレーテッド・ソリューション・オフィサーを任命",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長CEO の五十嵐 博は、「インテグレーテッド・グロース・ソリューションの強化による顧客企業の事業成長やより良い社会、および企業価値の向上を目的に、グローバルなグループ・マネジメント・ チームを組成しました",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、顧客企業、パートナー企業、従業員、生活者、ひいては、より良い社会の実現に貢献していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "dentsuが追及するインパクトとは、マーケティング投資の回収や収益の向上、または行動変容の促進やより良い文化の構築、異なるコミュニティーの結びつきなど、それぞれの顧客企業にポジティブな影響をもたらすものです",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "顧客と社会の成長と活力を共に創り出すパートナー",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "「人」への深い洞察を軸に、複雑化・高度化する顧客課題から本質的課題を見出し、",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "広告やマーケティングにとどまらない広い領域から顧客の持続的成長を支援し、",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "３つの事業領域から、顧客と社会の成長と活力を創り出します",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客と社会の課題解決を支援",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "クリエイティビティを発揮することで大きなブレイクスルーを創出し、顧客のマーケティング投資効果の最大化、そして未来の事業成長に貢献します",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "BtoBマーケティングトレンドに対応し、インテントデータやAIを活用して、顧客の国内外の事業展開において、より高いマーケティング投資対効果（marketing ROI）を実現していきます",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客内での迅速なPDCAや意思決定をサポートすることができます",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "NTTドコモ：大規模IDデータ基盤による顧客評価システム構築とマーケティングPDCA高度化",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "スマホ・ポイント・アプリ・位置情報等、多様かつ9,800万UUの大規模で統合的にデータを運用できるドコモデータスクエアにより、ドコモ顧客のコンディションやポテンシャルをデータドリブンに評価",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客獲得が難しい商材の「生活者が欲しい瞬間」を捉えるために生成AIを活用",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "このAIプランニングブーストにより、新規顧客を獲得しました",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の変革と持続的な成長を実現するために「Holistic Transformation Model」を構築しています",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客の変革と持続的な成長を実現する「Holistic Transformation Model」",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客のビジネス成長のために重要な「企業文化の変革」を、独自のツールやフレームワークを活用して支援していくプログラム",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客とのディスカッションやヒアリングなどを通して、方針やアクションプランを策定し、実施までサポートしていきます",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "データ&テクノロジー基盤の高度化に加えて、組織風土・人財の変革と、顧客理解による営業部門の価値拡張を、三位一体で支援します",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "企業と顧客をつなぐアプリケーションやウェブサービスなどのデジタルプロダクトにおいて、構想・計画から開発・成長支援まで、一気通貫で伴走するものです",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、IP（Intellectual Property／知的財産）による「熱狂」と「社会的価値」の創出を通じ、顧客の課題解決を支援します",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "その「熱狂」を生み出し、価値を最大化するためにIPのグロース支援、顧客課題の解決に資するIPソリューションの開発",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "IPホルダーとともに、スポーツ＆エンターテインメント領域の発展と、顧客・地域・社会の継続的な成長に貢献していきます",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "「私たちが目指すのは社員一人一人ひとりの成長と能力を解放し、個々の力を掛け算することで、社会、そして顧客の成長と活気を共に創り出す唯一無二の存在です",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   },
+   {
+    "quote": "社員全員が能力を発揮できる環境を整えることで、顧客やパートナー、社会のために日々変革に取り組んでいます」と語った",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   },
+   {
+    "quote": "経営領域から、事業、マーケティング、組織人事、IT／デジタル領域まで、顧客のバリューチェーン全体の成長と変革を支援しており、広告領域外の売上総利益は約4割に達し、拡大を続けている",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   },
+   {
+    "quote": "「AI領域における組織事業やマーケティング事業の変革に関しても、AIプロダクトやソリューションを幅広く提供することで、顧客の成長に貢献したいと思っております」と話した",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "独自のソリューション提供",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メール配信サービス",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、長期にわたるクライアント・パートナーとの信頼関係をベースに、オープンかつクライアントの環境に合わせたクライアントファーストの形でサービスを提供できることも強みです",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)電通国際情報サービス（現 (株)電通総研）取締役",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)電通グループ グローバル・プラクティス・プレジデント - メディア ＆ インテグレーテッド・ソリューション",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "電通は、広告事業では「広告料の低廉化」「透明・公正な取引」「フルサービスの提供」という3つの基本方針を掲げ、事業を急速に拡大させていくことで、日本の広告業界におけるリーディングカンパニーになりました",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "pass": 1
+   },
+   {
+    "quote": "そこには、電通グループの事業領域は、国内外の市場において最適な統合ソリューションを提案し、クライアントの経営課題からコミュニケーションまでの分野をカバーする「Integrated Communication Design」であると規定されている",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2008-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "「プラットフォーム時代への挑戦」をスローガンに、コンテンツ配信、ITソリューションやスマートグリッドなどの領域における新たなプラットフォームの創造を目指す計画であった",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2008-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "新たなグローバルネットワークを構築した電通は、広告／メディア／マーケティングのフルサービスを提供する企業グループとして、複数の海外拠点からローカル、リージョナル、グローバルの各レベルのクライアントに、高度に統合されたサービスが提供できる体制へと進化した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2013-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、電通にはデジタルソリューション提供能力の強化が求められた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2013-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "デジタル消費やクライアントからのデジタルサービス需要の増加に呼応して、電通は数年をかけてデジタルソリューションの提供能力を増強してきた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2013-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "- 顧客企業への提供価値を向上する目的で、チーフ・グローバル・クライアント・オフィサーやチー フ・インテグレーテッド・ソリューション・オフィサーを任命",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長CEO の五十嵐 博は、「インテグレーテッド・グロース・ソリューションの強化による顧客企業の事業成長やより良い社会、および企業価値の向上を目的に、グローバルなグループ・マネジメント・ チームを組成しました",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、グローバル・リーダーシップ・ブランドの才能を結集させ、クライアントの成長にとってインパクトのある、統合的なソリューション「Integrated Growth Solutions」を進化させています",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "dentsuは120年以上にわたり、人々に寄り添い、新たな価値を育む方法を探求するイノベーションを自社サービスの中核に据えてきました",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "2030年までに、購入した製品・サービス、出張、雇用者の通勤から発生するScope3のGHG絶対排出量を2019年比で46.2％削減する*",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "本方針は、私たちの事業上の目的である新しいソリューションの創造とクライアントと社会の持続的な 成長を支えるものです",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、当社グループの自然への依存/影響は比較的低いものの、バリューチェーンの上流部分で更なる対応が可能であること、また生物多様性の保全に資するソリューションの提供等を通じて、当社グループがよい影響を発揮できる可能性を確認しました",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "生物多様性の維持・保全に関するソリューションの開発と提供",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の取り組み状況やソリューションの開発・提供状況ついては、電通グループ各社のウェブサイト をご覧ください",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "インターネット広告サービス規約",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "統合的なソリューション“Integrated Growth Solutions” を提供",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "ソリューション",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "商品比較サイト「マイベスト」：自社保有データをデータクリーンルームと連携し購買率が向上",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "マイベストが持つ膨大なデータをLINEヤフーと電通の共同分析プロジェクト「HAKONIWA」と連携させ、不明瞭だった商品関心層を抽出し広告を配信",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "企業と顧客をつなぐアプリケーションやウェブサービスなどのデジタルプロダクトにおいて、構想・計画から開発・成長支援まで、一気通貫で伴走するものです",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "その「熱狂」を生み出し、価値を最大化するためにIPのグロース支援、顧客課題の解決に資するIPソリューションの開発",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "昨年大ヒットしたアニメ「ハイキュー!!」をはじめ、日本を代表する作品の宣伝、番販、商品化、企業タイアップなどを通じ、グローバルなグロース支援を行っています",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "地上波テレビ放送やデジタル配信、多彩な商品化展開、大規模なコラボレーションを推進しています",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "電通アニメソリューションズ",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "ご発注、サービス内容のお問い合わせ、",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI領域における組織事業やマーケティング事業の変革に関しても、AIプロダクトやソリューションを幅広く提供することで、顧客の成長に貢献したいと思っております」と話した",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2025年度売上総利益",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月1日～12月31日",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年の創業以来、私たちは人の心を動かす力を起点に、企業や社会が抱える課題に向き合い、新たな価値や活力を生み出してきました",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度 売上総利益",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月1日〜12月31日",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年の創業以来、今までにない価値を生み出し続けてきた当社の歴史",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年7月1日",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年までの(株)電通の全ての事業を承継し、2020年1月に新たに設立された「(株)電通」",
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年の創業以来、私たちは人の心を動かす力を起点に、企業や社会が抱える課題に向き合い、新たな価値や活力を生み出してきました",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月に、2028年度までの３カ年の計画として",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月17日付",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年以降、当社グループが遂行してきた各取組みについて必要な見直しを行うことにより、2028年までの3年間で再成長に向けた基盤を構築し、持続的な成長の実現を目指します",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "2028年度の主要KPIとして、オペレーティング・マージンを重視していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "1992年4月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2024年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3 月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2026年4月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "1990年4月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2017年2月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2020年11 月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "1994年4月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2000年1月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年2月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2005年6月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2009年4月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2011年6月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2013年6月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "2014年9月",
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "pass": 1
+   },
+   {
+    "quote": "1973年、電通は売上高で世界最大の広告代理店となる",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年3月、電通は英イージス・グループを100％買収し、ロンドンに海外本社「電通イージス・ネットワーク」を設立",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023 年度経営体制「グループ・マネジメント・チーム」を構築",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年7月、まず彼は、ニュース配信事業を支えるために必要な収入を得るため、新聞広告を販売する広告代理店「日本広告(株)」を創立し事業を開始",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "pass": 1
+   },
+   {
+    "quote": "1907年8月、(株)日本電報通信社が(株)日本広告両社を合併した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "pass": 1
+   },
+   {
+    "quote": "1947年6月、吉田秀雄(1903～1963年)が第4代の社長に就任し、日本の広告を近代的で科学的な根拠に基づくビジネスに変革していくことを決意",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1947-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1950年代前半、商業放送の誕生により日本の広告媒体に革命が起きる",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1947-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年、記録的な高度経済成長期を迎えた当社は、社名を「(株)電通（Dentsu Advertising Ltd.）」と改めました",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1947-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1955年2月4日、吉田社長は経営会議の早朝会議を開催",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1947-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年、日本は初めて大規模な国際スポーツイベントのホスト国を務めた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年には、日本第二の都市「大阪」が万博の開催地となった",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年にはアメリカの主要誌TIMEとAdvertising Ageで、前年の売上高ベースで世界最大の広告代理店に上り詰めたことが報じられた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1964年の東京オリンピック",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1967年6月、築地に本社新社屋が完成",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1984年のロサンゼルスオリンピックに際しては、日本における独占権を多数獲得し、各種競技団体が企業から支援を受けたことの見返りに所属選手の広告使用を許諾する「がんばれ！ニッポン！」キャンペーンを開発した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "pass": 1
+   },
+   {
+    "quote": "1986年、第8代社長の木暮剛平が、新しい企業理念「“Total Communications Service”の提供」を象徴する新CIを発表した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "pass": 1
+   },
+   {
+    "quote": "1987年にニューヨークの仕事始式においてスピーチする木暮社長",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代の終わりには、広告業界の基底構造が変わりつつあるとの明白な兆候が見られるようになった",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1998.html",
+    "pass": 1
+   },
+   {
+    "quote": "1999年に行われた電通の全社集会において、東証一部上場を控え、21世紀電通の戦略的ビジョンを語る成田社長",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1998.html",
+    "pass": 1
+   },
+   {
+    "quote": "1998年、長野冬季オリンピックの開会式",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1998.html",
+    "pass": 1
+   },
+   {
+    "quote": "2002年、東京・汐留に本社新社屋が完成した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2001-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2003年、地上波デジタル放送が東京／大阪／名古屋の三大都市圏で開始された",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2001-1.html",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "日本事業は、2021年度から継続した成長を達成している一方、海外事業では、収益性が低下している領域や競争優位性を十分に発揮できていない事業が存在しています",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "将来の持続的な成長に向けた投資余力を生み出し、重点領域への投資とケイパビリティの強化を図るとともに、AIを業務に深く組み込み、人とAIそれぞれの強みを活かすことで、一人ひとりの生産性を高めていきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "すべての事業地域に同じ戦略を当てはめるのではなく、市場環境や競争優位性に応じて、それぞれが自らの強みを磨きながら、事業地域を越えて連携することで、グループ全体の持続的な成長につなげていきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "徹底した顧客起点から、高い機動力、協働による最適な統合によって、クライアントの成長に資する価値を提供することこそが、電通グループならではの競争優位であると考えています",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 1
+   },
+   {
+    "quote": "電通グループが競争優位性を発揮できる市場では、生活者とのつながりを形成するスポーツ＆エンターテインメント事業や企業の事業変革についても重点的に取り組んでまいります",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "電通グループの強み",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループの強みは、まず、専門性の高い人財・ケイパビリティとグローバルなネットワークです",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、長期にわたるクライアント・パートナーとの信頼関係をベースに、オープンかつクライアントの環境に合わせたクライアントファーストの形でサービスを提供できることも強みです",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "リージョン、市場ごとに、当社グループが競争優位性を発揮できる注力マーケット、領域を明確にし、高い専門性と着実な成果によってクライアントからの信頼を築き、継続的な成長を支えるパートナーとして価値を提供していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "イージスの買収によって、Isobar（アイソバー）とiProspect（アイプロスペクト）の持つクリエーティブ開発やパフォーマンスマーケティングの強みが加わり、メディア／コンテンツ／デジタルテクノロジーを活用した強力なグローバルプラットフォームの提供が可能になった",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2013-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "このチームの下、全世界で 69,000 人の人財価値を最大限に引き出し、それぞれの国・地域で独自の強みを発揮するとともに、相乗効果や効率性の向上により、更なる事業成長と収 益向上を実現していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "短期的な利益の追求ではなく、クライアントの皆様と長期的な信頼関係を構築することが、競争優位の確立と持続的な利益の創出につながるものと考えています",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/cgo.html",
+    "pass": 1
+   },
+   {
+    "quote": "不振ビジネスの見直しや競争優位性の再構築、コストの最適化、組織構造の簡素化、グループガバナンスの強化などの経営課題に対して、執行が着実かつスピード感を持って実行されるよう、取締役会として適切な監督を行っていきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/chairman.html",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、候補者の強みだけではなく、組織としてどのような体制で経営を推進していくのかまで含めて見ていました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの強みを支えてきた人財や組織の在り方がある一方で、今後を考えると、海外マネジメント経験や多様なバックグラウンドを持つ人財は、まだ量的に十分とは言えないと感じています",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "先ほども触れたように、内部にどのような人財がいて、どういう強みや課題を抱えているのかを、完全に把握することはできません",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "創出した経営資源を重点領域へ集中し、ケイパビリティの拡充や新たな収益モデルの構築を推進します",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "屋外広告、デジタル衛星放送といった新規メディア／コンテンツ領域においても、電通は21世紀における事業展開を見据え、新たなビジネスモデル開発の最先端を走り続けた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1998.html",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "また、パートナーとのアライアンス強化やAI活用を進め、持続的な成長基盤を構築してまいります",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、長期にわたるクライアント・パートナーとの信頼関係をベースに、オープンかつクライアントの環境に合わせたクライアントファーストの形でサービスを提供できることも強みです",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "リージョン、市場ごとに、当社グループが競争優位性を発揮できる注力マーケット、領域を明確にし、高い専門性と着実な成果によってクライアントからの信頼を築き、継続的な成長を支えるパートナーとして価値を提供していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "pass": 1
+   },
+   {
+    "quote": "1973年、電通は売上高で世界最大の広告代理店となる",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1901年7月、まず彼は、ニュース配信事業を支えるために必要な収入を得るため、新聞広告を販売する広告代理店「日本広告(株)」を創立し事業を開始",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "pass": 1
+   },
+   {
+    "quote": "電通は売上高で世界最大の広告代理店となる",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "電通は運営にあたった独立行政法人との契約業務に従事するのみならず、出展した国内外の企業や外国政府の代理店としても多岐に渡る分野で関与し、大阪万博の成功に大きく貢献した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "1974年にはアメリカの主要誌TIMEとAdvertising Ageで、前年の売上高ベースで世界最大の広告代理店に上り詰めたことが報じられた",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、1980年には、北京に事務所を開設した最初の海外代理店の一社として、他社に先駆けて中国の広告市場に進出した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "pass": 1
+   },
+   {
+    "quote": "バブル経済と呼ばれ、好景気に沸いた1988年には純売上高が1兆円を超えたが、これは広告代理店としては世界初のことであった",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、第10代社長の俣木盾夫が、各事業領域の繁栄と消費者の日常生活の質の向上に貢献すべく、クライアント／メディアコンテンツ／消費者を包括する新経営ビジョン「価値創造パートナー」を発表した",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2001-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "2010年に英語圏の国々で刊行された、電通のマーケティング手法であるクロススイッチを紹介した書籍「The Dentsu Way」",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2008-1.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうした中、電通グループは、その創造力や実現力によってかつてない価値を生み出し、さまざまな変革をリードする存在であり続けたい、そしてその変革はクライアントやパートナー企業を始めとしたあらゆるステークホルダーと手を組むことにより実現できるものであるため、「かつてない価値を一緒につくり、一緒に次のステージに行きましょう",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2021.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、顧客企業、パートナー企業、従業員、生活者、ひいては、より良い社会の実現に貢献していきます",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "pass": 1
+   },
+   {
+    "quote": "dentsuは、世界をリードする様々な企業の統合的な成長と変革を支援するパートナーです",
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2024.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社グループは脱炭素社会への移行を先導することを目指す「日本気候リーダーズ・パートナーシップ」（JCLP）へ準会員として2024年4月より加盟しています",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "JCLPは国際非営利組織The Climate Groupのローカルパートナーとして、RE100等の普及窓口を務めています",
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "（左）指名委員会 委員長",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（右）指名委員会 委員",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役が語る、電通グループの指名ガバナンス",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役が語る、電通グループの指名ガバナンス2026年、電通グループは新たな経営体制へ移行しました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "そうした大きな変革局面の中で、指名委員会はどのような議論を重ね、佐野 傑グローバルCEOを選任したのでしょうか",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員長を務める高嶋 智光氏と、指名委員である市川 奈緒子氏に、経営トップ選任のリアリティ、そして電通グループの未来について率直に語っていただきました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会委員長",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会委員",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "社外取締役が語る、電通グループの指名ガバナンス",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "そうした大きな変革局面の中で、指名委員会はどのような議論を重ね、佐野 傑グローバルCEOを選任したのでしょうか",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会委員長を務める高嶋 智光氏と、指名委員会委員である市川 奈緒子氏に、経営トップ選任のリアリティ、そして電通グループの未来について率直に語っていただきました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会等設置会社である意味",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "本当にこの前例のない変革期を任せられる人物なのかを、指名委員会の中で真剣に議論しました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "：私自身、2025年は指名委員会の委員ではありませんでしたが、最終段階で取締役会に対して候補者選定のプロセスや議論内容の共有が行われるようになり、その中で、指名委員会内で時間をかけて検討していたことがよく分かりました",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "―― 電通グループは、指名委員会等設置会社であり、社外取締役が多数を占めています",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "まず、指名委員会等設置会社における指名委員会というのは、会社法上、極めて強い権限を持っています",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "株主総会へ付議する取締役選任議案の候補者を、指名委員会が単独で決定でき、任意の諮問委員会とは、責任の重さが全く違います",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "指名委員会等設置会社の指名委員会は、やはり重みが違います",
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our Business（事業紹介） - 電通ウェブサイト",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 TOP",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客と社会の成長と活力を共に創り出すパートナー",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "B.LEAGUE 2050 VISION「感動立国」とリーグ構造改革「B.革新」の取り組みに共感し、パートナー契約を締結",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "野球以外にも広く楽しめる、ファン、パートナー、地域の方々と地域社会の活性化、街化を目指す“共同創造空間”",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "電通では、本プロジェクトの基本設計からパートナープロモーションなど全面的な協業を行っています",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "電通は、JeSUのパートナーとして黎明期から市場を支え、国内最大の高校生大会「STAGE:0」の主催をはじめ、多様な取り組みを推進してきました",
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "佐野氏は始めに、dentsu Japanが目指す姿である「真のIntegrated Growth Partner」について紹介",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   },
+   {
+    "quote": "社員全員が能力を発揮できる環境を整えることで、顧客やパートナー、社会のために日々変革に取り組んでいます」と語った",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   },
+   {
+    "quote": "「強制ではなく本人の『やりたい』という気持ちにスポットを当て、意欲ある人をしっかりとサポートすることが重要」とし、「dentsu Japanの集合研修は、自分のやりたいことや未来、そしてdentsuの未来を全員で考え、ディスカッションし、互いに刺激し合える場としてセッティングしています」と紹介した",
+    "url": "https://dentsu-ho.com/articles/9495",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "電通グループ の価値創造 モデル - Dentsu — 電通グループ の価値創造 モデル - Dentsu 株式会社電通グループ https://www.group.dentsu.com > reports > value_creation",
+    "url": "https://www.group.dentsu.com/jp/sustainability/reports/2021/management_plan/value_creation.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 電通グループ の事業戦略を構造 ... — 【 ビジネスモデル 図解2026】 電通グループ の事業戦略を構造 ... mindmeister.jp https://mindmeister.jp > posts > bm-dentsu",
+    "url": "https://mindmeister.jp/posts/bm-dentsu",
+    "pass": 3
+   },
+   {
+    "quote": "説明 会・ 決算 補足 資料 – 株式会社 電通グループ — 説明 会・ 決算 補足 資料 – 株式会社 電通グループ 株式会社電通グループ https://www.group.dentsu.com > conferencematerials",
+    "url": "https://www.group.dentsu.com/jp/ir/library/conferencematerials/",
+    "pass": 3
+   },
+   {
+    "quote": "IR – 株式会社 電通グループ - Dentsu — IR – 株式会社 電通グループ - Dentsu 株式会社電通グループ https://www.group.dentsu.com > ...",
+    "url": "https://www.group.dentsu.com/jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "電通グループ [4324]：2026年度第2四半期 決算説明 会 資料 ... — 電通グループ [4324]：2026年度第2四半期 決算説明 会 資料 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260814520879/",
+    "pass": 3
+   },
+   {
+    "quote": "財務情報・IR 資料 室 – 株式会社 電通グループ — 財務情報・IR 資料 室 – 株式会社 電通グループ 株式会社電通グループ https://www.group.dentsu.com > library",
+    "url": "https://www.group.dentsu.com/jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "Group – 株式会社 電通グループ — Group – 株式会社 電通グループ 株式会社電通グループ https://www.group.dentsu.com > group",
+    "url": "https://www.group.dentsu.com/jp/group/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 電通グループ — 株式会社 電通グループ 株式会社電通グループ https://www.group.dentsu.com > ...",
+    "url": "https://www.group.dentsu.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "電通グループ - Wikipedia — 電通グループ - Wikipedia Wikipedia https://ja.wikipedia.org > wiki > 電通グループ",
+    "url": "https://ja.wikipedia.org/wiki/%E9%9B%BB%E9%80%9A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "pass": 3
+   },
+   {
+    "quote": "電通グループ の 事業 概要と成長戦略 - SBI証券 — 電通グループ の 事業 概要と成長戦略 - SBI証券 SBI証券 PDF https://search.sbisec.co.jp > info > home > seminar",
+    "url": "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_260908_dentsu.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CEOメッセージ – 株式会社 電通グループ - Dentsu — CEOメッセージ – 株式会社 電通グループ - Dentsu 株式会社電通グループ https://www.group.dentsu.com > about-us > message",
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.group.dentsu.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/message.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/mtmp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/leadership.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1901.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1947-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1964.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1978.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/1998.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2001-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2008-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2013-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2020.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2021.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2023.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/history/2024.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/data-location.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/ir/data/annual/2015/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/cgo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/chairman.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/governance/dialogue.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.group.dentsu.com/jp/ir/common/pdf/MTMP2026J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/common/pdf/environmental-policy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/sustainability/common/pdf/climate-related-report2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/sustainability/common/pdf/net-zero-transition-plan2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/sustainability/common/pdf/third-party-assurance.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/common/pdf/governance_202603.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/common/pdf/dentsu-Company-Tax-Strategy-Document2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.group.dentsu.com/jp/about-us/common/pdf/anti-bribery_corruption_policy_202301.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.dentsu.co.jp/capabilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dentsu-ho.com/articles/9495",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "電通グループ",
+   "results": [
+    "https://www.group.dentsu.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E9%9B%BB%E9%80%9A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.nikkei.com/nkd/company/?scode=4324",
+    "https://jp.linkedin.com/company/dentsujapan",
+    "https://ja.wikipedia.org/wiki/電通グループ",
+    "https://ja.wikipedia.org/wiki/電通",
+    "https://en.wikipedia.org/wiki/Dentsu",
+    "https://www.group.dentsu.com/jp/group/",
+    "https://www.dentsu.co.jp/",
+    "https://www.dentsu.co.jp/aboutus/summary/sub_company/index.html"
+   ]
+  },
+  {
+   "query": "電通グループ ビジネスモデル",
+   "results": [
+    "https://www.dentsu.co.jp/capabilities/",
+    "https://www.group.dentsu.com/jp/sustainability/reports/2021/management_plan/value_creation.html",
+    "https://mindmeister.jp/posts/bm-dentsu",
+    "https://note.com/magic_swift2546/n/n1d82fdc26eb3",
+    "https://www.d-sol.jp/marketing-for-growth",
+    "https://www.group.dentsu.com/jp/sustainability/common/pdf/integrated-report2025_01.pdf",
+    "https://www.projectdesign.jp/articles/21d3f1c9-329c-48a9-9243-1bf12df0de30",
+    "https://www.dentsu.co.jp/capabilities/producing/index.html",
+    "https://ja.wikipedia.org/wiki/%E9%9B%BB%E9%80%9A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://ja.wikipedia.org/wiki/電通グループ"
+   ]
+  },
+  {
+   "query": "電通グループ 決算説明資料",
+   "results": [
+    "https://www.group.dentsu.com/jp/ir/library/conferencematerials/",
+    "https://www.group.dentsu.com/jp/ir/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260814520879/",
+    "https://www.group.dentsu.com/jp/ir/library/",
+    "https://www.dentsusoken.com/ir/library/results.html/",
+    "https://irbank.net/E04760/reports",
+    "https://www.youtube.com/watch?v=Icr0EeD27qU",
+    "https://kitaishihon.com/company/4324/top",
+    "https://www.fusodentsu.co.jp/ir/library/annual-review.html",
+    "https://edinetdb.jp/company/E04760/presentations/"
+   ]
+  },
+  {
+   "query": "電通グループ 事業系統図",
+   "results": [
+    "https://www.group.dentsu.com/jp/group/",
+    "https://www.group.dentsu.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E9%9B%BB%E9%80%9A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://www.dentsudigital.co.jp/static/assets/pdf/about/integrated-report/integrated-report_2025.pdf",
+    "https://search.sbisec.co.jp/v2/popwin/info/home/seminar/home_seminar_briefing_260908_dentsu.pdf",
+    "https://kitaishihon.com/company/4324/business",
+    "https://api01-platform.stream.co.jp/apiservice/plt3/NTk0NA%3D%3D%23OTc0OA%3D%3D%23280%23168%230%233FE6A0D9E400%23MDoyOjc6YTpmOzEwOzEwOzEw%23",
+    "https://jp.kabumap.com/servlets/kabumap/Action?SRC=basic/top/base&codetext=4324&tdNetViewAll=1",
+    "https://w3hr.jp/news/dentsu-dentsudigital-difference/",
+    "https://ja.wikipedia.org/wiki/電通グループ"
+   ]
+  },
+  {
+   "query": "電通グループ 社長 インタビュー",
+   "results": [
+    "https://dentsu-ho.com/articles/9495",
+    "https://www.group.dentsu.com/jp/about-us/message.html",
+    "https://www.youtube.com/watch?v=Kr9A4rgjRx0",
+    "https://www.dentsudigital.co.jp/careers/experienced/message/",
+    "https://special.nikkeibp.co.jp/atclh/ONB/24/group_dentsu0517/",
+    "https://agenda-note.com/brands/detail/id=8228",
+    "https://www.youtube.com/watch?v=UG3R-107hGc",
+    "https://www.dentsuconsulting.com/column",
+    "https://diamond.jp/articles/-/366927",
+    "https://www.group.dentsu.com/jp/news/release/001636.html"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像8件／外部2頁・検索5回）"
+ }
+}

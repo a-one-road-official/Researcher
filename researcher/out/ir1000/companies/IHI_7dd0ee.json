@@ -1,0 +1,1794 @@
+{
+ "name": "ＩＨＩ",
+ "aliases": [],
+ "context": "証券コード7013／機械／プライム（内国株式）／2026.03期 売上高1,643,402百万円 営業利益率10.1%",
+ "researched_at": "2026-11-02T21:08:29.447502+00:00",
+ "official_url": "https://www.ihi.co.jp/",
+ "identified_by": "search:yahoo_jp:IHI",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "嘉永6年（1853年）12月5日 水戸藩 徳川斉昭が幕命により江戸・石川島の地に造船所を創設した日",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1889年（明治22年）1月17日 有限責任石川島造船所が設立された日",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上収益（連結）",
+    "value": "1兆6,434億円（2026年3月期）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "売上収益",
+    "value": "新製エンジン・アフターマーケット割合（イメージ）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数（連結）",
+    "value": "26,224人（2026年3月末）",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "地域・お客さまごとに最適な総合ソリューションを提供することにより“脱CO",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日々の生活を支える製品から、",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "暮らしの中の道路や建物、交通システムから、各分野における最先端の技術・製品まで",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "地域・お客さまごとに最適な総合ソリューションを提供することにより“脱CO",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "総合熱処理受託サービスを行なうドイツのVTN Beteiligungsgesellschaft GmbH（現 IHI VTN GmbH）を買収し完全子会社化",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "特集 唯一無二の技術・製品・サービスでSDGsのその先へ",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "新技術・新製品・新事業特集号",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "新技術・新製品特集号",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "-環境保全・地球温暖化防止対策に貢献する IHI の製品・技術-特集号-",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "-身近な生活を支えるIHIグループ製品小特集号-",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "-新技術・新製品特集号-",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "産業の発展、豊かな生活に必要なエネルギー を、地球に優しく生み出す製品・サービス",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "地 域・お客さまごとに最適な総合ソリューション を提供し、脱CO",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "圧縮機やパーキングシステム、熱表面処理設備 などの多彩なソリューションを世界に提供中",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/financial_performance/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/sustainable/environmental/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の導入後も運用・保守、更新まで一貫してお客さまと社会に価値を提供",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/event/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/event/investor_day/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/library/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は、決算、サステナビリティ、事業・製品など、各媒体の情報とのつながりをさらにわかりやすくしていきます",
+    "url": "https://www.ihi.co.jp/ir/library/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "産業の発展、豊かな生活に欠かせないエネルギーを、地球にやさしい方法で生み出すIHIの製品・サービス",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "地域・お客さまごとに最適な総合ソリューションを提供することによって、脱CO₂・循環型社会に貢献します",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンソリューション",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "・循環型社会の実現に向けさまざまなソリューションを提案・提供していきます",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、遠隔監視やメンテナンスなど、製品のライフサイクルにわたるサービスを提供しています",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "さらには、免震・制振事業、その他開発製品など、安全で安心、快適な暮らしを実現する製品とサービスの提供に力を注いでいます",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "土木や建築の分野では、常に最新の工法と製品を生み出し続けています",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "物流システムや圧縮機、真空熱処理設備などの多彩なソリューションを世界に提供中",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のライフサイクル全般にわたる",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "最適なソリューションをご提案",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "全国に170ヵ所以上あるサービス拠点により納入した機械の保守・点検、使用状況に応じた改修の提案を行うことで、製品のライフサイクル全般にわたる最適なソリューションをご提案します",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客さまの近くでお困りごとや課題を受け止め、エンジニアリング、アフターサービスや省エネなどの最適なソリューションを提供しています",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報TOP",
+    "url": "https://www.ihi.co.jp/ir/elec/",
+    "pass": 1
+   },
+   {
+    "quote": "損益面では、営業利益は、民間向け航空エンジンや原子力事業の需要拡大、国内カーボンソリューション・原動",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "品質なサービスを迅速に提供する体制の構築を進めています",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 主な事業、製品・サービス",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "資源・エネルギー・環境 原動機（陸用原動機プラント、舶用原動機）、カーボンソリューション、原子力（原子力機器）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、製品・サービス別のＳＢＵを置き、それらを統括する事業領域を配置しています",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ＳＢＵは事業領域の立案するビジョン・戦略に基づき、営業・開発・設計・生産・建設・サービスなどの一貫したビ",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントに属する主な事業、製品・サービスは以下のとおりです",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "販売、都市開発（不動産販売・賃貸）、その他サービス業等を含んでいます",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 民間エンジン・原子力等の成長事業に加え、国内カーボンソリューションや車両過給機等、安定収益",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "野球日本代表「侍ジャパン」とオフィシャルパートナー契約を締結しました",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本特集では、デジタルシミュレーション技術や基盤技術の進展を通じた取り組みを紹介し、エンジニアリングの新たな展開をお届けします",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "IHI、野球日本代表「侍ジャパン」とオフィシャルパートナー契約を締結",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介トップへ",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "IHIが発行している技術論文誌「IHI技報」最新刊のご紹介",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "急速に変化する社会環境の中で，持続的に価値を創出し続けるためには，エンジニアリングの力を発揮した技術開発の高度化とスピード向上が求められています．また，新たな価値創出に向けては，自社技術にとどまらず，分野を超えた技術の融合や，関連機関・ステークホルダーとの関わりが重要となります．本特集では，デジタルシミュレーション技術の活用，基盤技術の進展などを組み合わせた取り組みを紹介し，エンジニアリングの新たな展開をお届けします．",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "各時代の困難な社会課題に果敢に挑戦し、技術の力で解決してきたIHIの歴史についてご紹介します",
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "pass": 1
+   },
+   {
+    "quote": "決算公表資料をご紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "説明会資料をご紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "株主さま向け報告書をご紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "成長の考え方について紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "強みについて紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "既存事業で培った技術・知見を生かし、さまざまなパートナーと共に新たな事業機会を生み出す",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "その一環として、既存の技術・能力を基盤に、関連する技術的専門性の強化や、経験豊富なパートナーとの連携を推進しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "資源・エネルギー・環境 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "pass": 1
+   },
+   {
+    "quote": "社会基盤 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "産業システム・汎用機械 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛 | 事業紹介 | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "pass": 1
+   },
+   {
+    "quote": "2025.8.6 交通システム事業 株式会社J-Willパートナーズ グループに新潟トランシス株式会社株式100％が譲渡完了（2025年12月30日）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "員、統括本部長、本社本部長、本社部長のうち議長が指名する者を構成員として、原則年２回開催しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "場の変動などの経済環境の変化や検討不足、予期しないトラブル、JV等のパートナー企業の経営悪化等により見",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の意思決定時に想定できなかった経済環境や市場の変化、自社やパートナーに起因するトラブル等による目標投",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "出荷済みのPW1100G-JMエンジンに関する追加検査プログラムについては、引き続きプログラムパートナーととも",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "加えて、世界のトップエコシステムに参加し、エコシステムの中で真に価値のあるパートナーとして認識される",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、陸上や海上における状況把握に役立つ多様なデータの取得・提供を目指すため、パートナー各社と連",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・CEOの意思決定及び業務執行をサポートする機関として「経営会議」があり、CEOの指名する者により構成され",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・取締役会の諮問機関として、任意の「報酬諮問委員会」及び「指名諮問委員会」を設置しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、「指名諮問委員会」は、役員人",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "た、同じく「指名諮問委員会」については、独立社外取締役６名、代表取締役社長の計７名で構成され、委員",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（イ）指名諮問委員会",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "取締役会の諮問機関として、任意の指名諮問委員会を設置しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年03月25日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月30日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月28日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月27日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月19日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月09日",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表は、2026年11月4日（水）13:00を予定しております",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ | 企業情報 | 株式会社IHI",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年～",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年～",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年～",
+    "url": "https://www.ihi.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2016年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2012年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2009年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2008年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年度",
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算短信〔IFRS〕（連結）(414 KB)",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度（2027年3月期）第1四半期決算説明資料（IFRS）(1,612 KB)",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年度（2026年3月期）決算説明会 「中長期の方向性」および「経営概況（中長期に向けたロードマップ）」(2,785 KB)",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表は、2026年11月4日（水）13:00を予定しております",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算を発表いたしました",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "沿革・あゆみ",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第2四半期決算発表は、2026年11月4日（水）13:00を予定しております",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月29日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月5日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年度第1四半期決算を発表いたしました",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月1日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月29日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月25日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月24日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月22日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月12日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月2日",
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "お取引先の方",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、その役割を維持しながら、「中長期の方向性」の実現を事業や職場で担う従業員をはじめ、お客さま、お取引先、学生・求職者の方など、さまざまな立場の皆さまにも伝わるものにしたいと考えました",
+    "url": "https://www.ihi.co.jp/ir/library/annual/",
+    "pass": 1
+   },
+   {
+    "quote": "シンガポールに本社を置き、アジア、ヨーロッパ、中東、米国に拠点を構え、100カ国以上の顧客に対応しています",
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "pass": 1
+   },
+   {
+    "quote": "外部顧客への売上収益 70,202 28,375 101,732 127,137 327,446 10,345 337,791 － 337,791",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "外部顧客への売上収益 88,208 20,377 99,687 154,157 362,429 12,119 374,548 － 374,548",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サプライチェーンにおける対応状況は、お取引先のサステナビリティ評価の中で確認しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "構築し、当社グループのみならず、調達先や取引先における対応状況を確認しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "を受けた取引先等に対する債権の回収不能、投資資産の接収等のリスクが顕在化した場合、当社グループの業績",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループは、社内の取引審査や取引先 スクリーニングにより経済安全保障 に関するリスクの軽減に努めて",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "製品の導入後も運用・保守、更新まで一貫してお客さまと社会に価値を提供",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "本件は、原案どおり、監査役の報酬総額として、年額１億5,000万円以内へ改定いたします",
+    "url": "https://www.ihi.co.jp/ir/event/meeting/",
+    "pass": 1
+   },
+   {
+    "quote": "全国に170ヵ所以上あるサービス拠点により納入した機械の保守・点検、使用状況に応じた改修の提案を行うことで、製品のライフサイクル全般にわたる最適なソリューションをご提案します",
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "pass": 1
+   },
+   {
+    "quote": "込まれ、かつ当社の強みを発揮できる事業については、既存アセットや既設ストックを最大限活用したライフサイ",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 豊富な施工・納入実績（ストック）",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 設備・プラントのストックの価値を最大化するライフサイクルビジネスを、お客さまと社会にとっての価値（経済性・安全性・強靭性・",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製造、販売、据付、保守、修理を行なっ",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場成長が見込まれ、かつ当社の強みを発揮できる事業 については、既存アセットや既設ストックを最",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "①【ストックオプション制度の内容】",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "強みについて紹介します",
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "pass": 1
+   },
+   {
+    "quote": "込まれ、かつ当社の強みを発揮できる事業については、既存アセットや既設ストックを最大限活用したライフサイ",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "民間エンジンの増産対応等に向けた在庫水準の引き上げにより、",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 2.5% 6.9% 6.1% ▲5.3% 8.8% 10.1% 19.5% 13.6% 13.1%",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "この長年の挑戦の積み重ねこそが、IHIの競争優位の源泉である",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "技術の強みを活かして市場を創出",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "参入障壁の高さと事業拡大・拡張の余地（根源的な社会ニーズの存在）を兼ね備える主な市場 = ナショナルセキュリティ分野",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "活かせる強み",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業統合・企業間連携（強みの掛け合わせ）による収益力強化",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "世界最長・高難度の橋梁プロジェクト＊2を通じた更なる強みの獲得",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● IHIの強み（技術、市場ポジション）を起点として付加価値を継続的に高めることで、外部要因に左右されにくい安定的な収益基盤として",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・多様性を強みに変える新たなワークフォース(様々な人財やAIの協働体制)の実現",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※1：2025年度実績 ※2：2026年度から2028年度における営業利益率の目安レンジ ※3：投資CFとは一致しない（研究開発費を含み、資産売却は含まないため）",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10.1%",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10-13%",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 13%+",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 15%+",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ともない営業利益率が低下",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 10.1％",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 15 ％+",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率イメージ 10%＋ 10%＋",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "売上CAGR・営業利益率重視",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "事業ドメインは、当社グループが技術・事業の両面で強みを発揮できる分野として、エアロスペース、エネル",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループが長期にわたって培ってきた事業モデルである、圧倒的に強い技術をつくり、参入障壁の高",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※１:2025年度実績 ※２:2026～2028年度における営業利益率の目安レンジ ※３:投資CFとは一致しない（研究開発費を含み、資産売却は含まないため）",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "市場成長が見込まれ、かつ当社の強みを発揮できる事業 については、既存アセットや既設ストックを最",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３）多様性を強みに変える新たなワークフォース(様々な人財やAIの協働体制)の実現",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループが 技術・事業の両面で強みを発揮 できる分野としてエアロスペー",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "両社の強みと人財を融合し、社会課題の解決に向けた体制構築",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率 △5.3％ （7.0％） 8.8％ 10.1％ 7.5％",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "営業利益率・ROICについては「グループ経営方針 2023」に掲げた経営目標を達成 し、１株当たり当期利益",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "で、製品・サービスを超えて、お客さまの新しい価値を生み出すバリューチェーンを創造し、競争優位性を高める",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "計から建設、保全までの一気通貫のエンジニアリングと施工能力を強みに国内で高いシェアを誇り、海外の長大橋",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "防衛事業は、長年のプライムメーカーとしての経験を強みに、日本政府と連携しグローバル展開を通じ",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "多彩なセグメントを提供",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "セグメント自動組立システムでもトップの実績を有しています",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "また、時代のニーズに応えて、コンクリート主材料とした多彩なセグメントを提供",
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "pass": 1
+   },
+   {
+    "quote": "（セグメント情報） ………………………………………………………………………………………………… 13",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 計 4,153 3,522 △15.2 3,327 231 3,663 358 10.1 54.9",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当第１四半期連結累計期間の報告セグメント別の状況は以下のとおりです",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 主な事業、製品・サービス",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（セグメント情報）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（１）報告セグメントの概要",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの事業セグメントは、当社グループの構成単位のうち分離された財務情報が入手可能であり、取締役",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "従って、当社グループは事業領域別のセグメントから構成されており、「資源・エネルギー・環境」「社会基盤」",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "「産業システム・汎用機械」「航空・宇宙・防衛」の４事業領域を報告セグメントとしています",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ントの決定に際して、集約された事業セグメントはありません",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各報告セグメントに属する主な事業、製品・サービスは以下のとおりです",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント間の内部売上収益",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント利益又は損失（△）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（２）報告セグメントに関する情報",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社グループの報告セグメントごとの情報は以下のとおりです",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、セグメント間の内部売上収益及び振替高は",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１．「その他」の区分は、報告セグメントに含まれない事業で、検査・計測事業及び関連する機器等の製造、",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額は、セグメント間取引に関わる調整額△419百万円、各報告セグ",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に各セグメントに帰属しない一般",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．セグメント利益又は損失（△）は、要約四半期連結損益計算書の営業利益又は営業損失（△）と調整を行",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．セグメント利益又は損失（△）の調整額は、セグメント間取引に関わる調整額335百万円、各報告セグメ",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "全社費用は、主に各セグメントに帰属しない一般管",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注2）以下のページではセグメント略称を使用しています",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "• 航空・宇宙・防衛セグメントの第１四半期実績等を反映し、前回見通しから、受注高、売上収益、",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "第１四半期の航空・宇宙・防衛セグメントの実績、および、不動産売却の進捗を踏まえ、",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別内訳",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別内訳（2025年度1Q vs 2026年度1Q）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別営業利益増減要因（2025年度1Q vs 2026年度1Q）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）報告セグメント別・要因別の数値の合計と合計欄の数値は四捨五入の関係で一致しない場合がある",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント合計 +26 +46 +19 +32 ▲17 - +21 +126",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別内訳 （2026年度前回見通し vs 2026年度今回見通し）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別営業利益増減要因（2026年度前回 vs 2026年度今回見通し）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント合計 - - - +70 - - - +70",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別決算実績・見通し <資源・エネルギー・環境>",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別決算実績・見通し <社会基盤>",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別決算実績・見通し <産業システム・汎用機械>",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別決算実績・見通し <航空・宇宙・防衛>",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【参考】航空・宇宙・防衛セグメント営業利益四半期推移（為替影響・一時要因を除外）",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "調整後 空セグメント営業利益",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "空 セグメント営業利益",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント別売上収益・営業利益・EBITDA",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(注) 各円グラフの比率 (%) は、報告セグメント合計に対する構成比率を示す",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "セグメント別EBITDA=各セグメント営業利益+各セグメント減価償却費",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注２）事業譲渡・セグメント変更による影響のあるコンクリート建材、交通システム、運搬機械、および都市開発は過去実績から除いている",
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・原子力の発電構成比8.5%→20％へ",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、次の４事業は第５「経理の状況」１連結財務諸表等（１）連結財務諸表注記「６．セグメント情報」に記載",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "の報告セグメントの区分と同一です",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ジャパントンネルシステムズ㈱、㈱三越、ＪＩＭテクノロジー㈱、㈱ＩＨＩセグメント（注⑧）、",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※セグメントを構成する連結子会社を、上表に記載しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、各連結子会社のセグメントにおいて果た",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（注）１. 主要な事業の内容欄には、報告セグメントの名称を記載しています",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "報告セグメント 計 17,251 19,219 11.4 15,980 1,454 16,108 1,528 0.8 5.1",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の報告セグメント別の業績は以下のとおりとなりました",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当連結会計年度の報告セグメント別の事業環境は以下のとおりです",
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "pass": 2
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "・ビジネスモデル変革推進",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・ビジネスモデル変革のスピード不足",
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業紹介 | 企業情報 | 株式会社 IHI — 事業紹介 | 企業情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 企業情報",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜株式会社 IHIビジネス サポート — 企業情報｜株式会社 IHIビジネス サポート 株式会社IHI https://www.ihi.co.jp > ihibs > company",
+    "url": "https://www.ihi.co.jp/ihibs/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 IHI 】空から地下まで支える巨人｜キギョケン 世界の企業研究 — 【 IHI 】空から地下まで支える巨人｜キギョケン 世界の企業研究 note https://note.com > キャリア > 企業分析",
+    "url": "https://note.com/joyous_sayyou/n/nbbf465484fbc",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギーシナリオを定量的に捉える IHI の新たな挑戦経済の ... — エネルギーシナリオを定量的に捉える IHI の新たな挑戦経済の ... 株式会社IHI https://www.ihi.co.jp > 技術情報 > 技術記事一覧",
+    "url": "https://www.ihi.co.jp/technology/techinfo/contents_no/1200874_13491.html",
+    "pass": 3
+   },
+   {
+    "quote": "【 ビジネスモデル 図解2026】 IHI の事業戦略を構造化する ... — 【 ビジネスモデル 図解2026】 IHI の事業戦略を構造化する ... mindmeister.jp https://mindmeister.jp > posts > bm-IHI",
+    "url": "https://mindmeister.jp/posts/bm-IHI",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 | IR資料室 | 株主・投資家情報 - IHI — 決算短信・ 決算説明資料 | IR資料室 | 株主・投資家情報 - IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報 > IR資料室",
+    "url": "https://www.ihi.co.jp/ir/library/statements/",
+    "pass": 3
+   },
+   {
+    "quote": "IR 資料 室 | 株主・投資家情報 | 株式会社 IHI — IR 資料 室 | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報",
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "決算説明 会 | IRイベント | 株主・投資家情報 | 株式会社 IHI — 決算説明 会 | IRイベント | 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 株主・投資家情報 > IRイベント",
+    "url": "https://www.ihi.co.jp/ir/event/statements_meeting/",
+    "pass": 3
+   },
+   {
+    "quote": "【 IHI 】[7013]IR情報 中期経営計画や 決算 短信 | 日経電子版 — 【 IHI 】[7013]IR情報 中期経営計画や 決算 短信 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=7013",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家情報 | 株式会社 IHI — 株主・投資家情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > ...",
+    "url": "https://www.ihi.co.jp/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "組織図 | 企業情報 | 株式会社 IHI — 組織図 | 企業情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 企業情報",
+    "url": "https://www.ihi.co.jp/company/organization/",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | 企業情報 | 株式会社 IHI — 事業 紹介 | 企業情報 | 株式会社 IHI 株式会社IHI https://www.ihi.co.jp > 企業情報",
+    "url": "https://www.ihi.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 IHI — 株式会社 IHI 株式会社IHI https://www.ihi.co.jp",
+    "url": "https://www.ihi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Profile - IHI — Corporate Profile - IHI 株式会社IHI PDF https://www.ihi.co.jp > pdf > IHI-CorporateProfile-JP",
+    "url": "https://www.ihi.co.jp/company/outline/pdf/IHI-CorporateProfile-JP.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "「中長期の方向性」 「経営概況 - IHI — 「中長期の方向性」 「経営概況 - IHI 株式会社IHI PDF https://www.ihi.co.jp > FY2026-management",
+    "url": "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/05/08/FY2026-management.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "【 社長インタビュー 】なぜ、業績好調の IHI は「抜本的変革 ... — 【 社長インタビュー 】なぜ、業績好調の IHI は「抜本的変革 ... 株式会社IHI https://www.ihi.co.jp > ニュース > 2025年度",
+    "url": "https://www.ihi.co.jp/all_news/2025/ir/1201771_13750.html",
+    "pass": 3
+   },
+   {
+    "quote": "［解題］「魔改造の夜」から始まる王道： 社長インタビュー — ［解題］「魔改造の夜」から始まる王道： 社長インタビュー ihi-core.tech https://ihi-core.tech > makaizo > review03",
+    "url": "https://ihi-core.tech/makaizo/review03/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI ・井手 社長 「キャッシュ生む複合経営を」 航空・原子力 ... — IHI ・井手 社長 「キャッシュ生む複合経営を」 航空・原子力 ... 日経ビジネス電子版 https://business.nikkei.com > 編集長インタビュー",
+    "url": "https://business.nikkei.com/atcl/NBD/19/00119/00319/",
+    "pass": 3
+   },
+   {
+    "quote": "IHI 、30年代に原発事業の売上高倍増1000憶円に ... — IHI 、30年代に原発事業の売上高倍増1000憶円に ... 読売新聞 https://www.yomiuri.co.jp > economy",
+    "url": "https://www.yomiuri.co.jp/economy/20250604-OYT1T50147/",
+    "pass": 3
+   },
+   {
+    "quote": "スペシャル インタビュー （盛田 英夫）｜キャリア採用情報 - IHI — スペシャル インタビュー （盛田 英夫）｜キャリア採用情報 - IHI 株式会社IHI https://www.ihi.co.jp > recruit > career > interview03",
+    "url": "https://www.ihi.co.jp/recruit/career/lp/interview03.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ihi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/technology/review_library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/individual_owner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/financial_performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/sustainable/environmental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/annual/integratedreport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/event/meeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/event/investor_day/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/annual/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/all_news/2026/resources_energy_environment/1202227_13799.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/infrastructure_offshore/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/industrial_general_machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/aeroengine_space_defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/management/message/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/elec/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ihi.co.jp/company/outline/pdf/IHI-CorporateProfile-JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/outline/pdf/IHI-CorporateProfile-EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2027_3_1Q_KT_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/statements/_cms_conf01/__icsFiles/afieldfile/2026/08/05/2026FY_1Q_KS_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/management_plan/_cms_conf01/__icsFiles/afieldfile/2026/05/08/FY2026-management_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/library/finance_report/_cms_conf01/__icsFiles/afieldfile/2026/06/24/209_w_sum_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/09/29/260929n-j_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/ir/news/2026/__icsFiles/afieldfile/2026/06/12/Notice_260612_J.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/index_energy-icon_img.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/index_infrastructure-icon_img.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/index_industrial-icon_img.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/img/index_aviation-icon_img.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_icon_bg.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.ihi.co.jp/company/business/resources_energy_environment/img/index_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ihi-core.tech/makaizo/review03/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "IHI",
+   "results": [
+    "https://www.ihi.co.jp/",
+    "https://www.ihi.org/",
+    "https://ja.wikipedia.org/wiki/IHI",
+    "https://en.wikipedia.org/wiki/IHI_Corporation",
+    "https://www.nikkei.com/nkd/company/?scode=7013",
+    "https://grokipedia.com/page/Ihi",
+    "https://www.ihi.co.jp/en/",
+    "https://www.ihi.org/learn/courses/open-school",
+    "https://events.ihi.org/forum",
+    "https://my.ihi.org/portal/topclass/lmsportal.aspx"
+   ]
+  },
+  {
+   "query": "IHI ビジネスモデル",
+   "results": [
+    "https://www.ihi.co.jp/company/business/",
+    "https://www.ihi.co.jp/ihibs/company/index.html",
+    "https://note.com/joyous_sayyou/n/nbbf465484fbc",
+    "https://www.ihi.co.jp/technology/techinfo/contents_no/1200874_13491.html",
+    "https://mindmeister.jp/posts/bm-IHI",
+    "https://jbpress.ismedia.jp/articles/-/70812",
+    "https://www.ihi.co.jp/",
+    "https://www.ihi.co.jp/ihibs/business/index.html",
+    "https://www.ihi.co.jp/ihibs/company/outline/index.html",
+    "https://www.ihi.co.jp/ir/library/annual/integratedreport/growth-strategy/"
+   ]
+  },
+  {
+   "query": "IHI 決算説明資料",
+   "results": [
+    "https://www.ihi.co.jp/ir/library/statements/",
+    "https://www.ihi.co.jp/ir/library/",
+    "https://www.ihi.co.jp/ir/event/statements_meeting/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=7013",
+    "https://www.ihi.co.jp/ir/",
+    "https://www.ihi.co.jp/ir/news/",
+    "https://www.ihi.co.jp/ir/sitemap/",
+    "https://edinetdb.jp/company/E02128/presentations/",
+    "https://irbank.net/7013/ir",
+    "https://minkabu.jp/stock/7013/news/4585615"
+   ]
+  },
+  {
+   "query": "IHI 事業系統図",
+   "results": [
+    "https://www.ihi.co.jp/company/organization/",
+    "https://www.ihi.co.jp/company/business/",
+    "https://www.ihi.co.jp/",
+    "https://www.ihi.co.jp/company/outline/pdf/IHI-CorporateProfile-JP.pdf",
+    "https://www.ihi.co.jp/all_news/2026/ir/__icsFiles/afieldfile/2026/05/08/FY2026-management.pdf",
+    "https://www.ihi.co.jp/company/",
+    "https://www.ihi.co.jp/company/offices/",
+    "https://www.ihi.co.jp/sitemap/",
+    "https://www.ihi.co.jp/ir/library/management_plan/",
+    "https://ja.wikipedia.org/wiki/IHI"
+   ]
+  },
+  {
+   "query": "IHI 社長 インタビュー",
+   "results": [
+    "https://www.ihi.co.jp/all_news/2025/ir/1201771_13750.html",
+    "https://ihi-core.tech/makaizo/review03/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00319/",
+    "https://www.yomiuri.co.jp/economy/20250604-OYT1T50147/",
+    "https://www.ihi.co.jp/recruit/career/lp/interview03.html",
+    "https://diamond.jp/articles/-/374589",
+    "https://the-shashi.com/tse/7013/ceo/",
+    "https://x.com/diamondweekly/status/1982940001198584282",
+    "https://txbiz.tv-tokyo.co.jp/nms/special/post_325332",
+    "https://www.youtube.com/live/vpgGLEKrp8w"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式25頁／PDF・画像16件／外部1頁・検索5回）"
+ }
+}

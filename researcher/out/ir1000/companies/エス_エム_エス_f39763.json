@@ -1,0 +1,1285 @@
+{
+ "name": "エス・エム・エス",
+ "aliases": [],
+ "context": "証券コード2175／サービス業／プライム（内国株式）／2026.03期 売上高64,735百万円 営業利益率10.5%",
+ "researched_at": "2026-11-02T21:00:33.460879+00:00",
+ "official_url": "https://www.bm-sms.co.jp/",
+ "identified_by": "search:yahoo_jp:エス・エム・エス",
+ "profile": {
+  "設立": [
+   {
+    "label": "設立日",
+    "value": "2003年4月4日",
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結:4,660名、単体:3,214名 （2026年3月31日時点）",
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高(百万円)",
+    "value": "30,836 35,140 35,960 38,899 45,667 53,973 60,952 64,735",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "誰に": [
+   {
+    "quote": "【ケアマネジャー397名に聞いた栄養マネジメントに関する調査】68.3%が利用者・家族から食事・栄養の相談を受ける一方、71.8%が利用者・家族への「提案できる情報の不足」を実感～診療報酬改定から約3カ月、改定対象の医薬品栄養剤を利用する被介護者を受け持つケアマネジャーの27.9%が処方や利用状況の変化を経験、処方中止も～",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "リフォーム希望者と事業者のマッチング「ハピすむリフォーム」が「ハピすむリフォーム活動実績表彰制度」2026年版部門別表彰を実施～「成約件数ランキング」と「顧客対応優良会社」を発表",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "資材高騰のなか、顧客に寄り添う姿勢や提案が高評価を獲得～",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、それぞれの事業領域において、サービス提供を通じて構築した従事者ネットワークや顧客基盤などのアセットと、様々な事業の創造・拡大を通じて磨いてきたケイパビリティを活用し、さらなる事業創造と領域拡張につなげ、高齢社会の情報インフラを構築してきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「質の高い医療・介護/障害福祉サービスの持続的な提供が困難になる（課題１）」「現役世代の負担がより深刻になる（課題２）」「高齢社会の生活にまつわる困りごとの解決が困難になる（課題３）」という高齢社会が直面する3つの課題を解決するため、キャリア領域、介護・障害福祉経営支援領域、シニアライフ領域、ヘルスケア領域という4つの事業領域において、サービス提供を通じて構築した従事者ネットワークや顧客基盤などのアセットと、様々な事業の創造・サービス展開を通じて磨いてきたケイパビリティを活用しながら、情報インフラとしてサービスを展開してきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野では、主に看護師等を対象とした人材紹介を行っていて、全国に8000強ある病院のうち7割程度が取引先です",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "保険請求のみが多い競合他社の製品に比べてカイポケは利便性が高く、順調に会員数を増やしています",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "しかしカイポケ会員数の順調な増加、デジタル商材ニーズ拡大に伴うメディカルプラットフォーム事業の成長といった好成績も",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "また三井不動産は、顧客におけるコロナ禍後のオフィス戦略が動き出すとみられ、十分な成長性を回復できるかの確認に時間を要することを考慮しました",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "年々その目標やミッションも、事業の一つのKPI→一つの領域→事業全体とサイズが広がることや、自社サービス内部だけの視点→顧客の視点→市場の視点と多角化したものが求められます",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "事業を動かし社会にインパクトを出す力を日々の事業活動のなかで実践しながら体得し、その結果顧客や社会に価値を還元していく一連のプロセスを、手触り感をもって進められる点です",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "社会の課題、その課題の渦中にある市場の構造、課題を抱えている顧客の置かれている環境",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "ISHIN AGENT 【お客様の声チャンネル】",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   },
+   {
+    "quote": "万一、それによりご利用者様または第三者に損害が生じた場合でも、当社では責任を負いかねますので、あらかじめご了承ください",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   }
+  ],
+  "何を": [
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、介護従事者の不足解消を目指したケアマネジャー向けの人材紹介事業「ケア人材バンク」の創造をスタートとして、様々なビジネスモデルの事業や新規のサービスを生み出し、キャリア、介護・障害福祉経営支援、シニアライフ、ヘルスケアと新しい事業領域を切り拓いてきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、それぞれの事業領域において、サービス提供を通じて構築した従事者ネットワークや顧客基盤などのアセットと、様々な事業の創造・拡大を通じて磨いてきたケイパビリティを活用し、さらなる事業創造と領域拡張につなげ、高齢社会の情報インフラを構築してきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化に伴い介護の需要が増大する一方で、生産年齢人口の減少により、これらのサービスを支える介護従事者の不足が深刻化",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「質の高い介護サービスの提供が困難になる」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス提供先をケアマネジャーのみならず新たに介護職へ広げることで、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "資格講座情報の提供に加え、新たなサービスを介護職向けに展開することで、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「ウェルミージョブ」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「質の高い医療サービスの提供が困難になる」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「ナース専科 転職」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "という課題解決のために、介護従事者不足の解消とともに、介護事業者の業務効率の向上と経営改善が重要であることから、将来的な経営支援サービスへの拡張を見据えて、介護事業所の日々の運営に不可欠なレセプト事業（介護保険請求ソフトの提供）「カイポケ」を創造",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「M3 Career Agent」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "看護師向けに新たなサービスを展開し、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ケアマネジャー向けに新たなサービスを展開し、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「薬キャリエージェント」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「ナース専科 就職」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名：「ドクターキャリアエージェント」は「M3 Career Agent」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「エイチエ 転職」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者向け住宅紹介サービス「かいごDB」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「安心介護紹介センター」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者向け食事宅配紹介サービス「らいふーど」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで提供していた介護事業所の日々の運営に不可欠な保険請求の機能に加えて、介護/障害福祉事業者の経営改善に役立つ業務・採用・購買・金融・バックオフィス・M&Aなどを支援するサービスをワンストップで提供する介護/障害福祉事業者向け経営支援プラットフォームとして大幅にリニューアル",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アジア・オセアニアで医薬情報サービスを運営する「MIMSグループ」を子会社化",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アジアパシフィック地域（APAC）における医療の普及と安全性の向上のために、医薬情報サービスを提供する「MIMSグループ」を子会社化し、メディカルプラットフォーム領域を切り拓く",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "住まいにまつわる総合情報サービス「ハピすむ」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "シニア世帯の住まいに関する困りごとの解決へ向け、リフォームサービスを探している人々とリフォーム事業者をマッチングする事業を創造",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "データ分析サービスの事業推進を主導するとともに、レコメンドエンジンや広告自動入札等のSaaSプロダクト事業部門を統括し、同社の上場に貢献",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "mdx-MaaSをはじめとするAIモデルの推論サービスや、AI向け大規模GPUシステムの設計・構築をリードしている",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、クリエイティブエージェンシーにて、企業の商品企画やプロモーション開発等のプロデュース業務を経験",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "WEBメディアの横断的な統括管理や、メディア企画部でのマーケティング・商品設計に従事",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2013年に資格取得支援サービスの責任者を経て、2015年より介護キャリア事業部長に就任",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "日本デイサービス協会の理事も務める",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2001年からエンジニアのキャリアをスタートし、AIGグループの生命保険会社にて生保3社の営業支援システム統合プロジェクト、月間20億PVの携帯向けサービスの企画・開発、ジョイントベンチャーでのECの立ち上げなどを経験",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "開発基盤整備チームの立ち上げやCI導入による開発効率向上の推進、遺伝子検査サービスの立ち上げに従事",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やビジネスモデルの再定義、デジタルイノベーションの加速、そして長期的かつ持続可能な成長を支えるための商務・デリバリー能力の再編などを牽引",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢社会が直面する「質の高い医療・介護/障害福祉サービスの提供が困難になる」「現役世代の負担がより深刻になる」「高齢社会の生活にまつわる困りごとの解決が困難になる」という社会課題に対して、次のような戦略的事業領域において解決を目指しています",
+    "url": "https://www.bm-sms.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "介護事業者の経営改善とサービス品質の向上に貢献する",
+    "url": "https://www.bm-sms.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/stock/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/calendar/",
+    "pass": 1
+   },
+   {
+    "quote": "サービスに関するお問い合わせ",
+    "url": "https://www.bm-sms.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "サービス退会のご依頼",
+    "url": "https://www.bm-sms.co.jp/ir/individual/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年10月26日",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月9日",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年9月30日",
+    "url": "https://www.bm-sms.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年4月より東京証券取引所の市場区分変更に伴いプライム市場へ移行",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2003年4月4日",
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1984年4月生まれ",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年に東京大学経済学部卒業後、あずさ監査法人（現 有限責任",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年に当社取締役に就任し、2026年1月より代表取締役社長（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年6月、当社の社外取締役 監査等委員に就任（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年に代表取締役CEOに就任後、ミッション・ビジョン・バリューの刷新、取締役会構成の見直しとモニタリングモデルへの転換、事業ポートフォリオの再構築と株主還元を推進",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年より取締役会議長として、経営執行と取締役会監督機能の分離と実効性の確保を実践し、2026年6月に同社取締役会議長（監査等委員）を退任",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月、当社の社外取締役 監査等委員に就任（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2015年に弁護士登録後、英国系大手法律事務所であるフレッシュフィールズブルックハウスデリンガー法律事務所（現",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年にシンガポール国立大学（NUS）法学修士課程（LL.M.）へ日弁連推薦留学生として留学し、ASEAN各国に拠点を持つRajah",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月、当社の社外取締役",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "1998年にソフトバンク株式会社（現",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2011年に取締役に就任し、以後約10年間にわたり事業の拡大を牽引",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年に株式会社Seedimを設立して代表取締役に就任（現職）、2022年より株式会社ニーリーに参画し、次世代SaaS企業の成長支援に従事（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月、当社の社外取締役に就任（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年にシティバンク、エヌ・エイ在日支店（現 シティバンク、エヌ・エイ東京支店）に入行後、日興コーディアル証券株式会社（現",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年にライフネット生命保険株式会社に入社し、経営企画部長として全社戦略の策定を担う",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年より執行役員としてIRを含む経営企画・経理数理部門を統括し、機関投資家・アナリストとの対話を主導",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年6月より取締役副社長CFOとして経営戦略・ファイナンス・IRの全領域を統括し、同年7月には東京証券取引所グロース市場からプライム市場への上場市場区分変更を実現（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年にIBM基礎研究所（東京）に入所し、2013～2015年に欧州拠点勤務、2015年からはニューヨークのIBMワトソン研究所およびMIT-IBM",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年に東京大学に着任し現職",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年6月から2026年6月まで当社",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年に早稲田大学理工学部を卒業後、製造業向けコンサルティング会社に入社",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に看護領域の事業責任者に就任後、2020年より医療キャリア事業本部長に就任",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年より医療福祉キャリア事業全体の事業推進本部長を兼務",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年に神戸大学工学部を卒業後、営業職にて複数店舗のマネジメントや営業戦略に従事",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算および会社説明資料",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算および会社説明資料を掲載いたしました",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信を掲載いたしました",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年1月29日(金)",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第3四半期決算発表・決算説明会",
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期 決算短信",
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算および会社説明資料",
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2022年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2018年3月期",
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算および会社説明資料を掲載いたしました",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第2四半期決算短信を掲載いたしました",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月21日",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月8日",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年8月25日",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月29日",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月期 第1四半期決算および会社説明資料を掲載いたしました",
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "pass": 1
+   }
+  ],
+  "ビジネスモデル": [
+   {
+    "quote": "私たちは、介護従事者の不足解消を目指したケアマネジャー向けの人材紹介事業「ケア人材バンク」の創造をスタートとして、様々なビジネスモデルの事業や新規のサービスを生み出し、キャリア、介護・障害福祉経営支援、シニアライフ、ヘルスケアと新しい事業領域を切り拓いてきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やビジネスモデルの再定義、デジタルイノベーションの加速、そして長期的かつ持続可能な成長を支えるための商務・デリバリー能力の再編などを牽引",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "増え続ける需要と同社のビジネスモデルがマッチし、",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "独自のビジネスモデルや社会変化への柔軟な対応力など、同社の強みによって継続的な利益拡大に期待がかかりますね",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "私たちは、介護従事者の不足解消を目指したケアマネジャー向けの人材紹介事業「ケア人材バンク」の創造をスタートとして、様々なビジネスモデルの事業や新規のサービスを生み出し、キャリア、介護・障害福祉経営支援、シニアライフ、ヘルスケアと新しい事業領域を切り拓いてきました",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "ケアマネジャー向け人材紹介「ケア人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "という社会課題の解決に向けて、ケアマネジャーの不足を解消するために、ケアマネジャーと最適な介護事業者とのマッチングを促進する人材紹介事業を創造",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "看護師向け人材紹介「ナース人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "という社会課題の解決に向けて、人材紹介事業を新たに看護師向けに展開し、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医師向け人材紹介「ドクターキャリアエージェント」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医師不足の解消のために、人材紹介事業を新たに医師向けに展開",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "薬剤師向け人材紹介「ファーマ人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "薬剤師不足の解消のために、人材紹介事業を新たに薬剤師向けに展開し、キャリア領域を拡張",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "理学療法士・作業療法士・言語聴覚士向け人材紹介「PT・OT人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "理学療法士・作業療法士・言語聴覚士の不足の解消に向けて、人材紹介事業を新たにリハビリ職向けに展開",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医師向け人材紹介「ドクターキャリアエージェント」と薬剤師向け人材紹介「ファーマ人材バンク」を移管し、同事業をエムスリーと共同運営に",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "管理栄養士・栄養士向け人材紹介「栄養士人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "管理栄養士・栄養士不足の解消に向けて、人材紹介事業を新たに栄養士向けに展開",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者向け住宅紹介サービス「かいごDB」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "※現サービス名「安心介護紹介センター」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "臨床検査技師向け人材紹介「検査技師人材バンク」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "臨床検査技師不足の解消のため、人材紹介事業を新たに臨床検査技師向けに展開",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢者向け食事宅配紹介サービス「らいふーど」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "介護職向け人材紹介「カイゴジョブエージェント」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "より深刻化する介護従事者の圧倒的不足を解消するために、人材紹介事業を新たに介護職に向け展開",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "介護業界外からの新規就業者を増やすとともに、介護従事者が業界で長く活躍するための着実なキャリア形成をサポートするために、未経験者の資格取得とファーストキャリアとして育成環境の整った事業者の紹介に加えて、介護職として働く人のキャリアアップにつながる専門的なスキル向上、上位資格取得を支援する介護教育スクール事業を創造",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "マレーシアの看護師人材紹介会社「MELORITA CONSULTANTS SDN.BHD.」を子会社化",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "世界的な医療従事者の不足と偏在の解消に向けて、サービス展開国・地域を拡大するために、マレーシアの看護師人材紹介会社「MELORITA CONSULTANTS SDN.BHD.」を子会社化",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "葬儀社紹介サービス「安心葬儀」",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "帰国後はシンガポール・東南アジア関連の企業法務及びコンプライアンス・ガバナンス分野を継続して担い、2025年9月に同事務所パートナーに就任（現職）",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "日本人材紹介事業協会理事、医療・介護・保育系紹介協議会代表幹事も務める",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "2005年に神戸大学工学部を卒業後、営業職にて複数店舗のマネジメントや営業戦略に従事",
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の役員および事業本部長を紹介します",
+    "url": "https://www.bm-sms.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "資本政策の考え方についてご紹介します",
+    "url": "https://www.bm-sms.co.jp/ir/management/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の事業内容をご紹介します",
+    "url": "https://www.bm-sms.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "資本政策の考え方についてご紹介します",
+    "url": "https://www.bm-sms.co.jp/ir/individual/",
+    "pass": 1
+   },
+   {
+    "quote": "外部パートナーとの取組",
+    "url": "https://www.bm-sms.co.jp/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "株を紹介した記事",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "12月号では医療・介護分野の人材紹介事業等を展開する「エス・エム・エス」が新規に選定されました! 早速、エス・エム・エスの投資ポイントをチェックしてみましょう",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "エス・エム・エスは、2003年にケアプランの作成やサービス事業者との調整などを行うケアマネジャー向けの人材紹介事業「ケア人材バンク」を創設しました",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "これを皮切りに、ヘルスケア・医療・介護・シニアライフの4つの領域で、人材紹介や求人情報、経営支援プラットフォーム、保健指導サービスなどのビジネスを次々に展開しています",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "医療分野では、主に看護師等を対象とした人材紹介を行っていて、全国に8000強ある病院のうち7割程度が取引先です",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は看護師人材紹介市場で25～30%程度のシェアを占め、業界トップ",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "また介護分野では、介護職向け求人情報、人材紹介、資格取得スクール運営などを行っています",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "人材紹介事業とともに、今後のシェア拡大に期待がかかるのが介護事業者事業です",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、そんなストラテジー・セレクションをもとに、いま注目の銘柄を、わかりやすく紹介していきます",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "介護領域の人材紹介・求人情報サイトにおける集客運用や新卒社員の育成を担当し、2022年に広告集客領域の機能リーダーに就任",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年より介護領域の人材紹介サービスにおけるマーケティング組織のマネージャー",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "オフィス紹介",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   },
+   {
+    "quote": "・当チャンネルでご紹介している情報は、撮影時点の内容に基づいております",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   }
+  ],
+  "お金の形": [
+   {
+    "quote": "同社は介護事業者が抱えるこれらの課題解決に向けて、介護事業者向けのサブスクリプション型経営支援プラットフォーム「カイポケ」を提供しています",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "独自のビジネスモデルや社会変化への柔軟な対応力など、同社の強みによって継続的な利益拡大に期待がかかりますね",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "▼sincereedの強み",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業創造の歴史｜企業情報｜株式会社 エス ・ エム ・ エス — 事業創造の歴史｜企業情報｜株式会社 エス ・ エム ・ エス 株式会社エス・エム・エス https://www.bm-sms.co.jp > 企業情報",
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "pass": 3
+   },
+   {
+    "quote": "医療・介護人材市場で高成長が続く! エス ・ エム ・ エス — 医療・介護人材市場で高成長が続く! エス ・ エム ・ エス 日興フロッギー https://froggy.smbcnikko.co.jp > ...",
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "pass": 3
+   },
+   {
+    "quote": "事業開発_障害福祉 / 株式会社 エス ・ エム ・ エス - Talentio — 事業開発_障害福祉 / 株式会社 エス ・ エム ・ エス - Talentio open.talentio.com https://open.talentio.com > smsc > pages",
+    "url": "https://open.talentio.com/r/1/c/smsc/pages/118074",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エス ・ エム ・ エス · en-courage - エンカレッジ — 株式会社 エス ・ エム ・ エス · en-courage - エンカレッジ en-courage https://app.en-courage.com > companies",
+    "url": "https://app.en-courage.com/companies/01GHZ0YS5EXVX0NCP4ASKHEPKJ?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明資料 — 決算短信・ 決算説明資料 株式会社エス・エム・エス https://www.bm-sms.co.jp > ... > IRライブラリ",
+    "url": "https://www.bm-sms.co.jp/ir/library/financial_reports/",
+    "pass": 3
+   },
+   {
+    "quote": "IRライブラリ — IRライブラリ 株式会社エス・エム・エス https://www.bm-sms.co.jp > 株主・投資家情報",
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エス ・ エム ・ エス 】[2175]IR情報 中期経営計画や 決算 短信 — 【 エス ・ エム ・ エス 】[2175]IR情報 中期経営計画や 決算 短信 日本経済新聞 https://www.nikkei.com > nkd > company > kigyo",
+    "url": "https://www.nikkei.com/nkd/company/kigyo/?scode=2175",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月期 決算 および会社 説明資料 を掲載いたしました — 2026年3月期 決算 および会社 説明資料 を掲載いたしました 株式会社エス・エム・エス https://www.bm-sms.co.jp > 株主・投資家情報 > IRニュース",
+    "url": "https://www.bm-sms.co.jp/ir-news/20260428bhijibjdbdibasdaefe/",
+    "pass": 3
+   },
+   {
+    "quote": "エス ・ エム ・ エス のIR 資料 - 2175 / プライム / サービス業 — エス ・ エム ・ エス のIR 資料 - 2175 / プライム / サービス業 バフェット・コード https://www.buffett-code.com > company > library",
+    "url": "https://www.buffett-code.com/company/2175/library",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜株式会社 エス ・ エム ・ エス — 企業情報｜株式会社 エス ・ エム ・ エス 株式会社エス・エム・エス https://www.bm-sms.co.jp > company",
+    "url": "https://www.bm-sms.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "エス ・ エム ・ エス の「組織体制・企業文化」 OpenWork — エス ・ エム ・ エス の「組織体制・企業文化」 OpenWork OpenWork https://www.openwork.jp > 人材サービス > エス・エム・エス",
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000RrN6o&q_no=1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エス ・ エム ・ エス - 一般社団法人 日本人材紹介事業協会 — 株式会社 エス ・ エム ・ エス - 一般社団法人 日本人材紹介事業協会 一般社団法人 日本人材紹介事業協会 https://www.jesra.or.jp > 会員企業検索",
+    "url": "https://www.jesra.or.jp/search/1415/",
+    "pass": 3
+   },
+   {
+    "quote": "【 エス ・ エム ・ エス 】[2175]企業概要 社員数や役員報酬・資本金 — 【 エス ・ エム ・ エス 】[2175]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=2175",
+    "pass": 3
+   },
+   {
+    "quote": "社員 インタビュー 04 | 株式会社 エス ・ エム ・ エス 採用サイト — 社員 インタビュー 04 | 株式会社 エス ・ エム ・ エス 採用サイト 株式会社エス・エム・エス https://recruit.bm-sms.co.jp > インタビュー > PMM",
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "pass": 3
+   },
+   {
+    "quote": "【1日密着】 エス ・ エム ・ エス の事業責任者の1日の ... - YouTube — 【1日密着】 エス ・ エム ・ エス の事業責任者の1日の ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エス ・ エム ・ エス サポートサービスの社員 インタビュー — 株式会社 エス ・ エム ・ エス サポートサービスの社員 インタビュー 転職サイトGreen https://www.green-japan.com > company > interview",
+    "url": "https://www.green-japan.com/company/9299/interview",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 エス ・ エム ・ エス 【公式】 (@BM_SMS_PR) / X — 株式会社 エス ・ エム ・ エス 【公式】 (@BM_SMS_PR) / X X https://x.com > BM_SMS_PR",
+    "url": "https://x.com/BM_SMS_PR",
+    "pass": 3
+   },
+   {
+    "quote": "医療・介護人材で19期連続増収増益の エス ・ エム ・ エス社長 が ... — 医療・介護人材で19期連続増収増益の エス ・ エム ・ エス社長 が ... ダイヤモンド・オンライン https://diamond.jp > articles",
+    "url": "https://diamond.jp/articles/-/322211",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bm-sms.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/company/history/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/company/profile/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/management/leadership/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/service/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/management/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/library/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/stock/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/financial_data/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/news/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/calendar/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/individual/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/ir_policy/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/faq/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/sustainability/environment/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/ir/announce/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/contact/ir/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.bm-sms.co.jp/wp-content/uploads/2026/10/FY26_1H_tanshin.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bm-sms.co.jp/wp-content/uploads/2026/10/FY26_1H_presentation.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://froggy.smbcnikko.co.jp/39401/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.openwork.jp/company_answer.php?m_id=a0C1000000RrN6o&q_no=1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エス・エム・エス",
+   "results": [
+    "https://www.bm-sms.co.jp/",
+    "https://www.jesra.or.jp/search/1415/",
+    "https://app.en-courage.com/companies/01GHZ0YS5EXVX0NCP4ASKHEPKJ?locale=ja",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%BB%E3%82%A8%E3%82%B9",
+    "https://jp.linkedin.com/company/sms-co-ltd",
+    "https://ja.wikipedia.org/wiki/エス・エム・エス",
+    "https://shikiho.toyokeizai.net/stocks/2175/corporate",
+    "https://prtimes.jp/main/html/searchrlp/company_id/13298",
+    "https://minkabu.jp/stock/2175/news",
+    "https://officenomikata.jp/corp/10117/"
+   ]
+  },
+  {
+   "query": "エス・エム・エス ビジネスモデル",
+   "results": [
+    "https://www.bm-sms.co.jp/company/history/",
+    "https://froggy.smbcnikko.co.jp/39401/",
+    "https://open.talentio.com/r/1/c/smsc/pages/118074",
+    "https://app.en-courage.com/companies/01GHZ0YS5EXVX0NCP4ASKHEPKJ?locale=ja",
+    "https://www.youtube.com/watch?v=dmPgQjNe-TE",
+    "https://www.lhh.com/ja-jp/individuals/corp/sms",
+    "https://recruit.bm-sms.co.jp/growth/",
+    "https://www.onecareer.jp/companies/392/appeal",
+    "https://jinjibu.jp/corporate/sms/",
+    "https://consovation.com/成長を続けるエス・エム・エスの魅力に迫る-ビジ/"
+   ]
+  },
+  {
+   "query": "エス・エム・エス 決算説明資料",
+   "results": [
+    "https://www.bm-sms.co.jp/ir/library/financial_reports/",
+    "https://www.bm-sms.co.jp/ir/library/",
+    "https://www.nikkei.com/nkd/company/kigyo/?scode=2175",
+    "https://www.bm-sms.co.jp/ir-news/20260428bhijibjdbdibasdaefe/",
+    "https://www.buffett-code.com/company/2175/library",
+    "https://www.dmsjp.co.jp/ir/library/financial_report/",
+    "https://kabutan.jp/stock/finance?code=2175",
+    "https://www.sms-datatech.co.jp/investors/",
+    "https://edinetdb.jp/company/E05697/presentations/",
+    "https://edinetdb.jp/company/E05697/ir-docs/"
+   ]
+  },
+  {
+   "query": "エス・エム・エス 事業系統図",
+   "results": [
+    "https://www.bm-sms.co.jp/company/",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000RrN6o&q_no=1",
+    "https://www.jesra.or.jp/search/1415/",
+    "https://app.en-courage.com/companies/01GHZ0YS5EXVX0NCP4ASKHEPKJ?locale=ja",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=2175",
+    "https://www.youtube.com/watch?v=VUimv_Zo7MQ",
+    "https://www.bm-sms.co.jp/company/profile/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%BB%E3%82%A8%E3%82%B9",
+    "https://jinjibu.jp/corporate/sms/",
+    "https://ja.wikipedia.org/wiki/エス・エム・エス"
+   ]
+  },
+  {
+   "query": "エス・エム・エス 社長 インタビュー",
+   "results": [
+    "https://recruit.bm-sms.co.jp/interview/%E7%A4%BE%E5%93%A1%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-04/",
+    "https://www.youtube.com/watch?v=TOnR8FX6nxA",
+    "https://www.green-japan.com/company/9299/interview",
+    "https://x.com/BM_SMS_PR",
+    "https://diamond.jp/articles/-/322211",
+    "https://www.lhh.com/ja-jp/individuals/corp/sms",
+    "https://www.procommitcareer.co.jp/growing/sms-hashiyama",
+    "https://cheerful-career.com/job_offer/%E3%80%9026%E5%8D%92%E5%86%85%E5%AE%9A%E8%80%85%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%EF%BC%9A%E3%82%A8%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%A0%E3%83%BB%E3%82%A8%E3%82%B9%E3%80%91/",
+    "https://jobtalk.jp/companies/310/answers?question_codes=president"
+   ]
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式18頁／PDF・画像2件／外部4頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式18頁／PDF・画像2件／外部4頁・検索5回）"
+ }
+}

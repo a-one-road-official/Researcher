@@ -1,0 +1,1173 @@
+{
+ "name": "武田薬品工業",
+ "aliases": [],
+ "context": "証券コード4502／医薬品／プライム（内国株式）／2026.03期 売上高4,505,720百万円 営業利益率10.3%",
+ "researched_at": "2026-11-02T21:01:44.141238+00:00",
+ "official_url": "https://www.takedamed.com/",
+ "identified_by": "search:yahoo_jp:武田薬品工業",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1781年（天明元年）6月12日",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "1925年（大正14年）1月29日",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5,486名（単体） 49,095名（連結） ※2023年3月末時点",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医薬品等の研究開発・製造・販売・輸出入",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "何を": [
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ一覧へ",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズは、医療専門家と連携し、最新の医学知識とエビデンスを基に、患者さんに寄り添った最適な医療ソリューションを提供することを目指して活動しています",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "こちらに掲載しているコンテンツは、開発品を含むいかなる弊社製品について、特定の薬剤の処方誘引等を目的としたものではなく、勧誘、宣伝または広告するものでもありません",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "製品のご使用にあたっては、該当製品の電子添文をご確認ください",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "50音から製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "フリーワードで製品を探す",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品一覧を見る",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品コード一覧",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお知らせ",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "大きくは、JPBU内の事業部を、地域密着の活動を通じて適正使用を推進し、事業基盤を支える第一事業部と、新製品および希少性の高い製品の適正使用を推進し、事業成長を支える第二事業部の2つに再編します",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "第一事業部はワクチンおよび既存製品の情報提供活動を、第二事業部は消化器系・炎症性疾患領域、精神神経疾患領域、希少疾患領域および血漿分画製剤における新製品・成長製品の情報提供活動を担います",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "各領域ごとに、お役立ていただける専門性の高いコンテンツの更新情報をご紹介しています",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "リアルワールドデータ（RWD）の基本情報やPersonal Health Record（PHR）の利活用に向けた取り組みを紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究や、疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "タケダが実施する臨床研究のデータ共有について紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "リアルワールドデータ（RWD）とは？その定義や種類から、RWDの活用方法の事例まで、知っておきたいRWDの基本情報と活用のポイントをご紹介します",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "リアルワールドデータ（RWD）を用いた研究とランダム化比較試験の違いから、RWDの重要性、実臨床における活用までをご紹介します",
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "pass": 1
+   },
+   {
+    "quote": "消化器系・炎症性疾患｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "消化器系・炎症性疾患｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "～潰瘍性大腸炎（UC）を対象とした４研究のご紹介～",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "〜IBD患者さんを対象とした3研究のご紹介〜",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "～IBD患者さんの自己効力感にフォーカスした2研究のご紹介～",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "pass": 1
+   },
+   {
+    "quote": "ニューロサイエンス｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "ニューロサイエンス｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "pass": 1
+   },
+   {
+    "quote": "オンコロジー｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "オンコロジー｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "オンコロジーメディカルアフェアーズ紹介動画",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのオンコロジーメディカルアフェアーズの、患者さんとオンコロジー領域の発展に向けた取り組みについて、ご紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "pass": 1
+   },
+   {
+    "quote": "希少疾患｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "希少疾患｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "pass": 1
+   },
+   {
+    "quote": "血漿分画製剤｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "血漿分画製剤｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "疾患に関する情報を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "pass": 1
+   },
+   {
+    "quote": "ワクチン｜研究活動紹介 メディカルアフェアーズ情報｜【公式】武田薬品 医療関係者向け情報 Takeda Medical site",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "患者さん向け服薬指導箋や、医療関係者向け製品情報資料をご紹介しております",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "ワクチン｜研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "研究活動紹介",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが実施または支援した研究を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "タケダのメディカルアフェアーズが作成に関与した論文（サポート、資金提供した試験を含む）を紹介しています",
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "pass": 1
+   },
+   {
+    "quote": "パートナーとともに、強固かつ多様なパイプラインを構築することで新たな治療選択肢をお届けし、患者さんの生活の質の向上に貢献できるよう活動しています",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "患者さんが待ち望む治療薬の開発を進め、パートナーとともに患者さんの体験を向上させ、治療の「当たり前」を塗り替えていきます",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア紹介 | 武田薬品",
+    "url": "https://www.takeda.com/jp/careers/oncology-career-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア紹介",
+    "url": "https://www.takeda.com/jp/careers/oncology-career-interview/",
+    "pass": 3
+   },
+   {
+    "quote": "# キャリア紹介",
+    "url": "https://www.takeda.com/jp/careers/oncology-career-interview/",
+    "pass": 3
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "2026年11月05日（木）12:30 ～ 13:50",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月06日（金）18:30 ～ 19:50",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日（火）12:30 ～ 13:50",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月12日（木）12:30 ～ 13:50",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日（火）18:30 ～ 19:30",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月13日（金）12:30 ～ 13:50",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月10日（火）18:30 ～ 20:00",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月19日（木）12:30 ～ 13:45",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月25日（水）18:30 ～ 19:35",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月15日",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月14日",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月01日",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年09月24日",
+    "url": "https://www.takedamed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2025年4月以降のジャパン ファーマ ビジネス ユニットの新たな組織体制について",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月21日",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月21日時点で、JPBUの全組織、日本のR&D部門で会社が指定する組織に所属している従業員",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年2月28日時点で、勤続年数が3年以上",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第3四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年1月28日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第4四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年5月13日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第2四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月29日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月15日 午前3時35分～午前4時10分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年度第1四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月30日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月4日 午前1時45分～午前2時15分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度第4四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年5月13日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月29日 午前9時30分～午前10時30分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月3日 午前3時10分～午前3時40分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度第3四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月29日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月13日 午前10時15分～午前10時55分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月19日 午後11時30分～午後11時55分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度第2四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月30日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月9日 午前4時20分～午前4時55分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月8日 午後8時30分～午後9時45分（日本時間）",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年度第1四半期決算",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "2025年7月30日",
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "pass": 3
+   },
+   {
+    "quote": "1925年（大正14年）1月29日",
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "pass": 3
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "JPBUではカスタマーフェイシングロール（顧客対応業務）を再定義し、Go-to-Marketモデルを強化すると同時に、本社を含むあらゆる業務において生産性・効率性を高めるための最適な体制を構築します",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "この新しい組織体制により、引き続き疾患領域別に専門性の高い情報提供活動を展開しながら事業部間の連携をより強化し、顧客体験の向上につなげます",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "多様な顧客に対する卓越した体験の提供を支える部門横断機能",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   },
+   {
+    "quote": "JPBU全体にわたり、バリューチェーンにおけるデータ、デジタル、テクノロジーとAIの活用をさらに推進し、各従業員がそれぞれの分野でデジタルを使いこなすことで顧客ニーズへの対応精度を高め、より多くの患者さんへの貢献につなげてまいります",
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 ビジネスモデル 図解2026】 武田薬品工業 の事業戦略を構造 ... — 【 ビジネスモデル 図解2026】 武田薬品工業 の事業戦略を構造 ... mindmeister.jp https://mindmeister.jp > posts > bm-takeda",
+    "url": "https://mindmeister.jp/posts/bm-takeda",
+    "pass": 3
+   },
+   {
+    "quote": "武田薬品工業 、創業240年の老舗企業が描く経営戦略を読み解く — 武田薬品工業 、創業240年の老舗企業が描く経営戦略を読み解く 日経ビジネス電子版 https://business.nikkei.com > テーマ別まとめ記事",
+    "url": "https://business.nikkei.com/atcl/gen/19/00081/091600255/",
+    "pass": 3
+   },
+   {
+    "quote": "武田薬品工業 [4502]：2025年3月期 決算 短信〔IFRS〕（連結 ... — 武田薬品工業 [4502]：2025年3月期 決算 短信〔IFRS〕（連結 ... 日本経済新聞 https://www.nikkei.com > nkd > disclosure > tdnr",
+    "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20250508533528/",
+    "pass": 3
+   },
+   {
+    "quote": "武田薬品工業社長 兼CEOのジュリー・キム氏 ニーズ満たす ... — 武田薬品工業社長 兼CEOのジュリー・キム氏 ニーズ満たす ... 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/785271",
+    "pass": 3
+   },
+   {
+    "quote": "長谷川閑史 武田薬品工業社長 ・国土交通省成長 ... - YouTube — 長谷川閑史 武田薬品工業社長 ・国土交通省成長 ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=kSa93DnRx3A",
+    "pass": 3
+   },
+   {
+    "quote": "武田薬品工業 ・クリストフ・ウェバー 社長 「モラルある組織で ... — 武田薬品工業 ・クリストフ・ウェバー 社長 「モラルある組織で ... 日経BP https://project.nikkeibp.co.jp > ESG > atcl > column",
+    "url": "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/080500065/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.takedamed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/code/314",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/7999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/7998",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/8070",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/8069",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/8009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/code/314",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/user/login?destination=/pdf/code/314",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/rwd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/gastrointestinal-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/neuroscience-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/oncology-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/rare-disease-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/plasma-derived-therapies-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/medical-affairs/vaccine-issue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/user/login?destination=/medical-affairs/other-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/7999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/user/login?destination=/pdf/news/7999",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/7998",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/user/login?destination=/pdf/news/7998",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.takedamed.com/login/popup?destination=/pdf/news/8070",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takedamed.com/user/login?destination=/pdf/news/8070",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda.com/jp/our-impact/our-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda.com/jp/investors/financial-results/quarterly-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda.com/jp/investors/events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda.com/jp/about/our-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeda.com/jp/science/research-and-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/785271",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.takeda.com/jp/careers/oncology-career-interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "武田薬品工業",
+   "results": [
+    "https://www.takeda.com/jp/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://www.nikkei.com/nkd/company/?scode=4502",
+    "https://www.takedamed.com/",
+    "https://kabutan.jp/stock/?code=4502",
+    "https://ja.wikipedia.org/wiki/武田薬品工業",
+    "https://finance.yahoo.co.jp/quote/4502.T",
+    "https://minkabu.jp/stock/4502",
+    "https://finance.yahoo.co.jp/quote/4502.T/profile",
+    "https://www.takeda.com/jp/about/our-company/"
+   ]
+  },
+  {
+   "query": "武田薬品工業 ビジネスモデル",
+   "results": [
+    "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "https://www.takeda.com/jp/our-impact/our-stories/",
+    "https://mindmeister.jp/posts/bm-takeda",
+    "https://business.nikkei.com/atcl/gen/19/00081/091600255/",
+    "https://www.takeda.com/jp/science/research-and-development/",
+    "https://note.com/kabuya66/n/nb8af84c04739",
+    "https://www.takeda.com/jp/about/our-company/history/",
+    "https://www.slalom.com/jp/ja/customer-stories/takeda-ai-native-innovation",
+    "https://careerforum.net/ja/company_list/2609/company_detail/",
+    "https://consovation.com/革新的なビジネスモデルと成長戦略で目指す武田/"
+   ]
+  },
+  {
+   "query": "武田薬品工業 決算説明資料",
+   "results": [
+    "https://www.takeda.com/jp/investors/financial-results/quarterly-results/",
+    "https://www.takeda.com/jp/investors/events/",
+    "https://www.takeda.com/jp/investors/overview/",
+    "https://www.takeda.com/jp/investors/financial-results/quarterly-results-2025/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250508533528/",
+    "https://www.takeda.com/jp/investors/financial-results/quarterly-results-2018/",
+    "https://www.buffett-code.com/company/4502/library",
+    "https://kitaishihon.com/company/4502/top",
+    "https://edinetdb.jp/company/E00919/presentations/",
+    "https://finance.yahoo.co.jp/quote/4502.T/financials"
+   ]
+  },
+  {
+   "query": "武田薬品工業 事業系統図",
+   "results": [
+    "https://www.takeda.com/jp/about/our-company/",
+    "https://www.takeda.com/jp/science/research-and-development/",
+    "https://www.takeda.com/jp/newsroom/local-newsreleases/2024/new-japan-pharma-business-unit-structure/",
+    "https://www.takeda.com/jp/investors/overview/",
+    "https://www.takeda.com/jp/about/digital/",
+    "https://ja.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E8%96%AC%E5%93%81%E5%B7%A5%E6%A5%AD",
+    "https://www.ey.com/ja_jp/insights/consulting/how-takeda-accelerated-the-financial-close-process-by-nearly-two-weeks",
+    "https://answers.and-pro.jp/pharmanews/30043/",
+    "https://www.businesswire.com/news/home/20250427020060/ja",
+    "https://ja.wikipedia.org/wiki/武田薬品工業"
+   ]
+  },
+  {
+   "query": "武田薬品工業 社長 インタビュー",
+   "results": [
+    "https://www.nikkan.co.jp/articles/view/785271",
+    "https://www.takeda.com/jp/careers/oncology-career-interview/",
+    "https://globe.asahi.com/article/13259481",
+    "https://www.youtube.com/watch?v=kSa93DnRx3A",
+    "https://project.nikkeibp.co.jp/ESG/atcl/column/00006/080500065/",
+    "https://cir.nii.ac.jp/crid/1520291855411026688",
+    "https://j-akademeia.jp/about/proposals/interview/4.html",
+    "https://iyakutsushinsha.com/2026/06/24/%E3%82%B8%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AD%E3%83%A0%E6%B0%8F%E3%81%8C%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E7%A4%BE%E9%95%B7ceo%E3%81%AB%E5%B0%B1%E4%BB%BB%E3%80%80%E6%AD%A6/",
+    "https://www.takeda.com/jp/investors/events/shareholder-letter-2026/",
+    "https://diamond.jp/articles/-/380206"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "ビジネスモデル": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "売上構成": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）",
+  "利益の源泉": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部8頁・検索5回）"
+ }
+}

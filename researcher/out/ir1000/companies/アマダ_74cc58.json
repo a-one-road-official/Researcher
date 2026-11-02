@@ -1,0 +1,1053 @@
+{
+ "name": "アマダ",
+ "aliases": [],
+ "context": "証券コード6113／機械／プライム（内国株式）／2026.03期 売上高437,372百万円 営業利益率10.2%",
+ "researched_at": "2026-11-02T21:02:54.935483+00:00",
+ "official_url": "https://www.amada.co.jp/",
+ "identified_by": "search:yahoo_jp:アマダ",
+ "profile": {
+  "設立": [
+   {
+    "label": "創業",
+    "value": "1946年9月10日",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "1948年5月1日",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "label": "創業期",
+    "value": "始まりは1台の旋盤から",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "9,872名（2026年3月現在、連結）",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業会社",
+    "value": "株式会社アマダマシナリー、株式会社アマダプレスシステム、株式会社エイチアンドエフ、ビアメカニクス株式会社 ※株式会社エイチアンドエフおよび子会社4社は2025年5月より当社の連結子会社および関連会社となりました。 ※ビアメカニクス株式会社および子会社9社は2025年7月より当社の連結子会社および関連会社となりました。",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "ビジネスモデル": [
+   {
+    "quote": "特長的なビジネスモデル、ソリューション事例、拠点を紹介します",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "「直販・直サービス」という特長的なビジネスモデルを確立しています",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 1
+   }
+  ],
+  "何を": [
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "特長的なビジネスモデル、ソリューション事例、拠点を紹介します",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ全体の商品を、目的別、材料別から検索いただけます",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップへ",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製品の改造について",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "金属や樹脂、セラミックなどを加工するさまざまな機械の開発・製造・販売・サービス（稼動保障）を行っています",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "また、加工機械を提供するだけでなく、周辺装置、制御、ソフトウエアなどを含めたトータルソリューションとして提供することで、お客さま工場の自動化やDXを推進し、モノづくりの発展に貢献しています",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの取締役会は、経営管理、研究・開発、生産、販売・サービスなどについてグローバルな視点で専門能力・知見を有する取締役と、独立した立場に基づき専門的見地から意見を述べ問題提起を行うことができる複数の社外取締役により構成されています",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "板金加工機械として商品化し、1971年のNCTに並ぶ技術革新を果たしました",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内の企業は、発振器の多くを世界シェアの過半を占める米国メーカーからの調達に頼っていましたが、自社製発振器を持つことで、コスト、納期、アフターサービスなどすべて自社で対応することが可能となりました",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリューション提案からサポートまで提供",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループは、お客さまの声を直接お聞きし、課題やニーズを解決する商品開発を行っています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "これらをエンジニアリングすることによってお客さまに最適なソリューションをご提案、ご提供しています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "これらのマシンをサポートする販売・サービス拠点を、日本国内に60カ所以上、海外に170カ所以上の拠点を設け、お客さまの安定稼働を支援しています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、アメリカやヨーロッパをはじめとした海外18拠点で現地生産を行うことで、より迅速でリスクの少ない商品供給体制を構築しています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの声を生かした商品・サービス",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループは、お客さまに直接商品を販売しメンテナンスなどのサービスを提供する「直販・直サービス」体制を敷いています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまとの対話を通じて集めたさまざまなニーズや課題を、新たな技術や商品の開発をはじめとした事業活動全体に生かしていくことで、継続的なイノベーションを実現しています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまに納得感と信頼感をもって安心して商品を導入していただくために、社員のエンジニアリング力の向上に努めています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "微細レーザ加工機（レーザマーカー）｜商品・ソリューション｜アマダ",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "販売・サービス",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "微細レーザ加工機（レーザマーカー）が使われる製品",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "システムソリューション",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダの商品、商品の修理・復旧、および企業活動についてのお問い合わせ窓口をご案内しております",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション トップ",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "商品・ソリューション",
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "開発・製造／販売・サービス拠点",
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "グループソリューション",
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "pass": 1
+   }
+  ],
+  "どうやって売るか": [
+   {
+    "quote": "世界のお客さまのモノづくりと人々の豊かな暮らしを支えるグループの強みを紹介します",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "特長的なビジネスモデル、ソリューション事例、拠点を紹介します",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループは、お客さまに直接商品を販売しメンテナンスなどのサービスを提供する「直販・直サービス」体制を敷いています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりのベストパートナーを目指す成長戦略",
+    "url": "https://www.amada.co.jp/ja/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーションを生み出すアマダの\"直販・直サービス\"",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "「直販・直サービス」という特長的なビジネスモデルを確立しています",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "先端技術が必要とされるシーンにおける、グループシナジーを活用したソリューション事例を紹介します",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "フェアのご紹介",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "フェアのご紹介",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   }
+  ],
+  "利益の源泉": [
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "世界のお客さまのモノづくりと人々の豊かな暮らしを支えるグループの強みを紹介します",
+    "url": "https://www.amada.co.jp/ja/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み｜企業情報｜アマダ",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまの多彩かつ高度な要望に応えることで培ってきた高いエンジニアリング力も、アマダグループの強みです",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/investor/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/stock_info/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "5つの強みの相乗効果で、確かな成長を実現します",
+    "url": "https://www.amada.co.jp/ja/ir/individual_investor/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/event/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/update/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/document/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/disclosure_policy/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/caution/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/cg/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/ir/siteuse/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/sustainability/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "アマダグループの強み",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 1
+   }
+  ],
+  "沿革": [
+   {
+    "quote": "1946年9月10日",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1948年5月1日",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "1960年には業界では珍しいトラックにマシンを積んでお客さまのところに出掛けるデモ・カー商法を採用し、お客さまから大好評を得ました",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年にはアメリカ シアトル市に技術開発会社を設立し、NCタレットパンチプレス（NCT）を開発",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2007年、現在の富士宮事業所内にレーザ専用工場を完成させました",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2010年には、機械メーカーとして初めてファイバーレーザ発振器を開発し、同発振器を搭載した加工機「FOL-3015AJ」を発表",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年2月、神奈川県伊勢原市の本社内に「アマダ・グローバルイノベーションセンター（AGIC）」をオープン",
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "pass": 1
+   },
+   {
+    "quote": "1971年にUSアマダを設立して以来グローバル化を進めており、現在は100以上の国と地域で約40万台のマシンが稼働しています",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "2024年には、技術教育の拠点として新たに「ATEC（アマダ・テクニカルエデュケーションセンター）」を開設",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月に連結子会社である株式会社アマダを合併により吸収し、株式会社アマダホールディングスから株式会社アマダに社名変更しています",
+    "url": "https://www.amada.co.jp/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2014年7月に1単元を1,000株から100株に引き下げました",
+    "url": "https://www.amada.co.jp/ja/ir/faq/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年に開催された国連気候変動枠組条約締約国会議（COP26）において、「2050年までに温室効果ガスの排出実質ゼロ（カーボンニュートラル）を実現する」という大きな目標が掲げられ、各国はその達成に向けて削減目標を設定しています",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：46%、さらに50%の高みに向けて挑戦",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：50～52%",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：55%",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：68%",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年目標：GDP当たり65%以上減、絶対量は減少に転じさせる",
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月1日～2026年10月31日",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月1日～2027年1月31日",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月1日～2027年1月31日",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月6日",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月1日以降の応募は受付を致しません",
+    "url": "https://www.amada.co.jp/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年6月1日～2026年10月31日",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月1日～2027年1月31日",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年12月1日～2027年1月31日",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2027年3月6日",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年11月1日以降の応募は受付を致しません",
+    "url": "https://www.amada.co.jp:443/fair/",
+    "pass": 1
+   }
+  ],
+  "売上構成": [
+   {
+    "quote": "セグメント別情報",
+    "url": "https://www.amada.co.jp/ja/ir/finance/",
+    "pass": 1
+   }
+  ],
+  "誰に": [
+   {
+    "quote": "最終的な投資決定はご利用者自身の判断において行われますようお願いいたします",
+    "url": "https://www.amada.co.jp/ja/ir/caution/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ビジネスモデル の進化に向け、DXの推進と人材育成を強化 — ビジネスモデル の進化に向け、DXの推進と人材育成を強化 アマダ PDF https://www.amada.co.jp > files > 2024/11",
+    "url": "https://www.amada.co.jp/files/2024/11/NR_241121_01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーション - アマダ — イノベーション - アマダ アマダ https://www.amada.co.jp > innovation",
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "pass": 3
+   },
+   {
+    "quote": "アマダ グループの強み｜企業情報 — アマダ グループの強み｜企業情報 アマダ https://www.amada.co.jp > corporate > strength",
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "pass": 3
+   },
+   {
+    "quote": "アマダ 、IoTで新 ビジネスモデル --工作機械の稼働状況を ... — アマダ 、IoTで新 ビジネスモデル --工作機械の稼働状況を ... ZDNET Japan https://japan.zdnet.com > 事例",
+    "url": "https://japan.zdnet.com/article/35106764/",
+    "pass": 3
+   },
+   {
+    "quote": "決算短信・ 決算説明 会 資料 | IR 資料 - アマダ — 決算短信・ 決算説明 会 資料 | IR 資料 - アマダ アマダ https://www.amada.co.jp > document > results",
+    "url": "https://www.amada.co.jp/ja/ir/document/results/",
+    "pass": 3
+   },
+   {
+    "quote": "株主・投資家の皆さまへ - アマダ — 株主・投資家の皆さまへ - アマダ アマダ https://www.amada.co.jp > ...",
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "pass": 3
+   },
+   {
+    "quote": "よくあるご質問 | 株主・投資家の皆さまへ - アマダ — よくあるご質問 | 株主・投資家の皆さまへ - アマダ アマダ https://www.amada.co.jp > faq",
+    "url": "https://www.amada.co.jp/ja/ir/faq/",
+    "pass": 3
+   },
+   {
+    "quote": "【 アマダ 】[6113] 決算 発表や業務・財務情報 | 日経電子版 — 【 アマダ 】[6113] 決算 発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=6113",
+    "pass": 3
+   },
+   {
+    "quote": "アマダ （6113）のIR情報・ 決算資料 - IRBANK — アマダ （6113）のIR情報・ 決算資料 - IRBANK IRBANK https://irbank.net > アマダ",
+    "url": "https://irbank.net/6113/ir",
+    "pass": 3
+   },
+   {
+    "quote": "主な 事業 会社｜企業情報 - アマダ — 主な 事業 会社｜企業情報 - アマダ アマダ https://www.amada.co.jp > corporate > group",
+    "url": "https://www.amada.co.jp/ja/corporate/group/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜企業情報 - アマダ — 会社概要｜企業情報 - アマダ アマダ https://www.amada.co.jp > corporate > profile",
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - アマダ — 企業情報 - アマダ アマダ https://www.amada.co.jp > corporate",
+    "url": "https://www.amada.co.jp/ja/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 アマダ プレスシステム — 会社概要 - 株式会社 アマダ プレスシステム 株式会社アマダプレスシステム https://www.amp.amada.co.jp > corporate > profile",
+    "url": "https://www.amp.amada.co.jp/ja/corporate/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "Growing Together with Our Customers - アマダ — Growing Together with Our Customers - アマダ アマダ PDF https://www.amada.co.jp > pdf > amada2023_all_a3",
+    "url": "https://www.amada.co.jp/pdf/ja/ir/document/annual/online/amada2023_all_a3.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社長 メッセージ | 経営方針 - アマダ — 社長 メッセージ | 経営方針 - アマダ アマダ https://www.amada.co.jp > investor > greeting",
+    "url": "https://www.amada.co.jp/ja/ir/investor/greeting/",
+    "pass": 3
+   },
+   {
+    "quote": "MF-TOKYO2023／ インタビュー （18） アマダ社長 ・山梨貴昭氏 — MF-TOKYO2023／ インタビュー （18） アマダ社長 ・山梨貴昭氏 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/679161",
+    "pass": 3
+   },
+   {
+    "quote": "【MF-TOKYO 2025】 アマダ に突撃 インタビュー ！ - YouTube — 【MF-TOKYO 2025】 アマダ に突撃 インタビュー ！ - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=iy-dNg3wAbU",
+    "pass": 3
+   },
+   {
+    "quote": "アマダ の歴代 社長 - The社史 — アマダ の歴代 社長 - The社史 The社史 https://the-shashi.com > アマダの歴史",
+    "url": "https://the-shashi.com/tse/6113/ceo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.amada.co.jp/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/corporate/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/corporate/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/corporate/library/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/corporate/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/products/laser_models/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/stock_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/individual_investor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/update/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/faq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/disclosure_policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/caution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/cg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/ir/siteuse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/sustainability/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/sustainability/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/ja/innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/fair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp:443/fair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amada.co.jp/fair/eng/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.amada.co.jp/files/2026/03/NR_260307_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amada.co.jp/files/2026/03/E_NR_260307_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.amada.co.jp/img/ja/products/laser_models/index/img_08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkan.co.jp/articles/view/679161",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アマダ",
+   "results": [
+    "https://www.amada.co.jp/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%80",
+    "https://www.amada.com/",
+    "https://www.instagram.com/amadajpn/",
+    "https://www.nikkei.com/nkd/company/?scode=6113",
+    "https://ja.wikipedia.org/wiki/アマダ",
+    "https://www.amada.co.jp/ja/corporate/profile/",
+    "https://www.sheetmetal.amada.co.jp/",
+    "https://www.amada.com/america/",
+    "https://www.amc.amada.co.jp/en/"
+   ]
+  },
+  {
+   "query": "アマダ ビジネスモデル",
+   "results": [
+    "https://www.amada.co.jp/files/2024/11/NR_241121_01.pdf",
+    "https://www.amada.co.jp/ja/innovation/",
+    "https://prtimes.jp/main/html/rd/p/000000039.000140940.html",
+    "https://www.amada.co.jp/ja/corporate/strength/",
+    "https://japan.zdnet.com/article/35106764/",
+    "https://www.amada.co.jp/pdf/ja/ir/document/annual/online/amada2023_all_a3.pdf",
+    "https://www.amada.co.jp/ja/sustainability/social/training/",
+    "https://seizougenba.com/node/13943",
+    "https://bizzine.jp/news/detail/11044",
+    "https://www.amada.co.jp/ja/ir/investor/medium_term/"
+   ]
+  },
+  {
+   "query": "アマダ 決算説明資料",
+   "results": [
+    "https://www.amada.co.jp/ja/ir/document/results/",
+    "https://www.amada.co.jp/ja/ir/",
+    "https://www.amada.co.jp/ja/ir/faq/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=6113",
+    "https://irbank.net/6113/ir",
+    "https://www.buffett-code.com/company/6113/library",
+    "https://www.amada.co.jp/ja/ir/investor/medium_term/",
+    "https://kitaishihon.com/company/6113/ir-library",
+    "https://edinetdb.jp/company/E01486/presentations/",
+    "https://finance.yahoo.co.jp/quote/6113.T/financials"
+   ]
+  },
+  {
+   "query": "アマダ 事業系統図",
+   "results": [
+    "https://www.amada.co.jp/ja/corporate/group/",
+    "https://www.amada.co.jp/ja/corporate/profile/",
+    "https://www.amada.co.jp/ja/corporate/",
+    "https://www.amp.amada.co.jp/ja/corporate/profile/",
+    "https://www.amada.co.jp/pdf/ja/ir/document/annual/online/amada2023_all_a3.pdf",
+    "https://www.amada.co.jp/ja/ir/finance/segment/",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%80",
+    "https://www.amada.co.jp/ja/sitemap/",
+    "https://www.amada.co.jp/ja/ir/investor/profile/",
+    "https://ja.wikipedia.org/wiki/アマダ"
+   ]
+  },
+  {
+   "query": "アマダ 社長 インタビュー",
+   "results": [
+    "https://www.amada.co.jp/ja/ir/investor/greeting/",
+    "https://www.nikkan.co.jp/articles/view/679161",
+    "https://www.youtube.com/watch?v=iy-dNg3wAbU",
+    "https://the-shashi.com/tse/6113/ceo/",
+    "https://www.machinist.co.jp/2023/03/18109/",
+    "https://www.amada.co.jp/ja/corporate/greeting/",
+    "https://kigyo-scope.jp/company/6113/ceo/",
+    "https://jobtalk.jp/companies/1946/answers/9044011",
+    "https://dcross.impress.co.jp/docs/usecase/004075.html",
+    "https://www.nikkan.co.jp/articles/view/795064"
+   ]
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部1頁・検索5回）",
+  "お金の形": "記載なし（3回確認済み：公式25頁／PDF・画像10件／外部1頁・検索5回）"
+ }
+}
